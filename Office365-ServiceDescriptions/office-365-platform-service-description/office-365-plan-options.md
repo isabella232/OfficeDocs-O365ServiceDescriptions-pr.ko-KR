@@ -17,12 +17,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 다양 한 조직의 요구를 가장 잘 충족 하는 계획에 사용할 수 있습니다.
-ms.openlocfilehash: fbfb6d712ca28f4f7839baef090a0786c4cb437a
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ddb665c12ddb1b8b7e0b6e5a7aae9599145a9d39
+ms.sourcegitcommit: 1544ec1e67bc1e56e89d5ec56cafb94d2eb51e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036522"
+ms.lasthandoff: 10/02/2018
+ms.locfileid: "25358655"
 ---
 # <a name="office-365-plan-options"></a>Office 365 계획 옵션
 
@@ -56,7 +56,7 @@ Microsoft Office 365는 다양 한 조직의 요구를 가장 잘 충족 하는 
 |Exchange Online  <br/> |<sup>6</sup> 예 <br/> |아니요  <br/> |Yes<sup>6</sup> <br/> |<sup>6</sup> 예 <br/> |Yes<sup>7</sup> <br/> |<sup>7</sup> 예 <br/> |<sup>9</sup> 예 <br/> |
 |SharePoint Online  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>5</sup> <br/> |
-|비즈니스용 Skype 온라인  <br/> |<sup>10</sup> 예 <br/> |아니요  <br/> |예<sup>10</sup> <br/> |<sup>10</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>13</sup> 예 <br/> |<sup>14</sup> 예 <br/> |
+|비즈니스 온라인 <sup>15</sup> 용 Skype <br/> |<sup>10</sup> 예 <br/> |아니요  <br/> |예<sup>10</sup> <br/> |<sup>10</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>13</sup> 예 <br/> |<sup>14</sup> 예 <br/> |
 |Office Online  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 응용 프로그램  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Project Online  <br/> |없음<sup>1</sup> <br/> |아니요  <br/> |아니요<sup>1</sup> <br/> |아니요<sup>1</sup> <br/> |아니요<sup>1</sup> <br/> |예<sup>1</sup> <br/> |없음<sup>1</sup> <br/> |
@@ -71,6 +71,7 @@ Microsoft Office 365는 다양 한 조직의 요구를 가장 잘 충족 하는 
 <br/><sup>9</sup> Exchange Online 키오스크가 포함됩니다. > 
 <br/><sup>10</sup> 기본 클라이언트 제한 사항이 있는 비즈니스용 Skype Online 계획 2가 포함됩니다. > <br/><sup>11</sup> 클라이언트 제한 사항이 없는 비즈니스용 Skype Online 계획 2가 포함됩니다. > <br/><sup>12</sup> 비즈니스용 Skype Online 계획 1과 추가 기능이 포함됩니다. > <br/><sup>13</sup> 음성이 지원되고 클라이언트 제한 사항이 없는 비즈니스용 Skype Online 계획 2가 포함됩니다. > 
 <br/><sup>14</sup> 비즈니스용 Skype Online 계획 1이 포함됩니다. 
+<br><sup>15</sup> Microsoft 팀은 이제는 기본 클라이언트 메시징, 회의 및 Office 365의 호출에 대 한입니다. 2018, 10 월 1, 500 제공할 때 개 이하인 새로운 Office 365 고객 Microsoft 팀에 onboarded 됩니다 시작과 비즈니스 Online 용 Skype에 액세스할 수 없게 됩니다. 테 넌 트 이미를 사용 하는 Skype 비즈니스 온라인 수 있게 됩니다 이렇게 하면 계속에 대 한 Microsoft 팀에 자신의 전환 완료 될 때까지 새 사용자를 프로 비전) (포함 하므로 합니다.
   
 #### <a name="basic-client-limitations"></a>기본 클라이언트 제한 사항
 

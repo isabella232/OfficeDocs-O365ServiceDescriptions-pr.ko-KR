@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 독립 실행형 계획 및 Office 365 Enterprise 계획에 대 한 SharePoint Online 상한값을 찾습니다.
-ms.openlocfilehash: af1916877f6da46af61034706d036125ba73d935
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 08d7319364ea39107fbe957f857b3df7f5d8866c
+ms.sourcegitcommit: fd9ad844e1812a80f28b9c0119519b0c5ad03004
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036447"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25359594"
 ---
-# <a name="sharepoint-online-limits"></a>SharePoint Online 제한
+# <a name="sharepoint-online-limits"></a>SharePoint Online 제한 사항
 
 독립 실행형 계획 및 Office 365 Enterprise 계획에 대 한 SharePoint Online 상한값을 찾습니다.
   
@@ -41,7 +41,7 @@ ms.locfileid: "24036447"
 ||||
 |:-----|:-----|:-----|
 |**기능** <br/> |**SharePoint Online 계획 1** <br/> |**SharePoint Online 계획 2** <br/> |
-|저장소<sup>1, 2</sup> <br/> |조직 당 1TB plus 라이선스당 0.5 g B<sup>3</sup> 구입 <br/> |조직 당 1TB plus 라이선스당 0.5 g B<sup>3</sup> 구입 <br/> |
+|저장소<sup>1, 2</sup> <br/> |조직 당 1TB plus 라이선스당 10GB 구입한<sup>3</sup> <br/> |조직 당 1TB plus 라이선스당 10GB 구입한<sup>3</sup> <br/> |
 |저장소의 용어  <br/> |200,000  <br/> |200,000  <br/> |
 |사이트 모음에 대 한 저장소  <br/> |위로 당 25 TB 사이트 모음이 나 그룹<sup>4</sup> <br/> |위로 당 25 TB 사이트 모음이 나 그룹<sup>4</sup> <br/> |
 |테 넌 트 당 사이트 모음  <br/> |조직<sup>5</sup> 당 500, 000 개 <br/> |조직<sup>5</sup> 당 500, 000 개 <br/> |
