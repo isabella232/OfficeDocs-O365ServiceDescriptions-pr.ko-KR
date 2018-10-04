@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 서비스 설명
+title: Microsoft 365 Business 서비스 설명
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 비즈니스에는 비즈니스 보호를 위해 고급 보안 및 장치 관리 기능을 가진 Office 365의 클래스에서 최고 생산성 모을 통합 된 솔루션입니다. . 이 서비스 설명에는 계획 옵션 및 기능에 설명 합니다. Office 365에 대 한 자세한 내용은 Office 365 서비스 설명을 참조 하십시오.
-ms.openlocfilehash: 31c558517247b51df4270035d682479ab3649f82
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 69dcfdf12f3398b5ff8be8f5b8d3a81701080a42
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036491"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362893"
 ---
-# <a name="microsoft-365-business-service-description"></a>Microsoft 365 서비스 설명
+# <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business 서비스 설명
 
 Microsoft 365 비즈니스에는 비즈니스 보호를 위해 고급 보안 및 장치 관리 기능을 가진 Office 365의 클래스에서 최고 생산성 모을 통합 된 솔루션입니다. . 이 서비스 설명에는 계획 옵션 및 기능에 설명 합니다. Office 365에 대 한 자세한 내용은 [Office 365 서비스 설명 ](office-365-service-descriptions-technet-library.md)참조 하세요.
   
@@ -51,7 +51,7 @@ Office 365 계획 별 기능 사용 가능 여부를 보려면 [Office 365 플�
 |Microsoft Planner  <br/> |예  <br/> |예  <br/> |
 |Microsoft PowerApps  <br/> |예  <br/> |예  <br/> |
 |Microsoft StaffHub  <br/> |예  <br/> |예  <br/> |
-|Microsoft Stream  <br/> |아니요  <br/> |예  <br/> |
+|Microsoft Stream  <br/> |<sup>19</sup> 예  <br/> |<sup>19</sup> 예  <br/> |
 |Microsoft Sway  <br/> |예  <br/> |예  <br/> |
 |Microsoft 팀의<sup>5</sup> <br/> |예  <br/> |예  <br/> |
 |Office Delve  <br/> |예  <br/> |예  <br/> |
@@ -96,7 +96,7 @@ Office 365 계획 별 기능 사용 가능 여부를 보려면 [Office 365 플�
 |Office 365 고급 eDiscovery<sup>15</sup> <br/> |아니요  <br/> |아니요  <br/> |
 |점수<sup>16</sup> 보안 <br/> |예  <br/> |예  <br/> |
 |위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |
-|[규정 준수 [ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[규정 준수[ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |SAS 70 / SSAE16 평가  <br/> |예  <br/> |예  <br/> |
 |ISO 27001 인증  <br/> |예  <br/> |예  <br/> |
 |EU 모델 조항  <br/> |예  <br/> |예  <br/> |
@@ -168,4 +168,5 @@ Office 365 계획 별 기능 사용 가능 여부를 보려면 [Office 365 플�
 <br/><sup>4</sup> azure 정보 보호 (AIP) 지원 되는 정보 권한 관리 (IRM) 기능을 사용할 수 있습니다. AIP 계획 1 Microsoft 365 비즈니스에 포함 됩니다. Microsoft 365 비즈니스의 일부 AIP 기능에 대 한 office 클라이언트 지원 여름 2018에서 사용 하도록 설정 됩니다.<br/><sup>5</sup> Microsoft 팀의 Microsoft 365 비즈니스 "," Office 365 비즈니스 Essentials "," Office 365 비즈니스 프리미엄 "및" Office 365 엔터프라이즈 (E1, E3, e 5, F1)에서 제공 됩니다. 아직 사용할 수 없는 Office 365 교육 계획 합니다.<br/><sup>6</sup> azure 정보 보호 (AIP) 지원 되는 정보 권한 관리 (IRM) 기능을 사용할 수 있습니다. AIP 계획 1 Microsoft 365 비즈니스에 포함 됩니다. Microsoft 365 비즈니스의 일부 AIP 기능에 대 한 office 클라이언트 지원 여름 2018에서 사용 하도록 설정 됩니다.<br/><sup>7</sup> 디렉터리 동기화를 활성화 하기 위한 azure AD 연결 도구는 Microsoft 365 비즈니스의 구성 요소는 Office 365 비즈니스 프리미엄에서 지원 됩니다. 그러나 때 Windows 관리 구성 요소를 사용할 수 있는 Microsoft 365 비즈니스에는 Azure AD 조인을 수행 해야 합니다. 온-프레미스 Active Directory 환경을 준비 하는 경우 도메인에 가입 된 장치를 사용 하 여 Azure AD에 참가 하려는 [장치를 가입 Azure AD 하이브리드 구성 하](https://docs.microsoft.com/en-us/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup)여이 수행할 수 있습니다.<br/><sup>8</sup> 로컬 Active Directory와 디렉터리 동기화를 사용할 경우 계정을 삭제 하거나 해야 로컬 Active Directory 대신 Office 365 포털 또는 Windows PowerShell 용 Azure Active Directory 모듈을 사용 하 여 사용 하 여 암호를 변경 합니다. 
 <br/><sup>9</sup> 클라우드 id에만 해당 합니다. [사용자가 Office 365에서 자신의 암호를 다시 설정할 수 있도록](https://go.microsoft.com/fwlink/?linkid=852917)참조 하십시오.<br/><sup>10</sup> 용어 할인 된를 구매한 단축 시트는 초기 종료 요금 적용 될 수 있습니다. 월별로 유료 구독에 대 한 적용 되지 않습니다.<br/><sup>11</sup> Microsoft 365 비즈니스 Exchange Online Archiving 구독을 포함합니다. 각 Exchange Online 보관 구독자는 처음 보관 사서함에 100GB 저장소를 받습니다. 보관 자동 확장 기능이 켜져은 추가 저장소 100GB 저장 용량에 도달 하면 자동으로 추가 됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=863320)를 참조 하십시오.<br/> <sup>12</sup> 데이터 손실 방지 기능은 여름 2018에서 Microsoft 365 비즈니스에서 사용할 수 있습니다. Microsoft 365 비즈니스의 일부 DLP 기능에 대 한 office 클라이언트 지원 여름 2018에서 사용 하도록 설정 됩니다.<br/><sup>13</sup> 여름 2018에서 Microsoft 365 비즈니스의 일부 ATP 기능에 대 한 office 클라이언트 지원을 활성화 됩니다. 
 <br/><sup>14</sup> 에 대 한 자세한 내용은 참조 [고객 키를 사용 하 여 Office 365에서 데이터를 제어](https://go.microsoft.com/fwlink/?linkid=863349)합니다. 
-<br/><sup>15</sup> 고급 eDiscovery는 미국, 대한민국 및 서유럽 (네덜란드) 영역에서 지원 됩니다. (미국, 대한민국에 캐나다 및 아시아 태평양의 고객 데이터를 내보냅니다. 유럽, 중동 및 아프리카의 고객 데이터를 내보냅니다 서유럽 [네덜란드].)<br/><sup>16</sup> 에서 사용할 수 있는 [https://securescore.office.com](https://securescore.office.com)합니다. 관리자 권한이 필요합니다. 자세한 내용은 [Office 365 보안 점수 소개 (영문)을](https://go.microsoft.com/fwlink/?linkid=863490)참조 하십시오.<br/><sup>17</sup> Windows 10 간체 장치 관리 Microsoft 365 비즈니스 콘솔에 기본 제공 합니다. IOS, Android, MacOS, 및 기본 제공 Azure 콘솔에도 Microsoft 365 비즈니스에 사용 하기 위한 사용이 허가 된 다른 교차 플랫폼 장치 관리에 대 한 전체 Intune 기능이 있습니다. 타사 응용 프로그램 및 구성 WiFi 프로필, VPN 인증서 등과 같은 항목의 전체 Intune 콘솔에서 관리할 수 있습니다.<br/><sup>18</sup> 이러한 기능 배포할 Microsoft 365 비즈니스 관리 센터를 점진적으로 향후 몇 개월 동안 합니다. 
+<br/><sup>15</sup> 고급 eDiscovery는 미국, 대한민국 및 서유럽 (네덜란드) 영역에서 지원 됩니다. (미국, 대한민국에 캐나다 및 아시아 태평양의 고객 데이터를 내보냅니다. 유럽, 중동 및 아프리카의 고객 데이터를 내보냅니다 서유럽 [네덜란드].)<br/><sup>16</sup> 에서 사용할 수 있는 [https://securescore.office.com](https://securescore.office.com)합니다. 관리자 권한이 필요합니다. 자세한 내용은 [Office 365 보안 점수 소개 (영문)을](https://go.microsoft.com/fwlink/?linkid=863490)참조 하십시오.<br/><sup>17</sup> Windows 10 간체 장치 관리 Microsoft 365 비즈니스 콘솔에 기본 제공 합니다. IOS, Android, MacOS, 및 기본 제공 Azure 콘솔에도 Microsoft 365 비즈니스에 사용 하기 위한 사용이 허가 된 다른 교차 플랫폼 장치 관리에 대 한 전체 Intune 기능이 있습니다. 타사 응용 프로그램 및 구성 WiFi 프로필, VPN 인증서 등과 같은 항목의 전체 Intune 콘솔에서 관리할 수 있습니다.<br/><sup>18</sup> 이러한 기능 배포할 Microsoft 365 비즈니스 관리 센터를 점진적으로 향후 몇 개월 동안 합니다. <br>
+<sup>19</sup> 이 계획 텍스트 할 필요가 없고, 상세 검색 및 얼굴 인식 하는 음성, 비디오 포털을 포함 하는 Microsoft 스트림 계획 2 함께 제공 됩니다.

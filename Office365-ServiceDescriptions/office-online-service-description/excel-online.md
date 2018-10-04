@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: 'Excel 온라인 (이전의: Excel Web App)에 웹 브라우저를 Microsoft Excel 환경을 여기에서 작업할 수 있습니다 통합 문서는 통합 문서 저장 된 웹사이트에서 직접 확장 합니다. 모든 Office 365 고객을 볼 수 있으며 유연 Office Online을 사용 하 여 Office 파일을 편집할 수 있습니다.'
-ms.openlocfilehash: daff8cabad339eec8d46703e4e081d607ec90fd5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 1cf8b3f9144a940b2e79958455c08fee2d1e7365
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036499"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362903"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -57,7 +57,7 @@ Excel Online에서 지원하는 파일 형식을 확인하려면 [지원되는 O
 ## <a name="apply-data-validation-to-cells"></a>셀에 데이터 유효성 적용
 <a name="bkmk_Applydatavalidationtocells"> </a>
 
-Excel Online에서는 사용할 수 없습니다. 데이터 유효성 검사와 같은 고급 기능은 Excel 데스크톱 응용 프로그램에서만 사용할 수 있습니다. 그러나 Excel Online에서 데이터 유효성 검사를 사용할 수 있도록 하면 이 기능을 보고 상호 작용할 수 있습니다. 자세한 내용은 [Excel 2013에서 셀에 유효성을 적용하는 방법](https://go.microsoft.com/fwlink/p/?LinkId=282328)을 참조하세요.
+이 기능은 Excel Online에서 사용할 수 있습니다. 기타 고급 기능을 Excel 데스크톱 응용 프로그램에서 사용할 수만 있습니다.
   
 ## <a name="apply-smartrecommended-formatting"></a>스마트/권장 서식 적용
 <a name="bkmk_Applysmartformatting"> </a>

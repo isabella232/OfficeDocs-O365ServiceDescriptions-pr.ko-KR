@@ -15,14 +15,20 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 비즈니스 기능에 대 한 특정 Skype 가져올 구입 해야 어떤 라이선스를 알고 있어야 하 시겠습니까? 비즈니스 라이선스 개요에 대 한 Skype를 참조 하십시오.
-ms.openlocfilehash: c1503762e792183a38b5f63e07c10889914f35df
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4b25d8b5b67e2c53acdb76530c15c16ea945f074
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036506"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362933"
 ---
 # <a name="skype-for-business-online-service-description"></a>비즈니스용 Skype Online 서비스 설명
+
+> [!NOTE]
+> 메시징, 회의 및 Office 365의 호출에 대 한 Microsoft 팀은 기본 클라이언트 이제입니다. 2018, 10 월 1, 500 제공할 때 개 이하인 새로운 Office 365 고객 Microsoft 팀에 onboarded 됩니다 시작과 비즈니스 Online 용 Skype에 액세스할 수 없게 됩니다. 테 넌 트 이미를 사용 하는 Skype 비즈니스 온라인 수 있게 됩니다 이렇게 하면 계속에 대 한 Microsoft 팀에 자신의 전환 완료 될 때까지 새 사용자를 프로 비전) (포함 하므로 합니다.
+
+> [!NOTE]
+> 년 10 월 10 일 이후로 판매에서 비즈니스 Online 계획 1에 대 한 Skype 사용 중지 되 고 되었습니다. 즉, 인스턴트 메시징, 현재 상태 및 피어-투-피어 음성 및 비디오에 대 한 1에 대 한 비즈니스 온라인 계획, Skype 취득 수 나타나지 않습니다. 이러한 기능 지원 계속 팀을 포함 하는 모든 Office 365 제공물에서 Office 365 f1 키를 포함 합니다. 현재 검색어의 끝에 계획을 문서화할 만료 되 면 이러한 기능에 대 한 액세스를 계속 해 서 하기 위해 해야 다른 계획으로 전환 합니다. 현재 할당 된 비즈니스 Online 계획 1에 대 한 Skype를가지고 있는 사용자를 위한 Office 365 F1 계획을 평가 하는 것이 좋습니다. 
 
  **비즈니스 기능에 대 한 특정 Skype 가져올 구입 해야 어떤 라이선스를 알고 있어야 하 시겠습니까? [Skype에 대 한 비즈니스 라이선스 개요를](https://go.microsoft.com/fwlink/?LinkID=799524)참조 하십시오.**
   

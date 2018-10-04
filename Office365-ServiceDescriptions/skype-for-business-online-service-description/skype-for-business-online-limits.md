@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 비즈니스 온라인 용 Skype의 제한은 다음과 같은 범주로 분류 됩니다.
-ms.openlocfilehash: 5b57270db1110d9d66624f975b049e2b47143bc7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ebab5138d22dc6776caa8f2b05715202c4504176
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036492"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362883"
 ---
 # <a name="skype-for-business-online-limits"></a>비즈니스용 Skype Online 제한
 
@@ -127,11 +127,11 @@ ms.locfileid: "24036492"
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|모임 콘텐츠 보존: 일회성 모임  <br/> |구성 가능한<sup>1</sup> <br/> |15일  <br/> |15일  <br/> |15일  <br/> |15일  <br/> |해당 없음  <br/> |
-|모임 콘텐츠 보존: 되풀이 모임  <br/> |구성 가능한<sup>1</sup> <br/> |15일  <br/> |15일  <br/> |15일  <br/> |15일  <br/> |해당 없음  <br/> |
+|모임 콘텐츠 보존: 일회성 모임  <br/> |구성 가능한<sup>1</sup> <br/> |14일  <br/> |14일  <br/> |14일  <br/> |14일  <br/> |해당 없음  <br/> |
+|모임 콘텐츠 보존: 되풀이 모임  <br/> |구성 가능한<sup>1</sup> <br/> |14일  <br/> |14일  <br/> |14일  <br/> |14일  <br/> |해당 없음  <br/> |
 |모임 콘텐츠 보존: 모임 시작 모임  <br/> |구성 가능한<sup>1</sup> <br/> |8시간  <br/> |8시간  <br/> |8시간  <br/> |8시간  <br/> |해당 없음  <br/> |
 |모임 만료: 일회성 모임  <br/> |종료 날짜 이후 365일 추가<sup>2</sup> <br/> |14일  <br/> |14일  <br/> |14일  <br/> |14일  <br/> |해당 없음  <br/> |
-|모임 만료: 되풀이 모임  <br/> |종료 날짜가 있는 경우: 종료 날짜 이후 365일 추가<sup>2</sup> <br/> 종료 날짜가 없는 경우: 마지막 회의 이후 6개월 추가<sup>3</sup> <br/> |14일  <br/> |14일  <br/> |14일  <br/> |14일  <br/> |해당 없음  <br/> |
+|모임 만료: 되풀이 모임  <br/> |종료 날짜가 있는 경우: 종료 날짜 이후 365일 추가<sup>2</sup> <br/> 종료 날짜 없이: 항상 액세스할 수 있는 경우 1/년<sup>3</sup> 업데이트 <br/> |14일  <br/> |14일  <br/> |14일  <br/> |14일  <br/> |해당 없음  <br/> |
 |모임 만료: 모임 시작 모임  <br/> |8시간  <br/> | 8시간  <br/> |8시간  <br/> |8시간  <br/> |8시간  <br/> |해당 없음  <br/> |
    
 > [!NOTE]
@@ -145,11 +145,11 @@ ms.locfileid: "24036492"
 |||||
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 1** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 2** <br/> |
-|모임 콘텐츠 보존: 일회성 모임  <br/> |구성 가능한<sup>1</sup> <br/> |해당 없음  <br/> |15일  <br/> |
-|모임 콘텐츠 보존: 되풀이 모임  <br/> |구성 가능한<sup>1</sup> <br/> |해당 없음  <br/> |15일  <br/> |
+|모임 콘텐츠 보존: 일회성 모임  <br/> |구성 가능한<sup>1</sup> <br/> |해당 없음  <br/> |14일  <br/> |
+|모임 콘텐츠 보존: 되풀이 모임  <br/> |구성 가능한<sup>1</sup> <br/> |해당 없음  <br/> |14일  <br/> |
 |모임 콘텐츠 보존: 모임 시작 모임  <br/> |구성 가능한<sup>1</sup> <br/> |해당 없음  <br/> |8시간  <br/> |
 |모임 만료: 일회성 모임  <br/> |종료 날짜 이후 365일 추가<sup>2</sup> <br/> |해당 없음  <br/> |14일  <br/> |
-|모임 만료: 되풀이 모임  <br/> |종료 날짜가 있는 경우: 종료 날짜 이후 365일 추가<sup>2</sup> <br/> 종료 날짜가 없는 경우: 마지막 회의 이후 6개월 추가<sup>3</sup> <br/> |해당 없음  <br/> |14일  <br/> |
+|모임 만료: 되풀이 모임  <br/> |종료 날짜가 있는 경우: 종료 날짜 이후 365일 추가<sup>2</sup> <br/> 종료 날짜 없이: 항상 액세스할 수 있는 경우 1/년<sup>3</sup> 업데이트 <br/> |해당 없음  <br/> |14일  <br/> |
 |모임 만료: 모임 시작 모임  <br/> |8시간  <br/> |해당 없음  <br/> |8시간  <br/> |
    
 > [!NOTE]

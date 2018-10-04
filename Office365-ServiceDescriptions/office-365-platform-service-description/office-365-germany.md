@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 독일 유럽에서 이미 제공 되는 Office 365 서비스에서 차별화 된 옵션을입니다. 유용한 데이터 residency와 독일, 유럽 연합 (EU) 및는 유럽 자유 무역 연결 (EFTA) 독일어 데이터에서 디지털 작업에 대 한 업계 최고의 생산성 서비스를 제공 하 여 가장 규제 고객의 요구를 센터 주소 정보를 제공합니다 독일 및 엄격한 데이터 액세스 제어에서 고유 데이터 트러스트를 받 모델을 통해 측정값 독일어 법에 따라 제어 됩니다.
-ms.openlocfilehash: ee91b0d097693488895e022641e92705c9b82e43
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f027174c203f2f370c442b2efa5d4a3513607bb1
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036586"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362963"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -24,7 +24,7 @@ Office 365 독일 유럽에서 이미 제공 되는 Office 365 서비스에서 �
   
 Deutsche Telekom의 독립적인 독일 회사이자 자회사인 T-Systems International의 데이터 트러스트를 받을 대상은 고객 데이터로의 실제 및 논리적 액세스를 제어합니다. 고객 데이터는 독일 법에 제어되는 데이터 트러스트를 받을 대상의 승인이나 감독 없이는 액세스할 수 없습니다. 
   
-Office 365 Germany의 고유한 특성으로 인해 일부 기능이 아직 활성화되지 않았습니다. 고객은 시간에 따라 글로벌 서비스를 포함하는 전체 기능 패리티에 근접한 서비스를 확인할 수 있습니다. 포함된 내용과 지원받는 방법에 대한 개요는 [Office 365 Germany에 대한 자세한 정보](https://support.office.com/en-us/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조하세요.
+고객의 요구 사항에 이러한 변화에 따라, 통해 클라우드 전략 독일을 중점적으로 사용해 글로벌 클라우드과 일관성이 있는 독일의 새로운 클라우드 지역 배달 제공 합니다. 이 포커스와 함께 더이상 새로운 고객을 수락 되거나 될 현재 사용할 수 있는 Microsoft 클라우드 독일에서 새로운 모든 서비스를 배포 합니다. 기존 고객 계속 제공 되는 현재 클라우드 서비스 오늘날 필요한 보안 업데이트와 유지 하는 사용할 수 있습니다. [Office 365 독일에 알아봅니다](https://support.office.com/en-us/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
   
 ## <a name="service-availability-for-each-plan"></a>각 계획의 서비스 가용성
 
@@ -85,7 +85,7 @@ Office 365 독일 Office 365의 클라우드 보안 및 규정 준수 표준을 
 |Microsoft StaffHub<sup>9</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Microsoft 영향<sup>9</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Microsoft 팀  <br/> |<sup>9</sup> 없음 <br/> |아니요  <br/> |<sup>9</sup> 없음 <br/> |아니요  <br/> |<sup>9</sup> 없음 <br/> |<sup>9</sup> 없음 <br/> |<sup>9</sup> 없음 <br/> |아니요  <br/> |
-|Office Delve<sup>9</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|Office Delve<sup></sup> <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Office 365 그룹  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365 비디오  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |**[사용자 계정 관리](user-account-management.md)** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E1** <br/> |**Office 365 Germany Enterprise E3** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
@@ -265,7 +265,8 @@ Office 365 독일 Office 365의 클라우드 보안 및 규정 준수 표준을 
 |[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |Android<sup>11</sup> 에 대 한 outlook <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|**기업 가치** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office 365 ProPlus** <br/> |
+|**기업 가치** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |
+  **Office 365 ProPlus** <br/> |
 |PC 또는 Mac에서 사용자당 5건의 동시 설치 지원  <br/> |아니요  <br/> |예  <br/> |<sup>8</sup> 예 <br/> |
 |사용자 계정 자동 구축  <br/> |해당 없음  <br/> |예  <br/> |예  <br/> |
 |다국어 사용자 인터페이스  <br/> |예  <br/> |예  <br/> |예  <br/> |

@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365는 다양 한 조직의 요구를 가장 잘 충족 하는 계획에 사용할 수 있습니다. Exchange Online 계획을 포함 하 여 Office 365 계획, 간의 차이점에 대 한 찾는 경우이 문서 안내해 기능을 쿼리하고 각에 포함 됩니다.
-ms.openlocfilehash: afde2b08f7df511b961e607ce2727f74e30697f5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: aababb56a4202d0358fbf01601e2d43f7ac92df3
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036514"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362863"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 플랫폼 서비스 설명
 
@@ -105,7 +105,7 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 |Microsoft Planner  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Microsoft PowerApps  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |<sup>13</sup> 예 <br/> |
 |Microsoft StaffHub  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft Stream  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |<sup>18</sup> 예 <br/> |
+|Microsoft Stream  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |<sup>18</sup> 예 <br/> |
 |Microsoft Sway  <br/> |예  <br/> |예  <br/> |예  <br/> |<sup>8</sup> 예 <br/> |<sup>8</sup> 예 <br/> |<sup>8</sup> 예 <br/> |<sup>8</sup> 예 <br/> |
 |Microsoft 팀<sup>10</sup> <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |<sup>12</sup> 예 <br/> |
 |Office Delve  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
@@ -190,7 +190,7 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 |Office 365 고급 eDiscovery<sup>17</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |보안 점수<sup>7</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|**[규정 준수 [ServiceDesc]](compliance-servicedesc.md)** <br/> ||||||||
+|**[규정 준수[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||||||
 |SAS 70 / SSAE16 평가  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |ISO 27001 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |EU 모델 조항  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |

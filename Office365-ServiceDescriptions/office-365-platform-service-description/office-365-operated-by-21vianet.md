@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영하는 Office 365는 중국의 안전하고 안정적이며 확장 가능한 클라우드 서비스에 대한 요구를 충족하도록 설계되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: 2e8342ddbc1601fabffd6713f30bd341b2097ef2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: b0ad00866bb1ec41d33e1c855765f7153d0679ce
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036605"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362953"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -46,12 +46,12 @@ Microsoft에서는 이 서비스 자체를 운영하지 않습니다. 21Vianet�
 |Office 365 플랫폼<sup>1</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange Online  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |SharePoint Online  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <br/> |
 |비즈니스용 Skype 온라인  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office Online  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365 ProPlus  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |Project Online<sup>2</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Power BI  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Power BI  <br/> |아니요 <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |아니요  <br/> |아니요 <br/> |아니요 <br/> |
 |Visio Online<sup>3</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Yammer Enterprise  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Azure Information Protection  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
@@ -176,7 +176,7 @@ Office 365 보안 &amp; 준수 센터는 21Vianet에서 운영 하는 Office 365
 |Office 365 고급 eDiscovery  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |보안 점수<sup>4</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|**[규정 준수 [ServiceDesc]](compliance-servicedesc.md)** <br/> ||||||||
+|**[규정 준수[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||||||
 |SAS 70 / SSAE16 평가  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |ISO 27001 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |EU 모델 조항  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
@@ -689,7 +689,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |[필터 검색](../sharepoint-online-service-description/insights.md#filter-search) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |[PerformancePoint Services](../sharepoint-online-service-description/insights.md#performancepoint-services) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |PPS(PerformancePoint Services) 대시보드 마이그레이션 <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|Power BI  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Power BI  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[SharePoint의 Excel용 Power View](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[SharePoint의 Excel용 Power Pivot](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[빠른 탐색](../sharepoint-online-service-description/insights.md#quick-explore) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |

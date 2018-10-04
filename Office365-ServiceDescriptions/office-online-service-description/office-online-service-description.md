@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: 'Office Online (이전의: Office Web Apps)가 Word, Excel, OneNote 및 PowerPoint 문서를 웹 브라우저에서 열립니다. Office Online을 통해 쉽게를 사용 하 고 어디에서 든 지 Office 파일을 공유 하는 거의 모든 장치에서 인터넷 연결을 사용 합니다. Microsoft Office 365 고객 Word, Excel, OneNote, 또는 PowerPoint에 보고 하 고, 작성 하 고 이동 중에 파일을 편집할 수 있습니다.'
-ms.openlocfilehash: 31b412fb86ffb48cc14b8aacfbae281a124907ae
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: e3127ec7d65821ed45bf4c513d3715ee115d8714
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036645"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362873"
 ---
 # <a name="office-online-service-description"></a>Office Online 서비스 설명
 
@@ -123,7 +123,7 @@ Office Online (이전의: Office Web Apps)가 Word, Excel, OneNote 및 PowerPoin
 |[고급 시간 필터링(시간 표시줄 슬라이서)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |아니요  <br/> |예  <br/> |
 |[맞춤](excel-online.md#alignment) <br/> |예  <br/> |예  <br/> |
 |[조건부 서식 적용](excel-online.md#apply-conditional-formatting) <br/> |아니요  <br/> |예  <br/> |
-|[셀에 데이터 유효성 적용](excel-online.md#apply-data-validation-to-cells) <br/> |아니요  <br/> |예  <br/> |
+|[셀에 데이터 유효성 적용](excel-online.md#apply-data-validation-to-cells) <br/> |예  <br/> |예  <br/> |
 |[스마트/권장 서식 적용](excel-online.md#apply-smartrecommended-formatting) <br/> |아니요  <br/> |예  <br/> |
 |[오디오 노트 기록](onenote-online.md#audio-notes-recording) <br/> |아니요  <br/> |예  <br/> |
 |[자동 완성](excel-online.md#autocomplete) <br/> |예  <br/> |예  <br/> |
