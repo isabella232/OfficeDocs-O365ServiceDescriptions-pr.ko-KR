@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 독일 유럽에서 이미 제공 되는 Office 365 서비스에서 차별화 된 옵션을입니다. 유용한 데이터 residency와 독일, 유럽 연합 (EU) 및는 유럽 자유 무역 연결 (EFTA) 독일어 데이터에서 디지털 작업에 대 한 업계 최고의 생산성 서비스를 제공 하 여 가장 규제 고객의 요구를 센터 주소 정보를 제공합니다 독일 및 엄격한 데이터 액세스 제어에서 고유 데이터 트러스트를 받 모델을 통해 측정값 독일어 법에 따라 제어 됩니다.
-ms.openlocfilehash: 1b3de84245762fafed85ed1e37fc03207e51766d
-ms.sourcegitcommit: 88bc607a51846db46509c4453c3438406f3f2f54
+ms.openlocfilehash: 1e51cfe53876e848519f154384611fef06847607
+ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/04/2018
-ms.locfileid: "25407691"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "25435846"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -74,7 +74,7 @@ Office 365 독일 Office 365의 클라우드 보안 및 규정 준수 표준을 
 |**기능** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E1** <br/> |**Office 365 Germany Enterprise E3** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
 |**[Office 365 관리 기능](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> |||||||||
 |Office 365 관리 센터 또는 Windows PowerShell을 사용하여 Office 365 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Azure Information Protection을 사용하여 콘텐츠 보호  <br/> |없음<sup>2</sup> <br/> |없음<sup>2</sup> <br/> |없음<sup>2</sup> <br/> |없음<sup>2</sup> <br/> |없음<sup>2</sup> <br/> |<sup>9</sup> 없음 <br/> |<sup>9</sup> 없음 <br/> |없음<sup>2</sup> <br/> |
+|Azure Information Protection을 사용하여 콘텐츠 보호  <br/> |없음<sup>2</sup> <br/> |없음<sup>2</sup> <br/> |없음<sup>2</sup> <br/> |없음<sup>2</sup> <br/> |없음<sup>2</sup> <br/> |아니요 <br/> |아니요 <br/> |없음<sup>2</sup> <br/> |
 |**[Office 365 제품군 기능](office-365-suite-features.md)** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E1** <br/> |**Office 365 Germany Enterprise E3** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
 |Microsoft Bookings  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Microsoft Flow  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
@@ -161,7 +161,7 @@ Office 365 독일 Office 365의 클라우드 보안 및 규정 준수 표준을 
 |Customer Lockbox  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |Office 365 고급 eDiscovery  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |보안 점수 <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|**[규정 준수 [ServiceDesc]](compliance-servicedesc.md)** <sup>10</sup> <br/> |||||||||
+|**[규정 준수 [ServiceDesc]](compliance-servicedesc.md)** <sup>9</sup>  <br/> |||||||||
 |SAS 70 / SSAE16 평가  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |ISO 27001 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |EU 모델 조항  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -180,7 +180,7 @@ Office 365 독일 Office 365의 클라우드 보안 및 규정 준수 표준을 
 |**[제품 사용권](product-use-rights.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> office 365 독일 않습니다는 제조업체에서 지원 하지 않는 모든 운영 체제에 대 한 지원을 제공 하지 않습니다. > <sup>2</sup> azure 정보 보호는 포함 되어있지 않지만 별도 추가 기능으로 구입할 수 있습니다 및 지원 되는 정보 권한 관리 (IRM) 기능을 사용 하는 합니다. 일부 Azure 정보 보호 기능을 사용 하려면 Office 365 ProPlus, Office 365 독일 비즈니스 Essentials, Office 365 독일 프리미엄, Office 365 독일 Enterprise E1, Office 365 독일 교육 a 1에 포함 하지 않으면 하는 구독 또는 Office 365 독일 Enterprise K1 합니다. > <sup>3</sup> 로컬 Active Directory와 디렉터리 동기화를 사용 하는 경우를 삭제 해야 계정 또는 암호 변경 로컬 Active Directory 대신 Office 365 포털 또는 windows Azure Active Directory 모듈을 사용 하 여 사용 하 여 PowerShell 합니다. > [Azure AD에 대 한 암호 관리](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)를 참조 하는 <sup>4</sup> 를 사용자에 대 한 셀프서비스 암호 관리 정책을 설정 하는 방법에 알아봅니다. > 용어 할인 된를 구매한 <sup>5</sup> 단축 시트는 초기 종료 요금 적용 될 수 있습니다. 월별로 유료 구독에는 적용 되지 않습니다. > <sup>6</sup> office 365 독일 교육 A1 계획은 Office 365 관리 센터에서 라이선스 명 변경 내용을 지원 하지 않습니다. > <sup>7</sup> 예: Office 365 ProPlus Office 2016 및 Office 2013 클라이언트 소프트웨어 응용 프로그램을 사용 하 여 오른쪽 일부 Office 365 독일 계획에 포함 됩니다. 클라이언트 소프트웨어 응용 프로그램에는 최종 사용자의 장치에서 아니라 독일의 데이터 센터에서 실행합니다. 목적으로 서 Microsoft와 계약 내용에 대 한 클라이언트 소프트웨어 응용 프로그램은 [독일어 온라인 서비스](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)하지 않습니다. 또한 클라이언트 소프트웨어 응용 프로그램 독일어 온라인 서비스 되지 않은 온라인 서비스에 액세스 하는 최종 사용자를 설정할 수 있습니다. 독일어 데이터 residency 확정 및 독일어 데이터 트러스트를 받 하 여 액세스 제어 독일어 온라인 서비스에만 적용 됩니다. > Office 365 독일에 사용 하기 위한 <sup>8</sup>[현대 인증](https://support.office.com/en-us/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) 을 사용 해야 합니다. > Office 365 독일에 대 한 <sup>9</sup> 미래 가용성 계획 합니다. > <sup>10</sup> office 365 독일은 Office 365의 클라우드 보안 및 규정 준수 표준 준수에서 기본 제공 합니다. Office 365 독립적으로 하지 공인된 감사 자가 일부분으로 평가 SOC, ISO 및 감사 인증의 포괄적인 집합을 제공 합니다. ISO 27001/27002, 27017, 27018 및 SOC 1를 포함 하는 인증 &amp; 2 인증 합니다. Office 365 독일의 추가 데이터 트러스트를 받을 컨트롤에서는 연간 ISO 및 SOC 감사의 일부로 독립 assessors 하 여 평가 되지 것입니다. 
+> <sup>1</sup> office 365 독일 않습니다는 제조업체에서 지원 하지 않는 모든 운영 체제에 대 한 지원을 제공 하지 않습니다. > <sup>2</sup> azure 정보 보호는 포함 되어있지 않지만 별도 추가 기능으로 구입할 수 있습니다 및 지원 되는 정보 권한 관리 (IRM) 기능을 사용 하는 합니다. 일부 Azure 정보 보호 기능을 사용 하려면 Office 365 ProPlus, Office 365 독일 비즈니스 Essentials, Office 365 독일 프리미엄, Office 365 독일 Enterprise E1, Office 365 독일 교육 a 1에 포함 하지 않으면 하는 구독 또는 Office 365 독일 Enterprise K1 합니다. > <sup>3</sup> 로컬 Active Directory와 디렉터리 동기화를 사용 하는 경우를 삭제 해야 계정 또는 암호 변경 로컬 Active Directory 대신 Office 365 포털 또는 windows Azure Active Directory 모듈을 사용 하 여 사용 하 여 PowerShell 합니다. > [Azure AD에 대 한 암호 관리](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)를 참조 하는 <sup>4</sup> 를 사용자에 대 한 셀프서비스 암호 관리 정책을 설정 하는 방법에 알아봅니다. > 용어 할인 된를 구매한 <sup>5</sup> 단축 시트는 초기 종료 요금 적용 될 수 있습니다. 월별로 유료 구독에는 적용 되지 않습니다. > <sup>6</sup> office 365 독일 교육 A1 계획은 Office 365 관리 센터에서 라이선스 명 변경 내용을 지원 하지 않습니다. > <sup>7</sup> 예: Office 365 ProPlus Office 2016 및 Office 2013 클라이언트 소프트웨어 응용 프로그램을 사용 하 여 오른쪽 일부 Office 365 독일 계획에 포함 됩니다. 클라이언트 소프트웨어 응용 프로그램에는 최종 사용자의 장치에서 아니라 독일의 데이터 센터에서 실행합니다. 목적으로 서 Microsoft와 계약 내용에 대 한 클라이언트 소프트웨어 응용 프로그램은 [독일어 온라인 서비스](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)하지 않습니다. 또한 클라이언트 소프트웨어 응용 프로그램 독일어 온라인 서비스 되지 않은 온라인 서비스에 액세스 하는 최종 사용자를 설정할 수 있습니다. 독일어 데이터 residency 확정 및 독일어 데이터 트러스트를 받 하 여 액세스 제어 독일어 온라인 서비스에만 적용 됩니다. > Office 365 독일에 사용 하기 위한 <sup>8</sup>[현대 인증](https://support.office.com/en-us/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) 을 사용 해야 합니다. > <sup>9</sup> office 365 독일은 Office 365의 클라우드 보안 및 규정 준수 표준 준수에서 기본 제공 합니다. Office 365 독립적으로 하지 공인된 감사 자가 일부분으로 평가 SOC, ISO 및 감사 인증의 포괄적인 집합을 제공 합니다. ISO 27001/27002, 27017, 27018 및 SOC 1를 포함 하는 인증 &amp; 2 인증 합니다. Office 365 독일의 추가 데이터 트러스트를 받을 컨트롤에서는 연간 ISO 및 SOC 감사의 일부로 독립 assessors 하 여 평가 되지 것입니다. 
   
 ## <a name="office-application-features"></a>Office 응용 프로그램 기능
 <a name="BM1_Platform"> </a>

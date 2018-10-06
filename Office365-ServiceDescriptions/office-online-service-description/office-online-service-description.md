@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: 'Office Online (이전의: Office Web Apps)가 Word, Excel, OneNote 및 PowerPoint 문서를 웹 브라우저에서 열립니다. Office Online을 통해 쉽게를 사용 하 고 어디에서 든 지 Office 파일을 공유 하는 거의 모든 장치에서 인터넷 연결을 사용 합니다. Microsoft Office 365 고객 Word, Excel, OneNote, 또는 PowerPoint에 보고 하 고, 작성 하 고 이동 중에 파일을 편집할 수 있습니다.'
-ms.openlocfilehash: e3127ec7d65821ed45bf4c513d3715ee115d8714
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 23eb27211f6225ec0e6b70b3993356cec693adc9
+ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362873"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "25435826"
 ---
 # <a name="office-online-service-description"></a>Office Online 서비스 설명
 
@@ -119,24 +119,22 @@ Office Online (이전의: Office Web Apps)가 Word, Excel, OneNote 및 PowerPoin
 ||||
 |:-----|:-----|:-----|
 |**응용 프로그램 기능** <br/> |**Excel Online** <br/> |**Excel 데스크톱 응용 프로그램** <br/> |
+|[접근성 검사](excel-online.md#add-hyperlinks) <br/> |예  <br/> |예  <br/> |
 |[하이퍼링크 추가](excel-online.md#add-hyperlinks) <br/> |예  <br/> |예  <br/> |
 |[고급 시간 필터링(시간 표시줄 슬라이서)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |아니요  <br/> |예  <br/> |
 |[맞춤](excel-online.md#alignment) <br/> |예  <br/> |예  <br/> |
-|[조건부 서식 적용](excel-online.md#apply-conditional-formatting) <br/> |아니요  <br/> |예  <br/> |
-|[셀에 데이터 유효성 적용](excel-online.md#apply-data-validation-to-cells) <br/> |예  <br/> |예  <br/> |
+|[조건부 서식 적용](excel-online.md#apply-conditional-formatting) <br/> |예  <br/> |예  <br/> |
 |[스마트/권장 서식 적용](excel-online.md#apply-smartrecommended-formatting) <br/> |아니요  <br/> |예  <br/> |
 |[오디오 노트 기록](onenote-online.md#audio-notes-recording) <br/> |아니요  <br/> |예  <br/> |
 |[자동 완성](excel-online.md#autocomplete) <br/> |예  <br/> |예  <br/> |
 |[자동 합계](excel-online.md#autosum) <br/> |예  <br/> |예  <br/> |
 |[계산](excel-online.md#calculations) <br/> |예  <br/> |예  <br/> |
-|[피벗 차트 및 피벗 테이블 보고서를 포함하는 차트 및 테이블](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |예<sup>1, 2</sup> <br/> |예  <br/> |
-|[차트 애니메이션에 새 데이터 적용](excel-online.md#chart-animations-adapt-to-new-data) <br/> |아니요  <br/> |예  <br/> |
 |[메모 만들기](excel-online.md#comment-creation) <br/> |예  <br/> |예  <br/> |
 |[복사 및 붙여넣기](excel-online.md#copy-and-paste) <br/> |예  <br/> |예  <br/> |
-|[외부 데이터 연결 만들기](excel-online.md#create-external-data-connections) <br/> |없음<sup>3</sup> <br/> |예  <br/> |
+|[외부 데이터 연결<sup>2</sup> 만들기](excel-online.md#create-external-data-connections) <br/> |없음<sup>3</sup> <br/> |예  <br/> |
 |[테이블 만들기](excel-online.md#create-tables) <br/> |예  <br/> |예  <br/> |
 |[고급 분석 보기 만들기(Power View, Power Pivot, 슬라이서)](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |아니요  <br/> |예  <br/> |
-|[데이터 유효성 검사](excel-online.md#data-validation) <br/> |예<sup>4</sup> <br/> |예  <br/> |
+|[데이터 유효성 검사](excel-online.md#data-validation) <br/> |예 <br/> |예  <br/> |
 |[셀 끌어서 놓기](excel-online.md#drag-and-drop-cells) <br/> |예  <br/> |예  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |예  <br/> |예  <br/> |
 |[웹 또는 블로그 페이지에 통합 문서 포함(OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |예  <br/> |아니요  <br/> |
@@ -146,17 +144,20 @@ Office Online (이전의: Office Web Apps)가 Word, Excel, OneNote 및 PowerPoin
 |[글꼴 및 셀 서식](excel-online.md#font-and-cell-formatting) <br/> |예  <br/> |예  <br/> |
 |[수식 입력줄](excel-online.md#formula-bar) <br/> |예  <br/> |예  <br/> |
 |[수식 도구 - 고급](excel-online.md#formula-tools--advanced) <br/> |아니요  <br/> |예  <br/> |
-|[창 고정](excel-online.md#freeze-panes) <br/> |<sup>6</sup> 없음 <br/> |예  <br/> |
+|[창 고정](excel-online.md#freeze-panes) <br/> |예 <br/> |예  <br/> |
 |[고화질 읽기용 보기](excel-online.md#full-fidelity-reading-view) <br/> |예  <br/> |예  <br/> |
 |[함수](excel-online.md#functions) <br/> |예  <br/> |예  <br/> |
 |[GoTo](excel-online.md#goto) <br/> |예  <br/> |예  <br/> |
 |[행, 열 및 시트 숨기기/숨기기 취소](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |예  <br/> |예  <br/> |
+|[도형/그림 삽입](excel-online.md#insert-charts) <br/> |예  <br/> |예  <br/> |
 |[차트 삽입](excel-online.md#insert-charts) <br/> |예  <br/> |예  <br/> |
 |[행과 열 삽입/삭제](excel-online.md#insertdelete-rows-and-columns) <br/> |예  <br/> |예  <br/> |
 |[셀 병합](excel-online.md#merge-cells) <br/> |예  <br/> |예  <br/> |
 |[숫자 서식](excel-online.md#number-formatting) <br/> |예  <br/> |예  <br/> |
-|[Office 추가 기능](excel-online.md#office-add-ins) <br/> |<sup>7</sup> 예 <br/> |예  <br/> |
+|[Office 추가 기능](excel-online.md#office-add-ins) <br/> |예 <br/> |예  <br/> |
 |[오프라인으로 보기 및 작성](excel-online.md#offline-viewing-and-authoring) <br/> |아니요  <br/> |예  <br/> |
+|[피벗 차트](excel-online.md#post-to-social-network-and-present-online) <br/> |예<sup>1</sup>  <br/> |예  <br/> |
+|[피벗 테이블](excel-online.md#post-to-social-network-and-present-online) <br/> |예  <br/> |예  <br/> |
 |[소셜 네트워크에 게시 및 온라인 유지](excel-online.md#post-to-social-network-and-present-online) <br/> |아니요  <br/> |예  <br/> |
 |[Power Pivot 보기](excel-online.md#power-pivot-viewing) <br/> |예  <br/> |예  <br/> |
 |[Power View 보기](excel-online.md#power-view-viewing) <br/> |예  <br/> |예  <br/> |
@@ -176,14 +177,15 @@ Office Online (이전의: Office Web Apps)가 Word, Excel, OneNote 및 PowerPoin
 |[스프레드시트 감사 및 준수](excel-online.md#spreadsheet-audit-and-compliance) <br/> |아니요  <br/> |예  <br/> |
 |[상태 표시줄 집계 기능](excel-online.md#status-bar-aggregates) <br/> |예  <br/> |예  <br/> |
 |[설문 조사](excel-online.md#surveys) <br/> |예  <br/> |아니요  <br/> |
-|[알림](excel-online.md#tell-me) <br/> |예  <br/> |아니요  <br/> |
+|[알림](excel-online.md#tell-me) <br/> |예  <br/> |예  <br/> |
 |[실행 취소 및 다시 실행](excel-online.md#undo-and-redo) <br/> |예  <br/> |예  <br/> |
-|[VBA 및 매크로 스크립팅](excel-online.md#vba-and-macro-scripting) <br/> |예  <br/> |예  <br/> |
+|[VBA 및 매크로 스크립팅](excel-online.md#vba-and-macro-scripting) <br/> |예<sup>3</sup>  <br/> |예  <br/> |
 |[3D 차트 보기](excel-online.md#view-3d-charts) <br/> |예  <br/> |예  <br/> |
 |[What if 분석 도구](excel-online.md#what-if-analysis-tools) <br/> |아니요  <br/> |예  <br/> |
 
-> 피벗 차트 또는 피벗 테이블을 만들 수 <sup>1</sup> 는 없지만 뷰어에서 볼 수 있습니다. 
- <br/><sup>2</sup> 대부분의 경우 차트, 표, 피벗 차트 보고서 및 피벗 테이블 보고서 표시 데스크톱 버전에서와 마찬가지로 합니다. 차트, 외부 참조를 사용 하는 차트 및을 브라우저에서 통합 문서에 대 한 지원 하지 않는 데이터 원본을 사용 하는 차트 그룹에 포함 된 차트를 포함 하는 예외입니다. <br/><sup>3</sup> 환경의 구성 하는 방법에 따라 일부 종류의 데이터 연결 Excel 온라인에 표시 되는 통합 문서에 대해 지원 됩니다. 자세한 내용은 [Refreshing 데이터를 브라우저 창에서 통합 문서에서](https://go.microsoft.com/fwlink/?linkid=847468)를 참조 하십시오. <br/><sup>4</sup> Excel 온라인에서 데이터 유효성 검사를 사용 하는 통합 문서를 편집할 수는 있지만 Excel 온라인에서 데이터 유효성 검사 설정할 수 없습니다. 
+> <sup>1</sup> 피벗 차트 만들기만 볼 수 없습니다.
+ <br/><sup>2</sup> 환경을 구성 하는 방법에 따라 일부 종류의 데이터 연결 Excel 온라인에 표시 되는 통합 문서에 대해 지원 됩니다. 자세한 내용은 Refreshing 데이터를 브라우저 창에서 통합 문서에서를 참조 하십시오. <br/><sup>3</sup> 온라인 Excel에서 VBA 사용 매크로 만들 수는 없지만 열고 제거 하지 않고 VBA 사용 가능 스프레드시트를 편집할 수 있습니다 (또는 손상 시 키 지) 파일에 포함 된 VBA 합니다.
+ <br/><sup>4</sup> Excel 온라인에서 데이터 유효성 검사를 사용 하는 통합 문서를 편집할 수는 있지만 Excel 온라인에서 데이터 유효성 검사 설정할 수 없습니다. 
  <br/><sup>5</sup> 에서 Excel 온라인, 마지막으로 알려진된 참조 값에에서 표시 하는 브라우저 창입니다. 그러나 업데이트 해야 Excel 데스크톱을 사용 합니다. 
  <br/>Excel 데스크톱 앱을 사용 하 여 만든 틀을 고정 하는 <sup>6</sup> 볼 수 있지만 Excel 온라인에서 틀 고정을 만들 수 없습니다. 
  <br/><sup>7</sup> , 모두는 아니지만, 일부 Office 추가 기능은 사용할 수 있습니다. 
