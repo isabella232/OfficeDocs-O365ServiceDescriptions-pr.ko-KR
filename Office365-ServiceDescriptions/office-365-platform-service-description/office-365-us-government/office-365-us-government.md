@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 Office 365 미국 정부 계획 미국 공공 분야의 발전 하며 고유한 요구 사항에 대 한 응답으로 만들었습니다 (orOffice 365 미국 정부). 이 섹션에서는 Office 365 미국 정부 기관에 관련 된 기능에 대 한 개요를 제공 합니다. Office 365 서비스 설명와 함께이 보충 섹션을 읽고 하는 것이 좋습니다.
-ms.openlocfilehash: 672a1548ea1c1e01c085fc0f70c927811f30d84c
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 9e67115b0d25e82613de02ba73613a71aa7d7a42
+ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362913"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "25435836"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -213,7 +213,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |Microsoft StaffHub  <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |
 |Microsoft Stream  <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |아니요  <br/> |
 |Microsoft Sway  <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |
-|Microsoft Teams  <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |
+|Microsoft Teams  <br/> |<sup>16</sup> 예 <br/> |<sup>16</sup> 예 <br/> |<sup>16</sup> 예 <br/> |<sup>16</sup> 예 <br/> |
 |Office Delve  <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |예  <br/> |<sup>9, 15</sup> 예 <br/> |
 |Office 365 그룹  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365 비디오  <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |아니요  <br/> |
@@ -317,6 +317,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 <br/><sup>11</sup> 아직 사용할 수 있는 Office 365 미국 정부에서 제품 하지만 곧 제공 될 예정입니다. ><br/><sup>12</sup> 포함, 아니라 GCC에서 별도 추가 기능으로 구입할 수 있습니다. 
 <br/>Office 365 미국 정부 제품에 대 한 <sup>13</sup> 지원 되지 않습니다. 
 <br/><sup>14</sup> 에서 사용할 수 있는 [https://securescore.office.com](https://securescore.office.com)합니다. 관리자 권한이 필요합니다. 자세한 내용은 [Office 365 보안 점수 소개 (영문)을](https://go.microsoft.com/fwlink/?linkid=836894)참조 하십시오.<br/><sup>15</sup> DoD 환경 하지만 곧 제공 될 예정에 아직 제공 되지 않습니다. 
+<br><sup>16</sup> 사용할 수 없는 GCC 높은 또는 DoD 합니다.
   
 [서비스 설명 섹션 사용 방법](office-365-us-government.md#how-to-use-this-service-description-section)
   
