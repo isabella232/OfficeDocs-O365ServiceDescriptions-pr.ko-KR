@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: f6b47ddbbba3eeb40c564bbcfa5ace25671ade9e
-ms.sourcegitcommit: 451688016111b1ccae37b9b84d7cf53d844acdbc
+ms.openlocfilehash: 26fc2f55bc678103b92607978d3a5c746d5df8cc
+ms.sourcegitcommit: 0b61418567c542fe1f22da3174627b427218e18d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/08/2018
-ms.locfileid: "25450580"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25492798"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -112,7 +112,7 @@ Microsoft Exchange Online의 제한은 다음 범주 중 하나에 맞게:
 |그룹 사서함  <br/> |50GB  <br/> |50GB  <br/> |50GB  <br/> |50GB  <br/> |50GB  <br/> |50GB  <br/> |
    
 > [!NOTE]
-> 각 사용자는 <sup>1</sup> 보관 사서함에 100GB의 저장을 처음 받습니다. 보관 자동 확장 기능이 켜져은 추가 저장소 100GB 저장 용량에 도달 하면 자동으로 추가 됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=844060)를 참조 하십시오. 가용성에 대 한 자세한 내용은 [Office 365 로드맵](http://go.microsoft.com/fwlink/?LinkId=509914) 를 참조 하십시오.<br/>  <sup>2</sup> 공유 사서함에 액세스 하려면 사용자는 Exchange Online 라이센스가 있어야 합니다. 공유 사서함에는 별도 라이선스가 필요 하지 않습니다. 그러나 한 라이선스가 없는 공유 사서함은 50GB로 제한 합니다. 사서함 크기를 늘리려면 E3 또는 e 5 라이선스를 할당 해야 합니다. 이렇게 하면 사서함 100GB로 증가 합니다. 공유 사서함에 소송 보존을 배치 하거나 보관 사서함을 사용 하려는 경우 Exchange Online 계획 2 라이선스 또는 Exchange Online 계획 1 Exchange Online 보관 라이선스로 필요 합니다. 보관 사서함 및 공유 사서함에 대 한 보관 자동 확장을 사용 하는 경우의 보관 사서함에 100GB 저장 용량에 도달 하면 추가 저장소 자동으로 추가 됩니다.<br/>  <sup>3</sup> 리소스 사서함에는 라이선스가 필요 하지 않습니다. 그러나 한 라이선스가 없는 공유 사서함은 50GB로 제한 합니다. 사서함 크기를 늘리려면 E3 또는 e 5 라이선스를 할당 해야 합니다. 이렇게 하면 사서함 100GB로 증가 합니다.<br/>  <sup>4</sup> 보관 사서함에는 Exchange Online Kiosk에 포함 되지 않습니다. 그러나 Exchange Online 보관을 통해 추가 기능으로 구입할 수 있습니다. 자세한 내용은 [Exchange Online 보관 서비스 설명](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)을 참조 하십시오.<br/>  <sup>5</sup> 사이트 사서함 만들고 SharePoint Online에서 관리 합니다. 자세한 내용은 [Office 365에서 사이트 사서함을 사용 하 여 준비](http://go.microsoft.com/fwlink/p/?LinkId=299131)를 참조 합니다.<br/>  <sup>6</sup> 공용 폴더 사서함 1, 000 개로 제한 되며 모든 공용 폴더 사서함의 최대 크기는 50 t B입니다.<br/>  <sup>7</sup> 보관 사서함만 사용할 수 있습니다는 라이선스가 적용 되었는지에 대 한 단일 사용자 또는 엔터티 (예: 공유 사서함)에 대 한 메일을 보관할 수 있습니다. 보관 사서함을 사용 하 여 여러 사용자 또는 엔터티에서 메일을 저장 하는 수단으로 행위는 금지 됩니다. 예, IT 관리자가 공유 사서함 만들기 및 보관 명시적 목적을 위해 (참조 또는 숨은 참조 필드를 통해 또는 전송 규칙을 통해) 복사 하는 사용자가 수는 없습니다. 참고 여러 사용자를 사용 하는 공유 사서함 실제로 이러한 개별 사용자에 대 한 전자 메일 저장 하 고 있지 않습니다. 여러 사용자가 액세스 하 고 공유 사서함으로 전자 메일을 보낼 합니다. 따라서 공유 사서함에 저장 된 유일한 전자 메일이 것 *으로* 공유 사서함에서 주고받은입니다.<br/>  <sup>8</sup> Exchange Online의 보존 정책을 만든 경우 메시지가 자동으로 이동할 사용자의 보관 사서함 사용자의 기본 사서함 10MB 보다 큰 경우에 합니다. 10MB 보다 작은 수 있는 사서함에 대 한 보존 정책을 자동으로 실행 되지 않습니다.<br/>  <sup>9</sup> 공유 및 리소스 사서함에는 라이선스가 필요 하지 않습니다. 그러나 한 라이선스가 없는 공유 사서함은 50GB로 제한 합니다. 사서함 크기를 늘리려면 E3 또는 e 5 라이선스를 할당 해야 합니다. 이렇게 하면 사서함 100GB로 증가 합니다. 
+> 각 사용자는 <sup>1</sup> 보관 사서함에 100GB의 저장을 처음 받습니다. 보관 자동 확장 기능이 켜져은 추가 저장소 100GB 저장 용량에 도달 하면 자동으로 추가 됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=844060)를 참조 하십시오. 가용성에 대 한 자세한 내용은 [Office 365 로드맵](http://go.microsoft.com/fwlink/?LinkId=509914) 를 참조 하십시오.<br/>  <sup>2</sup> 공유 사서함에 액세스 하려면 사용자는 Exchange Online 라이센스가 있어야 합니다. 공유 사서함에는 별도 라이선스가 필요 하지 않습니다. 그러나 한 라이선스가 없는 공유 사서함은 50GB로 제한 합니다. 사서함 크기를 늘리려면 E3 또는 e 5 라이선스를 할당 해야 합니다. 이렇게 하면 사서함 100GB로 증가 합니다. 공유 사서함에 소송 보존을 배치 하거나 보관 사서함을 사용 하려는 경우 Exchange Online 계획 2 라이선스 또는 Exchange Online 계획 1 Exchange Online 보관 라이선스로 필요 합니다. 보관 사서함 및 공유 사서함에 대 한 보관 자동 확장을 사용 하는 경우의 보관 사서함에 100GB 저장 용량에 도달 하면 추가 저장소 자동으로 추가 됩니다.<br/>  <sup>3</sup> 리소스 사서함에는 라이선스가 필요 하지 않습니다. 그러나 한 라이선스가 없는 공유 사서함은 50GB로 제한 합니다. 사서함 크기를 늘리려면 E3 또는 e 5 라이선스를 할당 해야 합니다. 이렇게 하면 사서함 100GB로 증가 합니다.<br/>  <sup>4</sup> 보관 사서함에는 Exchange Online Kiosk에 포함 되지 않습니다. 그러나 Exchange Online 보관을 통해 추가 기능으로 구입할 수 있습니다. 자세한 내용은 [Exchange Online 보관 서비스 설명](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)을 참조 하십시오.<br/>  <sup>5</sup> 사이트 사서함 만들고 SharePoint Online에서 관리 합니다. 자세한 내용은 [Office 365에서 사이트 사서함을 사용 하 여 준비](http://go.microsoft.com/fwlink/p/?LinkId=299131)를 참조 합니다.<br/>  <sup>6</sup> 공용 폴더 사서함 1, 000 개로 제한 되며 모든 공용 폴더 사서함의 최대 크기는 50 t B입니다. 계층 구조 처리 사서함 공용 폴더 사서함 개수는 100 개로 제한 됩니다.<br/>  <sup>7</sup> 보관 사서함만 사용할 수 있습니다는 라이선스가 적용 되었는지에 대 한 단일 사용자 또는 엔터티 (예: 공유 사서함)에 대 한 메일을 보관할 수 있습니다. 보관 사서함을 사용 하 여 여러 사용자 또는 엔터티에서 메일을 저장 하는 수단으로 행위는 금지 됩니다. 예, IT 관리자가 공유 사서함 만들기 및 보관 명시적 목적을 위해 (참조 또는 숨은 참조 필드를 통해 또는 전송 규칙을 통해) 복사 하는 사용자가 수는 없습니다. 참고 여러 사용자를 사용 하는 공유 사서함 실제로 이러한 개별 사용자에 대 한 전자 메일 저장 하 고 있지 않습니다. 여러 사용자가 액세스 하 고 공유 사서함으로 전자 메일을 보낼 합니다. 따라서 공유 사서함에 저장 된 유일한 전자 메일이 것 *으로* 공유 사서함에서 주고받은입니다.<br/>  <sup>8</sup> Exchange Online의 보존 정책을 만든 경우 메시지가 자동으로 이동할 사용자의 보관 사서함 사용자의 기본 사서함 10MB 보다 큰 경우에 합니다. 10MB 보다 작은 수 있는 사서함에 대 한 보존 정책을 자동으로 실행 되지 않습니다.<br/>  <sup>9</sup> 공유 및 리소스 사서함에는 라이선스가 필요 하지 않습니다. 그러나 한 라이선스가 없는 공유 사서함은 50GB로 제한 합니다. 사서함 크기를 늘리려면 E3 또는 e 5 라이선스를 할당 해야 합니다. 이렇게 하면 사서함 100GB로 증가 합니다. 
   
 ### <a name="storage-limits-across-standalone-plans"></a>독립 실행형 계획별 저장소 제한
 
