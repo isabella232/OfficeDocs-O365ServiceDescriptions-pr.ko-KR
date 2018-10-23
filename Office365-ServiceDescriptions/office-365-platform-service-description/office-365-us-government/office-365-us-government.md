@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 Office 365 미국 정부 계획 미국 공공 분야의 발전 하며 고유한 요구 사항에 대 한 응답으로 만들었습니다 (orOffice 365 미국 정부). 이 섹션에서는 Office 365 미국 정부 기관에 관련 된 기능에 대 한 개요를 제공 합니다. Office 365 서비스 설명와 함께이 보충 섹션을 읽고 하는 것이 좋습니다.
-ms.openlocfilehash: 9e67115b0d25e82613de02ba73613a71aa7d7a42
-ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
+ms.openlocfilehash: 84b961924968bd9be7c0590fa3deb43573aeb438
+ms.sourcegitcommit: 3edb9ce51fa18a32e7baf047140db70c4dced9b5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "25435836"
+ms.lasthandoff: 10/22/2018
+ms.locfileid: "25696143"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -343,7 +343,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |[Android용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |[Windows Phone용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |[Windows Phone용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
-|IOS와 Android<sup>5</sup> 에 대 한 outlook  <br/> |예 <br/> |예 <br/> |예 <br/> |예 <br/> |
+|IOS와 Android<sup>5, 4</sup> 에 대 한 outlook  <br/> |예 <br/> |예 <br/> |예 <br/> |예 <br/> |
 |**기업 가치** <br/> |**Office 365 미국 정부 G1** <br/> |**Office 365 미국 정부 G3** <br/> |**Office 365 미국 정부 g 5** <br/> |**Office 365 미국 정부 F1** <br/> |
 |PC 또는 Mac에서 사용자당 5건의 동시 설치 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |사용자 계정 자동 구축  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
