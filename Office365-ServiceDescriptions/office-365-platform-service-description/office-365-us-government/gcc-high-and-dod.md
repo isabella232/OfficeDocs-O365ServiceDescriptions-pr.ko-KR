@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 보유 하 고 있거나 DoD 처리 제어 분류 되지 않은 정보 (CUI)은 미국, 대한민국 부서의 방어의 중요성을 물론 계약자의 발전 하며 고유 요구 사항에 맞게 또는 Microsoft는 국제 트래픽 팔 규정 (ITAR)의 경우에 따라 다음을 제공 합니다. GCC 높은 및 DoD 환경입니다. 볼륨 라이선스를 통해 사용할 수 있는 관심 있는 조직에서는 환경 설정 되기 전에 작업이 적합 한지 확인 하는 유효성 검사 프로세스를 통해 이동 합니다. Trials이 이번에 사용할 수 없습니다.
-ms.openlocfilehash: cb20461e3aa25b23d2fd5cd7ef8ad0761ccbdef7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4fd893157eb12f470c78f8d8c88fa1ab6e5c1772
+ms.sourcegitcommit: de65f864b9c82d5e163a2c59beb2aaec7bb3f5d5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036604"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25719072"
 ---
 # <a name="gcc-high-and-dod"></a>GCC 높 및 DoD
 
@@ -76,7 +76,7 @@ GCC 높은 및 DoD 환경에서 office 365 구독 비즈니스 기능에 대 한
     
 4. 특정 사용자
     
-GCC 높은 또는 DoD 환경에서 비즈니스 개인 문서를 유지할 수에 대 한 SharePoint Online 및 OneDrive를 사용 하는 고객 (처음 옵션)가 조직에서 모든 사람과 공유 (두번째 옵션) 문서에 대 한 링크 수 있는 모든 사용자와 공유 (세번째 옵션), 및 GCC 높은 내에서 특정 사용자와 공유 하 고 DoD 환경 (넷째 옵션); 물론, 이러한 옵션 제한할 수 있습니다를 기반으로 테 넌 트 수준 액세스 제어도 있습니다.
+GCC 높은 또는 DoD 환경에서 비즈니스 개인 문서를 유지할 수에 대 한 SharePoint Online 및 OneDrive를 사용 하는 고객 (처음 옵션)가 조직에서 모든 사람과 공유 (두번째 옵션) 문서에 대 한 링크 수 있는 모든 사용자와 공유 (세번째 옵션), 및 GCC 높은 및 DoD 환경 내에서 특정 사용자와 공유 (옵션 넷째); 물론, 이러한 옵션 제한할 수 있습니다를 기반으로 테 넌 트 수준 액세스 제어도 있습니다.
   
 GCC 높은 테 넌 트 다른 GCC 높은 테 넌 트만 공유할 수 있습니다. 예를 들어:
   
