@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 비즈니스 온라인 용 Skype의 제한은 다음과 같은 범주로 분류 됩니다.
-ms.openlocfilehash: ebab5138d22dc6776caa8f2b05715202c4504176
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 5ac8361d782998bd252b6c91045b3a581deec917
+ms.sourcegitcommit: 8e476ac4cc791e9be70fae577716e31472edf842
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362883"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296868"
 ---
 # <a name="skype-for-business-online-limits"></a>비즈니스용 Skype Online 제한
 
@@ -119,41 +119,20 @@ ms.locfileid: "25362883"
     
 - **모임 만료 기간** 모임이 끝난 후에 사용자가 모임에 액세스할 수 있는 시간입니다. 
     
-### <a name="meeting-retention-limits-across-office-365-options"></a>Office 365 옵션별 모임 보존 제한
+### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Office 365 옵션 및 독립 실행형 계획 별 모임 보존 제한
 
 > [!NOTE]
 > 개인별로 언제든지 최대 1000개의 회의를 데이터베이스에 가질 수 있습니다. 
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|모임 콘텐츠 보존: 일회성 모임  <br/> |구성 가능한<sup>1</sup> <br/> |14일  <br/> |14일  <br/> |14일  <br/> |14일  <br/> |해당 없음  <br/> |
-|모임 콘텐츠 보존: 되풀이 모임  <br/> |구성 가능한<sup>1</sup> <br/> |14일  <br/> |14일  <br/> |14일  <br/> |14일  <br/> |해당 없음  <br/> |
-|모임 콘텐츠 보존: 모임 시작 모임  <br/> |구성 가능한<sup>1</sup> <br/> |8시간  <br/> |8시간  <br/> |8시간  <br/> |8시간  <br/> |해당 없음  <br/> |
-|모임 만료: 일회성 모임  <br/> |종료 날짜 이후 365일 추가<sup>2</sup> <br/> |14일  <br/> |14일  <br/> |14일  <br/> |14일  <br/> |해당 없음  <br/> |
-|모임 만료: 되풀이 모임  <br/> |종료 날짜가 있는 경우: 종료 날짜 이후 365일 추가<sup>2</sup> <br/> 종료 날짜 없이: 항상 액세스할 수 있는 경우 1/년<sup>3</sup> 업데이트 <br/> |14일  <br/> |14일  <br/> |14일  <br/> |14일  <br/> |해당 없음  <br/> |
-|모임 만료: 모임 시작 모임  <br/> |8시간  <br/> | 8시간  <br/> |8시간  <br/> |8시간  <br/> |8시간  <br/> |해당 없음  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> 비즈니스 서버 2015 용 Skype의 온-프레미스 배포에서 모임 콘텐츠 보존은 비즈니스 서버 2015 보관 기능에 대 한 Skype를 통해 구성할 수 있습니다. 비즈니스 서버 2015 TechNet 라이브러리의 Skype에 대 한 [보관에 대 한 계획](https://go.microsoft.com/fwlink/p/?LinkId=398299) 참조 하십시오.<br/> <sup>2</sup> 모임이 활성화 되면 만료 날짜가 추가로 365일 더 연장이 됩니다.<br/><sup>3</sup> 모임이 활성화 되면 만료 날짜가 추가로 6개월 더 연장이 됩니다. 
-  
-### <a name="meeting-retention-limits-across-standalone-options"></a>독립 실행형 옵션별 모임 보존 제한
+|**모임 종류** <br/> |**설명** <br/> 
+|일회성 모임| end, 마지막 모임 정품 인증 또는 마지막 모임 업데이트-후 14 일 중에서 최신 합니다.
+|종료 날짜가 있는 되풀이 모임| 모임 액세스할 수 적어도 마지막 모임 발생 또는 마지막 정품 인증, 모임 또는의 마지막 업데이트를 모임 예약 된 종료 시간 14 일 후까지, 중에서 더 최신 합니다.
+|종료 날짜 없이 되풀이 모임| 모임 항상 액세스할 수, 새 회의 조인 (정품 인증)는 제공 된 또는 예약 연간 적어도 한 번 업데이트
+|     회의 시작|모임 8 시간 이상에 액세스할 수 있습니다.
 
-> [!NOTE]
-> 개인별로 언제든지 최대 1000개의 회의를 데이터베이스에 가질 수 있습니다. 
-  
-|||||
-|:-----|:-----|:-----|:-----|
-|**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 1** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 2** <br/> |
-|모임 콘텐츠 보존: 일회성 모임  <br/> |구성 가능한<sup>1</sup> <br/> |해당 없음  <br/> |14일  <br/> |
-|모임 콘텐츠 보존: 되풀이 모임  <br/> |구성 가능한<sup>1</sup> <br/> |해당 없음  <br/> |14일  <br/> |
-|모임 콘텐츠 보존: 모임 시작 모임  <br/> |구성 가능한<sup>1</sup> <br/> |해당 없음  <br/> |8시간  <br/> |
-|모임 만료: 일회성 모임  <br/> |종료 날짜 이후 365일 추가<sup>2</sup> <br/> |해당 없음  <br/> |14일  <br/> |
-|모임 만료: 되풀이 모임  <br/> |종료 날짜가 있는 경우: 종료 날짜 이후 365일 추가<sup>2</sup> <br/> 종료 날짜 없이: 항상 액세스할 수 있는 경우 1/년<sup>3</sup> 업데이트 <br/> |해당 없음  <br/> |14일  <br/> |
-|모임 만료: 모임 시작 모임  <br/> |8시간  <br/> |해당 없음  <br/> |8시간  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> 비즈니스 서버 2015 용 Skype의 온-프레미스 배포에서 모임 콘텐츠 보존은 비즈니스 서버 2015 보관 기능에 대 한 Skype를 통해 구성할 수 있습니다. 비즈니스 서버 2015 TechNet 라이브러리의 Skype에 대 한 [보관에 대 한 계획](https://go.microsoft.com/fwlink/p/?LinkId=398299) 참조 하십시오.<br/><sup>2</sup> 모임이 활성화 되면 만료 날짜가 추가로 365일 더 연장이 됩니다.<br/><sup>3</sup> 모임이 활성화 되면 만료 날짜가 추가로 6개월 더 연장이 됩니다. 
+
   
 ## <a name="minute-limits"></a>분 한도
 <a name="bkmk_Minute_LyncOnlineLimits"> </a>

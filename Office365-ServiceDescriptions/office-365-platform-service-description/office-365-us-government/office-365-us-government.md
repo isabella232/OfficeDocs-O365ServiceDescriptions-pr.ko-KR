@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 Office 365 미국 정부 계획 미국 공공 분야의 발전 하며 고유한 요구 사항에 대 한 응답으로 만들었습니다 (orOffice 365 미국 정부). 이 섹션에서는 Office 365 미국 정부 기관에 관련 된 기능에 대 한 개요를 제공 합니다. Office 365 서비스 설명와 함께이 보충 섹션을 읽고 하는 것이 좋습니다.
-ms.openlocfilehash: 84b961924968bd9be7c0590fa3deb43573aeb438
-ms.sourcegitcommit: 3edb9ce51fa18a32e7baf047140db70c4dced9b5
+ms.openlocfilehash: 6ec220c2db6ce437abd9dba20462e5b10a1752fc
+ms.sourcegitcommit: 64dcd8c58007efb116067eee6117a12a8a3301f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2018
-ms.locfileid: "25696143"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26293519"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -185,8 +185,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |Project Online  <br/> |없음<sup>2</sup> <br/> |없음<sup>2</sup> <br/> |없음<sup>2</sup> <br/> |없음<sup>2</sup> <br/> |
 |Yammer Enterprise  <br/> |<sup>4</sup> 없음 <br/> |<sup>4</sup> 없음 <br/> |<sup>4</sup> 없음 <br/> |<sup>4</sup> 없음 <br/> |
    
-> <sup>1</sup> 기본 비즈니스에 대 한 Skype은 모든 고객을 위해 사용할 수 있습니다. 비즈니스 데스크톱 클라이언트에 대 한 Skype은 비즈니스 Online 용 Skype를 포함 하는 Office 365 계획에 대 한 현재 상태, 인스턴트 메시징 및 회의 기능을 제공 하는 로컬에 설치 된 응용 프로그램입니다. Office 365 ProPlus, G3 및 g 5 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 포함 하는 전체 Skype 응용 프로그램을 포함 합니다. 각 사용자에 대 한 비즈니스 온라인 라이선스에 대 한 Skype 할당 되어야 합니다.<br/><sup>2</sup> 포함 아니라 별도 추가 기능으로 구입할 수 있습니다. 
-<br/> <sup>3</sup> GCC 높은 또는 DoD 계획 하지만 곧 제공 될 예정에 아직 제공 되지 않습니다. 
+> <sup>1</sup> 기본 비즈니스에 대 한 Skype은 모든 고객을 위해 사용할 수 있습니다. 비즈니스 데스크톱 클라이언트에 대 한 Skype은 비즈니스 Online 용 Skype를 포함 하는 Office 365 계획에 대 한 현재 상태, 인스턴트 메시징 및 회의 기능을 제공 하는 로컬에 설치 된 응용 프로그램입니다. Office 365 ProPlus, G3 및 g 5 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 포함 하는 전체 Skype 응용 프로그램을 포함 합니다. 각 사용자에 대 한 비즈니스 온라인 라이선스에 대 한 Skype 할당 되어야 합니다.<br/><sup>2</sup> 포함 아니라 별도 추가 기능으로 구입할 수 있습니다. Project Online 구독의 일부로 프로젝트 온라인 데스크톱 클라이언트를 포함합니다.<br/> <sup>3</sup> GCC 높은 또는 DoD 계획 하지만 곧 제공 될 예정에 아직 제공 되지 않습니다. 
 <br/><sup>4</sup> yammer Enterprise는 Office 365 미국 정부의 구성 요소는 아니지만 나 각 사용자에 대 한 독립 실행형 제품 사용이 허가 된 office 365에서 GCC로 비용 없이 얻을 수 있습니다. 이 혜택은 기업 계약 및 기업 구독 계약에서 Office 365 GCC을 구입 하는 고객에 게 현재 제한 됩니다. Yammer는 GCC 높은 또는 DoD에서 사용할 수 없는 경우<br/><sup>5</sup> 추가 기능을는 계획을 호출 합니다. 
   
 ## <a name="platform-features"></a>플랫폼 기능
@@ -284,7 +283,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**트러스트** <br/> |**Office 365 미국 정부 G1** <br/> |**Office 365 미국 정부 G3** <br/> |**Office 365 미국 정부 g 5** <br/> |**Office 365 미국 정부 F1** <br/> |
 |**[개인 정보, 보안 및 투명성](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |고급 데이터 거버넌스  <br/> |없음<sup>12, 15</sup> <br/> |없음<sup>12, 15</sup> <br/> |<sup>15</sup> 예 <br/> |없음<sup>12, 15</sup> <br/> |
-|클라우드 응용 프로그램 보안  <br/> |없음<sup>11, 12</sup> <br/> |없음<sup>11, 12</sup> <br/> |<sup>11</sup> 예 <br/> |없음<sup>11, 12</sup> <br/> |
+|Cloud App Security  <br/> |없음<sup>11, 12</sup> <br/> |없음<sup>11, 12</sup> <br/> |<sup>11</sup> 예 <br/> |없음<sup>11, 12</sup> <br/> |
 |Advanced Threat Protection  <br/> |<sup>12</sup> 없음 <br/> |<sup>12</sup> 없음 <br/> |예  <br/> |<sup>12</sup> 없음 <br/> |
 |Customer Lockbox  <br/> |없음<sup>9, 12, 15</sup> <br/> |없음<sup>9, 12, 15</sup> <br/> |<sup>9, 15</sup> 예 <br/> |없음<sup>9, 12, 15</sup> <br/> |
 |Office 365 고급 eDiscovery  <br/> |없음<sup>12, 15</sup> <br/> |없음<sup>12, 15</sup> <br/> |예  <br/> |없음<sup>9, 15</sup> <br/> |

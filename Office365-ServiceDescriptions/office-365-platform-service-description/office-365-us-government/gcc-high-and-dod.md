@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 보유 하 고 있거나 DoD 처리 제어 분류 되지 않은 정보 (CUI)은 미국, 대한민국 부서의 방어의 중요성을 물론 계약자의 발전 하며 고유 요구 사항에 맞게 또는 Microsoft는 국제 트래픽 팔 규정 (ITAR)의 경우에 따라 다음을 제공 합니다. GCC 높은 및 DoD 환경입니다. 볼륨 라이선스를 통해 사용할 수 있는 관심 있는 조직에서는 환경 설정 되기 전에 작업이 적합 한지 확인 하는 유효성 검사 프로세스를 통해 이동 합니다. Trials이 이번에 사용할 수 없습니다.
-ms.openlocfilehash: 4fd893157eb12f470c78f8d8c88fa1ab6e5c1772
-ms.sourcegitcommit: de65f864b9c82d5e163a2c59beb2aaec7bb3f5d5
+ms.openlocfilehash: 62a5011564856c879a153ec88db965fda5d96002
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/23/2018
-ms.locfileid: "25719072"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215373"
 ---
 # <a name="gcc-high-and-dod"></a>GCC 높 및 DoD
 
@@ -104,6 +104,6 @@ GCC 높은 테 넌 트 다른 GCC 높은 테 넌 트만 공유할 수 있습니�
   
 ### <a name="yammer"></a>Yammer
 
-Yammer는 GCC 높은 및 DoD 환경에서 사용할 수 없을 때
+Yammer Enterprise는 GCC 높은 및 DoD 환경에서 사용할 수 없습니다.
   
 

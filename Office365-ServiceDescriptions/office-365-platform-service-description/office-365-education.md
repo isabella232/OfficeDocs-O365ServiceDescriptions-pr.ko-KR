@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 다양 한 조직의 요구를 가장 잘 충족 하는 계획에 사용할 수 있습니다. Office 365 교육 계획 간의 차이점에 대 한 찾으려는 경우이 문서 안내해 기능을 쿼리하고 각에 포함 됩니다. Office 365를 결합 하는 친숙 한 Microsoft Office 데스크톱 제품군 클라우드 기반 버전의 Microsoft의 차세대 통신 및 공동 작업 서비스-Microsoft Exchange Online, Microsoft SharePoint Online, Office Online을 포함 하 고 온라인 비즈니스에 대 한 Microsoft Skype-사용자가 인터넷을 통해 어디에서 나 생산성을 높일 수 있도록 합니다.
-ms.openlocfilehash: 90b530ae0188637d04b76396a9e1f46ca3478ccd
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f15586aae46fb964639fbc4602ab8353e7884f1b
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036566"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215403"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -157,7 +157,7 @@ Office 365에 대 한 시스템 요구 사항, [Office 365 시스템 요구 사�
 |Office 365 고급 eDiscovery<sup>7</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |점수<sup>5</sup> 보안 <br/> |예  <br/> |예  <br/> |예  <br/> |
 |위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|**[규정 준수 [ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
+|**[규정 준수[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
 |SAS 70 / SSAE16 평가  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |ISO 27001 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |EU 모델 조항  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -197,7 +197,7 @@ Office 365에 대 한 시스템 요구 사항, [Office 365 시스템 요구 사�
 |[데이터 손실 방지](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[데이터 관리 방식](https://go.microsoft.com/fwlink/?linkid=824871) <sup>1</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[고급 데이터 관리 방식](https://go.microsoft.com/fwlink/?linkid=842991) <sup>2</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|[검색 및 조사](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[검색 및 조사]<br/> |예  <br/> |예  <br/> |예  <br/> |
 |[eDiscovery 검색](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[eDiscovery 내보내기](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[EDiscovery 고급](https://go.microsoft.com/fwlink/?linkid=715714) <sup>4</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |

@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online은 웹 기반 도구 및 기술, 저장 하 고, 공유 하 고, 디지털 정보를 관리 하 여 조직에 도움이 되는의 컬렉션입니다. Microsoft SharePoint Server 2013을 기반으로 구축,이 호스트 된 서비스, 프로젝트 작업을 수행 하 고, 중앙 위치에 데이터와 문서를 저장 하 고, 다른 사용자와 정보를 공유 하에 이상적입니다. 다음 콘텐츠 기능을 쉽게 관리 ECM (엔터프라이즈 콘텐츠) 모든 사용자에 게 있습니다. 것은 기존 콘텐츠 관리, 소셜 기능 및 강력한 검색의 조합입니다.
-ms.openlocfilehash: 4d091a912d90028be32269cc91692155b146e671
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 771806f7b65246a48e7549493f4c899617135a86
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036579"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215383"
 ---
 # <a name="content"></a>콘텐츠
 
@@ -39,7 +39,7 @@ SharePoint Online은 웹 기반 도구 및 기술, 저장 하 고, 공유 하 �
 ## <a name="auditing"></a>감사
 <a name="bkmk_Auditing"> </a>
 
-SharePoint Online 사이트 모음 관리자는 감사 기능을 통해 어느 사용자가 사이트 모음의 사이트, 콘텐츠 유형, 목록, 라이브러리, 목록 항목 및 라이브러리 파일에 어떤 작업을 수행했는지 추적할 수 있습니다. [사이트 모음의 감사 설정 구성](https://go.microsoft.com/fwlink/?LinkId=270950)에 대해 더 자세히 알아보세요.
+SharePoint Online 사이트 모음 관리자가 어떤 사용자가 사이트, 콘텐츠 형식, 목록, 라이브러리, 목록 항목 및 사이트 모음의 라이브러리 파일에 어떤 작업을 수행 했는지 추적을 감사 기능을 사용할 수 있습니다. [사이트 모음에 대 한 감사 설정 구성](https://go.microsoft.com/fwlink/?LinkId=270950)하는 방법에 대 한 자세한 내용은 합니다.
   
 ## <a name="auditing-amp-reporting-eg-doc-edits-policy-edits-deletes"></a>감사 &amp; 보고 (예: 문서 편집, 정책 편집, 삭제)
 <a name="bkmk_AuditingReporting"> </a>
@@ -239,7 +239,7 @@ SharePoint Designer를 통해 적용한 사이트 사용자 지정 내용은 휴
 ## <a name="wcm-search-engine-optimizations-seo"></a>WCM: SEO(검색 엔진 최적화)
 <a name="bkmk_WCMSearchEngineOptimizations"> </a>
 
-공용 웹 사이트를 검색용으로 최적화하는 것은 신규 고객 및 기존 고객과 긴밀하게 연결하는 데 있어서 매우 중요합니다. SharePoint Online에는 사용자 지정 가능한 robots.txt와 페이지 수준의 메타 태그 지정 등의 SEO 기능이 기본적으로 포함되어 있기 때문에 조직에서 더 나은 검색 결과를 얻을 수 있도록 사이트를 쉽게 조정할 수 있습니다. [검색용으로 웹 사이트 최적화](https://go.microsoft.com/fwlink/?LinkId=270932)에 대해 더 자세히 알아보세요.
+검색을 위한 공용 웹사이트를 최적화 하는 것이 새로 추가 되거나 반환 고객과 연결을 매우 중요 합니다. SharePoint Online 사용자 지정 가능한 robots.txt 및 조직 보다 나은 검색 결과 대 한 사이트를 쉽게 조정할 수 있도록 페이지 수준 metatagging와 같은 기본 제공 SEO 기능을 포함 합니다.
   
 ## <a name="word-automation-services"></a>Word Automation Services
 <a name="bkmk_WordAutomationServices"> </a>
