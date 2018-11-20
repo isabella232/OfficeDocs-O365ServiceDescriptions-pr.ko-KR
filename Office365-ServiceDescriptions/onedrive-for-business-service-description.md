@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 비즈니스용 OneDrive는 회사에서 사용자에게 제공하는 클라우드의 개인 온라인 저장 공간입니다. 이 공간에 파일을 저장하고 보호하여 여러 장치에서 작업 파일에 쉽게 액세스하도록 할 수 있습니다. 필요에 따라 회사 동료와 파일을 공유하고 최신 Office 데스크톱, 웹 및 모바일 앱을 사용하여 실시간으로 Office 문서로 공동 작업을 수행할 수 있습니다. 비즈니스용 OneDrive 동기화 클라이언트를 사용하여 파일을 로컬 컴퓨터로 동기화할 수 있습니다.
-ms.openlocfilehash: aaafbc2ff4b2e9ac1b98bf0b62f934ad34be6485
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4fca7cfff8db13e15b6c79ee3add0d103dd2e26d
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036472"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215363"
 ---
 # <a name="onedrive-for-business-service-description"></a>비즈니스용 OneDrive 서비스 설명
 
@@ -101,7 +101,7 @@ ms.locfileid: "24036472"
     
 사용자가 5명 미만인 구독에는 사용자당 1TB의 개인 클라우드 저장소가 제공됩니다. 
   
-처음에 비즈니스용 OneDrive에는 각 고객을 위해 1TB의 개인 클라우드 저장소가 프로비전됩니다. Office 365 관리자의 도움을 받아 [기본 OneDrive용 비즈니스 저장소 공간](https://go.microsoft.com/fwlink/?linkid=838024)을 사용자당 최대 5TB로 늘릴 수 있습니다. 
+처음에 비즈니스용 OneDrive에는 각 고객을 위해 1TB의 개인 클라우드 저장소가 프로비전됩니다. 1TB 할당량이 90% 꽉 차면, Office 365 관리자의 도움을 받아 [기본 OneDrive용 비즈니스 저장소 공간](https://go.microsoft.com/fwlink/?linkid=838024)을 사용자당 최대 5TB로 늘릴 수 있습니다. 
   
 > [!NOTE]
 > 기본 OneDrive 저장소 공간을 늘리려면 먼저 사용자에게 하나 이상의 라이선스를 할당해야 합니다. 
