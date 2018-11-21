@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 비즈니스 온라인 용 Skype의 제한은 다음과 같은 범주로 분류 됩니다.
-ms.openlocfilehash: 5ac8361d782998bd252b6c91045b3a581deec917
-ms.sourcegitcommit: 8e476ac4cc791e9be70fae577716e31472edf842
+ms.openlocfilehash: 92d0aed201504d711a6e4a896b533fd3a4e9567e
+ms.sourcegitcommit: f8c966f88eb4f49f62d796f6992a65f4a207869c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296868"
+ms.lasthandoff: 11/20/2018
+ms.locfileid: "26625893"
 ---
 # <a name="skype-for-business-online-limits"></a>비즈니스용 Skype Online 제한
 
@@ -127,7 +127,7 @@ ms.locfileid: "26296868"
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**모임 종류** <br/> |**설명** <br/> 
-|일회성 모임| end, 마지막 모임 정품 인증 또는 마지막 모임 업데이트-후 14 일 중에서 최신 합니다.
+|일회성 모임| 모임 액세스할 수 최소 14 일 후 예약 된 시간 또는 마지막 정품 인증, 모임 또는 마지막 모임 업데이트 될 때까지, 중에서 더 최신 합니다.
 |종료 날짜가 있는 되풀이 모임| 모임 액세스할 수 적어도 마지막 모임 발생 또는 마지막 정품 인증, 모임 또는의 마지막 업데이트를 모임 예약 된 종료 시간 14 일 후까지, 중에서 더 최신 합니다.
 |종료 날짜 없이 되풀이 모임| 모임 항상 액세스할 수, 새 회의 조인 (정품 인증)는 제공 된 또는 예약 연간 적어도 한 번 업데이트
 |     회의 시작|모임 8 시간 이상에 액세스할 수 있습니다.
