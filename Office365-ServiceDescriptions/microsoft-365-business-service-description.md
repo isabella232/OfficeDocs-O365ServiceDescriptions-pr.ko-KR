@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 비즈니스에는 비즈니스 보호를 위해 고급 보안 및 장치 관리 기능을 가진 Office 365의 클래스에서 최고 생산성 모을 통합 된 솔루션입니다. . 이 서비스 설명에는 계획 옵션 및 기능에 설명 합니다. Office 365에 대 한 자세한 내용은 Office 365 서비스 설명을 참조 하십시오.
-ms.openlocfilehash: b4b2a625f96c53da3f7f3a735d2b28278dbe4e5b
-ms.sourcegitcommit: 11eb2c541fee341454950e998834992ef3b9f42c
+ms.openlocfilehash: 23f3d4032da18de3ba10155942dfe5bd08c5d574
+ms.sourcegitcommit: 6009866151bd0907ebf0b34ccea578efd6b1eb61
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2018
-ms.locfileid: "25857316"
+ms.lasthandoff: 11/26/2018
+ms.locfileid: "26674225"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business 서비스 설명
 
@@ -117,8 +117,7 @@ Office 365 계획 별 기능 사용 가능 여부를 보려면 [Office 365 플�
 |||||
 |:-----|:-----|:-----|:-----|
 |**Id 및 액세스 관리 기능** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise 이동성 제품군** <br/> |
-|SSO ()에서 로그인에 대 한 단일 \> 10 앱  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|다단계 인증 (MFA)  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|Office 365 다단계 인증 (MFA)  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |관리 단위  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |클라우드 앱 검색  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |동적 그룹  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
@@ -127,7 +126,7 @@ Office 365 계획 별 기능 사용 가능 여부를 보려면 [Office 365 플�
 |장치 개체를 온-프레미스 디렉터리와 Azure AD (장치 쓰기 저장) 간의 양방향 동기화  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |조건부 (또는에 따라 액세스 그룹, 위치, 장치 상태, 로그인, 사용자 위험)  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |회사 (로그온 페이지/액세스 패널 사용자 지정 브랜딩 (영문)  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|응용 프로그램 정책  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|응용 프로그램 프록시  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |Microsoft Identity Manager (MIM) 사용자 CAL  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |상태를 연결 합니다.  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |SLA 99.9%  <br/> |예  <br/> |예  <br/> |예  <br/> |
