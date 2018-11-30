@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 보안 &amp; 준수 센터는 조직에 대 한 Office 365에서 규정 준수 기능을 관리할 수 있도록 디자인 되었습니다. 기존 SharePoint와 Exchange 규정 준수 기능에 대 한 링크를 통합 하 여 필요한 규정 준수 기능 Office 365에서 합니다.
-ms.openlocfilehash: 9767fecdf049b3cf46c33008d8225f0a6899f30f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7b480e21ed1fbc9d7d2039ef822c91331af3ccf2
+ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036592"
+ms.lasthandoff: 11/30/2018
+ms.locfileid: "26988559"
 ---
-# <a name="office-365-security-amp-compliance-center"></a>Office 365 보안 &amp; 준수 센터
+# <a name="office-365-security-amp-compliance-center"></a>Office 365 보안 및 준수 센터
 
 [Office 365 보안 &amp; 준수 센터](https://go.microsoft.com/fwlink/?LinkID=824876) 은 조직에 대 한 Office 365에서 규정 준수 기능을 관리할 수 있도록 디자인 되었습니다. 기존 SharePoint와 Exchange 규정 준수 기능에 대 한 링크를 통합 하 여 필요한 규정 준수 기능 Office 365에서 합니다. 
   
@@ -61,7 +61,7 @@ ms.locfileid: "24036592"
 |피싱 캠페인에 대 한 고객 lockbox 및 위협 탐색기와 같은 [고급 위협 관리](https://go.microsoft.com/fwlink/?linkid=846673)  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[모바일 장치 관리](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[데이터 손실 방지](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|[데이터 관리 방식](https://go.microsoft.com/fwlink/?linkid=824871) <sup>1</sup> <br/> |예<sup>2</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[데이터 관리 방식](https://go.microsoft.com/fwlink/?linkid=863925) <sup>1</sup> <br/> |예<sup>2</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[고급 데이터 관리 방식](https://go.microsoft.com/fwlink/?linkid=842991) <sup>3</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[검색 및 조사](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[eDiscovery 검색](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
