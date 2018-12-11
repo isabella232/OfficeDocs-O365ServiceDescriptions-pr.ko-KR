@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 Office 365 미국 정부 계획 미국 공공 분야의 발전 하며 고유한 요구 사항에 대 한 응답으로 만들었습니다 (orOffice 365 미국 정부). 이 섹션에서는 Office 365 미국 정부 기관에 관련 된 기능에 대 한 개요를 제공 합니다. Office 365 서비스 설명와 함께이 보충 섹션을 읽고 하는 것이 좋습니다.
-ms.openlocfilehash: 6ec220c2db6ce437abd9dba20462e5b10a1752fc
-ms.sourcegitcommit: 64dcd8c58007efb116067eee6117a12a8a3301f4
+ms.openlocfilehash: d8fa877b912b76cc1f862f4305292d0699e79d0d
+ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26293519"
+ms.lasthandoff: 12/10/2018
+ms.locfileid: "27213915"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -380,3 +380,4 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 <br/><sup>5</sup> 대 한 자세한 내용은 [iOS 및 Android 정부 커뮤니티 클라우드에서 Outlook 사용](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) 을 참조 합니다.
   
 [서비스 설명 섹션 사용 방법](office-365-us-government.md#how-to-use-this-service-description-section)
+

@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 비즈니스 온라인 용 Skype의 제한은 다음과 같은 범주로 분류 됩니다.
-ms.openlocfilehash: 92d0aed201504d711a6e4a896b533fd3a4e9567e
-ms.sourcegitcommit: f8c966f88eb4f49f62d796f6992a65f4a207869c
+ms.openlocfilehash: 85d1d9ec41f9ae39c85beac69e85c740acf2bcfe
+ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2018
-ms.locfileid: "26625893"
+ms.lasthandoff: 12/10/2018
+ms.locfileid: "27213895"
 ---
 # <a name="skype-for-business-online-limits"></a>비즈니스용 Skype Online 제한
 
@@ -137,5 +137,5 @@ ms.locfileid: "26625893"
 ## <a name="minute-limits"></a>분 한도
 <a name="bkmk_Minute_LyncOnlineLimits"> </a>
 
-Office 365 국내/국제 통화 계획의 시간 제한 사항에 대한 자세한 내용은 [여기](https://support.office.com/en-us/article/Skype-for-Business-Online-PSTN-services-use-terms-dc6e95cd-51e8-49ca-bcd3-78dc9dae486a?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조하시기 바랍니다.
+Office 365 국내/국제 통화 계획의 시간 제한 사항에 대한 자세한 내용은 [여기](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)를 참조하시기 바랍니다.
   
