@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 관리자가 서비스의 상태를 볼 수 있으며 한 예약 된 유지 관리 하는 시기를 확인할 수 있습니다. 서비스 상태 정보는 언제 든 지 Office 365에 로그인 하 여 있습니다.
-ms.openlocfilehash: cc19a26f7bef070837b1dfa53df927373fd35d3e
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 5744d0f0390aee046c63309c2395e2225c4d9342
+ms.sourcegitcommit: ac81ba091876af9c42828faf9f5eb989a3a2cc58
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036622"
+ms.lasthandoff: 12/13/2018
+ms.locfileid: "27258740"
 ---
 # <a name="service-health-and-continuity"></a>서비스 상태 및 연속성
 
@@ -29,7 +29,7 @@ Microsoft Office 365 관리자가 서비스의 상태를 볼 수 있으며 한 �
   
 ## <a name="view-status-of-services"></a>서비스 상태 보기
 
-Office 365의 서비스 상태 섹션의 서비스 및 서비스 중단 및 중단 하는 방법에 대 한 자세한 내용은 현재 상태를 표시합니다. 계획 된 유지 관리 정보를 메시지 센터에서 사용할 수 있습니다. 자세한 내용은 [서비스의 상태 보기](https://go.microsoft.com/fwlink/p/?LinkID=270178)를 참조 하십시오. 
+Office 365의 서비스 상태 섹션의 서비스 및 서비스 중단 및 중단 하는 방법에 대 한 자세한 내용은 현재 상태를 표시합니다. 계획 된 유지 관리 정보를 메시지 센터에서 사용할 수 있습니다. 자세한 내용은 [서비스의 상태 보기](https://docs.microsoft.com/office365/enterprise/view-service-health)를 참조 하십시오. 
   
 ## <a name="service-incidents"></a>서비스 인시던트
 
@@ -49,7 +49,7 @@ Office 365의 서비스 상태 섹션의 서비스 및 서비스 중단 및 중�
 
 ### <a name="office-365-admin-app"></a>Office 365 관리 앱
 
-Office 365 테 넌 트 관리자를 위한 관리 응용 프로그램은 이동 중에 조직의 Office 365 서비스 상태를 사용 하 여 연결 하는 기능을 제공 합니다. Office 365 테 넌 트 관리자가 모바일 장치에서 서비스 상태 정보 및 유지 관리 상태 업데이트를 볼 수 있는 기능을 갖습니다. 자세한 내용은 [관리 응용 프로그램 FAQ](https://community.office365.com/en-us/w/manage/office-365-admin-app-faq.aspx)를 참고 하십시오.
+Office 365 테 넌 트 관리자를 위한 관리 응용 프로그램은 이동 중에 조직의 Office 365 서비스 상태를 사용 하 여 연결 하는 기능을 제공 합니다. Office 365 테 넌 트 관리자가 모바일 장치에서 서비스 상태 정보 및 유지 관리 상태 업데이트를 볼 수 있는 기능을 갖습니다. 자세한 내용은 [관리 응용 프로그램 FAQ](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)를 참고 하십시오.
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2용 Office 365 관리 팩
 
