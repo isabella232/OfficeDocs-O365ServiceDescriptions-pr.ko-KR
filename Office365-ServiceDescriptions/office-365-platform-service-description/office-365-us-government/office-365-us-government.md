@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 Office 365 미국 정부 계획 미국 공공 분야의 발전 하며 고유한 요구 사항에 대 한 응답으로 만들었습니다 (orOffice 365 미국 정부). 이 섹션에서는 Office 365 미국 정부 기관에 관련 된 기능에 대 한 개요를 제공 합니다. Office 365 서비스 설명와 함께이 보충 섹션을 읽고 하는 것이 좋습니다.
-ms.openlocfilehash: d8fa877b912b76cc1f862f4305292d0699e79d0d
-ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
+ms.openlocfilehash: 68e2d354c8b83b44f9d395fb4ab49db16a52ddb5
+ms.sourcegitcommit: 451566be3a538320c86d284a893235b253743b31
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/10/2018
-ms.locfileid: "27213915"
+ms.lasthandoff: 12/27/2018
+ms.locfileid: "27449922"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -197,25 +197,25 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |:-----|:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Office 365 미국 정부 G1** <br/> |**Office 365 미국 정부 G3** <br/> |**Office 365 미국 정부 g 5** <br/> |**Office 365 미국 정부 F1** <br/> |
 |**Office 365 administration** <br/> |||||
-|Office 365 관리 센터를 사용하여 Office 365 관리  <br/> |<sup>15</sup> 예 <br/> |<sup>15</sup> 예 <br/> |예  <br/> |<sup>15</sup> 예 <br/> |
+|Office 365 관리 센터를 사용하여 Office 365 관리  <br/> |<sup>16</sup> 예 <br/> |<sup>16</sup> 예 <br/> |예  <br/> |<sup>16</sup> 예 <br/> |
 |Office 365에서 핵심 서비스 설정 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Windows PowerShell을 사용하여 Office 365 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Azure Information Protection을 사용하여 콘텐츠 보호  <br/> |없음<sup>1</sup> <br/> |<sup>9</sup> 예 <br/> |예  <br/> |없음<sup>1</sup> <br/> |
+|Azure Information Protection을 사용하여 콘텐츠 보호  <br/> |없음<sup>1</sup> <br/> |<sup>15</sup> 예 <br/> |<sup>15</sup> 예  <br/> |없음<sup>1</sup> <br/> |
 |**[Office 365 제품군 기능](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 미국 정부 G1** <br/> |**Office 365 미국 정부 G3** <br/> |**Office 365 미국 정부 g 5** <br/> |**Office 365 미국 정부 F1** <br/> |
 |Microsoft Bookings  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Microsoft Flow  <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |
-|Microsoft Forms  <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |
+|Microsoft Forms  <br/> |<sup>15</sup> 예 <br/> |<sup>15</sup> 예 <br/> |<sup>15</sup> 예 <br/> |<sup>15</sup> 예 <br/> |
 |Microsoft Graph API  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft MyAnalytics  <br/> |없음<sup>9, 12, 15</sup> <br/> |없음<sup>9, 12, 15</sup> <br/> |<sup>9, 15</sup> 예 <br/> |없음<sup>9, 12, 15</sup> <br/> |
-|Microsoft Planner  <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |
+|Microsoft Planner  <br/> |<sup>15</sup> 예 <br/> |<sup>15</sup> 예 <br/> |<sup>15</sup> 예 <br/> |<sup>15</sup> 예 <br/> |
 |Microsoft PowerApps  <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |
-|Microsoft StaffHub  <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |
+|Microsoft StaffHub  <br/> |<sup>17</sup> 예 <br/> |<sup>17</sup> 예 <br/> |<sup>17</sup> 예 <br/> |<sup>17</sup> 예 <br/> |
 |Microsoft Stream  <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |아니요  <br/> |
-|Microsoft Sway  <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |
-|Microsoft Teams  <br/> |<sup>16</sup> 예 <br/> |<sup>16</sup> 예 <br/> |<sup>16</sup> 예 <br/> |<sup>16</sup> 예 <br/> |
-|Office Delve  <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |예  <br/> |<sup>9, 15</sup> 예 <br/> |
+|Microsoft Sway  <br/> |<sup>17</sup> 예 <br/> |<sup>17</sup> 예 <br/> |<sup>17</sup> 예 <br/> |<sup>17</sup> 예 <br/> |
+|Microsoft Teams  <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |
+|Office Delve  <br/> |<sup>17</sup> 예 <br/> |<sup>17</sup> 예 <br/> |예  <br/> |<sup>17</sup> 예 <br/> |
 |Office 365 그룹  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Office 365 비디오  <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |아니요  <br/> |
+|Microsoft Stream  <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |아니요  <br/> |
 |**[사용자 계정 관리](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 미국 정부 G1** <br/> |**Office 365 미국 정부 G3** <br/> |**Office 365 미국 정부 g 5** <br/> |**Office 365 미국 정부 F1** <br/> |
 |클라우드 ID  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |페더레이션 ID(Single Sign-On)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -282,14 +282,14 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |IPv4 및 IPv6 프로토콜  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**트러스트** <br/> |**Office 365 미국 정부 G1** <br/> |**Office 365 미국 정부 G3** <br/> |**Office 365 미국 정부 g 5** <br/> |**Office 365 미국 정부 F1** <br/> |
 |**[개인 정보, 보안 및 투명성](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
-|고급 데이터 거버넌스  <br/> |없음<sup>12, 15</sup> <br/> |없음<sup>12, 15</sup> <br/> |<sup>15</sup> 예 <br/> |없음<sup>12, 15</sup> <br/> |
+|고급 데이터 거버넌스  <br/> |<sup>12</sup> 없음 <br/> |<sup>12</sup> 없음 <br/> |예 <br/> |<sup>12</sup> 없음 <br/> |
 |Cloud App Security  <br/> |없음<sup>11, 12</sup> <br/> |없음<sup>11, 12</sup> <br/> |<sup>11</sup> 예 <br/> |없음<sup>11, 12</sup> <br/> |
 |Advanced Threat Protection  <br/> |<sup>12</sup> 없음 <br/> |<sup>12</sup> 없음 <br/> |예  <br/> |<sup>12</sup> 없음 <br/> |
 |Customer Lockbox  <br/> |없음<sup>9, 12, 15</sup> <br/> |없음<sup>9, 12, 15</sup> <br/> |<sup>9, 15</sup> 예 <br/> |없음<sup>9, 12, 15</sup> <br/> |
-|Office 365 고급 eDiscovery  <br/> |없음<sup>12, 15</sup> <br/> |없음<sup>12, 15</sup> <br/> |예  <br/> |없음<sup>9, 15</sup> <br/> |
-|보안 점수<sup>14</sup> <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |
-|Office 메시지 암호화  <br/> |아니요  <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |아니요  <br/> |
-|위협 인텔리전스  <br/> |없음<sup>12, 15</sup> <br/> |없음<sup>12, 15</sup> <br/> |<sup>15</sup> 예 <br/> |없음<sup>12, 15</sup> <br/> |
+|Office 365 고급 eDiscovery  <br/> |<sup>12</sup> 없음 <br/> |<sup>12</sup> 없음 <br/> |예  <br/> |<sup>12</sup> 없음 <br/> |
+|보안 점수<sup>14</sup> <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |
+|Office 메시지 암호화  <br/> |아니요  <br/> |예 <br/> |예 <br/> |아니요  <br/> |
+|위협 인텔리전스  <br/> |<sup>12</sup> 없음 <br/> |<sup>12</sup> 없음 <br/> |예 <br/> |<sup>12</sup> 없음 <br/> |
 |**[규정 준수[ServiceDesc]](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
 |SAS 70 / SSAE16 평가  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |ISO 27001 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -316,7 +316,8 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 <br/><sup>11</sup> 아직 사용할 수 있는 Office 365 미국 정부에서 제품 하지만 곧 제공 될 예정입니다. ><br/><sup>12</sup> 포함, 아니라 GCC에서 별도 추가 기능으로 구입할 수 있습니다. 
 <br/>Office 365 미국 정부 제품에 대 한 <sup>13</sup> 지원 되지 않습니다. 
 <br/><sup>14</sup> 에서 사용할 수 있는 [https://securescore.office.com](https://securescore.office.com)합니다. 관리자 권한이 필요합니다. 자세한 내용은 [Office 365 보안 점수 소개 (영문)을](https://go.microsoft.com/fwlink/?linkid=836894)참조 하십시오.<br/><sup>15</sup> DoD 환경 하지만 곧 제공 될 예정에 아직 제공 되지 않습니다. 
-<br><sup>16</sup> 사용할 수 없는 GCC 높은 또는 DoD 합니다.
+<br><sup>16</sup> DoD 또는 GCC 높은 환경에서 관리 센터 사용 현황 분석 포함 되지 않습니다.
+<br><sup>17</sup> GCC 높은 또는 DoD 환경에 대 한 지원 되지 않습니다.
   
 [서비스 설명 섹션 사용 방법](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -380,4 +381,3 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 <br/><sup>5</sup> 대 한 자세한 내용은 [iOS 및 Android 정부 커뮤니티 클라우드에서 Outlook 사용](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) 을 참조 합니다.
   
 [서비스 설명 섹션 사용 방법](office-365-us-government.md#how-to-use-this-service-description-section)
-
