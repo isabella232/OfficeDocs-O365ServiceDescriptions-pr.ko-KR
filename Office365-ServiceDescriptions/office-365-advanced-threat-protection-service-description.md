@@ -1,9 +1,9 @@
 ---
-title: Office 365 고급 위협 Protection 서비스 설명
+title: Office 365 Advanced Threat Protection 서비스 설명
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 01/02/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,22 +13,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 고급 위협 보호 ATP ()는 강력한 제로 데가 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는데 도움이 됩니다 및 데이터를 보호 하려면 기능을 포함 하는 서비스를 필터링 하는 클라우드 기반 전자 메일 프로그램 실시간으로 해로울 수 있는 링크를 통해 조직입니다. ATP 풍부한 보고 및 관리자가 조직에서 발생 하는 공격의 종류에 대 한 정보를 제공 하는 URL 추적 기능에 있습니다.
-ms.openlocfilehash: 6c7ce44932312b82293b19d85ebac07137716617
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f8a44cdebebafe575f5c22a3a491671f57b05d49
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036555"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784870"
 ---
-# <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 고급 위협 Protection 서비스 설명
+# <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection 서비스 설명
 
 Microsoft Office 365 고급 위협 보호 ATP ()는 강력한 제로 데가 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는데 도움이 됩니다 및 데이터를 보호 하려면 기능을 포함 하는 서비스를 필터링 하는 클라우드 기반 전자 메일 프로그램 실시간으로 해로울 수 있는 링크를 통해 조직입니다. ATP 풍부한 보고 및 관리자가 조직에서 발생 하는 공격의 종류에 대 한 정보를 제공 하는 URL 추적 기능에 있습니다.
   
-기본적으로 다음과 같은 방식을 통해 메시징 보호에 ATP를 사용할 수 있습니다.
+다음은 ATP를 사용 하 여 메시지 보호를 위해 수 하는 주요 방법입니다.
   
 - Office 365 ATP 필터링 전용 시나리오에서는 ATP 온-프레미스 Exchange Server 2013 환경, 레거시 Exchange Server 버전 또는 기타 모든 온-프레미스 SMTP 전자 메일 솔루션에 대 한 클라우드 기반 전자 메일 보호 기능을 제공합니다.
     
-- Office 365 ATP Exchange Online 클라우드 호스팅 사서함을 보호 하기 위해 사용할 수 있습니다. Exchange Online에 대 한 자세한 내용은, [Exchange Online 서비스 설명](https://technet.microsoft.com/en-us/library/exchange-online-service-description.aspx)을 참조 하세요.
+- Office 365 ATP Exchange Online 클라우드 호스팅 사서함을 보호 하기 위해 사용할 수 있습니다. Exchange Online에 대 한 자세한 내용은, [Exchange Online 서비스 설명](exchange-online-service-description/exchange-online-service-description.md)을 참조 하세요.
     
 - 하이브리드 배포에서 ATP 메시징 환경을 보호 하 고를 함께 온-프레미스 및 클라우드 사서함이 Exchange Online Protection 인바운드 전자 메일을 필터링 하기 위한 개인 메일 라우팅을 제어 하도록 구성할 수 있습니다.
     
@@ -69,7 +69,7 @@ Office 365 고급 위협 보호를 구입, [Office 365 고급 위협 보호](htt
   
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>새로운에서 Office 365 고급 위협 보호 ATP)
 
-ATP의 새로운 기능에 대 한 정보를 [Office 365의 ATP 안전 링크](https://go.microsoft.com/fwlink/?linkid=846016)를 참조 하십시오.
+ATP의 새로운 기능에 대 한 정보를 [ATP의 새로운 기능](https://docs.microsoft.com/office365/securitycompliance/office-365-atp#new-features-are-continually-being-added-to-atp)을 참조 하십시오.
   
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Office 365 고급 위협 보호 (ATP)에 대 한 요구 사항
 

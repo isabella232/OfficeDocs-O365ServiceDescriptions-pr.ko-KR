@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 Office 365 미국 정부 계획 미국 공공 분야의 발전 하며 고유한 요구 사항에 대 한 응답으로 만들었습니다 (orOffice 365 미국 정부). 이 섹션에서는 Office 365 미국 정부 기관에 관련 된 기능에 대 한 개요를 제공 합니다. Office 365 서비스 설명와 함께이 보충 섹션을 읽고 하는 것이 좋습니다.
-ms.openlocfilehash: 68e2d354c8b83b44f9d395fb4ab49db16a52ddb5
-ms.sourcegitcommit: 451566be3a538320c86d284a893235b253743b31
+ms.openlocfilehash: 30c7f998d57ddcf47922a39fd5492dcdac560ddf
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/27/2018
-ms.locfileid: "27449922"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784910"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -339,10 +339,10 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |[비즈니스용 Skype](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |예<sup>3</sup> <br/> |예  <br/> |예  <br/> |예<sup>3</sup> <br/> |
 |[Office 365용 Office for Mac](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[iPad/iPhone용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
-|[Android용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
+|[iPad/iPhone용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |아니요  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |아니요  <br/> |
+|[Android용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |아니요  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |아니요  <br/> |
 |[Windows Phone용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
-|[Windows Phone용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
+|Windows 10용 Office Mobile 태블릿 <br/> |아니요  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |아니요  <br/> |
 |IOS와 Android<sup>5, 4</sup> 에 대 한 outlook  <br/> |예 <br/> |예 <br/> |예 <br/> |예 <br/> |
 |**기업 가치** <br/> |**Office 365 미국 정부 G1** <br/> |**Office 365 미국 정부 G3** <br/> |**Office 365 미국 정부 g 5** <br/> |**Office 365 미국 정부 F1** <br/> |
 |PC 또는 Mac에서 사용자당 5건의 동시 설치 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
@@ -358,7 +358,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |Excel 스프레드시트 조회  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |그룹 정책 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Azure 정보 보호를 사용 하 여 정보 권한 관리  <br/> |없음<sup>1</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |없음<sup>1</sup> <br/> |
+|Azure 정보 보호를 사용 하 여 정보 권한 관리  <br/> |없음<sup>1</sup> <br/> |<sup>6</sup> 예 <br/> |<sup>6</sup> 예 <br/> |없음<sup>1</sup> <br/> |
 |Windows Server AD RMS를 사용한 정보 권한 관리  <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |
 |Office 추가 기능, ActiveX 및 BHO 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
@@ -370,7 +370,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |Power Pivot for Excel  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Excel용 파워 쿼리  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Power View for Excel  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
-|로밍 설정  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
+|로밍 설정  <br/> |아니요  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |아니요  <br/> |
 |공유 컴퓨터 활성화  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |클라우드 기반 파일 저장 차단 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |버전 업그레이드  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
@@ -379,5 +379,5 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 > <sup>1</sup> azure 정보 보호는 포함 되어있지 않지만 별도 추가 기능으로 구입할 수 있습니다 및 지원 되는 정보 권한 관리 (IRM) 기능을 사용 하는 합니다. 일부 Azure 정보 보호 기능을 사용 하는 Office 365 미국 정부 G1 또는 Office 365 미국 정부 f 1에 포함 되지 않은 Office 365 ProPlus에 대 한 구독을 해야 합니다.<br/><sup>2</sup> Windows Server AD RMS는 구입 하 고 지원 되는 IRM 기능을 사용 하는 별도로 관리 해야 하는 온-프레미스 서버입니다. 
 <br/><sup>3</sup> 기본 비즈니스에 대 한 Skype은 모든 고객을 위해 사용할 수 있습니다. 비즈니스 데스크톱 클라이언트에 대 한 Skype은 비즈니스 Online 용 Skype를 포함 하는 Office 365 계획에 대 한 현재 상태, 인스턴트 메시징 및 회의 기능을 제공 하는 로컬에 설치 된 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 포함 하는 전체 Skype 응용 프로그램을 포함 합니다. 각 사용자에 대 한 비즈니스 온라인 라이선스에 대 한 Skype 할당 되어야 합니다. Lync Basic 기능에 대 한 자세한 내용은 [비즈니스 Online 클라이언트 비교표 용 Skype](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)를 참조 하십시오.<br/><sup>4</sup> 아직 사용할 수 있는 GCC 높은 또는 DoD 환경 있지만 곧 제공 될 예정입니다.
 <br/><sup>5</sup> 대 한 자세한 내용은 [iOS 및 Android 정부 커뮤니티 클라우드에서 Outlook 사용](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) 을 참조 합니다.
-  
-[서비스 설명 섹션 사용 방법](office-365-us-government.md#how-to-use-this-service-description-section)
+  <br/><sup>6</sup> Office 365 DoD 환경 하지만 곧 제공 될 예정에 아직 제공 되지 않습니다.
+<br/><br/>[서비스 설명 섹션 사용 방법](office-365-us-government.md#how-to-use-this-service-description-section)

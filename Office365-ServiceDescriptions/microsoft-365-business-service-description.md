@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 비즈니스에는 비즈니스 보호를 위해 고급 보안 및 장치 관리 기능을 가진 Office 365의 클래스에서 최고 생산성 모을 통합 된 솔루션입니다. . 이 서비스 설명에는 계획 옵션 및 기능에 설명 합니다. Office 365에 대 한 자세한 내용은 Office 365 서비스 설명을 참조 하십시오.
-ms.openlocfilehash: 23f3d4032da18de3ba10155942dfe5bd08c5d574
-ms.sourcegitcommit: 6009866151bd0907ebf0b34ccea578efd6b1eb61
+ms.openlocfilehash: 0aeaea88fa368aa8d133f5e2bfb24547a8f89452
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2018
-ms.locfileid: "26674225"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784890"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business 서비스 설명
 
@@ -35,7 +35,7 @@ Office 365 계획 별 기능 사용 가능 여부를 보려면 [Office 365 플�
 |Exchange Online  <br/> |예<sup>1</sup> <br/> |예<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |
-|비즈니스용 Skype Online  <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |
+|비즈니스용 Skype 온라인  <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |
 |Office Online  <br/> |예  <br/> |예  <br/> |
 |Office 응용 프로그램  <br/> |예  <br/> |예  <br/> |
 |Project Online  <br/> |없음<sup>3</sup> <br/> |없음<sup>3</sup> <br/> |
@@ -122,7 +122,7 @@ Office 365 계획 별 기능 사용 가능 여부를 보려면 [Office 365 플�
 |클라우드 앱 검색  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |동적 그룹  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |클라우드 id에 대 한 다시 설정 하는 셀프서비스 암호  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|셀프서비스 암호와 재설정 온-프레미스 AD 쓰기 저장  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|셀프서비스 암호와 재설정 온-프레미스 AD 쓰기 저장  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |장치 개체를 온-프레미스 디렉터리와 Azure AD (장치 쓰기 저장) 간의 양방향 동기화  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |조건부 (또는에 따라 액세스 그룹, 위치, 장치 상태, 로그인, 사용자 위험)  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |회사 (로그온 페이지/액세스 패널 사용자 지정 브랜딩 (영문)  <br/> |예  <br/> |예  <br/> |예  <br/> |

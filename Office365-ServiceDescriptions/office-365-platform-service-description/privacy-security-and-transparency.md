@@ -3,7 +3,7 @@ title: 개인 정보, 보안 및 투명성
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 01/02/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft는 고객과의 파트너 관계를 소중히 여기며 고객 데이터의 보안 및 개인 정보를 보호하는 데 중점을 두고 있습니다. 자세한 내용은 Microsoft 보안 센터를 참조하세요.
-ms.openlocfilehash: 8a50f2bbf2a4890c9f4d77f9b68f186de79867cc
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 1a6e3320c5c285462b0f891927ccd0279c39be9a
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036545"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784860"
 ---
 # <a name="privacy-security-and-transparency"></a>개인 정보, 보안 및 투명성
 
@@ -55,7 +55,7 @@ Customer Lockbox는 Office 365 Enterprise 5 계획에 포함되어 있거나 다
   
 ## <a name="advanced-threat-protection"></a>Advanced Threat Protection
 
-Exchange Online Advanced Threat Protection은 맬웨어 및 바이러스로부터 조직을 보호하는 클라우드 기반 전자 메일 필터링 서비스입니다. ATP에는 안전 링크 및 안전한 첨부 파일 기능이 포함되어 있습니다. 안전 링크는 메시지에 포함된 악의적인 하이퍼링크로부터 사용자를 미리 보호하고, 링크를 클릭할 때마다 보호 기능을 제공합니다. 안전한 첨부 파일 기능은 알 수 없는 맬웨어 및 바이러스로부터 보호하고, 알려진 바이러스/맬웨어 서명이 없는 모든 메시지 및 첨부 파일을 ATP를 통해 악의적인 의도가 검색될 수 있는 특수한 환경으로 라우팅합니다. ATP에 대한 자세한 내용은 [Exchange Online Advanced Threat Protection 서비스 설명](https://technet.microsoft.com/en-us/library/exchange-online-advanced-threat-protection-service-description.aspx)을 참조하세요.
+Office 365 고급 위협 보호 조직의 맬웨어 및 바이러스 로부터 보호 합니다. ATP [안전한 링크](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [안전한 첨부 파일](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [-피싱](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)및 [스푸핑 인텔리전스](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) 기능을 포함합니다. 안전한 링크 사전 보호 하는 사용자가 악의적인 하이퍼링크를 메시지에 대 한 링크를 클릭할 때마다 보호 기능을 제공 합니다. 안전한 첨부 파일 ATP 악의적인 의도 검색할 수 있는 모든 메시지와 첨부 파일의 특수 한 환경에 알려진된 바이러스/맬웨어 서명이 없는 라우팅 알 수 없는 맬웨어 및 바이러스 로부터 보호 합니다. ATP 하는 방법에 대 한 자세한 내용은 [Office 365 고급 위협 Protection Service Description](../office-365-advanced-threat-protection-service-description.md)을 참조 하십시오.
   
 ## <a name="feature-availability"></a>기능 가용성
 
