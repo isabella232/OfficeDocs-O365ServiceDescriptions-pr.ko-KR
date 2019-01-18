@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365는 강력한 보안, 안정성 및 사용자의 생산성에 대 한 조직의 요구를 충족 하도록 설계 된 클라우드 기반 서비스입니다.
-ms.openlocfilehash: f52133b8faf1071a6fbbf07b634e5cae4286bf13
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 31f85abc3c129c1b89a0d170b2bdb6537660772d
+ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036442"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "28694662"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 서비스 설명 
 
@@ -33,7 +33,7 @@ Microsoft Office 365는 강력한 보안, 안정성 및 사용자의 생산성�
 > [!NOTE]
 > 서비스 설명 비교 스프레드시트에 대한 내용은 더 이상 사용되지 않습니다. 각 서비스 설명 페이지의 제품 기능 가용성 표가 필요에 맞는 Office 365 버전을 선택하는 데 도움이 되도록 업데이트되었습니다. 
   
-Microsoft는 사용할 수 있는 계획의 사용할 수 잇는 서비스에 대해 Office 365 온보딩 혜택을 제공합니다. 온보딩 혜택을 사용하여 Microsoft 전문가와 원격으로 협의하면서 Office 365 환경의 사용 준비를 완료할 수 있습니다. 자세한 내용은 [Office 365 Onboarding Benefit](http://technet.microsoft.com/library/cb4d7c0f-ad86-4134-a5fe-92a250cd3003.aspx)을 참조하세요.
+가능한 계획에서 사용할 수 있는 서비스에 대 한 Office 365에 대 한 FastTrack 센터 복리 후생을 제공 하는 Microsoft 합니다. 이점을 준비 하기 위해 Office 365 환경을 사용 하기 위해 Microsoft 전문가와 원격으로 작업을 수행할 수 있습니다. 자세한 내용은 [Office 365에 대 한 FastTrack 센터 혜택](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)을 참조 하십시오.
   
 시작하려면 다음 서비스 설명을 참조하십시오.
   
@@ -47,7 +47,7 @@ Microsoft는 사용할 수 있는 계획의 사용할 수 잇는 서비스에 �
     
 - [Exchange Online Protection 서비스 설명](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
     
-- [Office 365 고급 위협 Protection 서비스 설명](office-365-advanced-threat-protection-service-description.md)
+- [Office 365 Advanced Threat Protection 서비스 설명](office-365-advanced-threat-protection-service-description.md)
     
 - [Exchange Online Archiving 서비스 설명](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
     
@@ -63,11 +63,11 @@ Microsoft는 사용할 수 있는 계획의 사용할 수 잇는 서비스에 �
     
 - [Project Online 서비스 설명](project-online-service-description/project-online-service-description.md)
     
-- [Visio 온라인 서비스 설명](visio-online-service-description/visio-online-service-description.md)
+- [Visio Online 서비스 설명](visio-online-service-description/visio-online-service-description.md)
     
 - [Yammer 서비스 설명](yammer-service-description/yammer-service-description.md)
     
-- [Microsoft Dynamics 365 (온라인) 서비스 설명](microsoft-dynamics-365-online-service-description.md)
+- [Microsoft Dynamics 365(온라인) 서비스 설명](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
 > <sup>1</sup> Office Delve, Microsoft MyAnalytics, Microsoft Sway 및 Microsoft Teams와 같은 [제품군 기능](https://technet.microsoft.com/EN-US/library/office-365-suite-features.aspx)의 가용성이 포함되어 있습니다. 

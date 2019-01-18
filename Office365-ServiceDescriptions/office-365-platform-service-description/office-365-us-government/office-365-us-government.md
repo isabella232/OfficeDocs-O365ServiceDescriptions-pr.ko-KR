@@ -1,9 +1,9 @@
 ---
 title: Office 365 Government
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 7/6/2018
+ms.author: danarl
+author: danarl
+manager: dianap
+ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 Office 365 미국 정부 계획 미국 공공 분야의 발전 하며 고유한 요구 사항에 대 한 응답으로 만들었습니다 (orOffice 365 미국 정부). 이 섹션에서는 Office 365 미국 정부 기관에 관련 된 기능에 대 한 개요를 제공 합니다. Office 365 서비스 설명와 함께이 보충 섹션을 읽고 하는 것이 좋습니다.
-ms.openlocfilehash: 30c7f998d57ddcf47922a39fd5492dcdac560ddf
-ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
+ms.openlocfilehash: 05da74a6efad6834f2108c83126aa1522ae62776
+ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "27784910"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "28694682"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -209,9 +209,9 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |Microsoft MyAnalytics  <br/> |없음<sup>9, 12, 15</sup> <br/> |없음<sup>9, 12, 15</sup> <br/> |<sup>9, 15</sup> 예 <br/> |없음<sup>9, 12, 15</sup> <br/> |
 |Microsoft Planner  <br/> |<sup>15</sup> 예 <br/> |<sup>15</sup> 예 <br/> |<sup>15</sup> 예 <br/> |<sup>15</sup> 예 <br/> |
 |Microsoft PowerApps  <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |
-|Microsoft StaffHub  <br/> |<sup>17</sup> 예 <br/> |<sup>17</sup> 예 <br/> |<sup>17</sup> 예 <br/> |<sup>17</sup> 예 <br/> |
+|Microsoft StaffHub  <br/> |<sup>13</sup> 예 <br/> |<sup>13</sup> 예 <br/> |<sup>13</sup> 예 <br/> |<sup>13</sup> 예 <br/> |
 |Microsoft Stream  <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |아니요  <br/> |
-|Microsoft Sway  <br/> |<sup>17</sup> 예 <br/> |<sup>17</sup> 예 <br/> |<sup>17</sup> 예 <br/> |<sup>17</sup> 예 <br/> |
+|Microsoft Sway  <br/> |<sup>13</sup> 예 <br/> |<sup>13</sup> 예 <br/> |<sup>13</sup> 예 <br/> |<sup>13</sup> 예 <br/> |
 |Microsoft Teams  <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |<sup>9, 15</sup> 예 <br/> |
 |Office Delve  <br/> |<sup>17</sup> 예 <br/> |<sup>17</sup> 예 <br/> |예  <br/> |<sup>17</sup> 예 <br/> |
 |Office 365 그룹  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -309,9 +309,9 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**[서비스 수준 계약](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[제품 사용권](../../office-365-platform-service-description/product-use-rights.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
    
-> <sup>1</sup> azure 정보 보호는 포함 되어있지 않지만 별도 추가 기능으로 구입할 수 있습니다 및 지원 되는 정보 권한 관리 (IRM) 기능을 사용 하는 합니다. 일부 Azure 정보 보호 기능을 사용 하는 Office 365 미국 정부 G1 또는 Office 365 미국 정부 f 1에 포함 되지 않은 Office 365 ProPlus에 대 한 구독을 해야 합니다. ><br/><sup>2</sup> 기존 BBCS 및 BIS 고객 서비스 사용을 계속할 수 있습니다. 새 고객에 게 허용 되지 않습니다.<br/><sup>3</sup> 디렉터리 동기화를 사용할 경우 계정을 삭제 하거나 해야 하는 대신 Office 365 포털 또는 Windows PowerShell 용 Azure Active Directory 모듈을 사용 하 여 Active Directory를 사용 하 여 암호를 변경 합니다. 
+> <sup>1</sup> azure 정보 보호는 포함 되어있지 않지만 별도 추가 기능으로 구입할 수 있습니다 및 지원 되는 정보 권한 관리 (IRM) 기능을 사용 하는 합니다. 일부 Azure 정보 보호 기능을 사용 하는 Office 365 미국 정부 G1 또는 Office 365 미국 정부 f 1에 포함 되지 않은 Office 365 ProPlus에 대 한 구독을 해야 합니다. gt_<br/><sup>2</sup> 기존 BBCS 및 BIS 고객 서비스 사용을 계속할 수 있습니다. 새 고객에 게 허용 되지 않습니다.<br/><sup>3</sup> 디렉터리 동기화를 사용할 경우 계정을 삭제 하거나 해야 하는 대신 Office 365 포털 또는 Windows PowerShell 용 Azure Active Directory 모듈을 사용 하 여 Active Directory를 사용 하 여 암호를 변경 합니다. 
 <br/><sup>4</sup> 암호 동기화를 사용 하는 경우 사용자는 로컬 Active Directory에서 암호를 변경 해야 합니다. 
-<br/><sup>5</sup> 사용자에 대 한 셀프서비스 암호 관리 정책을 설정 하는 방법을 알아보려면 [Azure AD에 대 한 암호 관리](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)를 참조 합니다. <br/><sup>6</sup> Office 365의 이전 버전에서 업그레이드 했을 때 하지 않았다면 Office 365와 공용 웹사이트를 하나만 가질 수 있습니다. 이 경우 두 공용 웹사이트 되었지만 사용자 지정 도메인 이름으로 그 중 하나만 호스팅할 수 있습니다. 비즈니스 구독에 대 한 두 웹사이트를 사용 하는 방법에 대 한 자세한 내용은 [두 Office 365 공용 웹사이트와 함께 작동](https://go.microsoft.com/fwlink/p/?LinkID=271589)을 참조 하십시오. 다른 구독을 설치한 경우 [파트너 웹사이트를 호스트 하 고 Office 365의 공용 웹사이트에 대 한 설명](https://go.microsoft.com/fwlink/p/?LinkID=325009)에서 공용 웹사이트에 대해 알아봅니다.<br/><sup>7</sup> 용어 할인 된를 구매한 단축 시트는 초기 종료 요금 적용 될 수 있습니다. 월별로 유료 구독에 적용 되지 않습니다.<br/><sup>8</sup> 다음 계획 Office 365 관리 센터에서 라이선스 명 변경 내용을 지원 하지 않는: > Office 365 미국 정부 G1 > Office 365 미국 정부 G3 > Office 365 미국 정부 K1 <br/><sup>9</sup> 아직 사용할 수 있는 GCC 높은 하지만 곧 제공 될 예정입니다.
+<br/><sup>5</sup> 사용자에 대 한 셀프서비스 암호 관리 정책을 설정 하는 방법을 알아보려면 [Azure AD에 대 한 암호 관리](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)를 참조 합니다. <br/><sup>6</sup> Office 365의 이전 버전에서 업그레이드 했을 때 하지 않았다면 Office 365와 공용 웹사이트를 하나만 가질 수 있습니다. 이 경우 두 공용 웹사이트 되었지만 사용자 지정 도메인 이름으로 그 중 하나만 호스팅할 수 있습니다. 비즈니스 구독에 대 한 두 웹사이트를 사용 하는 방법에 대 한 자세한 내용은 [두 Office 365 공용 웹사이트와 함께 작동](https://go.microsoft.com/fwlink/p/?LinkID=271589)을 참조 하십시오. 다른 구독을 설치한 경우 [파트너 웹사이트를 호스트 하 고 Office 365의 공용 웹사이트에 대 한 설명](https://go.microsoft.com/fwlink/p/?LinkID=325009)에서 공용 웹사이트에 대해 알아봅니다.<br/><sup>7</sup> 용어 할인 된를 구매한 단축 시트는 초기 종료 요금 적용 될 수 있습니다. 월별로 유료 구독에 적용 되지 않습니다.<br/><sup>8</sup> 다음 계획 Office 365 관리 센터에서 라이선스 명 변경 내용을 지원 하지 않는: Office 365 미국 정부 G1 gt_ gt_ Office 365 미국 정부 G3 gt_ Office 365 미국 정부 K1 <br/><sup>9</sup> 아직 사용할 수 있는 GCC 높은 하지만 곧 제공 될 예정입니다.
 <br/><sup>10</sup> Office 365 미국 정부 G1, G3 및 F1 키를 대상 버전 및 비즈니스 로드맵에 대 한 Office 365 적용 합니다. 그러나 일부 차이점 또는 [규정 준수 요구 사항](https://products.office.com/en-us/business/office-365-trust-center-cloud-computing-security?legRedir=true&amp;CorrelationId=eeaccba9-85ea-4fa8-9c84-3fb4c9e1547b&amp;tab=7a3a6365-14c0-81ac-34ff-f4a416599263)으로 인해 특정 서비스 업데이트에 대 한 지연 있을 수 있습니다.
 <br/><sup>11</sup> 아직 사용할 수 있는 Office 365 미국 정부에서 제품 하지만 곧 제공 될 예정입니다. ><br/><sup>12</sup> 포함, 아니라 GCC에서 별도 추가 기능으로 구입할 수 있습니다. 
 <br/>Office 365 미국 정부 제품에 대 한 <sup>13</sup> 지원 되지 않습니다. 
