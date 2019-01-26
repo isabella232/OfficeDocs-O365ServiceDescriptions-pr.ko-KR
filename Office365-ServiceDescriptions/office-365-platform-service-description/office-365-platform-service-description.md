@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365는 다양 한 조직의 요구를 가장 잘 충족 하는 계획에 사용할 수 있습니다. Exchange Online 계획을 포함 하 여 Office 365 계획, 간의 차이점에 대 한 찾는 경우이 문서 안내해 기능을 쿼리하고 각에 포함 됩니다.
-ms.openlocfilehash: 698d6ed370cf8836befd48cd07933e4175d88311
-ms.sourcegitcommit: 317b7058f4514061701c9b7f8dc18e526d43a027
+ms.openlocfilehash: 4d52cda4032c1e94b478486e5df5fa81898abcf1
+ms.sourcegitcommit: 6bc22caa49b04042d17dc551628a6824fc3f93aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/28/2018
-ms.locfileid: "27459711"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29506672"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 플랫폼 서비스 설명
 
@@ -132,12 +132,10 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 |Office 365에서 관리되는 DNS 레코드(완전 재위임)  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |DNS 호스팅 공급자 웹 사이트에서 관리되는 DNS 레코드(부분 재위임)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |전자 메일 주소 및 비즈니스용 Skype 온라인에 **이름.onmicrosoft.com** 도메인 또는 사용자 지정 도메인 이름 사용  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|SharePoint Online 공개 웹 사이트에 **이름-public.sharepoint.com** 또는 사용자 지정 도메인 이름 사용 <sup>5</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |팀 사이트에 **이름.sharepoint.com** 사용  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |팀 사이트에 사용자 지정 도메인 이름 사용  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |다른 공급자에 의한 공개 웹 사이트 호스트  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |전자 메일 및 메신저에 다른 공급자 사용  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|사용자 지정 도메인 이름으로 여러 SharePoint Online 공개 웹 사이트 호스트<sup>5</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |사용자 지정 도메인에 대해 도메인 소유권 확인 필요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Go Daddy를 통해 구입한 도메인에 대해 자동화된 도메인 구입 및 도메인 확인 사용 가능  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[서비스 상태 및 연속성](service-health-and-continuity.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
@@ -211,9 +209,10 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 
 > <sup>1</sup> office 365는 해당 제조업체에서 지원 하지 않는 모든 운영 체제에 대 한 지원을 제공 하지 않습니다. 
 <br/><sup>2</sup> azure 정보 보호는 포함 되어있지 않지만 별도 추가 기능으로 구입할 수 있습니다 및 지원 되는 정보 권한 관리 (IRM) 기능을 사용 하는 합니다. 일부 Azure 정보 보호 기능을 사용 하려면 Office 365 ProPlus는 Office 365 비즈니스 Essentials "," Office 365 프리미엄 "," Office 365 Enterprise E1 "," Office 365 교육 "또는" Office 365 Enterprise f 1에 포함 하는 구독 합니다.<br/><sup>3</sup> 로컬 Active Directory와 디렉터리 동기화를 사용할 경우 계정을 삭제 하거나 해야 로컬 Active Directory 대신 Office 365 포털 또는 Windows PowerShell 용 Azure Active Directory 모듈을 사용 하 여 사용 하 여 암호를 변경 합니다. 
-<br/><sup>4</sup> 사용자에 대 한 셀프서비스 암호 관리 정책을 설정 하는 방법을 알아보려면 [Azure AD에 대 한 암호 관리](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)를 참조 합니다. <br/><sup>5</sup> Office 365의 이전 버전에서 업그레이드 했을 때 하지 않았다면 Office 365와 공용 웹사이트를 하나만 가질 수 있습니다. 이 경우 두 공용 웹사이트 되었지만 사용자 지정 도메인 이름으로 그 중 하나만 호스팅할 수 있습니다. 비즈니스 구독에 대 한 두 웹사이트를 사용 하는 방법에 대 한 자세한 내용은 [하면 두 Office 365 공용 웹사이트와 함께 작동](https://go.microsoft.com/fwlink/p/?LinkID=271589)을 참조 하십시오. 다른 구독을 설치한 경우 [Office 365에 대 한 공개 웹사이트 도움말](https://go.microsoft.com/fwlink/p/?LinkID=325009)에서 공용 웹사이트에 대해 알아봅니다.<br/><sup>6</sup> 기간 할인을 통해 구입한 허용 사용자 수를 줄이면 위약금이 부과될 수 있습니다. 이러한 위약금이 월별 유료 구독에는 적용되지 않습니다.<br/><sup>7</sup> 에서 사용할 수 있는 [https://securescore.office.com](https://securescore.office.com)합니다. 관리자 권한이 필요합니다. 자세한 내용은 [Office 365 보안 점수 소개 (영문)을](https://go.microsoft.com/fwlink/?linkid=836894)참조 하십시오.<br/><sup>8</sup> Microsoft 거주 고객 특정 지역에 대 한 현재 사용할 수 없는 합니다. 8 월 2015 이후로 시장에 더이상 없는 일부 레거시 Office 365 계획도 액세스할 수 없는 Microsoft 영향을 합니다.<br/><sup>9</sup> 감소 된 환경을 보장 합니다. 조직 오래 된 웹 응용 프로그램 및 서비스에 액세스 하려면 Internet Explorer 8 또는 Internet Explorer 9 종속 인 경우에 Internet Explorer 11로 업그레이드 하 고 엔터프라이즈 모드 Internet Explorer 11에 대 한 평가 고려 하는 것이 좋습니다. 이 업데이트는 레거시 웹 응용 프로그램에 대 한 이전 버전과 호환성 향상을 제공 합니다.<br/><sup>10</sup> 팀이 Microsoft Office 365 비즈니스 Essentials, Office 365 프리미엄, Office 365 엔터프라이즈 (E1, E3, e 5, F1) 및 Office 365 교육 계획에서 제공 됩니다. 
+<br/><sup>4</sup> 사용자에 대 한 셀프서비스 암호 관리 정책을 설정 하는 방법을 알아보려면 [Azure AD에 대 한 암호 관리](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)를 참조 합니다. 
+<br/><sup>6</sup> 기간 할인을 통해 구입한 허용 사용자 수를 줄이면 위약금이 부과될 수 있습니다. 이러한 위약금이 월별 유료 구독에는 적용되지 않습니다.<br/><sup>7</sup> 에서 사용할 수 있는 [https://securescore.office.com](https://securescore.office.com)합니다. 관리자 권한이 필요합니다. 자세한 내용은 [Office 365 보안 점수 소개 (영문)을](https://go.microsoft.com/fwlink/?linkid=836894)참조 하십시오.<br/><sup>8</sup> Microsoft 거주 고객 특정 지역에 대 한 현재 사용할 수 없는 합니다. 8 월 2015 이후로 시장에 더이상 없는 일부 레거시 Office 365 계획도 액세스할 수 없는 Microsoft 영향을 합니다.<br/><sup>9</sup> 감소 된 환경을 보장 합니다. 조직 오래 된 웹 응용 프로그램 및 서비스에 액세스 하려면 Internet Explorer 8 또는 Internet Explorer 9 종속 인 경우에 Internet Explorer 11로 업그레이드 하 고 엔터프라이즈 모드 Internet Explorer 11에 대 한 평가 고려 하는 것이 좋습니다. 이 업데이트는 레거시 웹 응용 프로그램에 대 한 이전 버전과 호환성 향상을 제공 합니다.<br/><sup>10</sup> 팀이 Microsoft Office 365 비즈니스 Essentials, Office 365 프리미엄, Office 365 엔터프라이즈 (E1, E3, e 5, F1) 및 Office 365 교육 계획에서 제공 됩니다. 
 <br/><sup>11</sup> Office 365 엔터프라이즈 F1, Office 365 비디오는 읽기 전용으로 제한 (없음 게시 또는 공유). 
 <br/><sup>12</sup> InOffice 365 Enterprise F1 일대일 음성/화상 통화 지원 됩니다. 회의 권한 조인만 (없음 만들기 (영문) 또는 시작)로 제한 됩니다.<br/><sup>13</sup> Office 365 Enterprise F1, PowerApps는 소비만 (없음 게시 또는 공유)으로 제한 합니다. 
 <br/><sup>14</sup> Office 365 Enterprise F1, 흐름 제한만 소비 되며 실행 한달간 사용자 당 750 제한 됩니다. 
 <br/>Office 365 e 5 교육 포함 하 여 <sup>15</sup> Office 365 교육에만 사용할 수 있는 계획입니다. Office 365 Enterprise e 5에 사용할 수는 없습니다.<br/><sup>16</sup> 자세한 정보에 대 한 참조 [고객 키를 사용 하 여 Office 365에서 데이터를 제어](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)합니다. 
-<br/><sup>17</sup> 고급 eDiscovery는 미국, 대한민국 및 서유럽 (네덜란드) 영역에서 지원 됩니다. (미국, 대한민국에 캐나다 및 아시아 태평양의 고객 데이터를 내보냅니다. 유럽, 중동 및 아프리카의 고객 데이터를 내보냅니다 서유럽 [네덜란드].) ><br/><sup>18</sup> Microsoft Stream 사용 전용: 게시 또는 공유할 수 없음 
+<br/><sup>17</sup> 고급 eDiscovery는 미국, 대한민국 및 서유럽 (네덜란드) 영역에서 지원 됩니다. (미국, 대한민국에 캐나다 및 아시아 태평양의 고객 데이터를 내보냅니다. 유럽, 중동 및 아프리카의 고객 데이터를 내보냅니다 서유럽 [네덜란드].) gt_<br/><sup>18</sup> Microsoft Stream 사용 전용: 게시 또는 공유할 수 없음 

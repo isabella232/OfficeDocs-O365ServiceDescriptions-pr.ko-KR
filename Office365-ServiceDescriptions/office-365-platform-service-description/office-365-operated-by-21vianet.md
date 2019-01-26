@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영하는 Office 365는 중국의 안전하고 안정적이며 확장 가능한 클라우드 서비스에 대한 요구를 충족하도록 설계되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: b0ad00866bb1ec41d33e1c855765f7153d0679ce
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 83369f8c0b4da4557b2b49e247a405d137db5f85
+ms.sourcegitcommit: 6bc22caa49b04042d17dc551628a6824fc3f93aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362953"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29506692"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -198,7 +198,7 @@ Office 365 보안 &amp; 준수 센터는 21Vianet에서 운영 하는 Office 365
 <br/><sup>2</sup> 에서 Office 365 Enterprise F1 21Vianet에서 운영, Office 365 비디오는 읽기 전용으로 제한 (없음 게시 또는 공유). 
 <br/><sup>3</sup> 를 사용 하는 로컬 Active Directory와 디렉터리 동기화를 사용 하는 경우 계정을 삭제 하거나 해야 로컬 Active Directory 대신 Office 365 포털 또는 windows Azure Active Directory 모듈을 사용 하 여 사용 하 여 암호를 변경 합니다. PowerShell 합니다. 
 <br/><sup>4</sup> 21Vianet에서 운영 하지만 곧 제공 될 예정 Office 365에서 아직 제공 되지 않습니다. 
-<br/><sup>5</sup> Office 365의 이전 버전에서 업그레이드 했을 때 하지 않았다면 Office 365와 공용 웹사이트를 하나만 가질 수 있습니다. 이 경우 두 공용 웹사이트 되었지만 사용자 지정 도메인 이름으로 그 중 하나만 호스팅할 수 있습니다. 비즈니스 구독에 대 한 두 웹사이트를 사용 하는 방법에 대 한 자세한 내용은 [하면 두 Office 365 공용 웹사이트와 함께 작동](https://go.microsoft.com/fwlink/p/?LinkID=271589)을 참조 하십시오. 다른 구독을 설치한 경우 [Office 365에 대 한 공개 웹사이트 도움말](https://go.microsoft.com/fwlink/p/?LinkID=325009)에서 공용 웹사이트에 대해 알아봅니다.<br/><sup>6</sup> 용어 할인 된를 구매한 단축 시트는 초기 종료 요금 적용 될 수 있습니다. 월별로 유료 구독에 대 한 적용 되지 않습니다. ><br/><sup>7</sup> Office 365 관리 센터에서 라이선스 명 변경 내용에는 office 365 교육 계획 지원 하지 않습니다.
+<br/><sup>5</sup> Office 365의 이전 버전에서 업그레이드 했을 때 하지 않았다면 Office 365와 공용 웹사이트를 하나만 가질 수 있습니다. 이 경우 두 공용 웹사이트 되었지만 사용자 지정 도메인 이름으로 그 중 하나만 호스팅할 수 있습니다. 비즈니스 구독에 대 한 두 웹사이트를 사용 하는 방법에 대 한 자세한 내용은 [하면 두 Office 365 공용 웹사이트와 함께 작동](https://go.microsoft.com/fwlink/p/?LinkID=271589)을 참조 하십시오. 다른 구독을 설치한 경우 [Office 365에 대 한 공개 웹사이트 도움말](https://go.microsoft.com/fwlink/p/?LinkID=325009)에서 공용 웹사이트에 대해 알아봅니다.<br/><sup>6</sup> 용어 할인 된를 구매한 단축 시트는 초기 종료 요금 적용 될 수 있습니다. 월별로 유료 구독에 대 한 적용 되지 않습니다. gt_<br/><sup>7</sup> Office 365 관리 센터에서 라이선스 명 변경 내용에는 office 365 교육 계획 지원 하지 않습니다.
 <br/><sup>8</sup> Microsoft 거주 고객 특정 지역에 대 한 현재 사용할 수 없는 합니다. 8 월 2015 이후로 시장에 더이상 없는 일부 레거시 Office 365 계획도 액세스할 수 없는 Microsoft 영향을 합니다.<br/><sup>9</sup> 에서 21Vianet를 운영 하는 Office 365에 대 한 서비스 수준 계약을 참조 하십시오. [여기](http://www.21vbluecloud.com/office365/O365-SLA/)합니다. <sup>10</sup> 에서 21Vianet를 운영 하는 Office 365에 대 한 21Vianet의 [온라인 서비스는 Office 365에 대 한 표준 계약](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/)을 참조 하십시오.<br/><sup>11</sup> 중국 인터넷 규정 준수 정책에 따르면 사용자는 공개 웹 사이트에 대한 ICP(인터넷 콘텐츠 공급자) 번호를 받아야 합니다. 자세한 내용은 해당 ICP 항목을 참조하세요.<br/><sup>12</sup> 일부 TechNet 콘텐츠 21Vianet에서 운영 하는 Office 365에는 적용 되지 않을 수 있습니다. 
 <br/><sup>13</sup> 감소 된 환경을 보장 합니다. 조직 오래 된 웹 응용 프로그램 및 서비스에 액세스 하려면 Internet Explorer 8 또는 Internet Explorer 9 종속 인 경우에 Internet Explorer 11로 업그레이드 하 고 엔터프라이즈 모드 Internet Explorer 11에 대 한 평가 고려 하는 것이 좋습니다. 이 업데이트는 레거시 웹 응용 프로그램에 대 한 이전 버전과 호환성 향상을 제공 합니다.<br/><sup>14</sup> 다단계 인증 현재 지원 되지 않습니다 (IOS와 Android) Outlook mobile에서 합니다. 
   
@@ -228,7 +228,7 @@ Office 365 보안 &amp; 준수 센터는 21Vianet에서 운영 하는 Office 365
 |[Office 365용 Office for Mac](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |없음<sup>5</sup> <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>5</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Android용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>5</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[Android 용 office Mobile] <sup>15</sup> (.. / office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>5</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |없음<sup>5</sup> <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |없음<sup>5</sup> <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |Android용 Outlook  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |없음<sup>5</sup> <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
@@ -269,6 +269,7 @@ Office 365 보안 &amp; 준수 센터는 21Vianet에서 운영 하는 Office 365
 <br/><sup>3</sup>Office Professional Plus 2013 또는 독립 실행형 버전의 Excel 2013이 있는 경우 [Excel 2013용 파워 맵 미리 보기](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)를 다운로드하여 지원되지 않는 추가 기능으로 사용할 수 있습니다. 
  <br/><sup>4</sup> Skype 기본 비즈니스에 대 한 모든 고객을 위해 사용할 수는 있습니다. 비즈니스 데스크톱 클라이언트에 대 한 Skype은 비즈니스 Online 용 Skype를 포함 하는 Office 365 계획에 대 한 현재 상태, 인스턴트 메시징 및 회의 기능을 제공 하는 로컬에 설치 된 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3 고급 전화 통신 지원, 보관 및 규정 준수 기능을 포함 하는 추가 기능을 포함 하는 전체 Skype 응용 프로그램을 포함 합니다. 각 사용자에 대 한 비즈니스 온라인 라이선스에 대 한 Skype 할당 되어야 합니다. Lync Basic 기능에 대 한 자세한 내용은 [비즈니스 Online 클라이언트 비교표 용 Skype](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)를 참조 하십시오.<br/><sup>5</sup> 일부 학교 교육 더하기, Office 365 ProPlus를 포함 하 고 최대 5 개까지 PC 또는 Mac 컴퓨터 및 Windows 태블릿을 포함 한 기타 모바일 장치를 최신 버전의 Office 설치 하려면 학생, 교사 및 직원 수 있도록 하는 적합 한지의 및 iPad 합니다. 학교는 Office 교사 및 교육 솔루션, Open 값 구독 교육 솔루션 또는 학교 계약에 대 한 등록을 통해 직원에 대 한 교육 기관 전체를 라이선스 때 Office 365 교육 Plus에 대 한 정해야 합니다. 참고 액세스 및 게시자 지 Pc에서 사용할 수만 있습니다. Mac 용 OneNote는 Mac App Store에서 별도로 다운로드할 수 있습니다.<br/><sup>6</sup> Office 2011 for Mac을 설치할 수 있으나 정품 인증을 받을 수 없습니다. 
 <br/><sup>7</sup> office 365 ProPlus가 지원 사용자 전용 가상 데스크톱 인프라 (VDI). Office 365 ProPlus를 원격 데스크톱 서비스 (RDS) 볼륨 라이선스 프로그램을 통해 구입할 때만 지원 합니다.<br/><sup>8</sup> Office 365 엔터프라이즈 E3 및 Office 365 ProPlus에 대 한 볼륨 정품 인증은 Windows Server 2008 r 2에는 설치로 제한 하 고 최신 활성화 RDS 역할 또는 Windows 이동 설치 합니다. 두 경우 모두에서 이러한 설치를 액세스 하는 사용자는 Office 365 엔터프라이즈 E3 또는 Office 365 ProPlus의 사용이 허가 된 사용자 수 해야 합니다.<br/><sup>9</sup> access는 지연 채널에 대 한 대상 버전 또는 현재 채널에 자신이 하는 경우 현재 사용할 수 있습니다. 인 경우 지연 채널에 대 한 액세스 2017 년 6 월에서에서 제공 됩니다. 자세한 내용은 [Office 365 비즈니스 및 프리미엄의 일부로 포함 된 액세스를](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)참조 하십시오.<br/><sup>10</sup> Visio 온라인는 현재 21Vianet에서 운영 하는 Office 365에 대 한 미리 보기입니다. Visio 온라인에 대 한 자세한 내용은 [Visio 온라인 서비스 설명](../visio-online-service-description/visio-online-service-description.md)을 참조 하십시오.<br/><sup>11</sup> 21Vianet에서 운영하는 Office 365에 곧 제공될 예정입니다. 
+<br/><sup>15</sup> Google 서비스 (재생 저장소 포함) 중국 내부 액세스할 수 없습니다. 주요 전화 제조업체 또는 사용자가 모바일 응용 프로그램에서 설치할 수 있는 검색 엔진 회사에 의해 유지 관리 하는 여러 응용 프로그램 저장소 있습니다.
   
 ## <a name="office-online-features"></a>Office Online 기능
 <a name="BM4_OfficeOnline"> </a>
@@ -405,9 +406,9 @@ Office 365 보안 &amp; 준수 센터는 21Vianet에서 운영 하는 Office 365
 <br/><sup>2</sup> Windows Server AD RMS는 온-프레미스 서버이며, 별도로 구입하여 지원되는 IRM 기능을 사용할 수 있습니다. 
 <br/><sup>3</sup> 전송 규칙 조건 및 예외 및 조건에 따라 수행할 작업을 정의할 수 있도록 하는 유연한 조건의 구성 된 됩니다. Exchange Online 및 Microsoft Exchange Server 2013 간에 다를 사용할 수 있는 조건 및 동작 합니다. 사용 가능한 조건 및 동작의 목록, 해당 기준 및 각 제품에 대 한 작업 항목을 참조 하십시오.<br/><sup>4</sup> EAC(Exchange 관리 센터) 관리 인터페이스에 직접 액세스하는 방법으로만 액세스할 수 있습니다. 
 <br/><sup>5</sup> Exchange Server 2013에서는 Microsoft 맬웨어 방지 엔진만 사용합니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다.<br/><sup>6</sup> 비활성 사서함 기능이 필요한 각 사서함에 대해 EOA 구독을 별도로 구입할 수 있습니다. 
-<<br/>sup > 7</sup> eDiscovery에 대 한 온-프레미스 및 클라우드 비교에 대 한 별도 쿼리 해야 합니다. 
+<<br/>sup>7</sup> eDiscovery에 대 한 온-프레미스 및 클라우드 비교에 대 한 별도 쿼리 해야 합니다. 
 <br/><sup>8</sup> POP는 지원되지만 IMAP는 지원되지 않습니다. 
-<br/><sup>9</sup> office 365 비즈니스 Essentials 및 프리미엄 제공 하지 않습니다 액세스 권한을 온-프레미스 서버와 함께 사용률에 대 한 합니다. 준수 하도록 고객을 구입 해야 또는 적절 한 Cal 또는 업그레이드 이전에 구입한 이러한 액세스 권한을 제공 하는 엔터프라이즈 SKU에 있습니다. ><br/><sup>10</sup> 하이브리드 구성 마법사는 Exchange 2013 CU5 이상의 온-프레미스 배포에 사용할 수 있습니다. 그러나 일부 하이브리드 기능이 제한됩니다. 자세한 내용은 "21Vianet에서 운영하는 Office 365에 대한 자세한 정보" 도움말 항목을 참조하세요.<br/><sup>11</sup> 21Vianet에서 운영하는 Office 365입니다. LinkedIn은 사용할 수 있지만 Facebook은 사용할 수 없습니다. > 
+<br/><sup>9</sup> office 365 비즈니스 Essentials 및 프리미엄 제공 하지 않습니다 액세스 권한을 온-프레미스 서버와 함께 사용률에 대 한 합니다. 준수 하도록 고객을 구입 해야 또는 적절 한 Cal 또는 업그레이드 이전에 구입한 이러한 액세스 권한을 제공 하는 엔터프라이즈 SKU에 있습니다. gt_<br/><sup>10</sup> 하이브리드 구성 마법사는 Exchange 2013 CU5 이상의 온-프레미스 배포에 사용할 수 있습니다. 그러나 일부 하이브리드 기능이 제한됩니다. 자세한 내용은 "21Vianet에서 운영하는 Office 365에 대한 자세한 정보" 도움말 항목을 참조하세요.<br/><sup>11</sup> 21Vianet에서 운영하는 Office 365입니다. LinkedIn은 사용할 수 있지만 Facebook은 사용할 수 없습니다. > 
 <br/><sup>12</sup> 하이브리드 배포 설치는 Exchange 2013 CU5용 하이브리드 구성 마법사를 통해 사용할 수 있으며 Exchange 2013 SP1이 있는 경우에는 수동으로 설정할 수 있습니다. 자세한 내용은 "21Vianet에서 운영하는 Office 365에 대한 자세한 정보"를 참조하세요.<br/>연결 된 계정은 POP에 지원 <sup>13</sup> &amp; IMAP 계정 하지만 Outlook.com (Hotmail)에 사용할 수 없습니다. 
 <br/><sup>14</sup> cmdlet을 사용하여 주소 목록 및 전체 주소 목록으로 작업할 수 없습니다. 
   
@@ -767,7 +768,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |Yammer를 사용하여 문서 대화 <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |팔로우 <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |마이크로 블로그 <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|뉴스피드 <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|뉴스 피드 <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |One-Click 공유 <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |사람, 사이트, 문서 추천 <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |개인 사이트 <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
