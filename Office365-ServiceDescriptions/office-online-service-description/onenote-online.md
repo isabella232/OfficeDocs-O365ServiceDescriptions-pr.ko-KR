@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: 메모 작성 온라인 어디에서 든 지에 추가 하 고 다른 사용자와 쉽게 공유할 수 있는 OneNote 전자 필기장을 OneNote 온라인 (이전의 OneNote Web App)를 사용 합니다. 모든 Office 365 고객을 볼 수 있으며 유연 Office Online을 사용 하 여 Office 파일을 편집할 수 있습니다.
-ms.openlocfilehash: a85614afd9b1757c619e75d4274285b366be88b8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 19725db54781c872d720767c1419f9b7529cb6df
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036551"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612751"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -124,7 +124,8 @@ OneNote Online에서는 빠른 실행 도구 모음의 뒤로/앞으로 브라�
 ## <a name="notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups"></a>전자 필기장 관리: 교차 섹션/전자 필기장 페이지 관리, 섹션 다시 정렬, 섹션 그룹 만들기/삭제
 <a name="bkmk_AdvancedNotebookManagement"> </a>
 
-OneNote Online에서는 사용할 수 없습니다. 섹션 다시 정렬, 섹션 그룹 만들기/삭제 및 끌어서 놓기 페이지 관리 같은 고급 관리 기능은 OneNote 데스크톱 앱에서만 사용할 수 있습니다. 
+OneNote online 수 끌어서 놓을 페이지 및 섹션 순서를 변경 해야 합니다.  
+고급을 만드는 등의 관리 기능을 삭제 하 고 다시 섹션 그룹 순서를 지정할은 에서만 사용할 수 OneNote 데스크톱 앱입니다.
   
 ## <a name="offline-viewing-and-authoring"></a>오프라인으로 보기 및 작성
 <a name="bkmk_Offlineviewing"> </a>

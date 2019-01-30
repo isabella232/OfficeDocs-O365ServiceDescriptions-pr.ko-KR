@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: 'Office Online (이전의: Office Web Apps)가 Word, Excel, OneNote 및 PowerPoint 문서를 웹 브라우저에서 열립니다. Office Online을 통해 쉽게를 사용 하 고 어디에서 든 지 Office 파일을 공유 하는 거의 모든 장치에서 인터넷 연결을 사용 합니다. Microsoft Office 365 고객 Word, Excel, OneNote, 또는 PowerPoint에 보고 하 고, 작성 하 고 이동 중에 파일을 편집할 수 있습니다.'
-ms.openlocfilehash: 23eb27211f6225ec0e6b70b3993356cec693adc9
-ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
+ms.openlocfilehash: cbdde47716f983928ac83fa67b09d420c43fedc5
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "25435826"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612771"
 ---
 # <a name="office-online-service-description"></a>Office Online 서비스 설명
 
@@ -32,7 +32,7 @@ Office Online (이전의: Office Web Apps)가 Word, Excel, OneNote 및 PowerPoin
 조직에 맞는 어떤 Office 해결책은 가장 잘을 찾는데 도움이 필요 하십니까? 다음 표에서 풍부한 기능을 갖춘 Microsoft Office 데스크톱 응용 프로그램을 Office Online 기능과 비교 합니다. Office Online에서 사용할 수 있는 기능을 검색 하 고 해당 기능의 작동 하는 방법에 대 한 간단한 설명을 읽을 수 기능 이름을 클릭 한 다음에 테이블을 사용 합니다. 조직의 일부 사용자만 다른 사용자를 보고 하 여 Word 문서 및 PowerPoint 프레젠테이션에 Office Online을 사용한 유연 편집 해야 하는 동안 Excel 데스크톱 응용 프로그램의 고급 차트 기능을 필요로 하는 것을 느낄 수 있습니다. 
   
 > [!NOTE]
->  제한 된 다양 한 Office 기능을 Office 데스크톱 제품군의 고급 기능을 나타내는 선택 되었습니다. 표에서 Microsoft Office 기능에 대 한 포괄적인 목록은 없습니다. > Microsoft Office 365 ProPlus는 최신 Office 데스크톱 제품군의 월별 구독 제품입니다. > Microsoft Office Online 서버 온-프레미스 고객이 Office 온라인 경우 (예: Office Professional Plus, Office Standard 또는 Office 365 ProPlus 라이선스) Office 데스크톱 제품군 라이선스가 구매한 라이선스를 편집 합니다. 
+>  제한 된 다양 한 Office 기능을 Office 데스크톱 제품군의 고급 기능을 나타내는 선택 되었습니다. 표에서 Microsoft Office 기능에 대 한 포괄적인 목록은 없습니다. gt_ Microsoft Office 365 ProPlus는 최신 Office 데스크톱 제품군의 월별 구독 제품입니다. Microsoft Office Online 서버 gt_ 온-프레미스 고객이 Office Online 편집 라이선스 (예: Office Professional Plus, Office Standard 또는 Office 365 ProPlus 라이선스) Office 데스크톱 제품군 라이선스가 구입한 경우. 
   
 > [!NOTE]
 > Office 문서를 Outlook 전자 메일 첨부 파일로 열거나, SharePoint 문서 라이브러리에서 열면 문서가 Office Online에서 읽기 전용으로 실행됩니다. Office Online(편집 모드)에서 문서를 편집하려면 Office 365 Enterprise E1 같은 Office 365 제품군 라이선스가 필요합니다. 데스크톱 앱에서 문서를 편집하려면 Office 365 ProPlus 구독 또는 Office Professional Plus 2010 설치 버전과 같은 Office 데스크톱 제품군 라이선스가 필요합니다. 
@@ -111,7 +111,7 @@ Office Online (이전의: Office Web Apps)가 Word, Excel, OneNote 및 PowerPoin
 |[확대/축소](word-online.md#zoom) <br/> |예  <br/> |예  <br/> |
    
 > [!NOTE]
-> 뷰어에서 렌더링 이러한 <sup>1</sup> 하지만 만들거나 Office Online에서 편집할 수 없습니다. > <sup>2</sup> , 모두는 아니지만, 일부 Office 추가 기능을 사용할 수 있습니다. 
+> 뷰어에서 렌더링 이러한 <sup>1</sup> 하지만 만들거나 Office Online에서 편집할 수 없습니다. gt_ <sup>2</sup> , 모두는 아니지만, 일부 Office 추가 기능을 사용할 수 있습니다. 
   
 ### <a name="excel"></a>Excel
 <a name="BKMK_ExcelFeatures"> </a>
@@ -204,6 +204,9 @@ Office Online (이전의: Office Web Apps)가 Word, Excel, OneNote 및 PowerPoin
 |[공동 작성](onenote-online.md#co-authoring) <br/> |예  <br/> |예  <br/> |
 |[페이지 및 섹션 만들기 및 관리](onenote-online.md#create-and-manage-pages-and-sections) <br/> |예  <br/> |예  <br/> |
 |[포함된 Office 파일의 복사본 다운로드](onenote-online.md#download-copy-of-embedded-office-files) <br/> |예  <br/> |예<sup>4</sup> <br/> |
+|[끌어서 놓기 페이지] <br/> |예  <br/> |예 <br/> |
+|[끌어서 놓기 섹션] <br/> |예  <br/> |예 <br/> |
+|[끌어서 놓기 섹션 그룹] <br/> |아니요  <br/> |예 <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |예  <br/> |예  <br/> |
 |[포함된 파일 편집](onenote-online.md#EmbeddedFileEdit) <br/> |아니요  <br/> |예  <br/> |
 |[수식](onenote-online.md#equations) <br/> |예  <br/> |예  <br/> |
