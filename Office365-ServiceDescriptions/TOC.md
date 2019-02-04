@@ -1,3 +1,6 @@
+
+  
+
 # [Office 365 서비스 설명](office-365-service-descriptions-technet-library.md)
 ## [Microsoft 365 Business 서비스 설명](microsoft-365-business-service-description.md)
 ## [Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md)
@@ -8,6 +11,7 @@
 ### [Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
 #### [GCC High 및 DoD](office-365-platform-service-description/office-365-us-government/gcc-high-and-dod.md)
+#### [Microsoft 365 정부용 구입 방법](office-365-platform-service-description\office-365-us-government\microsoft-365-government-how-to-buy.md)
 ### [21Vianet에서 운영하는 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md)
 ### [Office 365 Germany](office-365-platform-service-description/office-365-germany.md)
 ### [Office 365 Education](office-365-platform-service-description/office-365-education.md)
