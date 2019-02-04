@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 1275e75d58e1f96cdf1c7c21dbcb8f9003e2154a
-ms.sourcegitcommit: 4fe0681e4bbfb5ffd36d1a5517b1a34e0eced7cf
-ms.translationtype: HT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "28728672"
----
 
   
 
@@ -19,6 +11,7 @@ ms.locfileid: "28728672"
 ### [Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
 #### [GCC High 및 DoD](office-365-platform-service-description/office-365-us-government/gcc-high-and-dod.md)
+#### [Microsoft 365 정부용 구입 방법](office-365-platform-service-description\office-365-us-government\microsoft-365-government-how-to-buy.md)
 ### [21Vianet에서 운영하는 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md)
 ### [Office 365 Germany](office-365-platform-service-description/office-365-germany.md)
 ### [Office 365 Education](office-365-platform-service-description/office-365-education.md)
