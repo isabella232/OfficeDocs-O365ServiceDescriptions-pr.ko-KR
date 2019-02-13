@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 최근에 출시되었거나 출시 예정인 Office 365 기능에 대해 자세히 알아보려면 Office 365 로드맵을 확인하세요.
 ms.openlocfilehash: e0f679a3e3b272dca90f4a416b9b232af9221a86
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.sourcegitcommit: 9c751127339ea6a50184daa34f7da18e13361d52
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036463"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29966222"
 ---
 # <a name="service-updates"></a>서비스 업데이트
 
@@ -30,7 +30,7 @@ ms.locfileid: "24036463"
 > [!NOTE]
 > 업데이트 및 업그레이드 geography, 언어, 데이터 센터 및 구독 등의 여러 요인에 따라 고객에 게 배포할 됩니다. 즉, 모든 업데이트가 기존 고객에 게 즉시 사용할 수 있습니다. 
   
-## <a name="targeted-release"></a>대상된 릴리스
+## <a name="targeted-release"></a>대상 지정된 릴리스
 
 조직 또는 사용자 집합을 대상 릴리스와 함께 서비스 업데이트에서는 표준 릴리스 프로세스를 시작 하기에 앞서 약 1 주일 선택 집합을 받습니다. 자세한 내용은, [프로그램을 해제 하는 Office 365](https://go.microsoft.com/fwlink/p/?LinkId=509823)를 참조 합니다. 
   
