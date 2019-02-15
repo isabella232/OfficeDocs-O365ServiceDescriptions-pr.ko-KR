@@ -3,7 +3,7 @@ title: Exchange Online Archiving 서비스 설명
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 02/14/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
-description: Microsoft Exchange Online 보관은 Microsoft Office 365 클라우드 기반 엔터프라이즈 수준의 보관 솔루션 조직의 Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 배포에 대 한 (SP2 이상), 특정 구독할 또는 Exchange Online 또는 Office 365 계획 합니다. 이러한 조직에서는 자신의 보관, 규정을 준수 하는 데 도움이 Exchange Online 보관 및 온-프레미스 인프라를 간소화 하 고 함으로써 비용을 줄이고 IT 환경도 부담 하는 동안 eDiscovery 과제입니다.
-ms.openlocfilehash: d88d336f0e5b30a245b6c90c7cc488ca6d5dfc54
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: microsoft exchange Online 보관은 microsoft exchange server 2016, microsoft exchange server 2013, microsoft exchange server 2010 (SP2 이상)을 배포한 조직에 대 한 microsoft Office 365 클라우드 기반 엔터프라이즈 급 보관 솔루션입니다. ) 또는 특정 Exchange Online 또는 Office 365 계획을 구독 합니다. Exchange Online을 보관 하면 이러한 조직은 온-프레미스 인프라를 단순화 하면서 보관, 규정 준수, 규정 및 eDiscovery 문제를 지원 하 고 비용을 절감 하 고 IT를 간소화 하는 데 도움이 됩니다.
+ms.openlocfilehash: baf73ca4819f2970b3709cbce2f137483064e01a
+ms.sourcegitcommit: e71991e4ababa6e0aa6d9df0979105e45646da2e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036486"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "30056648"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 서비스 설명
 
-Microsoft Exchange Online 보관은 Microsoft Office 365 클라우드 기반 엔터프라이즈 수준의 보관 솔루션 조직의 Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 배포에 대 한 (SP2 이상), 특정 구독할 또는 Exchange Online 또는 Office 365 계획 합니다. 이러한 조직에서는 자신의 보관, 규정을 준수 하는 데 도움이 Exchange Online 보관 및 온-프레미스 인프라를 간소화 하 고 함으로써 비용을 줄이고 IT 환경도 부담 하는 동안 eDiscovery 과제입니다.
+microsoft exchange Online 보관은 microsoft exchange server 2016, microsoft exchange server 2013, microsoft exchange server 2010 (SP2 이상)을 배포한 조직에 대 한 microsoft Office 365 클라우드 기반 엔터프라이즈 급 보관 솔루션입니다. ) 또는 특정 Exchange Online 또는 Office 365 계획을 구독 합니다. Exchange Online을 보관 하면 이러한 조직은 온-프레미스 인프라를 단순화 하면서 보관, 규정 준수, 규정 및 eDiscovery 문제를 지원 하 고 비용을 절감 하 고 IT를 간소화 하는 데 도움이 됩니다.
   
 Exchange Online Archiving은 Microsoft Office 365 온라인 서비스로서 강력한 보안, 안정성 및 사용자 생산성을 충족하도록 디자인되었습니다. 모든 Office 365 온라인 서비스에 대한 공통 기능을 비롯한 Office 365에 대한 자세한 내용은 [Office 365 플랫폼 서비스 설명](../office-365-platform-service-description/office-365-platform-service-description.md)을 참조하세요.
   
@@ -42,19 +42,19 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
   
 |**계획**|**설명**|
 |:-----|:-----|
-|**Exchange Server용 Exchange Online Archiving** <br/> |기본 사서함이 Exchange Server 2013 또는 Exchange 2010(SP2 이상)에 있는 사용자를 위한 클라우드 기반 보관 사서함입니다.  <br/> 클라우드 기반 보관을 온-프레미스 Exchange Server에 있는 기본 사서함에 추가하려면 하이브리드 배포를 구성해야 합니다. 하이브리드 배포에 대한 자세한 내용은 [Exchange Server 하이브리드 배포](https://technet.microsoft.com/library/jj200581%28v=exchg.150%29.aspx)를 참조하세요.  <br/> |
-|**Exchange Server용 Exchange Online Archiving(Enterprise CAL Suite를 통해)** <br/> |기본 사서함이 Exchange Server 2013 또는 Exchange 2010(SP2 이상)에 있는 사용자를 위한 클라우드 기반 보관 사서함입니다. 자세한 내용은 [라이선스 간략 설명 - Core CAL Suite 및 Enterprise CAL Suite 라이선스](https://go.microsoft.com/fwlink/p/?LinkId=314160)를 참조하세요.  <br/> |
-|**Exchange Online용 Exchange Online Archiving** <br/> | 다음 계획에 대 한 추가 기능으로 클라우드 기반 보관 및 원본 위치 유지: <sup>1, 2</sup>,  <br/>  Exchange Online 계획 1  <br/>  Exchange Online Kiosk  <br/>  Office 365 Business Essentials  <br/>  Office 365 Business Premium  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F1  <br/> > [!NOTE]> 다음 계획에서 이미 보관을 포함 하 고 추가 기능으로 Exchange Online 보관 필요 하지 않은: > Office 365 교육 A1 > Office 365 교육 A3 > Office 365 교육 A5 > Office 365 Enterprise E3 > Office 365 Enterprise e 5 > Exchan ge 온라인 계획 2 > Exchange Online 사서함의 보관 기능에 대 한 자세한 내용은, [보관 사서함 Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404421)를 참조 합니다.           |
+|**Exchange Server용 Exchange Online Archiving** <br/> |기본 사서함이 exchange server 2016, exchange server 2013 또는 exchange 2010 (SP2 이상)에 있는 사용자를 위한 클라우드 기반 보관 파일입니다.  <br/> 클라우드 기반 보관을 온-프레미스 Exchange Server에 있는 기본 사서함에 추가하려면 하이브리드 배포를 구성해야 합니다. 하이브리드 배포에 대한 자세한 내용은 [Exchange Server 하이브리드 배포](https://technet.microsoft.com/library/jj200581%28v=exchg.150%29.aspx)를 참조하세요.  <br/> |
+|**Exchange Server용 Exchange Online Archiving(Enterprise CAL Suite를 통해)** <br/> |기본 사서함이 exchange server 2016, exchange server 2013 또는 exchange 2010 (SP2 이상)에 있는 사용자를 위한 클라우드 기반 보관 파일입니다. 자세한 내용은 [license Brief-license the Core cal suite 및 Enterprise CAL suite](https://go.microsoft.com/fwlink/p/?LinkId=314160)를 참조 하십시오.<br/> |
+|**Exchange Online용 Exchange Online Archiving** <br/> | 다음 계획에 대 한 추가 기능으로 클라우드 기반 보관 함 및 원본 위치 유지: <sup>1, 2</sup>,  <br/>  Exchange Online 요금제 1  <br/>  Exchange Online Kiosk  <br/>  Office 365 Business Essentials  <br/>  Office 365 Business Premium  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F1  <br/>  <b>참고:</b> 다음 계획에는 보관 기능이 이미 포함 되어 있으며, 추가 기능으로는 Exchange Online 보관이 필요 하지 않습니다. > office 365 교육용 A1 > office 365 교육용 A3 > office 365 교육용 A5 > office 365 enterprise E3 > office 365 enterprise E5 > Exchange 켜기 라인 계획 2 > exchange online 사서함의 보관 기능에 대 한 자세한 내용은 [exchange online의 보관 사서함](https://go.microsoft.com/fwlink/p/?LinkId=404421)을 참조 하십시오.           |
    
 > [!NOTE]
-> <sup>1</sup> 온-프레미스 Exchange Server에 사서함이 없는 클라우드 전용 조직에는 하이브리드 배포가 필요하지 않습니다. 그러나 온-프레미스 사서함이 존재하는 경우 다음 하이브리드 배포는 꼭 필요합니다. > <sup>2</sup> Exchange Online 계획 1 및 Office 365 Business 계획에는 [사서함 및 보관 사서함의 크기 제한](https://go.microsoft.com/fwlink/?LinkId=330039)이 있습니다. Exchange Online용 Exchange Online Archiving 추가 기능을 통해 클라우드 기반의 무제한 보관 사서함 및 [원본 위치 유지 및 소송 보존](compliance-and-security-features.md#in-place-hold-and-litigation-hold) 기능이 추가 제공됩니다. 
+> <sup>1</sup> 온-프레미스 Exchange 서버에 사서함이 없는 클라우드 전용 조직에는 하이브리드 배포가 필요 하지 않습니다. 그러나 온-프레미스 사서함이 있는 경우 하이브리드 배포를 수행 해야 합니다.<br/> <sup>2</sup> Exchange Online 계획 1 및 Office 365 비즈니스 계획에는 [사서함 및 보관에 대 한 크기 제한이](https://go.microsoft.com/fwlink/?LinkId=330039)있습니다. exchange online 용 exchange online 아카이빙 추가 기능을 사용 하면 무제한의 클라우드 기반 보관 사서함 및 원본 [위치 유지 및 소송 보존](compliance-and-security-features.md#in-place-hold-and-litigation-hold)기능이 추가 됩니다.
   
 모든 Office 365 계획에 대한 정보를 찾고 계신가요? Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 독립 실행형 계획 옵션 및 계획 간 이동 정보를 비롯하여 여러 계획에 대한 자세한 내용은 [Office 365 계획 옵션](../office-365-platform-service-description/office-365-plan-options.md)을 참조하십시오.
   
 ## <a name="requirements"></a>요구 사항
 <a name="bkmk_EOA_Plans"> </a>
 
-Exchange 서버용 Exchange Online Archiving을 사용하려면 사용자 사서함이 Exchange Server 2013 또는 Exchange Server 2010(SP2 이상)에 있어야 합니다.
+exchange server에 대해 exchange Online 보관을 사용 하려면 사용자 사서함이 exchange server 2016, exchange server 2013 또는 exchange server 2010 (SP2 이상)에 있어야 합니다.
   
 ### <a name="federated-identity-and-single-sign-on"></a>페더레이션 ID 및 Single Sign-On
 
@@ -67,13 +67,15 @@ Exchange Online Archiving 서비스에 액세스하는 각 사용자가 Exchange
 ## <a name="unlimited-archive-storage-quota"></a>무제한 보관 저장소 할당량
 <a name="bkmk_EOA_Plans"> </a>
 
- Office 365의 무제한 보관 기능( 자동 확장 보관 기능이라고도 함)은 보관 사서함의 무제한 저장소 용량을 제공합니다. 각 Exchange Online Archiving 구독자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=844060)를 참조하세요. 가용성에 대한 자세한 내용은 [Office 365 로드맵](http://go.microsoft.com/fwlink/?LinkId=509914)을 참조하세요. 
+ Office 365의 무제한 보관 기능 (자동 확장 보관 이라고 함)은 보관 사서함에 무제한의 저장소를 제공 합니다. 자동 확장 보관은 사용자의 사서함이 exchange server 2016 또는 exchange server 2013 (SP1 이상)에 있는 경우에만 하이브리드 구성에서 지원 됩니다. 각 Exchange Online 보관 구독자는 처음에 보관 사서함에 100 GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100 GB 저장소 용량에 도달 하면 추가 저장소가 자동으로 추가 됩니다. 자세한 내용은 [Office 365의 무제한 보관 개요](https://go.microsoft.com/fwlink/?linkid=844060)를 참조 하세요. 가용성에 대 한 자세한 내용은 [Office 365 로드맵](http://go.microsoft.com/fwlink/?LinkId=509914) 를 참조 하세요. 
   
 > [!IMPORTANT]
-> 관리자가 저장소 할당량을 조정할 수 없습니다. 
+> 관리자가 저장소 할당량을 조정할 수 없습니다.
+>
+> Exchange Server 2010에 있는 사서함에 대해서는 자동 확장 보관이 지원 되지 않습니다.
   
 > [!IMPORTANT]
-> 보관 목적으로 저널링, 전송 규칙 또는 자동 전달 규칙을 사용하여 Exchange Online Archiving에 메시지를 복사할 수는 없습니다. 사용자의 보관 사서함은 해당 사용자만을 위한 것입니다. Microsoft는 사용자의 보관 사서함이 다른 사용자의 보관 데이터를 저장하는데 사용되는 경우 인스턴스의 무제한 보관을 거부할 권리를 가지고 있습니다. 
+> 자동 확장 보관은 *하루에&nbsp;1gb를 초과 하지*않는 성장률을 갖는 개별 사용자 또는 공유 사서함에 사용 되는 사서함에 대해서만 지원 됩니다. 보관을 위해 저널링, 전송 규칙 또는 자동 전달 규칙을 사용 하 여 Exchange Online 보관에 메시지를 복사할 수는 없습니다. 사용자의 보관 사서함은 해당 사용자만을 위한 것입니다. Microsoft는 사용자의 보관 사서함이 다른 사용자의 보관 데이터를 저장 하는 데 사용 되는 인스턴스에서 무제한 보관을 거부할 권한을 보유 합니다. 
   
 ## <a name="feature-availability-across-exchange-online-archiving-plans"></a>Exchange Online Archiving 계획에서의 기능 가용성
 <a name="bkmk_EOA_Plans"> </a>
@@ -104,6 +106,6 @@ Exchange Online Archiving 서비스에 액세스하는 각 사용자가 Exchange
    
 
 > <sup>1</sup> 사용자 사서함이 Exchange 2010 SP2 이상에 있어야 합니다.
- <br/><sup>2</sup> 는 원본 위치 보관만 하는데 사용할 수는 단일 사용자 또는 라이선스 적용 된 엔터티에 대 한 메일을 보관 합니다. 하는 수단으로 원본 위치 보관을 사용 하 여 여러 사용자 또는 엔터티에서 메일을 저장 하는 금지 됩니다. 예, IT 관리자 공유 사서함을 만들 및 보관 명시적 목적을 위해 (참조 또는 숨은 참조 필드를 통해 또는 전송 규칙을 통해) 공유 사서함을 복사 하는 사용자가 수는 없습니다. <br/> <sup>3</sup> 지원 되는 Microsoft Outlook 버전 목록은 [Exchange Online Archiving의 클라이언트 기능](client-features.md)을 참조 합니다. 
- <br/><sup>4</sup> azure 정보 보호는 포함 되어있지 않지만 별도 추가 기능으로 구입할 수 있습니다 및 지원 되는 정보 권한 관리 (IRM) 기능을 사용 하는 합니다. 일부 Azure 정보 보호 기능을 사용 하려면 Office 365 ProPlus는 Office 365 비즈니스 Essentials "," Office 365 프리미엄 "," Office 365 Enterprise E1 "," Office 365 교육 "또는" Office 365 Enterprise f 1에 포함 하는 구독 합니다. <br/><sup>5</sup> Windows Server AD RMS는 온-프레미스 서버이며, 별도로 구입하여 지원되는 IRM 기능을 사용할 수 있습니다. 
+ <br/><sup>2</sup> 원본 위치 보관은 라이선스가 적용 된 단일 사용자나 엔터티의 메일을 보관 하는 경우에만 사용할 수 있습니다. 여러 사용자 또는 엔터티에서 메일을 저장 하는 수단으로 원본 위치 보관 함을 사용할 수는 없습니다. 예를 들어 IT 관리자는 공유 사서함을 만들 수 없으며, 사용자가 참조 또는 숨은 참조 필드를 통해 또는 전송 규칙을 통해 공유 사서함을 복사 하는 것이 명시적으로 보관을 목적으로 합니다. <br/> <sup>3</sup> 지원 되는 Microsoft Outlook 버전 목록은 [Exchange Online 보관의 클라이언트 기능](client-features.md)을 참조 하세요. 
+ <br/><sup>4</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 office 365 business Essentials, office 365 Business Premium, office 365 Enterprise E1, office 365 교육 또는 office 365 Enterprise F1에 포함 되지 않은 office 365 ProPlus에 대 한 구독이 필요 합니다. <br/><sup>5</sup> Windows Server AD RMS는 온-프레미스 서버이며, 별도로 구입하여 지원되는 IRM 기능을 사용할 수 있습니다. 
  <br/><sup>6</sup> 사서함에 대해 원본 위치 유지 또는 소송 보존을 사용할 경우 기본 사서함과 보관 사서함 모두에 적용됩니다. 
