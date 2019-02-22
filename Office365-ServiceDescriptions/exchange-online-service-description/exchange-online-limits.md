@@ -3,7 +3,7 @@ title: Exchange Online 제한
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 02/19/2019
+ms.date: 02/21/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: 5e52414fddae0fd1482fbad3bdffa44b081c3ed5
-ms.sourcegitcommit: de3d6f2aa5af01645705efe88bb41f9f3a5eef04
+ms.openlocfilehash: ce25d57281cd9a5260b34f2d33d7cf4a490ac866
+ms.sourcegitcommit: 30c7b713cbe28bc2ce1f0bd850e48fbc9b1d63f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "30103116"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30199923"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -246,6 +246,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
     > [!NOTE]
     > 특정 전자 메일 클라이언트의 메시지 크기 제한 또는 개별 첨부 파일의 크기 제한은 Exchange Online 메시지 크기 제한 값보다 작을 수 있습니다. 
   
+- **메시지 헤더 크기 제한** 메시지에 있는 모든 메시지 헤더 필드의 최대 크기를 지정 합니다. 현재 제한은 256입니다. 모든 메시지 헤더의 전체 크기가 256을 초과 하는 경우 Exchange Online은 "552 5.3.4 헤더 크기가 고정 된 최대 크기를 초과 합니다." 라는 오류와 함께 메시지를 거부 합니다. 메시지 본문이 나 첨부 파일의 크기는 고려 되지 않습니다. 머리글 필드는 일반 텍스트 이므로 머리글 크기는 각 헤더 필드의 문자 수와 헤더 필드의 총 수에 따라 결정 됩니다. 각 텍스트 문자는 1 바이트를 소모 합니다.
+
 - **제목 길이 제한** 전자 메일 메시지의 제목 줄에서 허용되는 텍스트 문자의 최대 개수입니다. 
     
 - **첨부 파일 제한** 전자 메일 메시지에 허용되는 최대 첨부 파일 수입니다. 모든 첨부 파일의 전체 크기가 메시지 크기 제한을 넘지 않는 경우에도 메시지에서 허용되는 첨부 파일 수에 대한 제한이 있습니다. 이 제한은 여러 부분으로 구성된 메시지 제한을 통해 제어됩니다. 
