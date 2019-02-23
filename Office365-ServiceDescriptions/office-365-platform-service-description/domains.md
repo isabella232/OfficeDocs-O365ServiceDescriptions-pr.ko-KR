@@ -14,22 +14,22 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
-description: 도메인을 추가 하는 경우 단계별 마법사를 사용 하 사용자를 추가 하 고 Office 365 전자 메일 주소 및 기타 서비스 비즈니스 이름으로 변환할 수 있습니다. 마법사를 완료 하는 경우 현재 전자 메일 공급자에 이동 하는 대신 Office 365 될 예정인 비즈니스 전자 메일 시작 합니다. 자세한 내용은 참조 Office 365에 사용자 및 도메인을 추가 합니다. 21Vianet에서 운영 하는 Office 365를 사용 하는 경우 도메인을 확인 합니다.를 참조 하십시오.
-ms.openlocfilehash: 47c378482b8a8d09e2f2516968af99af9472c641
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 도메인을 추가 하면 단계별 마법사가 사용자를 추가 하 고 Office 365 전자 메일 주소 및 기타 서비스를 회사 이름으로 변환 하도록 도와줍니다. 마법사를 완료 하면 회사 전자 메일이 현재 전자 메일 공급자가 아닌 Office 365으로 이동 합니다. 자세한 내용은 Office 365에 사용자 및 도메인 추가를 참조 하세요. 21vianet에서 운영 하는 Office 365을 사용 하는 경우 도메인 확인을 참조 하세요.
+ms.openlocfilehash: 15254355d2bb7aed01d7be8c8e56d455409a51a5
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036485"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210241"
 ---
 # <a name="domains"></a>도메인
 
-도메인을 추가 하는 경우 단계별 마법사를 사용 하 사용자를 추가 하 고 Office 365 전자 메일 주소 및 기타 서비스 비즈니스 이름으로 변환할 수 있습니다. 마법사를 완료 하는 경우 현재 전자 메일 공급자에 이동 하는 대신 Office 365 될 예정인 비즈니스 전자 메일 시작 합니다. 자세한 내용은, [사용자 및 Office 365에 도메인 추가](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)참조 합니다. 21Vianet에서 운영 하는 Office 365를 사용 하는 경우 [도메인을 확인 합니다.](http://go.microsoft.com/fwlink/?LinkID=733344&amp;clcid=0x409)를 참조 하십시오.
+도메인을 추가 하면 단계별 마법사가 사용자를 추가 하 고 Office 365 전자 메일 주소 및 기타 서비스를 회사 이름으로 변환 하도록 도와줍니다. 마법사를 완료 하면 회사 전자 메일이 현재 전자 메일 공급자가 아닌 Office 365으로 이동 합니다. 자세한 내용은 [Office 365에 사용자 및 도메인 추가](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)를 참조 하세요. 21vianet에서 운영 하는 Office 365을 사용 하는 경우 [도메인 확인](http://go.microsoft.com/fwlink/?LinkID=733344&amp;clcid=0x409)을 참조 하세요.
   
 ## <a name="custom-domains"></a>사용자 지정 도메인
 <a name="BKMK_CustomDomains"> </a>
 
-Office 365 구독에 도메인 최대 900 개까지 추가할 수 있습니다. 그러나 다른 Microsoft 클라우드 서비스에서 이미 사용 중인 Office 365에 도메인을 추가할 수 없습니다. 즉, 여러 Office 365 구독을 동일한 도메인을 추가할 수 없습니다. 자세한 내용은 [도메인 FAQ](https://support.office.com/en-us/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)를 참조 하십시오.
+Office 365 구독에 최대 900 개의 도메인을 추가할 수 있습니다. 그러나 다른 Microsoft 클라우드 서비스에서 이미 사용 중인 Office 365에는 도메인을 추가할 수 없습니다. 즉, 동일한 도메인을 여러 Office 365 구독에 추가할 수 없습니다. 자세한 내용은 [도메인 FAQ](https://support.office.com/en-us/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)를 참조 하세요.
   
 ### <a name="second-and-third-level-domains"></a>2차 및 3차 수준 도메인
 <a name="BKMK_SecondAndThirdLevelDomains"> </a>
@@ -47,14 +47,14 @@ Office 365에서 도메인의 DNS 레코드를 관리하는 경우 먼저 Office
   
 DNS 레코드가 호스트되는 위치에 관계없이 Office 365 또는 다른 호스팅 공급자에서 호스트되는 공개 웹 사이트를 사용하도록 DNS 레코드를 설정할 수 있습니다. 
   
-Office 365는 DNS 레코드를 사진에 확인하여 DNS 문제를 찾고 해결하는 데 도움을 줍니다. DNS 레코드가 예상과 다르면 Office 365 관리 센터에서 알림이 수신되고 확인된 가능한 문제의 해결 방법을 알려주는 정보가 표시됩니다.
+Office 365에서는 dns 레코드를 사전 검사 하 여 dns 문제를 찾아 해결 합니다. DNS 레코드가 예상 대로 일치 하지 않으면 식별 된 가능한 문제를 해결 하는 방법을 설명 하는 정보와 함께 Microsoft 365 관리 센터에서 알림을 받게 됩니다.
   
 자세한 내용은 [Office 365에서 DNS 레코드를 관리하는 방법](https://go.microsoft.com/fwlink/p/?LinkID=270144)을 참조하세요. 21Vianet에서 운영하는 Office 365의 경우 [DNS 레코드를 관리할 때 Office 365용 DNS 레코드 만들기](http://go.microsoft.com/fwlink/?LinkID=817326&amp;clcid=0x409)를 참조하세요.
   
 ## <a name="sharing-a-domain"></a>도메인 공유
 <a name="BKMK_ManagingDNSRecords"> </a>
 
-Office 365에서 도메인에 대 한 일부 전자 메일 주소 및 일부 이전 전자 메일 공급자에서 사용 하 여 Office 365를 시험 수 있습니다. 것이 좋습니다에 사용 하는 동안 Office 365의 파일럿 추가 설치 단계를 수행 해야 하 고 Office 365 서비스에 대 한 일부 제한이 있기 때문에 합니다. 자세한 내용은 다음을 참조 합니다.
+office 365 및 이전 전자 메일 공급자에서 도메인에 대 한 일부 전자 메일 주소를 사용 하 여 office 365를 파일럿 할 수 있습니다. 이 기능은 추가 설치 단계가 필요 하며 office 365 서비스에 몇 가지 제한이 있으므로 office 365의 파일럿 중에 사용할 때만 사용 하는 것이 좋습니다. 자세한 내용은 다음 항목을 참조 하십시오.
   
 - [중소기업용 Office 365 파일럿](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     

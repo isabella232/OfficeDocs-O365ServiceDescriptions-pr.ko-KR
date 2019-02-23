@@ -12,24 +12,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
-description: Microsoft Exchange Online Protection (EOP)은 받는 사람, 도메인 및 회사 정보를 관리 하는 여러 수단을 제공 합니다. 관리자로 Exchange 관리 센터 (EAC) 내에서 특정 관리 작업을 수행할 수 있으며 Microsoft Office 365 관리 센터에서 실행 하는 다른 관리 작업을 확인할 수 있습니다.
-ms.openlocfilehash: 17a87a85611dc286e3d19eaeefe04466a1ac62d0
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft EOP (Exchange Online Protection)에서는 받는 사람, 도메인 및 회사 정보를 관리 하는 여러 가지 방법을 제공 합니다. 관리자는 EAC (Exchange 관리 센터) 내에서 특정 관리 작업을 수행 하 고 Microsoft 365 관리 센터에서 수행 된 기타 관리 작업을 확인할 수 있습니다.
+ms.openlocfilehash: fcae2c3ad93b977fb197089e2c8809b74ada7bd7
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036603"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210331"
 ---
 # <a name="recipient-domain-and-company-management"></a>받는 사람, 도메인 및 회사 관리
 
-Microsoft Exchange Online Protection (EOP)은 받는 사람, 도메인 및 회사 정보를 관리 하는 여러 수단을 제공 합니다. 관리자로 Exchange 관리 센터 (EAC) 내에서 특정 관리 작업을 수행할 수 있으며 Microsoft Office 365 관리 센터에서 실행 하는 다른 관리 작업을 확인할 수 있습니다.
+Microsoft EOP (Exchange Online Protection)에서는 받는 사람, 도메인 및 회사 정보를 관리 하는 여러 가지 방법을 제공 합니다. 관리자는 EAC (Exchange 관리 센터) 내에서 특정 관리 작업을 수행 하 고 Microsoft 365 관리 센터에서 수행 된 기타 관리 작업을 확인할 수 있습니다.
   
 모든 EOP 기능에 대한 자세한 내용은 [Exchange Online Protection 서비스 설명](exchange-online-protection-service-description.md)을 참조하세요.
   
 ## <a name="mail-recipients"></a>메일 받는 사람
 <a name="BKMK_mailrecipients"> </a>
 
-메일 받는 사람은 메일 사용자 또는 그룹으로 분류되며 디렉터리 동기화를 통해하거나 EAC에서 직접 또는 원격 Windows PowerShell을 통해 관리할 수 있습니다. 온-프레미스에서 받는 사람을 관리하는 경우 EAC에 메일 받는 사람이 반영되도록 디렉터리 동기화를 실행해야 합니다. Office 365 관리 센터에서만 관리되는 사용자는 EAC에서 확인할 수 없지만 EAC의 관리자 역할 그룹 구성원 자격에 추가되거나 구성원 자격에서 제거될 수는 있습니다. EOP의 받는 사람에 대한 자세한 내용은 [EOP의 받는 사람](https://go.microsoft.com/fwlink/p/?LinkId=280011)을 참조하세요.
+메일 받는 사람은 메일 사용자 또는 그룹으로 분류 되며 디렉터리 동기화, EAC에서 직접 또는 원격 Windows PowerShell을 통해 관리할 수 있습니다. 온-프레미스에서 받는 사람을 관리 하는 경우 EAC에 메일 받는 사람이 반영 되도록 디렉터리 동기화를 실행 해야 합니다. Microsoft 365 관리 센터 에서만 관리 되는 사용자는 eac에서 볼 수 없지만 eac에서 관리자 역할 그룹의 구성원 자격에 게 추가 되거나 제거 될 수도 있습니다. EOP의 받는 사람에 대 한 자세한 내용은 [EOP의 받는 사람](https://go.microsoft.com/fwlink/p/?LinkId=280011)을 참조 하십시오.
   
 ## <a name="admin-role-group-permissions"></a>관리자 역할 그룹 권한
 <a name="BKMK_adminrolegrouppermissions"> </a>
@@ -39,7 +39,7 @@ EOP에서는 관리자 역할만 구성할 수 있습니다. EAC에서 직접 �
 ## <a name="domain-management"></a>도메인 관리
 <a name="BKMK_domainmanagement"> </a>
 
-관리되는 도메인은 EOP의 보호를 받는 도메인입니다. EAC에서는 관리되는 도메인을 볼 수 있고 도메인 유형을 편집할 수 있습니다. 도메인 프로비전 및 관리는 Office 365 관리 센터에서 수행되며 변경 내용은 EAC에 반영됩니다. 자세한 내용은 [EOP에서 관리되는 도메인 보기 또는 편집](https://go.microsoft.com/fwlink/p/?LinkId=282239)을 참조하세요.
+관리 되는 도메인은 EOP으로 보호 되는 도메인입니다. 관리 되는 도메인을 보고 EAC에서 도메인 유형을 편집할 수 있습니다. 도메인 프로 비전 및 관리는 Microsoft 365 관리 센터에서 수행 되며 변경 내용은 EAC에 반영 됩니다. 자세한 내용은 [EOP에서 관리 되는 도메인 보기 또는 편집](https://go.microsoft.com/fwlink/p/?LinkId=282239)을 참조 하세요.
   
 ## <a name="match-subdomains"></a>하위 도메인 일치
 <a name="BKMK_EOP_Match_Subdomains"> </a>

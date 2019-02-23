@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: 이 섹션에서는 관리 컨트롤 및 Exchange Online 설정 사용자 지정 하 고 환경을 유지 하는 조직의 Exchange Online을 실행 하 고 사용할 수 있고 현재 수 있는 지원에 설명 합니다. 셀프서비스 관리 도구 및 조직;를 사용할 수 있는 기능에 대 한 정보 포함 Microsoft 관리 업무 및 성능 확정; 및 서비스 및 제품 업그레이드 합니다.
-ms.openlocfilehash: 6b7bb1d68e6d676c39e9ebb254305b2799cc0931
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 이 섹션에서는 exchange online 설정을 사용자 지정 하 고 조직의 exchange online 환경을 최신, 실행 및 최신 상태로 유지 하는 데 사용할 수 있는 관리 제어 및 지원에 대해 설명 합니다. 여기에는 조직에서 사용할 수 있는 셀프 서비스 관리 도구 및 기능에 대 한 정보가 포함 됩니다. Microsoft 관리 책임 및 성능 약정 및 서비스 및 제품 업그레이드
+ms.openlocfilehash: 6a7b7883292f84dcd38480c6065b8f64dafb3e25
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036462"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210201"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 설치 및 관리
 
-이 섹션에서는 관리 컨트롤 및 Exchange Online 설정 사용자 지정 하 고 환경을 유지 하는 조직의 Exchange Online을 실행 하 고 사용할 수 있고 현재 수 있는 지원에 설명 합니다. 셀프서비스 관리 도구 및 조직;를 사용할 수 있는 기능에 대 한 정보 포함 Microsoft 관리 업무 및 성능 확정; 및 서비스 및 제품 업그레이드 합니다.
+이 섹션에서는 exchange online 설정을 사용자 지정 하 고 조직의 exchange online 환경을 최신, 실행 및 최신 상태로 유지 하는 데 사용할 수 있는 관리 제어 및 지원에 대해 설명 합니다. 여기에는 조직에서 사용할 수 있는 셀프 서비스 관리 도구 및 기능에 대 한 정보가 포함 됩니다. Microsoft 관리 책임 및 성능 약정 및 서비스 및 제품 업그레이드
   
 ## <a name="self-service-administration-tools"></a>셀프 서비스 관리 도구
 
@@ -34,7 +34,7 @@ Microsoft에서 모든 Exchange Online 데이터 센터를 직접 제어하고 �
   
 - [Microsoft Office 365 포털](exchange-online-setup-and-administration.md#microsoft-office-365-portal)
     
-- [Microsoft Office 365 관리 센터](exchange-online-setup-and-administration.md#microsoft-office-365-admin-center)
+- [Microsoft 365 관리 센터](exchange-online-setup-and-administration.md#microsoft-office-365-admin-center)
     
 - [Exchange 관리 센터](exchange-online-setup-and-administration.md#exchange-admin-center)
     
@@ -45,10 +45,10 @@ Microsoft에서 모든 Exchange Online 데이터 센터를 직접 제어하고 �
 
 [https://portal.office.com](https://portal.office.com)의 Microsoft Office 365 포털은 관리자와 파트너가 Office 365 서비스를 구입 및 관리하고, 사용자가 Office 365 공동 작업 도구에 액세스하여 사용할 수 있는 웹 사이트입니다.
   
-### <a name="microsoft-office-365-admin-center"></a>Microsoft Office 365 관리 센터
+### <a name="microsoft-365-admin-center"></a>Microsoft 365 관리 센터
 <a name="BKMK_Office365admincenterl"> </a>
 
-Microsoft Office 365 관리 센터는 각 기업의 서비스 관리자가 기업이 구독한 각 Office 365 서비스의 사용자 계정 및 설정을 관리할 수 있는 웹 포털입니다. Office 365 관리 센터에서 관리자는 EAC(Exchange 관리 센터)의 링크를 따라 이동하여 Exchange Online 관련 설정을 관리할 수 있습니다. Office 365 관리 센터를 사용한 준비 및 실행에 대한 자세한 내용은 다음 동영상을 참조하세요. [Office 365 Enterprise 소개](https://go.microsoft.com/fwlink/p/?LinkId=271806).
+Microsoft 365 관리 센터는 각 회사의 서비스 관리자가 구독 하는 각 Office 365 서비스에 대 한 사용자 계정 및 설정을 관리할 수 있는 웹 포털입니다. Microsoft 365 관리 센터에서 관리자는 EAC (exchange 관리 센터)에 대 한 링크를 팔 로우 하 여 exchange Online과 관련 된 설정을 관리할 수 있습니다. Microsoft 365 관리 센터를 사용 하 여 작업을 수행 하 고 실행 하는 방법에 대 한 자세한 내용은 [Office 365 Enterprise 소개](https://go.microsoft.com/fwlink/p/?LinkId=271806)비디오를 참조 하세요.
   
 ### <a name="exchange-admin-center"></a>Exchange 관리 센터
 <a name="BKMK_ExchangeAdministrationCenter"> </a>

@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다. Exchange Online Protection을 제공하는 계획 목록과 계획 간 기능 비교가 포함되어 있습니다.
-ms.openlocfilehash: 6e7ffd6a2248acfc763a71e35ce0daba0f9b0308
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 749a4a8e1b9e8e93397f39a998e5bac6e1c0c745
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036540"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210271"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 서비스 설명
 
@@ -28,7 +28,7 @@ Microsoft EOP(Exchange Online Protection)는 스팸 및 맬웨어로부터 조�
   
 기본적으로 다음과 같은 방식을 통해 메시징 보호에 EOP를 사용할 수 있습니다.
   
-- **독립 실행형 시나리오에서** EOP는 클라우드 기반 전자 메일 보호 온-프레미스 Exchange Server 2013 환경, 레거시 Exchange Server 버전에 대해 또는 모든 기타 온-프레미스에 대 한 SMTP 전자 메일 솔루션을 제공합니다. 
+- **독립 실행형 시나리오에서** EOP에서는 온-프레미스 exchange server 2013 환경, 레거시 exchange server 버전 또는 기타 모든 온-프레미스 SMTP 전자 메일 솔루션에 대해 클라우드 기반 전자 메일 보호 기능을 제공 합니다. 
     
 - **Microsoft Exchange Online의 일부로** 기본적으로 EOP는 Exchange Online 클라우드 호스트 사서함을 보호합니다. Exchange Online에 대한 자세한 내용은 [Exchange Online 서비스 설명](../exchange-online-service-description/exchange-online-service-description.md)을 참조하세요.
     
@@ -90,32 +90,32 @@ EOP의 제한은 [Exchange Online Protection 제한](exchange-online-protection-
 |[메일 받는 사람](recipient-domain-and-company-management.md#mail-recipients) <br/> |예<sup>1</sup> <br/> |예<sup>1</sup> <br/> |예  <br/> |
 |[관리자 역할 그룹 권한](recipient-domain-and-company-management.md#admin-role-group-permissions) <br/> |예<sup>2</sup> <br/> |예  <br/> |예  <br/> |
 |[도메인 관리](recipient-domain-and-company-management.md#domain-management) <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |
-|[하위 도메인 일치](recipient-domain-and-company-management.md#match-subdomains) <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[DBEB(디렉터리 기반 Edge 차단)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb) <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[하위 도메인 일치](recipient-domain-and-company-management.md#match-subdomains) <br/> |예  <br/> |O  <br/> |아니요  <br/> |
+|[DBEB(디렉터리 기반 Edge 차단)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb) <br/> |예  <br/> |예   <br/> |예   <br/> |
 |[전송 규칙](messaging-policy-and-compliance-servicedesc.md#transport-rules) <br/> |예 <sup>3, 4, 14</sup> <br/> |예 <sup>3, 4, 14</sup> <br/> |예  <br/> |
-|[감사 로깅](messaging-policy-and-compliance-servicedesc.md#audit-logging) <br/> |예<sup>5</sup> <br/> |예  <br/> |예  <br/> |
-|[DLP(데이터 손실 방지)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp) <br/> |아니요  <br/> |예  <br/> |<sup>6</sup> 예 <br/> |
-|[Office 365 메시지 암호화](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption) <br/> |<sup>12</sup> 예 <br/> |예  <br/> |<sup>12</sup> 예 <br/> |
-|[스팸 방지 보호 기능](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection)(기본 제공)  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[스팸 방지 정책 사용자 지정](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies) <br/> |<sup>7</sup> 예 <br/> |예  <br/> |예  <br/> |
-|[맬웨어 방지 보호 기능](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection)(기본 제공)  <br/> |<sup>13</sup> 예 <br/> |예  <br/> |예  <br/> |
-|[맬웨어 방지 정책 사용자 지정](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[격리](anti-spam-and-anti-malware-protection-eop.md#quarantine): 관리자 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[격리](anti-spam-and-anti-malware-protection-eop.md#quarantine): 최종 사용자 자기 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Microsoft Office Outlook용 정크 메일 보고 추가 기능](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-add-in-for-microsoft-office-outlook) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Outlook Web App의 정크 메일 보고 기능](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-web-app) <br/> |<sup>8</sup> 예 <br/> |<sup>8</sup> 없음 <br/> |<sup>8</sup> 없음 <br/> |
-|[Office 365와 자체 메일 서버 간의 이메일 라우팅](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[신뢰할 수 있는 파트너와의 보안 메시징](mail-flow-eop.md#secure-messaging-with-a-trusted-partner) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[수신 허용 목록에 파트너의 IP 주소 추가](mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[조건부 메일 라우팅](mail-flow-eop.md#conditional-mail-routing) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[하이브리드 메일 라우팅](mail-flow-eop.md#hybrid-mail-routing) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Office 365 관리 센터 보고서](reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |<sup>9</sup> 예 <br/> |<sup>10</sup> 예 <br/> |예 <sup>9, 10</sup> <br/> |
-|[Excel 다운로드 응용 프로그램 보고서](reporting-and-message-trace.md#excel-download-application-reports) <br/> |예  <br/> |예  <br/> |<sup>11</sup> 예 <br/> |
-|[웹 서비스를 사용하여 보고](reporting-and-message-trace.md#reporting-using-web-services) <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|[메시지 추적](reporting-and-message-trace.md#message-trace) <br/> |<sup>15</sup> 예 <br/> |<sup>15</sup> 예 <br/> |예  <br/> |
-|[Office 365 관리 센터 액세스](administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Exchange 관리 센터 액세스](administration-and-management-eop.md#access-to-the-exchange-admin-center)(EAC)  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[원격 Windows PowerShell 액세스](administration-and-management-eop.md#remote-windows-powershell-access) <br/> |예<sup>2</sup> <br/> |예  <br/> |예  <br/> |
+|[감사 로깅](messaging-policy-and-compliance-servicedesc.md#audit-logging) <br/> |예<sup>5</sup> <br/> |예  <br/> |예   <br/> |
+|[DLP(데이터 손실 방지)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp) <br/> |아니요  <br/> |예  <br/> |예<sup>6</sup> <br/> |
+|[Office 365 메시지 암호화](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption) <br/> |예<sup>12</sup> <br/> |예  <br/> |예<sup>12</sup> <br/> |
+|[스팸 방지 보호 기능](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection)(기본 제공)  <br/> |예  <br/> |예   <br/> |예   <br/> |
+|[스팸 방지 정책 사용자 지정](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies) <br/> |예<sup>7</sup> <br/> |예  <br/> |예   <br/> |
+|[맬웨어 방지 보호 기능](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection)(기본 제공)  <br/> |예<sup>13</sup> <br/> |예  <br/> |예   <br/> |
+|[맬웨어 방지 정책 사용자 지정](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies) <br/> |예  <br/> |예   <br/> |예   <br/> |
+|[격리](anti-spam-and-anti-malware-protection-eop.md#quarantine): 관리자 관리  <br/> |예  <br/> |예   <br/> |예  <br/> |
+|[격리](anti-spam-and-anti-malware-protection-eop.md#quarantine): 최종 사용자 자기 관리  <br/> |예  <br/> |예   <br/> |예   <br/> |
+|[Microsoft Office Outlook용 정크 메일 보고 추가 기능](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-add-in-for-microsoft-office-outlook) <br/> |예  <br/> |예   <br/> |예   <br/> |
+|[Outlook Web App의 정크 메일 보고 기능](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-web-app) <br/> |예<sup>8</sup> <br/> |<sup>8</sup> <br/> |<sup>8</sup> <br/> |
+|[Office 365와 자체 메일 서버 간의 이메일 라우팅](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers) <br/> |예  <br/> |예   <br/> |예   <br/> |
+|[신뢰할 수 있는 파트너와의 보안 메시징](mail-flow-eop.md#secure-messaging-with-a-trusted-partner) <br/> |예  <br/> |예   <br/> |예   <br/> |
+|[수신 허용 목록에 파트너의 IP 주소 추가](mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |예  <br/> |예   <br/> |예   <br/> |
+|[조건부 메일 라우팅](mail-flow-eop.md#conditional-mail-routing) <br/> |예  <br/> |예   <br/> |예  <br/> |
+|[하이브리드 메일 라우팅](mail-flow-eop.md#hybrid-mail-routing) <br/> |예  <br/> |예   <br/> |예   <br/> |
+|[Microsoft 365 관리 센터 보고서](reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |예<sup>9</sup> <br/> |예<sup>10</sup> <br/> |예 <sup>9, 10</sup> <br/> |
+|[Excel 다운로드 응용 프로그램 보고서](reporting-and-message-trace.md#excel-download-application-reports) <br/> |예  <br/> |예   <br/> |예<sup>11</sup> <br/> |
+|[웹 서비스를 사용하여 보고](reporting-and-message-trace.md#reporting-using-web-services) <br/> |아니요  <br/> |예  <br/> |예   <br/> |
+|[메시지 추적](reporting-and-message-trace.md#message-trace) <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예  <br/> |
+|[Microsoft 365 관리 센터에 대 한 액세스 권한](administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |예  <br/> |예   <br/> |예  <br/> |
+|[Exchange 관리 센터 액세스](administration-and-management-eop.md#access-to-the-exchange-admin-center)(EAC)  <br/> |예  <br/> |예   <br/> |예   <br/> |
+|[원격 Windows PowerShell 액세스](administration-and-management-eop.md#remote-windows-powershell-access) <br/> |예<sup>2</sup> <br/> |예  <br/> |예   <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 메일 사용자가 "사서함"으로 정의 되 고, 외부 메일 연락처와 함께 추가할 수, 제거 및 Exchange 관리 센터 (EAC)에서 직접 관리 하는 그렇지 않습니다. <br/><sup>2</sup> No RBAC 사용자 지정 합니다. 관리 역할에만 해당 합니다. <br/> <sup>3</sup> 관리 되는 도메인 볼 수 있고 도메인 유형을 EAC에서 편집할 수 있습니다. Office 365 관리 센터에서 다른 모든 도메인 관리를 수행 해야 합니다. <br/><sup>4</sup> 사용할 수 있는 유연한 조건 및 동작 EOP 및 Exchange Online 간에 서로 다릅니다. 사용 가능한 조건 및 EOP의 작업 목록, [전송 규칙 조건](https://go.microsoft.com/fwlink/p/?LinkId=320392) 및 [전송 규칙 동작](https://go.microsoft.com/fwlink/p/?LinkId=320393)을 참조 하십시오. 사용 가능한 조건 및 Exchange Online에서 작업 목록, [전송 규칙 조건](https://go.microsoft.com/fwlink/p/?LinkId=320394) 및 [전송 규칙 동작](https://go.microsoft.com/fwlink/p/?LinkId=320395)을 참조 하십시오. <br/><sup>5</sup> EOP 감사 보고서는 사서함에 대 한 정보를 제외 하는 Exchange Online 감사 보고서의 하위 집합입니다. <br/> <sup>6</sup> Exchange Enterprise CAL with Services 고객은 DLP 정책 팁을 사용할 수 없습니다.<br/><sup>7</sup> 기본 콘텐츠 필터 작업은 스팸 메시지를 받는 사람의 정크 메일 폴더로 이동 합니다. 온-프레미스 사서함을 사용 하려면이 옵션을 대 한도 EOP에서 추가 된 스팸 헤더를 검색 하 여 온-프레미스 서버에서 두 Exchange 전송 규칙을 구성 해야 합니다. 자세한 내용은 [스팸이 각 사용자의 정크 메일 폴더로 라우팅되는지 확인](https://go.microsoft.com/fwlink/p/?LinkId=320396)을 참조 하십시오. <br/><sup>8</sup> 이 기능은 사서함이 EOP에 의해 필터링 되 고 Exchange Online 고객에 게 제공 될 예정 Exchange Server 2013 서비스 팩 1 (SP1) 고객에 게 사용할 수 있습니다. <br/><sup>9</sup> EOP 보고서는 사서함에 대 한 정보를 제외 하는 Exchange Online 보고서의 하위 집합입니다. <br/><sup>10</sup> 포함 DLP를 보고합니다. <br/><sup>11</sup> Exchange Enterprise CAL with Services 고객은 **Exchange Online Protection** 서비스가 아니라 **Exchange Online** 서비스를 선택 하 여 통합 문서를 설치 해야 합니다. <br/>Azure 정보 보호를 구매 하 고 Exchange Online 보호를 사용 하 여 Exchange Online을 통해 전자 메일을 라우팅하는 온-프레미스 고객에 대 한 지원 되는 <sup>12</sup> 입니다. <br/> <sup>13</sup> 인바운드 및 아웃 바운드 메시지는 검사 하지만 조직의 보낸 사람이 조직의 받는 사람에 게 보낸 내부 메시지를 검색 하지 않습니다. <br/><sup>14</sup> 사용할 수 있는 조건자 및 작업 EOP 및 Exchange Online 간에 다릅니다. <br/> <sup>15</sup> 하이브리드 설치는 하이브리드 마법사를 통해 사용할 수 없지만 Exchange SP1이 있는 경우에는 수동으로 설정할 수 있습니다. 
+> <sup>1</sup> 메일 사용자는 "사서함"으로 정의 되며 외부 메일 연락처와 마찬가지로 EAC (Exchange 관리 센터)에서 직접 추가, 제거 및 관리할 수 있습니다. <br/><sup>2</sup> RBAC 사용자 지정이 없습니다. 관리자 역할만 해당 합니다. <br/> <sup>3</sup> 관리 되는 도메인을 보고 EAC에서 도메인 유형을 편집할 수 있습니다. 다른 모든 도메인 관리는 Microsoft 365 관리 센터에서 수행 해야 합니다. <br/><sup>4</sup> EOP와 Exchange Online의 사용 가능한 유연한 조건 및 동작은 서로 다릅니다. EOP에서 사용할 수 있는 조건 및 작업 목록은 [전송 규칙 조건](https://go.microsoft.com/fwlink/p/?LinkId=320392) 및 [전송 규칙 작업](https://go.microsoft.com/fwlink/p/?LinkId=320393)을 참조 하십시오. Exchange Online에서 사용 가능한 조건 및 작업 목록은 [전송 규칙 조건](https://go.microsoft.com/fwlink/p/?LinkId=320394) 및 [전송 규칙 작업](https://go.microsoft.com/fwlink/p/?LinkId=320395)을 참조 하세요. <br/><sup>5</sup> EOP 감사 보고서는 사서함에 대 한 정보가 제외 된, Exchange Online 감사 보고서의 하위 집합입니다. <br/> <sup>6</sup> Exchange Enterprise CAL with Services 고객은 DLP 정책 팁을 사용할 수 없습니다.<br/><sup>7</sup> 기본 콘텐츠 필터 동작은 스팸 메시지를 받는 사람의 정크 메일 폴더로 이동 하는 것입니다. 이를 위해 온-프레미스 사서함에서 작동 하려면 온-프레미스 서버에서 Exchange 전송 규칙 두 개를 구성 하 여 EOP에서 추가한 스팸 헤더를 검색 해야 합니다. 자세한 내용은 [스팸이 각 사용자의 정크 메일 폴더로 라우팅되도록](https://go.microsoft.com/fwlink/p/?LinkId=320396)합니다 .를 참조 하세요. <br/><sup>8</sup> 이 기능은 사서함이 EOP에 의해 필터링 되는 exchange Server 2013 SP1 (서비스 팩 1) 고객에 게 제공 되며 exchange Online 고객 에게도 곧 제공 될 예정입니다. <br/><sup>9</sup> EOP 보고서는 사서함에 대 한 정보가 제외 된, Exchange Online 보고서의 하위 집합입니다. <br/><sup>10</sup> DLP 보고서가 포함 됩니다. <br/><sup>11</sup> exchange Enterprise CAL with Services 고객은 **exchange online Protection** 서비스가 아니라 **exchange online** 서비스를 선택 하 여 통합 문서를 설치 해야 합니다. <br/><sup>12</sup> Azure Information protection을 구입 하 고 exchange online Protection을 사용 하 여 exchange online을 통해 전자 메일을 라우팅하는 온-프레미스 고객에 게 지원 됩니다. <br/> <sup>13</sup> 인바운드 및 아웃 바운드 메시지는 검사 하지만 조직의 보낸 사람이 조직의 받는 사람에 게 보낸 내부 메시지는 검사 하지 않습니다. <br/><sup>14</sup> EOP와 Exchange Online의 사용 가능한 조건자 및 동작은 서로 다릅니다. <br/> <sup>15</sup> 하이브리드 설치는 하이브리드 마법사를 통해 사용할 수 없지만 Exchange SP1이 있는 경우에는 수동으로 설정할 수 있습니다. 

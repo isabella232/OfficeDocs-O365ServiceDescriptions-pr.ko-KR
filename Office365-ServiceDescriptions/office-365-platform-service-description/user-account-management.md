@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
-description: Microsoft Office 365 만들기 (영문), 관리 및 사용자 인증에 대 한 다음 방법을 지원 합니다.
-ms.openlocfilehash: 7481b9e1910cd9ad64d37f095b71bde5a040ae27
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Office 365에서는 사용자 만들기, 관리 및 인증을 위해 다음과 같은 방법을 지원 합니다.
+ms.openlocfilehash: 27c8cc588720eac081856bedf979a7b004a0d1ec
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036569"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210281"
 ---
 # <a name="user-account-management"></a>사용자 계정 관리
 
-Microsoft Office 365 만들기 (영문), 관리 및 사용자 인증에 대 한 다음 방법을 지원 합니다. 
+Microsoft Office 365에서는 사용자 만들기, 관리 및 인증을 위해 다음과 같은 방법을 지원 합니다. 
   
 > [!NOTE]
 > 이 주제에는 각 Office 365 리소스(예: Microsoft Exchange Online의 역할 기반 액세스 제어 또는 Microsoft SharePoint Online의 보안 구성)에 대한 액세스를 허용 또는 금지하는 보안 기능에 대한 정보가 포함되어 있지 않습니다. 이러한 기능과 관련된 자세한 내용은 [Exchange Online 서비스 설명](../exchange-online-service-description/exchange-online-service-description.md) 및 [SharePoint Online 서비스 설명](../sharepoint-online-service-description/sharepoint-online-service-description.md)을 참조하세요. 
@@ -49,7 +49,7 @@ ID 유형은 사용자 환경 및 사용자 계정 관리 옵션을 비롯해 �
   
 ### <a name="custom-domains-and-identity-options"></a>사용자 지정 도메인 및 ID 옵션
 
-새로운 사용자를 만들면 Office 365 관리 센터에 설정된 대로 사용자의 로그인 이름과 전자 메일 주소가 기본 도메인에 할당됩니다. 자세한 내용은 [Office 365에 사용자 및 도메인 추가](https://support.office.com/en-us/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)를 참조하세요. 
+새 사용자를 만들 때 사용자의 로그인 이름과 전자 메일 주소는 Microsoft 365 관리 센터에 설정 된 대로 기본 도메인에 할당 됩니다. 자세한 내용은 [Office 365에 사용자 및 도메인 추가](https://support.office.com/en-us/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)를 참조 하세요. 
   
 기본적으로 Office 365 구독은 계정과 함께 만들어진 \< _company name_\> **.onmicrosoft.com** 도메인을 사용합니다.\* onmicrosoft.com 도메인을 유지하지 않고 Office 365 에 하나 이상의 사용자 지정 도메인을 추가할 수 있으며, 사용자를 확인된 도메인 중 어디에서나 로그인할 수 있도록 할당할 수 있습니다. 각 사용자의 할당된 도메인은 보내고 받은 전자 메일 메시지에 표시되는 전자 메일 주소입니다. 
   
@@ -77,7 +77,7 @@ Office 365는 양식 기반 인증을 사용하며, 네트워크의 인증 트�
   
 ### <a name="multi-factor-authentication-for-office-365"></a>Office 365에 대한 다단계 인증
 
-Office 365\*에 대한 다단계 인증을 사용하는 경우 올바른 암호를 입력한 후 스마트폰으로 전화 통화를 하거나 문자 메시지 또는 앱 알림을 확인해야 합니다. 이 두 번째 인증 과정을 거쳐야만 로그인 할 수 있습니다. Office 365 관리자는 Office 365 관리 센터에서 사용자의 다단계 인증을 등록할 수 있습니다. 자세한 내용은 [Office 365에 대한 다단계 인증 사용](https://go.microsoft.com/fwlink/p/?LinkId=392429)을 참조하세요.
+Office 365\*에 대 한 다단계 인증을 사용 하는 경우 사용자는 암호를 올바르게 입력 한 후 smartphone에서 전화 통화, 문자 메시지 또는 앱 알림을 승인 해야 합니다. 이 두 번째 인증 후에만 사용자가 로그인 할 수 있습니다. Office 365 관리자는 Microsoft 365 관리 센터에서 사용자를 다단계 인증을 위해 등록할 수 있습니다. 자세한 내용은 [Office 365의 다단계 인증을](https://go.microsoft.com/fwlink/p/?LinkId=392429)참고 하세요.
   
 ### <a name="rich-client-authentication"></a>리치 클라이언트 인증
 
@@ -115,7 +115,7 @@ Office 365 서비스의 올바른 인증과 검색을 보장하려면 관리자�
   
 ## <a name="creating-user-accounts"></a>사용자 계정 만들기
 
-여러 가지 방법으로 Office 365에 사용자를 추가할 수 있습니다. 자세한 내용은 [사용자 추가 개별적으로 또는 Office 365-을 대량으로 관리자 도움말](https://go.microsoft.com/fwlink/p/?linkid=860006) 및 [추가, 제거 및 Office 365 관리 센터 미리 보기에서 사용자 관리](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409)를 참조 하십시오. 중국에서 21Vianet으로 운영 하는 Office 365를 사용 하는 경우 [21Vianet-관리자 도움말에서 운영 하는 Office 365에서 사용자 계정 만들기 또는 편집을](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409)참조 하십시오.
+Office 365에 사용자를 추가 하는 방법에는 여러 가지가 있습니다. 자세한 내용은 [사용자를 개별적으로 또는 대량으로 Office 365-admin 도움말을 추가](https://go.microsoft.com/fwlink/p/?linkid=860006) 하 고 [Microsoft 365 관리 센터 미리 보기에서 사용자 추가, 제거 및 관리](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409)를 참조 하세요. 중국에서 21vianet에서 운영 하는 office 365을 사용 하는 경우 21vianet에서 운영 하는 [office 365에서 사용자 계정 만들기 또는 편집-관리자 도움말](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409)을 참조 하세요.
   
 ## <a name="deleting-accounts"></a>계정 삭제
 
@@ -139,17 +139,17 @@ Office 365 서비스의 올바른 인증과 검색을 보장하려면 관리자�
     
 - 보안을 강화하려면 사용자는 처음 Office 365 서비스에 액세스했을 때 암호를 변경해야 합니다. 따라서 사용자는 Office 365 서비스에 액세스하기 전에 Office 365 포털에 로그인하여 암호를 변경해야 합니다.
     
-- 관리자가 암호 만료 정책을 설정할 수 있습니다. 자세한 내용은 [사용자의 암호 만료 정책을 설정](https://go.microsoft.com/fwlink/p/?LinkID=285381)을 참조 하십시오.
+- 관리자가 암호 만료 정책을 설정할 수 있습니다. 자세한 내용은 [사용자의 암호 만료 정책 설정을](https://go.microsoft.com/fwlink/p/?LinkID=285381)참조 하십시오.
     
 클라우드 ID와 함께 사용자 암호를 다시 설정할 수 있는 다양한 도구는 다음과 같습니다.
   
 - **관리자가 암호 다시 설정** 사용자가 암호를 분실하거나 기억하지 못하는 경우 관리자가 Office 365 포털 또는 Windows PowerShell을 통해 사용자 암호를 다시 설정할 수 있습니다. 사용자가 기존 암호를 아는 경우에만 암호를 변경할 수 있습니다. 
     
-    Enterprise 계획의 경우 관리자가 암호를 분실하거나 기억하지 못할 경우 Global Administrator 역할을 수행하는 다른 관리자가 Office 365 관리 센터 또는 Windows PowerShell을 통해 관리자의 암호를 다시 설정할 수 있습니다. 자세한 내용은 [관리자 암호 다시 설정](https://go.microsoft.com/fwlink/p/?LinkID=270062)을 참조하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 암호 변경 또는 재설정](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409)을 참조하세요.
+    엔터프라이즈 요금제의 경우 관리자가 암호를 분실 하거나 잊은 경우 전역 관리자 역할이 있는 다른 관리자가 Microsoft 365 관리 센터에서 또는 Windows PowerShell을 사용 하 여 관리자의 암호를 다시 설정할 수 있습니다. 자세한 내용은 [관리자 암호 다시 설정을](https://go.microsoft.com/fwlink/p/?LinkID=270062)참조 하십시오. 중국의 21vianet에서 운영 하는 office 365에서 작업 하는 경우 [21vianet에서 운영 하는 office 365에서 암호 변경 또는 재설정](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409)을 참조 하세요.
     
 - **사용자가 Outlook Web App을 사용하여 암호 변경**Outlook Web App 옵션 페이지에는 사용자를 **암호 변경** 페이지로 리디렉션하는 암호 변경 하이퍼링크가 포함되어 있습니다. 사용자가 이전 암호를 알고 있어야 합니다. 자세한 내용은 [암호 변경](https://go.microsoft.com/fwlink/p/?LinkID=270063)을 참조하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 암호 변경 또는 재설정](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409)을 참조하세요.
     
-- **역할 기반 재설정 암호 권한** 엔터프라이즈 계획에 대 한 권한이 부여 된 사용자 지원 센터 직원 되는 전체 서비스 관리자가 없이 **암호 다시 설정** 사용자 권한 및 미리 정의 된 Office 365를 사용 하 여 암호 변경 또는 사용자 지정 역할을 할당할 수와 같은 합니다. 엔터프라이즈 계획에는 기본적으로 전역 관리자, 암호 관리자 또는 사용자 관리 관리자 역할을 가진 관리자 암호를 변경할 수 있습니다. 자세한 내용은 [관리 역할 할당을](https://go.microsoft.com/fwlink/p/?LinkID=270061)참조 하십시오.
+- **역할 기반 암호 초기화 권한** 엔터프라이즈 요금제의 경우 지원 센터 직원과 같은 인증 된 사용자는 전체 서비스 관리자가 되지 않고 Office 365 미리 정의 된 또는 사용자 지정 역할을 사용 하 여 **암호 다시 설정** 사용자 권한을 할당 하 고 암호를 변경할 수 있습니다. Enterprise 요금제에서는 기본적으로 전역 관리자, 암호 관리자 또는 사용자 관리 관리자 역할이 있는 관리자가 암호를 변경할 수 있습니다. 자세한 내용은 [관리자 역할 할당](https://go.microsoft.com/fwlink/p/?LinkID=270061)을 참조 하십시오.
     
 - **Windows PowerShell을 사용한 암호 다시 설정** 서비스 관리자는 Windows PowerShell을 사용하며 암호를 재설정할 수 있습니다. 
     
@@ -167,11 +167,11 @@ Office 365 대금 청구 관리자는 사용자 라이선스의 수 및 회사�
   
 ## <a name="group-management"></a>그룹 관리
 
-SharePoint Online에서는 사이트 액세스 제어를 위해 보안 그룹을 사용합니다. 보안 그룹은 Office 365 관리 센터에서 만들 수 있습니다. 보안 그룹에 대한 자세한 내용은 [보안 그룹 만들기, 편집 또는 삭제](http://go.microsoft.com/fwlink/?LinkID=733611&amp;clcid=0x409)를 참조하세요.
+SharePoint Online에서 보안 그룹을 사용 하 여 사이트에 대 한 액세스를 제어 합니다. 보안 그룹은 Microsoft 365 관리 센터에서 만들 수 있습니다. 보안 그룹에 대 한 자세한 내용은 [보안 그룹 만들기, 편집 또는 삭제](http://go.microsoft.com/fwlink/?LinkID=733611&amp;clcid=0x409)를 참조 하세요.
   
 ## <a name="administrator-roles"></a>관리자 역할
 
-Office 365 Enterprise 이어지는 역할 기반 액세스 제어 (rbac 역할) 모델: 사용 권한 및 기능 관리 역할에 의해 정의 됩니다. 가 Office 365에 대 한 자신의 조직에 대 한 자동으로 사용자는 전역 관리자 또는 최상위 관리자가 됩니다. 5 개의 관리자 역할은: 전역 관리자, 대금 청구 관리자, 암호 관리자, 서비스 관리자 및 사용자 관리 관리자입니다. 비즈니스 온라인 관리에 대 한 Exchange Online, SharePoint Online 및 Skype에 적용 되는 방법을 포함 하 여 Office 365 Enterprise의 관리자 역할에 대 한 자세한 내용은 [관리자 역할 할당을](https://go.microsoft.com/fwlink/p/?LinkID=282732)참조 하십시오. 중국에서 21Vianet으로 운영 하는 Office 365를 사용 하는 경우 [비즈니스를 위한 Office 365의 관리 역할 할당](https://go.microsoft.com/fwlink/p/?linkid=270061)을 참조 합니다.
+Office 365 Enterprise는 RBAC (역할 기반 액세스 제어) 모델을 따르고 관리 역할에 의해 사용 권한 및 기능이 정의 됩니다. 조직에 대해 Office 365에 등록 하는 사람은 자동으로 전역 관리자 또는 최상위 관리자가 됩니다. 관리자 역할에는 전역 관리자, 청구 관리자, 암호 관리자, 서비스 관리자 및 사용자 관리 관리자의 다섯 가지가 있습니다. Office 365 Enterprise의 관리자 역할에 대 한 자세한 내용은 Exchange Online, SharePoint online 및 비즈니스용 Skype online 관리에 적용 되는 방법을 비롯 하 여 [관리자 역할 할당](https://go.microsoft.com/fwlink/p/?LinkID=282732)을 참조 하세요. 중국에서 21vianet에서 운영 하는 Office 365을 사용 하는 경우에는 [office 365의 비즈니스용 관리자 역할 할당](https://go.microsoft.com/fwlink/p/?linkid=270061)을 참조 하세요.
   
 ## <a name="delegated-administration-and-support-for-partners"></a>위임된 관리 및 파트너에 대한 지원
 
