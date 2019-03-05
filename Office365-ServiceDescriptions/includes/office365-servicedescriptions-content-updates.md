@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-january-21-2019"></a>1 월 21 일 주 2019
-
-
-| 게시된 날짜 |항목 제목 | 변경 사항 |
-|------|------------|--------|
-| 1/24/2019 | [비즈니스용 Skype Online 서비스 설명](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | 수정한 날짜 |
-| 1/24/2019 | [Office 365 플랫폼 서비스 설명](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 수정한 날짜 |
-
-
 ## <a name="week-of-january-28-2019"></a>2019년 1월 28일의 주
 
 
@@ -64,3 +55,11 @@
 | 2/22/2019 | [사용자 계정 관리](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | 수정한 날짜 |
 | 2/22/2019 | [비즈니스용 Skype Online 기능](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-features) | 수정한 날짜 |
 | 2/22/2019 | [비즈니스용 Skype Online 서비스 설명](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | 수정한 날짜 |
+
+
+## <a name="week-of-february-25-2019"></a>2019 년 2 월 25 일 주
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 2/27/2019 | [Microsoft 365 Business 서비스 설명](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 수정한 날짜 |

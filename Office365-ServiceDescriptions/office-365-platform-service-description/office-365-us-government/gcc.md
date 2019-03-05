@@ -1,9 +1,9 @@
 ---
-title: GCC
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 9/26/2017
+title: Office 365 GCC
+ms.author: danarl
+author: danarl
+manager: dianap
+ms.date: 3/4/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: '미국 정부를 대신하여 데이터를 저장하거나 처리하는 계약자뿐만 아니라 미국 연방, 주, 지방 및 자치 정부의 고유하고 진화된 요구 사항을 충족시키기 위해 Microsoft에서는 Office 365 US GCC(Government Community) 서비스를 제공합니다. 볼륨 라이선스를 비롯한 여러 채널을 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재 평가판은 미국 정부 기관에만 제공됩니다. '
-ms.openlocfilehash: 75fcb85c4c79506b15e382d5482ab81938f978db
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7df7e2eec3de11513370f14fe5d1ebfd2faac24a
+ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036459"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379030"
 ---
-# <a name="gcc"></a>GCC
+# <a name="office-365-gcc"></a>Office 365 GCC
 
 미국 정부를 대신하여 데이터를 저장하거나 처리하는 계약자뿐만 아니라 미국 연방, 주, 지방 및 자치 정부의 고유하고 진화된 요구 사항을 충족시키기 위해 Microsoft에서는 Office 365 US GCC(Government Community) 서비스를 제공합니다. 볼륨 라이선스를 비롯한 여러 채널을 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재 평가판은 미국 정부 기관에만 제공됩니다.  
   
@@ -42,7 +42,7 @@ Office 365 직원은 Office 365 US Government Community에서 호스트된 고�
   
 |||
 |:-----|:-----|
-|**Microsoft 직원 선별 및 배경 조사** <br/> |**설명** <br/> |
+|**Microsoft 직원 선별 및 배경 검사** <sup>1</sup> <br/> |**설명** <br/> |
 |미국 시민권  <br/> |미국 시민권 확인  <br/> |
 |고용 기록 확인  <br/> |최근 7년의 고용 기록 확인  <br/> |
 |교육 확인  <br/> |획득한 최종 학위 확인  <br/> |
@@ -53,7 +53,8 @@ Office 365 직원은 Office 365 US Government Community에서 호스트된 고�
 |DDTC(국방 무역 통제국)에서 금지한 개인 목록  <br/> |국무부에 국방 산업과 관련된 수출 활동이 허용되지 않는 개인 및 기관의 목록 확인  <br/> |
 |지문 조사  <br/> |FBI 데이터베이스에 지문 배경 조사  <br/> |
 |CJIS 배경 조사  <br/> |Microsoft CJIS IA 프로그램에 가입한 각 주 내에서 주 CSA가 임명한 권한으로 주 및 연방 범죄 기록에 대한 주 심사 판결  <br/> |
-   
+
+<sup>1</sup> 은 Office 365 미국 정부 커뮤니티 클라우드 (GCC)에서 호스트 되는 고객 콘텐츠에 대 한 일시적인 또는 동등한 액세스를 가진 사용자 에게만 적용 됩니다.  
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 Government 커뮤니티 및 Yammer
 
 Yammer Enterprise는 Office 365 Government의 구성 요소는 아니지만 Office 365 Government 계획 E1 및 E3의 사용이 허가된 각 사용자는 독립 실행형 제공 서비스로 추가 비용 없이 얻을 수 있습니다. 이 제공 서비스는 현재 기업계약 및 기업 정기가입 계약에 따라 Office 365 Government를 구입한 고객에게 제한됩니다. 
@@ -66,4 +67,9 @@ Yammer의 사용이 Office 365 Government 구독의 일부로서 조직에 적�
 
 MyAnalytics는 Office 365 서비스용 FedRAMP 제어 구현에 맞게 설계되고 작동되지만 아직 3PAO에게 Office 365 연간 FedRAMP 감사의 일부로서 검토받지 않았습니다. 필요한 경우 조직에서 MyAnalytics를 사용하기 전에 서비스 규정 준수 감사부에 문의하세요. 
   
+## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 GCC (미국 정부 커뮤니티 클라우드) 고객 지원
 
+office 365 GCC 고객 지원은 지원 에이전트 실제 위치 또는 의식 보증을 비롯 하 여 [전 세계 버전의 Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
+)에 제공 되는 것과 동일한 용어로 제공 됩니다. Office 365 GCC는 다음과 같은 [용어 및 조건](https://azure.microsoft.com/en-us/support/plans/) 에서 지원 되는 Azure 공용 클라우드와 함께 작동 합니다.
+
+Microsoft는 이러한 데이터를 보거나 액세스 하기 위한 권한 부여를 확인 하기 전까지 Office 365 GCC 관련 지원 인시던트를 통해 제어 되 고 중요 하거나 기밀 정보를 지원 담당자와 공유 하지 않도록 합니다. Microsoft는 [개인 정보 보호](https://privacy.microsoft.com/en-US/privacystatement ) 를 위해 최선을 다하고 있습니다. Office 365 GCC 고객 지원은 서비스 인정 경계에 포함 되지 않으며 FedRAMP, srg, itar, IRS 1075 또는 cjis 데이터 처리 및/또는 규정 준수 보장을 제공 하지 않습니다.

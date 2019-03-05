@@ -3,7 +3,7 @@ title: Office 365 Government
 ms.author: danarl
 author: danarl
 manager: dianap
-ms.date: 1/9/2019
+ms.date: 3/4/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 한 요구 사항에 따라 Microsoft는 office 365 us 정부 요금제 (oroffice 365 us 정부)를 만들었습니다. 이 섹션에서는 Office 365 US 정부에 해당 하는 기능에 대 한 개요를 제공 합니다. Office 365 서비스 설명과 함께이 보조 섹션을 읽는 것이 좋습니다.
-ms.openlocfilehash: 34f0ce3259ec3a1a1c4c1111e69026e622861ad8
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 271cc53cdf87553d60c14c793a72509e014cc739
+ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210441"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379060"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -89,25 +89,8 @@ Office 365는 SharePoint Online 사이트, 비즈니스용 Skype, Office 365 Pro
 ## <a name="restricted-data-access-by-administrators"></a>관리자에 의한 데이터 액세스 제한
 <a name="BM5-Restricted"> </a>
 
-Microsoft 관리자에 의한 Office 365 Government 고객 콘텐츠 액세스는 미국 시민권을 가진 직원으로 제한됩니다. 이러한 직원들은 관련 정부 표준에 따라 배경 조사를 거칩니다.
-  
-||||
-|:-----|:-----|:-----|
-|**배경 조사** <br/> |**GCC** <br/> |**GCC High 및 Dod** <br/> |
-|미국 시민권 확인  <br/> |예  <br/> |예  <br/> |
-|고용 기록 확인  <br/> |예  <br/> |예  <br/> |
-|교육 확인  <br/> |예  <br/> |예  <br/> |
-|SSN(사회 보장 번호) 검색  <br/> |예  <br/> |예  <br/> |
-|최근 7년의 범죄 기록 확인  <br/> |예  <br/> |예  <br/> |
-|OFAC(외화 자산 통제국) 목록  <br/> |예  <br/> |예  <br/> |
-|BIS(산업 안보국) 목록  <br/> |예  <br/> |예  <br/> |
-|FBI의 범죄 데이터베이스의 지문 기반 조사  <br/> |예   <br/> |예  <br/> |
-|로컬 상태 cjis 범죄 배경 확인  <br/> |예<sup>1</sup>   <br/> |아니요  <br/> |
-|OPM 계층 3 조사 기반 DOD IT-2  <br/> |아니요  <br/> |DOD SRG L5 테넌트 전용  <br/> |
+Office 365 US 정부 고객 콘텐츠 Microsoft 관리자의 액세스는 스크린 된 사람으로 제한 됩니다. 차단 수준에 대 한 자세한 내용은 각각의 개별 환경 (gcc 또는 gcc High 및 DoD)에 대 한 서비스 설명 페이지를 참조 하세요. 
 
-<sup>1</sup> MSFT govt Cloud cjis 프로그램에 등록 된 상태
-   
-[서비스 설명 섹션 사용 방법](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="fasttrack-center-onboarding-assistance"></a>fasttrack 센터 온 보 딩 지원
 <a name="BM5-Restricted"> </a>
@@ -137,10 +120,10 @@ fasttrack 센터 프로세스에 대 한 구체적인 정보는 [여기](https:/
 |:-----|:-----|:-----|
 |**배경 조사** <br/> |**GCC** <br/> |**GCC High 및 DoD** <br/> |
 |미국 시민권 확인  <br/> |예  <br/> |예  <br/> |
-|고용 기록 확인  <br/> |예  <br/> |예  <br/> |
-|교육 확인  <br/> |예  <br/> |예  <br/> |
+|고용 기록 확인  <br/> |예  <br/> |예   <br/> |
+|교육 확인  <br/> |예  <br/> |예   <br/> |
 |SSN (사회 보장 번호) 검색  <br/> |예  <br/> |예  <br/> |
-|최근 7년의 범죄 기록 확인  <br/> |예  <br/> |예  <br/> |
+|최근 7년의 범죄 기록 확인  <br/> |예  <br/> |예   <br/> |
    
 [서비스 설명 섹션 사용 방법](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -179,8 +162,8 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |Office 365 ProPlus  <br/> |아니요 <br/> |예 <br/> |O <br/> |아니요  <br/> |
 |Exchange Online  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |
 |Exchange Online Protection  <br/> |예  <br/> |예   <br/> |예   <br/> |예  <br/> |
-|SharePoint Online  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |
-|비즈니스용 OneDrive  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |
+|SharePoint Online  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 Skype (인스턴트 메시징 &amp; 현재 상태)  <br/> |예<sup>1</sup> <br/> |예  <br/> |예  <br/> |예<sup>1</sup> <br/> |
 | 음성 전화 시스템, 오디오 회의  <br/> |아니요 <sup>2, 3</sup> <br/> |아니요 <sup>2, 3</sup> <br/> |예 <sup>3, 5</sup> <br/> |아니요  <br/> |
 |Power BI Pro  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |No<sup>2</sup> <br/> |
@@ -200,8 +183,8 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**기능** <br/> |**Office 365 US 정부 G1** <br/> |**Office 365 US 정부 G3** <br/> |**Office 365 US 정부 G5** <br/> |**Office 365 US 정부 F1** <br/> |
 |**Office 365 administration** <br/> |||||
 |Microsoft 365 관리 센터를 사용 하 여 Office 365 관리  <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예  <br/> |예<sup>16</sup> <br/> |
-|Office 365에서 핵심 서비스 설정 관리  <br/> |예  <br/> |예   <br/> |예   <br/> |예  <br/> |
-|Windows PowerShell을 사용하여 Office 365 관리  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |
+|Office 365에서 핵심 서비스 설정 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Windows PowerShell을 사용하여 Office 365 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Azure Information Protection을 사용하여 콘텐츠 보호  <br/> |No<sup>1</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup>  <br/> |No<sup>1</sup> <br/> |
 |**[Office 365 제품군 기능](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 US 정부 G1** <br/> |**Office 365 US 정부 G3** <br/> |**Office 365 US 정부 G5** <br/> |**Office 365 US 정부 F1** <br/> |
 |Microsoft Bookings  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
@@ -308,7 +291,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**[파트너](../../office-365-platform-service-description/partners.md)** <br/> |||||
 |지정된 계획을 사용하는 고객에 대한 평가판 초대 및 구매 주문 만들기  <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |
 |위임된 관리 제공  <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |
-|**[서비스 수준 계약](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |예  <br/> |예   <br/> |예   <br/> |예  <br/> |
+|**[서비스 수준 계약](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |
 |**[제품 사용권](../../office-365-platform-service-description/product-use-rights.md)** <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |
    
 > <sup>1</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 office 365 미국 정부 G1 또는 office 365 us 정부 F1에 포함 되지 않은 office 365 ProPlus에 대 한 구독이 필요 합니다. gT<br/><sup>2</sup> 기존 bbcs 및 BIS 고객은 서비스를 계속 사용할 수 있습니다. 새 고객이 수락 되지 않습니다.<br/><sup>3</sup> 디렉터리 동기화를 사용할 경우 계정을 삭제 하거나 암호를 변경 하려면 Office 365 포털이 아닌 Active directory를 사용 하거나 Windows PowerShell 용 Azure Active directory 모듈을 사용 해야 합니다. 
@@ -339,7 +322,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |아니요  <br/> |예  <br/> |O  <br/> |아니요  <br/> |
 |[Microsoft Publisher](../../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |아니요  <br/> |예  <br/> |O  <br/> |아니요  <br/> |
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |아니요  <br/> |예  <br/> |O  <br/> |아니요  <br/> |
-|[비즈니스용 Skype](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |예<sup>3</sup> <br/> |예  <br/> |예  <br/> |예<sup>3</sup> <br/> |
+|[비즈니스용 Skype](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |예<sup>3</sup> <br/> |예  <br/> |있음  <br/> |예<sup>3</sup> <br/> |
 |[Office 365용 Office for Mac](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |아니요  <br/> |예  <br/> |O  <br/> |아니요  <br/> |
 |[iPad/iPhone용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |아니요  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |아니요  <br/> |
 |[Android용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |아니요  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |아니요  <br/> |
