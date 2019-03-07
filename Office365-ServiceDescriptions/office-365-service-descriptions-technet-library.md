@@ -1,7 +1,7 @@
 ---
 title: 'Office 365 서비스 설명 '
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/26/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft Office 365는 강력한 보안, 안정성 및 사용자의 생산성에 대 한 조직의 요구를 충족 하도록 설계 된 클라우드 기반 서비스입니다.
-ms.openlocfilehash: 31f85abc3c129c1b89a0d170b2bdb6537660772d
-ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
+description: Microsoft Office 365는 강력한 보안, 안정성 및 사용자 생산성에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되도록 설계 된 클라우드 기반 서비스입니다.
+ms.openlocfilehash: abf2ca2eb13bc5830bb5520836aebc66aa55bc1f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "28694662"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466695"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 서비스 설명 
 
-Microsoft Office 365는 강력한 보안, 안정성 및 사용자의 생산성에 대 한 조직의 요구를 충족 하도록 설계 된 클라우드 기반 서비스입니다. 
+Microsoft Office 365는 강력한 보안, 안정성 및 사용자 생산성에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되도록 설계 된 클라우드 기반 서비스입니다. 
   
 이 라이브러리의 항목은 Office 365에서 사용할 수 있는 서비스 및 기능에 대한 자세한 설명을 제공합니다. 계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 또는 아래 목록의 관련 서비스 설명을 참조하세요. 
   
@@ -33,7 +33,7 @@ Microsoft Office 365는 강력한 보안, 안정성 및 사용자의 생산성�
 > [!NOTE]
 > 서비스 설명 비교 스프레드시트에 대한 내용은 더 이상 사용되지 않습니다. 각 서비스 설명 페이지의 제품 기능 가용성 표가 필요에 맞는 Office 365 버전을 선택하는 데 도움이 되도록 업데이트되었습니다. 
   
-가능한 계획에서 사용할 수 있는 서비스에 대 한 Office 365에 대 한 FastTrack 센터 복리 후생을 제공 하는 Microsoft 합니다. 이점을 준비 하기 위해 Office 365 환경을 사용 하기 위해 Microsoft 전문가와 원격으로 작업을 수행할 수 있습니다. 자세한 내용은 [Office 365에 대 한 FastTrack 센터 혜택](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)을 참조 하십시오.
+Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365의 fasttrack 센터 혜택을 제공 합니다. 이를 통해 Microsoft 전문가와 원격으로 작업 하 여 Office 365 환경을 준비 하 고 사용할 수 있습니다. 자세한 내용은 [Office 365용 FastTrack Center 혜택](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)을 참조합니다.
   
 시작하려면 다음 서비스 설명을 참조하십시오.
   
@@ -67,12 +67,12 @@ Microsoft Office 365는 강력한 보안, 안정성 및 사용자의 생산성�
     
 - [Yammer 서비스 설명](yammer-service-description/yammer-service-description.md)
     
-- [Microsoft Dynamics 365(온라인) 서비스 설명](microsoft-dynamics-365-online-service-description.md)
+- [Microsoft Dynamics 365 (온라인) 서비스 설명](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
 > <sup>1</sup> Office Delve, Microsoft MyAnalytics, Microsoft Sway 및 Microsoft Teams와 같은 [제품군 기능](https://technet.microsoft.com/EN-US/library/office-365-suite-features.aspx)의 가용성이 포함되어 있습니다. 
   
 ## <a name="disclaimer"></a>고지 사항
 
-© 2018 Microsoft Corporation 합니다. 모든 권리 보유입니다. Microsoft, Office 365 및 기타 제품 및 서비스 이름은 중이거나 등록상표 및/또는 미국 및/또는 기타 국가에서 상표 될 수 있습니다. 여기에 제공 되는 정보는 참고용 으로만 이며 최신 발행물을 기준으로 Microsoft Corporation의 현재 보기 또는이 문서의 수정 날짜를 나타냅니다. 서비스 계약을 될 아닙니다 하 고 모든 기능, 기능 또는 여기에 인용 된 책임을 부여 하려면 Microsoft 또는 고객을 적용 하지 않습니다. MICROSOFT는이 문서의 정보에 대해 어떠한 명시적 이거나 묵시적인 하지 않습니다. 
+© 2018 Microsoft Corporation 모든 권리 보유. Microsoft, Office 365 및 기타 제품과 서비스 이름은 미국, 대한민국 및/또는 기타 국가에서의 등록 상표 또는 상표이거나 그러한 가능성이 있습니다. 이 내용은 오직 정보를 제공하기 위한 목적으로 작성되었고 이 문서의 최근 게시 또는 수정 날짜 시점의 Microsoft Corporation의 견해를 나타냅니다. 이 내용은 서비스 계약을 위한 것이 아니며, Microsoft 또는 고객에게 여기에 언급된 기능이나 책임을 약속하지 않습니다. Microsoft는 이 설명서의 정보에 대해 어떠한 명시적이거나 묵시적인 보증도 하지 않습니다. 
   

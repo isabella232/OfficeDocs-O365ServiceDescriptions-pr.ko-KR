@@ -1,7 +1,7 @@
 ---
 title: Office 응용 프로그램
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office는 자신이 가지고 있는 최고의 아이디어를 표현하고, 업무를 신속하게 처리하며 이동 중에도 사용할 수 있는 강력한 서비스입니다. Office에 로그인하기만 하면 자신에게 맞게 설정된 작업 환경을 경험하고, 신규 기능과 향상된 기능이 지속적으로 추가되는 모든 최신 Office 응용 프로그램을 사용해 볼 수 있습니다.
-ms.openlocfilehash: 01f5613e53e9fbb66853febd4e61c6ff94c10b05
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 8dfdf4a28fde1d509a96af910b137698e371f713
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036476"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467695"
 ---
 # <a name="office-applications"></a>Office 응용 프로그램
 
@@ -71,12 +71,12 @@ Microsoft Access는 Windows 운영 체제에서 사용할 수 있는 데이터�
 
 Microsoft InfoPath는 전자 양식을 디자인, 배포, 완성 및 제출할 수 있는 프로그램입니다. 필요한 경우 SharePoint Online 사이트에 InfoPath 양식 웹 파트를 추가할 수 있습니다. [InfoPath 양식 웹 파트](http://go.microsoft.com/fwlink/p/?LinkId=271687)에서 더 자세히 알아보십시오.
   
-## <a name="windows-8-apps"></a>Windows 8 앱
+## <a name="windows-8-apps"></a>Windows 8 Apps
 <a name="bkmkWin8Apps"> </a>
 
 Excel 및 Word 같은 일부 Office 응용 프로그램은 Windows 8 및 Windows RT 장치의 시작 화면에 기본적으로 타일이 고정되어 있습니다. [Windows 8 또는 Windows 8 RT에서 Office 응용 프로그램 검색 및 시작](http://go.microsoft.com/fwlink/p/?LinkId=271688)에서 더 자세히 알아보십시오.
   
-## <a name="office-mobile-for-ipadiphone"></a>iPad/iPhone용 Office Mobile
+## <a name="office-mobile-for-ipadiphone"></a>Office Mobile for iPad/iPhone
 <a name="BKMK_Office_for_iPad"> </a>
 
 iPad/iPhone용 Office Mobile에는 Word for iPad/iPhone, Excel for iPad/iPhone 및 PowerPoint for iPad/iPhone이 포함되어 있습니다. 이러한 앱은 무료로 다운로드할 수 있으며 해당 Office 365 계획에 따라 iPad 또는 iPhone에서 문서를 만들고 편집할 수 있습니다. iPad/iPhone용 Office Mobile 앱과 Mac 및 Windows 플랫폼에서 사용되는 데스크톱용 앱을 비교하려면 다음을 참조하세요.
@@ -87,21 +87,21 @@ iPad/iPhone용 Office Mobile에는 Word for iPad/iPhone, Excel for iPad/iPhone �
     
 - [iPad용 PowerPoint와 Mac용 PowerPoint 및 Windows용 PowerPoint 비교](http://go.microsoft.com/fwlink/p/?LinkId=507545)
     
-## <a name="office-mobile-for-android"></a>Android용 Office Mobile
+## <a name="office-mobile-for-android"></a>Office Mobile for Android
 <a name="BKMK_Office_for_Android"> </a>
 
 Android용 Office Mobile에는 Word for Android, Excel for Android 및 PowerPoint for Android가 포함되어 있습니다. 이러한 앱은 무료로 다운로드할 수 있으며 해당 Office 365 계획에 따라 Android 장치에서 문서를 만들고 편집할 수 있습니다. Android용 Office Mobile 앱과 동일한 데스크톱 앱을 비교한 자세한 내용은 다음을 참조하세요.
   
 - [Android 휴대폰용 Office Mobile](https://support.office.com/en-us/article/Office-Mobile-for-Android-phones-ee598133-59d1-43c3-b47c-aac3f2d9a605?ui=en-US&amp;rs=en-US&amp;ad=US)
     
-## <a name="office-mobile-for-windows-phone"></a>Windows Phone용 Office Mobile
+## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 <a name="BKMK_Office_for_WindowsPhone"> </a>
 
 Windows Phone용 Office Mobile에는 Word for Windows Phone, Excel for Windows Phone 및 PowerPoint for Windows Phone이 포함되어 있습니다. 이러한 앱은 무료로 다운로드할 수 있으며 해당 Office 365 계획에 따라 Windows Phone에서 문서를 만들고 편집할 수 있습니다. Windows Phone용 Office Mobile 앱과 동일한 데스크톱 앱을 비교한 자세한 내용은 다음을 참조하세요.
   
 - [Windows Phone용 Office Mobile](https://support.office.com/en-us/article/Office-Mobile-for-Windows-Phone-011b83c4-0d5f-4ea8-bbbe-2ed0d76dc69c?ui=en-US&amp;rs=en-US&amp;ad=US)
     
-## <a name="office-mobile-for-windows-10-tablets"></a>Windows 10용 Office Mobile 태블릿
+## <a name="office-mobile-for-windows-10-tablets"></a>Office Mobile for Windows 10 tablets
 <a name="BKMK_Office_for_WindowsPhone"> </a>
 
 Windows 10용 Office Mobile 태블릿에는 Word Mobile, Excel Mobile 및 PowerPoint Mobile이 포함됩니다. 앱은 Windows 스토어에서 무료로 다운로드할 수 있습니다. [Windows 10 용 Office Mobile 앱](https://blogs.office.com/2015/07/29/office-mobile-apps-for-windows-10-are-here/)에 대해 자세히 알아보세요.

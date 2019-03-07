@@ -1,7 +1,7 @@
 ---
 title: 추가 기능
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
-description: Microsoft SharePoint는 웹 기반 도구 및 기술, 저장 하 고, 공유 하 고, 디지털 정보를 관리 하 여 조직에 도움이 되는의 컬렉션입니다. Microsoft SharePoint Server 2013을 기반으로 구축,이 호스트 된 서비스, 프로젝트 작업을 수행 하 고, 중앙 위치에 데이터와 문서를 저장 하 고, 다른 사용자와 정보를 공유 하에 이상적입니다. Office 365 고객 SharePoint Online에 연결 된 추가 기능을 추가로 구입 수도 있습니다.
-ms.openlocfilehash: a3fc73f53fd0f6dd8e68392430412e2ed0f135b7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint는 조직이 디지털 정보를 저장, 공유 및 관리하는 데 도움이 되는 웹 기반 도구 및 기술을 집약한 제품입니다. Microsoft SharePoint Server 2013에 빌드된 이 서비스는 프로젝트 작업, 중앙에서 데이터 및 문서 저장, 다른 사람과 정보 공유에 이상적입니다. Office 365 고객은 SharePoint Online 관련 추가 기능을 더 구매할 수도 있습니다.
+ms.openlocfilehash: 3fd453bf37e68defdd9aad60cb9185c4190caa7f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036535"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466405"
 ---
 # <a name="add-ons"></a>추가 기능
 
-Microsoft SharePoint는 웹 기반 도구 및 기술, 저장 하 고, 공유 하 고, 디지털 정보를 관리 하 여 조직에 도움이 되는의 컬렉션입니다. Microsoft SharePoint Server 2013을 기반으로 구축,이 호스트 된 서비스, 프로젝트 작업을 수행 하 고, 중앙 위치에 데이터와 문서를 저장 하 고, 다른 사용자와 정보를 공유 하에 이상적입니다. Office 365 고객 SharePoint Online에 연결 된 추가 기능을 추가로 구입 수도 있습니다.
+Microsoft SharePoint는 조직이 디지털 정보를 저장, 공유 및 관리하는 데 도움이 되는 웹 기반 도구 및 기술을 집약한 제품입니다. Microsoft SharePoint Server 2013에 빌드된 이 서비스는 프로젝트 작업, 중앙에서 데이터 및 문서 저장, 다른 사람과 정보 공유에 이상적입니다. Office 365 고객은 SharePoint Online 관련 추가 기능을 더 구매할 수도 있습니다.
   
-## <a name="additional-storage"></a>추가 저장소
+## <a name="additional-storage"></a>Additional Storage
 <a name="bkmk_AdditionalStorage"> </a>
 
 추가 저장소가 필요한 경우 월별 1기가바이트(GB)당 비용으로 사용할 수 있습니다.

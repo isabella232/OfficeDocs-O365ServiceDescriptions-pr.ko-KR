@@ -1,7 +1,7 @@
 ---
 title: 서비스 상태 및 연속성
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,48 +12,48 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
-description: Microsoft Office 365 관리자가 서비스의 상태를 볼 수 있으며 한 예약 된 유지 관리 하는 시기를 확인할 수 있습니다. 서비스 상태 정보는 언제 든 지 Office 365에 로그인 하 여 있습니다.
-ms.openlocfilehash: 5744d0f0390aee046c63309c2395e2225c4d9342
-ms.sourcegitcommit: ac81ba091876af9c42828faf9f5eb989a3a2cc58
+description: Microsoft Office 365 관리자는 서비스 상태를 보고 유지 관리 예정 시간을 확인할 수 있습니다. 서비스 상태 정보는 언제 든 지 Office 365에 로그인 하 여 사용할 수 있습니다.
+ms.openlocfilehash: 010d93d70ce69717d4b02e752fcafc7734851b5e
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/13/2018
-ms.locfileid: "27258740"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466955"
 ---
 # <a name="service-health-and-continuity"></a>서비스 상태 및 연속성
 
-Microsoft Office 365 관리자가 서비스의 상태를 볼 수 있으며 한 예약 된 유지 관리 하는 시기를 확인할 수 있습니다. 서비스 상태 정보는 언제 든 지 Office 365에 로그인 하 여 있습니다.
+Microsoft Office 365 관리자는 서비스 상태를 보고 유지 관리 예정 시간을 확인할 수 있습니다. 서비스 상태 정보는 언제 든 지 Office 365에 로그인 하 여 사용할 수 있습니다.
   
 > [!NOTE]
 > 21Vianet에서 운영하는 Office 365를 사용 중인 경우 다음 정보 중 일부가 적용되지 않을 수 있습니다. 대신 [21Vianet 서비스 수준 계약](http://www.21vbluecloud.com/office365/O365-SLA/)을 참조하세요. 
   
 ## <a name="view-status-of-services"></a>서비스 상태 보기
 
-Office 365의 서비스 상태 섹션의 서비스 및 서비스 중단 및 중단 하는 방법에 대 한 자세한 내용은 현재 상태를 표시합니다. 계획 된 유지 관리 정보를 메시지 센터에서 사용할 수 있습니다. 자세한 내용은 [서비스의 상태 보기](https://docs.microsoft.com/office365/enterprise/view-service-health)를 참조 하십시오. 
+Office 365의 서비스 상태 섹션에는 서비스의 현재 상태와 서비스 장애 및 중단에 대 한 세부 정보가 표시 됩니다. 계획 된 유지 관리 정보는 메시지 센터에서 사용할 수 있습니다. 자세한 내용은 [서비스의 상태 보기](https://docs.microsoft.com/office365/enterprise/view-service-health)를 참조하세요. 
   
 ## <a name="service-incidents"></a>서비스 인시던트
 
-문제가 발생 한 서비스에는 서비스의 배달에 영향을 주는 이벤트입니다. 서비스 사고 Microsoft 데이터 센터 고객 및 Microsoft, 또는 화재도 배, 또는 지역별 재해와 같은 주요 데이터 센터 시도 간에 문제가 발생 한 네트워크 연결에서에서 하드웨어 또는 소프트웨어 오류로 인해 발생할 수 있습니다. 대부분 서비스 사고 Microsoft 기술 및 프로세스 솔루션을 사용 하 여 해결할 수 및 짧은 시간 내에서 해결 됩니다. 그러나 일부 서비스 심각한 경우에 사건과 긴 용어 중단 될 수 있습니다.
+서비스 인시던트는 서비스 제공에 영향을 주는 이벤트입니다. 서비스 인시던트는 microsoft 데이터 센터의 하드웨어 또는 소프트웨어 오류, 고객과 microsoft 간의 잘못 된 네트워크 연결 또는 화재, 홍수 또는 지역별 재해가 같은 주요 데이터 센터 문제 때문일 수 있습니다. 대부분의 서비스 인시던트는 Microsoft 기술 및 프로세스 솔루션을 통해 대응이 가능하며, 짧은 시간 안에 해결됩니다. 하지만 일부 심각한 서비스 인시던트는 보다 장기적인 서비스 중단으로 이어질 수 있습니다.
   
-서비스를 사용할 수 없을 때 시간에 대 한 알림는 다음과 같은 두가지 유형이 있습니다.
+서비스를 사용할 수 없는 시간에 대 한 알림 유형에는 다음 두 가지가 있습니다.
   
-- **유지 관리 이벤트 계획:** 계획 된 유지 관리 인프라 및 소프트웨어 응용 프로그램에 대 한 일반 Microsoft 시작 서비스 업데이트 됩니다. 계획 된 유지 관리 알림 Office 365 서비스의 기능에 영향을 미칠 수 있는 서비스 작업에 대 한 고객을 게 알립니다. 고객은 Office 365 관리 포털에서 메시지 센터를 통해 모든 계획 된 유지 관리 하기 전에 5 일 보다 더 이후 알림을 받습니다. Microsoft는 일반적으로 때 서비스 사용 현황에는 지금까지 가장 낮은 시기에 따라 시간 지역 표준 시간대에 대 한 유지 관리를 계획 합니다. 
+- **계획 된 유지 관리 이벤트:** 계획 된 유지 관리는 인프라 및 소프트웨어 응용 프로그램에 대해 Microsoft에서 시작 하는 정기적인 서비스 업데이트입니다. 계획 된 유지 관리 알림은 Office 365 서비스의 기능에 영향을 줄 수 있는 서비스 작업을 고객에 게 알려 줍니다. Office 365 관리 포털에서 메시지 센터를 통해 계획 된 모든 유지 관리의 이전 단계를 진행 하는 동안 5 일 이내에 고객에 게 알림이 제공 됩니다. Microsoft는 일반적으로 지역 표준 시간대에 따라 가장 낮은 시간에 서비스를 사용 하는 시간에 대 한 유지 관리 계획을 수립 합니다. 
     
 - **계획되지 않은 가동 중지 시간:** 계획되지 않은 서비스 인시던트는 Office 365 제품군에 사용할 수 없거나 응답이 없는 서비스가 있을 때 발생합니다. 
     
 ## <a name="notification-policy"></a>알림 정책
 
-서비스 문제를 발생 하는 경우 Microsoft 시기 적절 하 고, 대상, 정확 하 게 통신 고객을 위한 중요 한는 인식 합니다. Microsoft는 테 넌 트 관련 서비스 상태 대시보드 (SHD) Office 365 관리 포털에서 업데이트 하 여 Office 365 관리자를 알립니다. 서비스 문제 업데이트 한 시간 단위 흐름 문서에서 제공 됩니다 또는 언급 SHD 통신 게시에는 서로 다른 흐름이 필요한 경우. 
+서비스 인시던트가 발생하면 Microsoft는 고객을 위해 시기 적절하고 대상이 지정된 정확한 커뮤니케이션이 필요한 상황이라는 것을 알게 됩니다. Microsoft는 office 365 관리 포털에서 SHD (테 넌 트 관련 서비스 상태 대시보드)를 업데이트 하 여 office 365 관리자에 게 알립니다. 서비스 인시던트 업데이트는 시간별 흐름에 제공 되거나, 다른 흐름을 필요로 하는 경우에는 SHD 통신 게시에 명시 됩니다. 
   
 ## <a name="service-health-communication-channels"></a>서비스 상태 통신 채널
 
 ### <a name="office-365-admin-app"></a>Office 365 관리 앱
 
-Office 365 테 넌 트 관리자를 위한 관리 응용 프로그램은 이동 중에 조직의 Office 365 서비스 상태를 사용 하 여 연결 하는 기능을 제공 합니다. Office 365 테 넌 트 관리자가 모바일 장치에서 서비스 상태 정보 및 유지 관리 상태 업데이트를 볼 수 있는 기능을 갖습니다. 자세한 내용은 [관리 응용 프로그램 FAQ](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)를 참고 하십시오.
+관리 앱 for Office 365 테 넌 트 관리자는 이동 중에 조직의 Office 365 서비스 상태에 연결 하는 기능을 제공 합니다. Office 365 테 넌 트 관리자는 모바일 장치에서 서비스 상태 정보 및 유지 관리 상태 업데이트를 볼 수 있습니다. 자세한 내용은 [관리 앱 FAQ](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)를 참조하세요.
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2용 Office 365 관리 팩
 
-Microsoft System Center는 데이터 센터, 클라이언트 장치 및 하이브리드 관리를 통해 IT 환경 클라우드 하는 통합 된 관리 플랫폼입니다. 이제 System Center를 사용 하는 office 365 관리자에 게 System Center Operations Manager 내에서 모든 서비스 통신을 볼 수 있도록 하는 Office 365 관리 팩을 가져오려면 옵션이 있습니다. 이 도구를 사용 하 여 서비스를 구독된, 활성 상태이 고 해결 서비스 사건과 메시지 센터 통신의 상태에 액세스할을 수 있습니다. 자세한 내용은 블로그 게시물 인 [새 Office 365 관리 도구](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/) 를 참고 하십시오. 
+Microsoft System Center는 데이터 센터, 클라이언트 장치 및 하이브리드 클라우드 IT 환경을 관리하는 데 도움이 되는 통합 관리 플랫폼입니다. system center를 사용 하는 office 365 관리자는 이제 office 365 관리 팩을 가져올 수 있으며,이를 통해 system center에서 Operations Manager 내의 모든 서비스 통신을 보기 이 도구를 사용하면 구독 서비스, 활성 및 해결된 서비스 인시던트, 메시지 센터 통신의 상태에 액세스할 수 있습니다. 자세한 내용을 보려면 [새 Office 365 관리 도구](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/) 블로그 게시물을 참조하세요. 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 서비스 통신 API
 
@@ -71,19 +71,19 @@ Office 365 서비스 통신 API를 사용하면 원하는 방식으로 Office 36
 
 지속적인 개선에 대한 Microsoft의 약속에는 고객에게 영향을 주는 예정되지 않은 서비스 인시던트를 분석하여 향후 그러한 상황이 다시 발생할 가능성을 최소화하겠다는 약속도 포함되어 있습니다. 
   
-계획 되지 않은 서비스 사고 당사의 서비스 Sla에 정의 된 서비스 사용량에 영향을 줄 및 이와 같이 서비스 상태 대시보드에 선언 된 여부를 지정 하는 다중 테 넌 트 서비스 중단으로 정의 됩니다.
+계획 되지 않은 서비스 인시던트는 서비스 sla에 정의 된 대로 서비스 사용에 영향을 주는 다중 테 넌 트 서비스 중단으로 정의 되며 서비스 상태 대시보드에서 선언 됩니다.
   
- 사고에 대 한 계획 되지 않은 고객에 영향을 미치는 서비스는 했습니다 광범위 하 고 눈에 띄는 영향 많은 조직 전체에서는 예비 후 사고 검토 (시행 사후 검토) 배달 됩니다 서비스 상태 대시보드를 통해 인시던트의 48 시간 이내 해결 방법 5 일 이내는 최종 시행 사후 검토 앞에 오는 합니다. 자세한 시행 사후 검토 보고서에는 다음이 포함 됩니다. 
+ 수많은 조직에 광범위 하 고 현저한 영향을 주는 계획 되지 않은 고객이 영향을 주는 서비스 인시던트가 발생 하는 경우 서비스 상태 대시보드를 통해 pir (예비 사건 사후 검토)가 48 시간 이내에 제공 됩니다. 해결 방법, 영업일 5 일 이내에 최종 pir이 이어집니다. 자세한 pir 보고서에는 다음이 포함 됩니다. 
   
 - 사용자 환경 및 고객 영향
     
 - 인시던트 시작 및 종료 날짜/시간
     
-- 영향 및 해상도 측정값의 상세 시간 표시 막대
+- 영향 및 해결 조치에 대 한 자세한 시간 표시 막대
     
 - 근본 원인 분석 및 지속적인 개선을 위해 수행되는 조치
     
-다른 모든 서비스 문제에 대 한 서비스 상태 대시보드 최종 요약 이벤트, 예비 근본 원인을, 시작 및 종료 시간 및 다음 단계를 자세히 나타내는 정보를 포함 하는 문제 닫기 요약을 제공 합니다. 이 범주의 서비스 문제에 대 한 프로그램 시행 사후 검토 생성 되지 않습니다. 
+다른 모든 서비스 인시던트의 경우 서비스 상태 대시보드는 이벤트에 대 한 최종 요약, 임시 근본 원인, 시작 및 종료 시간, 다음 단계를 자세히 설명 하는 정보를 포함 하 여 문제 닫기 요약을 제공 합니다. 이 서비스 인시던트 범주에 대해서는 PIR이 생성되지 않습니다. 
   
 ## <a name="service-continuity"></a>서비스 연속성
 

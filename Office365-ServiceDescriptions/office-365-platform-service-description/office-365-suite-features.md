@@ -1,7 +1,7 @@
 ---
 title: Office 365 제품군 기능
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
-description: 이 항목에 나열 된 기능은 공동 작업을 수행할 정책 및 많은 장치 및 여러 Office 365 서비스를 통해 안전 하 게 통신할 수 있도록 지 원하는 웹 기반 도구의 컬렉션입니다. 이러한 기능 통합 디지털 콘텐츠 제작, 저장 및 검색 하 고 사용자 간에 정보 공유를 위한 공유 도구와 관리 하 여 조직 내에서 새 연결을 확인 하는 데 도움이 됩니다.
-ms.openlocfilehash: cdc7803a1373f5442e768dc5c8a6b26dff9d5ab8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 이 항목에 나열 된 기능은 많은 장치 및 여러 Office 365 서비스에서 안전 하 게 공동 작업 하 고 통신 하는 데 사용할 수 있는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
+ms.openlocfilehash: b595a0315beb72d5120c78b4df93b959b19a0efc
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036446"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466945"
 ---
 # <a name="office-365-suite-features"></a>Office 365 제품군 기능
 
-이 항목에 나열 된 기능은 공동 작업을 수행할 정책 및 많은 장치 및 여러 Office 365 서비스를 통해 안전 하 게 통신할 수 있도록 지 원하는 웹 기반 도구의 컬렉션입니다. 이러한 기능 통합 디지털 콘텐츠 제작, 저장 및 검색 하 고 사용자 간에 정보 공유를 위한 공유 도구와 관리 하 여 조직 내에서 새 연결을 확인 하는 데 도움이 됩니다.
+이 항목에 나열 된 기능은 많은 장치 및 여러 Office 365 서비스에서 안전 하 게 공동 작업 하 고 통신 하는 데 사용할 수 있는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
   
 ## <a name="microsoft-bookings"></a>Microsoft 예약
 <a name="BKMK_Bookings"> </a>
@@ -39,12 +39,12 @@ Microsoft Flow를 사용하면 응용 프로그램 전체의 워크플로를 자
 ## <a name="microsoft-forms"></a>Microsoft Forms
 <a name="BKMK_Forms"> </a>
 
-Microsoft Forms은 새로운 사용자 지정 퀴즈, 설문 조사, 설문 조사, 등록, 등의 빠르고 쉽게 만들 수 있도록 하는 Office 365 교육 부분입니다. 퀴즈 또는 폼을 만들 때 모바일 장치에도 모든 웹 브라우저를 사용 하 여 응답 하도록 다른 사용자를 초대할 수 있습니다. 결과 제출 하는 대로 응답 평가를 기본 제공 분석을 사용할 수 있습니다. 추가 분석 또는 평가 대 한 Excel로 퀴즈 결과 같은 양식 데이터를 쉽게 내보낼 수 있습니다. 자세한 내용은 참조 [Microsoft Forms 란?](https://support.office.com/en-us/forms)합니다.
+Microsoft Forms은 사용자 지정 퀴즈, 설문 조사, 으로써, 등록 등을 쉽고 빠르게 만들 수 있게 해 주는 Office 365 교육의 새로운 부분입니다. 퀴즈 또는 설문지를 만들 때 모든 웹 브라우저를 사용하여 모바일 장치에서도 다른 사용자가 응답하도록 초대 할 수 있습니다. 결과가 제출되면 기본 제공 분석을 사용하여 응답을 평가할 수 있습니다. 퀴즈 결과와 같은 양식 데이터는 추가 분석 또는 그레이를 위해 쉽게 Excel로 내보낼 수 있습니다. 자세한 내용은 [Microsoft Forms 란?](https://support.office.com/en-us/forms)을 참조 하십시오.
   
 ## <a name="microsoft-graph-api"></a>Microsoft Graph API
 <a name="BKMK_Graph"> </a>
 
-Microsoft Graph API를 사용 하 여 다양 한 리소스, 관계 및 단일 끝점을 통해 인텔리전스에 연결 하는 앱을 빠르게 만들기: https://graph.microsoft.com합니다. 예, 사용자 지정 대시보드, 워크플로 및 조직에 대 한 데이터를 검색 하는 앱을 만들 수 있습니다. 자세한 내용은 [Microsoft Graph 설명서](https://go.microsoft.com/fwlink/?linkid=849595)를 참조 하십시오.
+Microsoft Graph API를 사용 하 여 단일 끝점을 통해 다양 한 리소스, 관계 및 인텔리전스에 연결 되는 앱을 신속 하 게 작성할 https://graph.microsoft.com수 있습니다. 예를 들어 조직에 대 한 데이터를 검색 하는 사용자 지정 대시보드, 워크플로 및 앱을 만들 수 있습니다. 자세한 내용은 [Microsoft Graph 설명서](https://go.microsoft.com/fwlink/?linkid=849595)를 참고 하십시오.
   
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 <a name="BKMK_MyAnalytics"> </a>
@@ -69,12 +69,12 @@ Microsoft StaffHub는 클라우드 기반 응용 프로그램으로, 작업자 �
 ## <a name="microsoft-stream"></a>Microsoft Stream
 <a name="BKMK_Stream"> </a>
 
-조직의 사용자를 업로드 하 고, 보고, 비디오를 안전 하 게 공유를 사용할 수 있는 서비스를 엔터프라이즈 비디오 스트림이 있습니다. 클래스, 모임, 프레젠테이션, 교육 세션 또는 팀의 공동 작업 지원 프로그램 다른 비디오의 녹음/녹화를 공유할 수 있습니다. Microsoft 스트림을 통해 쉽게 메모 및 비디오의 특정 요소를 참조 하는 설명에 비디오 및 태그 시간 코드에 대 한 의견을 공유할 수 있습니다.
+Microsoft Stream은 조직의 사용자가 안전 하 게 비디오를 업로드, 확인 및 공유 하는 데 사용할 수 있는 엔터프라이즈 비디오 서비스입니다. 팀의 공동 작업에 도움이 되는 수업, 모임, 프레젠테이션, 교육 세션 또는 기타 비디오의 기록을 공유할 수 있습니다. Microsoft Stream을 사용 하면 비디오에서 주석을 쉽게 공유할 수 있으며, 메모의 시간 코드 및 설명에 태그를 지정 하 여 비디오의 특정 포인트를 참조할 수도 있습니다.
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 <a name="BKMK_Sway"> </a>
 
-Microsoft 영향 하는데 도움이 되는 비즈니스에 대 한 전문 디지털 storytelling 응용 프로그램 이며 동료 express는 대화형, 웹 기반 캔버스를 사용 하 여 아이디어를 그릴 수 있습니다. Microsoft 영향의 기본 제공 디자인 엔진을 통해 professional,-시각적 보고서, 프레젠테이션 및 광범위 한 서식을 또는 추가 교육에 대 한 필요 없이 만들 수 있습니다. 원하는 고유 모양 및 느낌을 가져올 결과 수정할 수 있습니다. Microsoft 영향을 만든 그림 모든 화면에 모든 브라우저에서 보기 좋게 만들고 단순히 링크를 발송 하 여 고객 및 동료와 공유할 수 있습니다. 찾기 및 끌어서 캔버스에 이미지, 텍스트, 비디오 및 차트를 오른쪽에 놓을 수 있도록 앱을 떠나지 않고도 모든 종류의 콘텐츠를 가져올 Microsoft 영향은 데 도움이 됩니다. 자세한 내용은 [라](https://sway.com)를 참조 합니다. Microsoft 영향 아직 [Office 365 독일](office-365-germany.md)에서 제공 되지 않습니다.
+Microsoft Sway는 대화형 웹 기반 캔버스를 사용 하 여 의견을 표현 하는 데 도움이 되는 비즈니스를 위한 전문적인 디지털 이야기 하기 앱입니다. Microsoft Sway의 기본 제공 디자인 엔진은 다양 한 서식 또는 추가 교육을 필요로 하지 않고 전문가, 시각적으로 매력적인 보고서, 프레젠테이션을 만드는 데 도움이 됩니다. 또한 결과를 수정하여 원하는 고유한 모양과 느낌을 얻을 수 있습니다. Microsoft Sway를 사용 하면 모든 브라우저에서 모든 화면을 만들 수 있으며 단순히 링크를 전송 하 여 동료 및 고객과 공유할 수도 있습니다. Microsoft Sway를 사용 하면 앱을 벗어나지 않고 모든 종류의 콘텐츠를 찾고 가져와서 캔버스에 이미지, 텍스트, 비디오 및 차트를 바로 끌어다 놓을 수 있습니다. 자세한 내용은 [Sway](https://sway.com)를 참조하세요. [Office 365 독일](office-365-germany.md)에서는 Microsoft Sway를 아직 사용할 수 없습니다.
   
 ## <a name="microsoft-teams"></a>Microsoft 팀
 <a name="BKMK_Teams"> </a>
@@ -99,7 +99,7 @@ Office 365 비디오는 장치 간에 비디오를 업로드, 공유 및 검색�
 ## <a name="onenote-class-notebook"></a>OneNote 수업용 전자 필기장
 <a name="BKMK_Video"> </a>
 
-클래스 전자 필기장 OneNote의 일부 이며 Office 365 교육 및 Office 365 e 5 교육에 사용할 수 있습니다. 각 전자 필기장 각 학생에 대 한 코스 (영문) 콘텐츠, 학생 및 교사 함께 작동 하는 위치는 공동 작업 공간 및 개인 전자 필기장을 공유 하는 교사에 대 한 콘텐츠 라이브러리를 포함 합니다. 클래스 전자 필기장을 만든 후 교사 및 학생 모든 장치를 통해 액세스할 수 OneNote 응용 프로그램을 사용할 수 있습니다.
+수업용 전자 필기장은 OneNote의 일부분이 며 office 365 교육 및 office 365 E5 교육에 사용할 수 있습니다. 각 전자 필기장에는 교사와 학생이 함께 작업할 수 있는 공동 작업 공간, 각 학생에 대 한 개인 전자 필기장 등을 공유 하는 교사의 콘텐츠 라이브러리가 포함 되어 있습니다. 수업용 전자 필기장을 만든 후에는 교사와 학생이 OneNote 앱을 사용 하 여 모든 장치에서 액세스할 수 있습니다.
   
 ## <a name="feature-availability"></a>기능 가용성
 <a name="BKMK_Video"> </a>

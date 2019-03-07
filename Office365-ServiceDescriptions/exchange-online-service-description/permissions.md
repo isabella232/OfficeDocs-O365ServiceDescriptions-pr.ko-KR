@@ -1,7 +1,7 @@
 ---
 title: 사용 권한
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online에서는 RBAC(역할 기반 액세스 제어) 모델을 사용하여 조직의 관리자가 사용자 및 IT 직원이 서비스에서 수행할 수 있는 작업을 세부적으로 제어할 수 있도록 합니다. 예를 들어, 준수 관리자가 사서함 검색 요청을 담당하는 경우 관리자는 RBAC를 통해 이 관리 기능을 준수 관리자에게 위임할 수 있습니다. Exchange Online에서는 Microsoft Exchange Server 2013과 동일한 RBAC 프레임워크를 사용합니다.
-ms.openlocfilehash: 037a92123c67e313f4db93835be6355bbd829efc
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 9f7cad7587d3700971a9cedaf38a20161f203c01
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036541"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468135"
 ---
 # <a name="permissions"></a>사용 권한
 

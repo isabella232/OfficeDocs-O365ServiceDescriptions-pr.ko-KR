@@ -1,7 +1,7 @@
 ---
 title: Exchange Online Protection 제한
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: 다음 제한은 Exchange Online 보호에 대 한 현재 존재합니다. 그렇지 않은 경우 지정 되지 않은 경우 이러한 제한은 구성할 수 없습니다.
-ms.openlocfilehash: 2e2efe4693cb7e5cdf52b4d035512657c39f03c2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 현재 Exchange Online Protection에 대 한 제한은 다음과 같습니다. 이러한 제한은 다른 설명이 없는 한 구성할 수 없습니다.
+ms.openlocfilehash: 3c96449b2694dba470f6860f8324d86bb84d3774
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036618"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468145"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 제한
 
-다음 제한은 Exchange Online 보호에 대 한 현재 존재합니다. 그렇지 않은 경우 지정 되지 않은 경우 이러한 제한은 구성할 수 없습니다. 
+현재 Exchange Online Protection에 대 한 제한은 다음과 같습니다. 이러한 제한은 다른 설명이 없는 한 구성할 수 없습니다. 
   
 > [!TIP]
 > Exchange Online의 제한에 대한 자세한 내용은 [Exchange Online 제한](../exchange-online-service-description/exchange-online-limits.md)을 참조하세요. EOP 독립 실행형 고객에게는 전송 규칙 제한도 적용됩니다. Exchange Online의 받는 사람 처리 속도 및 메시지 속도 제한은 EOP 독립 실행형 고객에게 적용되지 않습니다. 
@@ -50,7 +50,7 @@ ms.locfileid: "24036618"
 |**기능**|****EOP 독립 실행형****|****EOP 기능: Exchange Online****|****Exchange Enterprise CAL with Services****|
 |:-----|:-----|:-----|:-----|
 |도메인 제한  <br/> |900  <br/> |900  <br/> |900  <br/> |
-|메시지 크기 제한(첨부 파일 포함)  <br/> |150MB  <br/> |150MB  <br/> |150MB  <br/> |
+|메시지 크기 제한(첨부 파일 포함)  <br/> |150MB   <br/> |150MB  <br/> |150MB  <br/> |
 |받는 사람 제한  <br/> |위의 "받는 사람 제한" 참조  <br/> |호스트된 사서함에서 보낼 경우 받는 사람 500명. 다른 시나리오의 경우 위의 "받는 사람 제한" 참조  <br/> |위의 "받는 사람 제한" 참조  <br/> |
 |수신 허용 제한  <br/> |항목 1024개  <br/> |항목 1024개  <br/> ||
 |수신 거부 제한  <br/> |항목 1024개  <br/> |항목 1024개  <br/> ||

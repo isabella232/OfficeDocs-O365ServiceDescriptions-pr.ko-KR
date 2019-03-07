@@ -1,7 +1,7 @@
 ---
 title: 공유 및 공동 작업
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 13ab2163b76b5ccc4732659a64be5fcead01dc9d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ca55a389f5ed117b09b6c10ca1b2caf42bf01be0
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036495"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466925"
 ---
 # <a name="sharing-and-collaboration"></a>공유 및 공동 작업
 
@@ -43,7 +43,7 @@ ms.locfileid: "24036495"
   
 ## <a name="public-folders"></a>공용 폴더
 
-Exchange Online의 공용 폴더는 기존 높은 가용성 및 저장소 기술 사서함 데이터베이스의 활용 하기 위해 현대화 된가 있습니다. 공용 폴더 아키텍처 특별히 디자인 된 사서함을 사용 하 여 계층 구조와 공용 폴더 콘텐츠를 저장 합니다. 이 별도 공용 폴더 데이터베이스를 더 이상 인지 것을 의미 합니다. 공용 폴더 복제 지금 연속 복제 모델을 사용 합니다. 계층 구조 및 콘텐츠 사서함에 대 한 고가용성 데이터 센터에서 데이터베이스 가용성 그룹 (DAG)에서 제공 됩니다. Exchange Online에서 공용 폴더 사서함 1, 000 개로 제한 됩니다. 각 공용 폴더 사서함에는 최대 저장소 크기는도 있습니다. 자세한 내용은 [Exchange Online 제한](exchange-online-limits.md)의 "사서함 폴더 제한" 섹션을 참조 하십시오. 공용 폴더 사서함 일반 사서함으로 동일한 메시지, 받는 사람 및 용량 경고 제한을 포함 됩니다. 자세한 내용은 [받는 사람](recipients.md)을 참조 하십시오. 
+Exchange Online의 공용 폴더는 사서함 데이터베이스의 기존 고가용성 및 저장소 기술을 활용하도록 새롭게 바뀌었습니다. 공용 폴더 아키텍처에서는 특별히 설계된 사서함을 사용하여 계층 구조와 공용 폴더 내용을 모두 저장합니다. 이는 별도의 공용 폴더 데이터베이스가 더 이상 존재하지 않음을 의미합니다. 공용 폴더 복제에서는 이제 연속 복제 모델을 사용합니다. 계층 및 콘텐츠 사서함에 대한 고가용성은 데이터 센터의 DAG(데이터베이스 사용 가능 그룹)를 통해 제공됩니다. Exchange Online에서 공용 폴더 사서함은 1000 개로 제한 됩니다. 또한 각 공용 폴더 사서함에는 최대 저장소 크기가 있습니다. 자세한 내용은 [Exchange Online 제한](exchange-online-limits.md)의 "사서함 폴더 제한" 섹션을 참조하십시오. 공용 폴더 사서함의 경우 메시지, 받는 사람 및 용량 경고 제한은 일반 사서함과 같습니다. 자세한 내용은 [받는 사람](recipients.md)을 참조하십시오. 
   
 공용 폴더에 대한 자세한 내용은 [공용 폴더](https://go.microsoft.com/fwlink/p/?LinkId=271790)를 참조하세요.
   

@@ -1,7 +1,7 @@
 ---
 title: 도움말 및 훈련
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365에서는 다음과 같은 도움말 및 교육 리소스를 제공 합니다.
-ms.openlocfilehash: 4ea99142d70bec44a3c30875c22979c5f405fdd8
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 295faf2dbaf866b3110beef2b547893d7248f52a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210291"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467085"
 ---
 # <a name="help-and-training"></a>도움말 및 훈련
 
@@ -27,7 +27,7 @@ Microsoft Office 365에서는 다음과 같은 도움말 및 교육 리소스를
 ## <a name="online-help"></a>온라인 도움말
 <a name="BKMK_Online_Help"> </a>
 
-도움말 문서와 비디오는 Office 365 포털 및 Microsoft 365 관리 센터의 위쪽 탐색 모음에 있는 도움말 아이콘을 포함 하 여 서비스의 모든 인라인 도움말 링크에서 사용할 수 있습니다. 모든 Office 365 도움말을 [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)검색할 수도 있습니다. 
+도움말 문서와 비디오는 Office 365 포털 및 Microsoft 365 관리 센터의 위쪽 탐색 모음에 있는 도움말 아이콘을 포함 하 여 서비스의 모든 인라인 도움말 링크에서 사용할 수 있습니다. 모든 Office 365 도움말은 [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)에서도 검색할 수 있습니다. 
   
 ## <a name="training"></a>교육
 <a name="BKMK_Online_Help"> </a>
@@ -123,33 +123,33 @@ Office 365에는 Office 365 커뮤니티 및 온라인 도움말 이외에 자�
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |아랍어  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |불가리아어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|중국어 간체  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예   <br/> |
-|중국어 번체  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예   <br/> |
+|중국어 간체  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|중국어 번체  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |체코어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|덴마크어  <br/> |예  <br/> |O  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|네덜란드어  <br/> |예  <br/> |O  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|덴마크어  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|네덜란드어  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |에스토니아어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |핀란드어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|프랑스어  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예   <br/> |
-|독일어  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예   <br/> |
+|프랑스어  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|독일어  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |그리스어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |헝가리어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|이탈리아어  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예   <br/> |
-|일본어  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예   <br/> |
+|이탈리아어  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|일본어  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |한국어  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |라트비아어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |리투아니아어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|노르웨이어  <br/> |예  <br/> |O  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|폴란드어  <br/> |예  <br/> |예  <br/> |O  <br/> |아니요  <br/> |예  <br/> |
+|노르웨이어  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|폴란드어  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |포르투갈어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |포르투갈어(브라질)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |루마니아어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|러시아어  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예   <br/> |
+|러시아어  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |세르비아어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |슬로바키아어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |슬로베니아어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |스페인어  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|스웨덴어  <br/> |예  <br/> |O  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|스웨덴어  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |태국어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |터키어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |우크라이나어  <br/> |예  <br/> | 아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |

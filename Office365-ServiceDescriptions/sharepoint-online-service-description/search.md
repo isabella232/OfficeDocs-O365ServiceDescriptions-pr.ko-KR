@@ -1,7 +1,7 @@
 ---
 title: 검색
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
-description: SharePoint Online은 웹 기반 도구 및 기술, 저장 하 고, 공유 하 고, 디지털 정보를 관리 하 여 조직에 도움이 되는의 컬렉션입니다. Microsoft SharePoint Server 2013을 기반으로 구축,이 호스트 된 서비스, 프로젝트 작업을 수행 하 고, 중앙 위치에 데이터와 문서를 저장 하 고, 다른 사용자와 정보를 공유 하에 이상적입니다. 다음과 같은 검색 기능에는 사용자가 작업을 수행 하는데 필요한 정보를 찾을 도움이 됩니다. 검색은 관련성, 구체화 및 사용자의 조합입니다.
-ms.openlocfilehash: 2aceab27cf37ac27e11a1b4cac105592a2419e5f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음의 검색 기능은 업무 처리에 필요한 정보를 찾을 수 있게 도와 줍니다. 검색은 관련성, 구체화 및 사용자 검색의 조합입니다.
+ms.openlocfilehash: 2dc56b1bafaf25c61d07052108267d8beebc0c03
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036493"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467636"
 ---
 # <a name="search"></a>검색
 
-SharePoint Online은 웹 기반 도구 및 기술, 저장 하 고, 공유 하 고, 디지털 정보를 관리 하 여 조직에 도움이 되는의 컬렉션입니다. Microsoft SharePoint Server 2013을 기반으로 구축,이 호스트 된 서비스, 프로젝트 작업을 수행 하 고, 중앙 위치에 데이터와 문서를 저장 하 고, 다른 사용자와 정보를 공유 하에 이상적입니다. 다음과 같은 검색 기능에는 사용자가 작업을 수행 하는데 필요한 정보를 찾을 도움이 됩니다. 검색은 관련성, 구체화 및 사용자의 조합입니다.
+SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음의 검색 기능은 업무 처리에 필요한 정보를 찾을 수 있게 도와 줍니다. 검색은 관련성, 구체화 및 사용자 검색의 조합입니다.
   
 ## <a name="continuous-crawls"></a>연속 크롤링
 <a name="bkmk_ContinuousCrawl"> </a>
@@ -59,7 +59,7 @@ SharePoint에서는 사용자 검색 범주에서 특정 기술이나 전문성�
 
 사용자가 SharePoint 사이트에서 콘텐츠를 검색할 때에는 검색 인덱스에 따라 검색할 콘텐츠가 결정됩니다. 해당 사이트의 모든 문서와 페이지 정보가 포함되어 있는 검색 인덱스는 SharePoint 사이트의 콘텐츠를 크롤링하여 만듭니다. 검색 스키마는 크롤러가 선택할 콘텐츠와 메타데이터 및 인덱싱 방법을 결정하는 데 도움을 줍니다. 검색 스키마를 변경하여 사용자에게 알맞게 사용자 지정된 검색 환경을 만들 수 있습니다. 자세한 내용은 [SharePoint Online에서 검색 스키마 관리](https://go.microsoft.com/fwlink/p/?LinkId=392427)를 참조하세요.
   
-## <a name="on-hover-preview"></a>가리키면 미리 보기
+## <a name="on-hover-preview"></a>대화형 미리 보기
 <a name="bkmk_Quickpreview"> </a>
 
 검색 결과 위로 포인터를 가져가서 결과 오른쪽에 있는 호버 패널에서 문서 또는 사이트 콘텐츠를 미리 보고 상호 작용할 수 있습니다. 이 미리 보기에는 다양한 메타데이터가 표시되며 문서나 사이트의 기본 섹션으로 연결되는 딥 링크가 포함됩니다. 자세한 내용은 [검색 팁](https://go.microsoft.com/fwlink/p/?LinkId=286614)을 참조하세요.

@@ -1,7 +1,7 @@
 ---
 title: 받는 사람
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,18 +13,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 이 항목에서는 Microsoft Exchange Online에 포함된 받는 사람 관련 기능에 대해 설명합니다. 설명에는 전자 메일, 연락처, 메일 그룹 및 달력/예약 기능이 포함됩니다.
-ms.openlocfilehash: 32f792028f9e0d15b97048861ddc77ac59151b0f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 875cbfb171d12fe9d60379255308c3332cda43f5
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036490"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467415"
 ---
 # <a name="recipients"></a>받는 사람
 
 이 항목에서는 Microsoft Exchange Online에 포함된 받는 사람 관련 기능에 대해 설명합니다. 설명에는 전자 메일, 연락처, 메일 그룹 및 달력/예약 기능이 포함됩니다.
   
-## <a name="email"></a>전자 메일
+## <a name="email"></a>메일
 
 모든 Microsoft Exchange Online 구독자에게는 사서함이 제공되며, 회의실 등의 시설 리소스에 대한 일정 예약 및 다중 액세스를 통한 전자 메일 주소 공유를 위한 특수 사서함도 사용할 수 있습니다. 대부분의 사서함에는 최대 저장 용량 제한이 적용되며, 관리자는 허용 가능한 사서함 크기를 제어할 수 있습니다. 제한 용량에 가까워지거나 도달했을 경우 자동 알림 및 제한을 통해 사용자에게 경고합니다. Exchange Online에는 메시지 크기, 메시지 속도, 받는 사람 목록 제한 등 여러 유형의 메시지 제한도 있습니다. 이러한 모든 기능과 제한의 세부 정보는 아래에 나와 있습니다.
   
@@ -41,7 +41,7 @@ ms.locfileid: "24036490"
 
 메일 설명은 사용자가 메시지를 작성하는 동안이나 주소를 입력하는 동안 받는 사람: 줄 위에 자동으로 나타나는 정보 메시지입니다. 잘못된 배달, 정책 위반 또는 불필요한 배달 못 함 보고서(NDR)를 방지하는 데 도움이 됩니다. 예를 들어 너무 큰 그룹이나 외부 받는 사람이 포함된 그룹, 또는 중재되거나 제한된 메일 그룹에 메시지를 보내려고 할 경우에는 메일 설명이 경고를 생성합니다. 자세한 내용은 [메일 설명](https://go.microsoft.com/fwlink/p/?LinkId=401472)을 참조하세요.
   
-### <a name="delegate-access"></a>대리인 액세스
+### <a name="delegate-access"></a>위임 액세스
 
 Exchange Online은 사용자가 다른 사람에게 자신의 전자 메일 및 일정을 관리할 수 있게 하는 대리인 액세스를 지원합니다. 대리인 액세스는 일반적으로 관리자와 비서 간에 사용되는 기능으로, 비서가 관리자의 받는 메일 메시지를 처리하고 일정을 관리하는 경우 사용됩니다. Exchange Online 사용자는 Outlook이나 Outlook Web App에서, 관리자는 Exchange 관리 센터에서 대리인 액세스를 사용하도록 설정할 수 있습니다. 
   
@@ -57,7 +57,7 @@ Exchange Online은 사용자가 다른 사람에게 자신의 전자 메일 및 
 
 사용자는 Exchange Online에서 받은 편지함 규칙을 만들어 메시지를 받았을 때 조건을 기반으로 한 특정 작업을 메시지에 자동으로 수행할 수 있습니다. 예를 들어 특정 메일 그룹으로 보낸 모든 메일은 자동으로 특정 폴더로 이동되도록 규칙을 만들 수 있습니다. 사용자는 Outlook 또는 Outlook Web App에서 받은 편지함 규칙을 관리합니다. 관리자는 서버 쪽 전달 및/또는 서버 쪽 자동 회신을 사용하지 않도록 설정하여 특정 유형의 받은 편지함 규칙을 차단할 수 있습니다. 예를 들어 서버 쪽 전자 메일 전달을 사용하지 않도록 설정할 경우 사용자는 자동으로 전자 메일을 개인 계정에 전달할 수 없습니다. 마찬가지로 서버 쪽 자동 회신을 사용하지 않도록 설정할 경우 외부에서 이 답장을 사용해 유효한 전자 메일 주소를 식별할 수 없습니다. 이러한 변경 내용은 원격 Windows Powershell을 통해 이루어집니다.
   
-### <a name="clutter"></a>클러터
+### <a name="clutter"></a>Clutter
 
 클러터는 받은 편지함에서 가장 중요한 메시지에 중점을 둘 수 있게 도와줍니다. 이 기능은 기계 학습을 사용하여 우선 순위가 낮은 메시지를 새 클러터 폴더로 이동함으로써 받은 편지함을 우선 순위가 높은 메시지 위주로 정리합니다. 클러터는 기존 전자 메일 규칙을 따르므로, 전자 메일을 구성하는 규칙을 만든 경우 해당 규칙이 계속 적용되며 클러터 기능이 이러한 메시지에는 작용하지 않습니다. 클러터는 받은 편지함에 대해 기본적으로 사용되지 않도록 설정되어 있습니다. 자세한 내용은 [Office 365에서 받은 편지함 정리]( https://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/)를 참조하세요.
   

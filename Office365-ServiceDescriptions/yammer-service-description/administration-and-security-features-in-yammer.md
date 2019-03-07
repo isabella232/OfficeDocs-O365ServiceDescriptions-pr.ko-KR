@@ -1,7 +1,7 @@
 ---
 title: Yammer의 관리 및 보안 기능
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,18 +13,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: Yammer에서는 다음과 같은 관리 및 보안 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 78aa673b4bb5da2bd5aca57bba6e532f9521a2bb
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: d68cf69d069998fd4a92d86ff5132678095f8783
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036611"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466745"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Yammer의 관리 및 보안 기능
 
 Yammer에서는 다음과 같은 관리 및 보안 기능을 사용할 수 있습니다.
   
-대 한 세부 정보 및 절차에 대 한 [관리 센터 Yammer](https://go.microsoft.com/fwlink/?LinkId=869688)를 참조 합니다.
+자세한 설명과 절차는 [Yammer 관리 센터](https://go.microsoft.com/fwlink/?LinkId=869688)를 참조 하십시오.
   
 ## <a name="custom-network-branding"></a>사용자 지정 네트워크 브랜딩
 <a name="bkmk_CustomNetworkBranding"> </a>
@@ -77,7 +77,7 @@ Yammer 네트워크의 확인된 관리자는 전체 네트워크에서 개인 �
 ## <a name="company-resources"></a>회사 리소스
 <a name="bkmk_CompanyResources"> </a>
 
-중요 한 파일 및 직원에 게 링크를 추가 복지 혜택 정보 또는 휴무일 달력 인사 정책 등의 회사 리소스에 대 한 빠른 액세스 합니다.
+직원 들에 게 HR 정책, 혜택 정보 또는 휴일 일정과 같은 회사 리소스에 빠르게 액세스할 수 있도록 중요 한 파일 및 링크를 추가 합니다.
   
 ## <a name="password-policies"></a>암호 정책
 <a name="bkmk_PasswordPolicies"> </a>

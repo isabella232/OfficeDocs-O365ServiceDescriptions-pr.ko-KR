@@ -1,7 +1,7 @@
 ---
 title: 모바일 장치[SD]
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a3ed4aa6-aab3-474f-909d-5f24f98128a3
-description: Microsoft Office 365와 함께 많은 휴대폰, 태블릿 및 기타 모바일 장치를 사용할 수 있습니다.
-ms.openlocfilehash: 00e954a442cc861db452a3019a8fc045adfa987f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 대부분의 휴대폰, 태블릿 및 기타 모바일 장치는 Microsoft Office 365에서 사용할 수 있습니다.
+ms.openlocfilehash: 1c84927b09ebd16161e2cd3f505121a2fb433787
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036613"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467045"
 ---
 # <a name="mobile-devices-sd"></a>모바일 장치[SD]
 
-Microsoft Office 365와 함께 많은 휴대폰, 태블릿 및 기타 모바일 장치를 사용할 수 있습니다. 
+대부분의 휴대폰, 태블릿 및 기타 모바일 장치는 Microsoft Office 365에서 사용할 수 있습니다. 
   
 - 특정 모바일 장치에 대한 자세한 내용은 다음을 참조하세요 [모바일 장치의 Office 365 작동 방법 비교](https://go.microsoft.com/fwlink/p/?LinkId=282337)
     

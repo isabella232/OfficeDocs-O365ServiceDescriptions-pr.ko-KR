@@ -1,7 +1,7 @@
 ---
 title: Office 365 플랫폼 서비스 설명
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 2/21/2019
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
-description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Exchange Online 계획을 비롯 하 여 Office 365 계획 간의 차이점을 확인 하는 경우이 문서에는 각 기능에 포함 된 기능이 나와 있습니다.
-ms.openlocfilehash: 5346aa8a30ed89b31ed7b072914f146707068561
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Exchange Online 계획을 비롯하여 Office 365 계획 간의 차이점을 알고 싶은 경우 이 문서를 통해 각 계획에 포함된 기능을 확인할 수 있습니다.
+ms.openlocfilehash: eb542d224f330581490265713675929df65693c8
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210361"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467725"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 플랫폼 서비스 설명
 
-Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Exchange Online 계획을 비롯 하 여 Office 365 계획 간의 차이점을 확인 하는 경우이 문서에는 각 기능에 포함 된 기능이 나와 있습니다.
+Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Exchange Online 계획을 비롯하여 Office 365 계획 간의 차이점을 알고 싶은 경우 이 문서를 통해 각 계획에 포함된 기능을 확인할 수 있습니다.
   
 Microsoft Office 365는 기업 규모에 상관없이 클라우드 생산성의 효과를 제공하여 시간과 비용을 절약하고 중요 자원을 확보할 수 있도록 도와줍니다.Office 365는 익숙한 Microsoft Office 데스크톱 제품군을 Microsoft Exchange Online, Microsoft SharePoint Online, Office Online 및 Microsoft 비즈니스용 Skype 온라인 등의 Microsoft의 차세대 통신 및 공동 작업 서비스의 클라우드 기반 버전과 결합하여 사용자가 인터넷을 통해 사실상 어디서든 생산성을 높일 수 있도록 도와 줍니다.
   
@@ -56,7 +56,7 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 
 서비스 수준 계약에 대한 내용은 [서비스 수준 계약](https://go.microsoft.com/fwlink/?linkid=843153)을 참조하세요. Office 365의 최근 작동시간에 대한 자세한 정보는[Office 365에서의 투명한 운용](https://go.microsoft.com/fwlink/?linkid=848695)을 참조하세요.
   
-## <a name="security-amp-compliance-center"></a>보안 &amp; 및 준수 센터
+## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
 보안 &amp; 및 준수 센터에 대 한 자세한 내용과 추가 정보 및 가용성에 대 한 링크는 [Office &amp; 365 보안 및 준수 센터](office-365-securitycompliance-center.md)를 참조 하세요.
   
@@ -94,37 +94,37 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |**[Office 365 관리 기능](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
-|Microsoft 365 관리 센터 또는 Windows PowerShell을 사용 하 여 Office 365 관리  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |
-|Azure Information Protection을 사용하여 콘텐츠 보호  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예   <br/> |No<sup>2</sup> <br/> |
+|Microsoft 365 관리 센터 또는 Windows PowerShell을 사용 하 여 Office 365 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Azure Information Protection을 사용하여 콘텐츠 보호  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |
 |**[Office 365 제품군 기능](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Microsoft Bookings  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|Microsoft Flow  <br/> |예  <br/> |지원 안 함  <br/> |예  <br/> |예   <br/> |예   <br/> |예  <br/> |예<sup>14</sup> <br/> |
-|Microsoft Forms  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예  <br/> |
-|Microsoft Graph API  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예  <br/> |
+|Microsoft Flow  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>14</sup> <br/> |
+|Microsoft Forms  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Microsoft Graph API  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft MyAnalytics  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|Microsoft Planner  <br/> |예  <br/> |지원 안 함  <br/> |예  <br/> |예   <br/> |예   <br/> |O  <br/> |아니요  <br/> |
-|Microsoft PowerApps  <br/> |예  <br/> |지원 안 함  <br/> |예  <br/> |예   <br/> |예   <br/> |예  <br/> |예<sup>13</sup> <br/> |
-|Microsoft StaffHub  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예  <br/> |
-|Microsoft Stream  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예<sup>18</sup> <br/> |
-|Microsoft Sway  <br/> |예  <br/> |예   <br/> |예   <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |
-|Microsoft 팀<sup>10</sup> <br/> |예  <br/> |지원 안 함  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예<sup>12</sup> <br/> |
-|Office Delve  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |O  <br/> |아니요  <br/> |
-|Office 365 그룹  <br/> |예  <br/> |지원 안 함  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예  <br/> |
-|Office 365 비디오  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예   <br/> |예   <br/> |예<sup>11</sup> <br/> |
+|Microsoft Planner  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|Microsoft PowerApps  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>13</sup> <br/> |
+|Microsoft StaffHub  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Microsoft Stream  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>18</sup> <br/> |
+|Microsoft Sway  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |
+|Microsoft 팀<sup>10</sup> <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>12</sup> <br/> |
+|Office Delve  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|Office 365 그룹  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Office 365 비디오  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>11</sup> <br/> |
 |OneNote 수업용 전자 필기장  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>15</sup> <br/> |아니요  <br/> |
 |**[사용자 계정 관리](user-account-management.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|클라우드 ID, 페더레이션 ID 또는 다단계 인증  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |
-|Office 365 데스크톱 설정  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |
-|.csv 파일을 사용하여 대량 업로드  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |
-|디렉터리 동기화 도구  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |
-|Exchange 단순(단독형) 마이그레이션  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |
-|계정 삭제 및 Office 365에서 또는 Windows PowerShell를 사용하여 사용자 암호를 다시 설정<sup>3</sup> <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예  <br/> |
-|사용자가 자신의 암호를 변경할 수 있음<sup>4</sup> <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예  <br/> |
+|클라우드 ID, 페더레이션 ID 또는 다단계 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Office 365 데스크톱 설정  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|.csv 파일을 사용하여 대량 업로드  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|디렉터리 동기화 도구  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Exchange 단순(단독형) 마이그레이션  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|계정 삭제 및 Office 365에서 또는 Windows PowerShell를 사용하여 사용자 암호를 다시 설정<sup>3</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|사용자가 자신의 암호를 변경할 수 있음<sup>4</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |라이선스 관리  <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |
-|Office 365에서 보안 그룹 관리  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |
-|사용할 수 있는 여러 관리자 역할  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예  <br/> |
-|관리자가 사용자를 대신하여 Office 365를 관리하도록 허용  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |
-|Azure Active Directory 서비스  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |
+|Office 365에서 보안 그룹 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|사용할 수 있는 여러 관리자 역할  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|관리자가 사용자를 대신하여 Office 365를 관리하도록 허용  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Azure Active Directory 서비스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[도메인](domains.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |사용자 지정 2차 수준 도메인 추가(예: fourthcoffee.com)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |사용자 지정 3차 수준 도메인 추가(예: marketing.fourthcoffee.com)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -137,7 +137,7 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 |다른 공급자에 의한 공개 웹 사이트 호스트  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |전자 메일 및 메신저에 다른 공급자 사용  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |사용자 지정 도메인에 대해 도메인 소유권 확인 필요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Go Daddy를 통해 구입한 도메인에 대해 자동화된 도메인 구입 및 도메인 확인 사용 가능  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Go Daddy를 통해 구입한 도메인에 대해 자동화된 도메인 구입 및 도메인 확인 사용 가능  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[서비스 상태 및 연속성](service-health-and-continuity.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |**서비스 상태** 또는 **서비스 상태** 페이지에서 상태 정보를 사용할 수 있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft 365 관리 센터 대시보드에서 사용할 수 있는 개별 알림 상태  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -151,19 +151,19 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 |보낸 메일 및 받은 메일  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |상위 보낸 사람 및 받는 사람  <br/> |예  <br/> |--  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |스팸 감지  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|맬웨어 감지  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |
-|메일에 대한 상위 맬웨어  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |
-|메일에 대한 규칙 일치  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |
-|메일에 대한 상위 규칙 일치  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |
-|메일에 대한 상위 DLP 정책 일치  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |O  <br/> |아니요  <br/> |
-|메일에 대한 심각도별 DLP 정책 일치  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |O  <br/> |아니요  <br/> |
-|메일에 대한 DLP 정책 일치, 재정의 및 가양성  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |O  <br/> |아니요  <br/> |
-|메일에 대한 상위 DLP 규칙 일치  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |O  <br/> |아니요  <br/> |
-|IM 및 오디오 세션  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |
-|응용 프로그램 공유, 웹 및 전화 접속 회의  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |
-|비디오, 응용 프로그램 공유 및 파일 전송 세션  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예  <br/> |
-|IM 및 오디오/비디오 회의  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예  <br/> |
-|다운로드 가능한 메일 보호 보고서  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예  <br/> |예  <br/> |예  <br/> |
+|맬웨어 감지  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|메일에 대한 상위 맬웨어  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|메일에 대한 규칙 일치  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|메일에 대한 상위 규칙 일치  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|메일에 대한 상위 DLP 정책 일치  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|메일에 대한 심각도별 DLP 정책 일치  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|메일에 대한 DLP 정책 일치, 재정의 및 가양성  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|메일에 대한 상위 DLP 규칙 일치  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|IM 및 오디오 세션  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|응용 프로그램 공유, 웹 및 전화 접속 회의  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|비디오, 응용 프로그램 공유 및 파일 전송 세션  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|IM 및 오디오/비디오 회의  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|다운로드 가능한 메일 보호 보고서  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |사용된 브라우저  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |사용된 운영 체제  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365 보고 웹 서비스를 사용하여 자신만의 보고서 만들기  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -176,20 +176,20 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 |온라인 도움말  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |커뮤니티  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |기타 자가 진단 리소스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|개인별 진도 교육  <br/> |예  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |
+|개인별 진도 교육  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[네트워킹](networking.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|IPv4 및 IPv6 프로토콜  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예  <br/> |
+|IPv4 및 IPv6 프로토콜  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**트러스트** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|**[개인 정보, 보안 및 투명성](privacy-security-and-transparency.md)** <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |
+|**[개인 정보, 보안 및 투명성](privacy-security-and-transparency.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365 Cloud App Security  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |Advanced Threat Protection  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |Customer Lockbox  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |Office 365에 대한 고객 키<sup>16</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |Office 365 고급 eDiscovery<sup>17</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|보안 점수<sup>7</sup> <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예  <br/> |
+|보안 점수<sup>7</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|**[규정 준수[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||||||
-|SAS 70 / SSAE16 평가  <br/> |예  <br/> |예   <br/> |예   <br/> |예   <br/> |예   <br/> |예  <br/> |예  <br/> |
+|**[준수 [servicedesc]](compliance-servicedesc.md)** <br/> ||||||||
+|SAS 70 / SSAE16 평가  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |ISO 27001 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |EU 모델 조항  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |EU Safe Harbor  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -208,11 +208,18 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
    
 
 > <sup>1</sup> Office 365는 제조업체에서 지원 하지 않는 운영 체제에 대 한 지원을 제공 하지 않습니다. 
-<br/><sup>2</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 office 365 business Essentials, office 365 Business Premium, office 365 Enterprise E1, office 365 교육 또는 office 365 Enterprise F1에 포함 되지 않은 office 365 ProPlus에 대 한 구독이 필요 합니다.<br/><sup>3</sup> 로컬 active directory와의 디렉터리 동기화를 사용 하는 경우 계정을 삭제 하거나 암호를 변경 하려면 Office 365 포털이 아닌 로컬 active directory를 사용 하거나 Windows PowerShell 용 Azure Active directory 모듈을 사용 해야 합니다. 
-<br/><sup>4</sup> 사용자에 대해 셀프 서비스 암호 관리 정책을 설정 하는 방법에 대 한 자세한 내용은 [Azure AD에서 암호 관리](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)를 참조 하십시오. 
-<br/><sup>6</sup> 기간 할인을 통해 구입한 허용 사용자 수를 줄이면 위약금이 부과될 수 있습니다. 이러한 위약금이 월별 유료 구독에는 적용되지 않습니다.<br/><sup>7</sup> (에서 [https://securescore.office.com](https://securescore.office.com)사용 가능). 관리자 권한이 필요 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://go.microsoft.com/fwlink/?linkid=836894)를 참조 하세요.<br/><sup>8</sup> Microsoft Sway는 현재 특정 지역에 있는 고객에 게 제공 되지 않습니다. 8 월로 더 이상 출시 되지 않는 일부 레거시 Office 365 계획에는 Microsoft Sway에 대 한 액세스 권한이 없을 수도 있습니다.<br/><sup>9</sup> 개의 환경이 감소 했습니다. 조직이 internet explorer 8 또는 internet explorer 9에 의존 하 여 이전 웹 앱 및 서비스에 액세스 하는 경우 internet explorer 11로 업그레이드 하 고 internet explorer 11 엔터프라이즈 모드를 평가 하는 것을 고려할 수 있습니다. 이 업데이트를 통해 레거시 웹 앱에 대 한 이전 버전과의 호환성을 높일 수 있습니다.<br/><sup>10</sup> Microsoft 팀은 office 365 business Essentials, office 365 Business Premium, office 365 Enterprise (E1, E3, E5, F1) 및 office 365 교육용 요금제에서 사용할 수 있습니다. 
+<br/><sup>2</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용하려면 Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F1에 포함되어 있지 않은 Office365ProPlus를 구독해야 합니다. 
+<br/><sup>3</sup> If using directory synchronization with a local Active Directory, you must delete accounts or change passwords by using the local Active Directory, rather than the Office 365 portal or by using the Azure Active Directory module for Windows PowerShell. 
+<br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). 
+<br/><sup>6</sup> 용어 할인을 사용 하 여 구매한 좌석을 초기 종결 수수료에 따라 줄일 수 있습니다. This is not applicable for subscriptions paid on a monthly basis. 
+<br/><sup>7</sup> (에서 [https://securescore.office.com](https://securescore.office.com)사용 가능). 관리자 권한이 있어야 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://go.microsoft.com/fwlink/?linkid=836894)를 참조 하세요. 
+<br/><sup>8</sup> Microsoft Sway는 현재 특정 지역에 있는 고객에 게 제공 되지 않습니다. 8 월로 더 이상 출시 되지 않는 일부 레거시 Office 365 계획에는 Microsoft Sway에 대 한 액세스 권한이 없을 수도 있습니다. 
+<br/><sup>9</sup> 개의 환경이 감소 했습니다. 조직이 internet explorer 8 또는 internet explorer 9에 의존 하 여 이전 웹 앱 및 서비스에 액세스 하는 경우 internet explorer 11로 업그레이드 하 고 internet explorer 11 엔터프라이즈 모드를 평가 하는 것을 고려할 수 있습니다. 이 업데이트를 통해 레거시 Web Apps에 대한 이전 버전과의 호환성을 개선할 수 있습니다. 
+<br/><sup>10</sup> Microsoft 팀은 office 365 business Essentials, office 365 Business Premium, office 365 Enterprise (E1, E3, E5, F1) 및 office 365 교육용 요금제에서 사용할 수 있습니다. 
 <br/><sup>11</sup> office 365 Enterprise F1, office 365 비디오는 보기 전용으로 제한 됩니다 (게시 하거나 공유할 수 없음). 
-<br/><sup>12</sup> inoffice 365 Enterprise F1, 일대일 오디오/시각적 통화가 지원 됩니다. 모임 권한은 추가 또는 초기화 없이 참가 전용으로 제한 됩니다.<br/><sup>13</sup> Office 365 Enterprise F1에서 PowerApps는 사용 전용으로 제한 됩니다 (게시 하거나 공유할 수 없음). 
+<br/><sup>12</sup> inoffice 365 Enterprise F1, 일대일 오디오/시각적 통화가 지원 됩니다. 모임 권한은 참가로만 제한됩니다(만들거나 시작할 수 없음). 
+<br/><sup>13</sup> Office 365 Enterprise F1에서 PowerApps는 사용 전용으로 제한 됩니다 (게시 하거나 공유할 수 없음). 
 <br/><sup>14</sup> In Office 365 Enterprise F1, 흐름은 소비율만을 사용 하도록 제한 되며 실행은 매달 사용자 당 750로 제한 됩니다. 
-<br/><sup>15</sup> office 365 E5 교육을 포함 하 여 office 365 교육용 요금제 에서만 사용할 수 있습니다. Office 365 Enterprise E5에서는 사용할 수 없습니다.<br/><sup>16</sup> 자세한 내용은 [고객 키를 사용 하 여 Office 365에서 데이터 제어](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요. 
-<br/><sup>17</sup> Advanced eDiscovery는 미국 및 유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터를 미국으로 내보냅니다. 유럽, 중동 및 아프리카의 고객 데이터는 서유럽 [네덜란드]로 내보내집니다. gT<br/><sup>18</sup> Microsoft Stream 사용 전용: 게시 또는 공유할 수 없음 
+<br/><sup>15</sup> office 365 E5 교육을 포함 하 여 office 365 교육용 요금제 에서만 사용할 수 있습니다. Office 365 Enterprise E5에서는 사용할 수 없습니다. 
+<br/><sup>16</sup> 자세한 내용은 [고객 키를 사용 하 여 Office 365에서 데이터 제어](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요. 
+<br/><sup>17</sup> Advanced eDiscovery는 미국 및 유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카의 고객 데이터는 서유럽 [네덜란드]로 내보내집니다. gT <br/><sup>18</sup> Microsoft Stream의 소비량: 게시 또는 공유 안 함 

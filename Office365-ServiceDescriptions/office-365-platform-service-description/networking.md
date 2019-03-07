@@ -1,7 +1,7 @@
 ---
 title: 네트워킹
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
-description: Microsoft Office 365에는 다음과 같은 네트워킹 기능을 지원합니다.
-ms.openlocfilehash: 8a9a8d8b5276f4f4578fec625849410268f855ad
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Office 365에서는 다음과 같은 네트워킹 기능을 지원 합니다.
+ms.openlocfilehash: 2245e2e60333d0f1eb85e1243c49c0a04a4f62ec
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036461"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467905"
 ---
 # <a name="networking"></a>네트워킹
 
-Microsoft Office 365에는 다음과 같은 네트워킹 기능을 지원합니다.
+Microsoft Office 365에서는 다음과 같은 네트워킹 기능을 지원 합니다.
   
 ## <a name="ports-protocols-and-ip-addresses"></a>포트, 프로토콜 및 IP 주소
 
@@ -43,7 +43,7 @@ Office 365에 대한 모든 연결은 공용 인터넷 또는 개인 Azure Expre
   
 Azure Express 경로에 대한 자세한 내용은 [Office 365용 Azure Express 경로](https://aka.ms/expressrouteoffice365)를 참조하세요.
   
-### <a name="wan-accelerators"></a>WAN 바로 연결
+### <a name="wan-accelerators"></a>WAN 가속기
 
 Microsoft에서는 Office 365를 통한 고객 소유 WAN 바로 연결 및 캐싱 장치를 지원하지 않습니다. 대기 시간이 길거나 대역폭이 낮은 환경에서 WAN 최적화 컨트롤러를 사용하여 성능을 향상시키려면 Microsoft에서 서비스 요청 문제를 해결하는 동안 사용자가 컨트롤러를 사용하지 않도록 설정하고 장치 공급업체에 장치 지원을 요청해야 합니다. 자세한 내용은 [Office 365를 통한 WAN 바로 연결 및 캐싱 장치](https://go.microsoft.com/fwlink/p/?LinkID=282468)를 참조하세요.
   

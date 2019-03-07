@@ -1,7 +1,7 @@
 ---
 title: 지원
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: 모든 Microsoft Office 365 Enterprise, 비즈니스, 교육 및 정부 구독을 전역 기술, 사전 판매 대금 청구 및 구독 지원 Microsoft 기술 지원 서비스를 제공합니다. 지원 교육은 모두 온라인 Office 365 포털을 통해 및 유료 및 평가판 구독에 대 한 전화를 통해 합니다. 자세한 내용은 Office 365 지원 옵션을 참조 하십시오.
-ms.openlocfilehash: bb93982e24065abbf558145afcff07f10181ceb7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 모든 Microsoft Office 365 Enterprise, Business, Education 및 Government 구독에 대해 Microsoft 고객 지원에서는 세계적인 기술, 사전 판매, 대금 청구 및 구독 지원을 제공합니다. 지원은 Office 365 포털을 통해 온라인으로 제공 되며 유료 및 평가판 구독 모두에 대해 전화로 지원 됩니다. 자세한 내용은 Office 365 지원 옵션을 참조하세요.
+ms.openlocfilehash: 3192d778f402e5a0a64c00f0928ce185b3bb81de
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036587"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467535"
 ---
 # <a name="support"></a>지원
 
 > [!NOTE]
-> 아래의 지원 옵션의 모든 Office 365의 전세계 버전에 대 한 있습니다. 중국에서 21Vianet으로 운영 하는 Office 365에 대 한 모든 지원에 대 한 [21Vianet에서 운영 하는 Office 365에 대 한 지원 비즈니스에 대 한 대화 상대 Office 365](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)를 참조 합니다. Office 365 독일 [Office 365 독일에 대 한 지원 비즈니스에 대 한 대화 상대 Office 365](https://go.microsoft.com/fwlink/?linkid=846979)를 참조 하십시오. 
+> 아래의 모든 지원 옵션은 Office 365 전 세계 버전용입니다. 중국의 21vianet에서 운영 하는 office 365에 대 한 모든 지원에 대해서는 [21vianet에서 운영 하는 office 365 for business support](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)for office 365를 참조 하세요. office 365 독일의 경우 office [365 for business support for office 365 전라남도](https://go.microsoft.com/fwlink/?linkid=846979)를 참조 하세요. 
   
-모든 Microsoft Office 365 Enterprise, 비즈니스, 교육 및 정부 구독을 전역 기술, 사전 판매 대금 청구 및 구독 지원 Microsoft 기술 지원 서비스를 제공합니다. 지원 교육은 모두 온라인 Office 365 포털을 통해 및 유료 및 평가판 구독에 대 한 전화를 통해 합니다. 자세한 내용은 [Office 365 지원 옵션](https://go.microsoft.com/fwlink/p/?LinkID=279810)을 참조 하십시오.
+모든 Microsoft Office 365 Enterprise, Business, Education 및 Government 구독에 대해 Microsoft 고객 지원에서는 세계적인 기술, 사전 판매, 대금 청구 및 구독 지원을 제공합니다. 지원은 Office 365 포털을 통해 온라인으로 제공 되며 유료 및 평가판 구독 모두에 대해 전화로 지원 됩니다. 자세한 내용은 [Office 365 지원 옵션](https://go.microsoft.com/fwlink/p/?LinkID=279810)을 참조하세요.
   
 인증된 관리자는 Office 365 포털을 사용하여 서비스 요청을 온라인으로 제출하고 지원 전화 번호에 액세스하고 모든 열린 서비스 요청과 최근에 닫힌 서비스 요청을 볼 수 있습니다. Office 365 포털에서 제출된 서비스 요청은 닫힌 후 최대 14일 동안 다시 열 수 있습니다. 자세한 내용은 [Office 365 비즈니스 지원 문의](https://go.microsoft.com/fwlink/p/?LinkID=279815)를 참조하세요.
   
@@ -90,7 +90,7 @@ Microsoft에서는 문제 유형 및 고객 영향의 평가에 따라 사례가
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**심각도 수준** <br/> |**Office 365 비즈니스 Essentials<sup>1</sup>** <br/> **Office 365 비즈니스<sup>1</sup>** <br/> **Office 365 비즈니스 프리미엄<sup>1</sup>** <br/> **Office 365 교육<sup>1</sup>** <br/> |**Office 365 Enterprise E1<sup>2</sup>** <br/> **Office 365 Enterprise E3<sup>2</sup>** <br/> **Office 365 정부 G2<sup>2</sup>** <br/> **Office 365 미국 정부 E3<sup>2</sup>** <br/> |**Office 365 Enterprise F1<sup>2</sup>** <br/> **Office 365 미국 정부 K1<sup>2</sup>** <br/> |**높은 수준의 지원 옵션<sup>3</sup>** <br/> |
+|**심각도 수준** <br/> |**Office 365 Business Essentials<sup>1</sup>** <br/> **Office 365 비즈니스<sup>1</sup>** <br/> **Office 365 Business Premium<sup>1</sup>** <br/> **Office 365 교육 기관<sup>1</sup>** <br/> |**Office 365 Enterprise E1<sup>2</sup>** <br/> **Office 365 Enterprise E3<sup>2</sup>** <br/> **Office 365 정부 G2<sup>2</sup>** <br/> **Office 365 US 정부 E3<sup>2</sup>** <br/> |**Office 365 Enterprise F1<sup>2</sup>** <br/> **Office 365 US 정부 K1<sup>2</sup>** <br/> |**높은 수준의 지원 옵션<sup>3</sup>** <br/> |
 | Sev A(중요)  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 1시간  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 1시간  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 1시간  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 1시간  <br/> |
 |Sev B(높음)  <br/> |사용 가능: 업무 시간  <br/> 응답 시간: 확정 없음  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 다음 날  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 다음 날  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 2시간  <br/> |
 |Sev C(중간)  <br/> |사용 가능: 업무 시간  <br/> 응답 시간: 확정 없음  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 확정 없음  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 확정 없음  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 4시간  <br/> |

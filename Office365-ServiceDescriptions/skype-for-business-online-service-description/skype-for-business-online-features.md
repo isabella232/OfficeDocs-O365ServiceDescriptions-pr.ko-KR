@@ -1,7 +1,7 @@
 ---
-title: 비즈니스용 Skype Online 기능
-ms.author: pebaum
-author: pebaum
+title: 비즈니스용 Skype 온라인 기능
+ms.author: sharik
+author: skjerland
 manager: supotter
 ms.date: 10/9/2017
 ms.audience: ITPro
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 관리자 인 경우 비즈니스용 skype online 설정에서 비즈니스용 skype online 기능을 설정 하는 방법에 대 한 자세한 지침을 확인할 수 있습니다.
-ms.openlocfilehash: 57b7a6fa23b69e56432a8778f059b5ea6fc99703
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: cb7d2d64f12561b97290148045dc2280718011d4
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210261"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467435"
 ---
-# <a name="skype-for-business-online-features"></a>비즈니스용 Skype Online 기능
+# <a name="skype-for-business-online-features"></a>비즈니스용 Skype 온라인 기능
 
 관리자 인 경우 비즈니스용 [skype online 설정](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e)에서 비즈니스용 skype online 기능을 설정 하는 방법에 대 한 자세한 지침을 확인할 수 있습니다.
   
-## <a name="clients-for-skype-for-business-online"></a>비즈니스용 Skype Online 클라이언트
+## <a name="clients-for-skype-for-business-online"></a>Clients for Skype for Business Online
 <a name="BKMK_Clients"> </a>
 
 > [!IMPORTANT]
@@ -36,7 +36,7 @@ ms.locfileid: "30210261"
     
 [여기](https://go.microsoft.com/fwlink/?linkid=846929)에서 모바일 장치, PC 또는 Mac에 대 한 클라이언트를 다운로드할 수 있습니다. 
   
-비즈니스용 Skype는 여기에 나와 있는 회의실 장치에 대 한 지원을 제공 합니다. 자세한 내용은 계정 팀과 함께 작업 하거나 [Office 365 지원 서비스](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)에 문의 하세요. 로컬 번호를 가져오려면 드롭다운 목록에서 로케일을 선택 하면 됩니다.
+비즈니스용 Skype는 여기에 나와 있는 회의실 장치에 대 한 지원을 제공 합니다. 자세한 내용은 계정 팀과 함께 작업 하거나 [Office 365 지원 서비스](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)에 문의 하세요. 지역 번호를 얻으려면 드롭다운 목록에서 지역을 선택할 수 있습니다. 
   
 ## <a name="instant-messaging-presence-and-contacts"></a>인스턴트 메시징, 현재 상태 및 연락처
 <a name="BKMK_IM"> </a>
@@ -45,7 +45,7 @@ ms.locfileid: "30210261"
   
 - 현재 상태를 표시 합니다 (예: 사용 가능, 자리 비움, 방해 금지, 오프 라인). 비즈니스용 Skype 현재 상태 정보는 Office 365 제품군 전체에서 제공 됩니다.
     
-- 인터넷과 같은 IP (인터넷 프로토콜) 네트워크를 통해 실시간으로 텍스트 메시지를 보내거나 조직의 회사 네트워크를 통해 수신 합니다. 인스턴트 메시징은 skype 간 및 단체 통신에 모두 사용할 수 있습니다. IM 텍스트가 향상 된 보안을 위해 암호화 됩니다.
+- 인터넷과 같은 IP (인터넷 프로토콜) 네트워크를 통해 실시간으로 텍스트 메시지를 보내거나 조직의 회사 네트워크를 통해 수신 합니다. 인스턴트 메시징은 Skype 간 통신 및 단체 통신 모두에 사용할 수 있습니다. IM 텍스트는 보안 향상을 위해 암호화됩니다.
     
 - 자신의 Skype 대화 상대 카드를 다른 사용자에 게 표시 하는 방법을 구성 합니다.
     
@@ -61,9 +61,9 @@ ms.locfileid: "30210261"
 ## <a name="federation-and-public-im-connectivity"></a>페더레이션 및 공용 IM 연결
 <a name="BKMK_Federation"> </a>
 
-비즈니스용 skype 사용자는 비즈니스용 skype를 사용 하는 다른 조직의 사용자에 게 연결할 수 있으며,이 기능을 통해 skype for business Server 온-프레미스를 호스트 하는 경우에만 가능 합니다. 페더레이션 대화 상대는 현재 상태를 확인 하 고, IM을 사용 하 여 통신 하며, skype 간 오디오 및 비디오 통화를 할 수 있습니다. 모든 페더레이션 통신은 액세스 프록시 서버를 사용 하는 IM 시스템 간에 암호화 됩니다. Microsoft는 페더레이션 파트너의 네트워크로 메시지가 전달 된 후 암호화를 제어 하지 않습니다 (파트너가 온-프레미스 비즈니스용 Skype 서버 또는 타사 네트워크와 페더레이션 중인 경우).
+비즈니스용 skype 사용자는 비즈니스용 skype를 사용 하는 다른 조직의 사용자에 게 연결할 수 있으며,이 기능을 통해 skype for business Server 온-프레미스를 호스트 하는 경우에만 가능 합니다. 페더레이션 대화 상대는 현재 상태를 보고, IM을 사용하여 통신할 수 있으며 Skype 간 음성 및 화상 통화를 할 수 있습니다. 모든 페더레이션 통신은 액세스 프록시 서버를 사용하여 IM 시스템 간에 암호화됩니다. Microsoft는 페더레이션 파트너의 네트워크로 메시지가 전달 된 후 암호화를 제어 하지 않습니다 (파트너가 온-프레미스 비즈니스용 Skype 서버 또는 타사 네트워크와 페더레이션 중인 경우).
   
-비즈니스용 Skype 외부 연결에는 페더레이션 관계의 두 당사자에 대 한 승인 및 올바른 구성이 필요 합니다. 두 쪽의 관리자가 페더레이션을 설정한 후에는 각 회사의 사용자가 현재 상태를 확인 하 고 다른 회사의 사용자와 통신할 수 있습니다. Office 365의 페더레이션은 적절 하 게 구성 된 액세스 프록시 또는에 지 서버를 사용 하 여 다른 비즈니스용 Skype 환경 간에만 지원 됩니다. 에 지 서버 구성에 대 한 자세한 내용은 [비즈니스용 Skype 서버 2015의 외부 사용자 액세스에 필요한 구성 요소](https://technet.microsoft.com/en-us/library/gg425779%28v=ocs.15%29.aspx)를 참조 하세요.
+비즈니스용 Skype 외부 연결에는 페더레이션 관계의 두 당사자에 대 한 승인 및 올바른 구성이 필요 합니다. 양쪽 관리자가 페더레이션을 설정하면 각 회사의 사용자가 상대 회사에 소속된 사용자의 현재 상태를 보고 해당 사용자와 통신할 수 있습니다. Office 365의 페더레이션은 적절 하 게 구성 된 액세스 프록시 또는에 지 서버를 사용 하 여 다른 비즈니스용 Skype 환경 간에만 지원 됩니다. 에 지 서버 구성에 대 한 자세한 내용은 [비즈니스용 Skype 서버 2015의 외부 사용자 액세스에 필요한 구성 요소](https://technet.microsoft.com/en-us/library/gg425779%28v=ocs.15%29.aspx)를 참조 하세요.
   
 ## <a name="skype-for-business-online-meetings"></a>비즈니스 온라인 모임에 대 한 Skype
 <a name="BKMK_Meetings"> </a>
@@ -82,7 +82,7 @@ ms.locfileid: "30210261"
 ## <a name="security-and-archiving"></a>보안 및 보관
 <a name="BKMK_Security"> </a>
 
-Microsoft Office 365 트래픽 (신호 및 미디어 트래픽 모두)이 TLS (전송 계층 보안) 프로토콜을 사용 하 여 암호화 됩니다. 통신을 가로채는 모든 사용자가 암호화 된 텍스트만 볼 수 있습니다. 예를 들어 사용자가 공항에서와 같은 공용 wi-fi 네트워크를 사용 하는 동안 비즈니스용 Skype 온라인 IM, 통화 및 프레젠테이션에 액세스 하는 경우 사용자의 통신은 네트워크 "스니퍼"의 잠재적인 가로채기로 암호화 됩니다.
+Microsoft Office 365 트래픽 (신호 및 미디어 트래픽 모두)이 TLS (전송 계층 보안) 프로토콜을 사용 하 여 암호화 됩니다. 통신을 가로채는 사람에게는 누구든 암호화된 텍스트만 보여집니다. 예를 들어 사용자가 공항에서와 같은 공용 wi-fi 네트워크를 사용 하는 동안 비즈니스용 Skype 온라인 IM, 통화 및 프레젠테이션에 액세스 하는 경우 사용자의 통신은 네트워크 "스니퍼"의 잠재적인 가로채기로 암호화 됩니다.
   
 비즈니스용 Skype를 사용 하면 모임에서 피어 투 피어 인스턴트 메시지, 단체 인스턴트 메시지 및 콘텐츠 업로드 활동을 보관할 수 있습니다. 보관 기능을 사용 하려면 exchange가 필요 하며 전자 메일 및 비즈니스용 Skype 콘텐츠를 모두 보관 하는 사용자의 exchange 사서함 원본 위치 유지 특성에 의해 제어 됩니다.
   
@@ -104,7 +104,7 @@ Microsoft Office 365 트래픽 (신호 및 미디어 트래픽 모두)이 TLS (�
 ## <a name="skype-for-business-online-administration-and-management"></a>비즈니스 온라인 관리 및 관리에 대 한 Skype
 <a name="BKMK_Admin"> </a>
 
-Microsoft는 모든 비즈니스용 Skype Online 데이터 센터를 직접 제어 하지만 전반적인 시스템 성능을 담당 하지만 Office 365 사용자에 게 총 경험을 제공 하기 위해 결합 되는 요소 부분만 제어할 수 있습니다. 조직은 데이터 센터, 고객의 wan (광역 네트워크) 및 고객 lan (local area networks)에 대 한 네트워크 연결을 담당 합니다. 또한 사용자 장치 및 구성을 관리 합니다. 또한 사용자에 게 필요한 모든 기능 (이러한 기능을 관리 하는 기능을 포함 하지만 제한 되지 않음)에 대 한 사용자 당 필수 라이선스를 유지 관리 하는 역할도 수행 합니다. 기능에 대 한 액세스입니다.
+Microsoft는 모든 비즈니스용 Skype Online 데이터 센터를 직접 제어 하지만 전반적인 시스템 성능을 담당 하지만 Office 365 사용자에 게 총 경험을 제공 하기 위해 결합 되는 요소 부분만 제어할 수 있습니다. 조직은 데이터 센터, 고객의 wan (광역 네트워크) 및 고객 lan (local area networks)에 대 한 네트워크 연결을 담당 합니다. 또한 사용자 장치 및 해당 구성을 관리 합니다.또한 사용자가 기능에 액세스 해야 하는 경우에는 이러한 기능을 관리 하는 기능을 비롯 하 여 원하는 기능에 대해 사용자 당 필요한 라이선스를 유지 관리 해야 합니다.
   
 따라서 비즈니스용 Skype Online에서는 고객 관리자에 게 여러 메시징 관련 작업을 관리 하기 위한 다음과 같은 도구를 제공 합니다.
   
@@ -112,7 +112,7 @@ Microsoft는 모든 비즈니스용 Skype Online 데이터 센터를 직접 제�
     
 - Microsoft 365 관리 센터
     
-- 비즈니스용 Skype 관리 센터
+- Skype for Business admin center
     
 - Windows PowerShell
     
@@ -121,7 +121,7 @@ Microsoft는 모든 비즈니스용 Skype Online 데이터 센터를 직접 제�
 ## <a name="audio-conferencing-in-office-365"></a>Office 365의 오디오 회의
 <a name="BKMK_Audio"> </a>
 
-오디오 회의는 하나 이상의 참가자가 전화기를 사용 하 여 오디오 부분에 전화를 거는 모든 회의입니다. 전화를 사용 하 여 모임에 액세스 하는 기능은 이동 중이거나 모바일 장치 또는 PC를 사용 하 여 모임에 참석할 수 없는 사용자에 게 유용 합니다. 인터넷 연결이 제한 되거나 모임이 오디오 전용인 경우에도 다른 시나리오에서 전화를 사용 하는 것이 더 좋습니다.
+오디오 회의는 하나 이상의 참가자가 전화기를 사용 하 여 오디오 부분에 전화를 거는 모든 회의입니다. 전화를 사용 하 여 모임에 액세스 하는 기능은 이동 중이거나 모바일 장치 또는 PC를 사용 하 여 모임에 참석할 수 없는 사용자에 게 유용 합니다. 인터넷 연결이 제한되거나 모임이 오디오 전용인 경우와 같은 다른 시나리오에서는 전화기를 사용하는 것이 더 나을 수도 있습니다.
   
 오디오 회의를 사용 하면 조직의 사용자가 전화 접속 전화 번호를 포함 하는 모임을 호스팅하거나 만들 수 있습니다. 그런 다음 발신자는 이러한 전화 번호를 사용 하 여 휴대폰 (모임에 전화를 거는 사용자는 음성 메시지, 공유 데스크톱 또는 모임에서 공유 되는 파일)만 사용 하 여 모임에 전화를 걸 수 있습니다. 모임을 예약 하거나 잠재 고객을 계획 하는 사용자에 대해서만 전화 접속 회의를 설정 해야 합니다. 이끌이가 모임을 잠근 경우가 아니면 전화 접속 번호 및 전화 회의 ID를 가진 사용자는 누구나 모임에 참가할 수 있습니다. 자세한 내용은 audio 회의 [시작](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) 및 오디오 [회의에 사용할 수 있는 전화 접속 번호](http://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)를 참조 하세요.
   
@@ -132,7 +132,7 @@ office 365에서는 전화 접속 회의 공급자로 office 365을 사용 하�
 ## <a name="calling-plans-in-office-365"></a>Office 365의 통화 플랜
 <a name="BKMK_CallingPlans"> </a>
 
-비즈니스용 Skype에는 PSTN (공중 전화망)에서 발견 된 통화 기능이 포함 되어 있습니다. 통화 계획은 조직 내부 및 외부의 사용자가 전화를 걸고 받을 수 있도록 조직의 사용자에 게 연락처를 검색, 취득 및 지정 하는 기능을 허용 하는 [Office 365의 전화 시스템](https://technet.microsoft.com/en-us/library/mt631190.aspx) 에 대 한 추가 기능이 됩니다. 를 Office 365에서 직접 시작 합니다. 전화 번호가 할당 된 사용자는 VoIP 전화, pc 및 모바일 장치를 비롯 한 모든 비즈니스용 Skype 장치에서 음성 통화를 할 수 있습니다. 또한 음소거/음소거 해제, 대기/다시 시작, 통화 전송 및 착신 전환 기능을 통해 통화를 제어할 수 있으며, 필요한 경우 긴급 통화를 수행 합니다. 
+비즈니스용 Skype에는 PSTN (공중 전화망)에서 발견 된 통화 기능이 포함 되어 있습니다. 통화 계획은 조직 내부 및 외부의 사용자가 전화를 걸고 받을 수 있도록 조직의 사용자에 게 연락처를 검색, 취득 및 지정 하는 기능을 허용 하는 [Office 365의 전화 시스템](https://technet.microsoft.com/en-us/library/mt631190.aspx) 에 대 한 추가 기능이 됩니다. 를 Office 365에서 직접 시작 합니다. 전화 번호가 할당 된 사용자는 VoIP 전화, pc 및 모바일 장치를 비롯 한 모든 비즈니스용 Skype 장치에서 음성 통화를 할 수 있습니다. 또한 음소거/음소거 해제, 대기/다시 시작, 통화 전송 및 착신 전환 기능을 통해 통화를 제어할 수 있으며 필요한 경우 응급 통화를 할 수 있습니다. 
   
 사용 가능한 통화 계획에 대 한 자세한 내용은 [Office 365에 대 한 통화 요금제](https://products.office.com/en-us/skype-for-business/pstn-calling-plans)로 이동 하십시오. 자세한 내용을 보고 통화 계획을 설정 하려면 [통화 요금제](https://support.office.com/en-us/article/What-are-Calling-Plans-in-Office-365-3dc773b9-95e0-4448-b2f1-887c54022429?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요.
   
@@ -146,7 +146,7 @@ Office 365의 전화 시스템을 사용 하 여 비즈니스용 Skype 및 회�
 ## <a name="skype-meeting-broadcast"></a>Skype 모임 브로드캐스트
 <a name="BKMK_Broadcast"> </a>
 
-Skype 모임 브로드캐스트를 통해 Office 365 사용자는 거의 모든 장치에서 브라우저를 통해 참석할 수 있는 최대 1만 참석자에 게 인터넷에서 모임을 생성 하 고 브로드캐스트합니다. Skype 모임 브로드캐스트를 사용 하 여 내부 "마을 홀" 스타일 모임 및 공용 웹 세미나 같은 대규모 가상 모임을 호스트할 수 있습니다. 회의를 녹음 하 고 사용자 지정 하 여 대상 그룹 참여 및 만족도를 측정할 수 있습니다. 
+Skype 모임 브로드캐스트를 통해 Office 365 사용자는 거의 모든 장치에서 브라우저를 통해 참석할 수 있는 최대 1만 참석자에 게 인터넷에서 모임을 생성 하 고 브로드캐스트합니다. Skype 모임 브로드캐스트를 사용 하 여 내부 "마을 홀" 스타일 모임 및 공용 웹 세미나 같은 대규모 가상 모임을 호스트할 수 있습니다. 회의를 기록할 수 있으며 사용자의 참여도 및 만족도를 측정하도록 사용자 지정할 수 있습니다. 
   
 > [!NOTE]
 > 현재 Skype 모임 브로드캐스트는 교육 또는 비영리 조직에서 사용할 수 없습니다. 

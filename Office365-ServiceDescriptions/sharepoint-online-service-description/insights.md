@@ -1,7 +1,7 @@
 ---
 title: 인사이트
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,34 +12,34 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
-description: SharePoint Online은 웹 기반 도구 및 기술, 저장 하 고, 공유 하 고, 디지털 정보를 관리 하 여 조직에 도움이 되는의 컬렉션입니다. Microsoft SharePoint Server 2013을 기반으로 구축,이 호스트 된 서비스, 프로젝트 작업을 수행 하 고, 중앙 위치에 데이터와 문서를 저장 하 고, 다른 사용자와 정보를 공유 하에 이상적입니다. 다음 인 사이트 기능에는 특정 비즈니스 요구를 해결 하는 데이터베이스, 보고서 및 비즈니스 응용 프로그램에 대 한 정보를 사용 하 여 조직 수 있습니다.
-ms.openlocfilehash: 797c3b549652f33fb8807429d53a4372e1ace80d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음에 나오는 인사이트 기능은 조직에서 데이터베이스, 보고서 및 비즈니스 응용 프로그램의 정보를 사용하여 구체적인 업무 요구 사항을 해결할 수 있게 도와 줍니다.
+ms.openlocfilehash: ed184c4bfd75feec48087555d6e04b52e850e943
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036567"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467315"
 ---
 # <a name="insights"></a>인사이트
 
-SharePoint Online은 웹 기반 도구 및 기술, 저장 하 고, 공유 하 고, 디지털 정보를 관리 하 여 조직에 도움이 되는의 컬렉션입니다. Microsoft SharePoint Server 2013을 기반으로 구축,이 호스트 된 서비스, 프로젝트 작업을 수행 하 고, 중앙 위치에 데이터와 문서를 저장 하 고, 다른 사용자와 정보를 공유 하에 이상적입니다. 다음 인 사이트 기능에는 특정 비즈니스 요구를 해결 하는 데이터베이스, 보고서 및 비즈니스 응용 프로그램에 대 한 정보를 사용 하 여 조직 수 있습니다.
+SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음에 나오는 인사이트 기능은 조직에서 데이터베이스, 보고서 및 비즈니스 응용 프로그램의 정보를 사용하여 구체적인 업무 요구 사항을 해결할 수 있게 도와 줍니다.
   
 ## <a name="business-intelligence-center"></a>비즈니스 인텔리전스 센터
 <a name="bkmk_BusinessIntelligenceCenter"> </a>
 
 비즈니스 인텔리전스 센터 사이트를 사용하면 데이터 연결, 통합 문서, 보고서, 성과 기록표 및 대시보드를 중앙에 위치한 안전한 곳에 저장할 수 있습니다. 자세한 내용은 [비즈니스 인텔리전스 센터 구성](https://go.microsoft.com/fwlink/p/?LinkId=270883)을 참조하세요.
   
-## <a name="calculated-measures-and-members"></a>계산된 측정값 및 멤버
+## <a name="calculated-measures-and-members"></a>Calculated Measures and Members
 <a name="bkmk_CalculatedMeasuresandMembers"> </a>
 
 SQL Server Analysis Services에 저장되어 있는 데이터를 사용하는 피벗 차트 보고서나 피벗 테이블 보고서를 작성할 때 해당 보고서에 대해 계산된 측정값 및 계산된 멤버를 만들 수 있습니다. 자세한 내용은 [Excel Services의 비즈니스 인텔리전스 기능](https://go.microsoft.com/fwlink/p/?LinkId=271025)을 참조하세요.
   
-## <a name="data-connection-library"></a>데이터 연결 라이브러리
+## <a name="data-connection-library"></a>Data Connection Library
 <a name="bkmk_DataConnectionLibrary"> </a>
 
 데이터 연결 라이브러리는 공유 데이터 연결을 저장하고 관리하기 위해 설계된 특수 SharePoint 라이브러리입니다. 여기에는 Excel을 사용하여 만든 ODC 파일이 포함될 수 있습니다. 자세한 내용은 [SharePoint Server 2013의 신뢰할 수 있는 데이터 연결 라이브러리](https://go.microsoft.com/fwlink/p/?LinkId=271026)를 참조하세요.
   
-## <a name="decoupled-pivottables-and-pivotcharts"></a>분리된 피벗 테이블 및 피벗 차트
+## <a name="decoupled-pivottables-and-pivotcharts"></a>Decoupled PivotTables and PivotCharts
 <a name="bkmk_DecoupledPivotTablesPivotCharts"> </a>
 
 피벗 차트 보고서를 만들면 피벗 차트 보고서에 해당하는 피벗 테이블 보고서가 자동으로 만들어집니다. Excel 2013에서는 이제 피벗 테이블 보고서를 해당하는 피벗 차트 보고서와 같은 워크시트에 표시하지 않아도 되며. 필요한 경우 피벗 차트 보고서만 표시하도록 선택할 수 있습니다. 이 기능을 "분리된 피벗 테이블 및 피벗 차트"라고 합니다. [피벗 테이블과 피벗 차트](https://go.microsoft.com/fwlink/?LinkId=271027)에서 더 자세히 알아보세요.
@@ -59,7 +59,7 @@ Excel Web Access 웹 파트를 사용하여 SharePoint 사이트에서 Excel 콘
 
 Excel Online을 사용하면 브라우저 창에서 보는 피벗 차트 보고서와 피벗 테이블 보고서의 필드 목록 및 필드 모음을 열 수 있습니다. 이 기능을 사용하면 Excel을 열 필요 없이, 피벗 차트 보고서나 피벗 테이블 보고서에 표시되는 정보를 일시적으로 변경할 수 있습니다. 자세한 내용은 [Excel Services의 비즈니스 인텔리전스 기능](https://go.microsoft.com/fwlink/p/?LinkId=271029)을 참조하세요.
   
-## <a name="filter-enhancements"></a>향상된 필터
+## <a name="filter-enhancements"></a>Filter Enhancements
 <a name="bkmk_FilterEnhancements"> </a>
 
 슬라이서를 만들어 보고서에 연결하기가 더 쉽습니다. 슬라이서의 크기와 방향을 조정할 수 있을 뿐만 아니라. 기본 제공 스타일을 적용하거나 고유한 스타일을 정의하여 슬라이서 서식을 지정할 수도 있습니다.
@@ -89,7 +89,7 @@ Power BI는 더 빠른 속도, 효율성 및 이해를 통해 누구나 연결�
 
 Excel용 Power Pivot에서는 강력한 데이터 분석을 수행하고 복잡한 데이터 모델을 만들 수 있습니다. 또한 다양한 소스의 데이터를 대량 결합하고 신속하게 분석하며, 결과를 공유할 수 있습니다. SharePoint Online에서는 Excel Online을 사용하여 브라우저 창에서 차트, 테이블, 피벗 차트 보고서 및 피벗 테이블 보고서를 보고 상호 작용할 수 있습니다. 또한 Excel Web Access 웹 파트를 사용하여 SharePoint 사이트에서 Excel 콘텐츠를 표시할 수 있습니다. Power Pivot 시트는 SharePoint에서 보기 전에 Excel에서 만들어야 합니다. 자세한 내용은 [Excel의 Power Pivot](https://go.microsoft.com/fwlink/p/?LinkId=271036)을 참조하세요.
   
-## <a name="power-view-for-excel-in-sharepoint"></a>SharePoint의 Excel용 Power View
+## <a name="power-view-for-excel-in-sharepoint"></a>Power View for Excel in SharePoint
 <a name="bkmk_PowerView"> </a>
 
  Excel용 Power View에서는 수준 높은 대화형 시각화, 애니메이션 및 스마트 쿼리를 사용하여 모델링된 데이터를 시각화하고 상호 작용할 수 있습니다. SharePoint Online에서는 Excel Online을 사용하여 브라우저 창에서 Power View 시트가 포함된 통합 문서를 보고 상호 작용할 수 있습니다. 또한 Excel Web Access 웹 파트를 사용하여 SharePoint 사이트에서 Excel 콘텐츠를 표시할 수 있습니다. Power View 시트는 SharePoint에서 보기 전에 Excel에서 만들어야 합니다. 자세한 내용은 [Excel의 Power View](https://go.microsoft.com/fwlink/p/?LinkId=271035)를 참조하세요.
@@ -104,7 +104,7 @@ Excel용 Power Pivot에서는 강력한 데이터 분석을 수행하고 복잡�
 
 외부 데이터 원본(예: MS SQL 데이터베이스)에 연결되어 있는 Excel Online 통합 문서에서 최신 데이터를 볼 수 있습니다. Excel Online에서 보려면 먼저 통합 문서를 외부 데이터 원본에 연결해야 합니다.
   
-## <a name="sql-server-reporting-services-ssrs-integrated-mode"></a>SSRS(SQL Server Reporting Services) 통합 모드
+## <a name="sql-server-reporting-services-ssrs-integrated-mode"></a>SQL Server Reporting Services (SSRS) Integrated Mode
 <a name="bkmk_SQLServerReportingServicesIntegratedMode"> </a>
 
 SQL Server 2012 Reporting Services와 SharePoint가 통합되어 있으면 SQL Server 2012 Reporting Services 콘텐츠를 대상으로 강력한 SharePoint 공동 작업 및 중앙 집중식 문서 관리 기능을 사용할 수 있습니다. 보고서는 Excel Online 파일 등의 다른 보고서와 함께 SharePoint 문서 라이브러리에 저장됩니다. SharePoint 권한을 사용하여 Reporting Services 콘텐츠에 대한 액세스를 제어할 수 있으며, 사용자들은 문서 라이브러리 내에서 보고서 디자이너, 모델 디자이너 및 보고서 작성기를 시작할 수 있습니다. 자세한 내용은 [Reporting Services 보고서 서버](https://go.microsoft.com/fwlink/p/?LinkId=271039)를 참조하세요.
@@ -114,7 +114,7 @@ SQL Server 2012 Reporting Services와 SharePoint가 통합되어 있으면 SQL S
 
 SQL Server 2012 Reporting Services 웹 파트를 사용하면 SharePoint 사이트에서 기존 Reporting Services 보고서를 자체 웹 파트에 표시할 수 있습니다. Reporting Services 보고서에 매개 변수가 포함되어 있는 경우에는 웹 파트 설정을 사용하여 해당 보고서에 필터를 연결할 수도 있습니다. 자세한 내용은 [보고서 뷰어 웹 파트](https://go.microsoft.com/fwlink/p/?LinkId=271041)를 참조하세요.
   
-## <a name="timeline-slicer"></a>타임라인 슬라이서
+## <a name="timeline-slicer"></a>Timeline Slicer
 <a name="bkmk_TimelineSlicer"> </a>
 
 타임라인 슬라이서는 Excel을 사용하여 만든 대시보드에 추가할 수 있는 컨트롤로, 특정 기간의 정보를 볼 수 있게 도와 줍니다. 자세한 내용은 [Excel Services의 비즈니스 인텔리전스 기능](https://go.microsoft.com/fwlink/p/?LinkId=271042)을 참조하세요.
@@ -132,7 +132,7 @@ UDF(사용자 정의 함수)는 Excel Online 워크시트 셀에서 수식을 �
 ## <a name="visio-services"></a>Visio Services
 <a name="bkmk_VisioServices"> </a>
 
-Visio Services는 사용자가 공유 하 고 Microsoft Visio 드로잉을 볼 수 있는 서비스 응용 프로그램 (\*.vsdx) 및 Visio 2010 웹 드로잉 (\*.vdw) 파일입니다. Visio Services 더이상 SharePoint Online을 사용할 수 없습니다. Visio Services에서 SharePoint Server 2010, SharePoint Server 2013 및 SharePoint Server 2016 사용할 수 있도록 계속 됩니다. [Visio Services](https://go.microsoft.com/fwlink/p/?LinkID=271043)에 대해 자세히 설명 합니다.
+Visio Services는 Microsoft Visio 드로잉(\*.vsdx) 및 Visio 2010 웹 드로잉 (\*.vdw) 파일을 공유하고 보는 데 필요한 서비스 응용 프로그램입니다. SharePoint Online에서는 Visio Services를 더 이상 사용할 수 없습니다. Visio Services는 sharepoint server 2010, sharepoint server 2013 및 sharepoint server 2016에서 계속 사용할 수 있습니다. 자세한 내용은 [Visio Services](https://go.microsoft.com/fwlink/p/?LinkID=271043)를 참조하세요.
   
 ## <a name="feature-availability"></a>기능 가용성
 <a name="bkmk_VisioServices"> </a>

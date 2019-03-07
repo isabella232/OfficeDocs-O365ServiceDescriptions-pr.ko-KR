@@ -1,7 +1,7 @@
 ---
 title: 서비스 업데이트
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 최근에 출시되었거나 출시 예정인 Office 365 기능에 대해 자세히 알아보려면 Office 365 로드맵을 확인하세요.
-ms.openlocfilehash: e0f679a3e3b272dca90f4a416b9b232af9221a86
-ms.sourcegitcommit: 9c751127339ea6a50184daa34f7da18e13361d52
+ms.openlocfilehash: b2ba1896f3c1acd616c62a82e7a8a1f25744d26f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29966222"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467765"
 ---
 # <a name="service-updates"></a>서비스 업데이트
 
@@ -28,13 +28,13 @@ ms.locfileid: "29966222"
 최근에 출시되었거나 출시 예정인 Office 365 기능에 대해 자세히 알아보려면 [Office 365 로드맵](https://go.microsoft.com/fwlink/?LinkId=509914)을 확인하세요.
   
 > [!NOTE]
-> 업데이트 및 업그레이드 geography, 언어, 데이터 센터 및 구독 등의 여러 요인에 따라 고객에 게 배포할 됩니다. 즉, 모든 업데이트가 기존 고객에 게 즉시 사용할 수 있습니다. 
+> 업데이트 및 업그레이드는 지역, 언어, 데이터 센터, 구독 등의 다양 한 요소를 기반으로 고객에 게 롤아웃 됩니다. 즉, 일부 업데이트는 기존 고객이 바로 사용할 수 없습니다. 
   
 ## <a name="targeted-release"></a>대상 지정된 릴리스
 
-조직 또는 사용자 집합을 대상 릴리스와 함께 서비스 업데이트에서는 표준 릴리스 프로세스를 시작 하기에 앞서 약 1 주일 선택 집합을 받습니다. 자세한 내용은, [프로그램을 해제 하는 Office 365](https://go.microsoft.com/fwlink/p/?LinkId=509823)를 참조 합니다. 
+대상 지정 된 릴리스를 사용 하는 경우 조직 또는 사용자 집합은 표준 릴리스 프로세스를 시작 하기 전에 약 1 주일 전에 서비스 업데이트의 선택 된 집합을 받습니다. 자세한 내용은 [Office 365 릴리스 프로그램](https://go.microsoft.com/fwlink/p/?LinkId=509823)을 참조하세요. 
   
-## <a name="update-notifications"></a>알림 업데이트
+## <a name="update-notifications"></a>업데이트 알림
 
 Office 365는 서비스가 정상적으로 작동하려면 관리자가 조치를 취해야 하는 모든 변경 내용을 사전에 고객에게 알리려 노력합니다. 별도의 설명이 없는 한 업데이트에 관리 작업이 필요한 경우 Microsoft는 [메시지 센터](http://technet.microsoft.com/library/38FB3333-BFCC-4340-A37B-DEDA509C209.aspx)를 통해 최소 30일 전에 사전 알림을 제공합니다. 
   

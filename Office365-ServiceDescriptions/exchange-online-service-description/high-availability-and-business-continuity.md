@@ -1,7 +1,7 @@
 ---
 title: 고가용성 및 비즈니스 연속성
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
-description: Microsoft Exchange Online에서는 조직의 전자 메일 인프라에 대 한 광범위 한 보존 및 복구 지원을 제공 합니다. 여기에는 데이터 센터의 사서함 복제와 삭제 된 사서함 및 삭제 된 항목을 복원 하는 기능이 포함 됩니다.
-ms.openlocfilehash: ec9d598fe2c0af2cc9af9a879c91a99a78baf883
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: Microsoft Exchange Online에서는 조직의 전자 메일 인프라에 대 한 광범위 한 보존 및 복구 지원을 제공 합니다. 여기에는 데이터 센터에서의 사서함 복제와 삭제된 사서함 및 삭제된 항목의 복원 기능이 포함됩니다.
+ms.openlocfilehash: 2da41ba335faa4cf18228a64fbb1b420d438e503
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210231"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466515"
 ---
 # <a name="high-availability-and-business-continuity"></a>고가용성 및 비즈니스 연속성
 
-Microsoft Exchange Online에서는 조직의 전자 메일 인프라에 대 한 광범위 한 보존 및 복구 지원을 제공 합니다. 여기에는 데이터 센터의 사서함 복제와 삭제 된 사서함 및 삭제 된 항목을 복원 하는 기능이 포함 됩니다.
+Microsoft Exchange Online에서는 조직의 전자 메일 인프라에 대 한 광범위 한 보존 및 복구 지원을 제공 합니다. 여기에는 데이터 센터에서의 사서함 복제와 삭제된 사서함 및 삭제된 항목의 복원 기능이 포함됩니다.
   
 ## <a name="mailbox-replication-at-data-centers"></a>데이터 센터에서 사서함 복제
 

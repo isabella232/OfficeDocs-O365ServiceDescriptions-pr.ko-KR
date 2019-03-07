@@ -1,7 +1,7 @@
 ---
 title: 핵심 기능
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: 다음과 같은 핵심 기능 기능을 Project Online에서 사용할 수 있습니다.
-ms.openlocfilehash: 12d754a9119afe3e8827cb33b1bcbba3ee8f4ebe
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Project Online에서는 다음과 같은 핵심 기능 기능을 사용할 수 있습니다.
+ms.openlocfilehash: 79761c672fc36bc6758d30712715ba96f440c032
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036479"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467474"
 ---
 # <a name="core-functionality"></a>핵심 기능
 
-다음과 같은 핵심 기능 기능을 Project Online에서 사용할 수 있습니다.
+Project Online에서는 다음과 같은 핵심 기능 기능을 사용할 수 있습니다.
   
 모든 Project Online 기능에 대한 정보를 원하십니까? [Project Online 서비스 설명](project-online-service-description.md)을 참조하세요.
   
@@ -69,7 +69,7 @@ Project 기능과 컨트롤을 빠르게 찾아 사용할 수 있는 탭 인터�
 ## <a name="multiple-level-undo"></a>여러 수준 실행 취소
 <a name="bkmk_Multiplelevelundo"> </a>
 
-실행 취소 메뉴를 사용 하 여 동시에 여러 변경 내용을 취소할 수 있습니다. 
+실행 취소 메뉴를 사용 하 여 여러 변경 내용을 동시에 실행 취소할 수 있습니다. 
   
 ## <a name="network-diagram-view"></a>네트워크 다이어그램 보기
 <a name="bkmk_Networkdiagramview"> </a>

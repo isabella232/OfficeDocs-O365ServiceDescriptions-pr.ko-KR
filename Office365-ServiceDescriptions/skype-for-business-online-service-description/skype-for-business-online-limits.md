@@ -1,7 +1,7 @@
 ---
 title: 비즈니스용 Skype Online 제한
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: 비즈니스 온라인 용 Skype의 제한은 다음과 같은 범주로 분류 됩니다.
-ms.openlocfilehash: 85d1d9ec41f9ae39c85beac69e85c740acf2bcfe
-ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
+description: 비즈니스용 Skype Online의 제한은 다음 범주에 속합니다.
+ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/10/2018
-ms.locfileid: "27213895"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466965"
 ---
 # <a name="skype-for-business-online-limits"></a>비즈니스용 Skype Online 제한
 
-비즈니스 온라인 용 Skype의 제한은 다음과 같은 범주로 분류 됩니다.
+비즈니스용 Skype Online의 제한은 다음 범주에 속합니다.
   
 - [피어-투-피어 제한](skype-for-business-online-limits.md#peer-to-peer-limits)
     
@@ -50,11 +50,11 @@ ms.locfileid: "27213895"
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
 |파일 전송 제한  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |해당 없음  <br/> |
-|대화 제한<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
+|대화 한도<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |대화 탭 열기 제한  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |해당 없음  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 클라이언트를 시작할 수 채팅 최대 99 사용자와 해당 추가 (영문) 수동으로 하거나 그룹 또는 메일 그룹의 상황에 맞는 메뉴에서 인스턴트 메시지를 전송 하 여 합니다. 온라인 비즈니스에 대 한 Skype에서 인스턴트 메시징에 대 한 자세한 내용은 [비즈니스를 위한 Skype에서 IM을 보냅니다.](https://go.microsoft.com/fwlink/?linkid=533412)를 참조 하십시오. 
+> <sup>1</sup> 클라이언트가 최대 99 명의 사용자와 대화를 직접 추가 하거나 그룹이 나 메일 그룹의 상황에 맞는 메뉴에서 인스턴트 메시지를 보내 채팅을 시작할 수 있습니다. 비즈니스용 skype Online의 인스턴트 메시징에 대 한 자세한 내용은 [비즈니스용 skype에서 메신저 대화](https://go.microsoft.com/fwlink/?linkid=533412)를 참조 하세요. 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>독립 실행형 옵션별 피어-투-피어 제한
 
@@ -62,11 +62,11 @@ ms.locfileid: "27213895"
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 1** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 2** <br/> |
 |파일 전송 제한  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |
-|대화 제한<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
+|대화 한도<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
 |대화 탭 열기 제한  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 클라이언트를 시작할 수 채팅 최대 99 사용자와 해당 추가 (영문) 수동으로 하거나 그룹 또는 메일 그룹의 상황에 맞는 메뉴에서 인스턴트 메시지를 전송 하 여 합니다. 온라인 비즈니스에 대 한 Skype에서 인스턴트 메시징에 대 한 자세한 내용은 [비즈니스를 위한 Skype에서 IM을 보냅니다.](https://go.microsoft.com/fwlink/?linkid=533412)를 참조 하십시오. 
+> <sup>1</sup> 클라이언트가 최대 99 명의 사용자와 대화를 직접 추가 하거나 그룹이 나 메일 그룹의 상황에 맞는 메뉴에서 인스턴트 메시지를 보내 채팅을 시작할 수 있습니다. 비즈니스용 skype Online의 인스턴트 메시징에 대 한 자세한 내용은 [비즈니스용 skype에서 메신저 대화](https://go.microsoft.com/fwlink/?linkid=533412)를 참조 하세요. 
   
 ## <a name="meeting-limits"></a>모임 제한
 <a name="bkmk_Meeting_LyncOnlineLimits"> </a>
@@ -94,7 +94,7 @@ ms.locfileid: "27213895"
 |비즈니스용 Skype 웹 앱 모임 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
 |비즈니스용 Skype 웹 앱 익명 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
 |전화로 참가하는 게스트  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
-|팀 호출 그룹의 개인  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |해당 없음  <br/> |
+|팀 호출 그룹의 개인  <br/> |25@@  <br/> |25@@  <br/> |25@@  <br/> |25@@  <br/> |25@@  <br/> |해당 없음  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> 비즈니스용 Skype 모임의 참가자 수가 75명보다 많은 경우, 모임 명단의 참가자 목록(발표자 및 참석자)이 잘리므로 개별 참석자는 발표자와 개별 참석자 본인의 이름만 볼 수 있습니다. 모임의 발표자는 여전히 전체 참가자 목록을 볼 수 있습니다. 또한 참석자는 갤러리 보기 및 IM 오류는 볼 수 없습니다. 
@@ -110,7 +110,7 @@ ms.locfileid: "27213895"
 |비즈니스용 Skype 웹 앱 모임 참가자  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
 |비즈니스용 Skype 웹 앱 익명 참가자  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
 |전화로 참가하는 게스트  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
-|팀 호출 그룹의 개인  <br/> |25  <br/> |해당 없음  <br/> |25  <br/> |
+|팀 호출 그룹의 개인  <br/> |25@@  <br/> |해당 없음  <br/> |25@@  <br/> |
    
 ## <a name="meeting-retention-limits"></a>모임 보존 제한
 <a name="bkmk_MeetingRetention_LyncOnlineLimits"> </a>
@@ -119,18 +119,18 @@ ms.locfileid: "27213895"
     
 - **모임 만료 기간** 모임이 끝난 후에 사용자가 모임에 액세스할 수 있는 시간입니다. 
     
-### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Office 365 옵션 및 독립 실행형 계획 별 모임 보존 제한
+### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Office 365 옵션 및 독립 실행형 계획에 걸친 모임 보존 제한
 
 > [!NOTE]
 > 개인별로 언제든지 최대 1000개의 회의를 데이터베이스에 가질 수 있습니다. 
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**모임 종류** <br/> |**설명** <br/> 
-|일회성 모임| 모임 액세스할 수 최소 14 일 후 예약 된 시간 또는 마지막 정품 인증, 모임 또는 마지막 모임 업데이트 될 때까지, 중에서 더 최신 합니다.
-|종료 날짜가 있는 되풀이 모임| 모임 액세스할 수 적어도 마지막 모임 발생 또는 마지막 정품 인증, 모임 또는의 마지막 업데이트를 모임 예약 된 종료 시간 14 일 후까지, 중에서 더 최신 합니다.
-|종료 날짜 없이 되풀이 모임| 모임 항상 액세스할 수, 새 회의 조인 (정품 인증)는 제공 된 또는 예약 연간 적어도 한 번 업데이트
-|     회의 시작|모임 8 시간 이상에 액세스할 수 있습니다.
+|**모임 유형** <br/> |**설명** <br/> 
+|일회성 모임| 모임에는 예약 된 시간 14 일 후, 마지막 모임 정품 인증 또는 마지막 모임 업데이트 중 가장 최근 날짜까지 액세스 가능 합니다.
+|종료 날짜가 있는 되풀이 모임| 모임에는 마지막 모임 항목의 일정 종료 시간이 14 일 후, 마지막 모임 정품 인증 또는 마지막 모임 업데이트가 가장 최근 위치까지 모두 액세스 가능 합니다.
+|종료 날짜가 없는 되풀이 모임| 새 회의 참가 (정품 인증) 또는 1 년에 한 번 이상 업데이트 예약을 제공 하는 경우 모임에 항상 액세스할 수 있습니다.
+|회의 시작|모임에는 8 시간 이상 액세스할 수 있습니다.
 
 
   

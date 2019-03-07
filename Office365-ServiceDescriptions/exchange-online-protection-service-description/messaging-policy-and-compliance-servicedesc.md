@@ -1,7 +1,7 @@
 ---
 title: 메시징 정책 및 규정 준수[ServiceDesc]
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: Microsoft Exchange Online Protection (EOP) 제공 메시징 정책 및 규정 준수 기능 하는데 도움이 되는 전자 메일 데이터를 관리 합니다.
-ms.openlocfilehash: f88cd016586384f4617cd4899708c811a32af980
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft EOP (Exchange Online Protection)에서는 전자 메일 데이터를 관리 하는 데 사용할 수 있는 메시징 정책 및 규정 준수 기능을 제공 합니다.
+ms.openlocfilehash: 7ac2ad58bd4eeebc7ee0af3f5befcaab8959beec
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036471"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466975"
 ---
 # <a name="messaging-policy-and-complianceservicedesc"></a>메시징 정책 및 규정 준수[ServiceDesc]
 
-Microsoft Exchange Online Protection (EOP) 제공 메시징 정책 및 규정 준수 기능 하는데 도움이 되는 전자 메일 데이터를 관리 합니다.
+Microsoft EOP (Exchange Online Protection)에서는 전자 메일 데이터를 관리 하는 데 사용할 수 있는 메시징 정책 및 규정 준수 기능을 제공 합니다.
   
-모든 EOP 기능에 대한 자세한 내용은 [Exchange Online Protection 서비스 설명](exchange-online-protection-service-description.md)을 참조하세요.
+모든 EOP 기능에 대 한 정보를 찾으십니까? [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.
   
 ## <a name="transport-rules"></a>전송 규칙
 <a name="BKMK_transportrules"> </a>
@@ -67,7 +67,7 @@ DLP에 대한 자세한 내용은 [데이터 손실 방지](https://go.microsoft
 ## <a name="office-365-message-encryption"></a>Office 365 메시지 암호화
 <a name="BKMK_OME_in_EOP"> </a>
 
-Office 365 메시지 암호화, Azure 정보 보호의 일부에는 모든 사용자에 게 암호화 된 전자 메일 메시지를 보낼 전자 메일 사용자를 허용 하는 온라인 서비스입니다. 온-프레미스 고객 Azure 정보 보호를 구입 하 고 Exchange Online 보호를 사용 하 여 Exchange Online을 통한 메일 흐름을 설정 하 여 Office 365 메시지 암호화에 액세스할 수 있습니다. 자세한 내용은 Office 365 메시지 암호화에 대 한 Exchange Online, Exchange Online 서비스 설명에서 [Office 365 메시지 암호화](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) 참조 하십시오. 
+Office 365 메시지 암호화는 Azure Information Protection의 일부로, 전자 메일 사용자가 모든 사용자에 게 암호화 된 전자 메일 메시지를 보낼 수 있도록 하는 온라인 서비스입니다. 온-프레미스 고객은 Azure Information protection을 구입 하 고 exchange online Protection을 사용 하 여 exchange online을 통한 메일 흐름을 설정 하 여 Office 365 메시지 암호화에 액세스할 수 있습니다. Exchange Online의 Office 365 메시지 암호화에 대한 자세한 내용은 Exchange Online 서비스 설명의 [Office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption)를 참조하세요. 
   
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>EOP 옵션별 메시징 정책 및 규정 준수 기능
 <a name="BKMK_OME_in_EOP"> </a>
@@ -80,6 +80,6 @@ Office 365 메시지 암호화, Azure 정보 보호의 일부에는 모든 사�
 |Office 365 메시지 암호화  <br/> |예<sup>4</sup> <br/> |예  <br/> |예<sup>4</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 사용할 수 있는 조건 및 동작 EOP 및 Exchange Online 간에 서로 다릅니다. 사용 가능한 조건 및 EOP의 작업 목록, [전송 규칙 조건](https://go.microsoft.com/fwlink/p/?LinkId=320392) 및 [전송 규칙 동작](https://go.microsoft.com/fwlink/p/?LinkId=320393)을 참조 하십시오. 사용 가능한 조건 및 Exchange Online에서 작업 목록, [전송 규칙 조건](https://go.microsoft.com/fwlink/p/?LinkId=320394) 및 [전송 규칙 동작](https://go.microsoft.com/fwlink/p/?LinkId=320395)을 참조 하십시오. > <sup>2</sup> EOP 감사 보고서는 Exchange Online의 하위 집합 감사 보고서는 사서함에 대 한 정보를 제외 합니다. > <sup>3</sup> DLP 정책 팁은 서비스 고객과 Exchange Enterprise CAL 사용할 수 없습니다. > <sup>4</sup> 지원 되 는 온-프레미스 고객에 게 Azure 정보 보호 추가 기능을 구매 하 고 Exchange Online Protection Exchange Online을 통해 전자 메일 라우팅에 사용 합니다. Azure 정보 보호 추가 기능 외에도 데스크톱 경험을 위해 Office 365 ProPlus 구입 해야 합니다. 
+> <sup>1</sup> EOP와 Exchange Online의 사용 가능한 조건 및 동작은 서로 다릅니다. EOP에서 사용 가능한 조건 및 동작 목록은 [전송 규칙 조건](https://go.microsoft.com/fwlink/p/?LinkId=320392) 및 [전송 규칙 동작](https://go.microsoft.com/fwlink/p/?LinkId=320393)을 참조하세요. Exchange Online에서 사용 가능한 조건 및 동작 목록은 [전송 규칙 조건](https://go.microsoft.com/fwlink/p/?LinkId=320394) 및 [전송 규칙 동작](https://go.microsoft.com/fwlink/p/?LinkId=320395)을 참조하세요. > <sup>2</sup> EOP 감사 보고서는 사서함에 대한 정보가 제외된, Exchange Online 감사 보고서의 하위 집합입니다. > <sup>3</sup> Exchange Enterprise CAL with Services 고객은 DLP 정책 팁을 사용할 수 없습니다. > <sup>4</sup> Azure Information Protection 추가 기능을 구입 하 고 exchange online Protection을 사용 하 여 exchange online을 통해 전자 메일을 라우팅하는 온-프레미스 고객에 게 지원 됩니다. 데스크톱 환경에서 Azure Information Protection 추가 기능 외에 Office 365 ProPlus를 구입 해야 합니다. 
   
 

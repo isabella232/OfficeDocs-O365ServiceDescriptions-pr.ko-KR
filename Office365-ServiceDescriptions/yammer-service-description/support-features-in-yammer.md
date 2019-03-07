@@ -1,7 +1,7 @@
 ---
 title: Yammer의 지원 기능
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Yammer에서는 다음과 같은 지원 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 95a9710d701f329819cd4265695849bfece97a75
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7711f11c03c4c7275a120513f1f4936a07825b7d
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036483"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467375"
 ---
 # <a name="support-features-in-yammer"></a>Yammer의 지원 기능
 
@@ -30,7 +30,7 @@ Yammer에서는 다음과 같은 지원 기능을 사용할 수 있습니다.
 ## <a name="fasttrack-center"></a>FastTrack 센터
 <a name="bkmk_FastTrackCenter"> </a>
 
-Microsoft FastTrack 서비스는 방식에 따라 모든 단계에서 도움말을 제공 하 여 Microsoft 클라우드로 이동 하 여 조직의 데 도움이 됩니다. FastTrack을 사용 하면 전략적으로 서비스를 계획, 새로운 서비스 및 새 사용자의 온보드 신속 하 게 조정할 수 있습니다. 자세한 내용은 [FastTrack 센터](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)를 방문 합니다. 사전 시작, 실행, 및 지원 문서와 활동을 포함 하 여 Yammer 네트워크를 만들기에 대 한 내용은 이동는 [구상: 시나리오를 식별](https://fasttrack.microsoft.com/office/envision/identify-scenarios) 다음 **조직에 통합 하 여 필요한**를 클릭 합니다.
+Microsoft FastTrack 서비스는 조직이 Microsoft 클라우드로 전환하는 데 필요한 모든 작업 단계에 도움을 줄 수 있습니다. FastTrack을 사용하면 전략적으로 롤아웃을 계획하고, 새로운 서비스를 빠르게 확장하고, 새로운 사용자를 등록할 수 있습니다. 자세한 내용은 [FastTrack 센터](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)를 참조하세요. 시작 전, 시작 및 지원 문서와 활동을 포함 하 여 Yammer 네트워크를 만드는 방법에 대 한 자세한 내용은 [구상: 시나리오 식별](https://fasttrack.microsoft.com/office/envision/identify-scenarios) 페이지로 이동 하 여 **조직 공동**작업을 클릭 합니다.
   
 ## <a name="customer-support"></a>고객 지원
 <a name="BKMK_Customersupport"> </a>
@@ -56,7 +56,7 @@ Yammer Enterprise 관리자는 계정 유지 관리를 담당하며, Microsoft �
 ## <a name="technical-support-initial-response-times"></a>기술 지원 초기 응답 시간
 <a name="BKMK_Administratorsupport"> </a>
 
-초기 응답 시간 위에서 설명한 심각도 수준 및 Yammer 구독 유형을 기준으로 합니다. 다음 표에 대상 응답 시간이 나와 있습니다.
+초기 응답 시간은 위에서 설명된 심각도 수준과 Yammer 구독 유형에 따라 결정됩니다. 대상 응답 시간은 다음 표에 나와 있습니다.
   
 |**심각도 수준**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

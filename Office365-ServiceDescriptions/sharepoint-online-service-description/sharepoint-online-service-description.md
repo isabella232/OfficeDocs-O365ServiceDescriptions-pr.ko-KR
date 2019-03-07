@@ -1,7 +1,7 @@
 ---
 title: SharePoint Online 서비스 설명
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
-description: Office 365에서 Microsoft SharePoint Online 기업용 사용자를 공유 하 고 알리고 비즈니스 프로세스를 변환 하 고 모든 지식을 활용 하는 회사 전체에서 시작 하 고 다른 사용자에 게 함께 작동 합니다. 또한 SharePoint를 보호 하 고 데이터를 관리 하 고 사용자 지정 솔루션을 구축 하 여 조직에 대 한 기능을 제공 합니다. 빠른 개요를 참조 SharePoint?
-ms.openlocfilehash: b945b84583578f8bb2d80e60f42c5b5df8455941
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint Online Office 365에서는 사용자 들이 서로 공유 하 고 공동 작업을 수행 하 여 회사에서 다른 사용자에 게 알리고, 비즈니스 프로세스를 변환 하 고, 공동 지식을 활용할 수 있도록 지원 합니다. 또한 SharePoint는 조직에서 데이터를 보호 및 관리 하 고 사용자 지정 솔루션을 만드는 기능을 제공 합니다. 간략 한 개요를 보려면 SharePoint 란?를 참조 하세요.
+ms.openlocfilehash: bd15c6b9835706e90e77810d5f216f030214a073
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036668"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467915"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 서비스 설명
 
-Office 365에서 Microsoft SharePoint Online 기업용 사용자를 공유 하 고 알리고 비즈니스 프로세스를 변환 하 고 모든 지식을 활용 하는 회사 전체에서 시작 하 고 다른 사용자에 게 함께 작동 합니다. 또한 SharePoint를 보호 하 고 데이터를 관리 하 고 사용자 지정 솔루션을 구축 하 여 조직에 대 한 기능을 제공 합니다. 빠른 개요를 참조 하십시오. [SharePoint는 무엇입니까?](https://go.microsoft.com/fwlink/p/?LinkId=290976)
+Microsoft SharePoint Online Office 365에서는 사용자 들이 서로 공유 하 고 공동 작업을 수행 하 여 회사에서 다른 사용자에 게 알리고, 비즈니스 프로세스를 변환 하 고, 공동 지식을 활용할 수 있도록 지원 합니다. 또한 SharePoint는 조직에서 데이터를 보호 및 관리 하 고 사용자 지정 솔루션을 만드는 기능을 제공 합니다. 간략 한 개요를 보려면 [SharePoint 란?](https://go.microsoft.com/fwlink/p/?LinkId=290976) 를 참조 하세요.
   
-계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)를 참조하세요.
+요금제 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 요금제 비교](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)를 참조하세요.
   
 ## <a name="whats-new"></a>새로운 기능
 
@@ -41,7 +41,7 @@ SharePoint Online의 새로운 기능에 대한 자세한 내용은 [Microsoft S
   
 ## <a name="sharepoint-online-boundaries-and-limits"></a>SharePoint Online 경계 및 제한
 
-Microsoft, 예: 사이트 모음 할당량, 파일 업로드 제한 및 저장 용량 제한을 관리 하는 SharePoint Online 서비스에 약간의 제한이 있습니다. 자세한 내용은 [SharePoint Online 제한](sharepoint-online-limits.md)을 참조 하십시오.
+Microsoft에서 관리 하는 SharePoint Online 서비스에는 사이트 모음 할당량, 파일 업로드 제한 및 저장 제한 등의 몇 가지 제한이 있습니다. 자세한 내용은 [SharePoint Online 제한을](sharepoint-online-limits.md)참조 하세요.
   
 모바일 지원에 대한 자세한 내용은 [SharePoint Online 사이트에서 모바일 장치로 사용](https://go.microsoft.com/fwlink/p/?LinkID=290974)을 참조하세요.
   
@@ -49,7 +49,7 @@ Microsoft, 예: 사이트 모음 할당량, 파일 업로드 제한 및 저장 �
 
 Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 독립 실행형 계획 옵션 및 계획 간 이동 정보를 비롯하여 여러 계획에 대한 자세한 내용은 [Office 365 계획 옵션](../office-365-platform-service-description/office-365-plan-options.md)을 참조하십시오.
   
-SharePoint Online에 액세스 하는 각 사용자는 Office 365 계획 또는 SharePoint Online 계획 1 또는 SharePoint Online 계획 2 독립 실행형 서비스에 할당 되어야 합니다. 그러나 Firstline 계획 Firstline 구독 SharePoint Online Firstline 등의 일부로는 독립 실행형 제품으로 판매 하지 않습니다. Firstline 작업 자가 관리자 일 수 없으므로 이후 Firstline 근로자가 있는 테 넌 트 SharePoint를 관리 하려면 하나 이상의 엔터프라이즈 관리자가 필요 합니다. Firstline 근로자 Firstline 근로자 SharePoint 사이트 URL에 의해 직접 탐색할 수 있도록 SharePoint 탐색 메뉴를 표시 되지 않습니다.
+SharePoint Online에 액세스하는 각 사용자를 Office 365 계획 또는 SharePoint Online 계획 1/SharePoint Online 계획 2 독립 실행형 서비스에 할당해야 합니다. 그러나 firstline 계획은 독립 실행형 구독으로 판매 되지 않으며, SharePoint Online firstline과 같은 firstline 구독의 일부로만 제공 됩니다. firstline 작업자는 관리자가 될 수 없으므로, firstline 작업 자가 포함 된 테 넌 트에는 SharePoint를 관리 하기 위한 엔터프라이즈 관리자가 하나 이상 필요 합니다. firstline 작업자는 sharepoint 탐색 메뉴를 볼 수 없으므로 filine worker는 URL을 통해 직접 sharepoint 사이트로 이동 해야 합니다.
   
 ## <a name="onedrive-for-business"></a>비즈니스용 OneDrive
 
@@ -84,28 +84,28 @@ Office 365 계획에 사용할 수 있는 SharePoint 기능을 확인하려면 �
 |[개발자 사이트](developer.md#developer-site) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
 |[폼 기반 응용 프로그램](developer.md#infopath-forms-services) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[완전 신뢰 솔루션](developer.md#full-trust-solutions) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|[InfoPath Forms Services](developer.md#infopath-forms-services) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |<sup>17</sup> 예 <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|[InfoPath Forms Services](developer.md#infopath-forms-services) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예<sup>17</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[JavaScript 개체 모델](developer.md#javascript-object-model) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[원격 이벤트 수신기](developer.md#remote-event-receiver) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[REST api (영문)](developer.md#rest-apis) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[샌드박스 솔루션](developer.md#sandboxed-solutions) <br/> |<sup>16</sup> 예 <br/> |<sup>16</sup> 예 <br/> |<sup>16</sup> 예 <br/> |<sup>16</sup> 예 <br/> |<sup>16</sup> 예 <br/> |<sup>16</sup> 예 <br/> |<sup>16</sup> 예 <br/> |예  <br/> |예  <br/> |
+|[REST api](developer.md#rest-apis) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[샌드박스 솔루션](developer.md#sandboxed-solutions) <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예  <br/> |예  <br/> |
 |[SharePoint 디자인 관리자](developer.md#sharepoint-design-manager) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[SharePoint 프레임 워크](developer.md#sharepoint-framework) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[SharePoint 2010 워크플로 (특별)](developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[SharePoint 2013 및 SharePoint 2016 워크플로](developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[SharePoint 프레임워크](developer.md#sharepoint-framework) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[SharePoint 2010 워크플로 (이 상자에서 제외 됨)](developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[sharepoint 2013 및 sharepoint 2016 워크플로](developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**IT 전문가 기능** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online 계획 1** <br/> |**SharePoint Online 계획 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Active Directory 동기화](it-professional.md#active-directory-synchronization) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[AAM(대체 액세스 매핑)](it-professional.md#alternate-access-mapping-aam) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |[맬웨어 방지 보호 기능](it-professional.md#anti-malware-protection) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
 |[클레임 기반 인증 지원](it-professional.md#claims-based-authentication-support) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|[Office 365에 대 한 고객 키](../exchange-online-service-description/message-policy-and-compliance.md#customer-key) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |없음<sup>20 개</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|[Office 365에 대한 고객 키](../exchange-online-service-description/message-policy-and-compliance.md#customer-key) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |<sup>20</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[데이터 손실 방지](it-professional.md#data-loss-prevention) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[작동 중단 시 암호화](it-professional.md#encryption-at-rest) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
-|전송 되에서는 암호화  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
+|암호화 전송  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
 |[호스트 헤더 사이트 모음](it-professional.md#host-header-site-collections) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |[Office 365의 모바일 장치 관리](it-professional.md#mobile-device-management-for-office-365) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
-|[OAuth](it-professional.md#oauth) <br/> |<sup>8</sup> 예 <br/> |<sup>8</sup> 예 <br/> |<sup>8</sup> 예 <br/> |<sup>8</sup> 예 <br/> |<sup>8</sup> 예 <br/> |<sup>8</sup> 예 <br/> |<sup>8</sup> 예 <br/> |예  <br/> |예  <br/> |
+|[OAuth](it-professional.md#oauth) <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예  <br/> |예  <br/> |
 |[패치 관리](it-professional.md#patch-management) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |예  <br/> |예  <br/> |
 |[할당량 템플릿](it-professional.md#quota-templates) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |[읽기 전용 데이터베이스 지원](it-professional.md#read-only-database-support) <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |예  <br/> |예  <br/> |
@@ -123,7 +123,7 @@ Office 365 계획에 사용할 수 있는 SharePoint 기능을 확인하려면 �
 |[내게 필요한 옵션 표준 지원](content.md#accessibility-standards-support) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[자산 라이브러리 향상/비디오 지원](content.md#asset-library-enhancementsvideo-support) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[감사](content.md#auditing) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[감사 &amp; 보고 (예: 문서 편집, 정책 편집, 삭제)](content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[Auditing &amp; Reporting (e.g., doc edits, policy edits, deletes)](content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[카탈로그](content.md#catalog) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[범주 페이지 및 카탈로그 항목 페이지](content.md#category-page-and-catalog-item-page) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[콘텐츠 구성 도우미](content.md#content-organizer) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -131,24 +131,24 @@ Office 365 계획에 사용할 수 있는 SharePoint 기능을 확인하려면 �
 |[디자인 관리자](content.md#design-manager) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[문서 집합](content.md#document-sets) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Word Online의 문서 번역](content.md#document-translation-in-word-online) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[eDiscovery 검색](content.md#ediscovery-search) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |<sup>6</sup> 예 <br/> |<sup>6</sup> 예 <br/> |<sup>6</sup> 예 <br/> |<sup>6</sup> 예 <br/> |예  <br/> |예  <br/> |
-|[eDiscovery 보류](content.md#ediscovery-hold) <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |아니요  <br/> |<sup>6</sup> 예 <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 예 <br/> |<sup>6</sup> 없음 <br/> |아니요  <br/> |예  <br/> |
-|[eDiscovery 내보내기](content.md#ediscovery-export) <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |아니요  <br/> |<sup>6</sup> 예 <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 예 <br/> |<sup>6</sup> 없음 <br/> |아니요  <br/> |예  <br/> |
-|[외부 공유: 외부 액세스](content.md#external-sharing-external-access) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |<sup>9</sup> 예 <br/> |<sup>9</sup> 예 <br/> |<sup>9</sup> 예 <br/> |에 대 한 구성 가능한 엑스트라넷  <br/> |에 대 한 구성 가능한 엑스트라넷  <br/> |
-|[외부 공유: 게스트 링크](content.md#external-sharing-guest-link) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |<sup>9</sup> 예 <br/> |<sup>9</sup> 예 <br/> |<sup>9</sup> 예 <br/> |아니요  <br/> |아니요  <br/> |
-|[패싯 탐색](content.md#faceted-navigation) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |<sup>6</sup> 예 <br/> |아니요  <br/> |<sup>7</sup> 예 <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|[eDiscovery 검색](content.md#ediscovery-search) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예  <br/> |예  <br/> |
+|[eDiscovery 보류](content.md#ediscovery-hold) <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |아니요  <br/> |예<sup>6</sup> <br/> |<sup>6</sup> 없음 <br/> |예<sup>6</sup> <br/> |<sup>6</sup> 없음 <br/> |아니요  <br/> |예  <br/> |
+|[eDiscovery 내보내기](content.md#ediscovery-export) <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |아니요  <br/> |예<sup>6</sup> <br/> |<sup>6</sup> 없음 <br/> |예<sup>6</sup> <br/> |<sup>6</sup> 없음 <br/> |아니요  <br/> |예  <br/> |
+|[외부 공유: 외부 액세스](content.md#external-sharing-external-access) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>9</sup> <br/> |예<sup>9</sup> <br/> |예<sup>9</sup> <br/> |엑스트라넷에 대해 구성 가능  <br/> |엑스트라넷에 대해 구성 가능  <br/> |
+|[외부 공유: 게스트 링크](content.md#external-sharing-guest-link) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>9</sup> <br/> |예<sup>9</sup> <br/> |예<sup>9</sup> <br/> |아니요  <br/> |아니요  <br/> |
+|[패싯 탐색](content.md#faceted-navigation) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>6</sup> <br/> |아니요  <br/> |예<sup>7</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[폴더 동기화](content.md#folder-sync) <br/> |예<sup>1</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>1</sup> <br/> |예  <br/> |예<sup>2</sup> <br/> |예  <br/> |예  <br/> |
-|하이브리드 감사  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |<sup>19</sup> 예 <br/> |예  <br/> |예  <br/> |
-|하이브리드 분류 및 콘텐츠 형식  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |<sup>19</sup> 예 <br/> |예  <br/> |예  <br/> |
+|하이브리드 감사  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>19</sup> <br/> |예  <br/> |예  <br/> |
+|하이브리드 분류 및 콘텐츠 형식  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>19</sup> <br/> |예  <br/> |예  <br/> |
 |[이미지 변환](content.md#image-renditions) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[IRM(정보 권한 관리)](content.md#information-rights-management-irm) <br/> |없음<sup>3</sup> <br/> |없음<sup>3</sup> <br/> |없음<sup>3</sup> <br/> |없음<sup>3</sup> <br/> |없음<sup>3</sup> <br/> |예  <br/> |아니요<sup>3, 4</sup> <br/> |예  <br/> |예  <br/> |
+|[IRM(정보 권한 관리)](content.md#information-rights-management-irm) <br/> |<sup>3</sup> 없음 <br/> |<sup>3</sup> 없음 <br/> |<sup>3</sup> 없음 <br/> |<sup>3</sup> 없음 <br/> |<sup>3</sup> 없음 <br/> |예  <br/> |아니요<sup>3, 4</sup> <br/> |예  <br/> |예  <br/> |
 |[관리되는 메타데이터 서비스](content.md#managed-metadata-service) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[메타데이터 기반 탐색](content.md#metadata-driven-navigation) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[다단계 처리](content.md#multi-stage-disposition) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Office Online(만들기/편집)](content.md#office-online-createedit) <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |<sup>15</sup> 예 <br/> |예  <br/> |예  <br/> |
+|[Office Online(만들기/편집)](content.md#office-online-createedit) <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예<sup>15</sup> <br/> |예  <br/> |예  <br/> |
 |[Office Online(보기)](content.md#office-online-view) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office ProPlus  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|[Office Web Apps 서버 통합](content.md#office-web-apps-server-integration) <br/> |포함  <br/> |포함  <br/> |포함  <br/> |포함  <br/> |포함  <br/> |포함  <br/> |포함  <br/> |예  <br/> |예  <br/> |
+|[Office Web Apps 서버 통합](content.md#office-web-apps-server-integration) <br/> |시킨  <br/> |시킨  <br/> |시킨  <br/> |시킨  <br/> |시킨  <br/> |시킨  <br/> |시킨  <br/> |예  <br/> |예  <br/> |
 |[자료 보존 라이브러리](content.md#preservation-hold-library) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[게시 분석](content.md#publishing-analytics) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[빠른 편집](content.md#quick-edit) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
@@ -163,7 +163,7 @@ Office 365 계획에 사용할 수 있는 SharePoint 기능을 확인하려면 �
 |[WCM: SEO(검색 엔진 최적화)](content.md#wcm-search-engine-optimizations-seo) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Word Automation Services](content.md#word-automation-services) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |**인사이트 기능** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online 계획 1** <br/> |**SharePoint Online 계획 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[비즈니스 인텔리전스 센터](insights.md#business-intelligence-center) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|[Business Intelligence Center](insights.md#business-intelligence-center) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[계산된 측정값 및 멤버](insights.md#calculated-measures-and-members) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[데이터 연결 라이브러리](insights.md#data-connection-library) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[분리된 피벗 테이블 및 피벗 차트](insights.md#decoupled-pivottables-and-pivotcharts) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
@@ -177,7 +177,7 @@ Office 365 계획에 사용할 수 있는 SharePoint 기능을 확인하려면 �
 |[빠른 탐색](insights.md#quick-explore) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[SSRS(SQL Server Reporting Services) 통합 모드](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |[타임라인 슬라이서](insights.md#timeline-slicer) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|[Visio 온라인](https://technet.microsoft.com/en-us/library/mt827475.aspx) <sup>18</sup> <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
+|[Visio Online](https://technet.microsoft.com/en-us/library/mt827475.aspx) <sup>18</sup> <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |[Visio Services](insights.md#visio-services) <sup>18</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |**검색 기능** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online 계획 1** <br/> |**SharePoint Online 계획 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[연속 크롤링](search.md#continuous-crawls) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -195,7 +195,7 @@ Office 365 계획에 사용할 수 있는 SharePoint 기능을 확인하려면 �
 |[쿼리 규칙 - 고급 작업](search.md#query-rulesadvanced-actions) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[쿼리 맞춤법 교정](search.md#query-spelling-correction) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[쿼리 추천 단어](search.md#query-suggestions) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[가리키면 미리 보기](search.md#on-hover-preview) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[대화형 미리 보기](search.md#on-hover-preview) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[순위 모델](search.md#ranking-models) <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예  <br/> |예  <br/> |
 |[구체화](search.md#refiners) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[RESTful 쿼리 API/쿼리 OM](search.md#restful-query-apiquery-om) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -204,48 +204,56 @@ Office 365 계획에 사용할 수 있는 SharePoint 기능을 확인하려면 �
 |["현재 목록" 검색](search.md#this-list-searches) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**사이트 기능** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online 계획 1** <br/> |**SharePoint Online 계획 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |커뮤니케이션 사이트  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
-|[커뮤니티](social.md#community) <br/> |<sup>13</sup> 예 <br/> |<sup>13</sup> 예 <br/> |예  <br/> |예  <br/> |<sup>13</sup> 예 <br/> |<sup>13</sup> 예 <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|[커뮤니티](social.md#community) <br/> |예<sup>13</sup> <br/> |예<sup>13</sup> <br/> |예  <br/> |예  <br/> |예<sup>13</sup> <br/> |예<sup>13</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |[회사 피드](social.md#company-feed) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |[크로스 브라우저 지원](sites-servicedesc.md#cross-browser-support) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[관리 경로 사용자 지정](sites-servicedesc.md#custom-managed-paths) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |문서 라이브러리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[거버넌스](sites-servicedesc.md#governance) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|허브 사이트  <br/> |없음<sup>21</sup> <br/> |없음<sup>21</sup> <br/> |없음<sup>21</sup> <br/> |없음<sup>21</sup> <br/> |없음<sup>21</sup> <br/> |없음<sup>21</sup> <br/> |없음<sup>21</sup> <br/> |아니요  <br/> |아니요  <br/> |
-|하이브리드 앱 시작 관리자  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |<sup>19</sup> 예 <br/> |예  <br/> |예  <br/> |
-|비즈니스 및 사이트에 대 한 하이브리드 OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |<sup>19</sup> 예 <br/> |예  <br/> |예  <br/> |
+|허브 사이트  <br/> |<sup>21</sup> 없음 <br/> |<sup>21</sup> 없음 <br/> |<sup>21</sup> 없음 <br/> |<sup>21</sup> 없음 <br/> |<sup>21</sup> 없음 <br/> |<sup>21</sup> 없음 <br/> |<sup>21</sup> 없음 <br/> |아니요  <br/> |아니요  <br/> |
+|하이브리드 앱 시작 관리자  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>19</sup> <br/> |예  <br/> |예  <br/> |
+|하이브리드 비즈니스용 OneDrive 및 사이트  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>19</sup> <br/> |예  <br/> |예  <br/> |
 |[큰 목록 확장성 및 관리](sites-servicedesc.md#large-list-scalability-and-management) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[모바일 연결](sites-servicedesc.md#mobile-connectivity) <br/> |<sup>10</sup> 예 <br/> |<sup>10</sup> 예 <br/> |예  <br/> |예  <br/> |<sup>10</sup> 예 <br/> |<sup>10</sup> 예 <br/> |<sup>10</sup> 예 <br/> |예  <br/> |예  <br/> |
-|[다국어 사용자 인터페이스](sites-servicedesc.md#multi-lingual-user-interface) <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |예  <br/> |예  <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |<sup>11</sup> 예 <br/> |예  <br/> |예  <br/> |
+|[모바일 연결](sites-servicedesc.md#mobile-connectivity) <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |예  <br/> |예  <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |예  <br/> |예  <br/> |
+|[다국어 사용자 인터페이스](sites-servicedesc.md#multi-lingual-user-interface) <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예  <br/> |예  <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예  <br/> |예  <br/> |
 |[OOTB 웹 파트](sites-servicedesc.md#ootb-web-parts) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[권한 관리](sites-servicedesc.md#permissions-management) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[개인 블로그 (영문)](social.md#personal-blogs) <br/> |<sup>12</sup> 예 <br/> |<sup>12</sup> 예 <br/> |예  <br/> |예  <br/> |<sup>12</sup> 예 <br/> |<sup>12</sup> 예 <br/> |<sup>12</sup> 예 <br/> |예  <br/> |예  <br/> |
+|[개인 블로그](social.md#personal-blogs) <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |예  <br/> |예  <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |예  <br/> |예  <br/> |
 |[프로젝트 사이트 템플릿](sites-servicedesc.md#project-site-template) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[SharePoint 목록](sites-servicedesc.md#sharepoint-lists) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|SharePoint 리본 <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|SharePoint Ribbon <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[사이트 디자인](sites-servicedesc.md#site-designs) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[사이트 테마 (모양을 변경)](sites-servicedesc.md#site-themes-change-the-look) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[사이트 테마 (모양 변경)](sites-servicedesc.md#site-themes-change-the-look) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[사이트 사용 현황 페이지](sites-servicedesc.md#site-usage-page) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |[작업 목록](sites-servicedesc.md#task-list) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[팀 전자 필기장](sites-servicedesc.md#team-notebook) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |팀 사이트 <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[변형](sites-servicedesc.md#variations) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|사이트 피드 SharePoint 공유 (SharePoint 공유를 사용 하 여 클래식 팀 사이트)를 사용 하 여 (클래식 팀 사이트  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|사이트 피드 (sharepoint 공유를 사용 하는 클래식 팀 사이트 사용)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Wiki](social.md#wikis) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Yammer의 통합  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |||
+|Yammer 통합  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |||
 |**추가 기능** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online 계획 1** <br/> |**SharePoint Online 계획 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[추가 저장소](add-ons.md#additional-storage) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Azure 프로비전 응용 프로그램: Access Services](add-ons.md#azure-provisioned-apps-access-services) <br/> |<sup>14</sup> 예 <br/> |<sup>14</sup> 예 <br/> |<sup>14</sup> 예 <br/> |<sup>14</sup> 예 <br/> |<sup>14</sup> 예 <br/> |<sup>14</sup> 예 <br/> |<sup>14</sup> 예 <br/> |아니요  <br/> |아니요  <br/> |
+|[Azure 프로비전 응용 프로그램: Access Services](add-ons.md#azure-provisioned-apps-access-services) <br/> |예<sup>14</sup> <br/> |예<sup>14</sup> <br/> |예<sup>14</sup> <br/> |예<sup>14</sup> <br/> |예<sup>14</sup> <br/> |예<sup>14</sup> <br/> |예<sup>14</sup> <br/> |아니요  <br/> |아니요  <br/> |
 |[Azure 프로비전 응용 프로그램: Azure LWR(Lightweight Web Role)의 사용자 지정 코드](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
    
-> <sup>1</sup> 폴더를 동기화를 사용 하려면 있어야 Office 2013 또는 이상 (Standard 또는 Professional edition) 또는 Office 응용 프로그램을 포함 하는 Office 365 구독 합니다. Office 365 비즈니스 Essentials, Office 365 Enterprise E1 및 Office 365 교육 계획 Office 데스크톱 응용 프로그램에 대 한 구독을 포함 하지 마십시오. 그러나 있습니다 Office 2013을 사용 하는 경우에 폴더를 동기화를 사용할 수 또는 나중에 설치 하 고 이러한 계획 중 하나에 가입 합니다.<br/><sup>2</sup> Firstline 근로자가 비즈니스 기능에 대 한 OneDrive 제한 합니다. Firstline 근로자 2GB의 저장 받고 데스크톱 동기화 기능이 부족 합니다. Firstline 계정 포함 되지는 OneDrive 비즈니스 개인 사이트에 대 한 않으므로 1TB 또는 5TB 온라인 저장 된 비즈니스 개인 라이브러리에 대 한 OneDrive에서 유용 하지 않습니다.<br/> <sup>3</sup> azure 정보 보호는 포함 되어있지 않지만 별도 추가 기능으로 구입할 수 있습니다 및 지원 되는 정보 권한 관리 (IRM) 기능을 사용 하는 합니다. 일부 Azure 정보 보호 기능을 사용 하려면 Office 365 ProPlus는 Office 365 비즈니스 Essentials "," Office 365 프리미엄 "," Office 365 Enterprise E1 "," Office 365 교육 "또는" Office 365 Enterprise f 1에 포함 하는 구독 합니다.<br/><sup>4</sup> 하기 때문에 Firstline 근로자는 관리자 일 수 없으므로, Firstline 근로자가 있는 테 넌 트 관리 센터에 액세스 하려면 하나 이상의 엔터프라이즈 사용자가 필요 합니다. 
-<br/><sup>5</sup> SharePoint Online 고객 다운로드 하는 무료 순위 모델 조정 앱을 만들고 순위 모델을 사용자 지정을 설치 해야 합니다. 
+> <sup>1</sup> 폴더 동기화를 사용하려면 Office 2013 이상(Standard 또는 Professional Edition)을 보유하고 있거나 Office 응용 프로그램이 포함된 Office 365를 구독해야 합니다. Office 365 Business Essentials, Office 365 Enterprise E1 및 Office 365 Education 계획에는 Office 데스크톱 응용 프로그램에 대한 구독이 포함되지 않습니다. 그러나 Office 2013 이상이 설치되어 있고 계획 중 하나를 구독한 경우 폴더 동기화를 사용할 수 있습니다. 
+<br/><sup>2</sup> firstline 작업자는 비즈니스용 OneDrive 기능이 제한 됩니다. firstline 작업자는 저장소의 2gb와 데스크톱 동기화 기능 부족을 수신 합니다. firstline 계정에는 비즈니스용 onedrive 개인 사이트가 포함 되지 않으므로 1tb 또는 1tb의 온라인 저장소가 포함 된 비즈니스용 onedrive 개인 라이브러리를 활용할 수 없습니다.
+<br/> <sup>3</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용하려면 Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F1에 포함되어 있지 않은 Office365ProPlus를 구독해야 합니다. 
+<br/><sup>4</sup> firstline 작업 자가 관리자가 될 수 없으므로, firstline 작업 자가 있는 테 넌 트에는 관리 센터에 액세스 하기 위한 엔터프라이즈 사용자가 한 명 이상 필요 합니다. 
+<br/><sup>5</sup> SharePoint Online 고객은 무료 순위 모델 조정 앱을 다운로드 하 고 설치 해야 순위 모델을 만들고 사용자 지정할 수 있습니다. 
 <br/> <sup>6</sup> eDiscovery 기능을 사용할 때 이 기능을 허용하는 계획에 대한 라이선스 요구 사항이 eDiscovery 작업(검색, 보류, 내보내기)에 속하는 모든 최종 사용자에게 적용됩니다. 
 <br/><sup>7</sup> 인증된 SharePoint Online 사용자는 패싯 탐색으로 개인 사이트 모음에 액세스할 수 있습니다. 
 <br/><sup>8</sup> 일부 공급자는 사용자의 국가/지역에서 차단될 수 있습니다. 
-<br/> <sup>9</sup> 조직 외부에 있는 다른 사용자와 전자 메일 하 여 문서, 라이브러리 또는 사이트를 공유 합니다. 관리자, 켤 수 있게 수행 되지만 해당 만들 수도 있습니다 파일 공유 액세스할 수 있는 국가 외부에서 나타내는 경고 메시지를 받게 됩니다. 사용자가 조직 외부의 다른 사용자와 공유 하 려에 같은 경고 메시지가 표시 됩니다.<br/><sup>10</sup> 모바일 브라우저에서 문서를 볼 수 있습니다. 문서를 편집 하려면 Office 모바일 응용 프로그램을 설치 해야 합니다. Office Mobile은 Windows phone 및 태블릿, Android 전화 및 태블릿, iPhone 및 iPad 현재 사용할 수 있습니다.<br/><sup>11</sup> 도움말은 중국어 간체 및 영어로만 제공됩니다. 
+<br/> <sup>9</sup> 조직 외부의 사용자와 전자 메일로 문서, 라이브러리 또는 사이트 공유. 관리자는 해당 기능을 설정할 수 있지만 파일이 사용자 국가 외부에서 공유될 수 있음을 나타내는 경고 메시지가 표시됩니다. 사용자가 조직 외부의 사용자와 공유하려고 하면 같은 경고 메시지를 받게 됩니다. 
+<br/><sup>10</sup> 모바일 브라우저에서 문서를 볼 수 있습니다. 문서를 편집하려면 Office Mobile 앱을 설치해야 합니다. Office Mobile은 현재 Windows 휴대폰 및 태블릿, Android 휴대폰 및 태블릿, iPhone 및 iPad에서 이용할 수 있습니다. 
+<br/><sup>11</sup> 도움말은 중국어 간체 및 영어로만 제공됩니다. 
 <br/> <sup>12</sup> 블로그에 대한 설명은 추가할 수 없습니다. 
 <br/> <sup>13</sup> 조직 커뮤니티 웹 사이트를 사용할 수 있지만 공용 커뮤니티 제공 도움말은 사용할 수 없습니다. 
 <br/><sup>14</sup> Access 2010은 지원되지 않습니다. 
-<br/> <sup>15</sup> 에 대 한 Office Online F1 사용자에 액세스할 수 있는 Office Online (라이브 타일의 경우)에 콘텐츠를 작성에 대 한 합니다. 그러나 연관 된 핵심 상업용 모바일 앱 제한 갖습니다. 다음은 포함: Yammer, StaffHub, Microsoft 팀의, 비즈니스, SharePoint 및 그룹에 대 한 Skype 합니다. 다음은 포함 **되지 않습니다** : Outlook, Word, Excel, PowerPoint 및 OneNote입니다.<br/> <sup>16</sup> 샌드박스 솔루션 사용자 코드를 포함할 수 없습니다. 정의 (.xml) 파일 및 리소스를 활성화할 때 서버에서 처리 된 포함 될 수 있습니다.<br/><sup>17</sup> 사용자 코드(샌드박스)가 포함된 InfoPath 양식은 InfoPath 리치 클라이언트에서만 사용될 수 있습니다. 
-<br/><sup>18</sup> Visio 온라인 소비 (보기 기능)은 사용할 수 있는 무료입니다. Visio 온라인 만들기 및 편집 기능에는 라이선스가 필요 합니다. Visio 온라인에 대 한 자세한 내용은 [Visio 온라인 서비스 설명](../visio-online-service-description/visio-online-service-description.md)을 참조 하십시오.<br/><sup>19</sup> F1 사용자는 하이브리드 설치 프로그램에서 SharePoint 서버에 액세스할 수 있지만 Office 365 F1; 서버 액세스에 대 한 CAL 권한을 포함 되지 않습니다. 이러한 권한은 별도로 구입 해야 합니다. 
-<br/><sup>20</sup> 고객 키가 Office 365 Enterprise e 5에 사용할 수 있습니다. 고객 키를 사용 하면 조직의 암호화 키를 제어 하 고 다음 Microsoft의 데이터 센터의 나머지 부분에서 데이터를 암호화 하 고 사용 하 여 Office 365를 구성 수 있습니다. 보관 된 데이터에는 Exchange Online 및 사서함 및 SharePoint Online에 저장 된 파일에 저장 된 비즈니스를 위한 Skype 및 비즈니스용 OneDrive에서 데이터를 포함 합니다. 고객 키를 사용 하면 Office 365를 사용 하 여 데이터를 암호 해독의 암호화 키를 제어 하기 때문에 규정 준수 의무를 충족 합니다. 자세한 내용은 [고객 키를 사용 하 여 Office 365에서 데이터를 제어](https://go.microsoft.com/fwlink/?linkid=862702)를 참조 하십시오.<br/><sup>21</sup> 곧 제공 될 예정입니다. 
+<br/> <sup>15</sup> office online의 경우 F1 사용자는 콘텐츠를 만들 때 Office online (라이브 타일)에 액세스할 수 있어야 합니다. 그러나 핵심 상업용 모바일 앱과 관련된 제한 사항이 있습니다. 포함 사항: Yammer, StaffHub, Microsoft Teams, 비즈니스용 Skype, SharePoint 및 Groups. **불포함** 사항: Outlook, Word, Excel, PowerPoint 및 OneNote. 
+<br/> <sup>16</sup> 샌드박스 솔루션은 사용자 코드를 포함할 수 없습니다. 대신, 활성화 시 서버에서 처리되는 정의(.xml) 파일 및 리소스만 포함될 수 있습니다. 
+<br/><sup>17</sup> 사용자 코드(샌드박스)가 포함된 InfoPath 양식은 InfoPath 리치 클라이언트에서만 사용될 수 있습니다. 
+<br/><sup>18</sup> Visio Online 소비율 (보기 기능)을 무료로 사용할 수 있습니다. Visio Online의 작성 및 편집 기능은 라이선스가 필요합니다. Visio Online에 대한 자세한 내용은 [Visio 온라인 서비스 설명](../visio-online-service-description/visio-online-service-description.md)을 참조하세요.  <br/><sup>19</sup> f1 사용자는 하이브리드 설치에서 SharePoint Server에 액세스할 수 있지만 Office 365 F1에는 서버 액세스를 위한 CAL 권한이 포함 되지 않습니다. 이러한 권한은 별도로 구입 해야 합니다. 
+<br/><sup>20</sup> 고객 키를 Office 365 Enterprise E5에서 사용할 수 있습니다. 고객 키를 사용하면 조직의 암호화 키를 제어하고 Office 365를 구성 및 사용하여 Microsoft의 데이터 센터의 미사용 데이터를 암호화할 수 있습니다. 미사용 데이터에는 SharePoint Online 및 비즈니스용 OneDrive에 저장되어 있는 사서함과 파일에 저장된 Exchange Online 및 비즈니스용 Skype의 데이터를 포함합니다. 고객 키를 사용하면 Office 365가 데이터의 암호를 해독하는 데 사용하는 암호화 키를 제어하므로 준수 의무를 이행할 수 있습니다. 자세한 내용은 [고객 키를 사용하여 Office 365에서 데이터 제어](https://go.microsoft.com/fwlink/?linkid=862702)를 참조하세요. 
+<br/><sup>21</sup> 이 곧 제공 될 예정입니다. 

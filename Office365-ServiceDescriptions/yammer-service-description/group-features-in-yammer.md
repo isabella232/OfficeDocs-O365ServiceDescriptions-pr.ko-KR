@@ -1,7 +1,7 @@
 ---
 title: Yammer의 그룹 기능
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: Yammer에서는 다음과 같은 그룹 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 52415e7ce37aad1fd88e8078b34f0752c6e6b35c
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 53d6e898717547fd238f70b4eb059b0facb4391a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036536"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467545"
 ---
 # <a name="group-features-in-yammer"></a>Yammer의 그룹 기능
 
@@ -34,7 +34,7 @@ Yammer에서는 다음과 같은 그룹 기능을 사용할 수 있습니다.
 
 이미 가입되어 있는 그룹과 관련된 그룹을 추가하고 우선 순위를 지정할 수 있으므로 동료가 더욱 연관성 있는 사람, 콘텐츠 및 대화를 검색할 수 있습니다.
   
-## <a name="announcements"></a>알림
+## <a name="announcements"></a>Announcements
 <a name="bkmk_Announcements"> </a>
 
 중요 업데이트를 구성원에게 즉시 알리기 위해 알림을 그룹과 공유합니다. 그룹 구성원이 손쉽게 찾아 볼 수 있도록 관리자는 알림을 그룹에 고지합니다.

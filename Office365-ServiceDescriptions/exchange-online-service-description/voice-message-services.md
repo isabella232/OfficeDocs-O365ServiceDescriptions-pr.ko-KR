@@ -1,7 +1,7 @@
 ---
 title: 음성 메시지 서비스
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,22 +12,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 98591e47ece7c59581824c6df375c41c66b7d2d1
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 3879252927a26f47cd5d92f0fbcfbdecf4466c2a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036580"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467925"
 ---
-# <a name="voice-message-services"></a>음성 메시지 서비스
+# <a name="voice-message-services"></a>Voice Message Services
 
 ## <a name="voice-mail"></a>음성 사서함
 
 Microsoft Exchange Online에서는 호스트된 음성 메일 서비스를 제공합니다. 이 서비스의 기능은 다음과 같습니다.
   
-- 전화 응답(음성 사서함)
+- Microsoft Exchange Online에서는 호스트된 음성 메일 서비스를 제공합니다. 이 서비스의 기능은 다음과 같습니다.
     
-- Exchange에 대한 전화 접속 사용자 인터페이스(Outlook Voice Access)
+- 전화 응답(음성 사서함)
     
 - Exchange에 대한 전화 접속 사용자 인터페이스(Outlook Voice Access)
     
@@ -41,33 +41,33 @@ Microsoft Exchange Online에서는 호스트된 음성 메일 서비스를 제�
     
 - 부재 중 통화 알림.
     
-- 음성 메일 PIN ( [음성 메일 PIN 다시 설정](https://go.microsoft.com/fwlink/p/?LinkId=286328)참조)는 웹 및 Outlook에서 Outlook에서 다시 설정 합니다.
+- Voice mail PIN reset from Outlook on the web and Outlook (see [Reset a Voice Mail PIN](https://go.microsoft.com/fwlink/p/?LinkId=286328)).
     
 - Outlook Web App 및 Outlook에서 음성 메시지 PIN 다시 설정([음성 메시지 PIN 다시 설정](https://go.microsoft.com/fwlink/p/?LinkId=271794) 참조). 
     
-- 전화 응답 규칙(자세한 내용은 [음성 사서함 사용자가 착신 전환하도록 허용](https://go.microsoft.com/fwlink/p/?LinkId=271795) 참조). 
+- 메시지 대기 표시기(자세한 내용은 [Exchange Online의 MWI](https://go.microsoft.com/fwlink/p/?LinkId=271795) 참조). 
     
-- Exchange Online의 보호된 음성 메일(자세한 내용은 [Exchange Online의 보호된 음성 메일](https://go.microsoft.com/fwlink/p/?LinkId=271796) 참조). 
+- 전화 응답 규칙(자세한 내용은 [음성 사서함 사용자가 착신 전환하도록 허용](https://go.microsoft.com/fwlink/p/?LinkId=271796) 참조). 
     
-- 음성 메일 미리 보기(지원되는 언어 목록은 [사용자가 음성 메일 스크립트를 보도록 허용](https://go.microsoft.com/fwlink/p/?LinkId=271797) 참조). 
+- Exchange Online의 보호된 음성 메일(자세한 내용은 [Exchange Online의 보호된 음성 메일](https://go.microsoft.com/fwlink/p/?LinkId=271797) 참조). 
+    
+- Speech access to email, voice mail, calendar, personal contacts, and personal contact groups.
     
 - 전자 메일, 음성 사서함, 일정, 개인 연락처, 개인 메일 그룹에 음성 명령으로 액세스.
     
 - Outlook Voice Access 또는 자동 전화 교환을 통한 디렉터리 검색.
     
-- 관리자는 EAC(Exchange 관리 센터)를 사용하여 음성 메시징 서비스 상호 운용성을 구성 및 관리합니다.
-    
-음성 사서함 기능에 대한 자세한 내용은 [Exchange Online의 음성 사서함](https://go.microsoft.com/fwlink/p/?LinkId=271798)을 참조하세요.
+For more information about voice mail features, see [Voice Mail in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271798).
   
 > [!IMPORTANT]
-> Outlook Voice Access 사용자 또는 음성 명령을 사용하는 자동 전화 교환 발신자는 메뉴 탐색이나 디렉터리 검색에서 ASR(자동 음성 인식) 기능을 사용할 수 없습니다. > 고객은 VoIP 게이트웨이 및 PBX, IP PBX 또는 비즈니스용 Skype 서버 2015를 사용하여 PSTN(공중 전화망)으로부터의 전화 통신 연결을 제공해야 합니다. > 고객은 온-프레미스 SBC 하드웨어 장치를 제공하고 이 SBC가 온라인 음성 메일 서비스에 연결하도록 올바르게 구성되어 있는지 확인해야 합니다. 여기에는 인증서와 공용 및 개인 IP 인터페이스를 사용하고 온-프레미스 방화벽을 통해 올바른 TCP 포트를 사용하여 적절한 보안 수준을 구성하는 것이 포함됩니다. > 호스트된 음성 메일은 Exchange Online 계획 2 및 Office 365 Enterprise E3 구독자만 사용할 수 있습니다. 
+> The Automatic Speech Recognition (ASR) feature isn't available in menu navigation or directory search for Outlook Voice Access users or auto attendant callers using voice commands. > The customer must provide a telephony connection from the public switched telephone network (PSTN) using a VoIP gateway and PBX, IP PBX, or Skype for Business Server 2015. > The customer must provide the on-premises SBC hardware devices and ensure that the SBCs are correctly configured to connect to the online voice mail services. This includes configuring the appropriate level of security by using certificates and public and private IP interfaces and by enabling the correct TCP ports through their on-premises firewalls. > Hosted voice mail is available only to Exchange Online Plan 2 and Office 365 Enterprise E3 subscribers. 
   
 ## <a name="third-party-voice-mail-interoperability"></a>타사 음성 사서함 상호 운용성
 
-타사 공급자의 온-프레미스 음성 메일 솔루션이 SMTP를 통해 음성 메시지를 전달할 수 있거나 Microsoft Exchange Web Services를 지원하는 경우 Exchange Online과 상호 운용될 수 있습니다. 음성 메일 시스템이 기본적으로 SMTP를 통한 음성 메시지 전달을 지원하지 않으면 전자 메일 서버는 온-프레미스를 유지하여 음성 메일 시스템에서 메시지를 받은 다음 SMTP를 사용하여 클라우드로 전달할 수 있습니다. 많은 타사 음성 메일 시스템은 고급 UM 기능을 위해 MAPI/CDO를 사용하여 Exchange Server와 상호 운용하므로 Exchange Online과의 상호 운용에 SMTP가 사용되는 경우 이러한 시스템의 전체 기능을 사용하지 못할 수 있습니다.
+타사 음성 사서함 상호 운용성
   
 > [!NOTE]
-> 7 월 2018에서 작동 하는 고객 Sbc에서 직접 연결을 통해 타사 PBX 시스템에 대 한 Exchange Online UM 지원 종료 됩니다. 자세한 내용은 [Exchange Online 통합 메시징에 세션 테두리 컨트롤러에 대 한 지원 한 중단](https://blogs.technet.microsoft.com/exchange/2017/07/18/discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) 을 참조 하십시오. 
+> Exchange Online UM support for third-party PBX systems via direct connections from customer operated SBCs will end in July 2018. Please see [Discontinuation of support for Session Border Controllers in Exchange Online Unified Messaging](https://blogs.technet.microsoft.com/exchange/2017/07/18/discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) for more information. 
   
 ## <a name="skype-for-business-integration"></a>비즈니스용 Skype 통합
 

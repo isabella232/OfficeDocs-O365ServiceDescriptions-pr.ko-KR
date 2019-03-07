@@ -1,7 +1,7 @@
 ---
 title: Yammer의 문서 공동 작업 기능
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: Yammer에서는 다음과 같은 문서 공동 작업 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 3f38d139e2b792620ab653f160875efe610769bd
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: aff27c7638975044c76aa6328cd3939230afd2b8
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036609"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466315"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Yammer의 문서 공동 작업 기능
 
@@ -37,7 +37,7 @@ Yammer에서는 다음과 같은 문서 공동 작업 기능을 사용할 수 �
 ## <a name="official-content"></a>공식 콘텐츠
 <a name="bkmk_OfficialContent"> </a>
 
-공식 및 읽기 전용으로 파일을 표시 합니다. 검색 결과 및 쉬운 액세스를 위한 콘텐츠 디렉터리에 더 높은 공식 콘텐츠 표시 됩니다.
+파일을 공식 및 읽기 전용으로 표시 합니다. 공식 콘텐츠는 손쉽게 액세스할 수 있도록 검색 결과 및 콘텐츠 디렉터리의 상단에 표시됩니다.
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>Yammer 계획별 문서 공동 작업 기능
 <a name="bkmk_OfficialContent"> </a>

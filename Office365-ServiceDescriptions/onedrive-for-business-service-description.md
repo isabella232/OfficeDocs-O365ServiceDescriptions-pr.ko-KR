@@ -1,7 +1,7 @@
 ---
 title: 비즈니스용 OneDrive 서비스 설명
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 비즈니스용 OneDrive는 회사에서 사용자에게 제공하는 클라우드의 개인 온라인 저장 공간입니다. 이 공간에 파일을 저장하고 보호하여 여러 장치에서 작업 파일에 쉽게 액세스하도록 할 수 있습니다. 필요에 따라 회사 동료와 파일을 공유하고 최신 Office 데스크톱, 웹 및 모바일 앱을 사용하여 실시간으로 Office 문서로 공동 작업을 수행할 수 있습니다. 비즈니스용 OneDrive 동기화 클라이언트를 사용하여 파일을 로컬 컴퓨터로 동기화할 수 있습니다.
-ms.openlocfilehash: 4fca7cfff8db13e15b6c79ee3add0d103dd2e26d
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+ms.openlocfilehash: 4a367c37794e2ff9355f0e88cb8ca0e50394e77c
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215363"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467195"
 ---
 # <a name="onedrive-for-business-service-description"></a>비즈니스용 OneDrive 서비스 설명
 

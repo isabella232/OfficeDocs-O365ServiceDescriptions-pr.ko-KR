@@ -1,7 +1,7 @@
 ---
 title: Word Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: Word 온라인 (이전의 Word Web App)에 웹 브라우저를 Microsoft Word 환경을 여기에서 작업할 수 있습니다 문서는 문서가 저장 된 웹사이트에서 직접 확장 합니다.
-ms.openlocfilehash: fabe2049a8b35666a6bb608c3198ac68473ffca2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: word Online (이전의 word Web App)을 사용 하면 Microsoft word 환경을 웹 브라우저로 확장 하 여 문서가 저장 된 웹 사이트에서 직접 문서로 작업할 수 있습니다.
+ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036498"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467305"
 ---
 # <a name="word-online"></a>Word Online
 
-Word 온라인 (이전의 Word Web App)에 웹 브라우저를 Microsoft Word 환경을 여기에서 작업할 수 있습니다 문서는 문서가 저장 된 웹사이트에서 직접 확장 합니다. 
+word Online (이전의 word Web App)을 사용 하면 Microsoft word 환경을 웹 브라우저로 확장 하 여 문서가 저장 된 웹 사이트에서 직접 문서로 작업할 수 있습니다. 
   
 ## <a name="alignment-guides-and-live-layout"></a>맞춤 안내서 및 라이브 레이아웃
 <a name="bkmk_AlignmentGuidesLivelayout"> </a>
@@ -151,7 +151,7 @@ Word Online과 Word 데스크톱 앱에서 모두 문서에 머리글과 바닥�
 
 Word Online에서는 문서 내에 책갈피 링크를 손쉽게 만들고, 커서가 잉크를 가리킬 때 표시되는 스크린 팁을 설정할 수 있습니다. 자세한 내용은 [Word Online의 하이퍼링크](https://go.microsoft.com/fwlink/p/?LinkId=271863)를 참조하세요.
   
-## <a name="index"></a>인덱스
+## <a name="index"></a>색인
 <a name="bkmk_index"> </a>
 
 인덱스는 문서에 언급된 용어 및 주제와 함께 해당 내용이 표시된 페이지를 나열합니다. 인덱스를 만들려면 문서의 기본 항목 이름과 상호 참조를 제공하여 인덱스 항목을 표시한 다음 인덱스를 작성합니다.
@@ -159,7 +159,7 @@ Word Online에서는 문서 내에 책갈피 링크를 손쉽게 만들고, 커�
 ## <a name="ink-editor"></a>잉크 편집기
 <a name="BKMK_InkEditor"> </a>
 
-잉크 편집기를 사용 하면 편집 하 고 텍스트를 선택 하 고 텍스트를 삭제 하려면 긋기에 같은 자연 스러운 제스처를 사용 하 여 문서 서식 지정 수 있습니다.
+잉크 편집기에서는도로를 사용 하 여 텍스트를 선택 하 고 텍스트를 삭제할 수 있는 기본 제스처를 통해 문서를 편집 하 고 서식을 지정할 수 있습니다.
   
 ## <a name="insert-online-pictures"></a>온라인 그림 삽입
 <a name="bkmk_InsertPicturessClipArt"> </a>
@@ -174,7 +174,7 @@ Word Online에는 IRM(정보 권한 관리)으로 보호되는 문서가 표시�
 ## <a name="learning-tools"></a>학습 도구
 <a name="BKMK_LearningTools"> </a>
 
-학습 도구는 단어를 올바르게 발음, 신속 하 게 하 고, 정확 하 게 읽기 및 읽기 기능을 이해 하는 기능을 향상 하 여 읽기 능력을 향상 시킬 수 있도록 디자인 되었습니다. 
+학습 도구는 단어를 올바르게 발음 하 고, 빠르고 정확 하 게 읽을 수 있으며, 읽은 내용을 이해 하는 데 도움이 되도록 디자인 되었습니다. 
   
 ## <a name="lists"></a>목록
 <a name="BKMK_Lists_WordOnline"> </a>
@@ -256,7 +256,7 @@ Word Online에서는 사용할 수 없습니다. 맞춤법 검사 사전에 새 
 ## <a name="real-time-co-authoring"></a>실시간 공동 작성
 <a name="bkmk_Coauthoring"> </a>
 
-둘 이상의 사용자는 문서에 동시에 사용할 수 있습니다. Word 온라인 및 Word 2016, 실시간 현재 상태를 사용 하면를 편집 하 고 본인 되는 변경 내용을 볼 수 있습니다 충돌 만들 안함 수 있도록 공동 작성자가 문서에서 작업 하는 위치를 참조 하십시오. Word 2013에서는 동시 편집을 지원 하지만 현재 상태가 표시 되지 않으며 변경 된 문서를 저장 해야 여러 작성자가 볼 수 없습니다. 실시간 공동 작성에 대 한 자세한 내용은 [Word Online의 새로운 이란](https://go.microsoft.com/fwlink/?LinkId=389520) 무엇 이며 [실시간 공동 작성을 사용 하 여 Word 문서에서 공동 작업](https://go.microsoft.com/fwlink/?linkid=798760)을 참조 하십시오.
+여러 사용자가 한 문서에서 동시에 작업할 수 있습니다. word Online 및 word 2016에서 실시간 현재 상태는 문서에서 공동 작성자가 작업을 수행 하는 위치를 확인 하는 데 도움이 되므로 편집 하는 동안 충돌이 발생 하지 않으며 변경 내용을 볼 수 있습니다. Word 2013에서는 동시 편집을 지원하지만 현재 상태가 표시되지 않으며 문서를 저장해야 여러 작성자가 변경 내용을 확인할 수 있습니다. 실시간 공동 작성에 대 한 자세한 내용은 [word Online의 새로운 기능](https://go.microsoft.com/fwlink/?LinkId=389520) 및 [실시간 공동 작성을 사용 하 여 word 문서에 대 한 공동 작업](https://go.microsoft.com/fwlink/?linkid=798760)을 참조 하세요.
   
 ## <a name="reference-tools"></a>참조 도구
 <a name="bkmk_ReferenceTools"> </a>
@@ -271,7 +271,7 @@ Word Online에서는 사용할 수 없습니다. 맞춤법 검사 사전에 새 
 ## <a name="researcher"></a>리서치 도구
 <a name="BKMK_Researcher"> </a>
 
-연구원을 사용 하 여 찾기 및 신뢰할 수 있는 원본 및 문서에 대 한 콘텐츠를 통합할 수 있습니다. 연구원 Bing를 사용 하 여 웹에서 적절 한 콘텐츠 의뢰할. 자세한 내용은 [Word 내에서 쉽게 용지에 대 한 연구 (영문)을](https://go.microsoft.com/fwlink/?linkid=839490)참조 하십시오.
+리서치 도구를 사용 하 여 문서에 대 한 신뢰할 수 있는 원본 및 콘텐츠를 찾고 통합 합니다. 리서치 도구에서는 Bing을 사용 하 여 웹의 적절 한 콘텐츠를 가져옵니다. 자세한 내용은 [Word에서 쉽게 사용할 백서 리서치](https://go.microsoft.com/fwlink/?linkid=839490)를 참조 하세요.
   
 ## <a name="rich-media"></a>리치 미디어
 <a name="bkmk_RichMedia"> </a>
@@ -303,7 +303,7 @@ Word Online에서 공유는 클릭 한 번으로 다른 사용자가 문서를 �
 
 Word Online에서는 테이블을 삽입하고 테이블 텍스트를 편집할 수 있으며, 행/열을 추가하거나 삭제하여 기본 테이블 구조를 손쉽게 편집할 수 있습니다. 사용자 지정 표 스타일, 셀 크기, 텍스트 방향 및 정렬 순서 같은 많은 고급 표 기능은 Word 데스크톱 앱에서만 사용할 수 있습니다.
   
-## <a name="smartart"></a>SmartArt
+## <a name="smartart"></a>빠른
 <a name="bkmk_SmartArteditreformat"> </a>
 
 Word Online에서는 SmartArt가 포함된 기존 문서가 보기 모드에서 제대로 표시됩니다. 편집 모드에서는 이러한 문서가 삭제할 수 있지만 편집할 수 없는 자리 표시자로 표시됩니다. Word Online에서는 문서를 이동하거나 크기를 변경할 수 없습니다. 도형, 차트, 텍스트 상자, SmartArt 또는 WordArt 삽입 같은 고급 아트 기능은 Word 데스크톱 앱에서만 사용할 수 있습니다
@@ -323,7 +323,7 @@ Word Online에서는 사용할 수 없습니다. 기존 기관 표를 볼 수는
 
 누르기 기능을 사용하여 콘텐츠를 찾고 재사용합니다. 가장 자주 사용하는 관련 파일을 눌러서 파일 및 정보를 검색하는 대신 문서 작성에 집중할 수 있습니다. 자세한 정보는 [원하는 콘텐츠 찾고 사용하기](https://go.microsoft.com/fwlink/?linkid=825878)를 참조하세요.
   
-## <a name="tell-me"></a>알림
+## <a name="tell-me"></a>표시
 <a name="BKMK_Tell_Me_Word"> </a>
 
 Word Online에서 수행해야 하는 작업이 있지만 방법을 모를 때 알림 검색 기능을 사용하면 원하는 내용을 빠르게 찾을 수 있습니다. 알림 기능을 사용하면 수행하려는 작업을 파악하고 제안 사항을 활용하여 작업 시간을 단축할 수 있습니다.

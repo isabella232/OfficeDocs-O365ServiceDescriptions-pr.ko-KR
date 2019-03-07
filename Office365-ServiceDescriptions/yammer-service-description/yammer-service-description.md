@@ -1,7 +1,7 @@
 ---
 title: Yammer 서비스 설명
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
-description: Yammer-최고의 보안 및 개인 엔터프라이즈 소셜 네트워크 됩니다. Yammer 기업용 직원 들이 쉽게 공동 작업, 속도 결정 하 고 자체 모든 비즈니스 문제에 대해 수행할 팀으로 구성할 수 있게 함으로써 생산성과 성공적인 향상 될 수 있습니다. 자연스럽 게 비즈니스 맞춤이 적용 되 고 유연성 드라이브, 주기 시간 감소, 직원, 잠길 및 모두 고객 및 파트너와 관계를 개선 하는 작업의 새로운 방법입니다.
-ms.openlocfilehash: 7feac0f0b107a159dd7d0545632815ec24679040
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Yammer는 최고의, 보안 및 사설 엔터프라이즈 소셜 네트워크입니다. Yammer를 통해 직원들은 손쉽게 공동 작업을 수행하고 더욱 신속하게 의사 결정하고 비즈니스 과제를 담당하는 팀으로 자가 조직화할 수 있기 때문에 더욱 강력한 생산성을 갖추고 성과를 올릴 수 있습니다. Yammer는 비즈니스 제휴 및 민첩성을 자연스럽게 유도하면서 주기 시간을 줄이고 직원 간의 공동 작업을 진행하고 고객과 파트너와의 관계를 향상시킬 수 있는 새로운 작업 방식입니다.
+ms.openlocfilehash: 4d94fafd21a1022b19ae71503b777263250d74ff
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036484"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467155"
 ---
 # <a name="yammer-service-description"></a>Yammer 서비스 설명
 
-Yammer-최고의 보안 및 개인 엔터프라이즈 소셜 네트워크 됩니다. Yammer 기업용 직원 들이 쉽게 공동 작업, 속도 결정 하 고 자체 모든 비즈니스 문제에 대해 수행할 팀으로 구성할 수 있게 함으로써 생산성과 성공적인 향상 될 수 있습니다. 자연스럽 게 비즈니스 맞춤이 적용 되 고 유연성 드라이브, 주기 시간 감소, 직원, 잠길 및 모두 고객 및 파트너와 관계를 개선 하는 작업의 새로운 방법입니다.
+Yammer는 최고의, 보안 및 사설 엔터프라이즈 소셜 네트워크입니다. Yammer를 통해 직원들은 손쉽게 공동 작업을 수행하고 더욱 신속하게 의사 결정하고 비즈니스 과제를 담당하는 팀으로 자가 조직화할 수 있기 때문에 더욱 강력한 생산성을 갖추고 성과를 올릴 수 있습니다. Yammer는 비즈니스 제휴 및 민첩성을 자연스럽게 유도하면서 주기 시간을 줄이고 직원 간의 공동 작업을 진행하고 고객과 파트너와의 관계를 향상시킬 수 있는 새로운 작업 방식입니다.
   
 Yammer가 포함된 Office 365 계획 목록은 [Office 365 서비스 제품군 및 계획](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)을 참조하세요.
   
@@ -50,7 +50,7 @@ Yammer는 다음 계획을 통해 사용할 수 있습니다.
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer Enterprise 서비스 통신 정책
 <a name="YammerCommsPolicy"> </a>
 
-Yammer는 Office 365의 일부로 및 [Office 365 변경 관리 정책](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/)을 따르는 이지만 업데이트 전체 대상 버전을 사용 하지 않습니다. 
+Yammer는 office 365의 일부분이 며 [office 365 변경 관리 정책을](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/)준수 하지만, 대상 지정 된 릴리스를 사용 하 여 업데이트를 롤업 하지는 않습니다. 
   
 모든 Yammer 사용자는 A/B 기능 테스트의 대상입니다. 이렇게 하면 Microsoft가 많은 환경 및 장치에서 안정성, 성능 및 환경 개선에 대한 기능을 테스트할 수 있습니다. 같은 네트워크 내의 사용자라도 테스트로 인해 환경이 달라질 수 있습니다. 고객은 A/B 테스트를 거부할 수 없습니다.
   

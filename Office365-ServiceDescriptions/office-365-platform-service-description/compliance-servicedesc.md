@@ -1,7 +1,7 @@
 ---
-title: 규정 준수[ServiceDesc]
-ms.author: pebaum
-author: pebaum
+title: 준수 [servicedesc]
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,15 +14,15 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
-description: Microsoft Office 365 업계 표준 및 규정을 준수 하 고 비즈니스에 대 한 규정 요구 사항을 만족 시킬 수 있도록 설계 되었습니다. 자세한 내용은 준수 제품을 참조 하십시오.
-ms.openlocfilehash: 5c88a6b52988893b60a46775a0043d7bd2b7a2ab
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Office 365은 업계 표준 및 규정을 준수 하며, 비즈니스에 대 한 규정 요구 사항을 충족 하는 데 도움이 되도록 설계 되었습니다. 자세한 내용은 준수 서비스를 참조 하세요.
+ms.openlocfilehash: 46c444003a927227905fc8fef338d256cba92add
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036469"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466885"
 ---
-# <a name="complianceservicedesc"></a>규정 준수 [ServiceDesc]
+# <a name="complianceservicedesc"></a>준수 [servicedesc]
 
 > [!NOTE]
 > 이 문서의 정보는 전 세계 버전의 Office 365에 적용됩니다. Office 365 미국, 정부, Office 365 Germany 및 21Vianet에서 운영하는 Office 365를 비롯한 Office 365의 국가별 클라우드 인스턴스를 사용하는 경우 [Microsoft 국가별 클라우드](https://go.microsoft.com/fwlink/?linkid=841582)를 참조하세요. 
@@ -30,15 +30,15 @@ ms.locfileid: "24036469"
 > [!NOTE]
 > 파트너 기능의 가용성은 지역별로 다릅니다. 
   
-Microsoft Office 365 업계 표준 및 규정을 준수 하 고 비즈니스에 대 한 규정 요구 사항을 만족 시킬 수 있도록 설계 되었습니다. 자세한 내용은 [준수 제품](https://go.microsoft.com/fwlink/?linkid=864391)을 참조 하십시오.
+Microsoft Office 365은 업계 표준 및 규정을 준수 하며, 비즈니스에 대 한 규정 요구 사항을 충족 하는 데 도움이 되도록 설계 되었습니다. 자세한 내용은 [준수 서비스](https://go.microsoft.com/fwlink/?linkid=864391)를 참조 하세요.
   
 ## <a name="industry-certifications"></a>산업 인증
 
-조직에서는 제어 컬렉션 및 개인의 데이터를 사용 하는 국가, 지역 및 특정 업계 요구 사항을 준수를 위해 Office 365 준수 또는 정부의 가장 포괄적인 집합을 준수 하 여 조직의 지원할 수 또는 제 3 자 요구 사항, 인증, 및 모든 클라우드 서비스 공급자의 attestations:
+조직에서 개인 데이터를 수집 하 고 사용 하는 국가, 지역별 및 업계 관련 요구 사항을 준수 하는 데 도움이 되도록 Office 365은 조직에서 가장 포괄적인 정부 집합을 준수 하는 데 도움이 되거나 모든 클라우드 서비스 공급자의 타사 요구 사항, 인증 및 attestations:
   
-- 아르헨티나 PDPA
+- 아르헨티나
     
-- CSA CCM
+- CSA-CCM
     
 - CS 기호 (금색)
     
@@ -48,7 +48,7 @@ Microsoft Office 365 업계 표준 및 규정을 준수 하 고 비즈니스에 
     
 - EU 모델 조항
     
-- FDA 21 CFR 파트 11
+- FDA 21 CFR 부 11
     
 - FedRAMP
     
@@ -56,11 +56,11 @@ Microsoft Office 365 업계 표준 및 규정을 준수 하 고 비즈니스에 
     
 - FIPS 140-2
     
-- FISC
+- fisc
     
 - FISMA
     
-- GxP
+- gxp
     
 - HIPAA/HITECH
     
@@ -72,11 +72,11 @@ Microsoft Office 365 업계 표준 및 규정을 준수 하 고 비즈니스에 
     
 - 일본 내 번호 Act
     
-- MTCS
+- mtcs
     
-- NZ CC 프레임 워크
+- NZ 참조 프레임 워크
     
-- 508 / VPATs
+- 섹션 508/VPATs
     
 - 공유 평가
     
@@ -84,31 +84,31 @@ Microsoft Office 365 업계 표준 및 규정을 준수 하 고 비즈니스에 
     
 - SOC 2
     
-- ENS 스페인
+- 서 스페인
     
 - 영국 G-클라우드
     
 - PCI DSS 레벨 1
     
-Office 365 규정 준수에 대 한 자세한 정보를 참고할 수 있으며 서비스를 신뢰 포털에서 감사 보고서 수 있습니다.
+Office 365 준수 및 감사 보고서에 대 한 자세한 내용은 Service Trust Portal를 확인 하세요.
   
-또한 PCI DSS에 대 한 다음과 같은 질문을 note:
+또한 PCI-DSS에 대해서는 다음과 같은 질문을 유의 하세요.
   
-- **내 조직 Office 365를 사용 하 여 및 수 호환 PCI DSS 수 있습니까?**
+- **조직에서 Office 365를 사용할 수 있으며, 여전히 PCI-DSS를 준수 하나요?**
     
-  - 지불 카드 산업 데이터 보안 표준 (PCI-DSS)은 전역 신용 카드 데이터의 향상 된 컨트롤을 통해 사기를 방지 하기 위해 설계 된 정보 보안 표준입니다. PCI DSS 신용 및 직불 카드를 처리 하는 조직에 대 한 보안 표준의 집합을 만들려면 PCI 보안 표준을 위원회도 작성 되었습니다.
+  - 지불 카드 업계 데이터 보안 standard (pci-e)는 신용 카드 데이터를 보다 쉽게 제어할 수 없도록 하기 위해 설계 된 글로벌 정보 보안 표준입니다. pci-DSS는 모든 조직 처리 크레딧 및 직불 카드에 대 한 보안 표준 집합을 만들기 위해 pci 보안 표준 Council에서 작성 되었습니다.
     
-  - 고객 주문 신용 카드를 사용할 수 있으며 고객 되는 Office 365에 대 한 구독을 구입할 수 있는 전자 상거래 시스템이 PCI DSS 레벨 1 규정 준수를 달성 하기 때문에 안심할 수 있는 Office 365 서비스에 대 한 지불 수 있습니다. 독립 제 3 자 감사자를 통해 Microsoft 온라인 전자 상거래 플랫폼 (OCP)가 제대로 충족 PCI DSS 버전 1.2 결정 합니다. 아래 설명 했 듯이 조직 PCI DSS 요구 사항을 준수 볼 수는 Office 365 서비스를 사용할 수 있습니다.
+  - 고객은 고객이 office 365 구독을 구입할 수 있는 commerce system에서 PCI-DSS 수준 1 준수를 획득 하기 때문에 신용 카드를 사용 하 여 신뢰할 수 있는 office 365 서비스에 대 한 주문 및 비용 지불이 가능 합니다. 독립적인 타사 감사자는 Microsoft의 OCP (온라인 Commerce Platform)가 pci-e 버전 1.2를 만족 스럽게 충족 하는지 확인 합니다. 아래에 설명 된 것 처럼 조직은 Office 365 서비스를 사용 하 여 사용자가 PCI DSS 요구 사항을 준수 하는 데 도움을 받을 수 있습니다.
     
-- **Office 365를 사용 하는 PCI DSS 내 조직을 통해 하는 방법을**
+- **Office 365에서 어떻게 PCI-DSS를 사용 하 여 조직에서 지원 하나요?**
     
-  - Office 365 통신 및 공동 작업을 수행 하는 고객을 위한 보안 플랫폼을 제공 합니다. Microsoft는 서비스를 안전 하 게 작동 하 고 규정 준수 및 보안 기능 수명 주기 전체에서 데이터를 보호 하기 위해 사용할 수 있는 다양 한 집합이 제공 합니다. [데이터 손실 방지 (DLP)](https://go.microsoft.com/fwlink/?linkid=868520), [고급 데이터 거 버 넌 스](https://go.microsoft.com/fwlink/?linkid=863925), [Azure 정보 보호 (AIP)](https://go.microsoft.com/fwlink/?linkid=868521)와 같은 기능을 사용 자동으로 검색 하 여 데이터 같은 신용 카드 번호, SWIFT 때 중요 한 내용에 레이블을 지정 하는 정책을 설정할 수 있습니다. 코드, ABA 라우팅 번호 등이 매개 변수가 됩니다. 이 기본 제공 중요 한 정보 유형의 목록을 찾을 수 있습니다 [여기](https://go.microsoft.com/fwlink/?linkid=868522)에 있고 수도 팔 로우 명령 [여기](https://go.microsoft.com/fwlink/?linkid=868523) 직접 중요 한 정보 형식을 만들 수 있습니다. 고객에 의해 적용 되는 적절 한 정책을 사용 하 여 조직이 수 자동으로 일정 기간에 대 한 데이터를 유지 하며 사용자에 게 중요 한 데이터를 공유 하지 못하도록 하 여 자신의 콘텐츠를 보호 합니다. 고객 필요한는 조직의 내부 또는 외부 사용자와 전자 메일을 통해 중요 한 데이터를 공유 하는 경우에 고객은 권한이 있는 당사자만 보호 된 메시지를 읽을 수 있도록 [Office 365 메시지 암호화](https://go.microsoft.com/fwlink/?linkid=858986) 를 사용 하 여 암호화 및 권한 보호에 적용할 수 있습니다. 
+  - Office 365에서는 고객이 커뮤니케이션 및 공동 작업을 할 수 있는 안전한 플랫폼을 제공 합니다. Microsoft는 서비스를 안전 하 게 운영 하 고, 수명 주기 동안 데이터를 보호 하는 데 사용할 수 있는 다양 한 준수 및 보안 기능 집합을 제공 합니다. [DLP (데이터 손실 방지)](https://go.microsoft.com/fwlink/?linkid=868520), [고급 데이터 거 버 넌 스](https://go.microsoft.com/fwlink/?linkid=863925), [Azure Information Protection (aip)](https://go.microsoft.com/fwlink/?linkid=868521)등의 기능을 사용 하 여 신용 카드 번호와 같은 데이터를 SWIFT 때 중요 한 콘텐츠를 자동으로 검색 하 고 레이블을 지정 하는 정책을 설정할 수 있습니다. 코드, ABA 라우팅 번호 등이 존재 합니다. [여기](https://go.microsoft.com/fwlink/?linkid=868522)에서 기본 제공 중요 한 정보 유형 목록을 찾을 수 있으며, [여기](https://go.microsoft.com/fwlink/?linkid=868523) 에 나와 있는 지침을 수행 하 여 자체 중요 한 정보 유형을 만들 수도 있습니다. 고객이 특정 기간 동안 데이터를 자동으로 보존 하 고 사용자가 중요 한 데이터를 공유 하지 못하도록 하 여 해당 콘텐츠를 보호할 수 있습니다. 고객이 조직의 내부 또는 외부에 있는 사용자와 전자 메일을 통해 중요 한 데이터를 공유 해야 하는 경우 고객은 승인 된 사용자만 보호 된 메시지를 읽을 수 있도록 [Office 365 메시지 암호화](https://go.microsoft.com/fwlink/?linkid=858986) 를 통해 암호화 및 권한 보호를 적용할 수 있습니다. 
     
 - **금융서비스 현대화법(Gramm-Leach-Bliley Act)** GLB는 미국 금융 기관에 대한 최소 보안 및 개인 정보 요구 사항을 규정합니다. GLB 준수에도 절차와 정책이 필요하므로 소프트웨어나 서비스는 "GLB 규격"이라고 할 수 없습니다. Office 365 서비스에 영향을 주는 GLB의 주요 규정 두 가지는 다음과 같습니다. 
     
   - **금융 개인 정보 보호 규칙** 이 규칙은 금융 기관에 의한 고객의 개인 금융 정보 수집 및 공개를 통제합니다. 
     
-  - **보호조치 규칙** 이 규칙을 디자인, 구현 및 자체 등의 정보를 수집 또는 다른 금융기관에서 수신 여부를 고객 정보를 보호 하기 위해 보호 수단을 유지 하려면 모든 금융기관 필요 
+  - **보호책 규칙** 이 규칙을 사용 하려면 모든 금융 기관이 이러한 정보를 수집 하거나 다른 금융 기관에서 수신 하는지 여부에 관계 없이 고객 정보를 보호 하기 위한 보호책을 설계, 구현 및 유지 관리 해야 합니다. 
     
 ## <a name="feature-availability"></a>기능 가용성
 

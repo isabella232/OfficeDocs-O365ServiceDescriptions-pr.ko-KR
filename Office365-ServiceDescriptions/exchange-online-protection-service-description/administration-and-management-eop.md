@@ -1,7 +1,7 @@
 ---
 title: 관리[EOP]
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,18 +13,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: 이 섹션에서는 Microsoft EOP (Exchange Online Protection) 관리자가 사용할 수 있는 관리 인터페이스에 대해 설명 합니다.
-ms.openlocfilehash: f7525dd92e0162ace50c126c5592fc6fcc530253
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 3281fafa8dde443a25085a2605a085cd31623fcb
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210161"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467495"
 ---
 # <a name="administration-and-managementeop"></a>관리[EOP]
 
 이 섹션에서는 Microsoft EOP (Exchange Online Protection) 관리자가 사용할 수 있는 관리 인터페이스에 대해 설명 합니다.
   
-모든 EOP 기능에 대한 자세한 내용은 [Exchange Online Protection 서비스 설명](exchange-online-protection-service-description.md)을 참조하세요.
+모든 EOP 기능에 대 한 정보를 찾으십니까? [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.
   
 ## <a name="access-to-the-microsoft-365-admin-center"></a>Microsoft 365 관리 센터에 대 한 액세스 권한
 <a name="BKMK_accesstotheoffice365admincenter"> </a>

@@ -1,7 +1,7 @@
 ---
 title: Exchange Online Archiving의 클라이언트 기능
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Microsoft Exchange Online 보관 사용자가 다양 한 장치 및 플랫폼에서에서 보관 사서함에 연결할 수 있습니다. 인터넷을 통해 사용자의 보관을 모든 네트워크 연결에 발생 하 고 가상 사설망 (VPN) 연결이 필요 하지 않습니다. 조직에서는 사용자가 VPN 연결을 요구 하지 않고 사용 하면 외부에서 Outlook 사용을 통해 기본 사서함에 액세스할 수 있도록 온-프레미스 클라이언트 액세스 서버를 게시할 수 있습니다. VPN 액세스 온-프레미스 서버에 있는 사용자의 기본 사서함에 액세스 해야하는 경우에이 요구 사항이 변경 되지 않습니다.
-ms.openlocfilehash: 90f384e990363294c8972a79e8b500d97ca4a839
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online 보관을 통해 사용자는 다양 한 장치 및 플랫폼에서 보관 사서함에 연결할 수 있습니다. 사용자의 보관 사서함에 대한 모든 네트워크 연결은 인터넷을 통해 수행되므로 VPN(가상 사설망) 연결은 필요하지 않습니다. 조직은 사용자가 VPN 연결을 사용하지 않고도 외부에서 Outlook 사용 를 통해 기본 사서함에 액세스할 수 있도록 온-프레미스 클라이언트 액세스 서버를 게시할 수 있습니다. 온-프레미스 서버에 있는 사용자의 기본 사서함에 액세스하기 위해 VPN 액세스가 필요한 경우에도 이 요구 사항은 변경되지 않습니다.
+ms.openlocfilehash: d1f304936d184dc30826d6e60552d4e186bb2a41
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036443"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467185"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online Archiving의 클라이언트 기능
 
-Microsoft Exchange Online 보관 사용자가 다양 한 장치 및 플랫폼에서에서 보관 사서함에 연결할 수 있습니다. 인터넷을 통해 사용자의 보관을 모든 네트워크 연결에 발생 하 고 가상 사설망 (VPN) 연결이 필요 하지 않습니다. 조직에서는 사용자가 VPN 연결을 요구 하지 않고 사용 하면 외부에서 Outlook 사용을 통해 기본 사서함에 액세스할 수 있도록 온-프레미스 클라이언트 액세스 서버를 게시할 수 있습니다. VPN 액세스 온-프레미스 서버에 있는 사용자의 기본 사서함에 액세스 해야하는 경우에이 요구 사항이 변경 되지 않습니다.
+Microsoft Exchange Online 보관을 통해 사용자는 다양 한 장치 및 플랫폼에서 보관 사서함에 연결할 수 있습니다. 사용자의 보관 사서함에 대한 모든 네트워크 연결은 인터넷을 통해 수행되므로 VPN(가상 사설망) 연결은 필요하지 않습니다. 조직은 사용자가 VPN 연결을 사용하지 않고도 외부에서 Outlook 사용 를 통해 기본 사서함에 액세스할 수 있도록 온-프레미스 클라이언트 액세스 서버를 게시할 수 있습니다. 온-프레미스 서버에 있는 사용자의 기본 사서함에 액세스하기 위해 VPN 액세스가 필요한 경우에도 이 요구 사항은 변경되지 않습니다.
   
 > [!IMPORTANT]
 > Microsoft는 Exchange Online Archiving 서비스 상태를 악화시키는 모든 클라이언트 소프트웨어로부터의 연결을 차단하거나 제한할 수 있는 권한을 보유합니다. 
@@ -50,15 +50,15 @@ Outlook 2007은 보관 사서함을 기본적으로 지원하지만 일부 보�
 |:-----|:-----|
 |Outlook 2010 이상  <br/> |Exchange Online Archiving의 최신 기능 지원<sup>1</sup> <br/> |
 |Outlook 2007  <br/> |Exchange Online Archiving과 함께 사용할 수 있도록 지원<sup>1,2</sup> <br/> |
-|Outlook 2003  <br/> |지원되지 않음  <br/> |
-|Outlook for Mac 2011  <br/> |지원되지 않음  <br/> |
-|Outlook for Mac  <br/> |Exchange Online 보관에 사용 하기 위한 지원 합니다. <sup>3</sup> <br/> |
-|Microsoft Office Entourage 2008 Web Services Edition  <br/> |지원되지 않음  <br/> |
-|IMAP 및 POP  <br/> |지원되지 않음  <br/> |
+|Outlook 2003  <br/> |exExchange2k7 이하 버전  <br/> |
+|Outlook for Mac 2011  <br/> |exExchange2k7 이하 버전  <br/> |
+|Outlook for Mac  <br/> |Exchange Online 보관에 사용할 수 있도록 지원 됩니다. <sup>3</sup> <br/> |
+|Microsoft Office Entourage 2008 Web Services Edition  <br/> |exExchange2k7 이하 버전  <br/> |
+|IMAP 및 POP  <br/> |exExchange2k7 이하 버전  <br/> |
 |Exchange ActiveSync(모바일 장치)  <br/> |지원되지 않음  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 에 포함 된 Microsoft Office 표준 outlook 지원 되지 않습니다. 자세한 내용을 보려면, [개인 보관 함 및 보존 정책에 대 한 라이선스 요구 사항](https://go.microsoft.com/fwlink/?LinkId=389396)을 참조 하십시오. > <sup>2</sup> 보관 지원을 활성화 하려면 업데이트를 설치 해야 합니다. Outlook 2007 사용자 수는 없습니다 보기 또는 보존을 적용 또는 보관 보관 사서함;의 항목에 대 한 정책 관리자가 프로 비전 정책에 의존 합니다. 또한 Outlook 2007 사용자는 온-프레미스 사서함과 동시에 보관 파일을 검색할 수 없습니다. > <sup>3</sup> 를 사용 하 여 Outlook 2016 Mac 또는 Mac에 대 한 Outlook에 대 한 이동 또는 복사 폴더, 일정 항목, 연락처, 작업 또는 슬라이드 노트에서 보관을 또는 항목은 Outlook (다른 버전을 사용 하 여 이전에 이동 된 경우 보관 사서함에서 볼 수는 없습니다 같은 Outlook 2016 Windows 용). 자세한 내용은 [Mac 용 Outlook 2016와 온라인 보관 사용](https://support.office.com/en-us/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238)을 참조 하십시오. 
+> <sup>1</sup> Microsoft Office Standard에 포함된 Outlook은 지원되지 않습니다. 자세한 내용은 [개인 보관함 및 보존 정책에 대한 라이선스 요구 사항](https://go.microsoft.com/fwlink/?LinkId=389396)을 참조하세요. > <sup>2</sup> 보관을 지원하도록 설정하려면 업데이트가 필요합니다. Outlook 2007 사용자는 보관 사서함에 있는 항목에 대한 보존 또는 보관 정책을 보거나 적용할 수 없고, 관리자가 프로비저닝한 정책을 사용해야 합니다. 또한 Outlook 2007 사용자는 온-프레미스 사서함과 보관 사서함을 동시에 검색할 수 없습니다. > <sup>3</sup> 다른 outlook 버전을 사용 하 여 이전에 항목을 이동한 적이 있는 경우에는 mac 용 outlook 2016 또는 mac 용 outlook을 사용 하 여 폴더, 일정 항목, 연락처, 작업 또는 메모를 보관 사서함으로 이동 하거나 복사할 수 있습니다. Outlook 2016 for Windows) 자세한 내용은 [Mac 용 Outlook 2016에서 온라인 보관 함 사용](https://support.office.com/en-us/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238)을 참조 하세요. 
   
 ## <a name="outlook-web-app"></a>Outlook Web App
 

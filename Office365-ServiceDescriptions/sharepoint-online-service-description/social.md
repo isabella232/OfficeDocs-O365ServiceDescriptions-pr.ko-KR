@@ -1,7 +1,7 @@
 ---
 title: 소셜
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 207c5829-0ba9-440a-a602-1222458fb479
-description: Microsoft SharePoint Online은 웹 기반 도구 및 기술, 저장 하 고, 공유 하 고, 디지털 정보를 관리 하 여 조직에 도움이 되는의 컬렉션입니다. Microsoft SharePoint Server 2013을 기반으로 구축,이 호스트 된 서비스, 프로젝트 작업을 수행 하 고, 중앙 위치에 데이터와 문서를 저장 하 고, 다른 사용자와 정보를 공유 하에 이상적입니다. 다음과 같은 공유 기능 사용 하 여 가장 효과적인 있는 방식으로 함께 작동 하는 사용자를 수 있습니다. 어떻게 합니까? 누구나 아이디어를 공유할 수를 사용할 수 있는 훌륭한 공동 작업 도구를 제공 하 여 사용자 및 전문 분야, 및 위치 비즈니스 정보를 찾아봅니다.
-ms.openlocfilehash: 3e964ef776b8df36700964463eaeeb2557288ce6
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013에 빌드된 이 서비스는 프로젝트 작업, 중앙에서 데이터 및 문서 저장, 다른 사람과 정보 공유에 이상적입니다. 다음과 같은 소셜 기능을 사용 하면 사용자가 가장 효율적인 방식으로 함께 작업할 수 있습니다. 미치는? 누구나 아이디어를 공유 하 고, 사람과 전문 지식을 찾고, 위치 비즈니스 정보를 찾는 데 사용할 수 있는 뛰어난 공동 작업 도구를 제공 합니다.
+ms.openlocfilehash: 7cfe67b7278af07c911ab5807b5fc5073a88d39f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036466"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466465"
 ---
 # <a name="social"></a>소셜
 
-Microsoft SharePoint Online은 웹 기반 도구 및 기술, 저장 하 고, 공유 하 고, 디지털 정보를 관리 하 여 조직에 도움이 되는의 컬렉션입니다. Microsoft SharePoint Server 2013을 기반으로 구축,이 호스트 된 서비스, 프로젝트 작업을 수행 하 고, 중앙 위치에 데이터와 문서를 저장 하 고, 다른 사용자와 정보를 공유 하에 이상적입니다. 다음과 같은 공유 기능 사용 하 여 가장 효과적인 있는 방식으로 함께 작동 하는 사용자를 수 있습니다. 어떻게 합니까? 누구나 아이디어를 공유할 수를 사용할 수 있는 훌륭한 공동 작업 도구를 제공 하 여 사용자 및 전문 분야, 및 위치 비즈니스 정보를 찾아봅니다. 
+Microsoft SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013에 빌드된 이 서비스는 프로젝트 작업, 중앙에서 데이터 및 문서 저장, 다른 사람과 정보 공유에 이상적입니다. 다음과 같은 소셜 기능을 사용 하면 사용자가 가장 효율적인 방식으로 함께 작업할 수 있습니다. 미치는? 누구나 아이디어를 공유 하 고, 사람과 전문 지식을 찾고, 위치 비즈니스 정보를 찾는 데 사용할 수 있는 뛰어난 공동 작업 도구를 제공 합니다. 
   
-## <a name="personal-blogs"></a>개인 블로그 (영문)
+## <a name="personal-blogs"></a>개인 블로그
 <a name="bkmk_Blogs"> </a>
 
 조직에서는 블로그를 통해 직원, 파트너 또는 고객 간에 빠르게 정보를 공유할 수 있습니다. 예를 들면 난해한 주제 영역에 대한 정보를 제시하거나, 자신의 영감이나 지침을 제공하거나, 새로운 지침이나 절차를 설명할 수 있습니다.
@@ -39,7 +39,7 @@ Microsoft SharePoint Online은 웹 기반 도구 및 기술, 저장 하 고, 공
 
 회사 피드는 조직의 공용 뉴스피드입니다. 팔로우하지 않는 사람들이 작성한 게시물을 포함하여 모든 게시물이 회사에 표시됩니다. 자세한 내용은 [회사 피드](https://go.microsoft.com/fwlink/p/?LinkId=271062)를 참조하세요.
   
-## <a name="site-feed-classic-team-site-using-sharepoint-social"></a>사이트 피드 (클래식 팀 사이트 SharePoint 공유를 사용 하 여)
+## <a name="site-feed-classic-team-site-using-sharepoint-social"></a>사이트 피드 (SharePoint 공유를 사용 하는 클래식 팀 사이트)
 <a name="bkmk_SiteFeed"> </a>
 
 뉴스피드와 유사한 사이트 피드는 정보를 게시하고 다른 게시물에 회신할 수 있는 팀 사이트 내의 위치입니다. 자세한 내용은 [소수의 사람들에게 정보 게시](https://go.microsoft.com/fwlink/p/?LinkId=271071)를 참조하세요.

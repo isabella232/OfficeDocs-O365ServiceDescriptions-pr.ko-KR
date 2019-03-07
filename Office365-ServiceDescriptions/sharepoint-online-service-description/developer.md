@@ -1,7 +1,7 @@
 ---
 title: 개발자
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
-description: SharePoint Online은 웹 기반 도구 및 기술, 저장 하 고, 공유 하 고, 디지털 정보를 관리 하 여 조직에 도움이 되는의 컬렉션입니다. Microsoft SharePoint Server 2013을 기반으로 구축,이 호스트 된 서비스, 프로젝트 작업을 수행 하 고, 중앙 위치에 데이터와 문서를 저장 하 고, 다른 사용자와 정보를 공유 하에 이상적입니다. 다음과 같은 기능 앱 및 SharePoint 기능을 확장 하는 솔루션을 구축 하려는 개발자를 지원 합니다.
-ms.openlocfilehash: e34ab0ca07fadb171a6e2fa52ec37daf7dcd60ac
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013에서 기본 제공되는 이 호스트 서비스는 프로젝트 작업, 중앙 위치에 데이터 및 문서 저장, 다른 사람과의 정보 공유에 이상적입니다. 다음 기능은 SharePoint 기능을 확장하기 위해 앱과 솔루션을 빌드하려는 개발자를 지원합니다.
+ms.openlocfilehash: 055f669be2703a562aae56f6a7bcda6f708c4de8
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036538"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467715"
 ---
 # <a name="developer"></a>개발자
 
-SharePoint Online은 웹 기반 도구 및 기술, 저장 하 고, 공유 하 고, 디지털 정보를 관리 하 여 조직에 도움이 되는의 컬렉션입니다. Microsoft SharePoint Server 2013을 기반으로 구축,이 호스트 된 서비스, 프로젝트 작업을 수행 하 고, 중앙 위치에 데이터와 문서를 저장 하 고, 다른 사용자와 정보를 공유 하에 이상적입니다. 다음과 같은 기능 앱 및 SharePoint 기능을 확장 하는 솔루션을 구축 하려는 개발자를 지원 합니다.
+SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013에서 기본 제공되는 이 호스트 서비스는 프로젝트 작업, 중앙 위치에 데이터 및 문서 저장, 다른 사람과의 정보 공유에 이상적입니다. 다음 기능은 SharePoint 기능을 확장하기 위해 앱과 솔루션을 빌드하려는 개발자를 지원합니다.
   
 ## <a name="access-services"></a>Access Services
 <a name="bkmk_AccessServices"> </a>
@@ -54,12 +54,12 @@ App Management Service 데이터베이스는 모든 SharePoint용 앱에 대한 
 ## <a name="bcs-app-scoped-external-content-types-ects"></a>BCS: 앱에서 범위가 지정된 ECT(외부 콘텐츠 형식)
 <a name="bkmk_AppScopedExternalContentTypes"> </a>
 
-SharePoint에서 새 응용 프로그램 모델도 Business Connectivity Services (BCS) 이제 범위를 지정할 수 팜 수준에서 대신 응용 프로그램 수준에서 외부 콘텐츠 형식입니다. 자신의 앱 내에서 외부 데이터를 사용할 수 있게 함으로써 앱 개발자를 위한 하 뛰어난 유연성을 제공이 있습니다. [앱 범위 외부 콘텐츠 형식에](https://go.microsoft.com/fwlink/?LinkId=271279)대해 알아봅니다.
+SharePoint에서 새 앱 모델을 추가 하면 BCS (Business Connectivity Services)에서 팜 수준이 아니라 앱 수준에서 외부 콘텐츠 형식의 범위를 지정할 수 있습니다. 이렇게 하면 앱 개발자가 자신의 앱 내에서 외부 데이터를 사용할 수 있으므로 유연성이 뛰어납니다. 자세한 내용은 [앱에서 범위가 지정된 외부 콘텐츠 형식](https://go.microsoft.com/fwlink/?LinkId=271279)을 참조하세요.
   
 ## <a name="bcs-business-data-web-parts"></a>BCS: 비즈니스 데이터 웹 파트
 <a name="bkmk_BCSBusinessDataWebparts"> </a>
 
-비즈니스 데이터 웹 파트는 외부 데이터와 작동 하는 특수 웹 파트입니다. 표준 SharePoint 웹 파트 처럼 사용 되는 되지만 외부 데이터에 대 한 연결의 XML 설명 하는 외부 콘텐츠 형식을 기반으로 합니다. 
+비즈니스 데이터 웹 파트는 외부 데이터로 작업 하는 특수 한 웹 파트입니다. 표준 SharePoint 웹 파트 처럼 사용 되지만 외부 데이터에 대 한 연결의 XML 설명 인 외부 콘텐츠 형식을 기반으로 합니다. 
   
 ## <a name="bcs-external-list"></a>BCS: 외부 목록
 <a name="bkmk_BCSExternalList"> </a>
@@ -116,7 +116,7 @@ SharePoint는 인라인 스크립트 또는 별도의 .js 파일에 사용할 Ja
 
 SharePoint용 앱에서 이벤트를 처리하려면 개발자는 원격 이벤트 수신기 및 앱 이벤트 수신기를 만들 수 있습니다. 원격 이벤트 수신기는 목록, 목록 항목 또는 웹 같은 앱의 항목에 발생하는 이벤트를 처리합니다. 자세한 내용은 [SharePoint용 앱에서 이벤트 처리](https://go.microsoft.com/fwlink/?LinkId=271735)를 참조하세요. 
   
-## <a name="rest-apis"></a>REST api (영문)
+## <a name="rest-apis"></a>REST api
 <a name="bkmk_RESTAPI"> </a>
 
 SharePoint 2013은 OData 프로토콜을 사용하여 SharePoint 목록 데이터에서 CRUD 작업을 수행하는 REST(REpresentational State Transfer) 웹 서비스의 구현을 제공합니다. JavaScript를 사용하지 않고 .NET Framework 또는 Microsoft Silverlight 플랫폼에서 구축되지 않은 클라이언트 기술로부터 SharePoint 데이터에 액세스해야 하는 경우 이 API를 사용합니다. 자세한 내용은 [SharePoint 2013 REST 서비스를 사용한 프로그래밍](https://go.microsoft.com/fwlink/?LinkId=271290)을 참조하세요.
@@ -136,20 +136,20 @@ SharePoint 2013은 OData 프로토콜을 사용하여 SharePoint 목록 데이�
 
 고급 사용자 및 개발자는 SharePoint Designer를 사용하여 비즈니스 요구에 부응하는 SharePoint 솔루션을 신속하게 만들 수 있습니다. 자세한 내용은 [개발자용 SharePoint Designer](https://go.microsoft.com/fwlink/?LinkId=271294)를 참조하세요.
   
-## <a name="sharepoint-framework"></a>SharePoint 프레임 워크
+## <a name="sharepoint-framework"></a>SharePoint 프레임워크
 <a name="bkmk_SharePointFramework"> </a>
 
-SharePoint 프레임 워크 (SPFx)은 SharePoint 데이터 및 오픈 소스 도구에 대 한 지원을 사용 하 여 클라이언트쪽 SharePoint 개발, 간편한 통합에 대 한 완벽 하 게 지원 제공 하는 페이지 및 웹 파트 모델입니다. [SharePoint 프레임 워크](https://go.microsoft.com/fwlink/?linkid=869276)에 대 한 자세한 내용은.
+SPFx(SharePoint Framework)는 클라이언트 쪽 SharePoint 개발에 대한 모든 지원, SharePoint 데이터와의 쉬운 통합 및 오픈 소스 도구에 대한 지원을 제공하는 페이지 및 웹 파트 모델입니다. [SharePoint Framework](https://go.microsoft.com/fwlink/?linkid=869276)에 대해 자세히 알아보세요.
   
-## <a name="sharepoint-2010-workflows-out-of-the-box"></a>SharePoint 2010 워크플로 (특별)
+## <a name="sharepoint-2010-workflows-out-of-the-box"></a>SharePoint 2010 워크플로 (이 상자에서 제외 됨)
 <a name="bkmk_Worflow2010outofthebox"> </a>
 
 SharePoint에 포함된 특별 워크플로를 사용하여 공통 비즈니스 프로세스를 모델링합니다.
   
-## <a name="sharepoint-2013-and-sharepoint-2016-workflows"></a>SharePoint 2013과 SharePoint 2016 워크플로
+## <a name="sharepoint-2013-and-sharepoint-2016-workflows"></a>sharepoint 2013 및 sharepoint 2016 워크플로
 <a name="bkmk_Workflow2013"> </a>
 
-SharePoint 2013 및 SharePoint 2016 워크플로 하 여 Windows WF Workflow Foundation 4 (), 된 크게 이전 버전에서 다시 디자인 하는 전원을 공급 합니다. 아마도 새 워크플로 인프라의 가장 많이 사용 되는 기능 사용 하는 Azure의 소개 워크플로 실행 호스트 합니다. [SharePoint에 대 한 워크플로의 새로운 기능](https://go.microsoft.com/fwlink/?LinkId=271297)에 대해 자세히 알아봅니다.
+sharepoint 2013 및 sharepoint 2016 워크플로는 WF (Windows Workflow Foundation 4)에 의해 구동 되며 이전 버전에서 크게 다시 디자인 되었습니다. 새 워크플로 인프라에서 가장 두드러진 특징은 워크플로 실행 호스트로 Azure를 도입 하는 것입니다. 자세한 내용은 [SharePoint 용 워크플로의 새로운 기능](https://go.microsoft.com/fwlink/?LinkId=271297)을 참고 하세요.
   
 ## <a name="feature-availability"></a>기능 가용성
 <a name="bkmk_Workflow2013"> </a>

@@ -1,7 +1,7 @@
 ---
 title: PowerPoint Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,21 +14,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: 'PowerPoint 온라인 (이전의: PowerPoint Web App) 확장 하는 웹 브라우저를 Microsoft PowerPoint 환경을 프레젠테이션 프레젠테이션을 저장 된 웹사이트에서 직접 사용할 수 있습니다. Microsoft Office 365 고객 Office Online에 보고 하 고, 작성 하 고 이동 중에 파일을 편집할 수 있습니다.'
-ms.openlocfilehash: 4d28ee4715ba55122b95588b5f0888bc0155245d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: powerpoint Online (이전의 powerpoint Web App)을 사용 하면 Microsoft powerpoint 환경을 웹 브라우저로 확장 하 여 프레젠테이션이 저장 된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있습니다. Office Online을 사용하는 Microsoft Office 365 고객은 어디에서나 파일을 보고, 만들고, 편집할 수 있습니다.
+ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036563"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467345"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
-PowerPoint 온라인 (이전의: PowerPoint Web App) 확장 하는 웹 브라우저를 Microsoft PowerPoint 환경을 프레젠테이션 프레젠테이션을 저장 된 웹사이트에서 직접 사용할 수 있습니다. Microsoft Office 365 고객 Office Online에 보고 하 고, 작성 하 고 이동 중에 파일을 편집할 수 있습니다.
+powerpoint Online (이전의 powerpoint Web App)을 사용 하면 Microsoft powerpoint 환경을 웹 브라우저로 확장 하 여 프레젠테이션이 저장 된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있습니다. Office Online을 사용하는 Microsoft Office 365 고객은 어디에서나 파일을 보고, 만들고, 편집할 수 있습니다.
   
 PowerPoint 편집기는 사용자가 충실도를 잃지 않고 문서 작업을 하는 데 사용할 수 있는 브라우저 기반 편집 공간을 만드는 웹 프런트 엔드 구성 요소입니다.
   
-PowerPoint 온라인 도구 모음에서 **PowerPoint에서 열기** 단추를 클릭 하는 경우 (Microsoft PowerPoint 2010 이상 컴퓨터에 설치) 하는 경우 프레젠테이션을 PowerPoint 데스크톱 응용 프로그램에서 열립니다. 
+powerpoint Online 도구 모음에서 **powerpoint에서 열기** 단추를 클릭 하면 프레젠테이션이 powerpoint 데스크톱 앱에서 열립니다 (Microsoft PowerPoint 2010 이상이 컴퓨터에 설치 되어 있는 경우). 
   
 [비즈니스용 Office 365를 사용하여 PC에 Office 다운로드 및 설치](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c) 방법을 알아보세요.
   
@@ -185,7 +185,7 @@ PowerPoint Online에서 기본 제공 사전을 사용하여 맞춤법을 검사
 ## <a name="reviewer-tools---advanced"></a>검토자 도구-고급
 <a name="bkmk_AdvancedReviewerTools"> </a>
 
-PowerPoint Online에서 사용할 수 없습니다. 고급 검토자, 병합 충돌 및 비교 프레젠테이션와 같은 기능은 PowerPoint 데스크톱 응용 프로그램에서 사용할 수 있습니다. PowerPoint online 있습니다 수 보고, 추가, 편집 또는 메모를 삭제 합니다.
+PowerPoint Online에서는 사용할 수 없습니다. 충돌 병합 및 프레젠테이션 비교 같은 고급 검토자 기능은 PowerPoint 데스크톱 앱에서만 사용할 수 있습니다. PowerPoint Online에서는 설명을 보거나 추가 하거나 편집 하거나 삭제할 수 있습니다.
   
 ## <a name="rights-management-apply-and-consume-irm-and-password-protection"></a>권한 관리: IRM 및 암호 보호 적용 및 사용
 <a name="bkmk_CreationPasswords"> </a>
@@ -217,7 +217,7 @@ PowerPoint Online에 Word Art와 차트를 삽입할 수는 없지만, 해당 �
 
 PowerPoint Online에서는 슬라이드 쇼를 전체 화면 창으로 재생합니다. 스페이스바를 눌러서 슬라이드를 진행합니다. 슬라이드 애니메이션이 재생되지만 슬라이드 간에 페이드 및 닦아내기 전환만 지원됩니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
   
-## <a name="smartart"></a>SmartArt
+## <a name="smartart"></a>빠른
 <a name="bkmk_SmartArt"> </a>
 
 PowerPoint Online에서는 SmartArt를 삽입하고, 다른 레이아웃이나 색 구성표로 전환하며, SmartArt 스타일을 적용하고, 텍스트를 편집할 수 있습니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 시 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
@@ -227,7 +227,7 @@ PowerPoint Online에서는 SmartArt를 삽입하고, 다른 레이아웃이나 �
 
 PowerPoint Online에서 테이블을 만들고 편집할 수 있으며 PowerPoint Online에서는 대부분의 테이블 기능을 지원합니다. 셀 병합 및 분할와 같은 고급 기능은 PowerPoint 데스크톱 앱을 사용합니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
   
-## <a name="tell-me"></a>알림
+## <a name="tell-me"></a>표시
 <a name="Bkmk_TellMe_PPT"> </a>
 
 PowerPoint Online에서 수행해야 하는 작업이 있지만 방법을 모를 때 표시 검색 기능을 사용하면 원하는 내용을 빠르게 찾을 수 있습니다. 표시 기능을 사용하면 수행하려는 작업을 파악하고 제안 사항을 활용하여 작업 시간을 단축할 수 있습니다.
@@ -240,9 +240,9 @@ PowerPoint Online에서 수행해야 하는 작업이 있지만 방법을 모를
 ## <a name="view-and-add-comments"></a>설명 보기 및 추가
 <a name="bkmk_Viewaddcomments"> </a>
 
-SharePoint Online 또는 비즈니스용 OneDrive에 저장 된 파일 하는 경우 추가 수, 편집 또는 메모를 삭제 합니다. 
+파일이 SharePoint Online 또는 비즈니스용 OneDrive에 저장 되어 있는 경우 설명을 추가, 편집 또는 삭제할 수 있습니다. 
   
-파일 OneDrive에 저장 된 경우 추가, 편집 또는 편집 보기에서 메모를 삭제 하 고 보고 하 고 읽기 보기에서 메모를 업데이트할 수 있습니다.
+파일이 OneDrive에 저장 된 경우 편집 보기에 있는 동안 설명을 추가, 편집 또는 삭제할 수 있으며, 읽기용 보기에서 설명을 보고 업데이트할 수 있습니다.
   
 ## <a name="view-and-edit-slide-notes"></a>슬라이드 메모 보기 및 편집
 <a name="bkmk_Viewslidenotes"> </a>

@@ -1,7 +1,7 @@
 ---
 title: 사용자 계정 관리
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365에서는 사용자 만들기, 관리 및 인증을 위해 다음과 같은 방법을 지원 합니다.
-ms.openlocfilehash: 27c8cc588720eac081856bedf979a7b004a0d1ec
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: edb1f321761409eda0ae6b0e7180bc317f4a7bd5
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210281"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467745"
 ---
 # <a name="user-account-management"></a>사용자 계정 관리
 
@@ -49,7 +49,7 @@ ID 유형은 사용자 환경 및 사용자 계정 관리 옵션을 비롯해 �
   
 ### <a name="custom-domains-and-identity-options"></a>사용자 지정 도메인 및 ID 옵션
 
-새 사용자를 만들 때 사용자의 로그인 이름과 전자 메일 주소는 Microsoft 365 관리 센터에 설정 된 대로 기본 도메인에 할당 됩니다. 자세한 내용은 [Office 365에 사용자 및 도메인 추가](https://support.office.com/en-us/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)를 참조 하세요. 
+새 사용자를 만들 때 사용자의 로그인 이름과 전자 메일 주소는 Microsoft 365 관리 센터에 설정 된 대로 기본 도메인에 할당 됩니다. 자세한 내용은 [Office 365에 사용자 및 도메인 추가](https://support.office.com/en-us/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)를 참조하세요. 
   
 기본적으로 Office 365 구독은 계정과 함께 만들어진 \< _company name_\> **.onmicrosoft.com** 도메인을 사용합니다.\* onmicrosoft.com 도메인을 유지하지 않고 Office 365 에 하나 이상의 사용자 지정 도메인을 추가할 수 있으며, 사용자를 확인된 도메인 중 어디에서나 로그인할 수 있도록 할당할 수 있습니다. 각 사용자의 할당된 도메인은 보내고 받은 전자 메일 메시지에 표시되는 전자 메일 주소입니다. 
   
@@ -77,7 +77,7 @@ Office 365는 양식 기반 인증을 사용하며, 네트워크의 인증 트�
   
 ### <a name="multi-factor-authentication-for-office-365"></a>Office 365에 대한 다단계 인증
 
-Office 365\*에 대 한 다단계 인증을 사용 하는 경우 사용자는 암호를 올바르게 입력 한 후 smartphone에서 전화 통화, 문자 메시지 또는 앱 알림을 승인 해야 합니다. 이 두 번째 인증 후에만 사용자가 로그인 할 수 있습니다. Office 365 관리자는 Microsoft 365 관리 센터에서 사용자를 다단계 인증을 위해 등록할 수 있습니다. 자세한 내용은 [Office 365의 다단계 인증을](https://go.microsoft.com/fwlink/p/?LinkId=392429)참고 하세요.
+Office 365\*에 대한 다단계 인증을 사용하는 경우 올바른 암호를 입력한 후 스마트폰으로 전화 통화를 하거나 문자 메시지 또는 앱 알림을 확인해야 합니다. 이 두 번째 인증 과정을 거쳐야만 로그인 할 수 있습니다. Office 365 관리자는 Microsoft 365 관리 센터에서 사용자를 다단계 인증을 위해 등록할 수 있습니다. 자세한 내용은 [Office 365에 대한 다단계 인증 사용](https://go.microsoft.com/fwlink/p/?LinkId=392429)을 참조하세요.
   
 ### <a name="rich-client-authentication"></a>리치 클라이언트 인증
 
@@ -115,7 +115,7 @@ Office 365 서비스의 올바른 인증과 검색을 보장하려면 관리자�
   
 ## <a name="creating-user-accounts"></a>사용자 계정 만들기
 
-Office 365에 사용자를 추가 하는 방법에는 여러 가지가 있습니다. 자세한 내용은 [사용자를 개별적으로 또는 대량으로 Office 365-admin 도움말을 추가](https://go.microsoft.com/fwlink/p/?linkid=860006) 하 고 [Microsoft 365 관리 센터 미리 보기에서 사용자 추가, 제거 및 관리](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409)를 참조 하세요. 중국에서 21vianet에서 운영 하는 office 365을 사용 하는 경우 21vianet에서 운영 하는 [office 365에서 사용자 계정 만들기 또는 편집-관리자 도움말](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409)을 참조 하세요.
+여러 가지 방법으로 Office 365에 사용자를 추가할 수 있습니다. 자세한 내용은 [사용자를 개별적으로 또는 대량으로 Office 365-admin 도움말을 추가](https://go.microsoft.com/fwlink/p/?linkid=860006) 하 고 [Microsoft 365 관리 센터 미리 보기에서 사용자 추가, 제거 및 관리](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409)를 참조 하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 사용자 계정 만들기 또는 편집 - 관리자 도움말](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409)을 참조하세요.
   
 ## <a name="deleting-accounts"></a>계정 삭제
 
@@ -145,11 +145,11 @@ Office 365에 사용자를 추가 하는 방법에는 여러 가지가 있습니
   
 - **관리자가 암호 다시 설정** 사용자가 암호를 분실하거나 기억하지 못하는 경우 관리자가 Office 365 포털 또는 Windows PowerShell을 통해 사용자 암호를 다시 설정할 수 있습니다. 사용자가 기존 암호를 아는 경우에만 암호를 변경할 수 있습니다. 
     
-    엔터프라이즈 요금제의 경우 관리자가 암호를 분실 하거나 잊은 경우 전역 관리자 역할이 있는 다른 관리자가 Microsoft 365 관리 센터에서 또는 Windows PowerShell을 사용 하 여 관리자의 암호를 다시 설정할 수 있습니다. 자세한 내용은 [관리자 암호 다시 설정을](https://go.microsoft.com/fwlink/p/?LinkID=270062)참조 하십시오. 중국의 21vianet에서 운영 하는 office 365에서 작업 하는 경우 [21vianet에서 운영 하는 office 365에서 암호 변경 또는 재설정](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409)을 참조 하세요.
+    엔터프라이즈 요금제의 경우 관리자가 암호를 분실 하거나 잊은 경우 전역 관리자 역할이 있는 다른 관리자가 Microsoft 365 관리 센터에서 또는 Windows PowerShell을 사용 하 여 관리자의 암호를 다시 설정할 수 있습니다. 자세한 내용은 [관리자 암호 다시 설정](https://go.microsoft.com/fwlink/p/?LinkID=270062)을 참조하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 암호 변경 또는 재설정](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409)을 참조하세요.
     
 - **사용자가 Outlook Web App을 사용하여 암호 변경**Outlook Web App 옵션 페이지에는 사용자를 **암호 변경** 페이지로 리디렉션하는 암호 변경 하이퍼링크가 포함되어 있습니다. 사용자가 이전 암호를 알고 있어야 합니다. 자세한 내용은 [암호 변경](https://go.microsoft.com/fwlink/p/?LinkID=270063)을 참조하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 암호 변경 또는 재설정](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409)을 참조하세요.
     
-- **역할 기반 암호 초기화 권한** 엔터프라이즈 요금제의 경우 지원 센터 직원과 같은 인증 된 사용자는 전체 서비스 관리자가 되지 않고 Office 365 미리 정의 된 또는 사용자 지정 역할을 사용 하 여 **암호 다시 설정** 사용자 권한을 할당 하 고 암호를 변경할 수 있습니다. Enterprise 요금제에서는 기본적으로 전역 관리자, 암호 관리자 또는 사용자 관리 관리자 역할이 있는 관리자가 암호를 변경할 수 있습니다. 자세한 내용은 [관리자 역할 할당](https://go.microsoft.com/fwlink/p/?LinkID=270061)을 참조 하십시오.
+- **역할 기반 암호 다시 설정 권한** Enterprise 계획의 경우 기술 지원팀 직원과 같은 권한 있는 사용자에게는 완전한 서비스 관리자가 될 필요 없이 **암호 다시 설정** 사용자 권한 및 Office 365 사전 정의된 역할 또는 사용자 지정 역할을 통한 암호 변경 권한을 할당할 수 있습니다. 기본적으로 Enterprise 계획에서는 전역 관리자, 암호 관리자 또는 사용자 관리 관리자 역할을 가진 사용자가 암호를 변경할 수 있습니다. 자세한 내용은 [관리 역할 지정](https://go.microsoft.com/fwlink/p/?LinkID=270061)을 참조하세요.
     
 - **Windows PowerShell을 사용한 암호 다시 설정** 서비스 관리자는 Windows PowerShell을 사용하며 암호를 재설정할 수 있습니다. 
     
@@ -167,7 +167,7 @@ Office 365 대금 청구 관리자는 사용자 라이선스의 수 및 회사�
   
 ## <a name="group-management"></a>그룹 관리
 
-SharePoint Online에서 보안 그룹을 사용 하 여 사이트에 대 한 액세스를 제어 합니다. 보안 그룹은 Microsoft 365 관리 센터에서 만들 수 있습니다. 보안 그룹에 대 한 자세한 내용은 [보안 그룹 만들기, 편집 또는 삭제](http://go.microsoft.com/fwlink/?LinkID=733611&amp;clcid=0x409)를 참조 하세요.
+SharePoint Online에서는 사이트 액세스 제어를 위해 보안 그룹을 사용합니다. 보안 그룹은 Microsoft 365 관리 센터에서 만들 수 있습니다. 보안 그룹에 대한 자세한 내용은 [보안 그룹 만들기, 편집 또는 삭제](http://go.microsoft.com/fwlink/?LinkID=733611&amp;clcid=0x409)를 참조하세요.
   
 ## <a name="administrator-roles"></a>관리자 역할
 

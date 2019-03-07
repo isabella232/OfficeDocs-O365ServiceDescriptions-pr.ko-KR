@@ -1,7 +1,7 @@
 ---
 title: 작업 관리
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,21 +12,21 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
-description: 다음 작업 관리 기능을 Project Online에서 사용할 수 있습니다.
-ms.openlocfilehash: e646577d086d0d1a024d4f6705bc54c8b4f1fcdd
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Project Online에서는 다음과 같은 작업 관리 기능을 사용할 수 있습니다.
+ms.openlocfilehash: 5d83b81be8b31518b640e016f827becc6e592151
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036458"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468195"
 ---
 # <a name="task-management"></a>작업 관리
 
-다음 작업 관리 기능을 Project Online에서 사용할 수 있습니다.
+Project Online에서는 다음과 같은 작업 관리 기능을 사용할 수 있습니다.
   
 모든 Project Online 기능에 대한 정보를 원하십니까? [Project Online 서비스 설명](project-online-service-description.md)을 참조하세요.
   
-## <a name="active-and-inactive-tasks"></a>활성 및 비활성 작업
+## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 <a name="bkmk_ActiveInactiveTasks"> </a>
 
 작업을 비활성화하더라도 프로젝트 계획에 남아 있으며 리소스 가용성, 프로젝트 일정 또는 다른 작업의 예약 방법에 영향을 주지 않습니다. 자세한 내용은 [작업 비활성화](https://go.microsoft.com/fwlink/p/?LinkId=271335)를 참조하세요.
@@ -41,7 +41,7 @@ ms.locfileid: "24036458"
 
 자동 예약 모드를 사용하여 작업을 자동으로 예약합니다. 자세한 내용은 [Project의 작업 예약 방법](https://go.microsoft.com/fwlink/p/?LinkId=271331)을 참조하세요. 
   
-## <a name="calendar-date-extended-to-2149"></a>2149로 확장된 달력 날짜
+## <a name="calendar-date-extended-to-2149"></a>Calendar date extended to 2149
 <a name="bkmk_Calendardatextended"> </a>
 
 이제 프로젝트 작업에 2149년까지의 달력 날짜를 사용할 수 있습니다. 
@@ -61,12 +61,12 @@ ms.locfileid: "24036458"
 
 프로젝트 전체에서 작업 경로를 강조 표시하여 한 작업이 다른 작업에 연결되는 방식을 확인합니다. 자세한 내용은 [작업과 다른 작업의 연결 상태 강조 표시](https://go.microsoft.com/fwlink/p/?LinkId=271345)를 참조하세요.
   
-## <a name="top-down-summary-tasks"></a>하향식 요약 작업
+## <a name="top-down-summary-tasks"></a>Top-down summary tasks
 <a name="bkmk_Topdownsummarytasks"> </a>
 
 요약 작업에 리소스 배정을 만듭니다. 자세한 내용은 [하향식 계획](https://go.microsoft.com/fwlink/p/?LinkId=271333)을 참조하세요.
   
-## <a name="update-progress"></a>진행률 업데이트
+## <a name="update-progress"></a>Update progress
 <a name="bkmk_Updateprogress"> </a>
 
 작업의 진행률을 업데이트하여 완료된 비율을 나타냅니다.
