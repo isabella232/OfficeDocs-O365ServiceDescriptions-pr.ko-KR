@@ -3,7 +3,7 @@ title: 서비스 상태 및 연속성
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 03/12/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 관리자는 서비스 상태를 보고 유지 관리 예정 시간을 확인할 수 있습니다. 서비스 상태 정보는 언제 든 지 Office 365에 로그인 하 여 사용할 수 있습니다.
-ms.openlocfilehash: 010d93d70ce69717d4b02e752fcafc7734851b5e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
+ms.sourcegitcommit: 61351f48b8662ed5b39b9cce896dd6bb2db0fe32
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466955"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30574142"
 ---
 # <a name="service-health-and-continuity"></a>서비스 상태 및 연속성
 
@@ -40,7 +40,25 @@ Office 365의 서비스 상태 섹션에는 서비스의 현재 상태와 서비
 - **계획 된 유지 관리 이벤트:** 계획 된 유지 관리는 인프라 및 소프트웨어 응용 프로그램에 대해 Microsoft에서 시작 하는 정기적인 서비스 업데이트입니다. 계획 된 유지 관리 알림은 Office 365 서비스의 기능에 영향을 줄 수 있는 서비스 작업을 고객에 게 알려 줍니다. Office 365 관리 포털에서 메시지 센터를 통해 계획 된 모든 유지 관리의 이전 단계를 진행 하는 동안 5 일 이내에 고객에 게 알림이 제공 됩니다. Microsoft는 일반적으로 지역 표준 시간대에 따라 가장 낮은 시간에 서비스를 사용 하는 시간에 대 한 유지 관리 계획을 수립 합니다. 
     
 - **계획되지 않은 가동 중지 시간:** 계획되지 않은 서비스 인시던트는 Office 365 제품군에 사용할 수 없거나 응답이 없는 서비스가 있을 때 발생합니다. 
-    
+
+### <a name="recent-worldwide-uptimes"></a>최근 전 세계 운용을
+
+클라우드 서비스로 전환 해도 어떤 일이 진행 되 고 있는지 알 수 없는 것은 아닙니다. Office 365에서는 그렇지 않습니다. 이 작업에서는 서비스의 상태를 모니터링 하 고, 문제를 추적 하 고, 사용 가능한 기록 보기를 사용할 수 있도록 작업이 명확 하 게 진행 되 고 있습니다. 다음 표에는 최근 전 세계 가동 시간 데이터가 나와 있습니다.
+
+<br/>
+
+|**2018** <br/>||||
+|:-----|:-----|:-----|:-----|
+| **사분기** <br/> | **2006** <br/> |**만들고** <br/> |**Q4** <br/> |
+| 99.99% <br/> | 99.98% <br/> | 99.97% <br/> | 99.98% <br/> |
+
+<br/>
+
+|**2017** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **사분기** <br/> | **2006** <br/> |**만들고** <br/> |**Q4** <br/> |
+| 99.99% <br/> | 99.97% <br/> | 99.98% <br/> | 99.99% <br/> |
+
 ## <a name="notification-policy"></a>알림 정책
 
 서비스 인시던트가 발생하면 Microsoft는 고객을 위해 시기 적절하고 대상이 지정된 정확한 커뮤니케이션이 필요한 상황이라는 것을 알게 됩니다. Microsoft는 office 365 관리 포털에서 SHD (테 넌 트 관련 서비스 상태 대시보드)를 업데이트 하 여 office 365 관리자에 게 알립니다. 서비스 인시던트 업데이트는 시간별 흐름에 제공 되거나, 다른 흐름을 필요로 하는 경우에는 SHD 통신 게시에 명시 됩니다. 
