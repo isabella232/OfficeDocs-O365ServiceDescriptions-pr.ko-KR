@@ -3,7 +3,7 @@ title: 'Office 365 서비스 설명 '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/26/2018
+ms.date: 03/14/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365는 강력한 보안, 안정성 및 사용자 생산성에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되도록 설계 된 클라우드 기반 서비스입니다.
-ms.openlocfilehash: abf2ca2eb13bc5830bb5520836aebc66aa55bc1f
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 631ba72fce2e09465244be20f0587476af0d56cb
+ms.sourcegitcommit: 2bfe568fee1abb958ba6546a79bb27c01325ee9f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466695"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "30641443"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 서비스 설명 
 
@@ -58,6 +58,8 @@ Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365�
 - [비즈니스용 Skype Online 서비스 설명](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
     
 - [직장 분석 서비스 설명](workplace-analytics-service-description.md)
+
+- [myanalytics 서비스 설명](mya-service-description.md)
     
 - [Power BI 서비스 설명](power-bi-service-description.md)
     
