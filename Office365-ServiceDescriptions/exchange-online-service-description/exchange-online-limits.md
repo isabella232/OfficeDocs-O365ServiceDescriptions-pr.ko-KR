@@ -3,7 +3,7 @@ title: Exchange Online 제한
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 02/21/2019
+ms.date: 03/18/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: 0291609bedf605177719847f36438d2a19020a60
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ee23a4b17807d6df80d853b7b460820a020aec99
+ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467685"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30641473"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -269,14 +269,14 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |메시지 크기 제한 - Outlook  <br/> |150MB<sup>1, 2</sup> <br/> |150MB<sup>1, 2</sup> <br/> |150MB<sup>1, 2</sup> <br/> |150MB<sup>1, 2</sup> <br/> |150MB<sup>1, 2</sup> <br/> |150MB<sup>1, 2</sup> <br/> |
 |메시지 크기 제한 - OWA  <br/> |112MB<sup>1, 3</sup> <br/> |112MB<sup>1, 3</sup> <br/> |112MB<sup>1, 3</sup> <br/> |112MB<sup>1, 3</sup> <br/> |112MB<sup>1, 3</sup> <br/> |112MB<sup>1, 3</sup> <br/> |
 |메시지 크기 제한 - Outlook for Mac  <br/> |150MB<sup>1, 2</sup> <br/> |150MB<sup>1, 2</sup> <br/> |150MB<sup>1, 2</sup> <br/> |150MB<sup>1, 2</sup> <br/> |150MB<sup>1, 2</sup> <br/> |150MB<sup>1, 2</sup> <br/> |
-|메시지 크기 제한 - 마이그레이션  <br/> |150MB <sup>4</sup> <br/> |150MB <sup>4</sup> <br/> |150MB <sup>4</sup> <br/> |150MB <sup>4</sup> <br/> |150MB <sup>4</sup> <br/> |150MB <sup>4</sup> <br/> |
-|암호화된 메시지의 크기 제한(새 기능에 Office 365 메시지 암호화를 사용하는 구독자)<sup>5</sup> <br/> |150MB  <br/> |150MB   <br/> |150MB   <br/> |150MB   <br/> |150MB   <br/> |150MB  <br/> |
+|메시지 크기 제한 - 마이그레이션  <br/> |150 MB <sup>1, 4</sup> <br/> |150 MB <sup>1, 4</sup> <br/> |150 MB <sup>1, 4</sup> <br/> |150 MB <sup>1, 4</sup> <br/> |150 MB <sup>1, 4</sup> <br/> |150 MB <sup>1, 4</sup> <br/> |
+|암호화된 메시지의 크기 제한(새 기능에 Office 365 메시지 암호화를 사용하는 구독자)<sup>5</sup> <br/> |150MB   <br/> |150MB   <br/> |150MB   <br/> |150MB   <br/> |150MB   <br/> |150MB  <br/> |
 |암호화된 메시지의 크기 제한(Office 365 메시지 암호화 레거시 버전을 사용하는 구독자)<sup>5</sup> <br/> |25MB  <br/> |25MB   <br/> |25MB   <br/> |25MB   <br/> |25MB   <br/> |25MB  <br/> |
 |제목 길이 제한  <br/> |255자  <br/> |255자  <br/> |255자  <br/> |255자  <br/> |255자  <br/> |255자  <br/> |
 |파일 첨부 제한  <br/> |250개 첨부 파일  <br/> |250개 첨부 파일  <br/> |250개 첨부 파일  <br/> |250개 첨부 파일  <br/> |250개 첨부 파일  <br/> |250개 첨부 파일  <br/> |
 |첨부 파일 크기 제한 - Outlook  <br/> |150MB   <br/> |150MB   <br/> |150MB   <br/> |150MB   <br/> |150MB   <br/> |150MB  <br/> |
 |첨부 파일 크기 제한 - OWA <sup>6</sup> <br/> |35MB  <br/> |35MB  <br/> |35MB  <br/> |35MB  <br/> |35MB  <br/> |35MB  <br/> |
-|첨부 파일 크기 제한 - Outlook for Mac  <br/> |150MB   <br/> |150MB   <br/> |150MB   <br/> |150MB   <br/> |150MB   <br/> |150MB  <br/> |
+|첨부 파일 크기 제한 - Outlook for Mac  <br/> |150MB  <br/> |150MB   <br/> |150MB   <br/> |150MB   <br/> |150MB   <br/> |150MB  <br/> |
 |여러 부분으로 구성된 메시지 제한  <br/> |250개 부분  <br/> |250개 부분  <br/> |250개 부분  <br/> |250개 부분  <br/> |250개 부분  <br/> |250개 부분  <br/> |
 |포함 메시지 수준 제한  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |
    
@@ -416,8 +416,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |**기능** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |최대 메일 그룹 구성원 수<sup>1</sup> <br/> |구성원 100,000명  <br/> |구성원 100,000명  <br/> |구성원 100,000명  <br/> |구성원 100,000명  <br/> |구성원 100,000명  <br/> |구성원 100,000명  <br/> |
 |큰 메일 그룹에 메시지 보내기 제한  <br/> |구성원 5,000명 이상  <br/> |구성원 5,000명 이상  <br/> |구성원 5,000명 이상  <br/> |구성원 5,000명 이상  <br/> |구성원 5,000명 이상  <br/> |구성원 5,000명 이상  <br/> |
-|10만 구성원에 5000 메일 그룹의 최대 메시지 크기  <br/> |25MB  <br/> |25MB  <br/> |25MB  <br/> |25MB  <br/> |25MB  <br/> |25MB  <br/> |
-|10만 이상의 구성원이 포함 된 메일 그룹의 최대 메시지 크기  <br/> |5MB  <br/> |5MB  <br/> |5MB  <br/> |5MB  <br/> |5MB  <br/> |5MB  <br/> |
+|99999 구성원에 5000 메일 그룹의 최대 메시지 크기  <br/> |25MB  <br/> |25MB  <br/> |25MB  <br/> |25MB  <br/> |25MB  <br/> |25MB  <br/> |
+|10만 구성원이 포함 된 메일 그룹의 최대 메시지 크기  <br/> |5MB  <br/> |5MB  <br/> |5MB  <br/> |5MB  <br/> |5MB  <br/> |5MB  <br/> |
 |최대 메일 그룹 소유자 수  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |
 |사용자가 만들 수 있는 최대 그룹 수  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
@@ -464,8 +464,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |**기능** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |최대 저널 규칙 수  <br/> |10개 규칙  <br/> |10개 규칙  <br/> |10개 규칙  <br/> |10개 규칙  <br/> |10개 규칙  <br/> |10개 규칙  <br/> |
 |최대 전송 규칙 수  <br/> |300개 규칙  <br/> |300개 규칙  <br/> |300개 규칙  <br/> |300개 규칙  <br/> |300개 규칙  <br/> |300개 규칙  <br/> |
-|개별 전송 규칙의 최대 크기  <br/> |8 KB  <br/> |8KB  <br/> |8KB  <br/> |8KB  <br/> |8KB  <br/> |8KB  <br/> |
-|모든 전송 규칙에서 사용되는 모든 정규식의 문자 제한  <br/> |20 KB  <br/> |20KB  <br/> |20KB  <br/> |20KB  <br/> |20KB  <br/> |20KB  <br/> |
+|개별 전송 규칙의 최대 크기  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |8KB  <br/> |
+|모든 전송 규칙에서 사용되는 모든 정규식의 문자 제한  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |20KB  <br/> |
 |첨부 파일 내용 검사 제한  <br/> |1MB  <br/> |1MB  <br/> |1MB  <br/> |1MB  <br/> |1MB  <br/> |1MB  <br/> |
 |모든 전송 규칙에 의해 메시지에 추가되는 최대 받는 사람 수  <br/> |받는 사람 100명  <br/> |받는 사람 100명  <br/> |받는 사람 100명  <br/> |받는 사람 100명  <br/> |받는 사람 100명  <br/> |받는 사람 100명  <br/> |
 |전달받는 사람 제한  <br/> |받는 사람 10명  <br/> |받는 사람 10명  <br/> |받는 사람 10명  <br/> |받는 사람 10명  <br/> |받는 사람 10명  <br/> |받는 사람 10명  <br/> |

@@ -3,7 +3,7 @@ title: Microsoft 365 Business Service 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 02/27/2019
+ms.date: 03/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 business는 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 제공 하는 Office 365의 최고급 생산성을 함께 제공 하는 통합 솔루션입니다. . 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다. office 365에 대 한 자세한 내용은 office 365 서비스 설명을 참조 하세요.
-ms.openlocfilehash: f9b6983eb299eef24935f2e784a23b6b7863e8e1
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 8337eb102ccf0e54df90501791de29d80aa2ca9e
+ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467945"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30641483"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business Service 설명
 
@@ -35,7 +35,7 @@ office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
 |Exchange Online  <br/> |예<sup>1</sup> <br/> |예<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |
-|비즈니스용 Skype 온라인  <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |
+|비즈니스용 Skype Online  <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |
 |Office Online  <br/> |예  <br/> |예  <br/> |
 |Office 응용 프로그램  <br/> |예  <br/> |예  <br/> |
 |Project Online  <br/> |<sup>3</sup> 없음 <br/> |<sup>3</sup> 없음 <br/> |
@@ -132,11 +132,11 @@ office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
 |SLA 99.9%  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Advanced Threat Analytics  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |**장치 및 응용 프로그램 관리 기능** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|MDM (모바일 장치 관리)<sup>15</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|MDM (모바일 장치 관리)<sup>15</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |MDM (모바일 장치 관리) 자동 등록  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|Office 앱 및 LOB 앱에 대 한 MAM (모바일 응용 프로그램 관리)<sup>15</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|Office 앱 및 LOB 앱 용 MAM (모바일 응용 프로그램 관리)<sup>17</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |Windows 업데이트 관리, Defender, 방화벽 정책<sup>15</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|데이터 보호-선택적 지우기  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|데이터 보호-선택적 지우기  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |정책에 대 한 대상 SG (보안 그룹)  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |등록 한 Windows 10 장치에 Office 앱 설치  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |Windows Defender 구성  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
@@ -173,6 +173,8 @@ office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
 <br/><sup>10</sup> 용어 할인을 사용 하 여 구매한 좌석을 초기 종결 수수료에 따라 줄일 수 있습니다. This is not applicable for subscriptions paid on a monthly basis. 
 <br/><sup>11</sup> Microsoft 365 Business에는 Exchange Online 보관 구독이 포함 되어 있습니다. 각 Exchange Online Archiving 구독자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=863320)를 참조하세요. 
 <br/><sup>12</sup> 자세한 내용은 [고객 키를 사용 하 여 Office 365에서 데이터 제어](https://go.microsoft.com/fwlink/?linkid=863349)를 참조 하세요. 
-<br/><sup>13</sup> Advanced eDiscovery는 미국 및 유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.) <br/>[https://securescore.office.com](https://securescore.office.com) <sup>14 인치</sup> 관리자 권한이 있어야 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://go.microsoft.com/fwlink/?linkid=863490)를 참조 하세요.
-<br/>Microsoft 365 비즈니스 콘솔에 기본적으로 제공 되는 <sup>15</sup> 개의 단순화 된 Windows 10 장치 관리입니다. iOS, Android, macos 및 기타 플랫폼 간 장치 관리에 대 한 전체 Intune 기능 (Azure console에 기본 제공 됨) 또한 Microsoft 365 Business에 사용 하도록 허가 되었습니다. 타사 앱 및 WiFi 프로필, VPN 인증서 등의 항목을 구성 하는 것은 전체 Intune 콘솔에서 관리할 수 있습니다. <br/>
-<sup>16</sup> 이 계획은 비디오 포털, 음성 텍스트 기록, 딥 검색 및 얼굴 검색을 포함 하는 Microsoft Stream 요금제 2와 함께 제공 됩니다.
+<br/><sup>13</sup> Advanced eDiscovery는 미국 및 유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.)
+<br/>[https://securescore.office.com](https://securescore.office.com) <sup>14 인치</sup> 관리자 권한이 있어야 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://go.microsoft.com/fwlink/?linkid=863490)를 참조 하세요.
+<br/>Microsoft 365 관리 센터에 기본적으로 제공 되는 <sup>15</sup> 개의 간소화 된 Windows 10 장치 관리 Intune, Android, macos 및 기타 플랫폼 간 장치 관리 기능 (장치 관리 관리 센터에 기본 제공 됨) 또한 Microsoft 365 Business에 사용 하도록 허가 되었습니다. 타사 앱 및 WiFi 프로필 및 VPN 인증서와 같은 항목의 구성은 장치 관리 관리 센터 에서도 관리할 수 있습니다. 
+<br/><sup>16</sup> 이 계획은 비디오 포털, 음성 텍스트 기록, 딥 검색 및 얼굴 검색을 포함 하는 Microsoft Stream 요금제 2와 함께 제공 됩니다.
+<br/><sup>17</sup> Microsoft 365 관리 센터에 기본 제공 되는 간소화 된 Windows 10 장치 관리 및 Intune 앱 보호 정책
