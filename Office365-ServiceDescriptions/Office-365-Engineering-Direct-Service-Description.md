@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 엔지니어링 Direct는 Microsoft 프리미어 지원 계약에 대 한 엔터프라이즈 수준의 지원 서비스 추가 기능입니다. Office 365 기술팀 Direct Service 설명에는 제공 되는 기능과 구현 요구 사항에 대 한 추가 정보가 포함 되어 있습니다.
-ms.openlocfilehash: 110e7c1448a994dec7f495b63e14490a1d4fd7f4
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 628d705e6b5c762ee619c7034f5c86f48e26f19d
+ms.sourcegitcommit: 83cfa1d7892cb6b8fb91ac28ce0182fe786b6810
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467895"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "30867924"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Office 365 기술팀 Direct 서비스 설명
 
-Office 365 엔지니어링 Direct는 Microsoft 프리미어 지원 계약에 대 한 엔터프라이즈 수준의 지원 서비스 추가 기능입니다. [Office 365 기술팀 Direct Service 설명](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(11dec2018).pdf) 에는 제공 되는 기능과 구현 요구 사항에 대 한 추가 정보가 포함 되어 있습니다.
+Office 365 엔지니어링 Direct는 Microsoft 프리미어 지원 계약에 대 한 엔터프라이즈 수준의 지원 서비스 추가 기능입니다. [Office 365 기술팀 Direct Service 설명](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(25mar2019).pdf) 에는 제공 되는 기능과 구현 요구 사항에 대 한 추가 정보가 포함 되어 있습니다.
 
 office 365 엔지니어링 Direct 제공을 새 고객으로 취득 하려면 조직에서 Microsoft 프리미어 지원 서비스에 가입 하 고, Office 365 서비스용 대규모 엔터프라이즈 분류 수준을 충족 하 고, 지원 계약 추 록을 실행 해야 합니다. 추가 된 서비스 제품군에 대 한 추가 비용이 적용 됩니다. Microsoft 계정 팀 담당자에 게 문의 하 여 지원 계약 상태를 확인 하 고 계약 변경 사항을 시작 하 여 지원 서비스를 보호 합니다. 
 
