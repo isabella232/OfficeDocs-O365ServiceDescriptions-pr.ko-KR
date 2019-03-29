@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다. Exchange Online Protection을 제공하는 계획 목록과 계획 간 기능 비교가 포함되어 있습니다.
-ms.openlocfilehash: 7232e2ab40e7041913982e043c3e1d4e162b255a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: b90b480df4fb4116ab75f5d25428be86a9395ae0
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467675"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955767"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 서비스 설명
 
@@ -94,7 +94,7 @@ EOP의 제한은 [Exchange Online Protection 제한](exchange-online-protection-
 |[DBEB(디렉터리 기반 Edge 차단)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[전송 규칙](messaging-policy-and-compliance-servicedesc.md#transport-rules) <br/> |예 <sup>3, 4, 14</sup> <br/> |예 <sup>3, 4, 14</sup> <br/> |예  <br/> |
 |[감사 로깅](messaging-policy-and-compliance-servicedesc.md#audit-logging) <br/> |예<sup>5</sup> <br/> |예  <br/> |예  <br/> |
-|[DLP(데이터 손실 방지)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp) <br/> |아니요  <br/> |예  <br/> |예<sup>6</sup> <br/> |
+|[DLP(데이터 손실 방지)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp) <br/> |아니요  <br/> |있음  <br/> |예<sup>6</sup> <br/> |
 |[Office 365 메시지 암호화](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption) <br/> |예<sup>12</sup> <br/> |예  <br/> |예<sup>12</sup> <br/> |
 |[스팸 방지 보호 기능](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection)(기본 제공)  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[스팸 방지 정책 사용자 지정](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies) <br/> |예<sup>7</sup> <br/> |예  <br/> |예  <br/> |
@@ -109,11 +109,11 @@ EOP의 제한은 [Exchange Online Protection 제한](exchange-online-protection-
 |[수신 허용 목록에 파트너의 IP 주소 추가](mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[조건부 메일 라우팅](mail-flow-eop.md#conditional-mail-routing) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[하이브리드 메일 라우팅](mail-flow-eop.md#hybrid-mail-routing) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Microsoft 365 관리 센터 보고서](reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |예<sup>9</sup> <br/> |예<sup>10</sup> <br/> |예 <sup>9, 10</sup> <br/> |
+|[Microsoft 365 관리 센터 보고서](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |예<sup>9</sup> <br/> |예<sup>10</sup> <br/> |예 <sup>9, 10</sup> <br/> |
 |[Excel 다운로드 응용 프로그램 보고서](reporting-and-message-trace.md#excel-download-application-reports) <br/> |예  <br/> |예  <br/> |예<sup>11</sup> <br/> |
 |[웹 서비스를 사용하여 보고](reporting-and-message-trace.md#reporting-using-web-services) <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |[메시지 추적](reporting-and-message-trace.md#message-trace) <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예  <br/> |
-|[Microsoft 365 관리 센터에 대 한 액세스 권한](administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[Microsoft 365 관리 센터에 대 한 액세스 권한](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Exchange 관리 센터 액세스](administration-and-management-eop.md#access-to-the-exchange-admin-center)(EAC)  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[원격 Windows PowerShell 액세스](administration-and-management-eop.md#remote-windows-powershell-access) <br/> |예<sup>2</sup> <br/> |예  <br/> |예  <br/> |
    

@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: 이 섹션에서는 exchange online 설정을 사용자 지정 하 고 조직의 exchange online 환경을 최신, 실행 및 최신 상태로 유지 하는 데 사용할 수 있는 관리 제어 및 지원에 대해 설명 합니다. 내용에는 Microsoft 관리 책임 및 성능 약정, 서비스 및 제품 업그레이드와 같이 조직에서 사용할 수 있는 셀프 서비스 관리 도구 및 기능에 대한 정보가 포함되어 있습니다.
-ms.openlocfilehash: 909806b0bd62b989081f36a8588cd813b1ee1717
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 45707cbba47af8076312049686cb01beb6825d9e
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467805"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955747"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 설치 및 관리
 
@@ -34,7 +34,7 @@ Microsoft에서 모든 Exchange Online 데이터 센터를 직접 제어하고 �
   
 - [Microsoft Office 365 포털](exchange-online-setup-and-administration.md#microsoft-office-365-portal)
     
-- [Microsoft 365 관리 센터](exchange-online-setup-and-administration.md#microsoft-office-365-admin-center)
+- [Microsoft 365 관리 센터](#microsoft-365-admin-center)
     
 - [Exchange 관리 센터](exchange-online-setup-and-administration.md#exchange-admin-center)
     
