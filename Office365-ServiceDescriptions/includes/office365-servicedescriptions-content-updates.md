@@ -10,18 +10,18 @@
 |------|------------|--------|
 | 3/4/2019 | [Office 365 GCC High 및 DoD](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) | 수정한 날짜 |
 | 3/4/2019 | [Office 365 GCC](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc) | 수정한 날짜 |
-| 3/4/2019 | [Office 365 US Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | 수정한 날짜 |
+| 3/4/2019 | [Office 365 Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | 수정한 날짜 |
 | 2019/3/6 | [Office 365 기술팀 Direct 서비스 설명](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | 수정한 날짜 |
 | 2019/3/6 | [Exchange Online Archiving의 보관 기능](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | 수정한 날짜 |
 | 2019/3/6 | [Exchange Online Archiving의 클라이언트 기능](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/client-features) | 수정한 날짜 |
 | 2019/3/6 | [Exchange Online Archiving의 규정 준수 및 보안 기능](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/compliance-and-security-features) | 수정한 날짜 |
 | 2019/3/6 | [Exchange Online Archiving 서비스 설명](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) | 수정한 날짜 |
-| 2019/3/6 | [관리 [EOP]](/Office365/ServiceDescriptions/exchange-online-protection-service-description/administration-and-management-eop) | 수정한 날짜 |
-| 2019/3/6 | [스팸 방지 및 맬웨어 방지 보호 기능 [EOP]](/Office365/ServiceDescriptions/exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop) | 수정한 날짜 |
+| 2019/3/6 | [관리[EOP]](/Office365/ServiceDescriptions/exchange-online-protection-service-description/administration-and-management-eop) | 수정한 날짜 |
+| 2019/3/6 | [스팸 방지 및 맬웨어 방지 보호 기능[EOP]](/Office365/ServiceDescriptions/exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop) | 수정한 날짜 |
 | 2019/3/6 | [Exchange Online Protection 제한](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-limits) | 수정한 날짜 |
 | 2019/3/6 | [Exchange Online Protection 서비스 설명](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | 수정한 날짜 |
 | 2019/3/6 | [메일 흐름[EOP]](/Office365/ServiceDescriptions/exchange-online-protection-service-description/mail-flow-eop) | 수정한 날짜 |
-| 2019/3/6 | [메시징 정책 및 규정 준수 [servicedesc]](/Office365/ServiceDescriptions/exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc) | 수정한 날짜 |
+| 2019/3/6 | [메시징 정책 및 규정 준수[ServiceDesc]](/Office365/ServiceDescriptions/exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc) | 수정한 날짜 |
 | 2019/3/6 | [받는 사람, 도메인 및 회사 관리](/Office365/ServiceDescriptions/exchange-online-protection-service-description/recipient-domain-and-company-management) | 수정한 날짜 |
 | 2019/3/6 | [보고 및 메시지 추적](/Office365/ServiceDescriptions/exchange-online-protection-service-description/reporting-and-message-trace) | 수정한 날짜 |
 | 2019/3/6 | [스팸 방지 및 맬웨어 방지 보호](/Office365/ServiceDescriptions/exchange-online-service-description/anti-spam-and-anti-malware-protection) | 수정한 날짜 |
@@ -31,23 +31,23 @@
 | 2019/3/6 | [Exchange Online 설치 및 관리](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-setup-and-administration) | 수정한 날짜 |
 | 2019/3/6 | [고가용성 및 비즈니스 연속성](/Office365/ServiceDescriptions/exchange-online-service-description/high-availability-and-business-continuity) | 수정한 날짜 |
 | 2019/3/6 | [상호 운용성, 연결 및 호환성](/Office365/ServiceDescriptions/exchange-online-service-description/interoperability-connectivity-and-compatibility) | 수정한 날짜 |
-| 2019/3/6 | [메일 흐름](/Office365/ServiceDescriptions/exchange-online-service-description/mail-flow) | 수정한 날짜 |
+| 2019/3/6 | [Mail Flow](/Office365/ServiceDescriptions/exchange-online-service-description/mail-flow) | 수정한 날짜 |
 | 2019/3/6 | [메시지 정책 및 규정 준수](/Office365/ServiceDescriptions/exchange-online-service-description/message-policy-and-compliance) | 수정한 날짜 |
 | 2019/3/6 | [사용 권한](/Office365/ServiceDescriptions/exchange-online-service-description/permissions) | 수정한 날짜 |
 | 2019/3/6 | [계획 및 배포](/Office365/ServiceDescriptions/exchange-online-service-description/planning-and-deployment) | 수정한 날짜 |
 | 2019/3/6 | [받는 사람](/Office365/ServiceDescriptions/exchange-online-service-description/recipients) | 수정한 날짜 |
 | 2019/3/6 | [보고 기능 및 문제 해결 도구](/Office365/ServiceDescriptions/exchange-online-service-description/reporting-features-and-troubleshooting-tools) | 수정한 날짜 |
 | 2019/3/6 | [공유 및 공동 작업](/Office365/ServiceDescriptions/exchange-online-service-description/sharing-and-collaboration) | 수정한 날짜 |
-| 2019/3/6 | [음성 메시지 서비스](/Office365/ServiceDescriptions/exchange-online-service-description/voice-message-services) | 수정한 날짜 |
+| 2019/3/6 | [Voice Message Services](/Office365/ServiceDescriptions/exchange-online-service-description/voice-message-services) | 수정한 날짜 |
 | 2019/3/6 | [Microsoft 365 Business 서비스 설명](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 수정한 날짜 |
 | 2019/3/6 | [Microsoft Dynamics 365(온라인) 서비스 설명](/Office365/ServiceDescriptions/microsoft-dynamics-365-online-service-description) | 수정한 날짜 |
 | 2019/3/6 | [Office 365 Advanced Threat Protection 서비스 설명](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 수정한 날짜 |
 | 2019/3/6 | [BlackBerry](/Office365/ServiceDescriptions/office-365-platform-service-description/blackberry) | 수정한 날짜 |
 | 2019/3/6 | [규정 준수[ServiceDesc]](/Office365/ServiceDescriptions/office-365-platform-service-description/compliance-servicedesc) | 수정한 날짜 |
 | 2019/3/6 | [도메인](/Office365/ServiceDescriptions/office-365-platform-service-description/domains) | 수정한 날짜 |
-| 2019/3/6 | [도움말 및 학습](/Office365/ServiceDescriptions/office-365-platform-service-description/help-and-training) | 수정한 날짜 |
+| 2019/3/6 | [도움말 및 훈련](/Office365/ServiceDescriptions/office-365-platform-service-description/help-and-training) | 수정한 날짜 |
 | 2019/3/6 | [Microsoft 365 Education](/Office365/ServiceDescriptions/office-365-platform-service-description/microsoft-365-education) | 수정한 날짜 |
-| 2019/3/6 | [모바일 장치 [SD]](/Office365/ServiceDescriptions/office-365-platform-service-description/mobile-devices-sd) | 수정한 날짜 |
+| 2019/3/6 | [모바일 장치[SD]](/Office365/ServiceDescriptions/office-365-platform-service-description/mobile-devices-sd) | 수정한 날짜 |
 | 2019/3/6 | [네트워킹](/Office365/ServiceDescriptions/office-365-platform-service-description/networking) | 수정한 날짜 |
 | 2019/3/6 | [Office 365 Education](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-education) | 수정한 날짜 |
 | 2019/3/6 | [Office 365 Germany](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | 수정한 날짜 |
@@ -66,7 +66,7 @@
 | 2019/3/6 | [서비스 업데이트](/Office365/ServiceDescriptions/office-365-platform-service-description/service-updates) | 수정한 날짜 |
 | 2019/3/6 | [지원](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | 수정한 날짜 |
 | 2019/3/6 | [사용자 계정 관리](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | 수정한 날짜 |
-| 2019/3/6 | [Office 365 서비스 설명](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | 수정한 날짜 |
+| 2019/3/6 | [Office 365 서비스 설명 ](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | 수정한 날짜 |
 | 2019/3/6 | [Office 응용 프로그램 서비스 설명](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 수정한 날짜 |
 | 2019/3/6 | [Office 응용 프로그램](/Office365/ServiceDescriptions/office-applications-service-description/office-applications) | 수정한 날짜 |
 | 2019/3/6 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | 수정한 날짜 |
@@ -109,7 +109,7 @@
 | 2019/3/6 | [Yammer의 문서 공동 작업 기능](/Office365/ServiceDescriptions/yammer-service-description/document-collaboration-features-in-yammer) | 수정한 날짜 |
 | 2019/3/6 | [Yammer의 외부 네트워크 기능](/Office365/ServiceDescriptions/yammer-service-description/external-network-features-in-yammer) | 수정한 날짜 |
 | 2019/3/6 | [Yammer의 그룹 기능](/Office365/ServiceDescriptions/yammer-service-description/group-features-in-yammer) | 수정한 날짜 |
-| 2019/3/6 | [Yammer의 문서 공동 작업 기능](/Office365/ServiceDescriptions/yammer-service-description/inbox-features-in-yammer) | 수정한 날짜 |
+| 2019/3/6 | [Yammer의 받은 편지함 기능](/Office365/ServiceDescriptions/yammer-service-description/inbox-features-in-yammer) | 수정한 날짜 |
 | 2019/3/6 | [Yammer의 메시지 및 대화 기능](/Office365/ServiceDescriptions/yammer-service-description/message-and-conversation-features-in-yammer) | 수정한 날짜 |
 | 2019/3/6 | [Yammer의 프로필 기능](/Office365/ServiceDescriptions/yammer-service-description/profile-features-in-yammer) | 수정한 날짜 |
 | 2019/3/6 | [Yammer의 지원 기능](/Office365/ServiceDescriptions/yammer-service-description/support-features-in-yammer) | 수정한 날짜 |
@@ -125,7 +125,7 @@
 | 3/12/2019 | [서비스 상태 및 연속성](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | 수정한 날짜 |
 | 3/14/2019 | [Microsoft 365 Business 서비스 설명](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 수정한 날짜 |
 | 3/14/2019 | [MyAnalytics 서비스 설명](/Office365/ServiceDescriptions/mya-service-description) | 더해집니다 |
-| 3/14/2019 | [Office 365 서비스 설명](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | 수정한 날짜 |
+| 3/14/2019 | [Office 365 서비스 설명 ](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | 수정한 날짜 |
 | 3/14/2019 | [Exchange Online 제한](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 수정한 날짜 |
 
 
@@ -138,36 +138,18 @@
 | 3/18/2019 | [제품 사용권](/Office365/ServiceDescriptions/office-365-platform-service-description/product-use-rights) | 수정한 날짜 |
 
 
-## <a name="week-of-february-18-2019"></a>2019년 2월 18일의 주
+## <a name="week-of-march-25-2019"></a>3 월 25 일 주 2019
 
 
 | 게시된 날짜 |항목 제목 | 변경 사항 |
 |------|------------|--------|
-| 2/19/2019 | [Exchange Online 제한](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 수정한 날짜 |
-| 2/21/2019 | [Office 365 Advanced Threat Protection 서비스 설명](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 수정한 날짜 |
-| 2/21/2019 | [21Vianet에서 운영하는 Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 수정한 날짜 |
-| 2/21/2019 | [Project Online 서비스 설명](/Office365/ServiceDescriptions/project-online-service-description/project-online-service-description) | 수정한 날짜 |
-| 2/21/2019 | [Exchange Online 제한](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 수정한 날짜 |
-| 2/21/2019 | [Office 365 플랫폼 서비스 설명](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 수정한 날짜 |
-| 2/22/2019 | [Office 365 US Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | 수정한 날짜 |
-| 2/22/2019 | [관리 [EOP]](/Office365/ServiceDescriptions/exchange-online-protection-service-description/administration-and-management-eop) | 수정한 날짜 |
-| 2/22/2019 | [Exchange Online Protection 서비스 설명](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | 수정한 날짜 |
-| 2/22/2019 | [받는 사람, 도메인 및 회사 관리](/Office365/ServiceDescriptions/exchange-online-protection-service-description/recipient-domain-and-company-management) | 수정한 날짜 |
-| 2/22/2019 | [보고 및 메시지 추적](/Office365/ServiceDescriptions/exchange-online-protection-service-description/reporting-and-message-trace) | 수정한 날짜 |
-| 2/22/2019 | [Exchange Online 서비스 설명](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | 수정한 날짜 |
-| 2/22/2019 | [Exchange Online 설치 및 관리](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-setup-and-administration) | 수정한 날짜 |
-| 2/22/2019 | [고가용성 및 비즈니스 연속성](/Office365/ServiceDescriptions/exchange-online-service-description/high-availability-and-business-continuity) | 수정한 날짜 |
-| 2/22/2019 | [보고 기능 및 문제 해결 도구](/Office365/ServiceDescriptions/exchange-online-service-description/reporting-features-and-troubleshooting-tools) | 수정한 날짜 |
-| 2/22/2019 | [Microsoft 365 Business 서비스 설명](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 수정한 날짜 |
-| 2/22/2019 | [도메인](/Office365/ServiceDescriptions/office-365-platform-service-description/domains) | 수정한 날짜 |
-| 2/22/2019 | [도움말 및 학습](/Office365/ServiceDescriptions/office-365-platform-service-description/help-and-training) | 수정한 날짜 |
-| 2/22/2019 | [Office 365 Education](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-education) | 수정한 날짜 |
-| 2/22/2019 | [Office 365 Germany](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | 수정한 날짜 |
-| 2/22/2019 | [21Vianet에서 운영하는 Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 수정한 날짜 |
-| 2/22/2019 | [Office 365 플랫폼 서비스 설명](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 수정한 날짜 |
-| 2/22/2019 | [사용자 계정 관리](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | 수정한 날짜 |
-| 2/22/2019 | [비즈니스용 Skype Online 기능](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-features) | 수정한 날짜 |
-| 2/22/2019 | [비즈니스용 Skype Online 서비스 설명](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | 수정한 날짜 |
+| 3/26/2019 | [Office 365 기술팀 Direct 서비스 설명](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | 수정한 날짜 |
+| 3/28/2019 | [Exchange Online Protection 서비스 설명](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | 수정한 날짜 |
+| 3/28/2019 | [Exchange Online 설치 및 관리](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-setup-and-administration) | 수정한 날짜 |
+| 3/28/2019 | [Office 365 Advanced Threat Protection 서비스 설명](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 수정한 날짜 |
+| 3/28/2019 | [Office 365 Germany](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | 수정한 날짜 |
+| 3/28/2019 | [21Vianet에서 운영하는 Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 수정한 날짜 |
+| 3/28/2019 | [Office 365 플랫폼 서비스 설명](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 수정한 날짜 |
 
 
 ## <a name="week-of-february-25-2019"></a>2019 년 2 월 25 일 주
