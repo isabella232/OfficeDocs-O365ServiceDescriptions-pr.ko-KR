@@ -138,7 +138,7 @@
 | 3/18/2019 | [제품 사용권](/Office365/ServiceDescriptions/office-365-platform-service-description/product-use-rights) | 수정한 날짜 |
 
 
-## <a name="week-of-march-25-2019"></a>3 월 25 일 주 2019
+## <a name="week-of-march-25-2019"></a>Week of March 25, 2019
 
 
 | 게시된 날짜 |항목 제목 | 변경 사항 |
@@ -152,9 +152,10 @@
 | 3/28/2019 | [Office 365 플랫폼 서비스 설명](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 수정한 날짜 |
 
 
-## <a name="week-of-february-25-2019"></a>2019 년 2 월 25 일 주
+## <a name="week-of-april-01-2019"></a>2019 년 4 월 1 일 주
 
 
 | 게시된 날짜 |항목 제목 | 변경 사항 |
 |------|------------|--------|
-| 2/27/2019 | [Microsoft 365 Business 서비스 설명](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 수정한 날짜 |
+| 4/3/2019 | [Office 365 보안 및 준수 센터](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 수정한 날짜 |
+| 4/4/2019 | [Office 365 Advanced Threat Protection 서비스 설명](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 수정한 날짜 |

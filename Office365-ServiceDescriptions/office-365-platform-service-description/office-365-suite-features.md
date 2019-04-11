@@ -3,7 +3,7 @@ title: Office 365 제품군 기능
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 4/08/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열 된 기능은 많은 장치 및 여러 Office 365 서비스에서 안전 하 게 공동 작업 하 고 통신 하는 데 사용할 수 있는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: b595a0315beb72d5120c78b4df93b959b19a0efc
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: cfa63b50540a4681796fcaad3dc4a0887f5cc111
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466945"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764836"
 ---
 # <a name="office-365-suite-features"></a>Office 365 제품군 기능
 
@@ -76,7 +76,7 @@ Microsoft Stream은 조직의 사용자가 안전 하 게 비디오를 업로드
 
 Microsoft Sway는 대화형 웹 기반 캔버스를 사용 하 여 의견을 표현 하는 데 도움이 되는 비즈니스를 위한 전문적인 디지털 이야기 하기 앱입니다. Microsoft Sway의 기본 제공 디자인 엔진은 다양 한 서식 또는 추가 교육을 필요로 하지 않고 전문가, 시각적으로 매력적인 보고서, 프레젠테이션을 만드는 데 도움이 됩니다. 또한 결과를 수정하여 원하는 고유한 모양과 느낌을 얻을 수 있습니다. Microsoft Sway를 사용 하면 모든 브라우저에서 모든 화면을 만들 수 있으며 단순히 링크를 전송 하 여 동료 및 고객과 공유할 수도 있습니다. Microsoft Sway를 사용 하면 앱을 벗어나지 않고 모든 종류의 콘텐츠를 찾고 가져와서 캔버스에 이미지, 텍스트, 비디오 및 차트를 바로 끌어다 놓을 수 있습니다. 자세한 내용은 [Sway](https://sway.com)를 참조하세요. [Office 365 독일](office-365-germany.md)에서는 Microsoft Sway를 아직 사용할 수 없습니다.
   
-## <a name="microsoft-teams"></a>Microsoft 팀
+## <a name="microsoft-teams"></a>Microsoft Teams
 <a name="BKMK_Teams"> </a>
 
 Microsoft 팀은 팀 구성원이 함께 목표를 달성하도록 도와주는 Office 365의 채팅 중심 작업 영역입니다. Microsoft 팀은 팀워크의 허브 역할을 하며, 채팅 대화, 콘텐츠 및 도구를 통해 Office 365에서 단일 작업 영역으로 바로 액세스할 수 있도록 합니다. SharePoint 및 OneNote가 기본적으로 제공되며, 팀원들은 앱 내에서 바로 Office 문서 작업을 수행할 수 있습니다. 채팅 외에도, Microsoft 팀은 팀이 필요할 때 또는 예약에 따라 실시간으로 만날 수 있도록 화상 통화 및 모임 기능도 지원합니다. 팀원들은 여러 팀과 함께 쉽게 공동 작업을 수행하고, 언제든지 피플, 채팅 및 파일을 검색할 수 있습니다. Microsoft 팀은 Windows, Mac, 웹, Android 및 iOS 플랫폼에서 작동합니다. 자세한 내용은 [Microsoft 팀 온라인 도움말](https://go.microsoft.com/fwlink/?linkid=834413)을 참조하세요. 팀은 [Office 365 Germany](office-365-germany.md)에서 아직 사용할 수 없습니다.
@@ -97,12 +97,14 @@ Office 365의 그룹은 더 많은 공동 작업을 수행할 수 있도록 동�
 Office 365 비디오는 장치 간에 비디오를 업로드, 공유 및 검색할 수 있는 안전한 회사 차원 대상으로, Microsoft Azure 미디어 서비스에서 제공합니다. Office 365 비디오를 통해 사용자는 계속해서 참여하고, 정보를 제공 받아 아이디어를 광범위하게 전달하여 조직이 다 함께 협력할 수 있도록 할 수 있습니다. 자세한 내용은 [Office 365 비디오 소개](https://blogs.office.com/2014/11/18/introducing-office-365-video/)를 참조하세요.
   
 ## <a name="onenote-class-notebook"></a>OneNote 수업용 전자 필기장
-<a name="BKMK_Video"> </a>
 
 수업용 전자 필기장은 OneNote의 일부분이 며 office 365 교육 및 office 365 E5 교육에 사용할 수 있습니다. 각 전자 필기장에는 교사와 학생이 함께 작업할 수 있는 공동 작업 공간, 각 학생에 대 한 개인 전자 필기장 등을 공유 하는 교사의 콘텐츠 라이브러리가 포함 되어 있습니다. 수업용 전자 필기장을 만든 후에는 교사와 학생이 OneNote 앱을 사용 하 여 모든 장치에서 액세스할 수 있습니다.
+
+## <a name="microsoft-kaizala"></a>Microsoft Kaizala
+
+microsoft Kaizala는 microsoft 365에 대 한 고유한 기능을 제공 하는 단순 하 고 안전한 모바일 작업 관리 앱으로, 조직의 디렉터리 (계약 작업자, 공급 업체 등)의 내부와 외부에서 사용자를 연결 하 고 모두 사용할 수 있는 기능을 제공 합니다. 파트너, 공급자, 고객 및 시민-대규모 그룹과 [유연한 그룹 유형을](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)사용 합니다. Kaizala의 개방형 디렉터리 모델을 사용 하면 편리한 온 보 딩을 위한 전화 번호 기반 id와 메시징 및 작업 관리에 대 한 간단한 사용자 환경이 제공 됩니다. 사용자는 Kaizala 모바일 앱을 사용 하 여 사진, 문서, 비디오, 오디오 os 등의 인스턴트 메시지와 첨부 파일을 전송 하 고 설문 조사, 설문, 작업 할당, 공지 사항, trainings 등에 대해 작업 카드를 사용할 수 있습니다. [Kaizala는 Office 365에서 사용할 수](https://products.office.com/en/business/microsoft-kaizala) 있으며 iPhone 및 Android에서는 작동 합니다. 자세한 내용을 보려면 [Kaizala 웹 사이트로](https://products.office.com/en/business/microsoft-kaizala)이동 하세요. 
   
 ## <a name="feature-availability"></a>기능 가용성
-<a name="BKMK_Video"> </a>
 
 Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)을 참조하세요.
   

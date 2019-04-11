@@ -1,9 +1,9 @@
 ---
-title: Microsoft 365 Business Service 설명
+title: Microsoft 365 Business 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/14/2019
+ms.date: 04/08/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 business는 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 제공 하는 Office 365의 최고급 생산성을 함께 제공 하는 통합 솔루션입니다. . 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다. office 365에 대 한 자세한 내용은 office 365 서비스 설명을 참조 하세요.
-ms.openlocfilehash: 8337eb102ccf0e54df90501791de29d80aa2ca9e
-ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
+ms.openlocfilehash: d138e2afbc9bdeb7fd81e9a1c60fa03b91e1a373
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "30641483"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764826"
 ---
-# <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business Service 설명
+# <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business 서비스 설명
 
-Microsoft 365 business는 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 제공 하는 Office 365의 최고급 생산성을 함께 제공 하는 통합 솔루션입니다. . 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다. office 365에 대 한 자세한 내용은 [office 365 서비스 설명을 ](office-365-service-descriptions-technet-library.md)참조 하세요.
+Microsoft 365 business는 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 제공 하는 Office 365의 최고급 생산성을 함께 제공 하는 통합 솔루션입니다. 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다. office 365에 대 한 자세한 내용은 [office 365 서비스 설명을 ](office-365-service-descriptions-technet-library.md)참조 하세요.
   
 ## <a name="feature-availability-across-office-365-business-premium-and-microsoft-365-business-plans"></a>Office 365 business Premium 및 Microsoft 365 비즈니스 요금제에서의 기능 가용성
 
@@ -30,7 +30,7 @@ office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
   
 ||||
 |:-----|:-----|:-----|
-|**계획 옵션** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|**요금제 옵션** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Office 365 플랫폼  <br/> |예  <br/> |예  <br/> |
 |Exchange Online  <br/> |예<sup>1</sup> <br/> |예<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |예  <br/> |예  <br/> |
@@ -58,6 +58,7 @@ office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
 |Office 365 그룹  <br/> |예  <br/> |예  <br/> |
 |Office 365 비디오  <br/> |아니요  <br/> |아니요  <br/> |
 |OneNote 수업용 전자 필기장  <br/> |아니요  <br/> |아니요  <br/> |
+|Microsoft Kaizala<sup>18</sup> <br/> |예  <br/> |예  <br/> |
 |[Office 365 관리 기능](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Microsoft 365 관리 센터 또는 Windows PowerShell을 사용 하 여 Office 365 관리  <br/> |예  <br/> |예  <br/> |
 |Azure Information Protection을 사용하여 콘텐츠 보호  <br/> |<sup>6</sup> 없음 <br/> |예  <br/> |
@@ -96,7 +97,7 @@ office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
 |Office 365 Advanced eDiscovery<sup>13</sup> <br/> |아니요  <br/> |아니요  <br/> |
 |보안 점수<sup>14</sup> <br/> |예  <br/> |예  <br/> |
 |위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |
-|[준수 [servicedesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[규정 준수[ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |SAS 70 / SSAE16 평가  <br/> |예  <br/> |예  <br/> |
 |ISO 27001 인증  <br/> |예  <br/> |예  <br/> |
 |EU 모델 조항  <br/> |예  <br/> |예  <br/> |
@@ -178,3 +179,4 @@ office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
 <br/>Microsoft 365 관리 센터에 기본적으로 제공 되는 <sup>15</sup> 개의 간소화 된 Windows 10 장치 관리 Intune, Android, macos 및 기타 플랫폼 간 장치 관리 기능 (장치 관리 관리 센터에 기본 제공 됨) 또한 Microsoft 365 Business에 사용 하도록 허가 되었습니다. 타사 앱 및 WiFi 프로필 및 VPN 인증서와 같은 항목의 구성은 장치 관리 관리 센터 에서도 관리할 수 있습니다. 
 <br/><sup>16</sup> 이 계획은 비디오 포털, 음성 텍스트 기록, 딥 검색 및 얼굴 검색을 포함 하는 Microsoft Stream 요금제 2와 함께 제공 됩니다.
 <br/><sup>17</sup> Microsoft 365 관리 센터에 기본 제공 되는 간소화 된 Windows 10 장치 관리 및 Intune 앱 보호 정책
+<br/><sup>18</sup> 5 월 2019 일, 기존 적격 sku 및 Microsoft 365는 Kaizala Pro를 사용 하 여 backfilled 됩니다. 2019 년 6 월 1 일부 Kaizala Pro는 모든 적격 Office 365 및 Microsoft 365 sku에 포함 됩니다. 
