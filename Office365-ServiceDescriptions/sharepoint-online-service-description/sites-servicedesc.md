@@ -1,9 +1,9 @@
 ---
-title: Sites [servicedesc]
+title: 사이트
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음 사이트 기능은 조직에서 어떠한 유형의 사이트를 만들 때를 비롯해 사이트 관리 단순화를 위한 단일 인프라를 구축할 때 사용할 수 있는 완전한 도구 모음을 제공합니다. 자세한 내용은 SharePoint Online에 대한 콘텐츠 찾기를 참조하세요.
-ms.openlocfilehash: 1cd3f25d6fbf156f6b9dc120e9b8c0bb3e39a202
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 6489bbcb722caff42959a2ec50e1a785f93e3474
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467885"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825176"
 ---
-# <a name="sitesservicedesc"></a>Sites [servicedesc]
+# <a name="sites"></a>사이트
 
 Microsoft SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음 사이트 기능은 조직에서 어떠한 유형의 사이트를 만들 때를 비롯해 사이트 관리 단순화를 위한 단일 인프라를 구축할 때 사용할 수 있는 완전한 도구 모음을 제공합니다. 자세한 내용은 [SharePoint Online에 대한 콘텐츠 찾기](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7)를 참조하세요.
   

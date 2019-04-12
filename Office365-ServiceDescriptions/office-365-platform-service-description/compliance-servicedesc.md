@@ -1,9 +1,9 @@
 ---
-title: 준수 [servicedesc]
+title: 규정 준수
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365은 업계 표준 및 규정을 준수 하며, 비즈니스에 대 한 규정 요구 사항을 충족 하는 데 도움이 되도록 설계 되었습니다. 자세한 내용은 준수 서비스를 참조 하세요.
-ms.openlocfilehash: 46c444003a927227905fc8fef338d256cba92add
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ad4b2a0cbc43f2eb4e6070fc5d41159f54141fbc
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466885"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825146"
 ---
-# <a name="complianceservicedesc"></a>준수 [servicedesc]
+# <a name="compliance"></a>규정 준수
 
 > [!NOTE]
 > 이 문서의 정보는 전 세계 버전의 Office 365에 적용됩니다. Office 365 미국, 정부, Office 365 Germany 및 21Vianet에서 운영하는 Office 365를 비롯한 Office 365의 국가별 클라우드 인스턴스를 사용하는 경우 [Microsoft 국가별 클라우드](https://go.microsoft.com/fwlink/?linkid=841582)를 참조하세요. 

@@ -3,7 +3,7 @@ title: 개인 정보, 보안 및 투명성
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 01/02/2019
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft는 고객과의 파트너 관계를 소중히 여기며 고객 데이터의 보안 및 개인 정보를 보호하는 데 중점을 두고 있습니다. 자세한 내용은 Microsoft 보안 센터를 참조하세요.
-ms.openlocfilehash: 044f8e1d45f359ca9851f72259791bc38857ea8a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 162722e6d2a7dd3cd644153fdbc0f35eeef9e397
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467585"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825216"
 ---
 # <a name="privacy-security-and-transparency"></a>개인 정보, 보안 및 투명성
 
@@ -33,7 +33,7 @@ Microsoft Office 365에서 데이터의 개인 정보를 보호하는 방법을 
   
 Enterprise, Business, Government 및 Education 관리자가 Office 365 개인 정보 설정을 구성하기 위해 수행할 수 있는 특정 단계에 대해서는 [관리자에 대한 고급 개인 정보 옵션](https://go.microsoft.com/fwlink/p/?LinkID=285202)을 참조하세요.
   
-Office 365 ProPlus를 포함하여 기타 Microsoft 서비스의 보안 및 개인 정보에 대한 자세한 내용은 [보안 센터가 적용되는 온라인 서비스](https://go.microsoft.com/fwlink/p/?LinkID=281962)를 참조하세요.
+Office 365 ProPlus를 포함하여 기타 Microsoft 서비스의 보안 및 개인 정보에 대한 자세한 내용은 [보안 센터가 적용되는 온라인 서비스](https://www.microsoft.com/trustcenter/default.aspx)를 참조하세요.
   
 ## <a name="security"></a>보안
 
@@ -53,12 +53,12 @@ Office 365 관리자는 Customer Lockbox를 사용하여 Microsoft 기술 지원
   
 Customer Lockbox는 Office 365 Enterprise 5 계획에 포함되어 있거나 다른 Office 365 Enterprise 계획을 포함하는 별도 구독을 구입할 수 있습니다. 자세한 내용은 [Office 365 Customer Lockbox 요청](http://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409)을 참조하세요.
   
-## <a name="advanced-threat-protection"></a>고급 위협 방지
+## <a name="advanced-threat-protection"></a>Advanced Threat Protection
 
 Office 365 Advanced Threat Protection은 맬웨어 및 바이러스 로부터 조직을 보호 하는 데 도움이 됩니다. ATP에는 [안전한 링크](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [안전한 첨부 파일](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [피싱 방지](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)및 [스푸핑 인텔리전스](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) 기능이 포함 되어 있습니다. 안전 링크는 메시지에 포함된 악의적인 하이퍼링크로부터 사용자를 미리 보호하고, 링크를 클릭할 때마다 보호 기능을 제공합니다. 안전한 첨부 파일 기능은 알 수 없는 맬웨어 및 바이러스로부터 보호하고, 알려진 바이러스/맬웨어 서명이 없는 모든 메시지 및 첨부 파일을 ATP를 통해 악의적인 의도가 검색될 수 있는 특수한 환경으로 라우팅합니다. ATP에 대 한 자세한 내용은 [Office 365 Advanced Threat Protection 서비스 설명을](../office-365-advanced-threat-protection-service-description.md)참조 하세요.
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)을 참조하세요.
+Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](https://technet.microsoft.com/library/office-365-platform-service-description.aspx)을 참조하세요.
   
 

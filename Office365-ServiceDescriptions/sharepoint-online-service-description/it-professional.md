@@ -3,7 +3,7 @@ title: IT 전문가
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013에서 기본 제공되는 이 호스트 서비스는 프로젝트 작업, 중앙 위치에 데이터 및 문서 저장, 다른 사람과의 정보 공유에 이상적입니다. 다음 SharePoint 기능은 조직의 SharePoint 환경에 대한 보안 및 관리를 담당하는 IT 전문가를 지원합니다.
-ms.openlocfilehash: c0033c22040f517d51f9b38bd2d2c926d319699f
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: afacaa2e05b7b6cc178ca3585230408f75264aa6
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467595"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825166"
 ---
 # <a name="it-professional"></a>IT 전문가
 
@@ -45,9 +45,9 @@ SharePoint Online는 문서 라이브러리에 업로드 및 저장된 파일에
 SharePoint Online 고객은 사용할 수 없습니다. SharePoint Server 2013 고객은 SharePoint Server 2013 서버 간 인증 및 앱 인증을 지원하는 웹 응용 프로그램에 대한 클레임 기반 인증을 구성합니다. 자세한 내용은 [클레임 기반 인증](https://go.microsoft.com/fwlink/p/?LinkId=270982)을 참조하세요.
   
 ## <a name="data-loss-prevention"></a>데이터 손실 방지
-<a name="bkmk_DLP"> </a>
+<a name="bkmk_DLP"> </a> 
 
-DLP(데이터 손실 방지)는 SharePoint Online에 저장된 중요한 데이터를 식별합니다. 중요한 데이터를 식별하면 조직에 대한 위험을 줄이는 데 도움이 될 수 있습니다. eDiscovery Center를 사용하여 조직의 중요한 정보 유형을 검색할 수 있습니다. 검색된 중요한 콘텐츠는 표시 및 저장되며 eDiscovery Center의 승인된 사용자만 사용할 수 있으며 분류 결과를 쉽게 내보낼 수 있습니다. 중요한 데이터 유형에 대한 자세한 내용은 [중요한 정보 유형 목록](https://technet.microsoft.com/en-us/library/jj150541%28v=exchg.150%29.aspx)을 참조하세요. [SharePoint Online에서 DLP를 사용하여 사이트에 저장된 중요한 데이터 식별](https://technet.microsoft.com/library/dn798914.aspx)을 참조하세요.
+DLP(데이터 손실 방지)는 SharePoint Online에 저장된 중요한 데이터를 식별합니다. 중요한 데이터를 식별하면 조직에 대한 위험을 줄이는 데 도움이 될 수 있습니다. eDiscovery Center를 사용하여 조직의 중요한 정보 유형을 검색할 수 있습니다. 검색된 중요한 콘텐츠는 표시 및 저장되며 eDiscovery Center의 승인된 사용자만 사용할 수 있으며 분류 결과를 쉽게 내보낼 수 있습니다. 중요한 데이터 유형에 대한 자세한 내용은 [중요한 정보 유형 목록](https://technet.microsoft.com/library/jj150541%28v=exchg.150%29.aspx)을 참조하세요. [SharePoint Online에서 DLP를 사용하여 사이트에 저장된 중요한 데이터 식별](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)을 참조하세요.
   
 ## <a name="encryption-at-rest"></a>Encryption at rest
 <a name="bkmk_EncryptionAtRest"> </a>
