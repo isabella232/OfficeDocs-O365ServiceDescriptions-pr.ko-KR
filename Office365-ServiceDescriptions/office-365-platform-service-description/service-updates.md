@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 바로 출시 되었거나 출시 될 Office 365 기능에 대 한 자세한 내용은 Microsoft 365 로드맵를 참조 하세요.
-ms.openlocfilehash: 7d20dac14670a2e158125f507a69c43e606ac574
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.openlocfilehash: dc9896215787cbd2477ddbf7826415d98b98616b
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825156"
+ms.locfileid: "31833846"
 ---
 # <a name="service-updates"></a>서비스 업데이트
 
@@ -32,7 +32,7 @@ ms.locfileid: "31825156"
   
 ## <a name="targeted-release"></a>대상 지정된 릴리스
 
-대상 지정 된 릴리스를 사용 하는 경우 조직 또는 사용자 집합은 표준 릴리스 프로세스를 시작 하기 전에 약 1 주일 전에 서비스 업데이트의 선택 된 집합을 받습니다. 자세한 내용은 [Office 365 릴리스 프로그램](https://go.microsoft.com/fwlink/p/?LinkId=509823)을 참조하세요. 
+대상 지정 된 릴리스를 사용 하는 경우 조직 또는 사용자 집합은 표준 릴리스 프로세스를 시작 하기 전에 약 1 주일 전에 서비스 업데이트의 선택 된 집합을 받습니다. 자세한 내용은 [Office 365 release options](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide)를 참조 하세요. 
   
 ## <a name="update-notifications"></a>업데이트 알림
 

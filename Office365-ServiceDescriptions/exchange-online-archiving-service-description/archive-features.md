@@ -3,7 +3,7 @@ title: Exchange Online Archiving의 보관 기능
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/11/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 다음 섹션에서는 Microsoft Exchange Online 보관의 보관 기능에 대해 설명 합니다.
-ms.openlocfilehash: 78b33911a583c1cc50d910e9ebd6fd2aebbfc697
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ba1617cfad392290dd9259d8f4eb87860f58eb73
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467205"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31833849"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online Archiving의 보관 기능
 
@@ -37,7 +37,7 @@ Exchange Online Archiving에서는 보관 사서함 기능과 함께 고급 보�
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Exchange Online Archiving으로 메시지 이동
 
-사용자는 온라인에서 간편하게 액세스하기 위해 .pst 파일에서 메시지를 끌어 보관 사서함에 놓을 수 있습니다. 또한 보관 정책을 사용하여 전자 메일 항목을 자동으로 기본 사서함에서 보관 사서함으로 이동해서, 기본 사서함의 크기를 줄이고 성능을 개선할 수도 있습니다. 이 동작은 보관함에 각 메시지의 보조 복사본을 만드는 Exchange Hosted Archive와는 다르지만, 보존 요구 사항은 두 시나리오에서 모두 적용할 수 있습니다. 
+사용자는 온라인에서 간편하게 액세스하기 위해 .pst 파일에서 메시지를 끌어 보관 사서함에 놓을 수 있습니다. 또한 보관 정책을 사용하여 전자 메일 항목을 자동으로 기본 사서함에서 보관 사서함으로 이동해서, 기본 사서함의 크기를 줄이고 성능을 개선할 수도 있습니다. 
   
 ### <a name="import-data-to-the-archive"></a>보관 사서함으로 데이터 가져오기
 
