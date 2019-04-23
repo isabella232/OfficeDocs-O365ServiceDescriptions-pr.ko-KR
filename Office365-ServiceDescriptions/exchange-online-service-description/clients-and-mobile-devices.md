@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: b5755b76445ddc186d02e5b8a499d905636bd311
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.openlocfilehash: 380f542c6db323d5dac647dc694c0b320bf13be6
+ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825207"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31981642"
 ---
 # <a name="clients-and-mobile-devices"></a>클라이언트 및 모바일 장치
 
@@ -36,7 +36,7 @@ Microsoft Outlook은 일정, 연락처, 작업 및 다음 주요 기능에 대 �
 Exchange 2016 및 Exchange Online에서 지원되는 Outlook 클라이언트에 대한 자세한 내용은 [Exchange 2016 시스템 요구 사항](https://go.microsoft.com/fwlink/?LinkID=828972)에서 "지원되는 클라이언트"를 참조하세요.
   
 > [!IMPORTANT]
->  Outlook은 Exchange Online 구독 가격에 포함되어 제공되지 않습니다. 일부 Office 365 계획에는 Microsoft Office Pro Plus(Microsoft Outlook 포함)가 포함되어 있으며, 별도의 구독을 구매할 수도 있습니다. >  POP을 사용해서 Exchange Online 전자 메일 계정에 연결하면 다음 제한 사항이 표시됩니다. >  일정 정보 없음 >  약속 있음/없음 정보 없음 >  전체 주소 목록 없음 >  전자 메일 푸시 없음 >  POP를 통해 연결하면 모든 메시지가 클라이언트로 다운로드되며, 여러 컴퓨터 또는 장치 간에 동기화가 수행되지 않습니다(예: 랩톱과 전화 간). 
+>  Outlook은 Exchange Online 구독 가격에 포함되어 제공되지 않습니다. 일부 Office 365 계획에는 Microsoft Office Pro Plus(Microsoft Outlook 포함)가 포함되어 있으며, 별도의 구독을 구매할 수도 있습니다. pop를 사용 하 여 Exchange Online 전자 메일 계정에 연결 하는 경우에는 다음 제한 사항이 표시 됩니다. > no calendar information > no free/busy information > POP를 통해 연결할 때 전자 메일 >를 사용할 수 없습니다. aded는 클라이언트에 대 한 것으로, 여러 컴퓨터 또는 장치 간에 동기화가 발생 하지 않습니다 (예: 랩톱과 전화 사이). 
   
 ## <a name="outlook-on-the-web"></a>웹용 Outlook
 

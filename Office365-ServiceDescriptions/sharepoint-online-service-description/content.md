@@ -3,7 +3,7 @@ title: 콘텐츠
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 4/17/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음의 콘텐츠 기능은 모든 사용자들이 ECM(엔터프라이즈 콘텐츠 관리)을 쉽게 사용할 수 있게 도와 줍니다. 콘텐츠는 기존의 콘텐츠 관리, 소셜 기능 및 강력한 검색 기능을 모두 결합합니다.
-ms.openlocfilehash: cfa36cfa492b1abf7e98be2b259fcd267d7d7930
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 71307d6c268a6060ebcacdcfa082a494a7b6059e
+ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467515"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31981682"
 ---
 # <a name="content"></a>콘텐츠
 
@@ -29,7 +29,7 @@ SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 
 ## <a name="accessibility-standards-support"></a>Accessibility Standards Support
 <a name="bkmk_AccessibilitySS"> </a>
 
-링크, 양식 컨트롤 및 단추와 같은 대부분의 SharePoint UI(사용자 인터페이스) 요소는 MSAA(Microsoft Active Accessibility)를 사용하도록 설계되어 있습니다. MSAA를 사용하면 장애가 있는 사용자가 화면 판독기와 같은 보조 기술을 사용하여 콘텐츠와 상호 작용할 수 있습니다. [내게 필요한 옵션 기능](https://go.microsoft.com/fwlink/?LinkId=270947)에 대해 더 자세히 알아보세요.
+링크, 양식 컨트롤 및 단추와 같은 대부분의 SharePoint UI(사용자 인터페이스) 요소는 MSAA(Microsoft Active Accessibility)를 사용하도록 설계되어 있습니다. MSAA를 사용하면 장애가 있는 사용자가 화면 판독기와 같은 보조 기술을 사용하여 콘텐츠와 상호 작용할 수 있습니다. [내게 필요한 옵션 기능](https://www.microsoft.com/accessibility/features?activetab=pivot_1%3aprimaryr2)에 대해 더 자세히 알아보세요.
   
 ## <a name="asset-library-enhancementsvideo-support"></a>Asset Library Enhancements/Video Support
 <a name="bkmk_AssetLibraryEnhancementsViseoSupport"> </a>
@@ -84,17 +84,17 @@ SharePoint Online 사이트 모음 관리자는 감사 기능을 통해 어느 �
 ## <a name="ediscovery-search"></a>eDiscovery Search
 <a name="bkmk_eDiscovery_Search"> </a>
 
-eDiscovery 검색을 사용하여 사용자가 규정 준수 및 소송 지원의 증거로 사용할 수 있는 ESI(전자적으로 저장된 정보)를 검색하도록 할 수 있습니다. 검색 가능한 콘텐츠에는 블로그, Wiki, 뉴스피드 및 Exchange 사서함의 콘텐츠는 물론 문서 및 목록 항목과 같은 구조화된 콘텐츠가 포함됩니다. 검색이 가능하려면 검색을 통해 콘텐츠를 인덱싱해야 합니다. 자세한 내용은 [eDiscovery 쿼리 만들기 및 실행](https://go.microsoft.com/fwlink/?LinkId=402985)을 참조하세요.
+eDiscovery 검색을 사용하여 사용자가 규정 준수 및 소송 지원의 증거로 사용할 수 있는 ESI(전자적으로 저장된 정보)를 검색하도록 할 수 있습니다. 검색 가능한 콘텐츠에는 블로그, Wiki, 뉴스피드 및 Exchange 사서함의 콘텐츠는 물론 문서 및 목록 항목과 같은 구조화된 콘텐츠가 포함됩니다. 검색이 가능하려면 검색을 통해 콘텐츠를 인덱싱해야 합니다. 자세한 내용은 [eDiscovery 쿼리 만들기 및 실행](https://docs.microsoft.com/sharepoint/governance/create-and-run-queries-in-the-ediscovery-center)을 참조하세요.
   
 ## <a name="ediscovery-hold"></a>eDiscovery Hold
 <a name="bkmk_eDiscovery_Hold"> </a>
 
-보류를 적용하면 사용자가 원본 콘텐츠를 수정하거나 삭제하는 경우 복사본이 보존됩니다. SharePoint 사이트(비즈니스용 OneDrive 사이트 포함) 및 Exchange 사서함(보관된 비즈니스용 Skype 대화 포함)의 콘텐츠를 보류할 수 있습니다. 보류를 사용하여 보류가 적용되었을 때의 원본 양식으로 콘텐츠를 보존할 수 있습니다. 사용자가 사이트나 사서함에 보류를 적용하면 콘텐츠는 원래 위치에 유지됩니다. 자세한 내용은 [eDiscovery 사례에 콘텐츠 추가 및 원본 보류](https://go.microsoft.com/fwlink/?LinkId=270964)를 참조하세요.
+보류를 적용하면 사용자가 원본 콘텐츠를 수정하거나 삭제하는 경우 복사본이 보존됩니다. SharePoint 사이트(비즈니스용 OneDrive 사이트 포함) 및 Exchange 사서함(보관된 비즈니스용 Skype 대화 포함)의 콘텐츠를 보류할 수 있습니다. 보류를 사용하여 보류가 적용되었을 때의 원본 양식으로 콘텐츠를 보존할 수 있습니다. 사용자가 사이트나 사서함에 보류를 적용하면 콘텐츠는 원래 위치에 유지됩니다. 자세한 내용은 [eDiscovery 사례에 콘텐츠 추가 및 원본 보류](https://docs.microsoft.com/sharepoint/governance/add-content-to-a-case-and-place-sources-on-hold-in-the-ediscovery-center)를 참조하세요.
   
 ## <a name="ediscovery-export"></a>eDiscovery Export
 <a name="bkmk_eDiscovery_export"> </a>
 
-사용자가 기관에 eDiscovery 콘텐츠를 전달할 준비가 되었거나 다른 법적 프로그램으로 작업하려는 경우 eDiscovery 센터에서 콘텐츠를 내보낼 수 있습니다. 내보낸 콘텐츠는 다른 eDiscovery 프로그램에 사용될 수 있는 표준 EDRM 형식으로 전달됩니다. 내보낸 항목에 대한 메타데이터를 제공하기 위해 검색 결과에 EDRM(Electronic Discovery Reference Model) XML 매니페스트가 포함됩니다. 자세한 내용은 [eDiscovery 콘텐츠 내보내기 및 보고서 만들기](https://go.microsoft.com/fwlink/?LinkId=402986)를 참조하세요.
+사용자가 기관에 eDiscovery 콘텐츠를 전달할 준비가 되었거나 다른 법적 프로그램으로 작업하려는 경우 eDiscovery 센터에서 콘텐츠를 내보낼 수 있습니다. 내보낸 콘텐츠는 다른 eDiscovery 프로그램에 사용될 수 있는 표준 EDRM 형식으로 전달됩니다. 내보낸 항목에 대한 메타데이터를 제공하기 위해 검색 결과에 EDRM(Electronic Discovery Reference Model) XML 매니페스트가 포함됩니다. 자세한 내용은 [eDiscovery 콘텐츠 내보내기 및 보고서 만들기](https://docs.microsoft.com/office365/securitycompliance/export-case-data-in-advanced-ediscovery)를 참조하세요.
   
 ## <a name="external-sharing-external-access"></a>External Sharing: External Access
 <a name="bkmk_ExternalSharingExternalAccess"> </a>
@@ -124,7 +124,7 @@ eDiscovery 검색을 사용하여 사용자가 규정 준수 및 소송 지원�
 ## <a name="information-rights-management-irm"></a>IRM(정보 권한 관리)
 <a name="bkmk_InformationRightsManagement"> </a>
 
-SharePoint Online IRM은 Office 365의 정보 보호 기술인 Azure information protection을 사용 합니다. IRM 보호는 SharePoint 목록 및 라이브러리 수준의 파일에 적용됩니다. [SharePoint Online의 IRM](https://go.microsoft.com/fwlink/?LinkId=270963)에 대해 더 자세히 알아보세요.
+SharePoint Online IRM은 Office 365의 정보 보호 기술인 Azure information protection을 사용 합니다. IRM 보호는 SharePoint 목록 및 라이브러리 수준의 파일에 적용됩니다. [SharePoint Online의 IRM](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)에 대해 더 자세히 알아보세요.
   
 ## <a name="managed-metadata-service"></a>Managed Metadata Service
 <a name="bkmk_ManagedMetadataService"> </a>
@@ -154,7 +154,7 @@ Office 365 고객은 인터넷 브라우저에서 Office Online를 사용하여 
 ## <a name="office-web-apps-server-integration"></a>Office Web Apps Server integration
 <a name="bkmk_OfficeWebAppsServerIntegration"> </a>
 
-SharePoint Online 고객은 이 기능을 사용할 수 없습니다. SharePoint Server 2010에서 Office Web Apps는 SharePoint 서비스 응용 프로그램입니다. SharePoint Server 2013에는 새로운 Office 서버 제품인 Office Web Apps 서버가 포함되어 있습니다. 단일 Office Web Apps 서버 팜에서 SharePoint Server 2013, Exchange Server 2013, 공유 폴더 및 웹 사이트를 통해 Office 파일에 액세스하는 사용자가 지원됩니다. 따라서 온-프레미스 환경에서 온라인 버전 Office를 배포 및 관리할 수 있습니다. [Office Web Apps 서버 통합](https://go.microsoft.com/fwlink/?LinkId=270911)에 대해 더 자세히 알아보세요.
+SharePoint Online 고객은 이 기능을 사용할 수 없습니다. SharePoint Server 2010에서 Office Web Apps는 SharePoint 서비스 응용 프로그램입니다. SharePoint Server 2013에는 새로운 Office 서버 제품인 Office Web Apps 서버가 포함되어 있습니다. 단일 Office Web Apps 서버 팜에서 SharePoint Server 2013, Exchange Server 2013, 공유 폴더 및 웹 사이트를 통해 Office 파일에 액세스하는 사용자가 지원됩니다. 따라서 온-프레미스 환경에서 온라인 버전 Office를 배포 및 관리할 수 있습니다. [Office Web Apps 서버 통합](https://docs.microsoft.comskypeforbusiness/help-topics/help-topobld/add-office-web-apps-server)에 대해 더 자세히 알아보세요.
   
 ## <a name="preservation-hold-library"></a>Preservation hold library
 <a name="bkmk_PreservationHoldLibrary"> </a>
@@ -179,7 +179,7 @@ SharePoint에서는 활성 문서와 같은 문서 저장소의 레코드를 현
 ## <a name="recycle-bin-sharepoint-admin-center"></a>Recycle Bin (SharePoint admin center)
 <a name="bkmk_RecycleBinadmincenter"> </a>
 
-SharePoint Online 관리자는 SharePoint 관리 센터를 사용하여 삭제된 사이트 모음을 복원할 수 있습니다. 자세한 내용은 [삭제된 사이트 모음 복원](https://go.microsoft.com/fwlink/p/?LinkId=286114)을 참조하세요. 
+SharePoint Online 관리자는 SharePoint 관리 센터를 사용하여 삭제된 사이트 모음을 복원할 수 있습니다. 자세한 내용은 [삭제된 사이트 모음 복원](https://docs.microsoft.com/sharepoint/sites/delete-and-restore-site-collections)을 참조하세요. 
   
 ## <a name="recycle-bin-site-collection"></a>Recycle Bin (site collection)
 <a name="bkmk_RecycleBinSC"> </a>
