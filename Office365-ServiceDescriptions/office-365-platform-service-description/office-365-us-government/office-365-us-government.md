@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 한 요구 사항에 따라 Microsoft는 office 365 us 정부 요금제 (oroffice 365 us 정부)를 만들었습니다. 이 섹션에서는 Office 365 Government 고유의 기능에 대해 간략하게 설명합니다. Office 365 서비스 설명과 함께이 보조 섹션을 읽는 것이 좋습니다.
 ms.openlocfilehash: 6d10de59be0f2f8e187933d47d24a4108c69478a
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825226"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247084"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 

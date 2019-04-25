@@ -10,11 +10,11 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.openlocfilehash: 0f62679cf706c6ffab86e801b27c91555e06834b
-ms.sourcegitcommit: 8cdba6f181613cd1bb9e3c268f240d9e4dd516f0
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "30052533"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247174"
 ---
 ---
 
@@ -49,13 +49,14 @@ Microsoft 365 정부은 다음과 같은 네 가지 주요 영역에서 미국 �
 
 **배타적 커뮤니티입니다.** 정부 데이터 센터는 정부 기관 또는 부서 에서만 사용할 수 있으며, 미국 정부를 대신 하 여 정보를 보유 및 처리할 수 있는 상업적 회사에만 제공 됩니다.
 
-**스크린 된 직원** 조직의 고객 콘텐츠에 대 한 액세스는 사용자가 미국 내에 있는 선별 된 Microsoft 직원으로 제한 되며 배경 검사를 통과 해야 합니다. 타사 감사 모든 인프라는 인증을 실행 하기 위해 연방 기관에서 사용 하는 증명 문자 또는 보안 평가 보고서를 제공 하는 공인 타사 감사자에 의해 감사 됩니다 (ATO). 
+**스크린 된 직원** 조직의 고객 콘텐츠에 대 한 액세스는 사용자가 미국 내에 있는 선별 된 Microsoft 직원으로 제한 되며 배경 검사를 통과 해야 합니다.
+타사 감사 모든 인프라는 인증을 실행 하기 위해 연방 기관에서 사용 하는 증명 문자 또는 보안 평가 보고서를 제공 하는 공인 타사 감사자에 의해 감사 됩니다 (ATO). 
 
 **콘텐츠 저장소** 데이터는 준수 하는 인프라와 함께 대륙 미국 내에 저장 됩니다. 다음 표에는 Microsoft 365 for US 정부 환경 및 약정에 대 한 요약이 나와 있습니다.
 
 |||
 |:----------|:----------------------------------|:---------|
-|**사항** <br/> |**확정 ** <br/> |
+|**사항** <br/> |**약정** <br/> |
 |Microsoft 365 정부 GCC  <br/> |FedRamp 보통, cjis, IRS 1075, DISA srg L2  <br/> |예  <br/> |
 |Microsoft 365 정부 GCC High  <br/> |FedRamp High, itar, DFARS, DOD srg L4 컨트롤 <br/> |예  <br/> |
 |Microsoft 365 정부 DoD  <br/> |DISA srg L5  <br/> |예  <br/> |
@@ -146,7 +147,7 @@ Microsoft 365 정부 라이선스를 구매 하려면 다음 단계를 수행 �
 <a name="BM3-withinUSA"> </a>
 
 
-- [EMS](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility-security) 고객은 EMS 페이지의 오른쪽 위 부분에 있는 지금 시도 단추를 선택 하 여 Office commerce portal의 제어 된 등록 프로세스를 통해 Azure Active Directory (AAD) 포털로 라우팅할 수 있습니다.
+- [EMS.](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility-security) 고객은 EMS 페이지의 오른쪽 위 부분에 있는 지금 시도 단추를 선택 하 여 Office commerce portal의 제어 된 등록 프로세스를 통해 Azure Active Directory (AAD) 포털로 라우팅할 수 있습니다.
 -  [Office 365](https://aka.ms/gcctrial)   무료 1 개월 평가판은 미국 정부 조직에만 사용할 수 있으며,이는 GCC 전용 이며 정부 계약자를 제외 합니다.  
 - Microsoft는 상업용 고객에 게 Office 365 GCC 평가판을 제공 하지 않으며, GCC High 또는 DoD에 대 한 평가판이 없습니다.
 

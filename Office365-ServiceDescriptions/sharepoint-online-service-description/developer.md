@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
 description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013에서 기본 제공되는 이 호스트 서비스는 프로젝트 작업, 중앙 위치에 데이터 및 문서 저장, 다른 사람과의 정보 공유에 이상적입니다. 다음 기능은 SharePoint 기능을 확장하기 위해 앱과 솔루션을 빌드하려는 개발자를 지원합니다.
 ms.openlocfilehash: 055f669be2703a562aae56f6a7bcda6f708c4de8
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467715"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246724"
 ---
 # <a name="developer"></a>개발자
 

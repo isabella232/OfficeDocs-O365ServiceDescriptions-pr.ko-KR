@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: 모든 Microsoft Office 365 Enterprise, Business, Education 및 Government 구독에 대해 Microsoft 고객 지원에서는 세계적인 기술, 사전 판매, 대금 청구 및 구독 지원을 제공합니다. 지원은 Office 365 포털을 통해 온라인으로 제공 되며 유료 및 평가판 구독 모두에 대해 전화로 지원 됩니다. 자세한 내용은 Office 365 지원 옵션을 참조하세요.
 ms.openlocfilehash: 3192d778f402e5a0a64c00f0928ce185b3bb81de
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467535"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247004"
 ---
 # <a name="support"></a>지원
 

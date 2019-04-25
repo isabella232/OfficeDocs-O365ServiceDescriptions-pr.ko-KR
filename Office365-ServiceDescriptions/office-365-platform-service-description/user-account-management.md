@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365에서는 사용자 만들기, 관리 및 인증을 위해 다음과 같은 방법을 지원 합니다.
 ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764856"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247204"
 ---
 # <a name="user-account-management"></a>사용자 계정 관리
 
@@ -71,7 +71,7 @@ SharePoint Online으로 만들어진 익명 액세스에 대한 인터넷 사이
     
 - **클라우드 ID 인증** 클라우드 ID를 가진 사용자는 기존의 시도/응답을 통한 인증 과정을 거칩니다. 웹 브라우저는 Office 365 로그인 서비스로 리디렉션되며, 여기서 회사 또는 학교 계정에 대한 사용자 이름과 암호를 입력합니다. 로그인 서비스는 자격 증명을 인증하고 웹 브라우저가 요청된 서비스를 게시하고 사용자를 로그인하는 서비스 토큰을 생성합니다. 
     
-- **페더레이션 ID 인증** 페더레이션 ID를 가진 사용자는 AD FS(Active Directory Federation Services) 2.0 또는 기타 보안 토큰 서비스를 통한 인증 절차를 거칩니다. 웹 브라우저가 사용자 계정 이름 (예: UPN; isabel@contoso.com)으로 양식에 회사 ID를 입력 하는 Office 365 로그인 서비스로 리디렉션됩니다. 로그인 서비스는 페더레이션 도메인의 일부인지를 결정하고 인증을 위한 온-프레미스 페더레이션 서버로 리디렉션합니다. 도메인에 가입된 데스크톱에 로그인한 경우, Kerberos 또는 NTLMv2를 통한 인증 절차를 거치며 온-프레미스 보안 토큰 서비스는 웹 브라우저가 Office 365 로그인 서비스에 게시하는 로그온 토큰을 생성합니다. 로그인 서비스는 로그온 토큰을 사용하여 웹 브라우저가 요청된 서비스를 게시하고 사용자를 로그인하는 서비스 토큰을 생성합니다. 사용 가능한 보안 토큰 서비스의 목록은 [Single Sign-On 로드맵](https://go.microsoft.com/fwlink/p/?LinkID=270015)을 참조하세요.
+- **페더레이션 ID 인증** 페더레이션 ID를 가진 사용자는 AD FS(Active Directory Federation Services) 2.0 또는 기타 보안 토큰 서비스를 통한 인증 절차를 거칩니다. 웹 브라우저는 Office 365 로그인 서비스로 리디렉션되며, 여기서 isabel@contoso.com과 같이 UPN(사용자 계정 이름) 형식으로 된 기업 ID를 입력합니다. 로그인 서비스는 페더레이션 도메인의 일부인지를 결정하고 인증을 위한 온-프레미스 페더레이션 서버로 리디렉션합니다. 도메인에 가입된 데스크톱에 로그인한 경우, Kerberos 또는 NTLMv2를 통한 인증 절차를 거치며 온-프레미스 보안 토큰 서비스는 웹 브라우저가 Office 365 로그인 서비스에 게시하는 로그온 토큰을 생성합니다. 로그인 서비스는 로그온 토큰을 사용하여 웹 브라우저가 요청된 서비스를 게시하고 사용자를 로그인하는 서비스 토큰을 생성합니다. 사용 가능한 보안 토큰 서비스의 목록은 [Single Sign-On 로드맵](https://go.microsoft.com/fwlink/p/?LinkID=270015)을 참조하세요.
     
 Office 365는 양식 기반 인증을 사용하며, 네트워크의 인증 트래픽은 443 포트를 사용하여 항상 TLS/SSL로 암호화됩니다. 인증 트래픽은 Office 365 서비스를 위해 대역폭 중 미미한 비율만 사용합니다. 
   
@@ -97,7 +97,7 @@ Office 365 서비스의 올바른 인증과 검색을 보장하려면 관리자�
 
 사용하는 Office 365 ID 유형에 따라 로그인 환경이 변경됩니다.
   
-||**클라우드 ID**|**페더레이션 id**|
+||**클라우드 ID**|**페더레이션 ID**|
 |:-----|:-----|:-----|
 |Outlook 2016  <br/> |각 세션에 로그인 <sup>1</sup> <br/> |각 세션에 로그인 <sup>2</sup> <br/> |
 |Outlook 2013  <br/> |각 세션에 로그인 <sup>1</sup> <br/> |각 세션에 로그인 <sup>2</sup> <br/> |

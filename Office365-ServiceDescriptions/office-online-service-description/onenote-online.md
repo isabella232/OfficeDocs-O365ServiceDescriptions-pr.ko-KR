@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: onenote online (이전에는 onenote Web App)을 사용 하 여 어디에서 나 다른 사람과 쉽게 공유할 수 있는 onenote 전자 필기장에 노트를 온라인으로 작성 합니다. 모든 Office 365 고객은 Office Online을 사용하여 Office 파일을 보고 간단히 편집할 수 있습니다.
 ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467025"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247184"
 ---
 # <a name="onenote-online"></a>OneNote Online
 

@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 특정 비즈니스용 Skype 기능을 구입하기 위해 어떤 라이선스가 필요한지 알고 싶나요? 비즈니스용 Skype 라이선스 개요를 참조 하세요.
 ms.openlocfilehash: 311bba2c1d2600136644acef05f2360c4355068b
-ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31833870"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246864"
 ---
 # <a name="skype-for-business-online-service-description"></a>비즈니스용 Skype Online 서비스 설명
 

@@ -18,11 +18,11 @@ ms.custom:
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
 ms.openlocfilehash: 8776294c2a9e03d625b84ac4568e397605e294eb
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764816"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247234"
 ---
 # <a name="office-365-plan-options"></a>Office 365 계획 옵션
 
@@ -39,7 +39,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |**Enterprise(사용자 수 제한 없음)** <br/> |[Office 365 Enterprise E1](https://go.microsoft.com/fwlink/p/?LinkId=286413) <br/> [Office 365 Enterprise E3](https://go.microsoft.com/fwlink/p/?LinkId=286417) <br/> [Office 365 Enterprise E5](https://go.microsoft.com/fwlink/?linkid=786444) <br/> [Office 365 Enterprise F1](https://go.microsoft.com/fwlink/p/?LinkId=286418) <br/> |
 |**Education(사용자 수 제한 없음)** <br/> |[Office 365 Education](https://go.microsoft.com/fwlink/?linkid=824860) <br/> [Office 365 Education E5](https://go.microsoft.com/fwlink/?linkid=824860) <br/> |
 |**Government(사용자 수 제한 없음)** <br/> |[모든 사용 가능한 비즈니스 계획을 참조하세요.](http://go.microsoft.com/fwlink/?LinkID=827898) <br/> |
-|**중국의 21Vianet에서 운영하는 Office 365** <br/> |[모든 사용 가능한 비즈니스 계획을 참조하세요.](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
+|**중국의 21Vianet에서 운영하는 Office 365** <br/> |[사용 가능한 모든 비즈니스 계획 참조](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
 |**Office 365 Germany** <br/> |[모든 사용 가능한 비즈니스 계획을 참조하세요.](https://go.microsoft.com/fwlink/?linkid=839016) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>각 Office 365 계획 내의 서비스 사용 가능 여부
@@ -120,14 +120,14 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
   
 |**서비스**|**계획**|
 |:-----|:-----|
-|Exchange Online  <br/> |[Exchange Online 요금제 1](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online 계획 2](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Exchange Online Advanced Threat Protection](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Exchange Online Archiving](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Exchange Online Kiosk](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
-|SharePoint Online  <br/> |[SharePoint Online 요금제 1](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> [SharePoint Online 요금제 2](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> |
-|비즈니스용 OneDrive  <br/> |[비즈니스용 OneDrive 요금제 1](https://onedrive.live.com/about/en-us/business/) <br/> [비즈니스용 OneDrive 요금제 2](https://onedrive.live.com/about/en-us/business/) <br/> |
-|비즈니스용 Skype Online  <br/> |[비즈니스용 Skype 온라인 계획 1](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> [비즈니스용 Skype Online 요금제 2](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> |
+|Exchange Online  <br/> |[Exchange Online 계획 1](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online 계획 2](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Exchange Online Advanced Threat Protection](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Exchange Online Archiving](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Exchange Online Kiosk](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
+|SharePoint Online  <br/> |[SharePoint Online 계획 1](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> [SharePoint Online 계획 2](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> |
+|비즈니스용 OneDrive  <br/> |[비즈니스용 OneDrive 계획 1](https://onedrive.live.com/about/en-us/business/) <br/> [비즈니스용 OneDrive 계획 2](https://onedrive.live.com/about/en-us/business/) <br/> |
+|비즈니스용 Skype 온라인  <br/> |[비즈니스용 Skype Online 계획 1](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> [비즈니스용 Skype Online 계획 2](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> |
 |Office 응용 프로그램  <br/> |[Office 365 ProPlus](https://go.microsoft.com/fwlink/p/?LinkId=294195) <br/> [Office 365 Business](https://office.microsoft.com/en-us/office-365-business-FX104355718.aspx) <br/> [Office 365 Business Premium](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
 |프로젝트 포트폴리오 관리  <br/> |[Project Online](https://go.microsoft.com/fwlink/p/?LinkId=294196) <br/> |
 |Yammer  <br/> |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkID=691112) <br/> |
-|조직 분석  <br/> |[Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492) <br/> |
+|조직 분석  <br/> |[작업 공간 분석](https://go.microsoft.com/fwlink/?linkid=852492) <br/> |
 |비즈니스 인텔리전스 서비스  <br/> |[Power BI](https://products.office.com/en-us/business/analytics-and-intelligence/home) <br/> |
 |온라인 다이어그램 소프트웨어  <br/> |[Visio Pro for Office 365](https://go.microsoft.com/fwlink/p/?LinkId=317348) <br/> |
 |정보 권한 관리  <br/> |[Azure Information Protection](https://go.microsoft.com/fwlink/p/?LinkId=397530) <br/> |

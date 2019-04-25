@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: Yammer에서는 다음과 같은 받은 편지함 기능을 사용할 수 있습니다.
 ms.openlocfilehash: c3410934cab503b502db9177c2d4df0c357aab01
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466835"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246784"
 ---
 # <a name="inbox-features-in-yammer"></a>Yammer의 받은 편지함 기능
 

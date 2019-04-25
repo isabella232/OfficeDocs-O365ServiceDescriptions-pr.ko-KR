@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online에서는 다음과 같은 핵심 기능 기능을 사용할 수 있습니다.
 ms.openlocfilehash: 79761c672fc36bc6758d30712715ba96f440c032
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467474"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246904"
 ---
 # <a name="core-functionality"></a>핵심 기능
 

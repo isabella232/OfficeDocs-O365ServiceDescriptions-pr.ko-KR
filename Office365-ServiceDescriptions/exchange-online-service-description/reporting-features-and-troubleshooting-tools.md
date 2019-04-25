@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft exchange Online은 EAC (Exchange 관리 센터)에 대 한 다양 한 보고 기능을 제공 합니다.
 ms.openlocfilehash: 1fb9a0fe62fb94c0ace7388613ca26f65fc4698f
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466985"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246374"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>보고 기능 및 문제 해결 도구
 

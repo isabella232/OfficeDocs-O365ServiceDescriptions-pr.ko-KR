@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
-description: 미국 방어 부서에 대 한 고유 하 고 진화 한 요구 사항을 충족 하 고, DoD 정보를 보유 하거나 처리 하는 계약자, itar (무장 규정)의 국제 트래픽에 대 한 주체를 지원 하기 위해 Microsoft는 다음을 제공 합니다. GCC High 및 DoD 환경 볼륨 라이선스를 통해 제공 되는 관심 있는 조직은 환경을 설정 하기 전에 자격을 확인 하기 위해 유효성 검사 프로세스를 진행 합니다. 이번에는 평가판을 사용할 수 없습니다.
+description: 미국 방어 부서에 대 한 고유 하 고 진화 한 요구 사항을 충족 하 고, DoD 정보를 보유 하거나 처리 하는 계약자, itar (무장 규정)의 국제 트래픽에 대 한 주체를 지원 하기 위해 Microsoft는 다음을 제공 합니다. GCC High 및 DoD 환경 볼륨 라이선스를 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재는 평가판을 사용할 수 없습니다.
 ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
-ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379040"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247114"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High 및 DoD
 
-미국 방어 부서에 대 한 고유 하 고 진화 한 요구 사항을 충족 하 고, DoD 정보를 보유 하거나 처리 하는 계약자, itar (무장 규정)의 국제 트래픽에 대 한 주체를 지원 하기 위해 Microsoft는 다음을 제공 합니다. GCC High 및 DoD 환경 볼륨 라이선스를 통해 제공 되는 관심 있는 조직은 환경을 설정 하기 전에 자격을 확인 하기 위해 유효성 검사 프로세스를 진행 합니다. 이번에는 평가판을 사용할 수 없습니다. 
+미국 방어 부서에 대 한 고유 하 고 진화 한 요구 사항을 충족 하 고, DoD 정보를 보유 하거나 처리 하는 계약자, itar (무장 규정)의 국제 트래픽에 대 한 주체를 지원 하기 위해 Microsoft는 다음을 제공 합니다. GCC High 및 DoD 환경 볼륨 라이선스를 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재는 평가판을 사용할 수 없습니다. 
   
 계정 팀 또는 기본 설정 파트너에 참여해서 자세히 알아보거나 유효성 검사 프로세스를 시작하세요.
   
@@ -40,7 +40,7 @@ Office 365에 대 한 방어 가입자의 부서는 dod srg L5를 충족 하는 
   
 ## <a name="background-screening"></a>백그라운드 차단
 
-Office 365 직원은 GCC High 및 DoD 프로덕션에 대 한 액세스 권한이 없습니다. 고객 콘텐츠에 대 한 액세스 권한을 부여 하는 임시 권한 상승을 요청한 모든 직원은 먼저 다음 배경 검사를 통과 해야 합니다.
+Office 365 직원은 GCC High 및 DoD 프로덕션에 대 한 액세스 권한이 없습니다. 고객 콘텐츠에 액세스할 수 있도록 임시 권한 상승을 요청한 모든 직원은 먼저 다음 배경 조사를 통과해야 합니다.
   
 |||
 |:-----|:-----|
@@ -79,7 +79,7 @@ GCC High 및 DoD 환경의 Office 365 구독에는 핵심 Exchange Online, Share
     
 GCC High 또는 DoD 환경에서 SharePoint Online 및 비즈니스용 OneDrive를 사용 하는 고객은 문서를 비공개로 유지 (두 번째 옵션) 하 고 해당 문서에 대 한 링크를 가진 모든 사용자와 공유할 수 있습니다 (세 번째 옵션). GCC High 및 DoD 환경 내의 특정 사용자와 공유 (넷째 옵션) 물론이 옵션은 테 넌 트 수준 액세스 제어에도 제한 될 수 있습니다.
   
-gcc high 테 넌 트는 다른 GCC high 테 넌 트와만 공유할 수 있습니다. 예를 들어:
+gcc high 테 넌 트는 다른 GCC high 테 넌 트와만 공유할 수 있습니다. 예를 들면 다음과 같습니다.
   
 - gcc high 테 넌 트 A는 gcc high 테 넌 트 B와 공유할 수 있습니다.
     
@@ -93,13 +93,13 @@ gcc high 테 넌 트는 다른 GCC high 테 넌 트와만 공유할 수 있습�
   
  **Business connectivity Services** -데이터 원본이 클라우드 서비스에 대 한 보안 경계 내에서 계속 사용할 수 있는 연결 시나리오에서는 BCS 기능이 지원 됩니다. 
   
- **샌드박스 솔루션** -이 기능은 더 이상 사용 되지 않으며 사용할 수 없습니다. 모든 샌드박스 솔루션은 [SharePoint 추가 기능 확장성 모델로 ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx)마이그레이션해야 합니다.
+ **샌드박스 솔루션** -이 기능은 더 이상 사용 되지 않으며 사용할 수 없습니다. 모든 샌드박스 솔루션은 [ SharePoint 추가 기능 확장성 모델 ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx)로 마이그레이션해야 합니다.
   
 ### <a name="skype-for-business-online"></a>비즈니스용 Skype Online
 
  **pstn &amp; 회의** pstn 전화-통신 지향 서비스에 pstn (공중 전화망)을 사용 해야 하는 요구 사항으로 인해 현재 GCC High 및 &amp; DoD에서는 pstn 회의 서비스를 호출 하는 것이 가능 하지 않습니다. 
   
-### <a name="identity"></a>Identity
+### <a name="identity"></a>ID
 
 페더레이션 ID 모델을 사용하는 다단계 인증은 PIV 및 CAC 카드를 사용할 수 있도록 합니다.
   

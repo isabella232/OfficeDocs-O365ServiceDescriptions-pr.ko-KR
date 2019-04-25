@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: powerpoint Online (이전의 powerpoint Web App)을 사용 하면 Microsoft powerpoint 환경을 웹 브라우저로 확장 하 여 프레젠테이션이 저장 된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있습니다. Office Online을 사용하는 Microsoft Office 365 고객은 어디에서나 파일을 보고, 만들고, 편집할 수 있습니다.
 ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467345"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246944"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 

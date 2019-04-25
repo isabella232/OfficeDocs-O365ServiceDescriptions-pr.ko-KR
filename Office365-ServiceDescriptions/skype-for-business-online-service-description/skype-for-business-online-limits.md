@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 비즈니스용 Skype Online의 제한은 다음 범주에 속합니다.
 ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466965"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246464"
 ---
 # <a name="skype-for-business-online-limits"></a>비즈니스용 Skype Online 제한
 

@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online 제한
+title: SharePoint Online 제한 사항
 ms.author: sharik
 author: skjerland
 ms.audience: ITPro
@@ -10,13 +10,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 Enterprise 요금제 및 독립 실행형 요금제의 SharePoint Online 제한 사항에 대해 알아봅니다.
 ms.openlocfilehash: c1b6185c46be6f1343e6679a5b887bab5b393708
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467875"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246614"
 ---
-# <a name="sharepoint-online-limits"></a>SharePoint Online 제한
+# <a name="sharepoint-online-limits"></a>SharePoint Online 제한 사항
 
 Office 365 요금제 및 sharepoint Online 독립 실행형 계획에 대 한 sharepoint 제한을 확인 합니다.
   
@@ -27,7 +27,7 @@ Office 365 요금제 및 sharepoint Online 독립 실행형 계획에 대 한 sh
 |**기능** <br/> |**Office 365 business Essentials 또는 business Premium** <br/> |**Office 365 Enterprise E1, E3 또는 E5, 또는 SharePoint Online 계획 1 또는 2** <br/> | **Office 365 Enterprise F1** <br/> |
 |저장소<sup>1, 2</sup> <br/> |조직 당 1tb 및 구매한 라이선스 당 10gb  <br/> |조직 당 1tb 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |조직 당 1tb 1 <sup></sup> 개 <br/> |
 |사이트 모음에 대 한 저장소  <br/> |사이트 모음 또는 그룹<sup>4</sup> 당 최대 25tb <br/> |사이트 모음 또는 그룹<sup>4</sup> 당 최대 25tb <br/> |사이트 모음 또는 그룹<sup>5</sup> 당 최대 25tb <br/> |
-|조직 당 사이트 모음 수  <br/> |50만<sup>6</sup> <br/> |50만<sup>6</sup> <br/> | 500,000명<br/> |
+|조직 당 사이트 모음 수  <br/> |50만<sup>6</sup> <br/> |50만<sup>6</sup> <br/> |500,000<br/> |
 |사용자 수  <br/> |최대 300  <br/> |1-50만<sup>7</sup> <br/> |1-50만<sup>7</sup> <br/> |
    
 > [!NOTE]

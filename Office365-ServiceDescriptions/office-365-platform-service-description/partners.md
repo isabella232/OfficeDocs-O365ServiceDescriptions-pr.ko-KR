@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: 공인 Microsoft 파트너로서 Microsoft Office 365는 고객층을 확대하고 고객과의 지속적인 관계를 형성하기 위한 기회를 제공합니다. 월 단위 또는 연 단위로 비용을 지불하는 고객은 데이터 백업, 서버 하드웨어 및 서버 업데이트를 관리할 필요가 없는 클라우드 기반 서비스를 사용할 수 있습니다. 사용할 수 있는 서비스는 제공하도록 권한이 부여된 서비스 유형에 따라 다릅니다.
 ms.openlocfilehash: 5967b661ce698479cf618bad06ff3cf75a2f7d47
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467625"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247094"
 ---
 # <a name="partners"></a>파트너
 

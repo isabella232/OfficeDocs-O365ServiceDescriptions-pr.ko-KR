@@ -1,5 +1,5 @@
 ---
-title: 직장 분석 서비스 설명
+title: Workplace Analytics 서비스 설명
 ms.author: sharik
 author: skjerland
 ms.date: 7/31/2018
@@ -11,13 +11,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Microsoft 작업 공간 분석은 비즈니스 의사 결정을 보다 효율적으로 수행 하는 데 도움이 되는 회사의 통신 및 공동 작업 경향을 다양 하 게 수행할 수 있도록 합니다.
 ms.openlocfilehash: 7689a1bcff420b08da80db1d9aa1c9f91d1deed6
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467505"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246824"
 ---
-# <a name="workplace-analytics-service-description"></a>직장 분석 서비스 설명
+# <a name="workplace-analytics-service-description"></a>Workplace Analytics 서비스 설명
 
 Microsoft 작업 공간 분석은 비즈니스 의사 결정을 보다 효율적으로 수행 하는 데 도움이 되는 회사의 통신 및 공동 작업 경향을 다양 하 게 수행할 수 있도록 합니다.
   

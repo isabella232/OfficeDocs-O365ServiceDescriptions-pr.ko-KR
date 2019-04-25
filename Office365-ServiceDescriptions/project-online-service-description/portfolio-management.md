@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Project Online에서는 다음과 같은 포트폴리오 관리 기능을 사용할 수 있습니다.
 ms.openlocfilehash: d6d2993906bdb05ba248108110f0cc44030926d2
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466625"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247034"
 ---
 # <a name="portfolio-management"></a>포트폴리오 관리
 

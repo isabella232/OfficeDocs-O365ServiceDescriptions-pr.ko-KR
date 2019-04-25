@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: excel Online (이전의 excel Web App)을 사용 하면 Microsoft excel 환경을 웹 브라우저로 확장 하 여 통합 문서가 저장 된 웹 사이트에서 통합 문서를 직접 사용할 수 있습니다. 모든 Office 365 고객은 Office Online을 사용하여 Office 파일을 보고 간단히 편집할 수 있습니다.
 ms.openlocfilehash: bfbf1f354d7bc5fdc4e8539885498d360ef67faa
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467385"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246984"
 ---
 # <a name="excel-online"></a>Excel Online
 

@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다. Exchange Online Protection을 제공하는 계획 목록과 계획 간 기능 비교가 포함되어 있습니다.
 ms.openlocfilehash: b90b480df4fb4116ab75f5d25428be86a9395ae0
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955767"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246114"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 서비스 설명
 

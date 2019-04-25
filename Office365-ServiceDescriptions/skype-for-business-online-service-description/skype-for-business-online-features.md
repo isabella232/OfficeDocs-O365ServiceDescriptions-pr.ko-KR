@@ -1,5 +1,5 @@
 ---
-title: 비즈니스용 Skype 온라인 기능
+title: 비즈니스용 Skype Online 기능
 ms.author: sharik
 author: skjerland
 manager: supotter
@@ -12,13 +12,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 관리자 인 경우 비즈니스용 skype online 설정에서 비즈니스용 skype online 기능을 설정 하는 방법에 대 한 자세한 지침을 확인할 수 있습니다.
 ms.openlocfilehash: cb7d2d64f12561b97290148045dc2280718011d4
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467435"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246385"
 ---
-# <a name="skype-for-business-online-features"></a>비즈니스용 Skype 온라인 기능
+# <a name="skype-for-business-online-features"></a>비즈니스용 Skype Online 기능
 
 관리자 인 경우 비즈니스용 [skype online 설정](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e)에서 비즈니스용 skype online 기능을 설정 하는 방법에 대 한 자세한 지침을 확인할 수 있습니다.
   

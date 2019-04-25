@@ -227,7 +227,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 다음 제한은 모든 전자 메일 메시지에 적용됩니다.
   
-- **메시지 크기 제한** 대용량 메시지가 다른 메시지의 배달을 차단하거나 사용자에 대한 서비스 성능에 영향을 미치지 않도록 하려면 메시지 크기 제한이 필요합니다. 이 제한은 첨부 파일을 포함하며 조직 전체에 대한 모든 메시지(인바운드, 아웃바운드, 내부)에 적용됩니다. 이 제한보다 큰 메시지는 배달되지 않으며, 보낸 사람에게는 배달 못 함 보고서(NDR)가 전송됩니다. 메시지 크기 제한은 더 크게, 더 작게 또는 각 사용자별로 구성할 수 있으며, 관리자는 전송 규칙을 만들어 모든 개별 첨부 파일의 최대 크기를 제한할 수도 있습니다. 자세한 내용은 [Office 365에서 더 큰 전자 메일 메시지 지원](https://www.microsoft.com/ko-KR/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)을 참조하세요.
+- **메시지 크기 제한** 대용량 메시지가 다른 메시지의 배달을 차단하거나 사용자에 대한 서비스 성능에 영향을 미치지 않도록 하려면 메시지 크기 제한이 필요합니다. 이 제한은 첨부 파일을 포함하며 조직 전체에 대한 모든 메시지(인바운드, 아웃바운드, 내부)에 적용됩니다. 이 제한보다 큰 메시지는 배달되지 않으며, 보낸 사람에게는 배달 못 함 보고서(NDR)가 전송됩니다. 메시지 크기 제한은 더 크게, 더 작게 또는 각 사용자별로 구성할 수 있으며, 관리자는 전송 규칙을 만들어 모든 개별 첨부 파일의 최대 크기를 제한할 수도 있습니다. 자세한 내용은 [Office 365에서 더 큰 전자 메일 메시지 지원](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)을 참조하세요.
     
     > [!NOTE]
     > 특정 전자 메일 클라이언트의 메시지 크기 제한 또는 개별 첨부 파일의 크기 제한은 Exchange Online 메시지 크기 제한 값보다 작을 수 있습니다. 
@@ -267,7 +267,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |포함 메시지 수준 제한  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 사서함의 기본 최대 메시지 크기는 25MB입니다. Office 365 관리자는 1MB ~ 150MB 사이의 사용자 지정 제한을 지정할 수 있습니다. 그러나 보내거나 받을 수 있는 메시지의 크기는 전자 메일 클라이언트 또는 솔루션이 지원하는 크기에 따라서도 좌우됩니다. 조직에 허용되는 최대 메시지 크기를 사용자 지정하는 방법에 대한 자세한 내용은 [Office 365에서 더 큰 전자 메일 메시지 지원](https://www.microsoft.com/ko-KR/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)을 참조하세요. <br/> <sup>2</sup> Office 365 사용자 간에 최대 150MB의 메시지를 보내고 받을 수 있습니다(메시지가 Office 365 데이터 센터를 벗어나지 않을 경우). Office 365 데이터 센터 외부로 전송되는 메시지는 변환 인코딩이 추가로 33% 증가할 수 있습니다. 이 경우 최대 메시지 크기는 112MB가 됩니다. <br/> <sup>3</sup> OWA는 메시지의 인코딩이 33% 증가할 가능성을 고려하여 사용자가 보낼 수 있는 메시지 크기를 구성된 설정보다 25% 작게 제한합니다. 예를 들어 100MB의 최대 메시지 크기에 대한 설정을 사용자 지정하는 경우 75MB보다 크지 않은 메시지를 보낼 수 있습니다. <br/> <sup>4</sup> Exchange Online으로 이동될 메시지 크기는 Exchange Online에서 계산됩니다. Exchange Server 2013 이전의 Exchange 버전에서는 좀 더 작은 항목 크기를 보고할 수 있습니다. 이 제한은 지원되는 Exchange 사서함 복제 서비스를 사용하는 이동 기반 마이그레이션에 적용됩니다. 다른 마이그레이션 방법(단독형, 미리 구성, IMAP, PST) 및 기타 타사 도구는 일반 메시지 크기 제한에 따라 제한됩니다. <br/> 
+> <sup>1</sup> Office 365 사서함의 기본 최대 메시지 크기는 25MB입니다. Office 365 관리자는 1MB ~ 150MB 사이의 사용자 지정 제한을 지정할 수 있습니다. 그러나 보내거나 받을 수 있는 메시지의 크기는 전자 메일 클라이언트 또는 솔루션이 지원하는 크기에 따라서도 좌우됩니다. 조직에 허용되는 최대 메시지 크기를 사용자 지정하는 방법에 대한 자세한 내용은 [Office 365에서 더 큰 전자 메일 메시지 지원](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)을 참조하세요. <br/> <sup>2</sup> Office 365 사용자 간에 최대 150MB의 메시지를 보내고 받을 수 있습니다(메시지가 Office 365 데이터 센터를 벗어나지 않을 경우). Office 365 데이터 센터 외부로 전송되는 메시지는 변환 인코딩이 추가로 33% 증가할 수 있습니다. 이 경우 최대 메시지 크기는 112MB가 됩니다. <br/> <sup>3</sup> OWA는 메시지의 인코딩이 33% 증가할 가능성을 고려하여 사용자가 보낼 수 있는 메시지 크기를 구성된 설정보다 25% 작게 제한합니다. 예를 들어 100MB의 최대 메시지 크기에 대한 설정을 사용자 지정하는 경우 75MB보다 크지 않은 메시지를 보낼 수 있습니다. <br/> <sup>4</sup> Exchange Online으로 이동될 메시지 크기는 Exchange Online에서 계산됩니다. Exchange Server 2013 이전의 Exchange 버전에서는 좀 더 작은 항목 크기를 보고할 수 있습니다. 이 제한은 지원되는 Exchange 사서함 복제 서비스를 사용하는 이동 기반 마이그레이션에 적용됩니다. 다른 마이그레이션 방법(단독형, 미리 구성, IMAP, PST) 및 기타 타사 도구는 일반 메시지 크기 제한에 따라 제한됩니다. <br/> 
   <sup>5</sup> 새로운 기능이 있는 OME에 관한 정보는 [Azure Information Protection을 기반으로 빌드된 새 Office 365 Message Encryption 기능 설정](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)을 참조하세요. <br/> <sup>6</sup> 35MB를 초과하는 단일 파일을 첨부할 수 없습니다. 또한 전체적으로 35MB를 초과하는 파일도 첨부할 수 없습니다. 예를 들어, 34MB 파일 하나를 첨부한 경우 추가로 1MB의 파일만 더 첨부할 수 있습니다. 
   
 ### <a name="message-limits-across-standalone-options"></a>독립 실행형 옵션별 메시지 제한
@@ -290,7 +290,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |포함 메시지 수준 제한  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 관리자는 1MB ~ 150MB 사이의 사용자 지정 제한을 지정할 수 있습니다. 그러나 보내거나 받을 수 있는 메시지의 크기는 전자 메일 클라이언트 또는 솔루션이 지원하는 크기에 따라서도 좌우됩니다. 조직에 허용되는 최대 메시지 크기를 사용자 지정하는 방법에 대한 자세한 내용은 [Office 365에서 더 큰 전자 메일 메시지 지원](https://www.microsoft.com/ko-KR/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)을 참조하세요. <br/> <sup>2</sup> Office 365 사용자 간에 최대 150MB의 메시지를 보내고 받을 수 있습니다(메시지가 Office 365 데이터 센터를 벗어나지 않을 경우). Office 365 데이터 센터 외부로 전송되는 메시지는 변환 인코딩이 추가로 33% 증가할 수 있습니다. 이 경우 최대 메시지 크기는 112MB가 됩니다. <br/> <sup>3</sup> OWA는 메시지의 인코딩이 33% 증가할 가능성을 고려하여 사용자가 보낼 수 있는 메시지 크기를 구성된 설정보다 25% 작게 제한합니다. 예를 들어 100MB의 최대 메시지 크기에 대한 설정을 사용자 지정하는 경우 75MB보다 크지 않은 메시지를 보낼 수 있습니다. <br/> <sup>4</sup> Exchange Server 2013 조직의 기본 제한입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다. <br/> <sup>5</sup> Exchange Online으로 이동될 메시지 크기는 Exchange Online에서 계산됩니다. Exchange Server 2013 이전의 Exchange 버전에서는 좀 더 작은 항목 크기를 보고할 수 있습니다. <br/> 
+> <sup>1</sup> Office 365 관리자는 1MB ~ 150MB 사이의 사용자 지정 제한을 지정할 수 있습니다. 그러나 보내거나 받을 수 있는 메시지의 크기는 전자 메일 클라이언트 또는 솔루션이 지원하는 크기에 따라서도 좌우됩니다. 조직에 허용되는 최대 메시지 크기를 사용자 지정하는 방법에 대한 자세한 내용은 [Office 365에서 더 큰 전자 메일 메시지 지원](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)을 참조하세요. <br/> <sup>2</sup> Office 365 사용자 간에 최대 150MB의 메시지를 보내고 받을 수 있습니다(메시지가 Office 365 데이터 센터를 벗어나지 않을 경우). Office 365 데이터 센터 외부로 전송되는 메시지는 변환 인코딩이 추가로 33% 증가할 수 있습니다. 이 경우 최대 메시지 크기는 112MB가 됩니다. <br/> <sup>3</sup> OWA는 메시지의 인코딩이 33% 증가할 가능성을 고려하여 사용자가 보낼 수 있는 메시지 크기를 구성된 설정보다 25% 작게 제한합니다. 예를 들어 100MB의 최대 메시지 크기에 대한 설정을 사용자 지정하는 경우 75MB보다 크지 않은 메시지를 보낼 수 있습니다. <br/> <sup>4</sup> Exchange Server 2013 조직의 기본 제한입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다. <br/> <sup>5</sup> Exchange Online으로 이동될 메시지 크기는 Exchange Online에서 계산됩니다. Exchange Server 2013 이전의 Exchange 버전에서는 좀 더 작은 항목 크기를 보고할 수 있습니다. <br/> 
   <sup>6</sup> 새로운 기능이 있는 OME에 관한 정보는 [Azure Information Protection을 기반으로 빌드된 새 Office 365 Message Encryption 기능 설정](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)을 참조하세요. 
   
 ## <a name="receiving-and-sending-limits"></a>수신 및 전송 제한
@@ -443,7 +443,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
     
 - **전달받는 사람 제한** 리디렉션 작업을 통해 받은 편지함 또는 전송 규칙에 대해 구성할 수 있는 최대 받는 사람 수입니다. 이 받는 사람 수보다 많은 사람에게 메시지를 리디렉션하도록 구성하는 규칙은 적용되지 않으며, 규칙 조건을 충족하는 메시지는 규칙에 나와 있는 받는 사람에게 리디렉션되지 않습니다. 
     
-- **메시지 리디렉션 횟수** 받은 편지함 규칙을 기준으로 메시지를 자동으로 리디렉션, 전달 또는 회신할 횟수입니다. 보낸 사람을 기준으로 메시지를 사용자 B에게 리디렉션하는 받은 편지함 규칙이 사용자 A에게 적용되는 경우를 예로 들어 보겠습니다. 사용자 B의 경우에는 제목 줄의 키워드를 기준으로 메시지를 사용자 C에게 전달하는 받은 편지함 규칙이 적용됩니다. 이 두 조건을 모두 충족하는 메시지는 사용자 B에게만 발송됩니다. 리디렉션은 한 번만 허용되므로 사용자 C에게는 메시지가 전달되지 않습니다. 이 경우 사용자 C에게 메시지가 배달되지 않았음을 나타내는 NDR(배달 못 함 보고서)을 사용자 B에게 보내지 않고 메시지가 삭제됩니다. 
+- **메시지가 리디렉션되는** 횟수 받은 편지함 규칙을 기반으로 메시지를 리디렉션하고 전달 하거나 자동으로 회신 하는 횟수입니다. 예를 들어, 사용자 A에게는 보낸 사람에 따라 사용자 B에게 메시지를 리디렉션하는 받은 편지함 규칙이 있고, 사용자 B에게는 제목 행의 키워드에 따라 사용자 C에게 메시지를 전달하는 받은 편지함 규칙이 있습니다. 리디렉션은 1회만 허용되므로 메시지가 이러한 조건을 모두 충족시키는 경우 사용자 B에게만 전송되며 사용자 C에게는 전송되지 않습니다. 이러한 두 조건을 충족 하는 메시지는 사용자 B로만 전송 됩니다. 리디렉션이 하나만 허용 되므로 사용자 C에 게 전달 되지 않습니다. 이 경우 사용자 B에 게 메시지를 사용자 C로 배달 하지 않았다는 NDR (배달 못 함 보고서)을 보내지 않고 메시지가 삭제 됩니다. 메시지를 리디렉션한 횟수를 결정 하는 데에는 X-MS-수신함-Rules-Loop 헤더를 사용 합니다. 이 헤더는 Exchange 조직 경계를 넘어도 유지 됩니다.
     
 ### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>Office 365 옵션별 저널, 전송 및 받은 편지함 규칙 제한
 
@@ -527,7 +527,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Exchange ActiveSync 장치 제한  <br/> |100  <br/> |100  <br/> |100  <br/> |100  <br/> |100  <br/> |100  <br/> |
-|Exchange ActiveSync 장치 삭제 제한  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |
+|Exchange ActiveSync 장치 삭제 제한  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |20cm(8  <br/> |
 |Exchange ActiveSync 첨부 파일 제한  <br/> |25MB  <br/> |25MB  <br/> |25MB  <br/> |25MB  <br/> |25MB  <br/> |25MB  <br/> |
    
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>독립 실행형 옵션에서 Exchange ActiveSync 제한
@@ -536,5 +536,5 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |:-----|:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Exchange Server 2013** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
 |Exchange ActiveSync 장치 제한  <br/> |100  <br/> |100  <br/> |100  <br/> |100  <br/> |
-|Exchange ActiveSync 장치 삭제 제한  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |
+|Exchange ActiveSync 장치 삭제 제한  <br/> |20  <br/> |20  <br/> |20  <br/> |20cm(8  <br/> |
 |Exchange ActiveSync 첨부 파일 제한  <br/> |25MB  <br/> |25MB  <br/> |25MB  <br/> |25MB  <br/> |

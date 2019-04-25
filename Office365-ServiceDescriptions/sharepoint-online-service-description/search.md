@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
 description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음의 검색 기능은 업무 처리에 필요한 정보를 찾을 수 있게 도와 줍니다. 검색은 관련성, 구체화 및 사용자 검색의 조합입니다.
 ms.openlocfilehash: 2dc56b1bafaf25c61d07052108267d8beebc0c03
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467636"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246624"
 ---
 # <a name="search"></a>검색
 
@@ -49,7 +49,7 @@ SharePoint에서는 사용자 검색 범주에서 특정 기술이나 전문성�
 
 새로운 그래픽 구체화 기능을 사용하면 보다 시각적인 방식으로 검색 결과를 필터링할 수 있습니다. [구체화 웹 파트 구성](https://go.microsoft.com/fwlink/?LinkId=271017)에 대해 더 자세히 알아보세요.
   
-## <a name="hybrid-search"></a>하이브리드 검색
+## <a name="hybrid-search"></a>Hybrid search
 <a name="bkmk_HybridSearch"> </a>
 
 하이브리드 방식으로 SharePoint를 배포한 경우에는 SharePoint Online과 SharePoint Server 2013 온-프레미스 사이트 둘 모두에서 검색 결과 콘텐츠를 가져올 수 있습니다. 하이브리드 SharePoint 환경에 대한 자세한 내용은 [하이브리드 SharePoint Server 2013](https://go.microsoft.com/fwlink/?LinkId=275765)을 참조하세요.

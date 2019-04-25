@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 현재 Exchange Online Protection에 대 한 제한은 다음과 같습니다. 이러한 제한은 다른 설명이 없는 한 구성할 수 없습니다.
 ms.openlocfilehash: 3c96449b2694dba470f6860f8324d86bb84d3774
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468145"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245634"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 제한
 
@@ -50,7 +50,7 @@ ms.locfileid: "30468145"
 |**기능**|****EOP 독립 실행형****|****EOP 기능: Exchange Online****|****Exchange Enterprise CAL with Services****|
 |:-----|:-----|:-----|:-----|
 |도메인 제한  <br/> |900  <br/> |900  <br/> |900  <br/> |
-|메시지 크기 제한(첨부 파일 포함)  <br/> |150MB   <br/> |150MB  <br/> |150MB  <br/> |
+|메시지 크기 제한(첨부 파일 포함)  <br/> |150MB  <br/> |150MB  <br/> |150MB  <br/> |
 |받는 사람 제한  <br/> |위의 "받는 사람 제한" 참조  <br/> |호스트된 사서함에서 보낼 경우 받는 사람 500명. 다른 시나리오의 경우 위의 "받는 사람 제한" 참조  <br/> |위의 "받는 사람 제한" 참조  <br/> |
 |수신 허용 제한  <br/> |항목 1024개  <br/> |항목 1024개  <br/> ||
 |수신 거부 제한  <br/> |항목 1024개  <br/> |항목 1024개  <br/> ||

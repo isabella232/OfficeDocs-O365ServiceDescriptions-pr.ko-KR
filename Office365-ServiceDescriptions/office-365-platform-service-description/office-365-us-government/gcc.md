@@ -10,23 +10,23 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
-description: '미국 정부를 대신하여 데이터를 저장하거나 처리하는 계약자뿐만 아니라 미국 연방, 주, 지방 및 자치 정부의 고유하고 진화된 요구 사항을 충족시키기 위해 Microsoft에서는 Office 365 US GCC(Government Community) 서비스를 제공합니다. 볼륨 라이선스를 비롯한 여러 채널을 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재 평가판은 미국 정부 기관에만 제공됩니다. '
+description: 미국 정부를 대신 하 여 데이터를 보관 하거나 처리할 수 있는 정부 뿐 아니라 미국의 연방, 주, 로컬 및 부족에 대 한 고유한 요구 사항과 진화 하는 규정을 충족 하기 위해 Microsoft에서는 Office 365 GCC (미국 정부 커뮤니티) 서비스를 제공 합니다. 볼륨 라이선스를 비롯한 여러 채널을 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재 평가판은 미국 정부 기관에만 제공됩니다.
 ms.openlocfilehash: 7df7e2eec3de11513370f14fe5d1ebfd2faac24a
-ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379030"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247134"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
-미국 정부를 대신하여 데이터를 저장하거나 처리하는 계약자뿐만 아니라 미국 연방, 주, 지방 및 자치 정부의 고유하고 진화된 요구 사항을 충족시키기 위해 Microsoft에서는 Office 365 US GCC(Government Community) 서비스를 제공합니다. 볼륨 라이선스를 비롯한 여러 채널을 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재 평가판은 미국 정부 기관에만 제공됩니다.  
+미국 정부를 대신 하 여 데이터를 보관 하거나 처리할 수 있는 정부 뿐 아니라 미국의 연방, 주, 로컬 및 부족에 대 한 고유한 요구 사항과 진화 하는 규정을 충족 하기 위해 Microsoft에서는 Office 365 GCC (미국 정부 커뮤니티) 서비스를 제공 합니다. 볼륨 라이선스를 비롯한 여러 채널을 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재 평가판은 미국 정부 기관에만 제공됩니다. 
   
 계정 팀 또는 기본 설정 파트너에 참여해서 자세히 알아보거나 유효성 검사 프로세스를 시작하세요. 추가 정보는 [Compare Office 365 Government 요금제](https://products.office.com/en-us/government/compare-office-365-government-plans) 페이지에서 찾을 수 있습니다. 
   
 ## <a name="how-to-use-this-service-description-section"></a>서비스 설명 섹션 사용 방법
 
-Office 365 US Government 서비스 설명은 일반 Office 365 서비스 설명에 대한 오버레이로 사용하도록 디자인되어 있습니다. Office 365 Enterprise 제품과 비교하여 고유한 확정 및 차이점을 정의합니다.
+Office 365 Government 서비스 설명은 일반 Office 365 서비스 설명에 대한 오버레이로 사용하도록 디자인되어 있습니다. Office 365 Enterprise 제품과 비교하여 고유한 확정 및 차이점을 정의합니다.
   
 ## <a name="us-government-community-compliance"></a>미국 정부 커뮤니티 준수
 

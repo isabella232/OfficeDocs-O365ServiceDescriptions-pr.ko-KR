@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 business는 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 제공 하는 Office 365의 최고급 생산성을 함께 제공 하는 통합 솔루션입니다. . 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다. office 365에 대 한 자세한 내용은 office 365 서비스 설명을 참조 하세요.
 ms.openlocfilehash: d138e2afbc9bdeb7fd81e9a1c60fa03b91e1a373
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764826"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246419"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business 서비스 설명
 
@@ -30,7 +30,7 @@ office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
   
 ||||
 |:-----|:-----|:-----|
-|**요금제 옵션** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|**계획 옵션** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Office 365 플랫폼  <br/> |예  <br/> |예  <br/> |
 |Exchange Online  <br/> |예<sup>1</sup> <br/> |예<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |예  <br/> |예  <br/> |

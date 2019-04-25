@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Microsoft office 365의 관리자는 조직에서 Office 365 서비스를 사용 하는 방법을 보여 주는 보고서를 볼 수 있습니다. 이러한 보고서를 사용하면 문제를 확인하고 데이터를 필터링하며 데이터를 Microsoft Excel에 다운로드할 수 있습니다. Office 365 보고 웹 서비스를 사용하여 자체 보고서를 만들 수도 있습니다. Exchange Online 및 EOP(Exchange Online Protection) 관리자는 Office 365의 메일 보호 보고서를 사용하여 맬웨어, 스팸 및 규칙 감지에 대한 데이터 보기를 수행할 수 있습니다.
 ms.openlocfilehash: 0ad1389e9c3bb7c400368389739f62abed62b275
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466635"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247054"
 ---
 # <a name="reports"></a>보고서
 

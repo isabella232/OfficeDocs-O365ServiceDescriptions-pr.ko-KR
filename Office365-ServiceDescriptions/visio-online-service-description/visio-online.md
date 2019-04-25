@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio Online은 다이어그램이 저장 된 웹 사이트에서 직접 다이어그램을 사용할 수 있는 Microsoft Visio 환경을 웹 브라우저로 확장 합니다. Microsoft office 365 Office Online을 사용 하는 고객은 다이어그램을 보고 공유 하 고 이동 중에 의견을 삽입할 수 있습니다.
 ms.openlocfilehash: 54c57a095d3689e9e6879f8c4a74ae4bbaeac315
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467565"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246564"
 ---
 # <a name="visio-online"></a>Visio Online
 

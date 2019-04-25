@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 바로 출시 되었거나 출시 될 Office 365 기능에 대 한 자세한 내용은 Microsoft 365 로드맵를 참조 하세요.
 ms.openlocfilehash: dc9896215787cbd2477ddbf7826415d98b98616b
-ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31833846"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247016"
 ---
 # <a name="service-updates"></a>서비스 업데이트
 

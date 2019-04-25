@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 관리자는 서비스 상태를 보고 유지 관리 예정 시간을 확인할 수 있습니다. 서비스 상태 정보는 언제 든 지 Office 365에 로그인 하 여 사용할 수 있습니다.
 ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
-ms.sourcegitcommit: 61351f48b8662ed5b39b9cce896dd6bb2db0fe32
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30574142"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247044"
 ---
 # <a name="service-health-and-continuity"></a>서비스 상태 및 연속성
 

@@ -1,5 +1,5 @@
 ---
-title: myanalytics 서비스 설명
+title: MyAnalytics 서비스 설명
 ms.author: sharik
 author: skjerland
 ms.reviewer: v-pascha
@@ -11,13 +11,13 @@ ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: myanalytics--기능, 배포판, 개인 정보 및 필수 구성 요소
 ms.openlocfilehash: e0e060674b72bd278ef237e505ca05ef1e082db1
-ms.sourcegitcommit: 2bfe568fee1abb958ba6546a79bb27c01325ee9f
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "30642228"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246504"
 ---
-# <a name="myanalytics-service-description"></a>myanalytics 서비스 설명
+# <a name="myanalytics-service-description"></a>MyAnalytics 서비스 설명
 
 myanalytics는 작업 시간을 지출 하는 방법을 요약 한 다음, 보다 효율적으로 작동 하는 방법을 제안 합니다. myanalytics에서는 Microsoft Outlook 또는 웹 브라우저를 통해 액세스할 수 있는 [요소](#elements) 를 통해 이러한 정보를 제공 합니다.
 

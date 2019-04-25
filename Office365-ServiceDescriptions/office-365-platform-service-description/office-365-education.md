@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 microsoft Exchange online, microsoft SharePoint online, Office Online을 비롯 하 여 익숙한 microsoft Office 데스크톱 제품군과 클라우드 기반 microsoft의 차세대 통신 및 공동 작업 서비스를 함께 제공 합니다. Microsoft 비즈니스용 Skype Online-사용자가 인터넷을 통해 어디서 나 생산성을 유지 하는 데 도움이 됩니다.
 ms.openlocfilehash: 4cf3b4220fb56e21d8105dee9ac8ea447845bcf9
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467995"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247294"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -37,7 +37,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |Exchange Online  <br/> |예<sup>5</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |
 |SharePoint Online  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|비즈니스용 Skype 온라인  <br/> |예<sup>7</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |
+|비즈니스용 Skype Online  <br/> |예<sup>7</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |
 |Office Online  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 응용 프로그램  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |Project Online  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |
@@ -77,7 +77,7 @@ office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |Microsoft StaffHub  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Stream<sup>8</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Sway  <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |
-|Microsoft 팀  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Microsoft Teams  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office Delve  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365 그룹  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365 비디오  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -157,7 +157,7 @@ office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |Office 365 Advanced eDiscovery<sup>7</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |보안 점수<sup>5</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|**[준수 [servicedesc]](compliance-servicedesc.md)** <br/> ||||
+|**[규정 준수[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
 |SAS 70 / SSAE16 평가  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |ISO 27001 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |EU 모델 조항  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -412,17 +412,17 @@ Microsoft Exchange Online의 제한은 다음 범주 중 하나에 속합니다.
     
 - [사서함 저장소 제한](office-365-education.md#mailbox-storage-limits)
     
-- [용량 경고](office-365-education.md#capacity-alerts)
+- [Capacity alerts](office-365-education.md#capacity-alerts)
     
-- [사서함 폴더 제한](office-365-education.md#mailbox-folder-limits)
+- [Mailbox folder limits](office-365-education.md#mailbox-folder-limits)
     
-- [메시지 제한](office-365-education.md#message-limits)
+- [Message limits](office-365-education.md#message-limits)
     
 - [수신 및 전송 제한](office-365-education.md#receiving-and-sending-limits)
     
-- [보고 및 메시지 추적 제한](office-365-education.md#reporting-and-message-trace-limits)
+- [Reporting and message trace limits](office-365-education.md#reporting-and-message-trace-limits)
     
-- [보존 제한](office-365-education.md#retention-limits)
+- [Retention limits](office-365-education.md#retention-limits)
     
 - [메일 그룹 제한](office-365-education.md#distribution-group-limits)
     
@@ -465,16 +465,16 @@ Microsoft Exchange Online의 제한은 다음 범주 중 하나에 속합니다.
 |||||
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|사용자 사서함  <br/> |50GB  <br/> |100GB  <br/> |100GB  <br/> |
-|보관 사서함<sup>6, 7</sup> <br/> |무제한<sup>1</sup> <br/> |무제한<sup>1</sup> <br/> |무제한<sup>1</sup> <br/> |
-|공유 사서함  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |
-|리소스 사서함  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |
+|사용자 사서함  <br/> |50 GB  <br/> |100GB  <br/> |100GB  <br/> |
+|보관 사서함<sup>6, 7</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
+|공유 사서함  <br/> |50GB<sup>2</sup> <br/> |50GB<sup>2</sup> <br/> |50GB<sup>2</sup> <br/> |
+|리소스 사서함  <br/> |50GB<sup>3</sup> <br/> |50GB<sup>3</sup> <br/> |50GB<sup>3</sup> <br/> |
 |사이트 사서함<sup>4</sup> <br/> |50GB  <br/> |50GB  <br/> |50GB  <br/> |
 |공용 폴더 사서함  <br/> |50 GB<sup>5</sup> <br/> |100 GB<sup>5</sup> <br/> |100 GB<sup>5</sup> <br/> |
 |그룹 사서함  <br/> |50GB  <br/> |50GB  <br/> |50GB  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 각 사용자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 Office 365 무제한 보관의 개요를 참조하세요. 가용성에 대한 자세한 내용은 Office 365 로드맵을 참조하세요. > <sup>2</sup> 공유 사서함에 액세스하려면 사용자에게 Exchange Online 라이선스가 있어야 합니다. 공유 사서함에는 별도의 라이선스가 필요하지 않습니다. 그러나 원본 위치 보관 기능을 사용하도록 설정하거나 공유 사서함에 원본 위치 유지 또는 소송 보존을 넣으려면 Exchange Online Archiving을 사용하는 Exchange Online 계획 2 라이선스 또는 Exchange Online 계획 1 라이선스가 필요합니다. 공유 사서함에 대한 원본 위치 보관 기능과 자동 확장 보관을 사용하도록 설정하는 경우 보관 사서함이 100GB의 저장소 용량에 도달하면 추가 저장소가 자동으로 추가됩니다. > <sup>3</sup> 리소스 사서함에는 라이선스가 필요하지 않습니다. > <sup>4</sup> 사이트 사서함은 SharePoint Online에서 만들어지고 관리 됩니다. 자세한 내용은 Office 365에서 사이트 사서함 사용 준비를 참조하세요. > <sup>5</sup> 공용 폴더 사서함은 1000 개 까지만 사용할 수 있으며 모든 공용 폴더 사서함의 최대 크기는 50 TB입니다. > <sup>6</sup> 원본 위치 보관은 라이선스가 적용 된 단일 사용자나 엔터티의 메일을 보관 하는 경우 (예: 공유 사서함)에만 사용할 수 있습니다. 여러사용자나 엔터티의 메일을 저장하는 목적으로 원본 위치 보관함을 사용할 수는 없습니다. 예를 들어 IT 관리자는 공유 사서함을 만들 수 없고, 사용자가 명백히 보관을 목적으로 참조, 숨은 참조 필드 또는 전송 규칙을 통해 복사하도록 할 수 없습니다. 여러 사람이 사용하는 공유 사서함은 실제로 해당 개별 사용자의 전자 메일을 저장하지 않습니다. 여러 사용자에게 액세스 권한이 있으며 이러한 사용자는 공유 사서함으로 전자 메일을 보냅니다. 따라서 공유 사서함에 저장 된 전자 메일은 공유 사서함으로 전송 됩니다. > <sup>7</sup> Exchange Online에서 보존 정책을 만든 경우 사용자의 기본 사서함이 10mb 보다 크면 메시지가 사용자의 보관 사서함으로 자동으로 이동 됩니다. 10MB보다 작은 사서함에 대해서는 보존 정책이 자동으로 실행되지 않습니다. 
+> <sup>1</sup> 각 사용자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 Office 365 무제한 보관의 개요를 참조하세요. 가용성에 대한 자세한 내용은 Office 365 로드맵을 참조하세요. > <sup>2</sup> 공유 사서함에 액세스하려면 사용자에게 Exchange Online 라이선스가 있어야 합니다. 공유 사서함에는 별도의 라이선스가 필요하지 않습니다. 그러나 원본 위치 보관 기능을 사용하도록 설정하거나 공유 사서함에 원본 위치 유지 또는 소송 보존을 넣으려면 Exchange Online Archiving을 사용하는 Exchange Online 계획 2 라이선스 또는 Exchange Online 계획 1 라이선스가 필요합니다. 공유 사서함에 대한 원본 위치 보관 기능과 자동 확장 보관을 사용하도록 설정하는 경우 보관 사서함이 100GB의 저장소 용량에 도달하면 추가 저장소가 자동으로 추가됩니다. > <sup>3</sup> 리소스 사서함에는 라이선스가 필요하지 않습니다. > <sup>4</sup> 사이트 사서함은 SharePoint Online에서 만들어지고 관리 됩니다. 자세한 내용은 Office 365에서 사이트 사서함 사용 준비를 참조하세요. > <sup>5</sup> 공용 폴더 사서함은 1000 개 까지만 사용할 수 있으며 모든 공용 폴더 사서함의 최대 크기는 50 TB입니다. > <sup>6</sup> 원본 위치 보관은 라이선스가 적용 된 단일 사용자나 엔터티의 메일을 보관 하는 경우 (예: 공유 사서함)에만 사용할 수 있습니다. 여러사용자나 엔터티의 메일을 저장하는 목적으로 원본 위치 보관함을 사용할 수는 없습니다. 예를 들어 IT 관리자는 공유 사서함을 만들 수 없고, 사용자가 명백히 보관을 목적으로 참조, 숨은 참조 필드 또는 전송 규칙을 통해 복사하도록 할 수 없습니다. 여러 사람이 사용하는 공유 사서함은 실제로 해당 개별 사용자의 전자 메일을 저장하지 않습니다. 여러 사용자에게 액세스 권한이 있으며 이러한 사용자는 공유 사서함으로 전자 메일을 보냅니다. 따라서 공유 사서함에 저장 된 전자 메일은 공유 사서함으로 전송 됩니다. > <sup>7</sup> Exchange Online에서 보존 정책을 만든 경우 사용자의 기본 사서함이 10mb 보다 크면 메시지가 사용자의 보관 사서함으로 자동으로 이동 됩니다. 10MB 보다 작은 사서함에 대해서는 보존 정책이 자동으로 실행되지 않습니다. 
   
 #### <a name="capacity-alerts"></a>용량 경고
 <a name="CapacityAlerts"> </a>
@@ -492,7 +492,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |**기능** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |경고  <br/> |49GB  <br/> |98GB  <br/> |98GB  <br/> |
 |보내기 금지  <br/> |49.5GB  <br/> |99GB  <br/> |99GB  <br/> |
-|보내기/받기 금지  <br/> |50GB  <br/> |100GB  <br/> |100GB  <br/> |
+|보내기/받기 금지  <br/> |50 GB  <br/> |100GB  <br/> |100GB  <br/> |
    
 #### <a name="mailbox-folder-limits"></a>사서함 폴더 제한
 <a name="MailboxFolderLimits"> </a>
@@ -524,13 +524,13 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |||||
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|사서함 폴더당 최대 메시지 수  <br/> |1,000,000  <br/> |1,000,000  <br/> |1백만 개  <br/> |
+|사서함 폴더당 최대 메시지 수  <br/> |1백만 개  <br/> |1백만  <br/> |1백만  <br/> |
 |사서함 폴더당 메시지 수에 대한 경고  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |
 |복구 가능한 항목 폴더의 폴더당 최대 메시지 수  <br/> |3백만 개  <br/> |3백만 개  <br/> |3백만 개  <br/> |
 |기본 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중 아님)  <br/> |30GB  <br/> |30GB  <br/> |30GB  <br/> |
 |기본 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중)  <br/> |100GB  <br/> |100GB  <br/> |100GB  <br/> |
-|보관 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중 아님)  <br/> |무제한<sup>1</sup> <br/> |무제한<sup>1</sup> <br/> |무제한<sup>1</sup> <br/> |
-|보관 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중)  <br/> |무제한<sup>1</sup> <br/> |무제한<sup>1</sup> <br/> |무제한<sup>1</sup> <br/> |
+|보관 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중 아님)  <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
+|보관 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중)  <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |복구 가능한 항목 폴더의 폴더당 메시지 수에 대한 경고  <br/> |2.75백만 개  <br/> |2,750,000개  <br/> |2,750,000개  <br/> |
 |사서함 폴더당 최대 하위 폴더 수  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |
 |사서함 폴더당 하위 폴더 수에 대한 경고  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
@@ -541,7 +541,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |공용 폴더당 하위 폴더 수에 대한 경고  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> office 365 사용자 간에 최대 150 MB의 메시지를 보내고 받을 수 있습니다 (메시지에는 office 365 데이터 센터가 남아 있지 않음). Office 365 데이터 센터 외부에서 라우팅되는 메시지에는 추가 33%의 변환 인코딩 증가가 적용 되며 최대 메시지 크기는 112 MB입니다. 
+> <sup>1</sup> office 365 사용자 간에 최대 150 MB의 메시지를 보내고 받을 수 있습니다 (메시지에는 office 365 데이터 센터가 남아 있지 않음). Office 365 데이터 센터 외부로 전송되는 메시지는 변환 인코딩이 추가로 33% 증가할 수 있습니다. 이 경우 최대 메시지 크기는 112MB가 됩니다. 
   
 #### <a name="message-limits"></a>메시지 제한
 <a name="MessageLimits"> </a>
@@ -575,14 +575,14 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |암호화된 메시지의 크기 제한(Office 365 메시지 암호화 레거시 버전을 사용하는 구독자)  <br/> |250mb<sup>5</sup> <br/> |250mb<sup>5</sup> <br/> |250mb<sup>5</sup> <br/> |
 |제목 길이 제한  <br/> |255자  <br/> |255자  <br/> |255자  <br/> |
 |파일 첨부 제한  <br/> |250개 첨부 파일  <br/> |250개 첨부 파일  <br/> |250개 첨부 파일  <br/> |
-|첨부 파일 크기 제한 - Outlook  <br/> |150MB   <br/> |150MB   <br/> |150MB  <br/> |
+|첨부 파일 크기 제한 - Outlook  <br/> |150MB  <br/> |150MB   <br/> |150MB  <br/> |
 |첨부 파일 크기 제한 - OWA  <br/> |35MB  <br/> |35MB  <br/> |35MB  <br/> |
 |첨부 파일 크기 제한 - Outlook for Mac  <br/> |150MB  <br/> |150MB   <br/> |150MB  <br/> |
 |여러 부분으로 구성된 메시지 제한  <br/> |250개 부분  <br/> |250개 부분  <br/> |250개 부분  <br/> |
 |포함 메시지 수준 제한  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 관리자는 1mb와 150 MB 사이의 사용자 지정 제한을 지정할 수 있습니다. 그러나 보내거나 받을 수 있는 메시지의 크기는 전자 메일 클라이언트 또는 솔루션이 지원하는 크기에 따라서도 좌우됩니다. 조직의 최대 허용 메시지 크기를 사용자 지정 하는 방법에 대 한 자세한 내용은 [이제 Office 365에서 더 큰 전자 메일 메시지를 지원](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)합니다 .를 참조 하세요. > <sup>2</sup> office 365 사용자 간에 최대 150 MB의 메시지를 보내고 받을 수 있습니다 (메시지에는 office 365 데이터 센터가 남아 있지 않음). Office 365 데이터 센터 외부에서 라우팅되는 메시지에는 추가 33%의 변환 인코딩 증가가 적용 되며 최대 메시지 크기는 112 MB입니다. > <sup>3</sup> OWA 계정은 메시지가 33% 인코딩이 증가 하 여 전송 가능한 메시지의 크기를 최대 25% 미만으로 제한할 수 있습니다. 예를 들어 100 mb의 최대 메시지 크기에 대 한 설정을 사용자 지정 하는 경우 75 mb 보다 크지 않은 메시지를 보낼 수 있습니다. > <sup>4</sup> exchange online으로 이동할 메시지의 크기는 exchange online에서 계산 됩니다. Exchange Server 2013 이전의 Exchange 버전에서는 좀 더 작은 항목 크기를 보고할 수 있습니다. 이 제한은 지원되는 Exchange 사서함 복제 서비스를 사용하는 이동 기반 마이그레이션에 적용됩니다. 다른 마이그레이션 방법 (예를 들어, 단계적으로, IMAP, PST) 및 기타 타사 도구는 일반적인 메시지 크기 제한에 따라 제한 됩니다. > <sup>5</sup> 새로운 기능이 포함 된 OME에 대 한 자세한 내용은 [Azure information Protection에 구축 된 새로운 Office 365 메시지 암호화 기능 설정](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요. 
+> <sup>1</sup> Office 365 관리자는 1MB ~ 150MB 사이의 사용자 지정 제한을 지정할 수 있습니다. 그러나 보내거나 받을 수 있는 메시지의 크기는 전자 메일 클라이언트 또는 솔루션이 지원하는 크기에 따라서도 좌우됩니다. 조직에 허용되는 최대 메시지 크기를 사용자 지정하는 방법에 대한 자세한 내용은 [Office 365에서 더 큰 전자 메일 메시지 지원](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)을 참조하세요. > <sup>2</sup> office 365 사용자 간에 최대 150 MB의 메시지를 보내고 받을 수 있습니다 (메시지에는 office 365 데이터 센터가 남아 있지 않음). Office 365 데이터 센터 외부로 전송되는 메시지는 변환 인코딩이 추가로 33% 증가할 수 있습니다. 이 경우 최대 메시지 크기는 112MB가 됩니다. > <sup>3</sup> OWA 계정은 메시지가 33% 인코딩이 증가 하 여 전송 가능한 메시지의 크기를 최대 25% 미만으로 제한할 수 있습니다. 예를 들어 100MB의 최대 메시지 크기에 대한 설정을 사용자 지정하는 경우 75MB보다 크지 않은 메시지를 보낼 수 있습니다. > <sup>4</sup> exchange online으로 이동할 메시지의 크기는 exchange online에서 계산 됩니다. Exchange Server 2013 이전의 Exchange 버전에서는 좀 더 작은 항목 크기를 보고할 수 있습니다. 이 제한은 지원되는 Exchange 사서함 복제 서비스를 사용하는 이동 기반 마이그레이션에 적용됩니다. 다른 마이그레이션 방법 (예를 들어, 단계적으로, IMAP, PST) 및 기타 타사 도구는 일반적인 메시지 크기 제한에 따라 제한 됩니다. > <sup>5</sup> 새로운 기능이 포함 된 OME에 대 한 자세한 내용은 [Azure information Protection에 구축 된 새로운 Office 365 메시지 암호화 기능 설정](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요. 
   
 #### <a name="receiving-and-sending-limits"></a>수신 및 전송 제한
 <a name="RecipientLimits"> </a>
@@ -596,7 +596,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |||||
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|메시지 수신됨  <br/> |하루에 3600개 메시지  <br/> |하루에 3600개 메시지  <br/> |하루에 3600개 메시지  <br/> |
+|메시지 수신됨  <br/> |시간당 3600개 메시지  <br/> |하루에 3600개 메시지  <br/> |하루에 3600개 메시지  <br/> |
    
 #### <a name="sending-limits"></a>전송 제한
 
@@ -645,7 +645,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |지운 편지함 폴더 보존 기간  <br/> |제한 없음<sup>1</sup> <br/> |제한 없음<sup>1</sup> <br/> |제한 없음<sup>1</sup> <br/> |
-|지운 편지함 폴더에서 제거한 항목의 보존 기간  <br/> |14 일<sup>1</sup> <br/> |14 일<sup>1</sup> <br/> |14 일<sup>1</sup> <br/> |
+|지운 편지함 폴더에서 제거한 항목의 보존 기간  <br/> |14일<sup>1</sup> <br/> |14일<sup>1</sup> <br/> |14일<sup>1</sup> <br/> |
 |정크 메일 폴더 보존 기간  <br/> |30일  <br/> |30일  <br/> |30일  <br/> |
    
 > [!NOTE]
@@ -668,7 +668,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |최대 메일 그룹 구성원 수<sup>1</sup> <br/> |구성원 100,000명  <br/> |구성원 100,000명  <br/> |구성원 100,000명  <br/> |
 |큰 메일 그룹에 메시지 보내기 제한  <br/> |구성원 5,000명 이상  <br/> |구성원 5,000명 이상  <br/> |구성원 5,000명 이상  <br/> |
 |큰 메일 그룹에 대한 최대 메시지 크기  <br/> |2MB  <br/> |2MB  <br/> |2MB  <br/> |
-|최대 메일 그룹 소유자 수  <br/> |10  <br/> |10  <br/> |10  <br/> |
+|최대 메일 그룹 소유자 수  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |사용자가 만들 수 있는 최대 그룹 수  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -705,7 +705,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |첨부 파일 내용 검사 제한  <br/> |1MB  <br/> |1MB  <br/> |1MB  <br/> |
 |모든 전송 규칙에 의해 메시지에 추가되는 최대 받는 사람 수  <br/> |받는 사람 100명  <br/> |받는 사람 100명  <br/> |받는 사람 100명  <br/> |
 |전달받는 사람 제한  <br/> |받는 사람 10명  <br/> |받는 사람 10명  <br/> |받는 사람 10명  <br/> |
-|메시지 리디렉션 횟수  <br/> |리디렉션 1회  <br/> |리디렉션 1회  <br/> |리디렉션 1회  <br/> |
+|메시지 리디렉션 횟수  <br/> |리디렉션 1회  <br/> |리디렉션 1회  <br/> |리디렉션 1회  <br/> |
    
 #### <a name="moderation-limits"></a>중재 제한
 <a name="ModerationLimits"> </a>
@@ -746,7 +746,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |**기능** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Exchange ActiveSync 장치 제한  <br/> |100  <br/> |100  <br/> |100  <br/> |
 |Exchange ActiveSync 장치 삭제 제한  <br/> |20cm(8  <br/> |20cm(8  <br/> |20cm(8  <br/> |
-|Exchange ActiveSync 첨부 파일 제한  <br/> |25MB  <br/> |25MB   <br/> |25MB   <br/> |
+|Exchange ActiveSync 첨부 파일 제한  <br/> |25MB  <br/> |25MB  <br/> |25MB  <br/> |
    
 ## <a name="onedrive-for-business-features"></a>비즈니스용 OneDrive 기능
 <a name="OfcOnline"> </a>
@@ -1153,12 +1153,12 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |정규화된 IP 일반 전화기  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |회선 공유 기능  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Skype 및 페더레이션 호출  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|팀 통화  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|팀 통화  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |화상 통화 모니터  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Voicemail  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|Voicemail  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |[Office 365의 통화 플랜](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365)(국내 통화 계획, 추가 기능을 구매해야 함)  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |
 |[Office 365의 통화 플랜](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365)(국제 통화 계획, 추가 기능을 구매해야 함)  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |
-|[소비 제작진](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|[소비 제작진](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |비즈니스용 Skype 음성  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[보안 및 보관](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |메신저 및 미디어 암호화  <br/> |예  <br/> |예  <br/> |예  <br/> |

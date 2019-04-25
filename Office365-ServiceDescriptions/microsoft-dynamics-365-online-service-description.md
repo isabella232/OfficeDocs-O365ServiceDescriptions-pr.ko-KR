@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 (온라인) 서비스 설명
+title: Microsoft Dynamics 365(온라인) 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,13 +14,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: dynamics 365 (온라인 및 온-프레미스)에 대 한 12 월 2016 업데이트의 경우 dynamics CRM 기능은 지능형 비즈니스 응용 프로그램의 제품군 인 dynamics 365의 일부로 포함 되어 있습니다. Dynamic 365는 특정 비즈니스 기능을 관리하는 데 도움이 되는 새로운 응용 프로그램을 제공하여 CRM(고객 관계 관리) 및 ERP(기업 자원 계획) 기능을 통합합니다.
 ms.openlocfilehash: 0701f6dc7470caed6c607fcfba0ce8615793132b
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467215"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246524"
 ---
-# <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365 (온라인) 서비스 설명
+# <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365(온라인) 서비스 설명
 
 dynamics 365 (온라인 및 온-프레미스)에 대 한 12 월 2016 업데이트의 경우 dynamics CRM 기능은 지능형 비즈니스 응용 프로그램의 제품군 인 dynamics 365의 일부로 포함 되어 있습니다. Dynamic 365는 특정 비즈니스 기능을 관리하는 데 도움이 되는 새로운 응용 프로그램을 제공하여 CRM(고객 관계 관리) 및 ERP(기업 자원 계획) 기능을 통합합니다. 
   
@@ -116,7 +116,7 @@ Dynamics 365 서비스의 가동 중지 시간 창은 다음과 같이 정의 �
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**범주** <br/> |**영향/가동 중지 시간** <br/> |**알림** <br/> |**운영 수준 계약\*** <br/> |
+|**종류** <br/> |**영향/가동 중지 시간** <br/> |**알림** <br/> |**운영 수준 계약\*** <br/> |
 |매주  <br/> |영향 없음/가동 중지 시간 없음  <br/> |메시지 센터  <br/> |48시간  <br/> |
 |월 단위  <br/> |영향 없음/가동 중지 시간 없음  <br/> |메시지 센터  <br/> |48시간  <br/> |
 |업데이트 롤업  <br/> |영향 없음/가동 중지 시간 없음  <br/> |메시지 센터  <br/> |48시간  <br/> |

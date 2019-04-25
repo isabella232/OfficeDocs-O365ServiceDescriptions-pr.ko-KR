@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함하는 여러 Office 365 구독의 기능을 비교하고 싶나요? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
 ms.openlocfilehash: 5f30525e37aa4cf71815fcd8670bc2965a62ab4b
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467955"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246254"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -69,14 +69,14 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |하이브리드 배포 지원  <br/> |예  <br/> |예  <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>16</sup> <br/> |
 |IMAP 마이그레이션 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |지원되는 단독형 마이그레이션  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|미리 구성된 마이그레이션 지원  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|미리 구성된 마이그레이션 지원  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[사용 권한](permissions.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |역할 기반 권한  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |역할 그룹  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |역할 할당 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |**[메시지 정책 및 규정 준수](message-policy-and-compliance.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Exchange Online 기반 사서함 보관  <br/> | 아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|온-프레미스 사서함의 클라우드 기반 보관  <br/> |예 <sup>1</sup> <br/> |예<sup>1</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|Exchange Online 기반 사서함 보관  <br/> | 아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|온-프레미스 사서함의 클라우드 기반 보관  <br/> |예 <sup>1</sup> <br/> |예<sup>1</sup> <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |MRM(메시징 레코드 관리) 보존 태그 및 보존 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |보관된 데이터 암호화(BitLocker)  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Azure Information Protection을 사용한 IRM  <br/> |아니요  <br/> |예  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |
@@ -84,10 +84,10 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |Office 365 메시지 암호화  <br/> |예<sup>13</sup> <br/> |예<sup>13</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |
 |Office 365<sup>22</sup> 용 고객 키 <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> ||
 |S/MIME  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> ||
-|원본 위치 유지 및 소송 보존  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|원본 위치 유지 및 소송 보존  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |원본 위치 eDiscovery  <br/> |예<sup>20</sup> <br/> |예<sup>20</sup> <br/> |예<sup>20</sup> <br/> |예<sup>20</sup> <br/> |예<sup>20</sup> <br/> |예<sup>20</sup> <br/> |예<sup>20</sup> <br/> |예  <br/> |
 |전송 규칙  <br/> |예 <sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |
-|데이터 손실 방지  <br/> |예 <sup>5, 14</sup> <br/> |예 <sup>5, 14</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|데이터 손실 방지  <br/> |예 <sup>5, 14</sup> <br/> |예 <sup>5, 14</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |저널링  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[스팸 방지 및 맬웨어 방지 보호](anti-spam-and-anti-malware-protection.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |스팸 방지 보호 기능 내장  <br/> |예 <sup>6</sup> <br/> |예 <sup>6</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -95,17 +95,17 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |맬웨어 방지 보호 기능 내장  <br/> |예 <sup>8</sup> <br/> |예 <sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |
 |맬웨어 방지 정책 사용자 지정  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>7</sup> <br/> |
 |격리 - 관리자 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>7</sup> <br/> |
-|격리 - 최종 사용자 자기 관리  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|격리 - 최종 사용자 자기 관리  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |고급 위협 방지  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |**[메일 흐름](mail-flow.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |아웃바운드 메일의 사용자 지정 라우팅  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |신뢰할 수 있는 파트너와의 보안 메시징  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|조건부 메일 라우팅  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|인바운드 수신 허용 목록에 파트너 추가  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|조건부 메일 라우팅  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|인바운드 수신 허용 목록에 파트너 추가  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |하이브리드 전자 메일 라우팅  <br/> |예  <br/> |예  <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[받는 사람](recipients.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |용량 경고  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Clutter  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Clutter  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |메일 설명  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |대리인 액세스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |<sup>24</sup> 없음  <br/> |
 |받은 편지함 규칙  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
@@ -115,7 +115,7 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |주소록 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |계층 구조 주소록  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |주소 목록 및 전체 주소 목록  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>18</sup> <br/> |예<sup>18</sup> <br/> |예<sup>18</sup> <br/> |예<sup>18</sup> <br/> |
-|Office 365 그룹  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Office 365 그룹  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |메일 그룹  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |외부 연락처(전체)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |범용 연락처 카드  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -130,7 +130,7 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |웹 서비스 보고서  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |메시지 추적  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |감사 보고서  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>3</sup> <br/> |
-|통합 메시징 보고서  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|통합 메시징 보고서  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |**[공유 및 공동 작업](sharing-and-collaboration.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |페더레이션 공유(일정 게시 포함)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |사이트 사서함  <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |
@@ -141,17 +141,17 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |Outlook for Mac<sup>21</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> | 아니요  <br/> |
 |iOS 및 Android용 Outlook<sup>21</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange ActiveSync  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Office 365의 모바일 장치 관리  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Office 365의 모바일 장치 관리  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |POP 및 IMAP  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>12</sup> <br/> |
 |SMTP  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |EWS 응용 프로그램 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |**[음성 메시지 서비스](voice-message-services.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|음성 사서함<sup>23</sup> <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|음성 사서함과 타사 팩스<sup>23</sup> 의 통합 <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|음성 사서함<sup>23</sup> <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|음성 사서함과 타사 팩스<sup>23</sup> 의 통합 <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |타사 음성 사서함 상호 운용성<sup>23</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 Skype 통합  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[고가용성 및 비즈니스 연속성](high-availability-and-business-continuity.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|데이터 센터에서 사서함 복제  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|데이터 센터에서 사서함 복제  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |삭제된 사서함 복구  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |삭제된 항목 복구  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |단일 항목 복구  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> ||
@@ -161,8 +161,8 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |EWS 연결 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |SMTP 릴레이 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[Exchange Online 설치 및 관리](exchange-online-setup-and-administration.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Microsoft Office 365 포털 액세스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft 365 관리 센터 액세스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Microsoft Office 365 포털 액세스  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Microsoft 365 관리 센터 액세스  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange 관리 센터 액세스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |원격 Windows PowerShell 액세스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |모바일 장치에 대한 ActiveSync 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -204,13 +204,13 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |하이브리드 배포 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>23</sup> <br/> |
 |IMAP 마이그레이션 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |지원되는 단독형 마이그레이션  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|미리 구성된 마이그레이션 지원  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|미리 구성된 마이그레이션 지원  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |
 |**[사용 권한](permissions.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
 |역할 기반 권한  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |역할 그룹  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |역할 할당 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |**[메시지 정책 및 규정 준수](message-policy-and-compliance.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
-|Exchange Online 기반 사서함 보관  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|Exchange Online 기반 사서함 보관  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |온-프레미스 사서함의 클라우드 기반 보관  <br/> |예 <sup>5</sup> <br/> |예 <sup>5</sup> <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |MRM(메시징 레코드 관리) 보존 태그 및 보존 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |보관된 데이터 암호화(BitLocker)  <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -229,16 +229,16 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |맬웨어 방지 보호 기능 내장  <br/> |예 <sup>7</sup> <br/> |예 <sup>7</sup> <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |
 |맬웨어 방지 정책 사용자 지정  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>8</sup> <br/> |
 |격리 - 관리자 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>8</sup> <br/> |
-|격리 - 최종 사용자 자기 관리  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|격리 - 최종 사용자 자기 관리  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |
 |**[메일 흐름](mail-flow.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
 |아웃바운드 메일의 사용자 지정 라우팅  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |신뢰할 수 있는 파트너와의 보안 메시징  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|조건부 메일 라우팅  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|인바운드 수신 허용 목록에 파트너 추가  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|조건부 메일 라우팅  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |
+|인바운드 수신 허용 목록에 파트너 추가  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |
 |하이브리드 전자 메일 라우팅  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[받는 사람](recipients.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
 |용량 경고  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Clutter  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Clutter  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |예  <br/> |
 |메일 설명  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |대리인 액세스  <br/> |예  <br/> |예  <br/> |예\  <br/> |예  <br/> |아니요  <br/> |
 |받은 편지함 규칙  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
@@ -258,10 +258,10 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |부재 중 회신  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |일정 공유  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>18</sup> <br/> |
 |**[보고 기능 및 문제 해결 도구](reporting-features-and-troubleshooting-tools.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
-|Microsoft 365 관리 센터 보고서  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Excel 보고 통합 문서  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|웹 서비스 보고서  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|메시지 추적  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>8</sup> <br/> |
+|Microsoft 365 관리 센터 보고서  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |예  <br/> |
+|Excel 보고 통합 문서  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |예  <br/> |
+|웹 서비스 보고서  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |예  <br/> |
+|메시지 추적  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |예  <br/> |예 <sup>8</sup> <br/> |
 |감사 보고서  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>8</sup> <br/> |
 |통합 메시징 보고서  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |**[공유 및 공동 작업](sharing-and-collaboration.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
@@ -281,7 +281,7 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |타사 음성 사서함 상호 운용성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 Skype 통합  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[고가용성 및 비즈니스 연속성](high-availability-and-business-continuity.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
-|데이터 센터에서 사서함 복제  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|데이터 센터에서 사서함 복제  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |
 |삭제된 사서함 복구  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |삭제된 항목 복구  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |단일 항목 복구  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |

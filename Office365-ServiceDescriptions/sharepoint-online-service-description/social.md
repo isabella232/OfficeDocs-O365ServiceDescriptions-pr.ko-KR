@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 207c5829-0ba9-440a-a602-1222458fb479
 description: Microsoft SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013에 빌드된 이 서비스는 프로젝트 작업, 중앙에서 데이터 및 문서 저장, 다른 사람과 정보 공유에 이상적입니다. 다음과 같은 소셜 기능을 사용 하면 사용자가 가장 효율적인 방식으로 함께 작업할 수 있습니다. 미치는? 누구나 아이디어를 공유 하 고, 사람과 전문 지식을 찾고, 위치 비즈니스 정보를 찾는 데 사용할 수 있는 뛰어난 공동 작업 도구를 제공 합니다.
 ms.openlocfilehash: 7cfe67b7278af07c911ab5807b5fc5073a88d39f
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466465"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246574"
 ---
 # <a name="social"></a>소셜
 

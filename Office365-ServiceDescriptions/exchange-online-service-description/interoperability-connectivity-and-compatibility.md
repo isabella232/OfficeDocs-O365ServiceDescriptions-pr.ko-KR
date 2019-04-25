@@ -13,17 +13,17 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
 ms.openlocfilehash: 55cb63c948d6e5f98cea64f98d0ca9d3d8fcdc21
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467775"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33244884"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>상호 운용성, 연결 및 호환성
 
 ## <a name="interoperability-with-other-microsoft-products"></a>다른 Microsoft 제품과의 상호 운용성
 
-### <a name="skype-for-business-online"></a>비즈니스용 Skype 온라인
+### <a name="skype-for-business-online"></a>비즈니스용 Skype Online
 
 Microsoft Lync Server 2010, Lync Server 2013 또는 Microsoft Office Communications Server 2007 R2를 온-프레미스에 배포한 고객의 경우 Exchange Web Services를 통해 Microsoft Office Communicator를 Microsoft Exchange Online에 연결하여 부재 중 메시지와 일정 데이터에 액세스할 수 있습니다.
   

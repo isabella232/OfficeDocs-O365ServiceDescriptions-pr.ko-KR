@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365는 강력한 보안, 안정성 및 사용자 생산성에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되도록 설계 된 클라우드 기반 서비스입니다.
 ms.openlocfilehash: 631ba72fce2e09465244be20f0587476af0d56cb
-ms.sourcegitcommit: 2bfe568fee1abb958ba6546a79bb27c01325ee9f
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "30641443"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246794"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 서비스 설명 
 
@@ -57,9 +57,9 @@ Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365�
     
 - [비즈니스용 Skype Online 서비스 설명](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
     
-- [직장 분석 서비스 설명](workplace-analytics-service-description.md)
+- [Workplace Analytics 서비스 설명](workplace-analytics-service-description.md)
 
-- [myanalytics 서비스 설명](mya-service-description.md)
+- [MyAnalytics 서비스 설명](mya-service-description.md)
     
 - [Power BI 서비스 설명](power-bi-service-description.md)
     
@@ -69,7 +69,7 @@ Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365�
     
 - [Yammer 서비스 설명](yammer-service-description/yammer-service-description.md)
     
-- [Microsoft Dynamics 365 (온라인) 서비스 설명](microsoft-dynamics-365-online-service-description.md)
+- [Microsoft Dynamics 365(온라인) 서비스 설명](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
 > <sup>1</sup> Office Delve, Microsoft MyAnalytics, Microsoft Sway 및 Microsoft Teams와 같은 [제품군 기능](https://technet.microsoft.com/EN-US/library/office-365-suite-features.aspx)의 가용성이 포함되어 있습니다. 

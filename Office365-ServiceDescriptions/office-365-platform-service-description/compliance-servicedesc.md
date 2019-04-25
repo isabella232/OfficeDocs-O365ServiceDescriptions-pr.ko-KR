@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365은 업계 표준 및 규정을 준수 하며, 비즈니스에 대 한 규정 요구 사항을 충족 하는 데 도움이 되도록 설계 되었습니다. 자세한 내용은 준수 서비스를 참조 하세요.
 ms.openlocfilehash: ad4b2a0cbc43f2eb4e6070fc5d41159f54141fbc
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825146"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246764"
 ---
 # <a name="compliance"></a>규정 준수
 
