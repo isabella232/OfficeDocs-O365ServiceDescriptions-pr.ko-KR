@@ -3,7 +3,7 @@ title: 서비스 상태 및 연속성
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/12/2019
+ms.date: 04/25/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 관리자는 서비스 상태를 보고 유지 관리 예정 시간을 확인할 수 있습니다. 서비스 상태 정보는 언제 든 지 Office 365에 로그인 하 여 사용할 수 있습니다.
-ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: a903af56e9526c4a2076025c223811077caf2fe4
+ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247044"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368391"
 ---
 # <a name="service-health-and-continuity"></a>서비스 상태 및 연속성
 
@@ -47,6 +47,13 @@ Office 365의 서비스 상태 섹션에는 서비스의 현재 상태와 서비
 
 <br/>
 
+|**2019** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **사분기** <br/> | **2006** <br/> |**만들고** <br/> |**Q4** <br/> |
+| 99.97% <br/> |  <br/> |  <br/> |  <br/> |
+
+<br/>
+
 |**2018** <br/>||||
 |:-----|:-----|:-----|:-----|
 | **사분기** <br/> | **2006** <br/> |**만들고** <br/> |**Q4** <br/> |
@@ -58,6 +65,8 @@ Office 365의 서비스 상태 섹션에는 서비스의 현재 상태와 서비
 |:-----|:-----|:-----|:-----|
 | **사분기** <br/> | **2006** <br/> |**만들고** <br/> |**Q4** <br/> |
 | 99.99% <br/> | 99.97% <br/> | 99.98% <br/> | 99.99% <br/> |
+
+<br/>
 
 ## <a name="notification-policy"></a>알림 정책
 
@@ -147,4 +156,3 @@ Office 365 개발 및 운영 팀은 고객에게 비즈니스 지속성을 제�
 
 Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)을 참조하세요.
   
-

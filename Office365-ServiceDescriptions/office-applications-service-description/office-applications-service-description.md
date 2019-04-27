@@ -3,7 +3,7 @@ title: Office 응용 프로그램 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/15/2018
+ms.date: 04/15/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft office 365는 Word, Excel, PowerPoint 등 이미 익숙한 Office 데스크톱 응용 프로그램의 최신 버전을 제공 하는 구독 서비스입니다.
-ms.openlocfilehash: 9ae21b604a2650586402e33388d705641292ab88
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 144f5a6ef84e83f194a997d77176538860d947ca
+ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247024"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368361"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 

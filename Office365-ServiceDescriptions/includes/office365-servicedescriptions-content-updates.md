@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>3 월 11 일 주 2019
-
-
-| 게시된 날짜 |항목 제목 | 변경 사항 |
-|------|------------|--------|
-| 3/12/2019 | [서비스 상태 및 연속성](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | 수정한 날짜 |
-| 3/14/2019 | [Microsoft 365 Business 서비스 설명](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 수정한 날짜 |
-| 3/14/2019 | [MyAnalytics 서비스 설명](/Office365/ServiceDescriptions/mya-service-description) | 더해집니다 |
-| 3/14/2019 | [Office 365 서비스 설명](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | 수정한 날짜 |
-| 3/14/2019 | [Exchange Online 제한](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 수정한 날짜 |
-
-
 ## <a name="week-of-march-18-2019"></a>2019년 3월 18일 주중
 
 
@@ -69,3 +57,14 @@
 | 4/11/2019 | [Exchange Online Archiving의 보관 기능](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | 수정한 날짜 |
 | 4/11/2019 | [Office 365 보안 및 준수 센터](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 수정한 날짜 |
 | 4/11/2019 | [비즈니스용 Skype Online 서비스 설명](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | 수정한 날짜 |
+
+
+## <a name="week-of-april-15-2019"></a>2019년 4월 15일 주중
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 4/18/2019 | [클라이언트 및 모바일 장치](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | 수정한 날짜 |
+| 4/18/2019 | [Exchange Online 제한](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 수정한 날짜 |
+| 4/18/2019 | [Office 응용 프로그램 서비스 설명](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 수정한 날짜 |
+| 4/18/2019 | [콘텐츠](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | 수정한 날짜 |

@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online 제한 사항
+title: SharePoint Online 제한
 ms.author: sharik
 author: skjerland
 ms.audience: ITPro
@@ -9,14 +9,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 Enterprise 요금제 및 독립 실행형 요금제의 SharePoint Online 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: c1b6185c46be6f1343e6679a5b887bab5b393708
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 4615eeefe2f9f172a5baa43ce3a506015bfe159e
+ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246614"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368371"
 ---
-# <a name="sharepoint-online-limits"></a>SharePoint Online 제한 사항
+# <a name="sharepoint-online-limits"></a>SharePoint Online 제한
 
 Office 365 요금제 및 sharepoint Online 독립 실행형 계획에 대 한 sharepoint 제한을 확인 합니다.
   
@@ -43,7 +43,7 @@ Office 365 요금제 및 sharepoint Online 독립 실행형 계획에 대 한 sh
   
 ## <a name="service-limits-for-all-plans"></a>모든 계획에 대 한 서비스 제한
 
-- 목록 **및 라이브러리의 항목** -목록은 최대 3000만 개의 항목을 포함할 수 있으며 라이브러리에는 파일 및 폴더를 최대 3000만 개까지 포함할 수 있습니다. 보기의 조회 열 개수는 최대 12개입니다. 큰 목록 보기의 다른 제한 사항에 대한 자세한 내용은 [Office 365에서 큰 목록 및 라이브러리 관리](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)를 참조하세요. 파일 이름에 사용할 수 없는 문자에 대 한 자세한 내용은 [파일 및 폴더 이름에서 잘못 된 문자](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)를 참조 하세요.
+- 목록 **및 라이브러리의 항목** -목록은 최대 3000만 개의 항목을 포함할 수 있으며 라이브러리에는 파일 및 폴더를 최대 3000만 개까지 포함할 수 있습니다. 100 이면 목록, 라이브러리 또는 폴더에 00 개의 항목이 추가 되 고, 목록, 라이브러리 또는 폴더에 대 한 사용 권한 상속은 변경할 수 없습니다. 큰 목록 보기의 다른 제한 사항에 대한 자세한 내용은 [Office 365에서 큰 목록 및 라이브러리 관리](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)를 참조하세요. 파일 이름에 사용할 수 없는 문자에 대 한 자세한 내용은 [파일 및 폴더 이름에서 잘못 된 문자](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)를 참조 하세요.
 
 - **파일 크기 및 파일 경로 길이** -15gb 새 onedrive 동기화 클라이언트 (onedrive)를 사용할 때의 제한 및 제한 사항에 대 한 자세한 내용은 [onedrive, 비즈니스용 onedrive 및 SharePoint에서 잘못 된 파일 이름 및 파일 형식을](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)참조 하세요.
 
