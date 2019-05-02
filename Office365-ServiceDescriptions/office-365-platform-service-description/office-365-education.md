@@ -10,25 +10,25 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 microsoft Exchange online, microsoft SharePoint online, Office Online을 비롯 하 여 익숙한 microsoft Office 데스크톱 제품군과 클라우드 기반 microsoft의 차세대 통신 및 공동 작업 서비스를 함께 제공 합니다. Microsoft 비즈니스용 Skype Online-사용자가 인터넷을 통해 어디서 나 생산성을 유지 하는 데 도움이 됩니다.
-ms.openlocfilehash: 4cf3b4220fb56e21d8105dee9ac8ea447845bcf9
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 microsoft Exchange Online, Microsoft SharePoint Online, Office Online을 비롯 하 여 익숙한 Microsoft Office 데스크톱 제품군과 클라우드 기반 Microsoft의 차세대 통신 및 공동 작업 서비스를 함께 제공 합니다. Microsoft 비즈니스용 Skype Online-사용자가 인터넷을 통해 어디서 나 생산성을 유지 하는 데 도움이 됩니다.
+ms.openlocfilehash: 6f6bcf8780be134b88043740973ca9f8d4380626
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247294"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544975"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
-Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 microsoft Exchange online, microsoft SharePoint online, Office Online을 비롯 하 여 익숙한 microsoft Office 데스크톱 제품군과 클라우드 기반 microsoft의 차세대 통신 및 공동 작업 서비스를 함께 제공 합니다. Microsoft 비즈니스용 Skype Online-사용자가 인터넷을 통해 어디서 나 생산성을 유지 하는 데 도움이 됩니다.
+Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 microsoft Exchange Online, Microsoft SharePoint Online, Office Online을 비롯 하 여 익숙한 Microsoft Office 데스크톱 제품군과 클라우드 기반 Microsoft의 차세대 통신 및 공동 작업 서비스를 함께 제공 합니다. Microsoft 비즈니스용 Skype Online-사용자가 인터넷을 통해 어디서 나 생산성을 유지 하는 데 도움이 됩니다.
   
-이 문서에서는 Office 365 교육 계획 (A1, A3 및 A5)에 대 한 기능을 소개 합니다. 비즈니스 계획과 기업 계획 간에 기능을 비교 하려면 office [365 for 비즈니스 요금제 비교](https://go.microsoft.com/fwlink/?linkid=799177) 또는 자세한 기능 목록을 보려면 [office 365 서비스 설명](https://technet.microsoft.com/en-us/library/jj819284.aspx)에서 관련 서비스 설명을 참조 하세요.
+이 문서에서는 Office 365 교육 계획 (A1, A3 및 A5)에 대 한 기능을 소개 합니다. 비즈니스 계획과 기업 계획 간에 기능을 비교 하려면 office [365 For 비즈니스 요금제 비교](https://go.microsoft.com/fwlink/?linkid=799177) 또는 자세한 기능 목록을 보려면 [Office 365 서비스 설명](https://technet.microsoft.com/en-us/library/jj819284.aspx)에서 관련 서비스 설명을 참조 하세요.
   
 지원 문서 및 정보를 검색 하려면 [Office 도움말 및 교육](https://support.office.com/)을 참조 하세요.
   
 ## <a name="service-availability-for-each-plan"></a>각 계획의 서비스 가용성
 
-각 Office 365 교육 계획에는 Exchange online, SharePoint online 등의 여러 개별 서비스가 포함 됩니다. 다음 표에는 각 Office 365 계획에서 사용 가능한 서비스가 나와 있습니다.
+각 Office 365 교육 계획에는 Exchange Online, SharePoint Online 등의 여러 개별 서비스가 포함 됩니다. 다음 표에는 각 Office 365 계획에서 사용 가능한 서비스가 나와 있습니다.
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -50,7 +50,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
   
 ## <a name="system-requirements"></a>시스템 요구 사항
 
-office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365 시스템 요구 사항을](https://products.office.com/office-system-requirements/)참조 하세요.
+Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365 시스템 요구 사항을](https://products.office.com/office-system-requirements/)참조 하세요.
   
 ## <a name="service-level-agreement"></a>서비스 수준 계약
 
@@ -176,12 +176,12 @@ office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |**[제품 사용권](product-use-rights.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365는 제조업체에서 지원 하지 않는 운영 체제에 대 한 지원을 제공 하지 않습니다. > <sup>2</sup> 로컬 active directory와의 디렉터리 동기화를 사용 하는 경우 계정을 삭제 하거나 암호를 변경 하려면 Office 365 포털이 아닌 로컬 active directory를 사용 하거나 Windows PowerShell 용 Azure Active directory 모듈을 사용 해야 합니다. > <sup>3</sup> 사용자에 대해 셀프 서비스 암호 관리 정책을 설정 하는 방법에 대 한 자세한 내용은 [Azure AD에서 암호 관리](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)를 참조 하십시오. > <sup>4</sup> 용어 할인을 사용 하 여 구매한 좌석을 초기 종결 수수료에 따라 줄일 수 있습니다. This is not applicable for subscriptions paid on a monthly basis. > <sup>5</sup> (연결 [https://securescore.office.com](https://securescore.office.com/) 에는 관리자 권한이 필요 함)에서 사용 가능 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://go.microsoft.com/fwlink/?linkid=836894)를 참조 하세요. > <sup>6</sup> 현재 특정 지역에 있는 고객은 Microsoft Sway를 사용할 수 없습니다. 8 월로 더 이상 출시 되지 않는 일부 레거시 Office 365 계획에는 Microsoft Sway에 대 한 액세스 권한이 없을 수도 있습니다. > <sup>7</sup> 고급 eDiscovery는 미국과 서유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카의 고객 데이터는 서유럽 [네덜란드]로 내보내집니다. > <sup>8</sup> 각 계획에 포함 된 Microsoft Stream 기능에 대 한 자세한 내용은 [Stream license overview](https://stream.microsoft.com/en-us/documentation/stream-license-overview/)를 참조 하십시오. 
+> <sup>1</sup> Office 365는 제조업체에서 지원 하지 않는 운영 체제에 대 한 지원을 제공 하지 않습니다. > <sup>2</sup> 로컬 active directory와의 디렉터리 동기화를 사용 하는 경우 계정을 삭제 하거나 암호를 변경 하려면 Office 365 포털이 아닌 로컬 active directory를 사용 하거나 Windows PowerShell 용 Azure Active directory 모듈을 사용 해야 합니다. > <sup>3</sup> 사용자에 대해 셀프 서비스 암호 관리 정책을 설정 하는 방법에 대 한 자세한 내용은 [Azure AD에서 암호 관리](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)를 참조 하십시오. > <sup>4</sup> 용어 할인을 사용 하 여 구매한 좌석을 초기 종결 수수료에 따라 줄일 수 있습니다. This is not applicable for subscriptions paid on a monthly basis. > <sup>5</sup> (연결 [https://securescore.office.com](https://securescore.office.com/) 에는 관리자 권한이 필요 함)에서 사용 가능 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://go.microsoft.com/fwlink/?linkid=836894)를 참조 하세요. > <sup>6</sup> 현재 특정 지역에 있는 고객은 Microsoft Sway를 사용할 수 없습니다. 8 2015 월로 더 이상 출시 되지 않는 일부 레거시 Office 365 계획에는 Microsoft Sway에 대 한 액세스 권한이 없을 수도 있습니다. > <sup>7</sup> 고급 EDiscovery는 미국과 서유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카의 고객 데이터는 서유럽 [네덜란드]로 내보내집니다. > <sup>8</sup> 각 계획에 포함 된 Microsoft Stream 기능에 대 한 자세한 내용은 [Stream license overview](https://stream.microsoft.com/en-us/documentation/stream-license-overview/)를 참조 하십시오. 
   
 ## <a name="office-365-security-amp-compliance-center-features"></a>Office 365 보안 &amp; 및 준수 센터 기능
 <a name="SCC"> </a>
 
-[office 365 보안 &amp; 및 준수 센터](https://go.microsoft.com/fwlink/?LinkID=824876) 는 조직에 대 한 office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
+[Office 365 보안 &amp; 및 준수 센터](https://go.microsoft.com/fwlink/?LinkID=824876) 는 조직에 대 한 office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
@@ -201,12 +201,12 @@ office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |[eDiscovery 검색](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[eDiscovery 내보내기](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[고급 eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714) <sup>4</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|ediscovery 보류 (쿼리 기반 eDiscovery 보류 포함)  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|eDiscovery 보류 (쿼리 기반 eDiscovery 보류 포함)  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[보관](https://go.microsoft.com/fwlink/?linkid=844060) <sup>3</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |수동 보존/삭제 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 데이터 거 버 넌 스에서는 사용자가 문서에 레이블을 만들고 게시 하 고 수동으로 적용할 수 있습니다. 드라이브 전달을 사용 하거나 네트워크를 통해 데이터를 가져옵니다. 그리고 작업, 사용자 및 그룹 간에 보존/삭제 정책 만들기 및 적용 사서함에 적용 되는 보존 정책에는 Office 365 Enterprise E3 또는 E5가 필요 합니다. > <sup>2</sup> 고급 데이터 관리 기능을 사용 하면 보존 또는 삭제 정책에 따라 정보를 분류 하 여 중요 한 정보를 유지 하 고 해당 정보를 삭제할 수 있습니다. 여기에는 정책 추천 등의 지능형/자동화 작업이 포함 됩니다. 데이터에 자동으로 레이블 적용 중요 한 데이터 형식 또는 쿼리를 기준으로 레이블 적용 스마트 가져오기 필터를 사용 합니다. 또한 보안 및 규정 준수를 위해 직원 통신을 검토 하기 위한 감독 기능도 포함 되어 있습니다. > <sup>3</sup> 무제한 > <sup>4</sup> 고급 eDiscovery는 미국 및 서유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카의 고객 데이터는 서유럽 [네덜란드]로 내보내집니다. > <sup>5</sup> Advanced Threat Protection은 office 365 A5와 office 365 A1 및 office 365 A3의 독립 실행형 서비스로 제공 됩니다. 
+> <sup>1</sup> 데이터 거 버 넌 스에서는 사용자가 문서에 레이블을 만들고 게시 하 고 수동으로 적용할 수 있습니다. 드라이브 전달을 사용 하거나 네트워크를 통해 데이터를 가져옵니다. 그리고 작업, 사용자 및 그룹 간에 보존/삭제 정책 만들기 및 적용 사서함에 적용 되는 보존 정책에는 Office 365 Enterprise E3 또는 E5가 필요 합니다. > <sup>2</sup> 고급 데이터 관리 기능을 사용 하면 보존 또는 삭제 정책에 따라 정보를 분류 하 여 중요 한 정보를 유지 하 고 해당 정보를 삭제할 수 있습니다. 여기에는 정책 추천 등의 지능형/자동화 작업이 포함 됩니다. 데이터에 자동으로 레이블 적용 중요 한 데이터 형식 또는 쿼리를 기준으로 레이블 적용 스마트 가져오기 필터를 사용 합니다. 또한 보안 및 규정 준수를 위해 직원 통신을 검토 하기 위한 감독 기능도 포함 되어 있습니다. > <sup>3</sup> 무제한 > <sup>4</sup> 고급 EDiscovery는 미국 및 서유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카의 고객 데이터는 서유럽 [네덜란드]로 내보내집니다. > <sup>5</sup> Advanced Threat Protection은 Office 365 A5와 Office 365 A1 및 Office 365 A3의 독립 실행형 서비스로 제공 됩니다. 
   
 ## <a name="office-application-features"></a>Office 응용 프로그램 기능
 <a name="SCC"> </a>
@@ -226,7 +226,7 @@ office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access) <br/> |<sup>3</sup> 없음 <br/> |예  <br/> |예  <br/> |
 |[비즈니스용 Skype](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |예<sup>2</sup> <br/> |예  <br/> |예  <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |<sup>3</sup> 없음 <br/> |예  <br/> |예  <br/> |
-|[Windows 8 앱](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |<sup>3</sup> 없음 <br/> |예  <br/> |예  <br/> |
+|[Windows 10 앱](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |<sup>3</sup> 없음 <br/> |예  <br/> |예  <br/> |
 |[Office 365용 Office for Mac](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |<sup>3</sup> 없음 <br/> |예  <br/> |예  <br/> |
 |[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |예<sup>3</sup> <br/> |예  <br/> |예  <br/> |
 |[Android용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |예<sup>3</sup> <br/> |예  <br/> |예  <br/> |
@@ -247,7 +247,7 @@ office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |Excel 스프레드시트 조회  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |그룹 정책 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|Azure information Protection을 사용한 정보 권한 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Azure Information Protection을 사용한 정보 권한 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Windows Server AD RMS를 사용한 Information Rights Management  <br/> |예<sup>1</sup> <br/> |예<sup>1</sup> <br/> |예<sup>1</sup> <br/> |
 |Office 추가 기능, ActiveX 및 BHO 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
@@ -265,15 +265,15 @@ office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |Volume activation (KMS/MAK)  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Windows Server AD RMS는 지원 되는 IRM 기능을 사용 하기 위해 별도로 구입 하 여 관리 해야 하는 온-프레미스 서버입니다. > <sup>2</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 Skype 응용 프로그램이 포함됩니다. 비즈니스용 Skype 온라인 라이선스가 각 사용자에게 할당되어 있어야 합니다. Lync Basic의 기능에 대한 자세한 내용은 [비즈니스용 Skype Online 클라이언트](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)를 참조하세요. > <sup>3</sup> 일부 학교는 교육 Plus를 위한 자격이 있고 Office 365 ProPlus를 포함 하 고 학생, 교직원 및 직원이 최대 5 대의 PC 또는 Mac 컴퓨터 및 기타 모바일 장치 (Windows 태블릿 및를 포함 한)에 최신 버전의 Office를 설치할 수 있도록 허용 합니다. 용. Enrollment for Education Solutions, Open Value Subscription Education Solutions 또는 학교 계약을 통해 교직원 및 직원에게 기관용 Office 라이선스를 허가한 학교는 Office 365 Education Plus를 이용할 수 있습니다. Access 및 Publisher는 PC에서만 사용할 수 있습니다. Mac용 OneNote는 Mac 앱 스토어에서 별도로 다운로드할 수 있습니다. > Office Online 버전 <sup>4</sup> 가 포함 되어 있습니다. 자세한 내용은 [Office Online 기능](office-365-education.md#office-online-features) 을 참조 하세요.
+> <sup>1</sup> WINDOWS SERVER AD RMS는 지원 되는 IRM 기능을 사용 하기 위해 별도로 구입 하 여 관리 해야 하는 온-프레미스 서버입니다. > <sup>2</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 Skype 응용 프로그램이 포함됩니다. 비즈니스용 Skype 온라인 라이선스가 각 사용자에게 할당되어 있어야 합니다. Lync Basic의 기능에 대한 자세한 내용은 [비즈니스용 Skype Online 클라이언트](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)를 참조하세요. > <sup>3</sup> 일부 학교는 교육 Plus를 위한 자격이 있고 Office 365 ProPlus를 포함 하 고 학생, 교직원 및 직원이 최대 5 대의 PC 또는 Mac 컴퓨터 및 기타 모바일 장치 (Windows 태블릿 및를 포함 한)에 최신 버전의 Office를 설치할 수 있도록 허용 합니다. 용. Enrollment for Education Solutions, Open Value Subscription Education Solutions 또는 학교 계약을 통해 교직원 및 직원에게 기관용 Office 라이선스를 허가한 학교는 Office 365 Education Plus를 이용할 수 있습니다. Access 및 Publisher는 PC에서만 사용할 수 있습니다. Mac용 OneNote는 Mac 앱 스토어에서 별도로 다운로드할 수 있습니다. > Office Online 버전 <sup>4</sup> 가 포함 되어 있습니다. 자세한 내용은 [Office Online 기능](office-365-education.md#office-online-features) 을 참조 하세요.
   
 ## <a name="office-online-features"></a>Office Online 기능
 <a name="OfcOnline"> </a>
 
-다음 표에서는 office Online 기능에서 사용할 수 있는 office 온라인 기능의 비교에 대 한 링크를 제공 합니다. 비교를 사용 하 여 Office Online에서 사용할 수 있는 기능을 찾은 다음 기능 이름을 클릭 하 여 해당 기능의 작동 방식에 대 한 간단한 설명을 읽어 보십시오. 조직의 일부 구성원은 Excel 데스크톱 앱의 고급 차트 기능을 필요로 하지만 다른 구성원은 Office Online를 사용하여 Word 문서와 PowerPoint 프레젠테이션을 보고 간단하게 편집만 해야 할 수 있습니다.
+다음 표에서는 365 office Online 기능에서 사용할 수 있는 office 온라인 기능의 비교에 대 한 링크를 제공 합니다. 비교를 사용 하 여 Office Online에서 사용할 수 있는 기능을 찾은 다음 기능 이름을 클릭 하 여 해당 기능의 작동 방식에 대 한 간단한 설명을 읽어 보십시오. 조직의 일부 구성원은 Excel 데스크톱 앱의 고급 차트 기능을 필요로 하지만 다른 구성원은 Office Online를 사용하여 Word 문서와 PowerPoint 프레젠테이션을 보고 간단하게 편집만 해야 할 수 있습니다.
   
 > [!NOTE]
->  Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. 표는 Microsoft Office 기능의 전체 목록이 아닙니다. >  Microsoft Office 365 ProPlus는 최신 Office 데스크톱 제품군의 월별 구독 제품입니다. office Professional Plus, office Standard 또는 office 365 ProPlus 라이선스와 같은 office 데스크톱 제품군 라이선스를 구매한 경우 Microsoft office online Server 온-프레미스 고객에 게 office online 편집 라이선스를 > 합니다. 
+>  Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. 표는 Microsoft Office 기능의 전체 목록이 아닙니다. >  Microsoft Office 365 ProPlus는 최신 Office 데스크톱 제품군의 월별 구독 제품입니다. office Professional Plus, Office Standard 또는 Office 365 ProPlus 라이선스와 같은 Office 데스크톱 제품군 라이선스를 구매한 경우 Microsoft Office Online Server 온-프레미스 고객에 게 Office Online 편집 라이선스를 > 합니다. 
   
 ||||
 |:-----|:-----|:-----|
@@ -365,7 +365,7 @@ office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 | Windows <sup>9</sup> 용 Outlook <br/> |예  <br/> |예  <br/> |예  <br/> |
 |웹용 Outlook<sup>9</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Mac 용 Outlook<sup>9</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
-|iOS 및 Android 용 Outlook<sup>9</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
+|IOS 및 Android 용 Outlook<sup>9</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange ActiveSync  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365의 모바일 장치 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |POP 및 IMAP  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -397,7 +397,7 @@ office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |Outlook 추가 기능 및 Outlook MAPI  <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Windows Server AD RMS는 지원 되는 IRM 기능을 사용 하기 위해 별도로 구입 하 여 관리 해야 하는 온-프레미스 서버입니다. > <sup>2</sup> 전송 규칙은 조건과 예외를 정의 하는 데 사용할 수 있는 다양 한 조건으로 구성 되며 조건에 따라 수행할 작업입니다. 사용 가능한 조건 및 작업은 Exchange Online과 Microsoft Exchange Server 2013 간에 서로 다릅니다. 사용 가능한 조건 및 작업 목록은 각 제품에 대 한 해당 하는 조건 및 작업 항목을 참조 하십시오. > <sup>3</sup> Exchange 서버 2013은 Microsoft 맬웨어 방지 엔진도 사용 합니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다. > <sup>4</sup> SharePoint Online은 Office 365 구독 계획에 포함 되어야 합니다. > <sup>5</sup> 연결 된 계정은 POP 및 IMAP 계정에 대해서는 지원 되지만 Outlook.com (Hotmail)에는 사용할 수 없습니다. > <sup>6</sup> cmdlet을 사용 하 여 주소 목록 및 전체 주소 목록으로 작업할 수 없습니다. > <sup>7</sup> 일부 타사 웹 파트 및 추가 기능을 사용 하지 못할 수 있습니다. > <sup>8</sup> eDiscovery의 경우 온-프레미스 및 클라우드에 대해 별도의 쿼리가 필요 합니다. > <sup>9</sup> 테이블은 클라이언트가 관련 요금제와 함께 작동 하는지 여부를 나타냅니다. 이러한 계획 구매에 클라이언트가 반드시 포함되어야 하는 것을 의미하지는 않습니다. 
+> <sup>1</sup> WINDOWS SERVER AD RMS는 지원 되는 IRM 기능을 사용 하기 위해 별도로 구입 하 여 관리 해야 하는 온-프레미스 서버입니다. > <sup>2</sup> 전송 규칙은 조건과 예외를 정의 하는 데 사용할 수 있는 다양 한 조건으로 구성 되며 조건에 따라 수행할 작업입니다. 사용 가능한 조건 및 작업은 Exchange Online과 Microsoft Exchange Server 2013 간에 서로 다릅니다. 사용 가능한 조건 및 작업 목록은 각 제품에 대 한 해당 하는 조건 및 작업 항목을 참조 하십시오. > <sup>3</sup> Exchange 서버 2013은 Microsoft 맬웨어 방지 엔진도 사용 합니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다. > <sup>4</sup> SharePoint Online은 Office 365 구독 계획에 포함 되어야 합니다. > <sup>5</sup> 연결 된 계정은 POP 및 IMAP 계정에 대해서는 지원 되지만 Outlook.com (Hotmail)에는 사용할 수 없습니다. > <sup>6</sup> cmdlet을 사용 하 여 주소 목록 및 전체 주소 목록으로 작업할 수 없습니다. > <sup>7</sup> 일부 타사 웹 파트 및 추가 기능을 사용 하지 못할 수 있습니다. > <sup>8</sup> eDiscovery의 경우 온-프레미스 및 클라우드에 대해 별도의 쿼리가 필요 합니다. > <sup>9</sup> 테이블은 클라이언트가 관련 요금제와 함께 작동 하는지 여부를 나타냅니다. 이러한 계획 구매에 클라이언트가 반드시 포함되어야 하는 것을 의미하지는 않습니다. 
   
 ### <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -751,19 +751,19 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 ## <a name="onedrive-for-business-features"></a>비즈니스용 OneDrive 기능
 <a name="OfcOnline"> </a>
 
-비즈니스용 OneDrive (이전 SkyDrive Pro)는 클라우드의 개인 온라인 저장 공간입니다. 이 도구를 사용 하 여 작업 파일을 여러 장치에 간편 하 게 저장 하 고 보안을 강화 합니다. 필요에 따라 동료와 파일을 공유 하 고 office Online을 사용 하 여 office 문서를 실시간으로 함께 편집 합니다. 비즈니스용 OneDrive 동기화 앱을 사용 하 여 파일을 로컬 컴퓨터에 동기화 합니다.
+비즈니스용 OneDrive (이전 SkyDrive Pro)는 클라우드의 개인 온라인 저장 공간입니다. 이 도구를 사용 하 여 작업 파일을 여러 장치에 간편 하 게 저장 하 고 보안을 강화 합니다. 필요에 따라 동료와 파일을 공유 하 고 Office Online을 사용 하 여 Office 문서를 실시간으로 함께 편집 합니다. 비즈니스용 OneDrive 동기화 앱을 사용 하 여 파일을 로컬 컴퓨터에 동기화 합니다.
   
 비즈니스용 OneDrive는 SharePoint Online에 포함 되어 있으며 독립 실행형 계획으로 구입할 수도 있습니다. 비즈니스용 OneDrive 독립 실행형 옵션에는 Office Online이 포함 됩니다. 자세한 내용은 [비즈니스용 OneDrive 란?](https://go.microsoft.com/fwlink/p/?LinkID=271073) 를 참조 하세요.
   
 ### <a name="system-requirements"></a>시스템 요구 사항
 
-비즈니스용 onedrive 동기화 클라이언트의 시스템 요구 사항은 onedrive 클라이언트와 다릅니다. 자세한 내용은 [How to install for 비즈니스용 OneDrive 동기화 클라이언트](https://support2.microsoft.com/kb/2903984)를 참조 하세요.
+비즈니스용 OneDrive 동기화 클라이언트의 시스템 요구 사항은 OneDrive 클라이언트와 다릅니다. 자세한 내용은 [How to install For 비즈니스용 OneDrive 동기화 클라이언트](https://support2.microsoft.com/kb/2903984)를 참조 하세요.
   
 ### <a name="onedrive-for-business-limits"></a>비즈니스용 OneDrive 제한
 
-비즈니스용 OneDrive 계획 1에서는 사용자 당 1tb의 저장 공간을 제공 합니다. 
+비즈니스용 OneDrive 계획 1에서는 사용자 당 1TB의 저장 공간을 제공 합니다. 
   
-다음 자격을 갖춘 계획은 사용자가 5 명 이상인 구독에 대해 사용자별로 무제한 OneDrive 저장소를 제공 합니다. Microsoft는 사용자 당 5 TB의 초기 저장 공간을 제공 합니다. 추가 OneDrive 저장소가 필요한 경우 Microsoft 기술 지원 서비스에 문의 하 여이를 요청할 수 있습니다. 사용자가 5 명 미만인 구독에는 사용자 당 1tb의 저장소가 수신 됩니다.
+다음 자격을 갖춘 계획은 사용자가 5 명 이상인 구독에 대해 사용자별로 무제한 OneDrive 저장소를 제공 합니다. Microsoft는 사용자 당 5 TB의 초기 저장 공간을 제공 합니다. 추가 OneDrive 저장소가 필요한 경우 Microsoft 기술 지원 서비스에 문의 하 여이를 요청할 수 있습니다. 사용자가 5 명 미만인 구독에는 사용자 당 1TB의 저장소가 수신 됩니다.
   
 - Office 365 A1
     
@@ -771,11 +771,11 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
     
 - Office 365 A5
     
-특정 OneDrive 사용자에 게 더 많은 저장소를 할당할 수 없습니다. 그러나 사용자에 게 표시 되는 저장 용량을 낮출 수 있습니다. office 365 enterprise F1 사용자에 게 추가 저장소가 필요한 경우 office 365 Enterprise E1으로 업그레이드 해야 합니다.
+특정 OneDrive 사용자에 게 더 많은 저장소를 할당할 수 없습니다. 그러나 사용자에 게 표시 되는 저장 용량을 낮출 수 있습니다. Office 365 Enterprise F1 사용자에 게 추가 저장소가 필요한 경우 Office 365 Enterprise E1으로 업그레이드 해야 합니다.
   
 비즈니스용 OneDrive에 추가할 수 없는 파일 형식에 대 한 자세한 내용은 [목록 또는 라이브러리에 추가할 수 없는 파일 형식](https://go.microsoft.com/fwlink/p/?LinkId=273757)항목을 참조 하십시오.
   
-비즈니스용 OneDrive는 SharePoint Online에 포함되어 있습니다. sharepoint online에서 사이트 모음 할당량, 파일 업로드 제한 및 저장 제한과 같은 추가 제한 사항에 대 한 자세한 내용은 [sharepoint online 소프트웨어 경계 및 제한을](https://go.microsoft.com/fwlink/p/?LinkId=271273)참조 하세요. 
+비즈니스용 OneDrive는 SharePoint Online에 포함되어 있습니다. SharePoint Online에서 사이트 모음 할당량, 파일 업로드 제한 및 저장 제한과 같은 추가 제한 사항에 대 한 자세한 내용은 [Sharepoint online 소프트웨어 경계 및 제한을](https://go.microsoft.com/fwlink/p/?LinkId=271273)참조 하세요. 
   
 ### <a name="subscription-plans"></a>구독 계획
 
@@ -819,14 +819,14 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |[JavaScript 개체 모델](../sharepoint-online-service-description/developer.md#javascript-object-model) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |List and Library APIs <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[원격 이벤트 수신기](../sharepoint-online-service-description/developer.md#remote-event-receiver) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[REST api](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[REST Api](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[샌드박스 솔루션](../sharepoint-online-service-description/developer.md#sandboxed-solutions) <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |
 |[SharePoint 디자인 관리자](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |SharePoint Store <br/> |예  <br/> |예  <br/> |예  <br/> |
-|SharePoint 2010 워크플로 (.net 3.5) <br/> |예  <br/> |예  <br/> |예  <br/> |
+|SharePoint 2010 워크플로 (.NET 3.5) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[SharePoint 2010 워크플로 (이 상자에서 제외 됨)](../sharepoint-online-service-description/developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[sharepoint 2013 및 sharepoint 2016 워크플로](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |
+|[SharePoint 2013 및 SharePoint 2016 워크플로](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |
 |Workload API: ECM APIs <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Workload API: Search APIs <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Workload API: Social APIs <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -1030,7 +1030,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |[Azure 프로비전 응용 프로그램: Azure LWR(Lightweight Web Role)의 사용자 지정 코드](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |예  <br/> |예  <br/> |예  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 폴더 동기화를 사용하려면 Office 2013 이상(Standard 또는 Professional Edition)을 보유하고 있거나 Office 응용 프로그램이 포함된 Office 365를 구독해야 합니다. office 365 Business Essentials, Office 365 Enterprise E1 및 office 365 교육 계획에는 office 데스크톱 응용 프로그램에 대 한 구독이 포함 되지 않습니다. 그러나 Office 2013 이상이 설치되어 있고 계획 중 하나를 구독한 경우 폴더 동기화를 사용할 수 있습니다. > <sup>2</sup> 키오스크 사용자는 관리자가 될 수 없으므로 관리자 센터에 액세스 하려면 키오스크 사용자가 있는 테 넌 트에 하나 이상의 엔터프라이즈 사용자가 필요 합니다. > <sup>3</sup> SharePoint Online 고객은 무료 순위 모델 조정 앱을 다운로드 하 고 설치 해야 순위 모델을 만들고 사용자 지정할 수 있습니다. > <sup>4</sup> ediscovery 기능을 사용할 때 해당 기능을 허용 하는 계획에 대 한 라이선스 요구 사항이 ediscovery 작업 (검색, 보류, 내보내기)에 속하는 모든 최종 사용자에 게 적용 됩니다. > <sup>5</sup> 일부 공급자는 사용자의 국가/지역에서 차단 될 수 있습니다. > <sup>6</sup> 조직 외부의 사용자와 전자 메일로 문서, 라이브러리 또는 사이트를 공유 합니다. 관리자는 해당 기능을 설정할 수 있지만, 사용자가 국가 외부에서 파일을 공유할 수 있다는 경고 메시지가 표시 됩니다. 사용자가 조직 외부의 사용자와 공유하려고 하면 같은 경고 메시지를 받게 됩니다. > <sup>7</sup> 모바일 브라우저에서 문서를 볼 수 있습니다. 문서를 편집하려면 Office Mobile 앱을 설치해야 합니다. Office Mobile은 현재 Windows 휴대폰 및 태블릿, Android 휴대폰 및 태블릿, iPhone 및 iPad에서 이용할 수 있습니다. > <sup>8</sup> 도움말은 중국어 간체 및 영어로만 사용할 수 있습니다. > <sup>9</sup> 블로그에 대 한 설명은 추가할 수 없습니다. > <sup>10</sup> 조 직 커뮤니티 웹 사이트를 사용할 수 있지만 공용 커뮤니티 제공 도움말은 사용할 수 없습니다. > <sup>11</sup> Access 2010는 지원 되지 않습니다. > <sup>12</sup> 샌드박스 솔루션은 사용자 코드를 포함할 수 없습니다. 대신, 활성화 시 서버에서 처리되는 정의(.xml) 파일 및 리소스만 포함될 수 있습니다. > <sup>13</sup> 사용자 코드 (샌드박스)가 포함 된 infopath 양식은 infopath 리치 클라이언트 에서만 사용 될 수 있습니다. > <sup>14</sup> 인증 된 SharePoint Online 사용자는 패싯 탐색으로 개인 사이트 모음에 액세스할 수 있습니다. 
+> <sup>1</sup> 폴더 동기화를 사용하려면 Office 2013 이상(Standard 또는 Professional Edition)을 보유하고 있거나 Office 응용 프로그램이 포함된 Office 365를 구독해야 합니다. Office 365 Business Essentials, Office 365 Enterprise E1 및 Office 365 교육 계획에는 Office 데스크톱 응용 프로그램에 대 한 구독이 포함 되지 않습니다. 그러나 Office 2013 이상이 설치되어 있고 계획 중 하나를 구독한 경우 폴더 동기화를 사용할 수 있습니다. > <sup>2</sup> 키오스크 사용자는 관리자가 될 수 없으므로 관리자 센터에 액세스 하려면 키오스크 사용자가 있는 테 넌 트에 하나 이상의 엔터프라이즈 사용자가 필요 합니다. > <sup>3</sup> SharePoint Online 고객은 무료 순위 모델 조정 앱을 다운로드 하 고 설치 해야 순위 모델을 만들고 사용자 지정할 수 있습니다. > <sup>4</sup> ediscovery 기능을 사용할 때 해당 기능을 허용 하는 계획에 대 한 라이선스 요구 사항이 ediscovery 작업 (검색, 보류, 내보내기)에 속하는 모든 최종 사용자에 게 적용 됩니다. > <sup>5</sup> 일부 공급자는 사용자의 국가/지역에서 차단 될 수 있습니다. > <sup>6</sup> 조직 외부의 사용자와 전자 메일로 문서, 라이브러리 또는 사이트를 공유 합니다. 관리자는 해당 기능을 설정할 수 있지만, 사용자가 국가 외부에서 파일을 공유할 수 있다는 경고 메시지가 표시 됩니다. 사용자가 조직 외부의 사용자와 공유하려고 하면 같은 경고 메시지를 받게 됩니다. > <sup>7</sup> 모바일 브라우저에서 문서를 볼 수 있습니다. 문서를 편집하려면 Office Mobile 앱을 설치해야 합니다. Office Mobile은 현재 Windows 휴대폰 및 태블릿, Android 휴대폰 및 태블릿, iPhone 및 iPad에서 이용할 수 있습니다. > <sup>8</sup> 도움말은 중국어 간체 및 영어로만 사용할 수 있습니다. > <sup>9</sup> 블로그에 대 한 설명은 추가할 수 없습니다. > <sup>10</sup> 조 직 커뮤니티 웹 사이트를 사용할 수 있지만 공용 커뮤니티 제공 도움말은 사용할 수 없습니다. > <sup>11</sup> Access 2010는 지원 되지 않습니다. > <sup>12</sup> 샌드박스 솔루션은 사용자 코드를 포함할 수 없습니다. 대신, 활성화 시 서버에서 처리되는 정의(.xml) 파일 및 리소스만 포함될 수 있습니다. > <sup>13</sup> 사용자 코드 (샌드박스)가 포함 된 InfoPath 양식은 Infopath 리치 클라이언트 에서만 사용 될 수 있습니다. > <sup>14</sup> 인증 된 SharePoint Online 사용자는 패싯 탐색으로 개인 사이트 모음에 액세스할 수 있습니다. 
   
 ### <a name="sharepoint-online-limits"></a>SharePoint Online 제한 사항
 
@@ -1039,7 +1039,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |||||
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|저장소<sup>1, 2</sup> <br/> |조직 당 1tb 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |조직 당 1tb 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |조직 당 1tb 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |
+|저장소<sup>1, 2</sup> <br/> |조직 당 1TB 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |조직 당 1TB 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |조직 당 1TB 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |
 |스토어의 용어  <br/> |200,000  <br/> |200,000  <br/> |200,000  <br/> |
 |사이트 모음에 대 한 저장소  <br/> |사이트 모음 또는 그룹<sup>4</sup> 당 최대 25tb <br/> |사이트 모음 또는 그룹<sup>4</sup> 당 최대 25tb <br/> |사이트 모음 또는 그룹<sup>4</sup> 당 최대 25tb <br/> |
 |테 넌 트 당 사이트 모음 수  <br/> |조직<sup>5</sup> 50만 <br/> |조직<sup>5</sup> 50만 <br/> |조직<sup>5</sup> 50만 <br/> |
@@ -1055,7 +1055,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 다음 표에는 각 Office 365 교육 계획에 사용할 수 있는 비즈니스용 Skype Online 기능이 나와 있습니다.
   
 > [!NOTE]
-> 이 표에는 Office 365 교육 옵션 별로 제공 되는 클라이언트 및 서비스 사용 가능 여부가 나와 있습니다. 다양 한 비즈니스용 skype 데스크톱 클라이언트, 웹 클라이언트 및 모바일 클라이언트 간에 개별 기능을 비교 하려면 [비즈니스용 skype Online 클라이언트 비교 테이블](https://go.microsoft.com/fwlink/?LinkId=278876) 및 [모바일 클라이언트 비교 표](https://go.microsoft.com/fwlink/?LinkID=278874)를 참조 하세요. 
+> 이 표에는 Office 365 교육 옵션 별로 제공 되는 클라이언트 및 서비스 사용 가능 여부가 나와 있습니다. 다양 한 비즈니스용 Skype 데스크톱 클라이언트, 웹 클라이언트 및 모바일 클라이언트 간에 개별 기능을 비교 하려면 [비즈니스용 Skype Online 클라이언트 비교 테이블](https://go.microsoft.com/fwlink/?LinkId=278876) 및 [모바일 클라이언트 비교 표](https://go.microsoft.com/fwlink/?LinkID=278874)를 참조 하세요. 
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -1187,7 +1187,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |Microsoft 365 관리 센터의 비즈니스용 Skype Online 보고  <br/> |예  <br/> |예  <br/> |예  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic은 모든 고객이 사용할 수 있습니다. Lync Basic 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치되는 응용 프로그램입니다. office 365 ProPlus 및 office 365 A3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능과 같은 추가 기능을 비롯 한 전체 비즈니스용 Skype (Lync) 응용 프로그램이 포함 됩니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대 한 자세한 내용은 [Clients for 비즈니스용 Skype Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)> <sup>2</sup> 음성 메일을 사용할 사용자에 게 Exchange online (요금제 2) 계획을 할당 해야 합니다. Exchange Online(계획 1) 계획은 음성 메일에 사용할 수 없습니다. 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic은 모든 고객이 사용할 수 있습니다. Lync Basic 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 A3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능과 같은 추가 기능을 비롯 한 전체 비즈니스용 Skype (Lync) 응용 프로그램이 포함 됩니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대 한 자세한 내용은 [Clients for 비즈니스용 Skype Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)> <sup>2</sup> 음성 메일을 사용할 사용자에 게 Exchange online (요금제 2) 계획을 할당 해야 합니다. Exchange Online(계획 1) 계획은 음성 메일에 사용할 수 없습니다. 
   
 ### <a name="skype-for-business-online-limits"></a>비즈니스용 Skype Online 제한
 
@@ -1265,6 +1265,6 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
    
 #### <a name="minute-limits"></a>분 한도
 
-비즈니스용 skype online 국내 및 국제 통화 요금제의 분 제한 사항에 대 한 자세한 내용은 [비즈니스용 skype online PSTN 서비스 사용 용어](https://support.office.com/en-us/article/Skype-for-Business-Online-PSTN-services-use-terms-dc6e95cd-51e8-49ca-bcd3-78dc9dae486a?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요.
+비즈니스용 Skype Online 국내 및 국제 통화 요금제의 분 제한 사항에 대 한 자세한 내용은 [비즈니스용 Skype ONLINE PSTN 서비스 사용 용어](https://support.office.com/en-us/article/Skype-for-Business-Online-PSTN-services-use-terms-dc6e95cd-51e8-49ca-bcd3-78dc9dae486a?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요.
   
 

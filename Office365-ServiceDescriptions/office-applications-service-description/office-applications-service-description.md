@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
-description: Microsoft office 365는 Word, Excel, PowerPoint 등 이미 익숙한 Office 데스크톱 응용 프로그램의 최신 버전을 제공 하는 구독 서비스입니다.
-ms.openlocfilehash: 144f5a6ef84e83f194a997d77176538860d947ca
-ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
+description: Microsoft Office 365는 Word, Excel, PowerPoint 등 이미 익숙한 Office 데스크톱 응용 프로그램의 최신 버전을 제공 하는 구독 서비스입니다.
+ms.openlocfilehash: 96b453fd96234c3082f6f665c14ace898e3668b4
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2019
-ms.locfileid: "33368361"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544935"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 
-Microsoft office 365는 Word, Excel, PowerPoint 등 이미 익숙한 Office 데스크톱 응용 프로그램의 최신 버전을 제공 하는 구독 서비스입니다.
+Microsoft Office 365는 Word, Excel, PowerPoint 등 이미 익숙한 Office 데스크톱 응용 프로그램의 최신 버전을 제공 하는 구독 서비스입니다.
   
 Office 365는 클라우드 기반 서비스이지만 Office 응용 프로그램이 클라우드에서 실행되는 것은 아닙니다. 대신, 사용자가 Office 365 포털에서 Office 응용 프로그램을 다운로드하여 자신의 로컬 컴퓨터에 설치할 수 있습니다. Microsoft에서는 Office 응용 프로그램을 빠르고 간단하게 다운로드하고 설치할 수 있도록 간편 실행이라는 기술을 사용합니다. 이 간편 실행 기능은 가상화 기술을 사용하여 Office 응용 프로그램을 로컬 컴퓨터의 자체 포함 환경에서 실행하기 때문에 사용자가 Office 응용 프로그램을 이전 버전의 Office와 함께 실행할 수 있습니다.
   
@@ -52,7 +52,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |[Microsoft Access](office-applications.md#microsoft-access) <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>11</sup> <br/> |아니요  <br/> |예<sup>11</sup> <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |[비즈니스용 Skype](office-applications.md#skype-for-business) <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예  <br/> |예  <br/> |예<sup>5, 10</sup> <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |예  <br/> |예<sup>12</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|[Windows 8 앱](office-applications.md#windows-8-apps) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[Windows 10 앱](office-applications.md#windows-10-apps) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |[Office 365용 Office for Mac](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |[iPad/iPhone용 Office Mobile](office-applications.md#office-mobile-for-ipadiphone) <br/> |아니요  <br/> |예<sup>13</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |[Android용 Office Mobile](office-applications.md#office-mobile-for-android) <br/> |아니요  <br/> |예<sup>13</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
@@ -72,7 +72,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |Excel 스프레드시트 조회  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
 |Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |예<sup>1</sup> <br/> |예  <br/> |예<sup>1</sup> <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
 |그룹 정책 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
-|Azure information Protection을 사용한 정보 권한 관리  <br/> |아니요  <br/> |아니요  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |
+|Azure Information Protection을 사용한 정보 권한 관리  <br/> |아니요  <br/> |아니요  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |
 |Windows Server AD RMS를 사용한 Information Rights Management  <br/> |예<sup>3</sup> <br/> |있음  <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |
 |Office 추가 기능, ActiveX 및 BHO 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
 |SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
@@ -101,7 +101,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 <br/><sup>9</sup>Office 365 Enterprise E3 및 Office 365 ProPlus에 대한 볼륨 정품 인증은 RDS 역할이 설정되거나 Window To Go 설치가 있는 Windows Server 2008 R2 이상 버전의 설치로만 제한됩니다. 두 경우 모두 이러한 설치에 액세스하는 사용자는 Office 365 Enterprise E3 또는 Office 365 ProPlus의 허가된 사용자여야 합니다. 
 <br/><sup>10</sup>Office 365 Enterprise F1의 비즈니스용 Skype 기능에는 비즈니스용 Skype 계획 1(데스크톱 공유 없음, 앱 공유 없음, 단체 오디오, 비디오 또는 웹 회의를 시작할 수 없음, 모임을 예약할 수 없음)이 포함되어 있습니다. 
 <br/><sup>11</sup> 현재 지연 채널에 대 한 대상 릴리스 또는 최신 채널을 사용 하 고 있는 경우 Access를 사용할 수 있습니다. 지연 채널에 있는 경우 2017년 6월에 Access가 제공될 예정입니다. 자세한 내용은 [Office 365 Business 및 Business Premium의 일부로 포함된 Access](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US). 
-<br/><sup>12</sup> Infopath 2013은 여전히 지원 되며 office Professional Plus 2016 설치에 포함 되어 있지만 office 2016에 대 한 새 버전은 없습니다. 
+<br/><sup>12</sup> Infopath 2013은 여전히 지원 되며 Office Professional Plus 2016 설치에 포함 되어 있지만 office 2016에 대 한 새 버전은 없습니다. 
 <br/><sup>13</sup> 기본 편집 기능만 지원 합니다. 
   
 ## <a name="office-application-availability-in-office-for-mac-in-office-365-plans"></a>Office 365 계획의 Office for Mac에서의 Office 응용 프로그램 가용성
@@ -120,6 +120,6 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |[비즈니스용 Skype](office-applications.md#skype-for-business) <br/> |예  <br/> |예  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |아니요  <br/> |아니요  <br/> |
    
-> <sup>1</sup> mac에 대 한 Office 2016에는 mac OS X 10.10 이상이 필요 합니다. Outlook for Mac을 통해 Exchange에 연결되어 있는 고객은 Microsoft Exchange Server 2010 서비스 팩 2 이상에 연결되어 있어야 합니다. 자세한 내용은 [Office의 시스템 요구 사항을](https://products.office.com/en-US/office-system-requirements)참조 하세요. 
+> <sup>1</sup> mac에 대 한 Office 2016에는 Mac OS X 10.10 이상이 필요 합니다. Outlook for Mac을 통해 Exchange에 연결되어 있는 고객은 Microsoft Exchange Server 2010 서비스 팩 2 이상에 연결되어 있어야 합니다. 자세한 내용은 [Office의 시스템 요구 사항을](https://products.office.com/en-US/office-system-requirements)참조 하세요. 
  <br/><sup>2</sup> 앱 스토어에서 별도로 다운로드하여 사용할 수 있습니다. 자세한 내용은 [OneNote for Mac](https://blogs.office.com/2014/03/17/introducing-onenote-for-mac/)을 참조하세요. 
  <br/><sup>3</sup> Office for Mac 2011을 설치할 수 있으 나 정품 인증을 받지 않습니다. 
