@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: 7b3910ea194e7e8be2d4ba221252e7e0a3c9d748
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: 1fe0b98ab37061312c1b419304ae91d394dd2b2d
+ms.sourcegitcommit: b92efda3126d52cd58a524bceb816abe18d59856
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544845"
+ms.locfileid: "33553487"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -456,6 +456,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
     
 - **메시지가 리디렉션되는** 횟수 받은 편지함 규칙을 기반으로 메시지를 리디렉션하고 전달 하거나 자동으로 회신 하는 횟수입니다. 예를 들어, 사용자 A에게는 보낸 사람에 따라 사용자 B에게 메시지를 리디렉션하는 받은 편지함 규칙이 있고, 사용자 B에게는 제목 행의 키워드에 따라 사용자 C에게 메시지를 전달하는 받은 편지함 규칙이 있습니다. 리디렉션은 1회만 허용되므로 메시지가 이러한 조건을 모두 충족시키는 경우 사용자 B에게만 전송되며 사용자 C에게는 전송되지 않습니다. 이러한 두 조건을 충족 하는 메시지는 사용자 B로만 전송 됩니다. 리디렉션이 하나만 허용 되므로 사용자 C에 게 전달 되지 않습니다. 이 경우 사용자 B에 게 메시지를 사용자 C로 배달 하지 않았다는 NDR (배달 못 함 보고서)을 보내지 않고 메시지가 삭제 됩니다. 메시지를 리디렉션한 횟수를 결정 하는 데에는 X-MS-수신함-Rules-Loop 헤더를 사용 합니다. 이 헤더는 Exchange 조직 경계를 넘어도 유지 됩니다.
 
+- **전송 규칙에 의해 메시지가 리디렉션되는 횟수** 전송 규칙에 따라 메시지가 리디렉션되는 횟수입니다. 예를 들어 Exchange 조직 Tailspin 장난감에는 Exchange 조직 Contoso에 있는 사용자 A에 게 전송 된 모든 메시지를 리디렉션하는 전송 규칙이 있습니다. Exchange 조직 Contoso에서 사용자 B에 게 전송 되는 모든 메시지를 Exchange 조직 A Datum Corporation에 있는 사용자 C로 리디렉션하도록 전송 규칙이 있습니다. 이 경우 메시지가 삭제 되 고 배달 못 함 보고서 (NDR)가 상태 코드 및 거부 메시지 *550 5.7.128 전송 됩니다. 규칙이. RejectMessage 전송 규칙 루프 카운트가 초과 되 고 거부 된 메시지가* 사용자 A에 게 전송 됩니다. Microsoft는 전송 규칙에 따라 메시지가 리디렉션되는 횟수를 결정 하기 위해 X-m-전송-규칙 루프 헤더를 사용 합니다. 이 헤더는 Exchange 조직 경계를 넘어도 유지 됩니다.
+
 ### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>Office 365 옵션별 저널, 전송 및 받은 편지함 규칙 제한
 
 ||||||||
@@ -468,7 +470,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |첨부 파일 내용 검사 제한|1MB|1MB|1MB|1MB|1MB|1MB|
 |모든 전송 규칙에 의해 메시지에 추가되는 최대 받는 사람 수|받는 사람 100명|받는 사람 100명|받는 사람 100명|받는 사람 100명|받는 사람 100명|받는 사람 100명|
 |전달받는 사람 제한|받는 사람 10명|받는 사람 10명|받는 사람 10명|받는 사람 10명|받는 사람 10명|받는 사람 10명|
-|메시지 리디렉션 횟수|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|
+|메시지 리디렉션 횟수|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|
+|전송 규칙에 의해 메시지가 리디렉션되는 횟수|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>독립 실행형 옵션별 저널, 전송 및 받은 편지함 규칙 제한
 
@@ -481,7 +484,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |모든 전송 규칙에서 사용되는 모든 정규식의 문자 제한|제한 없음|20KB|20KB|20KB|
 |모든 전송 규칙에 의해 메시지에 추가되는 최대 받는 사람 수|제한 없음|받는 사람 100명|받는 사람 100명|받는 사람 100명|
 |전달받는 사람 제한|제한 없음|받는 사람 10명|받는 사람 10명|받는 사람 10명|
-|메시지 리디렉션 횟수|리디렉션 3회|리디렉션 1회|리디렉션 1회|리디렉션 1회|
+|메시지 리디렉션 횟수|리디렉션 3회|리디렉션 1회|리디렉션 1회|리디렉션 1회|
+|전송 규칙에 의해 메시지가 리디렉션되는 횟수|제한 없음|리디렉션 1회|리디렉션 1회|리디렉션 1회|
 
 ## <a name="moderation-limits"></a>중재 제한
 <a name="ModerationLimits"> </a>
@@ -539,7 +543,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |**기능**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Exchange ActiveSync 장치 제한|100|100|100|100|100|100|
 |Exchange ActiveSync 장치 삭제 제한|20cm(8|20cm(8|20cm(8|20cm(8|20cm(8|20cm(8|
-|Exchange ActiveSync 첨부 파일 제한|25MB|25MB|25MB|25MB|25MB|25MB|
+|Exchange ActiveSync 첨부 파일 제한|25MB|25MB |25MB |25MB |25MB |25MB|
 
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>독립 실행형 옵션에서 Exchange ActiveSync 제한
 
@@ -548,4 +552,4 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |**기능**|**Exchange Server 2013**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |Exchange ActiveSync 장치 제한|100|100|100|100|
 |Exchange ActiveSync 장치 삭제 제한|20cm(8|20cm(8|20cm(8|20cm(8|
-|Exchange ActiveSync 첨부 파일 제한|25MB|25MB|25MB|25MB|
+|Exchange ActiveSync 첨부 파일 제한|25MB|25MB |25MB |25MB|
