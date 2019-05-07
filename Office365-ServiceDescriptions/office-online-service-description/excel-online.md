@@ -3,7 +3,7 @@ title: Excel Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (이전의 Excel Web App)을 사용 하면 Microsoft Excel 환경을 웹 브라우저로 확장 하 여 통합 문서가 저장 된 웹 사이트에서 통합 문서를 직접 사용할 수 있습니다. 모든 Office 365 고객은 Office Online을 사용하여 Office 파일을 보고 간단히 편집할 수 있습니다.
-ms.openlocfilehash: e429ff99f195a24480d79cace60889aeade3bfea
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 16f5f8fb606277f58f4b6ba5cff91b51656c441f
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621828"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641624"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -203,13 +203,7 @@ Excel Online에서는 400개가 넘는 Excel 워크시트 함수를 대부분 �
 <a name="bkmk_HideUnhide"> </a>
 
 Excel Online에서 통합 문서의 열, 행, 시트를 숨기거나 숨기기 취소할 수 있습니다.
- 
-## <a name="ideas"></a>아이디어
-<a name="Ideas"> </a>
-
-아이디어를 통해 높은 수준의 시각적 요약, 추세 및 패턴을 통해 데이터를 이해 하는 데 도움이 됩니다. 데이터 범위에서 셀을 클릭 하 고 홈 탭에서 아이디어 단추를 클릭 하면 됩니다. [아이디어](https://support.office.com/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US)에 대해 자세히 알아보세요.
-
- 
+  
 ## <a name="insert-charts"></a>Insert charts
 <a name="bkmk_InsertCharts"> </a>
 
@@ -382,5 +376,4 @@ Excel Online에서는 사용할 수 없습니다. Excel Online에서는 "What if
 ## <a name="feature-availability"></a>기능 가용성
 <a name="bkmk_WhatIfAnalysis"> </a>
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션별로 기능 가용성을 확인하려면 [Office Online 서비스 설명](office-online-service-description.md)을 참조하세요. 
-
+Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션별로 기능 가용성을 확인하려면 [Office Online 서비스 설명](office-online-service-description.md)을 참조하세요.

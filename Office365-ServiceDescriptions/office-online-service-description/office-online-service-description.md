@@ -3,7 +3,7 @@ title: Office Online 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Office Online을 사용하면 거의 모든 장치에서 인터넷에 연결하여 어디서나 Office 파일을 간편하게 사용하고 공유할 수 있습니다. Microsoft Office 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: a631eee316ede56a13f2d6e8d1da8a636dd1a032
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 922dba2570dc7989af7f1667eaaf9108978852a2
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621868"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641634"
 ---
 # <a name="office-online-service-description"></a>Office Online 서비스 설명
 
@@ -111,7 +111,8 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 |[확대/축소](word-online.md#zoom) <br/> |예  <br/> |예  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 이 아이콘은 뷰어에 렌더링 되지만 Office Online에서 만들거나 편집할 수는 없습니다. > <sup>2</sup> 모두는 아니지만 일부 Office 추가 기능을 사용할 수 있습니다. 
+> <sup>1</sup> 이 아이콘은 뷰어에 렌더링 되지만 Office Online에서 만들거나 편집할 수는 없습니다. <br/>
+> <sup>2</sup> 모두는 아니지만 일부 Office 추가 기능을 사용할 수 있습니다. <br/>
   
 ### <a name="excel"></a>Excel
 <a name="BKMK_ExcelFeatures"> </a>
@@ -153,7 +154,6 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 |[GoTo](excel-online.md#goto) <br/> |예  <br/> |예  <br/> |
 |[그룹 데이터](excel-online.md#group-data) <br/> |예  <br/> |예  <br/> |
 |[행, 열 및 시트 숨기기/숨기기 취소](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |예  <br/> |예  <br/> |
-|[아이디어](excel-online.md#ideas) <br/> |예  <br/> |예  <br/> |
 |[차트 삽입](excel-online.md#insert-charts) <br/> |예  <br/> |예  <br/> |
 |[행과 열 삽입/삭제](excel-online.md#insertdelete-rows-and-columns) <br/> |예  <br/> |예  <br/> |
 |[그림 삽입](excel-online.md#insert-pictures) <br/> |예  <br/> |예  <br/> |
@@ -193,6 +193,7 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 |[3D 차트 보기](excel-online.md#view-3d-charts) <br/> |예  <br/> |예  <br/> |
 |[What if 분석 도구](excel-online.md#what-if-analysis-tools) <br/> |아니요  <br/> |지원  <br/> |
 
+> [!NOTE] 
 > <sup>1</sup> 피벗 차트 보기는 만들 수 없습니다.
  <br/><sup>2</sup> 환경의 구성 방법에 따라 Excel Online에 표시 되는 통합 문서에 대 한 일부 데이터 연결 유형이 지원 됩니다. 자세한 내용은 브라우저 창에서 통합 문서의 데이터 새로 고침을 참조하세요. 
  <br/><sup>3</sup> Excel ONLINE에서 vba를 사용 하 여 매크로를 만들 수는 없지만 파일에 포함 된 vba를 제거 하거나 손상 시 키 지 않고 vba 사용 가능 스프레드시트를 열고 편집할 수는 있습니다.
@@ -279,7 +280,7 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 |[오프라인으로 보기 및 작성](powerpoint-online.md#offline-viewing-and-authoring) <br/> |아니요  <br/> |지원  <br/> |
 |[그림 자르기](powerpoint-online.md#picture-cropping) <br/> |예  <br/> |예  <br/> |
 |[그림](powerpoint-online.md#pictures) <br/> |예  <br/> |예  <br/> |
-|[발표자 보기](powerpoint-online.md#presenter-view) <br/> |아니요  <br/> |예  <br/> |
+|[발표자 보기](powerpoint-online.md#presenter-view) <br/> |아니요  <br/> |지원  <br/> |
 |[비즈니스용 Skype 또는 Office Presentation Service를 통해 온라인으로 프레젠테이션](powerpoint-online.md#present-online-through-skype-for-business-or-the-office-presentation-service) <br/> |예  <br/> |예  <br/> |
 |[PDF로 인쇄](powerpoint-online.md#print-to-pdf) <br/> |예  <br/> |예  <br/> |
 |[교정 도구](powerpoint-online.md#proofing-tools) <br/> |예  <br/> |예  <br/> |
@@ -298,7 +299,8 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 |[설명 보기 및 추가](powerpoint-online.md#view-and-add-comments) <br/> |예  <br/> |예  <br/> |
 |[슬라이드 메모 보기 및 편집](powerpoint-online.md#view-and-edit-slide-notes) <br/> |예  <br/> |예  <br/> |
 |[WYSIWYG 보기](powerpoint-online.md#wysiwyg-viewing) <br/> |예  <br/> |예  <br/> |
-   
+
+> [!NOTE]   
 > <sup>1</sup> PowerPoint Online에서는 8 개의 전환 및 37 애니메이션의 갤러리를 지원 합니다. 더 많은 항목을 선택 하거나 사용자 지정 애니메이션을 만들려면 PowerPoint 데스크톱 앱을 사용 합니다. 
  <br/><sup>2</sup> 작업 중인 장치에서 잉크를 지원 해야 합니다. 
  <br/> <sup>3</sup> 모두는 아니지만 일부 Office 추가 기능을 사용할 수 있습니다. 
@@ -333,7 +335,8 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 |OpenDocument(.odp)  <br/> |예  <br/> |예  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 매크로는 실행하거나 변경할 수 없습니다. > <sup>2</sup> 매크로가 있는 경우 매크로가 제거된 파일 복사본을 포함하라는 메시지가 표시됩니다. 
+> <sup>1</sup> 매크로는 실행하거나 변경할 수 없습니다.<br/>
+> <sup>2</sup> 매크로가 있는 경우 매크로가 제거된 파일 복사본을 포함하라는 메시지가 표시됩니다.<br/> 
   
 > [!NOTE]
 > 호환 기능 팩이 포함된 Office 2016, 2013, 2010 또는 2007이나 Office 2000 이상에서는 최신 파일 형식(예: .docx, .xlsl, .pptx)을 만들 수 있습니다. 
