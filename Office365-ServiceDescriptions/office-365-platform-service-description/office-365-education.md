@@ -3,7 +3,7 @@ title: Office 365 Education
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/28/2018
+ms.date: 5/03/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 microsoft Exchange Online, Microsoft SharePoint Online, Office Online을 비롯 하 여 익숙한 Microsoft Office 데스크톱 제품군과 클라우드 기반 Microsoft의 차세대 통신 및 공동 작업 서비스를 함께 제공 합니다. Microsoft 비즈니스용 Skype Online-사용자가 인터넷을 통해 어디서 나 생산성을 유지 하는 데 도움이 됩니다.
-ms.openlocfilehash: 6f6bcf8780be134b88043740973ca9f8d4380626
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: c03a69c5d85f156f5aa7f6d6b6f7ae8b2e1a4c51
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544975"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621928"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -698,7 +698,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |||||
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|최대 저널 규칙 수  <br/> |10개 규칙  <br/> |10개 규칙  <br/> |10개 규칙  <br/> |
+|최대 저널 규칙 수  <br/> |50 규칙  <br/> |50 규칙  <br/> |50 규칙  <br/> |
 |최대 전송 규칙 수  <br/> |300개 규칙  <br/> |300개 규칙  <br/> |300개 규칙  <br/> |
 |개별 전송 규칙의 최대 크기  <br/> |8 KB  <br/> |8KB  <br/> |8KB  <br/> |
 |모든 전송 규칙에서 사용되는 모든 정규식의 문자 제한  <br/> |20 KB  <br/> |20KB  <br/> |20KB  <br/> |
@@ -1150,7 +1150,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |통화 대기음  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |아웃바운드 DID 조작  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |전용 회선  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|정규화된 IP 일반 전화기  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|정규화된 IP 일반 전화기  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |회선 공유 기능  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Skype 및 페더레이션 호출  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |팀 통화  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |

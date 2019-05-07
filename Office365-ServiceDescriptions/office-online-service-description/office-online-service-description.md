@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Office Online을 사용하면 거의 모든 장치에서 인터넷에 연결하여 어디서나 Office 파일을 간편하게 사용하고 공유할 수 있습니다. Microsoft Office 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: 4e5e66791af7a71bf877ec89dfa959be6e30064a
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: a631eee316ede56a13f2d6e8d1da8a636dd1a032
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544965"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621868"
 ---
 # <a name="office-online-service-description"></a>Office Online 서비스 설명
 
@@ -130,7 +130,7 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 |[자동 완성](excel-online.md#autocomplete) <br/> |예  <br/> |예  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |예  <br/> |예  <br/> |
 |[계산](excel-online.md#calculations) <br/> |예  <br/> |예  <br/> |
-|[수식에서의 통화 참조](excel-online.md#call-reference-in-formulas) <br/> |예  <br/> |예  <br/> |
+|[수식의 셀 참조](excel-online.md#cell-references-in-formulas) <br/> |예  <br/> |예  <br/> |
 |[메모 만들기](excel-online.md#comment-creation) <br/> |예  <br/> |예  <br/> |
 |[복사 및 붙여넣기](excel-online.md#copy-and-paste) <br/> |예  <br/> |예  <br/> |
 |[외부 데이터 연결 만들기<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |<sup>3</sup> 없음 <br/> |예  <br/> |
@@ -161,10 +161,10 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 |[셀 병합](excel-online.md#merge-cells) <br/> |예  <br/> |예  <br/> |
 |[명명 된 범위](excel-online.md#named-ranges) <br/> |예  <br/> |예  <br/> |
 |[숫자 서식](excel-online.md#number-formatting) <br/> |예  <br/> |예  <br/> |
-|[Office Add-ins](excel-online.md#office-add-ins) <br/> |예 <br/> |예  <br/> |
+|[Office 추가 기능](excel-online.md#office-add-ins) <br/> |예<sup>5</sup>  <br/> |예  <br/> |
 |[오프라인으로 보기 및 작성](excel-online.md#offline-viewing-and-authoring) <br/> |아니요  <br/> |지원  <br/> |
-|[피벗 차트](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |예<sup>1</sup>  <br/> |예  <br/> |
-|[피벗 테이블](excel-online.md#pivot-tables) <br/> |예  <br/> |예  <br/> |
+|[차트](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |예<sup>1</sup>  <br/> |예  <br/> |
+|[만들거나](excel-online.md#pivottables) <br/> |예  <br/> |예  <br/> |
 |[소셜 네트워크에 게시 및 온라인 유지](excel-online.md#post-to-social-network-and-present-online) <br/> |아니요  <br/> |지원  <br/> |
 |[Power Pivot 보기](excel-online.md#power-pivot-viewing) <br/> |예  <br/> |예  <br/> |
 |[Power View 보기](excel-online.md#power-view-viewing) <br/> |예  <br/> |예  <br/> |
@@ -279,7 +279,7 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 |[오프라인으로 보기 및 작성](powerpoint-online.md#offline-viewing-and-authoring) <br/> |아니요  <br/> |지원  <br/> |
 |[그림 자르기](powerpoint-online.md#picture-cropping) <br/> |예  <br/> |예  <br/> |
 |[그림](powerpoint-online.md#pictures) <br/> |예  <br/> |예  <br/> |
-|[발표자 보기](powerpoint-online.md#presenter-view) <br/> |아니요  <br/> |지원  <br/> |
+|[발표자 보기](powerpoint-online.md#presenter-view) <br/> |아니요  <br/> |예  <br/> |
 |[비즈니스용 Skype 또는 Office Presentation Service를 통해 온라인으로 프레젠테이션](powerpoint-online.md#present-online-through-skype-for-business-or-the-office-presentation-service) <br/> |예  <br/> |예  <br/> |
 |[PDF로 인쇄](powerpoint-online.md#print-to-pdf) <br/> |예  <br/> |예  <br/> |
 |[교정 도구](powerpoint-online.md#proofing-tools) <br/> |예  <br/> |예  <br/> |
