@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Office Online을 사용하면 거의 모든 장치에서 인터넷에 연결하여 어디서나 Office 파일을 간편하게 사용하고 공유할 수 있습니다. Microsoft Office 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: 922dba2570dc7989af7f1667eaaf9108978852a2
-ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
+ms.openlocfilehash: e9c486f9066b0bd2513bd0d0fb288da89db721a3
+ms.sourcegitcommit: 236252f06dfa9802c3708a19eee28e434bb30966
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33641634"
+ms.lasthandoff: 05/08/2019
+ms.locfileid: "33663292"
 ---
 # <a name="office-online-service-description"></a>Office Online 서비스 설명
 
@@ -336,7 +336,7 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
    
 > [!NOTE]
 > <sup>1</sup> 매크로는 실행하거나 변경할 수 없습니다.<br/>
-> <sup>2</sup> 매크로가 있는 경우 매크로가 제거된 파일 복사본을 포함하라는 메시지가 표시됩니다.<br/> 
+> <sup>2</sup> 매크로가 있는 경우 매크로가 제거 된 파일의 복사본을 저장 하 라는 메시지가 표시 됩니다.<br/> 
   
 > [!NOTE]
 > 호환 기능 팩이 포함된 Office 2016, 2013, 2010 또는 2007이나 Office 2000 이상에서는 최신 파일 형식(예: .docx, .xlsl, .pptx)을 만들 수 있습니다. 

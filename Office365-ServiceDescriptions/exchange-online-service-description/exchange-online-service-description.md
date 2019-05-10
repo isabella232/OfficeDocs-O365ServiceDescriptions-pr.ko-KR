@@ -15,19 +15,19 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함하는 여러 Office 365 구독의 기능을 비교하고 싶나요? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: 5f30525e37aa4cf71815fcd8670bc2965a62ab4b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 2c1eaf2fcbfc543bf838b91592d454a49df60866
+ms.sourcegitcommit: 718731549996bd25f657f1356365318f8e9e7376
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246254"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33659677"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
 Exchange Online을 포함하는 여러 Office 365 구독의 기능을 비교하고 싶나요? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
   
 > [!NOTE]
->  작업에 대한 도움이 필요한 경우나 문제를 해결하고 있는 경우 다음 문서가 도움이 될 수 있습니다. > [전자 메일](https://support.office.com/en-us/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US): 전자 메일을 만들고 보내는 방법에 대한 도움말을 제공합니다. > [Office 365 비즈니스 에디션의 전자 메일 - 관리자 도움말](https://go.microsoft.com/fwlink/?linkid=529722)> [Microsoft Office 365 지원 및 복구 도우미를 사용하여 Outlook 및 Office 365 문제 해결](https://diagnostics.office.com/)> [Office 365의 전자 메일 배달 못 함 보고서](https://go.microsoft.com/fwlink/?linkid=526653)> [Exchange Online 도움말](https://go.microsoft.com/fwlink/?linkid=825607)
+> 작업에 대한 도움이 필요한 경우나 문제를 해결하고 있는 경우 다음 문서가 도움이 될 수 있습니다. > [전자 메일](https://support.office.com/en-us/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US): 전자 메일을 만들고 보내는 방법에 대한 도움말을 제공합니다. > [Office 365 비즈니스 에디션의 전자 메일 - 관리자 도움말](https://go.microsoft.com/fwlink/?linkid=529722)> [Microsoft Office 365 지원 및 복구 도우미를 사용하여 Outlook 및 Office 365 문제 해결](https://diagnostics.office.com/)> [Office 365의 전자 메일 배달 못 함 보고서](https://go.microsoft.com/fwlink/?linkid=526653)> [Exchange Online 도움말](https://go.microsoft.com/fwlink/?linkid=825607)
   
 Microsoft Exchange Online은 Microsoft Exchange Server의 기능을 클라우드 기반 서비스로 전달하는 호스트 메시징 솔루션입니다. 이 솔루션은 PC, 웹, 모바일 장치로부터 전자 메일, 일정, 연락처 및 작업에 액세스할 수 있도록 하며, Active Directory와 완전히 통합되어 관리자가 그룹 정책과 다른 관리 도구를 통해 환경 전반에서 Exchange Online 기능을 관리할 수 있도록 합니다.
   
@@ -60,267 +60,268 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
   
 ## <a name="feature-availability-across-office-365-plans"></a>Office 365 계획에서의 기능 가용성
 
-현재 조직에 office 365 small business, office 365 Small business Premium 또는 office 365 중소 기업에 대 한 구독이 있는 경우 Microsoft 365 관리 센터에서 메시지 센터를 방문 하거나 office 365 공급자에 게 문의 하 여 자세한 내용을 확인 하세요. 새로운 Office 365 비즈니스 요금제가 사용자에 게 영향을 줍니다. 새 Office 365 Business 계획군에 대한 자세한 내용은 [중소기업용 새 Office 365 계획](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)(영문)을 참조하세요.
+현재 조직에 Office 365 Small Business, Office 365 Small Business Premium 또는 Office 365 중소 기업에 대 한 구독이 있는 경우 Microsoft 365 관리 센터에서 메시지 센터를 방문 하거나 Office 365 공급자에 게 문의 하 여 자세한 내용을 확인 하세요. 새로운 Office 365 비즈니스 요금제가 사용자에 게 영향을 줍니다. 새 Office 365 Business 계획군에 대한 자세한 내용은 [중소기업용 새 Office 365 계획](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)(영문)을 참조하세요.
   
-||||||||||
+|**기능**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|**[계획 및 배포](planning-and-deployment.md)** <br/> |||||||||
-|하이브리드 배포 지원  <br/> |예  <br/> |예  <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>16</sup> <br/> |
-|IMAP 마이그레이션 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|지원되는 단독형 마이그레이션  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|미리 구성된 마이그레이션 지원  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[사용 권한](permissions.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|역할 기반 권한  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|역할 그룹  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|역할 할당 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|**[메시지 정책 및 규정 준수](message-policy-and-compliance.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Exchange Online 기반 사서함 보관  <br/> | 아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|온-프레미스 사서함의 클라우드 기반 보관  <br/> |예 <sup>1</sup> <br/> |예<sup>1</sup> <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|MRM(메시징 레코드 관리) 보존 태그 및 보존 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|보관된 데이터 암호화(BitLocker)  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Azure Information Protection을 사용한 IRM  <br/> |아니요  <br/> |예  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |
-|Windows Server AD RMS를 사용한 IRM  <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |
-|Office 365 메시지 암호화  <br/> |예<sup>13</sup> <br/> |예<sup>13</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |
-|Office 365<sup>22</sup> 용 고객 키 <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> ||
-|S/MIME  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> ||
-|원본 위치 유지 및 소송 보존  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|원본 위치 eDiscovery  <br/> |예<sup>20</sup> <br/> |예<sup>20</sup> <br/> |예<sup>20</sup> <br/> |예<sup>20</sup> <br/> |예<sup>20</sup> <br/> |예<sup>20</sup> <br/> |예<sup>20</sup> <br/> |예  <br/> |
-|전송 규칙  <br/> |예 <sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |
-|데이터 손실 방지  <br/> |예 <sup>5, 14</sup> <br/> |예 <sup>5, 14</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|저널링  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[스팸 방지 및 맬웨어 방지 보호](anti-spam-and-anti-malware-protection.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|스팸 방지 보호 기능 내장  <br/> |예 <sup>6</sup> <br/> |예 <sup>6</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|스팸 방지 정책 사용자 지정  <br/> |예. 단, PowerShell을 통해서만 가능  <br/> |예. 단, PowerShell을 통해서만 가능  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>7</sup> <br/> |
-|맬웨어 방지 보호 기능 내장  <br/> |예 <sup>8</sup> <br/> |예 <sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |
-|맬웨어 방지 정책 사용자 지정  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>7</sup> <br/> |
-|격리 - 관리자 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>7</sup> <br/> |
-|격리 - 최종 사용자 자기 관리  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|고급 위협 방지  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|**[메일 흐름](mail-flow.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|아웃바운드 메일의 사용자 지정 라우팅  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|신뢰할 수 있는 파트너와의 보안 메시징  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|조건부 메일 라우팅  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|인바운드 수신 허용 목록에 파트너 추가  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|하이브리드 전자 메일 라우팅  <br/> |예  <br/> |예  <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[받는 사람](recipients.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|용량 경고  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Clutter  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|메일 설명  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|대리인 액세스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |<sup>24</sup> 없음  <br/> |
-|받은 편지함 규칙  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|연결된 계정  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>17</sup> <br/> |예<sup>17</sup> <br/> |예<sup>17</sup> <br/> |예<sup>17</sup> <br/> |
-|비활성 사서함  <br/> |아니요  <br/> |아니요  <br/> |<sup>9</sup> 없음 <br/> |<sup>9</sup> 없음 <br/> |<sup>9</sup> 없음 <br/> |예  <br/> |예  <br/> |아니요 <sup>9</sup> <br/> |
-|오프라인 주소록  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|주소록 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|계층 구조 주소록  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|주소 목록 및 전체 주소 목록  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>18</sup> <br/> |예<sup>18</sup> <br/> |예<sup>18</sup> <br/> |예<sup>18</sup> <br/> |
-|Office 365 그룹  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|메일 그룹  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|외부 연락처(전체)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|범용 연락처 카드  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|소셜 네트워크와 연결된 연락처  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|리소스 사서함  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|회의실 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|부재 중 회신  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|일정 공유  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[보고 기능 및 문제 해결 도구](reporting-features-and-troubleshooting-tools.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Microsoft 365 관리 센터 보고서  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Excel 보고 통합 문서  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|웹 서비스 보고서  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|메시지 추적  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|감사 보고서  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>3</sup> <br/> |
-|통합 메시징 보고서  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|**[공유 및 공동 작업](sharing-and-collaboration.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|페더레이션 공유(일정 게시 포함)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|사이트 사서함  <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |
-|공용 폴더  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|**[클라이언트 및 모바일 장치](clients-and-mobile-devices.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-| Windows용 Outlook <sup>21</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> | 아니요  <br/> |
-|웹용 Outlook<sup>21</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Outlook for Mac<sup>21</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> | 아니요  <br/> |
-|iOS 및 Android용 Outlook<sup>21</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Exchange ActiveSync  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Office 365의 모바일 장치 관리  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|POP 및 IMAP  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>12</sup> <br/> |
-|SMTP  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|EWS 응용 프로그램 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|**[음성 메시지 서비스](voice-message-services.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|음성 사서함<sup>23</sup> <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|음성 사서함과 타사 팩스<sup>23</sup> 의 통합 <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|타사 음성 사서함 상호 운용성<sup>23</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|비즈니스용 Skype 통합  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[고가용성 및 비즈니스 연속성](high-availability-and-business-continuity.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|데이터 센터에서 사서함 복제  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|삭제된 사서함 복구  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|삭제된 항목 복구  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|단일 항목 복구  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> ||
-|**[상호 운용성, 연결 및 호환성](interoperability-connectivity-and-compatibility.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|OWA 및 Outlook의 비즈니스용 Skype 현재 상태  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|SharePoint 상호 운용성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|EWS 연결 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|SMTP 릴레이 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[Exchange Online 설치 및 관리](exchange-online-setup-and-administration.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Microsoft Office 365 포털 액세스  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft 365 관리 센터 액세스  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Exchange 관리 센터 액세스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|원격 Windows PowerShell 액세스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|모바일 장치에 대한 ActiveSync 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|사용 현황 보고  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Outlook 추가 기능 및 Outlook MAPI  <br/> |예<sup>19</sup> <br/> |예  <br/> |예<sup>19</sup> <br/> |예<sup>19</sup> <br/> |예<sup>19</sup> <br/> |예<sup>19</sup> <br/> |예<sup>19</sup> <br/> |아니요  <br/> |
-   
+|**[계획 및 배포](planning-and-deployment.md)**|||||||||
+|하이브리드 배포 지원|예|예|예<sup>16</sup>|예<sup>16</sup>|예|예|예|예<sup>16</sup>|
+|IMAP 마이그레이션 지원|예|예|예|예|예|예|예|예|
+|지원되는 단독형 마이그레이션|예|예|예|예|예|예|예|예|
+|미리 구성된 마이그레이션 지원|아니요|아니요|있음|예|예|예|예|예|
+|**[사용 권한](permissions.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|역할 기반 권한|예|예|예|예|예|예|예|아니요|
+|역할 그룹|예|예|예|예|예|예|예|아니요|
+|역할 할당 정책|예|예|예|예|예|예|예|아니요|
+|**[메시지 정책 및 규정 준수](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|Exchange Online 기반 사서함 보관| 아니요|아니요|있음|예|예|예|예|아니요|
+|온-프레미스 사서함의 클라우드 기반 보관|예 <sup>1</sup>|예<sup>1</sup>|아니요|아니요|있음|예|예|아니요|
+|MRM(메시징 레코드 관리) 보존 태그 및 보존 정책|예|예|예|예|예|예|예|예|
+|보관된 데이터 암호화(BitLocker)|예<sup>15</sup>|예<sup>15</sup>|예|예|예|예|예|예|
+|Azure Information Protection을 사용한 IRM|아니요|예|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|예|예|No<sup>2</sup>|
+|Windows Server AD RMS를 사용한 IRM|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|
+|Office 365 메시지 암호화|예<sup>13</sup>|예<sup>13</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|예|예|No<sup>2</sup>|
+|Office 365<sup>22</sup> 용 고객 키|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요||
+|S/MIME|예<sup>15</sup>|예<sup>15</sup>|예|예|예|예|예|예||
+|원본 위치 유지 및 소송 보존|예|예|아니요|아니요|아니요|있음|예|아니요|
+|원본 위치 eDiscovery|예<sup>20</sup>|예<sup>20</sup>|예<sup>20</sup>|예<sup>20</sup>|예<sup>20</sup>|예<sup>20</sup>|예<sup>20</sup>|예|
+|전송 규칙|예 <sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|
+|데이터 손실 방지|예 <sup>5, 14</sup>|예 <sup>5, 14</sup>|아니요|아니요|아니요|있음|예|아니요|
+|저널링|예|예|예|예|예|예|예|예|
+|**[스팸 방지 및 맬웨어 방지 보호](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|스팸 방지 보호 기능 내장|예 <sup>6</sup>|예 <sup>6</sup>|예|예|예|예|예|예|
+|스팸 방지 정책 사용자 지정|예. 단, PowerShell을 통해서만 가능|예. 단, PowerShell을 통해서만 가능|예|예|예|예|예|예 <sup>7</sup>|
+|맬웨어 방지 보호 기능 내장|예 <sup>8</sup>|예 <sup>8</sup>|예<sup>8</sup>|예<sup>8</sup>|예<sup>8</sup>|예<sup>8</sup>|예<sup>8</sup>|예<sup>8</sup>|
+|맬웨어 방지 정책 사용자 지정|예|예|예|예|예|예|예|예 <sup>7</sup>|
+|격리 - 관리자 관리|예|예|예|예|예|예|예|예 <sup>7</sup>|
+|격리 - 최종 사용자 자기 관리|아니요|아니요|있음|예|예|예|예|예|
+|고급 위협 방지|아니요|예|아니요|아니요|아니요|아니요|예|아니요|
+|**[메일 흐름](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|아웃바운드 메일의 사용자 지정 라우팅|예|예|예|예|예|예|예|예|
+|신뢰할 수 있는 파트너와의 보안 메시징|예|예|예|예|예|예|예|예|
+|조건부 메일 라우팅|아니요|아니요|있음|예|예|예|예|예|
+|인바운드 수신 허용 목록에 파트너 추가|아니요|아니요|있음|예|예|예|예|예|
+|하이브리드 전자 메일 라우팅|예|예|예<sup>16</sup>|예<sup>16</sup>|예|예|예|예|
+|**[받는 사람](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|용량 경고|예|예|예|예|예|예|예|예|
+|Clutter|예|아니요|있음|예|예|예|예|예|
+|메일 설명|예|예|예|예|예|예|예|예|
+|대리인 액세스|예|예|예|예|예|예|예|<sup>24</sup> 없음|
+|받은 편지함 규칙|예|예|예|예|예|예|예|아니요|
+|연결된 계정|예|예|예|예|예<sup>17</sup>|예<sup>17</sup>|예<sup>17</sup>|예<sup>17</sup>|
+|비활성 사서함|아니요|아니요|<sup>9</sup> 없음|<sup>9</sup> 없음|<sup>9</sup> 없음|예|예|아니요 <sup>9</sup>|
+|오프라인 주소록|예|예|예|예|예|예|예|예|
+|주소록 정책|예|예|예|예|예|예|예|예|
+|계층 구조 주소록|예|예|예|예|예|예|예|아니요|
+|주소 목록 및 전체 주소 목록|예|예|예|예|예<sup>18</sup>|예<sup>18</sup>|예<sup>18</sup>|예<sup>18</sup>|
+|Office 365 그룹|아니요|아니요|있음|예|예|예|예|예|
+|메일 그룹|예|예|예|예|예|예|예|예|
+|외부 연락처(전체)|예|예|예|예|예|예|예|예|
+|범용 연락처 카드|예|예|예|예|예|예|예|예|
+|소셜 네트워크와 연결된 연락처|예|예|예|예|예|예|예|예|
+|리소스 사서함|예|예|예|예|예|예|예|예|
+|회의실 관리|예|예|예|예|예|예|예|예|
+|부재 중 회신|예|예|예|예|예|예|예|예|
+|일정 공유|예|예|예|예|예|예|예|예|
+|**[보고 기능 및 문제 해결 도구](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|Microsoft 365 관리 센터 보고서|아니요|아니요|예|예|예|예|예|예|
+|Excel 보고 통합 문서|아니요|아니요|예|예|예|예|예|예|
+|웹 서비스 보고서|아니요|아니요|예|예|예|예|예|예|
+|메시지 추적|아니요|예|예|예|예|예|예|예|
+|감사 보고서|예|예|예|예|예|예|예|예 <sup>3</sup>|
+|통합 메시징 보고서|예|예|아니요|아니요|아니요|있음|예|아니요|
+|**[공유 및 공동 작업](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|페더레이션 공유(일정 게시 포함)|예|예|예|예|예|예|예|예|
+|사이트 사서함|예<sup>10</sup>|예<sup>10</sup>|예<sup>11</sup>|예<sup>11</sup>|예<sup>11</sup>|예<sup>11</sup>|예<sup>11</sup>|예<sup>11</sup>|
+|공용 폴더|예|예|예|예|예|예|예|아니요|
+|**[클라이언트 및 모바일 장치](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+| Windows용 Outlook <sup>21</sup>|예|예|예|예|예|예|예| 아니요|
+|웹용 Outlook<sup>21</sup>|예|예|예|예|예|예|예|예|
+|Outlook for Mac<sup>21</sup>|예|예|예|예|예|예|예| 아니요|
+|iOS 및 Android용 Outlook<sup>21</sup>|예|예|예|예|예|예|예|예|
+|Exchange ActiveSync|예|예|예|예|예|예|예|예|
+|Office 365의 모바일 장치 관리|아니요|아니요|있음|예|예|예|예|예|
+|POP 및 IMAP|예|예|예|예|예|예|예|예 <sup>12</sup>|
+|SMTP|예|예|예|예|예|예|예|예|
+|EWS 응용 프로그램 지원|예|예|예|예|예|예|예|아니요|
+|**[음성 메시지 서비스](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|음성 사서함<sup>23</sup>|예|예|아니요|아니요|아니요|있음|예|아니요|
+|음성 사서함과 타사 팩스<sup>23</sup> 의 통합|예|예|아니요|아니요|아니요|있음|예|아니요|
+|타사 음성 사서함 상호 운용성<sup>23</sup>|예|예|예|예|예|예|예|예|
+|비즈니스용 Skype 통합|예|예|예|예|예|예|예|예|
+|**[고가용성 및 비즈니스 연속성](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|데이터 센터에서 사서함 복제|아니요|아니요|있음|예|예|예|예|예|
+|삭제된 사서함 복구|예|예|예|예|예|예|예|예|
+|삭제된 항목 복구|예|예|예|예|예|예|예|예|
+|단일 항목 복구|예|예|예|예|예|예|예|아니요||
+|**[상호 운용성, 연결 및 호환성](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|OWA 및 Outlook의 비즈니스용 Skype 현재 상태|예|예|예|예|예|예|예|예|
+|SharePoint 상호 운용성|예|예|예|예|예|예|예|예|
+|EWS 연결 지원|예|예|예|예|예|예|예|아니요|
+|SMTP 릴레이 지원|예|예|예|예|예|예|예|예|
+|**[Exchange Online 설치 및 관리](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|Microsoft Office 365 포털 액세스|아니요|아니요|있음|예|예|예|예|예|
+|Microsoft 365 관리 센터 액세스|아니요|아니요|있음|예|예|예|예|예|
+|Exchange 관리 센터 액세스|예|예|예|예|예|예|예|예|
+|원격 Windows PowerShell 액세스|예|예|예|예|예|예|예|예|
+|모바일 장치에 대한 ActiveSync 정책|예|예|예|예|예|예|예|예|
+|사용 현황 보고|예|예|예|예|예|예|예|예|
+|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|Outlook 추가 기능 및 Outlook MAPI|예<sup>19</sup>|예|예<sup>19</sup>|예<sup>19</sup>|예<sup>19</sup>|예<sup>19</sup>|예<sup>19</sup>|아니요|
+
 > [!NOTE]
-> <sup>1</sup> 클라우드 기반 보관 파일이 있는 각 온-프레미스 사서함 사용자에 대 한 eoa (Exchange Online 보관) 구독이 필요 합니다. 
- <br/> <sup>2</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용하려면 Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F1에 포함되어 있지 않은 Office365ProPlus를 구독해야 합니다. 
- <br/> <sup>3</sup> Windows Server AD RMS는 지원되는 IRM 기능을 사용하기 위해 별도로 구입하여 관리해야 하는 온-프레미스 서버입니다. 
- <br/> <sup>4</sup> 전송 규칙은 조건과 예외를 정의 하는 데 사용할 수 있는 다양 한 조건으로 구성 되며 조건에 따라 수행할 작업입니다. 사용 가능한 조건 및 작업은 Exchange Online과 Microsoft Exchange Server 2013 간에 서로 다릅니다. 사용 가능한 조건 및 작업 목록은 각 제품에 대 한 해당 하는 조건 및 작업 항목을 참조 하십시오. 
- <br/> <sup>5</sup> exchange 2013의 경우 DLP를 사용 하려면 Exchange Enterprise CAL (클라이언트 액세스 라이선스)이 필요 합니다. cal 및 서버 라이선스에 대 한 자세한 내용은 [Exchange server 라이선스](https://go.microsoft.com/fwlink/p/?LinkId=299133)를 참조 하세요. 
- <br/> <sup>6</sup> exchange 서버 2013에는 exchange server 2010과 동일한 기본 제공 스팸 방지 기능이 대부분 포함 되어 있습니다. 온-프레미스 제품을 통한 exchange hosted 스팸 필터링의 장점에 대 한 자세한 내용은 exchange [Server 2013을 통한 exchange Online Protection의 스팸 방지 기능 혜택](https://go.microsoft.com/fwlink/p/?LinkId=271726)을 참조 하세요. 
- <br/> <sup>7</sup> EAC (Exchange 관리 센터) 관리 인터페이스에 직접 액세스 하는 방법 으로만 액세스할 수 있습니다. 
- <br/><sup>8</sup> Exchange 서버 2013은 Microsoft 맬웨어 방지 엔진도 사용 합니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다. 
- <br/><sup>9</sup> 비활성 사서함 기능이 필요한 각 사서함에 대해 eoa 구독을 별도로 구입할 수 있습니다. 
- <br/> <sup>10</sup> SharePoint는 온-프레미스 Exchange 조직에서 배포 되어야 합니다. 
- <br/> <sup>11</sup> SharePoint Online은 Office 365 구독 계획에 포함 되어야 합니다. 
- <br/> <sup>12</sup> POP는 지원 되지만 IMAP는 사용할 수 없습니다. 
- <br/> <sup>13</sup> Azure Information Protection을 구매한 Exchange Server 2013 온-프레미스 고객에 대해 지원 됩니다. Office 365 메시지 암호화를 사용 하려면 온-프레미스 고객이 exchange online을 통해 전자 메일을 필터링 하거나 하이브리드 메일 흐름을 설정 하 여 전자 메일을 라우팅하는 데 필요 합니다. 
- <br/><sup>14</sup> Exchange Server 2013 고객은 s p 1을 다운로드 하 고 설치 해야 owa 및 장치용 owa에서 문서 지문을 정책 팁에 액세스할 수 있습니다. 
- <br/> <sup>15</sup> BitLocker 드라이브 암호화는 Exchange Server 2013에 대해 지원 되지만 관리자가 해당 기능을 사용 하도록 설정 해야 합니다. 
- <br/> <sup>16</sup> Office 365 business Essentials, Office 365 Business Premium 및 Office 365 Enterprise F1은 온-프레미스 서버와의 사용에 대 한 액세스 권한을 제공 하지 않습니다. 규정을 준수 하려면 고객은 해당 cal을 구매 하거나 이전에 해당 액세스 권한을 제공 하는 Enterprise SKU로 업그레이드 해야 합니다.
- <br/><sup>17</sup> 연결 된 계정은 POP &amp; IMAP 계정에 대해서는 지원 되지만 Outlook.com (Hotmail)에는 사용할 수 없습니다. 
- <br/> <sup>18</sup> cmdlet을 사용 하 여 주소 목록 및 전체 주소 목록으로 작업할 수 없습니다.  <br/><sup>19</sup> 일부 타사 웹 파트 및 추가 기능을 사용 하지 못할 수 있습니다. 
- <br/><sup>20</sup> eDiscovery의 경우 온-프레미스 및 클라우드에 대해 별도의 쿼리가 필요 합니다. 
- <br/><sup>21</sup> 테이블-클라이언트가 관련 요금제와 함께 작동 하는지 여부를 나타냅니다. 이러한 계획 구매에 클라이언트가 반드시 포함되어야 하는 것을 의미하지는 않습니다. 
- <br/><sup>22</sup> 자세한 내용은 [고객 키를 사용 하 여 Office 365에서 데이터 제어](https://go.microsoft.com/fwlink/?linkid=862702)를 참조 하세요. 
- <br/> <sup>23</sup> 고객 지원 서비스를 통한 직접 연결을 통한 타사 PBX 시스템에 대 한 Exchange Online UM 지원은 4 월 2019까지 종료 됩니다. 자세한 내용은 [exchange Online 통합 메시징의 세션 경계 컨트롤러 지원의](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) exchange 팀 블로그 중단을 참조 하십시오. 
-<br><sup>24</sup> F1 사용자는 자신의 사서함에 대리인을 추가할 수 없지만 공유 사서함을 비롯 한 다른 사서함에 액세스 하 여 위임 된 모든 작업을 수행할 수 있습니다.
+> <sup>1</sup> 클라우드 기반 보관 파일이 있는 각 온-프레미스 사서함 사용자에 대 한 Eoa (Exchange Online 보관) 구독이 필요 합니다. <br/>
+<sup>2</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용하려면 Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F1에 포함되어 있지 않은 Office365ProPlus를 구독해야 합니다. <br/>
+<sup>3</sup> Windows Server AD RMS는 지원되는 IRM 기능을 사용하기 위해 별도로 구입하여 관리해야 하는 온-프레미스 서버입니다. <br/>
+<sup>4</sup> 전송 규칙은 조건과 예외를 정의 하는 데 사용할 수 있는 다양 한 조건으로 구성 되며 조건에 따라 수행할 작업입니다. 사용 가능한 조건 및 작업은 Exchange Online과 Microsoft Exchange Server 2013 간에 서로 다릅니다. 사용 가능한 조건 및 작업 목록은 각 제품에 대 한 해당 하는 조건 및 작업 항목을 참조 하십시오. <br/>
+<sup>5</sup> exchange 2013의 경우 DLP를 사용 하려면 EXCHANGE Enterprise CAL (클라이언트 액세스 라이선스)이 필요 합니다. Cal 및 서버 라이선스에 대 한 자세한 내용은 [Exchange Server 라이선스](https://go.microsoft.com/fwlink/p/?LinkId=299133)를 참조 하세요. <br/>
+<sup>6</sup> exchange 서버 2013에는 exchange server 2010과 동일한 기본 제공 스팸 방지 기능이 대부분 포함 되어 있습니다. 온-프레미스 제품을 통한 Exchange hosted 스팸 필터링의 장점에 대 한 자세한 내용은 exchange [Server 2013을 통한 Exchange Online Protection의 스팸 방지 기능 혜택](https://go.microsoft.com/fwlink/p/?LinkId=271726)을 참조 하세요. <br/>
+<sup>7</sup> EAC (Exchange 관리 센터) 관리 인터페이스에 직접 액세스 하는 방법 으로만 액세스할 수 있습니다. <br/>
+<sup>8</sup> Exchange 서버 2013은 Microsoft 맬웨어 방지 엔진도 사용 합니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다. <br/>
+<sup>9</sup> 비활성 사서함 기능이 필요한 각 사서함에 대해 eoa 구독을 별도로 구입할 수 있습니다.  <br/>
+<sup>10</sup> SharePoint는 온-프레미스 Exchange 조직에서 배포 되어야 합니다. <br/>
+<sup>11</sup> SharePoint Online은 Office 365 구독 계획에 포함 되어야 합니다. <br/>
+<sup>12</sup> POP는 지원 되지만 IMAP는 사용할 수 없습니다. <br/>
+<sup>13</sup> Azure Information Protection을 구매한 Exchange Server 2013 온-프레미스 고객에 대해 지원 됩니다. Office 365 메시지 암호화를 사용 하려면 온-프레미스 고객이 exchange Online을 통해 전자 메일을 필터링 하거나 하이브리드 메일 흐름을 설정 하 여 전자 메일을 라우팅하는 데 필요 합니다. <br/>
+<sup>14</sup> Exchange Server 2013 고객은 s p 1을 다운로드 하 고 설치 해야 Owa 및 장치용 Owa에서 문서 지문을 정책 팁에 액세스할 수 있습니다. <br/>
+<sup>15</sup> BitLocker 드라이브 암호화는 Exchange Server 2013에 대해 지원 되지만 관리자가 해당 기능을 사용 하도록 설정 해야 합니다. <br/>
+<sup>16</sup> Office 365 business Essentials, Office 365 Business Premium 및 Office 365 Enterprise F1은 온-프레미스 서버와의 사용에 대 한 액세스 권한을 제공 하지 않습니다. 규정을 준수 하려면 고객은 해당 Cal을 구매 하거나 이전에 해당 액세스 권한을 제공 하는 Enterprise SKU로 업그레이드 해야 합니다. <br/>
+<sup>17</sup> 연결 된 계정은 POP &amp; IMAP 계정에 대해서는 지원 되지만 Outlook.com (Hotmail)에는 사용할 수 없습니다. <br/>
+<sup>18</sup> Exchange Online PowerShell에서 cmdlet을 사용 하 여 기본 주소 목록 및 GAL (전체 주소 목록)을 사용자 지정 하는 것은 지원 되지 않습니다. <br/>
+<sup>19</sup> 일부 타사 웹 파트 및 추가 기능을 사용 하지 못할 수 있습니다. <br/>
+<sup>20</sup> eDiscovery의 경우 온-프레미스 및 클라우드에 대해 별도의 쿼리가 필요 합니다. <br/>
+<sup>21</sup> 이 테이블은 클라이언트가 관련 요금제와 함께 작동 하는지 여부를 나타냅니다. 이러한 계획 구매에 클라이언트가 반드시 포함되어야 하는 것을 의미하지는 않습니다. <br/>
+<sup>22</sup> 자세한 내용은 [고객 키를 사용 하 여 Office 365에서 데이터 제어](https://go.microsoft.com/fwlink/?linkid=862702)를 참조 하세요. <br/>
+<sup>23</sup> 고객 지원 서비스를 통한 직접 연결을 통한 타사 PBX 시스템에 대 한 EXCHANGE Online UM 지원은 4 월 2019까지 종료 됩니다. 자세한 내용은 [Exchange Online 통합 메시징의 세션 경계 컨트롤러 지원의](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) exchange 팀 블로그 중단을 참조 하십시오. <br/>
+<sup>24</sup> F1 사용자는 자신의 사서함에 대리인을 추가할 수 없지만 공유 사서함을 비롯 한 다른 사서함에 액세스 하 여 위임 된 모든 작업을 수행할 수 있습니다.
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Exchange Online 독립 실행형 계획에서의 기능 가용성
 
-|||||||
+|**기능**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
-|**[계획 및 배포](planning-and-deployment.md)** <br/> ||||||
-|하이브리드 배포 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>23</sup> <br/> |
-|IMAP 마이그레이션 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|지원되는 단독형 마이그레이션  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|미리 구성된 마이그레이션 지원  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |
-|**[사용 권한](permissions.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
-|역할 기반 권한  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|역할 그룹  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|역할 할당 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|**[메시지 정책 및 규정 준수](message-policy-and-compliance.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
-|Exchange Online 기반 사서함 보관  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|온-프레미스 사서함의 클라우드 기반 보관  <br/> |예 <sup>5</sup> <br/> |예 <sup>5</sup> <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|MRM(메시징 레코드 관리) 보존 태그 및 보존 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|보관된 데이터 암호화(BitLocker)  <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Azure Information Protection을 사용한 IRM  <br/> |아니요  <br/> |예  <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |
-|Windows Server AD RMS를 사용한 IRM  <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |
-|Office 365 메시지 암호화  <br/> |예<sup>13</sup> <br/> |예<sup>13</sup> <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |
-|S/MIME  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
-|원본 위치 유지 및 소송 보존  <br/> |예  <br/> |예  <br/> |<sup>17</sup> 없음 <br/> |예  <br/> |아니요  <br/> |
-|원본 위치 eDiscovery  <br/> |예<sup>22</sup> <br/> |예<sup>22</sup> <br/> |예<sup>22</sup> <br/> |예<sup>22</sup> <br/> |예<sup>22</sup> <br/> |
-|전송 규칙  <br/> |예 <sup>1</sup> <br/> |예 <sup>1</sup> <br/> |예 <sup>1</sup> <br/> |예 <sup>1</sup> <br/> |예 <sup>1</sup> <br/> |
-|데이터 손실 방지  <br/> |예 <sup>10, 14</sup> <br/> |예 <sup>10, 14</sup> <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|저널링  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[스팸 방지 및 맬웨어 방지 보호](anti-spam-and-anti-malware-protection.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
-|스팸 방지 보호 기능 내장  <br/> |예 <sup>2</sup> <br/> |예 <sup>2</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
-|스팸 방지 정책 사용자 지정  <br/> |예. 단, PowerShell을 통해서만 가능  <br/> |예. 단, PowerShell을 통해서만 가능  <br/> |예  <br/> |예  <br/> |예 <sup>8</sup> <br/> |
-|맬웨어 방지 보호 기능 내장  <br/> |예 <sup>7</sup> <br/> |예 <sup>7</sup> <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |
-|맬웨어 방지 정책 사용자 지정  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>8</sup> <br/> |
-|격리 - 관리자 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>8</sup> <br/> |
-|격리 - 최종 사용자 자기 관리  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |
-|**[메일 흐름](mail-flow.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
-|아웃바운드 메일의 사용자 지정 라우팅  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|신뢰할 수 있는 파트너와의 보안 메시징  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|조건부 메일 라우팅  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |
-|인바운드 수신 허용 목록에 파트너 추가  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |
-|하이브리드 전자 메일 라우팅  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[받는 사람](recipients.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
-|용량 경고  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Clutter  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |예  <br/> |
-|메일 설명  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|대리인 액세스  <br/> |예  <br/> |예  <br/> |예\  <br/> |예  <br/> |아니요  <br/> |
-|받은 편지함 규칙  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|연결된 계정  <br/> |예  <br/> |예  <br/> |예<sup>19</sup> <br/> |예<sup>19</sup> <br/> |예<sup>19</sup> <br/> |
-|비활성 사서함  <br/> |아니요  <br/> |아니요  <br/> |아니요 <sup>6</sup> <br/> |예  <br/> |아니요<sup>6</sup> <br/> |
-|오프라인 주소록  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|주소록 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|계층 구조 주소록  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|주소 목록 및 전체 주소 목록  <br/> |예  <br/> |예  <br/> |예<sup>20</sup> <br/> |예<sup>20</sup> <br/> |예<sup>20</sup> <br/> |
-|Office 365 그룹  <br/> |아니요  <br/> |아니요  <br/> |예<sup>24</sup> <br/> |예<sup>24</sup> <br/> |아니요  <br/> |
-|메일 그룹  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|외부 연락처(전체)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|범용 연락처 카드  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|소셜 네트워크와 연결된 연락처  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|리소스 사서함  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|회의실 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|부재 중 회신  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|일정 공유  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>18</sup> <br/> |
-|**[보고 기능 및 문제 해결 도구](reporting-features-and-troubleshooting-tools.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
-|Microsoft 365 관리 센터 보고서  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |예  <br/> |
-|Excel 보고 통합 문서  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |예  <br/> |
-|웹 서비스 보고서  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |예  <br/> |
-|메시지 추적  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |예  <br/> |예 <sup>8</sup> <br/> |
-|감사 보고서  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>8</sup> <br/> |
-|통합 메시징 보고서  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|**[공유 및 공동 작업](sharing-and-collaboration.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
-|페더레이션 공유  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|사이트 사서함  <br/> |예 <sup>3</sup> <br/> |예 <sup>3</sup> <br/> |예 <sup>4</sup> <br/> |예 <sup>4</sup> <br/> |예 <sup>4</sup> <br/> |
-|공용 폴더  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|**[클라이언트 및 모바일 장치](clients-and-mobile-devices.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
-|Microsoft Outlook  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Outlook Web App  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Exchange ActiveSync  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|POP 및 IMAP  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>9</sup> <br/> |
-|SMTP  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|EWS 응용 프로그램 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Outlook for Mac  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|**[음성 메시지 서비스](voice-message-services.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
-|음성 사서함  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|타사 음성 사서함 상호 운용성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|비즈니스용 Skype 통합  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[고가용성 및 비즈니스 연속성](high-availability-and-business-continuity.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
-|데이터 센터에서 사서함 복제  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |
-|삭제된 사서함 복구  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|삭제된 항목 복구  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|단일 항목 복구  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|**[상호 운용성, 연결 및 호환성](interoperability-connectivity-and-compatibility.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
-|OWA 및 Outlook의 비즈니스용 Skype 현재 상태  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|SharePoint 상호 운용성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|EWS 연결 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|SMTP 릴레이 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[Exchange Online 설치 및 관리](exchange-online-setup-and-administration.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
-|Microsoft Office 365 포털 액세스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft 365 관리 센터 액세스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Exchange 관리 센터 액세스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <sup>8</sup> <br/> |
-|원격 Windows PowerShell 액세스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|모바일 장치에 대한 ActiveSync 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|사용 현황 보고  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 계획 1** <br/> |**Exchange Online 계획 2** <br/> |**Exchange Online Kiosk** <br/> |
-|Outlook Web App 웹 파트  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Outlook 추가 기능 및 Outlook MAPI  <br/> |예  <br/> |예  <br/> |예<sup>21</sup> <br/> |예<sup>21</sup> <br/> |아니요  <br/> |
-   
+|**[계획 및 배포](planning-and-deployment.md)**||||||
+|하이브리드 배포 지원|예|예|예|예|예<sup>23</sup>|
+|IMAP 마이그레이션 지원|예|예|예|예|예|
+|지원되는 단독형 마이그레이션|예|예|예|예|예|
+|미리 구성된 마이그레이션 지원|아니요|아니요|있음|예|예|
+|**[사용 권한](permissions.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|역할 기반 권한|예|예|예|예|아니요|
+|역할 그룹|예|예|예|예|아니요|
+|역할 할당 정책|예|예|예|예|아니요|
+|**[메시지 정책 및 규정 준수](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|Exchange Online 기반 사서함 보관|예|아니요|있음|예|아니요|
+|온-프레미스 사서함의 클라우드 기반 보관|예 <sup>5</sup>|예 <sup>5</sup>|아니요|예|아니요|
+|MRM(메시징 레코드 관리) 보존 태그 및 보존 정책|예|예|예|예|예|
+|보관된 데이터 암호화(BitLocker)|예<sup>16</sup>|예<sup>16</sup>|예|예|예|
+|Azure Information Protection을 사용한 IRM|아니요|예|<sup>11</sup>|<sup>11</sup>|<sup>11</sup>|
+|Windows Server AD RMS를 사용한 IRM|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|
+|Office 365 메시지 암호화|예<sup>13</sup>|예<sup>13</sup>|<sup>11</sup>|<sup>11</sup>|<sup>11</sup>|
+|S/MIME|예<sup>15</sup>|예<sup>15</sup>|예|예|예|
+|원본 위치 유지 및 소송 보존|예|예|<sup>17</sup> 없음|예|아니요|
+|원본 위치 eDiscovery|예<sup>22</sup>|예<sup>22</sup>|예<sup>22</sup>|예<sup>22</sup>|예<sup>22</sup>|
+|전송 규칙|예 <sup>1</sup>|예 <sup>1</sup>|예 <sup>1</sup>|예 <sup>1</sup>|예 <sup>1</sup>|
+|데이터 손실 방지|예 <sup>10, 14</sup>|예 <sup>10, 14</sup>|아니요|예|아니요|
+|저널링|예|예|예|예|예|
+|**[스팸 방지 및 맬웨어 방지 보호](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|스팸 방지 보호 기능 내장|예 <sup>2</sup>|예 <sup>2</sup>|예|예|예|
+|스팸 방지 정책 사용자 지정|예. 단, PowerShell을 통해서만 가능|예. 단, PowerShell을 통해서만 가능|예|예|예 <sup>8</sup>|
+|맬웨어 방지 보호 기능 내장|예 <sup>7</sup>|예 <sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|
+|맬웨어 방지 정책 사용자 지정|예|예|예|예|예 <sup>8</sup>|
+|격리 - 관리자 관리|예|예|예|예|예 <sup>8</sup>|
+|격리 - 최종 사용자 자기 관리|아니요|아니요|있음|예|예|
+|**[메일 흐름](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|아웃바운드 메일의 사용자 지정 라우팅|예|예|예|예|예|
+|신뢰할 수 있는 파트너와의 보안 메시징|예|예|예|예|예|
+|조건부 메일 라우팅|아니요|아니요|있음|예|예|
+|인바운드 수신 허용 목록에 파트너 추가|아니요|아니요|있음|예|예|
+|하이브리드 전자 메일 라우팅|예|예|예|예|예|
+|**[받는 사람](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|용량 경고|예|예|예|예|예|
+|Clutter|아니요|아니요|있음|예|예|
+|메일 설명|예|예|예|예|예|
+|대리인 액세스|예|예|예\|/아니요|아니요|
+|받은 편지함 규칙|예|예|예|예|아니요|
+|연결된 계정|예|예|예<sup>19</sup>|예<sup>19</sup>|예<sup>19</sup>|
+|비활성 사서함|아니요|아니요|아니요 <sup>6</sup>|예|아니요<sup>6</sup>|
+|오프라인 주소록|예|예|예|예|예|
+|주소록 정책|예|예|예|예|예|
+|계층 구조 주소록|예|예|예|예|아니요|
+|주소 목록 및 전체 주소 목록|예|예|예<sup>20</sup>|예<sup>20</sup>|예<sup>20</sup>|
+|Office 365 그룹|아니요|아니요|예<sup>24</sup>|예<sup>24</sup>|아니요|
+|메일 그룹|예|예|예|예|예|
+|외부 연락처(전체)|예|예|예|예|예|
+|범용 연락처 카드|예|예|예|예|예|
+|소셜 네트워크와 연결된 연락처|예|예|예|예|예|
+|리소스 사서함|예|예|예|예|예|
+|회의실 관리|예|예|예|예|예|
+|부재 중 회신|예|예|예|예|예|
+|일정 공유|예|예|예|예|예 <sup>18</sup>|
+|**[보고 기능 및 문제 해결 도구](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|Microsoft 365 관리 센터 보고서|아니요|아니요|있음|예|예|
+|Excel 보고 통합 문서|아니요|아니요|있음|예|예|
+|웹 서비스 보고서|아니요|아니요|있음|예|예|
+|메시지 추적|아니요|있음|예|예|예 <sup>8</sup>|
+|감사 보고서|예|예|예|예|예 <sup>8</sup>|
+|통합 메시징 보고서|예|예|아니요|예|아니요|
+|**[공유 및 공동 작업](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|페더레이션 공유|예|예|예|예|예|
+|사이트 사서함|예 <sup>3</sup>|예 <sup>3</sup>|예 <sup>4</sup>|예 <sup>4</sup>|예 <sup>4</sup>|
+|공용 폴더|예|예|예|예|아니요|
+|**[클라이언트 및 모바일 장치](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|Microsoft Outlook|예|예|예|예|아니요|
+|Outlook Web App|예|예|예|예|예|
+|Exchange ActiveSync|예|예|예|예|예|
+|POP 및 IMAP|예|예|예|예|예 <sup>9</sup>|
+|SMTP|예|예|예|예|예|
+|EWS 응용 프로그램 지원|예|예|예|예|아니요|
+|Outlook for Mac|예|예|예|예|아니요|
+|**[음성 메시지 서비스](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|음성 사서함|예|예|아니요|예|아니요|
+|타사 음성 사서함 상호 운용성|예|예|예|예|예|
+|비즈니스용 Skype 통합|예|예|예|예|예|
+|**[고가용성 및 비즈니스 연속성](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|데이터 센터에서 사서함 복제|아니요|아니요|있음|예|예|
+|삭제된 사서함 복구|예|예|예|예|예|
+|삭제된 항목 복구|예|예|예|예|예|
+|단일 항목 복구|예|예|예|예|아니요|
+|**[상호 운용성, 연결 및 호환성](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|OWA 및 Outlook의 비즈니스용 Skype 현재 상태|예|예|예|예|예|
+|SharePoint 상호 운용성|예|예|예|예|예|
+|EWS 연결 지원|예|예|예|예|예|
+|SMTP 릴레이 지원|예|예|예|예|예|
+|**[Exchange Online 설치 및 관리](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|Microsoft Office 365 포털 액세스|아니요|아니요|예|예|예|
+|Microsoft 365 관리 센터 액세스|아니요|아니요|예|예|예|
+|Exchange 관리 센터 액세스|예|예|예|예|예 <sup>8</sup>|
+|원격 Windows PowerShell 액세스|예|예|예|예|예|
+|모바일 장치에 대한 ActiveSync 정책|예|예|예|예|예|
+|사용 현황 보고|예|예|예|예|예|
+|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|Outlook Web App 웹 파트|예|예|예|예|예|
+|Outlook 추가 기능 및 Outlook MAPI|예|예|예<sup>21</sup>|예<sup>21</sup>|아니요|
 
-> <sup>1</sup> 전송 규칙은 조건과 예외를 정의 하는 데 사용할 수 있는 다양 한 조건으로 구성 되며, 조건에 따라 수행할 작업입니다. 사용 가능한 조건 및 작업은 Exchange Online과 Microsoft Exchange Server 2013 간에 서로 다릅니다. 사용 가능한 조건 및 작업 목록은 각 제품에 대 한 해당 하는 조건 및 작업 항목을 참조 하십시오.
- <br/><sup>2</sup> 온-프레미스 제품을 통한 exchange 호스트 스팸 필터링의 장점에 대 한 자세한 내용은 exchange [Server 2013을 통한 exchange Online Protection의 스팸 방지 기능 혜택](https://go.microsoft.com/fwlink/p/?LinkId=271726)을 참조 하세요. 
- <br/><sup>3</sup> SharePoint는 온-프레미스 Exchange 조직에서 배포 되어야 합니다.
- <br/><sup>4</sup> SharePoint Online은 Office 365 구독 계획에 포함 되어야 합니다. 
- <br/><sup>5</sup> 클라우드 기반 보관 사서함을 가진 각 온-프레미스 메일 사용자에 대해 eoa (Exchange Online 보관) 구독이 필요 합니다.
- <br/><sup>6</sup> 비활성 사서함 기능이 필요한 각 사서함에 대해 eoa 구독을 별도로 구입할 수 있습니다. 
- <br/><sup>7</sup> Exchange 서버 2013은 Microsoft 맬웨어 방지 엔진도 사용 합니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다. 
- <br/><sup>8</sup> EAC (Exchange 관리 센터) 관리 인터페이스에 직접 액세스 하는 방법 으로만 액세스할 수 있습니다.
-<br/><sup>9</sup> IMAP는 지원 되지 않습니다. 
- <br/><sup>10</sup> exchange 2013 이상에는 DLP에 exchange Enterprise CAL (클라이언트 액세스 라이선스)이 필요 합니다. cal 및 서버 라이선스에 대 한 자세한 내용은 [Exchange server 라이선스](https://go.microsoft.com/fwlink/p/?LinkId=299133)를 참조 하세요. 
- <br/><sup>11</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용하려면 Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F1에 포함되어 있지 않은 Office365ProPlus를 구독해야 합니다. Office 365 메시지 암호화는 Azure Information Protection에 따라 달라 집니다. 
- <br/><sup>12</sup> Windows Server AD RMS는 지원 되는 IRM 기능을 사용 하기 위해 별도로 구입 하 여 관리 해야 하는 온-프레미스 서버입니다. 
- <br/><sup>13</sup> Exchange Server 2013 이상 버전을 실행 하는 고객에 게 Azure Information Protection을 구매한 사용자가 지원 합니다. Office 365 메시지 암호화를 사용 하려면 온-프레미스 고객이 exchange online을 통해 전자 메일을 필터링 하거나 하이브리드 메일 흐름을 설정 하 여 전자 메일을 라우팅하는 데 필요 합니다. 
- <br/><sup>14</sup> Exchange Server 2013 이상을 실행 하는 고객은 최신 CU (누적 업데이트) 또는 바로 이전 CU를 다운로드 및 설치 해야 하며,이 경우 owa 및 장치용 owa에서 문서 지문을 및 정책 팁에 액세스할 수 있습니다. 
- <br/><sup>15</sup> Exchange Server 2013 이상을 실행 하는 고객에 게 제공 됩니다. 
- <br/><sup>16</sup> BitLocker 드라이브 암호화는 Exchange Server 2013에 대해 지원 되지만 관리자가 해당 기능을 사용 하도록 설정 해야 합니다. > <sup>17</sup> Exchange Online 계획 1에는 [사서함 및 보관에 대 한 크기 제한이](https://go.microsoft.com/fwlink/?LinkId=330039)있습니다. exchange online 용 exchange online 보관 기능을 사용 하면 무제한의 클라우드 기반 보관 사서함 및 원본 [위치 유지](https://technet.microsoft.com/en-us/library/7482322a-39fe-4a99-b29c-63cb1bc3cf1f#BKMK_In_placehold)기능이 추가 됩니다. 
- <br/><sup>18</sup> Exchange Online Kiosk 일정은 OWA를 통해서만 액세스 또는 공유할 수 있습니다. 
- <br/><sup>19</sup> 연결 된 계정은 POP &amp; IMAP 계정에 대해서는 지원 되지만 Outlook.com (Hotmail)에는 사용할 수 없습니다. 
- <br/><sup>20</sup> cmdlet을 사용 하 여 주소 목록 및 전체 주소 목록으로 작업할 수 없습니다.  <br/><sup>21</sup> 일부 타사 웹 파트 및 추가 기능을 사용 하지 못할 수 있습니다. 
- <br/><sup>22</sup> eDiscovery의 경우 온-프레미스 및 클라우드에 대해 별도의 쿼리가 필요 합니다. 
- <br/><sup>23</sup> Exchange Online 키오스크에서는 온-프레미스 서버와의 사용률에 대 한 액세스 권한을 제공 하지 않습니다. 규정을 준수 하려면 고객은 해당 cal을 구매 하거나 이전에 해당 액세스 권한을 제공 하는 Enterprise SKU로 업그레이드 해야 합니다. 
- <br/><sup>24</sup> 개 Office 365 그룹을 제한 된 기능으로 사용할 수 있습니다. 
+> [!NOTE]
+> <sup>1</sup> 전송 규칙은 조건과 예외를 정의 하는 데 사용할 수 있는 다양 한 조건으로 구성 되며, 조건에 따라 수행할 작업입니다. 사용 가능한 조건 및 작업은 Exchange Online과 Microsoft Exchange Server 2013 간에 서로 다릅니다. 사용 가능한 조건 및 작업 목록은 각 제품에 대 한 해당 하는 조건 및 작업 항목을 참조 하십시오. <br/>
+<sup>2</sup> 온-프레미스 제품을 통한 exchange 호스트 스팸 필터링의 장점에 대 한 자세한 내용은 exchange [Server 2013을 통한 exchange Online Protection의 스팸 방지 기능 혜택](https://go.microsoft.com/fwlink/p/?LinkId=271726)을 참조 하세요. <br/>
+<sup>3</sup> SharePoint는 온-프레미스 Exchange 조직에서 배포 되어야 합니다. <br/>
+<sup>4</sup> SharePoint Online은 Office 365 구독 계획에 포함 되어야 합니다. <br/>
+<sup>5</sup> 클라우드 기반 보관 사서함을 가진 각 온-프레미스 메일 사용자에 대해 Eoa (Exchange Online 보관) 구독이 필요 합니다. <br/>
+<sup>6</sup> 비활성 사서함 기능이 필요한 각 사서함에 대해 eoa 구독을 별도로 구입할 수 있습니다. <br/>
+<sup>7</sup> Exchange 서버 2013은 Microsoft 맬웨어 방지 엔진도 사용 합니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다. <br/>
+<sup>8</sup> EAC (Exchange 관리 센터) 관리 인터페이스에 직접 액세스 하는 방법 으로만 액세스할 수 있습니다. <br/>
+<sup>9</sup> IMAP는 지원 되지 않습니다. <br/>
+<sup>10</sup> exchange 2013 이상에는 DLP에 EXCHANGE Enterprise CAL (클라이언트 액세스 라이선스)이 필요 합니다. Cal 및 서버 라이선스에 대 한 자세한 내용은 [Exchange Server 라이선스](https://go.microsoft.com/fwlink/p/?LinkId=299133)를 참조 하세요. <br/>
+<sup>11</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용하려면 Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F1에 포함되어 있지 않은 Office365ProPlus를 구독해야 합니다. Office 365 메시지 암호화는 Azure Information Protection에 따라 달라 집니다. <br/>
+<sup>12</sup> WINDOWS SERVER AD RMS는 지원 되는 IRM 기능을 사용 하기 위해 별도로 구입 하 여 관리 해야 하는 온-프레미스 서버입니다. <br/>
+<sup>13</sup> Exchange Server 2013 이상 버전을 실행 하는 고객에 게 Azure Information Protection을 구매한 사용자가 지원 합니다. Office 365 메시지 암호화를 사용 하려면 온-프레미스 고객이 exchange Online을 통해 전자 메일을 필터링 하거나 하이브리드 메일 흐름을 설정 하 여 전자 메일을 라우팅하는 데 필요 합니다. <br/>
+<sup>14</sup> Exchange Server 2013 이상을 실행 하는 고객은 최신 CU (누적 업데이트) 또는 바로 이전 CU를 다운로드 및 설치 해야 하며,이 경우 Owa 및 장치용 Owa에서 문서 지문을 및 정책 팁에 액세스할 수 있습니다. <br/>
+<sup>15</sup> Exchange Server 2013 이상을 실행 하는 고객에 게 제공 됩니다. <br/>
+<sup>16</sup> BitLocker 드라이브 암호화는 Exchange Server 2013에 대해 지원 되지만 관리자가 해당 기능을 사용 하도록 설정 해야 합니다. <br/>
+<sup>17</sup> Exchange Online 계획 1에는 [사서함 및 보관에 대 한 크기 제한이](https://go.microsoft.com/fwlink/?LinkId=330039)있습니다. Exchange Online 용 Exchange Online 보관 기능을 사용 하면 무제한의 클라우드 기반 보관 사서함 및 원본 [위치 유지](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold)기능이 추가 됩니다. <br/>
+<sup>18</sup> Exchange Online Kiosk 일정은 OWA를 통해서만 액세스 또는 공유할 수 있습니다. <br/>
+<sup>19</sup> 연결 된 계정은 POP &amp; IMAP 계정에 대해서는 지원 되지만 Outlook.com (Hotmail)에는 사용할 수 없습니다. <br/>
+<sup>20</sup> Exchange Online PowerShell에서 cmdlet을 사용 하 여 기본 주소 목록 및 GAL (전체 주소 목록)을 사용자 지정 하는 것은 지원 되지 않습니다. <br/>
+<sup>21</sup> 일부 타사 웹 파트 및 추가 기능을 사용 하지 못할 수 있습니다. <br/>
+<sup>22</sup> eDiscovery의 경우 온-프레미스 및 클라우드에 대해 별도의 쿼리가 필요 합니다. <br/>
+<sup>23</sup> Exchange Online 키오스크에서는 온-프레미스 서버와의 사용률에 대 한 액세스 권한을 제공 하지 않습니다. 규정을 준수 하려면 고객은 해당 Cal을 구매 하거나 이전에 해당 액세스 권한을 제공 하는 Enterprise SKU로 업그레이드 해야 합니다. <br/>
+<sup>24</sup> 개 Office 365 그룹을 제한 된 기능으로 사용할 수 있습니다.
