@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-april-01-2019"></a>2019 년 4 월 1 일 주
-
-
-| 게시된 날짜 |항목 제목 | 변경 사항 |
-|------|------------|--------|
-| 4/3/2019 | [Office 365 보안 및 준수 센터](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 수정한 날짜 |
-| 4/4/2019 | [Office 365 Advanced Threat Protection 서비스 설명](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 수정한 날짜 |
-
-
 ## <a name="week-of-april-08-2019"></a>2019년 4월 8일 주중
 
 
@@ -81,3 +72,15 @@
 | 5/3/2019 | [포트폴리오 관리](/Office365/ServiceDescriptions/project-online-service-description/portfolio-management) | 수정한 날짜 |
 | 5/3/2019 | [프로젝트 관리](/Office365/ServiceDescriptions/project-online-service-description/project-management) | 수정한 날짜 |
 | 5/3/2019 | [Project Online 서비스 설명](/Office365/ServiceDescriptions/project-online-service-description/project-online-service-description) | 수정한 날짜 |
+
+
+## <a name="week-of-may-06-2019"></a>5 월 6 일 주 2019
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 5/6/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | 수정한 날짜 |
+| 5/6/2019 | [Office Online 서비스 설명](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 수정한 날짜 |
+| 5/7/2019 | [Exchange Online 서비스 설명](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | 수정한 날짜 |
+| 5/7/2019 | [지원](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | 수정한 날짜 |
+| 5/7/2019 | [Office Online 서비스 설명](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 수정한 날짜 |
