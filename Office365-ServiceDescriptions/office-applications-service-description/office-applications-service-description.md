@@ -3,7 +3,7 @@ title: Office 응용 프로그램 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/13/2019
+ms.date: 05/17/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365는 Word, Excel, PowerPoint 등 이미 익숙한 Office 데스크톱 응용 프로그램의 최신 버전을 제공 하는 구독 서비스입니다.
-ms.openlocfilehash: 341f5818ba89fe100218a333d13c045f26c45e3c
-ms.sourcegitcommit: dca74656dc3f453bd0d20df02edd078fe4c08129
+ms.openlocfilehash: 07bec4e0280d310f4fbb553348aa8b4b4dd0bce6
+ms.sourcegitcommit: 3648328c4e8e74403134c46c528f4534687dbdec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "33973366"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34158916"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 
@@ -54,9 +54,9 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |예  <br/> |예<sup>12</sup> <br/> |아니요  <br/>|아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
 |[Windows 10 앱](office-applications.md#windows-10-apps) <br/> |예  <br/> |예  <br/> |아니요  <br/>|지원  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |[Office 365용 Office for Mac](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |아니요  <br/> |아니요  <br/>|아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
-|[iPad/iPhone용 Office Mobile](office-applications.md#office-mobile-for-ipadiphone) <br/> |아니요  <br/> |예<sup>13</sup> <br/>|예<sup>13</sup>  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
-|[Android용 Office Mobile](office-applications.md#office-mobile-for-android) <br/> |아니요  <br/> |예<sup>13</sup> <br/> |예<sup>13</sup>  <br/>|예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[Windows Phone용 Office Mobile](office-applications.md#office-mobile-for-windows-phone) <br/> |아니요  <br/> |예<sup>13</sup> <br/> |예 <sup>13</sup> <br/>|예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
+|[iPad/iPhone용 Office Mobile](office-applications.md#office-mobile-for-ipadiphone) <br/> |아니요  <br/> |예<sup>13</sup> <br/>|예<sup>13</sup>  <br/> |예  <br/> |예  <br/> |예<sup>14</sup>  <br/> |예  <br/> |예<sup>14</sup>  <br/> |예  <br/> |예  <br/> |예<sup>14</sup>  <br/> |
+|[Android용 Office Mobile](office-applications.md#office-mobile-for-android) <br/> |아니요  <br/> |예<sup>13</sup> <br/> |예<sup>13</sup>  <br/>|예  <br/> |예  <br/> |예<sup>14</sup>  <br/> |예  <br/> |예<sup>14</sup>  <br/> |예  <br/> |예  <br/> |예<sup>14</sup>  <br/> |
+|[Windows Phone용 Office Mobile](office-applications.md#office-mobile-for-windows-phone) <br/> |아니요  <br/> |예<sup>13</sup> <br/> |예 <sup>13</sup> <br/>|예  <br/> |예  <br/> |예<sup>14</sup>  <br/> |예  <br/> |예<sup>14</sup>  <br/> |예  <br/> |예  <br/> |예<sup>14</sup>  <br/> |
 |Android용 Outlook  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|지원  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
 |**기업 가치** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |PC 또는 Mac에서 사용자당 5건의 동시 설치 지원  <br/> |아니요  <br/> |아니요  <br/>| 아니요  <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
@@ -75,18 +75,18 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |Azure Information Protection을 사용한 정보 권한 관리  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |
 |Windows Server AD RMS를 사용한 Information Rights Management  <br/> |예<sup>3</sup> <br/> |예  <br/> |예 <br/>| 예<sup>3</sup> <br/>|예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |
 |Office 추가 기능, ActiveX 및 BHO 지원  <br/> |예  <br/> |예  <br/> |예로<sup>+++<sup> <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
-|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  <br/> |예  <br/> |예  <br/> |예로<sup>++</sup> <br/> |예 <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/>|예  <br/> |아니요  <br/> |
-|Office 원격 분석  <br/> |예  <br/> |예  <br/>|예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|클라이언트 응용 프로그램에 대한 오프라인 지원  <br/> |예  <br/> |예  <br/>|예  <br/>  |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|Excel용 파워 맵  <br/> |<sup>4</sup> 없음 <br/> |예  <br/>|예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|Power Pivot for Excel  <br/> |예  <br/> |예  <br/>|예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> 
-|Excel용 파워 쿼리  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|Power View for Excel  <br/> |예  <br/> |예  <br/>|예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  <br/> |예  <br/> |예  <br/> |예로<sup>++</sup> <br/> |예 <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/>|예  <br/> |아니요  <br/> |
+|Office 원격 분석  <br/> |예  <br/> |예  <br/>|예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
+|클라이언트 응용 프로그램에 대한 오프라인 지원  <br/> |예  <br/> |예  <br/>|예  <br/>  |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
+|Excel용 파워 맵  <br/> |<sup>4</sup> 없음 <br/> |예  <br/>|예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
+|Power Pivot for Excel  <br/> |예  <br/> |예  <br/>|예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> 
+|Excel용 파워 쿼리  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
+|Power View for Excel  <br/> |예  <br/> |예  <br/>|예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
 |로밍 설정  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|공유 컴퓨터 활성화  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|공유 컴퓨터 활성화  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
 |클라우드 기반 파일 저장 차단 지원  <br/> |예  <br/> |예  <br/>|예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/>
-|콘텐츠를 찾고 재사용하려면 탭하십시오.  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|버전 업그레이드  <br/> |아니요  <br/> |아니요  <br/>|아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|콘텐츠를 찾고 재사용하려면 탭하십시오.  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
+|버전 업그레이드  <br/> |아니요  <br/> |아니요  <br/>|아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
 |Volume activation (KMS/MAK)  <br/> |예  <br/> |예  <br/> |예  <br/>|<sup>9</sup> 없음 <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
    
 > [!NOTE]
@@ -106,6 +106,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 <sup>11</sup> 현재 지연 채널에 대 한 대상 릴리스 또는 최신 채널을 사용 하 고 있는 경우 Access를 사용할 수 있습니다. 지연 채널에 있는 경우 2017년 6월에 Access가 제공될 예정입니다. 자세한 내용은 [Office 365 Business 및 Business Premium의 일부로 포함된 Access](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/> 
 <sup>12</sup> Infopath 2013은 여전히 지원 되며 Office Professional Plus 2016 설치에 포함 되어 있지만 office 2016에 대 한 새 버전은 없습니다.<br/> 
 <sup>13</sup> 기본 편집 기능만 지원 합니다.<br/> 
+<sup>14</sup> 통합 화면이 10.1 인치 이하의 장치로 제한 됩니다.<br/> 
 ## <a name="office-application-availability-in-office-for-mac-in-office-365-plans"></a>Office 365 계획의 Office for Mac에서의 Office 응용 프로그램 가용성
 <a name="bkmk_Officefeaturesolutions"> </a>
 
