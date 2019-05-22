@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - message-and-conversation-features-in-yammer
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Yammer에서는 다음과 같은 메시지 및 대화 기능을 사용할 수 있습니다.
-ms.openlocfilehash: eaf713948a36579ef75f48fb42f47f3175395c71
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: cb3ae35b113fff2906c5aea8fc3cea7c73d8a08f
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247164"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342197"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer의 메시지 및 대화 기능
 
@@ -29,7 +29,7 @@ Yammer에서는 다음과 같은 메시지 및 대화 기능을 사용할 수 �
 
 게시자를 통해 업데이트를 공유하거나 문서를 추가하거나 설문 조사를 게시하거나 다른 사람을 칭찬하거나 이벤트를 게시할 수 있습니다.
   
-## <a name="mention"></a>@멘션
+## <a name="mention"></a>@Mention
 <a name="bkmk_AtMention"> </a>
 
 동료 이름의 @멘션을 통해 해당 동료에게 알리고 대화로 끌어들입니다.
@@ -54,7 +54,7 @@ Yammer에서는 다음과 같은 메시지 및 대화 기능을 사용할 수 �
 
 Yammer의 Office Online 지원을 통해 Yammer로 업로드된 문서를 Yammer에서 직접 Office Online을 통해 보고 편집할 수 있습니다. 이 경우 Office Online으로 문서를 렌더링할 수 있고, 다른 사용자가 동시에 공동으로 작성할 수 있으며, 관련 Yammer 대화가 브라우저에 바로 표시됩니다.
   
-## <a name="events"></a>Events
+## <a name="events"></a>이벤트
 <a name="bkmk_Events"> </a>
 
 모임 및 이벤트를 구성하여 동료와 공유하고 출석 정보를 추적합니다. Outlook, Google, Yahoo! 및 iCal 일정에 이벤트를 추가할 수 있습니다.

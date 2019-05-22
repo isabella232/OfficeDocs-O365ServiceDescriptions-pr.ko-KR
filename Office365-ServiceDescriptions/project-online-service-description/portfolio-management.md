@@ -4,19 +4,19 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/03/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Project Online에서는 다음과 같은 포트폴리오 관리 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 50db84a3a8251b577e51680f1b8b88e002f79c98
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: b8ef403a10aaa24f2275449819a9c2a24aacfe14
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621818"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342007"
 ---
 # <a name="portfolio-management"></a>포트폴리오 관리
 

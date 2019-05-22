@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/11/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - skype-for-business-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 특정 비즈니스용 Skype 기능을 구입하기 위해 어떤 라이선스가 필요한지 알고 싶나요? 비즈니스용 Skype 라이선스 개요를 참조 하세요.
-ms.openlocfilehash: 311bba2c1d2600136644acef05f2360c4355068b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: ba3e2f87f4bc6b6e66e06aa1a7ded86787324a8f
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246864"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342397"
 ---
 # <a name="skype-for-business-online-service-description"></a>비즈니스용 Skype Online 서비스 설명
 
@@ -28,7 +28,7 @@ ms.locfileid: "33246864"
 > Microsoft 팀은 이제 메시징, 모임 및 Office 365의 통화에 대 한 기본 클라이언트입니다. Oct. 1, 2018, 새 Office 365 고객이 500를 적게 사용 하는 고객은 Microsoft 팀에 등록 비즈니스용 Skype Online에 액세스할 수 없습니다. 이미 비즈니스용 Skype Online을 사용 하는 테 넌 트는 Microsoft 팀으로 전환할 때까지 계속 진행할 수 있습니다 (새 사용자 프로 비전).
 
 > [!NOTE]
-> 비즈니스용 Skype Online 계획 2는 2019 년 7 월 1 일부 터 판매에서 만료 되었습니다. 즉, 인스턴트 메시징, 현재 상태, 회의 및 피어 투 피어 음성 및 비디오에 대 한 비즈니스용 Skype Online 계획 2를 더 이상 취득할 수 없습니다. 이러한 기능은 office 365 제품군을 비롯 한 팀이 포함 된 모든 office 365 제공에서 계속 지원 됩니다. 현재 용어의 끝에 계획이 만료 되는 경우 이러한 기능에 계속 액세스할 수 있도록 하려면 다른 요금제로 전환 해야 합니다. 현재 비즈니스용 Skype Online 계획 2가 할당 된 사용자에 대 한 office 365 business Essentials, Business Premium 또는 기타 office 제품군을 평가 하는 것이 좋습니다. 
+> 비즈니스용 Skype Online 계획 2는 2019 년 7 월 1 일부 터 판매에서 만료 되었습니다. 즉, 인스턴트 메시징, 현재 상태, 회의 및 피어 투 피어 음성 및 비디오에 대 한 비즈니스용 Skype Online 계획 2를 더 이상 취득할 수 없습니다. 이러한 기능은 Office 365 제품군을 비롯 한 팀이 포함 된 모든 Office 365 제공에서 계속 지원 됩니다. 현재 용어의 끝에 계획이 만료 되는 경우 이러한 기능에 계속 액세스할 수 있도록 하려면 다른 요금제로 전환 해야 합니다. 현재 비즈니스용 Skype Online 계획 2가 할당 된 사용자에 대 한 Office 365 Business Essentials, Business Premium 또는 기타 Office 제품군을 평가 하는 것이 좋습니다. 
 
  **특정 비즈니스용 Skype 기능을 얻기 위해 구입 해야 하는 라이선스를 알고 싶으십니까? [비즈니스용 Skype 라이선스 개요](https://go.microsoft.com/fwlink/?LinkID=799524)를 참조 하세요.**
   
@@ -187,7 +187,7 @@ ms.locfileid: "33246864"
 <br/> <sup>2</sup>비즈니스용 Skype 온라인에 대한 보관은 이 계획에 포함되지 않은 Exchange 원본 위치 유지 기능에 따라 다릅니다. 
 <br/><sup>3</sup> 음성 메일을 받으려는 사용자에 게 Exchange Online (요금제 2) 계획을 할당 해야 합니다. Exchange Online(계획 1) 계획은 음성 메일에 사용할 수 없습니다. 
 <br/><sup>4</sup> Office 365 enterprise F1 사용자는 비즈니스용 Skype Online 계획 2 또는 Enterprise 요금제 사용자가 초대 하는 경우 공유 세션에 참가할 수 있습니다. 
-<br/> <sup>5</sup> 오디오 회의는 office 365 Business Premium, Office 365 Enterprise E1 및 office 365 enterprise E3 구독 계획에 추가 기능으로 추가할 수 있습니다. 
+<br/> <sup>5</sup> 오디오 회의는 Office 365 Business Premium, Office 365 Enterprise E1 및 Office 365 enterprise E3 구독 계획에 추가 기능으로 추가할 수 있습니다. 
 <br/> <sup>6</sup> 통신 제작진은 오디오 회의만 지 원하는 추가 기능으로 Office 365 Business Premium 구독 계획에 추가할 수 있습니다. 
 <br/><sup>7</sup> Mac 및 모바일 클라이언트에서는 응급 통화를 사용할 수 없습니다. 
 <br/> <sup>8</sup> 고객 키를 사용하면 조직의 암호화 키를 제어하고 Office 365를 구성 및 사용하여 Microsoft의 데이터 센터의 미사용 데이터를 암호화할 수 있습니다. 미사용 데이터에는 SharePoint Online 및 비즈니스용 OneDrive에 저장되어 있는 사서함과 파일에 저장된 Exchange Online 및 비즈니스용 Skype의 데이터를 포함합니다. 고객 키를 사용하면 Office 365가 데이터의 암호를 해독하는 데 사용하는 암호화 키를 제어하므로 준수 의무를 이행할 수 있습니다. 자세한 내용은 [고객 키를 사용하여 Office 365에서 데이터 제어](https://go.microsoft.com/fwlink/?linkid=862702)를 참조하세요. 

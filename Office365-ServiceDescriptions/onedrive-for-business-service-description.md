@@ -3,7 +3,7 @@ title: 비즈니스용 OneDrive 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - onedrive-for-business-service-description
@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 각 구독 계획에 대해 제공되는 OneDrive 저장 공간에 알아봅니다.
-ms.openlocfilehash: 53023491a4b417a6daa2ba0eb57d5e443510c5c3
-ms.sourcegitcommit: 9ea9aa7c3d87354af4ac69f950e36b895b930463
+ms.openlocfilehash: 9280f791446560185aaf500dc7bed6ef24568728
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34080469"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343807"
 ---
 # <a name="onedrive-for-business-service-description"></a>비즈니스용 OneDrive 서비스 설명
 

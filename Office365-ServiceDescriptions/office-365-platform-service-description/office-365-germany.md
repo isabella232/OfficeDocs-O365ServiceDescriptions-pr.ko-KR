@@ -3,7 +3,7 @@ title: Office 365 Germany
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/21/2018
+ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와 차별화 된 옵션입니다. 독일어 데이터 센터에서 업계 최고의 생산성 서비스를 제공 하는 독일, 유럽 연합 (EU) 및 상주 (유럽 자유 무역 협회)의 요구를 해결 하는 데 도움이 됩니다. 독일어 법률에 따라 관리 되는 고유한 데이터 트러스티 모델을 통해 독일 및 엄격한 데이터 액세스 및 제어 조치를 사용 합니다.
-ms.openlocfilehash: a3f2a16ef66258a922b8c53f715870f46b623949
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: ccc1a0efe2f5a6563d7e5602f5522a3da8fb5595
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544985"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343587"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -24,7 +24,7 @@ Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스�
   
 Deutsche Telekom의 독립적인 독일 회사이자 자회사인 T-Systems International의 데이터 트러스트를 받을 대상은 고객 데이터로의 실제 및 논리적 액세스를 제어합니다. 고객 데이터는 독일 법에 제어되는 데이터 트러스트를 받을 대상의 승인이나 감독 없이는 액세스할 수 없습니다. 
   
-고객의 요구 사항에 대 한 이러한 발전에 따라 독일의 클라우드 전략은 독일에서 글로벌 클라우드 제품과 일치 하는 새 클라우드 지역 제공에 초점을 맞춥니다. 이 포커스를 사용 하면 더 이상 새 고객을 수락 하거나 현재 사용 가능한 Microsoft 클라우드 독일에서 새 서비스를 배포할 수 없습니다. 기존 고객은 현재 사용 가능한 최신 클라우드 서비스를 계속 사용할 수 있으며, 필요한 보안 업데이트를 유지 합니다. [Office 365 독일에 대해 알아봅니다](https://support.office.com/en-us/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
+고객의 요구 사항에 대 한 이러한 발전에 따라 독일의 클라우드 전략은 독일에서 글로벌 클라우드 제품과 일치 하는 새 클라우드 지역 제공에 초점을 맞춥니다. 이 포커스를 사용 하면 더 이상 새 고객을 수락 하거나 현재 사용 가능한 Microsoft 클라우드 독일에서 새 서비스를 배포할 수 없습니다. 기존 고객은 현재 사용 가능한 최신 클라우드 서비스를 계속 사용할 수 있으며, 필요한 보안 업데이트를 유지 합니다. [Office 365 독일에 대해 알아봅니다](https://support.office.com/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
   
 ## <a name="service-availability-for-each-plan"></a>각 계획의 서비스 가용성
 
@@ -47,7 +47,10 @@ Deutsche Telekom의 독립적인 독일 회사이자 자회사인 T-Systems Inte
 |Azure Information Protection  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 사용자와 도메인을 설정할 수 있는 Microsoft 365 관리 센터를 비롯 한 관련 기능이 포함 된 클라우드 기반 구독 서비스입니다. > <sup>2</sup>Office 365 ProPlus 계획을 별도로 구매할 수 있으며 Office 365 ProPlus는 Office 365 Germany Enterprise E3 및 Office 365 Germany Enterprise E4에 포함되어 있습니다. 최신 인증을 Office 365 Germany에서 사용하도록 설정해야 합니다. [최신 인증은](https://support.office.com/en-us/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) Office 365 전라남도에서 사용 하도록 설정 되어 있어야 합니다. > <sup>3</sup> Project Online 및 Power BI는 포함 되어 있지 않지만 별도의 추가 기능으로 구매 하거나 Office 365 독일 교육용 A1 계획에 무료로 추가할 수 있습니다. > <sup>4</sup> Visio Online의 보기 기능을 무료로 사용할 수 있습니다. Visio Online의 작성 및 편집 기능은 라이선스가 필요합니다. Visio Online에 대한 자세한 내용은 [Visio 온라인 서비스 설명](../visio-online-service-description/visio-online-service-description.md)을 참조하세요. 
+> <sup>1</sup> 사용자와 도메인을 설정할 수 있는 Microsoft 365 관리 센터를 비롯 한 관련 기능이 포함 된 클라우드 기반 구독 서비스입니다. <br/>
+<sup>2</sup>Office 365 ProPlus 계획을 별도로 구매할 수 있으며 Office 365 ProPlus는 Office 365 Germany Enterprise E3 및 Office 365 Germany Enterprise E4에 포함되어 있습니다. 최신 인증을 Office 365 Germany에서 사용하도록 설정해야 합니다. [최신 인증은](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) Office 365 전라남도에서 사용 하도록 설정 되어 있어야 합니다. <br/>
+<sup>3</sup> Project Online 및 Power BI는 포함 되어 있지 않지만 별도의 추가 기능으로 구매 하거나 Office 365 독일 교육용 A1 계획에 무료로 추가할 수 있습니다. <br/>
+<sup>4</sup> Visio Online의 보기 기능을 무료로 사용할 수 있습니다. Visio Online의 작성 및 편집 기능은 라이선스가 필요합니다. Visio Online에 대한 자세한 내용은 [Visio 온라인 서비스 설명](../visio-online-service-description/visio-online-service-description.md)을 참조하세요. 
   
 ## <a name="system-requirements"></a>시스템 요구 사항
 
@@ -180,13 +183,21 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |**[제품 사용권](product-use-rights.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 독일에서는 제조업체에서 지원 하지 않는 운영 체제에 대 한 지원을 제공 하지 않습니다. > <sup>2</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 office 365 독일 Business Essentials, Office 365 독일 Business Premium, Office 365 독일 Enterprise E1, Office 365 독일 교육 A1에 포함 되지 않은 Office 365 ProPlus에 대 한 구독이 필요 합니다. Office 365 독일 Enterprise K1 > <sup>3</sup> If using directory synchronization with a local Active Directory, you must delete accounts or change passwords by using the local Active Directory, rather than the Office 365 portal or by using the Azure Active Directory module for Windows PowerShell. > <sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). > <sup>5</sup> Reducing seats that were purchased with a term discount may be subject to an early termination fee. 이는 매달 한 번씩 지불 되는 구독에는 적용 되지 않습니다. > <sup>6</sup> Office 365 독일 교육용 사용자는 Microsoft 365 관리 센터에서 라이선스를 변경할 수 없습니다. > <sup>7</sup> Office 365 ProPlus office 2016과 같은 클라이언트 소프트웨어 응용 프로그램을 사용 하는 데 사용할 수 있는 권한 및 office 2013은 일부 Office 365 독일 계획에 포함 되어 있습니다. Client software applications run on an end user's device rather than in data centers in Germany. For purposes of your agreement with Microsoft, client software applications are not [German Online Services](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). Client software applications also may enable an end user to access online services that are not German Online Services. German data residency commitments and access control by the German data trustee apply only to the German Online Services. > <sup>8</sup> [최신 인증은](https://support.office.com/en-us/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) Office 365 전라남도에서 사용 하도록 설정 되어 있어야 합니다. > <sup>9</sup> Office 365 독일는 Office 365의 클라우드 보안 및 규정 준수 표준을 준수 합니다. Office 365 offers a comprehensive set of certifications, independently assessed by accredited auditors as part of SOC, ISO and audits. The certifications include ISO 27001/27002, 27017, 27018 and SOC 1 &amp; 2 certification. The additional data trustee controls in Office 365 Germany will be evaluated by independent assessors as part of our annual ISO and SOC audits. 
+> <sup>1</sup> Office 365 독일에서는 제조업체에서 지원 하지 않는 운영 체제에 대 한 지원을 제공 하지 않습니다.<br/>
+<sup>2</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 office 365 독일 Business Essentials, Office 365 독일 Business Premium, Office 365 독일 Enterprise E1, Office 365 독일 교육 A1에 포함 되지 않은 Office 365 ProPlus에 대 한 구독이 필요 합니다. Office 365 독일 Enterprise K1<br/>
+<sup>3</sup> If using directory synchronization with a local Active Directory, you must delete accounts or change passwords by using the local Active Directory, rather than the Office 365 portal or by using the Azure Active Directory module for Windows PowerShell.<br/>
+<sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/).<br/>
+<sup>5</sup> Reducing seats that were purchased with a term discount may be subject to an early termination fee. 이는 매달 한 번씩 지불 되는 구독에는 적용 되지 않습니다.<br/>
+<sup>6</sup> Office 365 독일 교육용 사용자는 Microsoft 365 관리 센터에서 라이선스를 변경할 수 없습니다.<br/>
+<sup>7</sup> Office 365 ProPlus office 2016과 같은 클라이언트 소프트웨어 응용 프로그램을 사용 하는 데 사용할 수 있는 권한 및 office 2013은 일부 Office 365 독일 계획에 포함 되어 있습니다. Client software applications run on an end user's device rather than in data centers in Germany. For purposes of your agreement with Microsoft, client software applications are not [German Online Services](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). Client software applications also may enable an end user to access online services that are not German Online Services. German data residency commitments and access control by the German data trustee apply only to the German Online Services.<br/>
+<sup>8</sup> [최신 인증은](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) Office 365 독일에서 사용 하도록 설정 해야 합니다.<br/>
+<sup>9</sup> Office 365 독일는 Office 365의 클라우드 보안 및 규정 준수 표준을 준수 합니다. Office 365 offers a comprehensive set of certifications, independently assessed by accredited auditors as part of SOC, ISO and audits. The certifications include ISO 27001/27002, 27017, 27018 and SOC 1 &amp; 2 certification. The additional data trustee controls in Office 365 Germany will be evaluated by independent assessors as part of our annual ISO and SOC audits. 
   
 ## <a name="office-application-features"></a>Office 응용 프로그램 기능
 <a name="BM1_Platform"> </a>
 
 > [!NOTE]
-> Office 365 Germany 계획에는 최종 사용자의 장치에서 설치 및 실행되는 Office 365 ProPlus, Office 2013\* 및 Office 2016과 같은 클라이언트 소프트웨어 응용 프로그램이 포함됩니다. 클라이언트 소프트웨어 응용 프로그램이 독일어 데이터 센터에서만 독점적으로 작동하는 것은 아니며 최종 사용자는 [독일어 온라인 서비스](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)가 아닌 온라인 서비스에 액세스할 수도 있습니다. Microsoft와의 계약을 위해 클라이언트 소프트웨어 응용 프로그램은 독일어 온라인 서비스가 아닙니다. 독일어 데이터 트러스티에 의한 액세스 제어 및 독일어 데이터 상주 약정은 독일어 온라인 서비스에만 적용됩니다. > \*Office 365 Germany용 Office 2013을 사용하려면 [최신 인증이 사용되도록 설정되어야 합니다](https://support.office.com/en-us/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1). 
+> Office 365 Germany 계획에는 최종 사용자의 장치에서 설치 및 실행되는 Office 365 ProPlus, Office 2013\* 및 Office 2016과 같은 클라이언트 소프트웨어 응용 프로그램이 포함됩니다. 클라이언트 소프트웨어 응용 프로그램이 독일어 데이터 센터에서만 독점적으로 작동하는 것은 아니며 최종 사용자는 [독일어 온라인 서비스](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)가 아닌 온라인 서비스에 액세스할 수도 있습니다. Microsoft와의 계약을 위해 클라이언트 소프트웨어 응용 프로그램은 독일어 온라인 서비스가 아닙니다. 독일어 데이터 트러스티에 의한 액세스 제어 및 독일어 데이터 상주 약정은 독일어 온라인 서비스에만 적용됩니다.<br/> \*Office 365 Germany용 Office 2013을 사용하려면 [최신 인증이 사용되도록 설정되어야 합니다](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1). 
   
 다음 표를 사용하여 Office 365 Germany 계획 간의 기능을 비교해 볼 수 있습니다.
   
@@ -204,7 +215,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[비즈니스용 Skype](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예  <br/> |예  <br/> |예<sup>6</sup> <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |<sup>7</sup> 없음 <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |[Windows 10 앱](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[Office 365용 Office for Mac](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |예  <br/> |아니요  <br/> |예  <br/> |<sup>7</sup> 없음 <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |예  <br/> |아니요  <br/> |예  <br/> |<sup>7</sup> 없음 <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |예  <br/> |아니요  <br/> |예  <br/> |<sup>7</sup> 없음 <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |[Android용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |예  <br/> |아니요  <br/> |예  <br/> |<sup>7</sup> 없음 <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |예  <br/> |아니요  <br/> |예  <br/> |<sup>7</sup> 없음 <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
@@ -243,7 +254,17 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |Volume activation (KMS/MAK)  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 독일 계획에는 최종 사용자의 장치에서 설치 및 실행 되는 클라이언트 소프트웨어 응용 프로그램 (예: Office 365 ProPlus, office 2013 및 office 2016)이 포함 되어 있습니다. 클라이언트 소프트웨어 응용 프로그램이 독일어 데이터 센터에서만 독점적으로 작동하는 것은 아니며 최종 사용자는 독일어 온라인 서비스가 아닌 온라인 서비스에 액세스할 수도 있습니다. Microsoft와의 계약을 위해 클라이언트 소프트웨어 응용 프로그램은 독일어 온라인 서비스가 아닙니다. 독일어 데이터 트러스티에 의한 액세스 제어 및 독일어 데이터 상주 약정은 독일어 온라인 서비스에만 적용됩니다. > <sup>2</sup> Office 2013을 사용하려면 [modern authentication be enabled](http://technet.microsoft.com/library/776c0036-66fd-41cb-8928-5495c0f9168a.aspx). > <sup>3</sup> Azure Information Protection은 포함 되어 있지 않지만 지원 되는 IRM 기능을 사용 하기 위해 별도의 추가 기능으로 구입할 수 있습니다. > <sup>4</sup> Windows Server AD RMS는 온-프레미스 서버이며, 별도로 구입하여 지원되는 IRM 기능을 사용할 수 있습니다. > <sup>5</sup> Office Professional Plus 2013 또는 독립 실행형 버전의 Excel 2013이 있는 경우 [Excel 2013용 파워 맵 미리 보기](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)를 다운로드하여 지원되지 않는 추가 기능으로 사용할 수 있습니다. > <sup>6</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Germany Enterprise E3에는 고급 전화 통신, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 Skype 응용 프로그램이 포함됩니다. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). > <sup>7</sup> 일부 학교는 Office 365 ProPlus를 포함하는 Education Plus를 사용할 수 있으며, 학생, 교직원 및 직원은 최대 5대의 PC 또는 Mac 컴퓨터와 기타 모바일 장치(Windows 태블릿 및 iPad 포함)에 최신 버전의 Office를 설치할 수 있습니다. Enrollment for Education Solutions, Open Value Subscription Education Solutions 또는 학교 계약을 통해 교직원 및 직원에게 기관용 Office 라이선스를 허가한 학교는 Office 365 Education Plus를 이용할 수 있습니다. Access 및 Publisher는 PC에서만 사용할 수 있습니다. Mac용 OneNote는 Mac 앱 스토어에서 별도로 다운로드할 수 있습니다. > <sup>8</sup> Office 2011 for Mac을 설치할 수 있으나 정품 인증을 받을 수 없습니다. > <sup>9</sup>Office 365 Germany Enterprise E3 및 Office 365 ProPlus에 대한 볼륨 정품 인증은 RDS 역할이 설정되거나 Window To Go 설치가 있는 Windows Server 2008 R2 이상 버전의 설치로만 제한됩니다. 두 경우 모두 이러한 설치에 액세스하는 사용자는 Office 365 Germany Enterprise E3 또는 Office 365 ProPlus의 허가된 사용자여야 합니다. > <sup>10</sup> 현재 지연 채널에 대 한 대상 지정 릴리스 또는 최신 채널에 있는 경우 Access를 사용할 수 있습니다. 지연 채널에 있는 경우 2017년 6월에 Access가 제공될 예정입니다. 자세한 내용은 [Office 365 Business 및 Business Premium의 일부로 포함된 Access](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US). > <sup>11</sup> Office 365 독일에서는 사용할 수 없지만 곧 제공 될 예정입니다. 
+> <sup>1</sup> Office 365 독일 계획에는 최종 사용자의 장치에서 설치 및 실행 되는 클라이언트 소프트웨어 응용 프로그램 (예: Office 365 ProPlus, office 2013 및 office 2016)이 포함 되어 있습니다. 클라이언트 소프트웨어 응용 프로그램이 독일어 데이터 센터에서만 독점적으로 작동하는 것은 아니며 최종 사용자는 독일어 온라인 서비스가 아닌 온라인 서비스에 액세스할 수도 있습니다. Microsoft와의 계약을 위해 클라이언트 소프트웨어 응용 프로그램은 독일어 온라인 서비스가 아닙니다. 독일어 데이터 트러스티에 의한 액세스 제어 및 독일어 데이터 상주 약정은 독일어 온라인 서비스에만 적용됩니다.<br/>
+<sup>2</sup> Office 2013을 사용하려면 [modern authentication be enabled](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).<br/>
+<sup>3</sup> Azure Information Protection은 포함 되어 있지 않지만 지원 되는 IRM 기능을 사용 하기 위해 별도의 추가 기능으로 구입할 수 있습니다.<br/>
+<sup>4</sup> Windows Server AD RMS는 온-프레미스 서버이며, 별도로 구입하여 지원되는 IRM 기능을 사용할 수 있습니다. <br/>
+<sup>5</sup> Office Professional Plus 2013 또는 독립 실행형 버전의 Excel 2013이 있는 경우 [Excel 2013용 파워 맵 미리 보기](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)를 다운로드하여 지원되지 않는 추가 기능으로 사용할 수 있습니다. <br/>
+<sup>6</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Germany Enterprise E3에는 고급 전화 통신, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 Skype 응용 프로그램이 포함됩니다. 비즈니스용 Skype 온라인 라이선스가 각 사용자에게 할당되어 있어야 합니다. Lync 기본 기능에 대 한 자세한 내용은 [Dektop 클라이언트 비교 표](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)를 참조 하십시오.<br/>
+<sup>7</sup> 일부 학교는 Office 365 ProPlus를 포함하는 Education Plus를 사용할 수 있으며, 학생, 교직원 및 직원은 최대 5대의 PC 또는 Mac 컴퓨터와 기타 모바일 장치(Windows 태블릿 및 iPad 포함)에 최신 버전의 Office를 설치할 수 있습니다. Enrollment for Education Solutions, Open Value Subscription Education Solutions 또는 학교 계약을 통해 교직원 및 직원에게 기관용 Office 라이선스를 허가한 학교는 Office 365 Education Plus를 이용할 수 있습니다. Access 및 Publisher는 PC에서만 사용할 수 있습니다. Mac용 OneNote는 Mac 앱 스토어에서 별도로 다운로드할 수 있습니다.<br/>
+<sup>8</sup> Office 2011 for Mac을 설치할 수 있으나 정품 인증을 받을 수 없습니다. <br/>
+<sup>9</sup>Office 365 Germany Enterprise E3 및 Office 365 ProPlus에 대한 볼륨 정품 인증은 RDS 역할이 설정되거나 Window To Go 설치가 있는 Windows Server 2008 R2 이상 버전의 설치로만 제한됩니다. 두 경우 모두 이러한 설치에 액세스하는 사용자는 Office 365 Germany Enterprise E3 또는 Office 365 ProPlus의 허가된 사용자여야 합니다.<br/>
+<sup>10</sup> 현재 지연 채널에 대 한 대상 지정 릴리스 또는 최신 채널에 있는 경우 Access를 사용할 수 있습니다. 지연 채널에 있는 경우 2017년 6월에 Access가 제공될 예정입니다. 자세한 내용은 [Office 365 Business 및 Business Premium의 일부로 포함된 Access](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/>
+<sup>11</sup> Office 365 독일에서는 사용할 수 없지만 곧 제공 될 예정입니다. 
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -259,7 +280,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[비즈니스용 Skype](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |[Windows 10 앱](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Office 365용 Office for Mac](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |[Android용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |아니요  <br/> |예  <br/> |예  <br/> |
@@ -298,7 +319,15 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |Volume activation (KMS/MAK)  <br/> |예  <br/> |예  <br/> |<sup>10</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 독일 계획에는 최종 사용자의 장치에서 설치 및 실행 되는 클라이언트 소프트웨어 응용 프로그램 (예: Office 365 ProPlus, office 2013 및 office 2016)이 포함 되어 있습니다. 클라이언트 소프트웨어 응용 프로그램이 독일어 데이터 센터에서만 독점적으로 작동하는 것은 아니며 최종 사용자는 독일어 온라인 서비스가 아닌 온라인 서비스에 액세스할 수도 있습니다. Microsoft와의 계약을 위해 클라이언트 소프트웨어 응용 프로그램은 독일어 온라인 서비스가 아닙니다. 독일어 데이터 트러스티에 의한 액세스 제어 및 독일어 데이터 상주 약정은 독일어 온라인 서비스에만 적용됩니다. > <sup>2</sup> Office 2013을 사용하려면 [modern authentication be enabled](http://technet.microsoft.com/library/776c0036-66fd-41cb-8928-5495c0f9168a.aspx). > <sup>3</sup> 보관 및 규정 준수 기능은 이 Office 버전에서 지원되지만 Exchange Online 및 SharePoint Online 계획은 포함되어 있지 않으므로 별도 구입하거나 지원 가능한 온-프레미스 서버 동급의 제품과 함께 사용해야 합니다. > <sup>4</sup> Azure Information Protection은 포함 되어 있지 않지만 지원 되는 IRM 기능을 사용 하기 위해 별도의 추가 기능으로 구입할 수 있습니다. > <sup>5</sup> Windows Server AD RMS는 온-프레미스 서버이며, 별도로 구입하여 지원되는 IRM 기능을 사용할 수 있습니다. > <sup>6</sup> Office Professional Plus 2013 또는 독립 실행형 버전의 Excel 2013이 있는 경우 [Excel 2013용 파워 맵 미리 보기](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)를 다운로드하여 지원되지 않는 추가 기능으로 사용할 수 있습니다. > <sup>7</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 Skype 응용 프로그램이 포함됩니다. 라이선스가 각 사용자에게 할당되어 있어야 합니다. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). > <sup>8</sup> Office 2011 for Mac을 설치할 수 있으나 정품 인증을 받을 수 없습니다. > <sup>9</sup> Office 365 ProPlus는 사용자 전용 VDI (가상 데스크톱 인프라)에서 지원 됩니다. Office 365 ProPlus는 볼륨 라이선스 프로그램을 통해 구매한 경우만 RDS(원격 데스크톱 서비스)를 지원합니다. > <sup>10</sup>Office 365 Germany Enterprise E3 및 Office 365 ProPlus에 대한 볼륨 정품 인증은 RDS 역할이 설정되거나 Window To Go 설치가 있는 Windows Server 2008 R2 이상 버전의 설치로만 제한됩니다. 두 경우 모두 이러한 설치에 액세스하는 사용자는 Office 365 Germany Enterprise E3 또는 Office 365 ProPlus의 허가된 사용자여야 합니다. > <sup>11</sup> Office 365 독일에서는 사용할 수 없지만 곧 제공 될 예정입니다. 
+> <sup>1</sup> Office 365 독일 계획에는 최종 사용자의 장치에서 설치 및 실행 되는 클라이언트 소프트웨어 응용 프로그램 (예: Office 365 ProPlus, office 2013 및 office 2016)이 포함 되어 있습니다. 클라이언트 소프트웨어 응용 프로그램이 독일어 데이터 센터에서만 독점적으로 작동하는 것은 아니며 최종 사용자는 독일어 온라인 서비스가 아닌 온라인 서비스에 액세스할 수도 있습니다. Microsoft와의 계약을 위해 클라이언트 소프트웨어 응용 프로그램은 독일어 온라인 서비스가 아닙니다. 독일어 데이터 트러스티에 의한 액세스 제어 및 독일어 데이터 상주 약정은 독일어 온라인 서비스에만 적용됩니다.<br/>
+<sup>2</sup> Office 2013을 사용하려면 [modern authentication be enabled](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).<br/>
+<sup>3</sup> 보관 및 규정 준수 기능은 이 Office 버전에서 지원되지만 Exchange Online 및 SharePoint Online 계획은 포함되어 있지 않으므로 별도 구입하거나 지원 가능한 온-프레미스 서버 동급의 제품과 함께 사용해야 합니다.<br/> <sup>4</sup> Azure Information Protection은 포함 되어 있지 않지만 지원 되는 IRM 기능을 사용 하기 위해 별도의 추가 기능으로 구입할 수 있습니다.<br/> <sup>5</sup> Windows Server AD RMS는 온-프레미스 서버이며, 별도로 구입하여 지원되는 IRM 기능을 사용할 수 있습니다.<br/>
+<sup>6</sup> Office Professional Plus 2013 또는 독립 실행형 버전의 Excel 2013이 있는 경우 [Excel 2013용 파워 맵 미리 보기](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)를 다운로드하여 지원되지 않는 추가 기능으로 사용할 수 있습니다.<br/>
+<sup>7</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 Skype 응용 프로그램이 포함됩니다. 비즈니스용 Skype 온라인 라이선스가 각 사용자에게 할당되어 있어야 합니다. Lync 기본 기능에 대 한 자세한 내용은 [데스크톱 클라이언트 비교 표](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)를 참조 하십시오.<br/>
+<sup>8</sup> Office 2011 for Mac을 설치할 수 있으나 정품 인증을 받을 수 없습니다.<br/>
+<sup>9</sup> Office 365 ProPlus는 사용자 전용 VDI (가상 데스크톱 인프라)에서 지원 됩니다. Office 365 ProPlus는 볼륨 라이선스 프로그램을 통해 구매한 경우만 RDS(원격 데스크톱 서비스)를 지원합니다.<br/>
+<sup>10</sup>Office 365 Germany Enterprise E3 및 Office 365 ProPlus에 대한 볼륨 정품 인증은 RDS 역할이 설정되거나 Window To Go 설치가 있는 Windows Server 2008 R2 이상 버전의 설치로만 제한됩니다. 두 경우 모두 이러한 설치에 액세스하는 사용자는 Office 365 Germany Enterprise E3 또는 Office 365 ProPlus의 허가된 사용자여야 합니다.<br/>
+<sup>11</sup> Office 365 독일에서는 사용할 수 없지만 곧 제공 될 예정입니다. 
   
 ## <a name="office-online-features"></a>Office Online 기능
 <a name="BM1_Platform"> </a>
@@ -306,7 +335,10 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 다음 표에서는 Office 365 독일 요금제에서 사용할 수 있는 Office Online 기능을 비교한 링크를 제공 합니다. 비교를 사용 하 여 Office Online에서 사용할 수 있는 기능을 찾은 다음 기능 이름을 클릭 하 여 해당 기능의 작동 방식에 대 한 간단한 설명을 읽어 보십시오. 조직의 일부 구성원은 Excel 데스크톱 앱의 고급 차트 기능을 필요로 하지만 다른 구성원은 Office Online를 사용하여 Word 문서와 PowerPoint 프레젠테이션을 보고 간단하게 편집만 해야 할 수 있습니다. 
   
 > [!NOTE]
-> Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. 이 표는 Microsoft Office 기능의 전체 목록이 아닙니다. > Microsoft Office 365 ProPlus는 최신 Office 데스크톱 제품군의 월별 구독 제품입니다. > Office Professional Plus, Office Standard 또는 Office 365 ProPlus 라이선스와 같은 Office 데스크톱 제품군 라이선스를 구입한 Microsoft Office Web Apps Server 2013 온-프레미스 고객은 Office Online 편집 라이선스를 부여 받습니다. > Office 365 Germary의 특성에 따라 아직 사용하도록 설정되지 않은 몇 가지 기능이 있습니다. 고객은 시간에 따라 글로벌 서비스를 포함하는 전체 기능 패리티에 근접한 서비스를 확인할 수 있습니다. 
+> - Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. 이 표는 Microsoft Office 기능의 전체 목록이 아닙니다. <br/> 
+> - Microsoft Office 365 ProPlus는 최신 Office 데스크톱 제품군의 월별 구독 제품입니다. <br/>
+> -  Microsoft Office Web Apps 서버 2013 온-프레미스 고객은 office Professional Plus, Office Standard 또는 Office 365 ProPlus 라이선스와 같은 Office 데스크톱 제품군 라이선스를 구매한 경우 Office Online 편집 라이선스를 얻게 됩니다. <br/>
+> -  Office 365 독일의 특성으로 인해 일부 기능이 아직 사용 하도록 설정 되지 않았습니다. 고객은 시간에 따라 글로벌 서비스를 포함하는 전체 기능 패리티에 근접한 서비스를 확인할 수 있습니다. 
   
 ||||
 |:-----|:-----|:-----|
@@ -428,7 +460,20 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |Outlook 추가 기능 및 Outlook MAPI  <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |아니요  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Exchange 2010은 최소한의 하이브리드 배포만 지원 합니다. Exchange 2010에 대 한 전체 하이브리드 배포는 지원 되지 않습니다. 최소 하이브리드 배포에 대 한 자세한 내용은 [Use express migration To Exchange 사서함 마이그레이션 Office 365](https://support.office.com/en-us/article/Use-express-migration-to-migrate-Exchange-mailboxes-to-Office-365-fdecceed-0702-4af3-85be-f2a0013937ef?ui=en-US&amp;rs=en-US&amp;ad=US)을 참조 하십시오. > <sup>2</sup> Office 365 독일 business Essentials 및 Office 365 독일 business Premium에서는 온-프레미스 서버와의 사용률에 대 한 액세스 권한을 제공 하지 않습니다. 정책을 준수 하려면 고객은 해당 Cal을 구매 하거나 이전에 구매한 다음 이러한 액세스 권한을 제공 하는 Enterprise SKU로 업그레이드 해야 합니다. > <sup>3</sup> Office 365 독일에서는 사용할 수 없지만 곧 제공 될 예정입니다. > <sup>4</sup> Azure Information Protection은 포함 되어 있지 않지만 지원 되는 IRM 기능을 사용 하기 위해 별도의 추가 기능으로 구매 하거나 Office 365 독일 교육 A1 계획에 무료로 추가할 수 있습니다. Office 365 메시지 암호화는 Azure Information Protection에 따라 달라 집니다. > <sup>5</sup> Windows Server AD RMS는 온-프레미스 서버이며, 별도로 구입하여 지원되는 IRM 기능을 사용할 수 있습니다. > <sup>6</sup> eDiscovery의 경우 온-프레미스 및 클라우드에 대해 별도의 쿼리가 필요 합니다. > <sup>7</sup> 전송 규칙은 조건 및 예외를 정의 하는 데 사용할 수 있는 다양 한 조건으로 구성 되며, 조건에 따라 수행할 작업입니다. 사용 가능한 조건 및 작업은 Exchange Online과 Microsoft Exchange Server 2013 간에 서로 다릅니다. 사용 가능한 조건 및 작업 목록은 각 제품에 대 한 해당 하는 조건 및 작업 항목을 참조 하십시오. > <sup>8</sup> EAC (Exchange 관리 센터) 관리 인터페이스에 직접 액세스 하는 방법 으로만 액세스할 수 있습니다. > <sup>9</sup> Exchange 서버 2013은 Microsoft 맬웨어 방지 엔진도 사용 합니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다. > <sup>10</sup> 연결 된 계정은 POP &amp; IMAP 계정에 대해서는 지원 되지만 Outlook.com (Hotmail)에는 사용할 수 없습니다. > <sup>11</sup> 비활성 사서함 기능이 필요한 각 사서함에 대해 eoa 구독을 별도로 구입할 수 있습니다. > <sup>12</sup> cmdlet을 사용 하 여 주소 목록 및 전체 주소 목록으로 작업할 수 없습니다. > <sup>13</sup> 다른 테 넌 트와의 공유를 지원 하기 위해 가용성 주소 공간을 사용 해야 합니다. 가용성 주소 공간을 만드는 방법에 대 한 자세한 내용은 [Add-add-availabilityaddressspace](http://technet.microsoft.com/library/abbd48f3-adf6-40ed-9a52-36800d8429ef.aspx)를 참조 하십시오. > <sup>14</sup> 테이블은 클라이언트가 관련 요금제와 함께 작동 하는지 여부를 나타냅니다. 이러한 계획 구매에 클라이언트가 반드시 포함되어야 하는 것을 의미하지는 않습니다. > <sup>15</sup> POP는 지원 되지만 IMAP는 사용할 수 없습니다. > <sup>16</sup> 일부 타사 웹 파트 및 추가 기능을 사용 하지 못할 수 있습니다. 
+> <sup>1</sup> Exchange 2010은 최소한의 하이브리드 배포만 지원 합니다. Exchange 2010에 대 한 전체 하이브리드 배포는 지원 되지 않습니다. 최소 하이브리드 배포에 대 한 자세한 내용은 [Use express migration To Exchange 사서함 마이그레이션 Office 365](https://support.office.com/article/Use-express-migration-to-migrate-Exchange-mailboxes-to-Office-365-fdecceed-0702-4af3-85be-f2a0013937ef?ui=en-US&amp;rs=en-US&amp;ad=US)을 참조 하십시오.<br/>
+<sup>2</sup> Office 365 독일 business Essentials 및 Office 365 독일 business Premium에서는 온-프레미스 서버와의 사용률에 대 한 액세스 권한을 제공 하지 않습니다. 정책을 준수 하려면 고객은 해당 Cal을 구매 하거나 이전에 구매한 다음 이러한 액세스 권한을 제공 하는 Enterprise SKU로 업그레이드 해야 합니다.<br/>
+<sup>3</sup> Office 365 독일에서는 사용할 수 없지만 곧 제공 될 예정입니다.<br/>
+<sup>4</sup> Azure Information Protection은 포함 되어 있지 않지만 지원 되는 IRM 기능을 사용 하기 위해 별도의 추가 기능으로 구매 하거나 Office 365 독일 교육 A1 계획에 무료로 추가할 수 있습니다. Office 365 메시지 암호화는 Azure Information Protection에 따라 달라 집니다.<br/>
+<sup>5</sup> Windows Server AD RMS는 온-프레미스 서버이며, 별도로 구입하여 지원되는 IRM 기능을 사용할 수 있습니다.<br/>
+<sup>6</sup> eDiscovery의 경우 온-프레미스 및 클라우드에 대해 별도의 쿼리가 필요 합니다.<br/>
+<sup>7</sup> 전송 규칙은 조건 및 예외를 정의 하는 데 사용할 수 있는 다양 한 조건으로 구성 되며, 조건에 따라 수행할 작업입니다. 사용 가능한 조건 및 작업은 Exchange Online과 Microsoft Exchange Server 2013 간에 서로 다릅니다. 사용 가능한 조건 및 작업 목록은 각 제품에 대 한 해당 하는 조건 및 작업 항목을 참조 하십시오.<br/> 
+<sup>8</sup> EAC (Exchange 관리 센터) 관리 인터페이스에 직접 액세스 하는 방법 으로만 액세스할 수 있습니다. <br/> 
+<sup>9</sup> Exchange 서버 2013은 Microsoft 맬웨어 방지 엔진도 사용 합니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다. <br/> <sup>10</sup> 연결 된 계정은 POP &amp; IMAP 계정에 대해서는 지원 되지만 Outlook.com (Hotmail)에는 사용할 수 없습니다. <br/>
+<sup>11</sup> 비활성 사서함 기능이 필요한 각 사서함에 대해 eoa 구독을 별도로 구입할 수 있습니다. <br/>
+<sup>12</sup> cmdlet을 사용 하 여 주소 목록 및 전체 주소 목록으로 작업할 수 없습니다. <br/>
+<sup>13</sup> 다른 테 넌 트와의 공유를 지원 하기 위해 가용성 주소 공간을 사용 해야 합니다. 가용성 주소 공간을 만드는 방법에 대 한 자세한 내용은 [Add-add-availabilityaddressspace](https://docs.microsoft.com/powershell/module/exchange/sharing-and-collaboration/Add-AvailabilityAddressSpace?view=exchange-ps)를 참조 하십시오. <br/> <sup>14</sup> 테이블은 클라이언트가 관련 요금제와 함께 작동 하는지 여부를 나타냅니다. 이러한 계획 구매에 클라이언트가 반드시 포함되어야 하는 것을 의미하지는 않습니다.<br/>
+<sup>15</sup> POP는 지원 되지만 IMAP는 사용할 수 없습니다.<br/>
+<sup>16</sup> 일부 타사 웹 파트 및 추가 기능을 사용 하지 못할 수 있습니다. 
   
 ## <a name="exchange-online-protection-features"></a>Exchange Online Protection 기능
 <a name="BM1_Platform"> </a>
@@ -445,7 +490,8 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[DBEB(디렉터리 기반 Edge 차단)](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[전송 규칙](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#transport-rules) <br/> |예 <sup>3, 4, 14</sup> <br/> |예 <sup>3, 4, 14</sup> <br/> |예  <br/> |
 |[감사 로깅](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#audit-logging) <br/> |예<sup>5</sup> <br/> |예  <br/> |예  <br/> |
-|[감사 로그 검색](https://go.microsoft.com/fwlink/?linkid=837764) <sup>16</sup> <br/> |아니요  <br/> |지원  <br/> |예  <br/> |
+|[감사 로그 검색](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252farticle%252fSearch-the-audit-log-in-the-Office-365-Security-Compliance-Center-0d4d0f35-390b-4518-800e-0c7ec95e946c)
+<sup>~</sup> <br/> |아니요  <br/> |지원  <br/> |예  <br/> |
 |[DLP(데이터 손실 방지)](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp) <br/> |아니요  <br/> |지원  <br/> |예<sup>6</sup> <br/> |
 |[Office 365 메시지 암호화](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption) <br/> |예<sup>12</sup> <br/> |예  <br/> |예<sup>12</sup> <br/> |
 |[스팸 방지 보호 기능](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection)(기본 제공)  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -455,7 +501,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[격리](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): 관리자 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[격리](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): 최종 사용자 자기 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[고급 데이터 거 버 넌 스](https://go.microsoft.com/fwlink/?linkid=716857) <sup>17</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|[Office 365 위협 인텔리전스](https://go.microsoft.com/fwlink/?linkid=846673 ) <sup>18</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|[Office 365 위협 인텔리전스](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512) <sup>18</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |[Outlook Web App의 정크 메일 보고 기능](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-web-app) <br/> |예<sup>8</sup> <br/> |<sup>8</sup> <br/> |<sup>8</sup> <br/> |
 |[Office 365와 자체 메일 서버 간의 이메일 라우팅](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[신뢰할 수 있는 파트너와의 보안 메시징](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner) <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -471,7 +517,24 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[원격 Windows PowerShell 액세스](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access) <br/> |예<sup>2</sup> <br/> |예  <br/> |예  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 메일 사용자는 "사서함"으로 정의되며 외부 메일 연락처와 마찬가지로 EAC(Exchange 관리 센터)에서 직접 추가, 제거 및 관리할 수 있습니다. > <sup>2</sup> RBAC 사용자 지정은 해당하지 않습니다. 관리자 역할만 해당합니다. > <sup>3</sup> EAC에서 관리되는 도메인을 볼 수 있으며 도메인 유형을 편집할 수 있습니다. 다른 모든 도메인 관리는 Microsoft 365 관리 센터에서 수행 해야 합니다. > <sup>4</sup> EOP와 Exchange Online의 사용 가능한 유연한 조건 및 동작은 서로 다릅니다. EOP에서 사용 가능한 조건 및 동작 목록은 [전송 규칙 조건](https://go.microsoft.com/fwlink/p/?LinkId=320392) 및 [전송 규칙 동작](https://go.microsoft.com/fwlink/p/?LinkId=320393)을 참조하세요. Exchange Online에서 사용 가능한 조건 및 동작 목록은 [전송 규칙 조건](https://go.microsoft.com/fwlink/p/?LinkId=320394) 및 [전송 규칙 동작](https://go.microsoft.com/fwlink/p/?LinkId=320395)을 참조하세요. > <sup>5</sup> EOP 감사 보고서는 사서함에 대한 정보가 제외된, Exchange Online 감사 보고서의 하위 집합입니다. > <sup>6</sup> Exchange Enterprise CAL with Services 고객은 DLP 정책 팁을 사용할 수 없습니다. > <sup>7</sup> 기본 콘텐츠 필터 동작은 스팸 메시지를 받는 사람의 정크 메일 폴더로 이동하는 것입니다. 온-프레미스 사서함에서 이 동작이 작동하도록 하려면 EOP에서 추가한 스팸 헤더를 검색하도록 온-프레미스 서버에서 Exchange 전송 규칙 두 개를 구성해야 합니다. 자세한 내용은 [스팸이 각 사용자의 정크 메일 폴더로 라우팅되는지 확인](https://go.microsoft.com/fwlink/p/?LinkId=320396)을 참조하세요. > <sup>8</sup> 이 기능은 사서함이 EOP에 의해 필터링되는 Exchange Server 2013 SP1(서비스 팩 1) 고객에게 제공되며 Exchange Online 고객에게도 곧 제공될 예정입니다. > <sup>9</sup> EOP 보고서는 사서함에 대한 정보를 제외한 Exchange Online 보고서의 하위 집합입니다. > <sup>10</sup> DLP 보고서가 포함됩니다. > <sup>11</sup> Exchange Enterprise CAL with Services 고객은 **Exchange Online Protection** 서비스가 아니라 **Exchange Online** 서비스를 선택하여 통합 문서를 설치해야 합니다. > <sup>12</sup> Azure Information protection을 구입 하 고 Exchange online Protection을 사용 하 여 exchange online을 통해 전자 메일을 라우팅하는 온-프레미스 고객에 게 지원 됩니다. > <sup>13</sup> 인바운드 및 아웃바운드 메시지는 검사하지만 조직의 보낸 사람이 조직의 받는 사람에게 보낸 내부 메시지는 검사하지 않습니다. > <sup>14</sup> EOP 및 Exchange Online에서 사용할 수 있는 조건자와 작업은 각기 다릅니다. > <sup>15</sup> 하이브리드 설치는 하이브리드 마법사를 통해 사용할 수 없지만 Exchange s p 1이 있는 경우에는 수동으로 설정할 수 있습니다. > <sup>16</sup> Office 365 독일 E1 이상에서 사용 가능 > <sup>17</sup> Office 365 독일 E3에서 사용 가능 > <sup>18</sup> Office 365 독일의 추가 기능으로 사용할 수 있습니다. 
+><sup>1</sup> 메일 사용자는 "사서함"으로 정의되며 외부 메일 연락처와 마찬가지로 EAC(Exchange 관리 센터)에서 직접 추가, 제거 및 관리할 수 있습니다.<br/>
+<sup>2</sup> RBAC 사용자 지정은 해당하지 않습니다. 관리자 역할만 해당합니다.<br/>
+<sup>3</sup> EAC에서 관리되는 도메인을 볼 수 있으며 도메인 유형을 편집할 수 있습니다. 다른 모든 도메인 관리는 Microsoft 365 관리 센터에서 수행 해야 합니다.<br/>
+<sup>4</sup> EOP와 Exchange Online의 사용 가능한 유연한 조건 및 동작은 서로 다릅니다. EOP에서 사용 가능한 조건 및 동작 목록은 [전송 규칙 조건](https://docs.microsoft.com/office365/SecurityCompliance/eop/mail-flow-in-eop) 및 [전송 규칙 동작](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules)을 참조하세요. Exchange Online에서 사용 가능한 조건 및 동작 목록은 [전송 규칙 조건](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) 및 [전송 규칙 동작](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)을 참조하세요.<br/>
+<sup>5</sup> EOP 감사 보고서는 사서함에 대한 정보가 제외된, Exchange Online 감사 보고서의 하위 집합입니다.<br/>
+<sup>6</sup> Exchange Enterprise CAL with Services 고객은 DLP 정책 팁을 사용할 수 없습니다.<br/>
+<sup>7</sup> 기본 콘텐츠 필터 동작은 스팸 메시지를 받는 사람의 정크 메일 폴더로 이동하는 것입니다. 온-프레미스 사서함에서 이 동작이 작동하도록 하려면 EOP에서 추가한 스팸 헤더를 검색하도록 온-프레미스 서버에서 Exchange 전송 규칙 두 개를 구성해야 합니다. 자세한 내용은 [스팸이 각 사용자의 정크 메일 폴더로 라우팅되는지 확인](https://docs.microsoft.com/office365/SecurityCompliance/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)을 참조하세요.<br/>
+<sup>8</sup> 이 기능은 사서함이 EOP에 의해 필터링되는 Exchange Server 2013 SP1(서비스 팩 1) 고객에게 제공되며 Exchange Online 고객에게도 곧 제공될 예정입니다. <br/>
+<sup>9</sup> EOP 보고서는 사서함에 대한 정보를 제외한 Exchange Online 보고서의 하위 집합입니다. <br/>
+<sup>10</sup> DLP 보고서가 포함됩니다. <br/>
+<sup>11</sup> Exchange Enterprise CAL with Services 고객은 **Exchange Online Protection** 서비스가 아니라 **Exchange Online** 서비스를 선택하여 통합 문서를 설치해야 합니다.<br/>
+<sup>12</sup> Azure Information protection을 구입 하 고 Exchange online Protection을 사용 하 여 exchange online을 통해 전자 메일을 라우팅하는 온-프레미스 고객에 게 지원 됩니다.<br/>
+<sup>13</sup> 인바운드 및 아웃바운드 메시지는 검사하지만 조직의 보낸 사람이 조직의 받는 사람에게 보낸 내부 메시지는 검사하지 않습니다.<br/>
+<sup>14</sup> EOP 및 Exchange Online에서 사용할 수 있는 조건자와 작업은 각기 다릅니다.<br/>
+<sup>15</sup> 하이브리드 설치는 하이브리드 마법사를 통해 사용할 수 없지만 Exchange s p 1이 있는 경우에는 수동으로 설정할 수 있습니다.<br/>
+<sup>16</sup> Office 365 독일 E1 이상에서 사용 가능<br/>
+<sup>17</sup> Office 365 독일 E3에서 사용 가능<br/>
+<sup>18</sup> Office 365 독일의 추가 기능으로 사용할 수 있습니다. 
   
 ## <a name="exchange-online-advanced-threat-protection-features"></a>Exchange Online Advanced Threat Protection(기능)
 <a name="BM1_Platform"> </a>
@@ -495,7 +558,6 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 
 |****개발자 기능****|****비즈니스용 OneDrive 계획 1****|****비즈니스용 OneDrive 계획 2****|****SharePoint Online 계획 1****|****SharePoint Online 계획 2****|
 |:-----|:-----|:-----|:-----|:-----|
-|[Access Services](../sharepoint-online-service-description/developer.md#access-services) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[앱 카탈로그(SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[앱 배포: 클라우드 호스트 앱](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[앱 배포: SharePoint 호스트 앱](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -522,7 +584,6 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |List and Library APIs <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[원격 이벤트 수신기](../sharepoint-online-service-description/developer.md#remote-event-receiver) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |[REST Api](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[샌드박스 솔루션](../sharepoint-online-service-description/developer.md#sandboxed-solutions) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[SharePoint 디자인 관리자](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |SharePoint 스토어 2<sup>2</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -574,7 +635,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[자산 라이브러리 향상/비디오 지원](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[감사](../sharepoint-online-service-description/content.md#auditing) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Auditing &amp; Reporting (e.g., doc edits, policy edits, deletes)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[콘텐츠 구성 도우미](../sharepoint-online-service-description/content.md#content-organizer) <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
+|[콘텐츠 구성 도우미](../sharepoint-online-service-description/content.md#content-organizer) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |[디자인 관리자](../sharepoint-online-service-description/content.md#design-manager) <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
 |[문서 집합](../sharepoint-online-service-description/content.md#document-sets) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Word Online의 문서 번역](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -611,8 +672,8 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[게시 분석](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
 |[카탈로그](../sharepoint-online-service-description/content.md#catalog) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |[범주 페이지 및 카탈로그 항목 페이지](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
-|[검색 웹 파트](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|[교차 사이트 게시](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|[검색 웹 파트](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
+|[교차 사이트 게시](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |WCM: Designer Tools <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
 |[패싯 탐색](../sharepoint-online-service-description/content.md#faceted-navigation) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[이미지 변환](../sharepoint-online-service-description/content.md#image-renditions) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
@@ -639,7 +700,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |Scorecards & Dashboards <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[SSRS(SQL Server Reporting Services) 통합 모드](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[타임라인 슬라이서](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|[Visio Online](https://technet.microsoft.com/en-us/library/mt827475.aspx) <sup>4</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[Visio Online](https://docs.microsoft.com/office365/servicedescriptions/visio-online-service-description/visio-online-service-description) <sup>4</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Visio Services](../sharepoint-online-service-description/insights.md#visio-services) <sup>4</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |**검색 기능** <br/> |**비즈니스용 OneDrive 계획 1** <br/> |**비즈니스용 OneDrive 계획 2** <br/> |**SharePoint Online 계획 1** <br/> |**SharePoint Online 계획 2** <br/> |
 |Advanced Content Processing <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
@@ -729,7 +790,10 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[Azure 프로비전 응용 프로그램: Azure LWR(Lightweight Web Role)의 사용자 지정 코드](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Azure Information Protection은 포함 되어 있지 않지만 지원 되는 IRM 기능을 사용 하기 위해 별도의 추가 기능으로 구입할 수 있습니다. > <sup>2</sup>Office 및 SharePoint 앱 스토어는 Microsoft Corporation 또는 전 세계 Microsoft 설비에 있는 그 계열사가 운영하는 서비스 옵션입니다. 스토어에서 사용할 수 있는 앱은 다양한 앱 게시자가 제공하며 앱 게시자의 사용 약관 및 개인 정보 취급 방침을 따릅니다. 이러한 앱을 사용하면 사용자 데이터가 앱 게시자, 해당 자회사 또는 서비스 공급자가 설비를 유지하는 모든 국가에서 전송, 저장 또는 처리될 수 있습니다. 특정 앱의 가용성 및 결제 방법은 사용자의 지역 및 서비스에 따라 달라집니다. 이러한 앱을 다운로드하고 사용하기 전에 앱 게시자의 사용 약관 및 개인 정보 취급 방침을 신중히 검토하세요. > <sup>3</sup> 아직 Windows Phone에서 사용할 수 없습니다. > <sup>4</sup> Visio Online의 보기 기능을 무료로 사용할 수 있습니다. Visio Online의 작성 및 편집 기능은 라이선스가 필요합니다. Visio Online에 대한 자세한 내용은 [Visio 온라인 서비스 설명](../visio-online-service-description/visio-online-service-description.md)을 참조하세요. 
+> <sup>1</sup> Azure Information Protection은 포함 되어 있지 않지만 지원 되는 IRM 기능을 사용 하기 위해 별도의 추가 기능으로 구입할 수 있습니다.<br/>
+<sup>2</sup>Office 및 SharePoint 앱 스토어는 Microsoft Corporation 또는 전 세계 Microsoft 설비에 있는 그 계열사가 운영하는 서비스 옵션입니다. 스토어에서 사용할 수 있는 앱은 다양한 앱 게시자가 제공하며 앱 게시자의 사용 약관 및 개인 정보 취급 방침을 따릅니다. 이러한 앱을 사용하면 사용자 데이터가 앱 게시자, 해당 자회사 또는 서비스 공급자가 설비를 유지하는 모든 국가에서 전송, 저장 또는 처리될 수 있습니다. 특정 앱의 가용성 및 결제 방법은 사용자의 지역 및 서비스에 따라 달라집니다. 이러한 앱을 다운로드하고 사용하기 전에 앱 게시자의 사용 약관 및 개인 정보 취급 방침을 신중히 검토하세요.<br/>
+<sup>3</sup> 아직 Windows Phone에서 사용할 수 없습니다.<br/> 
+<sup>4</sup> Visio Online의 보기 기능을 무료로 사용할 수 있습니다. Visio Online의 작성 및 편집 기능은 라이선스가 필요합니다. Visio Online에 대한 자세한 내용은 [Visio 온라인 서비스 설명](../visio-online-service-description/visio-online-service-description.md)을 참조하세요. 
   
 ## <a name="project-online-features"></a>Project Online 기능
 <a name="BM1_Platform"> </a>
@@ -753,9 +817,6 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**개발자 기능** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E1** <br/> |**Office 365 Germany Enterprise E3** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
-|[Access Services](../sharepoint-online-service-description/developer.md#access-services) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Access Services](../sharepoint-online-service-description/developer.md#access-services) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Access Services](../sharepoint-online-service-description/developer.md#access-services) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[앱 카탈로그(SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[앱 배포: 클라우드 호스트 앱](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[앱 배포: SharePoint 호스트 앱](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -777,12 +838,11 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[개발자 사이트](../sharepoint-online-service-description/developer.md#developer-site) <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[폼 기반 응용 프로그램](../sharepoint-online-service-description/developer.md#forms-based-applications) <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[완전 신뢰 솔루션](../sharepoint-online-service-description/developer.md#full-trust-solutions) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|[InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>18</sup> <br/> |아니요  <br/> |예<sup>18</sup> <br/> |예<sup>18</sup> <br/> |아니요  <br/> |
+|[InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>17</sup> <br/> |아니요  <br/> |예<sup>17</sup> <br/> |예<sup>17</sup> <br/> |아니요  <br/> |
 |[JavaScript 개체 모델](../sharepoint-online-service-description/developer.md#javascript-object-model) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |List and Library APIs <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[원격 이벤트 수신기](../sharepoint-online-service-description/developer.md#remote-event-receiver) <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[REST Api](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[샌드박스 솔루션](../sharepoint-online-service-description/developer.md#sandboxed-solutions) <br/> |예<sup>17</sup> <br/> |예<sup>17</sup> <br/> |예<sup>17</sup> <br/> |예<sup>17</sup> <br/> |예<sup>17</sup> <br/> |예<sup>17</sup> <br/> |예<sup>17</sup> <br/> |예<sup>17</sup> <br/> |
 |[SharePoint 디자인 관리자](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |SharePoint 스토어2 <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -868,42 +928,42 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[SharePoint Translation Services](../sharepoint-online-service-description/content.md#sharepoint-translation-services) <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |설문 조사 <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[고유 문서 ID](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[동영상 검색](../sharepoint-online-service-description/content.md#video-search) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|[게시 분석](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[카탈로그](../sharepoint-online-service-description/content.md#catalog) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|[범주 페이지 및 카탈로그 항목 페이지](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|[검색 웹 파트](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|[교차 사이트 게시](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|WCM: Designer Tools <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[동영상 검색](../sharepoint-online-service-description/content.md#video-search) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[게시 분석](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[카탈로그](../sharepoint-online-service-description/content.md#catalog) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[범주 페이지 및 카탈로그 항목 페이지](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[검색 웹 파트](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[교차 사이트 게시](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|WCM: Designer Tools <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[패싯 탐색](../sharepoint-online-service-description/content.md#faceted-navigation) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |아니요  <br/> |
-|[이미지 변환](../sharepoint-online-service-description/content.md#image-renditions) <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|WCM: Managed navigation <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|WCM: Mobile and Device Rendering <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[이미지 변환](../sharepoint-online-service-description/content.md#image-renditions) <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|WCM: Managed navigation <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|WCM: Mobile and Device Rendering <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |WCM: Multiple Domains <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|WCM: Recommendations <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[WCM: SEO(검색 엔진 최적화)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|WCM: Recommendations <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[WCM: SEO(검색 엔진 최적화)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |**인사이트 기능** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E1** <br/> |**Office 365 Germany Enterprise E3** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
-|[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|[계산된 측정값 및 멤버](../sharepoint-online-service-description/insights.md#calculated-measures-and-members) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|[데이터 연결 라이브러리](../sharepoint-online-service-description/insights.md#data-connection-library) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|[분리된 피벗 테이블 및 피벗 차트](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[계산된 측정값 및 멤버](../sharepoint-online-service-description/insights.md#calculated-measures-and-members) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[데이터 연결 라이브러리](../sharepoint-online-service-description/insights.md#data-connection-library) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[분리된 피벗 테이블 및 피벗 차트](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Excel Services  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|[Field list and Field Support](../sharepoint-online-service-description/insights.md#field-list-and-field-support) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|[향상된 필터](../sharepoint-online-service-description/insights.md#filter-enhancements) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|[필터 검색](../sharepoint-online-service-description/insights.md#filter-search) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|[Field list and Field Support](../sharepoint-online-service-description/insights.md#field-list-and-field-support) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[향상된 필터](../sharepoint-online-service-description/insights.md#filter-enhancements) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[필터 검색](../sharepoint-online-service-description/insights.md#filter-search) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |[PerformancePoint Services](../sharepoint-online-service-description/insights.md#performancepoint-services) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |PerformancePoint Services (PPS) Dashboard Migration <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Power BI  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|[SharePoint의 Excel용 Power View](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|[SharePoint의 Excel용 Power Pivot](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|[빠른 탐색](../sharepoint-online-service-description/insights.md#quick-explore) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|[SharePoint의 Excel용 Power View](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[SharePoint의 Excel용 Power Pivot](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[빠른 탐색](../sharepoint-online-service-description/insights.md#quick-explore) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Scorecards & Dashboards <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[SSRS(SQL Server Reporting Services) 통합 모드](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[타임라인 슬라이서](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |[데이터 모델을 포함하는 Excel 통합 문서 사용 및 상호 작용](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Visio Online](https://technet.microsoft.com/en-us/library/mt827475.aspx) <sup>19</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Visio Services](../sharepoint-online-service-description/insights.md#visio-services) <sup>19</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|[Visio Online](https://technet.microsoft.com/library/mt827475.aspx) <sup>18</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[Visio Services](../sharepoint-online-service-description/insights.md#visio-services) <sup>18</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |**검색 기능** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E1** <br/> |**Office 365 Germany Enterprise E3** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
 |Advanced Content Processing <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[연속 크롤링](../sharepoint-online-service-description/search.md#continuous-crawls) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -939,8 +999,8 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[크로스 브라우저 지원](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[관리 경로 사용자 지정](../sharepoint-online-service-description/sites-servicedesc.md#custom-managed-paths) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[거버넌스](../sharepoint-online-service-description/sites-servicedesc.md#governance) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|하이브리드 앱 시작 관리자  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>20</sup> <br/> |
-|하이브리드 비즈니스용 OneDrive 및 사이트  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>20</sup> <br/> |
+|하이브리드 앱 시작 관리자  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>19</sup> <br/> |
+|하이브리드 비즈니스용 OneDrive 및 사이트  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>19</sup> <br/> |
 |[큰 목록 확장성 및 관리](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[모바일 연결](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |아니요  <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |
 |[다국어 사용자 인터페이스](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface) <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |
@@ -994,7 +1054,22 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |Duet Online <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 폴더 동기화를 사용하려면 Office 2013 이상(Standard 또는 Professional Edition)을 보유하고 있거나 Office 응용 프로그램이 포함된 Office 365를 구독해야 합니다. Office 365 Germany Business Essentials, Office 365 Germany Enterprise E1Office 365 Germany Enterprise E1 및 Office 365 Germany Education A1 에는 Office 데스크톱 응용 프로그램에 대한 구독이 포함되지 않습니다. 그러나 Office 2013 이상이 설치되어 있고 계획 중 하나를 구독한 경우 폴더 동기화를 사용할 수 있습니다. > <sup>2</sup> Kiosk 계정에서는 비즈니스용 OneDrive 기능이 제한됩니다. 키오스크 고객은 비즈니스용 OneDrive 폴더 동기화 클라이언트 응용 프로그램을 사용하여 팀 사이트 문서 라이브러리를 공유 컴퓨터와 동기화하고, 문서에 오프라인으로 액세스할 수 있습니다. 그러나 Kiosk 계정에는 비즈니스용 OneDrive 개인 사이트가 포함되지 않으므로 온라인 저장소 1TB가 포함된 비즈니스용 OneDrive 개인 라이브러리를 활용할 수 없습니다. > <sup>3</sup> Azure Information Protection은 포함 되어 있지 않지만 지원 되는 IRM 기능을 사용 하기 위해 별도의 추가 기능으로 구입할 수 있습니다. RMS로 보호 된 콘텐츠를 만들려면 Office Professional Plus 2013, Office Professional Plus 2016, Office 365 Pro Plus 또는 Outlook Web Access를 사용 해야 합니다. > <sup>4</sup> Kiosk 사용자는 관리자일 수 없으므로, 관리 센터에 액세스하려면 Kiosk 사용자가 있는 테넌트에 엔터프라이즈 사용자가 한 명 이상 필요합니다. > <sup>5</sup> SharePoint Online 고객은 무료 순위 모델 조정 앱을 다운로드 하 고 설치 해야 순위 모델을 만들고 사용자 지정할 수 있습니다. > <sup>6</sup> eDiscovery 기능을 사용할 때 이 기능을 허용하는 계획에 대한 라이선스 요구 사항이 eDiscovery 작업(검색, 보류, 내보내기)에 속하는 모든 최종 사용자에게 적용됩니다. > <sup>7</sup> 인증된 SharePoint Online 사용자는 패싯 탐색으로 개인 사이트 모음에 액세스할 수 있습니다. > <sup>8</sup> 일부 공급자는 사용자의 로캘에서 사용하지 못할 수 있습니다. > <sup>9</sup> 조직 외부의 사용자와 전자 메일로 문서, 라이브러리 또는 사이트 공유. 관리자는 해당 기능을 설정할 수 있지만 파일이 사용자 국가 외부에서 공유될 수 있음을 나타내는 경고 메시지가 표시됩니다. 사용자가 조직 외부의 사용자와 공유하려고 하면 같은 경고 메시지를 받게 됩니다. > <sup>10</sup> 키오스크 계정에서는 비즈니스용 OneDrive 기능이 제한됩니다. 키오스크 고객은 비즈니스용 OneDrive 폴더 동기화 클라이언트 응용 프로그램을 사용하여 팀 사이트 문서 라이브러리를 공유 컴퓨터와 동기화하고, 문서에 오프라인으로 액세스할 수 있습니다. 그러나 키오스크 계정에는 비즈니스용 OneDrive 개인 사이트가 포함되지 않으므로 온라인 저장소 1TB 또는 5TB가 포함된 비즈니스용 OneDrive 개인 라이브러리를 이용할 수 없습니다. > <sup>11</sup> 모바일 브라우저에서 문서를 볼 수 있습니다. 문서를 편집하려면 Office Mobile 앱을 설치해야 합니다. Office Mobile은 현재 Windows 휴대폰 및 태블릿, Android 휴대폰 및 태블릿, iPhone 및 iPad에서 이용할 수 있습니다. > <sup>12</sup> 도움말은 중국어 간체 및 영어로만 사용할 수 있습니다. > <sup>13</sup> 블로그에 대한 설명은 추가할 수 없습니다. > <sup>14</sup> 조직 커뮤니티 웹 사이트를 사용할 수 있지만 공용 커뮤니티 제공 도움말은 사용할 수 없습니다. > <sup>15</sup> Access 2010은 지원되지 않습니다. > <sup>16</sup> 키오스크 사용자는 라이브 타일을 사용하여 Office 문서를 만들 수 없습니다. 문서를 만들려면, 키오스크 사용자가 **새로 만들기**를 클릭한 다음 **새 파일 만들기** 메뉴에서 Word 문서, Excel 통합 문서, PowerPoint 프레젠테이션, OneNote 전자 필기장 또는 Excel 설문 조사 등의 파일 형식을 선택하여 SharePoint Online 사이트에서 작업을 수행해야 합니다. > <sup>17</sup> 샌드박스 솔루션은 사용자 코드를 포함할 수 없습니다. 대신, 활성화 시 서버에서 처리되는 정의(.xml) 파일 및 리소스만 포함될 수 있습니다. > <sup>18</sup> 사용자 코드(샌드박스)가 포함된 InfoPath 양식은 InfoPath 리치 클라이언트에서만 사용될 수 있습니다. > <sup>19</sup> Visio Online 소비율 (보기 기능)을 무료로 사용할 수 있습니다. Visio Online의 작성 및 편집 기능은 라이선스가 필요합니다. Visio Online에 대한 자세한 내용은 [Visio 온라인 서비스 설명](../visio-online-service-description/visio-online-service-description.md)을 참조하세요. > <sup>20</sup> K1 사용자가 하이브리드 설정에서 SharePoint Server에 액세스할 수 있지만 Office 365 K1에는 서버 액세스를 위한 CAL 권한이 포함 되지 않습니다. 이러한 권한은 별도로 구입 해야 합니다. 
+> <sup>1</sup> 폴더 동기화를 사용하려면 Office 2013 이상(Standard 또는 Professional Edition)을 보유하고 있거나 Office 응용 프로그램이 포함된 Office 365를 구독해야 합니다. Office 365 Germany Business Essentials, Office 365 Germany Enterprise E1Office 365 Germany Enterprise E1 및 Office 365 Germany Education A1 에는 Office 데스크톱 응용 프로그램에 대한 구독이 포함되지 않습니다. 그러나 Office 2013 이상이 설치되어 있고 계획 중 하나를 구독한 경우 폴더 동기화를 사용할 수 있습니다.<br/>
+<sup>2</sup> Kiosk 계정에서는 비즈니스용 OneDrive 기능이 제한됩니다. Kiosk 고객은 비즈니스용 OneDrive 폴더 동기화 클라이언트 응용 프로그램을 사용하여 팀 사이트 문서 라이브러리를 공유 컴퓨터와 동기화하고, 문서에 오프라인으로 액세스할 수 있습니다. 그러나 Kiosk 계정에는 비즈니스용 OneDrive 개인 사이트가 포함되지 않으므로 온라인 저장소 1TB가 포함된 비즈니스용 OneDrive 개인 라이브러리를 활용할 수 없습니다.<br/>
+<sup>3</sup> Azure Information Protection은 포함 되어 있지 않지만 지원 되는 IRM 기능을 사용 하기 위해 별도의 추가 기능으로 구입할 수 있습니다. RMS로 보호 된 콘텐츠를 만들려면 Office Professional Plus 2013, Office Professional Plus 2016, Office 365 Pro Plus 또는 Outlook Web Access를 사용 해야 합니다.<br/> 
+<sup>4</sup> Kiosk 사용자는 관리자일 수 없으므로, 관리 센터에 액세스하려면 Kiosk 사용자가 있는 테넌트에 엔터프라이즈 사용자가 한 명 이상 필요합니다. <br/> 
+<sup>5</sup> SharePoint Online 고객은 무료 순위 모델 조정 앱을 다운로드 하 고 설치 해야 순위 모델을 만들고 사용자 지정할 수 있습니다.<br/> 
+<sup>6</sup> eDiscovery 기능을 사용할 때 이 기능을 허용하는 계획에 대한 라이선스 요구 사항이 eDiscovery 작업(검색, 보류, 내보내기)에 속하는 모든 최종 사용자에게 적용됩니다.<br/> <sup>7</sup> 인증된 SharePoint Online 사용자는 패싯 탐색으로 개인 사이트 모음에 액세스할 수 있습니다.<br/> 
+<sup>8</sup> 일부 공급자는 사용자의 로캘에서 사용하지 못할 수 있습니다.<br/> 
+<sup>9</sup> 조직 외부의 사용자와 전자 메일로 문서, 라이브러리 또는 사이트 공유. 관리자는 해당 기능을 설정할 수 있지만 파일이 사용자 국가 외부에서 공유될 수 있음을 나타내는 경고 메시지가 표시됩니다. 사용자가 조직 외부의 사용자와 공유하려고 하면 같은 경고 메시지를 받게 됩니다.<br/> 
+<sup>10</sup> 키오스크 계정에서는 비즈니스용 OneDrive 기능이 제한됩니다. 키오스크 고객은 비즈니스용 OneDrive 폴더 동기화 클라이언트 응용 프로그램을 사용하여 팀 사이트 문서 라이브러리를 공유 컴퓨터와 동기화하고, 문서에 오프라인으로 액세스할 수 있습니다. 그러나 키오스크 계정에는 비즈니스용 OneDrive 개인 사이트가 포함되지 않으므로 온라인 저장소 1TB 또는 5TB가 포함된 비즈니스용 OneDrive 개인 라이브러리를 이용할 수 없습니다.<br/> <sup>11</sup> 모바일 브라우저에서 문서를 볼 수 있습니다. 문서를 편집하려면 Office Mobile 앱을 설치해야 합니다. Office Mobile은 현재 Windows 휴대폰 및 태블릿, Android 휴대폰 및 태블릿, iPhone 및 iPad에서 이용할 수 있습니다.<br/>
+<sup>12</sup> 도움말은 중국어 간체 및 영어로만 사용할 수 있습니다.<br/> 
+<sup>13</sup> 블로그에 대한 설명은 추가할 수 없습니다.<br/> 
+<sup>14</sup> 조직 커뮤니티 웹 사이트를 사용할 수 있지만 공용 커뮤니티 제공 도움말은 사용할 수 없습니다.<br/>
+<sup>15</sup> Access 2010은 지원되지 않습니다.<br/> <sup>16</sup> 키오스크 사용자는 라이브 타일을 사용하여 Office 문서를 만들 수 없습니다. 문서를 만들려면, 키오스크 사용자가 **새로 만들기**를 클릭한 다음 **새 파일 만들기** 메뉴에서 Word 문서, Excel 통합 문서, PowerPoint 프레젠테이션, OneNote 전자 필기장 또는 Excel 설문 조사 등의 파일 형식을 선택하여 SharePoint Online 사이트에서 작업을 수행해야 합니다. <br/>
+<sup>17</sup> 사용자 코드(샌드박스)가 포함된 InfoPath 양식은 InfoPath 리치 클라이언트에서만 사용될 수 있습니다.<br/>
+<sup>18</sup> Visio Online 소비율 (보기 기능)을 무료로 사용할 수 있습니다. Visio Online의 작성 및 편집 기능은 라이선스가 필요합니다. Visio Online에 대한 자세한 내용은 [Visio 온라인 서비스 설명](../visio-online-service-description/visio-online-service-description.md)을 참조하세요.<br/>
+<sup>19</sup> K1 사용자는 하이브리드 설정에서 SharePoint Server에 액세스할 수 있지만 Office 365 K1에는 서버 액세스를 위한 CAL 권한이 포함 되지 않습니다. 이러한 권한은 별도로 구입 해야 합니다. 
   
 ## <a name="skype-for-business-online-features"></a>비즈니스용 Skype Online 기능
 <a name="BM3_Skype"> </a>
@@ -1002,7 +1077,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 다음 표에서는 Office 365 Germany 계획에서 사용할 수 있는 비즈니스용 Skype 온라인 기능을 보여 줍니다.
   
 > [!NOTE]
-> 이러한 표에는 Office 365 Germany 옵션별로 사용 가능한 클라이언트와 서비스가 표시되어 있습니다. 여러 비즈니스용 Skype 데스크톱 클라이언트, 웹 클라이언트 및 모바일 클라이언트 간의 개별 기능을 비교하려면 [비즈니스용 Skype Online 클라이언트 비교 표](https://go.microsoft.com/fwlink/?LinkId=278876)와 [모바일 클라이언트 비교 표](https://go.microsoft.com/fwlink/?LinkID=278874)를 참조하세요. 
+> 이러한 표에는 Office 365 Germany 옵션별로 사용 가능한 클라이언트와 서비스가 표시되어 있습니다. 다양 한 비즈니스용 Skype 데스크톱 클라이언트, 웹 클라이언트 및 모바일 클라이언트 간에 개별 기능을 비교 하려면 [데스크톱 클라이언트 비교 테이블](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) 및 [모바일 클라이언트 비교 테이블](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables)을 참조 하세요. 
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -1103,7 +1178,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |Voicemail  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[Office 365의 통화 플랜](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365)(국내 통화 계획, 추가 기능을 구매해야 함)  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |<sup>4</sup> 없음 <br/> |<sup>4</sup> 없음 <br/> |아니요  <br/> |
 |[Office 365의 통화 플랜](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365)(국제 통화 계획, 추가 기능을 구매해야 함)  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |<sup>4</sup> 없음 <br/> |<sup>4</sup> 없음 <br/> |아니요  <br/> |
-|[통신 크레딧](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|[통신 크레딧](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |비즈니스용 Skype 음성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |**[보안 및 보관](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E3** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
 |메신저 및 미디어 암호화  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
@@ -1132,7 +1207,11 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |Microsoft 365 관리 센터의 비즈니스용 Skype Online 보고  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic은 모든 고객이 사용할 수 있습니다. Lync Basic 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). > <sup>2</sup>비즈니스용 Skype 온라인에 대한 보관은 이 계획에 포함되지 않은 Exchange 원본 위치 유지 기능에 따라 다릅니다. > <sup>3</sup> Only accessible through the Skype for Business Online admin center management interface. > <sup>4</sup> You must assign an Exchange Online (Plan 2) plan to users who you want to have voice mail. An Exchange Online (Plan 1) plan can't be used for voice mail. > <sup>5</sup> Skype consumer calls are not supported in Office 365 Germany because there is no Skype consumer federation upon which to make calls. However, Federated calling is supported. > <sup>6</sup> Not available in Office 365 Germany, but coming soon. 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic은 모든 고객이 사용할 수 있습니다. Lync Basic 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. Lync 기본 기능에 대 한 자세한 내용은 [데스크톱 클라이언트 비교 표](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)를 참조 하십시오.<br/>
+<sup>2</sup>비즈니스용 Skype 온라인에 대한 보관은 이 계획에 포함되지 않은 Exchange 원본 위치 유지 기능에 따라 다릅니다.<br/> <sup>3</sup> Only accessible through the Skype for Business Online admin center management interface. <br/>
+<sup>4</sup> 음성 메일 기능을 제공하려는 사용자에게 Exchange Online(계획 2) 계획을 할당해야 합니다. Exchange Online(계획 1) 계획은 음성 메일에 사용할 수 없습니다. <br/>
+<sup>5</sup> Skype consumer calls are not supported in Office 365 Germany because there is no Skype consumer federation upon which to make calls. However, Federated calling is supported.<br/>
+<sup>6</sup> Not available in Office 365 Germany, but coming soon. 
   
 ## <a name="visio-online-features"></a>Visio Online 기능
 <a name="BM3_Skype"> </a>

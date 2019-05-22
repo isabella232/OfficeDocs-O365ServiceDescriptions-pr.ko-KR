@@ -3,30 +3,6 @@
 
 
 
-## <a name="week-of-april-08-2019"></a>2019년 4월 8일 주중
-
-
-| 게시된 날짜 |항목 제목 | 변경 사항 |
-|------|------------|--------|
-| 2019년 4월 10일 | [Microsoft 365 Business 서비스 설명](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 수정한 날짜 |
-| 2019년 4월 10일 | [Office 365 계획 옵션](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-plan-options) | 수정한 날짜 |
-| 2019년 4월 10일 | [Office 365 플랫폼 서비스 설명](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 수정한 날짜 |
-| 2019년 4월 10일 | [Office 365 제품군 기능](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-suite-features) | 수정한 날짜 |
-| 2019년 4월 10일 | [사용자 계정 관리](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | 수정한 날짜 |
-| 4/11/2019 | [Office 365 US Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | 수정한 날짜 |
-| 4/11/2019 | [메시징 정책 및 규정 준수](/Office365/ServiceDescriptions/exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc) | 수정한 날짜 |
-| 4/11/2019 | [클라이언트 및 모바일 장치](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | 수정한 날짜 |
-| 4/11/2019 | [규정 준수](/Office365/ServiceDescriptions/office-365-platform-service-description/compliance-servicedesc) | 수정한 날짜 |
-| 4/11/2019 | [Microsoft 365 Education](/Office365/ServiceDescriptions/office-365-platform-service-description/microsoft-365-education) | 수정한 날짜 |
-| 4/11/2019 | [개인 정보, 보안 및 투명성](/Office365/ServiceDescriptions/office-365-platform-service-description/privacy-security-and-transparency) | 수정한 날짜 |
-| 4/11/2019 | [서비스 업데이트](/Office365/ServiceDescriptions/office-365-platform-service-description/service-updates) | 수정한 날짜 |
-| 4/11/2019 | [IT 전문가](/Office365/ServiceDescriptions/sharepoint-online-service-description/it-professional) | 수정한 날짜 |
-| 4/11/2019 | [사이트](/Office365/ServiceDescriptions/sharepoint-online-service-description/sites-servicedesc) | 수정한 날짜 |
-| 4/11/2019 | [Exchange Online Archiving의 보관 기능](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | 수정한 날짜 |
-| 4/11/2019 | [Office 365 보안 및 준수 센터](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 수정한 날짜 |
-| 4/11/2019 | [비즈니스용 Skype Online 서비스 설명](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | 수정한 날짜 |
-
-
 ## <a name="week-of-april-15-2019"></a>2019년 4월 15일 주중
 
 
@@ -84,3 +60,15 @@
 | 5/7/2019 | [Exchange Online 서비스 설명](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | 수정한 날짜 |
 | 5/7/2019 | [지원](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | 수정한 날짜 |
 | 5/7/2019 | [Office Online 서비스 설명](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 수정한 날짜 |
+
+
+## <a name="week-of-may-13-2019"></a>5 월 13 일 주 2019
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 5/13/2019 | [Project Online 서비스 설명](/Office365/ServiceDescriptions/project-online-service-description/project-online-service-description) | 수정한 날짜 |
+| 5/13/2019 | [Microsoft 365 Business 서비스 설명](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 수정한 날짜 |
+| 5/13/2019 | [Office 응용 프로그램 서비스 설명](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 수정한 날짜 |
+| 5/15/2019 | [비즈니스용 OneDrive 서비스 설명](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | 수정한 날짜 |
+| 5/17/2019 | [Office 응용 프로그램 서비스 설명](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 수정한 날짜 |

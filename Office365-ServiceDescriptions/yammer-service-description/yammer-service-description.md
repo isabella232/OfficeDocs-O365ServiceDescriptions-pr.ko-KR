@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - yammer-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer는 최고의, 보안 및 사설 엔터프라이즈 소셜 네트워크입니다. Yammer를 통해 직원들은 손쉽게 공동 작업을 수행하고 더욱 신속하게 의사 결정하고 비즈니스 과제를 담당하는 팀으로 자가 조직화할 수 있기 때문에 더욱 강력한 생산성을 갖추고 성과를 올릴 수 있습니다. Yammer는 비즈니스 제휴 및 민첩성을 자연스럽게 유도하면서 주기 시간을 줄이고 직원 간의 공동 작업을 진행하고 고객과 파트너와의 관계를 향상시킬 수 있는 새로운 작업 방식입니다.
-ms.openlocfilehash: 4d94fafd21a1022b19ae71503b777263250d74ff
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 77af72cece5df58ac7cd21a6c7451a43b929e4f8
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246774"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342097"
 ---
 # <a name="yammer-service-description"></a>Yammer 서비스 설명
 
@@ -50,7 +50,7 @@ Yammer는 다음 계획을 통해 사용할 수 있습니다.
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer Enterprise 서비스 통신 정책
 <a name="YammerCommsPolicy"> </a>
 
-Yammer는 office 365의 일부분이 며 [office 365 변경 관리 정책을](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/)준수 하지만, 대상 지정 된 릴리스를 사용 하 여 업데이트를 롤업 하지는 않습니다. 
+Yammer는 Office 365의 일부분이 며 [office 365 변경 관리 정책을](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/)준수 하지만, 대상 지정 된 릴리스를 사용 하 여 업데이트를 롤업 하지는 않습니다. 
   
 모든 Yammer 사용자는 A/B 기능 테스트의 대상입니다. 이렇게 하면 Microsoft가 많은 환경 및 장치에서 안정성, 성능 및 환경 개선에 대한 기능을 테스트할 수 있습니다. 같은 네트워크 내의 사용자라도 테스트로 인해 환경이 달라질 수 있습니다. 고객은 A/B 테스트를 거부할 수 없습니다.
   

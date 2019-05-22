@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-user-account-management
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365에서는 사용자 만들기, 관리 및 인증을 위해 다음과 같은 방법을 지원 합니다.
-ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: fd20cfa0302eb8800225fca5cc147b18c440dea3
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247204"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343117"
 ---
 # <a name="user-account-management"></a>사용자 계정 관리
 
@@ -55,7 +55,7 @@ ID 유형은 사용자 환경 및 사용자 계정 관리 옵션을 비롯해 �
   
 Office 365에서는 각각 다른 네임스페이스로 표시되는 등록된 인터넷 도메인을 900개까지 호스트할 수 있습니다. 
   
-single sign-on을 사용 하는 조직의 경우 도메인의 모든 사용자가 동일한 id 시스템 (클라우드 id 또는 페더레이션 id)을 사용 해야 합니다. 예를 들어 온-프레미스 시스템에 액세스 하지 않고 Office 365 및 온-프레미스 시스템을 사용 하는 다른 사용자 그룹에만 클라우드 id만 필요한 경우에는 한 명의 사용자 그룹을 사용할 수 있습니다. contractors.contoso.com 및 staff.contoso.com와 같은 두 개의 도메인을 Office 365에 추가 하 고이 중 하나에 대해서만 SSO를 설정 하는 것이 좋습니다. 전체 도메인을 클라우드 id에서 페더레이션 id로 또는 페더레이션 id에서 클라우드 id로 변환할 수 있습니다.
+Single sign-on을 사용 하는 조직의 경우 도메인의 모든 사용자가 동일한 id 시스템 (클라우드 id 또는 페더레이션 id)을 사용 해야 합니다. 예를 들어 온-프레미스 시스템에 액세스 하지 않고 Office 365 및 온-프레미스 시스템을 사용 하는 다른 사용자 그룹에만 클라우드 id만 필요한 경우에는 한 명의 사용자 그룹을 사용할 수 있습니다. Contractors.contoso.com 및 staff.contoso.com와 같은 두 개의 도메인을 Office 365에 추가 하 고이 중 하나에 대해서만 SSO를 설정 하는 것이 좋습니다. 전체 도메인을 클라우드 id에서 페더레이션 id로 또는 페더레이션 id에서 클라우드 id로 변환할 수 있습니다.
   
 Office 365의 도메인에 대한 자세한 내용은 [도메인](domains.md) 서비스 설명을 참조하십시오. 
   
@@ -115,7 +115,7 @@ Office 365 서비스의 올바른 인증과 검색을 보장하려면 관리자�
   
 ## <a name="creating-user-accounts"></a>사용자 계정 만들기
 
-여러 가지 방법으로 Office 365에 사용자를 추가할 수 있습니다. 자세한 내용은 [사용자를 개별적으로 또는 대량으로 Office 365-admin 도움말을 추가](https://go.microsoft.com/fwlink/p/?linkid=860006) 하 고 [Microsoft 365 관리 센터 미리 보기에서 사용자 추가, 제거 및 관리](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409)를 참조 하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 사용자 계정 만들기 또는 편집 - 관리자 도움말](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409)을 참조하세요.
+여러 가지 방법으로 Office 365에 사용자를 추가할 수 있습니다. 자세한 내용은 [사용자를 개별적으로 또는 대량으로 Office 365-Admin 도움말을 추가](https://go.microsoft.com/fwlink/p/?linkid=860006) 하 고 [Microsoft 365 관리 센터 미리 보기에서 사용자 추가, 제거 및 관리](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409)를 참조 하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 사용자 계정 만들기 또는 편집 - 관리자 도움말](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409)을 참조하세요.
   
 ## <a name="deleting-accounts"></a>계정 삭제
 
@@ -171,7 +171,7 @@ SharePoint Online에서는 사이트 액세스 제어를 위해 보안 그룹을
   
 ## <a name="administrator-roles"></a>관리자 역할
 
-Office 365 Enterprise는 RBAC (역할 기반 액세스 제어) 모델을 따르고 관리 역할에 의해 사용 권한 및 기능이 정의 됩니다. 조직에 대해 Office 365에 등록 하는 사람은 자동으로 전역 관리자 또는 최상위 관리자가 됩니다. 관리자 역할에는 전역 관리자, 청구 관리자, 암호 관리자, 서비스 관리자 및 사용자 관리 관리자의 다섯 가지가 있습니다. Office 365 Enterprise의 관리자 역할에 대 한 자세한 내용은 Exchange Online, SharePoint online 및 비즈니스용 Skype online 관리에 적용 되는 방법을 비롯 하 여 [관리자 역할 할당](https://go.microsoft.com/fwlink/p/?LinkID=282732)을 참조 하세요. 중국에서 21vianet에서 운영 하는 Office 365을 사용 하는 경우에는 [office 365의 비즈니스용 관리자 역할 할당](https://go.microsoft.com/fwlink/p/?linkid=270061)을 참조 하세요.
+Office 365 Enterprise는 RBAC (역할 기반 액세스 제어) 모델을 따르고 관리 역할에 의해 사용 권한 및 기능이 정의 됩니다. 조직에 대해 Office 365에 등록 하는 사람은 자동으로 전역 관리자 또는 최상위 관리자가 됩니다. 관리자 역할에는 전역 관리자, 청구 관리자, 암호 관리자, 서비스 관리자 및 사용자 관리 관리자의 다섯 가지가 있습니다. Office 365 Enterprise의 관리자 역할에 대 한 자세한 내용은 Exchange Online, SharePoint Online 및 비즈니스용 Skype Online 관리에 적용 되는 방법을 비롯 하 여 [관리자 역할 할당](https://go.microsoft.com/fwlink/p/?LinkID=282732)을 참조 하세요. 중국에서 21Vianet에서 운영 하는 Office 365을 사용 하는 경우에는 [office 365의 비즈니스용 관리자 역할 할당](https://go.microsoft.com/fwlink/p/?linkid=270061)을 참조 하세요.
   
 ## <a name="delegated-administration-and-support-for-partners"></a>위임된 관리 및 파트너에 대한 지원
 

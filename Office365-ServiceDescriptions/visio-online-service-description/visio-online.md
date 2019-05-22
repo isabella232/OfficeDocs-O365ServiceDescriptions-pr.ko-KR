@@ -3,7 +3,7 @@ title: Visio Online
 ms.author: sharik
 author: skjerland
 ms.date: 6/28/2017
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - visio-online-service-descriptoin
@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
-description: Visio Online은 다이어그램이 저장 된 웹 사이트에서 직접 다이어그램을 사용할 수 있는 Microsoft Visio 환경을 웹 브라우저로 확장 합니다. Microsoft office 365 Office Online을 사용 하는 고객은 다이어그램을 보고 공유 하 고 이동 중에 의견을 삽입할 수 있습니다.
-ms.openlocfilehash: 54c57a095d3689e9e6879f8c4a74ae4bbaeac315
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Visio Online은 다이어그램이 저장 된 웹 사이트에서 직접 다이어그램을 사용할 수 있는 Microsoft Visio 환경을 웹 브라우저로 확장 합니다. Microsoft Office 365 Office Online을 사용 하는 고객은 다이어그램을 보고 공유 하 고 이동 중에 의견을 삽입할 수 있습니다.
+ms.openlocfilehash: 8e76db1eaa8184db6400efb2768c67cd5d87c2ca
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246564"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342347"
 ---
 # <a name="visio-online"></a>Visio Online
 
-Visio Online은 다이어그램이 저장 된 웹 사이트에서 직접 다이어그램을 사용할 수 있는 Microsoft Visio 환경을 웹 브라우저로 확장 합니다. Microsoft office 365 Office Online을 사용 하는 고객은 다이어그램을 보고 공유 하 고 이동 중에 의견을 삽입할 수 있습니다.
+Visio Online은 다이어그램이 저장 된 웹 사이트에서 직접 다이어그램을 사용할 수 있는 Microsoft Visio 환경을 웹 브라우저로 확장 합니다. Microsoft Office 365 Office Online을 사용 하는 고객은 다이어그램을 보고 공유 하 고 이동 중에 의견을 삽입할 수 있습니다.
   
 ## <a name="apply-rich-formatting-to-text-and-shapes"></a>텍스트 및 도형에 다양 한 서식 적용
 <a name="BM_1"> </a>
@@ -38,7 +38,7 @@ Visio Online에서는 아직 사용할 수 없습니다. Visio 데스크톱 응�
 ## <a name="build-mashup-solutions"></a>매시업 솔루션 빌드
 <a name="BM_3"> </a>
 
-visio Online JavaScript 매시업 API를 사용 하면 개발자가 visio 웹 다이어그램, 해당 페이지 및 셰이프를 액세스 하 고 조작할 수 있습니다. 자세한 내용은 [Visio Online 자주 묻는 질문](https://go.microsoft.com/fwlink/?linkid=825706)을 참조 하십시오.
+Visio Online JavaScript 매시업 API를 사용 하면 개발자가 Visio 웹 다이어그램, 해당 페이지 및 셰이프를 액세스 하 고 조작할 수 있습니다. 자세한 내용은 [Visio Online 자주 묻는 질문](https://go.microsoft.com/fwlink/?linkid=825706)을 참조 하십시오.
   
 ## <a name="create-diagrams"></a>다이어그램 만들기
 <a name="BM_4"> </a>
@@ -58,12 +58,12 @@ Visio Online에서 다이어그램을 변경할 수는 없습니다. 다이어�
 ## <a name="embed-diagram-in-a-sharepoint-web-or-blog-page"></a>SharePoint, 웹 또는 블로그 페이지에 다이어그램 포함
 <a name="BM_7"> </a>
 
-visio Online을 사용 하 여 SharePoint, 웹 또는 블로그 페이지에 visio 데스크톱 응용 프로그램에서 만든 visio 다이어그램을 삽입할 수 있습니다. 자세한 내용은 [Visio Online 자주 묻는 질문](https://go.microsoft.com/fwlink/?linkid=825706)을 참조 하십시오.
+Visio Online을 사용 하 여 SharePoint, 웹 또는 블로그 페이지에 visio 데스크톱 응용 프로그램에서 만든 Visio 다이어그램을 삽입할 수 있습니다. 자세한 내용은 [Visio Online 자주 묻는 질문](https://go.microsoft.com/fwlink/?linkid=825706)을 참조 하십시오.
   
 ## <a name="find"></a>찾기
 <a name="BM_8"> </a>
 
-Visio Online에서는 줄임표 단추 (...)를 클릭 하 고 찾기를 선택 하거나 ctrl + F를 눌러 페이지에서 단어, 숫자 또는 구의 모든 항목을 검색할 수 있습니다. 다이어그램 옆에 결과가 표시 됩니다. Visio에서는 셰이프 이름, 셰이프 텍스트, 셰이프 데이터 및 사용자 정의 셀을 검색 합니다.
+Visio Online에서는 줄임표 단추 (...)를 클릭 하 고 찾기를 선택 하거나 Ctrl + F를 눌러 페이지에서 단어, 숫자 또는 구의 모든 항목을 검색할 수 있습니다. 다이어그램 옆에 결과가 표시 됩니다. Visio에서는 셰이프 이름, 셰이프 텍스트, 셰이프 데이터 및 사용자 정의 셀을 검색 합니다.
   
 ## <a name="font-formatting"></a>글꼴 서식
 <a name="BM_9"> </a>
@@ -88,7 +88,7 @@ Visio Online에서는 Office 추가 기능을 사용할 수 없습니다.
 ## <a name="offline-viewing"></a>오프 라인으로 보기
 <a name="BM_13"> </a>
 
-Visio Online에서는 사용할 수 없습니다. Office Online을 사용하려면 인터넷에 연결해야 하며 인터넷 브라우저가 필요합니다. 인터넷 이나 조직의 온-프레미스 Office Web Apps 서버에서 연결을 해제 한 상태에서 다이어그램을 보고 편집 하려면 Visio 데스크톱 응용 프로그램이 컴퓨터에 설치 되어 있어야 합니다. visio 데스크톱 응용 프로그램이 설치 되어 있는 경우 visio의 전체 기능을 사용 하 여 다이어그램을 보고 편집할 수 있습니다. 저장 하면 온라인 다이어그램이 변경 내용으로 업데이트 됩니다. 또한 다이어그램의 오프 라인 복사본을 다운로드 하 고 저장할 수 있지만 온라인 버전과 동기화 되지는 않습니다. 자세한 내용은 [Office Web Apps 서버](https://technet.microsoft.com/library/ff431685.aspx)를 참조하세요.
+Visio Online에서는 사용할 수 없습니다. Office Online을 사용하려면 인터넷에 연결해야 하며 인터넷 브라우저가 필요합니다. 인터넷 이나 조직의 온-프레미스 Office Web Apps 서버에서 연결을 해제 한 상태에서 다이어그램을 보고 편집 하려면 Visio 데스크톱 응용 프로그램이 컴퓨터에 설치 되어 있어야 합니다. Visio 데스크톱 응용 프로그램이 설치 되어 있는 경우 Visio의 전체 기능을 사용 하 여 다이어그램을 보고 편집할 수 있습니다. 저장 하면 온라인 다이어그램이 변경 내용으로 업데이트 됩니다. 또한 다이어그램의 오프 라인 복사본을 다운로드 하 고 저장할 수 있지만 온라인 버전과 동기화 되지는 않습니다. 자세한 내용은 [Office Web Apps 서버](https://technet.microsoft.com/library/ff431685.aspx)를 참조하세요.
   
 ## <a name="print-to-pdf"></a>PDF로 인쇄
 <a name="BM_14"> </a>
@@ -118,7 +118,7 @@ Visio Online에서는 다른 이름으로 저장 또는 다이어그램 복사�
 ## <a name="smartart"></a>빠른
 <a name="BM_19"> </a>
 
-Visio Online에서는 다이어그램에 SmartArt를 추가할 수 없습니다. 그러나 visio 데스크톱 응용 프로그램을 사용 하 여 SmartArt를 추가한 경우 visio Online에 표시 됩니다.
+Visio Online에서는 다이어그램에 SmartArt를 추가할 수 없습니다. 그러나 Visio 데스크톱 응용 프로그램을 사용 하 여 SmartArt를 추가한 경우 Visio Online에 표시 됩니다.
   
 ## <a name="tell-me"></a>표시
 <a name="BM_20"> </a>

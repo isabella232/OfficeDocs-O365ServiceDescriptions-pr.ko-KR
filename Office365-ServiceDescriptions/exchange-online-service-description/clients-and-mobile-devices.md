@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-clients-and-mobile-devices
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 380f542c6db323d5dac647dc694c0b320bf13be6
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 50272acc0333760f1a85b43539cc0ad244a11f15
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246234"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342727"
 ---
 # <a name="clients-and-mobile-devices"></a>클라이언트 및 모바일 장치
 
@@ -25,7 +25,7 @@ ms.locfileid: "33246234"
 
 Microsoft Outlook은 일정, 연락처, 작업 및 다음 주요 기능에 대 한 지원을 포함 하는 전자 메일 프로그램입니다.
   
-- **HTTP를 통한 MAPI** HTTP를 통한 MAPI (메시징 응용 프로그램 인터페이스)를 사용 하면 Outlook 사용자가 조직의 방화벽 외부에서 인터넷을 통해 Exchange Online 사서함에 연결할 수 있습니다. HTTP를 통한 MAPI, 외부에서 Outlook 사용에 대 한 장기간 교체 이 연결 방법은 향상 된 연결 복구, 보다 안전한 로그인, 확장성 및 IT 및 지원에 대 한 향상을 제공 합니다. 자세한 내용은 Office 365 및 [MAPI over http](https://go.microsoft.com/fwlink/?linkid=393041) [에서 RPC over http 지원의 끝에 도달 하는 방법에 대](https://go.microsoft.com/fwlink/?linkid=863890) 한 자세한 내용을 참조 하세요.
+- **HTTP를 통한 MAPI** HTTP를 통한 MAPI (메시징 응용 프로그램 인터페이스)를 사용 하면 Outlook 사용자가 조직의 방화벽 외부에서 인터넷을 통해 Exchange Online 사서함에 연결할 수 있습니다. HTTP를 통한 MAPI, 외부에서 Outlook 사용에 대 한 장기간 교체 이 연결 방법은 향상 된 연결 복구, 보다 안전한 로그인, 확장성 및 IT 및 지원에 대 한 향상을 제공 합니다. 자세한 내용은 Office 365 및 [MAPI OVER http](https://go.microsoft.com/fwlink/?linkid=393041) [에서 RPC over http 지원의 끝에 도달 하는 방법에 대](https://go.microsoft.com/fwlink/?linkid=863890) 한 자세한 내용을 참조 하세요.
     
 - **자동 검색** 자동 검색 서비스 기능은 자동으로 Outlook을 Exchange Online과 함께 작동하도록 구성합니다. Outlook 사용자는 처음 전자 메일 주소와 암호를 통해 로그인했을 때 Exchange Online에서 바로 필요한 프로필 설정을 받을 수 있습니다. 이러한 설정은 사용자의 프로필을 만들고 유지하는 데 필요한 정보를 가지고 Outlook 클라이언트를 자동으로 업데이트합니다. 자동 검색 서비스를 사용하려면 SSL 인증서를 필요합니다. 이 SSL 인증서는 하나의 기본 SSL 도메인으로 제한됩니다. 
     
@@ -36,7 +36,7 @@ Microsoft Outlook은 일정, 연락처, 작업 및 다음 주요 기능에 대 �
 Exchange 2016 및 Exchange Online에서 지원되는 Outlook 클라이언트에 대한 자세한 내용은 [Exchange 2016 시스템 요구 사항](https://go.microsoft.com/fwlink/?LinkID=828972)에서 "지원되는 클라이언트"를 참조하세요.
   
 > [!IMPORTANT]
->  Outlook은 Exchange Online 구독 가격에 포함되어 제공되지 않습니다. 일부 Office 365 계획에는 Microsoft Office Pro Plus(Microsoft Outlook 포함)가 포함되어 있으며, 별도의 구독을 구매할 수도 있습니다. pop를 사용 하 여 Exchange Online 전자 메일 계정에 연결 하는 경우에는 다음 제한 사항이 표시 됩니다. > no calendar information > no free/busy information > POP를 통해 연결할 때 전자 메일 >를 사용할 수 없습니다. aded는 클라이언트에 대 한 것으로, 여러 컴퓨터 또는 장치 간에 동기화가 발생 하지 않습니다 (예: 랩톱과 전화 사이). 
+>  Outlook은 Exchange Online 구독 가격에 포함되어 제공되지 않습니다. 일부 Office 365 계획에는 Microsoft Office Pro Plus(Microsoft Outlook 포함)가 포함되어 있으며, 별도의 구독을 구매할 수도 있습니다. POP를 사용 하 여 Exchange Online 전자 메일 계정에 연결 하는 경우에는 다음 제한 사항이 표시 됩니다. > No calendar information > no free/busy information > POP를 통해 연결할 때 전자 메일 >를 사용할 수 없습니다. aded는 클라이언트에 대 한 것으로, 여러 컴퓨터 또는 장치 간에 동기화가 발생 하지 않습니다 (예: 랩톱과 전화 사이). 
   
 ## <a name="outlook-on-the-web"></a>웹용 Outlook
 
@@ -54,14 +54,14 @@ Exchange 2016 및 Exchange Online에서 지원되는 Outlook 클라이언트에 
 
 Exchange Online은 전자 메일, 일정, 주소록, 작업 목록 및 메모 목록을 제공 하는 Mac 용 Microsoft Outlook을 지원 합니다.
   
-## <a name="outlook-for-ios-android-and-windows-phone"></a>iOS, Android 및 Windows Phone 용 Outlook
+## <a name="outlook-for-ios-android-and-windows-phone"></a>IOS, Android 및 Windows Phone 용 Outlook
 
 Exchange Online은 iOS, Android 및 Windows Phone에 사용할 수 있는 Outlook 앱과 함께 작동 합니다. 이러한 장치에서 앱 스토어를 사용 하 여 Outlook 앱을 찾습니다. 다음은 모바일 OS에서 분석 한 사항입니다.
   
 |||||
 |:-----|:-----|:-----|:-----|
-|h  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
-|Outlook 모바일 앱 가용성  <br/> |예  <br/> [Android 용 Outlook 받기](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |예  <br/> [iOS 용 Outlook 받기](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |기본 제공  <br/> |
+|디바이스  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
+|Outlook 모바일 앱 가용성  <br/> |예  <br/> [Android 용 Outlook 받기](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |예  <br/> [IOS 용 Outlook 받기](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |기본 제공  <br/> |
 |Exchange Online과 호환 되는 기본 제공 전자 메일 앱  <br/> |Gmail 앱/Samsung Email 응용 프로그램  <br/> |iOS 메일 앱  <br/> |Outlook 메일, 일정, 연락처  <br/> |
 |추가 정보  <br/> |[Android 모바일 설정](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone 또는 iPad 설치](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone 설정](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
    
@@ -77,7 +77,7 @@ Outlook에서는 다음 작업을 수행할 수 있습니다.
     
 - 업무와 개인 정보를 별도로 유지 하 고 보호 하면서도 생산성을 높이는 데 필요한 앱 및 서비스에 연결 합니다.
     
-iOS, Android 용 outlook 또는 Windows Phone 용 outlook을 사용 하 여 사용자는 다음을 수행할 수 있습니다. 
+IOS, Android 용 Outlook 또는 Windows Phone 용 outlook을 사용 하 여 사용자는 다음을 수행할 수 있습니다. 
   
 - 중요 받은 편지함의 우선 순위를 지정 하는 혜택
     
@@ -117,9 +117,9 @@ iOS, Android 용 outlook 또는 Windows Phone 용 outlook을 사용 하 여 사�
 
 Exchange Online은 모바일 장치와 Exchange Online 간에 사서함 데이터를 동기화하는 Microsoft Exchange ActiveSync 프로토콜을 지원합니다. 따라서 사용자는 자신의 전자 메일, 연락처 및 작업을 이동 중에도 액세스할 수 있습니다.
   
-Exchange ActiveSync는 Microsoft Windows Phone, Apple iPhone 및 iPad, Android 휴대폰 및 태블릿 등을 비롯한 매우 다양한 유형의 모바일 장치에서 작동합니다. 휴대폰 및 장치 외에도 Windows Phone의 메일 응용 프로그램은 exchange ActiveSync를 사용 하 여 exchange Online에 연결 합니다. 현재 Exchange ActiveSync 라이선스 실시권자 전체 목록은 Exchange ActiveSync 라이선싱 사이트에서 확인할 수 있습니다.
+Exchange ActiveSync는 Microsoft Windows Phone, Apple iPhone 및 iPad, Android 휴대폰 및 태블릿 등을 비롯한 매우 다양한 유형의 모바일 장치에서 작동합니다. 휴대폰 및 장치 외에도 Windows Phone의 메일 응용 프로그램은 Exchange ActiveSync를 사용 하 여 Exchange Online에 연결 합니다. 현재 Exchange ActiveSync 라이선스 실시권자 전체 목록은 Exchange ActiveSync 라이선싱 사이트에서 확인할 수 있습니다.
   
-exchange activesync에 대 한 자세한 내용은 [exchange activesync](https://go.microsoft.com/fwlink/p/?LinkId=271792)를 참조 하십시오.
+Exchange ActiveSync에 대 한 자세한 내용은 [Exchange activesync](https://go.microsoft.com/fwlink/p/?LinkId=271792)를 참조 하십시오.
   
 > [!IMPORTANT]
 > 사서함당 Exchange ActiveSync 장치 수는 최대 100개입니다. 
@@ -147,9 +147,9 @@ SMTP(Simple Mail Transfer Protocol)은 IMAP 또는 POP를 통해 Exchange Online
 > [!IMPORTANT]
 > SMTP 릴레이를 허용하려면 승인된 원본 서버에 대한 IP 주소가 필요합니다. SMTP를 사용해 전자 메일을 보낼 때는 전송 계층 보안(TLS) 암호화 및 인증이 필요합니다. 
   
-## <a name="blackberry-devices"></a>BlackBerry ® 장치
+## <a name="blackberry-devices"></a>BlackBerry® 장치
 
-Office 365 전자 메일은 Exchange ActiveSync를 통해 BlackBerry ® 장치에서 사용할 수 있습니다. 옵션에 대 한 자세한 내용은 다음 항목을 참조 하십시오.
+Office 365 전자 메일은 Exchange ActiveSync를 통해 BlackBerry® 장치에서 사용할 수 있습니다. 옵션에 대 한 자세한 내용은 다음 항목을 참조 하십시오.
   
 - [BlackBerry 장치에서 전자 메일 설정](https://go.microsoft.com/fwlink/?linkid=863394)
     

@@ -4,23 +4,23 @@ ms.author: sharik
 author: skjerland
 manager: supotter
 ms.date: 10/9/2017
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
-description: 관리자 인 경우 비즈니스용 skype online 설정에서 비즈니스용 skype online 기능을 설정 하는 방법에 대 한 자세한 지침을 확인할 수 있습니다.
-ms.openlocfilehash: cb7d2d64f12561b97290148045dc2280718011d4
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: 관리자 인 경우 비즈니스용 Skype Online 설정에서 비즈니스용 Skype Online 기능을 설정 하는 방법에 대 한 자세한 지침을 확인할 수 있습니다.
+ms.openlocfilehash: 1f1da35799df6b51147a24127e0c5778eda8022a
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246385"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342437"
 ---
 # <a name="skype-for-business-online-features"></a>비즈니스용 Skype Online 기능
 
-관리자 인 경우 비즈니스용 [skype online 설정](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e)에서 비즈니스용 skype online 기능을 설정 하는 방법에 대 한 자세한 지침을 확인할 수 있습니다.
+관리자 인 경우 비즈니스용 [Skype Online 설정](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e)에서 비즈니스용 skype online 기능을 설정 하는 방법에 대 한 자세한 지침을 확인할 수 있습니다.
   
 ## <a name="clients-for-skype-for-business-online"></a>Clients for Skype for Business Online
 <a name="BKMK_Clients"> </a>
@@ -28,11 +28,11 @@ ms.locfileid: "33246385"
 > [!IMPORTANT]
 > 비즈니스용 Skype Online에서 지원 되는 클라이언트는 별도로 사용이 허가 됩니다. 
   
-- Windows 또는 Mac에 대 한 비즈니스용 skype Online 클라이언트 옵션이 무엇 인지 알아보려면 [비즈니스용 skype 설치](https://go.microsoft.com/fwlink/?linkid=847563)를 참조 하세요.
+- Windows 또는 Mac에 대 한 비즈니스용 Skype Online 클라이언트 옵션이 무엇 인지 알아보려면 [비즈니스용 Skype 설치](https://go.microsoft.com/fwlink/?linkid=847563)를 참조 하세요.
     
-- 모바일 장치에 있는 비즈니스용 skype 옵션을 확인 하려면 [모바일 장치에 비즈니스용 skype 설치](https://go.microsoft.com/fwlink/?linkid=847564)를 참조 하세요.
+- 모바일 장치에 있는 비즈니스용 Skype 옵션을 확인 하려면 [모바일 장치에 비즈니스용 Skype 설치](https://go.microsoft.com/fwlink/?linkid=847564)를 참조 하세요.
     
-- 비즈니스용 skype 데스크톱 및 웹 클라이언트에 대 한 자세한 비교는 [비즈니스용 skype Online 클라이언트 비교 표](https://go.microsoft.com/fwlink/?linkid=829754)를 참조 하세요. 비즈니스용 Skype 모바일 클라이언트에 대 한 자세한 비교는 [모바일 클라이언트 비교 표](https://go.microsoft.com/fwlink/?linkid=846932)를 참조 하세요.
+- 비즈니스용 Skype 데스크톱 및 웹 클라이언트에 대 한 자세한 비교는 [비즈니스용 Skype Online 클라이언트 비교 표](https://go.microsoft.com/fwlink/?linkid=829754)를 참조 하세요. 비즈니스용 Skype 모바일 클라이언트에 대 한 자세한 비교는 [모바일 클라이언트 비교 표](https://go.microsoft.com/fwlink/?linkid=846932)를 참조 하세요.
     
 [여기](https://go.microsoft.com/fwlink/?linkid=846929)에서 모바일 장치, PC 또는 Mac에 대 한 클라이언트를 다운로드할 수 있습니다. 
   
@@ -54,7 +54,7 @@ ms.locfileid: "33246385"
 ## <a name="skype-to-skype-audio-video-and-media"></a>Skype-Skype 오디오, 비디오 및 미디어
 <a name="BKMK_Skype2Skype"> </a>
 
-비즈니스용 skype Online 사용자는 PC 및 웹 카메라를 사용 하 여 다른 비즈니스용 skype 사용자에 게 일대일 컴퓨터 기반 오디오 및 비디오 통화를 만들 수 있습니다. 비즈니스용 skype online 사용자는 비즈니스용 skype online 조직 (회사 방화벽 내부 또는 외부)에서 다른 사용자와 skype 간 오디오 및 비디오 통화를 시작할 수 있습니다. 또는 다른 비즈니스용 skype 사용자 두 개의 비즈니스용 Skype 도메인을 올바르게 구성 하 고 지원 하며 페더레이션을 허용할 경우 페더레이션 도메인입니다.
+비즈니스용 skype Online 사용자는 PC 및 웹 카메라를 사용 하 여 다른 비즈니스용 Skype 사용자에 게 일대일 컴퓨터 기반 오디오 및 비디오 통화를 만들 수 있습니다. 비즈니스용 Skype Online 사용자는 비즈니스용 skype Online 조직 (회사 방화벽 내부 또는 외부)에서 다른 사용자와 skype 간 오디오 및 비디오 통화를 시작할 수 있습니다. 또는 다른 비즈니스용 Skype 사용자 두 개의 비즈니스용 Skype 도메인을 올바르게 구성 하 고 지원 하며 페더레이션을 허용할 경우 페더레이션 도메인입니다.
   
 비즈니스용 Skype에서 오디오 장치 옵션을 설정 하는 방법을 알아보려면 [여기](https://support.office.com/en-US/article/Set-Audio-Device-options-in-Skype-for-Business-2533d929-9814-4349-8ae4-fca29246e2ff) 로 이동 하세요. 
   
@@ -68,7 +68,7 @@ ms.locfileid: "33246385"
 ## <a name="skype-for-business-online-meetings"></a>비즈니스 온라인 모임에 대 한 Skype
 <a name="BKMK_Meetings"> </a>
 
-사용자는 비즈니스용 skype 클라이언트나 Office에서 몇 번의 클릭 만으로 임의 비즈니스용 skype 회의를 시작 하거나 참가할 수 있습니다. 비즈니스용 Skype를 사용 하면 공유 데스크톱, 응용 프로그램 및 문서를 통해 간단한 인스턴트 메시징 대화 또는 전자 메일 대화를 PC 기반 단체 (3 명 이상의 사용자에 게) 오디오 및 비디오 회의로 확대할 수 있습니다.
+사용자는 비즈니스용 Skype 클라이언트나 Office에서 몇 번의 클릭 만으로 임의 비즈니스용 Skype 회의를 시작 하거나 참가할 수 있습니다. 비즈니스용 Skype를 사용 하면 공유 데스크톱, 응용 프로그램 및 문서를 통해 간단한 인스턴트 메시징 대화 또는 전자 메일 대화를 PC 기반 단체 (3 명 이상의 사용자에 게) 오디오 및 비디오 회의로 확대할 수 있습니다.
   
 비즈니스용 Skype 단체 오디오는 다양 한 대역폭 조건, 시각적 통화 및 명단 컨트롤, 네트워크 품질 지표 및 강력한 사용자 관리 기능 (예: 끌어서 놓기)에서 최적의 성능을 위한 적응 오디오 코덱을 사용자에 게 제공 합니다. 모임에 추가할 참가자 이름을 삭제 합니다.
   
@@ -82,9 +82,9 @@ ms.locfileid: "33246385"
 ## <a name="security-and-archiving"></a>보안 및 보관
 <a name="BKMK_Security"> </a>
 
-Microsoft Office 365 트래픽 (신호 및 미디어 트래픽 모두)이 TLS (전송 계층 보안) 프로토콜을 사용 하 여 암호화 됩니다. 통신을 가로채는 사람에게는 누구든 암호화된 텍스트만 보여집니다. 예를 들어 사용자가 공항에서와 같은 공용 wi-fi 네트워크를 사용 하는 동안 비즈니스용 Skype 온라인 IM, 통화 및 프레젠테이션에 액세스 하는 경우 사용자의 통신은 네트워크 "스니퍼"의 잠재적인 가로채기로 암호화 됩니다.
+Microsoft Office 365 트래픽 (신호 및 미디어 트래픽 모두)이 TLS (전송 계층 보안) 프로토콜을 사용 하 여 암호화 됩니다. 통신을 가로채는 사람에게는 누구든 암호화된 텍스트만 보여집니다. 예를 들어 사용자가 공항에서와 같은 공용 Wi-fi 네트워크를 사용 하는 동안 비즈니스용 Skype 온라인 IM, 통화 및 프레젠테이션에 액세스 하는 경우 사용자의 통신은 네트워크 "스니퍼"의 잠재적인 가로채기로 암호화 됩니다.
   
-비즈니스용 Skype를 사용 하면 모임에서 피어 투 피어 인스턴트 메시지, 단체 인스턴트 메시지 및 콘텐츠 업로드 활동을 보관할 수 있습니다. 보관 기능을 사용 하려면 exchange가 필요 하며 전자 메일 및 비즈니스용 Skype 콘텐츠를 모두 보관 하는 사용자의 exchange 사서함 원본 위치 유지 특성에 의해 제어 됩니다.
+비즈니스용 Skype를 사용 하면 모임에서 피어 투 피어 인스턴트 메시지, 단체 인스턴트 메시지 및 콘텐츠 업로드 활동을 보관할 수 있습니다. 보관 기능을 사용 하려면 Exchange가 필요 하며 전자 메일 및 비즈니스용 Skype 콘텐츠를 모두 보관 하는 사용자의 Exchange 사서함 원본 위치 유지 특성에 의해 제어 됩니다.
   
 비즈니스용 Skype의 모든 보관은 해당 사용자에 대해 사용자 수준 보관 정책을 만들고 구성 하 고 적용 하 여 하나 이상의 특정 사용자 또는 사용자 그룹에 대해이 기능을 사용 하거나 사용 하지 않도록 설정 하므로 "사용자 수준 보관"으로 간주 됩니다. 비즈니스용 Skype 관리 센터 내에서 보관 설정에 대 한 직접적인 제어 기능은 없습니다. 
   
@@ -99,12 +99,12 @@ Microsoft Office 365 트래픽 (신호 및 미디어 트래픽 모두)이 TLS (�
     
 - Outlook Web App에서 IM, 현재 상태, Exchange 일정 정보를 기반으로 상황 업데이트 및 비즈니스용 Skype 회의 일정을 제공 하도록 설정 합니다.
     
-비즈니스용 Skype는 온-프레미스 Microsoft sharepoint Server와 상호 운용 되며 SharePoint 사이트에서의 현재 상태 및 간편 연락이 가능 합니다. 이러한 상호 운용성을 위해서는 사용자 데스크톱에서 비즈니스용 Skype 클라이언트를 실행 해야 합니다. 
+비즈니스용 Skype는 온-프레미스 Microsoft SharePoint Server와 상호 운용 되며 SharePoint 사이트에서의 현재 상태 및 간편 연락이 가능 합니다. 이러한 상호 운용성을 위해서는 사용자 데스크톱에서 비즈니스용 Skype 클라이언트를 실행 해야 합니다. 
   
 ## <a name="skype-for-business-online-administration-and-management"></a>비즈니스 온라인 관리 및 관리에 대 한 Skype
 <a name="BKMK_Admin"> </a>
 
-Microsoft는 모든 비즈니스용 Skype Online 데이터 센터를 직접 제어 하지만 전반적인 시스템 성능을 담당 하지만 Office 365 사용자에 게 총 경험을 제공 하기 위해 결합 되는 요소 부분만 제어할 수 있습니다. 조직은 데이터 센터, 고객의 wan (광역 네트워크) 및 고객 lan (local area networks)에 대 한 네트워크 연결을 담당 합니다. 또한 사용자 장치 및 해당 구성을 관리 합니다.또한 사용자가 기능에 액세스 해야 하는 경우에는 이러한 기능을 관리 하는 기능을 비롯 하 여 원하는 기능에 대해 사용자 당 필요한 라이선스를 유지 관리 해야 합니다.
+Microsoft는 모든 비즈니스용 Skype Online 데이터 센터를 직접 제어 하지만 전반적인 시스템 성능을 담당 하지만 Office 365 사용자에 게 총 경험을 제공 하기 위해 결합 되는 요소 부분만 제어할 수 있습니다. 조직은 데이터 센터, 고객의 WAN (광역 네트워크) 및 고객 Lan (local area networks)에 대 한 네트워크 연결을 담당 합니다. 또한 사용자 장치 및 해당 구성을 관리 합니다.또한 사용자가 기능에 액세스 해야 하는 경우에는 이러한 기능을 관리 하는 기능을 비롯 하 여 원하는 기능에 대해 사용자 당 필요한 라이선스를 유지 관리 해야 합니다.
   
 따라서 비즈니스용 Skype Online에서는 고객 관리자에 게 여러 메시징 관련 작업을 관리 하기 위한 다음과 같은 도구를 제공 합니다.
   
@@ -116,7 +116,7 @@ Microsoft는 모든 비즈니스용 Skype Online 데이터 센터를 직접 제�
     
 - Windows PowerShell
     
-최신 비즈니스용 skype 온라인 관리 도움말 항목과 방법 문서를 보려면 [Office online의 비즈니스용 skype 온라인-관리자 도움말](https://support.office.com/en-us/article/Skype-for-Business-Online-in-Office-365-%e2%80%93-Admin-Help-4307bdbf-6097-458d-9a6a-048112695c59) 을 참조 하세요.
+최신 비즈니스용 skype 온라인 관리 도움말 항목과 방법 문서를 보려면 365 Office online의 비즈니스용 skype 온라인-관리자 도움말을 참조 하세요.
   
 ## <a name="audio-conferencing-in-office-365"></a>Office 365의 오디오 회의
 <a name="BKMK_Audio"> </a>
@@ -125,14 +125,14 @@ Microsoft는 모든 비즈니스용 Skype Online 데이터 센터를 직접 제�
   
 오디오 회의를 사용 하면 조직의 사용자가 전화 접속 전화 번호를 포함 하는 모임을 호스팅하거나 만들 수 있습니다. 그런 다음 발신자는 이러한 전화 번호를 사용 하 여 휴대폰 (모임에 전화를 거는 사용자는 음성 메시지, 공유 데스크톱 또는 모임에서 공유 되는 파일)만 사용 하 여 모임에 전화를 걸 수 있습니다. 모임을 예약 하거나 잠재 고객을 계획 하는 사용자에 대해서만 전화 접속 회의를 설정 해야 합니다. 이끌이가 모임을 잠근 경우가 아니면 전화 접속 번호 및 전화 회의 ID를 가진 사용자는 누구나 모임에 참가할 수 있습니다. 자세한 내용은 audio 회의 [시작](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) 및 오디오 [회의에 사용할 수 있는 전화 접속 번호](http://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)를 참조 하세요.
   
-office 365에서는 전화 접속 회의 공급자로 office 365을 사용 하거나, 타사 전화 접속 회의 공급자 (오디오 회의 공급자 또는 ACP 라고도 함)를 사용 하 여 전화 걸기 회의를 사용 하도록 설정할 수 있습니다.
+Office 365에서는 전화 접속 회의 공급자로 Office 365을 사용 하거나, 타사 전화 접속 회의 공급자 (오디오 회의 공급자 또는 ACP 라고도 함)를 사용 하 여 전화 걸기 회의를 사용 하도록 설정할 수 있습니다.
   
 일부 국가 또는 지역에서는 오디오 회의를 사용할 수 없습니다. 오디오 회의를 구매할 수 있는 국가 또는 지역 목록은 [어디에서 음성 회의를 받을 수 있나요?](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409)를 참조 하세요.
   
 ## <a name="calling-plans-in-office-365"></a>Office 365의 통화 플랜
 <a name="BKMK_CallingPlans"> </a>
 
-비즈니스용 Skype에는 PSTN (공중 전화망)에서 발견 된 통화 기능이 포함 되어 있습니다. 통화 계획은 조직 내부 및 외부의 사용자가 전화를 걸고 받을 수 있도록 조직의 사용자에 게 연락처를 검색, 취득 및 지정 하는 기능을 허용 하는 [Office 365의 전화 시스템](https://technet.microsoft.com/en-us/library/mt631190.aspx) 에 대 한 추가 기능이 됩니다. 를 Office 365에서 직접 시작 합니다. 전화 번호가 할당 된 사용자는 VoIP 전화, pc 및 모바일 장치를 비롯 한 모든 비즈니스용 Skype 장치에서 음성 통화를 할 수 있습니다. 또한 음소거/음소거 해제, 대기/다시 시작, 통화 전송 및 착신 전환 기능을 통해 통화를 제어할 수 있으며 필요한 경우 응급 통화를 할 수 있습니다. 
+비즈니스용 Skype에는 PSTN (공중 전화망)에서 발견 된 통화 기능이 포함 되어 있습니다. 통화 계획은 조직 내부 및 외부의 사용자가 전화를 걸고 받을 수 있도록 조직의 사용자에 게 연락처를 검색, 취득 및 지정 하는 기능을 허용 하는 [Office 365의 전화 시스템](https://technet.microsoft.com/en-us/library/mt631190.aspx) 에 대 한 추가 기능이 됩니다. 를 Office 365에서 직접 시작 합니다. 전화 번호가 할당 된 사용자는 VoIP 전화, Pc 및 모바일 장치를 비롯 한 모든 비즈니스용 Skype 장치에서 음성 통화를 할 수 있습니다. 또한 음소거/음소거 해제, 대기/다시 시작, 통화 전송 및 착신 전환 기능을 통해 통화를 제어할 수 있으며 필요한 경우 응급 통화를 할 수 있습니다. 
   
 사용 가능한 통화 계획에 대 한 자세한 내용은 [Office 365에 대 한 통화 요금제](https://products.office.com/en-us/skype-for-business/pstn-calling-plans)로 이동 하십시오. 자세한 내용을 보고 통화 계획을 설정 하려면 [통화 요금제](https://support.office.com/en-us/article/What-are-Calling-Plans-in-Office-365-3dc773b9-95e0-4448-b2f1-887c54022429?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요.
   

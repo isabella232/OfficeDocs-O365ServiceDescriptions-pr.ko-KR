@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - powerpoint-online-service-description
@@ -14,21 +14,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: powerpoint Online (이전의 powerpoint Web App)을 사용 하면 Microsoft powerpoint 환경을 웹 브라우저로 확장 하 여 프레젠테이션이 저장 된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있습니다. Office Online을 사용하는 Microsoft Office 365 고객은 어디에서나 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: PowerPoint Online (이전의 PowerPoint Web App)을 사용 하면 Microsoft PowerPoint 환경을 웹 브라우저로 확장 하 여 프레젠테이션이 저장 된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있습니다. Office Online을 사용하는 Microsoft Office 365 고객은 어디에서나 파일을 보고, 만들고, 편집할 수 있습니다.
+ms.openlocfilehash: 058cc9c8621fbec4a8788cbbc1ab32a541558b11
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246944"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343747"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
-powerpoint Online (이전의 powerpoint Web App)을 사용 하면 Microsoft powerpoint 환경을 웹 브라우저로 확장 하 여 프레젠테이션이 저장 된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있습니다. Office Online을 사용하는 Microsoft Office 365 고객은 어디에서나 파일을 보고, 만들고, 편집할 수 있습니다.
+PowerPoint Online (이전의 PowerPoint Web App)을 사용 하면 Microsoft PowerPoint 환경을 웹 브라우저로 확장 하 여 프레젠테이션이 저장 된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있습니다. Office Online을 사용하는 Microsoft Office 365 고객은 어디에서나 파일을 보고, 만들고, 편집할 수 있습니다.
   
 PowerPoint 편집기는 사용자가 충실도를 잃지 않고 문서 작업을 하는 데 사용할 수 있는 브라우저 기반 편집 공간을 만드는 웹 프런트 엔드 구성 요소입니다.
   
-powerpoint Online 도구 모음에서 **powerpoint에서 열기** 단추를 클릭 하면 프레젠테이션이 powerpoint 데스크톱 앱에서 열립니다 (Microsoft PowerPoint 2010 이상이 컴퓨터에 설치 되어 있는 경우). 
+PowerPoint Online 도구 모음에서 **powerpoint에서 열기** 단추를 클릭 하면 프레젠테이션이 powerpoint 데스크톱 앱에서 열립니다 (Microsoft PowerPoint 2010 이상이 컴퓨터에 설치 되어 있는 경우). 
   
 [비즈니스용 Office 365를 사용하여 PC에 Office 다운로드 및 설치](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c) 방법을 알아보세요.
   

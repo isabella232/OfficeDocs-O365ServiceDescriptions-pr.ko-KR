@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 4/08/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-suite-features
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열 된 기능은 많은 장치 및 여러 Office 365 서비스에서 안전 하 게 공동 작업 하 고 통신 하는 데 사용할 수 있는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: cfa63b50540a4681796fcaad3dc4a0887f5cc111
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 73e21fafc7c33c1a298c46d41cef40d029aa2780
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247194"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343287"
 ---
 # <a name="office-365-suite-features"></a>Office 365 제품군 기능
 
@@ -98,11 +98,11 @@ Office 365 비디오는 장치 간에 비디오를 업로드, 공유 및 검색�
   
 ## <a name="onenote-class-notebook"></a>OneNote 수업용 전자 필기장
 
-수업용 전자 필기장은 OneNote의 일부분이 며 office 365 교육 및 office 365 E5 교육에 사용할 수 있습니다. 각 전자 필기장에는 교사와 학생이 함께 작업할 수 있는 공동 작업 공간, 각 학생에 대 한 개인 전자 필기장 등을 공유 하는 교사의 콘텐츠 라이브러리가 포함 되어 있습니다. 수업용 전자 필기장을 만든 후에는 교사와 학생이 OneNote 앱을 사용 하 여 모든 장치에서 액세스할 수 있습니다.
+수업용 전자 필기장은 OneNote의 일부분이 며 Office 365 교육 및 Office 365 E5 교육에 사용할 수 있습니다. 각 전자 필기장에는 교사와 학생이 함께 작업할 수 있는 공동 작업 공간, 각 학생에 대 한 개인 전자 필기장 등을 공유 하는 교사의 콘텐츠 라이브러리가 포함 되어 있습니다. 수업용 전자 필기장을 만든 후에는 교사와 학생이 OneNote 앱을 사용 하 여 모든 장치에서 액세스할 수 있습니다.
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-microsoft Kaizala는 microsoft 365에 대 한 고유한 기능을 제공 하는 단순 하 고 안전한 모바일 작업 관리 앱으로, 조직의 디렉터리 (계약 작업자, 공급 업체 등)의 내부와 외부에서 사용자를 연결 하 고 모두 사용할 수 있는 기능을 제공 합니다. 파트너, 공급자, 고객 및 시민-대규모 그룹과 [유연한 그룹 유형을](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)사용 합니다. Kaizala의 개방형 디렉터리 모델을 사용 하면 편리한 온 보 딩을 위한 전화 번호 기반 id와 메시징 및 작업 관리에 대 한 간단한 사용자 환경이 제공 됩니다. 사용자는 Kaizala 모바일 앱을 사용 하 여 사진, 문서, 비디오, 오디오 os 등의 인스턴트 메시지와 첨부 파일을 전송 하 고 설문 조사, 설문, 작업 할당, 공지 사항, trainings 등에 대해 작업 카드를 사용할 수 있습니다. [Kaizala는 Office 365에서 사용할 수](https://products.office.com/en/business/microsoft-kaizala) 있으며 iPhone 및 Android에서는 작동 합니다. 자세한 내용을 보려면 [Kaizala 웹 사이트로](https://products.office.com/en/business/microsoft-kaizala)이동 하세요. 
+Microsoft Kaizala는 Microsoft 365에 대 한 고유한 기능을 제공 하는 단순 하 고 안전한 모바일 작업 관리 앱으로, 조직의 디렉터리 (계약 작업자, 공급 업체 등)의 내부와 외부에서 사용자를 연결 하 고 모두 사용할 수 있는 기능을 제공 합니다. 파트너, 공급자, 고객 및 시민-대규모 그룹과 [유연한 그룹 유형을](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)사용 합니다. Kaizala의 개방형 디렉터리 모델을 사용 하면 편리한 온 보 딩을 위한 전화 번호 기반 id와 메시징 및 작업 관리에 대 한 간단한 사용자 환경이 제공 됩니다. 사용자는 Kaizala 모바일 앱을 사용 하 여 사진, 문서, 비디오, 오디오 os 등의 인스턴트 메시지와 첨부 파일을 전송 하 고 설문 조사, 설문, 작업 할당, 공지 사항, trainings 등에 대해 작업 카드를 사용할 수 있습니다. [Kaizala는 Office 365에서 사용할 수](https://products.office.com/en/business/microsoft-kaizala) 있으며 IPhone 및 Android에서는 작동 합니다. 자세한 내용을 보려면 [Kaizala 웹 사이트로](https://products.office.com/en/business/microsoft-kaizala)이동 하세요. 
   
 ## <a name="feature-availability"></a>기능 가용성
 

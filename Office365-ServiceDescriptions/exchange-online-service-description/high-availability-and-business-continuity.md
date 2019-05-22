@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-high-availability-and-business-continuity
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online에서는 조직의 전자 메일 인프라에 대 한 광범위 한 보존 및 복구 지원을 제공 합니다. 여기에는 데이터 센터에서의 사서함 복제와 삭제된 사서함 및 삭제된 항목의 복원 기능이 포함됩니다.
-ms.openlocfilehash: 2da41ba335faa4cf18228a64fbb1b420d438e503
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: d9aac8e2843e085bea9aa4c1e3edc0dbb0789130
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33244904"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342887"
 ---
 # <a name="high-availability-and-business-continuity"></a>고가용성 및 비즈니스 연속성
 
@@ -32,7 +32,7 @@ Microsoft의 데이터 보호 방식에 대한 자세한 내용은 [Office 365 �
   
 ## <a name="deleted-mailbox-recovery"></a>삭제된 사서함 복구
 
-관리자는 Microsoft 365 관리 센터를 사용 하 여 해당 사용자 계정을 삭제 하거나, exchange online 라이선스를 제거 하거나, 원격 Windows PowerShell의 **사서함 제거** cmdlet을 사용 하 여 exchange online 사서함을 삭제할 수 있습니다. 사서함이 삭제 되 면 Exchange Online은 기본적으로 30 일 동안 사서함과 해당 콘텐츠를 보존 합니다. 30 일 후에는 사서함을 복구할 수 없습니다. 복구 된 사서함에는 삭제 당시에 저장 된 모든 데이터가 포함 됩니다. 관리자는 Microsoft 365 관리 센터를 사용 하 여 보존 기간 내에 삭제 된 사서함을 복구할 수 있습니다. 삭제 된 사서함을 복구 하기 위해 관리자는 해당 하는 Office 365 사용자 계정을 복원 하거나 사용자 계정에 Exchange Online 라이선스를 다시 할당 해야 합니다. 자세한 내용은 [Exchange Online에서 사용자 사서함 삭제 또는 복원을](https://go.microsoft.com/fwlink/p/?LinkId=286992)참조 하세요.
+관리자는 Microsoft 365 관리 센터를 사용 하 여 해당 사용자 계정을 삭제 하거나, Exchange Online 라이선스를 제거 하거나, 원격 Windows PowerShell의 **사서함 제거** cmdlet을 사용 하 여 exchange online 사서함을 삭제할 수 있습니다. 사서함이 삭제 되 면 Exchange Online은 기본적으로 30 일 동안 사서함과 해당 콘텐츠를 보존 합니다. 30 일 후에는 사서함을 복구할 수 없습니다. 복구 된 사서함에는 삭제 당시에 저장 된 모든 데이터가 포함 됩니다. 관리자는 Microsoft 365 관리 센터를 사용 하 여 보존 기간 내에 삭제 된 사서함을 복구할 수 있습니다. 삭제 된 사서함을 복구 하기 위해 관리자는 해당 하는 Office 365 사용자 계정을 복원 하거나 사용자 계정에 Exchange Online 라이선스를 다시 할당 해야 합니다. 자세한 내용은 [Exchange Online에서 사용자 사서함 삭제 또는 복원을](https://go.microsoft.com/fwlink/p/?LinkId=286992)참조 하세요.
   
 ## <a name="deleted-item-recovery"></a>삭제된 항목 복구
 

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/08/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-plan-options
@@ -17,12 +17,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
-ms.openlocfilehash: 8776294c2a9e03d625b84ac4568e397605e294eb
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 0f5a871552d9709e381ea795e196a00461f08f6b
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247234"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343297"
 ---
 # <a name="office-365-plan-options"></a>Office 365 계획 옵션
 
@@ -76,8 +76,8 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 <br/><sup>10</sup> 기본 클라이언트 제한 사항이 있는 비즈니스용 Skype Online 계획 2가 포함됩니다. > <br/><sup>11</sup> 클라이언트 제한 사항이 없는 비즈니스용 Skype Online 계획 2가 포함됩니다. > <br/><sup>12</sup> 비즈니스용 Skype Online 계획 1과 추가 기능이 포함됩니다. > <br/><sup>13</sup> 음성이 지원되고 클라이언트 제한 사항이 없는 비즈니스용 Skype Online 계획 2가 포함됩니다.  
 <br/><sup>14</sup> 비즈니스용 Skype Online 계획 1이 포함됩니다. 
 <br><sup>15</sup> Microsoft 팀은 이제 메시징, 모임 및 Office 365의 통화에 대 한 기본 클라이언트입니다. Oct. 1, 2018, 새 Office 365 고객이 500를 적게 사용 하는 고객은 Microsoft 팀에 등록 비즈니스용 Skype Online에 액세스할 수 없습니다. 이미 비즈니스용 Skype Online을 사용 하는 테 넌 트는 Microsoft 팀으로 전환할 때까지 계속 진행할 수 있습니다 (새 사용자 프로 비전).
-<br><sup>16</sup> 고급 데이터 거 버 넌 스, advanced eDiscovery, 고객 Lockbox, 고객 키, 권한이 부여 된 액세스 관리 및 장기간 감사 로그 보존 기능을 제공 하는 고급 규정 준수 기능이 포함 되어 있습니다.
-<br><sup>17</sup> 년 5 월 2019 일, 기존 적격 sku 및 Microsoft 365는 Kaizala Pro를 사용 하 여 backfilled 됩니다. 2019 년 6 월 1 일부 Kaizala Pro는 모든 적격 Office 365 및 Microsoft 365 sku에 포함 됩니다. 
+<br><sup>16</sup> 고급 데이터 거 버 넌 스, advanced EDiscovery, 고객 Lockbox, 고객 키, 권한이 부여 된 액세스 관리 및 장기간 감사 로그 보존 기능을 제공 하는 고급 규정 준수 기능이 포함 되어 있습니다.
+<br>17 년 5 월 2019 일, 기존 적격 365 sku 및 Microsoft 365는 Kaizala Pro를 사용 하 여 backfilled 됩니다. 2019 년 6 월 1 일부 Kaizala Pro는 모든 적격 Office 365 및 Microsoft 365 Sku에 포함 됩니다. 
   
 #### <a name="basic-client-limitations"></a>기본 클라이언트 제한 사항
 

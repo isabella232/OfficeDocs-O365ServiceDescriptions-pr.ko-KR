@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/25/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-service-health
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 관리자는 서비스 상태를 보고 유지 관리 예정 시간을 확인할 수 있습니다. 서비스 상태 정보는 언제 든 지 Office 365에 로그인 하 여 사용할 수 있습니다.
-ms.openlocfilehash: a903af56e9526c4a2076025c223811077caf2fe4
-ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
+ms.openlocfilehash: 6dfafb853035636326266cf2bd4fba97bdc499ee
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2019
-ms.locfileid: "33368391"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343157"
 ---
 # <a name="service-health-and-continuity"></a>서비스 상태 및 연속성
 
@@ -33,7 +33,7 @@ Office 365의 서비스 상태 섹션에는 서비스의 현재 상태와 서비
   
 ## <a name="service-incidents"></a>서비스 인시던트
 
-서비스 인시던트는 서비스 제공에 영향을 주는 이벤트입니다. 서비스 인시던트는 microsoft 데이터 센터의 하드웨어 또는 소프트웨어 오류, 고객과 microsoft 간의 잘못 된 네트워크 연결 또는 화재, 홍수 또는 지역별 재해가 같은 주요 데이터 센터 문제 때문일 수 있습니다. 대부분의 서비스 인시던트는 Microsoft 기술 및 프로세스 솔루션을 통해 대응이 가능하며, 짧은 시간 안에 해결됩니다. 하지만 일부 심각한 서비스 인시던트는 보다 장기적인 서비스 중단으로 이어질 수 있습니다.
+서비스 인시던트는 서비스 제공에 영향을 주는 이벤트입니다. 서비스 인시던트는 Microsoft 데이터 센터의 하드웨어 또는 소프트웨어 오류, 고객과 Microsoft 간의 잘못 된 네트워크 연결 또는 화재, 홍수 또는 지역별 재해가 같은 주요 데이터 센터 문제 때문일 수 있습니다. 대부분의 서비스 인시던트는 Microsoft 기술 및 프로세스 솔루션을 통해 대응이 가능하며, 짧은 시간 안에 해결됩니다. 하지만 일부 심각한 서비스 인시던트는 보다 장기적인 서비스 중단으로 이어질 수 있습니다.
   
 서비스를 사용할 수 없는 시간에 대 한 알림 유형에는 다음 두 가지가 있습니다.
   
@@ -70,7 +70,7 @@ Office 365의 서비스 상태 섹션에는 서비스의 현재 상태와 서비
 
 ## <a name="notification-policy"></a>알림 정책
 
-서비스 인시던트가 발생하면 Microsoft는 고객을 위해 시기 적절하고 대상이 지정된 정확한 커뮤니케이션이 필요한 상황이라는 것을 알게 됩니다. Microsoft는 office 365 관리 포털에서 SHD (테 넌 트 관련 서비스 상태 대시보드)를 업데이트 하 여 office 365 관리자에 게 알립니다. 서비스 인시던트 업데이트는 시간별 흐름에 제공 되거나, 다른 흐름을 필요로 하는 경우에는 SHD 통신 게시에 명시 됩니다. 
+서비스 인시던트가 발생하면 Microsoft는 고객을 위해 시기 적절하고 대상이 지정된 정확한 커뮤니케이션이 필요한 상황이라는 것을 알게 됩니다. Microsoft는 Office 365 관리 포털에서 SHD (테 넌 트 관련 서비스 상태 대시보드)를 업데이트 하 여 Office 365 관리자에 게 알립니다. 서비스 인시던트 업데이트는 시간별 흐름에 제공 되거나, 다른 흐름을 필요로 하는 경우에는 SHD 통신 게시에 명시 됩니다. 
   
 ## <a name="service-health-communication-channels"></a>서비스 상태 통신 채널
 
@@ -80,7 +80,7 @@ Office 365의 서비스 상태 섹션에는 서비스의 현재 상태와 서비
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2용 Office 365 관리 팩
 
-Microsoft System Center는 데이터 센터, 클라이언트 장치 및 하이브리드 클라우드 IT 환경을 관리하는 데 도움이 되는 통합 관리 플랫폼입니다. system center를 사용 하는 office 365 관리자는 이제 office 365 관리 팩을 가져올 수 있으며,이를 통해 system center에서 Operations Manager 내의 모든 서비스 통신을 보기 이 도구를 사용하면 구독 서비스, 활성 및 해결된 서비스 인시던트, 메시지 센터 통신의 상태에 액세스할 수 있습니다. 자세한 내용을 보려면 [새 Office 365 관리 도구](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/) 블로그 게시물을 참조하세요. 
+Microsoft System Center는 데이터 센터, 클라이언트 장치 및 하이브리드 클라우드 IT 환경을 관리하는 데 도움이 되는 통합 관리 플랫폼입니다. System Center를 사용 하는 office 365 관리자는 이제 Office 365 관리 팩을 가져올 수 있으며,이를 통해 System Center에서 Operations Manager 내의 모든 서비스 통신을 보기 이 도구를 사용하면 구독 서비스, 활성 및 해결된 서비스 인시던트, 메시지 센터 통신의 상태에 액세스할 수 있습니다. 자세한 내용을 보려면 [새 Office 365 관리 도구](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/) 블로그 게시물을 참조하세요. 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 서비스 통신 API
 
@@ -98,9 +98,9 @@ Office 365 서비스 통신 API를 사용하면 원하는 방식으로 Office 36
 
 지속적인 개선에 대한 Microsoft의 약속에는 고객에게 영향을 주는 예정되지 않은 서비스 인시던트를 분석하여 향후 그러한 상황이 다시 발생할 가능성을 최소화하겠다는 약속도 포함되어 있습니다. 
   
-계획 되지 않은 서비스 인시던트는 서비스 sla에 정의 된 대로 서비스 사용에 영향을 주는 다중 테 넌 트 서비스 중단으로 정의 되며 서비스 상태 대시보드에서 선언 됩니다.
+계획 되지 않은 서비스 인시던트는 서비스 Sla에 정의 된 대로 서비스 사용에 영향을 주는 다중 테 넌 트 서비스 중단으로 정의 되며 서비스 상태 대시보드에서 선언 됩니다.
   
- 수많은 조직에 광범위 하 고 현저한 영향을 주는 계획 되지 않은 고객이 영향을 주는 서비스 인시던트가 발생 하는 경우 서비스 상태 대시보드를 통해 pir (예비 사건 사후 검토)가 48 시간 이내에 제공 됩니다. 해결 방법, 영업일 5 일 이내에 최종 pir이 이어집니다. 자세한 pir 보고서에는 다음이 포함 됩니다. 
+ 수많은 조직에 광범위 하 고 현저한 영향을 주는 계획 되지 않은 고객이 영향을 주는 서비스 인시던트가 발생 하는 경우 서비스 상태 대시보드를 통해 PIR (예비 사건 사후 검토)가 48 시간 이내에 제공 됩니다. 해결 방법, 영업일 5 일 이내에 최종 PIR이 이어집니다. 자세한 PIR 보고서에는 다음이 포함 됩니다. 
   
 - 사용자 환경 및 고객 영향
     

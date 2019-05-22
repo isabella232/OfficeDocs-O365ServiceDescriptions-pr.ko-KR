@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/08/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-platform-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Exchange Online 계획을 비롯하여 Office 365 계획 간의 차이점을 알고 싶은 경우 이 문서를 통해 각 계획에 포함된 기능을 확인할 수 있습니다.
-ms.openlocfilehash: 0dc130b5efb9ae0735a509ad26ffe26859cd4f31
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 356e988c9532d58ffe89971754cdf861e4d767a7
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247224"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343307"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 플랫폼 서비스 설명
 
@@ -28,7 +28,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
   
 Microsoft Office 365는 기업 규모에 상관없이 클라우드 생산성의 효과를 제공하여 시간과 비용을 절약하고 중요 자원을 확보할 수 있도록 도와줍니다.Office 365는 익숙한 Microsoft Office 데스크톱 제품군을 Microsoft Exchange Online, Microsoft SharePoint Online, Office Online 및 Microsoft 비즈니스용 Skype 온라인 등의 Microsoft의 차세대 통신 및 공동 작업 서비스의 클라우드 기반 버전과 결합하여 사용자가 인터넷을 통해 사실상 어디서든 생산성을 높일 수 있도록 도와 줍니다.
   
-계획 간에 기능을 비교 하려면 office [365 for Business 요금제 비교](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 또는 자세한 기능 목록을 보려면 [office 365 서비스 설명 ](../office-365-service-descriptions-technet-library.md)에서 관련 서비스 설명을 참조 하세요.
+계획 간에 기능을 비교 하려면 office [365 For Business 요금제 비교](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 또는 자세한 기능 목록을 보려면 [Office 365 서비스 설명 ](../office-365-service-descriptions-technet-library.md)에서 관련 서비스 설명을 참조 하세요.
   
 - Office 365 Education 요금제에 대한 내용은 [Office 365 Education](office-365-education.md) 페이지부터 확인하세요. 
     
@@ -66,9 +66,9 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
   
 ## <a name="multi-geo-capabilities-in-office-365"></a>Office 365의 다중 지역 기능
 
-다중 위치를 사용 하면 단일 office 365 테 넌 트가 여러 Office 365 데이터 센터 지역에 걸쳐 있을 수 있으며, 선택한 지리에서 Exchange Online 및 비즈니스용 OneDrive에 대 한 office 365 데이터를 사용자별로 저장 하는 기능이 제공 됩니다. 
+다중 위치를 사용 하면 단일 Office 365 테 넌 트가 여러 Office 365 데이터 센터 지역에 걸쳐 있을 수 있으며, 선택한 지리에서 Exchange Online 및 비즈니스용 OneDrive에 대 한 Office 365 데이터를 사용자별로 저장 하는 기능이 제공 됩니다. 
   
-사용 가능한 geos: 아시아 태평양, 오스트레일리아, 캐나다, 유럽 연합, 인도, 일본, 한국, 영국, 미국 
+사용 가능한 Geos: 아시아 태평양, 오스트레일리아, 캐나다, 유럽 연합, 인도, 일본, 한국, 영국, 미국 
   
 자세한 내용은 [Office 365에서 다중 Geo 소개](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016)를 참조 하세요.
   
@@ -213,14 +213,14 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 <br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). 
 <br/><sup>6</sup> 용어 할인을 사용 하 여 구매한 좌석을 초기 종결 수수료에 따라 줄일 수 있습니다. This is not applicable for subscriptions paid on a monthly basis. 
 <br/><sup>7</sup> (에서 [https://securescore.office.com](https://securescore.office.com)사용 가능). 관리자 권한이 있어야 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://go.microsoft.com/fwlink/?linkid=836894)를 참조 하세요. 
-<br/><sup>8</sup> Microsoft Sway는 현재 특정 지역에 있는 고객에 게 제공 되지 않습니다. 8 월로 더 이상 출시 되지 않는 일부 레거시 Office 365 계획에는 Microsoft Sway에 대 한 액세스 권한이 없을 수도 있습니다. 
-<br/><sup>9</sup> 개의 환경이 감소 했습니다. 조직이 internet explorer 8 또는 internet explorer 9에 의존 하 여 이전 웹 앱 및 서비스에 액세스 하는 경우 internet explorer 11로 업그레이드 하 고 internet explorer 11 엔터프라이즈 모드를 평가 하는 것을 고려할 수 있습니다. 이 업데이트를 통해 레거시 Web Apps에 대한 이전 버전과의 호환성을 개선할 수 있습니다. 
-<br/><sup>10</sup> Microsoft 팀은 office 365 business Essentials, office 365 Business Premium, office 365 Enterprise (E1, E3, E5, F1) 및 office 365 교육용 요금제에서 사용할 수 있습니다. 
-<br/><sup>11</sup> office 365 Enterprise F1, office 365 비디오는 보기 전용으로 제한 됩니다 (게시 하거나 공유할 수 없음). 
+<br/><sup>8</sup> Microsoft Sway는 현재 특정 지역에 있는 고객에 게 제공 되지 않습니다. 8 2015 월로 더 이상 출시 되지 않는 일부 레거시 Office 365 계획에는 Microsoft Sway에 대 한 액세스 권한이 없을 수도 있습니다. 
+<br/><sup>9</sup> 개의 환경이 감소 했습니다. 조직이 Internet Explorer 8 또는 Internet Explorer 9에 의존 하 여 이전 웹 앱 및 서비스에 액세스 하는 경우 internet explorer 11로 업그레이드 하 고 Internet Explorer 11 엔터프라이즈 모드를 평가 하는 것을 고려할 수 있습니다. 이 업데이트를 통해 레거시 Web Apps에 대한 이전 버전과의 호환성을 개선할 수 있습니다. 
+<br/><sup>10</sup> Microsoft 팀은 Office 365 business Essentials, Office 365 Business Premium, Office 365 Enterprise (E1, E3, E5, F1) 및 Office 365 교육용 요금제에서 사용할 수 있습니다. 
+<br/><sup>11</sup> Office 365 Enterprise F1, Office 365 비디오는 보기 전용으로 제한 됩니다 (게시 하거나 공유할 수 없음). 
 <br/><sup>12</sup> inoffice 365 Enterprise F1, 일대일 오디오/시각적 통화가 지원 됩니다. 모임 권한은 참가로만 제한됩니다(만들거나 시작할 수 없음). 
 <br/><sup>13</sup> Office 365 Enterprise F1에서 PowerApps는 사용 전용으로 제한 됩니다 (게시 하거나 공유할 수 없음). 
 <br/><sup>14</sup> In Office 365 Enterprise F1, 흐름은 소비율만을 사용 하도록 제한 되며 실행은 매달 사용자 당 750로 제한 됩니다. 
-<br/><sup>15</sup> office 365 E5 교육을 포함 하 여 office 365 교육용 요금제 에서만 사용할 수 있습니다. Office 365 Enterprise E5에서는 사용할 수 없습니다. 
+<br/><sup>15</sup> Office 365 E5 교육을 포함 하 여 Office 365 교육용 요금제 에서만 사용할 수 있습니다. Office 365 Enterprise E5에서는 사용할 수 없습니다. 
 <br/><sup>16</sup> 자세한 내용은 [고객 키를 사용 하 여 Office 365에서 데이터 제어](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요. 
-<br/><sup>17</sup> Advanced eDiscovery는 미국 및 유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카의 고객 데이터는 서유럽 [네덜란드]로 내보내집니다. gT <br/><sup>18</sup> Microsoft Stream의 소비량: 게시 또는 공유 안 함
-<br/><sup>19</sup> 5 월 2019 일, 기존 적격 sku 및 Microsoft 365는 Kaizala Pro를 사용 하 여 backfilled 됩니다. 2019 년 6 월 1 일부 Kaizala Pro는 모든 적격 Office 365 및 Microsoft 365 sku에 포함 됩니다.   
+<br/><sup>17</sup> Advanced EDiscovery는 미국 및 유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카의 고객 데이터는 서유럽 [네덜란드]로 내보내집니다. GT <br/><sup>18</sup> Microsoft Stream의 소비량: 게시 또는 공유 안 함
+<br/>19 5 월 2019 일, 기존 적격 365 sku 및 Microsoft 365는 Kaizala Pro를 사용 하 여 backfilled 됩니다. 2019 년 6 월 1 일부 Kaizala Pro는 모든 적격 Office 365 및 Microsoft 365 Sku에 포함 됩니다.   

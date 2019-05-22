@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-reports
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
-description: Microsoft office 365의 관리자는 조직에서 Office 365 서비스를 사용 하는 방법을 보여 주는 보고서를 볼 수 있습니다. 이러한 보고서를 사용하면 문제를 확인하고 데이터를 필터링하며 데이터를 Microsoft Excel에 다운로드할 수 있습니다. Office 365 보고 웹 서비스를 사용하여 자체 보고서를 만들 수도 있습니다. Exchange Online 및 EOP(Exchange Online Protection) 관리자는 Office 365의 메일 보호 보고서를 사용하여 맬웨어, 스팸 및 규칙 감지에 대한 데이터 보기를 수행할 수 있습니다.
-ms.openlocfilehash: 0ad1389e9c3bb7c400368389739f62abed62b275
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Microsoft Office 365의 관리자는 조직에서 Office 365 서비스를 사용 하는 방법을 보여 주는 보고서를 볼 수 있습니다. 이러한 보고서를 사용하면 문제를 확인하고 데이터를 필터링하며 데이터를 Microsoft Excel에 다운로드할 수 있습니다. Office 365 보고 웹 서비스를 사용하여 자체 보고서를 만들 수도 있습니다. Exchange Online 및 EOP(Exchange Online Protection) 관리자는 Office 365의 메일 보호 보고서를 사용하여 맬웨어, 스팸 및 규칙 감지에 대한 데이터 보기를 수행할 수 있습니다.
+ms.openlocfilehash: a291d9f7b457a2cf4da254c3bfd21cd671cdc42b
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247054"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343167"
 ---
 # <a name="reports"></a>보고서
 
-Microsoft office 365의 관리자는 조직에서 Office 365 서비스를 사용 하는 방법을 보여 주는 보고서를 볼 수 있습니다. 이러한 보고서를 사용하면 문제를 확인하고 데이터를 필터링하며 데이터를 Microsoft Excel에 다운로드할 수 있습니다. Office 365 보고 웹 서비스를 사용하여 자체 보고서를 만들 수도 있습니다. Exchange Online 및 EOP(Exchange Online Protection) 관리자는 [Office 365의 메일 보호 보고서를 사용하여 맬웨어, 스팸 및 규칙 감지에 대한 데이터 보기](https://go.microsoft.com/fwlink/p/?LinkId=401102)를 수행할 수 있습니다.
+Microsoft Office 365의 관리자는 조직에서 Office 365 서비스를 사용 하는 방법을 보여 주는 보고서를 볼 수 있습니다. 이러한 보고서를 사용하면 문제를 확인하고 데이터를 필터링하며 데이터를 Microsoft Excel에 다운로드할 수 있습니다. Office 365 보고 웹 서비스를 사용하여 자체 보고서를 만들 수도 있습니다. Exchange Online 및 EOP(Exchange Online Protection) 관리자는 [Office 365의 메일 보호 보고서를 사용하여 맬웨어, 스팸 및 규칙 감지에 대한 데이터 보기](https://go.microsoft.com/fwlink/p/?LinkId=401102)를 수행할 수 있습니다.
   
 자세한 내용은 [Office 365에서 서비스 사용 현황에 대한 보고서 보기 및 다운로드](https://go.microsoft.com/fwlink/p/?LinkID=270182)를 참조하십시오. 21Vianet에서 운영하는 Office 365의 경우 [21Vianet에서 운영하는 Office 365용 보고서 보기 및 다운로드](http://go.microsoft.com/fwlink/?LinkID=733348&amp;clcid=0x409)를 참조하세요.
   

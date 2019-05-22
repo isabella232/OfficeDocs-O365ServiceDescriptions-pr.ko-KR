@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 4/17/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-content-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음의 콘텐츠 기능은 모든 사용자들이 ECM(엔터프라이즈 콘텐츠 관리)을 쉽게 사용할 수 있게 도와 줍니다. 콘텐츠는 기존의 콘텐츠 관리, 소셜 기능 및 강력한 검색 기능을 모두 결합합니다.
-ms.openlocfilehash: 71307d6c268a6060ebcacdcfa082a494a7b6059e
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 67b7af09bc6a4abc8ec42750588079145f9f4719
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246674"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342557"
 ---
 # <a name="content"></a>콘텐츠
 
@@ -124,7 +124,7 @@ eDiscovery 검색을 사용하여 사용자가 규정 준수 및 소송 지원�
 ## <a name="information-rights-management-irm"></a>IRM(정보 권한 관리)
 <a name="bkmk_InformationRightsManagement"> </a>
 
-SharePoint Online IRM은 Office 365의 정보 보호 기술인 Azure information protection을 사용 합니다. IRM 보호는 SharePoint 목록 및 라이브러리 수준의 파일에 적용됩니다. [SharePoint Online의 IRM](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)에 대해 더 자세히 알아보세요.
+SharePoint Online IRM은 Office 365의 정보 보호 기술인 Azure Information Protection을 사용 합니다. IRM 보호는 SharePoint 목록 및 라이브러리 수준의 파일에 적용됩니다. [SharePoint Online의 IRM](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)에 대해 더 자세히 알아보세요.
   
 ## <a name="managed-metadata-service"></a>Managed Metadata Service
 <a name="bkmk_ManagedMetadataService"> </a>

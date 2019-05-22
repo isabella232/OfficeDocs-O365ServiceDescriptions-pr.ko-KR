@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함하는 여러 Office 365 구독의 기능을 비교하고 싶나요? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: 2c1eaf2fcbfc543bf838b91592d454a49df60866
-ms.sourcegitcommit: 718731549996bd25f657f1356365318f8e9e7376
+ms.openlocfilehash: b7beee90d49d9962a0234758ae3f9aba087a226a
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33659677"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342767"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -317,7 +317,7 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 <sup>14</sup> Exchange Server 2013 이상을 실행 하는 고객은 최신 CU (누적 업데이트) 또는 바로 이전 CU를 다운로드 및 설치 해야 하며,이 경우 Owa 및 장치용 Owa에서 문서 지문을 및 정책 팁에 액세스할 수 있습니다. <br/>
 <sup>15</sup> Exchange Server 2013 이상을 실행 하는 고객에 게 제공 됩니다. <br/>
 <sup>16</sup> BitLocker 드라이브 암호화는 Exchange Server 2013에 대해 지원 되지만 관리자가 해당 기능을 사용 하도록 설정 해야 합니다. <br/>
-<sup>17</sup> Exchange Online 계획 1에는 [사서함 및 보관에 대 한 크기 제한이](https://go.microsoft.com/fwlink/?LinkId=330039)있습니다. Exchange Online 용 Exchange Online 보관 기능을 사용 하면 무제한의 클라우드 기반 보관 사서함 및 원본 [위치 유지](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold)기능이 추가 됩니다. <br/>
+<sup>17</sup> Exchange Online 계획 1에는 [사서함 및 보관에 대 한 크기 제한이](https://go.microsoft.com/fwlink/?LinkId=330039)있습니다. Exchange Online 용 exchange Online 보관 기능을 사용 하면 무제한의 클라우드 기반 보관 사서함 및 원본 [위치 유지](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold)기능이 추가 됩니다. <br/>
 <sup>18</sup> Exchange Online Kiosk 일정은 OWA를 통해서만 액세스 또는 공유할 수 있습니다. <br/>
 <sup>19</sup> 연결 된 계정은 POP &amp; IMAP 계정에 대해서는 지원 되지만 Outlook.com (Hotmail)에는 사용할 수 없습니다. <br/>
 <sup>20</sup> Exchange Online PowerShell에서 cmdlet을 사용 하 여 기본 주소 목록 및 GAL (전체 주소 목록)을 사용자 지정 하는 것은 지원 되지 않습니다. <br/>

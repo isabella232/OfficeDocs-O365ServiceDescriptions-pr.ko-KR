@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/06/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - excel-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (이전의 Excel Web App)을 사용 하면 Microsoft Excel 환경을 웹 브라우저로 확장 하 여 통합 문서가 저장 된 웹 사이트에서 통합 문서를 직접 사용할 수 있습니다. 모든 Office 365 고객은 Office Online을 사용하여 Office 파일을 보고 간단히 편집할 수 있습니다.
-ms.openlocfilehash: 16f5f8fb606277f58f4b6ba5cff91b51656c441f
-ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
+ms.openlocfilehash: f84df58c744384690d83b2db11ce96fc644ae7af
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33641624"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343780"
 ---
 # <a name="excel-online"></a>Excel Online
 

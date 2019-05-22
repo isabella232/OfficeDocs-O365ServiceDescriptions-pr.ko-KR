@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-compliance
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365은 업계 표준 및 규정을 준수 하며, 비즈니스에 대 한 규정 요구 사항을 충족 하는 데 도움이 되도록 설계 되었습니다. 자세한 내용은 준수 서비스를 참조 하세요.
-ms.openlocfilehash: ad4b2a0cbc43f2eb4e6070fc5d41159f54141fbc
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: d7ad8180aa56c6fbe483986f31fce8bc65d64b32
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246764"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343647"
 ---
 # <a name="compliance"></a>규정 준수
 
@@ -56,11 +56,11 @@ Microsoft Office 365은 업계 표준 및 규정을 준수 하며, 비즈니스�
     
 - FIPS 140-2
     
-- fisc
+- FISC
     
 - FISMA
     
-- gxp
+- GxP
     
 - HIPAA/HITECH
     
@@ -72,7 +72,7 @@ Microsoft Office 365은 업계 표준 및 규정을 준수 하며, 비즈니스�
     
 - 일본 내 번호 Act
     
-- mtcs
+- MTCS
     
 - NZ 참조 프레임 워크
     
@@ -96,9 +96,9 @@ Office 365 준수 및 감사 보고서에 대 한 자세한 내용은 Service Tr
   
 - **조직에서 Office 365를 사용할 수 있으며, 여전히 PCI-DSS를 준수 하나요?**
     
-  - 지불 카드 업계 데이터 보안 standard (pci-e)는 신용 카드 데이터를 보다 쉽게 제어할 수 없도록 하기 위해 설계 된 글로벌 정보 보안 표준입니다. pci-DSS는 모든 조직 처리 크레딧 및 직불 카드에 대 한 보안 표준 집합을 만들기 위해 pci 보안 표준 Council에서 작성 되었습니다.
+  - 지불 카드 업계 데이터 보안 Standard (PCI-E)는 신용 카드 데이터를 보다 쉽게 제어할 수 없도록 하기 위해 설계 된 글로벌 정보 보안 표준입니다. PCI-DSS는 모든 조직 처리 크레딧 및 직불 카드에 대 한 보안 표준 집합을 만들기 위해 PCI 보안 표준 Council에서 작성 되었습니다.
     
-  - 고객은 고객이 office 365 구독을 구입할 수 있는 commerce system에서 PCI-DSS 수준 1 준수를 획득 하기 때문에 신용 카드를 사용 하 여 신뢰할 수 있는 office 365 서비스에 대 한 주문 및 비용 지불이 가능 합니다. 독립적인 타사 감사자는 Microsoft의 OCP (온라인 Commerce Platform)가 pci-e 버전 1.2를 만족 스럽게 충족 하는지 확인 합니다. 아래에 설명 된 것 처럼 조직은 Office 365 서비스를 사용 하 여 사용자가 PCI DSS 요구 사항을 준수 하는 데 도움을 받을 수 있습니다.
+  - 고객은 고객이 Office 365 구독을 구입할 수 있는 commerce system에서 PCI-DSS 수준 1 준수를 획득 하기 때문에 신용 카드를 사용 하 여 신뢰할 수 있는 Office 365 서비스에 대 한 주문 및 비용 지불이 가능 합니다. 독립적인 타사 감사자는 Microsoft의 OCP (온라인 Commerce Platform)가 PCI-E 버전 1.2를 만족 스럽게 충족 하는지 확인 합니다. 아래에 설명 된 것 처럼 조직은 Office 365 서비스를 사용 하 여 사용자가 PCI DSS 요구 사항을 준수 하는 데 도움을 받을 수 있습니다.
     
 - **Office 365에서 어떻게 PCI-DSS를 사용 하 여 조직에서 지원 하나요?**
     

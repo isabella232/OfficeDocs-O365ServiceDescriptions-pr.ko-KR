@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - discovery-features-in-yammer
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: Yammer에서는 다음과 같은 검색 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 6736eae580814a156abb3b67f5ae038215ad2bc9
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 031b93b95d435b2223ad9e6e8be24e6f71b71dd9
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247364"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342307"
 ---
 # <a name="discovery-features-in-yammer"></a>Yammer의 검색 기능
 

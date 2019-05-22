@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/10/2017
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-domains
@@ -14,13 +14,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
-description: 도메인을 추가하면 단계별 마법사가 사용자를 추가하고 Office 365 전자 메일 주소 및 기타 서비스를 회사 이름으로 변환하도록 도와줍니다. 마법사를 완료하면 회사 전자 메일이 현재의 전자 메일 공급자가 아닌 Office 365로 들어오기 시작합니다. 자세한 내용은 Office 365에 사용자 및 도메인 추가를 참조하세요. 21vianet에서 운영 하는 Office 365을 사용 하는 경우 도메인 확인을 참조 하세요.
-ms.openlocfilehash: 1dc6d23afea52dd292d97b414e5b491d6d332dd7
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: 도메인을 추가하면 단계별 마법사가 사용자를 추가하고 Office 365 전자 메일 주소 및 기타 서비스를 회사 이름으로 변환하도록 도와줍니다. 마법사를 완료하면 회사 전자 메일이 현재의 전자 메일 공급자가 아닌 Office 365로 들어오기 시작합니다. 자세한 내용은 Office 365에 사용자 및 도메인 추가를 참조하세요. 21Vianet에서 운영 하는 Office 365을 사용 하는 경우 도메인 확인을 참조 하세요.
+ms.openlocfilehash: febc87051ec9b4e6853cadfc43a0d0c272dd1b04
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247284"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343737"
 ---
 # <a name="domains"></a>도메인
 
@@ -54,7 +54,7 @@ Office 365는 DNS 레코드를 사진에 확인하여 DNS 문제를 찾고 해�
 ## <a name="sharing-a-domain"></a>도메인 공유
 <a name="BKMK_ManagingDNSRecords"> </a>
 
-Office 365에 있는 도메인의 전자 메일 주소 몇 개와 이전 전자 메일 공급자의 전자 메일 주소 몇 개를 사용하여 Office 365에 대한 파일럿을 수행할 수 있습니다. 이 기능은 추가 설치 단계가 필요 하며 office 365 서비스에 몇 가지 제한이 있으므로 office 365의 파일럿 중에 사용할 때만 사용 하는 것이 좋습니다. 자세한 내용은 다음을 참조하세요.
+Office 365에 있는 도메인의 전자 메일 주소 몇 개와 이전 전자 메일 공급자의 전자 메일 주소 몇 개를 사용하여 Office 365에 대한 파일럿을 수행할 수 있습니다. 이 기능은 추가 설치 단계가 필요 하며 Office 365 서비스에 몇 가지 제한이 있으므로 Office 365의 파일럿 중에 사용할 때만 사용 하는 것이 좋습니다. 자세한 내용은 다음을 참조하세요.
   
 - [중소기업용 Office 365 파일럿](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     

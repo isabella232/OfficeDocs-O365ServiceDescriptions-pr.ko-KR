@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-protection-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다. Exchange Online Protection을 제공하는 계획 목록과 계획 간 기능 비교가 포함되어 있습니다.
-ms.openlocfilehash: b90b480df4fb4116ab75f5d25428be86a9395ae0
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 22116d6771ccafe421cf1a3fc1abc87ab4af1d43
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246114"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342088"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 서비스 설명
 
@@ -28,7 +28,7 @@ Microsoft EOP(Exchange Online Protection)는 스팸 및 맬웨어로부터 조�
   
 기본적으로 다음과 같은 방식을 통해 메시징 보호에 EOP를 사용할 수 있습니다.
   
-- **독립 실행형 시나리오에서** EOP에서는 온-프레미스 exchange server 2013 환경, 레거시 exchange server 버전 또는 기타 모든 온-프레미스 SMTP 전자 메일 솔루션에 대해 클라우드 기반 전자 메일 보호 기능을 제공 합니다. 
+- **독립 실행형 시나리오에서** EOP에서는 온-프레미스 Exchange Server 2013 환경, 레거시 Exchange Server 버전 또는 기타 모든 온-프레미스 SMTP 전자 메일 솔루션에 대해 클라우드 기반 전자 메일 보호 기능을 제공 합니다. 
     
 - **Microsoft Exchange Online의 일부로** 기본적으로 EOP는 Exchange Online 클라우드 호스트 사서함을 보호합니다. Exchange Online에 대한 자세한 내용은 [Exchange Online 서비스 설명](../exchange-online-service-description/exchange-online-service-description.md)을 참조하세요.
     
@@ -128,7 +128,7 @@ EOP의 제한은 [Exchange Online Protection 제한](exchange-online-protection-
  <br/><sup>9</sup> EOP 보고서는 사서함에 대한 정보를 제외한 Exchange Online 보고서의 하위 집합입니다.
  <br/><sup>10</sup> DLP 보고서가 포함됩니다. 
  <br/><sup>11</sup> Exchange Enterprise CAL with Services 고객은 **Exchange Online Protection** 서비스가 아니라 **Exchange Online** 서비스를 선택하여 통합 문서를 설치해야 합니다. 
- <br/><sup>12</sup> Azure Information protection을 구입 하 고 exchange online Protection을 사용 하 여 exchange online을 통해 전자 메일을 라우팅하는 온-프레미스 고객에 게 지원 됩니다. 
+ <br/><sup>12</sup> Azure Information protection을 구입 하 고 Exchange online Protection을 사용 하 여 exchange online을 통해 전자 메일을 라우팅하는 온-프레미스 고객에 게 지원 됩니다. 
  <br/> <sup>13</sup> 인바운드 및 아웃바운드 메시지는 검사하지만 조직의 보낸 사람이 조직의 받는 사람에게 보낸 내부 메시지는 검사하지 않습니다. 
  <br/><sup>14</sup> EOP 및 Exchange Online에서 사용할 수 있는 조건자와 작업은 각기 다릅니다. 
  <br/> <sup>15</sup> 하이브리드 설치는 하이브리드 마법사를 통해 사용할 수 없지만 Exchange SP1이 있는 경우에는 수동으로 설정할 수 있습니다. 

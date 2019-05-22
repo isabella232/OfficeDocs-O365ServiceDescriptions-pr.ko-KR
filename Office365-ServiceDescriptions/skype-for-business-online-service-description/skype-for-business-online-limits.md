@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - skype-for-business-online-limits
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 비즈니스용 Skype Online의 제한은 다음 범주에 속합니다.
-ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 2c45009ce112334485b8caacb4f9f221b208c678
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246464"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342407"
 ---
 # <a name="skype-for-business-online-limits"></a>비즈니스용 Skype Online 제한
 
@@ -49,12 +49,12 @@ ms.locfileid: "33246464"
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|파일 전송 제한  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |해당 없음  <br/> |
+|파일 전송 제한  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |해당 사항 없음  <br/> |
 |대화 한도<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
-|대화 탭 열기 제한  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |해당 없음  <br/> |
+|대화 탭 열기 제한  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |해당 사항 없음  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 클라이언트가 최대 99 명의 사용자와 대화를 직접 추가 하거나 그룹이 나 메일 그룹의 상황에 맞는 메뉴에서 인스턴트 메시지를 보내 채팅을 시작할 수 있습니다. 비즈니스용 skype Online의 인스턴트 메시징에 대 한 자세한 내용은 [비즈니스용 skype에서 메신저 대화](https://go.microsoft.com/fwlink/?linkid=533412)를 참조 하세요. 
+> <sup>1</sup> 클라이언트가 최대 99 명의 사용자와 대화를 직접 추가 하거나 그룹이 나 메일 그룹의 상황에 맞는 메뉴에서 인스턴트 메시지를 보내 채팅을 시작할 수 있습니다. 비즈니스용 Skype Online의 인스턴트 메시징에 대 한 자세한 내용은 [비즈니스용 skype에서 메신저 대화](https://go.microsoft.com/fwlink/?linkid=533412)를 참조 하세요. 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>독립 실행형 옵션별 피어-투-피어 제한
 
@@ -66,7 +66,7 @@ ms.locfileid: "33246464"
 |대화 탭 열기 제한  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 클라이언트가 최대 99 명의 사용자와 대화를 직접 추가 하거나 그룹이 나 메일 그룹의 상황에 맞는 메뉴에서 인스턴트 메시지를 보내 채팅을 시작할 수 있습니다. 비즈니스용 skype Online의 인스턴트 메시징에 대 한 자세한 내용은 [비즈니스용 skype에서 메신저 대화](https://go.microsoft.com/fwlink/?linkid=533412)를 참조 하세요. 
+> <sup>1</sup> 클라이언트가 최대 99 명의 사용자와 대화를 직접 추가 하거나 그룹이 나 메일 그룹의 상황에 맞는 메뉴에서 인스턴트 메시지를 보내 채팅을 시작할 수 있습니다. 비즈니스용 Skype Online의 인스턴트 메시징에 대 한 자세한 내용은 [비즈니스용 skype에서 메신저 대화](https://go.microsoft.com/fwlink/?linkid=533412)를 참조 하세요. 
   
 ## <a name="meeting-limits"></a>모임 제한
 <a name="bkmk_Meeting_LyncOnlineLimits"> </a>
@@ -89,11 +89,11 @@ ms.locfileid: "33246464"
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
 |파일 업로드 제한  <br/> |500MB  <br/> |500MB  <br/> |500MB  <br/> |500MB  <br/> |500MB  <br/> |해당 없음  <br/> |
-|비즈니스용 Skype 모임의 참가자<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
-|비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
+|비즈니스용 Skype 모임의 참가자<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 사항 없음  <br/> |
+|비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 사항 없음  <br/> |
 |비즈니스용 Skype 웹 앱 모임 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
-|비즈니스용 Skype 웹 앱 익명 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
-|전화로 참가하는 게스트  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
+|비즈니스용 Skype 웹 앱 익명 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 사항 없음  <br/> |
+|전화로 참가하는 게스트  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 사항 없음  <br/> |
 |팀 호출 그룹의 개인  <br/> |25@@  <br/> |25@@  <br/> |25@@  <br/> |25@@  <br/> |25@@  <br/> |해당 없음  <br/> |
    
 > [!NOTE]
@@ -105,12 +105,12 @@ ms.locfileid: "33246464"
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 1** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 2** <br/> |
 |파일 업로드 제한  <br/> |500MB  <br/> |해당 없음  <br/> |500MB  <br/> |
-|비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
-|비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
-|비즈니스용 Skype 웹 앱 모임 참가자  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
-|비즈니스용 Skype 웹 앱 익명 참가자  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
-|전화로 참가하는 게스트  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
-|팀 호출 그룹의 개인  <br/> |25@@  <br/> |해당 없음  <br/> |25@@  <br/> |
+|비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |해당 사항 없음  <br/> |250  <br/> |
+|비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |해당 사항 없음  <br/> |250  <br/> |
+|비즈니스용 Skype 웹 앱 모임 참가자  <br/> |250  <br/> |해당 사항 없음  <br/> |250  <br/> |
+|비즈니스용 Skype 웹 앱 익명 참가자  <br/> |250  <br/> |해당 사항 없음  <br/> |250  <br/> |
+|전화로 참가하는 게스트  <br/> |250  <br/> |해당 사항 없음  <br/> |250  <br/> |
+|팀 호출 그룹의 개인  <br/> |25@@  <br/> |해당 사항 없음  <br/> |25@@  <br/> |
    
 ## <a name="meeting-retention-limits"></a>모임 보존 제한
 <a name="bkmk_MeetingRetention_LyncOnlineLimits"> </a>

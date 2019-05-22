@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 03/14/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-service-descriptions
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365는 강력한 보안, 안정성 및 사용자 생산성에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되도록 설계 된 클라우드 기반 서비스입니다.
-ms.openlocfilehash: 631ba72fce2e09465244be20f0587476af0d56cb
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 54a678c962115d0c13cd96d3aa3e3f469cc33274
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246794"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343017"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 서비스 설명 
 
@@ -33,7 +33,7 @@ Microsoft Office 365는 강력한 보안, 안정성 및 사용자 생산성에 �
 > [!NOTE]
 > 서비스 설명 비교 스프레드시트에 대한 내용은 더 이상 사용되지 않습니다. 각 서비스 설명 페이지의 제품 기능 가용성 표가 필요에 맞는 Office 365 버전을 선택하는 데 도움이 되도록 업데이트되었습니다. 
   
-Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365의 fasttrack 센터 혜택을 제공 합니다. 이를 통해 Microsoft 전문가와 원격으로 작업 하 여 Office 365 환경을 준비 하 고 사용할 수 있습니다. 자세한 내용은 [Office 365용 FastTrack Center 혜택](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)을 참조합니다.
+Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365의 FastTrack 센터 혜택을 제공 합니다. 이를 통해 Microsoft 전문가와 원격으로 작업 하 여 Office 365 환경을 준비 하 고 사용할 수 있습니다. 자세한 내용은 [Office 365용 FastTrack Center 혜택](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)을 참조합니다.
   
 시작하려면 다음 서비스 설명을 참조하십시오.
   

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-reporting-features-and-troubleshooting-tools
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
-description: Microsoft exchange Online은 EAC (Exchange 관리 센터)에 대 한 다양 한 보고 기능을 제공 합니다.
-ms.openlocfilehash: 1fb9a0fe62fb94c0ace7388613ca26f65fc4698f
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Microsoft Exchange Online은 EAC (Exchange 관리 센터)에 대 한 다양 한 보고 기능을 제공 합니다.
+ms.openlocfilehash: 71aa0910dc343ecca228e47af0141ac49f556ccd
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246374"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342877"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>보고 기능 및 문제 해결 도구
 
-Microsoft exchange Online은 EAC (Exchange 관리 센터)에 대 한 다양 한 보고 기능을 제공 합니다.
+Microsoft Exchange Online은 EAC (Exchange 관리 센터)에 대 한 다양 한 보고 기능을 제공 합니다.
   
 ## <a name="reporting-features"></a>보고 기능
 
@@ -34,7 +34,7 @@ Microsoft 365 관리 센터의 보고서 페이지에는 사서함 및 그룹에
   
 또한 Microsoft 365 관리 센터의 보고서 페이지에는 메시지 트래픽, 스팸 및 맬웨어 감지, Exchange 전송 규칙이 나 DLP (데이터 손실 방지)의 영향을 받는 메시지에 대 한 정보를 제공 하는 메시징 데이터 보고서가 포함 되어 있습니다. 정책도. 보호, 규칙 및 DLP에 대한 향상된 보고서에서는 Exchange Online 관리자에게 대화형 보고 환경이 제공됩니다. 이러한 보고서에서는 개별 메시지에 대한 세부 정보로 드릴다운할 수 있는 기능과 함께 요약 데이터가 제공됩니다.
   
-각 Office 365 구독에 사용할 수 있는 보고서에 대한 자세한 내용은 [보고서](../office-365-platform-service-description/reports.md)를 참조하세요. Microsoft 365 관리 센터의 보고서 페이지에 대 한 자세한 내용은 [보기 및 다운로드 보고서-office 365의 서비스 사용 현황](https://go.microsoft.com/fwlink/p/?LinkId=401187) 및 [메일 보호 보고서 사용에서 맬웨어, 스팸 및 규칙 감지에 대 한 데이터 보기를 참조 하세요. ](https://go.microsoft.com/fwlink/p/?LinkID=401102).
+각 Office 365 구독에 사용할 수 있는 보고서에 대한 자세한 내용은 [보고서](../office-365-platform-service-description/reports.md)를 참조하세요. Microsoft 365 관리 센터의 보고서 페이지에 대 한 자세한 내용은 보기 및 다운로드 보고서-office 365의 서비스 사용 현황 및 메일 보호 365 보고서 사용에서 맬웨어, 스팸 및 규칙 감지에 대 한 데이터 보기를 참조 하세요. .
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Excel 보고 통합 문서를 사용하여 보고
 

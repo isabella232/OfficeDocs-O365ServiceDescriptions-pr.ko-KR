@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - word-online-service-description
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: word Online (이전의 word Web App)을 사용 하면 Microsoft word 환경을 웹 브라우저로 확장 하 여 문서가 저장 된 웹 사이트에서 직접 문서로 작업할 수 있습니다.
-ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Word Online (이전의 Word Web App)을 사용 하면 Microsoft Word 환경을 웹 브라우저로 확장 하 여 문서가 저장 된 웹 사이트에서 직접 문서로 작업할 수 있습니다.
+ms.openlocfilehash: 368267ed20a14ca5fffa5fc4226141ac00adaace
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246954"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343797"
 ---
 # <a name="word-online"></a>Word Online
 
-word Online (이전의 word Web App)을 사용 하면 Microsoft word 환경을 웹 브라우저로 확장 하 여 문서가 저장 된 웹 사이트에서 직접 문서로 작업할 수 있습니다. 
+Word Online (이전의 Word Web App)을 사용 하면 Microsoft Word 환경을 웹 브라우저로 확장 하 여 문서가 저장 된 웹 사이트에서 직접 문서로 작업할 수 있습니다. 
   
 ## <a name="alignment-guides-and-live-layout"></a>맞춤 안내서 및 라이브 레이아웃
 <a name="bkmk_AlignmentGuidesLivelayout"> </a>
@@ -256,7 +256,7 @@ Word Online에서는 사용할 수 없습니다. 맞춤법 검사 사전에 새 
 ## <a name="real-time-co-authoring"></a>실시간 공동 작성
 <a name="bkmk_Coauthoring"> </a>
 
-여러 사용자가 한 문서에서 동시에 작업할 수 있습니다. word Online 및 word 2016에서 실시간 현재 상태는 문서에서 공동 작성자가 작업을 수행 하는 위치를 확인 하는 데 도움이 되므로 편집 하는 동안 충돌이 발생 하지 않으며 변경 내용을 볼 수 있습니다. Word 2013에서는 동시 편집을 지원하지만 현재 상태가 표시되지 않으며 문서를 저장해야 여러 작성자가 변경 내용을 확인할 수 있습니다. 실시간 공동 작성에 대 한 자세한 내용은 [word Online의 새로운 기능](https://go.microsoft.com/fwlink/?LinkId=389520) 및 [실시간 공동 작성을 사용 하 여 word 문서에 대 한 공동 작업](https://go.microsoft.com/fwlink/?linkid=798760)을 참조 하세요.
+여러 사용자가 한 문서에서 동시에 작업할 수 있습니다. Word Online 및 Word 2016에서 실시간 현재 상태는 문서에서 공동 작성자가 작업을 수행 하는 위치를 확인 하는 데 도움이 되므로 편집 하는 동안 충돌이 발생 하지 않으며 변경 내용을 볼 수 있습니다. Word 2013에서는 동시 편집을 지원하지만 현재 상태가 표시되지 않으며 문서를 저장해야 여러 작성자가 변경 내용을 확인할 수 있습니다. 실시간 공동 작성에 대 한 자세한 내용은 [Word Online의 새로운 기능](https://go.microsoft.com/fwlink/?LinkId=389520) 및 [실시간 공동 작성을 사용 하 여 word 문서에 대 한 공동 작업](https://go.microsoft.com/fwlink/?linkid=798760)을 참조 하세요.
   
 ## <a name="reference-tools"></a>참조 도구
 <a name="bkmk_ReferenceTools"> </a>

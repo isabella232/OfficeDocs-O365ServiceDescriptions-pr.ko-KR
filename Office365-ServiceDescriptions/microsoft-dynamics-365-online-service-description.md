@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - microsoft-dynamics-crm-online-service-description
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
-description: dynamics 365 (온라인 및 온-프레미스)에 대 한 12 월 2016 업데이트의 경우 dynamics CRM 기능은 지능형 비즈니스 응용 프로그램의 제품군 인 dynamics 365의 일부로 포함 되어 있습니다. Dynamic 365는 특정 비즈니스 기능을 관리하는 데 도움이 되는 새로운 응용 프로그램을 제공하여 CRM(고객 관계 관리) 및 ERP(기업 자원 계획) 기능을 통합합니다.
-ms.openlocfilehash: 0701f6dc7470caed6c607fcfba0ce8615793132b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Dynamics 365 (온라인 및 온-프레미스)에 대 한 12 월 2016 업데이트의 경우 Dynamics CRM 기능은 지능형 비즈니스 응용 프로그램의 제품군 인 Dynamics 365의 일부로 포함 되어 있습니다. Dynamic 365는 특정 비즈니스 기능을 관리하는 데 도움이 되는 새로운 응용 프로그램을 제공하여 CRM(고객 관계 관리) 및 ERP(기업 자원 계획) 기능을 통합합니다.
+ms.openlocfilehash: 953ed920abbeec655fbe04ef68f48a7ec386e182
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246524"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342967"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365(온라인) 서비스 설명
 
-dynamics 365 (온라인 및 온-프레미스)에 대 한 12 월 2016 업데이트의 경우 dynamics CRM 기능은 지능형 비즈니스 응용 프로그램의 제품군 인 dynamics 365의 일부로 포함 되어 있습니다. Dynamic 365는 특정 비즈니스 기능을 관리하는 데 도움이 되는 새로운 응용 프로그램을 제공하여 CRM(고객 관계 관리) 및 ERP(기업 자원 계획) 기능을 통합합니다. 
+Dynamics 365 (온라인 및 온-프레미스)에 대 한 12 월 2016 업데이트의 경우 Dynamics CRM 기능은 지능형 비즈니스 응용 프로그램의 제품군 인 Dynamics 365의 일부로 포함 되어 있습니다. Dynamic 365는 특정 비즈니스 기능을 관리하는 데 도움이 되는 새로운 응용 프로그램을 제공하여 CRM(고객 관계 관리) 및 ERP(기업 자원 계획) 기능을 통합합니다. 
   
 이러한 응용 프로그램에는 다음이 포함됩니다.
   
@@ -91,12 +91,12 @@ Dynamics 365의 기능에 대한 자세한 내용은 [Microsoft Dynamics 365](ht
 |**통합 서비스 데스크** <br/> |읽기 전용  <br/> |Full  <br/> |Full  <br/> |읽기 전용  <br/> |읽기 전용  <br/> |Full  <br/> |
 |**전체 사례 관리, 서비스, 리소스 (bookable not), 직장 시간, 시설, 장비, 문서** <br/> |읽기 전용  <br/> |읽기 전용  <br/> |Full  <br/> |읽기 전용  <br/> |읽기 전용  <br/> |Full  <br/> |
 |**작업 주문, 일정 및 발송 일정 보드, 서비스 계약, 현장 서비스 송장 및 구매 주문, 고객 자산, 재고, 수리 및 반환** <br/> |읽기 전용  <br/> |읽기 전용  <br/> |읽기 전용  <br/> |Full  <br/> |읽기 전용  <br/> |Full  <br/> |
-|**프로젝트, 프로젝트 비용 및 예측, 자원 사용 가능 여부 보기 및 일정 관리, 프로젝트 가격 목록/계약/송장, 프로젝트 트랜잭션 승인, Microsoft project Online Premium** <br/> |읽기 전용  <br/> |읽기 전용  <br/> |읽기 전용  <br/> |읽기 전용  <br/> |Full  <br/> |Full  <br/> |
+|**프로젝트, 프로젝트 비용 및 예측, 자원 사용 가능 여부 보기 및 일정 관리, 프로젝트 가격 목록/계약/송장, 프로젝트 트랜잭션 승인, Microsoft Project Online Premium** <br/> |읽기 전용  <br/> |읽기 전용  <br/> |읽기 전용  <br/> |읽기 전용  <br/> |Full  <br/> |Full  <br/> |
 |**PowerApps** <br/> |읽기 전용<sup>4</sup> <br/> |읽기 전용<sup>4</sup> <br/> |읽기 전용<sup>4</sup> <br/> |읽기 전용<sup>4</sup> <br/> |읽기 전용<sup>4</sup> <br/> |Full  <br/> |
 |**Microsoft Social Engagement, 고객 음성, 모바일 오프 라인, Gamification Player 및 Admin** <br/> |없음  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
 |**응용 프로그램에 포함 된 엔터티 간에 워크플로, 대량 데이터 가져오기 및 사용자 지정 만들기** <br/> |없음  <br/> |읽기 전용<sup>4</sup> <br/> |읽기 전용<sup>4</sup> <br/> |읽기 전용<sup>4</sup> <br/> |읽기 전용<sup>4</sup> <br/> |Full  <br/> |
    
- **full** = 모든 액세스 권한 
+ **Full** = 모든 액세스 권한 
   
  **읽기 전용** = 읽기 전용/제한 된 액세스 권한 
   
@@ -108,7 +108,7 @@ Dynamics 365의 기능에 대한 자세한 내용은 [Microsoft Dynamics 365](ht
   
 ## <a name="dynamics-365-service-level-agreement"></a>Dynamics 365 서비스 수준 계약
 
-microsoft 볼륨 라이선스 프로그램을 통해 라이선스를 부여 하는 제품 및 서비스 사용과 관련 된 라이선스 용어, 조건 및 추가 정보에 대 한 자세한 내용은 [microsoft Online services에 대 한 서비스 수준 계약](http://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=12249)을 참조 하십시오.
+Microsoft 볼륨 라이선스 프로그램을 통해 라이선스를 부여 하는 제품 및 서비스 사용과 관련 된 라이선스 용어, 조건 및 추가 정보에 대 한 자세한 내용은 [Microsoft Online services에 대 한 서비스 수준 계약](http://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=12249)을 참조 하십시오.
   
 ## <a name="dynamics-365-service-downtime-windows"></a>Dynamics 365 서비스 가동 중지 시간 창
 
@@ -116,7 +116,7 @@ Dynamics 365 서비스의 가동 중지 시간 창은 다음과 같이 정의 �
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**종류** <br/> |**영향/가동 중지 시간** <br/> |**알림** <br/> |**운영 수준 계약\*** <br/> |
+|**범주** <br/> |**영향/가동 중지 시간** <br/> |**알림** <br/> |**운영 수준 계약\*** <br/> |
 |매주  <br/> |영향 없음/가동 중지 시간 없음  <br/> |메시지 센터  <br/> |48시간  <br/> |
 |월 단위  <br/> |영향 없음/가동 중지 시간 없음  <br/> |메시지 센터  <br/> |48시간  <br/> |
 |업데이트 롤업  <br/> |영향 없음/가동 중지 시간 없음  <br/> |메시지 센터  <br/> |48시간  <br/> |

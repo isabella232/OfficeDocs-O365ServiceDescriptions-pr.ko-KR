@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-insights-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
 description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음에 나오는 인사이트 기능은 조직에서 데이터베이스, 보고서 및 비즈니스 응용 프로그램의 정보를 사용하여 구체적인 업무 요구 사항을 해결할 수 있게 도와 줍니다.
-ms.openlocfilehash: ed184c4bfd75feec48087555d6e04b52e850e943
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 20ae239f6d79889a669f41f8c12b4aca00aff19e
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246734"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342507"
 ---
 # <a name="insights"></a>인사이트
 
@@ -132,7 +132,7 @@ UDF(사용자 정의 함수)는 Excel Online 워크시트 셀에서 수식을 �
 ## <a name="visio-services"></a>Visio Services
 <a name="bkmk_VisioServices"> </a>
 
-Visio Services는 Microsoft Visio 드로잉(\*.vsdx) 및 Visio 2010 웹 드로잉 (\*.vdw) 파일을 공유하고 보는 데 필요한 서비스 응용 프로그램입니다. SharePoint Online에서는 Visio Services를 더 이상 사용할 수 없습니다. Visio Services는 sharepoint server 2010, sharepoint server 2013 및 sharepoint server 2016에서 계속 사용할 수 있습니다. 자세한 내용은 [Visio Services](https://go.microsoft.com/fwlink/p/?LinkID=271043)를 참조하세요.
+Visio Services는 Microsoft Visio 드로잉(\*.vsdx) 및 Visio 2010 웹 드로잉 (\*.vdw) 파일을 공유하고 보는 데 필요한 서비스 응용 프로그램입니다. SharePoint Online에서는 Visio Services를 더 이상 사용할 수 없습니다. Visio Services는 SharePoint Server 2010, SharePoint Server 2013 및 SharePoint Server 2016에서 계속 사용할 수 있습니다. 자세한 내용은 [Visio Services](https://go.microsoft.com/fwlink/p/?LinkID=271043)를 참조하세요.
   
 ## <a name="feature-availability"></a>기능 가용성
 <a name="bkmk_VisioServices"> </a>

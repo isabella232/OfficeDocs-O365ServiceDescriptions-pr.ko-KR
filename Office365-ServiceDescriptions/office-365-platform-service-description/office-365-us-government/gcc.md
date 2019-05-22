@@ -4,19 +4,19 @@ ms.author: danarl
 author: danarl
 manager: dianap
 ms.date: 3/4/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 미국 정부를 대신 하 여 데이터를 보관 하거나 처리할 수 있는 정부 뿐 아니라 미국의 연방, 주, 로컬 및 부족에 대 한 고유한 요구 사항과 진화 하는 규정을 충족 하기 위해 Microsoft에서는 Office 365 GCC (미국 정부 커뮤니티) 서비스를 제공 합니다. 볼륨 라이선스를 비롯한 여러 채널을 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재 평가판은 미국 정부 기관에만 제공됩니다.
-ms.openlocfilehash: 7df7e2eec3de11513370f14fe5d1ebfd2faac24a
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: d4eb499f71dd39b99a2359ae9a10d7a8c6973e78
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247134"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343247"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -54,7 +54,7 @@ Office 365 직원은 Office 365 US Government Community에서 호스트된 고�
 |지문 조사  <br/> |FBI 데이터베이스에 지문 배경 조사  <br/> |
 |CJIS 배경 조사  <br/> |Microsoft CJIS IA 프로그램에 가입한 각 주 내에서 주 CSA가 임명한 권한으로 주 및 연방 범죄 기록에 대한 주 심사 판결  <br/> |
 
-<sup>1</sup> 은 Office 365 미국 정부 커뮤니티 클라우드 (GCC)에서 호스트 되는 고객 콘텐츠에 대 한 일시적인 또는 동등한 액세스를 가진 사용자 에게만 적용 됩니다.  
+<sup>1</sup> 은 OFFICE 365 미국 정부 커뮤니티 클라우드 (GCC)에서 호스트 되는 고객 콘텐츠에 대 한 일시적인 또는 동등한 액세스를 가진 사용자 에게만 적용 됩니다.  
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 Government 커뮤니티 및 Yammer
 
 Yammer Enterprise는 Office 365 Government의 구성 요소는 아니지만 Office 365 Government 계획 E1 및 E3의 사용이 허가된 각 사용자는 독립 실행형 제공 서비스로 추가 비용 없이 얻을 수 있습니다. 이 제공 서비스는 현재 기업계약 및 기업 정기가입 계약에 따라 Office 365 Government를 구입한 고객에게 제한됩니다. 
@@ -69,7 +69,7 @@ MyAnalytics는 Office 365 서비스용 FedRAMP 제어 구현에 맞게 설계되
   
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 GCC (미국 정부 커뮤니티 클라우드) 고객 지원
 
-office 365 GCC 고객 지원은 지원 에이전트 실제 위치 또는 의식 보증을 비롯 하 여 [전 세계 버전의 Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
+Office 365 GCC 고객 지원은 지원 에이전트 실제 위치 또는 의식 보증을 비롯 하 여 [전 세계 버전의 Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
 )에 제공 되는 것과 동일한 용어로 제공 됩니다. Office 365 GCC는 다음과 같은 [용어 및 조건](https://azure.microsoft.com/en-us/support/plans/) 에서 지원 되는 Azure 공용 클라우드와 함께 작동 합니다.
 
-Microsoft는 이러한 데이터를 보거나 액세스 하기 위한 권한 부여를 확인 하기 전까지 Office 365 GCC 관련 지원 인시던트를 통해 제어 되 고 중요 하거나 기밀 정보를 지원 담당자와 공유 하지 않도록 합니다. Microsoft는 [개인 정보 보호](https://privacy.microsoft.com/en-US/privacystatement ) 를 위해 최선을 다하고 있습니다. Office 365 GCC 고객 지원은 서비스 인정 경계에 포함 되지 않으며 FedRAMP, srg, itar, IRS 1075 또는 cjis 데이터 처리 및/또는 규정 준수 보장을 제공 하지 않습니다.
+Microsoft는 이러한 데이터를 보거나 액세스 하기 위한 권한 부여를 확인 하기 전까지 Office 365 GCC 관련 지원 인시던트를 통해 제어 되 고 중요 하거나 기밀 정보를 지원 담당자와 공유 하지 않도록 합니다. Microsoft는 [개인 정보 보호](https://privacy.microsoft.com/en-US/privacystatement ) 를 위해 최선을 다하고 있습니다. Office 365 GCC 고객 지원은 서비스 인정 경계에 포함 되지 않으며 FedRAMP, SRG, ITAR, IRS 1075 또는 CJIS 데이터 처리 및/또는 규정 준수 보장을 제공 하지 않습니다.
