@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
@@ -13,27 +13,27 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI는 더 빠른 속도, 효율성 및 이해를 통해 누구나 연결하고, 시각화하고, 데이터를 분석할 수 있게 해주는 클라우드 기반 비즈니스 분석 도구 모음입니다. 사용자를 사용하기 쉬운 대시보드를 통해 다양한 범위의 라이브 데이터와 연결하고, 대화형 보고서를 제공하며 데이터에 생동감을 주는 뛰어난 시각화를 전달합니다.
-ms.openlocfilehash: 0288fc982e8662d52d9c05e7a71a2976dee8be31
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: d78e4caf3eea387582cb37da80f95a4c4d22b7e1
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246934"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342667"
 ---
-# <a name="power-bi-service-description"></a><span data-ttu-id="3b1ef-104">Power BI 서비스 설명</span><span class="sxs-lookup"><span data-stu-id="3b1ef-104">Power BI Service Description</span></span>
+# <a name="power-bi-service-description"></a><span data-ttu-id="b2c01-104">Power BI 서비스 설명</span><span class="sxs-lookup"><span data-stu-id="b2c01-104">Power BI Service Description</span></span>
 
-<span data-ttu-id="3b1ef-p102">Power BI는 더 빠른 속도, 효율성 및 이해를 통해 누구나 연결하고, 시각화하고, 데이터를 분석할 수 있게 해주는 클라우드 기반 비즈니스 분석 도구 모음입니다. 사용자를 사용하기 쉬운 대시보드를 통해 다양한 범위의 라이브 데이터와 연결하고, 대화형 보고서를 제공하며 데이터에 생동감을 주는 뛰어난 시각화를 전달합니다.</span><span class="sxs-lookup"><span data-stu-id="3b1ef-p102">Power BI is a cloud-based suite of business analytics tools that enables anyone to connect to, visualize, and analyze data with greater speed, efficiency, and understanding. It connects users to a broad range of live data through easy-to-use dashboards, provides interactive reports, and delivers compelling visualizations that bring data to life.</span></span>
+<span data-ttu-id="b2c01-p102">Power BI는 더 빠른 속도, 효율성 및 이해를 통해 누구나 연결하고, 시각화하고, 데이터를 분석할 수 있게 해주는 클라우드 기반 비즈니스 분석 도구 모음입니다. 사용자를 사용하기 쉬운 대시보드를 통해 다양한 범위의 라이브 데이터와 연결하고, 대화형 보고서를 제공하며 데이터에 생동감을 주는 뛰어난 시각화를 전달합니다.</span><span class="sxs-lookup"><span data-stu-id="b2c01-p102">Power BI is a cloud-based suite of business analytics tools that enables anyone to connect to, visualize, and analyze data with greater speed, efficiency, and understanding. It connects users to a broad range of live data through easy-to-use dashboards, provides interactive reports, and delivers compelling visualizations that bring data to life.</span></span>
   
-<span data-ttu-id="3b1ef-p103">Power BI는 현재 Office 365 Enterprise E5 버전의 일부로 사용할 수 있습니다. 자세한 내용을 보려면 [Power BI](https://powerbi.microsoft.com/)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="3b1ef-p103">Power BI is currently available as part of the Office 365 Enterprise E5 version. To learn more, visit [Power BI](https://powerbi.microsoft.com/).</span></span>
+<span data-ttu-id="b2c01-p103">Power BI는 현재 Office 365 Enterprise E5 버전의 일부로 사용할 수 있습니다. 자세한 내용을 보려면 [Power BI](https://powerbi.microsoft.com/)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="b2c01-p103">Power BI is currently available as part of the Office 365 Enterprise E5 version. To learn more, visit [Power BI](https://powerbi.microsoft.com/).</span></span>
   
-<span data-ttu-id="3b1ef-109">계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="3b1ef-109">To compare features across plans, see [Compare Office 365 for Business plans](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).</span></span>
+<span data-ttu-id="b2c01-109">계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="b2c01-109">To compare features across plans, see [Compare Office 365 for Business plans](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).</span></span>
   
-## <a name="power-bi-plans"></a><span data-ttu-id="3b1ef-110">Power BI 계획</span><span class="sxs-lookup"><span data-stu-id="3b1ef-110">Power BI plans</span></span>
-<span data-ttu-id="3b1ef-111"><a name="BKMK_PowerBIPlans"> </a></span><span class="sxs-lookup"><span data-stu-id="3b1ef-111"></span></span>
+## <a name="power-bi-plans"></a><span data-ttu-id="b2c01-110">Power BI 계획</span><span class="sxs-lookup"><span data-stu-id="b2c01-110">Power BI plans</span></span>
+<span data-ttu-id="b2c01-111"><a name="BKMK_PowerBIPlans"> </a></span><span class="sxs-lookup"><span data-stu-id="b2c01-111"></span></span>
 
-<span data-ttu-id="3b1ef-112">사용자 요구에 가장 적합한 사용 가능한 [Power BI 계획](https://go.microsoft.com/fwlink/?LinkID=786854) 중 하나에 등록할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3b1ef-112">You can sign up for one of the available [Power BI plans](https://go.microsoft.com/fwlink/?LinkID=786854) that best suits your needs.</span></span> 
+<span data-ttu-id="b2c01-112">사용자 요구에 가장 적합한 사용 가능한 [Power BI 계획](https://go.microsoft.com/fwlink/?LinkID=786854) 중 하나에 등록할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b2c01-112">You can sign up for one of the available [Power BI plans](https://go.microsoft.com/fwlink/?LinkID=786854) that best suits your needs.</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="3b1ef-p104">Power BI 및 Office 365용 Power BI는 다른 제품입니다. Office 365용 Power BI는 버전 1 서비스로, 더 이상 사용되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="3b1ef-p104">Power BI and Power BI for Office 365 are different products. Power BI for Office 365 is a version 1 service and has been deprecated.</span></span> 
+> <span data-ttu-id="b2c01-p104">Power BI 및 Office 365용 Power BI는 다른 제품입니다. Office 365용 Power BI는 버전 1 서비스로, 더 이상 사용되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="b2c01-p104">Power BI and Power BI for Office 365 are different products. Power BI for Office 365 is a version 1 service and has been deprecated.</span></span> 
   
 
