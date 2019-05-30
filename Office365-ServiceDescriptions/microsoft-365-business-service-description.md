@@ -3,7 +3,7 @@ title: Microsoft 365 Business 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/13/2019
+ms.date: 05/29/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business는 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 제공 하는 Office 365의 최고급 생산성을 함께 제공 하는 통합 솔루션입니다. . 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다. Office 365에 대 한 자세한 내용은 Office 365 서비스 설명을 참조 하세요.
-ms.openlocfilehash: c6f982adb14dc332e4e31d448ca58e0356cbbd06
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0a68bd3b014d391e61542aeb789ff50f112b991f
+ms.sourcegitcommit: e5151508a1587c73d20588b87304cc277330ace3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342978"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34493496"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business 서비스 설명
 
@@ -119,7 +119,7 @@ Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
 |||||
 |:-----|:-----|:-----|:-----|
 |**Id 및 액세스 관리 기능** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E5** <br/> |
-|Office 365 MFA (다단계 인증)  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Azure MFA (Multi-factor Authentication)  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |관리 단위  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |Cloud app discovery  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |동적 그룹  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
@@ -133,6 +133,7 @@ Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
 |연결 상태  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |SLA 99.9%  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Advanced Threat Analytics  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|조건부 액세스  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |**장치 및 응용 프로그램 관리 기능** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |MDM (모바일 장치 관리)<sup>15</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |MDM (모바일 장치 관리) 자동 등록  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
@@ -169,14 +170,14 @@ Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
 <br/><sup>4</sup> aip (Azure information Protection)에서는 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 합니다. Microsoft 365 Business에는 AIP 요금제 1이 포함 되어 있습니다. 
 <br/><sup>5</sup> microsoft 팀은 Microsoft 365 Business, Office 365 business Essentials, Office 365 business Premium 및 Office 365 Enterprise (E1, E3, E5, F1)에서 사용할 수 있습니다. 아직 Office 365 교육 계획에서는 사용할 수 없습니다. 
 <br/><sup>6</sup> aip (Azure information Protection)에서는 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 합니다. Microsoft 365 Business에는 AIP 요금제 1이 포함 되어 있습니다. 
-<br/><sup>7</sup> 디렉터리 동기화를 사용 하는 데 사용할 수 있는 Azure AD Connect 도구는 Microsoft 365 business의 구성 요소인 Office 365 Business Premium에서 지원 됩니다. 그러나 Microsoft 365 Business에 대해 Windows 관리 구성 요소를 사용 하도록 설정 하면 Azure AD-조인이 필요 합니다. 온-프레미스 Active Directory 환경이 있고 도메인에 가입 된 장치를 Azure AD에 가입 하려는 경우 [하이브리드 AZURE AD 가입 된 장치를 구성](https://docs.microsoft.com/en-us/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup)하 여이 작업을 수행할 수 있습니다. 
+<br/><sup>7</sup> 디렉터리 동기화를 사용 하는 데 사용할 수 있는 Azure AD Connect 도구는 Microsoft 365 business의 구성 요소인 Office 365 Business Premium에서 지원 됩니다. 그러나 Microsoft 365 Business에 대해 Windows 관리 구성 요소를 사용 하도록 설정 하면 Azure AD-조인이 필요 합니다. 온-프레미스 Active Directory 환경이 있고 도메인에 가입 된 장치를 Azure AD에 가입 하려는 경우 [하이브리드 AZURE AD 가입 된 장치를 구성](https://docs.microsoft.com/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup)하 여이 작업을 수행할 수 있습니다. 
 <br/><sup>8</sup> 로컬 active directory와 함께 디렉터리 동기화를 사용할 경우 계정을 삭제 하거나 암호를 변경 하려면 Office 365 포털이 아닌 로컬 active directory를 사용 하거나 Windows PowerShell 용 Azure active directory 모듈을 사용 해야 합니다. 
-<br/>클라우드 id <sup>9</sup> 개 [사용자가 Office 365에서 암호를 직접 재설정할 수 있도록 허용을](https://go.microsoft.com/fwlink/?linkid=852917)참조 하세요. 
+<br/>클라우드 id <sup>9</sup> 개 [사용자가 Office 365에서 암호를 직접 재설정할 수 있도록 허용을](https://docs.microsoft.com/office365/admin/add-users/let-users-reset-passwords)참조 하세요. 
 <br/><sup>10</sup> 용어 할인을 사용 하 여 구매한 좌석을 초기 종결 수수료에 따라 줄일 수 있습니다. This is not applicable for subscriptions paid on a monthly basis. 
-<br/><sup>11</sup> Microsoft 365 Business에는 Exchange Online 보관 구독이 포함 되어 있습니다. 각 Exchange Online Archiving 구독자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=863320)를 참조하세요. 
-<br/><sup>12</sup> 자세한 내용은 [고객 키를 사용 하 여 Office 365에서 데이터 제어](https://go.microsoft.com/fwlink/?linkid=863349)를 참조 하세요. 
+<br/><sup>11</sup> Microsoft 365 Business에는 Exchange Online 보관 구독이 포함 되어 있습니다. 각 Exchange Online Archiving 구독자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)를 참조하세요. 
+<br/><sup>12</sup> 자세한 내용은 [고객 키를 사용 하 여 Office 365에서 데이터 제어](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)를 참조 하세요. 
 <br/><sup>13</sup> Advanced EDiscovery는 미국 및 유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.)
-<br/>[https://securescore.office.com](https://securescore.office.com) <sup>14 인치</sup> 관리자 권한이 있어야 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://go.microsoft.com/fwlink/?linkid=863490)를 참조 하세요.
+<br/>[https://securescore.office.com](https://securescore.office.com) <sup>14 인치</sup> 관리자 권한이 있어야 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)를 참조 하세요.
 <br/>Microsoft 365 관리 센터에 기본적으로 제공 되는 <sup>15</sup> 개의 간소화 된 Windows 10 장치 관리 Intune, Android, macOS 및 기타 플랫폼 간 장치 관리 기능 (장치 관리 관리 센터에 기본 제공 됨) 또한 Microsoft 365 Business에 사용 하도록 허가 되었습니다. 타사 앱 및 WiFi 프로필 및 VPN 인증서와 같은 항목의 구성은 장치 관리 관리 센터 에서도 관리할 수 있습니다. 
 <br/><sup>16</sup> 이 계획은 비디오 포털, 음성 텍스트 기록, 딥 검색 및 얼굴 검색을 포함 하는 Microsoft Stream 요금제 2와 함께 제공 됩니다.
 <br/><sup>17</sup> Microsoft 365 관리 센터에 기본 제공 되는 간소화 된 Windows 10 장치 관리 및 Intune 앱 보호 정책
