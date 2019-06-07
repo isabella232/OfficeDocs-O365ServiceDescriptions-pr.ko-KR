@@ -3,7 +3,7 @@ title: Microsoft 365 Business 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/29/2019
+ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business는 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 제공 하는 Office 365의 최고급 생산성을 함께 제공 하는 통합 솔루션입니다. . 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다. Office 365에 대 한 자세한 내용은 Office 365 서비스 설명을 참조 하세요.
-ms.openlocfilehash: 0a68bd3b014d391e61542aeb789ff50f112b991f
-ms.sourcegitcommit: e5151508a1587c73d20588b87304cc277330ace3
+ms.openlocfilehash: 87a7509ce85bd6e0f0418034d195f1af590176ca
+ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34493496"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "34742107"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business 서비스 설명
 
@@ -26,8 +26,8 @@ Microsoft 365 Business는 비즈니스를 보호 하기 위해 고급 보안 및
 
 다음 표에서는 Office 365 Business Premium 및 Microsoft 365 비즈니스 요금제의 플랫폼 기능을 보여 줍니다.
   
-Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫폼 서비스 설명을](office-365-platform-service-description/office-365-platform-service-description.md)참조 하세요.
-  
+Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫폼 서비스 설명을](office-365-platform-service-description/office-365-platform-service-description.md)참조 하세요.<br/>
+
 ||||
 |:-----|:-----|:-----|
 |**계획 옵션** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
@@ -149,7 +149,7 @@ Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
    
 |||
 |:-----|:-----|
-|**Windows 10 관리 기능** -Microsoft 365 Business를 사용 하면 쉽게 장치를 관리할 수 있습니다. Microsoft 365 Business 테 넌 트를 설정 하는 경우 앱 보호 및 장치 구성 설정을 선택 합니다. 이러한 설정에 따라 디바이스에서 Azure Active Directory에 참가할 때 자동으로 적용 되는 정책이 결정 됩니다. Windows 10 Pro 관리 기능에는 다음이 포함 됩니다.  <br/> |**Microsoft 365 Business** <br/> |
+|**Windows 10 관리 기능** -Microsoft 365 Business를 사용 하면 쉽게 장치를 관리할 수 있습니다. Microsoft 365 Business 테 넌 트를 설정 하는 경우 앱 보호 및 장치 구성 설정을 선택 합니다. 이러한 설정에 따라 디바이스에서 Azure Active Directory에 참가할 때 자동으로 적용 되는 정책이 결정 됩니다. Windows 10 Pro 관리 기능에는 다음이 포함 됩니다. <br/>|**Microsoft 365 Business** <br/> |
 |Windows AutoPilot을 사용한 간소화 된 배포  <br/> |예  <br/> |
 |구독 활성화  <br/> |예  <br/> |
 |유휴 상태에 있는 장치 화면의 구성 제어  <br/> |예  <br/> |
@@ -162,9 +162,9 @@ Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
 |Microsoft Edge에서 웹 기반 위협 으로부터 Pc 보호  <br/> |예  <br/> |
 |장치의 공격 표면을 줄이는 규칙 사용 <br/> |예  <br/> |
 |랜섬웨어와 같은 위협으로부터 폴더 보호 <br/> |예  <br/> |
-|Bitlocker를 사용 하 여 Pc의 파일 및 폴더를 무단 액세스 로부터 보호 <br/> |예  <br/> |
-   
-> <sup>1</sup> Exchange Online 계획 1이 포함 됩니다.
+|Bitlocker를 사용 하 여 Pc의 파일 및 폴더를 무단 액세스 로부터 보호 <br/> |예  <br/> |   
+
+<sup>1</sup> Exchange Online 계획 1이 포함 됩니다.
 <br/><sup>2</sup> 기본적인 클라이언트 제한 사항이 있는 비즈니스용 Skype Online 계획 2가 포함 됩니다.
 <br/><sup>3</sup> Project Online은 포함 되어 있지 않지만 별도의 추가 기능 서비스로 구매 하거나 Office 교육 계획에 무료로 추가할 수 있습니다. 
 <br/><sup>4</sup> aip (Azure information Protection)에서는 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 합니다. Microsoft 365 Business에는 AIP 요금제 1이 포함 되어 있습니다. 

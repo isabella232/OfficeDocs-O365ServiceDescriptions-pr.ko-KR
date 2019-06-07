@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-april-22-2019"></a>2019년 4월 22일 주중
-
-
-| 게시된 날짜 |항목 제목 | 변경 사항 |
-|------|------------|--------|
-| 4/24/2019 | [Exchange Online 제한](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 수정한 날짜 |
-| 4/26/2019 | [Exchange Online 제한](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 수정한 날짜 |
-| 4/26/2019 | [서비스 상태 및 연속성](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | 수정한 날짜 |
-| 4/26/2019 | [Office 응용 프로그램 서비스 설명](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 수정한 날짜 |
-| 4/26/2019 | [SharePoint Online 제한 사항](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 수정한 날짜 |
-
-
 ## <a name="week-of-april-29-2019"></a>4 월 29 일 주 2019
 
 
@@ -176,3 +164,12 @@
 | 5/21/2019 | [Yammer의 지원 기능](/Office365/ServiceDescriptions/yammer-service-description/support-features-in-yammer) | 수정한 날짜 |
 | 5/21/2019 | [Yammer 플랫폼 기능](/Office365/ServiceDescriptions/yammer-service-description/yammer-platform-features) | 수정한 날짜 |
 | 5/21/2019 | [Yammer 서비스 설명](/Office365/ServiceDescriptions/yammer-service-description/yammer-service-description) | 수정한 날짜 |
+
+
+## <a name="week-of-may-27-2019"></a>5 월 27 일 주 2019
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 5/28/2019 | [Microsoft 365 Business 서비스 설명](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 수정한 날짜 |
+| 5/31/2019 | [SharePoint Online 제한 사항](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 수정한 날짜 |

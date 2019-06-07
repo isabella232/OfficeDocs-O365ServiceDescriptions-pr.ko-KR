@@ -9,35 +9,34 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 Enterprise 요금제 및 독립 실행형 요금제의 SharePoint Online 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: 8e678bf7fc2373b5e8f97341d2c167548b36322b
-ms.sourcegitcommit: 178a0c81d51a48562b9433c47642ce78c51651a3
+ms.openlocfilehash: af58f2d68562ef57ede7496b604d7603e0a062fe
+ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/01/2019
-ms.locfileid: "34669687"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "34742157"
 ---
-# <a name="sharepoint-online-limits"></a>SharePoint Online 제한 사항
+# <a name="sharepoint-online-limits"></a>SharePoint Online 제한 사항 
 
 Office 365 요금제 및 SharePoint Online 독립 실행형 계획에 대 한 SharePoint 제한을 확인 합니다.
   
-## <a name="limits-by-plan"></a>요금제 별 제한
+## <a name="limits-by-plan"></a>요금제 별 제한 
 
 |||||
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Office 365 Business Essentials 또는 Business Premium** <br/> |**Office 365 Enterprise E1, E3 또는 E5, 또는 SharePoint Online 계획 1 또는 2** <br/> | **Office 365 Enterprise F1** <br/> |
-|저장소<sup>1, 2</sup> <br/> |조직 당 1TB 및 구매한 라이선스 당 10gb  <br/> |조직 당 1TB 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |조직 당 1TB 1 <sup></sup> 개 <br/> |
-|사이트 모음에 대 한 저장소  <br/> |사이트 모음 또는 그룹<sup>4</sup> 당 최대 25tb <br/> |사이트 모음 또는 그룹<sup>4</sup> 당 최대 25tb <br/> |사이트 모음 또는 그룹<sup>5</sup> 당 최대 25tb <br/> |
-|조직 당 사이트 모음 수  <br/> |50만<sup>6</sup> <br/> |50만<sup>6</sup> <br/> |500,000<br/> |
+|조직<sup>1, 2</sup> 당 총 저장소 <br/> |1TB 및 구매한 라이선스 당 10gb  <br/> |1TB 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |1TB<sup>3</sup> <br/> |
+|사이트 모음 당 최대 저장소<sup>4 개</sup><br/> |25tb <br/> |25tb <br/> |25 TB<sup>5</sup> <br/> |
+|조직 당 사이트 모음 수  <br/> |100만<sup>6</sup> <br/> |100만<sup>6</sup> <br/> |1,000,000<br/> |
 |사용자 수  <br/> |최대 300  <br/> |1-50만<sup>7</sup> <br/> |1-50만<sup>7</sup> <br/> |
    
-> [!NOTE]
-> <sup>1</sup> 무제한의 추가 SharePoint Online 저장소를 구입할 수 있습니다. [구독에 대 한 저장소 공간 변경](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C)를 참조 하세요. 
-<br/><sup>2</sup> 휴지통을 모니터링 하 고 정기적으로 비우는 것이 좋습니다. 휴지통에서 사용하는 저장소 공간은 조직이 사용하는 총 파일 저장소 한도의 일부입니다. 
+<sup>1</sup> 무제한의 추가 SharePoint 저장소를 구입할 수 있습니다. [구독에 대 한 저장소 공간 변경](/office365/admin/subscriptions-and-billing/add-storage-space)를 참조 하세요. 
+<br/><sup>2</sup> 휴지통을 모니터링 하 고 정기적으로 비우는 것이 좋습니다. 사용 하는 저장소 공간은 조직의 총 저장 용량 한도의 일부입니다. 
 <br/> <sup>3</sup> Office 365 구독 및 SharePoint Online 독립 실행형 요금제가 있는 경우 저장 금액이 추가 됩니다. 
-<br/><sup>4</sup> SharePoint Online 관리자는 사이트 모음 및 사이트에 대 한 저장 제한을 설정할 수 있습니다.
-<br/> <sup>5</sup> Kiosk Worker는 SharePoint Online 사이트 모음을 관리할 수 없습니다. 키오스크 사이트 모음을 관리 하려면 최소한 하나의 Enterprise 사용자 라이선스가 필요 합니다. 
-<br/> <sup>6</sup> 사용이 허가 된 각 사용자에 대해 만들어진 비즈니스용 OneDrive 사이트 모음을 포함 하지 않습니다. 
-<br/><sup>7</sup> 사용자가 50만 명 이상인 경우 Microsoft 담당자에 게 문의 하세요. 
+<br/> <sup>4</sup> 이 값은 각 사이트 모음에 대해 제공 되는 저장소 양이 아니라 단일 사이트 모음에 대 한 저장소 제한입니다. 이 제한은 Office 365 그룹에 연결 된 팀 사이트 및 OneDrive를 포함 하 여 모든 유형의 사이트 모음에 적용 됩니다. SharePoint 관리자가 [더 낮은 저장 제한을 수동으로 설정할](/sharepoint/manage-site-collection-storage-limits)수 있습니다. 
+<br/> <sup>5</sup> firstline Worker는 SharePoint 사이트 모음을 관리할 수 없습니다. 
+<br/> <sup>6</sup> 사용 허가 된 각 사용자에 대해 만들어진 OneDrive를 포함 하지 않습니다. 
+<br/> <sup>7</sup> 사용자가 50만 명 이상인 경우 Microsoft 담당자에 게 문의 하세요. 
   
 
   
@@ -49,7 +48,10 @@ Office 365 요금제 및 SharePoint Online 독립 실행형 계획에 대 한 Sh
 
 - **사이트 모음 간에 이동 및 복사** -100 GB입니다. 웹 브라우저가 열린 상태를 유지 해야 합니다.
 
-- **Sync** -최적의 성능을 위해 단일 OneDrive 또는 팀 사이트 라이브러리에 30만 개 이하의 파일을 저장 하는 것이 좋습니다. SharePoint Online은 라이브러리 마다 3000만 문서를 저장할 수 있지만 최적의 성능을 위해 모든 문서 라이브러리에서 30만 개 이하의 파일을 동기화 하는 것이 좋습니다. 또한 이러한 라이브러리의 모든 항목을 동기화 하는 것이 아니더라도 동기화 중인 모든 라이브러리에 30만 개 항목이 있는 경우에도 동일한 성능 문제가 발생할 수 있습니다. 이전 비즈니스용 OneDrive 동기화 클라이언트 (Groove)를 사용 하는 경우 라이브러리 당 동기화 제한은 2만 항목 (팀 사이트 당 5000 항목 포함)입니다.
+- **Sync** -최적의 성능을 위해, 주문형 파일을 사용 하거나 라이브러리 내에서 동기화 할 일부 폴더만 선택 해도 동기화 된 모든 문서 라이브러리에서 파일을 30만 개 이하로 저장 하는 것이 좋습니다. 이전 비즈니스용 OneDrive 동기화 클라이언트 (Groove)를 사용 하는 경우 라이브러리 당 동기화 제한은 2만 항목 (팀 사이트 당 5000 항목 포함)입니다.
+
+    > [!NOTE]
+    > 사용자가 수백 개의 파일을 포함 하는 문서 라이브러리의 파일을 동기화 해야 하는 경우 폴더의 사용 권한 수준을 "제한 된 읽기"로 설정 하 여 동기화 클라이언트에서 폴더를 "숨길" 수 있습니다. 
 
 - **버전** -5만 주 버전 및 511 부 버전
 
@@ -57,7 +59,7 @@ Office 365 요금제 및 SharePoint Online 독립 실행형 계획에 대 한 Sh
 
 - **관리 되는 메타 데이터** -용어 저장소의 20만 용어, 1000 전역 용어 집합, 1000 그룹.
 
-- **하위** 사이트-사이트 모음 당 최대 2000
+- **하위** 사이트-사이트 모음 당 2000
 
 - **SharePoint에서 호스트 하는 응용 프로그램** -조직 당 2만 인스턴스
 
@@ -66,7 +68,7 @@ Office 365 요금제 및 SharePoint Online 독립 실행형 계획에 대 한 Sh
 - **사용자** -사이트 모음 당 200만
 
 > [!NOTE]
-> SharePoint Online 사이트 모음에 초대할 수 있는 외부 사용자의 수에는 제한이 없습니다. 자세한 내용은 [SharePoint Online 환경에 대한 외부 공유 관리](/sharepoint/external-sharing-overview)를 참조하세요.
+> SharePoint 사이트 모음에 초대할 수 있는 게스트 수에는 제한이 없습니다. 외부 공유에 대 한 자세한 내용은 [외부 공유 개요](/sharepoint/external-sharing-overview)를 참조 하세요.
 
 ## <a name="see-also"></a>참고 항목
 
