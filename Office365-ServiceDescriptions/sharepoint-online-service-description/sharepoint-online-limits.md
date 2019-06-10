@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 Enterprise 요금제 및 독립 실행형 요금제의 SharePoint Online 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: af58f2d68562ef57ede7496b604d7603e0a062fe
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: dffe3f3ddbc68e286ce03d79e72e56e4fd3322b2
+ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742157"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780667"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 제한 사항 
 
@@ -30,15 +30,13 @@ Office 365 요금제 및 SharePoint Online 독립 실행형 계획에 대 한 Sh
 |조직 당 사이트 모음 수  <br/> |100만<sup>6</sup> <br/> |100만<sup>6</sup> <br/> |1,000,000<br/> |
 |사용자 수  <br/> |최대 300  <br/> |1-50만<sup>7</sup> <br/> |1-50만<sup>7</sup> <br/> |
    
-<sup>1</sup> 무제한의 추가 SharePoint 저장소를 구입할 수 있습니다. [구독에 대 한 저장소 공간 변경](/office365/admin/subscriptions-and-billing/add-storage-space)를 참조 하세요. 
+<sup>1</sup> 무제한의 추가 SharePoint 저장소를 구입할 수 있습니다. [구독에 대 한 저장소 공간 변경](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space)를 참조 하세요. 
 <br/><sup>2</sup> 휴지통을 모니터링 하 고 정기적으로 비우는 것이 좋습니다. 사용 하는 저장소 공간은 조직의 총 저장 용량 한도의 일부입니다. 
-<br/> <sup>3</sup> Office 365 구독 및 SharePoint Online 독립 실행형 요금제가 있는 경우 저장 금액이 추가 됩니다. 
-<br/> <sup>4</sup> 이 값은 각 사이트 모음에 대해 제공 되는 저장소 양이 아니라 단일 사이트 모음에 대 한 저장소 제한입니다. 이 제한은 Office 365 그룹에 연결 된 팀 사이트 및 OneDrive를 포함 하 여 모든 유형의 사이트 모음에 적용 됩니다. SharePoint 관리자가 [더 낮은 저장 제한을 수동으로 설정할](/sharepoint/manage-site-collection-storage-limits)수 있습니다. 
+<br/> <sup>3</sup> office 365 구독 및 office 365 추가 파일 저장소 추가 기능을 사용 하는 경우 저장소 금액이 추가 됩니다. 
+<br/> <sup>4</sup> 이 값은 각 사이트 모음에 대해 제공 되는 저장소 양이 아니라 단일 사이트 모음에 대 한 저장소 제한입니다. 이 제한은 Office 365 그룹에 연결 된 팀 사이트 및 OneDrive를 포함 하 여 모든 유형의 사이트 모음에 적용 됩니다. SharePoint 관리자가 [더 낮은 저장 제한을 수동으로 설정할](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)수 있습니다. 
 <br/> <sup>5</sup> firstline Worker는 SharePoint 사이트 모음을 관리할 수 없습니다. 
 <br/> <sup>6</sup> 사용 허가 된 각 사용자에 대해 만들어진 OneDrive를 포함 하지 않습니다. 
 <br/> <sup>7</sup> 사용자가 50만 명 이상인 경우 Microsoft 담당자에 게 문의 하세요. 
-  
-
   
 ## <a name="service-limits-for-all-plans"></a>모든 계획에 대 한 서비스 제한
 
@@ -68,8 +66,8 @@ Office 365 요금제 및 SharePoint Online 독립 실행형 계획에 대 한 Sh
 - **사용자** -사이트 모음 당 200만
 
 > [!NOTE]
-> SharePoint 사이트 모음에 초대할 수 있는 게스트 수에는 제한이 없습니다. 외부 공유에 대 한 자세한 내용은 [외부 공유 개요](/sharepoint/external-sharing-overview)를 참조 하세요.
+> SharePoint 사이트 모음에 초대할 수 있는 게스트 수에는 제한이 없습니다. 외부 공유에 대 한 자세한 내용은 [외부 공유 개요](https://docs.microsoft.com/sharepoint/external-sharing-overview)를 참조 하세요.
 
 ## <a name="see-also"></a>참고 항목
 
-[SharePoint Online에 대 한 검색 제한](/sharepoint/search-limits)
+[SharePoint Online에 대 한 검색 제한](https://docs.microsoft.com/sharepoint/search-limits)

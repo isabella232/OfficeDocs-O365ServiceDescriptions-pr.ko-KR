@@ -3,7 +3,6 @@ title: SharePoint Online 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,18 +14,18 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online Office 365에서는 사용자 들이 서로 공유 하 고 공동 작업을 수행 하 여 회사에서 다른 사용자에 게 알리고, 비즈니스 프로세스를 변환 하 고, 공동 지식을 활용할 수 있도록 지원 합니다. 또한 SharePoint는 조직에서 데이터를 보호 및 관리 하 고 사용자 지정 솔루션을 만드는 기능을 제공 합니다. 간략 한 개요를 보려면 SharePoint 란?를 참조 하세요.
-ms.openlocfilehash: cb5fece44554d57ee019b298fcf2aa9938cd6c48
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 11c2f264ec8cdbc3b67fd109558e259c595d18e2
+ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341837"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780707"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 서비스 설명
 
 Microsoft SharePoint Online Office 365에서는 사용자 들이 서로 공유 하 고 공동 작업을 수행 하 여 회사에서 다른 사용자에 게 알리고, 비즈니스 프로세스를 변환 하 고, 공동 지식을 활용할 수 있도록 지원 합니다. 또한 SharePoint는 조직에서 데이터를 보호 및 관리 하 고 사용자 지정 솔루션을 만드는 기능을 제공 합니다. 간략 한 개요를 보려면 [SharePoint 란?](https://support.office.com/article/what-is-sharepoint-97b915e6-651b-43b2-827d-fb25777f446f?ocmsassetID=HA010378184&CTT=1&CorrelationId=30ae3fd1-2af8-4f5c-a1f6-150e338b43da&ui=en-US&rs=en-US&ad=US) 를 참조 하세요.
   
-요금제 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 요금제 비교](http://go.microsoft.com/fwlink/?LinkID=799177&clcid=0x409)를 참조하세요.
+요금제 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 요금제 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)를 참조하세요.
   
 ## <a name="whats-new"></a>새로운 기능
 
@@ -147,7 +146,7 @@ Office 365 계획에 사용할 수 있는 SharePoint 기능을 확인하려면 �
 |[Office Online(보기)](content.md#office-online-view) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office ProPlus  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[Office Web Apps 서버 통합](content.md#office-web-apps-server-integration) <br/> |시킨  <br/> |시킨  <br/> |시킨  <br/> |시킨  <br/> |시킨  <br/> |시킨  <br/> |시킨  <br/> |예  <br/> |예  <br/> |
-|[자료 보존 라이브러리](content.md#preservation-hold-library) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
+|[자료 보존 라이브러리](content.md#preservation-hold-library) <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |[게시 분석](content.md#publishing-analytics) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[빠른 편집](content.md#quick-edit) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
 |[레코드 관리](content.md#records-management) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -222,7 +221,7 @@ Office 365 계획에 사용할 수 있는 SharePoint 기능을 확인하려면 �
 |SharePoint Ribbon <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[사이트 디자인](sites-servicedesc.md#site-designs) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[사이트 테마 (모양 변경)](sites-servicedesc.md#site-themes-change-the-look) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[사이트 사용 현황 페이지](sites-servicedesc.md#site-usage-page) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|[사이트 사용 현황 페이지](sites-servicedesc.md#site-usage-page) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |[작업 목록](sites-servicedesc.md#task-list) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[팀 전자 필기장](sites-servicedesc.md#team-notebook) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |팀 사이트 <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -234,23 +233,23 @@ Office 365 계획에 사용할 수 있는 SharePoint 기능을 확인하려면 �
 |[추가 저장소](add-ons.md#additional-storage) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Azure 프로비전 응용 프로그램: Access Services](add-ons.md#azure-provisioned-apps-access-services) <br/> |예<sup>14</sup> <br/> |예<sup>14</sup> <br/> |예<sup>14</sup> <br/> |예<sup>14</sup> <br/> |예<sup>14</sup> <br/> |예<sup>14</sup> <br/> |예<sup>14</sup> <br/> |아니요  <br/> |아니요  <br/> |
 |[Azure 프로비전 응용 프로그램: Azure LWR(Lightweight Web Role)의 사용자 지정 코드](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
-> [!NOTE]
-> <sup>1</sup> 폴더 동기화를 사용하려면 Office 2013 이상(Standard 또는 Professional Edition)을 보유하고 있거나 Office 응용 프로그램이 포함된 Office 365를 구독해야 합니다. Office 365 Business Essentials, Office 365 Enterprise E1 및 Office 365 Education 계획에는 Office 데스크톱 응용 프로그램에 대한 구독이 포함되지 않습니다. 그러나 Office 2013 이상이 설치되어 있고 계획 중 하나를 구독한 경우 폴더 동기화를 사용할 수 있습니다. 
-<br/><sup>2</sup> firstline 작업자는 비즈니스용 OneDrive 기능이 제한 됩니다. Firstline 작업자는 저장소의 2GB와 데스크톱 동기화 기능 부족을 수신 합니다. Firstline 계정에는 비즈니스용 OneDrive 개인 사이트가 포함 되지 않으므로 1tb 또는 1TB의 온라인 저장소가 포함 된 비즈니스용 OneDrive 개인 라이브러리를 활용할 수 없습니다.
-<br/> <sup>3</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용하려면 Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F1에 포함되어 있지 않은 Office365ProPlus를 구독해야 합니다. 
-<br/><sup>4</sup> firstline 작업 자가 관리자가 될 수 없으므로, firstline 작업 자가 있는 테 넌 트에는 관리 센터에 액세스 하기 위한 엔터프라이즈 사용자가 한 명 이상 필요 합니다. 
-<br/><sup>5</sup> SharePoint Online 고객은 무료 순위 모델 조정 앱을 다운로드 하 고 설치 해야 순위 모델을 만들고 사용자 지정할 수 있습니다. 
-<br/> <sup>6</sup> eDiscovery 기능을 사용할 때 이 기능을 허용하는 계획에 대한 라이선스 요구 사항이 eDiscovery 작업(검색, 보류, 내보내기)에 속하는 모든 최종 사용자에게 적용됩니다. 
-<br/><sup>7</sup> 인증된 SharePoint Online 사용자는 패싯 탐색으로 개인 사이트 모음에 액세스할 수 있습니다. 
-<br/><sup>8</sup> 일부 공급자는 사용자의 국가/지역에서 차단될 수 있습니다. 
-<br/> <sup>9</sup> 조직 외부의 사용자와 전자 메일로 문서, 라이브러리 또는 사이트 공유. 관리자는 해당 기능을 설정할 수 있지만 파일이 사용자 국가 외부에서 공유될 수 있음을 나타내는 경고 메시지가 표시됩니다. 사용자가 조직 외부의 사용자와 공유하려고 하면 같은 경고 메시지를 받게 됩니다. 
-<br/><sup>10</sup> 모바일 브라우저에서 문서를 볼 수 있습니다. 문서를 편집하려면 Office Mobile 앱을 설치해야 합니다. Office Mobile은 현재 Windows 휴대폰 및 태블릿, Android 휴대폰 및 태블릿, iPhone 및 iPad에서 이용할 수 있습니다. 
-<br/><sup>11</sup> 도움말은 중국어 간체 및 영어로만 제공됩니다. 
-<br/> <sup>12</sup> 블로그에 대한 설명은 추가할 수 없습니다. 
-<br/> <sup>13</sup> 조직 커뮤니티 웹 사이트를 사용할 수 있지만 공용 커뮤니티 제공 도움말은 사용할 수 없습니다. 
-<br/><sup>14</sup> Access 2010은 지원되지 않습니다. 
-<br/> <sup>15</sup> office online의 경우 F1 사용자는 콘텐츠를 만들 때 Office online (라이브 타일)에 액세스할 수 있어야 합니다. 그러나 핵심 상업용 모바일 앱과 관련된 제한 사항이 있습니다. 포함 사항: Yammer, StaffHub, Microsoft Teams, 비즈니스용 Skype, SharePoint 및 Groups. Outlook, Word, Excel, PowerPoint 및 OneNote에는 다음이 포함 **되지 않습니다** .<br/> 
-<sup>16</sup> 사용자 코드 (샌드박스)가 포함 된 InfoPath 양식은 Infopath 리치 클라이언트 에서만 사용 될 수 있습니다. 
-<br/><sup>17</sup> Visio Online 소비율 (보기 기능)을 무료로 사용할 수 있습니다. Visio Online의 작성 및 편집 기능은 라이선스가 필요합니다. Visio Online에 대한 자세한 내용은 [Visio 온라인 서비스 설명](../visio-online-service-description/visio-online-service-description.md)을 참조하세요.  <br/><sup>18</sup> f1 사용자는 하이브리드 설치에서 SharePoint Server에 액세스할 수 있지만 Office 365 F1에는 서버 액세스를 위한 CAL 권한이 포함 되지 않습니다. 이러한 권한은 별도로 구입 해야 합니다. 
-<br/><sup>19</sup> 고객 키는 Office 365 Enterprise E5에서 사용할 수 있습니다. 고객 키를 사용하면 조직의 암호화 키를 제어하고 Office 365를 구성 및 사용하여 Microsoft의 데이터 센터의 미사용 데이터를 암호화할 수 있습니다. 미사용 데이터에는 SharePoint Online 및 비즈니스용 OneDrive에 저장되어 있는 사서함과 파일에 저장된 Exchange Online 및 비즈니스용 Skype의 데이터를 포함합니다. 고객 키를 사용하면 Office 365가 데이터의 암호를 해독하는 데 사용하는 암호화 키를 제어하므로 준수 의무를 이행할 수 있습니다. 자세한 내용은 [고객 키를 사용하여 Office 365에서 데이터 제어](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697)를 참조하세요. 
-<br/><sup>20</sup> 곧 출시 될 예정입니다. 
+
+<sup>1</sup> 폴더 동기화를 사용하려면 Office 2013 이상(Standard 또는 Professional Edition)을 보유하고 있거나 Office 응용 프로그램이 포함된 Office 365를 구독해야 합니다. Office 365 Business Essentials, Office 365 Enterprise E1 및 Office 365 Education 계획에는 Office 데스크톱 응용 프로그램에 대한 구독이 포함되지 않습니다. 그러나 Office 2013 이상이 설치되어 있고 계획 중 하나를 구독한 경우 폴더 동기화를 사용할 수 있습니다. <br/>
+<sup>2</sup> firstline 작업자는 비즈니스용 OneDrive 기능이 제한 됩니다. Firstline 작업자는 저장소의 2GB와 데스크톱 동기화 기능 부족을 수신 합니다. Firstline 계정에는 비즈니스용 OneDrive 개인 사이트가 포함 되지 않으므로 1tb 또는 1TB의 온라인 저장소가 포함 된 비즈니스용 OneDrive 개인 라이브러리를 활용할 수 없습니다.<br/> 
+<sup>3</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용하려면 Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F1에 포함되어 있지 않은 Office365ProPlus를 구독해야 합니다. <br/>
+<sup>4</sup> firstline 작업 자가 관리자가 될 수 없으므로, firstline 작업 자가 있는 테 넌 트에는 관리 센터에 액세스 하기 위한 엔터프라이즈 사용자가 한 명 이상 필요 합니다. <br/>
+<sup>5</sup> SharePoint Online 고객은 무료 순위 모델 조정 앱을 다운로드 하 고 설치 해야 순위 모델을 만들고 사용자 지정할 수 있습니다. <br/> 
+<sup>6</sup> eDiscovery 기능을 사용할 때 이 기능을 허용하는 계획에 대한 라이선스 요구 사항이 eDiscovery 작업(검색, 보류, 내보내기)에 속하는 모든 최종 사용자에게 적용됩니다. <br/>
+<sup>7</sup> 인증된 SharePoint Online 사용자는 패싯 탐색으로 개인 사이트 모음에 액세스할 수 있습니다. <br/>
+<sup>8</sup> 일부 공급자는 사용자의 국가/지역에서 차단될 수 있습니다. <br/> 
+<sup>9</sup> 조직 외부의 사용자와 전자 메일로 문서, 라이브러리 또는 사이트 공유. 관리자는 해당 기능을 설정할 수 있지만 파일이 사용자 국가 외부에서 공유될 수 있음을 나타내는 경고 메시지가 표시됩니다. 사용자가 조직 외부의 사용자와 공유하려고 하면 같은 경고 메시지를 받게 됩니다. <br/>
+<sup>10</sup> 모바일 브라우저에서 문서를 볼 수 있습니다. 문서를 편집하려면 Office Mobile 앱을 설치해야 합니다. Office Mobile은 현재 Windows 휴대폰 및 태블릿, Android 휴대폰 및 태블릿, iPhone 및 iPad에서 이용할 수 있습니다. <br/>
+<sup>11</sup> 도움말은 중국어 간체 및 영어로만 제공됩니다. <br/> <sup>12</sup> 블로그에 대한 설명은 추가할 수 없습니다. <br/> 
+<sup>13</sup> 조직 커뮤니티 웹 사이트를 사용할 수 있지만 공용 커뮤니티 제공 도움말은 사용할 수 없습니다. <br/>
+<sup>14</sup> Access 2010은 지원되지 않습니다. <br/> 
+<sup>15</sup> office online의 경우 F1 사용자는 콘텐츠를 만들 때 Office online (라이브 타일)에 액세스할 수 있어야 합니다. 그러나 핵심 상업용 모바일 앱과 관련된 제한 사항이 있습니다. 포함 사항: Yammer, StaffHub, Microsoft Teams, 비즈니스용 Skype, SharePoint 및 Groups. Outlook, Word, Excel, PowerPoint 및 OneNote에는 다음이 포함 **되지 않습니다** .<br/> 
+<sup>16</sup> 사용자 코드 (샌드박스)가 포함 된 InfoPath 양식은 Infopath 리치 클라이언트 에서만 사용 될 수 있습니다. <br/>
+<sup>17</sup> Visio Online 소비율 (보기 기능)을 무료로 사용할 수 있습니다. Visio Online의 작성 및 편집 기능은 라이선스가 필요합니다. Visio Online에 대한 자세한 내용은 [Visio 온라인 서비스 설명](../visio-online-service-description/visio-online-service-description.md)을 참조하세요.  <br/>
+<sup>18</sup> f1 사용자는 하이브리드 설치에서 SharePoint Server에 액세스할 수 있지만 Office 365 F1에는 서버 액세스를 위한 CAL 권한이 포함 되지 않습니다. 이러한 권한은 별도로 구입 해야 합니다. <br/>
+<sup>19</sup> 고객 키는 Office 365 Enterprise E5에서 사용할 수 있습니다. 고객 키를 사용하면 조직의 암호화 키를 제어하고 Office 365를 구성 및 사용하여 Microsoft의 데이터 센터의 미사용 데이터를 암호화할 수 있습니다. 미사용 데이터에는 SharePoint Online 및 비즈니스용 OneDrive에 저장되어 있는 사서함과 파일에 저장된 Exchange Online 및 비즈니스용 Skype의 데이터를 포함합니다. 고객 키를 사용하면 Office 365가 데이터의 암호를 해독하는 데 사용하는 암호화 키를 제어하므로 준수 의무를 이행할 수 있습니다. 자세한 내용은 [고객 키를 사용하여 Office 365에서 데이터 제어](https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key)를 참조하세요. <br/>
+<sup>20</sup> 곧 출시 될 예정입니다. 

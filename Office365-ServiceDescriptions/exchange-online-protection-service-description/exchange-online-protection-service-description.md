@@ -3,7 +3,6 @@ title: Exchange Online Protection 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다. Exchange Online Protection을 제공하는 계획 목록과 계획 간 기능 비교가 포함되어 있습니다.
-ms.openlocfilehash: 22116d6771ccafe421cf1a3fc1abc87ab4af1d43
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 8344233189e8622fd49907ce4c9e15950ae79ffd
+ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342088"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780657"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 서비스 설명
 
@@ -34,18 +33,18 @@ Microsoft EOP(Exchange Online Protection)는 스팸 및 맬웨어로부터 조�
     
 - **하이브리드 배포에서** 온-프레미스 사서함과 클라우드 사서함을 함께 사용하는 경우 메시징 환경을 보호하고 메일 라우팅을 제어하도록 EOP를 구성할 수 있습니다. 
     
-계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)를 참조하세요.
+계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)를 참조하세요.
   
-Exchange Online Protection을 구입하려면 [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201)을 참조하세요.
+Exchange Online Protection을 구입하려면 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)을 참조하세요.
   
-Office 365 서비스 설명의 페이지를 내보내고 저장하며 인쇄할 수 있습니다. [여러 페이지 내보내기](https://go.microsoft.com/fwlink/?LinkId=403349) 방법을 알아보세요.
+Office 365 서비스 설명의 페이지를 내보내고 저장하며 인쇄할 수 있습니다. [여러 페이지 내보내기](https://docs.microsoft.com/office365/securitycompliance/export-search-results) 방법을 알아보세요.
   
 > [!IMPORTANT]
 > EOP는 FOPE(Forefront Online Protection for Exchange)를 대체합니다. 모든 FOPE 고객은 EOP로 전환됩니다. EOP는 FOPE에서 제공되었던 보호 및 제어 기능을 제공할 뿐 아니라 추가 기능도 포함합니다. FOPE에서 EOP로의 전환에 대한 자세한 내용은 [FOPE(Forefront Online Protection for Exchange) 전환 센터](http://www.movetoeop.com)를 참조하세요. 
   
 ## <a name="whats-new-in-exchange-online-protection-eop"></a>EOP(Exchange Online Protection)의 새로운 기능
 
-EOP의 새로운 기능에 대한 자세한 내용은 [Exchange Online Protection의 새로운 기능](https://go.microsoft.com/fwlink/p/?LinkId=320390)을 참조하세요. FOPE와 EOP 간의 기능 비교는 [FOPE와 EOP의 기능 비교](https://go.microsoft.com/fwlink/p/?LinkId=320391)를 참조하세요.
+EOP의 새로운 기능에 대한 자세한 내용은 [Exchange Online Protection의 새로운 기능](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-overview)을 참조하세요. FOPE와 EOP 간의 기능 비교는 [FOPE와 EOP의 기능 비교](https://go.microsoft.com/fwlink/p/?LinkId=320391)를 참조하세요.
   
 ## <a name="exchange-online-protection-eop-plans"></a>EOP(Exchange Online Protection) 계획
 
@@ -53,9 +52,9 @@ EOP는 다음의 구독 계획을 통해 사용할 수 있습니다.
   
 |**계획**|**설명**|
 |:-----|:-----|
-|[EOP 독립 실행형](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> |EOP가 온-프레미스 사서함을 보호합니다.  <br/> |
-|[Exchange Online의 EOP 기능](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> |EOP가 Exchange Online 클라우드 호스트 사서함을 보호합니다.  <br/> |
-|[Exchange Enterprise CAL with Services](https://go.microsoft.com/fwlink/p/?LinkId=293699) <br/> |EOP에는 EOP 독립 실행형 같이 온-프레미스 사서함을 보호하고 웹 서비스를 사용하는 DLP(데이터 손실 방지) 및 보고 기능이 포함됩니다.  <br/> |
+|[EOP 독립 실행형](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview) <br/> |EOP가 온-프레미스 사서함을 보호합니다.  <br/> |
+|[Exchange Online의 EOP 기능](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> |EOP가 Exchange Online 클라우드 호스트 사서함을 보호합니다.  <br/> |
+|[Exchange Enterprise CAL with Services](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business) <br/> |EOP에는 EOP 독립 실행형 같이 온-프레미스 사서함을 보호하고 웹 서비스를 사용하는 DLP(데이터 손실 방지) 및 보고 기능이 포함됩니다.  <br/> |
    
 ### <a name="exchange-enterprise-cal-with-services-features"></a>Exchange Enterprise CAL with Services 기능
 
@@ -65,16 +64,16 @@ Microsoft Exchange Enterprise CAL with Services에서는 온-프레미스 메시
     
 - [웹 서비스를 사용하여 보고](reporting-and-message-trace.md#reporting-using-web-services)
     
-Exchange Enterprise CAL with Services 라이선스에 대한 자세한 내용은 [Exchange Server 2013 라이선스](https://go.microsoft.com/fwlink/p/?LinkId=293699)를 참조하세요.
+Exchange Enterprise CAL with Services 라이선스에 대한 자세한 내용은 [Exchange Server 2013 라이선스](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)를 참조하세요.
   
-Exchange Enterprise CAL with Services 라이선스를 보유한 상태에서 서비스를 프로비전하려는 경우 [EOP 서비스 설정](https://go.microsoft.com/fwlink/p/?LinkId=320397)의 지침을 따르세요. 설정 단계는 EOP 독립 실행형 설정 단계와 동일합니다.
+Exchange Enterprise CAL with Services 라이선스를 보유한 상태에서 서비스를 프로비전하려는 경우 [EOP 서비스 설정](https://docs.microsoft.com/office365/SecurityCompliance/eop/set-up-your-eop-service)의 지침을 따르세요. 설정 단계는 EOP 독립 실행형 설정 단계와 동일합니다.
   
 > [!NOTE]
 > Exchange Enterprise CAL with Services의 새 기능은 EOP 독립 실행형이 아닌 Exchange Online과 같은 시기에 배포됩니다. EOP 독립 실행형과 Exchange Online/Exchange Enterprise CAL with Services의 배포 일정은 약간 다를 수도 있습니다. 
   
 ## <a name="requirements-for-exchange-online-protection-eop"></a>EOP(Exchange Online Protection)에 대한 요구 사항
 
-EOP는 Microsoft Exchange Server 2013과 같은 모든 SMTP 메일 전송 에이전트와 함께 사용할 수 있습니다. EOP에서 지원되는 운영 체제, 웹 브라우저 및 언어에 대한 자세한 내용은 [Exchange Online Protection의 Exchange 관리 센터](https://go.microsoft.com/fwlink/p/?LinkId=282381)의 "지원되는 브라우저" 및 "지원되는 언어" 섹션을 참조하세요.
+EOP는 Microsoft Exchange Server 2013과 같은 모든 SMTP 메일 전송 에이전트와 함께 사용할 수 있습니다. EOP에서 지원되는 운영 체제, 웹 브라우저 및 언어에 대한 자세한 내용은 [Exchange Online Protection의 Exchange 관리 센터](https://docs.microsoft.com/office365/securitycompliance/exchange-admin-center-in-exchange-online-protection-eop)의 "지원되는 브라우저" 및 "지원되는 언어" 섹션을 참조하세요.
   
 ## <a name="limits"></a>제한
 
@@ -117,18 +116,18 @@ EOP의 제한은 [Exchange Online Protection 제한](exchange-online-protection-
 |[Exchange 관리 센터 액세스](administration-and-management-eop.md#access-to-the-exchange-admin-center)(EAC)  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[원격 Windows PowerShell 액세스](administration-and-management-eop.md#remote-windows-powershell-access) <br/> |예<sup>2</sup> <br/> |예  <br/> |예  <br/> |
    
-> [!NOTE]
-> <sup>1</sup> 메일 사용자는 "사서함"으로 정의되며 외부 메일 연락처와 마찬가지로 EAC(Exchange 관리 센터)에서 직접 추가, 제거 및 관리할 수 있습니다. 
- <br/><sup>2</sup> RBAC 사용자 지정은 해당하지 않습니다. 관리자 역할만 해당합니다. 
- <br/> <sup>3</sup> EAC에서 관리되는 도메인을 볼 수 있으며 도메인 유형을 편집할 수 있습니다. 다른 모든 도메인 관리는 Microsoft 365 관리 센터에서 수행 해야 합니다. 
- <br/><sup>4</sup> EOP와 Exchange Online의 사용 가능한 유연한 조건 및 동작은 서로 다릅니다. EOP에서 사용 가능한 조건 및 동작 목록은 [전송 규칙 조건](https://go.microsoft.com/fwlink/p/?LinkId=320392) 및 [전송 규칙 동작](https://go.microsoft.com/fwlink/p/?LinkId=320393)을 참조하세요. Exchange Online에서 사용 가능한 조건 및 동작 목록은 [전송 규칙 조건](https://go.microsoft.com/fwlink/p/?LinkId=320394) 및 [전송 규칙 동작](https://go.microsoft.com/fwlink/p/?LinkId=320395)을 참조하세요. 
- <br/><sup>5</sup> EOP 감사 보고서는 사서함에 대한 정보가 제외된, Exchange Online 감사 보고서의 하위 집합입니다. 
- <br/> <sup>6</sup> Exchange Enterprise CAL with Services 고객은 DLP 정책 팁을 사용할 수 없습니다.  <br/><sup>7</sup> 기본 콘텐츠 필터 동작은 스팸 메시지를 받는 사람의 정크 메일 폴더로 이동하는 것입니다. 온-프레미스 사서함에서 이 동작이 작동하도록 하려면 EOP에서 추가한 스팸 헤더를 검색하도록 온-프레미스 서버에서 Exchange 전송 규칙 두 개를 구성해야 합니다. 자세한 내용은 [스팸이 각 사용자의 정크 메일 폴더로 라우팅되는지 확인](https://go.microsoft.com/fwlink/p/?LinkId=320396)을 참조하세요. 
- <br/><sup>8</sup> 이 기능은 사서함이 EOP에 의해 필터링되는 Exchange Server 2013 SP1(서비스 팩 1) 고객에게 제공되며 Exchange Online 고객에게도 곧 제공될 예정입니다. 
- <br/><sup>9</sup> EOP 보고서는 사서함에 대한 정보를 제외한 Exchange Online 보고서의 하위 집합입니다.
- <br/><sup>10</sup> DLP 보고서가 포함됩니다. 
- <br/><sup>11</sup> Exchange Enterprise CAL with Services 고객은 **Exchange Online Protection** 서비스가 아니라 **Exchange Online** 서비스를 선택하여 통합 문서를 설치해야 합니다. 
- <br/><sup>12</sup> Azure Information protection을 구입 하 고 Exchange online Protection을 사용 하 여 exchange online을 통해 전자 메일을 라우팅하는 온-프레미스 고객에 게 지원 됩니다. 
- <br/> <sup>13</sup> 인바운드 및 아웃바운드 메시지는 검사하지만 조직의 보낸 사람이 조직의 받는 사람에게 보낸 내부 메시지는 검사하지 않습니다. 
- <br/><sup>14</sup> EOP 및 Exchange Online에서 사용할 수 있는 조건자와 작업은 각기 다릅니다. 
- <br/> <sup>15</sup> 하이브리드 설치는 하이브리드 마법사를 통해 사용할 수 없지만 Exchange SP1이 있는 경우에는 수동으로 설정할 수 있습니다. 
+<sup>1</sup> 메일 사용자는 "사서함"으로 정의되며 외부 메일 연락처와 마찬가지로 EAC(Exchange 관리 센터)에서 직접 추가, 제거 및 관리할 수 있습니다. <br/>
+<sup>2</sup> RBAC 사용자 지정은 해당하지 않습니다. 관리자 역할만 해당합니다. <br/> 
+<sup>3</sup> EAC에서 관리되는 도메인을 볼 수 있으며 도메인 유형을 편집할 수 있습니다. 다른 모든 도메인 관리는 Microsoft 365 관리 센터에서 수행 해야 합니다.<br/>
+<sup>4</sup> EOP와 Exchange Online의 사용 가능한 유연한 조건 및 동작은 서로 다릅니다. EOP에서 사용 가능한 조건 및 동작 목록은 [전송 규칙 조건](https://docs.microsoft.com/office365/SecurityCompliance/eop/mail-flow-in-eop) 및 [전송 규칙 동작](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)을 참조하세요. Exchange Online에서 사용 가능한 조건 및 동작 목록은 [전송 규칙 조건](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) 및 [전송 규칙 동작](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)을 참조하세요. <br/>
+<sup>5</sup> EOP 감사 보고서는 사서함에 대한 정보가 제외된, Exchange Online 감사 보고서의 하위 집합입니다. <br/> 
+<sup>6</sup> Exchange Enterprise CAL with Services 고객은 DLP 정책 팁을 사용할 수 없습니다.  <br/>
+<sup>7</sup> 기본 콘텐츠 필터 동작은 스팸 메시지를 받는 사람의 정크 메일 폴더로 이동하는 것입니다. 온-프레미스 사서함에서 이 동작이 작동하도록 하려면 EOP에서 추가한 스팸 헤더를 검색하도록 온-프레미스 서버에서 Exchange 전송 규칙 두 개를 구성해야 합니다. 자세한 내용은 [스팸이 각 사용자의 정크 메일 폴더로 라우팅되는지 확인](https://docs.microsoft.com/office365/SecurityCompliance/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)을 참조하세요. <br/>
+<sup>8</sup> 이 기능은 사서함이 EOP에 의해 필터링되는 Exchange Server 2013 SP1(서비스 팩 1) 고객에게 제공되며 Exchange Online 고객에게도 곧 제공될 예정입니다. <br/>
+<sup>9</sup> EOP 보고서는 사서함에 대한 정보를 제외한 Exchange Online 보고서의 하위 집합입니다.<br/>
+<sup>10</sup> DLP 보고서가 포함됩니다. <br/>
+<sup>11</sup> Exchange Enterprise CAL with Services 고객은 **Exchange Online Protection** 서비스가 아니라 **Exchange Online** 서비스를 선택하여 통합 문서를 설치해야 합니다. <br/>
+<sup>12</sup> Azure Information protection을 구입 하 고 Exchange online Protection을 사용 하 여 exchange online을 통해 전자 메일을 라우팅하는 온-프레미스 고객에 게 지원 됩니다. <br/> 
+<sup>13</sup> 인바운드 및 아웃바운드 메시지는 검사하지만 조직의 보낸 사람이 조직의 받는 사람에게 보낸 내부 메시지는 검사하지 않습니다. <br/>
+<sup>14</sup> EOP 및 Exchange Online에서 사용할 수 있는 조건자와 작업은 각기 다릅니다. <br/> 
+<sup>15</sup> 하이브리드 설치는 하이브리드 마법사를 통해 사용할 수 없지만 Exchange SP1이 있는 경우에는 수동으로 설정할 수 있습니다. 
