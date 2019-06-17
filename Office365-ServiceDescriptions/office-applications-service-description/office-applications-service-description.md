@@ -3,7 +3,6 @@ title: Office 응용 프로그램 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/17/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365는 Word, Excel, PowerPoint 등 이미 익숙한 Office 데스크톱 응용 프로그램의 최신 버전을 제공 하는 구독 서비스입니다.
-ms.openlocfilehash: c3c273d542a793b1cf106611100155b436e64ff7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a9fc61ae4157150bdc772c92cf752972b1e3fd57
+ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343097"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "34931140"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 
@@ -90,7 +89,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |Volume activation (KMS/MAK)  <br/> |예  <br/> |예  <br/> |예  <br/>|<sup>9</sup> 없음 <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
    
 > [!NOTE]
-><sup>+</sup>Office 365 또는 Office 2019을 설치 하면 기본적으로 Windows 10 용 OneNote가 제공 됩니다. 자세한 내용은 [Office 2019의 OeNOte에 대 한 질문과 대답](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)을 참조 하십시오.<br/>
+><sup>+</sup>Office 365 또는 Office 2019을 설치 하면 기본적으로 Windows 10 용 OneNote가 제공 됩니다. 자세한 내용은 [Office 2019의 OneNote에 대 한 질문과 대답](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)을 참조 하십시오.<br/>
 ><sup>++</sup>OneNote 앱은 SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365의 전자 필기장에 액세스할 수 있습니다. <br/>
 ><sup>+++</sup>BHO 지원은 Internet Explorer 용 확장 기술입니다. <br/>
 ><sup>1</sup> 보관 및 규정 준수 기능은 이 Office 버전에서 지원되지만 Exchange Online 및 SharePoint Online 계획은 포함되어 있지 않으므로 별도 구입하거나 지원 가능한 온-프레미스 서버 동급의 제품과 함께 사용해야 합니다.<br/>

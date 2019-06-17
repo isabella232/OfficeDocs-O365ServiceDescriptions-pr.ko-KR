@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online Office 365에서는 사용자 들이 서로 공유 하 고 공동 작업을 수행 하 여 회사에서 다른 사용자에 게 알리고, 비즈니스 프로세스를 변환 하 고, 공동 지식을 활용할 수 있도록 지원 합니다. 또한 SharePoint는 조직에서 데이터를 보호 및 관리 하 고 사용자 지정 솔루션을 만드는 기능을 제공 합니다. 간략 한 개요를 보려면 SharePoint 란?를 참조 하세요.
-ms.openlocfilehash: 11c2f264ec8cdbc3b67fd109558e259c595d18e2
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: b2ad0ab9f45e91bed7f28dccecfddd58cee308bb
+ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780707"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "34931130"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 서비스 설명
 
@@ -62,6 +62,9 @@ SharePoint Online에 액세스하는 각 사용자를 Office 365 계획 또는 S
 <a name="bkmk_tableo365"> </a>
 
 Office 365 계획에 사용할 수 있는 SharePoint 기능을 확인하려면 다음 표를 살펴보세요. 
+
+> [!TIP]
+> 이 표의 일부 열은 숨겨져 있을 수 있습니다. 표 아래쪽에 있는 스크롤 막대를 사용 하 여 오른쪽으로 스크롤한 다음 추가 열을 표시 합니다.
   
 ****
 
