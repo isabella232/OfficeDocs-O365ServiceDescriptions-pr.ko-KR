@@ -3,7 +3,6 @@ title: Office Online 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/06/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Office Online을 사용하면 거의 모든 장치에서 인터넷에 연결하여 어디서나 Office 파일을 간편하게 사용하고 공유할 수 있습니다. Microsoft Office 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: e952279b7f5115cbde4a8ac9e5e053b08d522812
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0065dddd87d366692ab4e7727653017e2636a786
+ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343787"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35018310"
 ---
 # <a name="office-online-service-description"></a>Office Online 서비스 설명
 
 Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Office Online을 사용하면 거의 모든 장치에서 인터넷에 연결하여 어디서나 Office 파일을 간편하게 사용하고 공유할 수 있습니다. Microsoft Office 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다. 
   
-요금제 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 요금제 비교](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)를 참조하세요.
+요금제 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 요금제 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)를 참조하세요.
   
 ## <a name="feature-availability-across-office-online-plans"></a>Office Online 계획에서의 기능 가용성
 <a name="bkmk_FeatureavailabilityO365"> </a>
@@ -32,7 +31,7 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 조직에 가장 잘 맞는 Office 솔루션을 찾는 데 도움이 필요하십니까? 다음 표에서는 Office Online 기능 기능과 기능이 다양 한 Microsoft Office 데스크톱 앱을 비교 합니다. 표를 사용 하 여 Office Online에서 사용할 수 있는 기능을 찾은 다음 기능 이름을 클릭 하 여 해당 기능의 작동 방식에 대 한 간략 한 설명을 읽으십시오. 조직의 일부 사용자가 Excel 데스크톱 앱의 고급 차트 기능을 필요로 하는 반면, 다른 사용자가 Office Online을 사용 하 여 Word 문서 및 PowerPoint 프레젠테이션을 보고 가볍게 편집 하기만 하면 되는 것을 알 수 있습니다. 
   
 > [!NOTE]
->  Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. 표는 Microsoft Office 기능의 전체 목록이 아닙니다. >  Microsoft Office 365 ProPlus는 최신 Office 데스크톱 제품군의 월별 구독 제품입니다. office Professional Plus, Office Standard 또는 Office 365 ProPlus 라이선스와 같은 Office 데스크톱 제품군 라이선스를 구매한 경우 Microsoft Office Online Server 온-프레미스 고객에 게 Office Online 편집 라이선스를 > 합니다. 
+>  Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. 표는 Microsoft Office 기능의 전체 목록이 아닙니다. <br/>  Microsoft Office 365 ProPlus는 최신 Office 데스크톱 제품군의 월별 구독 제품입니다. <br/>  Office Professional Plus, Office Standard 또는 Office 365 ProPlus 라이선스와 같은 Office 데스크톱 제품군 라이선스를 구매한 경우 Microsoft Office Online Server 온-프레미스 고객에 게 Office Online 편집 라이선스가 제공 됩니다. 
   
 > [!NOTE]
 > Office 문서를 Outlook 전자 메일 첨부 파일로 열거나, SharePoint 문서 라이브러리에서 열면 문서가 Office Online에서 읽기 전용으로 실행됩니다. Office Online(편집 모드)에서 문서를 편집하려면 Office 365 Enterprise E1 같은 Office 365 제품군 라이선스가 필요합니다. 데스크톱 앱에서 문서를 편집하려면 Office 365 ProPlus 구독 또는 Office Professional Plus 2010 설치 버전과 같은 Office 데스크톱 제품군 라이선스가 필요합니다. 
@@ -45,14 +44,14 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 |**응용 프로그램 기능** <br/> |**Word Online** <br/> |**Word 데스크톱 앱** <br/> |
 |[맞춤 안내서 및 라이브 레이아웃](word-online.md#alignment-guides-and-live-layout) <br/> |아니요  <br/> |있음  <br/> |
 |[스타일 적용](word-online.md#apply-styles) <br/> |예  <br/> |예  <br/> |
-|[자동 저장](word-online.md#autosave) <br/> |아니요  <br/> |예  <br/> |
+|[자동 저장](word-online.md#autosave) <br/> |예  <br/> |예  <br/> |
 |[상용구](word-online.md#autotext) <br/> |예  <br/> |예  <br/> |
 |[찾아보기 및 전문적으로 디자인된 템플릿에서 시작](word-online.md#browse-and-start-from-professionally-designed-templates) <br/> |예  <br/> |예  <br/> |
 |[글머리 기호 및 번호 매기기](word-online.md#bullets-and-numbering) <br/> |예  <br/> |예  <br/> |
 |[캡션](word-online.md#captions) <br/> |아니요  <br/> |있음  <br/> |
 |[인용 및 참고 문헌](word-online.md#citations-and-bibliography) <br/> |아니요  <br/> |있음  <br/> |
 |[클립보드](word-online.md#clipboard) <br/> |예  <br/> |예  <br/> |
-|[공동 작업 - 고급](word-online.md#collaboration--advanced) <br/> |아니요  <br/> |있음  <br/> |
+|[공동 작업 - 고급](word-online.md#collaboration--advanced) <br/> |아니요  <br/> |예  <br/> |
 |[콘텐츠 컨트롤](word-online.md#content-controls) <br/> |예  <br/> |예  <br/> |
 |[표지](word-online.md#cover-pages) <br/> |No<sup>1</sup> <br/> |예  <br/> |
 |[고급 문서 요소 만들기](word-online.md#creation-of-advanced-document-elements) <br/> |아니요  <br/> |있음  <br/> |
@@ -214,9 +213,9 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 |[공동 작성](onenote-online.md#co-authoring) <br/> |예  <br/> |예  <br/> |
 |[페이지 및 섹션 만들기 및 관리](onenote-online.md#create-and-manage-pages-and-sections) <br/> |예  <br/> |예  <br/> |
 |[포함된 Office 파일의 복사본 다운로드](onenote-online.md#download-copy-of-embedded-office-files) <br/> |예  <br/> |예<sup>4</sup> <br/> |
-|[페이지 끌어서 놓기] <br/> |예  <br/> |예 <br/> |
-|[끌어서 놓기 섹션] <br/> |예  <br/> |예 <br/> |
-|[끌어서 놓기 섹션 그룹] <br/> |아니요  <br/> |지원 <br/> |
+|페이지 끌어서 놓기 <br/> |예  <br/> |예 <br/> |
+|섹션 끌어서 놓기 <br/> |예  <br/> |예 <br/> |
+|섹션 그룹 끌어서 놓기 <br/> |아니요  <br/> |지원 <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |예  <br/> |예  <br/> |
 |[포함된 파일 편집](onenote-online.md#EmbeddedFileEdit) <br/> |아니요  <br/> |지원  <br/> |
 |[수식](onenote-online.md#equations) <br/> |예  <br/> |예  <br/> |
@@ -301,10 +300,11 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 |[WYSIWYG 보기](powerpoint-online.md#wysiwyg-viewing) <br/> |예  <br/> |예  <br/> |
 
 > [!NOTE]   
-> <sup>1</sup> PowerPoint Online에서는 8 개의 전환 및 37 애니메이션의 갤러리를 지원 합니다. 더 많은 항목을 선택 하거나 사용자 지정 애니메이션을 만들려면 PowerPoint 데스크톱 앱을 사용 합니다. 
- <br/><sup>2</sup> 작업 중인 장치에서 잉크를 지원 해야 합니다. 
- <br/> <sup>3</sup> 모두는 아니지만 일부 Office 추가 기능을 사용할 수 있습니다. 
- <br/><sup>4</sup> 피벗 차트 또는 피벗 테이블을 만들 수는 없지만 뷰어에서 볼 수는 있습니다. 
+><sup>1</sup> PowerPoint Online에서는 8 개의 전환 및 37 애니메이션의 갤러리를 지원 합니다. 더 많은 항목을 선택 하거나 사용자 지정 애니메이션을 만들려면 PowerPoint 데스크톱 앱을 사용 합니다. 
+ <br/>
+<sup>2</sup> 작업 중인 장치에서 잉크를 지원 해야 합니다. <br/> 
+<sup>3</sup> 모두는 아니지만 일부 Office 추가 기능을 사용할 수 있습니다. <br/>
+<sup>4</sup> 피벗 차트 또는 피벗 테이블을 만들 수는 없지만 뷰어에서 볼 수는 있습니다. 
   
 ## <a name="supported-file-types-for-office-online"></a>지원되는 Office Online 파일 형식
 <a name="bkmk_SupportedFileTypes"> </a>

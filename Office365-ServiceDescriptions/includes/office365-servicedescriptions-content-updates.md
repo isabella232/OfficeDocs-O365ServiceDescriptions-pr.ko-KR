@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-may-06-2019"></a>5 월 6 일 주 2019
-
-
-| 게시된 날짜 |항목 제목 | 변경 사항 |
-|------|------------|--------|
-| 5/6/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | 수정한 날짜 |
-| 5/6/2019 | [Office Online 서비스 설명](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 수정한 날짜 |
-| 5/7/2019 | [Exchange Online 서비스 설명](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | 수정한 날짜 |
-| 5/7/2019 | [지원](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | 수정한 날짜 |
-| 5/7/2019 | [Office Online 서비스 설명](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 수정한 날짜 |
-
-
 ## <a name="week-of-may-13-2019"></a>5 월 13 일 주 2019
 
 
@@ -168,3 +156,12 @@
 | 6/7/2019 | [Office 365 보안 및 준수 센터](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 수정한 날짜 |
 | 6/7/2019 | [SharePoint Online 제한 사항](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 수정한 날짜 |
 | 6/7/2019 | [SharePoint Online 서비스 설명](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | 수정한 날짜 |
+
+
+## <a name="week-of-june-10-2019"></a>2019 년 6 월 10 일 주
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 6/13/2019 | [Office 응용 프로그램 서비스 설명](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 수정한 날짜 |
+| 6/13/2019 | [SharePoint Online 서비스 설명](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | 수정한 날짜 |
