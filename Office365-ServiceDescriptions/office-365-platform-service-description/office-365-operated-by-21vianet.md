@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영 하는 Office 365는 중국의 안전 하 고 안정적 이며 확장 가능한 클라우드 서비스에 대 한 요구를 충족 하도록 설계 되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: 412cb8cb53d6bea409488b2e6af8a60953813c67
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: 02ac59da3fc447cd123335cdc87aec78736b02d1
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742147"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131322"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -37,7 +37,7 @@ Microsoft에서는 이 서비스 자체를 운영하지 않습니다. 21Vianet�
 21Vianet에서 운영하는 각 Office 365 계획에는 Exchange Online, SharePoint Online 등의 여러 개별 서비스가 포함됩니다. 다음 표에는 각 Office 365 계획에서 사용 가능한 서비스가 나와 있습니다.
   
 >[!NOTE]
-> 21Vianet에서 운영하는 Office 365 버전의 Office 365는 중국에 한정됩니다. <br/>
+> 21Vianet에서 운영하는 Office 365 버전의 Office 365는 중국에 한정됩니다.<br/>
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -47,7 +47,7 @@ Microsoft에서는 이 서비스 자체를 운영하지 않습니다. 21Vianet�
 |SharePoint Online  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <br/> |
 |비즈니스용 Skype 온라인  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Office Online  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|웹에 대 한 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365 ProPlus  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |Project Online<sup>2</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Power BI  <br/> |아니요 <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |아니요  <br/> |아니요 <br/> |아니요 <br/> |
@@ -210,7 +210,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <sup>12</sup> 일부 TechNet 콘텐츠가 21vianet에서 운영 하는 Office 365에 적용 되지 않을 수 있습니다.<br/>
 <sup>13</sup> 개 감소 환경 조직이 Internet Explorer 8 또는 Internet Explorer 9에 의존 하 여 이전 웹 앱 및 서비스에 액세스 하는 경우 internet explorer 11로 업그레이드 하 고 Internet Explorer 11 엔터프라이즈 모드를 평가 하는 것을 고려할 수 있습니다. 이 업데이트를 통해 레거시 Web Apps에 대한 이전 버전과의 호환성을 개선할 수 있습니다. <br/>
 <sup>14</sup> multi-factor authentication은 현재 Outlook MOBILE (IOS 및 Android)에서 지원 되지 않습니다. <br/>
-<sup>15</sup> Onenote 수업용 전자 필기장은 21vianet을 통해 사용할 수 있지만, Windows 10 앱, IPad 또는 onenote Online에는 Onenote 수업용 전자 필기장 도구 모음을 사용할 수 없습니다.
+<sup>15</sup> Onenote 수업용 전자 필기장은 21vianet에서 사용할 수 있지만, 웹의 경우 Windows 10 앱, IPad 또는 onenote에서는 Onenote 수업용 전자 필기장 도구 모음을 사용할 수 없습니다.
   
 ## <a name="office-365-application-features"></a>Office 365 응용 프로그램 기능
 <a name="BM3_OfficeApp"> </a>
@@ -287,24 +287,24 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>11</sup> 21Vianet에서 운영하는 Office 365에 곧 제공될 예정입니다. 
 <br/><sup>15</sup> Google 서비스 (재생 스토어 포함)는 중국 내에서 액세스할 수 없습니다. 사용자가 모바일 앱을 설치할 수 있는 주요 전화 제조업체 또는 검색 엔진 회사에서 여러 앱 저장소를 유지 관리 하 고 있습니다.
   
-## <a name="office-online-features"></a>Office Online 기능
+## <a name="office-for-the-web-features"></a>웹 기능 용 Office
 <a name="BM4_OfficeOnline"> </a>
 > [!NOTE]
 > 21Vianet에서 운영하는 Office 365 버전의 Office 365는 중국에 한정됩니다.<br/>
   
-다음 테이블에서는 Office Online 기능과 기능이 다양한 Microsoft Office 데스크톱 앱을 비교한 링크를 제공합니다. 이 비교표를 사용하여 Office Online에서 사용할 수 있는 기능을 살펴본 다음 기능 이름을 클릭하여 해당 기능의 작동 방식에 대한 간단한 설명을 읽어 보십시오.
+다음 표에서는 기능에 적합 한 Microsoft Office 데스크톱 응용 프로그램에 대 한 웹 기능 기능에 대 한 Office 비교 링크를 제공 합니다. 비교를 사용 하 여 웹에서 사용할 수 있는 기능을 찾은 다음 기능 이름을 클릭 하 여 해당 기능의 작동 방식에 대 한 간략 한 설명을 읽으십시오.
 > [!NOTE]
 >- Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. 이 비교표는 Microsoft Office 기능의 전체 목록이 아닙니다. 
 >- Microsoft Office 365 ProPlus는 최신 Office 데스크톱 제품군의 월별 구독 제품입니다. 
->- Microsoft Office Web Apps 서버 2013 온-프레미스 고객은 office Professional Plus, Office Standard 또는 Office 365 ProPlus 라이선스와 같은 Office 데스크톱 제품군 라이선스를 구매한 경우 Office Online 편집 라이선스를 얻게 됩니다.<br/>
+>- Office Professional Plus, Office Standard 또는 Office 365 ProPlus 라이선스와 같은 Office 데스크톱 제품군 라이선스를 구매한 경우 Microsoft Office Web Apps 서버 2013 온-프레미스 고객은 웹 편집 라이선스로 Office를 받습니다.<br/>
 
 ||||
 |:-----|:-----|:-----|
-|**응용프로그램** <br/> |**21Vianet에서 운영하는 Office Online** <br/> |**자세한 기능 비교 링크** <br/> |
-|Word  <br/> |21Vianet에서 운영하는 Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |21Vianet에서 운영하는 Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |21Vianet에서 운영하는 OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |21Vianet에서 운영하는 PowerPoint Online  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
+|**응용 프로그램** <br/> |**21Vianet에서 운영 하는 웹의 Office** <br/> |**자세한 기능 비교 링크** <br/> |
+|Word  <br/> |21Vianet에서 운영 하는 웹에 대 한 Word  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |21Vianet에서 운영 하는 웹에 대 한 Excel  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |21Vianet에서 운영 하는 웹의 OneNote  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |21Vianet에서 운영 하는 웹의 PowerPoint  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
    
 ## <a name="exchange-online-features"></a>Exchange Online 기능 
 <a name="BM5_ExchangeOnline"> </a>
@@ -429,7 +429,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>9</sup> Office 365 business Essentials 및 business Premium에서는 온-프레미스 서버와의 사용률에 대 한 액세스 권한을 제공 하지 않습니다. 정책을 준수 하려면 고객은 해당 Cal을 구매 하거나 이전에 구매한 다음 이러한 액세스 권한을 제공 하는 Enterprise SKU로 업그레이드 해야 합니다. 
 <br/><sup>10</sup> 하이브리드 구성 마법사는 EXCHANGE 2013 CU5 및 더 많은 온-프레미스 배포에 사용할 수 있습니다. 그러나 일부 하이브리드 기능에는 다음과 같은 제한 사항이 있습니다. 자세한 내용은 [21vianet에서 운영 하는 Office 365](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet)을 참조 하십시오. 
 <br/><sup>11</sup> 21vianet에서 운영 하는 Office 365의 경우 LinkedIn을 사용할 수 있으 나 Facebook이 아닙니다. 
-<br/><sup>12</sup> 하이브리드 배포 설정은 EXCHANGE 2013 CU5 용 하이브리드 구성 마법사를 통해 제공 되거나, exchange 2013 s p 1이 있는 경우에는 수동으로 설정할 수 있습니다. 자세한 내용은 도움말 항목 365을 참조 하십시오. 
+<br/><sup>12</sup> 하이브리드 배포 설정은 EXCHANGE 2013 CU5 용 하이브리드 구성 마법사를 통해 제공 되거나, exchange 2013 s p 1이 있는 경우에는 수동으로 설정할 수 있습니다. 자세한 내용은 도움말 항목 [365](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet)을 참조 하십시오. 
 <br/><sup>13</sup> 연결 된 계정은 POP &amp; IMAP 계정에 대해서는 지원 되지만 Outlook.com (Hotmail)에는 사용할 수 없습니다. 
 <br/><sup>14</sup> cmdlet을 사용 하 여 주소 목록 및 전체 주소 목록으로 작업할 수 없습니다. 
   
@@ -657,7 +657,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |[콘텐츠 구성 도우미](../sharepoint-online-service-description/content.md#content-organizer) <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[디자인 관리자](../sharepoint-online-service-description/content.md#design-manager) <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[문서 집합](../sharepoint-online-service-description/content.md#document-sets) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Word Online의 문서 번역](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|[웹에 대 한 Word의 문서 번역](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[eDiscovery 검색](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |예<sup>6</sup> <br/> |예  <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |
 |[eDiscovery 보류](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |<sup>6</sup> 없음 <br/> |아니요  <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |예<sup>6</sup> <br/> |<sup>6</sup> 없음 <br/> |
 |[eDiscovery 내보내기](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |<sup>6</sup> 없음 <br/> |아니요  <br/> |<sup>6</sup> 없음 <br/> |아니요  <br/> |<sup>6</sup> 없음 <br/> |예<sup>6</sup> <br/> |<sup>6</sup> 없음 <br/> |
@@ -672,8 +672,8 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |[관리되는 메타데이터 서비스](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[메타데이터 기반 탐색](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[다단계 처리](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Office Online(만들기/편집)](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>8</sup> <br/> |
-|[Office Online(보기)](../sharepoint-online-service-description/content.md#office-online-view) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[웹을 위한 Office (만들기/편집)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>8</sup> <br/> |
+|[웹에 대 한 Office (보기)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office ProPlus(Osub)  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |[Office Web Apps 서버 통합](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |PowerPoint Automation Services <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |

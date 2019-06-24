@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
 description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음에 나오는 인사이트 기능은 조직에서 데이터베이스, 보고서 및 비즈니스 응용 프로그램의 정보를 사용하여 구체적인 업무 요구 사항을 해결할 수 있게 도와 줍니다.
-ms.openlocfilehash: 20ae239f6d79889a669f41f8c12b4aca00aff19e
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 3765a8bbbb931e22bfcd26962a370d55724865e9
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342507"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131332"
 ---
 # <a name="insights"></a>인사이트
 
@@ -47,7 +47,7 @@ SQL Server Analysis Services에 저장되어 있는 데이터를 사용하는 �
 ## <a name="excel-services"></a>Excel Services
 <a name="bkmk_ExcelServices"> </a>
 
-Excel Services를 사용하면 다른 사람들과 통합 문서를 공유하고, 보고서와 상호 작용하고, 브라우저 창에서 정보를 보고 탐색할 수 있으며 데이터를 새로 고칠 수도 있습니다. 그뿐만 아니라 Excel Services에서는 통합 문서 전체 또는 일부를 다른 사람과 공유하고 해당 통합 문서에 표시되는 정보를 제어할 수 있습니다. SharePoint 2016에서는 Office Online Server의 Excel Online을 통해 Excel Services 기능을 사용할 수 있습니다. Excel Services는 온-프레미스 환경에서 Office Online Server가 필요합니다. 자세한 내용은 [Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=271028)를 참조하세요.
+Excel Services를 사용하면 다른 사람들과 통합 문서를 공유하고, 보고서와 상호 작용하고, 브라우저 창에서 정보를 보고 탐색할 수 있으며 데이터를 새로 고칠 수도 있습니다. 그뿐만 아니라 Excel Services에서는 통합 문서 전체 또는 일부를 다른 사람과 공유하고 해당 통합 문서에 표시되는 정보를 제어할 수 있습니다. SharePoint 2016에서는 excel Services 기능을 사용 하 여 Office Online Server의 웹을 사용할 수 있습니다. Excel Services는 온-프레미스 환경에서 Office Online Server가 필요합니다. 자세한 내용은 [Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=271028)를 참조하세요.
   
 ## <a name="excel-web-access-web-part-for-sharepoint"></a>SharePoint용 Excel Web Access 웹 파트
 <a name="bkmk_WebPart"> </a>
@@ -57,7 +57,7 @@ Excel Web Access 웹 파트를 사용하여 SharePoint 사이트에서 Excel 콘
 ## <a name="field-list-and-field-support"></a>필드 목록 및 필드 지원
 <a name="bkmk_FieldlListFieldSupport"> </a>
 
-Excel Online을 사용하면 브라우저 창에서 보는 피벗 차트 보고서와 피벗 테이블 보고서의 필드 목록 및 필드 모음을 열 수 있습니다. 이 기능을 사용하면 Excel을 열 필요 없이, 피벗 차트 보고서나 피벗 테이블 보고서에 표시되는 정보를 일시적으로 변경할 수 있습니다. 자세한 내용은 [Excel Services의 비즈니스 인텔리전스 기능](https://go.microsoft.com/fwlink/p/?LinkId=271029)을 참조하세요.
+웹에 대 한 Excel을 사용 하면 브라우저 창에 표시 되는 피벗 차트 보고서 및 피벗 테이블 보고서의 필드 목록 및 필드 웰을 열 수 있습니다. 이 기능을 사용하면 Excel을 열 필요 없이, 피벗 차트 보고서나 피벗 테이블 보고서에 표시되는 정보를 일시적으로 변경할 수 있습니다. 자세한 내용은 [Excel Services의 비즈니스 인텔리전스 기능](https://go.microsoft.com/fwlink/p/?LinkId=271029)을 참조하세요.
   
 ## <a name="filter-enhancements"></a>Filter Enhancements
 <a name="bkmk_FilterEnhancements"> </a>
@@ -87,12 +87,12 @@ Power BI는 더 빠른 속도, 효율성 및 이해를 통해 누구나 연결�
 ## <a name="power-pivot-for-excel-in-sharepoint"></a>SharePoint의 Excel용 Power Pivot
 <a name="bkmk_PowerPivot"> </a>
 
-Excel용 Power Pivot에서는 강력한 데이터 분석을 수행하고 복잡한 데이터 모델을 만들 수 있습니다. 또한 다양한 소스의 데이터를 대량 결합하고 신속하게 분석하며, 결과를 공유할 수 있습니다. SharePoint Online에서는 Excel Online을 사용하여 브라우저 창에서 차트, 테이블, 피벗 차트 보고서 및 피벗 테이블 보고서를 보고 상호 작용할 수 있습니다. 또한 Excel Web Access 웹 파트를 사용하여 SharePoint 사이트에서 Excel 콘텐츠를 표시할 수 있습니다. Power Pivot 시트는 SharePoint에서 보기 전에 Excel에서 만들어야 합니다. 자세한 내용은 [Excel의 Power Pivot](https://go.microsoft.com/fwlink/p/?LinkId=271036)을 참조하세요.
+Excel용 Power Pivot에서는 강력한 데이터 분석을 수행하고 복잡한 데이터 모델을 만들 수 있습니다. 또한 다양한 소스의 데이터를 대량 결합하고 신속하게 분석하며, 결과를 공유할 수 있습니다. SharePoint Online에서는 Excel을 사용 하 여 브라우저 창에서 차트, 테이블, 피벗 차트 보고서 및 피벗 테이블 보고서를 보고 상호 작용할 수 있습니다. 또한 Excel Web Access 웹 파트를 사용하여 SharePoint 사이트에서 Excel 콘텐츠를 표시할 수 있습니다. Power Pivot 시트는 SharePoint에서 보기 전에 Excel에서 만들어야 합니다. 자세한 내용은 [Excel의 Power Pivot](https://go.microsoft.com/fwlink/p/?LinkId=271036)을 참조하세요.
   
 ## <a name="power-view-for-excel-in-sharepoint"></a>Power View for Excel in SharePoint
 <a name="bkmk_PowerView"> </a>
 
- Excel용 Power View에서는 수준 높은 대화형 시각화, 애니메이션 및 스마트 쿼리를 사용하여 모델링된 데이터를 시각화하고 상호 작용할 수 있습니다. SharePoint Online에서는 Excel Online을 사용하여 브라우저 창에서 Power View 시트가 포함된 통합 문서를 보고 상호 작용할 수 있습니다. 또한 Excel Web Access 웹 파트를 사용하여 SharePoint 사이트에서 Excel 콘텐츠를 표시할 수 있습니다. Power View 시트는 SharePoint에서 보기 전에 Excel에서 만들어야 합니다. 자세한 내용은 [Excel의 Power View](https://go.microsoft.com/fwlink/p/?LinkId=271035)를 참조하세요.
+ Excel용 Power View에서는 수준 높은 대화형 시각화, 애니메이션 및 스마트 쿼리를 사용하여 모델링된 데이터를 시각화하고 상호 작용할 수 있습니다. SharePoint Online에서는 Excel을 사용 하 여 브라우저 창에서 Power View 시트가 포함 된 통합 문서를 보고 상호 작용할 수 있습니다. 또한 Excel Web Access 웹 파트를 사용하여 SharePoint 사이트에서 Excel 콘텐츠를 표시할 수 있습니다. Power View 시트는 SharePoint에서 보기 전에 Excel에서 만들어야 합니다. 자세한 내용은 [Excel의 Power View](https://go.microsoft.com/fwlink/p/?LinkId=271035)를 참조하세요.
   
 ## <a name="quick-explore"></a>빠른 탐색
 <a name="bkmk_QuickExplore"> </a>
@@ -102,12 +102,12 @@ Excel용 Power Pivot에서는 강력한 데이터 분석을 수행하고 복잡�
 ## <a name="refresh-excel-workbooks-interactively"></a>Excel 통합 문서를 대화형으로 새로 고침
 <a name="bkmk_RefreshExcel"> </a>
 
-외부 데이터 원본(예: MS SQL 데이터베이스)에 연결되어 있는 Excel Online 통합 문서에서 최신 데이터를 볼 수 있습니다. Excel Online에서 보려면 먼저 통합 문서를 외부 데이터 원본에 연결해야 합니다.
+외부 데이터 원본 (예: MS SQL 데이터베이스)에 연결 된 웹 통합 문서에 대 한 Excel의 최신 데이터를 볼 수 있습니다. Excel에서 웹을 보기 전에 Excel에서 통합 문서를 외부 데이터 원본에 연결 해야 합니다.
   
 ## <a name="sql-server-reporting-services-ssrs-integrated-mode"></a>SQL Server Reporting Services (SSRS) Integrated Mode
 <a name="bkmk_SQLServerReportingServicesIntegratedMode"> </a>
 
-SQL Server 2012 Reporting Services와 SharePoint가 통합되어 있으면 SQL Server 2012 Reporting Services 콘텐츠를 대상으로 강력한 SharePoint 공동 작업 및 중앙 집중식 문서 관리 기능을 사용할 수 있습니다. 보고서는 Excel Online 파일 등의 다른 보고서와 함께 SharePoint 문서 라이브러리에 저장됩니다. SharePoint 권한을 사용하여 Reporting Services 콘텐츠에 대한 액세스를 제어할 수 있으며, 사용자들은 문서 라이브러리 내에서 보고서 디자이너, 모델 디자이너 및 보고서 작성기를 시작할 수 있습니다. 자세한 내용은 [Reporting Services 보고서 서버](https://go.microsoft.com/fwlink/p/?LinkId=271039)를 참조하세요.
+SQL Server 2012 Reporting Services와 SharePoint가 통합되어 있으면 SQL Server 2012 Reporting Services 콘텐츠를 대상으로 강력한 SharePoint 공동 작업 및 중앙 집중식 문서 관리 기능을 사용할 수 있습니다. 보고서는 Excel과 같은 다른 보고서와 함께 SharePoint 문서 라이브러리에 저장 됩니다 (예: 웹 파일). SharePoint 권한을 사용하여 Reporting Services 콘텐츠에 대한 액세스를 제어할 수 있으며, 사용자들은 문서 라이브러리 내에서 보고서 디자이너, 모델 디자이너 및 보고서 작성기를 시작할 수 있습니다. 자세한 내용은 [Reporting Services 보고서 서버](https://go.microsoft.com/fwlink/p/?LinkId=271039)를 참조하세요.
   
 ## <a name="sql-server-reporting-services-ssrs-web-part"></a>SSRS(SQL Server Reporting Services) 웹 파트
 <a name="bkmk_SSRSWebPart"> </a>
@@ -127,7 +127,7 @@ Excel 통합 문서는 경우에 따라 강력한 데이터 분석을 수행하�
 ## <a name="user-defined-functions"></a>사용자 정의 함수
 <a name="bkmk_UserDefinedFunctions"> </a>
 
-UDF(사용자 정의 함수)는 Excel Online 워크시트 셀에서 수식을 사용하여 관리 코드로 작성된 사용자 지정 함수를 호출하는 기능을 제공합니다. UDF는 엔터프라이즈에서 사용자 지정 코드를 개발하고 Excel Online 워크시트에 삽입할 수 있도록 하는 고급 프로그래밍 기능입니다. 사용자 지정 수학 함수를 호출하고, 사용자 지정 데이터 원본의 데이터를 워크시트로 가져오는 UDF를 만든 후 이 UDF에서 웹 서비스를 호출할 수 있습니다.
+Udf (사용자 정의 함수)는 Excel에서 웹 워크시트 셀에 대해 수식을 사용 하 여 관리 코드로 작성 된 사용자 지정 함수를 호출할 수 있는 기능을 제공 합니다. Udf는 기업에서 웹 워크시트에 대해 사용자 지정 코드를 개발 하 고 Excel에 연결 하는 데 사용할 수 있는 고급 프로그래밍 기능입니다. 사용자 지정 수학 함수를 호출하고, 사용자 지정 데이터 원본의 데이터를 워크시트로 가져오는 UDF를 만든 후 이 UDF에서 웹 서비스를 호출할 수 있습니다.
   
 ## <a name="visio-services"></a>Visio Services
 <a name="bkmk_VisioServices"> </a>

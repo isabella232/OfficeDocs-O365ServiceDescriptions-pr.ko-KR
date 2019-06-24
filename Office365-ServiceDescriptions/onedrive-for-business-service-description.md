@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 각 구독 계획에 대해 제공되는 OneDrive 저장 공간에 알아봅니다.
-ms.openlocfilehash: 9280f791446560185aaf500dc7bed6ef24568728
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 9dfb0911bfeba72960a09a4eb49d194c7b77d644
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343807"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131252"
 ---
 # <a name="onedrive-for-business-service-description"></a>비즈니스용 OneDrive 서비스 설명
 
@@ -30,7 +30,7 @@ OneDrive는 Microsoft 365 및 Office 365 요금제에서 SharePoint Online 요�
 요금제를 비교하려면 [Office 365 비즈니스 요금제 비교](https://go.microsoft.com/fwlink/?linkid=799177) 및 [비즈니스용 OneDrive 요금제 비교](https://products.office.com/ko-KR/onedrive-for-business/compare-onedrive-for-business-plans)를 참조하세요. 
   
 > [!NOTE]
-> 비즈니스용 OneDrive 독립 실행형 요금제에는 Office Online이 포함됩니다. 
+> 비즈니스용 OneDrive 독립 실행형 요금제에는 웹용 Office가 포함됩니다. 
   
 ## <a name="system-requirements"></a>시스템 요구 사항
 

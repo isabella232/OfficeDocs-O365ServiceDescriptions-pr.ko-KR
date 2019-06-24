@@ -3,7 +3,6 @@ title: 도움말 및 훈련
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,24 +12,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365에서는 다음과 같은 도움말 및 교육 리소스를 제공 합니다.
-ms.openlocfilehash: 6a7dacef8f970de86c5199d2217e957a10da59ea
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 7d9769074cea9d9c26eb176183aff6e85ad57000
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343577"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130902"
 ---
 # <a name="help-and-training"></a>도움말 및 훈련
 
 Microsoft Office 365에서는 다음과 같은 도움말 및 교육 리소스를 제공 합니다.
   
 ## <a name="online-help"></a>온라인 도움말
-<a name="BKMK_Online_Help"> </a>
 
 도움말 문서와 비디오는 Office 365 포털 및 Microsoft 365 관리 센터의 위쪽 탐색 모음에 있는 도움말 아이콘을 포함 하 여 서비스의 모든 인라인 도움말 링크에서 사용할 수 있습니다. 모든 Office 365 도움말은 [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)에서도 검색할 수 있습니다. 
   
 ## <a name="training"></a>교육
-<a name="BKMK_Online_Help"> </a>
 
 교육은 동영상, 웹 세미나, 자격증 취득용 강의를 통해 제공됩니다. 자세한 내용은 다음 항목을 참조하십시오.
   
@@ -47,7 +44,6 @@ Microsoft Office 365에서는 다음과 같은 도움말 및 교육 리소스를
 - [Office 365 관리자 지원 기술: 핵심 개념](https://www.microsoftvirtualacademy.com/training-courses/office-365-admin-support-skills-core-concepts?Prid=fusion-www)
     
 ## <a name="community"></a>커뮤니티
-<a name="BKMK_Community"> </a>
 
 > [!NOTE]
 > 커뮤니티 리소스는 전 세계 버전의 Office 365에 적용됩니다. 21Vianet에서 운영하는 Office 365를 사용 중인 경우 WeChat을 사용할 수 있습니다. [21Vianet에서 운영하는 Office 365에 대한 기술, 결제 및 구독 지원 받기](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)를 참조하고 페이지 아래로 스크롤하여 QR 코드를 찾으세요. 
@@ -95,14 +91,12 @@ Office 365 커뮤니티 홈 페이지에서는 다음과 같은 리소스에 액
 자세한 내용을 보려면 [Office 365 커뮤니티](https://go.microsoft.com/fwlink/?LinkId=272057)를 방문하세요.
   
 ## <a name="office-365-techcenter"></a>Office 365 TechCenter
-<a name="BKMK_O365TechCenter"> </a>
 
 대규모 조직의 IT 전문가들은 TechNet의 Office 365 TechCenter를 방문할 수 있습니다. Office 365 TechCenter는 대규모 조직을 대상으로 복잡한 배포 지침을 제공합니다.
   
 자세한 내용을 보려면 [Office 365 TechCenter](https://go.microsoft.com/fwlink/?LinkId=272058)를 방문하세요.
   
 ## <a name="other-self-help-resources"></a>기타 자가 진단 리소스
-<a name="BKMK_OtherSelfHelpResources"> </a>
 
 Office 365에는 Office 365 커뮤니티 및 온라인 도움말 이외에 자가 진단 리소스도 포함되어 있습니다.
   
@@ -115,7 +109,6 @@ Office 365에는 Office 365 커뮤니티 및 온라인 도움말 이외에 자�
     21Vianet에서 운영하는 Office 365를 사용 중인 경우 WeChat을 사용할 수 있습니다. [21Vianet에서 운영하는 Office 365에 대한 기술, 결제 및 구독 지원 받기](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)를 참조하고 페이지 아래로 스크롤하여 QR 코드를 찾으세요. 
     
 ## <a name="languages"></a>언어
-<a name="BKMK_OtherSelfHelpResources"> </a>
 
 도움말 및 교육 리소스를 다음 언어로 사용할 수 있습니다.
   
@@ -155,7 +148,6 @@ Office 365에는 Office 365 커뮤니티 및 온라인 도움말 이외에 자�
 |우크라이나어  <br/> |예  <br/> | 아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
    
 ## <a name="feature-availability"></a>기능 가용성
-<a name="BKMK_OtherSelfHelpResources"> </a>
 
 Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)을 참조하세요.
   

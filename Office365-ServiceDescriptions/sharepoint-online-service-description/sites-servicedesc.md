@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음 사이트 기능은 조직에서 어떠한 유형의 사이트를 만들 때를 비롯해 사이트 관리 단순화를 위한 단일 인프라를 구축할 때 사용할 수 있는 완전한 도구 모음을 제공합니다. 자세한 내용은 SharePoint Online에 대한 콘텐츠 찾기를 참조하세요.
-ms.openlocfilehash: 752213c8b17cfefdbcbecbf661f2545ba298afb7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a3d4ac4bab7755f1e01c942e18318a6f9bfd8266
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342487"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130872"
 ---
 # <a name="sites"></a>사이트
 
@@ -104,7 +104,7 @@ SharePoint에서 새로운 사이트를 만들 때는 사이트 기반으로 사
 ## <a name="team-notebook"></a>팀 전자 필기장
 <a name="bkmk_TeamSiteNotebook"> </a>
 
-팀 사이트를 만들 때는 자동으로 OneNote 2013 공유 노트북이 사이트의 일부로 만들어집니다. 이 노트북을 통해 정보를 캡처, 컴파일 및 공유할 수 있습니다. (이 기능은 Office Online 지원이 포함된 Office 365 제품군에 등록한 경우에만 사용할 수 있습니다.)
+팀 사이트를 만들 때는 자동으로 OneNote 2013 공유 노트북이 사이트의 일부로 만들어집니다. 이 노트북을 통해 정보를 캡처, 컴파일 및 공유할 수 있습니다. 이 기능은 웹 지원을 위한 Office가 포함 된 Office 365 제품군을 사용 하 여 등록 한 경우에만 사용할 수 있습니다.
   
 ## <a name="variations"></a>Variations
 <a name="bkmk_Variations"> </a>

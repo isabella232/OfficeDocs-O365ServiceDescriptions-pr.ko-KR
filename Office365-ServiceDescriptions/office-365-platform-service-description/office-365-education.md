@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 microsoft Exchange Online, Microsoft SharePoint Online, Office Online을 비롯 하 여 익숙한 Microsoft Office 데스크톱 제품군과 클라우드 기반 Microsoft의 차세대 통신 및 공동 작업 서비스를 함께 제공 합니다. Microsoft 비즈니스용 Skype Online-사용자가 인터넷을 통해 어디서 나 생산성을 유지 하는 데 도움이 됩니다.
-ms.openlocfilehash: 4b0835673a5c78c9751f802632c3b96900237a13
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군을 microsoft Exchange Online, Microsoft SharePoint Online, Office for web에 해당 하는 클라우드 기반 버전의 Microsoft의 차세대 통신 및 공동 작업 서비스와 조합 하 여 제공 합니다. Microsoft 비즈니스용 Skype Online-사용자가 인터넷을 통해 어디서 나 생산성을 유지 하는 데 도움이 됩니다.
+ms.openlocfilehash: 77ebe95029bf7602638fc23c4104766d61cf1431
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343617"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131092"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
-Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 microsoft Exchange Online, Microsoft SharePoint Online, Office Online을 비롯 하 여 익숙한 Microsoft Office 데스크톱 제품군과 클라우드 기반 Microsoft의 차세대 통신 및 공동 작업 서비스를 함께 제공 합니다. Microsoft 비즈니스용 Skype Online-사용자가 인터넷을 통해 어디서 나 생산성을 유지 하는 데 도움이 됩니다.
+Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군을 microsoft Exchange Online, Microsoft SharePoint Online, Office for web에 해당 하는 클라우드 기반 버전의 Microsoft의 차세대 통신 및 공동 작업 서비스와 조합 하 여 제공 합니다. Microsoft 비즈니스용 Skype Online-사용자가 인터넷을 통해 어디서 나 생산성을 유지 하는 데 도움이 됩니다.
   
 이 문서에서는 Office 365 교육 계획 (A1, A3 및 A5)에 대 한 기능을 소개 합니다. 비즈니스 계획과 기업 계획 간에 기능을 비교 하려면 office [365 For 비즈니스 요금제 비교](https://products.office.com/business/compare-more-office-365-for-business-plans?legRedir=true&CorrelationId=cd322a5e-7b9c-467b-96d7-16b8074b9dda) 또는 자세한 기능 목록을 보려면 [Office 365 서비스 설명](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)에서 관련 서비스 설명을 참조 하세요.
   
@@ -38,7 +38,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |SharePoint Online  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 Skype Online  <br/> |예<sup>7</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |
-|Office Online  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|웹에 대 한 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 응용 프로그램  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |Project Online  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |
 |Power BI  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
@@ -283,27 +283,27 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 > <sup>1</sup> WINDOWS SERVER AD RMS는 지원 되는 IRM 기능을 사용 하기 위해 별도로 구입 하 여 관리 해야 하는 온-프레미스 서버입니다. <br/> 
 <sup>2</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 Skype 응용 프로그램이 포함됩니다. 비즈니스용 Skype 온라인 라이선스가 각 사용자에게 할당되어 있어야 합니다. Lync 기본 기능에 대 한 자세한 내용은 [데스크톱 클라이언트 비교 표](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)를 참조 하십시오. <br/> 
 <sup>3</sup> 일부 학교는 교육 Plus를 위한 자격이 있고 Office 365 ProPlus를 포함 하 고 학생, 교직원 및 직원이 최대 5 대의 PC 또는 Mac 컴퓨터 및 기타 모바일 장치 (Windows 태블릿 및를 포함 한)에 최신 버전의 Office를 설치할 수 있도록 허용 합니다. 용. Enrollment for Education Solutions, Open Value Subscription Education Solutions 또는 학교 계약을 통해 교직원 및 직원에게 기관용 Office 라이선스를 허가한 학교는 Office 365 Education Plus를 이용할 수 있습니다. Access 및 Publisher는 PC에서만 사용할 수 있습니다. Mac용 OneNote는 Mac 앱 스토어에서 별도로 다운로드할 수 있습니다. <br/> 
-Office Online 버전 <sup>4</sup> 가 포함 되어 있습니다. 자세한 내용은 [Office Online 기능](office-365-education.md#office-online-features) 을 참조 하세요.
+<sup>4</sup> 웹 버전에 대 한 Office가 포함 됩니다. 자세한 내용은 [Office for web features](office-365-education.md#office-for-the-web-features) 를 참조 하세요.
   
-## <a name="office-online-features"></a>Office Online 기능
+## <a name="office-for-the-web-features"></a>웹 기능 용 Office
 <a name="OfcOnline"> </a>
 
-다음 표에서는 365 office Online 기능에서 사용할 수 있는 office 온라인 기능의 비교에 대 한 링크를 제공 합니다. 비교를 사용 하 여 Office Online에서 사용할 수 있는 기능을 찾은 다음 기능 이름을 클릭 하 여 해당 기능의 작동 방식에 대 한 간단한 설명을 읽어 보십시오. 조직의 일부 구성원은 Excel 데스크톱 앱의 고급 차트 기능을 필요로 하지만 다른 구성원은 Office Online를 사용하여 Word 문서와 PowerPoint 프레젠테이션을 보고 간단하게 편집만 해야 할 수 있습니다.
+다음 표에서는 Office 365 교육 계획에서 사용할 수 있는 웹 기능 기능에 대 한 Office 비교 링크를 제공 합니다. 비교를 사용 하 여 웹에서 사용할 수 있는 기능을 찾은 다음 기능 이름을 클릭 하 여 해당 기능의 작동 방식에 대 한 간략 한 설명을 읽습니다. 조직의 일부 사용자는 Excel 데스크톱 앱의 고급 차트 기능을 사용 해야 할 수도 있고, 일부는 웹을 위해 Office에서 Word 문서 및 PowerPoint 프레젠테이션을 보고 가볍게 편집 하기만 하면 되는 경우도 있습니다.
   
 > [!NOTE]
 > - Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. <br/>
 > - 표는 Microsoft Office 기능의 전체 목록이 아닙니다. <br/> 
 > - Microsoft Office 365 ProPlus는 최신 Office 데스크톱 제품군의 월별 구독 제품입니다. <br/>
-> - Office Professional Plus, Office Standard 또는 Office 365 ProPlus 라이선스와 같은 Office 데스크톱 제품군 라이선스를 구매한 경우 Microsoft Office Online Server 온-프레미스 고객에 게 Office Online 편집 라이선스가 제공 됩니다. 
+> - Office Professional Plus, Office Standard 또는 Office 365 ProPlus 라이선스와 같은 Office 데스크톱 제품군 라이선스를 구매한 경우 Microsoft Office Online Server 온-프레미스 고객은 웹 편집 라이선스로 Office를 가져옵니다. 
   
 ||||
 |:-----|:-----|:-----|
-|**응용 프로그램** <br/> |**Office Online** <br/> |**자세한 기능 비교 링크** <br/> |
-|Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |PowerPoint Online  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|Visio  <br/> |Visio Online  <br/> |[Visio Online 기능 비교](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-online-plans) <br/> |
+|**응용 프로그램** <br/> |**웹에 대 한 Office** <br/> |**자세한 기능 비교 링크** <br/> |
+|Word  <br/> |웹에 대 한 Word <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |웹에 대 한 Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |웹에 대 한 OneNote <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |웹 용 PowerPoint <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|Visio  <br/> |Visio Online  <br/> |[Visio Online 기능 비교](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
    
 ## <a name="exchange-online-features"></a>Exchange Online 기능 
 <a name="OfcOnline"> </a>
@@ -799,9 +799,9 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 ## <a name="onedrive-for-business-features"></a>비즈니스용 OneDrive 기능
 <a name="OfcOnline"> </a>
 
-비즈니스용 OneDrive (이전 SkyDrive Pro)는 클라우드의 개인 온라인 저장 공간입니다. 이 도구를 사용 하 여 작업 파일을 여러 장치에 간편 하 게 저장 하 고 보안을 강화 합니다. 필요에 따라 동료와 파일을 공유 하 고 Office Online을 사용 하 여 Office 문서를 실시간으로 함께 편집 합니다. 비즈니스용 OneDrive 동기화 앱을 사용 하 여 파일을 로컬 컴퓨터에 동기화 합니다.
+비즈니스용 OneDrive (이전 SkyDrive Pro)는 클라우드의 개인 온라인 저장 공간입니다. 이 도구를 사용 하 여 작업 파일을 여러 장치에 간편 하 게 저장 하 고 보안을 강화 합니다. 필요에 따라 동료와 파일을 공유 하 고 office 문서를 웹의 Office와 실시간으로 함께 편집 합니다. 비즈니스용 OneDrive 동기화 앱을 사용 하 여 파일을 로컬 컴퓨터에 동기화 합니다.
   
-비즈니스용 OneDrive는 SharePoint Online에 포함 되어 있으며 독립 실행형 계획으로 구입할 수도 있습니다. 비즈니스용 OneDrive 독립 실행형 옵션에는 Office Online이 포함 됩니다. 자세한 내용은 [비즈니스용 OneDrive 란?](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US) 를 참조 하세요.
+비즈니스용 OneDrive는 SharePoint Online에 포함 되어 있으며 독립 실행형 계획으로 구입할 수도 있습니다. 비즈니스용 OneDrive 독립 실행형 옵션에는 웹에 대 한 Office가 포함 됩니다. 자세한 내용은 [비즈니스용 OneDrive 란?](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US) 를 참조 하세요.
   
 ### <a name="system-requirements"></a>시스템 요구 사항
 
@@ -920,7 +920,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |[콘텐츠 구성 도우미](../sharepoint-online-service-description/content.md#content-organizer) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[디자인 관리자](../sharepoint-online-service-description/content.md#design-manager) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[문서 집합](../sharepoint-online-service-description/content.md#document-sets) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Word Online의 문서 번역](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[웹에 대 한 Word의 문서 번역](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[eDiscovery 검색](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |
 |[eDiscovery 보류](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |
 |[eDiscovery 내보내기](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |
@@ -935,8 +935,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |[관리되는 메타데이터 서비스](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[메타데이터 기반 탐색](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[다단계 처리](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Office Online(만들기/편집)](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Office Online(보기)](../sharepoint-online-service-description/content.md#office-online-view) <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[웹을 위한 Office (만들기/편집)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[웹에 대 한 Office (보기)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office ProPlus(Osub)  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |[Office Web Apps 서버 통합](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |PowerPoint Automation Services <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |

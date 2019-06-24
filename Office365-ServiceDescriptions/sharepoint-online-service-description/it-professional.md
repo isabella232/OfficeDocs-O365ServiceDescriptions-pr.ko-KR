@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013에서 기본 제공되는 이 호스트 서비스는 프로젝트 작업, 중앙 위치에 데이터 및 문서 저장, 다른 사람과의 정보 공유에 이상적입니다. 다음 SharePoint 기능은 조직의 SharePoint 환경에 대한 보안 및 관리를 담당하는 IT 전문가를 지원합니다.
-ms.openlocfilehash: 0f285fabb62b73914966127d4d880bd5ffb6e5a1
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 70868f9c00c42318013d1fdc8449668a2461f34a
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341937"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131312"
 ---
 # <a name="it-professional"></a>IT 전문가
 
@@ -102,7 +102,7 @@ SharePoint Online 고객은 사용할 수 없습니다. 리소스 제한은 Shar
 ## <a name="service-application-platform"></a>Service Application Platform
 <a name="bkmk_ServiceApplicationPlatform"> </a>
 
-SharePoint Services는 웹 응용 프로그램에서 개별적으로 사용할 수 있습니다. 이 플랫폼은 응용 프로그램의 요구 사항에 따라 서비스를 사용하는 데 필요한 유연성을 제공합니다. Web Analytics는 더 이상 서비스 응용 프로그램이 아니며, 분석 및 보고 프로세스는 Search 서비스 응용 프로그램에 통합되었습니다. Office Online는 더 이상 서비스 응용 프로그램이 아닙니다. Office Web Apps Server는 이제 별도의 서버 제품입니다. 조직에서 구독하는 Office 365 계획에 따라 Office Online이 SharePoint Online 고객에게 제공될 수 있습니다. 자세한 내용은 [SharePoint 서비스 응용 프로그램](https://go.microsoft.com/fwlink/p/?LinkId=270989)을 참조하세요.
+SharePoint 서비스는 모든 웹 응용 프로그램에서 개별적으로 사용 될 수 있습니다. 이 플랫폼은 응용 프로그램 요구 사항에 따라 서비스를 사용 하는 데 필요한 유연성을 제공 합니다. Web Analytics가 더 이상 서비스 응용 프로그램이 아닙니다. 분석 및 보고 프로세스가 Search service 응용 프로그램에 통합 되었습니다. 웹의 Office가 더 이상 서비스 응용 프로그램이 아닙니다. Office Web Apps 서버는 이제 별도의 서버 제품입니다. 조직이 구독 하는 Office 365 계획에 따라 SharePoint Online 고객은 웹에 대 한 Office를 사용할 수 있습니다. 자세한 내용은 [SharePoint 서비스 응용 프로그램](https://go.microsoft.com/fwlink/p/?LinkId=270989)을 참고 하세요.
   
 ## <a name="sharepoint-health-analyzer"></a>SharePoint Health Analyzer
 <a name="bkmk_SharePointHealthAnalyzer"> </a>

@@ -3,7 +3,6 @@ title: Microsoft 365 Business 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business는 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 제공 하는 Office 365의 최고급 생산성을 함께 제공 하는 통합 솔루션입니다. . 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다. Office 365에 대 한 자세한 내용은 Office 365 서비스 설명을 참조 하세요.
-ms.openlocfilehash: 87a7509ce85bd6e0f0418034d195f1af590176ca
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: b85429eb84fe6a02ffe979ef89744df874b64d03
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742107"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130972"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business 서비스 설명
 
@@ -36,7 +35,7 @@ Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
 |SharePoint Online  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 Skype Online  <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |
-|Office Online  <br/> |예  <br/> |예  <br/> |
+|웹에 대 한 Office  <br/> |예  <br/> |예  <br/> |
 |Office 응용 프로그램  <br/> |예  <br/> |예  <br/> |
 |Project Online  <br/> |<sup>3</sup> 없음 <br/> |<sup>3</sup> 없음 <br/> |
 |Power BI  <br/> |아니요  <br/> |아니요  <br/> |
@@ -118,7 +117,7 @@ Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**Id 및 액세스 관리 기능** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E5** <br/> |
+|**Id 및 액세스 관리 기능** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Azure MFA (Multi-factor Authentication)  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |관리 단위  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |Cloud app discovery  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
@@ -126,14 +125,13 @@ Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
 |클라우드 id에 대 한 셀프 서비스 암호 재설정  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |온-프레미스 AD 쓰기 저장과 함께 셀프 서비스 암호 재설정  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |온-프레미스 디렉터리와 Azure AD (장치 쓰기 복구) 간에 장치 개체 양방향 동기화  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|조건부 액세스 (그룹, 위치, 장치 상태, 로그인 또는 사용자 위험에 따라)  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|조건부 액세스 (그룹, 위치 또는 장치 상태 기준)  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |회사 브랜딩 (로그온 페이지/액세스 패널 사용자 지정  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |응용 프로그램 프록시  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |MIM (Microsoft Identity Manager) 사용자 CAL  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |연결 상태  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |SLA 99.9%  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Advanced Threat Analytics  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|조건부 액세스  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |**장치 및 응용 프로그램 관리 기능** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |MDM (모바일 장치 관리)<sup>15</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |MDM (모바일 장치 관리) 자동 등록  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
@@ -181,4 +179,4 @@ Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
 <br/>Microsoft 365 관리 센터에 기본적으로 제공 되는 <sup>15</sup> 개의 간소화 된 Windows 10 장치 관리 Intune, Android, macOS 및 기타 플랫폼 간 장치 관리 기능 (장치 관리 관리 센터에 기본 제공 됨) 또한 Microsoft 365 Business에 사용 하도록 허가 되었습니다. 타사 앱 및 WiFi 프로필 및 VPN 인증서와 같은 항목의 구성은 장치 관리 관리 센터 에서도 관리할 수 있습니다. 
 <br/><sup>16</sup> 이 계획은 비디오 포털, 음성 텍스트 기록, 딥 검색 및 얼굴 검색을 포함 하는 Microsoft Stream 요금제 2와 함께 제공 됩니다.
 <br/><sup>17</sup> Microsoft 365 관리 센터에 기본 제공 되는 간소화 된 Windows 10 장치 관리 및 Intune 앱 보호 정책
-<br/>18 5 월 2019 일, 기존 적격 365 sku 및 Microsoft 365는 Kaizala Pro를 사용 하 여 backfilled 됩니다. 2019 년 6 월 1 일부 Kaizala Pro는 모든 적격 Office 365 및 Microsoft 365 Sku에 포함 됩니다. 
+<br/><sup>18</sup> 5 월 2019 일, 기존 적격 365 Sku 및 Microsoft 365는 Kaizala Pro를 사용 하 여 backfilled 됩니다. 2019 년 6 월 1 일부 Kaizala Pro는 모든 적격 Office 365 및 Microsoft 365 Sku에 포함 됩니다. 

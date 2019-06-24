@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
-description: Visio Online은 다이어그램이 저장 된 웹 사이트에서 직접 다이어그램을 사용할 수 있는 Microsoft Visio 환경을 웹 브라우저로 확장 합니다. Microsoft Office 365 Office Online을 사용 하는 고객은 다이어그램을 보고 공유 하 고 이동 중에 의견을 삽입할 수 있습니다.
-ms.openlocfilehash: 8e76db1eaa8184db6400efb2768c67cd5d87c2ca
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: Visio Online은 다이어그램이 저장 된 웹 사이트에서 직접 다이어그램을 사용할 수 있는 Microsoft Visio 환경을 웹 브라우저로 확장 합니다. Microsoft Office 365 고객은 웹에 대 한 Office를 사용 하 여 다이어그램을 보고 공유 하 고 이동 중에 의견을 삽입할 수 있습니다.
+ms.openlocfilehash: fab0748238a7c5abdea13864e694d25c8c80bf31
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342347"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130982"
 ---
 # <a name="visio-online"></a>Visio Online
 
-Visio Online은 다이어그램이 저장 된 웹 사이트에서 직접 다이어그램을 사용할 수 있는 Microsoft Visio 환경을 웹 브라우저로 확장 합니다. Microsoft Office 365 Office Online을 사용 하는 고객은 다이어그램을 보고 공유 하 고 이동 중에 의견을 삽입할 수 있습니다.
+Visio Online은 다이어그램이 저장 된 웹 사이트에서 직접 다이어그램을 사용할 수 있는 Microsoft Visio 환경을 웹 브라우저로 확장 합니다. Microsoft Office 365 고객은 웹에 대 한 Office를 사용 하 여 다이어그램을 보고 공유 하 고 이동 중에 의견을 삽입할 수 있습니다.
   
 ## <a name="apply-rich-formatting-to-text-and-shapes"></a>텍스트 및 도형에 다양 한 서식 적용
 <a name="BM_1"> </a>
@@ -88,7 +88,7 @@ Visio Online에서는 Office 추가 기능을 사용할 수 없습니다.
 ## <a name="offline-viewing"></a>오프 라인으로 보기
 <a name="BM_13"> </a>
 
-Visio Online에서는 사용할 수 없습니다. Office Online을 사용하려면 인터넷에 연결해야 하며 인터넷 브라우저가 필요합니다. 인터넷 이나 조직의 온-프레미스 Office Web Apps 서버에서 연결을 해제 한 상태에서 다이어그램을 보고 편집 하려면 Visio 데스크톱 응용 프로그램이 컴퓨터에 설치 되어 있어야 합니다. Visio 데스크톱 응용 프로그램이 설치 되어 있는 경우 Visio의 전체 기능을 사용 하 여 다이어그램을 보고 편집할 수 있습니다. 저장 하면 온라인 다이어그램이 변경 내용으로 업데이트 됩니다. 또한 다이어그램의 오프 라인 복사본을 다운로드 하 고 저장할 수 있지만 온라인 버전과 동기화 되지는 않습니다. 자세한 내용은 [Office Web Apps 서버](https://technet.microsoft.com/library/ff431685.aspx)를 참조하세요.
+Visio Online에서는 사용할 수 없습니다. 웹을 사용 하려면 인터넷에 연결 해야 하며 인터넷 브라우저가 필요 합니다. 인터넷 이나 조직의 온-프레미스 Office Web Apps 서버에서 연결을 해제 한 상태에서 다이어그램을 보고 편집 하려면 Visio 데스크톱 응용 프로그램이 컴퓨터에 설치 되어 있어야 합니다. Visio 데스크톱 응용 프로그램이 설치 되어 있는 경우 Visio의 전체 기능을 사용 하 여 다이어그램을 보고 편집할 수 있습니다. 저장 하면 온라인 다이어그램이 변경 내용으로 업데이트 됩니다. 또한 다이어그램의 오프 라인 복사본을 다운로드 하 고 저장할 수 있지만 온라인 버전과 동기화 되지는 않습니다. 자세한 내용은 [Office Web Apps 서버](https://technet.microsoft.com/library/ff431685.aspx)를 참조하세요.
   
 ## <a name="print-to-pdf"></a>PDF로 인쇄
 <a name="BM_14"> </a>

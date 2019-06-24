@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 한 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (orOffice 365 US 정부)를 만들었습니다. 이 섹션에서는 Office 365 Government 고유의 기능에 대해 간략하게 설명합니다. Office 365 서비스 설명과 함께이 보조 섹션을 읽는 것이 좋습니다.
-ms.openlocfilehash: af9e8ef16df9c3f7458d1bced7836ac3cffeb8aa
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 1d7878c232f8c08c4b039562d0424fba9fd48d07
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343217"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131282"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -75,7 +75,7 @@ Office 365 Government 서비스는 미국에 실제로 있는 데이터 센터�
 > [!NOTE]
 > 일반적인 경우에는 비즈니스용 Skype에서 고객 콘텐츠를 저장하지 않지만 만약 이러한 저장을 수행할 경우 미국 내의 데이터 센터에 저장됩니다. 
   
-고객의 사용자가 미국 내에 거주하며 Office Online(이전의 Office Web Apps)를 사용하거나 AD FS(Active Directory Federation Services) 2.0을 채택하고 고객이 SSO(Single Sign-On)를 통해 서비스에 연결하도록 하는 정책을 설정하는 경우에는 Office Online에 일시적으로 캐시된 모든 고객 콘텐츠는 미국에 보관됩니다.
+사용자가 웹에 대해 Office (이전 버전에서는 Office Web Apps)를 사용 하는 동안 또는 AD FS (Active Directory Federation Services) 2.0을 사용 하 고 사용자가 단일 si를 통해 서비스에 연결 하는 데 도움이 되도록 정책을 설정 하는 경우 미국 내의 내에 있는 경우 gn에서 웹을 위해 Office에 일시적으로 캐시 되는 모든 고객 콘텐츠는 미국 내의에 배치 됩니다.
   
 [이 서비스 설명 섹션을 사용 하는 방법](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -158,7 +158,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Office 365 서비스** <br/> |**Office 365 US 정부 G1** <br/> |**Office 365 US 정부 G3** <br/> |**Office 365 US 정부 G5** <br/> |**Office 365 US 정부 F1** <br/> |
-|Office Online  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|웹에 대 한 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365 ProPlus  <br/> |아니요 <br/> |있음 <br/> |예 <br/> |아니요  <br/> |
 |Exchange Online  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange Online Protection  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -304,7 +304,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 <br/><sup>4</sup> 암호 동기화를 사용 하는 경우 사용자는 로컬 Active Directory에서 암호를 변경 해야 합니다. 
 <br/><sup>5</sup> 사용자에 대해 셀프 서비스 암호 관리 정책을 설정 하는 방법에 대 한 자세한 내용은 [Azure AD에서 암호 관리](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)를 참조 하십시오. <br/><sup>6</sup> office 365의 이전 버전에서 업그레이드 한 경우를 제외 하 고는 office 365의 공개 웹 사이트가 하나만 있을 수 있습니다. 업그레이드하게 되면 두 개의 공개 웹 사이트를 사용할 수 있지만, 둘 중 하나만 사용자 지정 도메인 이름으로 호스트할 수 있습니다. 비즈니스를 위한 두 웹 사이트에 대 한 작업을 수행 하는 방법에 대 한 자세한 내용은 [2 Office 365 공용 웹 사이트](https://go.microsoft.com/fwlink/p/?LinkID=271589)에 대 한 작업을 참조 하세요. 다른 구독이 있는 경우 [Office 365의 파트너 웹 사이트 호스팅 및 공개 웹 사이트에 대 한](https://go.microsoft.com/fwlink/p/?LinkID=325009)자세한 내용은 공개 웹 사이트에 대해 자세히 알아보세요. 
 <br/><sup>7</sup> 용어 할인을 사용 하 여 구매한 좌석을 초기 종결 수수료에 따라 줄일 수 있습니다. 이러한 위약금이 월별 유료 구독에는 적용되지 않습니다. 
-<br/><sup>8</sup> 다음 계획에서는 Microsoft 365 관리 센터에서 라이선스 사용자 변경 내용을 지원 하지 않습니다. > OFFICE 365 Us 정부 G1 > OFFICE 365 Us 정부 G3 > OFFICE 365 Us 정부 K1 <br/><sup>9</sup> GCC High에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다.
+<br/><sup>8</sup> 다음 계획에서는 Microsoft 365 관리 센터에서 라이선스 사용자의 사용권을 변경 하는 것을 지원 하지 않습니다. > OFFICE 365 Us 정부 G1 > OFFICE 365 Us 정부 G3 > OFFICE 365 Us 정부 K1 <br/><sup>9</sup> GCC High에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다.
 <br/><sup>10</sup> for OFFICE 365 US 정부, G3 및 F1, 대상 지정 된 릴리스 및 비즈니스에 대 한 Office 365의 로드맵을 적용 합니다. 그러나 [규정 준수 요구 사항](https://products.office.com/en-us/business/office-365-trust-center-cloud-computing-security?legRedir=true&amp;CorrelationId=eeaccba9-85ea-4fa8-9c84-3fb4c9e1547b&amp;tab=7a3a6365-14c0-81ac-34ff-f4a416599263)으로 인해 특정 서비스 업데이트에 대 한 몇 가지 차이점이 나 지연이 있을 수 있습니다.
 <br/><sup>11</sup> OFFICE 365 US 정부 서비스에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다. ><br/><sup>12</sup> 포함 되지 않지만 GCC에서 별도의 추가 기능으로 구입할 수 있습니다. 
 <br/><sup>13</sup> OFFICE 365 US 정부 제품에는 지원 되지 않습니다. 

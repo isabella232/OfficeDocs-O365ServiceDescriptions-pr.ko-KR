@@ -1,5 +1,5 @@
 ---
-title: Office Online 서비스 설명
+title: 웹 서비스에 대 한 Office 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,37 +11,37 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Office Online을 사용하면 거의 모든 장치에서 인터넷에 연결하여 어디서나 Office 파일을 간편하게 사용하고 공유할 수 있습니다. Microsoft Office 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: 0065dddd87d366692ab4e7727653017e2636a786
-ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
+description: Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Web for office를 사용 하면 거의 모든 장치에서 인터넷에 연결 하 여 어디서 나 Office 파일을 보다 쉽게 작업 하 고 공유할 수 있습니다. Microsoft Office 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
+ms.openlocfilehash: 014e0544fb6095e9ddfa0009fe94759ffd09da60
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35018310"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131242"
 ---
-# <a name="office-online-service-description"></a>Office Online 서비스 설명
+# <a name="office-for-the-web-service-description"></a>웹 서비스에 대 한 Office 설명
 
-Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Office Online을 사용하면 거의 모든 장치에서 인터넷에 연결하여 어디서나 Office 파일을 간편하게 사용하고 공유할 수 있습니다. Microsoft Office 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다. 
+Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Web for office를 사용 하면 거의 모든 장치에서 인터넷에 연결 하 여 어디서 나 Office 파일을 보다 쉽게 작업 하 고 공유할 수 있습니다. Microsoft Office 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다. 
   
 요금제 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 요금제 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)를 참조하세요.
   
-## <a name="feature-availability-across-office-online-plans"></a>Office Online 계획에서의 기능 가용성
+## <a name="feature-availability-across-office-for-the-web-plans"></a>웹 계획에 대 한 Office에서의 기능 가용성
 <a name="bkmk_FeatureavailabilityO365"> </a>
 
-조직에 가장 잘 맞는 Office 솔루션을 찾는 데 도움이 필요하십니까? 다음 표에서는 Office Online 기능 기능과 기능이 다양 한 Microsoft Office 데스크톱 앱을 비교 합니다. 표를 사용 하 여 Office Online에서 사용할 수 있는 기능을 찾은 다음 기능 이름을 클릭 하 여 해당 기능의 작동 방식에 대 한 간략 한 설명을 읽으십시오. 조직의 일부 사용자가 Excel 데스크톱 앱의 고급 차트 기능을 필요로 하는 반면, 다른 사용자가 Office Online을 사용 하 여 Word 문서 및 PowerPoint 프레젠테이션을 보고 가볍게 편집 하기만 하면 되는 것을 알 수 있습니다. 
+조직에 가장 잘 맞는 Office 솔루션을 찾는 데 도움이 필요하십니까? 다음 표에서는 Office web feature 기능을 다양 한 기능의 Microsoft Office 데스크톱 앱과 비교 합니다. 표를 사용 하 여 웹에서 사용할 수 있는 기능을 찾은 다음 기능 이름을 클릭 하 여 해당 기능의 작동 방식에 대 한 간략 한 설명을 읽습니다. 조직의 일부 사용자가 Excel 데스크톱 앱의 고급 차트 기능을 필요로 하는 반면, 다른 사용자가 웹의 Office에서 Word 문서 및 PowerPoint 프레젠테이션을 보고 가볍게 편집 하기만 하면 되는 것을 알 수 있습니다. 
   
 > [!NOTE]
->  Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. 표는 Microsoft Office 기능의 전체 목록이 아닙니다. <br/>  Microsoft Office 365 ProPlus는 최신 Office 데스크톱 제품군의 월별 구독 제품입니다. <br/>  Office Professional Plus, Office Standard 또는 Office 365 ProPlus 라이선스와 같은 Office 데스크톱 제품군 라이선스를 구매한 경우 Microsoft Office Online Server 온-프레미스 고객에 게 Office Online 편집 라이선스가 제공 됩니다. 
+>  Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. 표는 Microsoft Office 기능의 전체 목록이 아닙니다. <br/>  Microsoft Office 365 ProPlus는 최신 Office 데스크톱 제품군의 월별 구독 제품입니다. <br/>  Office Professional Plus, Office Standard 또는 Office 365 ProPlus 라이선스와 같은 Office 데스크톱 제품군 라이선스를 구매한 경우 Microsoft Office Online Server 온-프레미스 고객은 웹 편집 라이선스로 Office를 가져옵니다. 
   
 > [!NOTE]
-> Office 문서를 Outlook 전자 메일 첨부 파일로 열거나, SharePoint 문서 라이브러리에서 열면 문서가 Office Online에서 읽기 전용으로 실행됩니다. Office Online(편집 모드)에서 문서를 편집하려면 Office 365 Enterprise E1 같은 Office 365 제품군 라이선스가 필요합니다. 데스크톱 앱에서 문서를 편집하려면 Office 365 ProPlus 구독 또는 Office Professional Plus 2010 설치 버전과 같은 Office 데스크톱 제품군 라이선스가 필요합니다. 
+> Outlook 전자 메일 첨부 파일 또는 SharePoint 문서 라이브러리에서 Office 문서를 열면 문서가 Office for web에서 실행 되며 읽기 전용으로 설정 됩니다. Office의 웹 (편집 모드)에서 문서를 편집 하려면 office 365 Enterprise E1과 같은 Office 365 제품군 라이선스가 필요 합니다. 데스크톱 앱에서 문서를 편집하려면 Office 365 ProPlus 구독 또는 Office Professional Plus 2010 설치 버전과 같은 Office 데스크톱 제품군 라이선스가 필요합니다. 
   
 ### <a name="word"></a>Word
 <a name="BKMK_WordFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
-|**응용 프로그램 기능** <br/> |**Word Online** <br/> |**Word 데스크톱 앱** <br/> |
+|**응용 프로그램 기능** <br/> |**웹에 대 한 Word** <br/> |**Word 데스크톱 앱** <br/> |
 |[맞춤 안내서 및 라이브 레이아웃](word-online.md#alignment-guides-and-live-layout) <br/> |아니요  <br/> |있음  <br/> |
 |[스타일 적용](word-online.md#apply-styles) <br/> |예  <br/> |예  <br/> |
 |[자동 저장](word-online.md#autosave) <br/> |예  <br/> |예  <br/> |
@@ -110,7 +110,7 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 |[확대/축소](word-online.md#zoom) <br/> |예  <br/> |예  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 이 아이콘은 뷰어에 렌더링 되지만 Office Online에서 만들거나 편집할 수는 없습니다. <br/>
+> <sup>1</sup> 이 아이콘은 뷰어에서 렌더링 되지만, 웹의 Office에서이를 만들거나 편집할 수는 없습니다. <br/>
 > <sup>2</sup> 모두는 아니지만 일부 Office 추가 기능을 사용할 수 있습니다. <br/>
   
 ### <a name="excel"></a>Excel
@@ -118,7 +118,7 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 
 ||||
 |:-----|:-----|:-----|
-|**응용 프로그램 기능** <br/> |**Excel Online** <br/> |**Excel 데스크톱 앱** <br/> |
+|**응용 프로그램 기능** <br/> |**웹에 대 한 Excel** <br/> |**Excel 데스크톱 앱** <br/> |
 |[접근성 검사](excel-online.md#add-hyperlinks) <br/> |예  <br/> |예  <br/> |
 |[시트 탭에 배경색 추가](excel-online.md#add-background-color-to-sheet-tabs) <br/> |예  <br/> |예  <br/> |
 |[하이퍼링크 추가](excel-online.md#add-hyperlinks) <br/> |예  <br/> |예  <br/> |
@@ -194,9 +194,9 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 
 > [!NOTE] 
 > <sup>1</sup> 피벗 차트 보기는 만들 수 없습니다.
- <br/><sup>2</sup> 환경의 구성 방법에 따라 Excel Online에 표시 되는 통합 문서에 대 한 일부 데이터 연결 유형이 지원 됩니다. 자세한 내용은 브라우저 창에서 통합 문서의 데이터 새로 고침을 참조하세요. 
- <br/><sup>3</sup> Excel ONLINE에서 vba를 사용 하 여 매크로를 만들 수는 없지만 파일에 포함 된 vba를 제거 하거나 손상 시 키 지 않고 vba 사용 가능 스프레드시트를 열고 편집할 수는 있습니다.
- <br/><sup>4</sup> Excel Online에서는 마지막으로 알려진 참조 값이 브라우저 창에 표시 됩니다. 그러나 Excel 데스크톱 앱을 사용 하 여 업데이트 해야 합니다. 
+ <br/><sup>2</sup> 환경의 구성 방법에 따라 웹에 대해 Excel에 표시 된 통합 문서에 대해 일부 데이터 연결을 지원 합니다. 자세한 내용은 브라우저 창에서 통합 문서의 데이터 새로 고침을 참조하세요. 
+ <br/><sup>3</sup> EXCEL에서 vba를 사용 하 여 매크로를 만들 수는 없지만 파일에 포함 된 vba를 제거 하거나 손상 시 키 지 않고 vba 사용 가능 스프레드시트를 열고 편집할 수는 있습니다.
+ <br/><sup>4</sup> 웹의 Excel에서는 마지막으로 알려진 참조 값이 브라우저 창에 표시 됩니다. 그러나 Excel 데스크톱 앱을 사용 하 여 업데이트 해야 합니다. 
  <br/><sup>5</sup> 모두는 아니지만 일부 Office 추가 기능을 사용할 수 있습니다. 
   
 ### <a name="onenote"></a>OneNote
@@ -204,7 +204,7 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 
 ||||
 |:-----|:-----|:-----|
-|**응용 프로그램 기능** <br/> |**OneNote Online** <br/> |**OneNote 데스크톱 앱** <br/> |
+|**응용 프로그램 기능** <br/> |**웹에 대 한 OneNote** <br/> |**OneNote 데스크톱 앱** <br/> |
 |[고급 공동 작업: 새 콘텐츠를 읽지 않은 상태로 표시, 현재 상태](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |아니요  <br/> |예  <br/> |
 |[태그 적용](onenote-online.md#apply-tags) <br/> |예  <br/> |예  <br/> |
 |[글머리 기호 및 번호 매기기](onenote-online.md#bullets-and-numbering) <br/> |예  <br/> |예  <br/> |
@@ -244,7 +244,7 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 |[이전 페이지 버전 보기](onenote-online.md#view-previous-page-versions) <br/> |예  <br/> |예  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> OneNote Online에서는 전자 필기장 내에서 구역을 이동 하 고, 한 구역에서 페이지를 복사한 후 다른 섹션에 붙여 넣을 수 있습니다. 
+> <sup>1</sup> 웹의 OneNote에서는 전자 필기장 내에서 구역을 이동 하 고, 한 구역에서 페이지를 복사한 후 다른 섹션에 붙여 넣을 수 있습니다. 
  <br/> <sup>2</sup> 모두는 아니지만 일부 Office 추가 기능을 사용할 수 있습니다. 
  <br/><sup>3</sup> 전체 전자 필기장 또는 전자 필기장 (데스크톱 버전에서는 가능)으로는 페이지 또는 섹션을 검색할 수 있습니다. 
  <br/><sup>4</sup> 데스크톱 버전에는 "다운로드" 옵션이 없지만 다른 이름으로 저장을 사용할 수 있습니다. 
@@ -254,7 +254,7 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 
 ||||
 |:-----|:-----|:-----|
-|**응용 프로그램 기능** <br/> |**PowerPoint Online** <br/> |**PowerPoint 데스크톱 앱** <br/> |
+|**응용 프로그램 기능** <br/> |**웹 용 PowerPoint** <br/> |**PowerPoint 데스크톱 앱** <br/> |
 |[맞춤, 글머리 기호, 번호](powerpoint-online.md#alignment-bullets-numbers) <br/> |예  <br/> |예  <br/> |
 |[기본 전환 및 애니메이션 적용](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |예<sup>1</sup> <br/> |예  <br/> |
 |[텍스트, 도형 및 그림에 다양한 서식 적용](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |아니요  <br/> |지원  <br/> |
@@ -279,7 +279,7 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 |[오프라인으로 보기 및 작성](powerpoint-online.md#offline-viewing-and-authoring) <br/> |아니요  <br/> |지원  <br/> |
 |[그림 자르기](powerpoint-online.md#picture-cropping) <br/> |예  <br/> |예  <br/> |
 |[그림](powerpoint-online.md#pictures) <br/> |예  <br/> |예  <br/> |
-|[발표자 보기](powerpoint-online.md#presenter-view) <br/> |아니요  <br/> |지원  <br/> |
+|[발표자 보기](powerpoint-online.md#presenter-view) <br/> |아니요  <br/> |예  <br/> |
 |[비즈니스용 Skype 또는 Office Presentation Service를 통해 온라인으로 프레젠테이션](powerpoint-online.md#present-online-through-skype-for-business-or-the-office-presentation-service) <br/> |예  <br/> |예  <br/> |
 |[PDF로 인쇄](powerpoint-online.md#print-to-pdf) <br/> |예  <br/> |예  <br/> |
 |[교정 도구](powerpoint-online.md#proofing-tools) <br/> |예  <br/> |예  <br/> |
@@ -300,13 +300,13 @@ Office Online (이전의 Office Web Apps)은 웹 브라우저에서 Word, Excel,
 |[WYSIWYG 보기](powerpoint-online.md#wysiwyg-viewing) <br/> |예  <br/> |예  <br/> |
 
 > [!NOTE]   
-><sup>1</sup> PowerPoint Online에서는 8 개의 전환 및 37 애니메이션의 갤러리를 지원 합니다. 더 많은 항목을 선택 하거나 사용자 지정 애니메이션을 만들려면 PowerPoint 데스크톱 앱을 사용 합니다. 
+><sup>1</sup> 웹의 PowerPoint에서는 8 개의 전환 및 37 애니메이션의 갤러리를 지원 합니다. 더 많은 항목을 선택 하거나 사용자 지정 애니메이션을 만들려면 PowerPoint 데스크톱 앱을 사용 합니다. 
  <br/>
 <sup>2</sup> 작업 중인 장치에서 잉크를 지원 해야 합니다. <br/> 
 <sup>3</sup> 모두는 아니지만 일부 Office 추가 기능을 사용할 수 있습니다. <br/>
 <sup>4</sup> 피벗 차트 또는 피벗 테이블을 만들 수는 없지만 뷰어에서 볼 수는 있습니다. 
   
-## <a name="supported-file-types-for-office-online"></a>지원되는 Office Online 파일 형식
+## <a name="supported-file-types-for-office-for-the-web"></a>웹에서 지원 되는 Office 파일 형식
 <a name="bkmk_SupportedFileTypes"> </a>
 
 ||||

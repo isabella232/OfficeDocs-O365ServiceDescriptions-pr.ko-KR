@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Yammer에서는 다음과 같은 메시지 및 대화 기능을 사용할 수 있습니다.
-ms.openlocfilehash: cb3ae35b113fff2906c5aea8fc3cea7c73d8a08f
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 78a89c44d6b6a29fad42656ec87311b7887ecf04
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342197"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131002"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer의 메시지 및 대화 기능
 
@@ -49,10 +49,10 @@ Yammer에서는 다음과 같은 메시지 및 대화 기능을 사용할 수 �
 
 다른 그룹의 피드나 개인 메시지를 통해 대화를 공유하여 정보 및 중요 메시지를 전달합니다.
   
-## <a name="office-online-support"></a>Office Online 지원
+## <a name="office-for-the-web-support"></a>Office에서 웹 지원을 제공 합니다.
 <a name="bkmk_ShareConversations"> </a>
 
-Yammer의 Office Online 지원을 통해 Yammer로 업로드된 문서를 Yammer에서 직접 Office Online을 통해 보고 편집할 수 있습니다. 이 경우 Office Online으로 문서를 렌더링할 수 있고, 다른 사용자가 동시에 공동으로 작성할 수 있으며, 관련 Yammer 대화가 브라우저에 바로 표시됩니다.
+Yammer에서 웹을 지원 하기 위해 Office를 사용 하 여 yammer에 업로드 한 문서를 Yammer에서 직접 보고 편집할 수 있습니다. 이렇게 하면 문서를 렌더링할 수 있고에서 웹을 사용 하 여 렌더링 하 고, 여러 사용자가 동시에 공동 작성을 사용할 수 있으며, 브라우저에서 바로 관련 Yammer 대화를 표시할 수 있습니다.
   
 ## <a name="events"></a>이벤트
 <a name="bkmk_Events"> </a>

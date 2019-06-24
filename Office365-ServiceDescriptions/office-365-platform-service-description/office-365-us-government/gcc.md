@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 미국 정부를 대신 하 여 데이터를 보관 하거나 처리할 수 있는 정부 뿐 아니라 미국의 연방, 주, 로컬 및 부족에 대 한 고유한 요구 사항과 진화 하는 규정을 충족 하기 위해 Microsoft에서는 Office 365 GCC (미국 정부 커뮤니티) 서비스를 제공 합니다. 볼륨 라이선스를 비롯한 여러 채널을 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재 평가판은 미국 정부 기관에만 제공됩니다.
-ms.openlocfilehash: d4eb499f71dd39b99a2359ae9a10d7a8c6973e78
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 3519ad9d34180b82bf32761cf3d1188ffff2b7d6
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343247"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131102"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -34,7 +34,7 @@ Office 365 Government는 보통 영향 수준에서 FedRAMP(Federal Risk and Aut
   
 Office 365 Government에서는 수준 2(Non-Controlled Unclassified Information) 시스템에 대한 미 국무부 클라우드 컴퓨팅 보안 요구 지침도 지원합니다. 
   
-Exchange Online, SharePoint Online, Exchange Online Archiving, 비즈니스용 Skype 및 Office Online에는 사법 기관에 대한 고객의 CJIS 요구 사항 및 FTI를 처리하는 고객의 IRS-1075 요구 사항을 지원하는 기능이 있습니다.
+Exchange Online, SharePoint Online, Exchange Online 아카이빙, 비즈니스용 Skype 및 웹의 Office에는 법 집행 기관에 대 한 고객의 CJIS 요구 사항을 지 원하는 기능 및 FTI를 처리 하는 고객을 위한 IRS-1075 요구 사항이 포함 되어 있습니다.
   
 ## <a name="office-365-us-government-community-screened-personnel"></a>Office 365 Government 커뮤니티 선별된 직원
 

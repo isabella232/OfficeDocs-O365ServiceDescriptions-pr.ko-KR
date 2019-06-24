@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: BlackBerry® 스마트폰에서 Office 365의 전자 메일과 문서에 액세스할 수 있습니다.
-ms.openlocfilehash: 410148ac7d422aba4565caf673e9be5fb9f3cb31
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 2e6421c2d877cb4688ac1e1909cccb1a5eb07f14
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342987"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130959"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -50,7 +50,7 @@ BlackBerry® 인터넷 서비스 (BIS)를 사용 하 여 BlackBerry 7 및 이전
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>SharePoint Online을 지원하는 BlackBerry 스마트폰
 
-Microsoft SharePoint Online 액세스 시 BlackBerry 사용자는 BlackBerry 스마트폰의 기본 브라우저를 사용하여 SharePoint Online 사이트에 액세스할 수 있습니다. BlackBerry 사용자는 모바일 브라우저의 Office Online 렌더링을 사용해 Word, Excel 및 PowerPoint 문서를 볼 수 있습니다.
+Microsoft SharePoint Online 액세스 시 BlackBerry 사용자는 BlackBerry 스마트폰의 기본 브라우저를 사용하여 SharePoint Online 사이트에 액세스할 수 있습니다. BlackBerry 사용자는 모바일 브라우저에서 웹 렌더링을 위해 Office를 사용 하 여 Word, Excel 및 PowerPoint 문서를 볼 수 있습니다.
   
 ## <a name="feature-availability"></a>기능 가용성
 

@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음의 콘텐츠 기능은 모든 사용자들이 ECM(엔터프라이즈 콘텐츠 관리)을 쉽게 사용할 수 있게 도와 줍니다. 콘텐츠는 기존의 콘텐츠 관리, 소셜 기능 및 강력한 검색 기능을 모두 결합합니다.
-ms.openlocfilehash: 67b7af09bc6a4abc8ec42750588079145f9f4719
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0d9cf2388a0c6907708fba2318f8b6ca97a35b12
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342557"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130960"
 ---
 # <a name="content"></a>콘텐츠
 
@@ -76,12 +76,12 @@ SharePoint Online 사이트 모음 관리자는 감사 기능을 통해 어느 �
 
 문서 집합은 사용자가 여러 파일을 단일 엔터티로 관리하여 저장하고, 작업하고, 내보내거나 설명을 추가할 수 있는 기능입니다. 사용자가 만든 모든 문서 집합에는 정책, 태그 및 템플릿을 적용할 수 있습니다. [문서 집합](https://go.microsoft.com/fwlink/?LinkId=270954)에 대해 더 자세히 알아보세요.
   
-## <a name="document-translation-in-word-online"></a>Document Translation in Word Online
+## <a name="document-translation-in-word-for-the-web"></a>웹에 대 한 Word의 문서 번역
 <a name="bkmk_DocumentTranslationWordWebApp"> </a>
 
-이제는 Word Online의 읽기용 보기에 조직이 문서를 브라우저에서 직접 번역할 수 있는 옵션이 제공됩니다. 이 기능은 문서 주석까지도 번역해 줍니다.
+읽기용 보기에서 웹의 Word에는 조직에서 문서를 직접 브라우저에서 번역할 수 있는 옵션이 제공 됩니다. 이 기능은 문서 주석까지도 번역해 줍니다.
   
-## <a name="ediscovery-search"></a>eDiscovery Search
+## <a name="ediscovery-search"></a>eDiscovery 검색
 <a name="bkmk_eDiscovery_Search"> </a>
 
 eDiscovery 검색을 사용하여 사용자가 규정 준수 및 소송 지원의 증거로 사용할 수 있는 ESI(전자적으로 저장된 정보)를 검색하도록 할 수 있습니다. 검색 가능한 콘텐츠에는 블로그, Wiki, 뉴스피드 및 Exchange 사서함의 콘텐츠는 물론 문서 및 목록 항목과 같은 구조화된 콘텐츠가 포함됩니다. 검색이 가능하려면 검색을 통해 콘텐츠를 인덱싱해야 합니다. 자세한 내용은 [eDiscovery 쿼리 만들기 및 실행](https://docs.microsoft.com/sharepoint/governance/create-and-run-queries-in-the-ediscovery-center)을 참조하세요.
@@ -141,15 +141,15 @@ SharePoint Online IRM은 Office 365의 정보 보호 기술인 Azure Information
 
 보존 정책은 여러 단계로 구성될 수 있으므로 전체 문서 수명 주기를 정책 하나로 지정할 수 있습니다. 예를 들어 계약을 매년 검토하고 7년 후에 삭제할 수 있습니다. [레코드 저장 및 관리](https://go.microsoft.com/fwlink/?LinkId=270968)에 대해 더 자세히 알아보세요.
   
-## <a name="office-online-createedit"></a>Office Online(만들기/편집)
+## <a name="office-for-the-web-createedit"></a>웹을 위한 Office (만들기/편집)
 <a name="bkmk_OfficeWebAppsEdi"> </a>
 
-Office 365 고객은 인터넷 브라우저에서 Office Online를 사용하여 Office 파일을 자동으로 만들고 편집할 수 있습니다. Office Online에서 사용 가능한 기능은 [Office Online 서비스 설명](../office-online-service-description/office-online-service-description.md)을 참조하세요.
+Office 365 고객 인 경우 인터넷 브라우저에서 Office를 사용 하 여 office 파일을 자동으로 만들고 편집할 수 있습니다. 웹에서 사용할 수 있는 기능에 [대 한 자세한 내용은 office for Web Service Description](../office-online-service-description/office-online-service-description.md)를 참조 하십시오.
   
-## <a name="office-online-view"></a>Office Online(보기)
+## <a name="office-for-the-web-view"></a>웹에 대 한 Office (보기)
 <a name="bkmk_OfficeWebAppsView"> </a>
 
-기본적으로 Office Online는 보기 전용입니다. 보기 전용 기능은 무료로 제공됩니다. 자세한 내용은 [조직의 SharePoint 사이트에서 Office Online 사용](https://go.microsoft.com/fwlink/?LinkId=392609)을 참조하세요.
+기본적으로 웹에 대 한 Office는 보기 전용입니다. 보기 전용 기능은 무료로 제공됩니다. 자세한 내용은 [조직의 SharePoint 사이트에서 웹에 대 한 Office 사용](https://go.microsoft.com/fwlink/?LinkId=392609)을 참고 하세요.
   
 ## <a name="office-web-apps-server-integration"></a>Office Web Apps Server integration
 <a name="bkmk_OfficeWebAppsServerIntegration"> </a>
