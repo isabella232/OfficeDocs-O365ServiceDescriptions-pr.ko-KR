@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 Enterprise 요금제 및 독립 실행형 요금제의 SharePoint Online 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: dffe3f3ddbc68e286ce03d79e72e56e4fd3322b2
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: 2e99bcd4ed05f345757323359350a00161780b03
+ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780667"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "35233535"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 제한 사항 
 
@@ -54,7 +54,8 @@ Office 365 요금제 및 SharePoint Online 독립 실행형 계획에 대 한 Sh
 - **버전** -5만 주 버전 및 511 부 버전
 
 - **SharePoint 그룹** -사용자가 5000 그룹에 속할 수 있으며, 각 그룹은 최대 5000 명의 사용자를 포함할 수 있습니다. 사이트 모음당 최대 10,000개의 그룹까지 허용됩니다.
-
+    > [!NOTE]
+    > Azure AD 그룹 제한에 대 한 내용은 [AZURE ad 서비스 제한 및 제한을](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) 참조 하세요. 이러한 제한은 공용 및 개인 그룹 사이트 구성원 관리에 영향을 줄 수 있습니다. 
 - **관리 되는 메타 데이터** -용어 저장소의 20만 용어, 1000 전역 용어 집합, 1000 그룹.
 
 - **하위** 사이트-사이트 모음 당 2000
@@ -64,10 +65,8 @@ Office 365 요금제 및 SharePoint Online 독립 실행형 계획에 대 한 Sh
 - **목록 또는 라이브러리인 라이브러리-5000의 고유한 보안 범위** 큰 목록의 경우에는 가능한 한 한 가지 고유한 사용 권한을 갖도록 디자인 합니다.
 
 - **사용자** -사이트 모음 당 200만
-
-> [!NOTE]
-> SharePoint 사이트 모음에 초대할 수 있는 게스트 수에는 제한이 없습니다. 외부 공유에 대 한 자세한 내용은 [외부 공유 개요](https://docs.microsoft.com/sharepoint/external-sharing-overview)를 참조 하세요.
-
+    > [!NOTE]
+    > SharePoint 사이트 모음에 초대할 수 있는 게스트 수에는 제한이 없습니다. 외부 공유에 대 한 자세한 내용은 [외부 공유 개요](https://docs.microsoft.com/sharepoint/external-sharing-overview)를 참조 하세요.
 ## <a name="see-also"></a>참고 항목
 
 [SharePoint Online에 대 한 검색 제한](https://docs.microsoft.com/sharepoint/search-limits)

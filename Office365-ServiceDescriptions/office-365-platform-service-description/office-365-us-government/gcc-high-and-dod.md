@@ -3,7 +3,6 @@ title: Office 365 GCC High 및 DoD
 ms.author: danarl
 author: danarl
 manager: dianap
-ms.date: 3/4/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 미국 방어 부서에 대 한 고유 하 고 진화 한 요구 사항을 충족 하 고, DoD 정보를 보유 하거나 처리 하는 계약자, ITAR (무장 규정)의 국제 트래픽에 대 한 주체를 지원 하기 위해 Microsoft는 다음을 제공 합니다. GCC High 및 DoD 환경 볼륨 라이선스를 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재는 평가판을 사용할 수 없습니다.
-ms.openlocfilehash: 1809f7baa9b6cc1375ca20d9786a64ff41056fec
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 196e1e37a00be9e23897e0f2caa78d978d9702b4
+ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343257"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "35233525"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High 및 DoD
 
 미국 방어 부서에 대 한 고유 하 고 진화 한 요구 사항을 충족 하 고, DoD 정보를 보유 하거나 처리 하는 계약자, ITAR (무장 규정)의 국제 트래픽에 대 한 주체를 지원 하기 위해 Microsoft는 다음을 제공 합니다. GCC High 및 DoD 환경 볼륨 라이선스를 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재는 평가판을 사용할 수 없습니다. 
   
-계정 팀 또는 기본 설정 파트너에 참여해서 자세히 알아보거나 유효성 검사 프로세스를 시작하세요.
+계정 팀 또는 기본 설정 파트너에 참여해서 자세히 알아보거나 유효성 검사 프로세스를 시작하세요. 구입 방법에 대 한 자세한 내용은 [Microsoft 365 정부-구매 방법](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)를 참조 하세요.
   
 ## <a name="how-to-use-this-service-description-section"></a>서비스 설명 섹션 사용 방법
 
@@ -93,7 +92,7 @@ GCC High 테 넌 트는 다른 GCC High 테 넌 트와만 공유할 수 있습�
   
  **Business Connectivity Services** -데이터 원본이 클라우드 서비스에 대 한 보안 경계 내에서 계속 사용할 수 있는 연결 시나리오에서는 BCS 기능이 지원 됩니다. 
   
- **샌드박스 솔루션** -이 기능은 더 이상 사용 되지 않으며 사용할 수 없습니다. 모든 샌드박스 솔루션은 [ SharePoint 추가 기능 확장성 모델 ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx)로 마이그레이션해야 합니다.
+ **샌드박스 솔루션** -이 기능은 더 이상 사용 되지 않으며 사용할 수 없습니다. 모든 샌드박스 솔루션은 [ SharePoint 추가 기능 확장성 모델 ]( https://msdn.microsoft.com/library/office/fp179930.aspx)로 마이그레이션해야 합니다.
   
 ### <a name="skype-for-business-online"></a>비즈니스용 Skype Online
 
