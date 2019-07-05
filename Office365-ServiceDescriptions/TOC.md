@@ -2,7 +2,6 @@
   
 
 # [Office 365 서비스 설명](office-365-service-descriptions-technet-library.md)
-## [Microsoft 365 Business 서비스 설명](microsoft-365-business-service-description.md)
 ## [Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Office 365 계획 옵션](office-365-platform-service-description/office-365-plan-options.md)
 ### [Office 365 시스템 요구 사항](office-365-platform-service-description/office-365-system-requirements.md)
@@ -33,11 +32,11 @@
 ### [제품 사용권](office-365-platform-service-description/product-use-rights.md)
 ## [Office 응용 프로그램 서비스 설명](office-applications-service-description/office-applications-service-description.md)
 ### [Office 응용 프로그램](office-applications-service-description/office-applications.md)
-## [웹 서비스에 대 한 Office 설명](office-online-service-description/office-online-service-description.md)
-### [웹에 대 한 Word](office-online-service-description/word-online.md)
-### [웹에 대 한 Excel](office-online-service-description/excel-online.md)
-### [웹에 대 한 OneNote](office-online-service-description/onenote-online.md)
-### [웹 용 PowerPoint](office-online-service-description/powerpoint-online.md)
+## [웹용 Office 서비스 설명](office-online-service-description/office-online-service-description.md)
+### [웹용 Word](office-online-service-description/word-online.md)
+### [웹용 Excel](office-online-service-description/excel-online.md)
+### [웹용 OneNote](office-online-service-description/onenote-online.md)
+### [웹용 PowerPoint](office-online-service-description/powerpoint-online.md)
 ## [Exchange Online 서비스 설명](exchange-online-service-description/exchange-online-service-description.md)
 ### [Exchange Online 제한](exchange-online-service-description/exchange-online-limits.md)
 ### [계획 및 배포](exchange-online-service-description/planning-and-deployment.md)
@@ -107,5 +106,8 @@
 ### [Yammer 플랫폼 기능](yammer-service-description/yammer-platform-features.md)
 ### [Yammer의 관리 및 보안 기능](yammer-service-description/administration-and-security-features-in-yammer.md)
 ### [Yammer의 지원 기능](yammer-service-description/support-features-in-yammer.md)
+## Microsoft 365 서비스 설명
+### [Microsoft 365 Business 서비스 설명](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+### [Microsoft 365 테넌트 수준 라이선싱 참고 자료](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
 ## [Microsoft Dynamics 365(온라인) 서비스 설명](microsoft-dynamics-365-online-service-description.md)
 
