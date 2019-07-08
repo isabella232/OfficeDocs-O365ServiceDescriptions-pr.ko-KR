@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 Enterprise 요금제 및 독립 실행형 요금제의 SharePoint Online 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: 2e99bcd4ed05f345757323359350a00161780b03
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: 30b31ab7ee10958791a2593f2f6f578a39837fa5
+ms.sourcegitcommit: 5ca550879a6bba16133a6103dc2b1ac19befa473
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233535"
+ms.lasthandoff: 07/07/2019
+ms.locfileid: "35581317"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 제한 사항 
 
@@ -40,9 +40,9 @@ Office 365 요금제 및 SharePoint Online 독립 실행형 계획에 대 한 Sh
   
 ## <a name="service-limits-for-all-plans"></a>모든 계획에 대 한 서비스 제한
 
-- 목록 **및 라이브러리의 항목** -목록은 최대 3000만 개의 항목을 포함할 수 있으며 라이브러리에는 파일 및 폴더를 최대 3000만 개까지 포함할 수 있습니다. 10만 항목이 목록, 라이브러리 또는 폴더에 추가 된 후에는 목록, 라이브러리 또는 폴더에 대 한 사용 권한 상속을 변경할 수 없습니다. 큰 목록 보기의 다른 제한 사항에 대한 자세한 내용은 [Office 365에서 큰 목록 및 라이브러리 관리](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)를 참조하세요. 파일 이름에 사용할 수 없는 문자에 대 한 자세한 내용은 [파일 및 폴더 이름에서 잘못 된 문자](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)를 참조 하세요.
+- 목록 **및 라이브러리의 항목** -목록은 최대 3000만 개의 항목을 포함할 수 있으며 라이브러리에는 파일 및 폴더를 최대 3000만 개까지 포함할 수 있습니다. 10만 항목이 목록, 라이브러리 또는 폴더에 추가 된 후에는 목록, 라이브러리 또는 폴더에 대 한 사용 권한 상속을 변경할 수 없습니다. 큰 목록 보기의 다른 제한 사항에 대한 자세한 내용은 [Office 365에서 큰 목록 및 라이브러리 관리](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)를 참조하세요. 
 
-- **파일 크기 및 파일 경로 길이** -15gb 새 OneDrive 동기화 클라이언트 (OneDrive)를 사용할 때의 제한 및 제한 사항에 대 한 자세한 내용은 [onedrive, 비즈니스용 onedrive 및 SharePoint에서 잘못 된 파일 이름 및 파일 형식을](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)참조 하세요.
+- **파일 크기 및 파일 경로 길이** -15gb 목록 항목에 첨부 되는 파일의 최대 크기는 250입니다. 새 OneDrive 동기화 클라이언트 (OneDrive)를 사용할 때의 제한 및 제한 사항에 대 한 자세한 내용은 [잘못 된 파일 이름 및 파일 형식을](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)참조 하세요.
 
 - **사이트 모음 간에 이동 및 복사** -100 GB입니다. 웹 브라우저가 열린 상태를 유지 해야 합니다.
 
