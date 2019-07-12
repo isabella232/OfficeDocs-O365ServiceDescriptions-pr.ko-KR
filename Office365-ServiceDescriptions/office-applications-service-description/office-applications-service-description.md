@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365는 Word, Excel, PowerPoint 등 이미 익숙한 Office 데스크톱 응용 프로그램의 최신 버전을 제공 하는 구독 서비스입니다.
-ms.openlocfilehash: a9fc61ae4157150bdc772c92cf752972b1e3fd57
-ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
+ms.openlocfilehash: c4f8721264abcd0e7e24a99653fa9dc7ba88f9ab
+ms.sourcegitcommit: 6e85c4e1f5d3ccaa5c1fd32f597ca2a8064417ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34931140"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "35628581"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 
@@ -71,6 +71,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |Excel 스프레드시트 조회  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
 |Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |예<sup>1</sup> <br/> |예  <br/> |예  <br/>|예<sup>1</sup> <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
 |그룹 정책 지원  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
+|Office 클라우드 정책 서비스  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
 |Azure Information Protection을 사용한 정보 권한 관리  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |
 |Windows Server AD RMS를 사용한 Information Rights Management  <br/> |예<sup>3</sup> <br/> |예  <br/> |예 <br/>| 예<sup>3</sup> <br/>|예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |
 |Office 추가 기능, ActiveX 및 BHO 지원  <br/> |예  <br/> |예  <br/> |예로<sup>+++<sup> <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |

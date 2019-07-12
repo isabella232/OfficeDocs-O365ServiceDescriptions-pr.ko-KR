@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-may-27-2019"></a>5 월 27 일 주 2019
-
-
-| 게시된 날짜 |항목 제목 | 변경 사항 |
-|------|------------|--------|
-| 5/28/2019 | [Microsoft 365 Business 서비스 설명](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 수정한 날짜 |
-| 5/31/2019 | [SharePoint Online 제한 사항](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 수정한 날짜 |
-
-
 ## <a name="week-of-june-03-2019"></a>2019 년 6 월 03 일 주
 
 
@@ -93,3 +84,11 @@
 | 6/28/2019 | [도메인](/Office365/ServiceDescriptions/office-365-platform-service-description/domains) | 수정한 날짜 |
 | 6/28/2019 | [네트워킹](/Office365/ServiceDescriptions/office-365-platform-service-description/networking) | 수정한 날짜 |
 | 6/28/2019 | [사용자 계정 관리](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | 수정한 날짜 |
+
+
+## <a name="week-of-july-01-2019"></a>01 년 7 월 1 일 주 2019
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 7/1/2019 | [Microsoft 365 테 넌 트 수준 서비스 라이선스 지침](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 수정한 날짜 |
