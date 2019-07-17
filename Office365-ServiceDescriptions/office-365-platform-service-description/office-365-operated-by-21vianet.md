@@ -3,7 +3,6 @@ title: 21Vianet에서 운영하는 Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영 하는 Office 365는 중국의 안전 하 고 안정적 이며 확장 가능한 클라우드 서비스에 대 한 요구를 충족 하도록 설계 되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: 02ac59da3fc447cd123335cdc87aec78736b02d1
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 3b3a7f925d4d2740d0f7ce8d3643f400c5dc506a
+ms.sourcegitcommit: 209e05c2b058cd64d9b84de95ede0b81477b8c7f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131322"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35753847"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -358,13 +357,13 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |용량 경고  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Clutter  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |메일 설명  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |예<sup>12</sup> <br/> |
-|대리인 액세스  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|대리인 액세스  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |받은 편지함 규칙  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |연결된 계정  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>13</sup> <br/> |예<sup>13</sup> <br/> |예<sup>13</sup> <br/> |예<sup>13</sup> <br/> |
 |비활성 사서함  <br/> |<sup>6</sup> 없음 <br/> |--  <br/> |<sup>6</sup> 없음 <br/> |예  <br/> |<sup>6</sup> 없음 <br/> |예  <br/> |아니요 <sup>6</sup> <br/> |
 |오프라인 주소록  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |주소록 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|계층 구조 주소록  <br/> |예  <br/> |--  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|계층 구조 주소록  <br/> |예  <br/> |--  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |주소 목록 및 전체 주소 목록  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>14</sup> <br/> |예<sup>14</sup> <br/> |예<sup>14</sup> <br/> |예<sup>14</sup> <br/> |
 |Office 365 그룹  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |메일 그룹  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -1019,7 +1018,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 | Skype 페더레이션  <br/> |아니요  <br/> |아니요  <br/> |
 |AOL 및 Yahoo! 페더레이션  <br/> |아니요  <br/> |아니요  <br/> |
 |**[비즈니스 온라인 모임에 대 한 Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 1** <br/> |**21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 2** <br/> |
-|Ad-Hoc 및 오디오 회의 예약  <br/> |아니요  <br/> |예  <br/> |
+|Ad-Hoc 및 오디오 회의 예약  <br/> |아니요  <br/> |있음  <br/> |
 |Ad-Hoc 및 비디오 회의 예약  <br/> |아니요  <br/> |있음  <br/> |
 |활성 발표자 비디오  <br/> |아니요  <br/> |있음  <br/> |
 |H.264 인코딩 및 디코딩  <br/> |아니요  <br/> |있음  <br/> |
@@ -1106,43 +1105,43 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |[환경 시작](../project-online-service-description/core-functionality.md#start-experience) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |[텍스트 자동 줄 바꿈](../project-online-service-description/core-functionality.md#text-wrap) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |[시간 표시 막대 보기](../project-online-service-description/core-functionality.md#timeline-view) <br/> ||예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[확대/축소 컨트롤](../project-online-service-description/core-functionality.md#zoom-controls) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[확대/축소 컨트롤](../project-online-service-description/core-functionality.md#zoom-controls) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |**프로젝트 계획(데스크톱 클라이언트)** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Essentials** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Professional** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Premium** <br/> |**21Vianet에서 운영하는 Office 365용 Project Professional 2016** <br/> |**21Vianet에서 운영하는 Office 365용 Project Server 2016** <br/> |
-|[초기 계획 롤업](../project-online-service-description/project-planning.md#baseline-rollup) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[예산 계획](../project-online-service-description/project-planning.md#budget-planning) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[프로젝트 버전 비교](../project-online-service-description/project-planning.md#compare-project-versions) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[마감](../project-online-service-description/project-planning.md#deadlines) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[필터링](../project-online-service-description/project-planning.md#filtering) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[수식 및 그래픽 표시기](../project-online-service-description/project-planning.md#formulas-and-graphical-indicators) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[프로젝트 데이터 그룹화 및 정렬](../project-online-service-description/project-planning.md#group-and-sort-project-data) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[보고서](../project-online-service-description/project-planning.md#reports) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[팀 플래너](../project-online-service-description/project-planning.md#team-planner) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[초기 계획 롤업](../project-online-service-description/project-planning.md#baseline-rollup) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[예산 계획](../project-online-service-description/project-planning.md#budget-planning) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[프로젝트 버전 비교](../project-online-service-description/project-planning.md#compare-project-versions) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[마감](../project-online-service-description/project-planning.md#deadlines) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[필터링](../project-online-service-description/project-planning.md#filtering) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[수식 및 그래픽 표시기](../project-online-service-description/project-planning.md#formulas-and-graphical-indicators) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[프로젝트 데이터 그룹화 및 정렬](../project-online-service-description/project-planning.md#group-and-sort-project-data) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[보고서](../project-online-service-description/project-planning.md#reports) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[팀 플래너](../project-online-service-description/project-planning.md#team-planner) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |**작업 관리(데스크톱 클라이언트)** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Essentials** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Professional** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Premium** <br/> |**21Vianet에서 운영하는 Office 365용 Project Professional 2016** <br/> |**21Vianet에서 운영하는 Office 365용 Project Server 2016** <br/> |
-|[활성 및 비활성 작업](../project-online-service-description/task-management.md#active-and-inactive-tasks) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[자동 완성](../project-online-service-description/task-management.md#auto-complete) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[자동 일정 예약](../project-online-service-description/task-management.md#automatic-scheduling) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[2149로 확장된 달력 날짜](../project-online-service-description/task-management.md#calendar-date-extended-to-2149) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[프로젝트 간 요주의 경로](../project-online-service-description/task-management.md#cross-project-critical-path) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[작업 검사](../project-online-service-description/task-management.md#task-inspector) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[작업 경로 분석](../project-online-service-description/task-management.md#task-path-analysis) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[하향식 요약 작업](../project-online-service-description/task-management.md#top-down-summary-tasks) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[진행률 업데이트](../project-online-service-description/task-management.md#update-progress) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[사용자 제어 및 수동 일정 예약](../project-online-service-description/task-management.md#user-controlled-and-manual-scheduling) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[활성 및 비활성 작업](../project-online-service-description/task-management.md#active-and-inactive-tasks) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[자동 완성](../project-online-service-description/task-management.md#auto-complete) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[자동 일정 예약](../project-online-service-description/task-management.md#automatic-scheduling) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[2149로 확장된 달력 날짜](../project-online-service-description/task-management.md#calendar-date-extended-to-2149) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[프로젝트 간 요주의 경로](../project-online-service-description/task-management.md#cross-project-critical-path) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[작업 검사](../project-online-service-description/task-management.md#task-inspector) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[작업 경로 분석](../project-online-service-description/task-management.md#task-path-analysis) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[하향식 요약 작업](../project-online-service-description/task-management.md#top-down-summary-tasks) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[진행률 업데이트](../project-online-service-description/task-management.md#update-progress) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[사용자 제어 및 수동 일정 예약](../project-online-service-description/task-management.md#user-controlled-and-manual-scheduling) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |**프로젝트 자원 관리(데스크톱 클라이언트)** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Essentials** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Professional** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Premium** <br/> |**21Vianet에서 운영하는 Office 365용 Project Professional 2016** <br/> |**21Vianet에서 운영하는 Office 365용 Project Server 2016** <br/> |
-|[비용 리소스](../project-online-service-description/project-resource-management.md#cost-resources) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[휴무 시간 관리](../project-online-service-description/project-resource-management.md#manage-nonworking-time) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[리소스 평준화](../project-online-service-description/project-resource-management.md#resource-leveling) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[리소스 시트 및 배정 현황 보기](../project-online-service-description/project-resource-management.md#resource-sheet-and-usage-views) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[자원 대체](../project-online-service-description/project-resource-management.md#resource-substitution) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[팀 리소스](../project-online-service-description/project-resource-management.md#team-resources) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[작업, 일반, 재료 리소스](../project-online-service-description/project-resource-management.md#work-generic-and-material-resources) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[비용 리소스](../project-online-service-description/project-resource-management.md#cost-resources) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[휴무 시간 관리](../project-online-service-description/project-resource-management.md#manage-nonworking-time) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[리소스 평준화](../project-online-service-description/project-resource-management.md#resource-leveling) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[리소스 시트 및 배정 현황 보기](../project-online-service-description/project-resource-management.md#resource-sheet-and-usage-views) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[자원 대체](../project-online-service-description/project-resource-management.md#resource-substitution) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[팀 리소스](../project-online-service-description/project-resource-management.md#team-resources) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[작업, 일반, 재료 리소스](../project-online-service-description/project-resource-management.md#work-generic-and-material-resources) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |**프로젝트 게시(데스크톱 클라이언트)** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Essentials** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Professional** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Premium** <br/> |**21Vianet에서 운영하는 Office 365용 Project Professional 2016** <br/> |**21Vianet에서 운영하는 Office 365용 Project Server 2016** <br/> |
-|[프로젝트 사이트 만들기](../project-online-service-description/project-publishing.md#create-a-project-site) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[Sharepoint의 마스터 프로젝트](../project-online-service-description/project-publishing.md#master-projects-on-sharepoint) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[비즈니스용 Skype를 사용한 현재 상태](../project-online-service-description/project-publishing.md#presence-with-skype-for-business) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[프로젝트를 Project Server 또는 Project Online에 게시](../project-online-service-description/project-publishing.md#publish-projects-to-project-server-or-project-online) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[Project MPP 파일을 SharePoint에 저장](../project-online-service-description/project-publishing.md#save-a-project-mpp-file-to-sharepoint) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[SharePoint와 작업 목록 동기화](../project-online-service-description/project-publishing.md#task-list-sync-to-sharepoint) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[프로젝트 사이트 만들기](../project-online-service-description/project-publishing.md#create-a-project-site) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[Sharepoint의 마스터 프로젝트](../project-online-service-description/project-publishing.md#master-projects-on-sharepoint) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[비즈니스용 Skype를 사용한 현재 상태](../project-online-service-description/project-publishing.md#presence-with-skype-for-business) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[프로젝트를 Project Server 또는 Project Online에 게시](../project-online-service-description/project-publishing.md#publish-projects-to-project-server-or-project-online) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[Project MPP 파일을 SharePoint에 저장](../project-online-service-description/project-publishing.md#save-a-project-mpp-file-to-sharepoint) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[SharePoint와 작업 목록 동기화](../project-online-service-description/project-publishing.md#task-list-sync-to-sharepoint) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |**핵심 서비스 기능** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Essentials** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Professional** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Premium** <br/> |**21Vianet에서 운영하는 Office 365용 Project Professional 2016** <br/> |**21Vianet에서 운영하는 Office 365용 Project Server 2016** <br/> |
 |[Active Directory 통합](../project-online-service-description/core-services-functionality.md#active-directory-integration) <br/> |예<sup>1</sup> <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |[관리, 배포 및 확장성](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility) <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |

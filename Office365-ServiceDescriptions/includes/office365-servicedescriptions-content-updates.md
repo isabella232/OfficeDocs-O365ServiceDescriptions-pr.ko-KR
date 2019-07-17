@@ -3,25 +3,6 @@
 
 
 
-## <a name="week-of-june-03-2019"></a>2019 년 6 월 03 일 주
-
-
-| 게시된 날짜 |항목 제목 | 변경 사항 |
-|------|------------|--------|
-| 6/6/2019 | [Microsoft 365 Business 서비스 설명](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 수정한 날짜 |
-| 6/6/2019 | [21Vianet에서 운영하는 Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 수정한 날짜 |
-| 6/6/2019 | [검색](/Office365/ServiceDescriptions/sharepoint-online-service-description/search) | 수정한 날짜 |
-| 6/6/2019 | [SharePoint Online 제한 사항](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 수정한 날짜 |
-| 6/7/2019 | [Microsoft 365 Business 서비스 설명](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 수정한 날짜 |
-| 6/7/2019 | [Exchange Online Archiving의 보관 기능](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | 수정한 날짜 |
-| 6/7/2019 | [Exchange Online Archiving 서비스 설명](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) | 수정한 날짜 |
-| 6/7/2019 | [Exchange Online Protection 서비스 설명](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | 수정한 날짜 |
-| 6/7/2019 | [Exchange Online 서비스 설명](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | 수정한 날짜 |
-| 6/7/2019 | [Office 365 보안 및 준수 센터](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 수정한 날짜 |
-| 6/7/2019 | [SharePoint Online 제한 사항](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 수정한 날짜 |
-| 6/7/2019 | [SharePoint Online 서비스 설명](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | 수정한 날짜 |
-
-
 ## <a name="week-of-june-10-2019"></a>2019 년 6 월 10 일 주
 
 
@@ -92,3 +73,13 @@
 | 게시된 날짜 |항목 제목 | 변경 사항 |
 |------|------------|--------|
 | 7/1/2019 | [Microsoft 365 테 넌 트 수준 서비스 라이선스 지침](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 수정한 날짜 |
+
+
+## <a name="week-of-july-08-2019"></a>7 월 8 일 주 2019
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 7/11/2019 | [Office 응용 프로그램 서비스 설명](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 수정한 날짜 |
+| 7/12/2019 | [Office 365 기술팀 Direct 서비스 설명](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | 수정한 날짜 |
+| 7/12/2019 | [Office 365 보안 및 준수 센터](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 수정한 날짜 |
