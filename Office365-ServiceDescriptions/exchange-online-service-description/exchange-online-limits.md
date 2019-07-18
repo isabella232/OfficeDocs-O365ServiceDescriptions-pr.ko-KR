@@ -3,7 +3,6 @@ title: Exchange Online 제한
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/03/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: 57ec63ab34341fa0cc4a5123246800e83cd46c2b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 8e76ab8e0c3391d77923f2b66f4d4842ae86a759
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342757"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776749"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 

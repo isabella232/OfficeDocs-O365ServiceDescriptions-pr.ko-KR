@@ -3,7 +3,6 @@ title: Yammer의 지원 기능
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Yammer에서는 다음과 같은 지원 기능을 사용할 수 있습니다.
-ms.openlocfilehash: e60dda09b20d52ad917b7e9802cd9d03b77f478f
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 6689644f9455683915fda5e20aec8ef9939e8ebf
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342177"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777919"
 ---
 # <a name="support-features-in-yammer"></a>Yammer의 지원 기능
 

@@ -3,7 +3,6 @@ title: 추가 기능
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
 description: Microsoft SharePoint는 조직이 디지털 정보를 저장, 공유 및 관리하는 데 도움이 되는 웹 기반 도구 및 기술을 집약한 제품입니다. Microsoft SharePoint Server 2013에 빌드된 이 서비스는 프로젝트 작업, 중앙에서 데이터 및 문서 저장, 다른 사람과 정보 공유에 이상적입니다. Office 365 고객은 SharePoint Online 관련 추가 기능을 더 구매할 수도 있습니다.
-ms.openlocfilehash: 6eddaa64b0d5c3406bee6cfd2bc57d693330543d
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 153e337bde2f5be6c7d69548e2f4812c0a134bc3
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343567"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777589"
 ---
 # <a name="add-ons"></a>추가 기능
 

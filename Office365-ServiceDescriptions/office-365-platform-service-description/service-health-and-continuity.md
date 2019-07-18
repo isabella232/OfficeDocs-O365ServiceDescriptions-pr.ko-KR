@@ -3,7 +3,6 @@ title: 서비스 상태 및 연속성
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/25/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 관리자는 서비스 상태를 보고 유지 관리 예정 시간을 확인할 수 있습니다. 서비스 상태 정보는 언제 든 지 Office 365에 로그인 하 여 사용할 수 있습니다.
-ms.openlocfilehash: 6dfafb853035636326266cf2bd4fba97bdc499ee
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: ffa55d304f5fbf7a9f97aef83207a923ea4dcce2
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343157"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776449"
 ---
 # <a name="service-health-and-continuity"></a>서비스 상태 및 연속성
 

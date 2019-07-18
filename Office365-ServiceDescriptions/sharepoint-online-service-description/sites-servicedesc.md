@@ -3,7 +3,6 @@ title: 사이트
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/10/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음 사이트 기능은 조직에서 어떠한 유형의 사이트를 만들 때를 비롯해 사이트 관리 단순화를 위한 단일 인프라를 구축할 때 사용할 수 있는 완전한 도구 모음을 제공합니다. 자세한 내용은 SharePoint Online에 대한 콘텐츠 찾기를 참조하세요.
-ms.openlocfilehash: a3d4ac4bab7755f1e01c942e18318a6f9bfd8266
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 9b7848c07aa9c161eedaae85a168befff804716b
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130872"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777829"
 ---
 # <a name="sites"></a>사이트
 

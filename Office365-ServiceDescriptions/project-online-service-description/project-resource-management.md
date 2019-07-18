@@ -3,7 +3,6 @@ title: 프로젝트 자원 관리
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
 description: Project Online에서는 다음과 같은 리소스 관리 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 609e426db75818fcf83d51d7dd3e14af3fe333e4
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: ffd4cbcac9f784295c0be0b992aef9553f249cc6
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343717"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777879"
 ---
 # <a name="project-resource-management"></a>프로젝트 자원 관리
 

@@ -3,7 +3,6 @@ title: Exchange Online 설치 및 관리
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: 이 섹션에서는 Exchange Online 설정을 사용자 지정 하 고 조직의 Exchange Online 환경을 최신, 실행 및 최신 상태로 유지 하는 데 사용할 수 있는 관리 제어 및 지원에 대해 설명 합니다. 내용에는 Microsoft 관리 책임 및 성능 약정, 서비스 및 제품 업그레이드와 같이 조직에서 사용할 수 있는 셀프 서비스 관리 도구 및 기능에 대한 정보가 포함되어 있습니다.
-ms.openlocfilehash: 93eb996df011a83658aa953521a469d7822f9118
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: eae4fc583661025fdc509d4b36cf0cb46353bed6
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342787"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776489"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 설치 및 관리
 

@@ -3,7 +3,6 @@ title: Office 365 Government
 ms.author: danarl
 author: danarl
 manager: dianap
-ms.date: 3/4/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 한 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (orOffice 365 US 정부)를 만들었습니다. 이 섹션에서는 Office 365 Government 고유의 기능에 대해 간략하게 설명합니다. Office 365 서비스 설명과 함께이 보조 섹션을 읽는 것이 좋습니다.
-ms.openlocfilehash: 1d7878c232f8c08c4b039562d0424fba9fd48d07
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 327c35a24a760c9a4dfd5f6f377ea7e9b9a68c6d
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131282"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777299"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -168,7 +167,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 | 음성 전화 시스템, 오디오 회의  <br/> |아니요 <sup>2, 3</sup> <br/> |아니요 <sup>2, 3</sup> <br/> |예 <sup>3, 5</sup> <br/> |아니요  <br/> |
 |Power BI Pro  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |No<sup>2</sup> <br/> |
 |Project Online  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |
-|Visio Online  <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |
+|Visio for web  <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |
 |Yammer Enterprise  <br/> |<sup>4</sup> 없음 <br/> |<sup>4</sup> 없음 <br/> |<sup>4</sup> 없음 <br/> |<sup>4</sup> 없음 <br/> |
    
 > <sup>1</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus, G3 및 G5에는 고급 전화 통신 지원, 보관 및 규정 준수 기능과 같은 추가 기능을 비롯 한 전체 Skype 응용 프로그램이 포함 됩니다. A Skype for Business Online license must be assigned for each user.
@@ -176,7 +175,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 <br/> <sup>3</sup> GCC High 또는 DoD 요금제에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다. 
 <br/><sup>4</sup> Yammer Enterprise는 OFFICE 365 US 정부의 구성 요소가 아니며, GCC에서 office 365에 사용이 허가 된 각 사용자의 독립 실행형 제공으로 취득 될 수 있습니다. 이 제안은 현재 기업 계약과 엔터프라이즈 구독 계약에 따라 Office 365 GCC를 구매한 고객만으로 제한 됩니다. Yammer는 GCC High 또는 DoD에서는 사용할 수 없습니다.
 <br/><sup>5</sup> 통화 요금제는 추가 기능입니다. 
-<br/><sup>6</sup> 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있습니다. Visio Online에는 구독의 일부로 Visio Online 데스크톱 클라이언트가 포함 되어 있습니다.  
+<br/><sup>6</sup> 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있습니다. 웹의 visio에는 구독의 일부로 Visio 데스크톱 앱이 포함 되어 있습니다.
 ## <a name="platform-features"></a>플랫폼 기능 
 <a name="BM7-Platform"> </a>
 

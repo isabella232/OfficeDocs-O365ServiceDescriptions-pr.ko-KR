@@ -3,7 +3,6 @@ title: 웹 용 PowerPoint
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: Web for PowerPoint (이전의 PowerPoint Web App)에서는 프레젠테이션이 저장 된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있는 Microsoft PowerPoint 환경을 웹 브라우저로 확장 합니다. Microsoft Office 365 customers for web Office는 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: 68a0fd93508885d9d541b163ddfdf5b16098de05
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: b5a73e3c5fb1d064d37117cb6661d8bf7d004c2e
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130885"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777539"
 ---
 # <a name="powerpoint-for-the-web"></a>웹 용 PowerPoint
 

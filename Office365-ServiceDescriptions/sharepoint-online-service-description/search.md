@@ -3,7 +3,6 @@ title: 검색
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
 description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음의 검색 기능은 업무 처리에 필요한 정보를 찾을 수 있게 도와 줍니다. 검색은 관련성, 구체화 및 사용자 검색의 조합입니다.
-ms.openlocfilehash: 512ebe26388ed4fdfb49f5a55c7a2adfe2b64cd7
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: 689960f76e5de434af90c6d4d8d8f2da82a07f5f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742167"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777869"
 ---
 # <a name="search"></a>검색
 

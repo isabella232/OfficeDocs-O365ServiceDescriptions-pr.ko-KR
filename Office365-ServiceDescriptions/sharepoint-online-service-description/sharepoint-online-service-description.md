@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online Office 365에서는 사용자 들이 서로 공유 하 고 공동 작업을 수행 하 여 회사에서 다른 사용자에 게 알리고, 비즈니스 프로세스를 변환 하 고, 공동 지식을 활용할 수 있도록 지원 합니다. 또한 SharePoint는 조직에서 데이터를 보호 및 관리 하 고 사용자 지정 솔루션을 만드는 기능을 제공 합니다. 간략 한 개요를 보려면 SharePoint 란?를 참조 하세요.
-ms.openlocfilehash: de95fb81b159ac3186b9710159a3fca716ee466f
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 0e02d79d49f10a6ee774263fdeb87d630d11898f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131012"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777859"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 서비스 설명
 
@@ -177,7 +177,7 @@ Office 365 계획에 사용할 수 있는 SharePoint 기능을 확인하려면 �
 |[빠른 탐색](insights.md#quick-explore) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |[SSRS(SQL Server Reporting Services) 통합 모드](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
 |[타임라인 슬라이서](insights.md#timeline-slicer) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
-|[Visio Online](https://technet.microsoft.com/library/mt827475.aspx) <sup>17</sup> <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|[Visio for web](https://technet.microsoft.com/library/mt827475.aspx) <sup>17</sup> <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |[Visio Services](insights.md#visio-services) <sup>17</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |**검색 기능** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online 계획 1** <br/> |**SharePoint Online 계획 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[연속 크롤링](search.md#continuous-crawls) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -252,7 +252,7 @@ Office 365 계획에 사용할 수 있는 SharePoint 기능을 확인하려면 �
 <sup>14</sup> Access 2010은 지원되지 않습니다. <br/> 
 <sup>15</sup> 웹 office의 경우, F1 사용자는 콘텐츠를 만들 수 있도록 office (라이브 타일)에 액세스할 수 있어야 합니다. 그러나 핵심 상업용 모바일 앱과 관련된 제한 사항이 있습니다. 포함 사항: Yammer, StaffHub, Microsoft Teams, 비즈니스용 Skype, SharePoint 및 Groups. Outlook, Word, Excel, PowerPoint 및 OneNote에는 다음이 포함 **되지 않습니다** .<br/> 
 <sup>16</sup> 사용자 코드 (샌드박스)가 포함 된 InfoPath 양식은 Infopath 리치 클라이언트 에서만 사용 될 수 있습니다. <br/>
-<sup>17</sup> Visio Online 소비율 (보기 기능)을 무료로 사용할 수 있습니다. Visio Online의 작성 및 편집 기능은 라이선스가 필요합니다. Visio Online에 대한 자세한 내용은 [Visio 온라인 서비스 설명](../visio-online-service-description/visio-online-service-description.md)을 참조하세요.  <br/>
+<sup>17</sup> web 소비율 (보기 기능) 용 Visio를 무료로 사용할 수 있습니다. Visio for web 만들기 및 편집 기능을 사용 하려면 라이선스가 필요 합니다. 웹의 Visio에 대 한 자세한 내용은 [웹 서비스 설명을 위해 visio](../visio-online-service-description/visio-online-service-description.md)를 참조 하십시오.  <br/>
 <sup>18</sup> f1 사용자는 하이브리드 설치에서 SharePoint Server에 액세스할 수 있지만 Office 365 F1에는 서버 액세스를 위한 CAL 권한이 포함 되지 않습니다. 이러한 권한은 별도로 구입 해야 합니다. <br/>
 <sup>19</sup> 고객 키는 Office 365 Enterprise E5에서 사용할 수 있습니다. 고객 키를 사용하면 조직의 암호화 키를 제어하고 Office 365를 구성 및 사용하여 Microsoft의 데이터 센터의 미사용 데이터를 암호화할 수 있습니다. 미사용 데이터에는 SharePoint Online 및 비즈니스용 OneDrive에 저장되어 있는 사서함과 파일에 저장된 Exchange Online 및 비즈니스용 Skype의 데이터를 포함합니다. 고객 키를 사용하면 Office 365가 데이터의 암호를 해독하는 데 사용하는 암호화 키를 제어하므로 준수 의무를 이행할 수 있습니다. 자세한 내용은 [고객 키를 사용하여 Office 365에서 데이터 제어](https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key)를 참조하세요. <br/>
 <sup>20</sup> 곧 출시 될 예정입니다. 

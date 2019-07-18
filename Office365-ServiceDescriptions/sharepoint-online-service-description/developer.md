@@ -3,7 +3,6 @@ title: 개발자
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
 description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013에서 기본 제공되는 이 호스트 서비스는 프로젝트 작업, 중앙 위치에 데이터 및 문서 저장, 다른 사람과의 정보 공유에 이상적입니다. 다음 기능은 SharePoint 기능을 확장하기 위해 앱과 솔루션을 빌드하려는 개발자를 지원합니다.
-ms.openlocfilehash: c1b9bd6e86b14d8328edabc0ebf1d81fb592fb21
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 51b2b1134ace11e377a87f3e8a436157142d6d2f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342517"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777519"
 ---
 # <a name="developer"></a>개발자
 

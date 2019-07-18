@@ -3,7 +3,6 @@ title: Office 365 Advanced Threat Protection 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/04/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는 클라우드 기반 전자 메일 필터링 서비스 이며, 다음을 보호 하는 기능을 포함 합니다. 실시간으로 해로운 링크에서 조직으로 구성 합니다. ATP에는 조직에서 발생 하는 공격 종류를 관리자에 게 제공 하는 다양 한 보고 및 URL 추적 기능이 있습니다.
-ms.openlocfilehash: 952dfc120f41bf9cce9ad88c33fc883d165eb8b5
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: a54d0fddae4430b450b944781cbeca1cbb1e414f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130992"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776419"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection 서비스 설명
 

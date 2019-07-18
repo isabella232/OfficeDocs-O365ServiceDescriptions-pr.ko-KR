@@ -3,7 +3,6 @@ title: 규정 준수
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/10/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365은 업계 표준 및 규정을 준수 하며, 비즈니스에 대 한 규정 요구 사항을 충족 하는 데 도움이 되도록 설계 되었습니다. 자세한 내용은 준수 서비스를 참조 하세요.
-ms.openlocfilehash: d7ad8180aa56c6fbe483986f31fce8bc65d64b32
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: fc899afcbf91bd34825f1b741428ae9e08c49856
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343647"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776989"
 ---
 # <a name="compliance"></a>규정 준수
 

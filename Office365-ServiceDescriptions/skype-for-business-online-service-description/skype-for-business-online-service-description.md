@@ -3,7 +3,6 @@ title: 비즈니스용 Skype Online 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/11/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 특정 비즈니스용 Skype 기능을 구입하기 위해 어떤 라이선스가 필요한지 알고 싶나요? 비즈니스용 Skype 라이선스 개요를 참조 하세요.
-ms.openlocfilehash: ba3e2f87f4bc6b6e66e06aa1a7ded86787324a8f
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 2c5aa68bdf26558f9415346585ca73bc6310b2ce
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342397"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777769"
 ---
 # <a name="skype-for-business-online-service-description"></a>비즈니스용 Skype Online 서비스 설명
 

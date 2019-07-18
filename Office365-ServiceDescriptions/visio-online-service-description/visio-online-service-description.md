@@ -1,38 +1,37 @@
 ---
-title: Visio Online 서비스 설명
+title: 웹 서비스 설명에 대 한 Visio
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/26/2018
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Visio Online에서는 visio 다이어그램을 보고, 편집 하 고, 웹에서 공유할 수 있습니다. 기본 다이어그램으로 시작 하 여 계획 설명, 제안 만들기 또는 프로세스의 단계 순서 설명 같은 일반적인 아이디어를 표현 합니다. 일반적으로 사용 되는 다이어그램 형식 및 서식 있는 셰이프 집합을 사용 하 여 첫 번째 클래스 다이어그램을 간단 하 고 간편 하 게 만들 수 있습니다. Visio Online 사용자는 다이어그램을 공유 하 고 SharePoint Online 또는 비즈니스용 OneDrive Online에 업로드 한 파일에 설명을 삽입 하 여 보고 공동 작업을 수행할 수 있습니다.
-ms.openlocfilehash: e9d0e8df0f719f55a04ff8e0150c53e5bd97c21b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: 웹에서 Visio를 사용 하 여 웹에서 Visio 다이어그램을 보고, 편집 하 고, 공유할 수 있습니다. 기본 다이어그램으로 시작 하 여 계획 설명, 제안 만들기 또는 프로세스의 단계 순서 설명 같은 일반적인 아이디어를 표현 합니다. 일반적으로 사용 되는 다이어그램 형식 및 서식 있는 셰이프 집합을 사용 하 여 첫 번째 클래스 다이어그램을 간단 하 고 간편 하 게 만들 수 있습니다. 웹 사용자의 Visio는 다이어그램을 공유 하 고 SharePoint Online 또는 비즈니스용 OneDrive Online에 업로드 한 파일에 설명을 삽입 하 여 보고 공동 작업을 수행할 수 있습니다.
+ms.openlocfilehash: 3b1ced6ba4e09a0ac32edf9fdc276dab2cf387a3
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342387"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777729"
 ---
-# <a name="visio-online-service-description"></a>Visio Online 서비스 설명
+# <a name="visio-for-the-web-service-description"></a>웹 서비스 설명에 대 한 Visio
 
-Visio Online에서는 visio 다이어그램을 보고, 편집 하 고, 웹에서 공유할 수 있습니다. 기본 다이어그램으로 시작 하 여 계획 설명, 제안 만들기 또는 프로세스의 단계 순서 설명 같은 일반적인 아이디어를 표현 합니다. 일반적으로 사용 되는 다이어그램 형식 및 서식 있는 셰이프 집합을 사용 하 여 첫 번째 클래스 다이어그램을 간단 하 고 간편 하 게 만들 수 있습니다. Visio Online 사용자는 다이어그램을 공유 하 고 SharePoint Online 또는 비즈니스용 OneDrive Online에 업로드 한 파일에 설명을 삽입 하 여 보고 공동 작업을 수행할 수 있습니다.
+웹에서 Visio를 사용 하 여 웹에서 Visio 다이어그램을 보고, 편집 하 고, 공유할 수 있습니다. 기본 다이어그램으로 시작 하 여 계획 설명, 제안 만들기 또는 프로세스의 단계 순서 설명 같은 일반적인 아이디어를 표현 합니다. 일반적으로 사용 되는 다이어그램 형식 및 서식 있는 셰이프 집합을 사용 하 여 첫 번째 클래스 다이어그램을 간단 하 고 간편 하 게 만들 수 있습니다. 웹 사용자의 Visio는 다이어그램을 공유 하 고 SharePoint Online 또는 비즈니스용 OneDrive Online에 업로드 한 파일에 설명을 삽입 하 여 보고 공동 작업을 수행할 수 있습니다.
   
-자세한 내용을 보고 시작 하려면 [Visio Online](https://products.office.com/en-US/visio/visio-online)을 참조 하세요.
+자세한 내용을 보고 시작 하려면 [Visio for the web](https://products.office.com/en-US/visio/visio-online)를 참조 하세요.
   
-Visio Online 사용에 대 한 도움말은 [Visio online help](https://go.microsoft.com/fwlink/?linkid=855982)를 참조 하세요.
+웹에서 Visio를 사용 하는 경우 도움말은 [visio help center](https://support.office.com/visio)를 참조 하십시오.
   
 ## <a name="feature-availability-and-comparison"></a>기능 가용성 및 비교
 
-다음 표에서는 Visio Online 기능 기능을 다양 한 기능의 Visio 데스크톱 앱과 비교 합니다. 표를 사용 하 여 Visio Online에서 사용할 수 있는 기능을 찾은 다음 기능 이름을 클릭 하 여 해당 기능의 작동 방식에 대 한 간략 한 설명을 읽으십시오. 조직의 일부 사용자에 게 Visio 데스크톱 앱의 고급 기능이 필요 하거나 visio Online을 사용 하 여 Visio 다이어그램을 보고 가볍게 편집 하기만 하면 되는 것을 알 수 있습니다. 
+다음 표에서는 기능이 풍부한 Visio 데스크톱 앱과 웹 기능 기능에 대 한 Visio를 비교 합니다. 표를 사용 하 여 Visio에서 웹에 사용할 수 있는 기능을 찾은 다음 기능 이름을 클릭 하 여 해당 기능의 작동 방식에 대 한 간략 한 설명을 읽습니다. 조직의 일부 사용자가 Visio 데스크톱 앱의 고급 기능을 필요로 하는 반면, 다른 사용자가 visio를 사용 하 여 visio 다이어그램을 보고 가볍게 편집 하기만 하면 되는 것을 알 수 있습니다. 
   
 ||||
 |:-----|:-----|:-----|
-|**응용 프로그램 기능** <br/> |**Visio Online** <br/> |**Visio 데스크톱 앱** <br/> |
+|**응용 프로그램 기능** <br/> |**Visio for web** <br/> |**Visio 데스크톱 앱** <br/> |
 |[텍스트 및 도형에 다양 한 서식 적용](visio-online.md#BM_1) <br/> |예  <br/> |예  <br/> |
 |[개체 정렬](visio-online.md#BM_2) <br/> |예  <br/> |예  <br/> |
 |[매시업 솔루션 빌드](visio-online.md#BM_3) <br/> |예  <br/> |예  <br/> |
@@ -61,12 +60,12 @@ Visio Online 사용에 대 한 도움말은 [Visio online help](https://go.micro
    
 > <sup>1</sup> 하이퍼링크로 이동 합니다 (삽입 하거나 편집할 수 없음). 
 <br/><sup>2</sup> sharepoint를 통해 공유 하거나, Sharepoint 또는 OneDrive를 사용 하지 않는 사용자와 공유 하는 비즈니스를 위한 하나의 드라이브입니다. 
-<br/> <sup>3</sup> Visio Online Editor에서는 사용할 수 없습니다.
-<br/><sup>4</sup> Visio Online Viewer에서는 사용할 수 없습니다. 
-<br/><sup>5</sup> Visio Online Editor에서는 사용할 수 없지만 보기 모드로 전환한 후 메모를 볼 수 있습니다. 
-<br/><sup>6</sup> Visio Online Editor에서 사용할 수 있습니다. 
+<br/> <sup>3</sup> 웹 편집기의 Visio에서는 사용할 수 없습니다.
+<br/><sup>4</sup> 웹 뷰어의 Visio에서는 사용할 수 없습니다. 
+<br/><sup>5</sup> 웹 편집기의 Visio에서는 사용할 수 없지만 보기 모드로 전환한 후 설명을 볼 수 있습니다. 
+<br/><sup>6</sup> -Visio에서 웹 편집기를 사용할 수 있습니다. 
   
-## <a name="supported-file-types-in-visio-online"></a>Visio Online의 지원 되는 파일 형식
+## <a name="supported-file-types-in-visio-for-the-web"></a>Visio에서 웹을 지 원하는 지원 되는 파일 형식
 
 ||||
 |:-----|:-----|:-----|

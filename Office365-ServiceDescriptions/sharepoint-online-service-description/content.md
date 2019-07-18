@@ -3,7 +3,6 @@ title: 콘텐츠
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 4/17/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음의 콘텐츠 기능은 모든 사용자들이 ECM(엔터프라이즈 콘텐츠 관리)을 쉽게 사용할 수 있게 도와 줍니다. 콘텐츠는 기존의 콘텐츠 관리, 소셜 기능 및 강력한 검색 기능을 모두 결합합니다.
-ms.openlocfilehash: 0d9cf2388a0c6907708fba2318f8b6ca97a35b12
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 6b4765e1d811c1c23ef6e4f5cf95c2d20522295b
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130960"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777579"
 ---
 # <a name="content"></a>콘텐츠
 

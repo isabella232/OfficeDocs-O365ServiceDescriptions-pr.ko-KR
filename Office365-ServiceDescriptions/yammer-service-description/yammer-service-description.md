@@ -3,7 +3,6 @@ title: Yammer 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer는 최고의, 보안 및 사설 엔터프라이즈 소셜 네트워크입니다. Yammer를 통해 직원들은 손쉽게 공동 작업을 수행하고 더욱 신속하게 의사 결정하고 비즈니스 과제를 담당하는 팀으로 자가 조직화할 수 있기 때문에 더욱 강력한 생산성을 갖추고 성과를 올릴 수 있습니다. Yammer는 비즈니스 제휴 및 민첩성을 자연스럽게 유도하면서 주기 시간을 줄이고 직원 간의 공동 작업을 진행하고 고객과 파트너와의 관계를 향상시킬 수 있는 새로운 작업 방식입니다.
-ms.openlocfilehash: 77af72cece5df58ac7cd21a6c7451a43b929e4f8
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 4140f3cb779c6b444dfff9626f8fadb1686e2ddd
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342097"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777889"
 ---
 # <a name="yammer-service-description"></a>Yammer 서비스 설명
 

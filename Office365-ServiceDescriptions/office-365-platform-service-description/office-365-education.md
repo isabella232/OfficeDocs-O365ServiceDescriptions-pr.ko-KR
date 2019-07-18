@@ -3,7 +3,6 @@ title: Office 365 Education
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군을 microsoft Exchange Online, Microsoft SharePoint Online, Office for web에 해당 하는 클라우드 기반 버전의 Microsoft의 차세대 통신 및 공동 작업 서비스와 조합 하 여 제공 합니다. Microsoft 비즈니스용 Skype Online-사용자가 인터넷을 통해 어디서 나 생산성을 유지 하는 데 도움이 됩니다.
-ms.openlocfilehash: 77ebe95029bf7602638fc23c4104766d61cf1431
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: a701c0bf5d5e68f22f8c294ff69e18f3a8270151
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131092"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777019"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -303,7 +302,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |Excel  <br/> |웹에 대 한 Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |웹에 대 한 OneNote <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
 |PowerPoint  <br/> |웹 용 PowerPoint <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|Visio  <br/> |Visio Online  <br/> |[Visio Online 기능 비교](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
+|Visio  <br/> |Visio for web  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
    
 ## <a name="exchange-online-features"></a>Exchange Online 기능 
 <a name="OfcOnline"> </a>

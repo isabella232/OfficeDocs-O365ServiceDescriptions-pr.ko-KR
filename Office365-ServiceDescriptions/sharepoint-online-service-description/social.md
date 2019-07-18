@@ -3,7 +3,6 @@ title: 소셜
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 207c5829-0ba9-440a-a602-1222458fb479
 description: Microsoft SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013에 빌드된 이 서비스는 프로젝트 작업, 중앙에서 데이터 및 문서 저장, 다른 사람과 정보 공유에 이상적입니다. 다음과 같은 소셜 기능을 사용 하면 사용자가 가장 효율적인 방식으로 함께 작업할 수 있습니다. 미치는? 누구나 아이디어를 공유 하 고, 사람과 전문 지식을 찾고, 위치 비즈니스 정보를 찾는 데 사용할 수 있는 뛰어난 공동 작업 도구를 제공 합니다.
-ms.openlocfilehash: 9d3988bd0c2b33855bdf8e2aa283faead5a9a61c
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: ec35d692a265328d07607ae0d2adf56d42da0b1a
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342447"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777779"
 ---
 # <a name="social"></a>소셜
 

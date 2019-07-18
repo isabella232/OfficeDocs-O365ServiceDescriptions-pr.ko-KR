@@ -3,7 +3,6 @@ title: Office 응용 프로그램
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office는 자신이 가지고 있는 최고의 아이디어를 표현하고, 업무를 신속하게 처리하며 이동 중에도 사용할 수 있는 강력한 서비스입니다. Office에 로그인하기만 하면 자신에게 맞게 설정된 작업 환경을 경험하고, 신규 기능과 향상된 기능이 지속적으로 추가되는 모든 최신 Office 응용 프로그램을 사용해 볼 수 있습니다.
-ms.openlocfilehash: 8af3a955b02478bf461df710041e0e4970868845
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 82a6678d7a019740daf6e4f5c57e9cd02d677113
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342997"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776379"
 ---
 # <a name="office-applications"></a>Office 응용 프로그램
 

@@ -3,7 +3,6 @@ title: 비즈니스용 Skype Online 기능
 ms.author: sharik
 author: skjerland
 manager: supotter
-ms.date: 10/9/2017
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 관리자 인 경우 비즈니스용 Skype Online 설정에서 비즈니스용 Skype Online 기능을 설정 하는 방법에 대 한 자세한 지침을 확인할 수 있습니다.
-ms.openlocfilehash: 1f1da35799df6b51147a24127e0c5778eda8022a
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: abaa1ba3245a3ea6ddcc6caf7e935a79e1382b8d
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342437"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777819"
 ---
 # <a name="skype-for-business-online-features"></a>비즈니스용 Skype Online 기능
 
@@ -116,7 +115,7 @@ Microsoft는 모든 비즈니스용 Skype Online 데이터 센터를 직접 제�
     
 - Windows PowerShell
     
-최신 비즈니스용 skype 온라인 관리 도움말 항목과 방법 문서를 보려면 365 Office online의 비즈니스용 skype 온라인-관리자 도움말을 참조 하세요.
+최신 비즈니스용 Skype 온라인 관리 도움말 항목과 방법 문서를 보려면 [365 Office online의 비즈니스용 Skype 온라인-관리자 도움말](https://support.office.com/en-us/article/Skype-for-Business-Online-in-Office-365-%e2%80%93-Admin-Help-4307bdbf-6097-458d-9a6a-048112695c59) 을 참조 하세요.
   
 ## <a name="audio-conferencing-in-office-365"></a>Office 365의 오디오 회의
 <a name="BKMK_Audio"> </a>

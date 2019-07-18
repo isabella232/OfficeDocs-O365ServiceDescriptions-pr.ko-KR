@@ -3,7 +3,6 @@ title: Office 365 Germany
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와 차별화 된 옵션입니다. 독일어 데이터 센터에서 업계 최고의 생산성 서비스를 제공 하는 독일, 유럽 연합 (EU) 및 상주 (유럽 자유 무역 협회)의 요구를 해결 하는 데 도움이 됩니다. 독일어 법률에 따라 관리 되는 고유한 데이터 트러스티 모델을 통해 독일 및 엄격한 데이터 액세스 및 제어 조치를 사용 합니다.
-ms.openlocfilehash: 990ac7c4eff9660fbf40c21ac7c0a8d9ba2f6f95
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 4a98fa9b16e68233ffb9cc76d62bd07c1eed97e7
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131081"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777389"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -39,10 +38,10 @@ Deutsche Telekom의 독립적인 독일 회사이자 자회사인 T-Systems Inte
 |비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |비즈니스용 Skype 온라인  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |웹에 대 한 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Office 365 ProPlus<sup>2</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|Office 365 ProPlus <sup>2</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |Project Online <sup>3</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Power BI <sup>3</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|Visio Online<sup>4</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Visio for 웹 <sup>4</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Yammer Enterprise  <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |해당 없음  <br/> |
 |Azure Information Protection  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
    
@@ -50,7 +49,7 @@ Deutsche Telekom의 독립적인 독일 회사이자 자회사인 T-Systems Inte
 > <sup>1</sup> 사용자와 도메인을 설정할 수 있는 Microsoft 365 관리 센터를 비롯 한 관련 기능이 포함 된 클라우드 기반 구독 서비스입니다. <br/>
 <sup>2</sup>Office 365 ProPlus 계획을 별도로 구매할 수 있으며 Office 365 ProPlus는 Office 365 Germany Enterprise E3 및 Office 365 Germany Enterprise E4에 포함되어 있습니다. 최신 인증을 Office 365 Germany에서 사용하도록 설정해야 합니다. [최신 인증은](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) Office 365 전라남도에서 사용 하도록 설정 되어 있어야 합니다. <br/>
 <sup>3</sup> Project Online 및 Power BI는 포함 되어 있지 않지만 별도의 추가 기능으로 구매 하거나 Office 365 독일 교육용 A1 계획에 무료로 추가할 수 있습니다. <br/>
-<sup>4</sup> Visio Online의 보기 기능을 무료로 사용할 수 있습니다. Visio Online의 작성 및 편집 기능은 라이선스가 필요합니다. Visio Online에 대한 자세한 내용은 [Visio 온라인 서비스 설명](../visio-online-service-description/visio-online-service-description.md)을 참조하세요. 
+<sup>4</sup> 웹 사용 (보기 기능)을 위해 Visio를 무료로 사용할 수 있습니다. Visio for web 만들기 및 편집 기능을 사용 하려면 라이선스가 필요 합니다. 웹의 Visio에 대 한 자세한 내용은 [웹 서비스 설명을 위해 visio](../visio-online-service-description/visio-online-service-description.md)를 참조 하십시오. 
   
 ## <a name="system-requirements"></a>시스템 요구 사항
 
@@ -700,7 +699,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |Scorecards & Dashboards <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[SSRS(SQL Server Reporting Services) 통합 모드](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[타임라인 슬라이서](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|[Visio Online](https://docs.microsoft.com/office365/servicedescriptions/visio-online-service-description/visio-online-service-description) <sup>4</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[Visio for web](https://docs.microsoft.com/office365/servicedescriptions/visio-online-service-description/visio-online-service-description) <sup>4</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Visio Services](../sharepoint-online-service-description/insights.md#visio-services) <sup>4</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |**검색 기능** <br/> |**비즈니스용 OneDrive 계획 1** <br/> |**비즈니스용 OneDrive 계획 2** <br/> |**SharePoint Online 계획 1** <br/> |**SharePoint Online 계획 2** <br/> |
 |Advanced Content Processing <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
@@ -793,7 +792,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 > <sup>1</sup> Azure Information Protection은 포함 되어 있지 않지만 지원 되는 IRM 기능을 사용 하기 위해 별도의 추가 기능으로 구입할 수 있습니다.<br/>
 <sup>2</sup>Office 및 SharePoint 앱 스토어는 Microsoft Corporation 또는 전 세계 Microsoft 설비에 있는 그 계열사가 운영하는 서비스 옵션입니다. 스토어에서 사용할 수 있는 앱은 다양한 앱 게시자가 제공하며 앱 게시자의 사용 약관 및 개인 정보 취급 방침을 따릅니다. 이러한 앱을 사용하면 사용자 데이터가 앱 게시자, 해당 자회사 또는 서비스 공급자가 설비를 유지하는 모든 국가에서 전송, 저장 또는 처리될 수 있습니다. 특정 앱의 가용성 및 결제 방법은 사용자의 지역 및 서비스에 따라 달라집니다. 이러한 앱을 다운로드하고 사용하기 전에 앱 게시자의 사용 약관 및 개인 정보 취급 방침을 신중히 검토하세요.<br/>
 <sup>3</sup> 아직 Windows Phone에서 사용할 수 없습니다.<br/> 
-<sup>4</sup> Visio Online의 보기 기능을 무료로 사용할 수 있습니다. Visio Online의 작성 및 편집 기능은 라이선스가 필요합니다. Visio Online에 대한 자세한 내용은 [Visio 온라인 서비스 설명](../visio-online-service-description/visio-online-service-description.md)을 참조하세요. 
+<sup>4</sup> 웹 사용 (보기 기능)을 위해 Visio를 무료로 사용할 수 있습니다. Visio for web 만들기 및 편집 기능을 사용 하려면 라이선스가 필요 합니다. 웹의 Visio에 대 한 자세한 내용은 [웹 서비스 설명을 위해 visio](../visio-online-service-description/visio-online-service-description.md)를 참조 하십시오. 
   
 ## <a name="project-online-features"></a>Project Online 기능
 <a name="BM1_Platform"> </a>
@@ -962,7 +961,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[SSRS(SQL Server Reporting Services) 통합 모드](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[타임라인 슬라이서](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |[데이터 모델을 포함하는 Excel 통합 문서 사용 및 상호 작용](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Visio Online](https://technet.microsoft.com/library/mt827475.aspx) <sup>18</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[Visio for web](https://technet.microsoft.com/library/mt827475.aspx) <sup>18</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Visio Services](../sharepoint-online-service-description/insights.md#visio-services) <sup>18</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |**검색 기능** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E1** <br/> |**Office 365 Germany Enterprise E3** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
 |Advanced Content Processing <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -1068,7 +1067,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 <sup>14</sup> 조직 커뮤니티 웹 사이트를 사용할 수 있지만 공용 커뮤니티 제공 도움말은 사용할 수 없습니다.<br/>
 <sup>15</sup> Access 2010은 지원되지 않습니다.<br/> <sup>16</sup> 키오스크 사용자는 라이브 타일을 사용하여 Office 문서를 만들 수 없습니다. 문서를 만들려면, 키오스크 사용자가 **새로 만들기**를 클릭한 다음 **새 파일 만들기** 메뉴에서 Word 문서, Excel 통합 문서, PowerPoint 프레젠테이션, OneNote 전자 필기장 또는 Excel 설문 조사 등의 파일 형식을 선택하여 SharePoint Online 사이트에서 작업을 수행해야 합니다. <br/>
 <sup>17</sup> 사용자 코드(샌드박스)가 포함된 InfoPath 양식은 InfoPath 리치 클라이언트에서만 사용될 수 있습니다.<br/>
-<sup>18</sup> Visio Online 소비율 (보기 기능)을 무료로 사용할 수 있습니다. Visio Online의 작성 및 편집 기능은 라이선스가 필요합니다. Visio Online에 대한 자세한 내용은 [Visio 온라인 서비스 설명](../visio-online-service-description/visio-online-service-description.md)을 참조하세요.<br/>
+<sup>18</sup> 웹 사용 (보기 기능)을 위해 Visio를 무료로 사용할 수 있습니다. Visio for web 만들기 및 편집 기능을 사용 하려면 라이선스가 필요 합니다. 웹의 Visio에 대 한 자세한 내용은 [웹 서비스 설명을 위해 visio](../visio-online-service-description/visio-online-service-description.md)를 참조 하십시오.<br/>
 <sup>19</sup> K1 사용자는 하이브리드 설정에서 SharePoint Server에 액세스할 수 있지만 Office 365 K1에는 서버 액세스를 위한 CAL 권한이 포함 되지 않습니다. 이러한 권한은 별도로 구입 해야 합니다. 
   
 ## <a name="skype-for-business-online-features"></a>비즈니스용 Skype Online 기능
@@ -1213,9 +1212,9 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 <sup>5</sup> Skype consumer calls are not supported in Office 365 Germany because there is no Skype consumer federation upon which to make calls. However, Federated calling is supported.<br/>
 <sup>6</sup> Not available in Office 365 Germany, but coming soon. 
   
-## <a name="visio-online-features"></a>Visio Online 기능
+## <a name="visio-for-the-web-features"></a>Visio for web 기능
 <a name="BM3_Skype"> </a>
 
-Visio Online은 Office 365 독일에 사용할 수 있습니다. Visio Online에 대한 자세한 내용은 [Visio 온라인 서비스 설명](../visio-online-service-description/visio-online-service-description.md)을 참조하세요.
+Web for Visio는 Office 365 독일에서 사용할 수 있습니다. 웹의 Visio에 대 한 자세한 내용은 [웹 서비스 설명을 위해 visio](../visio-online-service-description/visio-online-service-description.md)를 참조 하십시오.
   
 
