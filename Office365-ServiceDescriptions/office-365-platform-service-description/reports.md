@@ -3,7 +3,6 @@ title: 보고서
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,21 +12,21 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Microsoft Office 365의 관리자는 조직에서 Office 365 서비스를 사용 하는 방법을 보여 주는 보고서를 볼 수 있습니다. 이러한 보고서를 사용하면 문제를 확인하고 데이터를 필터링하며 데이터를 Microsoft Excel에 다운로드할 수 있습니다. Office 365 보고 웹 서비스를 사용하여 자체 보고서를 만들 수도 있습니다. Exchange Online 및 EOP(Exchange Online Protection) 관리자는 Office 365의 메일 보호 보고서를 사용하여 맬웨어, 스팸 및 규칙 감지에 대한 데이터 보기를 수행할 수 있습니다.
-ms.openlocfilehash: a291d9f7b457a2cf4da254c3bfd21cd671cdc42b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 4d0592c9e232d4bdb5fd86904a8ca0d8c3ef7a74
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343167"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777359"
 ---
-# <a name="reports"></a><span data-ttu-id="c920e-106">보고서</span><span class="sxs-lookup"><span data-stu-id="c920e-106">Reports</span></span>
+# <a name="reports"></a><span data-ttu-id="9677a-106">보고서</span><span class="sxs-lookup"><span data-stu-id="9677a-106">Reports</span></span>
 
-<span data-ttu-id="c920e-107">Microsoft Office 365의 관리자는 조직에서 Office 365 서비스를 사용 하는 방법을 보여 주는 보고서를 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="c920e-107">Administrators of Microsoft Office 365 can view reports showing how your organization is using Office 365 services.</span></span> <span data-ttu-id="c920e-108">이러한 보고서를 사용하면 문제를 확인하고 데이터를 필터링하며 데이터를 Microsoft Excel에 다운로드할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="c920e-108">You can use these reports to identify issues, filter data, and download data to Microsoft Excel.</span></span> <span data-ttu-id="c920e-109">Office 365 보고 웹 서비스를 사용하여 자체 보고서를 만들 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="c920e-109">You can also create your own reports using the Office 365 reporting web services.</span></span> <span data-ttu-id="c920e-110">Exchange Online 및 EOP(Exchange Online Protection) 관리자는 [Office 365의 메일 보호 보고서를 사용하여 맬웨어, 스팸 및 규칙 감지에 대한 데이터 보기](https://go.microsoft.com/fwlink/p/?LinkId=401102)를 수행할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="c920e-110">Exchange Online and Exchange Online Protection (EOP) administrators can [use mail protection reports in Office 365 to view data about malware, spam, and rule detections](https://go.microsoft.com/fwlink/p/?LinkId=401102).</span></span>
+<span data-ttu-id="9677a-107">Microsoft Office 365의 관리자는 조직에서 Office 365 서비스를 사용 하는 방법을 보여 주는 보고서를 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9677a-107">Administrators of Microsoft Office 365 can view reports showing how your organization is using Office 365 services.</span></span> <span data-ttu-id="9677a-108">이러한 보고서를 사용하면 문제를 확인하고 데이터를 필터링하며 데이터를 Microsoft Excel에 다운로드할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9677a-108">You can use these reports to identify issues, filter data, and download data to Microsoft Excel.</span></span> <span data-ttu-id="9677a-109">Office 365 보고 웹 서비스를 사용하여 자체 보고서를 만들 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9677a-109">You can also create your own reports using the Office 365 reporting web services.</span></span> <span data-ttu-id="9677a-110">Exchange Online 및 EOP(Exchange Online Protection) 관리자는 [Office 365의 메일 보호 보고서를 사용하여 맬웨어, 스팸 및 규칙 감지에 대한 데이터 보기](https://go.microsoft.com/fwlink/p/?LinkId=401102)를 수행할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9677a-110">Exchange Online and Exchange Online Protection (EOP) administrators can [use mail protection reports in Office 365 to view data about malware, spam, and rule detections](https://go.microsoft.com/fwlink/p/?LinkId=401102).</span></span>
   
-<span data-ttu-id="c920e-p103">자세한 내용은 [Office 365에서 서비스 사용 현황에 대한 보고서 보기 및 다운로드](https://go.microsoft.com/fwlink/p/?LinkID=270182)를 참조하십시오. 21Vianet에서 운영하는 Office 365의 경우 [21Vianet에서 운영하는 Office 365용 보고서 보기 및 다운로드](http://go.microsoft.com/fwlink/?LinkID=733348&amp;clcid=0x409)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="c920e-p103">For more information, see [View and download reports about service usage in Office 365](https://go.microsoft.com/fwlink/p/?LinkID=270182). For Office 365 operated by 21Vianet, see [View and download reports for Office 365 operated by 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733348&amp;clcid=0x409).</span></span>
+<span data-ttu-id="9677a-p103">자세한 내용은 [Office 365에서 서비스 사용 현황에 대한 보고서 보기 및 다운로드](https://go.microsoft.com/fwlink/p/?LinkID=270182)를 참조하십시오. 21Vianet에서 운영하는 Office 365의 경우 [21Vianet에서 운영하는 Office 365용 보고서 보기 및 다운로드](http://go.microsoft.com/fwlink/?LinkID=733348&amp;clcid=0x409)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="9677a-p103">For more information, see [View and download reports about service usage in Office 365](https://go.microsoft.com/fwlink/p/?LinkID=270182). For Office 365 operated by 21Vianet, see [View and download reports for Office 365 operated by 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733348&amp;clcid=0x409).</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="c920e-113">기능 가용성</span><span class="sxs-lookup"><span data-stu-id="c920e-113">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="9677a-113">기능 가용성</span><span class="sxs-lookup"><span data-stu-id="9677a-113">Feature availability</span></span>
 
-<span data-ttu-id="c920e-114">Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="c920e-114">To view feature availability across Office 365 plans, see [Office 365 Platform Service Description](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span></span>
+<span data-ttu-id="9677a-114">Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="9677a-114">To view feature availability across Office 365 plans, see [Office 365 Platform Service Description](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span></span>
   
 
