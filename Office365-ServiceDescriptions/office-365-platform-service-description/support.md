@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: 모든 Microsoft Office 365 Enterprise, Business, Education 및 Government 구독에 대해 Microsoft 고객 지원에서는 세계적인 기술, 사전 판매, 대금 청구 및 구독 지원을 제공합니다. 지원은 Office 365 포털을 통해 온라인으로 제공 되며 유료 및 평가판 구독 모두에 대해 전화로 지원 됩니다. 자세한 내용은 Office 365 지원 옵션을 참조하세요.
-ms.openlocfilehash: b8b58896d4b4ea935e94c6cc019f937a51b56cd0
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: 5b525e5272c8400b2274a5567bcaea7d76283352
+ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233515"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35854906"
 ---
 # <a name="support"></a>지원
 
@@ -185,7 +185,7 @@ Microsoft 파트너를 선택하여 서비스 요청 티켓 작성 등의 관리
 개발자는 [MSDN Microsoft 개발자 네트워크](https://developer.microsoft.com/office/docs)에서 Office 365용 Office 및 SharePoint 응용 프로그램 개발에 대해 자세히 알아볼 수 있습니다. 개발자 지원은 개발자 커뮤니티의 온라인 블로그 및 포럼을 통해, 프리미어 또는 파트너 지원 리소스를 통해 또는 직접 Microsoft를 통해 받을 수 있습니다. 개발자 지원 옵션 링크를 보려면 [지원 리소스](https://developer.microsoft.com/office/docs)를 참조하세요.
   
 > [!NOTE]
-> Office 365 팀에서는 스크립트를 지원하지 않습니다. 스크립트 사용에 대해 도움이 필요하면 [Microsoft 기술 지원 서비스](https://support.microsoft.com/)에 문의하세요.
+> Office 365 팀은 스크립트를 지원 하지 않습니다 (예: JavaScript, VBScript 등의 스크립팅 방법, VBA 등). 스크립트 사용에 대해 도움이 필요하면 [Microsoft 기술 지원 서비스](https://support.microsoft.com/)에 문의하세요. Office 응용 프로그램 사용 지원에 대해서는 [office 365 구독자에 대 한 Microsoft Office 응용 프로그램 문제에 대 한 지원 옵션](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f)을 참조 하세요.
   
 ### <a name="volume-licensing"></a>볼륨 라이선스
 

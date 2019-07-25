@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군을 microsoft Exchange Online, Microsoft SharePoint Online, Office for web에 해당 하는 클라우드 기반 버전의 Microsoft의 차세대 통신 및 공동 작업 서비스와 조합 하 여 제공 합니다. Microsoft 비즈니스용 Skype Online-사용자가 인터넷을 통해 어디서 나 생산성을 유지 하는 데 도움이 됩니다.
-ms.openlocfilehash: a701c0bf5d5e68f22f8c294ff69e18f3a8270151
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 6c3e4edc62fcb54afb5b8972cd93bf3a9b55980c
+ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777019"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35854887"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -157,7 +157,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |고급 보안 관리  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |고급 위협 방지  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |Customer Lockbox  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|Office 365 Advanced eDiscovery<sup>7</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|Advanced eDiscovery<sup>7</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |보안 점수<sup>5</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |**[준수 [ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
@@ -186,7 +186,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 <sup>5</sup> (연결 [https://securescore.office.com](https://securescore.office.com/) 에는 관리자 권한이 필요 함)에서 사용 가능 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)를 참조 하세요.<br/> 
 <sup>6</sup> 현재 특정 지역에 있는 고객은 Microsoft Sway를 사용할 수 없습니다. 8 2015 월로 더 이상 출시 되지 않는 일부 레거시 Office 365 계획에는 Microsoft Sway에 대 한 액세스 권한이 없을 수도 있습니다. <br/> 
 <sup>7</sup> 고급 EDiscovery는 미국과 서유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.) <br>
-<sup>8</sup> 각 계획에 포함 된 Microsoft Stream 기능에 대 한 자세한 내용은 [Stream license overview](https://stream.microsoft.com/documentation/stream-license-overview/)를 참조 하십시오. 
+<sup>8</sup> 각 계획에 포함 된 Microsoft Stream 기능에 대 한 자세한 내용은 [Stream license overview](https://stream.microsoft.com/documentation/stream-license-overview/)를 참조 하십시오. <br/>
   
 ## <a name="office-365-security-amp-compliance-center-features"></a>Office 365 보안 &amp; 및 준수 센터 기능
 <a name="SCC"> </a>
@@ -202,25 +202,29 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |[보안 &amp; 및 준수 센터에 대 한 액세스](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center?redirectSourcePath=%252fen-us%252farticle%252f7e696a40-b86b-4a20-afcc-559218b7b1b8) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[고급 보안 관리](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |메일 필터링 및 맬웨어 방지와 같은 [위협 관리](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|피싱 캠페인 <sup>5</sup> 에 대 한 고객 lockbox 및 위협 탐색기와 같은 [Advanced threat management](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|피싱 캠페인 <sup>5</sup> 용 위협 탐색기와 같은 [Advanced threat management](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|[고객 Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[모바일 장치 관리](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09) <sup>1</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[고급 데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30) <sup>2</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|[검색 및 조사]<br/> |예  <br/> |예  <br/> |예  <br/> |
-|[eDiscovery 검색](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases?redirectSourcePath=%252farticle%252feDiscovery-in-Office-365-143b3ab8-8cb0-4036-a5fc-6536d837bfce) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[eDiscovery 내보내기](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases?redirectSourcePath=%252farticle%252feDiscovery-in-Office-365-143b3ab8-8cb0-4036-a5fc-6536d837bfce) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[고급 eDiscovery](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery?redirectSourcePath=%252farticle%252ffd53438a-a760-45f6-9df4-861b50161ae4) <sup>4</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|eDiscovery 보류 (쿼리 기반 eDiscovery 보류 포함)  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[보관](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery?redirectSourcePath=%252farticle%252ffd53438a-a760-45f6-9df4-861b50161ae4) <sup>3</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
-|수동 보존/삭제 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[콘텐츠 검색](https://docs.microsoft.com/office365/securitycompliance/search-for-content)<br/> |예  <br/> |예  <br/> |예  <br/> |
+|[eDiscovery 사례](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[eDiscovery 내보내기](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[eDiscovery 보류 (쿼리 기반 eDiscovery 보류 포함)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[고급 eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20) <sup>4</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|[보관](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) <sup>3</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[수동 보존/삭제 정책](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[통합 감사](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) <sup>6</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
+|||||
    
 > [!NOTE]
 > <sup>1</sup> 데이터 거 버 넌 스에서는 사용자가 문서에 레이블을 만들고 게시 하 고 수동으로 적용할 수 있습니다. 드라이브 전달을 사용 하거나 네트워크를 통해 데이터를 가져옵니다. 그리고 작업, 사용자 및 그룹 간에 보존/삭제 정책 만들기 및 적용 사서함에 적용 되는 보존 정책에는 Office 365 Enterprise E3 또는 E5가 필요 합니다. <br/> 
 <sup>2</sup> 고급 데이터 관리 기능을 사용 하면 보존 또는 삭제 정책에 따라 정보를 분류 하 여 중요 한 정보를 유지 하 고 해당 정보를 삭제할 수 있습니다. 여기에는 정책 추천 등의 지능형/자동화 작업이 포함 됩니다. 데이터에 자동으로 레이블 적용 중요 한 데이터 형식 또는 쿼리를 기준으로 레이블 적용 스마트 가져오기 필터를 사용 합니다. 또한 보안 및 규정 준수를 위해 직원 통신을 검토 하기 위한 감독 기능도 포함 되어 있습니다. <br/> 
 <sup>3</sup> 무제한 <br/> 
 <sup>4</sup> 고급 EDiscovery는 미국 및 서유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.) <br/> 
-<sup>5</sup> Advanced Threat Protection은 Office 365 A5와 Office 365 A1 및 Office 365 A3의 독립 실행형 서비스로 제공 됩니다. 
+<sup>5</sup> Advanced Threat Protection은 Office 365 A5와 Office 365 A1 및 Office 365 A3의 독립 실행형 서비스로 제공 됩니다.<br/>
+<sup>6</sup> [Office 365 관리 활동 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 를 사용 하 여 통합 된 감사 로그에서 이벤트를 검색할 수도 있습니다. <br/>
   
 ## <a name="office-application-features"></a>Office 응용 프로그램 기능
 <a name="SCC"> </a>
@@ -618,9 +622,9 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |암호화된 메시지의 크기 제한(Office 365 메시지 암호화 레거시 버전을 사용하는 구독자)  <br/> |250mb<sup>5</sup> <br/> |250mb<sup>5</sup> <br/> |250mb<sup>5</sup> <br/> |
 |제목 길이 제한  <br/> |255자  <br/> |255자  <br/> |255자  <br/> |
 |파일 첨부 제한  <br/> |250개 첨부 파일  <br/> |250개 첨부 파일  <br/> |250개 첨부 파일  <br/> |
-|첨부 파일 크기 제한 - Outlook  <br/> |150MB  <br/> |150MB  <br/> |150MB  <br/> |
+|첨부 파일 크기 제한 - Outlook  <br/> |150MB  <br/> |150MB   <br/> |150MB  <br/> |
 |첨부 파일 크기 제한 - OWA  <br/> |35MB  <br/> |35MB  <br/> |35MB  <br/> |
-|첨부 파일 크기 제한 - Outlook for Mac  <br/> |150MB  <br/> |150MB  <br/> |150MB  <br/> |
+|첨부 파일 크기 제한 - Outlook for Mac  <br/> |150MB  <br/> |150MB   <br/> |150MB  <br/> |
 |여러 부분으로 구성된 메시지 제한  <br/> |250개 부분  <br/> |250개 부분  <br/> |250개 부분  <br/> |
 |포함 메시지 수준 제한  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |
    
@@ -1159,7 +1163,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |참가자의 보기 선택  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |OneNote 공유  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Ad-Hoc 및 웹 회의 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|오디오 회의를 통한 비즈니스용 Skype 모임 전화 접속(첫 번째 파티)  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|오디오 회의를 통한 비즈니스용 Skype 모임 전화 접속(첫 번째 파티)  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |공인 ACP(오디오 회의 공급자)를 통한 비즈니스용 Skype 회의 전화 접속  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |PowerPoint 공유  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |파일 전송  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -1178,12 +1182,12 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |모임 예약에 대한 Outlook 위임  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Outlook에서 정적 모임 ID로 공개 모임 만들기  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |**음성 통화** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|자동 전화 교환  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|자동 전화 교환  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |다른 용무 중 옵션  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |지점 존속성  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |통화 허용 제어  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |통화 받기/시작  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|통화 위임  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|통화 위임  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |착신 전환 및 동시 연결  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |통화 기록  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |통화 대기/검색  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -1194,15 +1198,15 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |자동 대기  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |PC, Mac 및 Mobile용 클라이언트  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |장치 전환  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|특수 전화 벨 소리  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|특수 전화 벨 소리  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |라우팅 방해 금지  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|긴급 통화 - 고정 위치  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|긴급 통화 - 고정 위치  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |긴급 통화 - 동적 위치  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Enterprise 달력 통화 라우팅  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |내선 통화  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |그룹 통화 받기  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|헌트 그룹/통화 큐 및 처리  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|통합 다이얼 패드  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|헌트 그룹/통화 큐 및 처리  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
+|통합 다이얼 패드  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |위치 기반 라우팅  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |통화 대기음  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |아웃바운드 DID 조작  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
