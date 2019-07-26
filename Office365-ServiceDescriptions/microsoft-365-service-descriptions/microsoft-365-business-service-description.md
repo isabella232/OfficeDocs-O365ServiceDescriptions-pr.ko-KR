@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business는 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 제공 하는 Office 365의 최고급 생산성을 함께 제공 하는 통합 솔루션입니다. . 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다. Office 365에 대 한 자세한 내용은 Office 365 서비스 설명을 참조 하세요.
-ms.openlocfilehash: 10f1688d7630f945e7d648078a24cc1412da41de
-ms.sourcegitcommit: dab03604af87399ad70323ede34dc8abe28c63d8
+ms.openlocfilehash: afe6a1950601147c99d26e25e31087129439dec2
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35394926"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908735"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business 서비스 설명
 
@@ -36,7 +36,7 @@ Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
 |비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 Skype Online  <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |
 |웹에 대 한 Office  <br/> |예  <br/> |예  <br/> |
-|Office 응용 프로그램  <br/> |예  <br/> |예  <br/> |
+|[Office 응용 프로그램](../office-applications-service-description/office-applications-service-description.md)  <br/> |예  <br/> |예  <br/> |
 |Project Online  <br/> |<sup>3</sup> 없음 <br/> |<sup>3</sup> 없음 <br/> |
 |Power BI  <br/> |아니요  <br/> |아니요  <br/> |
 |Yammer Enterprise  <br/> |예  <br/> |예  <br/> |

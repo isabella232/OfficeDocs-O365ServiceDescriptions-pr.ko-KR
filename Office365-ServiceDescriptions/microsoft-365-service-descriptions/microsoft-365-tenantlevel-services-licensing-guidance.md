@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 테 넌 트 수준 서비스에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: dea49f7c6ea3a0082968335586e146a33d4a76cc
-ms.sourcegitcommit: 983c4e2b50177883d9369f12b43e09d51e1e5f28
+ms.openlocfilehash: a3a3c969b7857764610694698f877b4e05231e01
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35411463"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908725"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 테 넌 트 수준 서비스 라이선스 지침
 
@@ -191,7 +191,7 @@ ADG 보존 정책은 특정 위치 (팀 사이트, 그룹 사이트 등)의 사�
 
 ## <a name="office-365-advanced-ediscovery"></a>Office 365 고급 eDiscovery
 
-Advanced eDiscovery는 조직 내 IT 및 법적 부서에 대해 조사 및 eDiscovery 솔루션을 제공 하 여 Office 365에서 수출 하기 전에 조사 또는 소송에 관련 된 콘텐츠를 식별, 수집, 보존, 절감 및 검토 합니다. 컴퓨터.
+Office 365 Advanced eDiscovery는 회사 내의 IT 및 법률 부서에서 조사 또는 소송에 관련 된 콘텐츠를 식별, 수집, 보존, 절감 및 검토 하기 위한 조사 및 eDiscovery 솔루션을 제공 합니다. Office 365 시스템
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
@@ -199,7 +199,7 @@ Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 A
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자는 소송 또는 조사를 진행 하는 동안 콘텐츠가 보존 되는 경우 고급 eDiscovery를 활용할 수 있습니다.
+사용자가 사례에 대 한 데이터 custodian (문서 또는 전자 파일을 관리 하는 사용자가 있는 사람)로 선택 된 경우 고급 eDiscovery의 이점이 있습니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
@@ -207,7 +207,7 @@ Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 A
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
-조직은 사용자별로 고급 eDiscovery를 관리 하 고 고급 eDiscovery 사례에 사용자를 추가할 수 있을 뿐만 아니라 eDiscovery 권한을 통해 공유 위치에 대 한 편집 권한을 사용자에 게 제공 합니다. 라이선스가 있는 사용자에 게 고급 eDiscovery 권한을 적용 하는 방법에 대 한 자세한 내용은 [Security & 준수 센터에서 eDiscovery 사용 권한 할당](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)을 참조 하십시오.
+eDiscovery 관리자는 [고급 ediscovery에 Custodians 추가](https://docs.microsoft.com/office365/securitycompliance/compliance20/add-custodians-to-case)에 설명 된 대로 고급 ediscovery의 기본 제공 custodian 관리 도구를 사용 하 여 특정 사용자를 대/소문자를 구분 하는 데이터 custodians으로 선택할 수 있습니다.
 
 ## <a name="office-365-customer-key"></a>Office 365 고객 키
 
@@ -255,7 +255,7 @@ Office 365 E5, Microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 A
 
 ## <a name="privileged-access-management-in-office-365"></a>Office 365의 권한이 부여 된 액세스 관리
 
-PAM (권한 부여 관리) 기능은 Office 365의 권한 있는 관리 작업에 대 한 세부적인 액세스 제어를 제공 합니다. 권한 있는 액세스 관리를 사용 하도록 설정한 후에는 사용자가 상승 된 권한 및 권한 작업을 완료 하기 위해 범위가 높고 시간이 제한 된 승인 워크플로를 통해 just-in-time 액세스를 요청 해야 합니다.
+PAM (권한 부여 관리) 기능은 Office 365의 권한 있는 관리 작업에 대 한 세부적인 액세스 제어를 제공 합니다. PAM을 사용 하도록 설정한 후에는 사용자가 상승 및 권한 작업을 완료 하기 위해 범위가 높고 시간이 제한 된 승인 워크플로를 통해 just-in-time 액세스를 요청 해야 합니다.
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
@@ -293,21 +293,21 @@ Office 365 E3, Microsoft 365 E3 및 Office 365의 라이선스가 부여 된 사
 
 관리자는 **데이터 손실 방지** > **위치**아래의 Office 365 보안 & 준수 센터에서 위치 (작업), 포함 된 사용자 및 제외 된 사용자를 사용자 지정할 수 있습니다.
 
-## <a name="data-loss-prevention-for-teams-chat-and-channel-conversations"></a>팀 채팅 및 채널 대화에 대 한 데이터 손실 방지
+## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>팀 채팅 및 채널 메시지에 대 한 데이터 손실 방지
 
-조직에서는 팀 채팅 및 채널 대화에 대 한 DLP (데이터 손실 방지)를 통해 금융 정보, 개인 식별 정보 등 중요 한 정보가 포함 된 채팅 및 채널 대화에서 메시지를 차단할 수 있습니다. 상태 관련 정보 또는 기타 기밀 정보
+조직에서는 팀 채팅 및 채널 메시지에 대 한 DLP (데이터 손실 방지)를 사용 하 여 금융 정보, 개인 식별 정보, 상태 관련 정보 등 중요 한 정보가 포함 된 채팅 및 채널 메시지를 차단할 수 있습니다. 기타 기밀 정보
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 Advanced 규정을 사용 하는 라이선스가 있는 사용자는 팀 채팅 및 채널 대화에 대 한 DLP를 활용할 수 있습니다.
+Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 Advanced 규정의 라이선스가 있는 사용자는 팀 채팅 및 채널 메시지에 대 한 DLP를 활용할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-보내는 채팅 및 채널 대화 메시지에 조직의 DLP 정책에 구성 된 대로 중요 한 정보를 검사 하 여 보낸 사람 혜택을 받을 수 있습니다.
+보내는 채팅 및 채널 메시지에 중요 한 정보가 조직의 DLP 정책에 구성 된 대로 중요 한 정보를 검사 하 여 보낸 사람 혜택을 받을 수 있습니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
-기본적으로 팀 채팅 및 채널 채팅은 테 넌 트 내의 모든 사용자에 대 한 이러한 DLP 기능에 대 한 *사용 가능한 위치 (작업)* 입니다. DLP 정책을 사용 하는 방법에 대 한 자세한 내용은 [Overview For data 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)를 참조 하십시오.
+팀 채팅 및 채널 메시지는 기본적으로 테 넌 트 내의 모든 사용자에 대 한 이러한 DLP 기능에 대해 *사용 하도록 설정 된 위치 (작업)* 입니다. DLP 정책을 사용 하는 방법에 대 한 자세한 내용은 [Overview For data 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)를 참조 하십시오.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
@@ -359,3 +359,23 @@ Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 A
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
 관리자는 라이선스가 있는 사용자 에게만 고급 메시지 암호화에 대 한 메일 흐름 규칙을 적용 해야 합니다. 메일 흐름 규칙을 정의 하는 방법에 대 한 자세한 내용은 [Office 365에서 전자 메일 메시지를 암호화 하는 메일 흐름 규칙 정의](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)를 참조 하십시오.
+
+## <a name="supervision-policies"></a>감독 정책
+
+Office 365의 감독 정책을 사용 하면 지정 된 검토자가 조사를 위해 직원 통신을 캡처할 수 있습니다. 조직의 내부 및 외부 전자 메일, Microsoft 팀 또는 타사 통신을 캡처하는 특정 정책을 정의할 수 있습니다. 그러면 검토자가 메시지를 검사 하 여 조직의 메시지 표준과 호환 되는지 확인 하 고 분류 유형으로 문제를 해결할 수 있습니다.
+
+### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
+
+Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 Advanced 준수에 대 한 라이선스가 있는 사용자가 감독 정책을 활용할 수 있습니다.
+
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+
+사용자는 감독 정책에 의해 통신이 모니터링 되도록 하 여 서비스를 활용할 수 있습니다.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+
+관리자는 보안 & 준수 센터에서 감독 정책을 만듭니다. 이러한 정책은 조직의 검토 대상이 되는 통신 및 사용자를 정의 하 고, 통신이 충족 해야 하는 사용자 지정 조건을 정의 하 고, 검토를 수행할 사람을 지정 합니다.
+ 
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+
+관리자 감독 정책에 포함할 특정 사용자 또는 그룹을 선택 합니다. 그룹을 선택 하는 경우에는 해당 그룹의 특정 사용자를 감독 정책에서 제외할 수도 있습니다. 감독 정책에 대 한 자세한 내용은 [Office 365의 감독 정책을](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies)참조 하세요.

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영 하는 Office 365는 중국의 안전 하 고 안정적 이며 확장 가능한 클라우드 서비스에 대 한 요구를 충족 하도록 설계 되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: 81bf5f3cab1801cb19d5504c03b13b89f779c03e
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9666aa8d010c17c70a0b1b8ceef1c85773d1f266
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777309"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908815"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -255,7 +255,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Excel 스프레드시트 조회  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |예<sup>1</sup> <br/> |예  <br/> |예<sup>1</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |그룹 정책 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|Azure Information Protection을 사용한 IRM(정보 권한 관리)<sup>11</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|Azure Information Protection을 사용한 IRM(정보 권한 관리)<sup>11</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |Windows Server AD RMS를 사용한 IRM(정보 권한 관리)<sup>2</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 추가 기능, ActiveX 및 BHO 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
@@ -1163,7 +1163,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |[프로젝트 만들기 및 편집](../project-online-service-description/portfolio-management.md#create-and-edit-projects) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |[재무 관리](../project-online-service-description/portfolio-management.md#financial-management) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |[워크플로에 참여](../project-online-service-description/portfolio-management.md#participate-in-workflow) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|[포트폴리오 분석 및 선택](../project-online-service-description/portfolio-management.md#portfolio-analytics-and-selection) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|[포트폴리오 분석 및 선택](../project-online-service-description/portfolio-management.md#portfolio-analytics-and-selection) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |[프로그램 관리](../project-online-service-description/portfolio-management.md#program-management) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |**보고 및 비즈니스 인텔리전스** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Essentials** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Professional** <br/> |**21Vianet에서 운영하는 Office 365용 Project Online Premium** <br/> |**21Vianet에서 운영하는 Office 365용 Project Professional 2016** <br/> |**21Vianet에서 운영하는 Office 365용 Project Server 2016** <br/> |
 |[OData 피드](../project-online-service-description/reporting-and-business-intelligence.md#odata-feeds) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
