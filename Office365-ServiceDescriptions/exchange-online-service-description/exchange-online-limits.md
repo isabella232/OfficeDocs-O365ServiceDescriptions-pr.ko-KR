@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: 8e76ab8e0c3391d77923f2b66f4d4842ae86a759
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 1ff56504abb770c2c3ac7851c65b2f10acf20ff2
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776749"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928899"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -240,7 +240,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 - **메시지 크기 제한**: 대용량 메시지가 다른 메시지의 배달을 차단 하 고 모든 사용자에 대 한 서비스 성능에 영향을 주지 않도록 하려면 메시지 크기 제한이 필요 합니다. 이 제한은 첨부 파일을 포함하며 조직 전체에 대한 모든 메시지(인바운드, 아웃바운드, 내부)에 적용됩니다. 이 제한보다 큰 메시지는 배달되지 않으며, 보낸 사람에게는 배달 못 함 보고서(NDR)가 전송됩니다. 메시지 크기 제한은 더 크게, 더 작게 또는 각 사용자별로 구성할 수 있으며, 관리자는 전송 규칙을 만들어 모든 개별 첨부 파일의 최대 크기를 제한할 수도 있습니다. 자세한 내용은 [Office 365에서 더 큰 전자 메일 메시지 지원](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)을 참조하세요.
 
     > [!NOTE]
-    > 특정 전자 메일 클라이언트의 메시지 크기 제한 또는 개별 첨부 파일의 크기 제한은 Exchange Online 메시지 크기 제한 값보다 작을 수 있습니다.
+    > 일부 전자 메일 클라이언트의 메시지 크기 제한이 낮거나 개별 첨부 파일의 크기를 Exchange Online 메시지 크기 제한 보다 작은 값으로 제한할 수 있습니다.
 
 - **메시지 헤더 크기 제한**: 메시지에 있는 모든 메시지 헤더 필드의 최대 크기를 지정 합니다. 현재 제한은 256KB입니다. 모든 메시지 머리글의 전체 크기가 256KB를 초과하면 Exchange Online에서 “552 5.3.4 머리글 크기가 고정 최대 크기를 초과합니다”라는 오류를 표시하며 메시지를 거부합니다. 메시지 본문이나 첨부 파일의 크기는 고려되지 않습니다. 헤더 필드는 일반 텍스트이므로 헤더의 크기는 각 헤더 필드의 문자 수와 헤더 필드의 전체 수에 의해 결정됩니다. 텍스트의 각 문자는 1바이트를 차지합니다.
 
@@ -333,7 +333,9 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
     > [!NOTE]
     > 받는 사람 처리 속도 제한 및 받는 사람 제한을 적용하기 위해 조직의 공유 주소록에 저장된 메일 그룹이 하나의 받는 사람으로 계산됩니다. 개인 메일 그룹의 받는 사람은 각각 하나의 받는 사람으로 계산됩니다.
 
-- **메시지 속도 제한**: 메시지 속도 제한은 사용자가 지정 된 기간 내에 Exchange Online 계정에서 보낼 수 있는 메시지의 수를 결정 합니다. 이 제한은 보낸 사람 한 명이 시스템 리소스를 과도하게 사용하지 못하도록 방지할 수 있습니다. 사용자가 SMTP 클라이언트 전송을 통해 제한을 초과하는 속도로 메시지를 전송하면 메시지가 거부되므로 해당 클라이언트가 다시 시도해야 합니다.
+- **받는 사람 프록시 주소 제한**: 받는 사람 사서함에 포함 될 수 있는 별칭 (전자 메일 주소)의 최대 개수입니다. 
+
+- **메시지 속도 제한**: 메시지 속도 제한은 사용자가 지정 된 기간 내에 Exchange Online 계정에서 보낼 수 있는 메시지의 수를 결정 합니다. 이러한 제한은 단일 보낸 사람에의 한 시스템 리소스 소비를 방지 하는 데 도움이 됩니다. 사용자가 SMTP 클라이언트 전송을 통해 제한을 초과하는 속도로 메시지를 전송하면 메시지가 거부되므로 해당 클라이언트가 다시 시도해야 합니다.
 
 #### <a name="sending-limits-across-office-365-options"></a>Office 365 옵션별 전송 제한
 
@@ -353,17 +355,16 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |받는 사람 처리 속도 제한|제한 없음<sup>1</sup>|하루에 받는 사람 10,000명|하루에 받는 사람 10,000명|하루에 받는 사람 10,000명|
 |받는 사람 제한|받는 사람 500명<sup>1</sup>|받는 사람 500명|받는 사람 500명|받는 사람 500명|
 |받는 사람 프록시 주소 제한|400|400|400|400|
+|메시지 속도 제한|분당 30개 메시지|분당 30개 메시지|분당 30개 메시지|분당 30개 메시지|
 
 > [!NOTE]
 > <sup>1</sup>Exchange Server 2013 조직의 기본 제한입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다.
 
 ## <a name="reporting-and-message-trace-limits"></a>보고 및 메시지 추적 제한
-<a name="bkmk_Reporting_Message_Trace_Limits"> </a>
 
 보고 및 메시지 추적 제한에 대한 내용은 [Exchange Online Protection의 보고 및 메시지 추적](http://go.microsoft.com/fwlink/p/?LinkId=394248)의 "보고 및 메시지 추적 데이터 사용 가능 여부 및 대기 시간" 섹션을 참조하세요.
 
 ## <a name="retention-limits"></a>보존 제한
-<a name="RetentionLimits"> </a>
 
 다음 제한은 받은 편지함의 특정 폴더에 있는 항목에 액세스할 수 있는 기간을 제어합니다.
 
@@ -487,7 +488,6 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |전송 규칙에 의해 메시지가 리디렉션되는 횟수|제한 없음|리디렉션 1회|리디렉션 1회|리디렉션 1회|
 
 ## <a name="moderation-limits"></a>중재 제한
-<a name="ModerationLimits"> </a>
 
 다음 제한은 메일 그룹과 전송 규칙에 적용된 메시지 승인에 사용되는 중재 설정을 제어합니다.
 
@@ -525,15 +525,12 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 > <sup>1</sup>Exchange Server 2013 조직의 기본 제한입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다.
 
 ## <a name="exchange-activesync-limits"></a>Exchange ActiveSync 제한
-<a name="BKMK_ExchangeActiveSync_Limits"> </a>
 
 모바일 장치와 Exchange 간에 사서함 데이터를 동기화하는 클라이언트 프로토콜인 Microsoft Exchange ActiveSync에 다음 제한이 적용됩니다.
 
 - **Exchange activesync 장치 제한**: 사서함당 Exchange activesync 장치 최대 수입니다.
 
 - **Exchange activesync 장치 삭제 제한**: exchange 관리자가 한 달에 삭제할 수 있는 최대 exchange ActiveSync 장치 수입니다.
-
-- **Exchange activesync 첨부 파일 제한**: exchange activesync 장치에서 보내거나 받을 수 있는 메시지 첨부 파일의 최대 크기입니다.
 
 ### <a name="exchange-activesync-limits-across-office-365-options"></a>Office 365 옵션에서 Exchange ActiveSync 제한
 
@@ -542,7 +539,6 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |**기능**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Exchange ActiveSync 장치 제한|100|100|100|100|100|100|
 |Exchange ActiveSync 장치 삭제 제한|20cm(8|20cm(8|20cm(8|20cm(8|20cm(8|20cm(8|
-|Exchange ActiveSync 첨부 파일 제한|25MB|25MB |25MB |25MB |25MB |25MB|
 
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>독립 실행형 옵션에서 Exchange ActiveSync 제한
 
@@ -551,4 +547,3 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |**기능**|**Exchange Server 2013**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |Exchange ActiveSync 장치 제한|100|100|100|100|
 |Exchange ActiveSync 장치 삭제 제한|20cm(8|20cm(8|20cm(8|20cm(8|
-|Exchange ActiveSync 첨부 파일 제한|25MB|25MB |25MB |25MB|

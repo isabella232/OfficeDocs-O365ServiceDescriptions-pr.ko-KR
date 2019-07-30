@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 미국 방어 부서에 대 한 고유 하 고 진화 한 요구 사항을 충족 하 고, DoD 정보를 보유 하거나 처리 하는 계약자, ITAR (무장 규정)의 국제 트래픽에 대 한 주체를 지원 하기 위해 Microsoft는 다음을 제공 합니다. GCC High 및 DoD 환경 볼륨 라이선스를 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재는 평가판을 사용할 수 없습니다.
-ms.openlocfilehash: 196e1e37a00be9e23897e0f2caa78d978d9702b4
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: c35f75875aac2c4187324f13365a3ac69827ce93
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233525"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928417"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High 및 DoD
 
@@ -76,15 +76,17 @@ GCC High 및 DoD 환경의 Office 365 구독에는 핵심 Exchange Online, Share
     
 4. 특정 사용자
     
-GCC High 또는 DoD 환경에서 SharePoint Online 및 비즈니스용 OneDrive를 사용 하는 고객은 문서를 비공개로 유지 (두 번째 옵션) 하 고 해당 문서에 대 한 링크를 가진 모든 사용자와 공유할 수 있습니다 (세 번째 옵션). GCC High 및 DoD 환경 내의 특정 사용자와 공유 (넷째 옵션) 물론이 옵션은 테 넌 트 수준 액세스 제어에도 제한 될 수 있습니다.
+GCC High 또는 DoD 환경에서 SharePoint Online 및 비즈니스용 OneDrive를 사용 하는 고객은 문서를 비공개로 유지 (두 번째 옵션) 하 고 해당 문서에 대 한 링크를 가진 모든 사용자와 공유할 수 있습니다 (세 번째 옵션). 특정 사용자와 공유 (넷째 옵션) 이 옵션은 테 넌 트 수준 액세스 제어에 따라 제한 될 수도 있습니다.
+
+특정 사용자와 공유 하는 경우 SharePoint는 사용자가 공유 되는 전자 메일 주소로 일회용 암호를 전송 하는 방법으로 연결의 의도 된 받는 사람 인지 확인 합니다. 그러나 GCC 최고 테 넌 트가 다른 GCC-고가용성 테 넌 트와 공유 하는 경우에는 Azure AD에서 받는 사람에 대 한 게스트 계정이 만들어지고 사용자 이름 및 암호를 사용 하 여 로그인 됩니다.
   
-GCC High 테 넌 트는 다른 GCC High 테 넌 트와만 공유할 수 있습니다. 예를 들면 다음과 같습니다.
+기타 예:
   
-- GCC High 테 넌 트 A는 GCC High 테 넌 트 B와 공유할 수 있습니다.
+- GCC High 테 넌 트 A는 GCC High 테 넌 트 B와 공유할 수 있고, B 사용자는 Azure AD 사용자 이름 및 암호를 사용 하 여 로그인 합니다.
     
-- GCC 테 넌 트 C는 GCC High 테 넌 트 A 또는 B와 공유할 수 있습니다.
+- GCC 테 넌 트 C는 GCC High 테 넌 트 A 또는 B와 공유할 수 있으며 A 또는 B 사용자는 일회성 passcodes을 사용 하 여 로그인 합니다.
     
-- GCC High 테 넌 트 A 또는 B는 GCC 이외의 높은 테 넌 트 C와 공유할 수 없습니다.
+- GCC High 테 넌 트 A 또는 B는 GCC 이외의 높은 테 넌 트 C와 공유할 수 있으며, C 사용자는 일회성 passcodes을 사용 하 여 로그인 합니다.
     
 또한 사용자 프로필에 첨부 되는 비 GCC 높은 전자 메일 주소는 지원 되지 않으며 경고 전자 메일이 전송 될 수 없습니다. 예를 들어 온-프레미스 사용자 A에 Gmail 전자 메일 주소가 할당 되 고 Azure GCC High 테 넌 트로 동기화 됩니다. 사용자 A가 라이브러리를 탐색 하 고 변경 사항에 대 한 알림을 만듭니다. 이 경고는 Gmail 주소로 전송 되지 않습니다.
   
@@ -92,7 +94,7 @@ GCC High 테 넌 트는 다른 GCC High 테 넌 트와만 공유할 수 있습�
   
  **Business Connectivity Services** -데이터 원본이 클라우드 서비스에 대 한 보안 경계 내에서 계속 사용할 수 있는 연결 시나리오에서는 BCS 기능이 지원 됩니다. 
   
- **샌드박스 솔루션** -이 기능은 더 이상 사용 되지 않으며 사용할 수 없습니다. 모든 샌드박스 솔루션은 [ SharePoint 추가 기능 확장성 모델 ]( https://msdn.microsoft.com/library/office/fp179930.aspx)로 마이그레이션해야 합니다.
+ **샌드박스 솔루션** -이 기능은 더 이상 사용 되지 않으며 사용할 수 없습니다. 모든 샌드박스 솔루션은 [SharePoint 추가 기능 확장성 모델로 ]( https://msdn.microsoft.com/library/office/fp179930.aspx)마이그레이션해야 합니다.
   
 ### <a name="skype-for-business-online"></a>비즈니스용 Skype Online
 

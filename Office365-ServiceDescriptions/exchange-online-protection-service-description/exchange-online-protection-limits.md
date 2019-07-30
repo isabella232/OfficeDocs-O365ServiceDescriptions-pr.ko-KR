@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 현재 Exchange Online Protection에 대 한 제한은 다음과 같습니다. 이러한 제한은 다른 설명이 없는 한 구성할 수 없습니다.
-ms.openlocfilehash: badfa1684b9843cfa2aec41d42ccd742f0184c00
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 4b0e02af0ac1587ffa040a91fda28cbb207f1b95
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776709"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928407"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 제한
 
@@ -38,7 +38,7 @@ ms.locfileid: "35776709"
     
 - **지연 메시지 제한** 지연 메시지는 대기열에 2일 동안 유지됩니다. 메시지 다시 시도는 받는 사람의 메일 시스템에서 수신된 오류 유형을 기반으로 합니다. 메시지는 15분마다 다시 시도됩니다. 
     
-- **스팸 격리 보존 기간** 기본적으로 격리로 전송된 스팸 메시지는 15일 동안 유지됩니다. 관리자는 콘텐츠 필터 정책을 통해 이 값을 낮출 수 있습니다. 
+- **스팸 격리 보존 기간** 기본적으로 격리로 전송 된 스팸 메시지는 30 일 동안 보존 됩니다. 관리자는 콘텐츠 필터 정책을 통해 이 값을 낮출 수 있습니다. 
     
 - **최종 사용자 스팸 격리 알림** 최종 사용자 스팸 격리 알림은 사용하도록 설정된 경우 기본적으로 3일마다 전송됩니다. 이 값을 1일에서 15일 사이로 구성할 수 있습니다. 
     
@@ -55,7 +55,7 @@ ms.locfileid: "35776709"
 |수신 거부 제한  <br/> |항목 1024개  <br/> |항목 1024개  <br/> ||
 |IP 허용 목록 또는 IP 차단 목록 제한  <br/> |항목 1273개  <br/> |항목 1273개  <br/> |항목 1273개  <br/> |
 |지연 메시지 제한  <br/> |2일, 15분 간격으로 다시 시도  <br/> |2일, 15분 간격으로 다시 시도  <br/> |2일, 15분 간격으로 다시 시도  <br/> |
-|스팸 격리 보존 기간  <br/> |기본적으로 15일이지만 낮출 수 있음  <br/> |기본적으로 15일이지만 낮출 수 있음  <br/> |기본적으로 15일이지만 낮출 수 있음  <br/> |
+|스팸 격리 보존 기간  <br/> |기본적으로 30 일 이지만 낮출 수 있음  <br/> |기본적으로 30 일 이지만 낮출 수 있음  <br/> |기본적으로 30 일 이지만 낮출 수 있음  <br/> |
 |최종 사용자 스팸 격리 알림  <br/> |기본적으로 3일이지만 1일에서 15일 사이로 구성할 수 있음  <br/> |기본적으로 3일이지만 1일에서 15일 사이로 구성할 수 있음  <br/> |기본적으로 3일이지만 1일에서 15일 사이로 구성할 수 있음  <br/> |
    
 
