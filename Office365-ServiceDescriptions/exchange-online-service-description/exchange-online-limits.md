@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: 1ff56504abb770c2c3ac7851c65b2f10acf20ff2
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 1baf4b3f10378d5bb5c939694b25dec0916351b4
+ms.sourcegitcommit: fb79397a520e98f0a3571cc45d5e2332dedd39d9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928899"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35940536"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -266,6 +266,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |메시지 크기 제한 - OWA|112MB<sup>1, 3</sup>|112MB<sup>1, 3</sup>|112MB<sup>1, 3</sup>|112MB<sup>1, 3</sup>|112MB<sup>1, 3</sup>|112MB<sup>1, 3</sup>|
 |메시지 크기 제한 - Outlook for Mac|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|
 |메시지 크기 제한 - 마이그레이션|150MB <sup>1, 4</sup>|150MB <sup>1, 4</sup>|150MB <sup>1, 4</sup>|150MB <sup>1, 4</sup>|150MB <sup>1, 4</sup>|150MB <sup>1, 4</sup>|
+|메시지 크기 제한-iOS 및 Android 용 Outlook | 33| 33| 33| 33| 33| 33|
 |암호화된 메시지의 크기 제한(새 기능에 Office 365 메시지 암호화를 사용하는 구독자)<sup>5</sup>|150MB |150MB|150MB|150MB|150MB|150MB|
 |암호화된 메시지의 크기 제한(Office 365 메시지 암호화 레거시 버전을 사용하는 구독자)<sup>5</sup>|25MB|25MB|25MB|25MB|25MB|25MB|
 |제목 길이 제한|255자|255자|255자|255자|255자|255자|
@@ -273,6 +274,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |첨부 파일 크기 제한 - Outlook|150MB |150MB |150MB |150MB |150MB |150MB|
 |첨부 파일 크기 제한 - OWA <sup>6</sup>|35MB|35MB|35MB|35MB|35MB|35MB|
 |첨부 파일 크기 제한 - Outlook for Mac|150MB |150MB |150MB |150MB |150MB |150MB|
+|첨부 파일 크기 제한-iOS 및 Android 용 Outlook|33 |33 |33 |33 |33 |33 |
 |여러 부분으로 구성된 메시지 제한|250개 부분|250개 부분|250개 부분|250개 부분|250개 부분|250개 부분|
 |포함 메시지 수준 제한|30개 포함 메시지|30개 포함 메시지|30개 포함 메시지|30개 포함 메시지|30개 포함 메시지|30개 포함 메시지|
 
@@ -289,13 +291,15 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |메시지 크기 제한 - OWA|10MB<sup>4</sup>|112MB<sup>1, 3</sup>|112MB<sup>1, 3</sup>|150MB<sup>1, 2</sup>|
 |메시지 크기 제한 - Outlook for Mac|10MB<sup>4</sup>|150MB|150MB||
 |메시지 크기 제한 - 마이그레이션|해당 없음|150MB <sup>5</sup>|150MB <sup>5</sup>|150MB <sup>5</sup>|
+|메시지 크기 제한-iOS 및 Android 용 Outlook |25MB |33 |33 |33 |
 |암호화된 메시지의 크기 제한(새 기능에 Office 365 메시지 암호화를 사용하는 구독자)<sup>6</sup>|150MB|150MB |150MB |150MB|
-|암호화된 메시지의 크기 제한(Office 365 메시지 암호화 레거시 버전을 사용하는 구독자)<sup>6</sup>|25MB|25MB |25MB |25MB|
+|암호화된 메시지의 크기 제한(Office 365 메시지 암호화 레거시 버전을 사용하는 구독자)<sup>6</sup>|25MB|25MB|25MB|25MB|
 |제목 길이 제한|255자|255자|255자|255자|
 |파일 첨부 제한|1024 attachments<sup>4</sup>|250개 첨부 파일|250개 첨부 파일|250개 첨부 파일|
 |첨부 파일 크기 제한 - Outlook|35MB<sup>4</sup>|150MB|150MB |150MB|
 |첨부 파일 크기 제한 - OWA|35MB<sup>4</sup>|35MB|35MB|35MB|
 |첨부 파일 크기 제한 - Outlook for Mac|35MB<sup>4</sup>|150MB|150MB|35MB|
+|첨부 파일 크기 제한-iOS 및 Android 용 Outlook|25MB |33|33|33|
 |여러 부분으로 구성된 메시지 제한|250개 부분|250개 부분|250개 부분|250개 부분|
 |포함 메시지 수준 제한|30개 포함 메시지|30개 포함 메시지|30개 포함 메시지|30개 포함 메시지|
 
