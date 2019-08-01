@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Web for office를 사용 하면 거의 모든 장치에서 인터넷에 연결 하 여 어디서 나 Office 파일을 보다 쉽게 작업 하 고 공유할 수 있습니다. Microsoft Office 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: 014e0544fb6095e9ddfa0009fe94759ffd09da60
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: ad834dfd756f76c9ccd2444690f7a762735a55dc
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131242"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051619"
 ---
 # <a name="office-for-the-web-service-description"></a>웹 서비스에 대 한 Office 설명
 
@@ -175,7 +175,7 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 |[시트 이름 바꾸기 및 추가](excel-online.md#rename-and-add-sheets) <br/> |예  <br/> |예  <br/> |
 |[통합 문서가 열려 있는 동안 파일 이름 바꾸기](excel-online.md#rename-file-while-workbook-is-open) <br/> |예  <br/> |아니요  <br/> |
 |[바꾸기](excel-online.md#replace) <br/> |예  <br/> |예  <br/> |
-|[권한 관리: IRM 및 암호 보안](excel-online.md#bkmk_RightsManagement) <br/> |아니요  <br/> |지원  <br/> |
+|[권한 관리: IRM 및 암호 보안](excel-online.md#rights-management-irm-and-password-security) <br/> |아니요  <br/> |지원  <br/> |
 |[복사본 저장 또는 다운로드](excel-online.md#save-or-download-a-copy) <br/> |예  <br/> |예  <br/> |
 |[공유](excel-online.md#share) <br/> |예  <br/> |예  <br/> |
 |[시트 보호](excel-online.md#sheet-protection) <br/> |예  <br/> |예  <br/> |

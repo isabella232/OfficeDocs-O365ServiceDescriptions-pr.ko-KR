@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 현재 Exchange Online Protection에 대 한 제한은 다음과 같습니다. 이러한 제한은 다른 설명이 없는 한 구성할 수 없습니다.
-ms.openlocfilehash: 4b0e02af0ac1587ffa040a91fda28cbb207f1b95
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 02a83ca4a6729edd301827cef1bc7ce04a331398
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928407"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051609"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 제한
 
@@ -52,7 +52,7 @@ ms.locfileid: "35928407"
 |메시지 크기 제한(첨부 파일 포함)  <br/> |150MB  <br/> |150MB  <br/> |150MB  <br/> |
 |받는 사람 제한  <br/> |위의 "받는 사람 제한" 참조  <br/> |호스트된 사서함에서 보낼 경우 받는 사람 500명. 다른 시나리오의 경우 위의 "받는 사람 제한" 참조  <br/> |위의 "받는 사람 제한" 참조  <br/> |
 |수신 허용 제한  <br/> |항목 1024개  <br/> |항목 1024개  <br/> ||
-|수신 거부 제한  <br/> |항목 1024개  <br/> |항목 1024개  <br/> ||
+|정책 당 차단 된 보낸 사람 제한  <br/> |항목 1024개  <br/> |항목 1024개  <br/> ||
 |IP 허용 목록 또는 IP 차단 목록 제한  <br/> |항목 1273개  <br/> |항목 1273개  <br/> |항목 1273개  <br/> |
 |지연 메시지 제한  <br/> |2일, 15분 간격으로 다시 시도  <br/> |2일, 15분 간격으로 다시 시도  <br/> |2일, 15분 간격으로 다시 시도  <br/> |
 |스팸 격리 보존 기간  <br/> |기본적으로 30 일 이지만 낮출 수 있음  <br/> |기본적으로 30 일 이지만 낮출 수 있음  <br/> |기본적으로 30 일 이지만 낮출 수 있음  <br/> |
