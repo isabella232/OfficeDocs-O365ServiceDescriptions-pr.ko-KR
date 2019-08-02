@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는 클라우드 기반 전자 메일 필터링 서비스 이며, 다음을 보호 하는 기능을 포함 합니다. 실시간으로 해로운 링크에서 조직으로 구성 합니다. ATP에는 조직에서 발생 하는 공격 종류를 관리자에 게 제공 하는 다양 한 보고 및 URL 추적 기능이 있습니다.
-ms.openlocfilehash: a54d0fddae4430b450b944781cbeca1cbb1e414f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 04aa26bf1911a46b1268259d15933f612a38369d
+ms.sourcegitcommit: 64cb402c59d8688052ffd15213fcba2857d9cd47
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776419"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "36058820"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection 서비스 설명
 
@@ -133,7 +133,9 @@ Office 365 보안 & 준수 센터에서 사용할 수 있는 모니터링 기능
 
 ### <a name="explorer"></a>Explorer
 
-[탐색기](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance) (위협 탐색기 라고도 함)은 인증 된 사용자가 최근 위협을 식별 하 고 분석할 수 있도록 하는 실시간 보고서입니다. 기본적으로이 보고서에는 최근 7 일간의 데이터가 표시 됩니다. 그러나 보기를 수정 하 여 최근 30 일간의 데이터를 표시할 수 있습니다. 
+Explorer (위협 탐색기 라고도 함)는 인증 된 사용자가 최근 위협을 식별 하 고 분석할 수 있도록 하는 실시간 보고서입니다. 기본적으로이 보고서에는 최근 7 일간의 데이터가 표시 됩니다. 그러나 보기를 수정 하 여 최근 30 일간의 데이터를 표시할 수 있습니다. 
+
+Explorer (Office 365 Advanced Threat Protection 계획 2) 및 실시간 검색 (Office 365 Advanced Threat Protection 계획 1)에 대 한 자세한 내용은 [Threat Explorer 및 실시간](https://docs.microsoft.com/office365/securitycompliance/threat-explorer)검색을 참조 하십시오.
 
 ### <a name="attack-simulator"></a>공격 시뮬레이터
   
