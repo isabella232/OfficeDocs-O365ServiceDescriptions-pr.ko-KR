@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 테 넌 트 수준 서비스에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: a3a3c969b7857764610694698f877b4e05231e01
-ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
+ms.openlocfilehash: 234bdc341647c0f62ad1d606e2938ef208996107
+ms.sourcegitcommit: 6d32bc9501b8cbfa71a1763103a6111898d2cda8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35908725"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171678"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 테 넌 트 수준 서비스 라이선스 지침
 
@@ -31,7 +31,7 @@ Azure Active Directory Id 보호 (AADIP)는 조직의 id에 영향을 미치는 
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Enterprise Mobility + Security E5, microsoft 365 E5, Microsoft 365 E5 보안 및 Azure Active Directory Premium 요금제 2의 라이선스가 있는 사용자는 AADIP을 활용할 수 있습니다.
+Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 보안 및 Azure Active Directory Premium 요금제 2의 라이선스가 있는 사용자가 AADIP을 활용할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -51,7 +51,7 @@ Azure ATP (Advanced Threat Protection)는 여러 유형의 고급 대상 사이�
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Enterprise Mobility + Security E5, Microsoft 365 E5, Microsoft 365 E5 보안 및 Azure Advanced Threat Protection을 사용 하는 라이선스가 있는 사용자가 Azure ATP의 혜택을 받을 수 있습니다.
+Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 보안 및 Azure Advanced Threat Protection을 사용 하는 사용자에 게 Azure ATP의 혜택을 누릴 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -71,7 +71,7 @@ AIP (Azure Information Protection)를 사용 하면 조직에서 중요 한 문�
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Microsoft 365 F1, Microsoft 365 E3 및 AIP 요금제 1의 라이선스가 부여 된 사용자는 IP 요금제 1을 활용할 수 있습니다. Microsoft 365 E5, Microsoft 365 E5 규정 준수 및 AIP 요금제 2의 라이선스가 있는 사용자는 IP 요금제 2를 활용할 수 있습니다.
+Microsoft 365 F1, Microsoft 365 Business, Microsoft 365 E3/A3/G3 및 AIP 요금제 1의 라이선스가 부여 된 사용자가 IP 계획 1에서 혜택을 받을 수 있습니다. Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 AIP 요금제 2의 라이선스가 부여 된 사용자가 IP 요금제 2를 활용할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -80,7 +80,6 @@ AIP 스캐너 기능은 온-프레미스 파일 저장소에 있는 파일을 �
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
 기본적으로 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 AIP 기능이 사용 되도록 설정 됩니다. 라이선스 사용자에 대 한 AIP 정책을 구성 하는 방법에 대 한 자세한 내용은 [Azure 권한 관리 활성화](https://docs.microsoft.com/azure/information-protection/activate-service)를 참조 하십시오.
-
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
 검색 기능을 제외한 나머지 IP 기능 정책은 특정 그룹이 나 사용자에 게 범위 지정 될 수 있습니다. 라이선스가 없는 사용자가 AIP 분류 또는 레이블 기능을 실행 하지 못하도록 레지스트리를 편집할 수 있습니다. IP 배포의 범위를 결정 하는 방법에 대 한 자세한 내용은 [Azure Information Protection Policy 구성을](https://docs.microsoft.com/azure/information-protection/configure-policy)참조 하십시오.
@@ -93,7 +92,7 @@ ATP (Advanced Threat Protection)를 사용 하면 피싱 및 제로 일 멀웨�
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Office 365 E5, microsoft 365 E5, microsoft 365 E5 Security, microsoft 365 Business, Office 365 ATP 계획 1 및 2의 라이선스가 있는 사용자는 ATP의 혜택을 받을 수 있습니다.
+Office 365 E5/A5/G5, Microsoft 365 E5/a5/G5, microsoft 365 E5/A5/G5 보안, Microsoft 365 Business 및 Office 365 ATP 계획 1 및 2의 라이선스 사용자는 ATP의 혜택을 받을 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -121,7 +120,7 @@ OCAS 조직이 생산성 클라우드 앱 및 서비스를 확인할 수 있도�
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Office 365 E5의 라이선스가 있는 사용자는 OCAS 같이 이점을 누릴 수 있습니다.
+Office 365 E5/A5/G5에서 사용이 허가 된 사용자는 OCAS에서 이점을 누릴 수 있습니다.
 
 자세한 내용은 [Microsoft Cloud App Security License Datasheet](http://www.aka.ms/mcaslicensing)를 참조 하세요.
 
@@ -145,13 +144,13 @@ Microsoft Cloud App Security (MCAS)는 조직에 클라우드 앱 및 서비스�
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-MCAS의 라이선스가 있는 사용자, Enterprise Mobility + Security E5, Microsoft 365 E5 및 Microsoft 365 E5 보안은 MCAS의 혜택을 받을 수 있습니다.
+MCAS의 라이선스가 있는 사용자, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 보안은 MCAS에서 혜택을 받을 수 있습니다.
 
 Azure AD P1의 라이선스가 있는 사용자는 MCAS의 검색 기능을 활용할 수 있습니다.
 
-MCAS에서 [조건부 액세스 앱 제어](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) 기능을 활용 하려면 사용자에 게 enterprise Mobility + security E3, enterprise Mobility + security E5, Microsoft 365 E3, microsoft 365에 포함 된 Azure Active Directory P1에 대 한 라이선스가 있어야 합니다. E5 및 Microsoft 365 E5 보안
+MCAS에서 [조건부 Access 앱 제어](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) 기능을 활용 하려면 사용자에 게 Enterprise Mobility + security E3/A3/G3, enterprise Mobility + security E5/A5/G5, Microsoft 365 E3/에 포함 된 Azure Active Directory P1에 대 한 라이선스가 있어야 합니다. A3/G3, Microsoft 365 E5/A5/G5 및 Microsoft 365 E5/A5/G5 보안
 
-[자동 레이블](https://docs.microsoft.com/cloud-app-security/data-protection-policies)기능의 혜택을 얻으려면 사용자에 게 Enterprise Mobility + Security E5, Microsoft 365 E5 및 Microsoft 365 e5 준수에 포함 된 Azure Information Protection P2에 대 한 라이선스가 있어야 합니다.
+[자동 레이블](https://docs.microsoft.com/cloud-app-security/data-protection-policies)기능의 혜택을 얻으려면 사용자에 게 Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 및 Microsoft 365 E5/A5/G5 준수에 포함 된 Azure Information Protection P2에 대 한 라이선스가 있어야 합니다.
 
 자세한 내용은 [Microsoft Cloud App Security License Datasheet](http://www.aka.ms/mcaslicensing)를 참조 하세요.
 
@@ -175,7 +174,7 @@ ADG (고급 데이터 관리)-조직이 보존 및 삭제를 사용 하도록 �
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 Advanced 준수에 대 한 라이선스가 있는 사용자가 ADG를 활용할 수 있습니다.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 Office 365 Advanced 준수는 ADG에서 혜택을 받을 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -195,7 +194,7 @@ Office 365 Advanced eDiscovery는 회사 내의 IT 및 법률 부서에서 조�
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 Advanced 준수에 대 한 라이선스가 있는 사용자가 고급 eDiscovery를 활용할 수 있습니다.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, 그리고 Office 365 Advanced 준수는 Advanced eDiscovery에서 혜택을 받을 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -215,7 +214,7 @@ eDiscovery 관리자는 [고급 ediscovery에 Custodians 추가](https://docs.mi
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 Advanced 규정을 사용 하도록 허가 된 사용자는 고객 키를 통해 혜택을 받을 수 있습니다. 고객 키의 모든 이점을 얻으려면 Azure Key Vault 용 구독도 있어야 합니다.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 Office 365 Advanced 준수는 고객 키를 활용할 수 있습니다. 고객 키의 모든 이점을 얻으려면 Azure Key Vault 용 구독도 있어야 합니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -239,7 +238,7 @@ Office 365 고객 키 암호화 키를 Exchange Online 및 비즈니스용 Skype
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Office 365 E5, Microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 Advanced 준수는 고객 Lockbox의 혜택을 받을 수 있습니다.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 Office 365 Advanced 준수는 고객 Lockbox의 혜택을 받을 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -259,7 +258,7 @@ PAM (권한 부여 관리) 기능은 Office 365의 권한 있는 관리 작업�
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 Advanced 준수에 대 한 라이선스가 있는 사용자가 PAM을 활용할 수 있습니다.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 Office 365 Advanced 준수는 PAM의 혜택을 받을 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -279,7 +278,7 @@ PAM을 사용 하도록 설정 하면 조직에서 권한이 없는 상태로 �
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Office 365 E3, Microsoft 365 E3 및 Office 365의 라이선스가 부여 된 사용자는 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에서 DLP를 활용할 수 있습니다.
+Office 365 E3/A3/G3, Microsoft 365 Business, Microsoft 365 E3/A3/G3 및 Office 365 데이터 손실 방지를 사용 하도록 허가 된 사용자는 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive의 DLP를 활용할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -299,7 +298,7 @@ Office 365 E3, Microsoft 365 E3 및 Office 365의 라이선스가 부여 된 사
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 Advanced 규정의 라이선스가 있는 사용자는 팀 채팅 및 채널 메시지에 대 한 DLP를 활용할 수 있습니다.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 준수 및 Office 365 Advanced 준수는 팀 채팅 및 채널 메시지에 대 한 DLP를 활용할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -319,7 +318,7 @@ Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 A
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 Advanced 준수에 대 한 라이선스가 있는 사용자는 정보 장벽에 따라 이점을 누릴 수 있습니다.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, 그리고 Office 365 Advanced 준수는 정보 장벽에서 혜택을 받을 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -346,7 +345,7 @@ Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 A
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 Advanced 준수에 대 한 라이선스가 있는 사용자가 고급 메시지 암호화를 활용할 수 있습니다.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 Office 365 Advanced 준수는 고급 메시지 암호화의 이점을 누릴 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -366,7 +365,7 @@ Office 365의 감독 정책을 사용 하면 지정 된 검토자가 조사를 �
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Office 365 Advanced 준수에 대 한 라이선스가 있는 사용자가 감독 정책을 활용할 수 있습니다.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 Office 365 Advanced 준수는 감독 정책을 활용할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 

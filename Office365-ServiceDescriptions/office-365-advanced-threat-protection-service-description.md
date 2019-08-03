@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는 클라우드 기반 전자 메일 필터링 서비스 이며, 다음을 보호 하는 기능을 포함 합니다. 실시간으로 해로운 링크에서 조직으로 구성 합니다. ATP에는 조직에서 발생 하는 공격 종류를 관리자에 게 제공 하는 다양 한 보고 및 URL 추적 기능이 있습니다.
-ms.openlocfilehash: 04aa26bf1911a46b1268259d15933f612a38369d
-ms.sourcegitcommit: 64cb402c59d8688052ffd15213fcba2857d9cd47
+ms.openlocfilehash: aaa017f127ee17ce872ec7ba8fb13b78bc332048
+ms.sourcegitcommit: 6d32bc9501b8cbfa71a1763103a6111898d2cda8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "36058820"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171698"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection 서비스 설명
 
@@ -93,7 +93,8 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 |안전한 링크 |예|예 |예 | 
 |피싱 방지 정책 |예 |예 |예 |
 |SharePoint, OneDrive 및 Microsoft 팀에 대 한 ATP |예 |예 |예|
-|팀의 안전한 링크 |예|예 |예 |
+|팀의 안전한 첨부 파일 |예|예 |예 |
+|팀의 안전한 링크 |아니요 |아니요 |아니요 |
 |실시간 보고서 |예 |예 |예|
 |*자동화, 조사, 교정 및 교육* |
 |위협 트래커 |아니요 |예 |예 |
@@ -114,6 +115,16 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 ### <a name="safe-links"></a>안전한 링크
 
 [ATP Safe Links](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links) 기능은 메시지나 Office 문서의 악의적인 url 로부터 사용자를 사전에 보호 합니다. 악의적인 링크는 동적으로 차단되지만 정상 링크에는 액세스할 수 있으므로 클릭할 때마다 보호 기능이 유지됩니다.
+
+다음과 같은 앱의 Url에 대해 안전한 링크를 사용할 수 있습니다.
+
+- Windows 또는 Mac의 Office 365 ProPlus
+- 웹 (웹의 Word, 웹의 경우 Excel, 웹의 경우 PowerPoint, 웹의 OneNote)에 대 한 Office
+- IOS 및 Android 장치의 Office 앱은 물론 Word, Excel, PowerPoint, Visio의 Windows 
+
+> [!NOTE] 
+> 사용자에 게 ATP 라이선스가 있어야 하 고, ATP 안전한 링크 정책에 포함 되어야 하며, 보호를 위해 해당 장치에 로그인 되어 있어야 합니다.
+
 
 ### <a name="anti-phishing-policies"></a>피싱 방지 정책
 
