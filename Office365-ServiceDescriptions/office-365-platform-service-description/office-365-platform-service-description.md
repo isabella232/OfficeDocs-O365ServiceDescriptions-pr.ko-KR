@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Exchange Online 계획을 비롯하여 Office 365 계획 간의 차이점을 알고 싶은 경우 이 문서를 통해 각 계획에 포함된 기능을 확인할 수 있습니다.
-ms.openlocfilehash: 5b7c6a16fabe62bd4f6bda9cc049b71e50cbac14
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: a2a21a06d90a82423e9a669dec12a5311df33e80
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051600"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206838"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 플랫폼 서비스 설명
 
@@ -100,7 +100,7 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 |Microsoft Flow  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Graph API  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft MyAnalytics  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |<sup>21</sup> 없음  <br/> |예  <br/> |아니요  <br/> |
+|Microsoft MyAnalytics  <br/> |<sup>22</sup> 없음  <br/> |<sup>22</sup> 없음  <br/> |<sup>22</sup> 없음  <br/> |<sup>22</sup> 없음  <br/> |<sup>21,</sup> <sup>22</sup>  <br/> |예  <br/> |아니요  <br/> |
 |Microsoft Planner  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Microsoft PowerApps  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -225,4 +225,4 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 <br/><sup>19</sup> 5 월 2019 일, 기존 적격 365 Sku 및 Microsoft 365는 Kaizala Pro를 사용 하 여 backfilled 됩니다. 2019 년 6 월 1 일부 Kaizala Pro는 모든 적격 Office 365 및 Microsoft 365 Sku에 포함 됩니다.
 <br/><sup>20</sup> 무료 추가 기능으로 사용할 수 있습니다. 자세한 내용은 [Microsoft 예약에 대 한 Get 액세스](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce)를 참조 하세요.
 <br/><sup>21e</sup> 계획을 사용한 myanalytics (Full)을 가져오려면 myanalytics 추가 기능을 구입 해야 합니다. 자세한 내용은 [Myanalytics 요금제 and 환경용](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)을 참조 하십시오. 
-
+<br/><sup>22</sup> 은 myanalytics에의 한 정보를 포함 합니다. 자세한 내용은 [Myanalytics 요금제 and 환경용](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)을 참조 하십시오.

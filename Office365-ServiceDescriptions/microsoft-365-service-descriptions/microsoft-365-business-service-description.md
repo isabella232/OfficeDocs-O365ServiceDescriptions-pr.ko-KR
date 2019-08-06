@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business는 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 제공 하는 Office 365의 최고급 생산성을 함께 제공 하는 통합 솔루션입니다. . 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다. Office 365에 대 한 자세한 내용은 Office 365 서비스 설명을 참조 하세요.
-ms.openlocfilehash: afe6a1950601147c99d26e25e31087129439dec2
-ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
+ms.openlocfilehash: 4f8e732514109ee5d7f137907d333829a7b5075a
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35908735"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206858"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business 서비스 설명
 
@@ -90,7 +90,7 @@ Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
 |[개인 정보, 보안 및 투명성](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |스팸 방지 보호 기능 내장  <br/> |예  <br/> |예  <br/> |
 |맬웨어 방지 보호 기능 내장  <br/> |예  <br/> |예  <br/> |
-|Office 365 Advanced Threat Protection  <br/> |아니요  <br/> |예 <br/> |
+|Office 365 Advanced Threat Protection  <br/> |아니요  <br/> |예<sup>19</sup> <br/> |
 |고급 보안 관리  <br/> |아니요  <br/> |아니요  <br/> |
 |Customer Lockbox  <br/> |아니요  <br/> |아니요  <br/> |
 |Office 365의 고객 키<sup>12</sup> <br/> |아니요  <br/> |아니요  <br/> |
@@ -180,3 +180,4 @@ Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
 <br/><sup>16</sup> 이 계획은 비디오 포털, 음성 텍스트 기록, 딥 검색 및 얼굴 검색을 포함 하는 Microsoft Stream 요금제 2와 함께 제공 됩니다.
 <br/><sup>17</sup> Microsoft 365 관리 센터에 기본 제공 되는 간소화 된 Windows 10 장치 관리 및 Intune 앱 보호 정책
 <br/><sup>18</sup> 5 월 2019 일, 기존 적격 365 Sku 및 Microsoft 365는 Kaizala Pro를 사용 하 여 backfilled 됩니다. 2019 년 6 월 1 일부 Kaizala Pro는 모든 적격 Office 365 및 Microsoft 365 Sku에 포함 됩니다. 
+<br><sup>19</sup> Microsoft 365에는 Office 365 Advanced Threat Protection 계획 1이 제공 됩니다. 자세한 내용은 [Microsoft 365 Business security and 규정 준수 기능](https://docs.microsoft.com/microsoft-365/business/security-features)을 참조 하세요.

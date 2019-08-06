@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 테 넌 트 수준 서비스에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: 234bdc341647c0f62ad1d606e2938ef208996107
-ms.sourcegitcommit: 6d32bc9501b8cbfa71a1763103a6111898d2cda8
+ms.openlocfilehash: 3c77928869c3735a5bad14eafeac0a248455f5e0
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171678"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206868"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 테 넌 트 수준 서비스 라이선스 지침
 
@@ -338,6 +338,29 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준�
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
 관리자는 Office 365 보안 & 준수 센터에서 위치 (작업), 포함 된 사용자 및 제외 된 사용자를 사용자 지정할 수 있습니다. 예를 들어 모든 사용자에 게 Office 365 E3에 대 한 라이선스가 있고 아무도 Office 365 Advanced 규정 준수/E5에 대 한 사용이 허가 되지 않은 경우 조직에 대 한 정보 장벽 정책을 만들 필요가 없습니다. 자세한 내용은 [Microsoft 팀의 정보 장벽](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)를 참조 하세요.
+
+## <a name="office-365-message-encryption"></a>Office 365 메시지 암호화
+
+OME(Office 365 메시지 암호화)는 Azure RMS(권한 관리)를 기반으로 구축된 서비스로, 대상의 전자 메일 주소(Gmail, Yahoo! Mail, Outlook.com 등)에 상관없이 사용자 조직 내부 또는 외부 사람에게 암호화된 전자 메일을 보낼 수 있습니다.
+
+암호화된 메시지를 보려면 받는 사람이 일회용 암호를 얻어 Microsoft 계정에 로그인하거나 Office 365와 연결된 회사 또는 학교 계정을 사용하여 로그인할 수 있습니다. 받는 사람은 암호화된 회신을 보낼 수도 있습니다. 암호화 된 메시지를 보거나 암호화 된 회신을 보내기 위해 Office 365 구독이 필요 하지는 않습니다.
+
+### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
+
+Office 365 E3/A3/G3, Microsoft 365 E3/A3/G3 및 Azure Information Protection 계획 1의 라이선스가 있는 사용자는 Office 365 메시지 암호화를 활용할 수 있습니다.
+
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+
+메시지 보낸 사람이 Office 365 메시지 암호화에서 제공 하는 중요 한 전자 메일에 대 한 추가 된 제어 혜택을 받을 수 있습니다.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+
+관리자 **메일 흐름** > **규칙**아래의 Exchange 관리 센터에서 Office 365 메시지 암호화 정책을 만들고 관리 합니다. 기본적으로이 규칙은 테 넌 트의 모든 사용자에 게 적용 됩니다. 새 Office 365 메시지 암호화 기능을 설정 하는 방법에 대 한 자세한 내용은 [Set Up office 365 Message encryption capabilities](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)를 참조 하십시오.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+
+관리자는 라이선스가 있는 사용자 에게만 Office 365 메시지 암호화에 대 한 메일 흐름 규칙을 적용 해야 합니다. 메일 흐름 규칙을 정의 하는 방법에 대 한 자세한 내용은 [Office 365에서 전자 메일 메시지를 암호화 하는 메일 흐름 규칙 정의](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)를 참조 하십시오.
+
 
 ## <a name="office-365-advanced-message-encryption"></a>Office 365 고급 메시지 암호화
 

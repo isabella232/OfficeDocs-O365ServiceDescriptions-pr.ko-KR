@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: 1baf4b3f10378d5bb5c939694b25dec0916351b4
-ms.sourcegitcommit: fb79397a520e98f0a3571cc45d5e2332dedd39d9
+ms.openlocfilehash: 965b88a18dd8475381d963a63b542ab15702fd99
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "35940536"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206848"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -410,7 +410,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 - **대규모 메일 그룹에 메시지 보내기 제한**:이 제한으로 지정 된 구성원 수를 포함 하는 메일 그룹에는 배달 관리 또는 메시지 승인 옵션이 구성 되어 있어야 합니다. 배달 관리 메일 그룹에 메시지를 보낼 수 있는 보낸 사람 목록을 지정 합니다. 메시지 승인 메일 그룹으로 보낸 모든 메시지를 승인 해야 하는 중재자를 한 명 이상 지정 합니다.
 
-- **큰 메일 그룹에 대 한 최대 메시지 크기**: 5000 이상의 받는 사람에 게 메시지를 보낼 경우 메시지 크기가이 제한을 초과할 수 없습니다. 메시지 크기가 이 제한을 초과하면 메시지가 배달되지 않고 보낸 사람에게 NDR(배달 못 함 보고서)이 전송됩니다. 메일 그룹 확장 후 총 받는 사람 수가 결정됩니다.
+- **큰 메일 그룹에 대 한 최대 메시지 크기**: 5000 이상의 받는 사람에 게 메시지를 보낼 경우 메시지 크기가이 제한을 초과할 수 없습니다. 메시지 크기가 이 제한을 초과하면 메시지가 배달되지 않고 보낸 사람에게 NDR(배달 못 함 보고서)이 전송됩니다.
 
 ### <a name="distribution-group-limits-across-office-365-options"></a>Office 365 옵션별 메일 그룹 제한
 
