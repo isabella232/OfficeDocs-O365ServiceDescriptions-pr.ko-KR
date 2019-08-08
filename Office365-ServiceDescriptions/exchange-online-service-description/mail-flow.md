@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 'Microsoft는 Office 365를 사용하는 대다수 조직의 사서함을 호스트하고 메일 흐름을 관리합니다. 이것은 가장 단순한 구성으로, Office 365가 모든 사서함을 관리하고 필터링한다는 것을 의미합니다. 그러나 일부 조직에는 특정 규정 또는 비즈니스적 필요성을 따르는지 확인하기 위하여 좀 더 복잡한 메일 흐름 설정이 필요합니다. 이러한 옵션은 여기에서 확인할 수 있습니다. '
-ms.openlocfilehash: d21a5742ccbd032abbad822d4a686174ce5b8baf
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: a50c85fff3ba023706932f227db1df3915923545
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776789"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231416"
 ---
 # <a name="mail-flow"></a>Mail Flow
 
@@ -29,16 +29,16 @@ Microsoft는 Office 365를 사용하는 대다수 조직의 사서함을 호스�
 
 Microsoft Exchange Online은 온-프레미스 서버 또는 호스트 서비스("스마트 호스팅"이라고도 함)를 통해 조직에서 메일 흐름을 라우팅할 수 있습니다. 이를 통해 조직은 DLP(데이터 손실 방지) 어플라이언스를 사용하여 보내는 전자 메일에 대한 사용자 지정 사후 처리를 수행하고 사설 네트워크를 통해 비즈니스 파트너에게 전자 메일을 배달합니다. Exchange Online은 또한 주소 다시 쓰기를 지원합니다. 이 기능은 보내는 전자 메일을 주소가 수정되는 온-프레미스 게이트웨이를 통해 라우팅합니다. 이 기능을 사용하면 하위 도메인을 숨겨 다중 도메인 조직의 전자 메일을 단일 도메인으로 나타나게 하거나, 파트너 릴레이 전자 메일을 조직 내부에서 보내진 것처럼 표시할 수 있습니다. 관리자는 EAC(Exchange 관리 센터) 내에서 사용자 지정 전자 메일 라우팅을 구성합니다.
   
-자세한 내용은 [Set up connectors to route mail between Office 365 and your own email servers](http://technet.microsoft.com/library/2e93fd60-a5ef-4e64-8e62-2b862b2d1033.aspx)을 참조하세요.
+자세한 내용은 [Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)을 참조하세요.
   
 > [!IMPORTANT]
-> Exchange Online은 메일 흐름을 조직 내외부로 전달할 수 있습니다. 
+> Exchange Online은 메일 흐름을 조직 내외부로 전달할 수 있습니다. 받는 사람 도메인이 Exchange online에서 호스트 되는 경우 DNS MX 레코드를 사용 하 여 받는 사람에 대 한 메일 흐름은 인터넷을 통해 전송 되지 않습니다.
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>신뢰할 수 있는 파트너와의 보안 메시징
 
-Exchange Online 고객은 Office 365 커넥터를 사용하여 신뢰할 수 있는 파트너와 보안 메일 흐름을 설정할 수 있습니다. Office 365는 TLS(전송 계층 보안)을 통한 보안 통신을 지원합니다. TLS를 통해 암호화를 적용하기 위해 커넥터를 만들 수 있습니다.[TLS](https://technet.microsoft.com/en-us/library/mt163898.aspx)는 인터넷을 통한 통신에 보안을 제공하는 암호화 프로토콜입니다. 커넥터를 사용하면 자체 서명된 인증서 또는 CA(인증 기관) 확인 인증서를 통해 강제로 받거나 보내는 TLS를 모두 구성할 수 있습니다. 도메인 이름 또는 파트너 조직에서 메일을 보내는 IP 주소 범위를 지정하는 것과 같은 기타 보안 제한을 적용할 수도 있습니다. 
+Exchange Online 고객은 Office 365 커넥터를 사용하여 신뢰할 수 있는 파트너와 보안 메일 흐름을 설정할 수 있습니다. Office 365는 TLS(전송 계층 보안)을 통한 보안 통신을 지원합니다. TLS를 통해 암호화를 적용하기 위해 커넥터를 만들 수 있습니다.[TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections)는 인터넷을 통한 통신에 보안을 제공하는 암호화 프로토콜입니다. 커넥터를 사용하면 자체 서명된 인증서 또는 CA(인증 기관) 확인 인증서를 통해 강제로 받거나 보내는 TLS를 모두 구성할 수 있습니다. 도메인 이름 또는 파트너 조직에서 메일을 보내는 IP 주소 범위를 지정하는 것과 같은 기타 보안 제한을 적용할 수도 있습니다. 
   
-자세한 내용은 [Set up connectors for secure mail flow with a partner organization](http://technet.microsoft.com/library/1ce4d6a4-41ba-4d1e-9ca9-e826252c1041.aspx)을 참조하세요.
+자세한 내용은 [Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner)을 참조하세요.
   
 > [!IMPORTANT]
 > CA 확인 인증서가 필요할 수 있습니다. 
@@ -47,13 +47,13 @@ Exchange Online 고객은 Office 365 커넥터를 사용하여 신뢰할 수 있
 
 커넥터와 전송 규칙을 사용하여 메일을 특정 사이트에 전송할 수 있습니다. 기준 기반 라우팅을 사용하면 특정 조건에 따라 커넥터를 선택할 수 있습니다.
   
-자세한 내용은 [Scenario: Conditional mail routing](http://technet.microsoft.com/library/82d105e2-e955-4e03-99c3-3314a5d21a4c.aspx)을 참조하세요.
+자세한 내용은 [Scenario: Conditional mail routing](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing)을 참조하세요.
   
 ## <a name="incoming-mail-safe-list"></a>받는 메일 수신 허용 목록
 
 신뢰할 수 있는 파트너의 IP 주소를 수신 허용 목록에 추가하여 해당 파트너가 보내는 메시지에 스팸 방지 필터링이 적용되지 않도록 할 수 있습니다. 이렇게 하려면 연결 필터의 IP 허용 목록을 사용하면 됩니다.
   
-자세한 내용은 [Configure the connection filter policy](http://technet.microsoft.com/library/6ae78c12-7bbe-44fa-ab13-c3768387d0e3.aspx)을 참조하세요.
+자세한 내용은 [Configure the connection filter policy](https://docs.microsoft.com/office365/SecurityCompliance/configure-the-connection-filter-policy)을 참조하세요.
   
 ## <a name="hybrid-email-routing"></a>하이브리드 전자 메일 라우팅
 
@@ -98,4 +98,3 @@ Exchange Online 고객은 Office 365 커넥터를 사용하여 신뢰할 수 있
 
 Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션별로 기능 가용성을 확인하려면 [Exchange Online 서비스 설명](exchange-online-service-description.md)을 참조하세요.
   
-

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: b5d6d66780dd77456f5952e353f7030bdd288262
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 7a916f8a94631bec4e798ac871ca9bf8422e2d52
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776439"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231426"
 ---
 # <a name="message-policy-and-compliance"></a>메시지 정책 및 규정 준수
 
@@ -84,24 +84,21 @@ BitLocker 외에도, DKM (Distributed Key Manager) 이라는 기술을 사용 �
   
 ## <a name="customer-key"></a>고객 키
 
-고객 키를 사용 하 여 조직의 암호화 키를 제어 하 고 Microsoft 데이터 센터의 휴지 상태에서 데이터를 암호화 하는 데 사용 하도록 Office 365를 구성 합니다. 미사용 데이터에는 SharePoint Online 및 비즈니스용 OneDrive에 저장되어 있는 사서함과 파일에 저장된 Exchange Online 및 비즈니스용 Skype의 데이터를 포함합니다. 자세한 내용은 고객 키 및 서비스 암호화를 [사용 하 여 office 365에서 데이터 제어](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697) [office 365 FAQ](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq?redirectSourcePath=%252fen-us%252farticle%252fservice-encryption-with-customer-key-for-office-365-faq-41ae293a-bd5c-4083-acd8-e1a2b4329da6)를 참조 하세요.
+고객 키를 사용 하 여 조직의 암호화 키를 제어 하 고 Microsoft 데이터 센터의 휴지 상태에서 데이터를 암호화 하는 데 사용 하도록 Office 365를 구성 합니다. 미사용 데이터에는 SharePoint Online 및 비즈니스용 OneDrive에 저장되어 있는 사서함과 파일에 저장된 Exchange Online 및 비즈니스용 Skype의 데이터를 포함합니다. 자세한 내용은 고객 키 및 서비스 암호화를 [사용 하 여 office 365에서 데이터 제어](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) [office 365 FAQ](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq)를 참조 하세요.
   
 ## <a name="office-365-message-encryption"></a>Office 365 메시지 암호화
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 Office 365 메시지 암호화를 사용 하면 전자 메일 사용자가 암호화 된 전자 메일 메시지를 누구 든 지 보낼 수 있습니다. Azure Information Encryption의 보호 기능을 활용 하는 Office 메시지 암호화의 새로운 기능을 발표 했습니다. 이러한 새로운 기능을 통해 조직 내부 또는 외부의 모든 사용자와 보호 된 메시지를 보다 쉽게 공유 하 고 공동으로 작업할 수 있도록 하는 향상 된 최종 사용자 환경이 제공 됩니다. 새 Office 메시지 암호화 기능에는 몇 가지 설치 요구 사항이 있습니다. Azure Information Protection 기반으로 구축 된 새 Office 365 메시지 암호화 기능을 참조 하세요. 고객이 레거시 Office 365 메시지 암호화를 사용 하는 경우에는 위에 나와 있는 설정 지침을 따르지 않으면 새로운 기능을 얻을 수 없습니다. 신규 및 레거시 Office 365 메시지 암호화 기능에 포함 된 항목에 대 한 자세한 내용은 [FAQ](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) 를 참조 하세요. 
 
 Office 365 고급 메시지 암호화는 메시지 만료 및 해지를 허용 하 여 추가 보호 기능을 제공 합니다.  조직에서 보내는 암호화 된 전자 메일용으로 여러 템플릿을 만들 수도 있습니다.  고급 메시지 암호화는 Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (비영리 스태프 가격), Office 365 Enterprise E5 (비영리 스태프 가격) 또는 Office 365 교육용 A5에 포함 되어 있습니다. 조직에서 Office 365 고급 메시지 암호화를 포함 하지 않는 Office 365 구독을 사용 하는 경우에는 Microsoft 365 E5 규정 준수 또는 Office 365 Advanced 준수 SKU를 추가 기능으로 구입할 수 있습니다.
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>S/MIME(Secure/Multipurpose Internet Mail Extensions)
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 S/MIME을 사용하면 조직 내에서 서명 및 암호화된 전자 메일을 보내 중요한 정보를 보호할 수 있습니다. 관리자는 PKI 인증서를 설정하고 사용자에게 발급한 후 원격 Windows PowerShell을 사용하여 S/MIME을 설정할 수 있습니다. 이러한 인증서는 온-프레미스 Active Directory 인증서 서비스에서 동기화해야 합니다. S/MIME을 사용하면 조직 내에서 서명 및 암호화된 전자 메일을 보내 중요한 정보를 보호할 수 있습니다. 관리자는 PKI 인증서를 설정하고 사용자에게 발급한 후 원격 Windows PowerShell을 사용하여 S/MIME을 설정할 수 있습니다.
   
-S/MIME는 Internet Explorer 9 이상에서 지원되며 Firefox, Opera 및 Chrome에서는 지원되지 않습니다. 자세한 내용은 메시지 서명 및 암호화용 S/MIME를 참조하세요. S/MIME는 Internet Explorer 9 이상에서 지원되며 Firefox, Opera 및 Chrome에서는 지원되지 않습니다. 자세한 내용은 [메시지 서명 및 암호화용 S/MIME](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019)를 참조하세요.
+S/MIME은 Microsoft Edge 및 Internet Explorer 11에서 지원 됩니다. 현재 Firefox, Opera 및 Chrome에서는 S/MIME이 지원 되지 않습니다. 자세한 내용은 [S/MIME for Message Signing and Encryption](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019)을 참조하십시오.
   
 ## <a name="in-place-hold-and-litigation-hold"></a>원본 위치 유지 및 소송 보존
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 소송 가능성이 존재하는 경우 조직은 해당 사례와 관련된 전자 메일을 비롯한 ESI(전자적으로 저장된 정보)를 보존해야 합니다. 이러한 가능성은 사례의 세부 사항이 알려지기 전에 발생할 수 있으며 많은 경우 보존 범위가 넓습니다. 조직에서는 특정 항목과 관련된 모든 전자 메일 또는 특정 개인의 모든 전자 메일을 보존할 수 있습니다.
   
@@ -131,7 +128,6 @@ Exchange Online에서는 원본 위치 유지 또는 소송 보존 기능을 사
 자세한 내용은 [원본 위치 유지 및 소송 보존](https://docs.microsoft.com/exchange/security-and-compliance/in-place-and-litigation-holds)을 참조하세요.
   
 ## <a name="in-place-ediscovery"></a>원본 위치 eDiscovery
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 Exchange Online의 고객은 웹 기반 인터페이스를 사용하여 조직 전체의 사서함에서 내용을 검색할 수 있습니다. 할당을 통한 원본 위치 eDiscovery 검색을 수행할 권한이 있는 관리자나 규정 준수 및 보안 담당자는 전자 메일 메시지, 첨부 파일, 일정 약속, 작업, 연락처 및 기타 항목을 검색할 수 있습니다. 원본 위치 eDiscovery은 기본 사서함 및 보관함을 동시에 검색할 수 있습니다. KQL 구문과 함께, 다양한 필터링 기능에는 보낸 사람, 받는 사람, 메시지 유형, 보낸 날짜/받은 날짜, 참조/숨은 참조가 있습니다. 검색 쿼리와 일치할 경우 지운 편지함 폴더의 항목도 검색 결과에 포함됩니다.
   
@@ -156,7 +152,6 @@ Exchange Online에서 권한 있는 사용자는 원본 위치 eDiscovery를 수
 자세한 내용은 [원본 위치 eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery)를 참조하십시오.
   
 ## <a name="mail-flow-rules"></a>메일 흐름 규칙
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 메일 흐름 규칙을 사용 하 여 조직을 통과 하는 메시지에 대 한 특정 조건을 찾아보고 작업을 수행할 수 있습니다. 메일 흐름 규칙을 사용 하면 전자 메일 메시지, 보안 메시지, 메시징 시스템 보호 및 정보 누출 방지에 메시징 정책을 적용할 수 있습니다.
   
@@ -173,12 +168,11 @@ Exchange Online에서 권한 있는 사용자는 원본 위치 eDiscovery를 수
 - 조직을 통해 전달되는 메시지에 부인 적용
     
 > [!IMPORTANT]
-> 전자 메일 서버에 타사 Ifilter를 설치 해야 하는 첨부 파일 형식 (예: Adobe .pdf)은 적절 한 iFilter가 설치 될 때까지 메일 흐름 규칙을 사용 하 여 검사할 수 없습니다. 메일 흐름 규칙에서 지원 되는 파일 형식에 대 한 자세한 내용은 [메일 흐름 규칙을 사용 하 여 Office 365에서 메시지 첨부 파일 검사를](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments)참조 하십시오. 
+> 전자 메일 서버에 타사 Ifilter를 설치 해야 하는 첨부 파일 형식 (예: Adobe .pdf)은 적절 한 iFilter가 설치 될 때까지 메일 흐름 규칙을 사용 하 여 검사할 수 없습니다. 메일 흐름 규칙에서 지원 되는 파일 형식에 대 한 자세한 내용은 [메일 흐름 규칙을 사용 하 여 Office 365에서 메시지 첨부 파일 검사를](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments)참조 하십시오.
   
 메일 흐름 규칙에 대 한 자세한 내용은 [Exchange 2016의 메일 흐름 규칙](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019)을 참조 하십시오.
   
 ## <a name="data-loss-prevention"></a>데이터 손실 방지
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 DLP(데이터 손실 방지) 기능은 심도 있는 콘텐츠 분석을 통해 조직의 중요한 정보를 식별하고, 모니터링하고, 보호하는 데 도움을 줍니다. DLP는 업무상 중요한 전자 메일에는 보호해야 할 기밀 데이터가 포함되어 있으므로 엔터프라이즈 메시지 시스템에 점점 더 중요한 프리미엄 기능입니다. Exchange Online의 DLP 기능을 사용하면 직원의 생산성에 영향을 주지 않고 중요한 데이터를 보호할 수 있습니다.
   
@@ -203,7 +197,6 @@ EAC(Exchange 관리 센터) 관리 인터페이스에서 DLP 정책을 구성하
 DLP에 대한 자세한 내용은 [데이터 손실 방지](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)를 참조하세요.
   
 ## <a name="journaling"></a>저널링
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 SMTP를 통해 메시지를 수신할 수 있는 외부 사서함으로 전자 메일의 사본을 저널링하도록 Exchange Online을 구성할 수 있습니다. 저널링은 조직이 인바운드 및 아웃바운드 전자 메일 통신을 기록하여 법적, 규정 및 조직의 준수 요구 사항에 대응하는 데 도움이 됩니다. 메시징 보존 및 준수에 대한 계획을 세울 때는 저널링 및 저널링이 조직의 준수 정책과 잘 맞는지 이해하는 것이 중요합니다.
   
@@ -224,7 +217,6 @@ Exchange 관리 센터 또는 원격 Windows PowerShell을 사용하여 저널 �
 저널링에 대한 자세한 내용은 [저널링](https://docs.microsoft.com/exchange/security-and-compliance/journaling/journaling)을 참조하세요.
   
 ## <a name="feature-availability"></a>기능 가용성
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션별로 기능 가용성을 확인하려면 [Exchange Online 서비스 설명](exchange-online-service-description.md)을 참조하세요.
   

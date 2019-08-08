@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 현재 Exchange Online Protection에 대 한 제한은 다음과 같습니다. 이러한 제한은 다른 설명이 없는 한 구성할 수 없습니다.
-ms.openlocfilehash: 02a83ca4a6729edd301827cef1bc7ce04a331398
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: fd5dbbe0f52eb7789b2e730faf76e89803033ad6
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051609"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231396"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 제한
 
@@ -36,7 +36,7 @@ ms.locfileid: "36051609"
     
 - **IP 허용 목록 또는 IP 차단 목록 제한** 연결 필터에서 IP 허용 목록이나 IP 차단 목록을 구성할 때 항목을 1,273개까지 지정할 수 있습니다. 단, 한 항목은 단일 IP 주소이거나 CIDR 범위의 IP 주소(/24~/32)입니다. 
     
-- **지연 메시지 제한** 지연 메시지는 대기열에 2일 동안 유지됩니다. 메시지 다시 시도는 받는 사람의 메일 시스템에서 수신된 오류 유형을 기반으로 합니다. 메시지는 15분마다 다시 시도됩니다. 
+- **메시지 지연 제한** 지연 상태의 메시지는 24 시간 동안 큐에 남아 있습니다. 메시지 다시 시도는 받는 사람의 메일 시스템에서 수신된 오류 유형을 기반으로 합니다. 메시지는 15분마다 다시 시도됩니다. 
     
 - **스팸 격리 보존 기간** 기본적으로 격리로 전송 된 스팸 메시지는 30 일 동안 보존 됩니다. 관리자는 콘텐츠 필터 정책을 통해 이 값을 낮출 수 있습니다. 
     
