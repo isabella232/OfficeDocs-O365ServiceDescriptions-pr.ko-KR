@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 테 넌 트 수준 서비스에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: 3c77928869c3735a5bad14eafeac0a248455f5e0
-ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
+ms.openlocfilehash: 04cfb96198c8b4fe493c37a1446155d798d7dc6d
+ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36206868"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36258866"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 테 넌 트 수준 서비스 라이선스 지침
 
@@ -63,7 +63,7 @@ SecOp 분석가 및 보안 전문가는 Azure ATP가 고급 위협, 손상 된 i
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
-Microsoft는 라이선스가 없는 사용자에 게 위협 검색 기능을 제공 하기 위해 커밋하지 않습니다. 시간이 지남에 따라 라이선스 검사 또는 대상 도구를 Azure ATP에 추가 하 여 Azure ATP 기능을 라이선스가 있는 사용자 에게만 적용할 수 있도록 합니다.
+Microsoft는 라이선스가 있는 사용자에 대 한 고객 Lockbox 액세스 제어 승인 요청을 제공 합니다.
 
 ## <a name="azure-information-protection"></a>Azure 정보 보호
 
@@ -150,7 +150,7 @@ Azure AD P1의 라이선스가 있는 사용자는 MCAS의 검색 기능을 활�
 
 MCAS에서 [조건부 Access 앱 제어](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) 기능을 활용 하려면 사용자에 게 Enterprise Mobility + security E3/A3/G3, enterprise Mobility + security E5/A5/G5, Microsoft 365 E3/에 포함 된 Azure Active Directory P1에 대 한 라이선스가 있어야 합니다. A3/G3, Microsoft 365 E5/A5/G5 및 Microsoft 365 E5/A5/G5 보안
 
-[자동 레이블](https://docs.microsoft.com/cloud-app-security/data-protection-policies)기능의 혜택을 얻으려면 사용자에 게 Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 및 Microsoft 365 E5/A5/G5 준수에 포함 된 Azure Information Protection P2에 대 한 라이선스가 있어야 합니다.
+[자동 레이블](https://docs.microsoft.com/cloud-app-security/data-protection-policies)기능의 혜택을 얻으려면 사용자에 게 Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 및 Microsoft 365 E5/A5/G5 준수에 포함 된 Azure Information Protection P1에 대 한 라이선스가 있어야 합니다.
 
 자세한 내용은 [Microsoft Cloud App Security License Datasheet](http://www.aka.ms/mcaslicensing)를 참조 하세요.
 
@@ -226,9 +226,9 @@ Office 365 고객 키 암호화 키를 Exchange Online 및 비즈니스용 Skype
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
-사용이 허가 된 사용자에 대해 Office 365 및/또는 Microsoft 365 테 넌 트 내의 데이터에 암호화 키를 할당 하려면 고객 키 암호화 키 배포 정책을 따릅니다.
+사용이 허가 된 사용자에 대해 Office 365 및/또는 Microsoft 365 테 넌 트 내의 데이터에 암호화 키를 할당 하려면 고객 키 암호화 키 배포 지침을 따릅니다.
 
-  - SharePoint Online의 경우 하나 이상의 사이트에 있는 파일을 여기에 설명 된 대로 고객 키를 사용 하 여 암호화할 수 있습니다. [Sharepoint online 및 비즈니스용 OneDrive에 대 한 고객 키 설정](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-sharepoint-online-and-onedrive-for-business)
+  - SharePoint Online 및 비즈니스용 OneDrive의 경우, 하나 이상의 사이트에 있는 파일을 여기에 설명 된 대로 고객 키를 사용 하 여 암호화할 수 있습니다. [SharePoint online 및 비즈니스용 onedrive에 대 한 고객 키 설정](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-sharepoint-online-and-onedrive-for-business)
 
   - Exchange Online 및 비즈니스용 Skype Online의 경우 여기에 설명 된 대로 고객 키를 사용 하 여 사서함을 암호화할 수 있습니다. [Exchange online 및 비즈니스용 skype에 대 한 고객 키 설정](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-exchange-online-and-skype-for-business)
 

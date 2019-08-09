@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 보안 &amp; 및 준수 센터는 조직에 대 한 office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 7728de2cba553b278e980a26dfe6658800077713
-ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
+ms.openlocfilehash: 8638c3049449f6b718fca8141fedea225da6d5c1
+ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35854916"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36258896"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -35,7 +35,7 @@ ms.locfileid: "35854916"
 |피싱 캠페인<sup>6</sup> 용 위협 탐색기와 같은 [Advanced threat management](https://docs.microsoft.com/office365/securitycompliance/office-365-ti) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |[고객 Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |[모바일 장치 관리](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Exchange online, SharePoint online 및 비즈니스용 OneDrive에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <sup>7</sup><br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|[Exchange online, SharePoint online 및 비즈니스용 OneDrive에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <sup>7, 9</sup><br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |[Microsoft 팀 채팅 및 채널 메시지에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/>|
 |[정보 장벽](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/>|
 |[데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <sup>1</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -59,7 +59,8 @@ ms.locfileid: "35854916"
 <sup>6</sup> Advanced Threat Protection은 Office 365 enterprise e 3에서 Office 365 enterprise E1 및 Office 365 enterprise e 3의 독립 실행형 서비스로 사용할 수 있습니다.<br> 
 <sup>7</sup> Microsoft 팀 리포지토리에 저장 된 파일을 포함 합니다.<br/>
 <sup>8</sup> [Office 365 관리 활동 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 를 사용 하 여 통합 된 감사 로그에서 이벤트를 검색할 수도 있습니다. <br/>
-   
+<sup>9</sup> Exchange 또는 SharePoint/OneDrive가 있는 SKU에 추가할 수 있는 DLP 추가 기능을 사용할 수 있습니다.<br/>
+
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>독립 &amp; 실행형 계획에 대 한 보안 준수 센터 가용성
 
 |||||||||
@@ -71,7 +72,7 @@ ms.locfileid: "35854916"
 |피싱 캠페인에 대 한 위협 탐색기와 같은 [Advanced threat management](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[고객 Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[모바일 장치 관리](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예 <sup>7<sup> <br/> |아니요  <br/> |있음  <br/> |
+|[Exchange online, SharePoint online 및 비즈니스용 OneDrive에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <sup>9</sup> <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예 <sup>7<sup> <br/> |아니요  <br/> |있음  <br/> |
 |[Microsoft 팀 채팅 및 채널 메시지에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[정보 장벽](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/retention-policies) <sup>1</sup> <br/> |예<sup>2</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -95,6 +96,7 @@ ms.locfileid: "35854916"
 <sup>6</sup> Skype 보관이 사용자의 사서함 내에 있습니다.<br/> 
 <sup>7</sup> Microsoft 팀 리포지토리에 저장 된 파일을 포함 합니다.<br/>
 <sup>8</sup> [Office 365 관리 활동 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 를 사용 하 여 통합 된 감사 로그에서 이벤트를 검색할 수도 있습니다. <br/>
+<sup>9</sup> Exchange 또는 SharePoint/OneDrive가 있는 SKU에 추가할 수 있는 DLP 추가 기능을 사용할 수 있습니다.<br/>
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>21Vianet &amp; 에서 운영 하는 Office 365의 보안 및 준수 센터 가용성
 
