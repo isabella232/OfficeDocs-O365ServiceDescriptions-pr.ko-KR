@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 각 구독 계획에 대해 제공되는 OneDrive 저장 공간에 알아봅니다.
-ms.openlocfilehash: 9dfb0911bfeba72960a09a4eb49d194c7b77d644
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: e8fd3ae3e60856f0de99382ea2cecf37c6cd0517
+ms.sourcegitcommit: 26895f0f8f9aa7192335c6028361155beaec03a1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131252"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "36286015"
 ---
 # <a name="onedrive-for-business-service-description"></a>비즈니스용 OneDrive 서비스 설명
 
@@ -38,7 +38,7 @@ OneDrive 동기화 클라이언트 및 모바일 앱에 대한 요구 사항을 
   
 ## <a name="about-sync"></a>동기화 정보
 
-최신 동기화 클라이언트를 설치하려면 [OneDrive 다운로드 페이지](https://onedrive.live.com/about/download/)로 이동합니다. 
+IT 부서에서 분명하게 사용하지 않도록 설정한 경우가 아니라면, OneDrive가 포함된 플랜을 소유한 모든 사용자는 OneDrive 동기화 클라이언트를 사용할 수 있습니다. 최신 동기화 클라이언트를 설치하려면 [OneDrive 다운로드 페이지](https://onedrive.live.com/about/download/)로 이동합니다. 동기화 클라이언트에 대한 자세한 내용은 [Windows에서 OneDrive 동기화 클라이언트를 사용하여 파일 동기화](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)를 참조하세요.
   
 ## <a name="storage-space-per-user"></a>사용자당 저장소 공간
 
