@@ -3,14 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>01 년 7 월 1 일 주 2019
-
-
-| 게시된 날짜 |항목 제목 | 변경 사항 |
-|------|------------|--------|
-| 7/1/2019 | [Microsoft 365 테 넌 트 수준 서비스 라이선스 지침](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 수정한 날짜 |
-
-
 ## <a name="week-of-july-08-2019"></a>7 월 8 일 주 2019
 
 
@@ -152,3 +144,24 @@
 | 8/1/2019 | [21Vianet에서 운영하는 Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 수정한 날짜 |
 | 8/2/2019 | [Microsoft 365 테 넌 트 수준 서비스 라이선스 지침](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 수정한 날짜 |
 | 8/2/2019 | [Office 365 Advanced Threat Protection 서비스 설명](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 수정한 날짜 |
+
+
+## <a name="week-of-august-05-2019"></a>8 월 05 일 주 2019
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 8/5/2019 | [Exchange Online 제한](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 수정한 날짜 |
+| 8/5/2019 | [Microsoft 365 Business 서비스 설명](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) | 수정한 날짜 |
+| 8/5/2019 | [Microsoft 365 테 넌 트 수준 서비스 라이선스 지침](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 수정한 날짜 |
+| 8/5/2019 | [Office 365 플랫폼 서비스 설명](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 수정한 날짜 |
+| 8/7/2019 | [Exchange Online Archiving 서비스 설명](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) | 수정한 날짜 |
+| 8/7/2019 | [Exchange Online Protection 제한](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-limits) | 수정한 날짜 |
+| 8/7/2019 | [메일 흐름](/Office365/ServiceDescriptions/exchange-online-service-description/mail-flow) | 수정한 날짜 |
+| 8/7/2019 | [메시지 정책 및 규정 준수](/Office365/ServiceDescriptions/exchange-online-service-description/message-policy-and-compliance) | 수정한 날짜 |
+| 8/7/2019 | [Office 365 US Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | 수정한 날짜 |
+| 8/8/2019 | [Microsoft 365 테 넌 트 수준 서비스 라이선스 지침](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 수정한 날짜 |
+| 8/8/2019 | [Office 365 플랫폼 서비스 설명](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 수정한 날짜 |
+| 8/8/2019 | [Office 365 보안 및 준수 센터](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 수정한 날짜 |
+| 8/9/2019 | [Office 365 플랫폼 서비스 설명](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 수정한 날짜 |
+| 8/9/2019 | [비즈니스용 OneDrive 서비스 설명](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | 수정한 날짜 |
