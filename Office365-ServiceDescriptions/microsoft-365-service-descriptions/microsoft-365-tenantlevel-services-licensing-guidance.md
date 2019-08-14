@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 테 넌 트 수준 서비스에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: 04cfb96198c8b4fe493c37a1446155d798d7dc6d
-ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
+ms.openlocfilehash: deda343d59ce71cc21e8972222faead6761309af
+ms.sourcegitcommit: c1f8003315bc39347d1f3114c8bd204a65e1892c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36258866"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36384872"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 테 넌 트 수준 서비스 라이선스 지침
 
@@ -63,7 +63,7 @@ SecOp 분석가 및 보안 전문가는 Azure ATP가 고급 위협, 손상 된 i
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
-Microsoft는 라이선스가 있는 사용자에 대 한 고객 Lockbox 액세스 제어 승인 요청을 제공 합니다.
+Microsoft는 라이선스가 있는 사용자에 게 위협 검색 기능을 제공 합니다.
 
 ## <a name="azure-information-protection"></a>Azure 정보 보호
 
@@ -250,7 +250,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
-라이선스가 없는 사용자에 대해 고객 Lockbox 액세스 제어 승인 요청을 제공 하기 위해 Microsoft는 커밋하지 않습니다. 시간에 따라 라이선스 확인 또는 대상 지정 된 도구는 고객 Lockbox에 추가 되어 고객 Lockbox가 라이선스 사용자에 게 할당할 수 있도록 합니다.
+Microsoft는 Office 365 조직의 사용자에 대 한 고객 Lockbox 액세스 제어 승인 요청을 제공 합니다.
 
 ## <a name="privileged-access-management-in-office-365"></a>Office 365의 권한이 부여 된 액세스 관리
 
