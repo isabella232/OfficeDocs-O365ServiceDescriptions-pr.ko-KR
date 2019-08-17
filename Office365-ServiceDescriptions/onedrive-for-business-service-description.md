@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 각 구독 계획에 대해 제공되는 OneDrive 저장 공간에 알아봅니다.
-ms.openlocfilehash: e8fd3ae3e60856f0de99382ea2cecf37c6cd0517
-ms.sourcegitcommit: 26895f0f8f9aa7192335c6028361155beaec03a1
+ms.openlocfilehash: 180afa60864ebce2d911f5532c407482876bafbb
+ms.sourcegitcommit: 04f69dc7faa48ab048524ffcc4455ea584cae30b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/10/2019
-ms.locfileid: "36286015"
+ms.lasthandoff: 08/15/2019
+ms.locfileid: "36407722"
 ---
 # <a name="onedrive-for-business-service-description"></a>비즈니스용 OneDrive 서비스 설명
 
@@ -59,15 +59,12 @@ IT 부서에서 분명하게 사용하지 않도록 설정한 경우가 아니�
 - Office 365 Nonprofit E1
 - 비즈니스용 OneDrive 요금제 1
 - SharePoint Online 요금제 1
+- Microsoft 365 Business
 
 **1TB 이상, 무제한**
  
-사용자당 1TB - 5명 미만 사용자가 포함된 구독의 경우. 5명 이상의 사용자가 포함된 구독의 경우, Microsoft에서 처음에 사용자당 1TB를 제공하고, 관리자가 사용자당 최대 5TM까지 늘릴 수 있습니다. ([자세한 방법](/onedrive/set-default-storage-space)) 추가 저장소를 요청하려면 관리자가 Microsoft 지원에 문의해야 합니다. 
+사용자 수가 5명 미만인 구독의 경우 사용자당 1TB입니다. 사용자 수가 5명 이상인 구독의 경우 (인증된 요금제의 조합일 수 있음) Microsoft에서 처음에 사용자당 1TB를 제공하고 관리자는 사용자당 최대 5TB까지 늘릴 수 있습니다. (방법에 대한 자세한 내용은 [OneDrive 사용자에 대한 기본 저장소 공간 설정](/onedrive/set-default-storage-space)을 참조하세요.) 추가 저장소를 요청하려면 관리자가 Microsoft 지원에 문의해야 합니다.
 
-- Office 365 Enterprise E3
-- Office 365 Enterprise E5
-- 비즈니스용 OneDrive 요금제 2
-- SharePoint Online 요금제 2
 - Office 365 Enterprise E3
 - Office 365 Enterprise E5
 - Office 365 A1
@@ -75,8 +72,10 @@ IT 부서에서 분명하게 사용하지 않도록 설정한 경우가 아니�
 - Office 365 A5
 - Office 365 US Government G3
 - Office 365 US Government G5
-- Office 365 Nonprofit E3 
-- Office 365 Nonprofit E5 
+- Office 365 Nonprofit E3
+- Office 365 Nonprofit E5
+- 비즈니스용 OneDrive 요금제 2
+- SharePoint Online 요금제 2
 - Microsoft 365 Enterprise E3
 - Microsoft 365 Enterprise E5
 - Microsoft 365 A3
@@ -86,7 +85,6 @@ IT 부서에서 분명하게 사용하지 않도록 설정한 경우가 아니�
 - Microsoft 365 E3 for Nonprofit
 - Microsoft 365 E5 for Nonprofit
 
-  
 > [!NOTE]
 > 기본 OneDrive 저장소 공간을 늘리려면 먼저 사용자에게 하나 이상의 라이선스를 할당해야 합니다. 
   
