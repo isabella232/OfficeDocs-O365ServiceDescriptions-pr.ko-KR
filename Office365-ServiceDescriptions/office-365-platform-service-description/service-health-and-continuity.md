@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 관리자는 서비스 상태를 보고 유지 관리 예정 시간을 확인할 수 있습니다. 서비스 상태 정보는 언제 든 지 Office 365에 로그인 하 여 사용할 수 있습니다.
-ms.openlocfilehash: 0438efacfddec1dd00b0cd7c5dfb821dc17c3c37
-ms.sourcegitcommit: ddc6aeec746e2f71cd06242a9e3866326810c34b
+ms.openlocfilehash: 9cb4438eb0879c0e873aebc16c625c991c20c196
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36298038"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450282"
 ---
 # <a name="service-health-and-continuity"></a>서비스 상태 및 연속성
 
@@ -79,7 +79,7 @@ Office 365의 서비스 상태 섹션에는 서비스의 현재 상태와 서비
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2용 Office 365 관리 팩
 
-Microsoft System Center는 데이터 센터, 클라이언트 장치 및 하이브리드 클라우드 IT 환경을 관리하는 데 도움이 되는 통합 관리 플랫폼입니다. System Center를 사용 하는 office 365 관리자는 이제 Office 365 관리 팩을 가져올 수 있으며,이를 통해 System Center에서 Operations Manager 내의 모든 서비스 통신을 보기 이 도구를 사용하면 구독 서비스, 활성 및 해결된 서비스 인시던트, 메시지 센터 통신의 상태에 액세스할 수 있습니다. 자세한 내용을 보려면 [새 Office 365 관리 도구](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/) 블로그 게시물을 참조하세요. 
+Microsoft System Center는 데이터 센터, 클라이언트 장치 및 하이브리드 클라우드 IT 환경을 관리하는 데 도움이 되는 통합 관리 플랫폼입니다. System Center를 사용 하는 office 365 관리자는 이제 Office 365 관리 팩을 가져올 수 있으며,이를 통해 System Center에서 Operations Manager 내의 모든 서비스 통신을 보기 이 도구를 사용하면 구독 서비스, 활성 및 해결된 서비스 인시던트, 메시지 센터 통신의 상태에 액세스할 수 있습니다. 자세한 내용을 보려면 [새 Office 365 관리 도구](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/) 블로그 게시물을 참조하세요. 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 서비스 통신 API
 
@@ -91,7 +91,7 @@ Office 365 서비스 통신 API를 사용하면 원하는 방식으로 Office 36
     
 - 계획된 유지 관리 알림
     
-자세한 내용을 보려면 [새 Office 365 관리 도구](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/) 블로그 게시물을 참조하세요. 
+자세한 내용을 보려면 [새 Office 365 관리 도구](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/) 블로그 게시물을 참조하세요. 
   
 ## <a name="post-incident-reviews"></a>인시던트 사후 검토
 
@@ -115,7 +115,7 @@ Office 365 서비스 통신 API를 사용하면 원하는 방식으로 Office 36
 
 Microsoft Office 365 제품 서비스는 최대 서비스 성능을 유지하는 데 도움이 되는 복원력이 뛰어난 시스템을 통해 전달됩니다. 서비스 지속성 프로비전은 Office 365 시스템 설계의 일부입니다. 이러한 프로비전을 통해 Office 365는 하드웨어 또는 응용 프로그램 실패, 데이터 손상 또는 기타 사용자에게 영향을 주는 인시던트 등의 예기치 않은 이벤트로부터 빠르게 복구됩니다. 또한, 이러한 서비스 지속성 솔루션은 재앙과도 같은 서비스 중단(예: 자연 재해 또는 Microsoft 데이터 센터 내 인시던트로 데이터 센터 전체가 운영 불가능한 상황) 시에도 적용됩니다.
   
-재해적 중단에서 복구한 후에는 일정 기간이 지나야 서비스를 위해 전체 데이터 센터 중복성이 복원될 수 있습니다. 예를 들어 데이터 센터 1이 중단된 경우 서비스는 데이터 센터 2의 리소스에 의해 복원됩니다. 그러나 데이터 센터 2의 서비스가 데이터 센터 1의 복원된 리소스 및 데이터 센터 3의 새로운 리소스에 의해 서비스 연속성 지원을 받을 때까지 일정 기간이 지날 수 있습니다. 이 시간 중에 Office 365 SLA([서비스 수준 계약](https://technet.microsoft.com/en-us/library/office-365-service-level-agreement.aspx))가 적용됩니다. 21Vianet에서 운영하는 Office 365에는 다른 SLA가 있습니다. 자세한 내용은 [21Vianet 사이트](http://www.21vbluecloud.com/office365/O365-SLA/)를 참조하세요. 
+재해적 중단에서 복구한 후에는 일정 기간이 지나야 서비스를 위해 전체 데이터 센터 중복성이 복원될 수 있습니다. 예를 들어 데이터 센터 1이 중단된 경우 서비스는 데이터 센터 2의 리소스에 의해 복원됩니다. 그러나 데이터 센터 2의 서비스가 데이터 센터 1의 복원된 리소스 및 데이터 센터 3의 새로운 리소스에 의해 서비스 연속성 지원을 받을 때까지 일정 기간이 지날 수 있습니다. 이 시간 중에 Office 365 SLA([서비스 수준 계약](service-level-agreement.md))가 적용됩니다. 21Vianet에서 운영하는 Office 365에는 다른 SLA가 있습니다. 자세한 내용은 [21Vianet 사이트](http://www.21vbluecloud.com/office365/O365-SLA/)를 참조하세요. 
   
 ## <a name="ensuring-data-availability"></a>데이터 가용성 보장
 
@@ -149,9 +149,9 @@ Office 365 개발 및 운영 팀은 고객에게 비즈니스 지속성을 제�
     
 고객은 서비스 요청을 입력하기 전에 먼저 기술 문서 및 FAQ를 통해 일반적인 문제에 대한 도움을 즉각적으로 제공받을 수 있습니다. 이러한 리소스에는 알려진 문제에 대한 해결 방법을 제공하는 최신 정보가 지속적으로 업데이트됩니다. 하지만 지원 전문가의 도움이 필요한 문제가 발생할 경우 하루 24시간 365일 지원을 제공하는 관리 포털 또는 전화를 통해 지원팀 직원으로부터 즉각적인 지원을 받을 수 있습니다.
   
-지원에 대한 자세한 내용은 [지원](https://technet.microsoft.com/en-us/library/office-365-support.aspx) 항목을 참조하세요. 
+지원에 대한 자세한 내용은 [지원](support.md) 항목을 참조하세요. 
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)을 참조하세요.
+Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
   

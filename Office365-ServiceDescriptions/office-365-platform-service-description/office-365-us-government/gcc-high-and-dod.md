@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 미국 방어 부서에 대 한 고유 하 고 진화 한 요구 사항을 충족 하 고, DoD 정보를 보유 하거나 처리 하는 계약자, ITAR (무장 규정)의 국제 트래픽에 대 한 주체를 지원 하기 위해 Microsoft는 다음을 제공 합니다. GCC High 및 DoD 환경 볼륨 라이선스를 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재는 평가판을 사용할 수 없습니다.
-ms.openlocfilehash: c35f75875aac2c4187324f13365a3ac69827ce93
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 27d66352cebe96da3c0ca914d394f4d0090c1e99
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928417"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450292"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High 및 DoD
 
@@ -84,7 +84,7 @@ GCC High 또는 DoD 환경에서 SharePoint Online 및 비즈니스용 OneDrive�
   
 - GCC High 테 넌 트 A는 GCC High 테 넌 트 B와 공유할 수 있고, B 사용자는 Azure AD 사용자 이름 및 암호를 사용 하 여 로그인 합니다.
     
-- GCC 테 넌 트 C는 GCC High 테 넌 트 A 또는 B와 공유할 수 있으며 A 또는 B 사용자는 일회성 passcodes을 사용 하 여 로그인 합니다.
+- GCC 이외의 높은 테 넌 트 C는 GCC High 테 넌 트 A 또는 B와 공유할 수 있으며 A 또는 B 사용자는 일회성 passcodes을 사용 하 여 로그인 합니다.
     
 - GCC High 테 넌 트 A 또는 B는 GCC 이외의 높은 테 넌 트 C와 공유할 수 있으며, C 사용자는 일회성 passcodes을 사용 하 여 로그인 합니다.
     
