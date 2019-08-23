@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 미국 방어 부서에 대 한 고유 하 고 진화 한 요구 사항을 충족 하 고, DoD 정보를 보유 하거나 처리 하는 계약자, ITAR (무장 규정)의 국제 트래픽에 대 한 주체를 지원 하기 위해 Microsoft는 다음을 제공 합니다. GCC High 및 DoD 환경 볼륨 라이선스를 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재는 평가판을 사용할 수 없습니다.
-ms.openlocfilehash: 27d66352cebe96da3c0ca914d394f4d0090c1e99
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: 65a8362ba02fe000c2f0f6a4c172b3067a5663e6
+ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450292"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36568121"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High 및 DoD
 
@@ -108,4 +108,8 @@ GCC High 또는 DoD 환경에서 SharePoint Online 및 비즈니스용 OneDrive�
 
 Yammer Enterprise는 GCC High 및 DoD 환경에서는 사용할 수 없습니다.
   
+## <a name="customer-support"></a>고객 지원
 
+Microsoft는 Office 365 GCC High/DOD를 사용 하는 경우 지원 센터에 대 한 제어 되 고 중요 하거나 기밀 정보를 고객 지원 담당자와 공유 하지 않도록 하 고 최소한 지원 에이전트의 권한 부여를 확인 하거나 이러한 데이터에 액세스 합니다.
+
+Microsoft는 사용자의 [개인 정보](https://privacy.microsoft.com/privacystatement)보호를 위해 최선을 다하고 있습니다. 그러나 Office 365 GCC High/DoD 지원은 서비스 인정 경계에 포함 되지 않으며 FedRAMP, DOD SRG, ITAR, IRS 1075 또는 CJIS 데이터 처리 준수 보장을 제공 하지 않습니다.

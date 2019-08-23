@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online Office 365에서는 사용자 들이 서로 공유 하 고 공동 작업을 수행 하 여 회사에서 다른 사용자에 게 알리고, 비즈니스 프로세스를 변환 하 고, 공동 지식을 활용할 수 있도록 지원 합니다. 또한 SharePoint는 조직에서 데이터를 보호 및 관리 하 고 사용자 지정 솔루션을 만드는 기능을 제공 합니다. 간략 한 개요를 보려면 SharePoint 란?를 참조 하세요.
-ms.openlocfilehash: 0e02d79d49f10a6ee774263fdeb87d630d11898f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 94c9f9e87b4ec5841f9884f0ad19101042bc6f9e
+ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777859"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36568132"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 서비스 설명
 
@@ -90,7 +90,7 @@ Office 365 계획에 사용할 수 있는 SharePoint 기능을 확인하려면 �
 |[원격 이벤트 수신기](developer.md#remote-event-receiver) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[REST Api](developer.md#rest-apis) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[SharePoint 디자인 관리자](developer.md#sharepoint-design-manager) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
 |[SharePoint 프레임워크](developer.md#sharepoint-framework) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[SharePoint 2010 워크플로 (이 상자에서 제외 됨)](developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[SharePoint 2013 및 SharePoint 2016 워크플로](developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -177,7 +177,7 @@ Office 365 계획에 사용할 수 있는 SharePoint 기능을 확인하려면 �
 |[빠른 탐색](insights.md#quick-explore) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |[SSRS(SQL Server Reporting Services) 통합 모드](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
 |[타임라인 슬라이서](insights.md#timeline-slicer) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
-|[Visio for web](https://technet.microsoft.com/library/mt827475.aspx) <sup>17</sup> <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|[Visio for web](../visio-online-service-description/visio-online-service-description.md) <sup>17</sup> <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |[Visio Services](insights.md#visio-services) <sup>17</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |**검색 기능** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online 계획 1** <br/> |**SharePoint Online 계획 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[연속 크롤링](search.md#continuous-crawls) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |

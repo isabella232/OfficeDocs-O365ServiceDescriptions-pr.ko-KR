@@ -3,16 +3,6 @@
 
 
 
-## <a name="week-of-july-08-2019"></a>7 월 8 일 주 2019
-
-
-| 게시된 날짜 |항목 제목 | 변경 사항 |
-|------|------------|--------|
-| 7/11/2019 | [Office 응용 프로그램 서비스 설명](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 수정한 날짜 |
-| 7/12/2019 | [Office 365 기술팀 Direct 서비스 설명](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | 수정한 날짜 |
-| 7/12/2019 | [Office 365 보안 및 준수 센터](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 수정한 날짜 |
-
-
 ## <a name="week-of-july-15-2019"></a>7 월 15 일 주 2019
 
 
@@ -165,3 +155,17 @@
 | 8/8/2019 | [Office 365 보안 및 준수 센터](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 수정한 날짜 |
 | 8/9/2019 | [Office 365 플랫폼 서비스 설명](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 수정한 날짜 |
 | 8/9/2019 | [비즈니스용 OneDrive 서비스 설명](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | 수정한 날짜 |
+
+
+## <a name="week-of-august-12-2019"></a>2019 년 8 월 12 일 주
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 8/12/2019 | [서비스 상태 및 연속성](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | 수정한 날짜 |
+| 8/13/2019 | [Microsoft 365 테 넌 트 수준 서비스 라이선스 지침](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 수정한 날짜 |
+| 8/14/2019 | [비즈니스용 OneDrive 서비스 설명](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | 수정한 날짜 |
+| 8/16/2019 | [Office 365 GCC High 및 DoD](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) | 수정한 날짜 |
+| 8/16/2019 | [서비스 상태 및 연속성](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | 수정한 날짜 |
+| 8/16/2019 | [웹 서비스 설명에 대 한 Visio](/Office365/ServiceDescriptions/visio-online-service-description/visio-online-service-description) | 수정한 날짜 |
+| 8/16/2019 | [Visio for web](/Office365/ServiceDescriptions/visio-online-service-description/visio-online) | 수정한 날짜 |
