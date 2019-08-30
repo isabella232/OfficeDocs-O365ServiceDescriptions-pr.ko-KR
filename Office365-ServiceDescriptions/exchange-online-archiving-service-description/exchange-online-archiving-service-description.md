@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online 보관은 microsoft exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange server 2013, 마이크로소프트를 배포한 조직에 대 한 Microsoft Office 365 클라우드 기반 엔터프라이즈급 보관 솔루션입니다. Exchange Server 2010 (SP2 이상) 또는 특정 Exchange Online 또는 Office 365 계획을 구독 합니다. Exchange Online Archiving은 보관, 규정 준수, 규제 및 eDiscovery 문제와 관련하여 이러한 조직을 지원하는 동시에 온-프레미스 인프라를 단순화하여 비용을 절감하고 IT 부담을 완화시켜 줍니다.
-ms.openlocfilehash: 3ed5e99767863e79a5aac41c03ea728b79560b44
-ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
+ms.openlocfilehash: edf8ee24b2d89d3425085ab41360c5f659c16caf
+ms.sourcegitcommit: 9a20f05a53c5b906dea21ae9e3f65653b2c01967
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/28/2019
-ms.locfileid: "36656292"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36672582"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 서비스 설명
 
@@ -65,7 +65,7 @@ Exchange Online Archiving 서비스에 액세스하는 각 사용자가 Exchange
   
 ## <a name="unlimited-archive-storage-quota"></a>무제한 보관 저장소 할당량
 
- Office 365의 무제한 보관 기능 (자동 확장 보관 이라고 함)은 Exchange Online의 보관 사서함에 무제한의 저장 공간을 제공 합니다. 각 Exchange Online Archiving 구독자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. Exchange 하이브리드 배포에서는 온-프레미스 사용자의 사서함이 Exchange Server 2019, Exchange Server 2016 또는 Exchange Server 2013 (SP1 이상)에 있는 경우 클라우드 기반 보관 사서함에 대해서만 자동 확장 보관이 지원 됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)를 참조하세요. 가용성에 대한 자세한 내용은 [Office 365 로드맵](https://www.microsoft.com/microsoft-365/roadmap?rtc=1&filters=)을 참조하세요.
+ Office 365의 무제한 보관 기능 ( *자동 확장 보관*이라고 함)은 Exchange Online의 보관 사서함에 최대 1tb의 저장소를 제공 합니다. 각 Exchange Online Archiving 구독자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100 GB 저장소 용량에 도달 하면 추가 저장소 공간이 자동으로 추가 됩니다. Exchange 하이브리드 배포에서는 온-프레미스 사용자의 사서함이 Exchange Server 2019, Exchange Server 2016 또는 Exchange Server 2013 (SP1 이상)에 있는 경우 클라우드 기반 보관 사서함에 대해서만 자동 확장 보관이 지원 됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)를 참조하세요.
   
 > [!IMPORTANT]
 > 관리자가 저장소 할당량을 조정할 수 없습니다.<br/>
