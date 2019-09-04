@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business는 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 제공 하는 Office 365의 최고급 생산성을 함께 제공 하는 통합 솔루션입니다. . 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다. Office 365에 대 한 자세한 내용은 Office 365 서비스 설명을 참조 하세요.
-ms.openlocfilehash: 4f8e732514109ee5d7f137907d333829a7b5075a
-ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
+ms.openlocfilehash: 6fc052699823706997c2ac4c97608b33305b46b3
+ms.sourcegitcommit: f1e4abbaeaa6c127d7ae5c48b03b194872f804d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36206858"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36717546"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business 서비스 설명
 
@@ -133,9 +133,9 @@ Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫
 |SLA 99.9%  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Advanced Threat Analytics  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |**장치 및 응용 프로그램 관리 기능** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|MDM (모바일 장치 관리)<sup>15</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Pc, Mac 및 모바일 장치에 대 한 Intune MDM (모바일 장치 관리)<sup>15</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |MDM (모바일 장치 관리) 자동 등록  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|Office 앱 및 LOB 앱 용 MAM (모바일 응용 프로그램 관리)<sup>17</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|Office 앱 및 LOB 앱에 대 한 Intune MAM (모바일 응용 프로그램 관리)<sup>17</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |Windows 업데이트 관리, Defender, 방화벽 정책<sup>15</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |데이터 보호-선택적 지우기  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |정책에 대 한 대상 SG (보안 그룹)  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
