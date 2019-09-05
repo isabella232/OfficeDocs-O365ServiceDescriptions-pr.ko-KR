@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 섹션에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다. Office 365 서비스 설명과 함께이 보조 섹션을 읽는 것이 좋습니다.
-ms.openlocfilehash: fe89cacd115135cd7cd3c5314b84da64c45edf83
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 9f0569e4f4790e3f68228478d501797724f820f9
+ms.sourcegitcommit: 936f6d97d1b6ea77b76006e89163b768ab472030
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231406"
+ms.lasthandoff: 09/05/2019
+ms.locfileid: "36762396"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -314,19 +314,19 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |:-----|:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
 |**Office 응용 프로그램** <br/> |||||
-|[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word) <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[Microsoft PowerPoint](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[Microsoft OneNote](../../office-applications-service-description/office-applications.md#microsoft-onenote) <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[Microsoft Publisher](../../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[비즈니스용 Skype](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |예<sup>3</sup> <br/> |있음  <br/> |예  <br/> |예<sup>3</sup> <br/> |
-|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57) <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[iPad/iPhone용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |아니요  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |아니요  <br/> |
-|[Android용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |아니요  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |아니요  <br/> |
-|[Windows Phone용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
-|Office Mobile for Windows 10 tablets <br/> |아니요  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |아니요  <br/> |
+|[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word) <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
+|[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
+|[Microsoft PowerPoint](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
+|[Microsoft OneNote](../../office-applications-service-description/office-applications.md#microsoft-onenote) <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
+|[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
+|[Microsoft Publisher](../../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
+|[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
+|[비즈니스용 Skype](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |예<sup>3</sup> <br/> |예  <br/> |예  <br/> |예<sup>3</sup> <br/> |
+|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57) <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
+|[iPad/iPhone용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |예  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |예  <br/> |
+|[Android용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |예  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |예  <br/> |
+|[Windows Phone용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |예  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예  <br/> |
+|Office Mobile for Windows 10 tablets <br/> |예  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |예  <br/> |
 |IOS 및 Android 용 Outlook<sup>5, 4</sup>  <br/> |예 <br/> |예 <br/> |예 <br/> |예 <br/> |
 |**기업 가치** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
 |PC 또는 Mac에서 사용자당 5건의 동시 설치 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
