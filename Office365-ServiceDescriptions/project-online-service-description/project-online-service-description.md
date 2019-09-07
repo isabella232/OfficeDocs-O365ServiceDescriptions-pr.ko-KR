@@ -14,15 +14,18 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을 위한 유연한 온라인 솔루션입니다. Office 365를 통해 제공되는 Project Online은 거의 모든 위치의 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획하고 우선 순위를 정하고 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: b2e0b9247b99bebd4f6d84e6cafdf57cf7980848
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 78d9b89213483fa6065a2a667870667769ae4e2d
+ms.sourcegitcommit: d03a05074152139760b0c68dd3e46847623f27b9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777339"
+ms.lasthandoff: 09/07/2019
+ms.locfileid: "36790744"
 ---
 # <a name="project-online-service-description"></a>Project Online 서비스 설명
 
+> [!NOTE]
+> 이 문서를 업데이트 하는 중입니다. 업데이트 된 콘텐츠에 대해 10 월 2019 초에 다시 확인 하세요.
+>
 Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을 위한 유연한 온라인 솔루션입니다. Office 365를 통해 제공되는 Project Online은 거의 모든 위치의 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획하고 우선 순위를 정하고 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다. 
   
 Project Online은 Project Online Essentials, Project Online Professional 및 Project Online Premium의 3가지 계획으로 사용할 수 있습니다.
@@ -137,7 +140,7 @@ Project Online 사이트에서의 모든 상호 작용에는 Project Online 라�
 |[비즈니스용 Skype를 사용한 현재 상태](project-publishing.md#presence-with-skype-for-business) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |[프로젝트를 Project Server 또는 Project Online에 게시](project-publishing.md#publish-projects-to-project-server-or-project-online) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |[Project MPP 파일을 SharePoint에 저장](project-publishing.md#save-a-project-mpp-file-to-sharepoint) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[SharePoint와 작업 목록 동기화](project-publishing.md#task-list-sync-to-sharepoint) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[SharePoint와 작업 목록 동기화](project-publishing.md#task-list-sync-to-sharepoint) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |**핵심 서비스 기능** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
 |[Active Directory 통합](core-services-functionality.md#active-directory-integration) <br/> |예<sup>1</sup> <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |[관리, 배포 및 확장성](core-services-functionality.md#administration-deployment-and-extensibility) <br/> |예<sup>23</sup> <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
@@ -159,7 +162,7 @@ Project Online 사이트에서의 모든 상호 작용에는 Project Online 라�
 |[프로젝트 분석 및 포트폴리오 최적화](portfolio-management.md#analyze-projects-and-optimize-portfolio) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |[프로젝트 만들기 및 편집](portfolio-management.md#create-and-edit-projects) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |[재무 관리](portfolio-management.md#financial-management) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|[워크플로에 참여](portfolio-management.md#participate-in-workflow) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|[워크플로에 참여](portfolio-management.md#participate-in-workflow) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |[포트폴리오 분석 및 선택](portfolio-management.md#portfolio-analytics-and-selection) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |[프로그램 관리](portfolio-management.md#program-management) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |[로드맵](portfolio-management.md#roadmap) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
