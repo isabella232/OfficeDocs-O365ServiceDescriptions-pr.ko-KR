@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 미국 정부를 대신 하 여 데이터를 보관 하거나 처리할 수 있는 정부 뿐 아니라 미국의 연방, 주, 로컬 및 부족에 대 한 고유한 요구 사항과 진화 하는 규정을 충족 하기 위해 Microsoft에서는 Office 365 GCC (미국 정부 커뮤니티) 서비스를 제공 합니다. 볼륨 라이선스를 비롯한 여러 채널을 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재 평가판은 미국 정부 기관에만 제공됩니다.
-ms.openlocfilehash: 5a89a930b11f92e1b5278885839304cc4e5982f6
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 74cffc4b50c15b1aa5cfd32f65d70d6ce6f006e0
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776899"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998510"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -64,7 +64,7 @@ Yammer의 사용이 Office 365 Government 구독의 일부로서 조직에 적�
   
 ## <a name="office-365-us-government-community-and-myanalytics"></a>Office 365 Government 커뮤니티 및 MyAnalytics
 
-MyAnalytics는 Office 365 서비스용 FedRAMP 제어 구현에 맞게 설계되고 작동되지만 아직 3PAO에게 Office 365 연간 FedRAMP 감사의 일부로서 검토받지 않았습니다. 필요한 경우 조직에서 MyAnalytics를 사용하기 전에 서비스 규정 준수 감사부에 문의하세요. 
+MyAnalytics는 Office 365 서비스용 FedRAMP 제어 구현에 맞게 설계되고 작동되지만 아직 3PAO에게 Office 365 연간 FedRAMP 감사의 일부로서 검토받지 않았습니다. 필요한 경우 조직에서 MyAnalytics를 사용하기 전에 서비스 규정 준수 감사부에 문의하세요.
   
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 GCC (미국 정부 커뮤니티 클라우드) 고객 지원
 

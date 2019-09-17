@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열 된 기능은 많은 장치 및 여러 Office 365 서비스에서 안전 하 게 공동 작업 하 고 통신 하는 데 사용할 수 있는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: 65d497c213716b28cff0b8d34dea2a3a29bf3a54
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: ade0eb80e1161d9dc70baba7496bc2ecc48699aa
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776909"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998460"
 ---
 # <a name="office-365-suite-features"></a>Office 365 제품군 기능
 
@@ -48,7 +48,7 @@ Microsoft Graph API를 사용 하 여 단일 끝점을 통해 다양 한 리소�
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 <a name="BKMK_MyAnalytics"> </a>
 
-MyAnalytics를 통해 회사에서 얼마나 많은 시간을 보내는지 확인할 수 있습니다. MyAnalytics는 일상적인 업무 활동을 살펴보고 관심을 기울일 수 있는 영역을 찾아 시간을 더욱 신중하게 활용할 수 있는 도구를 제공합니다. MyAnalytics에 대한 자세한 내용을 확인하려면 [MyAnalytic 사용 방법 알아보기](https://support.office.com/en-us/article/Learn-more-about-the-way-you-work-with-Microsoft-MyAnalytics-23462129-e512-40ee-acad-d968916c31b8?ui=en-US&amp;rs=en-US&amp;ad=US) 및 [Office 365 관리자용 Microsoft MyAnalytics](https://support.office.com/en-us/article/Microsoft-MyAnalytics-for-Office-365-admins-77590915-6eb0-47a6-a72f-8116cfcfc2c7)로 이동하세요.
+MyAnalytics는 개인 생산성의 두 가지 주요 요인, 즉 시간과 사용자가 사용 하는 방법에 대 한 정보를 제공 합니다. MyAnalytics는 일상적인 작업 패턴을 살펴보고 주의 해 서 혜택을 받을 수 있는 영역을 찾고 시간을 보다 자세히 사용 하기 위한 도구를 제공 합니다. 자세한 내용은 [Microsoft myanalytics](https://products.office.com/business/myanalytics-personal-analytics) 및 [microsoft Myanalytics for Office 365 admins를](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/mya-for-admins)참고 하세요.
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 <a name="BKMK_Planner"> </a>

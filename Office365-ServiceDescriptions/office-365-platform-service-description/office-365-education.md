@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군을 microsoft Exchange Online, Microsoft SharePoint Online, Office for web에 해당 하는 클라우드 기반 버전의 Microsoft의 차세대 통신 및 공동 작업 서비스와 조합 하 여 제공 합니다. Microsoft 비즈니스용 Skype Online-사용자가 인터넷을 통해 어디서 나 생산성을 유지 하는 데 도움이 됩니다.
-ms.openlocfilehash: 6c3e4edc62fcb54afb5b8972cd93bf3a9b55980c
-ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
+ms.openlocfilehash: 580c4a37b3024f22f374bbcbcea08341418c6c09
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35854887"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998490"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -74,7 +74,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |Microsoft Flow  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Forms  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Graph API  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft MyAnalytics  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|Microsoft MyAnalytics<sup>9</sup>  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |Microsoft Planner  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft PowerApps  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft StaffHub  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -186,8 +186,9 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 <sup>5</sup> (연결 [https://securescore.office.com](https://securescore.office.com/) 에는 관리자 권한이 필요 함)에서 사용 가능 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)를 참조 하세요.<br/> 
 <sup>6</sup> 현재 특정 지역에 있는 고객은 Microsoft Sway를 사용할 수 없습니다. 8 2015 월로 더 이상 출시 되지 않는 일부 레거시 Office 365 계획에는 Microsoft Sway에 대 한 액세스 권한이 없을 수도 있습니다. <br/> 
 <sup>7</sup> 고급 EDiscovery는 미국과 서유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.) <br>
-<sup>8</sup> 각 계획에 포함 된 Microsoft Stream 기능에 대 한 자세한 내용은 [Stream license overview](https://stream.microsoft.com/documentation/stream-license-overview/)를 참조 하십시오. <br/>
-  
+<sup>8</sup> 각 계획에 포함 된 Microsoft Stream 기능에 대 한 자세한 내용은 [Stream license overview](https://stream.microsoft.com/documentation/stream-license-overview/)를 참조 하십시오.<br>
+<sup>9</sup> 자세한 내용은 [myanalytics 요금제 and 환경용](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)을 참조 하십시오.<br>
+
 ## <a name="office-365-security-amp-compliance-center-features"></a>Office 365 보안 &amp; 및 준수 센터 기능
 <a name="SCC"> </a>
 

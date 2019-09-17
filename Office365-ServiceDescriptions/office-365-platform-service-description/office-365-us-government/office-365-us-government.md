@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 섹션에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다. Office 365 서비스 설명과 함께이 보조 섹션을 읽는 것이 좋습니다.
-ms.openlocfilehash: 9f0569e4f4790e3f68228478d501797724f820f9
-ms.sourcegitcommit: 936f6d97d1b6ea77b76006e89163b768ab472030
+ms.openlocfilehash: f13bcd40d707f582355d76676212f10b04973bfb
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/05/2019
-ms.locfileid: "36762396"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998500"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -183,7 +183,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |Microsoft Flow  <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |
 |Microsoft Forms  <br/> |예 <br/> |예 <br/> |예<br/> |예</sup> <br/> |
 |Microsoft Graph API  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft MyAnalytics  <br/> |<sup>9, 12, 15</sup> 없음 <br/> |<sup>9, 12, 15</sup> 없음 <br/> |예<sup>9, 15</sup> <br/> |<sup>9, 12, 15</sup> 없음 <br/> |
+|Microsoft MyAnalytics  <br/> |아니요 <br/> |아니요 <br/> |예<sup>17</sup> <br/> |아니요 <br/> |
 |Microsoft Planner  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |Microsoft PowerApps  <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |
 |Microsoft StaffHub  <br/> |아니요 <br/> |아니요 <br/> |아니요 <br/> |아니요<br/> |
