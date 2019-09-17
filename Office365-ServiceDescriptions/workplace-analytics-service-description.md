@@ -2,6 +2,7 @@
 title: Workplace Analytics 서비스 설명
 ms.author: sharik
 author: skjerland
+ms.reviewer: v-midehm
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,29 +10,42 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Microsoft 작업 공간 분석은 비즈니스 의사 결정을 보다 효율적으로 수행 하는 데 도움이 되는 회사의 통신 및 공동 작업 경향을 다양 하 게 수행할 수 있도록 합니다.
-ms.openlocfilehash: feab626e55e72584beb0879ae172cb8f7d95ab05
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 3a0ab6b1bb936922581a70bbae651cbe5e4c52a5
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35778019"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998531"
 ---
-# <a name="workplace-analytics-service-description"></a><span data-ttu-id="9a941-103">Workplace Analytics 서비스 설명</span><span class="sxs-lookup"><span data-stu-id="9a941-103">Workplace Analytics Service Description</span></span>
+# <a name="workplace-analytics-service-description"></a><span data-ttu-id="42d5f-103">Workplace Analytics 서비스 설명</span><span class="sxs-lookup"><span data-stu-id="42d5f-103">Workplace Analytics Service Description</span></span>
 
-<span data-ttu-id="9a941-104">Microsoft 작업 공간 분석은 비즈니스 의사 결정을 보다 효율적으로 수행 하는 데 도움이 되는 회사의 통신 및 공동 작업 경향을 다양 하 게 수행할 수 있도록 합니다.</span><span class="sxs-lookup"><span data-stu-id="9a941-104">Microsoft Workplace Analytics provides rich, actionable insights into your company's communication and collaboration trends to help you make more effective business decisions.</span></span>
-  
-<span data-ttu-id="9a941-105">Microsoft 작업 공간 분석은 팀이 함께 작업 하는 방식을 분석 하 여 아래 줄에 도움이 되는 동작을 식별할 수 있도록 합니다.</span><span class="sxs-lookup"><span data-stu-id="9a941-105">Microsoft Workplace Analytics analyzes how your teams work together so that you can identify the behaviors that help — and hurt — your bottom line.</span></span> <span data-ttu-id="9a941-106">그런 다음이 정보를 사용 하 여 다음을 수행할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9a941-106">You can then use that information to:</span></span> 
-  
-- <span data-ttu-id="9a941-107">조직의 효율성 향상</span><span class="sxs-lookup"><span data-stu-id="9a941-107">Improve organizational efficiency</span></span>
-    
-- <span data-ttu-id="9a941-108">작업 관련 스트레스 줄이기</span><span class="sxs-lookup"><span data-stu-id="9a941-108">Reduce job-related stress</span></span>
-    
-- <span data-ttu-id="9a941-109">감사 합니다.</span><span class="sxs-lookup"><span data-stu-id="9a941-109">Reduce organizational chaos</span></span>
-    
-- <span data-ttu-id="9a941-110">직원 참여 및 유지</span><span class="sxs-lookup"><span data-stu-id="9a941-110">Engage and retain employees</span></span>
-    
-<span data-ttu-id="9a941-111">자세한 내용은 [작업 공간 분석](https://go.microsoft.com/fwlink/?linkid=852492)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="9a941-111">For more information, see [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492).</span></span> <span data-ttu-id="9a941-112">작업 공간 분석을 시작 하려면 [여기](https://docs.microsoft.com/en-us/workplace-analytics/overview/get-started) 를 클릭 하세요.</span><span class="sxs-lookup"><span data-stu-id="9a941-112">Click [here](https://docs.microsoft.com/en-us/workplace-analytics/overview/get-started) to get started with Workplace Analytics.</span></span> 
-  
-## <a name="licensing-requirements"></a><span data-ttu-id="9a941-113">라이선스 요구 사항</span><span class="sxs-lookup"><span data-stu-id="9a941-113">Licensing requirements</span></span>
+<span data-ttu-id="42d5f-104">Microsoft 작업 공간 분석은 비즈니스 의사 결정을 보다 효율적으로 수행 하는 데 도움이 되는 회사의 통신 및 공동 작업 경향을 다양 하 게 수행할 수 있도록 합니다.</span><span class="sxs-lookup"><span data-stu-id="42d5f-104">Microsoft Workplace Analytics provides rich, actionable insights into your company's communication and collaboration trends to help you make more effective business decisions.</span></span>
 
-<span data-ttu-id="9a941-114">Exchange Online 계획 1 또는 계획 2는 필수 구성 요소입니다.</span><span class="sxs-lookup"><span data-stu-id="9a941-114">Exchange Online Plan 1 or Plan 2 is a prerequisite.</span></span>
+## <a name="transform-unprecedented-insights-into-action"></a><span data-ttu-id="42d5f-105">강력한 통찰력을 작업으로 변환</span><span class="sxs-lookup"><span data-stu-id="42d5f-105">Transform unprecedented insights into action</span></span>
+
+* <span data-ttu-id="42d5f-106">주소 공동 작업 오버 로드</span><span class="sxs-lookup"><span data-stu-id="42d5f-106">Address collaboration overload</span></span>
+* <span data-ttu-id="42d5f-107">조직 사일로 (silo) 중단</span><span class="sxs-lookup"><span data-stu-id="42d5f-107">Break down org silos</span></span>
+* <span data-ttu-id="42d5f-108">상향 수준 관리자 사례</span><span class="sxs-lookup"><span data-stu-id="42d5f-108">Up-level manager practices</span></span>
+* <span data-ttu-id="42d5f-109">향상 되는 인수</span><span class="sxs-lookup"><span data-stu-id="42d5f-109">Accelerate acquisitions</span></span>
+* <span data-ttu-id="42d5f-110">루트 아웃 프로세스의 비효율성</span><span class="sxs-lookup"><span data-stu-id="42d5f-110">Root out process inefficiencies</span></span>
+* <span data-ttu-id="42d5f-111">드라이브 판매 생산성</span><span class="sxs-lookup"><span data-stu-id="42d5f-111">Drive sales productivity</span></span>
+* <span data-ttu-id="42d5f-112">직원 환경 변환</span><span class="sxs-lookup"><span data-stu-id="42d5f-112">Transform employee experience</span></span>
+* <span data-ttu-id="42d5f-113">작업 영역 계획</span><span class="sxs-lookup"><span data-stu-id="42d5f-113">Workspace planning</span></span>
+
+## <a name="gain-objective-actionable-insights"></a><span data-ttu-id="42d5f-114">획득 목표, 실행 가능한 통찰력</span><span class="sxs-lookup"><span data-stu-id="42d5f-114">Gain objective, actionable insights</span></span>
+
+<span data-ttu-id="42d5f-115">조직에서 Office 365의 전례 없는 정보를 내부적 및 외부적으로 시간 및 공동으로 사용 하는 방법을 알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="42d5f-115">See how your organization spends time and collaborates internally and externally with unprecedented insights from Office 365.</span></span> <span data-ttu-id="42d5f-116">업무 팀장은 비즈니스 책임자에 게 팀 모델, 리소스 할당 및 작업 영역 계획을 비롯 한 다양 한 전략적 의사 결정을 알리는 시간과 네트워크에 대 한 작업 시간을 수십 개 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="42d5f-116">Workplace Analytics gives business leaders dozens of actionable behavioral metrics about time and networks to inform a variety of strategic decisions, including teaming models, resource allocation, and workspace planning.</span></span>
+
+## <a name="drive-organizational-change-with-data"></a><span data-ttu-id="42d5f-117">데이터를 사용한 드라이브 구성 변경</span><span class="sxs-lookup"><span data-stu-id="42d5f-117">Drive organizational change with data</span></span>
+
+<span data-ttu-id="42d5f-118">회사 분석은 비즈니스 의사 결정을 보다 효율적으로 수행할 수 있도록 다양 한 목표 데이터 집합을 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="42d5f-118">Workplace Analytics provides a rich set of objective data to make better business decisions.</span></span> <span data-ttu-id="42d5f-119">Guided 탐구 대시보드는 잠재적인 문제 영역을 강조 표시 하 고, 유연한 쿼리는 고용 전략, 새 조직 구조 및 비즈니스 프로그램에 대 한 비즈니스 관련 질문에 대 한 답변을 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="42d5f-119">Guided exploration dashboards highlight potential problem areas, while flexible queries answer targeted business questions about hiring strategies, new organizational structures, and business programs.</span></span> <span data-ttu-id="42d5f-120">모범 사례, 예측 모델 및 벤치 마크를 설정 하기 위해 Office 365 데이터를 비즈니스 결과 정보로 확대 합니다.</span><span class="sxs-lookup"><span data-stu-id="42d5f-120">Augment Office 365 data with business outcome information to establish best practices, predictive models, and benchmarks.</span></span> <span data-ttu-id="42d5f-121">동작 데이터를 기반으로 하는 변경 이니셔티브를 도입 하 고 시간에 따른 프로그램의 성공을 측정 합니다.</span><span class="sxs-lookup"><span data-stu-id="42d5f-121">Introduce change initiatives based on behavioral data and measure the success of programs over time.</span></span> <span data-ttu-id="42d5f-122">Microsoft 고객 서비스 담당자에 게 문의 하 여 비즈니스 과제를 수량화 하 고 변경을 구현 하는 데 사용할 수 있는 컨설팅 서비스에 대해 자세히 알아보세요.</span><span class="sxs-lookup"><span data-stu-id="42d5f-122">Contact your Microsoft Customer Service representative to learn more about available consulting services that you can use to quantify business challenges and implement change.</span></span>
+
+## <a name="privacy-and-compliance-designed-for-you"></a><span data-ttu-id="42d5f-123">사용자를 위한 개인 정보 및 규정 준수 디자인</span><span class="sxs-lookup"><span data-stu-id="42d5f-123">Privacy and compliance designed for you</span></span>
+
+<span data-ttu-id="42d5f-124">회사 분석은 데이터를 보호 하기 위해 사용자의 요구와 준수를 충족 하는 개인 정보 제어 기능을 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="42d5f-124">Workplace Analytics provides privacy controls to meet your needs and compliance to protect your data.</span></span> <span data-ttu-id="42d5f-125">고객은 데이터 집계 및 식별 해제 표준에 대 한 제어를 분석 하 고 유지 관리할 인구를 결정 합니다.</span><span class="sxs-lookup"><span data-stu-id="42d5f-125">Customers decide which populations to analyze and maintain control over data aggregation and de-identification standards.</span></span> <span data-ttu-id="42d5f-126">회사 분석에서는 Office 365 메타 데이터만 분석 합니다.</span><span class="sxs-lookup"><span data-stu-id="42d5f-126">Workplace Analytics only analyzes Office 365 metadata.</span></span> <span data-ttu-id="42d5f-127">데이터 viewability 및 집계 수준은 역할 및 고객 기본 설정을 기반으로 합니다.</span><span class="sxs-lookup"><span data-stu-id="42d5f-127">Data viewability and aggregation levels are based on role and customer preferences.</span></span>
+
+<span data-ttu-id="42d5f-128">자세한 내용은 [작업 공간 분석](https://go.microsoft.com/fwlink/?linkid=852492)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="42d5f-128">For more information, see [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492).</span></span> <span data-ttu-id="42d5f-129">작업 공간 분석을 사용 하는 방법에 대 한 자세한 내용은 [작업 영역 분석 설명서](https://docs.microsoft.com/workplace-analytics/)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="42d5f-129">To learn more about how to use Workplace Analytics, see [Workplace Analytics documentation](https://docs.microsoft.com/workplace-analytics/).</span></span>
+  
+## <a name="licensing-requirements"></a><span data-ttu-id="42d5f-130">라이선스 요구 사항</span><span class="sxs-lookup"><span data-stu-id="42d5f-130">Licensing requirements</span></span>
+
+<span data-ttu-id="42d5f-131">Exchange Online 계획 1 또는 계획 2는 필수 구성 요소입니다.</span><span class="sxs-lookup"><span data-stu-id="42d5f-131">Exchange Online Plan 1 or Plan 2 is a prerequisite.</span></span>
