@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 테 넌 트 수준 서비스에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: deda343d59ce71cc21e8972222faead6761309af
-ms.sourcegitcommit: c1f8003315bc39347d1f3114c8bd204a65e1892c
+ms.openlocfilehash: 3e9a1fd7e91c39961517cc1175b1c7ebe79f2314
+ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36384872"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035134"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 테 넌 트 수준 서비스 라이선스 지침
 
@@ -150,7 +150,7 @@ Azure AD P1의 라이선스가 있는 사용자는 MCAS의 검색 기능을 활�
 
 MCAS에서 [조건부 Access 앱 제어](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) 기능을 활용 하려면 사용자에 게 Enterprise Mobility + security E3/A3/G3, enterprise Mobility + security E5/A5/G5, Microsoft 365 E3/에 포함 된 Azure Active Directory P1에 대 한 라이선스가 있어야 합니다. A3/G3, Microsoft 365 E5/A5/G5 및 Microsoft 365 E5/A5/G5 보안
 
-[자동 레이블](https://docs.microsoft.com/cloud-app-security/data-protection-policies)기능의 혜택을 얻으려면 사용자에 게 Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 및 Microsoft 365 E5/A5/G5 준수에 포함 된 Azure Information Protection P1에 대 한 라이선스가 있어야 합니다.
+[자동 레이블](https://docs.microsoft.com/cloud-app-security/data-protection-policies)기능의 혜택을 얻으려면 사용자에 게 Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 및 Microsoft 365 E5/A5/G5 준수에 포함 된 Azure Information Protection P2에 대 한 라이선스가 있어야 합니다.
 
 자세한 내용은 [Microsoft Cloud App Security License Datasheet](http://www.aka.ms/mcaslicensing)를 참조 하세요.
 
@@ -278,7 +278,7 @@ PAM을 사용 하도록 설정 하면 조직에서 권한이 없는 상태로 �
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Office 365 E3/A3/G3, Microsoft 365 Business, Microsoft 365 E3/A3/G3 및 Office 365 데이터 손실 방지를 사용 하도록 허가 된 사용자는 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive의 DLP를 활용할 수 있습니다.
+Office 365 E3/A3/G3, Microsoft 365 Business, Microsoft 365 A1/E3/A3/G3 및 Office 365 데이터 손실 방지 기능을 사용 하면 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에서 DLP를 활용할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
