@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online Office 365에서는 사용자 들이 서로 공유 하 고 공동 작업을 수행 하 여 회사에서 다른 사용자에 게 알리고, 비즈니스 프로세스를 변환 하 고, 공동 지식을 활용할 수 있도록 지원 합니다. 또한 SharePoint는 조직에서 데이터를 보호 및 관리 하 고 사용자 지정 솔루션을 만드는 기능을 제공 합니다. 간략 한 개요를 보려면 SharePoint 란?를 참조 하세요.
-ms.openlocfilehash: 94c9f9e87b4ec5841f9884f0ad19101042bc6f9e
-ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
+ms.openlocfilehash: 18f39141220c96b0d85da0a75cd42e09a4d298fc
+ms.sourcegitcommit: 6d5ef72a0919dd8e730031a1ddac4db6632ac2cd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36568132"
+ms.lasthandoff: 09/24/2019
+ms.locfileid: "37131479"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 서비스 설명
 
@@ -238,7 +238,7 @@ Office 365 계획에 사용할 수 있는 SharePoint 기능을 확인하려면 �
 |[Azure 프로비전 응용 프로그램: Azure LWR(Lightweight Web Role)의 사용자 지정 코드](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
 
 <sup>1</sup> 폴더 동기화를 사용하려면 Office 2013 이상(Standard 또는 Professional Edition)을 보유하고 있거나 Office 응용 프로그램이 포함된 Office 365를 구독해야 합니다. Office 365 Business Essentials, Office 365 Enterprise E1 및 Office 365 Education 계획에는 Office 데스크톱 응용 프로그램에 대한 구독이 포함되지 않습니다. 그러나 Office 2013 이상이 설치되어 있고 계획 중 하나를 구독한 경우 폴더 동기화를 사용할 수 있습니다. <br/>
-<sup>2</sup> firstline 작업자는 비즈니스용 OneDrive 기능이 제한 됩니다. Firstline 작업자는 저장소의 2GB와 데스크톱 동기화 기능 부족을 수신 합니다. Firstline 계정에는 비즈니스용 OneDrive 개인 사이트가 포함 되지 않으므로 1tb 또는 1TB의 온라인 저장소가 포함 된 비즈니스용 OneDrive 개인 라이브러리를 활용할 수 없습니다.<br/> 
+<sup>2</sup> firstline 작업자는 비즈니스용 OneDrive 기능이 제한 됩니다. Firstline 작업자는 2GB의 저장소를 수신 합니다.<br/> 
 <sup>3</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용하려면 Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F1에 포함되어 있지 않은 Office365ProPlus를 구독해야 합니다. <br/>
 <sup>4</sup> firstline 작업 자가 관리자가 될 수 없으므로, firstline 작업 자가 있는 테 넌 트에는 관리 센터에 액세스 하기 위한 엔터프라이즈 사용자가 한 명 이상 필요 합니다. <br/>
 <sup>5</sup> SharePoint Online 고객은 무료 순위 모델 조정 앱을 다운로드 하 고 설치 해야 순위 모델을 만들고 사용자 지정할 수 있습니다. <br/> 
