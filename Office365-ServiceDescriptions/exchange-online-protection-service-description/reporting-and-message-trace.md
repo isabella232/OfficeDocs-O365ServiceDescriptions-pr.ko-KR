@@ -12,46 +12,36 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft EOP(Exchange Online Protection)에서는 조직의 전체 상태를 확인할 수 있는 다양한 보고서를 제공합니다. 일부 보고서는 Microsoft 365 관리 센터에서 사용할 수 있고, 일부는 EAC (Exchange 관리 센터)에서 사용할 수 있습니다.
-ms.openlocfilehash: ec06c0dea22fc45f2cee507e9022b9babbd809e3
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: cedf3d62360ce8c43da9dbb96c0938d78ffec110
+ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776649"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37334119"
 ---
 # <a name="reporting-and-message-trace"></a>보고 및 메시지 추적
 
 Microsoft EOP(Exchange Online Protection)에서는 조직의 전체 상태를 확인할 수 있는 다양한 보고서를 제공합니다. 일부 보고서는 Microsoft 365 관리 센터에서 사용할 수 있고, 일부는 EAC (Exchange 관리 센터)에서 사용할 수 있습니다.
-  
+
 모든 EOP 기능에 대 한 정보를 찾으십니까? [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.
-  
+
 ## <a name="microsoft-365-admin-center-reports"></a>Microsoft 365 관리 센터 보고서
-<a name="BKMK_office365admincenterreports"> </a>
 
-Microsoft 365 관리 센터의 보고서 페이지에서는 메시지 트래픽, 스팸 및 맬웨어 감지, Exchange 전송 규칙이 나 DLP (데이터 손실 방지) 정책의 영향을 받는 메시지에 대 한 정보를 제공 합니다. 보호, 규칙 및 DLP에 대한 향상된 보고서에서는 EOP 관리자에게 대화형 보고 환경이 제공됩니다. 이러한 보고서에서는 개별 메시지에 대한 세부 정보로 드릴다운할 수 있는 기능과 함께 요약 데이터가 제공됩니다.
-  
-이러한 보고서에 대한 자세한 내용은 [Office 365의 메일 보호 보고서를 사용하여 맬웨어, 스팸 및 규칙 감지에 대한 데이터 보기](https://go.microsoft.com/fwlink/p/?LinkID=401102)를 참조하세요.
-  
-## <a name="excel-download-application-reports"></a>Excel download application reports
-<a name="BKMK_exceldownloadapplicationreports"> </a>
+Microsoft 365 관리 센터의 보고서 페이지에서는 메시지 트래픽, 스팸 및 맬웨어 감지, 메일 흐름 규칙 (전송 규칙이 라고도 함) 또는 DLP (데이터 손실 방지) 정책과 관련 된 메시지에 대 한 정보를 제공 합니다. 보호, 규칙 및 DLP에 대한 향상된 보고서에서는 EOP 관리자에게 대화형 보고 환경이 제공됩니다. 이러한 보고서에서는 개별 메시지에 대한 세부 정보로 드릴다운할 수 있는 기능과 함께 요약 데이터가 제공됩니다.
 
-드릴다운 기능이 있는 요약 보고서가 제공되는 Excel 2013 보호 통합 문서에서도 전자 메일 보호 보고서를 사용할 수 있습니다. 그러나 향상 된 Microsoft 365 관리 센터 보고서를 대신 사용 하는 것이 좋습니다. Excel 2013 보고 통합 문서는 향후 더 이상 사용되지 않을 예정입니다. 
-  
-개요에 대한 자세한 내용과 통합 문서를 다운로드 및 설치하기 위한 링크는 [Office 365용 메일 보호 보고서](https://go.microsoft.com/fwlink/p/?LinkId=271776)를 참조하세요. 통합 문서 사용 방법에 대한 자세한 내용은 [Excel 보고 통합 문서를 사용한 메일 보호 보고서](https://go.microsoft.com/fwlink/p/?LinkId=285211)를 참조하세요.
-  
+이러한 보고서에 대 한 자세한 내용은 [Use mail protection reports In Office 365에서 맬웨어, 스팸 및 규칙 감지에 대 한 데이터 보기](https://docs.microsoft.com/exchange/monitoring/use-mail-protection-reports)를 참조 하세요.
+
 ## <a name="reporting-using-web-services"></a>Reporting using web services
-<a name="BKMK_reportingusingwebservices"> </a>
 
-EOP 독립 실행형 고객에게는 제공되지 않습니다. REST/OData 테넌트 보고 웹 서비스를 사용하여 메시징 데이터에 대한 요약 및 상세 보고서를 프로그래밍 방식으로 수집할 수 있으며, 사용자 지정 관리 웹 포털의 웹 페이지에 데이터를 표시할 수 있습니다. 자세한 내용은 [Office 365 보고 웹 서비스](https://go.microsoft.com/fwlink/?LinkId=279926)를 참조하세요.
-  
-## <a name="message-trace"></a>Message trace
-<a name="BKMK_messagetrace"> </a>
+> [!NOTE]
+> 대부분의 REST 기반 보고 기능 및 관련 cmdlet은 1 월 2018 일에 더 이상 사용 되지 않습니다. Office 365에서 사용 가능한 대체 Microsoft Graph 보고서에 대 한 자세한 내용은 [Microsoft graph에서 Office 365 사용 현황 보고서 작업](https://go.microsoft.com/fwlink/p/?LinkID=865135)의 하위 주제를 참조 하세요.
 
-관리자는 EAC의 메시지 추적 기능을 사용하여 EOP를 통과하는 전자 메일 메시지를 추적할 수 있습니다. 이렇게 하면 서비스에서 대상 전자 메일 메시지를 수신, 거부, 지연 또는 배달했는지 여부를 확인하는 데 도움이 되며, 또한 메시지가 최종 상태에 도달하기 전 메시지에 수행된 작업을 확인할 수 있습니다. 특정 메시지에 대한 자세한 정보를 파악하면 사용자 질문에 효과적으로 대답하고, 메일 흐름 문제를 해결하며, 정책 변경 사항의 유효성을 검사할 수 있을 뿐만 아니라 기술 지원 서비스에 지원을 문의해야 하는 수고를 덜 수 있습니다. 자세한 내용은 [전자 메일 메시지 추적](https://go.microsoft.com/fwlink/p/?LinkID=282262)을 참조하세요.
-  
+EOP 독립 실행형 고객에게는 제공되지 않습니다. REST/OData 테 넌 트 보고 웹 서비스를 사용 하 여 메시징 데이터에 대 한 요약 및 자세한 보고서를 프로그래밍 방식으로 수집 하 고 사용자 지정 웹 관리 포털에 웹 페이지에 데이터를 표시할 수 있습니다.
+
+## <a name="message-trace"></a>메시지 추적
+
+EAC의 메시지 추적 기능을 사용 하면 관리자가 EOP를 통과 하는 전자 메일 메시지를 팔 로우 할 수 있습니다. 이를 통해 대상이 지정 된 전자 메일 메시지의 수신, 거부, 지연 또는 서비스에 의해 전달 되었는지 여부를 확인할 수 있습니다. 또한 메시지가 최종 상태에 도달하기 전 메시지에 수행된 작업을 확인할 수 있습니다. 특정 메시지에 대한 자세한 정보를 파악하면 사용자 질문에 효과적으로 대답하고, 메일 흐름 문제를 해결하며, 정책 변경 사항의 유효성을 검사할 수 있을 뿐만 아니라 기술 지원 서비스에 지원을 문의해야 하는 수고를 덜 수 있습니다. 자세한 내용은 [메시지 추적 실행 및 Exchange 관리 센터에서 결과 보기](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results)를 참조 하세요.
+
 ## <a name="feature-availability"></a>기능 가용성
-<a name="BKMK_messagetrace"> </a>
 
 Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션별로 기능 가용성을 확인하려면 [Exchange Online Protection 서비스 설명](exchange-online-protection-service-description.md)을 참조하세요.
-  
-
