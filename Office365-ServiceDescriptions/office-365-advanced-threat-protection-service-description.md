@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는 클라우드 기반 전자 메일 필터링 서비스 이며, 다음을 보호 하는 기능을 포함 합니다. 실시간으로 해로운 링크에서 조직으로 구성 합니다. ATP에는 조직에서 발생 하는 공격 종류를 관리자에 게 제공 하는 다양 한 보고 및 URL 추적 기능이 있습니다.
-ms.openlocfilehash: e335ae1882a6142572eb32df6fc2dcbd8ff89ebe
-ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
+ms.openlocfilehash: ffb08bc3104e1c41ebf6441a68fd3d22b367f5c4
+ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37035124"
+ms.lasthandoff: 10/05/2019
+ms.locfileid: "37401744"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection 서비스 설명
 
@@ -65,18 +65,9 @@ Office 365 Advanced threat Protection을 구입 하려면 [office 365 Advanced T
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Office 365의 새로운 기능 (Advanced Threat Protection (ATP)
 
-계속 해 서 Office 365 ATP에 새로운 기능을 추가 하 고 있습니다. 다음은 몇 가지 새로운 기능과 ATP 정책을 검토 하 고 업데이트 하기 위한 호출의 목록입니다. ATP에 게 제공 되는 새로운 기능 (또는 일반적인 경우 Microsoft 365)에 대 한 자세한 내용은 [microsoft 365 로드맵을](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)참조 하세요.
-
-|기능 업데이트|작업 항목|
-|---------|---------|
-|[Office 365 위협 인텔리전스](https://docs.microsoft.com/office365/securitycompliance/office-365-ti) (TI) 기능은 이제 ATP 계획 2의 일부로 위협 조사 및 응답 기능을 합니다. [자동 인시던트 응답과](https://docs.microsoft.com/office365/securitycompliance/automated-investigation-response-office)같은 새로운 기능과 [위협 탐색기](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance)에 대 한 향상 된 기능을 제공 합니다.<br/><br/>조직에서 현재 ATP가 없거나 ATP가 있지만 TI가 없는 경우 ATP 계획 1 및 ATP 계획 2의 가용성을 고려 하 여 몇 가지 옵션을 고려해 야 합니다. 자세한 내용은 [Advanced Threat protection (ATP) 계획](#feature-availability-across-advanced-threat-protection-atp-plans) (이 문서의) 및 [Office 365 Advanced Threat protection 요금제 및 가격 책정](https://products.office.com/exchange/advance-threat-protection)에서 기능 가용성을 참조 하십시오.|조직의 구독을 검토 하 고, 필요한 경우 [추가 기능을 구입 하거나 편집](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on)합니다.|
-|사용자가 Outlook 또는 OWA (Outlook Web Application)를 사용 하는 경우 [ATP 안전한 링크](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) 는 다시 작성 된 url이 아닌 원래 url을 렌더링 합니다. (이 네이티브 링크 렌더링을 호출 합니다.)<br>조직에서 기본 링크 렌더링을 사용할 수 있는 경우이 기능은 Outlook 365 (간편 실행), OWA 및 Windows 및 Mac OS에서 작동 합니다.|없음|
-|[Office 365 ATP 경고 페이지](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links-warning-pages) 기능은 새로운 색 구성표, 자세한 내용 및 경고 및 권장 사항에도 불구 하 고 사이트를 계속 사용할 수 있는 기능을 제공 합니다.|없음|
-|[ATP Safe Links](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) protection은 웹에 대 한 Office의 url, 웹의 Word, 웹의 PowerPoint, 웹의 OneNote, 그리고 Mac의 Office 365 ProPlus에 적용 되도록 확장 됩니다.|[ATP 안전한 링크 정책 검토 및 편집](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)|
-|보안 &amp; 및 준수 센터의 격리 기능은 [SharePoint Online, 비즈니스용 OneDrive 및 Microsoft 팀을 위해 ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-for-spo-odb-and-teams)로 확장 됩니다.|[ATP 안전한 첨부 파일 정책 검토 및 편집](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-attachments-policies)|
-|[ATP 안전한 링크](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) 보호는 조직 내 사용자 간에 전송 되는 전자 메일에 적용 되도록 확장 됩니다.|[ATP 안전한 링크 정책 검토 및 편집](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)|
-|[ATP 안전한 링크](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) 보호는 IOS 및 Android 장치의 office 앱은 물론 Word, Excel, PowerPoint, Visio 등의 Office 365 ProPlus 문서에 있는 url 뿐만 아니라 전자 메일의 url에도 적용 되도록 확장 되었습니다.|[최신 Office 인증](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016) 을 사용 하 고 있는지 확인|
-
+계속 해 서 Office 365 ATP에 새로운 기능을 추가 하 고 있습니다. ATP에 게 제공 되는 새로운 기능 (또는 일반적인 경우 Microsoft 365)에 대 한 자세한 내용은 다음 리소스를 참조 하십시오.
+- [Microsoft 365 로드맵](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
+- [Office 365 ATP의 새로운 기능](https://docs.microsoft.com/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
 
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Office 365의 ATP (Advanced Threat Protection)에 대 한 요구 사항
 
