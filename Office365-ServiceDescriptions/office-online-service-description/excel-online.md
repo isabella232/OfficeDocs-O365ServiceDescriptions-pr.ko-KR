@@ -1,5 +1,5 @@
 ---
-title: 웹에 대 한 Excel
+title: 웹용 Excel
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Web for excel (이전의 Excel Web App)은 Microsoft Excel 환경을 웹 브라우저로 확장 하 여 통합 문서가 저장 된 웹 사이트에서 통합 문서를 직접 사용할 수 있습니다. 모든 Office 365 고객은 웹에서 Office를 사용 하 여 Office 파일을 보고 가볍게 편집할 수 있습니다.
-ms.openlocfilehash: 21616679553d1f69b8ee8630fdff573c10b47f4d
-ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
+ms.openlocfilehash: 85aad73129f49888d72b785389fafd76a071d214
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2019
-ms.locfileid: "37401764"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442753"
 ---
-# <a name="excel-for-the-web"></a>웹에 대 한 Excel
+# <a name="excel-for-the-web"></a>웹용 Excel
 
 Web for excel (이전의 Excel Web App)은 Microsoft Excel 환경을 웹 브라우저로 확장 하 여 통합 문서가 저장 된 웹 사이트에서 통합 문서를 직접 사용할 수 있습니다. 모든 Office 365 고객은 웹에서 Office를 사용 하 여 Office 파일을 보고 가볍게 편집할 수 있습니다.
   
@@ -88,7 +88,11 @@ Microsoft Excel 데스크톱 앱에서만 고급 차트 기능을 지원합니�
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>피벗 차트 보고서 및 피벗 테이블 보고서를 포함하는 차트 및 테이블
 
 Excel 차트 및 테이블을 사용하여 더욱 간편하게 데이터 서식을 적용하고 정보를 관리할 수 있습니다. 자세한 내용은 [표 만들기 및 서식 지정](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664) 및 [피벗 테이블 및 피벗 차트 보고서 개요](https://go.microsoft.com/fwlink/?linkid=55417)를 참조 하세요.
-  
+
+## <a name="check-spelling"></a>맞춤법 검사
+
+워크시트의 텍스트에 대 한 맞춤법을 검사 하려면**언어 교정** > **맞춤법** **검토** > 를 선택 합니다. 자세한 내용은 [맞춤법 검사](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159)를 참고 하세요.
+
 ## <a name="comment-creation"></a>Comment creation
 
 Excel에서 웹에 대 한 설명을 삽입, 편집 및 삭제할 수 있습니다. 주석 스레드를 확인 하 여 편집 및 새 설명에 대 한 주석을 닫고 그대로 둘 수도 있습니다. 이렇게 하면 필요한 경우 스레드를 주석에 다시 열 수 있습니다. 자세한 내용은 [ Excel에 설명 추가하기 ](https://go.microsoft.com/fwlink/p/?LinkId=271670)를 참조하세요.
@@ -123,7 +127,7 @@ Dropbox는 클라우드 저장소, 파일 동기화, 개인 클라우드 및 클
   
 ## <a name="duplicate-copy-worksheets"></a>워크시트 복제 (복사)
 
-통합 문서 내에 워크시트를 복제 하거나 복사 하 여 Excel의 다른 통합 문서에 추가할 수 있습니다. 자세한 내용은 [Excel에서 워크시트를 웹으로 복사](https://support.office.com/article/47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online)를 참고 하세요.
+통합 문서 내에 워크시트를 복제 하거나 복사 하 여 Excel의 다른 통합 문서에 추가할 수 있습니다. 자세한 내용은 [Excel에서 워크시트를 웹으로 복사](https://support.office.com/article/47207967-bbb2-4e95-9b5c-3c174aa69328#ID0EAACAAA=Web)를 참고 하세요.
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>웹 또는 블로그 페이지에 통합 문서 포함 (OneDrive)
 
@@ -171,7 +175,7 @@ Excel에서 웹에 대 한 수식에서 400 개 보다 많은 Excel의 워크시
  
 ## <a name="group-data"></a>그룹 데이터
 
-Excel에서 웹 스프레드시트에 대 한 행과 열을 그룹화 하거나 윤곽을 설정할 수 있습니다. 자세한 내용은 [Excel에서 웹으로 데이터 그룹화](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online)를 참고 하십시오.
+Excel에서 웹 스프레드시트에 대 한 행과 열을 그룹화 하거나 윤곽을 설정할 수 있습니다. 자세한 내용은 [Excel에서 웹으로 데이터 그룹화](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web)를 참고 하십시오.
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
@@ -181,9 +185,9 @@ Excel에서 통합 문서에 있는 행, 열 및 시트를 웹에 대해 숨기 
 
 차트를 만들어서 데이터를 시각적으로 표시합니다. 막대형, 선형, 원형 또는 막대 차트와 같은 다양한 차트 유형 중에서 선택합니다. 자세한 내용은 [사용 가능한 차트 유형](https://go.microsoft.com/fwlink/p/?LinkId=273899)을 참조하십시오.
   
-## <a name="insertdelete-rows-and-columns"></a>행과 열 삽입/삭제
+## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
-행을 하나 이상 선택한 후 홈 탭에서 삽입 또는 삭제를 클릭하여 워크시트에서 행이나 열을 한 번에 하나씩 또는 한 번에 여러 개 추가하거나 제거합니다.
+**홈** 탭에서 **삽입** 또는 **삭제** 를 선택 하기 전에 하나 이상의 행을 선택 하 여 워크시트에서 행 이나 열을 한 번에 하나씩 추가 하거나 제거 합니다.
 
 ## <a name="insert-pictures"></a>그림 삽입
 
@@ -195,7 +199,7 @@ Excel에서 통합 문서에 있는 행, 열 및 시트를 웹에 대해 숨기 
   
 ## <a name="merge-cells"></a>Merge cells
 
-Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
+Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. 맞춤 단추를 선택 하 여 맞춤을 변경할 수 있습니다.
 
 ## <a name="named-ranges"></a>명명 된 범위
 
@@ -249,13 +253,13 @@ Microsoft Excel 데스크톱 앱에서만 고급 차트를 지원합니다. 웹�
 
 범위나 표에서 중복 값을 제거할 수 있습니다. 자세한 내용은 [unique 값에 대 한 필터링 또는 중복 값 제거](https://support.office.com/article/ccf664b0-81d6-449b-bbe1-8daaec1e83c2)를 참조 하십시오.
   
-## <a name="rename-and-add-sheets"></a>시트 이름 바꾸기 및 추가
+## <a name="rename-and-add-sheets"></a>Rename and add sheets
 
-새 시트 아이콘을 클릭하여 시트를 추가합니다. 시트 탭을 마우스 오른쪽 단추로 클릭하여 이름을 바꿉니다.
+새 시트 아이콘을 선택 하 여 시트를 추가 합니다. 시트 탭을 마우스 오른쪽 단추로 클릭하여 이름을 바꿉니다.
   
 ## <a name="rename-file-while-workbook-is-open"></a>통합 문서가 열려 있는 동안 파일 이름 바꾸기
 
-웹의 Excel에서는 머리글에서 파일 이름을 클릭 하 고 새 이름을 입력 하 여 통합 문서 파일을 닫지 않고도 이름을 바꿀 수 있습니다. Excel 데스크톱 앱을 사용하여 파일 이름을 바꾸려면 파일을 닫고 장치에서 해당 파일의 위치로 이동한 다음 파일 이름을 바꿉니다.
+웹의 Excel에서는 머리글에서 파일 이름을 선택 하 고 새 이름을 입력 하 여 통합 문서 파일을 닫지 않고도 이름을 바꿀 수 있습니다. Excel 데스크톱 앱을 사용하여 파일 이름을 바꾸려면 파일을 닫고 장치에서 해당 파일의 위치로 이동한 다음 파일 이름을 바꿉니다.
   
 ## <a name="replace"></a>바꾸기
 
@@ -279,7 +283,7 @@ Excel 파일을 다른 사용자와 공유할 경우 워크시트가 변경되�
   
 ## <a name="slicer-viewing"></a>슬라이서 보기
 
-워크시트에서 슬라이서를 보고 슬라이서 단추를 클릭하여 데이터를 필터링합니다. 웹의 Excel에서는 슬라이서를 만들거나 편집할 수 없습니다.
+워크시트에서 슬라이서를 보고 슬라이서 단추를 선택 하 여 데이터를 필터링 합니다. 웹의 Excel에서는 슬라이서를 만들거나 편집할 수 없습니다.
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
@@ -307,7 +311,7 @@ Excel에서 웹을 위한 작업을 수행 해야 하지만 방법을 모르는 
 
 ## <a name="total-data"></a>총 데이터
 
-홈 탭의 표 형식 아래에서 요약 행 설정/해제를 클릭 하 여 테이블의 데이터를 빠르게 합계를 확인할 수 있습니다. 
+요약 행 토글 옵션을 사용 하도록 설정 하면 테이블의 데이터를 빠르게 확인할 수 있습니다. 자세한 내용은 [Excel 테이블에서 데이터 합계](https://support.office.com/article/6944378F-A222-4449-93D8-474386B11F20#ID0EAADAAA=Web)를 참조 하세요.
 
 ## <a name="undo-and-redo"></a>실행 취소 및 다시 실행
 

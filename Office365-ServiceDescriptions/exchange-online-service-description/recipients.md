@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 이 항목에서는 Microsoft Exchange Online에 포함된 받는 사람 관련 기능에 대해 설명합니다. 설명에는 전자 메일, 연락처, 메일 그룹 및 달력/예약 기능이 포함됩니다.
-ms.openlocfilehash: c4bac85f6a3610152cd8cb0767c7344c2e88d1f2
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 6bbbd34e080a88f0936d612aba834f854985af19
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776889"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442623"
 ---
 # <a name="recipients"></a>받는 사람
 
@@ -155,7 +155,7 @@ Exchange Online에는 리소스 예약 도우미(RBA)가 포함되어 있어 회
   
 - **페더레이션 일정 공유** 페더레이션은 페더레이션 공유를 지원하는 기본 트러스트 인프라를 나타내며, Exchange 사용자가 다른 외부 페더레이션 조직의 받는 사람과 약속 있음/없음 일정 데이터 및 연락처 정보를 쉽게 공유할 수 있는 방법입니다. 여기에는 Exchange Online 조직이나 Exchange Server 2010 또는 Exchange Server 2013 온-프레미스를 실행하는 조직이 포함됩니다. 이 트러스트는 Office 365 테넌트 서비스가 만들어질 때 모든 Exchange Online 고객에 대해 사전 구성되어 있기 때문에 Exchange Online 관리자는 Microsoft Federation Gateway와의 트러스트를 설정할 필요가 없습니다. 기본 공유 정책은 사용자가 일정 공유 초대를 Outlook Web App 또는 Outlook 2010에서 보낼 수 있도록 허용합니다. 관리자는 원격 Windows PowerShell을 사용해 이 정책을 사용하지 않도록 설정하거나 사용자가 공유하는 약속 있음/없음 일정 데이터의 수준을 구성할 수 있습니다. 관리자는 또한 다른 페더레이션 조직과 조직 대 조직 관계를 생성하여, 개별 사용자가 공유 초대를 만들 필요 없이 모든 사용자에 대한 약속 있음/없음 정보를 원하는 수준으로 조직 서로 간에 볼 수 있도록 허용할 수 있습니다. 관리자가 정의한 공유 정책 및/또는 조직 대 조직 관계의 범위 내에서 사용자는 각자의 공유 세부 정보를 제한할 수 있습니다. 
     
-- **인터넷 일정 공유** Exchange Online에서 사용자는 조직 내부 또는 외부 사람의 익명 액세스에 대해 iCal 형식을 사용하여 자신의 일정을 게시할 수 있습니다. Exchange나 다른 플랫폼, 또는 단순히 웹 브라우저의 사용자에게 보낼 수 있습니다. Exchange Online 사용자는 또한 다른 사람이 iCal을 통해 인터넷 위치에 게시한 일정을 구독할 수 있습니다. 이 개인 일정 공유는 관리자가 구성하고 조직 대 조직 약속 있음/없음 공유를 제공하는 페더레이션 일정 공유와는 다릅니다. 관리자가 허용되는 공유 정책을 설정 및 적용하기 전까지는 어떤 사용자도 일정 데이터를 iCal 형식으로 게시할 수 없습니다. 관리자는 원격 Windows PowerShell을 사용하여 조직 내 사용자에 대해 iCal 게시 및 iCal 구독을 사용하지 않도록 설정할 수 있습니다. 
+- **인터넷 일정 공유** Exchange Online에서 사용자는 조직 내부 또는 외부 사람의 익명 액세스에 대해 iCal 형식을 사용하여 자신의 일정을 게시할 수 있습니다. Exchange나 다른 플랫폼, 또는 단순히 웹 브라우저의 사용자에게 보낼 수 있습니다. Exchange Online 사용자는 또한 다른 사람이 iCal을 통해 인터넷 위치에 게시 한 일정을 구독할 수 있습니다. 이 개인 일정 공유는 관리자가 구성하고 조직 대 조직 약속 있음/없음 공유를 제공하는 페더레이션 일정 공유와는 다릅니다. 관리자가 허용되는 공유 정책을 설정 및 적용하기 전까지는 어떤 사용자도 일정 데이터를 iCal 형식으로 게시할 수 없습니다. 관리자는 원격 Windows PowerShell을 사용하여 조직 내 사용자에 대해 iCal 게시 및 iCal 구독을 사용하지 않도록 설정할 수 있습니다. 
     
 페더레이션 공유에 대한 자세한 내용은 [Exchange Online의 공유](https://go.microsoft.com/fwlink/p/?LinkId=271774)를 참조하세요.
   

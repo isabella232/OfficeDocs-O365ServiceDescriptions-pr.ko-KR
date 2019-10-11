@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 'Microsoft는 Office 365를 사용하는 대다수 조직의 사서함을 호스트하고 메일 흐름을 관리합니다. 이것은 가장 단순한 구성으로, Office 365가 모든 사서함을 관리하고 필터링한다는 것을 의미합니다. 그러나 일부 조직에는 특정 규정 또는 비즈니스적 필요성을 따르는지 확인하기 위하여 좀 더 복잡한 메일 흐름 설정이 필요합니다. 이러한 옵션은 여기에서 확인할 수 있습니다. '
-ms.openlocfilehash: a50c85fff3ba023706932f227db1df3915923545
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: bf16ff4034333a2bd85ba798e9c02c621b4d7cfc
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231416"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442603"
 ---
 # <a name="mail-flow"></a>Mail Flow
 
@@ -36,7 +36,7 @@ Microsoft Exchange Online은 온-프레미스 서버 또는 호스트 서비스(
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>신뢰할 수 있는 파트너와의 보안 메시징
 
-Exchange Online 고객은 Office 365 커넥터를 사용하여 신뢰할 수 있는 파트너와 보안 메일 흐름을 설정할 수 있습니다. Office 365는 TLS(전송 계층 보안)을 통한 보안 통신을 지원합니다. TLS를 통해 암호화를 적용하기 위해 커넥터를 만들 수 있습니다.[TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections)는 인터넷을 통한 통신에 보안을 제공하는 암호화 프로토콜입니다. 커넥터를 사용하면 자체 서명된 인증서 또는 CA(인증 기관) 확인 인증서를 통해 강제로 받거나 보내는 TLS를 모두 구성할 수 있습니다. 도메인 이름 또는 파트너 조직에서 메일을 보내는 IP 주소 범위를 지정하는 것과 같은 기타 보안 제한을 적용할 수도 있습니다. 
+Exchange Online 고객은 Office 365 커넥터를 사용하여 신뢰할 수 있는 파트너와 보안 메일 흐름을 설정할 수 있습니다. Office 365는 TLS(전송 계층 보안)을 통한 보안 통신을 지원합니다. [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) 는 인터넷을 통한 통신에 보안을 제공 하는 암호화 프로토콜입니다. 커넥터를 사용하면 자체 서명된 인증서 또는 CA(인증 기관) 확인 인증서를 통해 강제로 받거나 보내는 TLS를 모두 구성할 수 있습니다. 도메인 이름 또는 파트너 조직에서 메일을 보내는 IP 주소 범위를 지정하는 것과 같은 기타 보안 제한을 적용할 수도 있습니다. 
   
 자세한 내용은 [Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner)을 참조하세요.
   
@@ -65,7 +65,7 @@ Exchange Online 고객은 Office 365 커넥터를 사용하여 신뢰할 수 있
   
 ### <a name="shared-address-space-with-on-premises-routing-control-mx-points-to-on-premises"></a>온-프레미스 라우팅 제어를 사용하는 공유 주소 공간(MX가 온-프레미스를 가리킴)
 
-온-프레미스 라우팅 제어를 사용하는 공유 주소 공간(MX가 온-프레미스를 가리킴)은 사서함이 Exchange Online에서 일부 호스트 되고 온-프레미스로도 일부 호스트되며, 받거나 보내는 인터넷 메일 흐름이 온-프레미스 Exchange 조직을 통해 라우팅되는 하이브리드 배포 메일 라우팅 시나리오입니다. 이 시나리오는 중앙 집중식 메일 전송이라고도 합니다. 이 시나리오에서 Exchange Online은 EOP를 사용하여 프로비전되며, 받는 인터넷 메일은 EOP에 라우팅되기 전에 온-프레미스 메일 서버로 라우팅되었다가 Exchange Online에서 호스트되는 사서함으로 최종 라우팅 됩니다. 또한 Exchange Online 사서함에서 보내는 메일의 경우 외부의 받는 사람에게 보내는 메시지는 온-프레미스 Exchange 조직을 통해 라우팅됩니다. 이 구성을 사용하면 온-프레미스 Exchange 조직과 Exchange Online 조직의 모든 사서함에 대해 단일 SMTP 도메인 네임스페이스를 사용할 수 있습니다. 
+온-프레미스 라우팅 제어를 사용 하는 공유 주소 공간 (MX to 온-프레미스)은 사서함이 Exchange Online 및 일부 온-프레미스에서 부분적으로 호스트 되 고 들어오고 나가는 인터넷 메일 흐름 인 하이브리드 배포 메일 라우팅 시나리오입니다. 온-프레미스 Exchange 조직을 통해 라우팅됩니다. 이 시나리오는 중앙 집중식 메일 전송이라고도 합니다. 이 시나리오에서 Exchange Online은 EOP을 사용 하 여 구축 되 고, 들어오는 인터넷 메일은 EOP로 라우팅되고 Exchange Online에서 호스트 되는 사서함으로 라우팅되도록 하기 전에 온-프레미스 메일 서버로 라우팅됩니다. 또한 Exchange Online 사서함에서 보내는 메일의 경우 외부의 받는 사람에게 보내는 메시지는 온-프레미스 Exchange 조직을 통해 라우팅됩니다. 이 구성을 사용하면 온-프레미스 Exchange 조직과 Exchange Online 조직의 모든 사서함에 대해 단일 SMTP 도메인 네임스페이스를 사용할 수 있습니다. 
   
 하이브리드 배포의 전송 옵션에 대한 자세한 내용은 [Exchange 하이브리드 배포에서의 전송 옵션](https://go.microsoft.com/fwlink/p/?LinkID=271758)을 참조하세요.
   

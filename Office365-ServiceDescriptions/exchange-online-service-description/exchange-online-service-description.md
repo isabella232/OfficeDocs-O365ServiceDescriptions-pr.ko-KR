@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함하는 여러 Office 365 구독의 기능을 비교하고 싶나요? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: 2038f53408d3c7e924e90f8b9f7a898a52d36530
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 25f490e953c3d3e865e02eeb19de06e05b4ce6df
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776599"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442653"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -35,7 +35,7 @@ Exchange Online을 포함하는 여러 Office 365 구독의 기능을 비교하�
   
 Microsoft Exchange Online은 Microsoft Exchange Server의 기능을 클라우드 기반 서비스로 전달하는 호스트 메시징 솔루션입니다. 이 솔루션은 PC, 웹, 모바일 장치로부터 전자 메일, 일정, 연락처 및 작업에 액세스할 수 있도록 하며, Active Directory와 완전히 통합되어 관리자가 그룹 정책과 다른 관리 도구를 통해 환경 전반에서 Exchange Online 기능을 관리할 수 있도록 합니다.
   
-Exchange Online을 구독한 조직은 사용자에게 제공하는 메시징 서비스에 대한 제어 권한은 유지하면서도 온-프레미스 서버 소프트웨어에 대한 작업 부담을 덜 수 있습니다. 이 문서에서 설명한 Exchange Online 호스트 계획을 사용하여, 다중 고객을 동시에 지원하는 서버에서 전자 메일이 호스트됩니다. 이러한 서버는 Microsoft 데이터 센터에 있으며 회사 네트워크 내부에서 또는 인터넷을 통해 광범위한 장치의 사용자에게 액세스할 수 있습니다.
+Exchange Online을 구독한 조직은 사용자에게 제공하는 메시징 서비스에 대한 제어 권한은 유지하면서도 온-프레미스 서버 소프트웨어에 대한 작업 부담을 덜 수 있습니다. 이 문서에서 설명한 Exchange Online 호스트 계획을 사용하여, 다중 고객을 동시에 지원하는 서버에서 전자 메일이 호스트됩니다. 이러한 서버는 Microsoft 데이터 센터에 있으며 회사 네트워크 내부에서 또는 인터넷을 통해 광범위 한 장치에서 사용자가 액세스할 수 있습니다.
   
 요금제 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 요금제 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)를 참조하세요. Office 365 Germany의 요금제를 비교하려면 [Office 365 Germany 구독 요금제](https://go.microsoft.com/fwlink/?linkid=839016)를 참조하세요.
   
@@ -171,7 +171,7 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |원격 Windows PowerShell 액세스|예|예|예|예|예|예|예|예|
 |모바일 장치에 대한 ActiveSync 정책|예|예|예|예|예|예|예|예|
 |사용 현황 보고|예|예|예|예|예|예|예|예|
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Outlook 추가 기능 및 Outlook MAPI|예<sup>19</sup>|예|예<sup>19</sup>|예<sup>19</sup>|예<sup>19</sup>|예<sup>19</sup>|예<sup>19</sup>|아니요|
 
 <sup>1</sup> 클라우드 기반 보관 파일이 있는 각 온-프레미스 사서함 사용자에 대해 Exchange Online 보관 구독이 필요 합니다. <br/>
@@ -196,7 +196,7 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 <sup>20</sup> eDiscovery의 경우 온-프레미스 및 클라우드에 대해 별도의 쿼리가 필요 합니다. <br/>
 <sup>21</sup> 이 테이블은 클라이언트가 관련 요금제와 함께 작동 하는지 여부를 나타냅니다. 이러한 계획 구매에 클라이언트가 반드시 포함되어야 하는 것을 의미하지는 않습니다. <br/>
 <sup>22</sup> 자세한 내용은 [고객 키를 사용 하 여 Office 365에서 데이터 제어](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)를 참조 하세요. <br/>
-<sup>23</sup> 고객 지원 서비스를 통한 직접 연결을 통한 타사 PBX 시스템에 대 한 EXCHANGE Online UM 지원은 4 월 2019까지 종료 됩니다. 자세한 내용은 [Exchange Online 통합 메시징의 세션 경계 컨트롤러 지원의](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) exchange 팀 블로그 중단을 참조 하십시오. <br/>
+<sup>23</sup> 고객 지원 서비스를 통한 직접 연결을 통한 타사 PBX 시스템에 대 한 EXCHANGE Online UM 지원은 4 월 2019까지 종료 됩니다. 자세한 내용은 [Exchange Online 통합 메시징의 세션 경계 컨트롤러 지원의](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) exchange 팀 블로그 중단을 참조 하십시오. <br/>
 <sup>24</sup> F1 사용자는 자신의 사서함에 대리인을 추가할 수 없지만 공유 사서함을 비롯 한 다른 사서함에 액세스 하 여 위임 된 모든 작업을 수행할 수 있습니다.
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Exchange Online 독립 실행형 계획에서의 기능 가용성
@@ -301,7 +301,7 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |원격 Windows PowerShell 액세스|예|예|예|예|예|
 |모바일 장치에 대한 ActiveSync 정책|예|예|예|예|예|
 |사용 현황 보고|예|예|예|예|예|
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |Outlook Web App 웹 파트|예|예|예|예|예|
 |Outlook 추가 기능 및 Outlook MAPI|예|예|예<sup>21</sup>|예<sup>21</sup>|아니요|
 

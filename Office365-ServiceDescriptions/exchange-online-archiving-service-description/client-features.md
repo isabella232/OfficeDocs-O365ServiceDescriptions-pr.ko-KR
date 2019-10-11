@@ -11,28 +11,28 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Microsoft Exchange Online 보관을 통해 사용자는 다양 한 장치 및 플랫폼에서 보관 사서함에 연결할 수 있습니다. 사용자의 보관 사서함에 대한 모든 네트워크 연결은 인터넷을 통해 수행되므로 VPN(가상 사설망) 연결은 필요하지 않습니다. 조직은 사용자가 VPN 연결을 사용하지 않고도 외부에서 Outlook 사용 를 통해 기본 사서함에 액세스할 수 있도록 온-프레미스 클라이언트 액세스 서버를 게시할 수 있습니다. 온-프레미스 서버에 있는 사용자의 기본 사서함에 액세스하기 위해 VPN 액세스가 필요한 경우에도 이 요구 사항은 변경되지 않습니다.
-ms.openlocfilehash: b4f35a2bdc4e0c9f4ae54ec7be4997c9d946e0d4
-ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
+description: Microsoft Exchange Online 보관을 통해 사용자는 다양 한 장치 및 플랫폼에서 보관 사서함에 연결할 수 있습니다. 사용자의 보관 사서함에 대 한 모든 네트워크 연결은 인터넷을 통해 수행 되며 VPN (가상 사설망) 연결은 필요 하지 않습니다. 조직은 사용자가 VPN 연결을 사용하지 않고도 외부에서 Outlook 사용 를 통해 기본 사서함에 액세스할 수 있도록 온-프레미스 클라이언트 액세스 서버를 게시할 수 있습니다. 온-프레미스 서버에 있는 사용자의 기본 사서함에 액세스하기 위해 VPN 액세스가 필요한 경우에도 이 요구 사항은 변경되지 않습니다.
+ms.openlocfilehash: dfe2ebf3b329d99f3166aa2d965603987205054c
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35018300"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442503"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online Archiving의 클라이언트 기능
 
-Microsoft Exchange Online 보관을 통해 사용자는 다양 한 장치 및 플랫폼에서 보관 사서함에 연결할 수 있습니다. 사용자의 보관 사서함에 대한 모든 네트워크 연결은 인터넷을 통해 수행되므로 VPN(가상 사설망) 연결은 필요하지 않습니다. 조직은 사용자가 VPN 연결을 사용하지 않고도 외부에서 Outlook 사용 를 통해 기본 사서함에 액세스할 수 있도록 온-프레미스 클라이언트 액세스 서버를 게시할 수 있습니다. 온-프레미스 서버에 있는 사용자의 기본 사서함에 액세스하기 위해 VPN 액세스가 필요한 경우에도 이 요구 사항은 변경되지 않습니다.
+Microsoft Exchange Online 보관을 통해 사용자는 다양 한 장치 및 플랫폼에서 보관 사서함에 연결할 수 있습니다. 사용자의 보관 사서함에 대 한 모든 네트워크 연결은 인터넷을 통해 수행 되며 VPN (가상 사설망) 연결은 필요 하지 않습니다. 조직은 사용자가 VPN 연결을 사용하지 않고도 외부에서 Outlook 사용 를 통해 기본 사서함에 액세스할 수 있도록 온-프레미스 클라이언트 액세스 서버를 게시할 수 있습니다. 온-프레미스 서버에 있는 사용자의 기본 사서함에 액세스하기 위해 VPN 액세스가 필요한 경우에도 이 요구 사항은 변경되지 않습니다.
   
 > [!IMPORTANT]
-> Microsoft는 Exchange Online Archiving 서비스 상태를 악화시키는 모든 클라이언트 소프트웨어로부터의 연결을 차단하거나 제한할 수 있는 권한을 보유합니다. 
+> Microsoft는 Exchange Online Archiving 서비스 상태를 악화시키는 모든 클라이언트 소프트웨어로부터의 연결을 차단하거나 제한할 수 있는 권한을 보유합니다.
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
 Microsoft Outlook은 일정, 연락처 및 작업을 지원하는 기능이 포함된 유용한 전자 메일 프로그램입니다. Exchange Online Archiving에서는 Outlook 2013, Outlook 2010 및 Outlook 2007을 지원합니다. 주요 기능은 다음과 같습니다.
   
-- **외부에서 Outlook 사용** Outlook 사용자는 외부에서 Outlook 사용 를 통해 VPN 연결을 사용하지 않고도 인터넷에서 Exchange Server와 Exchange Online Archiving에 연결할 수 있습니다. Outlook과 Exchange Online Archiving 간의 통신은 RPC-over-HTTP Windows 네트워킹 구성 요소를 사용하여 SSL 보안 터널을 통해 수행됩니다.    
-- **자동 검색** Exchange 자동 검색 서비스는 Outlook을 Exchange Online Archiving과 함께 자동으로 작동하도록 구성합니다. Outlook 사용자는 자동 검색을 통해 전자 메일 주소와 암호로 처음 로그인할 때, 필요한 프로필 설정을 Exchange에서 직접 받을 수 있습니다. 첫 로그인 이후에는 설정이 일정한 간격으로 수신됩니다. 
-    
+- **외부에서 Outlook** 사용 Outlook Anywhere를 사용 하면 Outlook 사용자가 VPN 연결을 사용 하지 않아도 인터넷을 통해 Exchange 서버 및 Exchange Online 보관에 연결할 수 있습니다. Outlook과 Exchange Online Archiving 간의 통신은 RPC-over-HTTP Windows 네트워킹 구성 요소를 사용하여 SSL 보안 터널을 통해 수행됩니다.    
+- **자동 검색** Exchange 자동 검색 서비스는 Exchange Online 보관용으로 작동 하도록 Outlook을 구성 합니다. 자동 검색을 사용 하면 Outlook 사용자가 전자 메일 주소 및 암호를 사용 하 여 로그인 하는 처음으로 Exchange에서 직접 필요한 프로필 설정을 받을 수 있습니다. 
+
 Outlook 2010 이상 버전과 Outlook Web App에서는 사용자에게 보관 사서함의 모든 기능은 물론 보존 및 보관 정책과 같은 관련 기능도 제공합니다.
   
 Outlook 2007은 보관 사서함을 기본적으로 지원하지만 일부 보관 및 규정 준수 기능은 Outlook 2007에서 사용할 수 없습니다. 예를 들어 Outlook 2007에서는 사용자가 사서함의 항목에 보존 또는 보관 정책을 적용할 수 없습니다. 그 대신에 관리자가 프로비저닝한 정책을 사용해야 합니다. Outlook 2007 사용자의 경우 보관 사서함에 액세스하려면 2011년 2월 Office 2007 누적 업데이트가 필요합니다.
@@ -62,7 +62,7 @@ Outlook 2007은 보관 사서함을 기본적으로 지원하지만 일부 보�
 
 ## <a name="outlook-web-app"></a>Outlook Web App
 
-Outlook Web App은 Exchange Online과 함께 사용되는 웹 기반 버전의 Outlook 전자 메일 프로그램입니다. 사용자는 인터넷에 연결하는 위치(집, 사무실, 외부)에 관계없이 어디서나 Outlook Web App을 통해 전자 메일에 액세스할 수 있습니다.
+Outlook Web App은 Exchange Online과 함께 사용되는 웹 기반 버전의 Outlook 전자 메일 프로그램입니다. 사용자가 인터넷에 연결 되어 있는 경우 (집, 사무실, 또는 이동 중에는 언제나 Outlook Web App을 통해 전자 메일에 액세스할 수 있습니다.)
   
 사용자는 온-프레미스에서 같은 URL을 사용하여 Outlook Web App에 로그인해 보관 사서함에 액세스할 수 있습니다. 보관 사서함은 Outlook Web App에서 기본 사서함 옆에 표시됩니다. Outlook Web App에서 보관 사서함에 직접 액세스하는 명시적인 방법은 없습니다.
   

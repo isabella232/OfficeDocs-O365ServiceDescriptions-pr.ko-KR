@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online은 EAC (Exchange 관리 센터)에 대 한 다양 한 보고 기능을 제공 합니다.
-ms.openlocfilehash: 2926a667e6a886f128de4234e7dfc911b486c474
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 709f354335875f08902a6ab09933de3558d165e7
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776869"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442643"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>보고 기능 및 문제 해결 도구
 
@@ -39,9 +39,9 @@ Microsoft 365 관리 센터의 보고서 페이지에는 사서함 및 그룹에
 
 Excel 2013 보고 통합 문서를 사용하여 드릴다운 기능을 통해 요약 보고서를 확인할 수도 있습니다. 그러나 향상 된 Microsoft 365 관리 센터 보고서를 대신 사용 하는 것이 좋습니다. Excel 2013 보고 통합 문서는 향후 더 이상 사용되지 않을 예정입니다. 개요에 대한 자세한 내용과 통합 문서를 다운로드 및 설치하기 위한 링크는 다음 [다운로드 페이지](https://go.microsoft.com/fwlink/p/?LinkId=271776)를 참조하십시오. 통합 문서 사용 방법에 대한 자세한 내용은 [Excel 보고 통합 문서를 사용한 메일 보호 보고서](https://go.microsoft.com/fwlink/p/?LinkId=285211)를 참조하세요. 
   
-### <a name="reporting-using-web-services"></a>웹 서비스를 사용하여 보고
+### <a name="reporting-using-web-services"></a>Reporting using web services
 
-사용자 지정 보고서를 만들 수 있는 프로그래밍 인터페이스인 REST/OData 테넌트 보고 웹 서비스를 사용하여 사서함, 그룹 및 메시징 데이터에 대한 요약 보고서와 세부 보고서에 모두 액세스할 수 있습니다. 자세한 내용은 [Office 365 보고 웹 서비스](https://go.microsoft.com/fwlink/p/?LinkId=287041)를 참조하세요.
+사용자 지정 보고서를 만들 수 있는 프로그래밍 인터페이스인 REST/OData 테 넌 트 보고 웹 서비스를 사용 하 여 사서함, 그룹 및 메시징 데이터에 대 한 요약 및 자세한 보고서에 모두 액세스할 수 있습니다. 자세한 내용은 [Office 365 Reporting web services](https://go.microsoft.com/fwlink/p/?LinkId=287041)를 참조 하세요.
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>EAC의 보고 기능 및 문제 해결 도구
 

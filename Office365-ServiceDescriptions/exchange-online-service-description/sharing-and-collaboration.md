@@ -11,18 +11,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 114812240efb18573ed7defaa88010bebfdac0bd
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 2bb90afe0011d1799a9faf71ea025261d586692d
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776919"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442543"
 ---
 # <a name="sharing-and-collaboration"></a>공유 및 공동 작업
 
 ## <a name="federated-sharing"></a>페더레이션 공유
 
-페더레이션은 페더레이션 공유를 지원하는 기본 트러스트 인프라를 나타내며 Microsoft Exchange Online 사용자가 다른 외부 페더레이션 조직의 받는 사람 또는 인터넷으로 액세스하는 사용자와 약속 있음/없음 일정 데이터 및 연락처 정보를 공유할 수 있는 방법입니다. 여기에는 Exchange Online에서도 호스트되는 조직, 외부 Microsoft Exchange Server 2010 또는 Exchange Server 2013 조직이 포함됩니다. Exchange Online 관리자는 조직 관계 및 공유 정책을 사용하여 Microsoft Outlook Web App 또는 Microsoft Outlook 2010 이상 버전에서 사용자가 일정 공유 초대를 보낼 수 있도록 설정할 수 있습니다.
+페더레이션은 페더레이션 공유를 지 원하는 기본 트러스트 인프라 (Microsoft Exchange Online 사용자가 약속 있음/없음 일정 데이터를 공유 하 고 다른 외부 페더레이션 조직의 받는 사람과 연락처 정보를 공유할 수 있도록 하는 방법)를 참조 합니다. 인터넷에 액세스 하는 사용자입니다. 여기에는 Exchange Online에서도 호스트되는 조직, 외부 Microsoft Exchange Server 2010 또는 Exchange Server 2013 조직이 포함됩니다. Exchange Online 관리자는 조직 관계 및 공유 정책을 사용하여 Microsoft Outlook Web App 또는 Microsoft Outlook 2010 이상 버전에서 사용자가 일정 공유 초대를 보낼 수 있도록 설정할 수 있습니다.
   
 > [!IMPORTANT]
 >  외부 Exchange 2010 및 Exchange 2013 조직은 페더레이션 공유 구성의 일부로 Microsoft 페더레이션 게이트웨이와의 페더레이션 트러스트를 구성해야 합니다. 그러나 Exchange Online 조직의 경우에는 Office 365 테넌트가 만들어질 때 Microsoft 페더레이션 게이트웨이와의 페더레이션 트러스트가 자동으로 만들어지므로 페더레이션 트러스트를 구성할 필요가 없습니다. >  Exchange Online 조직이 페더레이션 공유를 사용하려면 조직 관계 또는 공유 정책을 구성해야 합니다. >  페더레이션 공유에서 다른 Office 365 테넌트의 Exchange Online 조직 간 GAL(전체 액세스 목록) 공유 또는 사용자 사서함 이동은 지원되지 않습니다. 
