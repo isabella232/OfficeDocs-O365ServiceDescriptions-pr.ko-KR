@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군을 microsoft Exchange Online, Microsoft SharePoint Online, Office for web에 해당 하는 클라우드 기반 버전의 Microsoft의 차세대 통신 및 공동 작업 서비스와 조합 하 여 제공 합니다. Microsoft 비즈니스용 Skype Online-사용자가 인터넷을 통해 어디서 나 생산성을 유지 하는 데 도움이 됩니다.
-ms.openlocfilehash: 580c4a37b3024f22f374bbcbcea08341418c6c09
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 04fb1fef3858595ee4d1fbedb810444852471855
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998490"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523394"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
 Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군을 microsoft Exchange Online, Microsoft SharePoint Online, Office for web에 해당 하는 클라우드 기반 버전의 Microsoft의 차세대 통신 및 공동 작업 서비스와 조합 하 여 제공 합니다. Microsoft 비즈니스용 Skype Online-사용자가 인터넷을 통해 어디서 나 생산성을 유지 하는 데 도움이 됩니다.
   
-이 문서에서는 Office 365 교육 계획 (A1, A3 및 A5)에 대 한 기능을 소개 합니다. 비즈니스 계획과 기업 계획 간에 기능을 비교 하려면 office [365 For 비즈니스 요금제 비교](https://products.office.com/business/compare-more-office-365-for-business-plans?legRedir=true&CorrelationId=cd322a5e-7b9c-467b-96d7-16b8074b9dda) 또는 자세한 기능 목록을 보려면 [Office 365 서비스 설명](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)에서 관련 서비스 설명을 참조 하세요.
+이 문서에서는 Office 365 교육 계획 (A1, A3 및 A5)에 대 한 기능을 소개 합니다. 비즈니스 계획과 기업 계획 간에 기능을 비교 하려면 office [365 For 비즈니스 요금제 비교](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) 또는 자세한 기능 목록을 보려면 [Office 365 서비스 설명](../office-365-service-descriptions-technet-library.md)에서 관련 서비스 설명을 참조 하세요.
   
 지원 문서 및 정보를 검색 하려면 [Office 도움말 및 교육](https://support.office.com/)을 참조 하세요.
   
@@ -31,7 +31,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**서비스** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <sup>3</sup> <br/> |
+|**서비스** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5**<sup>3</sup> <br/> |
 |Office 365 플랫폼  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange Online  <br/> |예<sup>5</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |
 |SharePoint Online  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -57,7 +57,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
   
 ## <a name="service-level-agreement"></a>서비스 수준 계약
 
-서비스 수준 계약에 대한 내용은 [서비스 수준 계약](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-level-agreement)을 참조하세요. Office 365의 최근 작동시간에 대한 자세한 정보는[Office 365에서의 투명한 운용](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity)을 참조하세요.
+서비스 수준 계약에 대한 내용은 [서비스 수준 계약](../office-365-platform-service-description/service-level-agreement.md)을 참조하세요. Office 365의 최근 작동 시간에 대 한 자세한 내용은 [최근 전 세계 운용을](../office-365-platform-service-description/service-health-and-continuity.md#recent-worldwide-uptimes)를 참조 하세요.
   
 ## <a name="platform-features"></a>플랫폼 기능 
 
@@ -66,7 +66,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |||||
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|**[Office 365 관리 기능](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||
+|**[Office 365 관리 기능](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||
 |Microsoft 365 관리 센터 또는 Windows PowerShell을 사용 하 여 Office 365 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Azure Information Protection을 사용하여 콘텐츠 보호  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[Office 365 제품군 기능](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -207,16 +207,16 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |[고객 Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[모바일 장치 관리](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09) <sup>1</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[고급 데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30) <sup>2</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|[데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09)<sup>1</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[고급 데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[콘텐츠 검색](https://docs.microsoft.com/office365/securitycompliance/search-for-content)<br/> |예  <br/> |예  <br/> |예  <br/> |
 |[eDiscovery 사례](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[eDiscovery 내보내기](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[eDiscovery 보류 (쿼리 기반 eDiscovery 보류 포함)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[고급 eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20) <sup>4</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|[보관](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) <sup>3</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>4</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|[보관](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>3</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[수동 보존/삭제 정책](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[통합 감사](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) <sup>6</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[통합 감사](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>6</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |||||
    
 > [!NOTE]
@@ -303,11 +303,11 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 ||||
 |:-----|:-----|:-----|
 |**응용 프로그램** <br/> |**웹에 대 한 Office** <br/> |**자세한 기능 비교 링크** <br/> |
-|Word  <br/> |웹에 대 한 Word <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |웹에 대 한 Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |웹에 대 한 OneNote <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |웹 용 PowerPoint <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|Visio  <br/> |Visio for web  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
+|Word  <br/> |웹용 Word <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |웹용 Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |웹용 OneNote <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |웹용 PowerPoint <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|Visio  <br/> |웹용 Visio  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
    
 ## <a name="exchange-online-features"></a>Exchange Online 기능 
 <a name="OfcOnline"> </a>
@@ -418,7 +418,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |원격 Windows PowerShell 액세스  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |모바일 장치에 대한 ActiveSync 정책  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |사용 현황 보고  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Extending the Service - Customization, Add-ins, and Resources](../exchange-online-service-description/exchange-online-service-description.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Outlook 추가 기능 및 Outlook MAPI  <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |
    
 > [!NOTE]
@@ -805,7 +805,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 비즈니스용 OneDrive (이전 SkyDrive Pro)는 클라우드의 개인 온라인 저장 공간입니다. 이 도구를 사용 하 여 작업 파일을 여러 장치에 간편 하 게 저장 하 고 보안을 강화 합니다. 필요에 따라 동료와 파일을 공유 하 고 office 문서를 웹의 Office와 실시간으로 함께 편집 합니다. 비즈니스용 OneDrive 동기화 앱을 사용 하 여 파일을 로컬 컴퓨터에 동기화 합니다.
   
-비즈니스용 OneDrive는 SharePoint Online에 포함 되어 있으며 독립 실행형 계획으로 구입할 수도 있습니다. 비즈니스용 OneDrive 독립 실행형 옵션에는 웹에 대 한 Office가 포함 됩니다. 자세한 내용은 [비즈니스용 OneDrive 란?](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US) 를 참조 하세요.
+비즈니스용 OneDrive는 SharePoint Online에 포함 되어 있으며 독립 실행형 계획으로 구입할 수도 있습니다. 비즈니스용 OneDrive 독립 실행형 옵션에는 웹에 대 한 Office가 포함 됩니다. 자세한 내용은 [비즈니스용 OneDrive 란?](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076)를 참조 하세요.
   
 ### <a name="system-requirements"></a>시스템 요구 사항
 
@@ -825,9 +825,9 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
     
 특정 OneDrive 사용자에 게 더 많은 저장소를 할당할 수 없습니다. 그러나 사용자에 게 표시 되는 저장 용량을 낮출 수 있습니다. Office 365 Enterprise F1 사용자에 게 추가 저장소가 필요한 경우 Office 365 Enterprise E1으로 업그레이드 해야 합니다.
   
-비즈니스용 OneDrive에 추가할 수 없는 파일 형식에 대 한 자세한 내용은 [목록 또는 라이브러리에 추가할 수 없는 파일 형식](https://support.office.com/article/types-of-files-that-cannot-be-added-to-a-list-or-library-30be234d-e551-4c2a-8de8-f8546ffbf5b3?ui=en-US&rs=en-US&ad=US)항목을 참조 하십시오.
+비즈니스용 OneDrive에 추가할 수 없는 파일 형식에 대 한 자세한 내용은 [목록 또는 라이브러리에 추가할 수 없는 파일 형식](https://support.office.com/article/30be234d-e551-4c2a-8de8-f8546ffbf5b3)항목을 참조 하십시오.
   
-비즈니스용 OneDrive는 SharePoint Online에 포함되어 있습니다. SharePoint Online에서 사이트 모음 할당량, 파일 업로드 제한 및 저장 제한과 같은 추가 제한 사항에 대 한 자세한 내용은 [Sharepoint online 소프트웨어 경계 및 제한을](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectSourcePath=%252fArticle%252f8f34ff47-b749-408b-abc0-b605e1f6d498)참조 하세요. 
+비즈니스용 OneDrive는 SharePoint Online에 포함되어 있습니다. SharePoint Online에서 사이트 모음 할당량, 파일 업로드 제한 및 저장 제한과 같은 추가 제한 사항에 대 한 자세한 내용은 [Sharepoint online 소프트웨어 경계 및 제한을](../sharepoint-online-service-description/sharepoint-online-limits.md)참조 하세요.
   
 ### <a name="subscription-plans"></a>구독 계획
 
@@ -1105,7 +1105,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |사용자 수  <br/> |1-50만<sup>6</sup> <br/> |1-50만<sup>6</sup> <br/> |1-50만<sup>6</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 무제한의 추가 SharePoint Online 저장소를 구입할 수 있습니다. [구독에 대 한 저장소 공간 변경](https://support.office.com/article/Change-storage-space-for-your-subscription-96EA3533-DE64-4B01-839A-C560875A662C?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요. <br/> <sup>2</sup> 휴지통을 모니터링 하 고 정기적으로 비우는 것이 좋습니다. 휴지통에서 사용하는 저장소 공간은 조직이 사용하는 총 파일 저장소 한도의 일부입니다.<br/> 
+> <sup>1</sup> 무제한의 추가 SharePoint Online 저장소를 구입할 수 있습니다. [구독에 대 한 저장소 공간 추가](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C)를 참조 하세요. <br/> <sup>2</sup> 휴지통을 모니터링 하 고 정기적으로 비우는 것이 좋습니다. 휴지통에서 사용하는 저장소 공간은 조직이 사용하는 총 파일 저장소 한도의 일부입니다.<br/> 
 <sup>3</sup> Office 365 구독 및 SharePoint Online 독립 실행형 요금제가 있는 경우 저장 금액이 추가 됩니다.<br/> 
 <sup>4</sup> SharePoint Online 관리자는 사이트 모음 및 사이트에 대 한 저장소 사용 제한을 설정할 수 있습니다.<br/> 
 <sup>5</sup> 사용이 허가 된 각 사용자에 대해 만들어진 비즈니스용 OneDrive 사이트 모음을 포함 하지 않습니다.<br/> 
@@ -1220,7 +1220,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |Voicemail  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |[Office 365의 통화 플랜](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365)(국내 통화 계획, 추가 기능을 구매해야 함)  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |
 |[Office 365의 통화 플랜](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365)(국제 통화 계획, 추가 기능을 구매해야 함)  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |
-|[소비 제작진](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
+|[통신 제작진](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |비즈니스용 Skype 음성  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[보안 및 보관](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |메신저 및 미디어 암호화  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -1269,7 +1269,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
   
 #### <a name="peer-to-peer-limits"></a>피어-투-피어 제한
 
-- **파일 전송 제한**비즈니스용 Skype 온라인 IM 대화에서 전송할 수 있는 최대 파일 크기입니다. 파일 전송이 차단된 파일 형식을 확인하려면 [비즈니스용 Skype Online에서 파일 또는 첨부 파일 보내고 받기](https://support.microsoft.com/help/2799505/you-can-t-send-or-receive-files-or-attachments-in-skype-for-business-o)에 대한 Microsoft 지원 문서를 참조하세요.
+- **파일 전송 제한**비즈니스용 Skype 온라인 IM 대화에서 전송할 수 있는 최대 파일 크기입니다. 파일 전송이 차단된 파일 형식을 확인하려면 [비즈니스용 Skype Online에서 파일 또는 첨부 파일 보내고 받기](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments)에 대한 Microsoft 지원 문서를 참조하세요.
     
 - **대화 탭 열기 제한** 비즈니스용 Skype 사용자가 한 번에 열 수 있는 최대 대화 탭 수입니다. 
     
@@ -1330,4 +1330,3 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 비즈니스용 Skype Online 국내 및 국제 통화 요금제의 분 제한 사항에 대 한 자세한 내용은 [비즈니스용 Skype ONLINE PSTN 서비스 사용 용어](https://docs.microsoft.com/microsoftteams/complimentary-dial-out-period#skype-for-business-pstn-services)를 참조 하세요.
   
-

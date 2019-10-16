@@ -9,22 +9,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Microsoft 365 및 Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다.
-ms.openlocfilehash: 09d91efc728184db881d328ce0e3d2c69159b348
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 6bfea07758698fa8cbbdafc06bfed96d2c9607bc
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776999"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523391"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
 Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Microsoft 365 및 Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. 
   
-Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 포함 하는 완전 한 시스템을 제공 합니다. 다음 표에는 교육용 A1, A3 및 A5 기능에 대 한 Office 365과 교육용 A3 및 A5 기능에 해당 하는 Microsoft 365이 나열 되어 있습니다. 비즈니스 계획과 enterprise 요금제 간에 Office 365 기능을 비교 하려면 office [365 For business 요금제 비교](https://go.microsoft.com/fwlink/?linkid=799177)를 참조 하거나, 자세한 기능 목록을 보려면 [Office 365 서비스 설명](https://go.microsoft.com/fwlink/?linkid=839510)에서 관련 서비스 설명을 참조 하세요. 지원 문서 및 정보를 검색 하려면 [Office 도움말 및 교육](https://support.office.com/)을 참조 하세요.
+Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 포함 하는 완전 한 시스템을 제공 합니다. 다음 표에는 교육용 A1, A3 및 A5 기능에 대 한 Office 365과 교육용 A3 및 A5 기능에 해당 하는 Microsoft 365이 나열 되어 있습니다. 비즈니스 계획과 enterprise 요금제 간에 Office 365 기능을 비교 하려면 office [365 For business 요금제 비교](https://go.microsoft.com/fwlink/?linkid=799177)를 참조 하거나, 자세한 기능 목록을 보려면 [Office 365 서비스 설명](../office-365-service-descriptions-technet-library.md)에서 관련 서비스 설명을 참조 하세요. 지원 문서 및 정보를 검색 하려면 [Office 도움말 및 교육](https://support.office.com/)을 참조 하세요.
   
 ## <a name="services-and-features"></a>서비스 및 기능
 
-각 Microsoft 365 교육 계획에는 Exchange Online, SharePoint Online 등의 여러 개별 서비스가 포함 됩니다. 다음 표에는 각 Office 365 및 Microsoft 365 계획에서 사용할 수 있는 서비스가 나와 있으며,이를 통해 사용자의 요구에 가장 적합 한 솔루션을 선택할 수 있습니다. Office 365 서비스 및 기능을 보다 자세히 검토 하려면 [office 365 학력](https://technet.microsoft.com/EN-US/library/mt844095.aspx) 서비스 설명을 참조 하세요. 
+각 Microsoft 365 교육 계획에는 Exchange Online, SharePoint Online 등의 여러 개별 서비스가 포함 됩니다. 다음 표에는 각 Office 365 및 Microsoft 365 계획에서 사용할 수 있는 서비스가 나와 있으며,이를 통해 사용자의 요구에 가장 적합 한 솔루션을 선택할 수 있습니다. Office 365 서비스 및 기능을 보다 자세히 검토 하려면 [office 365 학력](office-365-education.md) 서비스 설명을 참조 하세요.
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
@@ -50,7 +50,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |코드 작성기를 사용 하는 Minecraft 교육 에디션  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
 |테스트 앱 사용  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
 |학교 Pc 앱 설정  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
-|**음성, 비디오 및 모임** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 교육 A5** <sup>6</sup> <br/> |
+|**음성, 비디오 및 모임** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 교육 A5**<sup>6</sup> <br/> |
 |Skype 모임 브로드캐스트  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Bookings  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365 오디오 회의  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
@@ -59,7 +59,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |Delve  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Power BI Pro  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |내 분석  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|**Azure Active Directory** <sup>11</sup> <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
+|**Azure Active Directory**<sup>11</sup> <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Azure Active Directory Basic  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Azure Active Directory 계획 1  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |Azure Active Directory 계획 2  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |

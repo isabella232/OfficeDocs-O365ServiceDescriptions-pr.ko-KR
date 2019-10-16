@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a3ed4aa6-aab3-474f-909d-5f24f98128a3
 description: 대부분의 휴대폰, 태블릿 및 기타 모바일 장치는 Microsoft Office 365에서 사용할 수 있습니다.
-ms.openlocfilehash: cd2e96384b1a263c8ff768827fcc6e19d12ff745
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 24e243ea29648330a49f4de23f2b7afbf7c69f7a
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776839"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523392"
 ---
 # <a name="mobile-devices-sd"></a>모바일 장치[SD]
 
@@ -31,6 +31,6 @@ ms.locfileid: "35776839"
     
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)을 참조하세요.
+Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](office-365-platform-service-description.md)을 참조하세요.
   
 

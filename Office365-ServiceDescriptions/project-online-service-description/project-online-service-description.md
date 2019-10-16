@@ -1,5 +1,5 @@
 ---
-title: Project Online 서비스 설명
+title: Microsoft Project Service 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,171 +14,264 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을 위한 유연한 온라인 솔루션입니다. Office 365를 통해 제공되는 Project Online은 거의 모든 위치의 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획하고 우선 순위를 정하고 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: 78d9b89213483fa6065a2a667870667769ae4e2d
-ms.sourcegitcommit: d03a05074152139760b0c68dd3e46847623f27b9
+ms.openlocfilehash: e580a6ae92655c39be38f7eb0a6bf48b74b31bf5
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/07/2019
-ms.locfileid: "36790744"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523263"
 ---
-# <a name="project-online-service-description"></a>Project Online 서비스 설명
+# <a name="microsoft-project-service-description"></a>Microsoft Project Service 설명
+
+## <a name="overview"></a>개요
+
+Microsoft Project에서는 프로젝트 및 작업 관리에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되는 다음과 같은 응용 프로그램을 제공 합니다.
+
+- 웹 프로젝트
+- Project Online 
+- Project Online 데스크톱 클라이언트
+
+이 문서는 각 프로젝트 구독에서 제공 되는 응용 프로그램과 각 응용 프로그램에서 제공 하는 기능을 이해 하는 데 도움이 됩니다.
 
 > [!NOTE]
-> 이 문서를 업데이트 하는 중입니다. 업데이트 된 콘텐츠에 대해 10 월 2019 초에 다시 확인 하세요.
->
-Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을 위한 유연한 온라인 솔루션입니다. Office 365를 통해 제공되는 Project Online은 거의 모든 위치의 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획하고 우선 순위를 정하고 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다. 
-  
-Project Online은 Project Online Essentials, Project Online Professional 및 Project Online Premium의 3가지 계획으로 사용할 수 있습니다.
-  
-계획 간 기능을 비교하려면 [Project Online 계획 비교](https://products.office.com/en-us/project/compare-microsoft-project-management-software)를 참조하세요.
-  
-Office 365 서비스 설명의 페이지를 내보내고 저장하며 인쇄할 수 있습니다. [여러 페이지 내보내기](https://techcommunity.microsoft.com/t5/Project-Support-Blog/Project-Online-New-ways-to-work-with-Team-Assignments/ba-p/362001?advanced=false&collapse_discussion=true&q=New%20ways%20to%20work%20with%20Team%20Assignments&search_type=thread) 방법을 알아보세요.
-  
-## <a name="project-online-boundaries-and-limits"></a>Project Online 경계 및 제한
+> 2019 년 10 월 29 일 Project Online Professional 및 Project Online Premium 구독의 이름은 각각 프로젝트 계획 3 및 프로젝트 계획 5로 변경 됩니다.
 
-Project Online 서비스가 일부 제한됩니다. 자세한 내용은 [Project Online 소프트웨어 경계 및 제한](https://support.office.com/en-us/article/Project-Online-software-boundaries-and-limits-5A09DBCE-1E68-4A7B-B099-D5F1B21BA489)을 참조하세요.
-  
-## <a name="data-backup"></a>데이터 백업
+### <a name="project-for-the-web"></a>웹 프로젝트
 
- Project Online에는 Office 365과 동일한 데이터 백업 및 보존 정책이 있습니다. 자세한 내용은 [Office 365에서 데이터 보존, 삭제 및 폐기](https://docs.microsoft.com/office365/securitycompliance/office-365-data-retention-deletion-and-destruction-overview)를 참조 하세요.
-  
-## <a name="use-of-sharepoint-online"></a>SharePoint Online 사용
+웹 프로젝트는 클라우드 기반 작업 및 프로젝트 관리를 위한 Microsoft의 최신 제품입니다. 웹 프로젝트에서는 대부분의 요구 사항과 역할을 충족 하기 위한 간단한 강력한 작업 관리 기능을 제공 합니다. 프로젝트 관리자 및 팀 구성원은 Project를 사용 하 여 웹을 통해 모든 규모의 작업을 계획 하 고 관리할 수 있습니다.
 
-Project Online 서비스를 사용하려면 Project Online 서비스의 일부로 프로비전되는 SharePoint Online을 사용해야 합니다. Project Online Professional 또는 Premium에서 제공 하는 SharePoint Online 기능에 대 한 권한은 Project Online을 지원 하기 위해 데이터를 저장 하 고 액세스 하는 것으로 제한 됩니다.
-  
-## <a name="licensing-considerations"></a>라이선스 고려 사항
+웹에 대 한 Project는 Microsoft Power Platform을 기반으로 합니다. 이 전원 플랫폼은 PowerApps, Microsoft Flow, Power BI 및 일반 데이터 서비스 (CD)로 구성 됩니다. 웹 데이터에 대 한 프로젝트는 CD에 저장 됩니다. 
 
-### <a name="internal-users"></a>내부 사용자
+웹 프로젝트는 Project Online Professional 및 Project Online Premium의 두 가지 구독에서 사용할 수 있습니다. [웹 기능에 대 한 프로젝트](#project-for-the-web-features) 섹션에 나열 된 기능은 웹 데이터 저장소에 대 한 프로젝트의 데이터와 상호 작용 합니다.
 
-Project Online 사이트에서의 모든 상호 작용에는 Project Online 라이선스가 필요 합니다.
-  
-- Project Online Essentials는 조직에서 Project Online Professional 또는 Project Online Premium을 이미 사용 하 고 있는 고객을 위한 팀 구성원 추가 기능 라이선스입니다.
-    
-- 고급 사용 사례에 대 한 자세한 내용은 사용자에 게 적절 한 라이선스가 있어야 합니다. 프로젝트 관리자에 게는 최소한 Project Online Professional 라이선스가 필요 합니다. 포트폴리오 관리자에 게는 Project Online Premium 라이선스가 필요 합니다.
-    
-> [!IMPORTANT]
->  Project Online Essentials는 Project Online Professional 또는 Project Online Premium이 있는 고객을 위한 팀 구성원 *추가 기능* 라이선스입니다. 
-<br/>마지막 Project Online Professional 또는 Project Online Premium 라이선스가 만료 되 면 120 일 후에 Project Web App 인스턴스가 삭제 됩니다. 
-<br/>Project Online 평가판 구독의 경우에는 평가판 기간이 끝난 후에 Project Web App 인스턴스가 30 일 후에 삭제 됩니다. 
-  
-### <a name="external-users"></a>외부 사용자
+### <a name="project-online"></a>Project Online
+ 
+Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을 위한 유연한 온라인 솔루션입니다. Project Online은 거의 모든 장치에서 거의 모든 위치에서 프로젝트 및 프로젝트 포트폴리오 투자&mdash;를 계획, 우선 순위 지정 및 관리 하기 위한 강력한 프로젝트 관리 기능을 제공 합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
 
-외부 사용자를 위한 Project Online 라이선스는 내부 사용자와 동일한 정책을 따릅니다. Project Online 사이트에서의 모든 상호 작용에는 Project Online 라이선스가 필요 합니다.
-  
-## <a name="project-online-plans"></a>Project Online 계획
+Project Online은 SharePoint 플랫폼을 기반으로 하며 데이터를 SharePoint 데이터 저장소에 저장 합니다.
 
-다음 Project Online사용할 수 있습니다. Project Online에 대 한 자세한 내용은 [Project Online 시작](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)을 참조 하세요.
-  
-||||
-|:-----|:-----|:-----|
-|**계획** <br/> |**대상 사용자** <br/> |**설명** <br/> |
-|Project Online Essentials<sup>1</sup> |팀 구성원 <br/> <br/> |팀 구성원을 위한 웹 기반 인터페이스 <br/>  업데이트 작업, 문제점 및 위험 <br/>  작업표 제출 <br/> 문서 공유 및 Microsoft 팀과 공동 작업 또는 비즈니스용 Skype 현재 상태 <br/> 
-|Project Online Professional<sup>1</sup> <br/>|프로젝트 관리자  <br/> | 모든 Project Online Essentials 기능과 다음 기능 포함  <br/>    웹 인터페이스를 통해 언제/어디서나 액세스 가능  <br/>  프로젝트 예약 및 비용 관리  <br/>  자원 관리  <br/>  클라우드에 프로젝트 게시  <br/>  최신 버전의 Project 데스크톱 응용 프로그램을 Windows PC에 즉시 스트리밍하도록 포함합니다.  <br/>  구독 라이선스마다 최대 5개의 동시 Project 데스크톱 응용 프로그램 설치가 허용됩니다.  <br/> |
-|Project Online Premium<sup>1</sup> <br/>|포트폴리오 및 자원 관리자  <br/> | 모든 Project Online Professional 기능과 다음 기능 포함  <br/>  포트폴리오 선택 및 최적화  <br/>  제안 관리  <br/>  Enterprise 자원 관리  <br/>  기본 포트폴리오 보고서  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> Project online Essentials, Project online Professional 및 Project online Premium은 중국 관련 office 365 버전인 21vianet에서 운영 하는 office 365의 일부로도 제공 됩니다. 
-  
-## <a name="feature-availability-across-project-online-standalone-plans"></a>Project Online 독립 실행형 계획에서의 기능 가용성
-<a name="BKMK_ProjectFeatures"> </a>
+Project Online은 Project Online Professional 및 Project Online Premium 이라는 두 가지 구독을 통해 사용할 수 있습니다. Project online에 대 한 팀 구성원 기능은 [Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3) 구독을 통해 제공 됩니다. [Project online 기능](#project-online-features) 섹션에 나열 된 기능은 Project online SharePoint 데이터 저장소의 데이터와 상호 작용 합니다.
 
-|||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|**핵심 기능(데스크톱 클라이언트)** <br/> ||||||
-|[열 추가](core-functionality.md#add-columns) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[Backstage](core-functionality.md#backstage) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[간편 실행](core-functionality.md#click-to-run) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[상황별 오른쪽 클릭 메뉴](core-functionality.md#contextual-right-click-menus) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[사용자 지정 필드](core-functionality.md#custom-fields) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Enhanced copy and paste across Microsoft Office applications](core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[Gantt 차트, 달력 및 작업 시트 보기](core-functionality.md#gantt-chart-calendar-and-task-sheet-views) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[Microsoft의 효율적인 사용자 인터페이스, 리본](core-functionality.md#microsoft-fluent-user-interface-the-ribbon) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[여러 수준 실행 취소](core-functionality.md#multiple-level-undo) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[네트워크 다이어그램 보기](core-functionality.md#network-diagram-view) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[Office 스토어](core-functionality.md#office-store) <br/> |아니요  <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |아니요  <br/> |
-|[온라인 도움말](core-functionality.md#online-help) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[PDF 및 XPS 출력](core-functionality.md#pdf-and-xps-output) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[프로젝트 필드의 자리 표시자 텍스트](core-functionality.md#placeholder-text-in-project-fields) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[프로젝트 템플릿](core-functionality.md#project-templates) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[환경 시작](core-functionality.md#start-experience) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[텍스트 자동 줄 바꿈](core-functionality.md#text-wrap) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[시간 표시 막대 보기](core-functionality.md#timeline-view) <br/> |아니요 <br/>|예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[확대/축소 컨트롤](core-functionality.md#zoom-controls) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|**프로젝트 계획(데스크톱 클라이언트)** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[초기 계획 롤업](project-planning.md#baseline-rollup) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[예산 계획](project-planning.md#budget-planning) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[프로젝트 버전 비교](project-planning.md#compare-project-versions) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[마감](project-planning.md#deadlines) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[필터링](project-planning.md#filtering) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[수식 및 그래픽 표시기](project-planning.md#formulas-and-graphical-indicators) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[프로젝트 데이터 그룹화 및 정렬](project-planning.md#group-and-sort-project-data) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[보고서](project-planning.md#reports) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[팀 플래너](project-planning.md#team-planner) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|**작업 관리(데스크톱 클라이언트)** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[활성 및 비활성 작업](task-management.md#active-and-inactive-tasks) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[자동 완성](task-management.md#auto-complete) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[자동 일정 예약](task-management.md#automatic-scheduling) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[2149로 확장된 달력 날짜](task-management.md#calendar-date-extended-to-2149) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[프로젝트 간 요주의 경로](task-management.md#cross-project-critical-path) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[작업 검사](task-management.md#task-inspector) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[작업 경로 분석](task-management.md#task-path-analysis) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[하향식 요약 작업](task-management.md#top-down-summary-tasks) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[진행률 업데이트](task-management.md#update-progress) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[사용자 제어 및 수동 일정 예약](task-management.md#user-controlled-and-manual-scheduling) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|**프로젝트 자원 관리(데스크톱 클라이언트)** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[비용 리소스](project-resource-management.md#cost-resources) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[휴무 시간 관리](project-resource-management.md#manage-nonworking-time) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[리소스 평준화](project-resource-management.md#resource-leveling) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[리소스 시트 및 배정 현황 보기](project-resource-management.md#resource-sheet-and-usage-views) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[자원 대체](project-resource-management.md#resource-substitution) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[팀 리소스](project-resource-management.md#team-resources) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[작업, 일반, 재료 리소스](project-resource-management.md#work-generic-and-material-resources) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|**프로젝트 게시(데스크톱 클라이언트)** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[프로젝트 사이트 만들기](project-publishing.md#create-a-project-site) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[Sharepoint의 마스터 프로젝트](project-publishing.md#master-projects-on-sharepoint) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[비즈니스용 Skype를 사용한 현재 상태](project-publishing.md#presence-with-skype-for-business) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[프로젝트를 Project Server 또는 Project Online에 게시](project-publishing.md#publish-projects-to-project-server-or-project-online) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[Project MPP 파일을 SharePoint에 저장](project-publishing.md#save-a-project-mpp-file-to-sharepoint) <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[SharePoint와 작업 목록 동기화](project-publishing.md#task-list-sync-to-sharepoint) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|**핵심 서비스 기능** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[Active Directory 통합](core-services-functionality.md#active-directory-integration) <br/> |예<sup>1</sup> <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|[관리, 배포 및 확장성](core-services-functionality.md#administration-deployment-and-extensibility) <br/> |예<sup>23</sup> <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|[시작](core-services-functionality.md#getting-started) <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|[문제점 및 위험 관리(팀 구성원용)](core-services-functionality.md#issues-and-risk-management-for-team-members) <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|[Office 365 보안 센터](core-services-functionality.md#office-365-trust-center) <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |해당 없음  <br/> |해당 없음  <br/> |
-|[PPM 파트너 에코시스템](core-services-functionality.md#ppm-partner-ecosystem) <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|[서비스 안정성](core-services-functionality.md#service-reliability) <br/> |예  <br/> |예  <br/> |예  <br/> |해당 없음  <br/> |해당 없음  <br/> |
-|[서비스 업데이트](core-services-functionality.md#service-updates) <br/> |예  <br/> |예  <br/> |예  <br/> |해당 없음  <br/> |해당 없음  <br/> |
-|[팀 구성원 공동 작업](core-services-functionality.md#team-member-collaboration) <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|[시간 및 작업 관리(팀 구성원용)](core-services-functionality.md#time-and-task-management-for-team-members) <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|**프로젝트 관리** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[문제점 및 위험 관리](project-management.md#issues-and-risk-management) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|[프로젝트 리소스 관리](project-management.md#manage-project-resources) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|[일정 관리](project-management.md#schedule-management) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[시간 및 작업 관리](project-management.md#time-and-task-management) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
-|[홈](project-management.md#project-home) <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
-|**포트폴리오 관리** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[프로젝트 분석 및 포트폴리오 최적화](portfolio-management.md#analyze-projects-and-optimize-portfolio) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|[프로젝트 만들기 및 편집](portfolio-management.md#create-and-edit-projects) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|[재무 관리](portfolio-management.md#financial-management) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|[워크플로에 참여](portfolio-management.md#participate-in-workflow) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|[포트폴리오 분석 및 선택](portfolio-management.md#portfolio-analytics-and-selection) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|[프로그램 관리](portfolio-management.md#program-management) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|[로드맵](portfolio-management.md#roadmap) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
-|**보고 및 비즈니스 인텔리전스** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[OData 피드](reporting-and-business-intelligence.md#odata-feeds) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|[기본 포트폴리오 대시보드](reporting-and-business-intelligence.md#out-of-the-box-portfolio-dashboards) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
-|[프로젝트 데스크톱 보고](reporting-and-business-intelligence.md#project-desktop-reporting) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[시간대 별 보고](reporting-and-business-intelligence.md#project-desktop-reporting) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|**자원 관리** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
-|[수신 리소스 참여 요청 수락/거절/수정](resource-management.md#approverejectmodify-incoming-resource-engagement-requests) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|[자원 그룹 관리](resource-management.md#manage-resource-pool) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|[리소스 용량 계획](resource-management.md#plan-resource-capacity) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|[리소스 용량 계약](resource-management.md#request-resource-agreements) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[사용 가능한 리소스 보기 및 팀 구성](resource-management.md#view-available-resources-and-build-teams) <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> Active Directory 통합에 Project Online Essentials 사용자가 포함됩니다. 그렇지만 Active Directory 통합을 관리하려면 Project Online 구독이 필요합니다. 
- <br/><sup>2</sup> 21Vianet에서 운영하는 Office 365용 Project Online에서 사용할 수 없습니다. 
- <br/><sup>3</sup> 팀 구성원 시나리오에 대 한 확장만 지원 됩니다. 
+### <a name="project-online-desktop-client"></a>Project Online 데스크톱 클라이언트
+
+Microsoft Project Online 데스크톱 클라이언트는 자동화 된 일정, 프로젝트 자원 관리 및 기본 제공 보고 기능을 지 원하는 프로젝트 관리 프로그램입니다. Project Online 데스크톱 클라이언트는 독립 실행형 응용 프로그램으로 사용 하거나 Project Online에 연결할 수 있습니다. Project Online 데스크톱 클라이언트는 project online 데스크톱 클라이언트의 구독 버전 이며 Project Online Professional 및 Project Online Premium 구독에서 사용할 수 있습니다.
+
+### <a name="using-project-for-the-web-and-project-online-together"></a>Project 및 Project Online을 함께 사용
+
+웹 및 Project Online 프로젝트는 별도의 응용 프로그램 이지만이를 나란히 사용할 수 있습니다. Project Home에서 두 응용 프로그램의 모든 프로젝트를 볼 수 있습니다. 프로젝트 로드맵 기능을 사용 하 여 두 응용 프로그램의 프로젝트를 포함 하는 로드맵를 작성할 수 있습니다. 그리고 Power BI와 web Power BI 콘텐츠 팩의 프로젝트를 사용 하 여 두 응용 프로그램에서 프로젝트 및 리소스에 대 한 정보를 파악할 수 있습니다. <sup>3</sup>
+
+이 다이어그램에서는 응용 프로그램이 동시에 함께 작동 하는 방식을 보여 줍니다.
+
+![웹 및 Project Online의 프로젝트를 보여 주는 다이어그램](../media/project-online-applications.png)
+
+향후에는 Microsoft가 웹 혁신을 위해 프로젝트에 중점을 둔 것입니다. 그러나 계속 해 서 주요 성과 및 보안을 개선 하는 것 처럼 확신을 사용 하 여 Project Online을 계속 사용할 수 있습니다.
+
+## <a name="microsoft-project-subscriptions"></a>Microsoft Project 구독
+
+Microsoft Project는 조직의 요구 사항을 가장 잘 충족 하기 위해 두 가지 서로 다른 구독을 통해 사용할 수 있습니다. 다양 한 구독에서 기능을 비교 하려면 [응용 프로그램 및 구독 별 기능 가용성](#feature-availability-across-applications-and-subscriptions)을 참조 하십시오.
+
+|제품 | Project Online Professional | Project Online Premium |
+|--------|-----------------------------|------------------------|
+|웹 프로젝트 |**x x** |**x x**|
+|Project Online |**x x**|**x x x**|
+|Project Online 데스크톱 클라이언트 |**좌표**|**좌표**|
+
+위 표에서 검사 횟수 (**x**)는 요금제에서 제공 하는 일반적인 기능 수준을 나타냅니다. 예를 들어 project online의 경우 project online Premium은 Project Online Professional 보다 많은 기능을 제공 합니다.
+
+## <a name="feature-availability-across-applications-and-subscriptions"></a>응용 프로그램 및 구독에서의 기능 가용성
+
+### <a name="project-for-the-web-features"></a>웹 기능 용 프로젝트
+
+이 섹션에 나와 있는 기능은 웹 데이터 저장소에 대 한 프로젝트의 데이터와 상호 작용 합니다. 이러한 모든 기능은 Project Online Professional 및 Project Online Premium에서 모두 사용할 수 있습니다.
+
+|기능 | 설명 |
+|--------|-------------|
+|**프로젝트, 작업 및 시간 관리**||
+|보드 보기 | 기본 및 사용자 지정 작업 보드를 사용 하 여 워크플로 및 상태 모니터링을 개선 하기 위해 프로젝트 작업을 시각적으로 추적 합니다.|
+|의존 | 작업 간의 종속성을 설정 하 고 시각적으로 추적 합니다.|
+|표 보기 | 계층 눈금 작업 보기를 사용 하 여 프로젝트를 계획 하 고 관리 합니다.|
+|시점과 | 중요 한 프로젝트 및 작업 마일스 톤을 설정 하 고 추적 합니다.|
+|프로젝트 홈 | 최근에 모니터링 해야 하는 중요 한 프로젝트 뿐 아니라 최근 작업 한 프로젝트를 눈으로 볼 수 있습니다.|
+|작업 예약 | 작업 시작 및 종료 날짜, 작업량, 작업 및 의존 관계를 사용 하 여 프로젝트 날짜의 정확한 일정을 가져옵니다.|
+|시간 표시 막대 보기 (Gantt 차트) | 계층적 시간 표시 막대 보기에서 프로젝트 날짜, 종속성 및 배정을 시각적으로 추적 하 고 이해 합니다.|
+|요약 작업 | 요약 작업을 사용 하 여 결과물 및 단계를 계획, 관리 및 추적 합니다.|
+|**공동 작업**||
+|Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업을 수행 합니다. <sup>1</sup>|
+|**리소스 및 프로그램 관리**||
+|프로젝트 팀 설치 | 구성원을 추가 및 제거 하 고 작업 달력을 설정 하 여 프로젝트 팀을 관리 합니다.|
+|로드맵 | Microsoft Project Online, Microsoft Project for web 및 Azure 보드용 프로젝트 간에 시각적, 대화형 로드맵를 작성 합니다. <sup>2</sup>|
+|**보고**<sup>3</sup>||
+|기본 보고 | 미리 작성 된 보고서를 사용 하 여 프로젝트, 프로그램, 포트폴리오 및 자원 데이터를 이해 합니다.|
+|사용자 지정 보고서 | 기본 보고서를 기반으로 사용자 지정 보고서를 작성 하거나 처음부터 사용 하 여 조직에서 중요 한 데이터를 이해 합니다.|
+|대시보드 및 포털 | 특정 조직 요구 사항을 충족 하는 데 도움이 되는 사용자 지정 대시보드 및 포털을 작성 합니다.|
+|**편의성이**||
+|작성 | 관련자와 팀 구성원을 함께 사용 하 여 작업 목록, 프로젝트 일정 등을 동시에 작성, 편집 및 업데이트 합니다.|
+|그래픽 표시기 | 그래픽 표시기를 통해 작업 상태, 배정 및 기타 사항을 이해 합니다. |
+|**지체**||
+|모바일 응용 프로그램 | PowerApps를 사용 하 여 사용자 지정 모바일 응용 프로그램을 작성 합니다. <sup>4</sup> |
+|**사용자 지정 및 통합**||
+|PowerApps | PowerApps를 사용 하 여 웹 및 mobile 용 솔루션을 구축 및 사용 합니다. <sup>4</sup> |
+|워크플로 | 비즈니스 프로세스를 자동화 하 고 Microsoft Flow로 통합 합니다. <sup>5</sup> |
+|Microsoft Office 365 통합 | 익숙한 Office 365 도구 및 응용 프로그램을 사용 하 여 문서를 공동으로 작업 하 고 관리 합니다. <sup>1</sup> |
+|**보안 및 사용자 관리**||
+|Office 최신 그룹 | 공동 작업을 수행 하 고 팀 구성원 들이 공유할 리소스 모음을 쉽게 설정할 수 있도록 프로젝트 팀을 구축 합니다.|
+
+### <a name="project-online-features"></a>Project Online 기능
+
+이 섹션에 나와 있는 기능은 Project Online SharePoint 데이터 저장소의 데이터와 상호 작용 합니다.
+
+|기능 | 설명 | Project Online Professional | Project Online Premium |
+|--------|-------------|-----------------------------|------------------------|
+|**프로젝트, 작업 및 시간 관리**||||
+|알림 및 미리 알림 | Outlook 및 Microsoft 팀의 미리 알림과 함께 중요 한 예정 작업 및 프로젝트 행사 일정을 유지 합니다. <sup>1</sup>| 예 | 예 |
+|기준 | 프로젝트 초기 계획을 설정 하 여 Project Web App을 사용 하 여 이전의 성능에 대 한 현재 성과를 모니터링 합니다.| 예 | 예 |
+|보드 보기 | 향상 된 워크플로 및 상태 모니터링을 위한 프로젝트 작업을 시각적으로 추적 합니다. | 예 | 예 |
+|요주의 경로 | Project Web App을 사용 하 여 프로젝트 전체에서 가장 긴 경로를 나타내는 작업을 시각적으로 추적 합니다.| 예 | 예 |
+|결과물 관리 | 시작 및 종료 날짜와 자동화 된 일정을 사용 하 여 결과물을 추적 하 고 관리 합니다.| 예 | 예 |
+|의존 | 작업 간의 종속성을 설정 하 고 시각적으로 추적 합니다.| 예 | 예 |
+|Gantt 보기 | Project Web App을 사용 하 여 계층적 Gantt 차트에서 프로젝트 날짜, 의존 관계 및 배정을 시각적으로 추적 하 고 이해 합니다.| 예 | 예 |
+|표 보기 | Project Web App을 사용 하 여 작업의 계층 구조 눈금 보기를 사용 하 여 프로젝트를 계획 하 고 관리 합니다.| 예 | 예 |
+|문제점 및 위험 관리 | 프로젝트 및 작업 수준에서 문제점 및 위험을 식별 하 고 추적 합니다.| 예 | 예 |
+|마스터 프로젝트  | Project Web App을 사용 하 여 단일 마스터 프로젝트 아래에서 더 작은 관련 프로젝트를 그룹화 합니다. | 예 | 예 |
+|알림 | Outlook 및 팀 알림과 함께 작업 할당, 상태 및 중요 한 프로젝트 이벤트를 유지 합니다. <sup>1</sup> | 예 | 예 |
+|프로젝트 홈 | 최근에 모니터링 해야 하는 중요 한 프로젝트 뿐 아니라 최근 작업 한 프로젝트를 눈으로 볼 수 있습니다.| 예 | 예 |
+|프로젝트 버전 관리 | 버전 간에 변경 된 내용을 표시 하는 보고서와 프로젝트의 다른 버전을 비교 합니다. | 예 | 예 |
+|요약 작업 | Project Web App에서 요약 작업을 사용 하 여 결과물 및 단계를 계획, 관리 및 추적 합니다. | 예 | 예 |
+|작업 예약 | Project Web App을 사용 하 여 작업 시작 및 종료 날짜, 작업량, 작업 시간, 겹치는 기간, 지연 시간 및 의존 관계를 사용 하 여 프로젝트 날짜를 정확 하 게 일정 하 게 유지 합니다. | 예 | 예 |
+|작업 업데이트 | 프로젝트 작업, 프로젝트 이외 작업 및 휴무 시간에 대 한 설명과 함께 시간 및 상태를 파악 합니다. | 예 | 예 |
+|Timeline | Project Web App을 사용 하 여 시간 표시 막대 보기에서 프로젝트 날짜, 종속성 및 할당을 시각적으로 추적 하 고 이해 합니다. | 예 | 예 |
+|단위 | 팀 구성원은 작업, 프로젝트 이외 작업 및 휴무 시간에 대 한 시간 및 상태를 입력할 수 있습니다. | 예 | 예 |
+|작업표 승인 | 팀 구성원은 승인을 위해 작업표를 제출할 수 있습니다. 리소스 관리자 및 감독자는 제출 된 작업표를 검토, 승인 및 거부할 수 있습니다. | 예 | 예 |
+|휴무 시간 설정 | 휴가, 휴일, 병가 및 기타 휴무 시간을 프로젝트 일정에 추가합니다. | 아니요 | 예 |
+|**공동 작업** ||||
+|첨부 파일 | 팀, 프로젝트 또는 작업 수준에서 문서, 이미지 및 기타 파일을 첨부 합니다. 팀 또는 프로젝트 수준에서 중앙 라이브러리에 이러한 첨부 파일을 관리 합니다. | 예 | 예 |
+|외부 팀 구성원 |사용자에 게 프로젝트, 작업 및 문서를 보고 상호 작용할 수 있는 권한을 부여 하 여 조직 외부에서 사람들과 공동 작업을 수행 합니다. <sup>6</sup> | 예 | 예 |
+|프로젝트 사이트 | 프로젝트의 공동 작업 및 문서에 대해 허브를 만들고 사용자 지정 합니다. | 예 | 예 |
+Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업을 수행 합니다. <sup>1</sup> | 예 | 예 |
+|**수요 관리** ||||
+|프로젝트 요청 승인 워크플로 설정 | 들어오는 요청을 평가 하 고 우선 순위를 지정 하 고 승인 하는 데 필요한 워크플로를 작성 합니다. | 아니요 | 예 |
+|프로젝트 요청 양식 만들기 | 들어오는 요청에 대 한 중요 한 데이터를 캡처하여 새 작업을 평가 하 고 우선 순위를 지정 합니다. | 아니요 | 예 |
+|프로젝트 요청 | 조직 내부 및 외부 고객 및 파트너에서 들어오는 요청을 추적, 관리, 평가 및 우선 순위를 지정 합니다. | 예 | 예 |
+|**리소스, 프로그램 및 포트폴리오 관리** ||||
+|프로젝트 비용 및 예산 작성 | Project Web App을 사용 하 여 계획 된 진행 상황과 예산과 실제 시간 및 비용을 비교 합니다. | 예 | 예 |
+|프로젝트 팀 설치 | 구성원을 추가 및 제거 하 고, 할당 수준을 설정 하 고, 외부 구성원을 추가 하 여 프로젝트 팀을 관리 합니다. | 예 | 예 |
+|자원 작업 시간 보기 | 프로젝트, 팀 및 조직 수준에서 자원 작업 시간을 추적 하 고 관리 합니다. | 예 | 예 |
+|자원 비용 | 프로젝트의 리소스 비용을 추적 하 고 관리 합니다. | 예 | 예 |
+|리소스 계약 (예약) | 프로젝트 관리자는 역할, 기술 또는 이름별로 자원에 대 한 요청을 제출할 수 있습니다. 리소스 관리자는 요청을 검토 하 고 가장 적합 한 리소스를 할당할 수 있습니다. |예<sup>7</sup> | 예<sup>8</sup> |
+|리소스 용량 계획 | 프로젝트, 팀 및 조직 수준에서 자원 작업 시간을 추적 하 고 관리 합니다. | 아니요 | 예 |
+|로드맵 | Microsoft Project Online, Microsoft Project for web 및 Azure 보드용 프로젝트 간에 시각적, 대화형 로드맵를 작성 합니다. <sup>2</sup> | 예 | 예 |
+|포트폴리오 분석 및 우선 순위 지정 | 조직의 비즈니스 전략과 가장 잘 맞는 프로젝트 포트폴리오를 식별, 선택 및 전달 하 고 ROI (투자 수익률)를 극대화 합니다. | 아니요 | 예 |
+|대시보드/포털 | 실시간 대화형 대시보드를 사용 하 여 포트폴리오, 프로그램, 프로젝트, 작업, 팀 및 리소스 수준에서 상태, 우선 순위 등을 이해 합니다. | 예 | 예 |
+|Work, generic, and material resources | 사용자와 같은 회사 자원, 목수 같은 일반 자원, 컴퓨터 및 시멘트와 같은 재료 리소스 등의 자원을 프로젝트에 추가 합니다. | 예 | 예 |
+|**보고**<sup>3</sup> ||||
+|기본 보고 | 미리 작성 된 보고서를 사용 하 여 프로젝트, 프로그램, 포트폴리오 및 자원 데이터를 이해 합니다. | 예 | 예 |
+|사용자 지정 보고서 | 기본 보고서를 기반으로 사용자 지정 보고서를 작성 하거나 처음부터 사용 하 여 조직에서 중요 한 데이터를 이해 합니다. | 예 | 예 |
+|대시보드 및 포털 | 특정 조직 요구 사항을 충족 하는 데 도움이 되는 사용자 지정 대시보드 및 포털을 작성 합니다. | 예 | 예 |
+|**사용자 지정 및 통합**||||
+|사용자 지정 브랜딩 | 브랜드, 로고 및 색을 사용 하 여 프로젝트 배포를 사용자 지정 합니다. | 아니요 | 예 |
+|Custom fields | 프로젝트, 작업 및 자원 수준에서 사용자 정의 필드를 추가 하 여 조직 및 프로젝트에 중요 한 데이터를 추적 합니다. | 예 | 예 |
+|식을 | 작업 및 프로젝트에서 수식을 사용 하 여 중요 한 데이터를 계산 하 고 캡처합니다. | 예 | 예 |
+|PowerApps | PowerApps를 사용 하 여 웹 및 모바일 (OData를 통해) 솔루션을 구축 및 사용 합니다. <sup>4</sup> | 예 | 예 |
+|워크플로 | OData를 통해 비즈니스 프로세스를 자동화 하 고 Microsoft 흐름과 통합 합니다. <sup>5</sup> | 예 | 예 |
+|Microsoft Office 365 통합 | 익숙한 Office 365 도구 및 응용 프로그램을 사용 하 여 문서를 공동으로 작업 하 고 관리 합니다. <sup>1</sup> | 예 | 예 |
+|Microsoft Planner 통합 | 프로젝트 작업을 Planner 계획에 연결 하 고 Planner에서 자세한 작업을 추적 합니다. <sup>1</sup> | 예 | 예 |
+|**보안, 사용자 및 서비스 관리**||||
+|Active Directory integration | 조직의 Active Directory 구성원 으로부터 팀을 구성 합니다. <sup>9</sup> | 예 | 예 |
+|사용자 관리 | 프로젝트, 팀 및 조직 수준에서 사용자 및 그룹 역할 및 사용 권한을 관리 합니다. | 아니요 | 예 |
+|서비스 관리 | Office 365<sup>1</sup> 환경의 일부로 Microsoft Project 환경을 계획, 설치 및 구성, 유지 관리 및 확장 합니다.  | 아니요 | 예 |
+
+#### <a name="notes"></a>참고
+
+<sup>1</sup> Office 또는 Microsoft 365 상업용 구독을 사용 해야 합니다.</br>
+<sup>2</sup> Azure 보드를 별도로 취득 했습니다.</br>
+<sup>3</sup> Power BI를 사용 하 여 웹 및 project Online 용 프로젝트에 대 한 보고를 사용할 수 있습니다. 보고서를 보고 편집 하 고 만들기 위해서는 Power BI Pro 구독이 필요 합니다. Microsoft는 미리 작성 된 Power BI 보고서 집합을 제공 합니다. 사용자는 Power BI를 사용 하 여 이러한 보고서를 사용자 지정 하거나 추가 보고서를 작성할 수 있습니다.</br> 
+<sup>4</sup> 웹 데이터에 대 한 프로젝트에 액세스 하는 사용자 지정 powerapps 모바일 응용 프로그램을 작성 하려면 PowerApps 구독 및 Project online Professional 또는 Project online Premium 구독이 필요 합니다.</br>
+<sup>5</sup> 비즈니스 프로세스를 웹 데이터에 대 한 project를 사용 하 여 microsoft 흐름과 통합 하면 microsoft flow 구독 및 Project online Professional 또는 Project online Premium 구독이 필요 합니다.</br>
+<sup>6</sup> 외부 사용자에 대 한 Project Online 라이선스는 내부 사용자의 경우와 동일한 정책을 따릅니다. Project Online 사이트에서의 모든 상호 작용에는 Project Online 구독이 필요 합니다.</br>
+<sup>7</sup> Project Online Professional 구독을 사용 하는 사용자는 리소스 계약 요청을 제출할 수 있습니다. 자원 계약 요청을 검토 하거나, 수행 하거나, 승인할 수 없습니다.</br>
+<sup>8</sup> Project Online Premium 구독을 사용 하는 사용자는 리소스 계약 요청을 검토 하 고, 수행 하 고, 승인할 수 있습니다.</br>
+<sup>9</sup> Active Directory에는 별도의 구독이 필요 합니다. </br>
+
+### <a name="project-online-desktop-client-features"></a>Project Online 데스크톱 클라이언트 기능
+
+|기능 | 설명 |
+|--------|-------------|
+|**프로젝트 및 작업 관리**||
+|기준 | 프로젝트 초기 계획을 설정 하 여 이전의 성능에 대 한 현재 성과를 모니터링 합니다. |
+|일정 보기 | 주별 또는 월별 일정 보기에서 중요 한 프로젝트 및 작업 마감일 및 중요 시점을 추적 합니다. |
+|요주의 경로 | 프로젝트를 통해 가장 긴 경로를 나타내는 작업을 시각적으로 추적 합니다. |
+|마감 | 중요 한 프로젝트 및 작업 마감일을 설정 하 고 추적 합니다. |
+|의존 | 작업 간의 종속성을 설정 하 고 시각적으로 추적 합니다. |
+|Gantt 보기 | 계층적 Gantt 보기에서 프로젝트 날짜, 의존 관계 및 배정을 시각적으로 추적 하 고 이해 합니다. |
+|표 보기 | 계층 눈금 작업 보기를 사용 하 여 프로젝트를 계획 하 고 관리 합니다. |
+|마스터 프로젝트  | 단일 마스터 프로젝트 아래에서 더 작은 관련 프로젝트를 그룹화 합니다. |
+|시점과 | 중요 한 프로젝트 및 작업 마일스 톤을 설정 하 고 추적 합니다. |
+|네트워크 다이어그램 | 네트워크 다이어그램 보기에서 프로젝트의 작업, 종속성 및 요주의 경로를 확인 합니다. |
+|작업 예약 | 작업 시작 및 종료 날짜, 작업량, 작업 시간, 겹치는 기간, 지연 시간 및 종속성을 사용 하 여 프로젝트 날짜의 정확한 일정 가져오기 |
+|팀 플래너 | 프로젝트 이외의 작업 및 휴무 시간을 포함 하 여 모든 프로젝트 팀 구성원의 할당 및 용량을 추적 합니다.|
+|Timeline | 시간 표시 막대 보기에서 프로젝트 날짜, 종속성 및 배정을 시각적으로 추적 하 고 이해 합니다. |
+|비활성 작업 | 비활성 작업을 사용 하면 자원 사용 가능 시간 또는 할당에 영향을 주지 않고 프로젝트 일정에 영향을 주지 않으면 서 작업을 추적할 수 있습니다 |
+|요약 작업 | 요약 작업을 사용 하 여 결과물 및 단계를 계획, 관리 및 추적 합니다. |
+|작업 검사 | 변경된 시작 날짜 또는 오류 메시지와 같이 작업 일정에 영향을 주는 요소를 확인합니다. |
+|작업 경로 분석 | 프로젝트 전체에서 작업 경로를 강조 표시하여 한 작업이 다른 작업에 연결되는 방식을 확인합니다. |
+|**리소스 및 재무 관리**||
+|Resource leveling | 자동으로 배정을 평준화 하 여 자원 충돌이 나 초과 할당을 해결 합니다. |
+|Work, generic, and material resources | 사용자와 같은 회사 자원, 목수 같은 일반 자원, 컴퓨터 및 시멘트와 같은 재료 리소스 등의 자원을 프로젝트에 추가 합니다. |
+|프로젝트 비용 및 예산 작성 | 계획 된 진행 상황과 예산과 실제 시간 및 비용을 비교 합니다. |
+|자원 비용 | 프로젝트의 리소스 비용을 추적 하 고 관리 합니다.|
+|**Reporting** ||
+|사용자 지정 보고서 | 프로젝트, 프로그램, 포트폴리오 및 자원에 대 한 사용자 지정 보고서를 작성 합니다. |
+|기본 보고 | 미리 작성 된 보고서를 사용 하 여 프로젝트, 프로그램, 포트폴리오 및 자원 데이터를 이해 합니다. |
+|PDF 및 XPS 출력 | 프로젝트 파일을 PDF 또는 XPS 파일로 저장 합니다. |
+|**편의성이**||
+|자동 완성 | 입력할 때 작업 또는 자원 이름 및 종속성에 대 한 추천을 가져옵니다. |
+|필터링 된 보기 | 계획의 값을 기준으로 프로젝트 계획 필터링 |
+|그래픽 표시기 | 그래픽 표시기를 통해 작업 상태, 배정 및 기타 사항을 이해 합니다. |
+|여러 수준 실행 취소 | **실행 취소** 메뉴를 사용 하 여 여러 변경 내용을 한 번에 실행 취소 합니다. |
+|정렬 및 그룹화 | 사용자 지정 정렬 및 그룹화를 사용 하 여 프로젝트, 작업 및 자원을 중점적으로 볼 수 있습니다.|
+|**사용자 지정 및 통합**||
+|사용자 지정 필드 | 프로젝트, 작업 및 자원 수준에서 사용자 정의 필드를 추가 하 여 조직 및 프로젝트에 중요 한 데이터를 추적 합니다. |
+|Forms | 사용자 지정 양식을 만들고 배포 하 여 중요 한 프로젝트 데이터를 캡처합니다. |
+|식을 | 작업 및 프로젝트에서 수식을 사용 하 여 중요 한 데이터를 계산 하 고 캡처합니다. |
+|템플릿 | 프로젝트 계획, 팀 및 배정을 비롯 한 일반 프로젝트에 대 한 서식 파일을 만듭니다. |
+|mpp 가져오기/내보내기 | 기존 .mpp 파일에서 새 프로젝트를 만들거나 기존 프로젝트의 .mpp 파일을 만듭니다. |
+|Excel 가져오기/내보내기 | Excel 파일에서 새 프로젝트를 만들거나 기존 프로젝트의 Excel 파일을 만듭니다. |
+
+## <a name="service-considerations"></a>서비스 고려 사항
+
+### <a name="licensing-considerations"></a>라이선스 고려 사항
+
+- Project Online 사이트에서의 모든 상호 작용에는 Project Online 구독이 필요 합니다.
+- 마지막 Project Online Professional 또는 Project Online Premium 구독이 만료 되 면 120 일 후에 웹 및 Project Online 인스턴스에 대 한 프로젝트가 삭제 됩니다.
+- Project for web 및 Project Online 평가판 구독의 경우 평가판 인스턴스는 평가판 기간이 끝난 후 30 일이 지나면 삭제 됩니다.
+
+### <a name="use-of-sharepoint-online"></a>SharePoint Online 사용
+
+Project Online에서는 Project Online의 일부로 프로 비전 되는 SharePoint Online을 사용 해야 합니다. Project Online Professional 또는 Premium에서 제공 하는 SharePoint Online 기능에 대 한 권한은 Project Online을 지원 하기 위해 데이터를 저장 하 고 액세스 하는 것으로 제한 됩니다.
+
+### <a name="data-backup-and-retention"></a>데이터 백업 및 보존
+
+웹 및 Project Online 용 Project에는 Office 365과 동일한 데이터 백업 및 보존 정책이 있습니다. 자세한 내용은 [Office 365에서 데이터 보존, 삭제 및 폐기](https://docs.microsoft.com/office365/Enterprise/office-365-data-retention-deletion-and-destruction-overview)를 참조 하세요.
+
+### <a name="project-for-the-web-boundaries-and-limitations"></a>웹 경계 및 제한 사항에 대 한 프로젝트
+
+웹 프로젝트에는 다음 표에 설명 된 몇 가지 제한 사항이 있습니다.
+
+|엔터티/필드 | 제한 유형 |
+|-------------|-------|
+|**작업** ||
+|최대값. 작업의 계층 구조 수준 | 10 수준 |
+|최대값. 작업에 대 한 링크 (후속 + 선행) | 20cm(8 |
+|최대값. 리프 작업의 기간 | 1250 일 |
+|최대값. 요약 작업의 기간 | 3650 일 (10 년) |
+|최대값. 작업에 할당할 수 있는 자원 | 자원 20 개 |
+|작업에 대해 지원 되는 날짜 범위 | 1/1/1984 &ndash; 12/31/2149 |
+|**프로젝트** ||
+|최대값. 프로젝트의 총 작업 | 500 |
+|최대값. 프로젝트의 전체 기간입니다. | 3650 일 (10 년) |
+|최대값. 프로젝트에 대 한 총 자원 | 150 |
+|최대값. 프로젝트에 대 한 총 링크 (후속 작업에만 해당) | 600 |
+
+### <a name="project-online-boundaries-and-limitations"></a>Project Online 경계 및 제한 사항
+
+Project Online에는 몇 가지 제한 사항이 있습니다. 자세한 내용은 [Project Online: 소프트웨어 경계 및 제한을](https://support.office.com/article/5A09DBCE-1E68-4A7B-B099-D5F1B21BA489)참조 하세요.

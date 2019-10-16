@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365에서는 다음과 같은 도움말 및 교육 리소스를 제공 합니다.
-ms.openlocfilehash: 7d9769074cea9d9c26eb176183aff6e85ad57000
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 8bd0fbb57d7555514f6aa58c8e1b95740d852f79
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130902"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523416"
 ---
 # <a name="help-and-training"></a>도움말 및 훈련
 
@@ -88,17 +88,17 @@ Office 365 커뮤니티 홈 페이지에서는 다음과 같은 리소스에 액
     
 - **블로그** Office 365 기술 블로그는 Office 365 온라인 서비스에 대한 최신 정보를 얻고 Office 365의 기능과 특징에 대해 알아볼 수 있는 유용한 리소스입니다. 항목에는 제품 이해, 새로운 제품 공지 사항, 고객 인터뷰 및 게스트 블로그 시리즈가 포함됩니다. 
     
-자세한 내용을 보려면 [Office 365 커뮤니티](https://go.microsoft.com/fwlink/?LinkId=272057)를 방문하세요.
+자세한 내용을 보려면 [Office 365 커뮤니티](https://techcommunity.microsoft.com/)를 방문하세요.
   
-## <a name="office-365-techcenter"></a>Office 365 TechCenter
+## <a name="manage-office-365-guidance"></a>Office 365 지침 관리
 
-대규모 조직의 IT 전문가들은 TechNet의 Office 365 TechCenter를 방문할 수 있습니다. Office 365 TechCenter는 대규모 조직을 대상으로 복잡한 배포 지침을 제공합니다.
+대규모 조직의 IT 전문가는 Office 365 문서 관리 홈 페이지를 방문할 수 있습니다. 이 페이지에서는 대규모 조직을 대상으로 하는 복잡 한 배포 지침에 대 한 링크를 제공 합니다.
   
-자세한 내용을 보려면 [Office 365 TechCenter](https://go.microsoft.com/fwlink/?LinkId=272058)를 방문하세요.
+자세한 내용을 보려면 [Office 365 관리](https://docs.microsoft.com/Office365/)를 참조 하세요.
   
 ## <a name="other-self-help-resources"></a>기타 자가 진단 리소스
 
-Office 365에는 Office 365 커뮤니티 및 온라인 도움말 이외에 자가 진단 리소스도 포함되어 있습니다.
+Office 365 커뮤니티 및 온라인 365 도움말 외에도 다음과 같은 자가 진단 리소스를 포함 합니다.
   
 - **Office 365용 문제 해결 도구** 고객 자신이 겪고 있는 문제에 대한 몇 가지 짧은 질문에 응답하면 Office 365용 문제 해결 도구는 이 답변을 바탕으로 유용한 도구와 정보를 제안합니다. 도구를 사용하려면 Office 365 커뮤니티의 [Office 365 문제 해결 도구](https://go.microsoft.com/fwlink/?LinkId=272113) 페이지로 이동하세요. 
     
@@ -149,6 +149,4 @@ Office 365에는 Office 365 커뮤니티 및 온라인 도움말 이외에 자�
    
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)을 참조하세요.
-  
-
+Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
