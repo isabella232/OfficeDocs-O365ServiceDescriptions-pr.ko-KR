@@ -27,7 +27,7 @@ OneDrive는 조직에서 사용 허가되지 않은 사용자에게 제공된 �
   
 OneDrive는 Microsoft 365 및 Office 365 요금제에서 SharePoint Online 요금제에 포함되고 독립 실행형 요금제로 구매할 수도 있습니다. 
     
-요금제를 비교하려면 [Office 365 비즈니스 요금제 비교](https://go.microsoft.com/fwlink/?linkid=799177) 및 [비즈니스용 OneDrive 요금제 비교](https://products.office.com/ko-KR/onedrive-for-business/compare-onedrive-for-business-plans)를 참조하세요. 
+요금제를 비교하려면 [Office 365 비즈니스 요금제 비교](https://go.microsoft.com/fwlink/?linkid=799177) 및 [비즈니스용 OneDrive 요금제 비교](https://products.office.com/en-us/onedrive-for-business/compare-onedrive-for-business-plans)를 참조하세요. 
   
 > [!NOTE]
 > 비즈니스용 OneDrive 독립 실행형 요금제에는 웹용 Office가 포함됩니다. 
