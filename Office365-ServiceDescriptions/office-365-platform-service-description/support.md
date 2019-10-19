@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: 모든 Microsoft Office 365 Enterprise, Business, Education 및 Government 구독에 대해 Microsoft 고객 지원에서는 세계적인 기술, 사전 판매, 대금 청구 및 구독 지원을 제공합니다. 지원은 Office 365 포털을 통해 온라인으로 제공 되며 유료 및 평가판 구독 모두에 대해 전화로 지원 됩니다. 자세한 내용은 Office 365 지원 옵션을 참조하세요.
-ms.openlocfilehash: 5b525e5272c8400b2274a5567bcaea7d76283352
-ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
+ms.openlocfilehash: d24a16956331bb939bfd4a7db242208207c08fdd
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35854906"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582194"
 ---
 # <a name="support"></a>지원
 
@@ -201,4 +201,4 @@ Microsoft 파트너를 선택하여 서비스 요청 티켓 작성 등의 관리
 
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)을 참조하세요.
+Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](office-365-platform-service-description.md)을 참조하세요.

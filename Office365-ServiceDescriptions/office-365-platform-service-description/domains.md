@@ -14,29 +14,26 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: 도메인을 추가하면 단계별 마법사가 사용자를 추가하고 Office 365 전자 메일 주소 및 기타 서비스를 회사 이름으로 변환하도록 도와줍니다. 마법사를 완료하면 회사 전자 메일이 현재의 전자 메일 공급자가 아닌 Office 365로 들어오기 시작합니다. 자세한 내용은 Office 365에 사용자 및 도메인 추가를 참조하세요. 21Vianet에서 운영 하는 Office 365을 사용 하는 경우 도메인 확인을 참조 하세요.
-ms.openlocfilehash: d4d2e0316960f6c3d91cbdb088bd154d6739c2f2
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: cc88aeb19573b089d06749df5ab6db5de4bbecfa
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523406"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595226"
 ---
 # <a name="domains"></a>도메인
 
 도메인을 추가하면 단계별 마법사가 사용자를 추가하고 Office 365 전자 메일 주소 및 기타 서비스를 회사 이름으로 변환하도록 도와줍니다. 마법사를 완료하면 회사 전자 메일이 현재의 전자 메일 공급자가 아닌 Office 365로 들어오기 시작합니다. 자세한 내용은 [Office 365에 사용자 및 도메인 추가](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)를 참조하세요. 21Vianet에서 운영하는 Office 365를 사용하는 경우 [도메인 확인](https://docs.microsoft.com/office365/admin/setup/add-domain)을 참조하세요.
   
 ## <a name="custom-domains"></a>사용자 지정 도메인
-<a name="BKMK_CustomDomains"> </a>
 
 구독한 Office 365에 최대 900개의 도메인을 추가할 수 있습니다. 그러나 다른 Microsoft 클라우드 서비스에서 이미 사용 중인 Office 365에는 도메인을 추가할 수 없습니다. 이는 구독한 여러 Office 365에 동일한 도메인을 추가할 수 없다는 의미입니다. 자세한 내용은 [도메인 FAQ](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)를 참조 하세요.
   
 ### <a name="second-and-third-level-domains"></a>2차 및 3차 수준 도메인
-<a name="BKMK_SecondAndThirdLevelDomains"> </a>
 
 Office 365 Enterprise 및 Office 365 Business를 사용하여 marketing.contoso.com 등의 3차 수준 도메인을 비롯한 모든 수준의 도메인을 추가할 수 있습니다. [Office 365에 사용자 지정 하위 도메인 또는 여러 도메인 추가](https://docs.microsoft.com/office365/admin/setup/domains-faq)를 참조하세요. 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 사용자 지정 하위 도메인 또는 여러 도메인 추가](https://docs.microsoft.com/office365/admin/setup/domains-faq)를 참조하세요.
   
 ## <a name="domain-verification-and-managing-dns-records"></a>도메인 확인 및 DNS 레코드 관리
-<a name="BKMK_ManagingDNSRecords"> </a>
 
 Office 365를 사용하여 DNS 호스팅 공급자에서 모든 DNS 레코드를 관리하거나 Office 365에서 도메인의 DNS 레코드를 설정 및 관리하도록 할 수 있습니다. 레코드를 계속 관리하는 경우 필요에 따라 Office 365 서비스를 가리키도록 특정 레코드를 변경합니다. 각 레코드에 사용할 특정 값을 포함하여 레코드 추가에 대한 단계별 지침을 제공하는 도메인 등록 기관 목록은 [Office 365용 DNS 레코드 만들기](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)를 참조하고, 21Vianet에서 운영하는 Office 365를 사용하는 경우에는 21Vianet에서 운영하는 Office 365용 공급자에서 DNS 레코드 만들기를 참조하세요. 
   
@@ -51,7 +48,6 @@ Office 365는 DNS 레코드를 사진에 확인하여 DNS 문제를 찾고 해�
 자세한 내용은 [Office 365에서 DNS 레코드를 관리하는 방법](https://docs.microsoft.com/office365/admin/setup/domains-faq)을 참조하세요. 21Vianet에서 운영하는 Office 365의 경우 [DNS 레코드를 관리할 때 Office 365용 DNS 레코드 만들기](https://docs.microsoft.com/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records)를 참조하세요.
   
 ## <a name="sharing-a-domain"></a>도메인 공유
-<a name="BKMK_ManagingDNSRecords"> </a>
 
 Office 365에 있는 도메인의 전자 메일 주소 몇 개와 이전 전자 메일 공급자의 전자 메일 주소 몇 개를 사용하여 Office 365에 대한 파일럿을 수행할 수 있습니다. 이 기능은 추가 설치 단계가 필요 하며 Office 365 서비스에 몇 가지 제한이 있으므로 Office 365의 파일럿 중에 사용할 때만 사용 하는 것이 좋습니다. 자세한 내용은 다음을 참조하세요.
   
@@ -60,7 +56,6 @@ Office 365에 있는 도메인의 전자 메일 주소 몇 개와 이전 전자 
 - [대기업용 Office 365 파일럿(FastTrack 사용)](https://fasttrack.office.com/onboard)
     
 ## <a name="feature-availability"></a>기능 가용성
-<a name="BKMK_ManagingDNSRecords"> </a>
 
 Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
   

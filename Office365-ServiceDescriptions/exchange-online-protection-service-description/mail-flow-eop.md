@@ -1,5 +1,5 @@
 ---
-title: 메일 흐름[EOP]
+title: 메일 흐름 [EOP]
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: Microsoft는 Office 365를 사용하는 대다수 조직의 사서함을 호스트하고 메일 흐름을 관리합니다. 이것은 가장 단순한 구성으로, Office 365가 모든 사서함을 관리하고 필터링한다는 것을 의미합니다. 그러나 일부 조직에서는 모든 사서함을 온-프레미스로 유지해야 할 비즈니스적 필요성을 느낍니다. EOP(Exchange Online Protection)를 사용하면 이러한 필요성이 충족되며 클라우드에서 바이러스 백신과 스팸 메일 방지 처리까지 합니다. EOP에 대한 자세한 내용과 구매 정보는 Exchange Online Protection을 참조하세요.
-ms.openlocfilehash: 5a581c8004bcdc001160a2499cd623c6eee772f2
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+description: Microsoft는 Office 365를 사용하는 대다수 조직의 사서함을 호스트하고 메일 흐름을 관리합니다. 이것은 가장 단순한 구성으로, Office 365가 모든 사서함을 관리하고 필터링한다는 것을 의미합니다. 그러나 일부 조직에서는 모든 사서함을 온-프레미스로 유지해야 할 비즈니스적 필요성을 느낍니다. EOP (Exchange Online Protection)를 사용 하 여이 작업을 수행 하 고 클라우드에 바이러스 백신 및 스팸 방지 메일 처리를 제공할 수 있습니다.
+ms.openlocfilehash: 9fac8159a7fba6757ec28d7a45248bd06dba3fb7
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442733"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581854"
 ---
-# <a name="mail-floweop"></a>메일 흐름[EOP]
+# <a name="mail-floweop"></a>메일 흐름 [EOP]
 
-Microsoft는 Office 365를 사용하는 대다수 조직의 사서함을 호스트하고 메일 흐름을 관리합니다. 이것은 가장 단순한 구성으로, Office 365가 모든 사서함을 관리하고 필터링한다는 것을 의미합니다. 그러나 일부 조직에서는 모든 사서함을 온-프레미스로 유지해야 할 비즈니스적 필요성을 느낍니다. EOP(Exchange Online Protection)를 사용하면 이러한 필요성이 충족되며 클라우드에서 바이러스 백신과 스팸 메일 방지 처리까지 합니다. EOP에 대한 자세한 내용과 구매 정보는 [Exchange Online Protection](https://products.office.com/en-us/exchange/exchange-email-security-spam-protection)을 참조하세요.
+Microsoft는 Office 365를 사용하는 대다수 조직의 사서함을 호스트하고 메일 흐름을 관리합니다. 이것은 가장 단순한 구성으로, Office 365가 모든 사서함을 관리하고 필터링한다는 것을 의미합니다. 그러나 일부 조직에서는 모든 사서함을 온-프레미스로 유지해야 할 비즈니스적 필요성을 느낍니다. EOP (Exchange Online Protection)를 사용 하 여이 작업을 수행 하 고 클라우드에 바이러스 백신 및 스팸 방지 메일 처리를 제공할 수 있습니다. EOP에 대한 자세한 내용과 구매 정보는 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)을 참조하세요.
   
-도메인 관리 또는 DBEB(디렉터리 기반 Edge 차단)에 대한 정보를 확인하려면 [받는 사람, 도메인 및 회사 관리](recipient-domain-and-company-management.md)을 참조하세요. 모든 EOP 기능에 대한 자세한 내용은 [Exchange Online Protection 서비스 설명](exchange-online-protection-service-description.md)을 참조하세요.
+도메인 관리 또는 DBEB (디렉터리 기반 Edge 차단)에 대 한 정보를 찾으십니까? [받는 사람, 도메인 및 회사 관리](recipient-domain-and-company-management.md)를 참조 하세요. 모든 EOP 기능에 대 한 자세한 내용은 [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.
   
 ## <a name="routing-email-between-office-365-and-your-own-email-servers"></a>Office 365와 자체 메일 서버 간의 이메일 라우팅
 
@@ -53,4 +53,4 @@ EOP 고객은 Office 365 커넥터를 사용하여 신뢰할 수 있는 파트�
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션별로 기능 가용성을 확인하려면 [Exchange Online Protection 서비스 설명](exchange-online-protection-service-description.md)을 참조하세요.
+Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.

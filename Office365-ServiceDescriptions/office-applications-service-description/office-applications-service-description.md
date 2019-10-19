@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365는 Word, Excel, PowerPoint 등 이미 익숙한 Office 데스크톱 응용 프로그램의 최신 버전을 제공 하는 구독 서비스입니다.
-ms.openlocfilehash: 3ba5510ab24f2f7f5cd2aed8aa7e9800ce07e39f
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 3b01b4481b2f50ecaa2ff2928e53d6f5cbf25a29
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998520"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595238"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 
@@ -57,7 +57,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |[Android용 Office Mobile](office-applications.md#office-mobile-for-android) <br/> |아니요  <br/> |예<sup>13</sup> <br/> |예<sup>13</sup>  <br/>|예  <br/> |예  <br/> |예<sup>14</sup>  <br/> |예  <br/> |예<sup>14</sup>  <br/> |예  <br/> |예  <br/> |예<sup>14</sup>  <br/> |예  <br/> |
 |[Windows Phone용 Office Mobile](office-applications.md#office-mobile-for-windows-phone) <br/> |아니요  <br/> |예<sup>13</sup> <br/> |예 <sup>13</sup> <br/>|예  <br/> |예  <br/> |예<sup>14</sup>  <br/> |예  <br/> |예<sup>14</sup>  <br/> |예  <br/> |예  <br/> |예<sup>14</sup>  <br/> |예  <br/> |
 |Android용 Outlook  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|있음  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|**기업 가치** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**Microsoft 365 Business** <br/>
+|**Enterprise 값** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**Microsoft 365 Business** <br/>
 |PC 또는 Mac에서 사용자당 5건의 동시 설치 지원  <br/> |아니요  <br/> |아니요  <br/>| 아니요  <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> | 예<sup>7</sup> <br/> |
 |사용자 계정 자동 구축  <br/> |해당 없음  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |다국어 사용자 인터페이스  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |아니요 <br/> |
@@ -66,7 +66,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |온-프레미스 Sharepoint에 대한 클라이언트 지원  <br/> |예  <br/> |예  <br/>|예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |소프트웨어 업데이트 제어  <br/> |예  <br/> |예  <br/>|예  <br/>  |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |데이터베이스 비교  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |아니요 <br> |
-|데스크톱 가상화  <br/> |예  <br/> |예  <br/> |예  <br/>|예<sup>8</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |아니요 <br/> |
+|데스크톱 가상화  <br/> |예  <br/> |예  <br/> |예  <br/>|예<sup>8</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |있음 <br/> |
 |Excel 스프레드시트 비교  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |아니요 <br/> |
 |Excel 스프레드시트 조회  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |아니요 <br/>
 |Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |예<sup>1</sup> <br/> |예  <br/> |예  <br/>|예<sup>1</sup> <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |

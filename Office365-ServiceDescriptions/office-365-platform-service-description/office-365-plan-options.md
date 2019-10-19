@@ -16,21 +16,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
-ms.openlocfilehash: 6aacf27114876564707f44ee310ae3bc3d9b1fb3
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 18fb079e0d6353595841d02c274ba5bbab35935b
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131262"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582064"
 ---
 # <a name="office-365-plan-options"></a>Office 365 계획 옵션
 
 Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
   
 ## <a name="office-365-service-families-and-plans"></a>Office 365 서비스 제품군 및 계획
-<a name="bkmk_O365Service_Families_and_Plans"> </a>
 
-다음 표에는 Office 365에서 사용 가능한 각 서비스 제품군 및 계획이 나와 있습니다. 기능 및 가격 정보의 개요를 자세히 확인하거나 온라인 담당자와 채팅을 하려면 계획 열에서 원하는 링크를 클릭하세요.
+다음 표에는 Office 365에서 사용 가능한 각 서비스 제품군 및 계획이 나와 있습니다. 기능 및 가격 정보에 대 한 간략 한 개요 또는 온라인 담당자와 채팅을 하려면 요금제 (계획) 열에서 링크 중 하나를 선택 합니다.
   
 |**Office 365 서비스 제품군**|**계획**|
 |:-----|:-----|
@@ -108,7 +107,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 ## <a name="standalone-services"></a>독립 실행형 서비스
 <a name="bkmk_standaloneservices"> </a>
 
-독립 실행형 계획으로 단독 사용 가능한 온라인 서비스는 다음과 같습니다. 이러한 서비스는 Business 및 Enterprise 서비스 제품군 계획에 추가할 수도 있습니다(이미 포함되어 있지 않은 경우). 가격 정보를 확인하거나 온라인 담당자와 채팅을 하려면 아래 표에 나와 있는 계획 중 원하는 항목을 클릭하세요.
+독립 실행형 계획으로 단독 사용 가능한 온라인 서비스는 다음과 같습니다. 이러한 서비스는 Business 및 Enterprise 서비스 제품군 계획에 추가할 수도 있습니다(이미 포함되어 있지 않은 경우). 가격 정보 또는 온라인 담당자와 채팅을 하려면 다음 표에 나열 된 계획 중 하나를 선택 합니다.
   
 |**서비스**|**계획**|
 |:-----|:-----|
@@ -128,4 +127,4 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 ## <a name="feature-availability"></a>기능 가용성
 <a name="bkmk_standaloneservices"> </a>
 
-Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)을 참조하세요.
+Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](office-365-platform-service-description.md)을 참조하세요.

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: 97f2872dd1aa56f99058dabad167422a0d507fa8
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 4fd3b239b1cbc433b90b4aa44407f31b18698717
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777373"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582094"
 ---
 # <a name="product-use-rights"></a>제품 사용권
 
@@ -28,12 +28,12 @@ Microsoft Online 구독 계약을 준수하는 경우 [Microsoft Online Services
 
 [온라인 서비스 표준 계약](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/) 및 [사용 약관](http://www.21vbluecloud.com/office365/O365-TOU/)을 참조하세요.
   
-## <a name="licensing"></a>라이선스
+## <a name="licensing"></a>라이선싱
 
 조직용 라이선스 프로그램에 대한 자세한 내용은 [볼륨 라이선싱](https://go.microsoft.com/fwlink/?LinkId=393693)을 참조하세요.
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)을 참조하세요.
+Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](office-365-platform-service-description.md)을 참조하세요.
   
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online에서는 RBAC(역할 기반 액세스 제어) 모델을 사용하여 조직의 관리자가 사용자 및 IT 직원이 서비스에서 수행할 수 있는 작업을 세부적으로 제어할 수 있도록 합니다. 예를 들어, 준수 관리자가 사서함 검색 요청을 담당하는 경우 관리자는 RBAC를 통해 이 관리 기능을 준수 관리자에게 위임할 수 있습니다. Exchange Online에서는 Microsoft Exchange Server 2013과 동일한 RBAC 프레임워크를 사용합니다.
-ms.openlocfilehash: 49d388e08b606fab5df0fc23435aef37d1029050
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: d6b0add4925524fd024ebea2ff044afd96cde698
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776849"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581954"
 ---
 # <a name="permissions"></a>사용 권한
 
@@ -35,7 +35,7 @@ Exchange Online에서 관리자와 사용자에게 부여되는 권한은 관리
   
 - **관리 역할** 이러한 역할에는 받는 사람, 서버 또는 데이터베이스 같은 Exchange Online 조직의 일부를 관리하는 역할 그룹을 사용하여 관리자나 전문가 사용자에게 할당할 수 있는 권한이 포함되어 있습니다. 
     
-- **최종 사용자 역할** 역할 할당 정책을 통해 할당되는 이 역할을 사용하면 사용자는 자신의 사서함 및 자신이 속한 메일 그룹을 관리할 수 있습니다. 최종 사용자 역할은 접두사  `My`로 시작합니다.
+- **최종 사용자 역할** 역할 할당 정책을 사용 하 여 할당 된 이러한 역할을 통해 사용자는 자신의 사서함 및 자신이 소유한 메일 그룹의 특성을 관리할 수 있습니다. 최종 사용자 역할은 접두사  `My`로 시작합니다.
     
 역할은 해당 역할에 할당된 사람이 cmdlet을 사용할 수 있게 하여 관리자와 사용자에게 작업을 수행할 수 있는 권한을 부여합니다. EAC(Exchange 관리 센터) 및 Exchange 관리 셸에서는 cmdlet을 사용하여 Exchange Online을 관리하므로, cmdlet에 액세스 권한을 부여하면 관리자나 사용자는 각 Exchange Online 관리 인터페이스에서 작업을 수행할 수 있는 권한을 얻게 됩니다.
   
@@ -48,7 +48,7 @@ Exchange Online의 사용 권한에 대한 자세한 내용은 [역할 기반 �
   
 ## <a name="role-groups"></a>역할 그룹
 
-관리 역할 그룹은 관리 역할을 관리자 또는 전문가 사용자 그룹과 연결합니다. 관리자는 광범위한 Exchange Online 조직 또는 받는 사람 구성을 관리합니다. 전문가 사용자는 Exchange Online의 특정 기능(예: 준수)을 관리합니다. 또는 지원 센터 구성원과 같이 제한된 관리 기능은 가질 수 있지만 광범위한 관리 권한은 없습니다. 역할 그룹은 일반적으로 관리자 및 전문가 사용자가 조직 및 수신인의 구성을 관리하도록 허용하는 관리 역할을 연결합니다. 예를 들면, 관리자가 받는 사람을 관리할 수 있는지 또는 역할 그룹을 사용하여 사서함 검색 기능 사용을 제어할 수 있는지 여부 등이 있습니다. 
+관리 역할 그룹은 관리 역할을 관리자 또는 전문가 사용자 그룹에 연결 합니다. 관리자는 광범위 한 Exchange Online 조직 또는 받는 사람 구성을 관리 합니다. 전문 사용자는 규정 준수와 같은 Exchange Online의 특정 기능을 관리 하거나, 지원 센터 구성원 등의 관리 기능을 제한 하거나, 광범위 한 관리 권한을 부여 하지 않을 수 있습니다. 일반적으로 역할 그룹은 관리자 및 전문가 사용자가 조직 및 받는 사람의 구성을 관리할 수 있도록 하는 관리 관리 역할을 연결 합니다. 예를 들어 관리자가 받는 사람을 관리 하거나 사서함 검색 기능을 사용할 수 있는지 여부는 역할 그룹을 사용 하 여 제어 합니다. 
   
 > [!IMPORTANT]
 > Microsoft Exchange Server 2013의 온-프레미스 버전에서는 사용할 수 있는 일부 역할 그룹을 Exchange Online에서 사용하지 못할 수 있습니다. 
@@ -66,6 +66,6 @@ Exchange Online의 사용 권한에 대한 자세한 내용은 [역할 기반 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션별로 기능 가용성을 확인하려면 [Exchange Online 서비스 설명](exchange-online-service-description.md)을 참조하세요.
+Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 서비스 설명을](exchange-online-service-description.md)참조 하세요.
   
 

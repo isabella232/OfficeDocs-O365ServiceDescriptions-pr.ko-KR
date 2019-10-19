@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 테 넌 트 수준 서비스에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: 3e9a1fd7e91c39961517cc1175b1c7ebe79f2314
-ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
+ms.openlocfilehash: 099f17c638a2c8c9d6d13004dc19a29862de2555
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37035134"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582034"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 테 넌 트 수준 서비스 라이선스 지침
 
@@ -25,7 +25,7 @@ ms.locfileid: "37035134"
 > [!NOTE]
 > 일부 테 넌 트 서비스가 현재 특정 사용자에 대 한 혜택을 제한할 수 없습니다. 사용이 허가 된 사용자에 대 한 서비스 혜택을 제한 하기 위해 노력을 기울여야 합니다. 이렇게 하면 사용 가능한 기능을 사용할 수 있게 되 면 조직에 대 한 잠재적 서비스 중단을 방지 하기 위해 도움이 됩니다.
 
-## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Id 보호
+## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory ID 보호
 
 Azure Active Directory Id 보호 (AADIP)는 조직의 id에 영향을 미치는 잠재적인 취약점을 검색 하 고 의심 스러운 검색으로 자동화 된 응답을 구성 하는 데 사용할 수 있는 Azure Active Directory Premium P2 계획의 기능입니다. 조직의 id와 관련 된 작업 및 의심 스러운 문제를 조사 하 고 적절 한 조치를 수행 하 여 문제를 해결 합니다.
 
@@ -65,7 +65,7 @@ SecOp 분석가 및 보안 전문가는 Azure ATP가 고급 위협, 손상 된 i
 
 Microsoft는 라이선스가 있는 사용자에 게 위협 검색 기능을 제공 합니다.
 
-## <a name="azure-information-protection"></a>Azure 정보 보호
+## <a name="azure-information-protection"></a>Azure Information Protection
 
 AIP (Azure Information Protection)를 사용 하면 조직에서 중요 한 문서 및 전자 메일을 검색, 분류, 레이블 지정 하 고 보호할 수 있습니다. 관리자는 레이블을 자동으로 적용 하는 규칙 및 조건을 정의 하거나, 사용자가 레이블을 수동으로 적용할 수 있으며, 사용자에 게 레이블&mdash;적용에 대 한 권장 사항이 제공 되는 경우이 두 가지를 조합 하 여 사용할 수 있습니다.
 
@@ -80,6 +80,7 @@ AIP 스캐너 기능은 온-프레미스 파일 저장소에 있는 파일을 �
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
 기본적으로 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 AIP 기능이 사용 되도록 설정 됩니다. 라이선스 사용자에 대 한 AIP 정책을 구성 하는 방법에 대 한 자세한 내용은 [Azure 권한 관리 활성화](https://docs.microsoft.com/azure/information-protection/activate-service)를 참조 하십시오.
+
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
 검색 기능을 제외한 나머지 IP 기능 정책은 특정 그룹이 나 사용자에 게 범위 지정 될 수 있습니다. 라이선스가 없는 사용자가 AIP 분류 또는 레이블 기능을 실행 하지 못하도록 레지스트리를 편집할 수 있습니다. IP 배포의 범위를 결정 하는 방법에 대 한 자세한 내용은 [Azure Information Protection Policy 구성을](https://docs.microsoft.com/azure/information-protection/configure-policy)참조 하십시오.
@@ -252,7 +253,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준�
 
 Microsoft는 Office 365 조직의 사용자에 대 한 고객 Lockbox 액세스 제어 승인 요청을 제공 합니다.
 
-## <a name="privileged-access-management-in-office-365"></a>Office 365의 권한이 부여 된 액세스 관리
+## <a name="privileged-access-management-in-office-365"></a>Office 365의 특권이 있는 액세스 관리
 
 PAM (권한 부여 관리) 기능은 Office 365의 권한 있는 관리 작업에 대 한 세부적인 액세스 제어를 제공 합니다. PAM을 사용 하도록 설정한 후에는 사용자가 상승 및 권한 작업을 완료 하기 위해 범위가 높고 시간이 제한 된 승인 워크플로를 통해 just-in-time 액세스를 요청 해야 합니다.
 
@@ -322,7 +323,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예를 들면 다음과 같습니다.
+사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예:
 
 | 시나리오                                                                                                                                                                                                              | 라이선스가 필요한 사용자 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |

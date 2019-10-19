@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Web for excel (이전의 Excel Web App)은 Microsoft Excel 환경을 웹 브라우저로 확장 하 여 통합 문서가 저장 된 웹 사이트에서 통합 문서를 직접 사용할 수 있습니다. 모든 Office 365 고객은 웹에서 Office를 사용 하 여 Office 파일을 보고 가볍게 편집할 수 있습니다.
-ms.openlocfilehash: 85aad73129f49888d72b785389fafd76a071d214
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 32d7d5318bbb65b54ac26dc72439a51b7bb9e27c
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442753"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595306"
 ---
 # <a name="excel-for-the-web"></a>웹용 Excel
 
@@ -96,6 +96,10 @@ Excel 차트 및 테이블을 사용하여 더욱 간편하게 데이터 서식�
 ## <a name="comment-creation"></a>Comment creation
 
 Excel에서 웹에 대 한 설명을 삽입, 편집 및 삭제할 수 있습니다. 주석 스레드를 확인 하 여 편집 및 새 설명에 대 한 주석을 닫고 그대로 둘 수도 있습니다. 이렇게 하면 필요한 경우 스레드를 주석에 다시 열 수 있습니다. 자세한 내용은 [ Excel에 설명 추가하기 ](https://go.microsoft.com/fwlink/p/?LinkId=271670)를 참조하세요.
+
+## <a name="convert-a-table-to-a-range"></a>표를 범위로 변환
+
+Excel 표를 만든 후 표 기능 없이만 표 스타일을 사용 하는 것이 좋습니다. 적용 한 표 스타일 서식을 잃지 않고 표에서 데이터 작업을 중지 하려면 표를 워크시트의 일반 데이터 범위로 변환 하면 됩니다. 자세한 내용은 [Excel 표를 데이터 범위로 변환](https://support.office.com/article/0b326ff1-1764-4ebe-84ea-786265d41c77#ID0EAADAAA=Web)하는 방법에 대해 자세히 알아보세요.
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
@@ -175,11 +179,15 @@ Excel에서 웹에 대 한 수식에서 400 개 보다 많은 Excel의 워크시
  
 ## <a name="group-data"></a>그룹 데이터
 
-Excel에서 웹 스프레드시트에 대 한 행과 열을 그룹화 하거나 윤곽을 설정할 수 있습니다. 자세한 내용은 [Excel에서 웹으로 데이터 그룹화](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web)를 참고 하십시오.
+Excel에서 웹 스프레드시트에 대 한 행과 열을 그룹화 하거나 윤곽을 설정할 수 있습니다. 바로 가기 키를 통해 만든 그룹을 쉽게 확대 하거나 축소할 수 있습니다. 자세한 내용은 [Excel에서 웹으로 데이터 그룹화](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web)를 참고 하십시오.
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
 Excel에서 통합 문서에 있는 행, 열 및 시트를 웹에 대해 숨기 거 나 숨기기 취소할 수 있습니다.
+
+## <a name="ideas"></a>아이디어
+
+Excel의 아이디어는 높은 수준의 시각적 요약, 추세 및 패턴을 통해 데이터를 이해 하는 데 도움이 됩니다. 데이터 범위에서 셀을 선택 하 고 **홈** 탭에서 **아이디어** 단추를 선택 하면 됩니다. Excel의 아이디어는 데이터를 분석 하 고 작업창에서 해당 개체에 대 한 흥미로운 시각적 개체를 반환 합니다. 자세한 내용은 [Excel의 의견을](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)참고 하세요.
   
 ## <a name="insert-charts"></a>Insert charts
 
@@ -287,7 +295,7 @@ Excel 파일을 다른 사용자와 공유할 경우 워크시트가 변경되�
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-웹의 Excel에서는 모든 워크시트를 보고 순서를 변경 하 고, 데이터를 정렬 및 필터링 하 고, 피벗 테이블의 세부 정보를 확인할 수 있습니다. 자세한 내용은 [데이터 정렬 및 필터링을](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web)참고 하세요.
+웹의 Excel에서는 모든 워크시트를 보고 순서를 변경 하 고, 데이터를 정렬 및 필터링 하 고, 위쪽에서 아래쪽으로 또는 왼쪽에서 오른쪽으로, 피벗 테이블 세부 정보를 볼 수 있습니다. 자세한 내용은 [데이터 정렬 및 필터링을](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web)참고 하세요.
   
 ## <a name="spreadsheet-audit-and-compliance"></a>스프레드시트 감사 및 준수
 
@@ -331,4 +339,4 @@ Excel에서 웹을 사용할 수 없습니다. Excel에서 웹에 대 한 "What 
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [office for Web Service Description](office-online-service-description.md)을 참조 하세요.
+Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [office for 웹 서비스 설명을](office-online-service-description.md)참조 하세요.

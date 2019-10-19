@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online은 EAC (Exchange 관리 센터)에 대 한 다양 한 보고 기능을 제공 합니다.
-ms.openlocfilehash: 709f354335875f08902a6ab09933de3558d165e7
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 48e3618e6fe5d0271bc10a356f81266f74e188f6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442643"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581994"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>보고 기능 및 문제 해결 도구
 
@@ -41,7 +41,7 @@ Excel 2013 보고 통합 문서를 사용하여 드릴다운 기능을 통해 �
   
 ### <a name="reporting-using-web-services"></a>Reporting using web services
 
-사용자 지정 보고서를 만들 수 있는 프로그래밍 인터페이스인 REST/OData 테 넌 트 보고 웹 서비스를 사용 하 여 사서함, 그룹 및 메시징 데이터에 대 한 요약 및 자세한 보고서에 모두 액세스할 수 있습니다. 자세한 내용은 [Office 365 Reporting web services](https://go.microsoft.com/fwlink/p/?LinkId=287041)를 참조 하세요.
+사용자 지정 보고서를 만들 수 있는 프로그래밍 인터페이스인 REST/OData 테 넌 트 보고 웹 서비스를 사용 하 여 사서함, 그룹 및 메시징 데이터에 대 한 요약 및 상세 보고서에 모두 액세스할 수 있습니다. 자세한 내용은 [Office 365 Reporting web services](https://go.microsoft.com/fwlink/p/?LinkId=287041)를 참조 하세요.
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>EAC의 보고 기능 및 문제 해결 도구
 
@@ -49,7 +49,7 @@ Exchange 관리 센터에서 다음 보고 기능 및 문제 해결 도구를 �
   
 ### <a name="trace-an-email-message"></a>전자 메일 메시지 추적
 
-메시지 추적 기능을 사용하면 전자 메일 메시지가 Exchange Online 서비스를 통과할 때 관리자로서 이를 추적할 수 있습니다. 이렇게 하면 서비스에서 대상 전자 메일 메시지를 수신, 거부, 지연 또는 배달했는지 여부를 확인하는 데 도움이 되며, 사용자의 질문에 효과적으로 답변하고, 메일 흐름 문제를 해결하고, 기술 지원팀에 문의해야 하는 수고를 덜어 줍니다.
+메시지 추적 기능을 사용 하면 관리자가 Exchange Online 서비스를 통과 하는 전자 메일 메시지를 팔 로우 할 수 있습니다. 이를 통해 대상이 지정 된 전자 메일 메시지의 수신, 거부, 지연 또는 서비스에 의해 전달 되었는지 여부를 확인할 수 있습니다. 이를 통해 사용자의 질문에 효과적으로 대답 하 고 메일 흐름 문제를 해결할 수 있으며 기술 지원 서비스에 문의 하 여 도움을 받을 필요가 없습니다.
   
 > [!IMPORTANT]
 > 일반 문제 및 추세 문제를 해결하려면 보고 도구를 사용하여 해당 데이터를 가져옵니다. 메시지에 대한 세부 정보가 필요한 단일 지점에 대해서는 메시지 추적 도구를 사용합니다. 
@@ -72,6 +72,6 @@ Exchange 관리 센터에서 다음 보고 기능 및 문제 해결 도구를 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션별로 기능 가용성을 확인하려면 [Exchange Online 서비스 설명](exchange-online-service-description.md)을 참조하세요.
+Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 서비스 설명을](exchange-online-service-description.md)참조 하세요.
   
 

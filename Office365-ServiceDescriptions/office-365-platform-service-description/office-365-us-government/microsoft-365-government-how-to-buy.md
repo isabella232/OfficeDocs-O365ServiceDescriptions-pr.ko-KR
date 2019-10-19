@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: cf5a7fb51c8716aa7e797d471a5fbc4a93750336
-ms.sourcegitcommit: 59ee39da4bf37e59924b8ae6c5c232f070cf5ee8
+ms.openlocfilehash: da052db62c562ba4e56eca5ab312363cc4383dcf
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36839869"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595268"
 ---
 ---
 
@@ -117,10 +117,12 @@ Microsoft 365 정부에서 사용할 수 있는 서비스에 대 한 자세한 �
 ## <a name="how-do-i-buy-microsoft-365-government"></a>Microsoft 365 정부를 구매 하려면 어떻게 해야 하나요?
 
 Microsoft 365 정부 라이선스를 구매 하려면 다음 단계를 수행 합니다.
+
 1. [양식을 완성 하 고 제출](https://products.office.com/government/eligibility-validation) 하 여 조직의 자격을 확인 합니다.
 2. 주문 하려면 Microsoft 계정 팀 이나 적격 파트너와 협력 합니다. 고객은 선택 파트너를 통해서만 Microsoft 365 for US 정부 라이선스를 구입할 수 있습니다.
 
 **Lsp GCC 및 GCC High (+ 500 좌석)**
+
 - CDW
 - 연결 (이전의 PC 연결)
 - Dell
@@ -145,7 +147,7 @@ Microsoft 365 정부 라이선스를 구매 하려면 다음 단계를 수행 �
 
 **참고:** 앞의 목록에 있는 모든 Microsoft 라이선싱 솔루션 공급자 (Lsp)는 GCC 및 GCC 고가용성을 통해 EA (기업 계약)를 만들 수 있습니다. EA에 적합 하지 않은 조직은 나열 된 AOS-G 파트너 또는 CSP 파트너 프로그램을 통해 GCC 라이선스를 구입할 수 있습니다.
 
-**CSP 파트너와 함께 작업 하는 경우에는 연락 하거나 [csp를 검색 하세요.](https://www.microsoft.com/solution-providers/home)**
+**CSP 파트너와 함께 작업 하는 경우에는 연락 하거나 [csp를 검색](https://www.microsoft.com/solution-providers/home)하세요.**
 
 ## <a name="what-trials-are-available"></a>어떤 평가판을 사용할 수 있나요?
 

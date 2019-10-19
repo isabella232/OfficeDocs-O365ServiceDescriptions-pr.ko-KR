@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Microsoft 365 및 Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다.
-ms.openlocfilehash: 6bfea07758698fa8cbbdafc06bfed96d2c9607bc
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: a10f8c563481b00b76fceec7499a3bf01a7006a3
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523391"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595256"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -68,9 +68,9 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |Azure Information Protection 계획 1<sup>7</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |Azure Information Protection 계획 2<sup>7</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |소송 대기  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|eDiscovery Search  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|eDiscovery Export  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Office 365 고급 eDiscovery  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|eDiscovery 검색  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|eDiscovery 내보내기  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Office 365 고급 eDiscovery  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |데이터 손실 방지  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365 메시지 암호화  <br/> |예<sup>12</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Customer Lockbox  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |

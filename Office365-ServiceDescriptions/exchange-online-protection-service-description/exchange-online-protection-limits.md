@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: 현재 Exchange Online Protection에 대 한 제한은 다음과 같습니다. 이러한 제한은 다른 설명이 없는 한 구성할 수 없습니다.
-ms.openlocfilehash: fd5dbbe0f52eb7789b2e730faf76e89803033ad6
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+description: 현재 Exchange Online Protection에 대 한 제한은 다음과 같습니다. 별도로 지정 되지 않은 경우 이러한 제한은 구성할 수 없습니다.
+ms.openlocfilehash: 8d2d51a158376eb6a2f72bcdaa2ae6e351865d7e
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231396"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581472"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 제한
 
-현재 Exchange Online Protection에 대 한 제한은 다음과 같습니다. 이러한 제한은 다른 설명이 없는 한 구성할 수 없습니다. 
+현재 Exchange Online Protection에 대 한 제한은 다음과 같습니다. 별도로 지정 되지 않은 경우 이러한 제한은 구성할 수 없습니다. 
   
 > [!TIP]
 > Exchange Online의 제한에 대한 자세한 내용은 [Exchange Online 제한](../exchange-online-service-description/exchange-online-limits.md)을 참조하세요. EOP 독립 실행형 고객에게는 전송 규칙 제한도 적용됩니다. Exchange Online의 받는 사람 처리 속도 및 메시지 속도 제한은 EOP 독립 실행형 고객에게 적용되지 않습니다. 

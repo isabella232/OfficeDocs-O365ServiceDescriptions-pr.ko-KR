@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 섹션에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다. Office 365 서비스 설명과 함께이 보조 섹션을 읽는 것이 좋습니다.
-ms.openlocfilehash: 4765344c128f53057c75b55e9d79120b03d63942
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 05b8ccadd5fcd78b61c5fa1428c3370cff4e0e0b
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442743"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595246"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -249,7 +249,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |알림을 보낸 대상: 메시지 센터 작업이 다음과 같은 경우 필수  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |일부 서비스에 대한 Roadmap.office.com 업데이트  <br/> |<sup>10, 13</sup> <br/> |<sup>10, 13</sup> <br/> |<sup>10, 13</sup> <br/> |<sup>10, 13</sup> <br/> |
 |대상 지정 된 릴리스를 설정 하는 옵션  <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |
-|**[도움말 및 훈련](../../office-365-platform-service-description/help-and-training.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
+|**[도움말 및 교육](../../office-365-platform-service-description/help-and-training.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
 |온라인 도움말  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |커뮤니티  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |기타 자가 진단 리소스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -266,7 +266,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |보안 점수<sup>14</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |
 |Office 메시지 암호화  <br/> |아니요  <br/> |있음 <br/> |예 <br/> |아니요  <br/> |
 |위협 인텔리전스  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예 <br/> |<sup>12</sup> <br/> |
-|**[규정 준수[ServiceDesc]](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
+|**[규정 준수](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
 |SAS 70 / SSAE16 평가  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |ISO 27001 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |EU 모델 조항  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |

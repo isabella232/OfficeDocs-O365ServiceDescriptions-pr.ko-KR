@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함하는 여러 Office 365 구독의 기능을 비교하고 싶나요? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: 25f490e953c3d3e865e02eeb19de06e05b4ce6df
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 4c58ddd7349860aa038d949dbed9034b934ef000
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442653"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581944"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -58,7 +58,7 @@ Exchange Online 서비스에 액세스하는 각 사용자는 구독 계획을 �
 
 비즈니스, 교육 및 정부 조직이 사용할 수 있는 월 단위 구독 기반 서비스인 Office 365의 시스템 요구 사항에 대한 자세한 내용은 [Office 365 시스템 요구 사항](https://products.office.com/office-system-requirements/#Office365forBEG)을 참조하세요.
   
-## <a name="storage-and-recipient-limits-for-exchange-online"></a>Exchange Online에 대한 저장소 및 받는 사람 제한
+## <a name="storage-and-recipient-limits-for-exchange-online"></a>Exchange Online에 대 한 저장소 및 받는 사람 제한
 
 Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람 제한에 대한 자세한 내용은 [Exchange Online 제한](exchange-online-limits.md)을 참조하십시오.
   
@@ -90,28 +90,28 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |S/MIME|예<sup>15</sup>|예<sup>15</sup>|예|예|예|예|예|예||
 |원본 위치 유지 및 소송 보존|예|예|아니요|아니요|아니요|있음|예|아니요|
 |원본 위치 eDiscovery|예<sup>20</sup>|예<sup>20</sup>|예<sup>20</sup>|예<sup>20</sup>|예<sup>20</sup>|예<sup>20</sup>|예<sup>20</sup>|예|
-|전송 규칙|예 <sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|
+|Transport rules|예 <sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|
 |데이터 손실 방지|예 <sup>5, 14</sup>|예 <sup>5, 14</sup>|아니요|아니요|아니요|있음|예|아니요|
 |저널링|예|예|예|예|예|예|예|예|
 |**[스팸 방지 및 맬웨어 방지 보호](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |스팸 방지 보호 기능 내장|예 <sup>6</sup>|예 <sup>6</sup>|예|예|예|예|예|예|
-|스팸 방지 정책 사용자 지정|예. 단, PowerShell을 통해서만 가능|예. 단, PowerShell을 통해서만 가능|예|예|예|예|예|예 <sup>7</sup>|
+|Customize anti-spam policies|예. 단, PowerShell을 통해서만 가능|예. 단, PowerShell을 통해서만 가능|예|예|예|예|예|예 <sup>7</sup>|
 |맬웨어 방지 보호 기능 내장|예 <sup>8</sup>|예 <sup>8</sup>|예<sup>8</sup>|예<sup>8</sup>|예<sup>8</sup>|예<sup>8</sup>|예<sup>8</sup>|예<sup>8</sup>|
-|맬웨어 방지 정책 사용자 지정|예|예|예|예|예|예|예|예 <sup>7</sup>|
+|Customize anti-malware policies|예|예|예|예|예|예|예|예 <sup>7</sup>|
 |격리 - 관리자 관리|예|예|예|예|예|예|예|예 <sup>7</sup>|
 |격리 - 최종 사용자 자기 관리|아니요|아니요|있음|예|예|예|예|예|
 |고급 위협 방지|아니요|예|아니요|아니요|아니요|아니요|예|아니요|
 |**[메일 흐름](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|아웃바운드 메일의 사용자 지정 라우팅|예|예|예|예|예|예|예|예|
-|신뢰할 수 있는 파트너와의 보안 메시징|예|예|예|예|예|예|예|예|
-|조건부 메일 라우팅|아니요|아니요|있음|예|예|예|예|예|
+|아웃 바운드 메일의 사용자 지정 라우팅|예|예|예|예|예|예|예|예|
+|Secure messaging with a trusted partner|예|예|예|예|예|예|예|예|
+|Conditional mail routing|아니요|아니요|있음|예|예|예|예|예|
 |인바운드 수신 허용 목록에 파트너 추가|아니요|아니요|있음|예|예|예|예|예|
 |하이브리드 전자 메일 라우팅|예|예|예<sup>16</sup>|예<sup>16</sup>|예|예|예|예|
 |**[받는 사람](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |용량 경고|예|예|예|예|예|예|예|예|
 |Clutter|예|아니요|있음|예|예|예|예|예|
 |메일 설명|예|예|예|예|예|예|예|예|
-|대리인 액세스|예|예|예|예|예|예|예|<sup>24</sup> 없음|
+|위임 액세스|예|예|예|예|예|예|예|<sup>24</sup> 없음|
 |받은 편지함 규칙|예|예|예|예|예|예|예|아니요|
 |연결된 계정|예|예|예|예|예<sup>17</sup>|예<sup>17</sup>|예<sup>17</sup>|예<sup>17</sup>|
 |비활성 사서함|아니요|아니요|<sup>9</sup> 없음|<sup>9</sup> 없음|<sup>9</sup> 없음|예|예|아니요 <sup>9</sup>|
@@ -122,8 +122,8 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |Office 365 그룹|아니요|아니요|있음|예|예|예|예|예|
 |메일 그룹|예|예|예|예|예|예|예|예|
 |외부 연락처(전체)|예|예|예|예|예|예|예|예|
-|범용 연락처 카드|예|예|예|예|예|예|예|예|
-|소셜 네트워크와 연결된 연락처|예|예|예|예|예|예|예|예|
+|일반 대화 상대 카드|예|예|예|예|예|예|예|예|
+|소셜 네트워크와 연결 된 연락처|예|예|예|예|예|예|예|예|
 |리소스 사서함|예|예|예|예|예|예|예|예|
 |회의실 관리|예|예|예|예|예|예|예|예|
 |부재 중 회신|예|예|예|예|예|예|예|예|
@@ -132,15 +132,15 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |Microsoft 365 관리 센터 보고서|아니요|아니요|예|예|예|예|예|예|
 |Excel 보고 통합 문서|아니요|아니요|예|예|예|예|예|예|
 |웹 서비스 보고서|아니요|아니요|예|예|예|예|예|예|
-|메시지 추적|아니요|있음|예|예|예|예|예|예|
+|Message trace|아니요|있음|예|예|예|예|예|예|
 |감사 보고서|예|예|예|예|예|예|예|예 <sup>3</sup>|
 |통합 메시징 보고서|예|예|아니요|아니요|아니요|있음|예|아니요|
 |**[공유 및 공동 작업](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|페더레이션 공유(일정 게시 포함)|예|예|예|예|예|예|예|예|
+|페더레이션 공유 (일정 게시 포함)|예|예|예|예|예|예|예|예|
 |사이트 사서함|예<sup>10</sup>|예<sup>10</sup>|예<sup>11</sup>|예<sup>11</sup>|예<sup>11</sup>|예<sup>11</sup>|예<sup>11</sup>|예<sup>11</sup>|
 |공용 폴더|예|예|예|예|예|예|예|아니요|
 |**[클라이언트 및 모바일 장치](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-| Windows용 Outlook <sup>21</sup>|예|예|예|예|예|예|예| 아니요|
+|Windows용 Outlook <sup>21</sup>|예|예|예|예|예|예|예| 아니요|
 |웹용 Outlook<sup>21</sup>|예|예|예|예|예|예|예|예|
 |Outlook for Mac<sup>21</sup>|예|예|예|예|예|예|예| 아니요|
 |iOS 및 Android용 Outlook<sup>21</sup>|예|예|예|예|예|예|예|예|
@@ -155,7 +155,7 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |타사 음성 사서함 상호 운용성<sup>23</sup>|예|예|예|예|예|예|예|예|
 |비즈니스용 Skype 통합|예|예|예|예|예|예|예|예|
 |**[고가용성 및 비즈니스 연속성](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|데이터 센터에서 사서함 복제|아니요|아니요|있음|예|예|예|예|예|
+|데이터 센터에서의 사서함 복제|아니요|아니요|있음|예|예|예|예|예|
 |삭제된 사서함 복구|예|예|예|예|예|예|예|예|
 |삭제된 항목 복구|예|예|예|예|예|예|예|예|
 |단일 항목 복구|예|예|예|예|예|예|예|아니요||
@@ -169,9 +169,9 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |Microsoft 365 관리 센터 액세스|아니요|아니요|예|예|예|예|예|예|
 |Exchange 관리 센터 액세스|예|예|예|예|예|예|예|예|
 |원격 Windows PowerShell 액세스|예|예|예|예|예|예|예|예|
-|모바일 장치에 대한 ActiveSync 정책|예|예|예|예|예|예|예|예|
+|모바일 장치에 대 한 ActiveSync 정책|예|예|예|예|예|예|예|예|
 |사용 현황 보고|예|예|예|예|예|예|예|예|
-|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**서비스-사용자 지정, 추가 기능 및 리소스 확장**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Outlook 추가 기능 및 Outlook MAPI|예<sup>19</sup>|예|예<sup>19</sup>|예<sup>19</sup>|예<sup>19</sup>|예<sup>19</sup>|예<sup>19</sup>|아니요|
 
 <sup>1</sup> 클라우드 기반 보관 파일이 있는 각 온-프레미스 사서함 사용자에 대해 Exchange Online 보관 구독이 필요 합니다. <br/>
@@ -229,22 +229,22 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |저널링|예|예|예|예|예|
 |**[스팸 방지 및 맬웨어 방지 보호](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |스팸 방지 보호 기능 내장|예 <sup>2</sup>|예 <sup>2</sup>|예|예|예|
-|스팸 방지 정책 사용자 지정|예. 단, PowerShell을 통해서만 가능|예. 단, PowerShell을 통해서만 가능|예|예|예 <sup>8</sup>|
+|Customize anti-spam policies|예. 단, PowerShell을 통해서만 가능|예. 단, PowerShell을 통해서만 가능|예|예|예 <sup>8</sup>|
 |맬웨어 방지 보호 기능 내장|예 <sup>7</sup>|예 <sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|
-|맬웨어 방지 정책 사용자 지정|예|예|예|예|예 <sup>8</sup>|
+|Customize anti-malware policies|예|예|예|예|예 <sup>8</sup>|
 |격리 - 관리자 관리|예|예|예|예|예 <sup>8</sup>|
 |격리 - 최종 사용자 자기 관리|아니요|아니요|있음|예|예|
 |**[메일 흐름](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
-|아웃바운드 메일의 사용자 지정 라우팅|예|예|예|예|예|
-|신뢰할 수 있는 파트너와의 보안 메시징|예|예|예|예|예|
-|조건부 메일 라우팅|아니요|아니요|있음|예|예|
+|아웃 바운드 메일의 사용자 지정 라우팅|예|예|예|예|예|
+|Secure messaging with a trusted partner|예|예|예|예|예|
+|Conditional mail routing|아니요|아니요|있음|예|예|
 |인바운드 수신 허용 목록에 파트너 추가|아니요|아니요|있음|예|예|
 |하이브리드 전자 메일 라우팅|예|예|예|예|예|
 |**[받는 사람](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |용량 경고|예|예|예|예|예|
 |Clutter|아니요|아니요|있음|예|예|
 |메일 설명|예|예|예|예|예|
-|대리인 액세스|예|예|예\|/아니요|아니요|
+|위임 액세스|예|예|예\|/아니요|아니요|
 |받은 편지함 규칙|예|예|예|예|아니요|
 |연결된 계정|예|예|예<sup>19</sup>|예<sup>19</sup>|예<sup>19</sup>|
 |비활성 사서함|아니요|아니요|아니요 <sup>6</sup>|예|아니요<sup>6</sup>|
@@ -255,8 +255,8 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |Office 365 그룹|아니요|아니요|예<sup>24</sup>|예<sup>24</sup>|아니요|
 |메일 그룹|예|예|예|예|예|
 |외부 연락처(전체)|예|예|예|예|예|
-|범용 연락처 카드|예|예|예|예|예|
-|소셜 네트워크와 연결된 연락처|예|예|예|예|예|
+|일반 대화 상대 카드|예|예|예|예|예|
+|소셜 네트워크와 연결 된 연락처|예|예|예|예|예|
 |리소스 사서함|예|예|예|예|예|
 |회의실 관리|예|예|예|예|예|
 |부재 중 회신|예|예|예|예|예|
@@ -265,7 +265,7 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |Microsoft 365 관리 센터 보고서|아니요|아니요|있음|예|예|
 |Excel 보고 통합 문서|아니요|아니요|있음|예|예|
 |웹 서비스 보고서|아니요|아니요|있음|예|예|
-|메시지 추적|아니요|있음|예|예|예 <sup>8</sup>|
+|Message trace|아니요|있음|예|예|예 <sup>8</sup>|
 |감사 보고서|예|예|예|예|예 <sup>8</sup>|
 |통합 메시징 보고서|예|예|아니요|예|아니요|
 |**[공유 및 공동 작업](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
@@ -274,14 +274,14 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |공용 폴더|예|예|예|예|아니요|
 |**[클라이언트 및 모바일 장치](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |Microsoft Outlook|예|예|예|예|아니요|
-|Outlook Web App|예|예|예|예|예|
+|웹용 Outlook|예|예|예|예|예|
 |Exchange ActiveSync|예|예|예|예|예|
 |POP 및 IMAP|예|예|예|예|예 <sup>9</sup>|
 |SMTP|예|예|예|예|예|
 |EWS 응용 프로그램 지원|예|예|예|예|아니요|
 |Outlook for Mac|예|예|예|예|아니요|
 |**[음성 메시지 서비스](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
-|음성 사서함|예|예|아니요|예|아니요|
+|음성 메일|예|예|아니요|예|아니요|
 |타사 음성 사서함 상호 운용성|예|예|예|예|예|
 |비즈니스용 Skype 통합|예|예|예|예|예|
 |**[고가용성 및 비즈니스 연속성](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
@@ -299,10 +299,10 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |Microsoft 365 관리 센터 액세스|아니요|아니요|있음|예|예|
 |Exchange 관리 센터 액세스|예|예|예|예|예 <sup>8</sup>|
 |원격 Windows PowerShell 액세스|예|예|예|예|예|
-|모바일 장치에 대한 ActiveSync 정책|예|예|예|예|예|
+|모바일 장치에 대 한 ActiveSync 정책|예|예|예|예|예|
 |사용 현황 보고|예|예|예|예|예|
 |**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
-|Outlook Web App 웹 파트|예|예|예|예|예|
+|웹 웹 파트의 Outlook|예|예|예|예|예|
 |Outlook 추가 기능 및 Outlook MAPI|예|예|예<sup>21</sup>|예<sup>21</sup>|아니요|
 
 <sup>1</sup> 전송 규칙은 조건과 예외를 정의 하는 데 사용할 수 있는 다양 한 조건으로 구성 되며, 조건에 따라 수행할 작업입니다. 사용 가능한 조건 및 작업은 Exchange Online과 Microsoft Exchange Server 2013 간에 서로 다릅니다. 사용 가능한 조건 및 작업 목록은 각 제품에 대 한 해당 하는 조건 및 작업 항목을 참조 하십시오. <br/>

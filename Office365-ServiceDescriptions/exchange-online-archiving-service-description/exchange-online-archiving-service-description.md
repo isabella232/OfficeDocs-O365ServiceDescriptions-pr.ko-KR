@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online 보관은 microsoft exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange server 2013, 마이크로소프트를 배포한 조직에 대 한 Microsoft Office 365 클라우드 기반 엔터프라이즈급 보관 솔루션입니다. Exchange Server 2010 (SP2 이상) 또는 특정 Exchange Online 또는 Office 365 계획을 구독 합니다. Exchange Online Archiving은 보관, 규정 준수, 규제 및 eDiscovery 문제와 관련하여 이러한 조직을 지원하는 동시에 온-프레미스 인프라를 단순화하여 비용을 절감하고 IT 부담을 완화시켜 줍니다.
-ms.openlocfilehash: edf8ee24b2d89d3425085ab41360c5f659c16caf
-ms.sourcegitcommit: 9a20f05a53c5b906dea21ae9e3f65653b2c01967
+ms.openlocfilehash: f67f17a342a2e0b0358fa55fc5c16bfc6e5f2600
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36672582"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581864"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 서비스 설명
 
@@ -79,17 +79,17 @@ Exchange Online Archiving 서비스에 액세스하는 각 사용자가 Exchange
 ||||
 |:-----|:-----|:-----|
 |**기능** <br/> |**Exchange Server용 Exchange Online Archiving<sup>1</sup>**          <br/> |**Exchange Online용 Exchange Online Archiving<sup>2</sup>** <br/> |
-|**[Exchange Online Archiving의 보관 기능](archive-features.md)** <br/> |||
+|**[Exchange Online 보관의 보관 기능](archive-features.md)** <br/> |||
 |보관 사서함  <br/> |예  <br/> |예  <br/> |
 |보관 정책을 사용 하 여 메시지 이동  <br/> |예  <br/> |예  <br/> |
 |보관 사서함으로 데이터 가져오기  <br/> |예  <br/> |예  <br/> |
 |삭제된 항목 복구  <br/> |예  <br/> |예  <br/> |
 |삭제된 사서함 복구  <br/> |예  <br/> |예  <br/> |
 |사서함 백업  <br/> |예  <br/> |예  <br/> |
-|**[Exchange Online Archiving의 클라이언트 기능](client-features.md)** <br/> |||
+|**[Exchange Online 보관의 클라이언트 기능](client-features.md)** <br/> |||
 |Outlook<sup>3</sup> <br/> |예  <br/> |예  <br/> |
-|Outlook Web App  <br/> |예  <br/> |예  <br/> |
-|**[Exchange Online Archiving의 규정 준수 및 보안 기능](compliance-and-security-features.md)** <br/> |||
+|웹용 Outlook  <br/> |예  <br/> |예  <br/> |
+|**[Exchange Online 보관의 규정 준수 및 보안 기능](compliance-and-security-features.md)** <br/> |||
 |보존 정책  <br/> |예  <br/> |예  <br/> |
 |원본 위치 유지 및 소송 보존<sup>6</sup> <br/> |예  <br/> |예  <br/> |
 |원본 위치 eDiscovery  <br/> |예  <br/> |예  <br/> |
@@ -104,7 +104,7 @@ Exchange Online Archiving 서비스에 액세스하는 각 사용자가 Exchange
 <sup>1</sup> 사용자 사서함이 Exchange 2010 SP2 이상에 있어야 합니다.
 <br/>
 <sup>2</sup> 원본 위치 보관은 라이선스가 적용 된 단일 사용자나 엔터티의 메일을 보관 하는 경우에만 사용할 수 있습니다. 여러 사용자나 엔터티의 메일을 저장하는 목적으로 원본 위치 보관함을 사용할 수는 없습니다. 예를 들어 IT 관리자는 공유 사서함을 만들 수 없고, 사용자가 명백히 보관을 목적으로 참조, 숨은 참조 필드 또는 전송 규칙을 통해 공유 사서함을 복사하도록 할 수 없습니다. <br/> 
-<sup>3</sup>지원되는 Microsoft Outlook 버전 목록은 [Exchange Online Archiving의 클라이언트 기능](client-features.md)을 참조하세요. <br/>
+<sup>3</sup> 지원 되는 Microsoft Outlook 버전 목록은 [Exchange Online 보관의 클라이언트 기능](client-features.md)을 참조 하세요. <br/>
 <sup>4</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용하려면 Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F1에 포함되어 있지 않은 Office365ProPlus를 구독해야 합니다. <br/>
 <sup>5</sup> Windows Server AD RMS는 온-프레미스 서버이며, 별도로 구입하여 지원되는 IRM 기능을 사용할 수 있습니다. <br/>
 <sup>6</sup> 사서함에 대해 원본 위치 유지 또는 소송 보존을 사용할 경우 기본 사서함과 보관 사서함 모두에 적용됩니다. 

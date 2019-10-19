@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 'Microsoft는 Office 365를 사용하는 대다수 조직의 사서함을 호스트하고 메일 흐름을 관리합니다. 이것은 가장 단순한 구성으로, Office 365가 모든 사서함을 관리하고 필터링한다는 것을 의미합니다. 그러나 일부 조직에는 특정 규정 또는 비즈니스적 필요성을 따르는지 확인하기 위하여 좀 더 복잡한 메일 흐름 설정이 필요합니다. 이러한 옵션은 여기에서 확인할 수 있습니다. '
-ms.openlocfilehash: bf16ff4034333a2bd85ba798e9c02c621b4d7cfc
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 774ad3239f9e8e8dc0751ca23a8f99a436b09126
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442603"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581454"
 ---
-# <a name="mail-flow"></a>Mail Flow
+# <a name="mail-flow"></a>메일 흐름
 
 Microsoft는 Office 365를 사용하는 대다수 조직의 사서함을 호스트하고 메일 흐름을 관리합니다. 이것은 가장 단순한 구성으로, Office 365가 모든 사서함을 관리하고 필터링한다는 것을 의미합니다. 그러나 일부 조직에는 특정 규정 또는 비즈니스적 필요성을 따르는지 확인하기 위하여 좀 더 복잡한 메일 흐름 설정이 필요합니다. 이러한 옵션은 여기에서 확인할 수 있습니다.  
   
 ## <a name="custom-routing-of-outbound-email"></a>아웃바운드 전자 메일의 사용자 지정 라우팅
 
-Microsoft Exchange Online은 온-프레미스 서버 또는 호스트 서비스("스마트 호스팅"이라고도 함)를 통해 조직에서 메일 흐름을 라우팅할 수 있습니다. 이를 통해 조직은 DLP(데이터 손실 방지) 어플라이언스를 사용하여 보내는 전자 메일에 대한 사용자 지정 사후 처리를 수행하고 사설 네트워크를 통해 비즈니스 파트너에게 전자 메일을 배달합니다. Exchange Online은 또한 주소 다시 쓰기를 지원합니다. 이 기능은 보내는 전자 메일을 주소가 수정되는 온-프레미스 게이트웨이를 통해 라우팅합니다. 이 기능을 사용하면 하위 도메인을 숨겨 다중 도메인 조직의 전자 메일을 단일 도메인으로 나타나게 하거나, 파트너 릴레이 전자 메일을 조직 내부에서 보내진 것처럼 표시할 수 있습니다. 관리자는 EAC(Exchange 관리 센터) 내에서 사용자 지정 전자 메일 라우팅을 구성합니다.
+Microsoft Exchange Online은 온-프레미스 서버 또는 호스팅된 서비스 ("스마트 호스팅"이 라고도 함)를 통해 조직의 메일 흐름을 라우팅할 수 있습니다. 이를 통해 조직은 DLP (데이터 손실 방지) 기기를 사용 하 고, 보내는 전자 메일의 사용자 지정 사후 처리를 수행 하 고, 개인 네트워크를 통해 비즈니스 파트너에 게 전자 메일을 배달할 수 있습니다. 또한 Exchange Online에서는 주소를 수정 하는 온-프레미스 게이트웨이를 통해 보내는 전자 메일을 라우팅하는 주소 다시 쓰기도 지원 합니다. 이 기능을 사용 하면 하위 도메인을 숨기 거 나, 다중 도메인 조직의 전자 메일을 단일 도메인으로 표시 하거나, 파트너 릴레이 된 전자 메일을 조직 내부에서 보낸 것 처럼 표시 되도록 할 수 있습니다. 관리자는 EAC (Exchange 관리 센터) 내에서 사용자 지정 전자 메일 라우팅을 구성 합니다.
   
 자세한 내용은 [Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)을 참조하세요.
   
@@ -96,5 +96,5 @@ Exchange Online 고객은 Office 365 커넥터를 사용하여 신뢰할 수 있
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션별로 기능 가용성을 확인하려면 [Exchange Online 서비스 설명](exchange-online-service-description.md)을 참조하세요.
+Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 서비스 설명을](exchange-online-service-description.md)참조 하세요.
   

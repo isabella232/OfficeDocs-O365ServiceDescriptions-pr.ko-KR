@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 1701c399fe351356ff8813af8003632402dc2adc
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 0b5768720514572299814dd5ecd9c3a200f1958a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442703"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581924"
 ---
 # <a name="clients-and-mobile-devices"></a>클라이언트 및 모바일 장치
 
@@ -70,7 +70,7 @@ Exchange Online은 iOS, Android 및 Windows Phone에 사용할 수 있는 Outloo
 
 Outlook에서는 최신 모바일 앱에서 기대할 수 있는 빠르고 직관적인 전자 메일 및 일정 환경을 제공 하며, Office 365의 최상의 기능을 지원 하기 위한 유일한 앱입니다. 이 전자 메일 응용 프로그램은 전체 Office 365 환경을 지원 하도록 특별히 설계 된 것으로, 데스크톱에서 모바일으로 사용자에 게 일관 된 환경을 제공 합니다. Outlook은 Intune, enterprise mobility and security 및 Exchange 컨트롤을 사용 하 여 데이터와 사용자를 안전 하 게 유지 합니다.
   
-Outlook에서는 다음 작업을 수행할 수 있습니다.
+Outlook에서는 사용자가 다음 작업을 수행할 수 있습니다.
   
 - 모바일 장치에서 전체 날짜를 관리 합니다.
 
@@ -161,5 +161,5 @@ Office 365 전자 메일은 Exchange ActiveSync를 통해 BlackBerry® 장치에
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션별로 기능 가용성을 확인하려면 [Exchange Online 서비스 설명](exchange-online-service-description.md)을 참조하세요.
+Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 서비스 설명을](exchange-online-service-description.md)참조 하세요.
   

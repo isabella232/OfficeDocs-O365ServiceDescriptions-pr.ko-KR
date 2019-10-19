@@ -11,32 +11,30 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: a88ccb9ec0280b43d58c290210b569fb17e7f7a0
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 815800d14ab4eacf43ef966218117db5ad3c90f4
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776479"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581884"
 ---
-# <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online Archiving의 규정 준수 및 보안 기능
+# <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online 보관의 규정 준수 및 보안 기능
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Exchange Online Archiving의 규정 준수 기능
 
 다음 섹션에서는 Microsoft Exchange Online Archiving의 규정 준수 기능을 설명합니다.
   
 ### <a name="retention-policies"></a>보존 정책
-<a name="BKMK_Retentionpolicies"> </a>
 
-Exchange Online Archiving은 전자 메일 및 기타 통신과 관련한 조직의 부담을 줄이는 데 도움을 주는 보존 정책을 제공합니다. 이러한 정책을 사용하면 관리자가 사용자 사서함의 특정 폴더에 보존 설정을 적용할 수 있습니다. 또한 관리자는 Outlook 2010 이상 또는 Outlook Web App을 통해 사용자에게 보존 정책 메뉴를 제공하고 이를 특정 항목, 대화 또는 폴더에 적용하도록 할 수 있습니다. Exchange Online Archiving에서 관리자는 온-프레미스 인프라의 보존 정책을 관리합니다.
+Exchange Online Archiving은 전자 메일 및 기타 통신과 관련한 조직의 부담을 줄이는 데 도움을 주는 보존 정책을 제공합니다. 이러한 정책을 사용하면 관리자가 사용자 사서함의 특정 폴더에 보존 설정을 적용할 수 있습니다. 또한 관리자는 사용자에 게 보존 정책 메뉴를 제공 하 고 Outlook 2010 이상 또는 웹용 Outlook을 사용 하 여 특정 항목, 대화 또는 폴더에 정책을 적용 하도록 할 수 있습니다. Exchange Online Archiving에서 관리자는 온-프레미스 인프라의 보존 정책을 관리합니다.
   
 Exchange Online Archiving은 보관과 삭제라는 두 가지 유형의 정책을 제공합니다. 이 두 가지 유형을 동일한 항목이나 폴더에 적용할 수 있습니다. 예를 들어, 사용자가 지정한 기간(일)이 지나면 자동으로 전자 메일 메시지가 보관 사서함으로 이동되고 또 다른 지정한 기간(일)이 지나면 삭제되도록 전자 메일 메시지에 태그를 지정할 수 있습니다.
   
-Outlook 2010 이상 및 Outlook Web App을 사용할 경우 사용자는 폴더, 대화 또는 개별 메시지에 보존 정책을 적용할 수 있으며, 적용된 보존 정책과 메시지의 예상 삭제 날짜도 볼 수 있습니다. 다른 전자 메일 클라이언트 사용자의 경우 관리자가 프로비전한 서버 쪽 보존 정책에 따라 전자 메일이 삭제되거나 보관되도록 할 수는 있지만 Outlook 2010 및 Outlook Web App에서와 같은 수준으로 메시지를 보거나 제어할 수는 없습니다.
+Outlook 2010 이상 및 웹용 Outlook을 사용 하면 사용자가 폴더, 대화 또는 개별 메시지에 보존 정책을 적용할 수 있으며, 적용 된 보존 정책 및 메시지의 예상 삭제 날짜를 볼 수도 있습니다. 다른 전자 메일 클라이언트 사용자의 경우 관리자가 프로비전한 서버 쪽 보존 정책에 따라 전자 메일이 삭제되거나 보관되도록 할 수는 있지만 Outlook 2010 및 Outlook Web App에서와 같은 수준으로 메시지를 보거나 제어할 수는 없습니다.
   
 Exchange Online Archiving에서 제공하는 보존 정책 기능은 Exchange Server 2010 SP2(서비스 팩 2) 이상에서 제공하는 기능과 동일합니다. 관리자는 온-프레미스 Exchange Server 2010 이상 환경에서 보존 정책을 관리할 수 있습니다. Exchange 2007에 도입되었던 이전의 메시징 레코드 관리 방법인 관리 폴더는 Exchange Online Archiving에서 사용할 수 없으며 Exchange Online Archiving과 호환되지 않습니다. 자세한 내용은 [보존 태그 및 보존 정책](https://go.microsoft.com/fwlink/p/?LinkID=314153)을 참조하세요.
   
 ### <a name="in-place-hold-and-litigation-hold"></a>원본 위치 유지 및 소송 보존
-<a name="BKMK_In_placehold"> </a>
 
 소송 가능성이 존재하는 경우 조직은 해당 사례와 관련된 전자 메일을 비롯한 ESI(전자적으로 저장된 정보)를 보존해야 합니다. 이러한 가능성은 사례의 세부 사항이 알려지기 전에 발생할 수 있으며 많은 경우 보존 범위가 넓습니다. 조직에서는 특정 항목과 관련된 모든 전자 메일 또는 특정 개인의 모든 전자 메일을 보존할 수 있습니다.
   
@@ -72,7 +70,6 @@ Exchange Online에서는 원본 위치 유지 또는 소송 보존 기능을 사
 > Exchange Online Archiving 사용자의 복구 가능한 항목 폴더의 기본 할당량은 100 GB입니다. 
   
 ### <a name="in-place-ediscovery"></a>원본 위치 eDiscovery
-<a name="BKMK_In_placehold"> </a>
 
 Exchange Online Archiving에서는 조직의 사서함 콘텐츠 검색에 대해 원본 위치 eDiscovery를 지원합니다. 온-프레미스 Exchange 2013 서버에서 Exchange 관리 센터 또는 원격 Windows PowerShell을 사용하여 관리자나 권한 있는 Discovery 관리자는 전자 메일 메시지, 첨부 파일, 일정 약속, 작업, 연락처 등 다양한 사서함 항목을 검색할 수 있습니다. 원본 위치 eDiscovery는 기본 사서함 및 보관 사서함을 동시에 검색할 수 있습니다. KQL(Keyword Query Language) 구문과 함께, 다양한 필터링 기능에는 보낸 사람, 받는 사람, 메시지 유형, 보낸 날짜, 받은 날짜, 참조 및 숨은 참조가 있습니다. 자세한 내용은 [원본 위치 eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169)를 참조하세요.
   
@@ -100,7 +97,7 @@ Exchange 관리 센터 및 원격 Windows PowerShell을 사용하여 원본 위�
 
 보안 향상을 위해 Exchange Online Archiving에 대한 클라이언트 연결에는 다음과 같은 암호화 방법이 사용됩니다.
   
-- SSL은 TCP 포트 443을 통해 Outlook, Outlook Web App 및 Exchange 웹 서비스 트래픽의 보안을 유지하는 데 사용됩니다.
+- SSL은 TCP 포트 443을 사용 하 여 Outlook, 웹용 Outlook 및 Exchange 웹 서비스 트래픽의 보안을 유지 하는 데 사용 됩니다.
     
 - Exchange Online Archiving이 도입된다고 해서 온-프레미스 서버에 대한 클라이언트 연결이 변경되지는 않습니다.
     
@@ -114,13 +111,13 @@ Exchange Online Archiving에서는 S/MIME(Secure/Multipurpose Internet Mail Exte
 
 Exchange Online Archiving에서 호스트 IRM(정보 권한 관리) 서비스를 제공하지는 않지만 관리자는 온-프레미스 AD RMS(Active Directory Rights Management Services)를 사용할 수 있습니다. AD RMS 서버가 배포되면 Outlook은 해당 서버와 직접 통신할 수 있으며, 사용자는 IRM으로 보호된 메시지를 작성하고 읽을 수 있습니다. AD RMS 서버와 온-프레미스 Exchange 환경 간의 상호 운용성이 구성된 경우 사용자는 IRM으로 보호된 메시지를 작성하고 읽을 수 있습니다.
   
-#### <a name="support-for-irm-in-outlook-web-app"></a>Outlook Web App의 IRM 지원
+#### <a name="support-for-irm-in-outlook-on-the-web"></a>웹용 Outlook의 IRM 지원
 
-사용자는 Outlook에서와 마찬가지로 Outlook Web App에서 IRM으로 보호된 메시지를 기본적으로 읽고 만들 수 있습니다. Internet Explorer, Firefox, Safari 및 Chrome을 통해 Outlook Web App의 IRM으로 보호된 메시지에 액세스할 수 있습니다(플러그 인 불필요). 메시지에는 전체 텍스트 검색, 대화 보기 및 미리 보기 창이 포함됩니다. 이 기능이 가능하도록 Active Directory Rights Management Services 서버와 온-프레미스 Exchange 환경 간의 상호 운용성이 구성되어야 합니다.
+사용자는 Outlook에서와 마찬가지로, 웹에서 Outlook을 사용 하 여 IRM으로 보호 된 메시지를 기본적으로 읽고 만들 수 있습니다. Internet Explorer, Firefox, Safari 및 Chrome을 통해 웹에서 Outlook의 IRM으로 보호 된 메시지에 액세스할 수 있습니다 (플러그 인 필요 없음). 메시지에는 전체 텍스트 검색, 대화 보기 및 미리 보기 창이 포함됩니다. 이 기능이 가능하도록 Active Directory Rights Management Services 서버와 온-프레미스 Exchange 환경 간의 상호 운용성이 구성되어야 합니다.
   
 #### <a name="irm-search"></a>IRM 검색
 
-헤더, 제목, 본문 및 첨부 파일을 비롯하여 IRM으로 보호된 메시지는 인덱싱되며 검색 가능합니다. 사용자는 Outlook 및 Outlook Web App에서 IRM으로 보호된 항목을 검색할 수 있으며, 관리자는 원본 위치 eDiscovery 또는 **Search-Mailbox** cmdlet을 사용하여 IRM으로 보호된 항목을 검색할 수 있습니다. 
+헤더, 제목, 본문 및 첨부 파일을 비롯하여 IRM으로 보호된 메시지는 인덱싱되며 검색 가능합니다. 사용자는 Outlook 및 웹용 Outlook에서 IRM으로 보호 된 항목을 검색할 수 있으며, 관리자는 원본 위치 eDiscovery 또는 **검색-사서함** cmdlet을 사용 하 여 irm으로 보호 된 항목을 검색할 수 있습니다.
   
 ### <a name="auditing"></a>감사
 

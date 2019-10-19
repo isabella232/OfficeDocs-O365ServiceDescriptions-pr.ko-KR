@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
-description: Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다. Exchange Online Protection을 제공하는 계획 목록과 계획 간 기능 비교가 포함되어 있습니다.
-ms.openlocfilehash: bc95415e4f348c326b36f300b39df3fe87f7e282
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+description: Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다. 여기에는 Exchange Online Protection을 제공 하는 계획 목록과 이러한 요금제의 기능 비교가 포함 되어 있습니다.
+ms.openlocfilehash: 462e1f100382ffddd9f456f38525158826720f53
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334148"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581914"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 서비스 설명
 
-Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다. Exchange Online Protection을 제공하는 계획 목록과 계획 간 기능 비교가 포함되어 있습니다.
+Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다. 여기에는 Exchange Online Protection을 제공 하는 계획 목록과 이러한 요금제의 기능 비교가 포함 되어 있습니다.
 
 Microsoft EOP(Exchange Online Protection)는 스팸 및 맬웨어로부터 조직을 보호하는 클라우드 기반 전자 메일 필터링 서비스로, 메시징 정책 위반으로부터 조직을 보호하는 기능을 포함합니다. EOP를 사용하면 메시징 환경을 쉽게 관리하고 온-프레미스 하드웨어 및 소프트웨어 유지 관리 시의 부담을 대부분 완화할 수 있습니다.
 
@@ -119,7 +119,7 @@ EOP의 제한은 [Exchange Online Protection 제한](exchange-online-protection-
 <sup>4</sup> EOP의 메일 흐름 규칙 (전송 규칙이 라고도 함)은 [Exchange Online Protection의 메일 흐름 규칙 (전송 규칙)](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)에 설명 되어 있습니다. 사용할 수 있는 메일 흐름 규칙 조건, 예외 및 작업은 EOP과 Exchange Online 간에 약간씩 다릅니다. Exchange online의 메일 [흐름 규칙 조건 및 예외 (조건자)](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) 에서는 exchange online의 메일 흐름 [규칙 동작](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)에 나와 있습니다.<br/>
 <sup>5</sup> EOP 감사 보고서는 사서함에 대한 정보가 제외된, Exchange Online 감사 보고서의 하위 집합입니다. <br/>
 <sup>6</sup> Exchange Enterprise CAL with Services 고객은 DLP 정책 팁을 사용할 수 없습니다.  <br/>
-<sup>7</sup> 기본 콘텐츠 필터 동작은 스팸 메시지를 받는 사람의 정크 메일 폴더로 이동하는 것입니다. 이를 위해 온-프레미스 Exchange 사서함에서 작동 하려면 온-프레미스 Exchange 조직에서 EOP에 추가 된 스팸 헤더를 검색 하기 위한 두 가지 전송 규칙도 구성 해야 합니다. 자세한 내용은 [스팸이 각 사용자의 정크 메일 폴더로 라우팅되도록](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)합니다 .를 참조 하세요. <br/>
+<sup>7</sup> 기본 콘텐츠 필터 동작은 스팸 메시지를 받는 사람의 정크 메일 폴더로 이동하는 것입니다. 이를 위해 온-프레미스 Exchange 사서함을 사용 하려면 EOP에서 추가 된 스팸 헤더를 검색 하도록 온-프레미스 Exchange 조직에서 두 개의 전송 규칙을 구성 해야 합니다. 자세한 내용은 [스팸이 각 사용자의 정크 메일 폴더로 라우팅되도록](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)합니다 .를 참조 하세요. <br/>
 <sup>9</sup> EOP 보고서는 사서함에 대한 정보를 제외한 Exchange Online 보고서의 하위 집합입니다.<br/>
 <sup>10</sup> DLP 보고서가 포함됩니다. <br/>
 <sup>12</sup> Azure Information protection을 구입 하 고 Exchange online Protection을 사용 하 여 exchange online을 통해 전자 메일을 라우팅하는 온-프레미스 고객에 게 지원 됩니다. <br/>
