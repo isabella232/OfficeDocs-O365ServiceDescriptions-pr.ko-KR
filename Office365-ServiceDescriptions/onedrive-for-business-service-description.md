@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 각 구독 계획에 대해 제공되는 OneDrive 저장 공간에 알아봅니다.
-ms.openlocfilehash: 180afa60864ebce2d911f5532c407482876bafbb
-ms.sourcegitcommit: 04f69dc7faa48ab048524ffcc4455ea584cae30b
+ms.openlocfilehash: 8eefabe547db81d758a98e5799729790340724a7
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36407722"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582204"
 ---
 # <a name="onedrive-for-business-service-description"></a>비즈니스용 OneDrive 서비스 설명
 
@@ -27,7 +27,7 @@ OneDrive는 조직에서 사용 허가되지 않은 사용자에게 제공된 �
   
 OneDrive는 Microsoft 365 및 Office 365 요금제에서 SharePoint Online 요금제에 포함되고 독립 실행형 요금제로 구매할 수도 있습니다. 
     
-요금제를 비교하려면 [Office 365 비즈니스 요금제 비교](https://go.microsoft.com/fwlink/?linkid=799177) 및 [비즈니스용 OneDrive 요금제 비교](https://products.office.com/en-us/onedrive-for-business/compare-onedrive-for-business-plans)를 참조하세요. 
+요금제를 비교하려면 [Office 365 비즈니스 요금제 비교](https://go.microsoft.com/fwlink/?linkid=799177) 및 [비즈니스용 OneDrive 요금제 비교](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans)를 참조하세요. 
   
 > [!NOTE]
 > 비즈니스용 OneDrive 독립 실행형 요금제에는 웹용 Office가 포함됩니다. 
@@ -38,11 +38,11 @@ OneDrive 동기화 클라이언트 및 모바일 앱에 대한 요구 사항을 
   
 ## <a name="about-sync"></a>동기화 정보
 
-IT 부서에서 분명하게 사용하지 않도록 설정한 경우가 아니라면, OneDrive가 포함된 플랜을 소유한 모든 사용자는 OneDrive 동기화 클라이언트를 사용할 수 있습니다. 최신 동기화 클라이언트를 설치하려면 [OneDrive 다운로드 페이지](https://onedrive.live.com/about/download/)로 이동합니다. 동기화 클라이언트에 대한 자세한 내용은 [Windows에서 OneDrive 동기화 클라이언트를 사용하여 파일 동기화](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)를 참조하세요.
+IT 부서에서 분명하게 사용하지 않도록 설정한 경우가 아니라면, OneDrive가 포함된 플랜을 소유한 모든 사용자는 OneDrive 동기화 클라이언트를 사용할 수 있습니다. 최신 동기화 클라이언트를 설치하려면 [OneDrive 다운로드 페이지](https://onedrive.live.com/about/download/)로 이동합니다. 동기화 클라이언트에 대한 자세한 내용은 [Windows에서 OneDrive 동기화 클라이언트를 사용하여 파일 동기화](https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49)를 참조하세요.
   
 ## <a name="storage-space-per-user"></a>사용자당 저장소 공간
 
-**2GB**
+**5 GB**
 
 - Office 365 Enterprise F1
 
