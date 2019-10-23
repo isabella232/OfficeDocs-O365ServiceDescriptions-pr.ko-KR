@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Web for excel (이전의 Excel Web App)은 Microsoft Excel 환경을 웹 브라우저로 확장 하 여 통합 문서가 저장 된 웹 사이트에서 통합 문서를 직접 사용할 수 있습니다. 모든 Office 365 고객은 웹에서 Office를 사용 하 여 Office 파일을 보고 가볍게 편집할 수 있습니다.
-ms.openlocfilehash: 32d7d5318bbb65b54ac26dc72439a51b7bb9e27c
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 7b481fe2ffe0b10ab8765c7c5238003e766a0cc4
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595306"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631637"
 ---
 # <a name="excel-for-the-web"></a>웹용 Excel
 
@@ -79,10 +79,9 @@ Excel을 사용하여 다양한 자동, 수동 및 반복 계산을 수행할 �
 
 ## <a name="cell-references-in-formulas"></a>수식의 셀 참조
 
-수식에 셀 참조를 사용할 수 있습니다. 수식에서 셀 이나 범위를 참조 하면 참조 되는 셀 이나 범위를 색으로 강조 표시 합니다. 자세한 내용은 [수식에서 셀 참조 사용](https://support.office.com/article/FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03)을 참고 하십시오.
+수식에 셀 참조를 사용할 수 있습니다. [수식에서 셀 이나 범위를 참조](https://support.office.com/article/c7b8b95d-c594-4488-947e-c835903cebaa)하면 참조 되는 셀 이나 범위를 색으로 강조 표시 합니다. 자세한 내용은 [수식에서 셀 참조 사용](https://support.office.com/article/fe137a0d-1c39-4d6e-a9e0-e5ca61fcba03)을 참고 하십시오.
   
 ## <a name="chart-animations-adapt-to-new-data"></a>차트 애니메이션에 새 데이터 적용
-
 Microsoft Excel 데스크톱 앱에서만 고급 차트 기능을 지원합니다. 자세한 내용은 [SmartArt 그래픽을 애니메이션으로 만드는 방법](https://go.microsoft.com/fwlink/p/?LinkId=271668)을 참조하세요.
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>피벗 차트 보고서 및 피벗 테이블 보고서를 포함하는 차트 및 테이블
@@ -95,7 +94,7 @@ Excel 차트 및 테이블을 사용하여 더욱 간편하게 데이터 서식�
 
 ## <a name="comment-creation"></a>Comment creation
 
-Excel에서 웹에 대 한 설명을 삽입, 편집 및 삭제할 수 있습니다. 주석 스레드를 확인 하 여 편집 및 새 설명에 대 한 주석을 닫고 그대로 둘 수도 있습니다. 이렇게 하면 필요한 경우 스레드를 주석에 다시 열 수 있습니다. 자세한 내용은 [ Excel에 설명 추가하기 ](https://go.microsoft.com/fwlink/p/?LinkId=271670)를 참조하세요.
+Excel에서 웹에 대 한 설명을 삽입, 편집 및 삭제할 수 있습니다. 주석 스레드를 확인 하 여 편집 및 새 설명에 대 한 주석을 닫고 그대로 둘 수도 있습니다. 이렇게 하면 필요한 경우 스레드를 주석에 다시 열 수 있습니다. 의견에 @mentions를 사용 하 여 언급 한 사람에 게 전자 메일을 보낼 수 있습니다. 자세한 내용은 [ Excel에 설명 추가하기 ](https://go.microsoft.com/fwlink/p/?LinkId=271670)를 참조하세요.
 
 ## <a name="convert-a-table-to-a-range"></a>표를 범위로 변환
 
@@ -103,7 +102,7 @@ Excel 표를 만든 후 표 기능 없이만 표 스타일을 사용 하는 것�
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-최상의 결과를 위해 Excel에서 마우스 오른쪽 단추를 클릭 하는 메뉴 또는 클립보드 명령이 아닌 바로 가기 키를 사용 하 여 다른 워크시트 위치로 항목을 복사 합니다. 자세한 내용은 [Excel에서 복사 및 붙여넣기를 사용 하 여 웹](https://support.office.com/article/345327E5-D588-4DF3-8968-5AA823C98816)을 참고 하세요.
+텍스트, 숫자, 수식, 도형, 차트 및 이미지를 잘라내고 복사 하 고 붙여넣을 수 있습니다. 행에 데이터를 다시 정렬 하기 위해 회전 해야 하는 열에 데이터가 있는 경우 **붙여넣기** 메뉴에서 줄 **바꿈** 기능을 사용 합니다.
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -124,6 +123,10 @@ Power Pivot 및 Power View와 같은 고급 분석 보기 기능은 Excel 데스
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
 
 Excel에서 셀을 끌어 다른 위치에 놓으면 셀 값을 이동할 수 있습니다.
+
+## <a name="draw-cell-borders"></a>셀 테두리 그리기
+
+워크시트의 셀 주위에 테두리를 그리면 데이터를 시각적으로 구성 하는 데 도움이 됩니다. 자세한 내용은 [Excel의 셀 테두리를](https://support.office.com/article/dc8a310b-92e3-46a7-9f17-2ab745810f4a#ID0EAADAAA=Web)참고 하십시오.
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -155,9 +158,9 @@ Excel 통합 문서를 OneDrive.com에 저장한 경우 블로그나 웹 사이�
   
 ## <a name="formula-bar"></a>Formula bar
 
-수식 입력줄에서 셀 결과를 계산한 수식을 확인합니다. Excel 데스크톱 앱에서처럼 브라우저에서 수식의 일부를 추가, 변경 및 삭제할 수 있습니다.
+수식 입력줄에서 셀 결과를 계산한 수식을 확인합니다. Excel 데스크톱 앱에서처럼 브라우저에서 수식의 일부를 추가, 변경 및 삭제할 수 있습니다. 웹에 대 한 Excel은 워크시트의 수식과 데이터 사이에 시각적 매핑을 제공 하는 색으로 수식의 인수를 강조 표시 합니다.
   
-## <a name="formula-tools--advanced"></a>수식 도구 - 고급
+## <a name="formula-tools-advanced"></a>수식 도구, 고급
 
 Microsoft Excel 데스크톱 앱에서는 3D 참조 스타일 및 배열 수식과 같은 최고급 수식 도구를 지원합니다. 웹의 excel에서는 가장 기본적인 Excel 수식만 지원 됩니다. 자세한 내용은 [수식](https://go.microsoft.com/fwlink/p/?LinkId=271665)을 참조하세요.
   
@@ -211,7 +214,7 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 ## <a name="named-ranges"></a>명명 된 범위
 
-Excel에서 웹에 대해 명명 된 범위를 만들 수는 없지만 excel의 스프레드시트에서 만든 명명 된 범위를 웹에서 사용할 수 있습니다.
+Excel에서 웹에 대해 명명 된 범위를 만들 수는 없지만 excel의 스프레드시트에서 만든 명명 된 범위를 웹에서 사용할 수 있습니다. 명명 된 범위를 선택 하면 이름이 수식 입력줄 바로 앞에 표시 됩니다.
 
 ## <a name="number-formatting"></a>숫자 서식
 
@@ -295,7 +298,7 @@ Excel 파일을 다른 사용자와 공유할 경우 워크시트가 변경되�
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-웹의 Excel에서는 모든 워크시트를 보고 순서를 변경 하 고, 데이터를 정렬 및 필터링 하 고, 위쪽에서 아래쪽으로 또는 왼쪽에서 오른쪽으로, 피벗 테이블 세부 정보를 볼 수 있습니다. 자세한 내용은 [데이터 정렬 및 필터링을](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web)참고 하세요.
+웹의 Excel에서는 모든 워크시트를 보고 순서를 변경 하 고, 데이터를 정렬 및 필터링 하 고, 위쪽에서 아래쪽 또는 왼쪽에서 오른쪽으로, 여러 단계를 진행 하 고, 피벗 테이블의 세부 정보를 볼 수 있습니다. 자세한 내용은 [데이터 정렬 및 필터링을](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web)참고 하세요.
   
 ## <a name="spreadsheet-audit-and-compliance"></a>스프레드시트 감사 및 준수
 

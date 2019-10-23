@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365에서는 사용자 만들기, 관리 및 인증을 위해 다음과 같은 방법을 지원 합니다.
-ms.openlocfilehash: f51e06e64722b5db8820a4f164beca0997796a4b
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: bd6e701c8ff4c699d305bfcde8a68e1867dd0bb2
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582174"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631657"
 ---
 # <a name="user-account-management"></a>사용자 계정 관리
 
@@ -104,7 +104,7 @@ Office 365 서비스의 올바른 인증과 검색을 보장하려면 관리자�
 |Windows Vista의 Outlook 2010 또는 Office Outlook 2007  <br/> |각 세션에 로그인 <sup>1</sup> <br/> |각 세션에 로그인 <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |각 세션에 로그인 <sup>1</sup> <br/> |각 세션에 로그인 <sup>2</sup> <br/> |
 |POP, IMAP, Outlook for Mac  <br/> |각 세션에 로그인 <sup>1</sup> <br/> |각 세션에 로그인 <sup>2</sup> <br/> |
-|웹 환경: Office 365 포털/Outlook Web App/SharePoint Online/Office for 웹용  <br/> |각 브라우저 세션에 로그인<sup>4</sup> <br/> |각 세션에 로그인 <sup>3</sup> <br/> |
+|웹 환경: 웹용 Office 365 portal/Outlook/SharePoint Online/Office for 웹용  <br/> |각 브라우저 세션에 로그인<sup>4</sup> <br/> |각 세션에 로그인 <sup>3</sup> <br/> |
 |SharePoint Online을 사용한 Office 2010 또는 Office 2007  <br/> |각 SharePoint Online 세션에 로그인 <sup>4</sup> <br/> |각 SharePoint Online 세션에 로그인<sup>3</sup> <br/> |
 |비즈니스용 Skype 온라인  <br/> |각 세션에 로그인 <sup>1</sup> <br/> |표시되지 않음  <br/> |
 |Outlook for Mac  <br/> |각 세션에 로그인 <sup>1</sup> <br/> |각 세션에 로그인 <sup>2</sup> <br/> |
@@ -149,7 +149,7 @@ Office 365 서비스의 올바른 인증과 검색을 보장하려면 관리자�
     
     엔터프라이즈 요금제의 경우 관리자가 암호를 분실 하거나 잊은 경우 전역 관리자 역할이 있는 다른 관리자가 Microsoft 365 관리 센터에서 또는 Windows PowerShell을 사용 하 여 관리자의 암호를 다시 설정할 수 있습니다. 자세한 내용은 [관리자 암호 다시 설정](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)을 참조하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 암호 변경 또는 재설정](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)을 참조하세요.
     
-- **사용자가 Outlook Web App을 사용하여 암호 변경**Outlook Web App 옵션 페이지에는 사용자를 **암호 변경** 페이지로 리디렉션하는 암호 변경 하이퍼링크가 포함되어 있습니다. 사용자가 이전 암호를 알고 있어야 합니다. 자세한 내용은 [암호 변경](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c)을 참조하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 암호 변경 또는 재설정](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)을 참조하세요.
+- **사용자가 웹에서 Outlook을 사용 하 여 암호 변경** 웹 옵션 페이지의 Outlook에는 사용자를 **암호 변경** 페이지로 리디렉션하는 암호 변경 하이퍼링크가 포함 되어 있습니다. 사용자가 이전 암호를 알고 있어야 합니다. 자세한 내용은 [암호 변경](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c)을 참조하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 암호 변경 또는 재설정](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)을 참조하세요.
     
 - **역할 기반 암호 다시 설정 권한** Enterprise 계획의 경우 기술 지원팀 직원과 같은 권한 있는 사용자에게는 완전한 서비스 관리자가 될 필요 없이 **암호 다시 설정** 사용자 권한 및 Office 365 사전 정의된 역할 또는 사용자 지정 역할을 통한 암호 변경 권한을 할당할 수 있습니다. 기본적으로 Enterprise 계획에서는 전역 관리자, 암호 관리자 또는 사용자 관리 관리자 역할을 가진 사용자가 암호를 변경할 수 있습니다. 자세한 내용은 [관리 역할 지정](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)을 참조하세요.
     
@@ -157,7 +157,7 @@ Office 365 서비스의 올바른 인증과 검색을 보장하려면 관리자�
     
  **페더레이션 ID 암호 관리:**
   
-페더레이션 ID를 사용할 경우 암호는 Active Directory에서 관리됩니다. 온-프레미스 보안 토큰 서비스는 사용자의 로컬 Active Directory 암호를 인터넷을 통해 Office 365에 전달 하지 않고 Office 365 페더레이션 게이트웨이와 인증을 협상 합니다. 로컬 암호 정책이 사용되거나 웹 클라이언트의 경우에는 2단계 식별이 사용됩니다. Outlook Web App에는 암호 변경 하이퍼링크가 포함되지 않습니다. 사용자는 표준 온-프레미스 도구 또는 데스크톱 PC 로그온 옵션을 통해 암호를 변경할 수 있습니다.
+페더레이션 ID를 사용할 경우 암호는 Active Directory에서 관리됩니다. 온-프레미스 보안 토큰 서비스는 사용자의 로컬 Active Directory 암호를 인터넷을 통해 Office 365에 전달 하지 않고 Office 365 페더레이션 게이트웨이와 인증을 협상 합니다. 로컬 암호 정책이 사용되거나 웹 클라이언트의 경우에는 2단계 식별이 사용됩니다. 웹용 Outlook에는 암호 변경 하이퍼링크가 포함 되지 않습니다. 사용자는 표준 온-프레미스 도구 또는 데스크톱 PC 로그온 옵션을 통해 암호를 변경할 수 있습니다.
   
 Office 365 환경에서 [SSO(Single Sign-On)를 사용한 디렉터리 동기화](https://docs.microsoft.com/previous-versions/azure/azure-services/dn441213(v=azure.100))가 사용되도록 설정되어 있고 페더레이션 ID 공급자에 영향을 주는 중단 상황이 발생하면 페더레이션 로그인을 위한 암호 동기화 백업은 수동으로 도메인을 암호 동기화로 전환하기 위한 옵션을 제공합니다. 암호 동기화를 사용하면 중단 상황이 해결되는 동안에도 사용자가 Office 365에 액세스할 수 있습니다. [SSO(Single Sign-On)에서 암호 동기화로 전환하는 방법](https://go.microsoft.com/fwlink/p/?LinkId=509832)을 알아보세요.
   

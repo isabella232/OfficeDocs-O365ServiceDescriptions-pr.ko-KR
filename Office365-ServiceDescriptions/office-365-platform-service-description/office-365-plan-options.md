@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
-ms.openlocfilehash: 18fb079e0d6353595841d02c274ba5bbab35935b
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 089ce23a2dd086bd78c5401e67f6dcb722a40a76
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582064"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633503"
 ---
 # <a name="office-365-plan-options"></a>Office 365 계획 옵션
 
@@ -33,10 +33,10 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
   
 |**Office 365 서비스 제품군**|**계획**|
 |:-----|:-----|
-|**Business(사용자 최대 300명)** <br/> |[Office 365 Business Essentials](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 Business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Office 365 Business Premium](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
-|**Enterprise(사용자 수 제한 없음)** <br/> |[Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 Enterprise F1](https://products.office.com/business/office-365-f1) <br/> |
-|**Education(사용자 수 제한 없음)** <br/> |[Office 365 Education](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Education E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
-|**Government(사용자 수 제한 없음)** <br/> |[모든 사용 가능한 비즈니스 계획을 참조하세요.](https://products.office.com/government/compare-office-365-government-plans) <br/> |
+|**Business (최대 300 명의 사용자)** <br/> |[Office 365 Business Essentials](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 Business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Office 365 Business Premium](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|**Enterprise (사용자 수 제한 없음)** <br/> |[Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 Enterprise F1](https://products.office.com/business/office-365-f1) <br/> |
+|**교육 (사용자 수 제한 없음)** <br/> |[Office 365 Education](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Education E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
+|**정부 (사용자 수 제한 없음)** <br/> |[모든 사용 가능한 비즈니스 계획을 참조하세요.](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**중국의 21Vianet에서 운영하는 Office 365** <br/> |[사용 가능한 모든 비즈니스 계획 참조](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
 |**Office 365 Germany** <br/> |[모든 사용 가능한 비즈니스 계획을 참조하세요.](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview) <br/> |
    
@@ -84,6 +84,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 #### <a name="basic-client-limitations"></a>기본 클라이언트 제한 사항
 
 다음과 같은 기능은 전체 클라이언트에서 사용할 수 있지만, 기본 클라이언트에서는 사용할 수 없습니다.
+
 - 팀 호출 설정 관리
 - 대리인 관리    
 - 다른 대화 상대 대신 전화 걸기(관리자/대리인 시나리오)    
@@ -97,7 +98,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 
 조직의 요구 사항이 바뀌면 Office 365 계획을 변경해야 할 수 있습니다. 다음과 같이 현재 Office 365 구독을 다른 Office 365 구독으로 전환할 수 있습니다. 
   
-- **같은 서비스 제품군 내에서 전환하는 경우:** 예를 들면 Office 365 Business Essentials에서 Office 365 Business Premium으로 또는 Office 365 Enterprise E1에서 Office 365 Enterprise E3로 이동할 수 있습니다.     
+- **같은 서비스 제품군 내에서 전환하는 경우:** 예를 들면 Office 365 Business Essentials에서 Office 365 Business Premium으로 또는 Office 365 Enterprise E1에서 Office 365 Enterprise E3로 이동할 수 있습니다.
 - **독립 실행형 계획에서 전환하는 경우:** 예를 들면 Exchange Online 계획 1에서 Office 365 Enterprise E1으로 이동할 수 있습니다.     
 - **다른 서비스 제품군 내에서 전환하는 경우:** 예를 들면 Office 365 Business Essentials에서 Office 365 Enterprise E3로 이동할 수 있습니다.     
 평가판에서 유료 구독으로 이동하는 방법을 비롯하여 구독을 변경하는 방법에 대한 자세한 내용은 [다른 Office 365 계획 또는 구독으로 전환](https://support.office.com/article/HA104031833)을 참조하세요.
@@ -105,7 +106,6 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 단일 계정 내에 Enterprise, Business 및 독립 실행형 계획(예: Exchange Online 계획 1)을 결합할 수 있습니다. 그렇지만 기존의 계획당 시트 수 제한은 변경되지 않습니다. 예를 들어 Office 365 Business Essentials 및 Office 365 Business Premium에서는 계획당 시트 수를 최대 300개 보유할 수 있지만 Exchange Online 계획 1에서는 사용자 수에 제한이 없습니다.
   
 ## <a name="standalone-services"></a>독립 실행형 서비스
-<a name="bkmk_standaloneservices"> </a>
 
 독립 실행형 계획으로 단독 사용 가능한 온라인 서비스는 다음과 같습니다. 이러한 서비스는 Business 및 Enterprise 서비스 제품군 계획에 추가할 수도 있습니다(이미 포함되어 있지 않은 경우). 가격 정보 또는 온라인 담당자와 채팅을 하려면 다음 표에 나열 된 계획 중 하나를 선택 합니다.
   
@@ -125,6 +125,5 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |Kaizala  <br/> |[Microsoft Kaizala Pro](https://signup.microsoft.com/Signup?OfferId=b03ad9b6-42e5-4899-9a84-f7666ded99a1&culture=en-US&ali=1) <br/> |
    
 ## <a name="feature-availability"></a>기능 가용성
-<a name="bkmk_standaloneservices"> </a>
 
 Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](office-365-platform-service-description.md)을 참조하세요.

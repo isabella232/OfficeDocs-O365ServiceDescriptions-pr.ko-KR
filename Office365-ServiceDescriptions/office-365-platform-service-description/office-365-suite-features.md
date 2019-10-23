@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열 된 기능은 많은 장치 및 여러 Office 365 서비스에서 안전 하 게 공동 작업 하 고 통신 하는 데 사용할 수 있는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: 801079a5a6b26872acb34ad2b21aad4aff875430
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 8e91644898b688237a12715ef457a66589e5406e
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582124"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633427"
 ---
 # <a name="office-365-suite-features"></a>Office 365 제품군 기능
 
@@ -67,11 +67,11 @@ Microsoft Sway는 대화형 웹 기반 캔버스를 사용 하 여 의견을 표
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
-Microsoft 팀은 팀 구성원이 함께 목표를 달성하도록 도와주는 Office 365의 채팅 중심 작업 영역입니다. Microsoft 팀은 팀워크의 허브 역할을 하며, 채팅 대화, 콘텐츠 및 도구를 통해 Office 365에서 단일 작업 영역으로 바로 액세스할 수 있도록 합니다. SharePoint 및 OneNote가 기본적으로 제공되며, 팀원들은 앱 내에서 바로 Office 문서 작업을 수행할 수 있습니다. 채팅 외에도, Microsoft 팀은 팀이 필요할 때 또는 예약에 따라 실시간으로 만날 수 있도록 화상 통화 및 모임 기능도 지원합니다. 팀원들은 여러 팀과 함께 쉽게 공동 작업을 수행하고, 언제든지 피플, 채팅 및 파일을 검색할 수 있습니다. Microsoft 팀은 Windows, Mac, 웹, Android 및 iOS 플랫폼에서 작동합니다. 자세한 내용은 [Microsoft 팀 온라인 도움말](https://go.microsoft.com/fwlink/?linkid=834413)을 참조하세요. 팀은 [Office 365 Germany](office-365-germany.md)에서 아직 사용할 수 없습니다.
+Microsoft 팀은 팀 구성원이 함께 목표를 달성하도록 도와주는 Office 365의 채팅 중심 작업 영역입니다. Microsoft 팀은 팀워크의 허브 역할을 하며, 채팅 대화, 콘텐츠 및 도구를 통해 Office 365에서 단일 작업 영역으로 바로 액세스할 수 있도록 합니다. SharePoint 및 OneNote가 기본적으로 제공되며, 팀원들은 앱 내에서 바로 Office 문서 작업을 수행할 수 있습니다. 채팅 외에도, Microsoft 팀은 팀이 주문형 또는 일정에 따라 live meeting을 충족할 수 있도록 비디오 통화와 회의를 지원 합니다. 팀원들은 여러 팀과 함께 쉽게 공동 작업을 수행하고, 언제든지 피플, 채팅 및 파일을 검색할 수 있습니다. Microsoft 팀은 Windows, Mac, 웹, Android 및 iOS 플랫폼에서 작동 합니다. 자세한 내용은 [Microsoft 팀 온라인 도움말](https://go.microsoft.com/fwlink/?linkid=834413)을 참조하세요. 팀은 [Office 365 Germany](office-365-germany.md)에서 아직 사용할 수 없습니다.
   
 ## <a name="office-delve"></a>Office Delve
 
-Office Delve는 사용자가 개별화된 통찰력을 토대로 Office 365에서 콘텐츠를 검색할 수 있습니다. Delve는 Office Graph를 기반으로 하는 최초의 작업 환경입니다. Office Delve에 대한 자세한 내용은 [Office Delve란?](https://go.microsoft.com/fwlink/?LinkId=511463)을 참조하세요. 
+사용자는 office Delve를 통해 개인 정보 통찰력을 기반으로 Office 365에서 콘텐츠를 검색 하 고 검색할 수 있습니다. Delve는 Office Graph를 기반으로 하는 최초의 작업 환경입니다. Office Delve에 대한 자세한 내용은 [Office Delve란?](https://go.microsoft.com/fwlink/?LinkId=511463)을 참조하세요. 
   
 ## <a name="office-365-groups"></a>Office 365 그룹
 

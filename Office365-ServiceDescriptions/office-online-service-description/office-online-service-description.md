@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Web for office를 사용 하면 거의 모든 장치에서 인터넷에 연결 하 여 어디서 나 Office 파일을 보다 쉽게 작업 하 고 공유할 수 있습니다. Microsoft Office 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: ad834dfd756f76c9ccd2444690f7a762735a55dc
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: df6a4d09a970968a8c83cb5864b96af0f3e6f5db
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051619"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633884"
 ---
 # <a name="office-for-the-web-service-description"></a>웹 서비스에 대 한 Office 설명
 
@@ -26,9 +26,8 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 요금제 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 요금제 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)를 참조하세요.
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>웹 계획에 대 한 Office에서의 기능 가용성
-<a name="bkmk_FeatureavailabilityO365"> </a>
 
-조직에 가장 잘 맞는 Office 솔루션을 찾는 데 도움이 필요하십니까? 다음 표에서는 Office web feature 기능을 다양 한 기능의 Microsoft Office 데스크톱 앱과 비교 합니다. 표를 사용 하 여 웹에서 사용할 수 있는 기능을 찾은 다음 기능 이름을 클릭 하 여 해당 기능의 작동 방식에 대 한 간략 한 설명을 읽습니다. 조직의 일부 사용자가 Excel 데스크톱 앱의 고급 차트 기능을 필요로 하는 반면, 다른 사용자가 웹의 Office에서 Word 문서 및 PowerPoint 프레젠테이션을 보고 가볍게 편집 하기만 하면 되는 것을 알 수 있습니다. 
+조직에 가장 잘 맞는 Office 솔루션을 찾는 데 도움이 필요하십니까? 다음 표에서는 Office web feature 기능을 다양 한 기능의 Microsoft Office 데스크톱 앱과 비교 합니다. 표를 사용 하 여 웹에서 사용할 수 있는 기능을 찾은 다음 기능 이름을 선택 하 여 해당 기능의 작동 방식에 대 한 간략 한 설명을 읽습니다. 조직의 일부 사용자가 Excel 데스크톱 앱의 고급 차트 기능을 필요로 하는 반면, 다른 사용자가 웹의 Office에서 Word 문서 및 PowerPoint 프레젠테이션을 보고 가볍게 편집 하기만 하면 되는 것을 알 수 있습니다. 
   
 > [!NOTE]
 >  Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. 표는 Microsoft Office 기능의 전체 목록이 아닙니다. <br/>  Microsoft Office 365 ProPlus는 최신 Office 데스크톱 제품군의 월별 구독 제품입니다. <br/>  Office Professional Plus, Office Standard 또는 Office 365 ProPlus 라이선스와 같은 Office 데스크톱 제품군 라이선스를 구매한 경우 Microsoft Office Online Server 온-프레미스 고객은 웹 편집 라이선스로 Office를 가져옵니다. 
@@ -37,11 +36,10 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 > Outlook 전자 메일 첨부 파일 또는 SharePoint 문서 라이브러리에서 Office 문서를 열면 문서가 Office for web에서 실행 되며 읽기 전용으로 설정 됩니다. Office의 웹 (편집 모드)에서 문서를 편집 하려면 office 365 Enterprise E1과 같은 Office 365 제품군 라이선스가 필요 합니다. 데스크톱 앱에서 문서를 편집하려면 Office 365 ProPlus 구독 또는 Office Professional Plus 2010 설치 버전과 같은 Office 데스크톱 제품군 라이선스가 필요합니다. 
   
 ### <a name="word"></a>Word
-<a name="BKMK_WordFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
-|**응용 프로그램 기능** <br/> |**웹에 대 한 Word** <br/> |**Word 데스크톱 앱** <br/> |
+|**응용 프로그램 기능** <br/> |**웹용 Word** <br/> |**Word 데스크톱 앱** <br/> |
 |[맞춤 안내서 및 라이브 레이아웃](word-online.md#alignment-guides-and-live-layout) <br/> |아니요  <br/> |있음  <br/> |
 |[스타일 적용](word-online.md#apply-styles) <br/> |예  <br/> |예  <br/> |
 |[자동 저장](word-online.md#autosave) <br/> |예  <br/> |예  <br/> |
@@ -51,7 +49,7 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 |[캡션](word-online.md#captions) <br/> |아니요  <br/> |있음  <br/> |
 |[인용 및 참고 문헌](word-online.md#citations-and-bibliography) <br/> |아니요  <br/> |있음  <br/> |
 |[클립보드](word-online.md#clipboard) <br/> |예  <br/> |예  <br/> |
-|[공동 작업 - 고급](word-online.md#collaboration--advanced) <br/> |아니요  <br/> |예  <br/> |
+|[공동 작업, 고급](word-online.md#collaboration-advanced) <br/> |아니요  <br/> |예  <br/> |
 |[콘텐츠 컨트롤](word-online.md#content-controls) <br/> |예  <br/> |예  <br/> |
 |[표지](word-online.md#cover-pages) <br/> |No<sup>1</sup> <br/> |예  <br/> |
 |[고급 문서 요소 만들기](word-online.md#creation-of-advanced-document-elements) <br/> |아니요  <br/> |있음  <br/> |
@@ -76,16 +74,16 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 |[오프라인으로 보기 및 작성](word-online.md#offline-viewing-and-authoring) <br/> |아니요  <br/> |있음  <br/> |
 |[페이지 나누기](word-online.md#page-breaks) <br/> |예  <br/> |예  <br/> |
 |[페이지 레이아웃 도구](word-online.md#page-layout-tools) <br/> |예  <br/> |예  <br/> |
-|[페이지 레이아웃 도구 - 고급](word-online.md#page-layout-tools--advanced) <br/> |아니요  <br/> |있음  <br/> |
+|[페이지 레이아웃 도구, 고급](word-online.md#page-layout-tools-advanced) <br/> |아니요  <br/> |있음  <br/> |
 |[페이지 번호](word-online.md#page-numbers) <br/> |예  <br/> |예  <br/> |
 |[단락 서식](word-online.md#paragraph-formatting) <br/> |예  <br/> |예  <br/> |
 |[그림 도구](word-online.md#picture-tools) <br/> |예  <br/> |예  <br/> |
 |[서식 설정된 글꼴 및 색 구성표](word-online.md#preformatted-font-and-color-schemes) <br/> |예  <br/> |예  <br/> |
 |[온라인으로 프레젠테이션](word-online.md#preformatted-font-and-color-schemes) <br/> |아니요  <br/> |있음  <br/> |
 |[PDF로 인쇄](word-online.md#print-to-pdf) <br/> |예  <br/> |예  <br/> |
-|[인쇄 - 고급](word-online.md#printing--advanced) <br/> |아니요  <br/> |있음  <br/> |
+|[인쇄, 고급](word-online.md#printing-advanced) <br/> |아니요  <br/> |있음  <br/> |
 |[교정 도구](word-online.md#proofing-tools) <br/> |예  <br/> |예  <br/> |
-|[교정 도구 - 고급](word-online.md#proofing-tools--advanced) <br/> |아니요  <br/> |있음  <br/> |
+|[언어 교정 도구, 고급](word-online.md#proofing-tools-advanced) <br/> |아니요  <br/> |있음  <br/> |
 |[실시간 공동 작성](word-online.md#real-time-co-authoring) <br/> |예  <br/> |예  <br/> |
 |[참조 도구](word-online.md#reference-tools) <br/> |아니요  <br/> |예  <br/> |
 |[텍스트 상자/도형 렌더링](word-online.md#rendering-of-text-boxesshapes) <br/> |예  <br/> |예  <br/> |
@@ -114,18 +112,17 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 > <sup>2</sup> 모두는 아니지만 일부 Office 추가 기능을 사용할 수 있습니다. <br/>
   
 ### <a name="excel"></a>Excel
-<a name="BKMK_ExcelFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
-|**응용 프로그램 기능** <br/> |**웹에 대 한 Excel** <br/> |**Excel 데스크톱 앱** <br/> |
+|**응용 프로그램 기능** <br/> |**웹용 Excel** <br/> |**Excel 데스크톱 앱** <br/> |
 |[접근성 검사](excel-online.md#add-hyperlinks) <br/> |예  <br/> |예  <br/> |
 |[시트 탭에 배경색 추가](excel-online.md#add-background-color-to-sheet-tabs) <br/> |예  <br/> |예  <br/> |
 |[하이퍼링크 추가](excel-online.md#add-hyperlinks) <br/> |예  <br/> |예  <br/> |
 |[고급 시간 필터링(시간 표시줄 슬라이서)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |아니요  <br/> |있음  <br/> |
 |[맞춤](excel-online.md#alignment) <br/> |예  <br/> |예  <br/> |
 |[조건부 서식 적용](excel-online.md#apply-conditional-formatting) <br/> |예  <br/> |예  <br/> |
-|[스마트/권장 서식 적용](excel-online.md#apply-smartrecommended-formatting) <br/> |아니요  <br/> |있음  <br/> |
+|[스마트/권장 서식 적용](excel-online.md#apply-smartrecommended-formatting) <br/> |아니요  <br/> |예  <br/> |
 |[오디오 노트 기록](onenote-online.md#audio-notes-recording) <br/> |아니요  <br/> |있음  <br/> |
 |[자동 완성](excel-online.md#autocomplete) <br/> |예  <br/> |예  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |예  <br/> |예  <br/> |
@@ -139,14 +136,14 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 |[데이터 유효성 검사](excel-online.md#data-validation) <br/> |예 <br/> |예  <br/> |
 |[셀 끌어서 놓기](excel-online.md#drag-and-drop-cells) <br/> |예  <br/> |예  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |예  <br/> |예  <br/>|
-|[복제 (복사)](excel-online.md#duplicate-copy-worksheets) <br/> |예  <br/> |예  <br/>|
-|[웹 또는 블로그 페이지에 통합 문서 포함(OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |예  <br/> |아니요  <br/> |
+|[워크시트 복제 (복사)](excel-online.md#duplicate-copy-worksheets) <br/> |예  <br/> |예  <br/>|
+|[웹 또는 블로그 페이지에 통합 문서 포함 (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |예  <br/> |아니요  <br/> |
 |[외부 참조](excel-online.md#external-references-links) <br/> |<sup>4</sup> 없음 <br/> |예  <br/> |
 |[채우기 핸들](excel-online.md#fill-handle) <br/> |예  <br/> |예  <br/> |
 |[찾기](excel-online.md#find) <br/> |예  <br/> |예  <br/> |
 |[글꼴 및 셀 서식](excel-online.md#font-and-cell-formatting) <br/> |예  <br/> |예  <br/> |
 |[수식 입력줄](excel-online.md#formula-bar) <br/> |예  <br/> |예  <br/> |
-|[수식 도구 - 고급](excel-online.md#formula-tools--advanced) <br/> |아니요  <br/> |있음  <br/> |
+|[수식 도구, 고급](excel-online.md#formula-tools-advanced) <br/> |아니요  <br/> |있음  <br/> |
 |[창 고정](excel-online.md#freeze-panes) <br/> |예 <br/> |예  <br/> |
 |[고화질 읽기용 보기](excel-online.md#full-fidelity-reading-view) <br/> |예  <br/> |예  <br/> |
 |[함수](excel-online.md#functions) <br/> |예  <br/> |예  <br/> |
@@ -164,7 +161,7 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 |[오프라인으로 보기 및 작성](excel-online.md#offline-viewing-and-authoring) <br/> |아니요  <br/> |지원  <br/> |
 |[차트](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |예<sup>1</sup>  <br/> |예  <br/> |
 |[만들거나](excel-online.md#pivottables) <br/> |예  <br/> |예  <br/> |
-|[소셜 네트워크에 게시 및 온라인 유지](excel-online.md#post-to-social-network-and-present-online) <br/> |아니요  <br/> |지원  <br/> |
+|[소셜 네트워크에 게시 및 온라인 제공](excel-online.md#post-to-social-network-and-present-online) <br/> |아니요  <br/> |지원  <br/> |
 |[Power Pivot 보기](excel-online.md#power-pivot-viewing) <br/> |예  <br/> |예  <br/> |
 |[Power View 보기](excel-online.md#power-view-viewing) <br/> |예  <br/> |예  <br/> |
 |[인쇄](excel-online.md#print) <br/> |예  <br/> |예  <br/> |
@@ -200,11 +197,10 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
  <br/><sup>5</sup> 모두는 아니지만 일부 Office 추가 기능을 사용할 수 있습니다. 
   
 ### <a name="onenote"></a>OneNote
-<a name="BKMK_OneNoteFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
-|**응용 프로그램 기능** <br/> |**웹에 대 한 OneNote** <br/> |**OneNote 데스크톱 앱** <br/> |
+|**응용 프로그램 기능** <br/> |**웹용 OneNote** <br/> |**OneNote 데스크톱 앱** <br/> |
 |[고급 공동 작업: 새 콘텐츠를 읽지 않은 상태로 표시, 현재 상태](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |아니요  <br/> |예  <br/> |
 |[태그 적용](onenote-online.md#apply-tags) <br/> |예  <br/> |예  <br/> |
 |[글머리 기호 및 번호 매기기](onenote-online.md#bullets-and-numbering) <br/> |예  <br/> |예  <br/> |
@@ -217,7 +213,7 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 |섹션 끌어서 놓기 <br/> |예  <br/> |예 <br/> |
 |섹션 그룹 끌어서 놓기 <br/> |아니요  <br/> |지원 <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |예  <br/> |예  <br/> |
-|[포함된 파일 편집](onenote-online.md#EmbeddedFileEdit) <br/> |아니요  <br/> |지원  <br/> |
+|[포함된 파일 편집](onenote-online.md#edit-embedded-files) <br/> |아니요  <br/> |지원  <br/> |
 |[수식](onenote-online.md#equations) <br/> |예  <br/> |예  <br/> |
 |[하이퍼링크](onenote-online.md#hyperlinks) <br/> |예  <br/> |예  <br/> |
 |[OCR(이미지 광학 문자 인식)](onenote-online.md#image-optical-character-recognition-ocr) <br/> |아니요  <br/> |지원  <br/> |
@@ -242,19 +238,18 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 |[실행 취소 및 다시 실행](onenote-online.md#undo-and-redo) <br/> |예  <br/> |예  <br/> |
 |[비디오 재생](onenote-online.md#video-playback) <br/> |아니요  <br/> |지원  <br/> |
 |[이전 페이지 버전 보기](onenote-online.md#view-previous-page-versions) <br/> |예  <br/> |예  <br/> |
-   
+
 > [!NOTE]
 > <sup>1</sup> 웹의 OneNote에서는 전자 필기장 내에서 구역을 이동 하 고, 한 구역에서 페이지를 복사한 후 다른 섹션에 붙여 넣을 수 있습니다. 
  <br/> <sup>2</sup> 모두는 아니지만 일부 Office 추가 기능을 사용할 수 있습니다. 
- <br/><sup>3</sup> 전체 전자 필기장 또는 전자 필기장 (데스크톱 버전에서는 가능)으로는 페이지 또는 섹션을 검색할 수 있습니다. 
+ <br/><sup>3</sup> 전체 전자 필기장 또는 전자 필기장 (데스크톱 버전에서는 가능)으로는 페이지 또는 섹션을 검색할 수 있습니다.
  <br/><sup>4</sup> 데스크톱 버전에는 "다운로드" 옵션이 없지만 다른 이름으로 저장을 사용할 수 있습니다. 
   
 ### <a name="powerpoint"></a>PowerPoint
-<a name="BKMK_PowerPointFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
-|**응용 프로그램 기능** <br/> |**웹 용 PowerPoint** <br/> |**PowerPoint 데스크톱 앱** <br/> |
+|**응용 프로그램 기능** <br/> |**웹용 PowerPoint** <br/> |**PowerPoint 데스크톱 앱** <br/> |
 |[맞춤, 글머리 기호, 번호](powerpoint-online.md#alignment-bullets-numbers) <br/> |예  <br/> |예  <br/> |
 |[기본 전환 및 애니메이션 적용](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |예<sup>1</sup> <br/> |예  <br/> |
 |[텍스트, 도형 및 그림에 다양한 서식 적용](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |아니요  <br/> |지원  <br/> |
@@ -264,7 +259,7 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 |[클립보드](powerpoint-online.md#clipboard) <br/> |예  <br/> |예  <br/> |
 |[슬라이드 만들기 및 관리](powerpoint-online.md#create-and-manage-slides) <br/> |예  <br/> |예  <br/> |
 |[사용자 지정 애니메이션 만들기](powerpoint-online.md#create-custom-animation) <br/> |No<sup>1</sup> <br/> |예  <br/> |
-|[디자인 도구 - 고급](powerpoint-online.md#design-tools--advanced) <br/> |아니요  <br/> |지원  <br/> |
+|[디자인 도구, 고급](powerpoint-online.md#design-tools-advanced) <br/> |아니요  <br/> |지원  <br/> |
 |[웹 또는 블로그 페이지에 프레젠테이션 포함](powerpoint-online.md#embed-presentation-on-web-or-blog-page) <br/> |예  <br/> |아니요  <br/> |
 |[글꼴 서식](powerpoint-online.md#font-formatting) <br/> |예  <br/> |예  <br/> |
 |[고화질 읽기용 보기](powerpoint-online.md#full-fidelity-reading-view) <br/> |예  <br/> |예  <br/> |
@@ -274,7 +269,7 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 |[하이퍼링크](powerpoint-online.md#hyperlinks) <br/> |예  <br/> |예  <br/> |
 |[온라인 비디오 삽입](powerpoint-online.md#insert-online-video) <br/> |예  <br/> |예  <br/> |
 |[차트용 Excel과의 통합](powerpoint-online.md#integration-with-excel-for-charts) <br/> |아니요  <br/> |지원  <br/> |
-|[탐색 - 슬라이드 분류기](powerpoint-online.md#navigation-slide-sorter) <br/> |예  <br/> |예  <br/> |
+|[탐색-슬라이드 보기](powerpoint-online.md#navigation---slide-sorter) <br/> |예  <br/> |예  <br/> |
 |[Office 추가 기능](powerpoint-online.md#office-add-ins) <br/> |예<sup>3</sup> <br/> |있음  <br/> |
 |[오프라인으로 보기 및 작성](powerpoint-online.md#offline-viewing-and-authoring) <br/> |아니요  <br/> |지원  <br/> |
 |[그림 자르기](powerpoint-online.md#picture-cropping) <br/> |예  <br/> |예  <br/> |
@@ -284,22 +279,22 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 |[PDF로 인쇄](powerpoint-online.md#print-to-pdf) <br/> |예  <br/> |예  <br/> |
 |[교정 도구](powerpoint-online.md#proofing-tools) <br/> |예  <br/> |예  <br/> |
 |[실시간 공동 작성](powerpoint-online.md#real-time-co-authoring) <br/> |예  <br/> |예<sup>4</sup> <br/> |
-|[검토자 도구-고급](powerpoint-online.md#reviewer-tools---advanced) <br/> |아니요  <br/> |지원  <br/> |
-|Rights Management: IRM and password security <br/> |아니요  <br/> |지원  <br/> |
+|[검토자 도구, 고급](powerpoint-online.md#reviewer-tools-advanced) <br/> |아니요  <br/> |지원  <br/> |
+|권한 관리: IRM 및 암호 보안 <br/> |아니요  <br/> |지원  <br/> |
 |[슬라이드 쇼 실행](powerpoint-online.md#run-slide-show) <br/> |예  <br/> |예  <br/> |
 |[복사본 다른 이름으로 저장 또는 다운로드](powerpoint-online.md#save-as-or-download-a-copy) <br/> |예  <br/> |예  <br/> |
 |[도형](powerpoint-online.md#shapes) <br/> |예  <br/> |예  <br/> |
 |[공유](powerpoint-online.md#share) <br/> |예  <br/> |예  <br/> |
 |[슬라이드 쇼](powerpoint-online.md#slide-show) <br/> |예  <br/> |예  <br/> |
 |[빠른](powerpoint-online.md#smartart) <br/> |예  <br/> |예  <br/> |
-|[테이블 만들기/편집 및 서식 지정](powerpoint-online.md#table-creationediting-and-formatting) <br/> |예  <br/> |예  <br/> |
+|[테이블 만들기, 편집 및 서식 지정](powerpoint-online.md#table-creation-editing-and-formatting) <br/> |예  <br/> |예  <br/> |
 |[표시](powerpoint-online.md#tell-me) <br/> |예  <br/> |예  <br/> |
 |[실행 취소 및 다시 실행](powerpoint-online.md#undo-and-redo) <br/> |예  <br/> |예  <br/> |
 |[설명 보기 및 추가](powerpoint-online.md#view-and-add-comments) <br/> |예  <br/> |예  <br/> |
 |[슬라이드 메모 보기 및 편집](powerpoint-online.md#view-and-edit-slide-notes) <br/> |예  <br/> |예  <br/> |
 |[WYSIWYG 보기](powerpoint-online.md#wysiwyg-viewing) <br/> |예  <br/> |예  <br/> |
 
-> [!NOTE]   
+> [!NOTE]
 ><sup>1</sup> 웹의 PowerPoint에서는 8 개의 전환 및 37 애니메이션의 갤러리를 지원 합니다. 더 많은 항목을 선택 하거나 사용자 지정 애니메이션을 만들려면 PowerPoint 데스크톱 앱을 사용 합니다. 
  <br/>
 <sup>2</sup> 작업 중인 장치에서 잉크를 지원 해야 합니다. <br/> 
@@ -307,7 +302,6 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 <sup>4</sup> 피벗 차트 또는 피벗 테이블을 만들 수는 없지만 뷰어에서 볼 수는 있습니다. 
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>웹에서 지원 되는 Office 파일 형식
-<a name="bkmk_SupportedFileTypes"> </a>
 
 ||||
 |:-----|:-----|:-----|

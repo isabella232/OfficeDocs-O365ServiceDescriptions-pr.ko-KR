@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 관리자는 서비스 상태를 보고 유지 관리 예정 시간을 확인할 수 있습니다. 서비스 상태 정보는 언제 든 지 Office 365에 로그인 하 여 사용할 수 있습니다.
-ms.openlocfilehash: 9cb4438eb0879c0e873aebc16c625c991c20c196
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: 8dc657dfb9101d6d193b3ea20ebef7b8ef47600f
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450282"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633439"
 ---
 # <a name="service-health-and-continuity"></a>서비스 상태 및 연속성
 
@@ -79,11 +79,11 @@ Office 365의 서비스 상태 섹션에는 서비스의 현재 상태와 서비
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2용 Office 365 관리 팩
 
-Microsoft System Center는 데이터 센터, 클라이언트 장치 및 하이브리드 클라우드 IT 환경을 관리하는 데 도움이 되는 통합 관리 플랫폼입니다. System Center를 사용 하는 office 365 관리자는 이제 Office 365 관리 팩을 가져올 수 있으며,이를 통해 System Center에서 Operations Manager 내의 모든 서비스 통신을 보기 이 도구를 사용하면 구독 서비스, 활성 및 해결된 서비스 인시던트, 메시지 센터 통신의 상태에 액세스할 수 있습니다. 자세한 내용을 보려면 [새 Office 365 관리 도구](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/) 블로그 게시물을 참조하세요. 
+Microsoft System Center는 데이터 센터, 클라이언트 장치 및 하이브리드 클라우드 IT 환경을 관리하는 데 도움이 되는 통합 관리 플랫폼입니다. System Center를 사용 하는 office 365 관리자는 System Center에서 Operations Manager 내의 모든 서비스 통신을 볼 수 있는 Office 365 관리 팩을 가져오는 옵션을 갖게 됩니다. 이 도구를 사용하면 구독 서비스, 활성 및 해결된 서비스 인시던트, 메시지 센터 통신의 상태에 액세스할 수 있습니다. 자세한 내용을 보려면 [새 Office 365 관리 도구](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/) 블로그 게시물을 참조하세요. 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 서비스 통신 API
 
-Office 365 서비스 통신 API를 사용하면 원하는 방식으로 Office 365 서비스 통신에 액세스할 수 있습니다. 이제 이 새로운 관리 도구를 사용하여 도구를 만들거나 Office 365 서비스 통신에 도구를 연결하여 환경을 모니터링 방법을 단순화할 수 있습니다. 서비스 통신 API를 사용하면 환경에서 다음을 모니터링할 수 있습니다.
+Office 365 서비스 통신 API를 사용 하면 원하는 방식으로 Office 365 서비스 통신에 액세스할 수 있습니다. 이제 이 새로운 관리 도구를 사용하여 도구를 만들거나 Office 365 서비스 통신에 도구를 연결하여 환경을 모니터링 방법을 단순화할 수 있습니다. 서비스 통신 API를 사용 하면 환경에서 다음을 모니터링할 수 있습니다.
   
 - 실시간 서비스 상태
     
