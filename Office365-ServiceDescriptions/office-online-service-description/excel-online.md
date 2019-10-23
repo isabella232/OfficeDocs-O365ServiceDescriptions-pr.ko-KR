@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Web for excel (이전의 Excel Web App)은 Microsoft Excel 환경을 웹 브라우저로 확장 하 여 통합 문서가 저장 된 웹 사이트에서 통합 문서를 직접 사용할 수 있습니다. 모든 Office 365 고객은 웹에서 Office를 사용 하 여 Office 파일을 보고 가볍게 편집할 수 있습니다.
-ms.openlocfilehash: 7b481fe2ffe0b10ab8765c7c5238003e766a0cc4
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 3c488355bacfed4086f18bc8626126c8bac85b20
+ms.sourcegitcommit: d015349e4d611c28f8b44d44adea911357ab2d34
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631637"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637255"
 ---
 # <a name="excel-for-the-web"></a>웹용 Excel
 
@@ -94,7 +94,7 @@ Excel 차트 및 테이블을 사용하여 더욱 간편하게 데이터 서식�
 
 ## <a name="comment-creation"></a>Comment creation
 
-Excel에서 웹에 대 한 설명을 삽입, 편집 및 삭제할 수 있습니다. 주석 스레드를 확인 하 여 편집 및 새 설명에 대 한 주석을 닫고 그대로 둘 수도 있습니다. 이렇게 하면 필요한 경우 스레드를 주석에 다시 열 수 있습니다. 의견에 @mentions를 사용 하 여 언급 한 사람에 게 전자 메일을 보낼 수 있습니다. 자세한 내용은 [ Excel에 설명 추가하기 ](https://go.microsoft.com/fwlink/p/?LinkId=271670)를 참조하세요.
+Excel에서 웹에 대 한 설명을 삽입, 편집 및 삭제할 수 있습니다. 주석 스레드를 확인 하 여 편집 및 새 설명에 대 한 주석을 닫고 그대로 둘 수도 있습니다. 이렇게 하면 필요한 경우 스레드를 주석에 다시 열 수 있습니다. [의견에 @mentions를 사용](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd?ad=US#ID0EAADAAA=Online) 하 여 언급 한 사람에 게 전자 메일을 보낼 수 있습니다. 자세한 내용은 [ Excel에 설명 추가하기 ](https://go.microsoft.com/fwlink/p/?LinkId=271670)를 참조하세요.
 
 ## <a name="convert-a-table-to-a-range"></a>표를 범위로 변환
 
