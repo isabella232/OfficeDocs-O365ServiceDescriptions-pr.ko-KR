@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을 위한 유연한 온라인 솔루션입니다. Office 365를 통해 제공되는 Project Online은 거의 모든 위치의 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획하고 우선 순위를 정하고 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: e580a6ae92655c39be38f7eb0a6bf48b74b31bf5
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: f061f7fb43d9f6283d64cb14672da8af7945ca4f
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523263"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700250"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project Service 설명
 
@@ -50,7 +50,18 @@ Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을
 
 Project Online은 SharePoint 플랫폼을 기반으로 하며 데이터를 SharePoint 데이터 저장소에 저장 합니다.
 
-Project Online은 Project Online Professional 및 Project Online Premium 이라는 두 가지 구독을 통해 사용할 수 있습니다. Project online에 대 한 팀 구성원 기능은 [Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3) 구독을 통해 제공 됩니다. [Project online 기능](#project-online-features) 섹션에 나열 된 기능은 Project online SharePoint 데이터 저장소의 데이터와 상호 작용 합니다.
+Project Online은 Project Online Professional 및 Project Online Premium 이라는 두 가지 구독을 통해 사용할 수 있습니다. [Project online 기능](#project-online-features) 섹션에 나열 된 기능은 Project online SharePoint 데이터 저장소의 데이터와 상호 작용 합니다.
+
+Project online에 대 한 팀 구성원 기능은 [Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3) 구독을 통해 제공 됩니다. Project Online Essentials는 Project Online Professional 또는 Project Online Premium 구독이 있는 고객을 위한 팀 구성원 *추가 기능* 구독입니다. 이를 통해 팀 구성원은 Project Online에서 관리 되는 프로젝트에 대 한 작업 및 시간 업데이트를 수행 하는 웹 인터페이스를 제공 합니다. 
+
+Project Online Essentials를 사용 하는 팀 구성원은 다음과 같은 Project Online 기능을 수행할 수 있습니다.
+
+- 웹 기반 인터페이스 사용
+- 업데이트 작업, 문제점 및 위험
+- 작업표 제출
+- Microsoft 팀원 또는 비즈니스용 Skype 사용자와 문서 공유 및 공동 작업
+
+Project Online Essentials에는 웹 프로젝트에 대 한 프로젝트가 포함 되지 않습니다.
 
 ### <a name="project-online-desktop-client"></a>Project Online 데스크톱 클라이언트
 
@@ -107,11 +118,11 @@ Microsoft Project는 조직의 요구 사항을 가장 잘 충족 하기 위해 
 |**편의성이**||
 |작성 | 관련자와 팀 구성원을 함께 사용 하 여 작업 목록, 프로젝트 일정 등을 동시에 작성, 편집 및 업데이트 합니다.|
 |그래픽 표시기 | 그래픽 표시기를 통해 작업 상태, 배정 및 기타 사항을 이해 합니다. |
-|**지체**||
+|이동성**||
 |모바일 응용 프로그램 | PowerApps를 사용 하 여 사용자 지정 모바일 응용 프로그램을 작성 합니다. <sup>4</sup> |
 |**사용자 지정 및 통합**||
 |PowerApps | PowerApps를 사용 하 여 웹 및 mobile 용 솔루션을 구축 및 사용 합니다. <sup>4</sup> |
-|워크플로 | 비즈니스 프로세스를 자동화 하 고 Microsoft Flow로 통합 합니다. <sup>5</sup> |
+|Workflows | 비즈니스 프로세스를 자동화 하 고 Microsoft Flow로 통합 합니다. <sup>5</sup> |
 |Microsoft Office 365 통합 | 익숙한 Office 365 도구 및 응용 프로그램을 사용 하 여 문서를 공동으로 작업 하 고 관리 합니다. <sup>1</sup> |
 |**보안 및 사용자 관리**||
 |Office 최신 그룹 | 공동 작업을 수행 하 고 팀 구성원 들이 공유할 리소스 모음을 쉽게 설정할 수 있도록 프로젝트 팀을 구축 합니다.|
@@ -172,7 +183,7 @@ Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업�
 |Custom fields | 프로젝트, 작업 및 자원 수준에서 사용자 정의 필드를 추가 하 여 조직 및 프로젝트에 중요 한 데이터를 추적 합니다. | 예 | 예 |
 |식을 | 작업 및 프로젝트에서 수식을 사용 하 여 중요 한 데이터를 계산 하 고 캡처합니다. | 예 | 예 |
 |PowerApps | PowerApps를 사용 하 여 웹 및 모바일 (OData를 통해) 솔루션을 구축 및 사용 합니다. <sup>4</sup> | 예 | 예 |
-|워크플로 | OData를 통해 비즈니스 프로세스를 자동화 하 고 Microsoft 흐름과 통합 합니다. <sup>5</sup> | 예 | 예 |
+|Workflows | OData를 통해 비즈니스 프로세스를 자동화 하 고 Microsoft 흐름과 통합 합니다. <sup>5</sup> | 예 | 예 |
 |Microsoft Office 365 통합 | 익숙한 Office 365 도구 및 응용 프로그램을 사용 하 여 문서를 공동으로 작업 하 고 관리 합니다. <sup>1</sup> | 예 | 예 |
 |Microsoft Planner 통합 | 프로젝트 작업을 Planner 계획에 연결 하 고 Planner에서 자세한 작업을 추적 합니다. <sup>1</sup> | 예 | 예 |
 |**보안, 사용자 및 서비스 관리**||||
@@ -231,7 +242,7 @@ Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업�
 |정렬 및 그룹화 | 사용자 지정 정렬 및 그룹화를 사용 하 여 프로젝트, 작업 및 자원을 중점적으로 볼 수 있습니다.|
 |**사용자 지정 및 통합**||
 |사용자 지정 필드 | 프로젝트, 작업 및 자원 수준에서 사용자 정의 필드를 추가 하 여 조직 및 프로젝트에 중요 한 데이터를 추적 합니다. |
-|Forms | 사용자 지정 양식을 만들고 배포 하 여 중요 한 프로젝트 데이터를 캡처합니다. |
+|양식 | 사용자 지정 양식을 만들고 배포 하 여 중요 한 프로젝트 데이터를 캡처합니다. |
 |식을 | 작업 및 프로젝트에서 수식을 사용 하 여 중요 한 데이터를 계산 하 고 캡처합니다. |
 |템플릿 | 프로젝트 계획, 팀 및 배정을 비롯 한 일반 프로젝트에 대 한 서식 파일을 만듭니다. |
 |mpp 가져오기/내보내기 | 기존 .mpp 파일에서 새 프로젝트를 만들거나 기존 프로젝트의 .mpp 파일을 만듭니다. |
@@ -248,6 +259,14 @@ Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업�
 ### <a name="use-of-sharepoint-online"></a>SharePoint Online 사용
 
 Project Online에서는 Project Online의 일부로 프로 비전 되는 SharePoint Online을 사용 해야 합니다. Project Online Professional 또는 Premium에서 제공 하는 SharePoint Online 기능에 대 한 권한은 Project Online을 지원 하기 위해 데이터를 저장 하 고 액세스 하는 것으로 제한 됩니다.
+
+### <a name="project-roadmap-and-microsoft-flow"></a>프로젝트 로드맵 및 Microsoft Flow
+
+프로젝트 로드맵을 사용 하려면 프로젝트 구독의 일부로 프로 비전 되는 Microsoft Flow가 필요 합니다. Microsoft Flow 기능에 대 한 권한은 프로젝트 로드맵에 필요한 Microsoft 흐름 기능으로 제한 됩니다. Project 로드맵에 필요한 microsoft 흐름 기능은 Microsoft 365 관리 센터의 **Apps** 섹션에 있는 Project to Flow service 계획 **에 대 한 데이터 통합** 으로 표시 됩니다.
+
+### <a name="project-for-the-web-and-common-data-service"></a>웹 및 일반 데이터 서비스용 프로젝트
+
+웹 프로젝트를 사용 하려면 데이터를 저장 하는 데 일반 데이터 서비스 (CD)가 필요 합니다. CD는 프로젝트 구독의 일부로 프로 비전 됩니다. CD 기능에 대 한 권한은 웹에 대 한 프로젝트 지원에 데이터를 저장 하 고 액세스 하는 것으로 제한 됩니다. Project에 필요한 CD 기능은 Microsoft 365 관리 센터의 **Apps (앱** ) 섹션에서 project Service 계획 **의 일반 데이터 서비스로** 나타납니다.
 
 ### <a name="data-backup-and-retention"></a>데이터 백업 및 보존
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함하는 여러 Office 365 구독의 기능을 비교하고 싶나요? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: 4c58ddd7349860aa038d949dbed9034b934ef000
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 331ae092f69ec39cc743e0291e8b4f596dbbb6bc
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581944"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701367"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -245,7 +245,7 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |Clutter|아니요|아니요|있음|예|예|
 |메일 설명|예|예|예|예|예|
 |위임 액세스|예|예|예\|/아니요|아니요|
-|받은 편지함 규칙|예|예|예|예|아니요|
+|받은 편지함 규칙|예|예|예|예|예|
 |연결된 계정|예|예|예<sup>19</sup>|예<sup>19</sup>|예<sup>19</sup>|
 |비활성 사서함|아니요|아니요|아니요 <sup>6</sup>|예|아니요<sup>6</sup>|
 |오프라인 주소록|예|예|예|예|예|
@@ -281,7 +281,7 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |EWS 응용 프로그램 지원|예|예|예|예|아니요|
 |Outlook for Mac|예|예|예|예|아니요|
 |**[음성 메시지 서비스](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
-|음성 메일|예|예|아니요|예|아니요|
+|음성 사서함|예|예|아니요|예|아니요|
 |타사 음성 사서함 상호 운용성|예|예|예|예|예|
 |비즈니스용 Skype 통합|예|예|예|예|예|
 |**[고가용성 및 비즈니스 연속성](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|

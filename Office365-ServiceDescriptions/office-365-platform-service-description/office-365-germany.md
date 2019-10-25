@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와 차별화 된 옵션입니다. 독일어 데이터 센터에서 업계 최고의 생산성 서비스를 제공 하는 독일, 유럽 연합 (EU) 및 상주 (유럽 자유 무역 협회)의 요구를 해결 하는 데 도움이 됩니다. 독일어 법률에 따라 관리 되는 고유한 데이터 트러스티 모델을 통해 독일 및 엄격한 데이터 액세스 및 제어 조치를 사용 합니다.
-ms.openlocfilehash: 0b975ca872e580cc8293fee0c0929d80edda0524
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 1c0882c54a90f2e5ec298c29fba5c6cfb4b00d2a
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595296"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701690"
 ---
 # <a name="office-365-germany"></a>Office 365 독일
 
@@ -428,7 +428,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |EWS 응용 프로그램 지원|예|예|예|예|예|예|예|아니요|
 |Outlook for Mac|예|예|예|예|예|예|예| 아니요|
 |**[음성 메시지 서비스](../exchange-online-service-description/voice-message-services.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|음성 메일|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
+|음성 사서함|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
 |음성 사서함과 타사 팩스 통합|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
 |타사 음성 사서함 상호 운용성|예|예|예|예|예|예|예|예|
 |비즈니스용 Skype 통합|예|예|예|예|예|예|예|예|
@@ -550,7 +550,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[앱 카탈로그 (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|예|예|예|예|
 |[앱 배포: 클라우드 호스트 앱](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|예|예|예|예|
 |[앱 배포: SharePoint 호스트 앱](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|예|예|예|예|
-|[App Management Services](../sharepoint-online-service-description/developer.md#app-management-services)|예|예|예|예|
+|[App Management Service](../sharepoint-online-service-description/developer.md#app-management-service)|예|예|예|예|
 |BCS: 외부 목록에 대 한 경고|아니요|아니요|아니요|있음|
 |[BCS: 앱 범위가 지정 된 Ect (외부 콘텐츠 형식)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|아니요|아니요|아니요|있음|
 |[BCS: 비즈니스 데이터 웹 파트](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|아니요|아니요|아니요|있음|
@@ -670,7 +670,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |WCM: 모바일 및 장치 렌더링|아니요|아니요|예|예|
 |WCM: 여러 도메인|아니요|아니요|아니요|아니요|
 |WCM: Recommendations|아니요|아니요|예|예|
-|[WCM: SEO(검색 엔진 최적화)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|아니요|아니요|예|예|
+|[WCM: SEO (검색 엔진 최적화)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|아니요|아니요|예|예|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|아니요|아니요|아니요|아니요|
 |**인사이트 기능**|**비즈니스용 OneDrive 계획 1**|**비즈니스용 OneDrive 계획 2**|**SharePoint Online 계획 1**|**SharePoint Online 계획 2**|
 |[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center)|아니요|아니요|아니요|예|
@@ -730,7 +730,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |하이브리드 비즈니스용 OneDrive 및 사이트|예|예|예|예|
 |[큰 목록 확장성 및 관리](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|예|예|예|예|
 |[모바일 연결](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|예<sup>3</sup>|예<sup>3</sup>|예|예|
-|[다국어 사용자 인터페이스](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|예|예|예|예|
+|[다국어 사용자 인터페이스](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|예|예|예|예|
 |My Tasks|아니요|아니요|예|예|
 |[OOTB 웹 파트](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|아니요|아니요|예|예|
 |[사용 권한 관리](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|예|예|예|예|
@@ -807,10 +807,10 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[앱 카탈로그 (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|예|예|예|예|예|예|예|예|
 |[앱 배포: 클라우드 호스트 앱](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|예|예|예|예|예|예|예|예|
 |[앱 배포: SharePoint 호스트 앱](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|예|예|예|예|예|예|예|예|
-|[App Management Services](../sharepoint-online-service-description/developer.md#app-management-services)|예|예|예|예|예|예|예|예|
-|BCS: 외부 목록에 대 한 경고|아니요|아니요|아니요|예|아니요|있음|예|아니요|
-|[BCS: 앱 범위가 지정 된 Ect (외부 콘텐츠 형식)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
-|[BCS: 비즈니스 데이터 웹 파트](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
+|[App Management Service](../sharepoint-online-service-description/developer.md#app-management-service)|예|예|예|예|예|예|예|예|
+|BCS: 외부 목록에 대 한 경고|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|[BCS: 앱 범위가 지정 된 Ect (외부 콘텐츠 형식)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|[BCS: 비즈니스 데이터 웹 파트](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|아니요|아니요|아니요|예|아니요|예|예|아니요|
 |[BCS: 외부 목록](../sharepoint-online-service-description/developer.md#bcs-external-list)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
 |[BCS: OData 커넥터](../sharepoint-online-service-description/developer.md#bcs-odata-connector)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
 |BCS: Profile Pages|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -928,7 +928,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |WCM: 모바일 및 장치 렌더링|예|아니요|예|예|예|예|예|예|
 |WCM: 여러 도메인|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |WCM: Recommendations|예|아니요|예|예|예|예|예|예|
-|[WCM: SEO(검색 엔진 최적화)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|예|아니요|예|예|예|예|예|예|
+|[WCM: SEO (검색 엔진 최적화)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|예|아니요|예|예|예|예|예|예|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**인사이트 기능**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center)|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
@@ -990,7 +990,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |하이브리드 비즈니스용 OneDrive 및 사이트|예|예|예|예|예|예|예|예<sup>19</sup>|
 |[큰 목록 확장성 및 관리](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|예|예|예|예|예|예|예|예|
 |[모바일 연결](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|아니요|예<sup>11</sup>|예<sup>11</sup>|예<sup>11</sup>|예<sup>11</sup>|예<sup>11</sup>|예<sup>11</sup>|예<sup>11</sup>|
-|[다국어 사용자 인터페이스](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|
+|[다국어 사용자 인터페이스](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|
 |My Tasks|예|아니요|있음|예|예|예|예|예|
 |[OOTB 웹 파트](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|예|아니요|있음|예|예|예|예|예|
 |[권한 관리](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|예|예|예|예|예|예|예|예|

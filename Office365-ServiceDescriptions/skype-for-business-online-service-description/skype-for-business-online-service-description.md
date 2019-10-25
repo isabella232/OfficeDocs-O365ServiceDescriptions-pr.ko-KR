@@ -14,26 +14,26 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 특정 비즈니스용 Skype 기능을 구입하기 위해 어떤 라이선스가 필요한지 알고 싶나요? 비즈니스용 Skype 라이선스 개요를 참조 하세요.
-ms.openlocfilehash: 2c5aa68bdf26558f9415346585ca73bc6310b2ce
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: e4d73f94da357b39520d1e702dfef96ea95d3deb
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777769"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701700"
 ---
 # <a name="skype-for-business-online-service-description"></a>비즈니스용 Skype Online 서비스 설명
 
 > [!NOTE]
-> Microsoft 팀은 이제 메시징, 모임 및 Office 365의 통화에 대 한 기본 클라이언트입니다. Oct. 1, 2018, 새 Office 365 고객이 500를 적게 사용 하는 고객은 Microsoft 팀에 등록 비즈니스용 Skype Online에 액세스할 수 없습니다. 이미 비즈니스용 Skype Online을 사용 하는 테 넌 트는 Microsoft 팀으로 전환할 때까지 계속 진행할 수 있습니다 (새 사용자 프로 비전).
+> Microsoft 팀은 이제 메시징, 모임 및 Office 365의 통화에 대 한 기본 클라이언트입니다. 새 Office 365 사용자가 500를 적게 사용 하는 고객은 Microsoft 팀으로 등록 비즈니스용 Skype Online에 액세스할 수 없습니다. 이미 비즈니스용 Skype Online을 사용 하는 테 넌 트는 Microsoft 팀으로 전환할 때까지 계속 진행할 수 있습니다 (새 사용자 프로 비전).
 
 > [!NOTE]
-> 비즈니스용 Skype Online 계획 2는 2019 년 7 월 1 일부 터 판매에서 만료 되었습니다. 즉, 인스턴트 메시징, 현재 상태, 회의 및 피어 투 피어 음성 및 비디오에 대 한 비즈니스용 Skype Online 계획 2를 더 이상 취득할 수 없습니다. 이러한 기능은 Office 365 제품군을 비롯 한 팀이 포함 된 모든 Office 365 제공에서 계속 지원 됩니다. 현재 용어의 끝에 계획이 만료 되는 경우 이러한 기능에 계속 액세스할 수 있도록 하려면 다른 요금제로 전환 해야 합니다. 현재 비즈니스용 Skype Online 계획 2가 할당 된 사용자에 대 한 Office 365 Business Essentials, Business Premium 또는 기타 Office 제품군을 평가 하는 것이 좋습니다. 
+> 비즈니스용 Skype Online 계획 2에서 2019 년 7 월 1 일에 할인 되지 않습니다. 즉, 인스턴트 메시징, 현재 상태, 회의 및 피어 투 피어 음성 및 비디오에 대 한 비즈니스용 Skype Online 계획 2를 더 이상 취득할 수 없습니다. 이러한 기능은 Office 365 제품군을 비롯 한 팀이 포함 된 모든 Office 365 제공에서 계속 지원 됩니다. 현재 용어의 끝에 계획이 만료 되는 경우 이러한 기능에 계속 액세스할 수 있도록 하려면 다른 요금제로 전환 해야 합니다. 현재 비즈니스용 Skype Online 계획 2가 할당 된 사용자에 대 한 Office 365 Business Essentials, Business Premium 또는 기타 Office 제품군을 평가 하는 것이 좋습니다. 
 
  **특정 비즈니스용 Skype 기능을 얻기 위해 구입 해야 하는 라이선스를 알고 싶으십니까? [비즈니스용 Skype 라이선스 개요](https://go.microsoft.com/fwlink/?LinkID=799524)를 참조 하세요.**
   
 비즈니스용 Skype 온라인은 회의나 대화를 위해 언제 어디서나 사람들을 연결하는 통신 서비스입니다. 이를 통해 사용자는 현재 상태에 대한 정보에 액세스하고 인스턴트 메시징, 오디오 및 비디오 통화, 다양한 온라인 회의 및 대규모 웹 회의 기능을 사용할 수 있습니다. 
   
-비즈니스용 Skype는 여러 고객을 동시에 지원하는 다중 테넌트 서버에서 호스팅됩니다. 이러한 서버는 Microsoft 데이터 센터에 저장되어 있으며 사용자는 회사 네트워크 내부 또는 인터넷을 통해 다양한 장치에서 이 서버에 액세스할 수 있습니다. 
+비즈니스용 Skype는 여러 고객을 동시에 지원하는 다중 테넌트 서버에서 호스팅됩니다. 이러한 서버는 Microsoft 데이터 센터에 있으며 회사 네트워크 내부에서 또는 인터넷을 통해 광범위 한 장치에서 사용자가 액세스할 수 있습니다. 
   
 ## <a name="find-out-about-skype-for-business-online"></a>비즈니스용 Skype 온라인 알아보기
 
@@ -69,7 +69,7 @@ ms.locfileid: "35777769"
 |대화 상대 카드 구성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |내 사진 구성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |내 사진: URL 사진 환경  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|연락처 목록 구성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|대화 상대 목록 구성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |통합 연락처 저장소  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |주소록 검색  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |메일 그룹 확장  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -82,38 +82,38 @@ ms.locfileid: "35777769"
 |비디오  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |네트워크 QoS(서비스 품질) - DSCP(Differentiated Services Code Point)  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |**[페더레이션 및 공용 IM 연결](skype-for-business-online-features.md#federation-and-public-im-connectivity)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Office Communications Server 2007 R2 및 Lync Server 2010(IM, 현재 상태, 오디오, 비디오, 회의)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Office Communications Server 2007 R2 및 Lync Server 2010 (IM, 현재 상태, 오디오, 비디오, 회의)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |XMPP(Google Talk 등에서 사용됨) 및 Sametime 페더레이션  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 | Skype 페더레이션  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |AOL 및 Yahoo! 페더레이션  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |**[비즈니스 온라인 모임에 대 한 Skype](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Ad-Hoc 및 오디오 회의 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Ad-Hoc 및 비디오 회의 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|애드혹 및 오디오 회의 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|애드혹 및 비디오 회의 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |활성 발표자 비디오  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|H.264 인코딩 및 디코딩  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|H-264 인코딩 및 디코딩  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |단체 비디오  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|모든 참석자의 고해상도 비디오 또는 사진  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|모든 참석자의 고화질 비디오 또는 사진  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |발표자 컨트롤  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|참가자의 보기 선택  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|참가자 선택 보기  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |OneNote 공유  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Ad-Hoc 및 웹 회의 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|애드혹 및 웹 회의 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |오디오 회의를 통한 비즈니스용 Skype 모임 전화 접속(첫 번째 파티)  <br/> |아니요  <br/> |아니요  <br/> |<sup>5</sup> 없음 <br/> |<sup>5</sup> 없음 <br/> |<sup>5</sup> 없음 <br/> |예  <br/> |아니요  <br/> |
-|공인 ACP(오디오 회의 공급자)를 통한 비즈니스용 Skype 회의 전화 접속  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|ACP (공인 오디오 회의 공급자)를 통한 비즈니스용 Skype 모임 전화 접속  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |PowerPoint 공유  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |파일 전송  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|화이트보드 및 주석  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|화이트 보드 및 주석  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |PowerPoint 업로드  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |폴링  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |클라이언트 쪽 녹화 및 재생  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|서버 측 기록 및 재생  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|대기실  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|서버 쪽 기록 및 재생  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|모임 로비  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Skype 모임 브로드캐스트  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|비즈니스용 Skype Web App을 사용한 Skype 모임에 대한 게스트 액세스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|비즈니스용 Skype 웹 앱을 사용한 Skype 모임에 대 한 게스트 액세스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Outlook에서 비즈니스용 Skype 모임 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|다른 사람 대신 Outlook에서 비즈니스용 Skype 모임 예약(위임)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|웹 스케줄러를 사용하여 비즈니스용 Skype 모임 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Outlook Web App에서 온라인 모임 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|모임 예약에 대한 Outlook 위임  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|다른 사용자 대신 Outlook에서 비즈니스용 Skype 모임 예약 (위임)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|웹 스케줄러를 사용 하 여 비즈니스용 Skype 모임 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|웹용 Outlook에서 온라인 모임 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|모임을 예약 하기 위한 Outlook 위임  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Outlook에서 정적 모임 ID로 공개 모임 만들기  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |**음성 통화** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |자동 전화 교환  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
@@ -151,17 +151,17 @@ ms.locfileid: "35777769"
 |팀 통화  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |화상 통화 모니터  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Voicemail  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|[계획을 호출합니다.](http://technet.microsoft.com/library/cf1a3734-3b82-4f63-b390-f14b91ce1a0e.aspx) (국내 통화 계획, 추가 기능을 구매해야 함)      <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예  <br/> |아니요  <br/> |
-|[계획을 호출합니다.](http://technet.microsoft.com/library/cf1a3734-3b82-4f63-b390-f14b91ce1a0e.aspx) (국제 통화 계획, 추가 기능을 구매해야 함)      <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예  <br/> |아니요  <br/> |
+|[계획을 호출합니다.](skype-for-business-online-features.md#calling-plans-in-office-365) (국내 통화 계획, 추가 기능을 구매해야 함)      <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예  <br/> |아니요  <br/> |
+|[계획을 호출합니다.](skype-for-business-online-features.md#calling-plans-in-office-365) (국제 통화 계획, 추가 기능을 구매해야 함)      <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예  <br/> |아니요  <br/> |
 |[통신 크레딧](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |아니요  <br/> |아니요  <br/> |<sup>6</sup> 없음 <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |비즈니스용 Skype 음성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |**[보안 및 보관](skype-for-business-online-features.md#security-and-archiving)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|메신저 및 미디어 암호화  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|IM 및 미디어 암호화  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |IM 및 파일 필터링  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |클라이언트 버전 제어  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |IM 콘텐츠 보관  <br/> |예  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |
 |전화 회의 콘텐츠 보관  <br/> |예  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |
-|응용 프로그램 공유, 데스크톱 공유 보관  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|응용 프로그램 공유 및 데스크톱 공유 보관  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |사용자 수준 보관 구성  <br/> |예  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |
 |로그인 추적 파일  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365에 대한 고객 키<sup>8</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
@@ -170,7 +170,7 @@ ms.locfileid: "35777769"
 |Exchange Online과의 현재 상태 상호 운용성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Exchange Server와의 통합 메시징 상호 운용성  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Exchange Online과의 통합 메시징 상호 운용성  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|Outlook Web App 상호 운용성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|웹 상호 운용성의 Outlook  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Exchange Server와의 보관 상호 운용성  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |Exchange Online과의 보관 상호 운용성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |SharePoint Server를 사용한 기술 검색  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
@@ -182,14 +182,14 @@ ms.locfileid: "35777769"
 |Windows PowerShell  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft 365 관리 센터의 비즈니스용 Skype Online 보고  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic은 모든 고객이 사용할 수 있습니다. Lync Basic 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 비즈니스용 Skype(Lync) 응용 프로그램이 포함됩니다. 비즈니스용 Skype 온라인 라이선스가 각 사용자에게 할당되어 있어야 합니다. Lync Basic의 기능에 대한 자세한 내용은 [비즈니스용 Skype Online 클라이언트](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)를 참조하세요. 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic은 모든 고객이 사용할 수 있습니다. Lync Basic 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 비즈니스용 Skype(Lync) 응용 프로그램이 포함됩니다. 비즈니스용 Skype 온라인 라이선스가 각 사용자에게 할당되어 있어야 합니다. Lync 기본 기능에 대 한 자세한 내용은 [데스크톱 클라이언트 비교 표](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)를 참조 하십시오. 
 <br/> <sup>2</sup>비즈니스용 Skype 온라인에 대한 보관은 이 계획에 포함되지 않은 Exchange 원본 위치 유지 기능에 따라 다릅니다. 
 <br/><sup>3</sup> 음성 메일을 받으려는 사용자에 게 Exchange Online (요금제 2) 계획을 할당 해야 합니다. Exchange Online(계획 1) 계획은 음성 메일에 사용할 수 없습니다. 
 <br/><sup>4</sup> Office 365 enterprise F1 사용자는 비즈니스용 Skype Online 계획 2 또는 Enterprise 요금제 사용자가 초대 하는 경우 공유 세션에 참가할 수 있습니다. 
 <br/> <sup>5</sup> 오디오 회의는 Office 365 Business Premium, Office 365 Enterprise E1 및 Office 365 enterprise E3 구독 계획에 추가 기능으로 추가할 수 있습니다. 
 <br/> <sup>6</sup> 통신 제작진은 오디오 회의만 지 원하는 추가 기능으로 Office 365 Business Premium 구독 계획에 추가할 수 있습니다. 
 <br/><sup>7</sup> Mac 및 모바일 클라이언트에서는 응급 통화를 사용할 수 없습니다. 
-<br/> <sup>8</sup> 고객 키를 사용하면 조직의 암호화 키를 제어하고 Office 365를 구성 및 사용하여 Microsoft의 데이터 센터의 미사용 데이터를 암호화할 수 있습니다. 미사용 데이터에는 SharePoint Online 및 비즈니스용 OneDrive에 저장되어 있는 사서함과 파일에 저장된 Exchange Online 및 비즈니스용 Skype의 데이터를 포함합니다. 고객 키를 사용하면 Office 365가 데이터의 암호를 해독하는 데 사용하는 암호화 키를 제어하므로 준수 의무를 이행할 수 있습니다. 자세한 내용은 [고객 키를 사용하여 Office 365에서 데이터 제어](https://go.microsoft.com/fwlink/?linkid=862702)를 참조하세요. 
+<br/> <sup>8</sup> 고객 키를 사용 하 여 조직의 암호화 키를 제어 하 고 Microsoft 데이터 센터의 나머지 데이터를 암호화 하는 데 사용할 수 있도록 Office 365를 구성 합니다. 미사용 데이터에는 SharePoint Online 및 비즈니스용 OneDrive에 저장되어 있는 사서함과 파일에 저장된 Exchange Online 및 비즈니스용 Skype의 데이터를 포함합니다. 고객 키를 사용하면 Office 365가 데이터의 암호를 해독하는 데 사용하는 암호화 키를 제어하므로 준수 의무를 이행할 수 있습니다. 자세한 내용은 [고객 키를 사용하여 Office 365에서 데이터 제어](https://go.microsoft.com/fwlink/?linkid=862702)를 참조하세요. 
   
 ## <a name="feature-availability-across-skype-for-business-online-standalone-plans"></a>비즈니스용 Skype 온라인 독립 실행형 계획에서의 기능 가용성
 
@@ -215,7 +215,7 @@ ms.locfileid: "35777769"
 |대화 상대 카드 구성  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |내 사진 구성  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |내 사진: URL 사진 환경  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
-|연락처 목록 구성  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|대화 상대 목록 구성  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |통합 연락처 저장소  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |주소록 검색  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |메일 그룹 확장  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -236,38 +236,38 @@ ms.locfileid: "35777769"
 | Skype 페더레이션  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |AOL 및 Yahoo! 페더레이션  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
 |**[비즈니스 온라인 모임에 대 한 Skype](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 1** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 2** <br/> |
-|Ad-Hoc 및 오디오 회의 예약  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|Ad-Hoc 및 비디오 회의 예약  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|애드혹 및 오디오 회의 예약  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|애드혹 및 비디오 회의 예약  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |활성 발표자 비디오  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|H.264 인코딩 및 디코딩  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|H-264 인코딩 및 디코딩  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |단체 비디오  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|모든 참석자의 고해상도 비디오 또는 사진  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|모든 참석자의 고화질 비디오 또는 사진  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |발표자 컨트롤  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|참가자의 보기 선택  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|참가자 선택 보기  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |OneNote 공유  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|Ad-Hoc 및 웹 회의 예약  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|ACP(공인 오디오 회의 공급자)를 통한 전화 접속 오디오 회의  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|애드혹 및 웹 회의 예약  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|ACP (공인 오디오 회의 공급자)를 통한 전화 접속 오디오 회의  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |PowerPoint 공유  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|화이트보드 및 주석  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|PowerPoint 업로드  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|화이트 보드 및 주석  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|PowerPoint 업로드  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |폴링  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |클라이언트 쪽 녹화 및 재생  <br/> |예  <br/> |아니요  <br/> |예<sup>1</sup> <br/> |
-|서버 측 기록 및 재생  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|대기실  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|비즈니스용 Skype 웹 앱을 사용한 비즈니스용 Skype 모임에 대한 게스트 액세스  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|서버 쪽 기록 및 재생  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|모임 로비  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|비즈니스용 skype 웹 앱을 사용한 비즈니스용 Skype 모임에 대 한 게스트 액세스  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |Outlook에서 비즈니스용 Skype 모임 예약  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|다른 사람 대신 Outlook에서 비즈니스용 Skype 모임 예약(위임)  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|웹 스케줄러를 사용하여 비즈니스용 Skype 모임 예약  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|Outlook Web App에서 온라인 모임 예약  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
-|모임 예약에 대한 Outlook 위임  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|다른 사용자 대신 Outlook에서 비즈니스용 Skype 모임 예약 (위임)  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|웹 스케줄러를 사용 하 여 비즈니스용 Skype 모임 예약  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|웹용 Outlook에서 온라인 모임 예약  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|모임을 예약 하기 위한 Outlook 위임  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |Outlook에서 정적 모임 ID로 공개 모임 만들기  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
 |**[보안 및 보관](skype-for-business-online-features.md#security-and-archiving)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 1** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 2** <br/> |
-|메신저 및 미디어 암호화  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|IM 및 미디어 암호화  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |IM 및 파일 필터링  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
 |클라이언트 버전 제어  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |IM 콘텐츠 보관  <br/> |예  <br/> |<sup>3</sup> 없음 <br/> |<sup>3</sup> 없음 <br/> |
 |전화 회의 콘텐츠 보관  <br/> |예  <br/> |<sup>3</sup> 없음 <br/> |<sup>3</sup> 없음 <br/> |
-|응용 프로그램 공유, 데스크톱 공유 보관  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
+|응용 프로그램 공유 및 데스크톱 공유 보관  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
 |사용자 수준 보관 구성  <br/> |예  <br/> |<sup>3</sup> 없음 <br/> |<sup>3</sup> 없음 <br/> |
 |로그인 추적 파일  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[Exchange 및 SharePoint 상호 운용성](skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 1** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 2** <br/> |
@@ -275,7 +275,7 @@ ms.locfileid: "35777769"
 |Exchange Online과의 현재 상태 상호 운용성  <br/> |예  <br/> |예<sup>5</sup> <br/> |예  <br/> |
 |Exchange Server와의 통합 메시징 상호 운용성  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
 |Exchange Online과의 통합 메시징 상호 운용성  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
-|Outlook Web App 상호 운용성  <br/> |예  <br/> |예<sup>5</sup> <br/> |예  <br/> |
+|웹 상호 운용성의 Outlook  <br/> |예  <br/> |예<sup>5</sup> <br/> |예  <br/> |
 |Exchange Server와의 보관 상호 운용성  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
 |Exchange Online과의 보관 상호 운용성  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |SharePoint Server를 사용한 기술 검색  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
@@ -287,7 +287,7 @@ ms.locfileid: "35777769"
 |Windows PowerShell  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft 365 관리 센터의 비즈니스용 Skype Online 보고  <br/> |아니요  <br/> |<sup>4</sup> 없음 <br/> |<sup>4</sup> 없음 <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. Lync 기본 기능에 대 한 자세한 내용은 [클라이언트에서 비즈니스용 Skype Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx) 을 참조 하세요.> 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. Lync 기본 기능에 대 한 자세한 내용은 [데스크톱 클라이언트 비교 표](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)를 참조 하십시오.
 <br/><sup>2</sup> 비즈니스용 skype online 계획 2 사용자가 사용자를 초대 하는 경우 온라인으로 비즈니스에 대 한 요금제 1 사용자가 공유 세션에 참여할 수 있습니다. 
 <br/> <sup>3</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan. 
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 
@@ -300,11 +300,10 @@ ms.locfileid: "35777769"
 |||
 |:-----|:-----|
 |**Office 365 계획** <br/> |**비즈니스용 Skype 온라인 기능** <br/> |
-|비즈니스용 Skype 온라인 독립 실행형 계획 2  <br/> | Skype 모임 브로드캐스트  <br/>  이끌이, 제작자, 이벤트 팀 구성원, 인증된 참석자는 Office 365 라이선스가 필요합니다.  <br/>  익명의 참석자는 Office 365 라이선스가 필요하지 않습니다.  <br/>  비즈니스용 Skype 온라인 독립 실행형 계획 2 또는 계획 2가 포함된 모든 Office 365 제품군을 이용하는 경우 다음의 추가 기능을 사용할 수 있습니다.  <br/>  오디 회의(제한된 국가에서 사용 가능).  <br/>  전화 시스템.  <br/> > [!NOTE]>  통화 계획 없이 단독으로 구매한 경우 클라우드 전화 시스템에서는 하이브리드 음성 기능만 사용할 수 있습니다. 기존 PSTN 서비스 공급자를 이용하여 PSTN 통화를 사용하도록 설정하려면 하이브리드 음성에 온-프레미스 고객 하이브리드 음성 배포가 필요합니다. 다음 전화 시스템 추가 기능에서는 PSTN 서비스 공급자로 Microsoft를 이용하여 인바운드/아웃바운드 PSTN 통화를 사용하도록 설정할 수 있습니다. >  국내 통화 계획(제한된 국가에서 사용 가능). >  국제 통화 계획(제한된 국가에서 사용 가능).           |
-|비즈니스용 Skype 온라인 독립 실행형 계획 3  <br/> |비즈니스용 Skype 온라인 독립 실행형 계획 3.  <br/> > [!NOTE]> 이 계획은 타사 음성 서비스 공급자에 한해 사용되며 오디오 회의, 전화 시스템, 국내/국제 통화 계획 등의 통화 서비스는 제공하지  *않습니다*  .           |
+|비즈니스용 Skype 온라인 독립 실행형 계획 2  <br/> | Skype 모임 브로드캐스트  <br/>  이끌이, 생산자, 이벤트 팀 구성원 및 인증 된 참석자는 Office 365 라이선스가 필요 합니다.  <br/>  익명의 참석자는 Office 365 라이선스가 필요하지 않습니다.  <br/>  비즈니스용 Skype 온라인 독립 실행형 계획 2 또는 계획 2가 포함된 모든 Office 365 제품군을 이용하는 경우 다음의 추가 기능을 사용할 수 있습니다.  <br/> -오디오 회의 (제한 된 국가에서 사용 가능) <br/> -전화 시스템 <br/>**참고 사항** 요금제를 호출 하지 않고 구입 하는 경우 전화 시스템은 하이브리드 음성 기능만을 사용 하도록 설정 합니다. 기존 PSTN 서비스 공급자를 이용하여 PSTN 통화를 사용하도록 설정하려면 하이브리드 음성에 온-프레미스 고객 하이브리드 음성 배포가 필요합니다. 다음 전화 시스템 추가 기능에서는 PSTN 서비스 공급자로 Microsoft를 이용하여 인바운드/아웃바운드 PSTN 통화를 사용하도록 설정할 수 있습니다.<br/>-국내 통화 계획 (제한 된 국가에서 사용 가능)<br/>-국제 통화 계획 (제한 된 국가에서 사용 가능)          |
+|비즈니스용 Skype 온라인 독립 실행형 계획 3  <br/> |비즈니스용 Skype 온라인 독립 실행형 계획 3.  <br/>  이 계획은 타사 음성 서비스 공급자 에게만 사용 되며 오디오 회의, 전화 시스템, 국내 통화 계획 또는 국제 통화 요금제와 같은 통화 서비스는 제공 *하지* 않습니다.           |
 |Office 365 Business Premium  <br/> | Skype 모임 브로드캐스트:  <br/>  이끌이, 제작자, 이벤트 팀 구성원, 인증된 참석자는 Office 365 라이선스가 필요합니다.  <br/>  익명의 참석자는 Office 365 라이선스가 필요하지 않습니다.  <br/>  오디오 회의(사용 가능한 국가).  <br/> |
 |Office 365 Enterprise E1  <br/> |비즈니스용 Skype 온라인 독립 실행형 계획 2(포함된 기능은 위의 비즈니스용 Skype 온라인 독립 실행형 계획 2 참조).  <br/> |
 |Office 365 Enterprise E3  <br/> |비즈니스용 Skype 온라인 독립 실행형 계획 2(포함된 기능은 위의 비즈니스용 Skype 온라인 독립 실행형 계획 2 참조).  <br/> |
-|Office 365 Enterprise E5(오디오 회의 포함)  <br/> | 비즈니스용 Skype 온라인 독립 실행형 계획 2가 포함됩니다(포함된 기능은 위의 비즈니스용 Skype 온라인 독립 실행형 계획 2 참조).  <br/>  오디오 회의가 포함됩니다.  <br/>  전화 시스템이 포함됩니다.  <br/> > [!NOTE]>  통화 계획 없이 단독으로 구매한 경우 전화 시스템에서는 하이브리드 음성 기능만 사용할 수 있습니다. 기존 PSTN 서비스 공급자를 이용하여 PSTN 통화를 사용하도록 설정하려면 하이브리드 음성에 온-프레미스 고객 하이브리드 음성 배포가 필요합니다. 다음 전화 시스템 추가 기능에서는 PSTN 서비스 공급자로 Microsoft를 이용하여 인바운드/아웃바운드 PSTN 통화를 사용하도록 설정할 수 있습니다. >  국내 통화 계획(제한된 국가에서 사용 가능). >  국제 통화 계획(제한된 국가에서 사용 가능).           |
-|Office 365 Enterprise E5(오디 회의 미포함)  <br/> | 비즈니스용 Skype 온라인 독립 실행형 계획 2가 포함됩니다(포함된 기능은 위의 비즈니스용 Skype 온라인 독립형 계획 2 참조).  <br/>  전화 시스템이 포함됩니다.  <br/> > [!NOTE]>  통화 계획 없이 단독으로 구매한 경우 전화 시스템에서는 하이브리드 음성 기능만 사용할 수 있습니다. 기존 PSTN 서비스 공급자를 이용하여 PSTN 통화를 사용하도록 설정하려면 하이브리드 음성에 온-프레미스 고객 하이브리드 음성 배포가 필요합니다. 다음 전화 시스템 추가 기능에서는 PSTN 서비스 공급자로 Microsoft를 이용하여 인바운드/아웃바운드 PSTN 통화를 사용하도록 설정할 수 있습니다. >  국내 통화 계획(제한된 국가에서 사용 가능). >  국제 통화 계획(제한된 국가에서 사용 가능).           |
-   
+|Office 365 Enterprise E5(오디오 회의 포함)  <br/> | 비즈니스용 Skype 온라인 독립 실행형 계획 2가 포함됩니다(포함된 기능은 위의 비즈니스용 Skype 온라인 독립형 계획 2 참조).  <br/>  오디오 회의가 포함됩니다.  <br/>  전화 시스템이 포함됩니다.  <br/>**참고 사항**  요금제를 호출 하지 않고 구입 하는 경우 전화 시스템은 하이브리드 음성 기능만을 사용 하도록 설정 합니다. 기존 PSTN 서비스 공급자를 이용하여 PSTN 통화를 사용하도록 설정하려면 하이브리드 음성에 온-프레미스 고객 하이브리드 음성 배포가 필요합니다. 다음 전화 시스템 추가 기능에서는 PSTN 서비스 공급자로 Microsoft를 이용하여 인바운드/아웃바운드 PSTN 통화를 사용하도록 설정할 수 있습니다. <br/> -국내 통화 계획 (제한 된 국가에서 사용 가능) <br/> -국제 통화 계획 (제한 된 국가에서 사용 가능)           |
+|Office 365 Enterprise E5(오디 회의 미포함)  <br/> | 비즈니스용 Skype 온라인 독립 실행형 계획 2가 포함됩니다(포함된 기능은 위의 비즈니스용 Skype 온라인 독립형 계획 2 참조).  <br/>  전화 시스템이 포함됩니다. <br/>**참고 사항**  요금제를 호출 하지 않고 구입 하는 경우 전화 시스템은 하이브리드 음성 기능만을 사용 하도록 설정 합니다. 기존 PSTN 서비스 공급자를 이용하여 PSTN 통화를 사용하도록 설정하려면 하이브리드 음성에 온-프레미스 고객 하이브리드 음성 배포가 필요합니다. 다음 전화 시스템 추가 기능에서는 PSTN 서비스 공급자로 Microsoft를 이용하여 인바운드/아웃바운드 PSTN 통화를 사용하도록 설정할 수 있습니다. <br/> -국내 통화 계획 (제한 된 국가에서 사용 가능). <br/> -국제 통화 계획 (제한 된 국가에서 사용 가능).           |

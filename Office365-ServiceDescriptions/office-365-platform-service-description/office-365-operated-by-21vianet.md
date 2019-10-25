@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영 하는 Office 365는 중국의 안전 하 고 안정적 이며 확장 가능한 클라우드 서비스에 대 한 요구를 충족 하도록 설계 되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: 4c2f6398f59bbb7045c3afa09193077975214170
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: ad4ffbd80396304f3c3e7a6155cb91cdd9bd4f3e
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633537"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701710"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -573,7 +573,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |[앱 카탈로그 (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|예|예|예|예|예|예|예|
 |[앱 배포: 클라우드 호스트 앱](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|예|예|예|예|예|예|예|
 |[앱 배포: SharePoint 호스트 앱](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|예|예|예|예|예|예|예|
-|[App Management Services](../sharepoint-online-service-description/developer.md#app-management-services)|예|예|예|예|예|예|예|
+|[App Management Service](../sharepoint-online-service-description/developer.md#app-management-service)|예|예|예|예|예|예|예|
 |BCS: 외부 목록에 대 한 경고|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |[BCS: 앱 범위가 지정 된 Ect (외부 콘텐츠 형식)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |[BCS: 비즈니스 데이터 웹 파트](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|아니요|아니요|아니요|아니요|아니요|예|아니요|
@@ -694,7 +694,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |WCM: 모바일 및 장치 렌더링|예|아니요|있음|예|예|예|예|
 |WCM: 여러 도메인|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |WCM: Recommendations|예|아니요|있음|예|예|예|예|
-|[WCM: SEO(검색 엔진 최적화)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|예|아니요|있음|예|예|예|예|
+|[WCM: SEO (검색 엔진 최적화)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|예|아니요|있음|예|예|예|예|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**인사이트 기능**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F1**|
 |[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -756,7 +756,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |하이브리드 OneDrive 비즈니스 및 사이트|예|예|예|예|예|예|예<sup>15</sup>|
 |[큰 목록 확장성 및 관리](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|예|예|예|예|예|예|예|
 |[모바일 연결](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|아니요|예<sup>13</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|
-|[다국어 사용자 인터페이스](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|
+|[다국어 사용자 인터페이스](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|
 |My Tasks|예|아니요|있음|예|예|예|예|
 |[OOTB 웹 파트](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|예|아니요|있음|예|예|예|예|
 |[사용 권한 관리](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|예|예|예|예|예|예|예|

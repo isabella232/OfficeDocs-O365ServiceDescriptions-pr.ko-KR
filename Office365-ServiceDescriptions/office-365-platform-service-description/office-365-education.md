@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군을 microsoft Exchange Online, Microsoft SharePoint Online, Office를 비롯 한 클라우드 기반 Microsoft&mdash;의 차세대 통신 및 공동 작업 서비스와 결합 하 여 web 및 Microsoft 비즈니스용 Skype Online&mdash;을 사용 하 여 사용자가 인터넷에서 어디서 나 생산성을 유지 하는 데 도움을 받을 수 있습니다.
-ms.openlocfilehash: 3058159c359831f1b2cd10059ceea647367723eb
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 480521a4b2497fa515a4e47eac93312fae9adefa
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595276"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701400"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -393,7 +393,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |SMTP  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |EWS 응용 프로그램 지원  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[음성 메시지 서비스](../exchange-online-service-description/voice-message-services.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|음성 메일  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|음성 사서함  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |음성 사서함과 타사 팩스 통합  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |타사 음성 사서함 상호 운용성  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 Skype 통합  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -829,7 +829,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |[앱 카탈로그 (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[앱 배포: 클라우드 호스트 앱](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[앱 배포: SharePoint 호스트 앱](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[앱 관리 서비스](../sharepoint-online-service-description/developer.md#app-management-services) <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[App Management Service](../sharepoint-online-service-description/developer.md#app-management-service) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |BCS: 외부 목록에 대 한 경고 <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[BCS: 앱으로 범위가 지정 된 Ect (외부 콘텐츠 형식)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[BCS: 비즈니스 데이터 웹 파트](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -951,7 +951,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |WCM: 모바일 및 장치 렌더링 <br/> |예  <br/> |예  <br/> |예  <br/> |
 |WCM: 여러 도메인 <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |WCM: Recommendations <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[WCM: SEO(검색 엔진 최적화)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[WCM: SEO (검색 엔진 최적화)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |**인사이트 기능** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |아니요  <br/> |예  <br/> |예  <br/> |
@@ -1011,7 +1011,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |하이브리드 비즈니스용 OneDrive 및 사이트  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[큰 목록 확장성 및 관리](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[모바일 연결](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |
-|[다국어 사용자 인터페이스](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface) <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |
+|[다국어 사용자 인터페이스](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface) <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |
 |My Tasks <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[OOTB 웹 파트](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[사용 권한 관리](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management) <br/> |예  <br/> |예  <br/> |예  <br/> |
