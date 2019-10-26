@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online 제한 사항
+title: SharePoint Online 제한
 ms.author: sharik
 author: skjerland
 audience: ITPro
@@ -9,14 +9,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 Enterprise 요금제 및 독립 실행형 요금제의 SharePoint Online 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: f111729e829c0886c38141915fa7225f7633a578
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: 52ffb52601838a005ffaa6b05ba905590cd65e19
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523216"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726187"
 ---
-# <a name="sharepoint-online-limits"></a>SharePoint Online 제한 사항 
+# <a name="sharepoint-online-limits"></a>SharePoint Online 제한 사항
 
 Office 365 요금제 및 SharePoint Online 독립 실행형 계획에 대 한 SharePoint 제한을 확인 합니다.
   

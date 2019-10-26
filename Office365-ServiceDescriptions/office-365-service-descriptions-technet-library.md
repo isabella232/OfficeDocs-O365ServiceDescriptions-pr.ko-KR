@@ -14,18 +14,18 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365는 강력한 보안, 안정성 및 사용자 생산성에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되도록 설계 된 클라우드 기반 서비스입니다.
-ms.openlocfilehash: 9ab233dba35f89bb9aa15c0525e76b5ae36c2fcc
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 488e16d7647d34db00559a32df1d8bb5c7117eab
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777479"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734035"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 서비스 설명 
 
 Microsoft Office 365는 강력한 보안, 안정성 및 사용자 생산성에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되도록 설계 된 클라우드 기반 서비스입니다. 
   
-이 라이브러리의 항목은 Office 365에서 사용할 수 있는 서비스 및 기능에 대한 자세한 설명을 제공합니다. 계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 또는 아래 목록의 관련 서비스 설명을 참조하세요. 
+이 라이브러리의 항목은 Office 365에서 사용할 수 있는 서비스 및 기능에 대한 자세한 설명을 제공합니다. 계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 또는 아래 목록의 관련 서비스 설명을 참조하세요. 
   
 지원 문서와 정보를 검색하려면 [Office 지원](https://support.office.com/)을 참조하세요.
   
@@ -75,7 +75,7 @@ Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365�
 - [Microsoft Dynamics 365(온라인) 서비스 설명](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
-> <sup>1</sup> Office Delve, Microsoft MyAnalytics, Microsoft Sway 및 Microsoft Teams와 같은 [제품군 기능](https://technet.microsoft.com/EN-US/library/office-365-suite-features.aspx)의 가용성이 포함되어 있습니다. 
+> <sup>1</sup> Office Delve, Microsoft MyAnalytics, Microsoft Sway 및 Microsoft Teams와 같은 [제품군 기능](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features)의 가용성이 포함되어 있습니다.
   
 ## <a name="disclaimer"></a>고지 사항
 

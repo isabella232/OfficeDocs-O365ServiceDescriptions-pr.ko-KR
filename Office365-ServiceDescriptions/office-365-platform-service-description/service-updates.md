@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 바로 출시 되었거나 출시 될 Office 365 기능에 대 한 자세한 내용은 Microsoft 365 로드맵를 참조 하세요.
-ms.openlocfilehash: 144175e0d0e982084b32e655cf73f394bff87f2a
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 6c0b147a53e51303b072c89f8fab722fbadbec37
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581354"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734045"
 ---
 # <a name="service-updates"></a>서비스 업데이트
 
 > [!NOTE]
-> 이 항목은 21Vianet에서 운영하는 Office 365에는 적용되지 않습니다 서비스 업데이트에 대한 자세한 내용은 [21Vianet에서 운영하는 Office 365에 대한 기술, 결제 및 구독 지원 받기](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)를 참조하세요. 
+> 이 항목은 21Vianet에서 운영하는 Office 365에는 적용되지 않습니다 서비스 업데이트에 대한 자세한 내용은 [21Vianet에서 운영하는 Office 365에 대한 기술, 결제 및 구독 지원 받기](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)를 참조하세요. 
   
 바로 출시 되었거나 출시 될 Office 365 기능에 대 한 자세한 내용은 [Microsoft 365 로드맵](https://go.microsoft.com/fwlink/?LinkId=509914)를 참조 하세요.
   
@@ -37,7 +37,7 @@ ms.locfileid: "37581354"
 
 Office 365는 서비스가 정상적으로 작동하려면 관리자가 조치를 취해야 하는 모든 변경 내용을 사전에 고객에게 알리려 노력합니다. 별도의 설명이 없는 한 업데이트에 관리 작업이 필요한 경우 Microsoft는 [메시지 센터](https://docs.microsoft.com/office365/admin/manage/message-center?view=o365-worldwide)를 통해 최소 30일 전에 사전 알림을 제공합니다. 
   
-대부분의 Office 365 서비스 업데이트는 고객이 작업할 것이 아무것도 없는 보안 업데이트, 버그 수정, 성능 향상입니다. 새로운 기능 및 향상 된 기능이 [Microsoft 365 for business 로드맵](http://roadmap.office.com/)에 나와 있습니다.
+대부분의 Office 365 서비스 업데이트는 고객이 작업할 것이 아무것도 없는 보안 업데이트, 버그 수정, 성능 향상입니다. 새로운 기능 및 향상 된 기능이 [Microsoft 365 for business 로드맵](https://roadmap.office.com/)에 나와 있습니다.
   
 Office 365는 [온라인 수명 주기 정책](https://support.microsoft.com/lifecycle#gp/osslpolicy)을 따릅니다.
   

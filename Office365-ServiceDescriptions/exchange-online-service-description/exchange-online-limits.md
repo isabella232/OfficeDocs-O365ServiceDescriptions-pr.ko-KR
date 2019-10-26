@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: 9a61c8753e031d9bde2773980d0da88c42340bf9
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 99ad28bfcd8dae5275a400ae954f0a2b133b4710
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701390"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734216"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -126,7 +126,7 @@ Microsoft Exchange Online 제한은 다음 범주 중 하나에 속합니다.
 |그룹 사서함|50GB|50GB|50GB|50GB|
 
 > [!NOTE]
-> <sup>1</sup>Exchange Server 2013 조직의 기본 사서함 크기입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다. 온-프레미스 사서함의 경우에는 최대 저장소 제한이 없습니다. <br/> <sup>2</sup> 각 사용자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=844060)를 참조하세요. 자동 확장 보관의 가용성에 대한 자세한 내용은 [Office 365 로드맵](http://go.microsoft.com/fwlink/?LinkId=509914)을 참조하세요. <br/> <sup>3</sup> 공유 사서함에 액세스 하려면 사용자에 게 Exchange Online 라이선스가 있어야 하지만 공유 사서함에는 별도의 라이선스가 필요 하지 않습니다. 라이선스가 없으면 공유 사서함은 50 g b로 제한 됩니다. 크기 제한을 100 GB로 높이려면 공유 사서함에 exchange online 계획 2 라이선스 또는 exchange online 계획 1 라이선스를 할당 받아야 합니다. 이를 통해 보관 저장소 용량에 무제한으로 자동 확장 보관을 사용 하도록 설정할 수도 있습니다. 마찬가지로 공유 사서함을 소송 보존으로 설정 하거나 보관 정책을 할당 하려는 경우에는 공유 사서함에 exchange online 계획 2 라이선스가 있어야 하 고,이에 대 한 원격 계획 1 라이선스가 포함 되어야 합니다. <br/> <sup>4</sup> 리소스 사서함에는 라이선스가 필요하지 않습니다. 그러나 라이선스가 없으면 리소스 사서함은 50 g b로 제한 됩니다. 사서함 크기를 늘리려면 Exchange Online Plan 2 라이선스가 할당되어야 합니다. 그러면 100GB로 사서함이 늘어납니다. <br/> <sup>5</sup> 보관 사서함을 Exchange Online Kiosk에 포함 되지 않습니다. 하지만 Exchange Online Archiving을 통해 추가 기능으로 구입할 수 있습니다. 자세한 내용은 [Exchange Online Archiving Service Description](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)을 참조하십시오. <br/> <sup>6</sup> Microsoft Exchange Server 2013 조직의 기본 사서함 크기입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다. Exchange Server 2013에서 공용 폴더 사서함은 100개까지만 사용할 수 있으며 모든 공용 폴더 사서함의 최대 크기는 50TB입니다. <br/> <sup>7</sup> Exchange Online에서 공용 폴더 사서함은 1,000개까지만 사용할 수 있으며 모든 공용 폴더 사서함의 최대 총 크기는 50TB입니다.  <br/> <sup>8</sup> 보관 사서함은 라이선스가 적용된 단일 사용자나 엔터티의 메일을 보관하는 경우에만 사용할 수 있습니다. 여러 사용자나 엔터티의 메일을 저장하는 목적으로 보관 사서함을 사용할 수는 없습니다. 예를 들어 IT 관리자는 공유 사서함을 만들 수 없고, 사용자가 명백히 보관을 목적으로 참조, 숨은 참조 필드 또는 전송 규칙을 통해 공유 사서함을 복사하도록 할 수 없습니다. <br/> <sup>9</sup>Exchange Online에서 보존 정책을 만든 경우 사용자의 기본 사서함이 10MB보다 큰 경우에만 메시지가 사용자 보관 사서함으로 자동 이동됩니다. 10MB 보다 작은 사서함에 대해서는 보존 정책이 자동으로 실행되지 않습니다. <br/> <sup>10</sup> 공유 및 리소스 사서함에는 라이선스가 필요 하지 않습니다. 그러나 라이센스가 없으면 해당 사서함이 50GB로 제한됩니다. 사서함 크기를 늘리려면 Exchange Online Plan 2 라이선스가 할당되어야 합니다. 그러면 100GB로 사서함이 늘어납니다. <br/> <sup>11</sup> 기본적으로 공유 사서함에는 시스템 생성 (알 수 없는) 암호가 있는 연결 된 활성 사용자 계정이 있습니다. 연결 된 공유 사서함 계정에 대 한 로그인을 차단 하려면 [공유 사서함 계정에 대 한 로그인 차단](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)를 참조 하세요.
+> <sup>1</sup>Exchange Server 2013 조직의 기본 사서함 크기입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다. 온-프레미스 사서함의 경우에는 최대 저장소 제한이 없습니다. <br/> <sup>2</sup> 각 사용자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=844060)를 참조하세요. 자동 확장 보관의 가용성에 대한 자세한 내용은 [Office 365 로드맵](https://go.microsoft.com/fwlink/?LinkId=509914)을 참조하세요. <br/> <sup>3</sup> 공유 사서함에 액세스 하려면 사용자에 게 Exchange Online 라이선스가 있어야 하지만 공유 사서함에는 별도의 라이선스가 필요 하지 않습니다. 라이선스가 없으면 공유 사서함은 50 g b로 제한 됩니다. 크기 제한을 100 GB로 높이려면 공유 사서함에 exchange online 계획 2 라이선스 또는 exchange online 계획 1 라이선스를 할당 받아야 합니다. 이를 통해 보관 저장소 용량에 무제한으로 자동 확장 보관을 사용 하도록 설정할 수도 있습니다. 마찬가지로 공유 사서함을 소송 보존으로 설정 하거나 보관 정책을 할당 하려는 경우에는 공유 사서함에 exchange online 계획 2 라이선스가 있어야 하 고,이에 대 한 원격 계획 1 라이선스가 포함 되어야 합니다. <br/> <sup>4</sup> 리소스 사서함에는 라이선스가 필요하지 않습니다. 그러나 라이선스가 없으면 리소스 사서함은 50 g b로 제한 됩니다. 사서함 크기를 늘리려면 Exchange Online Plan 2 라이선스가 할당되어야 합니다. 그러면 100GB로 사서함이 늘어납니다. <br/> <sup>5</sup> 보관 사서함을 Exchange Online Kiosk에 포함 되지 않습니다. 하지만 Exchange Online Archiving을 통해 추가 기능으로 구입할 수 있습니다. 자세한 내용은 [Exchange Online Archiving Service Description](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)을 참조하십시오. <br/> <sup>6</sup> Microsoft Exchange Server 2013 조직의 기본 사서함 크기입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다. Exchange Server 2013에서 공용 폴더 사서함은 100개까지만 사용할 수 있으며 모든 공용 폴더 사서함의 최대 크기는 50TB입니다. <br/> <sup>7</sup> Exchange Online에서 공용 폴더 사서함은 1,000개까지만 사용할 수 있으며 모든 공용 폴더 사서함의 최대 총 크기는 50TB입니다.  <br/> <sup>8</sup> 보관 사서함은 라이선스가 적용된 단일 사용자나 엔터티의 메일을 보관하는 경우에만 사용할 수 있습니다. 여러 사용자나 엔터티의 메일을 저장하는 목적으로 보관 사서함을 사용할 수는 없습니다. 예를 들어 IT 관리자는 공유 사서함을 만들 수 없고, 사용자가 명백히 보관을 목적으로 참조, 숨은 참조 필드 또는 전송 규칙을 통해 공유 사서함을 복사하도록 할 수 없습니다. <br/> <sup>9</sup>Exchange Online에서 보존 정책을 만든 경우 사용자의 기본 사서함이 10MB보다 큰 경우에만 메시지가 사용자 보관 사서함으로 자동 이동됩니다. 10MB 보다 작은 사서함에 대해서는 보존 정책이 자동으로 실행되지 않습니다. <br/> <sup>10</sup> 공유 및 리소스 사서함에는 라이선스가 필요 하지 않습니다. 그러나 라이센스가 없으면 해당 사서함이 50GB로 제한됩니다. 사서함 크기를 늘리려면 Exchange Online Plan 2 라이선스가 할당되어야 합니다. 그러면 100GB로 사서함이 늘어납니다. <br/> <sup>11</sup> 기본적으로 공유 사서함에는 시스템 생성 (알 수 없는) 암호가 있는 연결 된 활성 사용자 계정이 있습니다. 연결 된 공유 사서함 계정에 대 한 로그인을 차단 하려면 [공유 사서함 계정에 대 한 로그인 차단](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)를 참조 하세요.
 
 ## <a name="capacity-alerts"></a>용량 경고
 
@@ -207,7 +207,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |공용 폴더당 하위 폴더 수에 대한 경고|9000|9000|9000|9000|9000|사용할 수 없음|
 
 > [!NOTE]
-> <sup>1</sup> 이것은 전체 보관 사서함의 할당량이 아닌 복구 가능한 항목 폴더의 저장소 할당량입니다. Exchange Online 계획 2 라이선스 또는 Exchange Online 계획 1과 Exchange Online Archiving 라이선스를 모두 가진 사용자의 경우, 보관 사서함의 저장소 할당량이 제한되지 않습니다. 복구 가능한 항목 할당량을 늘리는 방법에 관한 정보는 [Increase the Recoverable Items quota for mailboxes on hold](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)(보류 중인 사서함에 대한 복구 가능한 항목 할당량 늘리기)를 참조하세요. <br/> <sup>2</sup> 보관 사서함에서 복구 가능한 항목 폴더에 대한 초기 저장소 할당량은 100GB입니다. 자동 확장 보관이 켜져 있는 경우 복구 가능한 항목 폴더의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=844060)를 참조하세요. 자동 확장 보관의 가용성에 대한 자세한 내용은 [Office 365 로드맵](http://go.microsoft.com/fwlink/?LinkId=509914)을 참조하세요.
+> <sup>1</sup> 이것은 전체 보관 사서함의 할당량이 아닌 복구 가능한 항목 폴더의 저장소 할당량입니다. Exchange Online 계획 2 라이선스 또는 Exchange Online 계획 1과 Exchange Online Archiving 라이선스를 모두 가진 사용자의 경우, 보관 사서함의 저장소 할당량이 제한되지 않습니다. 복구 가능한 항목 할당량을 늘리는 방법에 관한 정보는 [Increase the Recoverable Items quota for mailboxes on hold](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)(보류 중인 사서함에 대한 복구 가능한 항목 할당량 늘리기)를 참조하세요. <br/> <sup>2</sup> 보관 사서함에서 복구 가능한 항목 폴더에 대한 초기 저장소 할당량은 100GB입니다. 자동 확장 보관이 켜져 있는 경우 복구 가능한 항목 폴더의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=844060)를 참조하세요. 자동 확장 보관의 가용성에 대한 자세한 내용은 [Office 365 로드맵](https://go.microsoft.com/fwlink/?LinkId=509914)을 참조하세요.
 
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>독립 실행형 계획별 사서함 폴더 제한
 
@@ -231,7 +231,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |공용 폴더당 하위 폴더 수에 대한 경고|해당 없음|900|900|사용할 수 없음|
 
 > [!NOTE]
-> <sup>1</sup> 사서함 폴더당 메시지 수는 1,000,000개 이하로 하는 것이 좋습니다. > <br/> <sup>2</sup> 이것은 전체 보관 사서함의 할당량이 아닌 복구 가능한 항목 폴더의 저장소 할당량입니다. Exchange Online 계획 2 라이선스 또는 Exchange Online 계획 1과 Exchange Online Archiving 라이선스를 모두 가진 사용자의 경우, 보관 사서함의 저장소 할당량이 제한되지 않습니다. 복구 가능한 항목 할당량을 늘리는 방법에 관한 정보는 [Increase the Recoverable Items quota for mailboxes on hold](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)(보류 중인 사서함에 대한 복구 가능한 항목 할당량 늘리기)를 참조하세요. <br/> <sup>3</sup> 보관 사서함에서 복구 가능한 항목 폴더에 대한 초기 저장소 할당량은 100GB입니다. 자동 확장 보관이 켜져 있는 경우 복구 가능한 항목 폴더의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=844060)를 참조하세요. 자동 확장 보관의 가용성에 대한 자세한 내용은 [Office 365 로드맵](http://go.microsoft.com/fwlink/?LinkId=509914)을 참조하세요.
+> <sup>1</sup> 사서함 폴더당 메시지 수는 1,000,000개 이하로 하는 것이 좋습니다. > <br/> <sup>2</sup> 이것은 전체 보관 사서함의 할당량이 아닌 복구 가능한 항목 폴더의 저장소 할당량입니다. Exchange Online 계획 2 라이선스 또는 Exchange Online 계획 1과 Exchange Online Archiving 라이선스를 모두 가진 사용자의 경우, 보관 사서함의 저장소 할당량이 제한되지 않습니다. 복구 가능한 항목 할당량을 늘리는 방법에 관한 정보는 [Increase the Recoverable Items quota for mailboxes on hold](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)(보류 중인 사서함에 대한 복구 가능한 항목 할당량 늘리기)를 참조하세요. <br/> <sup>3</sup> 보관 사서함에서 복구 가능한 항목 폴더에 대한 초기 저장소 할당량은 100GB입니다. 자동 확장 보관이 켜져 있는 경우 복구 가능한 항목 폴더의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=844060)를 참조하세요. 자동 확장 보관의 가용성에 대한 자세한 내용은 [Office 365 로드맵](https://go.microsoft.com/fwlink/?LinkId=509914)을 참조하세요.
 
 ## <a name="message-limits"></a>메시지 제한
 
@@ -370,7 +370,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 ## <a name="reporting-and-message-trace-limits"></a>보고 및 메시지 추적 제한
 
-보고 및 메시지 추적 제한에 대한 내용은 [Exchange Online Protection의 보고 및 메시지 추적](http://go.microsoft.com/fwlink/p/?LinkId=394248)의 "보고 및 메시지 추적 데이터 사용 가능 여부 및 대기 시간" 섹션을 참조하세요.
+보고 및 메시지 추적 제한에 대한 내용은 [Exchange Online Protection의 보고 및 메시지 추적](https://go.microsoft.com/fwlink/p/?LinkId=394248)의 "보고 및 메시지 추적 데이터 사용 가능 여부 및 대기 시간" 섹션을 참조하세요.
 
 ## <a name="retention-limits"></a>보존 제한
 

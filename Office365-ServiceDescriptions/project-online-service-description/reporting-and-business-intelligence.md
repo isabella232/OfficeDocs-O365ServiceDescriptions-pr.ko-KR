@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
 description: Project Online에서는 다음과 같은 보고 및 비즈니스 인텔리전스 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 184c0781d48c5fcbbaae17b41075e3eb83cbaf18
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: dc3c5939bbdfc08cafc6bf6b7d4bb65d90e675c7
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633599"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733859"
 ---
 # <a name="reporting-and-business-intelligence"></a>보고 및 비즈니스 인텔리전스
 
@@ -23,7 +23,7 @@ Project Online에서는 다음과 같은 보고 및 비즈니스 인텔리전스
   
 ## <a name="odata-feeds"></a>OData feeds
 
-OData 피드를 사용하면 REST 쿼리 및 다양한 OData 클라이언트 라이브러리를 통해 Project Web App 인스턴스의 보고 데이터에 대해 쿼리할 수 있습니다. 예를 들어 웹 브라우저에서 직접 REST 쿼리를 사용하거나 JavaScript를 사용하여 모바일 장치, 태블릿, PC 및 Mac 컴퓨터용 웹앱과 클라이언트 앱을 만들 수 있습니다. 자세한 내용은 [Project 2013 OData 서비스 참조](http://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409)를 참조하세요.
+OData 피드를 사용하면 REST 쿼리 및 다양한 OData 클라이언트 라이브러리를 통해 Project Web App 인스턴스의 보고 데이터에 대해 쿼리할 수 있습니다. 예를 들어 웹 브라우저에서 직접 REST 쿼리를 사용하거나 JavaScript를 사용하여 모바일 장치, 태블릿, PC 및 Mac 컴퓨터용 웹앱과 클라이언트 앱을 만들 수 있습니다. 자세한 내용은 [Project 2013 OData 서비스 참조](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409)를 참조하세요.
   
 ## <a name="out-of-the-box-portfolio-dashboards"></a>Out-of-the-box portfolio dashboards
 
@@ -31,5 +31,5 @@ OData 피드를 사용하면 REST 쿼리 및 다양한 OData 클라이언트 라
   
 ## <a name="project-desktop-reporting"></a>Project desktop reporting
 
-프로젝트 데스크톱 보고에서는 다른 소프트웨어를 사용할 필요 없이 원하는 모든 프로젝트 데이터에 대한 뛰어난 그래픽 보고서를 만들고 사용자 지정할 수 있습니다. 자세한 내용은 [프로젝트 보고서 만들기](http://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409)를 참조하세요.
+프로젝트 데스크톱 보고에서는 다른 소프트웨어를 사용할 필요 없이 원하는 모든 프로젝트 데이터에 대한 뛰어난 그래픽 보고서를 만들고 사용자 지정할 수 있습니다. 자세한 내용은 [프로젝트 보고서 만들기](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409)를 참조하세요.
   

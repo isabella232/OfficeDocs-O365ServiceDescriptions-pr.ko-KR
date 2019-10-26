@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 관리자는 서비스 상태를 보고 유지 관리 예정 시간을 확인할 수 있습니다. 서비스 상태 정보는 언제 든 지 Office 365에 로그인 하 여 사용할 수 있습니다.
-ms.openlocfilehash: 8dc657dfb9101d6d193b3ea20ebef7b8ef47600f
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 76e202056145aca9c4a1bbe390728e6a4e062753
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633439"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734055"
 ---
 # <a name="service-health-and-continuity"></a>서비스 상태 및 연속성
 
 Microsoft Office 365 관리자는 서비스 상태를 보고 유지 관리 예정 시간을 확인할 수 있습니다. 서비스 상태 정보는 언제 든 지 Office 365에 로그인 하 여 사용할 수 있습니다.
   
 > [!NOTE]
-> 21Vianet에서 운영하는 Office 365를 사용 중인 경우 다음 정보 중 일부가 적용되지 않을 수 있습니다. 대신 [21Vianet 서비스 수준 계약](http://www.21vbluecloud.com/office365/O365-SLA/)을 참조하세요. 
+> 21Vianet에서 운영하는 Office 365를 사용 중인 경우 다음 정보 중 일부가 적용되지 않을 수 있습니다. 대신 [21Vianet 서비스 수준 계약](https://www.21vbluecloud.com/office365/O365-SLA/)을 참조하세요. 
   
 ## <a name="view-status-of-services"></a>서비스 상태 보기
 
@@ -75,7 +75,7 @@ Office 365의 서비스 상태 섹션에는 서비스의 현재 상태와 서비
 
 ### <a name="office-365-admin-app"></a>Office 365 관리 앱
 
-관리 앱 for Office 365 테 넌 트 관리자는 이동 중에 조직의 Office 365 서비스 상태에 연결 하는 기능을 제공 합니다. Office 365 테 넌 트 관리자는 모바일 장치에서 서비스 상태 정보 및 유지 관리 상태 업데이트를 볼 수 있습니다. 자세한 내용은 [관리 앱 FAQ](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)를 참조하세요.
+관리 앱 for Office 365 테 넌 트 관리자는 이동 중에 조직의 Office 365 서비스 상태에 연결 하는 기능을 제공 합니다. Office 365 테 넌 트 관리자는 모바일 장치에서 서비스 상태 정보 및 유지 관리 상태 업데이트를 볼 수 있습니다. 자세한 내용은 [관리 앱 FAQ](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)를 참조하세요.
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2용 Office 365 관리 팩
 
@@ -115,7 +115,7 @@ Office 365 서비스 통신 API를 사용 하면 원하는 방식으로 Office 3
 
 Microsoft Office 365 제품 서비스는 최대 서비스 성능을 유지하는 데 도움이 되는 복원력이 뛰어난 시스템을 통해 전달됩니다. 서비스 지속성 프로비전은 Office 365 시스템 설계의 일부입니다. 이러한 프로비전을 통해 Office 365는 하드웨어 또는 응용 프로그램 실패, 데이터 손상 또는 기타 사용자에게 영향을 주는 인시던트 등의 예기치 않은 이벤트로부터 빠르게 복구됩니다. 또한, 이러한 서비스 지속성 솔루션은 재앙과도 같은 서비스 중단(예: 자연 재해 또는 Microsoft 데이터 센터 내 인시던트로 데이터 센터 전체가 운영 불가능한 상황) 시에도 적용됩니다.
   
-재해적 중단에서 복구한 후에는 일정 기간이 지나야 서비스를 위해 전체 데이터 센터 중복성이 복원될 수 있습니다. 예를 들어 데이터 센터 1이 중단된 경우 서비스는 데이터 센터 2의 리소스에 의해 복원됩니다. 그러나 데이터 센터 2의 서비스가 데이터 센터 1의 복원된 리소스 및 데이터 센터 3의 새로운 리소스에 의해 서비스 연속성 지원을 받을 때까지 일정 기간이 지날 수 있습니다. 이 시간 중에 Office 365 SLA([서비스 수준 계약](service-level-agreement.md))가 적용됩니다. 21Vianet에서 운영하는 Office 365에는 다른 SLA가 있습니다. 자세한 내용은 [21Vianet 사이트](http://www.21vbluecloud.com/office365/O365-SLA/)를 참조하세요. 
+재해적 중단에서 복구한 후에는 일정 기간이 지나야 서비스를 위해 전체 데이터 센터 중복성이 복원될 수 있습니다. 예를 들어 데이터 센터 1이 중단된 경우 서비스는 데이터 센터 2의 리소스에 의해 복원됩니다. 그러나 데이터 센터 2의 서비스가 데이터 센터 1의 복원된 리소스 및 데이터 센터 3의 새로운 리소스에 의해 서비스 연속성 지원을 받을 때까지 일정 기간이 지날 수 있습니다. 이 시간 중에 Office 365 SLA([서비스 수준 계약](service-level-agreement.md))가 적용됩니다. 21Vianet에서 운영하는 Office 365에는 다른 SLA가 있습니다. 자세한 내용은 [21Vianet 사이트](https://www.21vbluecloud.com/office365/O365-SLA/)를 참조하세요. 
   
 ## <a name="ensuring-data-availability"></a>데이터 가용성 보장
 

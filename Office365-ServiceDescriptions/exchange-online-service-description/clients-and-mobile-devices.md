@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 0b5768720514572299814dd5ecd9c3a200f1958a
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 78495334dc89f3e806bff3639eac448edcaaedf3
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581924"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734226"
 ---
 # <a name="clients-and-mobile-devices"></a>클라이언트 및 모바일 장치
 
@@ -47,7 +47,7 @@ Exchange 2016 및 Exchange Online에서 지원되는 Outlook 클라이언트에 
 
 - **웹상의 Outlook 라이트 버전** 웹상의 Outlook 라이트 버전은 Exchange Online 사용자에게 거의 모든 웹 브라우저를 통한 사서함 액세스를 제공합니다. 사용자는 메시지 읽기 및 보내기, 연락처 구성, 약속 및 모임 예약 등의 작업을 수행할 수 있습니다. 기본 작업 기반 시간 제한은 6시간으로 설정되지만 [Windows PowerShell에서 관리자가 5분에서 8시간 사이로 구성](https://go.microsoft.com/fwlink/p/?LinkId=399155)할 수 있습니다. 이 시간 제한은 단추를 선택 하거나 메시지를 선택 하는 것과 같은 웹 응용 프로그램 내의 사용자 상호 작용에 따라 달라 집니다. 또한 구성할 수 없으며 사용자 작업에 상관없이 발생하는 별도의 보안 기반 시간 제한도 있습니다. 사용자가 8시간 동안 로그인되어 있는 경우 라이트 버전의 OWA는 사용자를 자동으로 로그아웃하고 다시 인증하라는 메시지를 표시합니다. 
 
-웹상의 Outlook은 모바일 버전으로도 사용할 수 있습니다. 자세한 내용은 [이 페이지](http://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409)를 참조하세요.
+웹상의 Outlook은 모바일 버전으로도 사용할 수 있습니다. 자세한 내용은 [이 페이지](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409)를 참조하세요.
   
 ## <a name="outlook-for-mac"></a>Outlook for Mac
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Project Online에서는 다음과 같은 포트폴리오 관리 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 2a415584b186ed9734688447ef9fcffac8011bcb
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 37ab7a0f3094100bf68d895769f00b4e33fd712d
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633745"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733879"
 ---
 # <a name="portfolio-management"></a>포트폴리오 관리
 
@@ -25,11 +25,11 @@ Project Online에서는 다음과 같은 포트폴리오 관리 기능을 사용
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>Analyze projects and optimize portfolio
 
-프로젝트 분석을 통해 예산 및 자원에 대 한 투자 수익률을 확인할 수 있습니다. 이 프로세스를 포트폴리오 분석이라고 합니다. 자세한 내용은 [포트폴리오 분석 분산형 차트 사용](http://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409)을 참조하세요.
+프로젝트 분석을 통해 예산 및 자원에 대 한 투자 수익률을 확인할 수 있습니다. 이 프로세스를 포트폴리오 분석이라고 합니다. 자세한 내용은 [포트폴리오 분석 분산형 차트 사용](https://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409)을 참조하세요.
   
 ## <a name="create-and-edit-projects"></a>프로젝트 만들기 및 편집
 
-여러 가지 방법으로 프로젝트를 만듭니다. 자세한 내용은 [Project Web App으로 프로젝트 만들기](http://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409)를 참조하세요.
+여러 가지 방법으로 프로젝트를 만듭니다. 자세한 내용은 [Project Web App으로 프로젝트 만들기](https://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409)를 참조하세요.
   
 ## <a name="enterprise-resource-management"></a>Enterprise 자원 관리
 

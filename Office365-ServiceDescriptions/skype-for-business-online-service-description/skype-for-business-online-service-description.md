@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 특정 비즈니스용 Skype 기능을 구입하기 위해 어떤 라이선스가 필요한지 알고 싶나요? 비즈니스용 Skype 라이선스 개요를 참조 하세요.
-ms.openlocfilehash: e4d73f94da357b39520d1e702dfef96ea95d3deb
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: b9e97642f9b7dd1585a1815a080aed764a160013
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701700"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733749"
 ---
 # <a name="skype-for-business-online-service-description"></a>비즈니스용 Skype Online 서비스 설명
 
@@ -46,7 +46,7 @@ ms.locfileid: "37701700"
 
 간단한 비교 페이지를 사용하여 비즈니스용 Skype 온라인 버전을 선택하는 것이 좋습니다. [Skype 모임을 통해 계획 비교하기](https://go.microsoft.com/fwlink/?linkid=798291)를 참조하세요. 더 자세한 비교를 원하시면 아래의 기능 테이블을 참조하세요. 이에 대한 추가 지원이 필요한 경우, [지원](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support)에 전화하시기 바랍니다. 드롭다운 목록에서 지역을 선택하여 지역 번호를 가져올 수 있습니다.
   
-모든 Office 365 계획을 보려면, [비즈니스용 Office 365 계획 비교](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)을 참조하세요. 비교에 대한 자세한 내용은 [Office 365 계획 옵션](https://go.microsoft.com/fwlink/?linkid=846972)을 참조하세요.
+모든 Office 365 계획을 보려면, [비즈니스용 Office 365 계획 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)을 참조하세요. 비교에 대한 자세한 내용은 [Office 365 계획 옵션](https://go.microsoft.com/fwlink/?linkid=846972)을 참조하세요.
   
  비즈니스용 Skype 데스크톱 및 웹 클라이언트의 개별 기능을 비교하려면, [비즈니스용 Skype Online 클라이언트 비교 테이블](https://go.microsoft.com/fwlink/?linkid=829754)을 참조하세요. 비즈니스용 Skype 모바일 클라이언트 비교에 대한 자세한 내용은 [모바일 클라이언트 비교 테이블](https://go.microsoft.com/fwlink/?linkid=846932)을 참조하세요.
   
@@ -153,7 +153,7 @@ ms.locfileid: "37701700"
 |Voicemail  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |[계획을 호출합니다.](skype-for-business-online-features.md#calling-plans-in-office-365) (국내 통화 계획, 추가 기능을 구매해야 함)      <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예  <br/> |아니요  <br/> |
 |[계획을 호출합니다.](skype-for-business-online-features.md#calling-plans-in-office-365) (국제 통화 계획, 추가 기능을 구매해야 함)      <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예  <br/> |아니요  <br/> |
-|[통신 크레딧](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |아니요  <br/> |아니요  <br/> |<sup>6</sup> 없음 <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[통신 크레딧](https://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |아니요  <br/> |아니요  <br/> |<sup>6</sup> 없음 <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |비즈니스용 Skype 음성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |**[보안 및 보관](skype-for-business-online-features.md#security-and-archiving)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |IM 및 미디어 암호화  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -196,7 +196,7 @@ ms.locfileid: "37701700"
 다음 표에는 비즈니스용 Skype 온라인 기능이 독립 실행형 계획별로 나와 있습니다. 이러한 기능에 대한 설명은 [비즈니스용 Skype Online 기능](skype-for-business-online-features.md)에서 확인할 수 있습니다.
   
 > [!NOTE]
-> 비즈니스용 Skype 온라인 독립 실행형 계획 2의 허가된 사용자는 비즈니스용 Skype Basic 클라이언트를 얻게 되지만 전체 비즈니스용 Skype 클라이언트를 얻지는 않습니다. 사용자가 비즈니스용 Skype 클라이언트를 사용할 수 있게 하려면 엔터프라이즈 기반 라이선스 등이 포함된 라이선스로 업그레이드해야 합니다. 사용자에게 비즈니스용 Skype 클라이언트를 배포하려면 [Office 365에서 비즈니스용 Skype 클라이언트 배포](http://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409)를 참조하세요. 
+> 비즈니스용 Skype 온라인 독립 실행형 계획 2의 허가된 사용자는 비즈니스용 Skype Basic 클라이언트를 얻게 되지만 전체 비즈니스용 Skype 클라이언트를 얻지는 않습니다. 사용자가 비즈니스용 Skype 클라이언트를 사용할 수 있게 하려면 엔터프라이즈 기반 라이선스 등이 포함된 라이선스로 업그레이드해야 합니다. 사용자에게 비즈니스용 Skype 클라이언트를 배포하려면 [Office 365에서 비즈니스용 Skype 클라이언트 배포](https://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409)를 참조하세요. 
   
 |||||
 |:-----|:-----|:-----|:-----|

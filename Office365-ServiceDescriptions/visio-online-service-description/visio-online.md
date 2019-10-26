@@ -1,5 +1,5 @@
 ---
-title: Visio for web
+title: 웹용 Visio
 ms.author: sharik
 author: skjerland
 audience: ITPro
@@ -13,14 +13,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Web for visio는 Microsoft Visio 환경을 브라우저로 확장 하 여 클라우드에 저장 된 다이어그램을 만들고 편집할 수 있습니다. Microsoft Office 365 고객은 다이어그램을 보고 인쇄 하 고 공유 하며 이동 중에 의견을 삽입할 수 있습니다.
-ms.openlocfilehash: 6230cb61748d4e64614e9e2ea130c0495a092328
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: de28a68fcd3b81656e86316d345e7e4fa6bd4d20
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450312"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700220"
 ---
-# <a name="visio-for-the-web"></a>Visio for web
+# <a name="visio-for-the-web"></a>웹용 Visio
 
 Web for visio는 Microsoft Visio 환경을 브라우저로 확장 하 여 클라우드에 저장 된 다이어그램을 만들고 편집할 수 있습니다. Microsoft Office 365 고객은 다이어그램을 보고 인쇄 하 고 공유 하며 이동 중에 의견을 삽입할 수 있습니다. Visio 구독을 사용 하는 경우에는 다음 섹션에서 설명 하는 것과 같은 추가 기능을 사용할 수 있습니다.
   
@@ -34,7 +34,7 @@ Web for visio는 Microsoft Visio 환경을 브라우저로 확장 하 여 클라
   
 ## <a name="build-mashup-solutions"></a>매시업 솔루션 빌드
 
-개발자는 웹 JavaScript 매시업 API 용 Visio를 사용 하 여 Visio 웹 다이어그램, 해당 페이지 및 셰이프를 액세스 하 고 조작할 수 있습니다. 자세한 내용은 [Visio for web: 질문과 대답](https://support.office.com/article/visio-online-frequently-asked-questions-e6647040-2fca-42ec-9fa5-d16a4e39e0ee)(faq)을 참조 하십시오.
+개발자는 웹 JavaScript 매시업 API 용 Visio를 사용 하 여 Visio 웹 다이어그램, 해당 페이지 및 셰이프를 액세스 하 고 조작할 수 있습니다. 자세한 내용은 [Visio for web: 질문과 대답](https://support.office.com/article/e6647040-2fca-42ec-9fa5-d16a4e39e0ee)(faq)을 참조 하십시오.
   
 ## <a name="create-diagrams"></a>다이어그램 만들기
 
@@ -50,11 +50,11 @@ Web for Visio에는 다이어그램을 변경 하는 데 사용할 수 있는 �
   
 ## <a name="embed-diagram-in-a-sharepoint-web-or-blog-page"></a>SharePoint, 웹 또는 블로그 페이지에 다이어그램 포함
 
-웹에서 Visio를 사용 하 여 SharePoint, 웹 또는 블로그 페이지에 visio 다이어그램 (Visio 데스크톱 응용 프로그램에서 만들어짐)을 삽입할 수 있습니다. 자세한 내용은 [Visio for web: 질문과 대답](https://support.office.com/article/visio-online-frequently-asked-questions-e6647040-2fca-42ec-9fa5-d16a4e39e0ee)(faq)을 참조 하십시오.
+웹에서 Visio를 사용 하 여 SharePoint, 웹 또는 블로그 페이지에 visio 다이어그램 (Visio 데스크톱 응용 프로그램에서 만들어짐)을 삽입할 수 있습니다. 자세한 내용은 [Visio for web: 질문과 대답](https://support.office.com/article/e6647040-2fca-42ec-9fa5-d16a4e39e0ee)(faq)을 참조 하십시오.
   
 ## <a name="find"></a>찾기
 
-웹의 Visio에서는 줄임표 단추 (...)를 클릭 한 다음 찾기를 선택 하거나 Ctrl + F를 눌러 페이지에서 단어, 숫자 또는 구를 모두 검색할 수 있습니다. 다이어그램 옆에 결과가 표시 됩니다. Visio에서는 셰이프 이름, 셰이프 텍스트, 셰이프 데이터 및 사용자 정의 셀을 검색 합니다.
+웹의 Visio에서는 **기타** (줄임표 단추)를 선택 하 고 **찾기** (또는 ctrl + F)를 선택 하 여 페이지에서 단어, 숫자 또는 구의 모든 항목을 검색할 수 있습니다. 다이어그램 옆에 결과가 표시 됩니다. Visio에서는 셰이프 이름, 셰이프 텍스트, 셰이프 데이터 및 사용자 정의 셀을 검색 합니다.
   
 ## <a name="font-formatting"></a>글꼴 서식
 
@@ -62,11 +62,11 @@ Visio에서 웹에 대해 글꼴, 글꼴 크기 및 기타 글꼴 모양 특성 
   
 ## <a name="hyperlinks"></a>하이퍼링크
 
-웹의 Visio에서는 셰이프를 클릭 하 여 하이퍼링크에 직접 액세스할 수 있습니다.
+웹의 Visio에서는 셰이프를 선택 하 여 하이퍼링크에 직접 액세스할 수 있습니다.
   
 ## <a name="navigation"></a>탐색
 
-웹의 Visio에서는 왼쪽 아래에 있는 탭을 클릭 하 여 다른 페이지로 이동할 수 있습니다.
+웹의 Visio에서는 왼쪽 아래에 있는 탭을 선택 하 여 다른 페이지로 이동할 수 있습니다.
   
 ## <a name="office-add-ins"></a>Office 추가 기능
 
@@ -94,7 +94,7 @@ Visio for web을 사용 하면 다른 이름으로 저장 또는 다이어그램
   
 ## <a name="share-a-diagram"></a>다이어그램 공유
 
-다이어그램을 SharePoint 문서 라이브러리 또는 비즈니스용 OneDrive에 저장 한 경우 다이어그램이 온라인 상태 이며 전자 메일 첨부 파일이 아닌 링크를 보내서 해당 다이어그램을 공유할 수 있습니다. 적절 한 사용 권한이 있는 사용자가 웹 브라우저나 모바일 장치에서이를 볼 수 있습니다. 오른쪽 위에서 **공유** 를 클릭 하면 됩니다. 중복 된 데이터 연결 다이어그램을 만들지 않도록 링크를 공유 하는 것이 좋습니다.
+다이어그램을 SharePoint 문서 라이브러리 또는 비즈니스용 OneDrive에 저장 한 경우 다이어그램이 온라인 상태 이며 전자 메일 첨부 파일이 아닌 링크를 보내서 해당 다이어그램을 공유할 수 있습니다. 적절 한 사용 권한이 있는 사용자가 웹 브라우저나 모바일 장치에서이를 볼 수 있습니다. 오른쪽 위에서 **공유** 를 선택 하면 됩니다. 중복 된 데이터 연결 다이어그램을 만들지 않도록 링크를 공유 하는 것이 좋습니다.
   
 ## <a name="smartart"></a>빠른
 
@@ -114,7 +114,7 @@ Visio에서는 웹에 대해 설명 기능을 사용할 수 없습니다. Visio 
   
 ## <a name="view-shape-data"></a>셰이프 데이터 보기
 
-웹에서 Visio를 사용 하 여 다이어그램에 대 한 메타 데이터를 볼 수 있으며, 셰이프를 클릭 하 고 **셰이프 정보**를 클릭 하면 됩니다.
+웹에서 Visio를 사용 하 여 다이어그램에 대 한 메타 데이터를 볼 수 있습니다. 셰이프를 선택 하 고 **셰이프 정보**를 선택 하면 됩니다.
   
 ## <a name="view-visio-files-in-the-browser"></a>브라우저에서 Visio 파일 보기
 

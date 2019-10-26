@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
-description: Microsoft 작업 공간 분석은 비즈니스 의사 결정을 보다 효율적으로 수행 하는 데 도움이 되는 회사의 통신 및 공동 작업 경향을 다양 하 게 수행할 수 있도록 합니다.
-ms.openlocfilehash: 3a0ab6b1bb936922581a70bbae651cbe5e4c52a5
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+description: Microsoft 작업 공간 분석에서는 비즈니스 의사 결정을 보다 효율적으로 수행 하는 데 도움이 되는 조직의 커뮤니케이션 및 공동 작업 경향을 다양 하 게 수행할 수 있는 통찰력을 제공 합니다.
+ms.openlocfilehash: f048b57a1a41137941fe80edbdcc3f683fd23718
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998531"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733619"
 ---
 # <a name="workplace-analytics-service-description"></a>Workplace Analytics 서비스 설명
 
-Microsoft 작업 공간 분석은 비즈니스 의사 결정을 보다 효율적으로 수행 하는 데 도움이 되는 회사의 통신 및 공동 작업 경향을 다양 하 게 수행할 수 있도록 합니다.
+Microsoft 작업 공간 분석에서는 비즈니스 의사 결정을 보다 효율적으로 수행 하는 데 도움이 되는 조직의 커뮤니케이션 및 공동 작업 경향을 다양 하 게 수행할 수 있는 통찰력을 제공 합니다.
 
 ## <a name="transform-unprecedented-insights-into-action"></a>강력한 통찰력을 작업으로 변환
 

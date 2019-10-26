@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365에서는 다음과 같은 도움말 및 교육 리소스를 제공 합니다.
-ms.openlocfilehash: 537388fdbd104591ee746cf5629b0b7e7e3355cb
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 3dbeb76225c641cb57d5cbc849df2d56fcecf3cb
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595218"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734156"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -25,7 +25,7 @@ Microsoft Office 365에서는 다음과 같은 도움말 및 교육 리소스를
   
 ## <a name="online-help"></a>온라인 도움말
 
-도움말 문서와 비디오는 Office 365 포털 및 Microsoft 365 관리 센터의 위쪽 탐색 모음에 있는 도움말 아이콘을 포함 하 여 서비스의 모든 인라인 도움말 링크에서 사용할 수 있습니다. 모든 Office 365 도움말은 [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)에서도 검색할 수 있습니다. 
+도움말 문서와 비디오는 Office 365 포털 및 Microsoft 365 관리 센터의 위쪽 탐색 모음에 있는 도움말 아이콘을 포함 하 여 서비스의 모든 인라인 도움말 링크에서 사용할 수 있습니다. 모든 Office 365 도움말은 [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)에서도 검색할 수 있습니다. 
   
 ## <a name="training"></a>교육
 
@@ -46,7 +46,7 @@ Microsoft Office 365에서는 다음과 같은 도움말 및 교육 리소스를
 ## <a name="community"></a>커뮤니티
 
 > [!NOTE]
-> 커뮤니티 리소스는 전 세계 버전의 Office 365에 적용됩니다. 21Vianet에서 운영하는 Office 365를 사용 중인 경우 WeChat을 사용할 수 있습니다. [21Vianet에서 운영하는 Office 365에 대한 기술, 결제 및 구독 지원 받기](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)를 참조하고 페이지 아래로 스크롤하여 QR 코드를 찾으세요. 
+> 커뮤니티 리소스는 전 세계 버전의 Office 365에 적용됩니다. 21Vianet에서 운영하는 Office 365를 사용 중인 경우 WeChat을 사용할 수 있습니다. [21Vianet에서 운영하는 Office 365에 대한 기술, 결제 및 구독 지원 받기](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)를 참조하고 페이지 아래로 스크롤하여 QR 코드를 찾으세요. 
   
 Office 365 커뮤니티는 자가 진단 지원 정보에 대한 단일 대상입니다. 여기에 포함되어 있는 최신 정보를 사용하면 지원 포럼, Wiki 및 블로그를 통해 다양한 기술, 비용 청구 및 서비스 관련 질문에 대한 답변을 쉽게 찾을 수 있습니다. 지원 포럼은 Microsoft 지원 담당자들이 직접 관리합니다.
   
@@ -104,9 +104,9 @@ Office 365 커뮤니티 및 온라인 365 도움말 외에도 다음과 같은 �
     
 - **기술 지원 동영상** 문제 해결 동영상은 고객들이 자주 묻는 질문을 바탕으로 개발되었으며 영어로만 제공됩니다. 매주 35개 이상의 동영상이 추가되며, 항목 범위는 BlackBerry® 관리 센터 개요부터 디렉터리 동기화를 활성화하고 마이그레이션하는 업무까지 매우 다양합니다. 이러한 동영상을 보려면 Office 365 커뮤니티 사이트로 이동하여 동영상을 검색하면 됩니다. 필요한 경우 커뮤니티 포털을 통해 원하는 동영상을 직접 요청할 수도 있습니다. [Office 365 YouTube](https://go.microsoft.com/fwlink/?LinkId=272059) 및 [쇼케이스](https://go.microsoft.com/fwlink/?LinkId=272060) 채널로 이동할 수도 있습니다. 
     
-- **소셜 미디어**[Facebook](https://go.microsoft.com/fwlink/?LinkId=272061), [Twitter](https://go.microsoft.com/fwlink/?LinkId=272062) 및 [LinkedIn](http://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1)에서 Office 365를 팔로우하면 고객이나 파트너가 Office 365에 대해 더 많은 정보를 얻을 수 있습니다. 이와 같이 쉽고 빠른 방법으로 Office 365에 대해 학습하는 방법을 통해 고객은 다른 사용자들의 의견을 듣고 자신의 의견과 트윗을 직접 추가할 수 있습니다. 모든 지원 관련 문의에 도움을 주기 위해 Microsoft와 관련된 Facebook 및 Twitter 활동은 Microsoft 지원 전문가가 직접 모니터링합니다. Office 365 커뮤니티 홈 페이지의 하단에는 가장 최근 Facebook 피드와 최근 트윗이 제공되며 고객과 파트너 사이에 매일 오고 가는 토론 내용을 확인할 수 있습니다. 
+- **소셜 미디어**[Facebook](https://go.microsoft.com/fwlink/?LinkId=272061), [Twitter](https://go.microsoft.com/fwlink/?LinkId=272062) 및 [LinkedIn](https://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1)에서 Office 365를 팔로우하면 고객이나 파트너가 Office 365에 대해 더 많은 정보를 얻을 수 있습니다. 이와 같이 쉽고 빠른 방법으로 Office 365에 대해 학습하는 방법을 통해 고객은 다른 사용자들의 의견을 듣고 자신의 의견과 트윗을 직접 추가할 수 있습니다. 모든 지원 관련 문의에 도움을 주기 위해 Microsoft와 관련된 Facebook 및 Twitter 활동은 Microsoft 지원 전문가가 직접 모니터링합니다. Office 365 커뮤니티 홈 페이지의 하단에는 가장 최근 Facebook 피드와 최근 트윗이 제공되며 고객과 파트너 사이에 매일 오고 가는 토론 내용을 확인할 수 있습니다. 
     
-    21Vianet에서 운영하는 Office 365를 사용 중인 경우 WeChat을 사용할 수 있습니다. [21Vianet에서 운영하는 Office 365에 대한 기술, 결제 및 구독 지원 받기](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)를 참조하고 페이지 아래로 스크롤하여 QR 코드를 찾으세요. 
+    21Vianet에서 운영하는 Office 365를 사용 중인 경우 WeChat을 사용할 수 있습니다. [21Vianet에서 운영하는 Office 365에 대한 기술, 결제 및 구독 지원 받기](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)를 참조하고 페이지 아래로 스크롤하여 QR 코드를 찾으세요. 
     
 ## <a name="languages"></a>언어
 

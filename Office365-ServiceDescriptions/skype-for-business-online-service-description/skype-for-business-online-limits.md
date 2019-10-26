@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 비즈니스용 Skype Online의 제한은 다음 범주에 속합니다.
-ms.openlocfilehash: 93a104be708fceae8664447cd1d61ef914dd7fba
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 4d0c804e8d0d4c8b8b9780bcea762c0253cdabe9
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777809"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726067"
 ---
 # <a name="skype-for-business-online-limits"></a>비즈니스용 Skype Online 제한
 
@@ -68,7 +68,6 @@ ms.locfileid: "35777809"
 > <sup>1</sup> 클라이언트가 최대 99 명의 사용자와 대화를 직접 추가 하거나 그룹이 나 메일 그룹의 상황에 맞는 메뉴에서 인스턴트 메시지를 보내 채팅을 시작할 수 있습니다. 비즈니스용 Skype Online의 인스턴트 메시징에 대 한 자세한 내용은 [비즈니스용 skype에서 메신저 대화](https://go.microsoft.com/fwlink/?linkid=533412)를 참조 하세요. 
   
 ## <a name="meeting-limits"></a>모임 제한
-<a name="bkmk_Meeting_LyncOnlineLimits"> </a>
 
 - **파일 업로드 제한** 참고 파일 및 PowerPoint 프레젠테이션을 포함하여 비즈니스용 Skype 모임에 업로드할 수 있는 최대 파일 크기입니다. 
     
@@ -112,7 +111,6 @@ ms.locfileid: "35777809"
 |팀 호출 그룹의 개인  <br/> |25@@  <br/> |해당 사항 없음  <br/> |25@@  <br/> |
    
 ## <a name="meeting-retention-limits"></a>모임 보존 제한
-<a name="bkmk_MeetingRetention_LyncOnlineLimits"> </a>
 
 - **모임 콘텐츠 보존 기간** 마지막 사람이 모임을 떠난 후에 업로드된 모임 콘텐츠가 영구히 삭제되기 전에 비즈니스용 Skype에서 보존되는 기간입니다. 
     
@@ -131,10 +129,7 @@ ms.locfileid: "35777809"
 |종료 날짜가 없는 되풀이 모임| 새 회의 참가 (정품 인증) 또는 1 년에 한 번 이상 업데이트 예약을 제공 하는 경우 모임에 항상 액세스할 수 있습니다.
 |회의 시작|모임에는 8 시간 이상 액세스할 수 있습니다.
 
-
-  
 ## <a name="minute-limits"></a>분 한도
-<a name="bkmk_Minute_LyncOnlineLimits"> </a>
 
-Office 365 국내/국제 통화 계획의 시간 제한 사항에 대한 자세한 내용은 [여기](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)를 참조하시기 바랍니다.
+Office 365 국내 통화 요금제 또는 Office 365 국제 통화 요금제의 분 제한 사항에 대 한 자세한 내용은 [오디오 회의 및 통화 요금제의 국가 및 지역 사용 가능 여부](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)를 방문 하세요.
   

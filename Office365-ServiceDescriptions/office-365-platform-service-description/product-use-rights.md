@@ -11,22 +11,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: 4fd3b239b1cbc433b90b4aa44407f31b18698717
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: d04e780f3d7308c978916fec5238037cbcb208d3
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582094"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734075"
 ---
 # <a name="product-use-rights"></a>제품 사용권
 
 ## <a name="microsoft-online-services-use-rights"></a>Microsoft Online Services 사용권
 
-Microsoft Online 구독 계약을 준수하는 경우 [Microsoft Online Services 사용권](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true)에 명시적으로 허용된 온라인 서비스와 관련 소프트웨어를 사용할 수 있습니다.
+Microsoft Online 구독 계약을 준수하는 경우 [Microsoft Online Services 사용권](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true)에 명시적으로 허용된 온라인 서비스와 관련 소프트웨어를 사용할 수 있습니다.
   
 ## <a name="office-365-operated-by-21vianet-use-rights"></a>21Vianet Education에서 운영하는 Office 365 사용 권한
 
-[온라인 서비스 표준 계약](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/) 및 [사용 약관](http://www.21vbluecloud.com/office365/O365-TOU/)을 참조하세요.
+[온라인 서비스 표준 계약](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/) 및 [사용 약관](https://www.21vbluecloud.com/office365/O365-TOU/)을 참조하세요.
   
 ## <a name="licensing"></a>라이선싱
 

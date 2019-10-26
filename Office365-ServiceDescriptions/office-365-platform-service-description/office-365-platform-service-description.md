@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Exchange Online 계획을 비롯하여 Office 365 계획 간의 차이점을 알고 싶은 경우 이 문서를 통해 각 계획에 포함된 기능을 확인할 수 있습니다.
-ms.openlocfilehash: 0cb39edea15d784e0009d56dda1a648602b09fa9
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 5740dbe2eaafc464060b6c9554e9acdc734e912d
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633465"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734126"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 플랫폼 서비스 설명
 
@@ -27,7 +27,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
   
 Microsoft Office 365는 모든 규모의 비즈니스에 클라우드 생산성을 제공 하 여 시간 및 비용을 절감 하 고 가치 있는 리소스를 확보 하는 데 도움이 됩니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군을 microsoft Exchange Online, Microsoft SharePoint Online, Office for web에 해당 하는 클라우드 기반 버전의 Microsoft의 차세대 통신 및 공동 작업 서비스와 조합 하 여 제공 합니다. Microsoft 비즈니스용 Skype Online-사용자가 인터넷을 통해 어디서 나 생산성을 유지 하는 데 도움이 됩니다.
   
-계획 간에 기능을 비교 하려면 office [365 For Business 요금제 비교](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 또는 자세한 기능 목록을 보려면 [Office 365 서비스 설명 ](../office-365-service-descriptions-technet-library.md)에서 관련 서비스 설명을 참조 하세요.
+계획 간에 기능을 비교 하려면 office [365 For Business 요금제 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 또는 자세한 기능 목록을 보려면 [Office 365 서비스 설명 ](../office-365-service-descriptions-technet-library.md)에서 관련 서비스 설명을 참조 하세요.
   
 - Office 365 Education 요금제에 대한 내용은 [Office 365 Education](office-365-education.md) 페이지부터 확인하세요. 
     
@@ -45,7 +45,7 @@ Office 365의 볼륨 라이선스에 대한 자세한 내용은 [사용권 계�
   
 ## <a name="office-365-nonprofit-plans-and-pricing"></a>Office 365 Nonprofit 요금제 및 가격
 
-Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경우 이 요금제에는 해당 비즈니스 요금제와 정확히 동일한 기능이 포함됩니다(예를 들어 Office 365 Nonprofit Enterprise E5에는 Office 365 Enterprise E5와 동일한 기능이 포함됨). 동급 요금제 간의 유일한 차이는 지불하는 가격입니다. Office 365 Nonprofit 요금제에 대한 자세한 내용은 [Office 365 Nonprofit 요금제 및 가격](http://go.microsoft.com/fwlink/?LinkID=627221)과 이 [FAQ](http://go.microsoft.com/fwlink/?LinkID=786641)를 참조하세요.
+Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경우 이 요금제에는 해당 비즈니스 요금제와 정확히 동일한 기능이 포함됩니다(예를 들어 Office 365 Nonprofit Enterprise E5에는 Office 365 Enterprise E5와 동일한 기능이 포함됨). 동급 요금제 간의 유일한 차이는 지불하는 가격입니다. Office 365 Nonprofit 요금제에 대한 자세한 내용은 [Office 365 Nonprofit 요금제 및 가격](https://go.microsoft.com/fwlink/?LinkID=627221)과 이 [FAQ](https://go.microsoft.com/fwlink/?LinkID=786641)를 참조하세요.
   
 ## <a name="system-requirements"></a>시스템 요구 사항
 
@@ -81,13 +81,13 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
     
 - 교육: [Office 365 Education 요금제 및 가격](https://go.microsoft.com/fwlink/?LinkID=827897)
     
-- 미국 정보: [Office 365 U.S. Government 요금제](http://go.microsoft.com/fwlink/?LinkID=827898)
+- 미국 정보: [Office 365 U.S. Government 요금제](https://go.microsoft.com/fwlink/?LinkID=827898)
     
 - 비영리: [Office 365 Nonprofit 요금제 및 가격](https://go.microsoft.com/fwlink/?LinkID=733237)
     
 - Office 365 Germany: [Office 365 Germany 계획](https://go.microsoft.com/fwlink/?linkid=839016)
     
-비즈니스용 Office 365 요금제 중 일부는 구독에 대해 구입할 수 있는 추가 기능을 제공합니다. 추가 기능은 구독에 대한 추가 기능을 제공합니다. 자세한 내용은 [비즈니스용 Office 365 추가 기능 구입 또는 편집](https://support.office.com/en-us/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)에서 "다른 버전의 비즈니스용 Office 365에서 사용할 수 있는 추가 기능"을 참조하세요.
+비즈니스용 Office 365 요금제 중 일부는 구독에 대해 구입할 수 있는 추가 기능을 제공합니다. 추가 기능은 구독에 대한 추가 기능을 제공합니다. 자세한 내용은 [비즈니스용 Office 365 추가 기능 구입 또는 편집](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)에서 "다른 버전의 비즈니스용 Office 365에서 사용할 수 있는 추가 기능"을 참조하세요.
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -209,7 +209,7 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 > <sup>1</sup> Office 365는 제조업체에서 지원 하지 않는 운영 체제에 대 한 지원을 제공 하지 않습니다. 
 <br/><sup>2</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용하려면 Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F1에 포함되어 있지 않은 Office365ProPlus를 구독해야 합니다. Microsoft 365 Business와 함께 제공 되는 Office 클라이언트 앱은 모든 Azure Information Protection (계획 1) 기능을 지원 합니다.
 <br/><sup>3</sup> If using directory synchronization with a local Active Directory, you must delete accounts or change passwords by using the local Active Directory, rather than the Office 365 portal or by using the Azure Active Directory module for Windows PowerShell. 
-<br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). 
+<br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/). 
 <br/><sup>6</sup> 용어 할인을 사용 하 여 구매한 좌석을 초기 종결 수수료에 따라 줄일 수 있습니다. This is not applicable for subscriptions paid on a monthly basis. 
 <br/><sup>7</sup> (에서 [https://securescore.office.com](https://securescore.office.com)사용 가능). 관리자 권한이 있어야 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://go.microsoft.com/fwlink/?linkid=836894)를 참조 하세요. 
 <br/><sup>8</sup> Microsoft Sway는 현재 특정 지역에 있는 고객에 게 제공 되지 않습니다. 8 2015 월로 더 이상 출시 되지 않는 일부 레거시 Office 365 계획에는 Microsoft Sway에 대 한 액세스 권한이 없을 수도 있습니다. 
@@ -220,7 +220,7 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 <br/><sup>13</sup> Office 365 Enterprise F1에서 PowerApps는 사용 전용으로 제한 됩니다 (게시 하거나 공유할 수 없음). 
 <br/><sup>14</sup> In Office 365 Enterprise F1, 흐름은 소비율만을 사용 하도록 제한 되며 실행은 매달 사용자 당 750로 제한 됩니다. 
 <br/><sup>15</sup> Office 365 E5 교육을 포함 하 여 Office 365 교육용 요금제 에서만 사용할 수 있습니다. Office 365 Enterprise E5에서는 사용할 수 없습니다. 
-<br/><sup>16</sup> 자세한 내용은 [고객 키를 사용 하 여 Office 365에서 데이터 제어](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요. 
+<br/><sup>16</sup> 자세한 내용은 [고객 키를 사용 하 여 Office 365에서 데이터 제어](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요. 
 <br/><sup>17</sup> Advanced EDiscovery는 미국 및 유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.)
 <br/><sup>18</sup> Microsoft Stream의 소비량: 게시 또는 공유 안 함
 <br/><sup>19</sup> 5 월 2019 일, 기존 적격 365 Sku 및 Microsoft 365는 Kaizala Pro를 사용 하 여 backfilled 됩니다. 2019 년 6 월 1 일부 Kaizala Pro는 모든 적격 Office 365 및 Microsoft 365 Sku에 포함 됩니다.

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다. 여기에는 Exchange Online Protection을 제공 하는 계획 목록과 이러한 요금제의 기능 비교가 포함 되어 있습니다.
-ms.openlocfilehash: 462e1f100382ffddd9f456f38525158826720f53
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 92363cebf6478f87f553792d449f0b9b0784fa5b
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581914"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700230"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 서비스 설명
 
@@ -25,9 +25,9 @@ Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다
 
 Microsoft EOP(Exchange Online Protection)는 스팸 및 맬웨어로부터 조직을 보호하는 클라우드 기반 전자 메일 필터링 서비스로, 메시징 정책 위반으로부터 조직을 보호하는 기능을 포함합니다. EOP를 사용하면 메시징 환경을 쉽게 관리하고 온-프레미스 하드웨어 및 소프트웨어 유지 관리 시의 부담을 대부분 완화할 수 있습니다.
 
-기본적으로 다음과 같은 방식을 통해 메시징 보호에 EOP를 사용할 수 있습니다.
+다음 목록에서는 메시징 보호를 위해 EOP을 사용할 수 있는 기본 방법에 대해 설명 합니다.
 
-- **독립 실행형 시나리오에서**EOP는 온-프레미스 exchange Server 2013 이상 환경, 레거시 exchange server 버전 또는 기타 모든 온-프레미스 SMTP 전자 메일 솔루션에 대해 클라우드 기반 전자 메일 보호 기능을 제공 합니다.
+- **독립 실행형 시나리오에서**EOP는 온-프레미스 전자 메일 환경 (Exchange Server 또는 기타 온-프레미스 SMTP 전자 메일 솔루션)에 대해 클라우드 기반 전자 메일 보호 기능을 제공 합니다.
 
 - **Microsoft Exchange online의 일부로**, EOP는 기본적으로 Exchange Online 클라우드 호스트 사서함을 보호 합니다. Exchange Online에 대한 자세한 내용은 [Exchange Online 서비스 설명](../exchange-online-service-description/exchange-online-service-description.md)을 참조하세요.
 
@@ -50,21 +50,21 @@ EOP는 다음의 구독 계획을 통해 사용할 수 있습니다.
 
 |**계획**|**설명**|
 |:-----|:-----|
-|[EOP 독립 실행형](https://products.office.com/exchange/exchange-email-security-spam-protection)|EOP가 온-프레미스 사서함을 보호합니다.|
-|[Exchange Online의 EOP 기능](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|EOP가 Exchange Online 클라우드 호스트 사서함을 보호합니다.|
-|[Exchange Enterprise CAL with Services](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|EOP에는 EOP 독립 실행형 같이 온-프레미스 사서함을 보호하고 웹 서비스를 사용하는 DLP(데이터 손실 방지) 및 보고 기능이 포함됩니다.|
+|[EOP 독립 실행형](https://products.office.com/exchange/exchange-email-security-spam-protection)|온-프레미스 전자 메일 조직을 보호 하는 별도의 클라우드 기반 서비스입니다.|
+|[Exchange Online의 EOP 기능](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|Exchange Online 클라우드 호스팅 사서함에 대 한 기본 제공 보호입니다.|
+|[Exchange Enterprise CAL with Services](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|EOP 및 기타 클라우드 기반 기능을 포함 하는 온-프레미스 Exchange 조직에 대해 구매한 추가 기능 라이선스 (자세한 내용은 다음 섹션 참조).|
 
 ### <a name="exchange-enterprise-cal-with-services-features"></a>Exchange Enterprise CAL with Services 기능
 
-Microsoft Exchange Enterprise CAL with Services에서는 온-프레미스 메시징 환경을 위한 EOP의 전자 메일 보호 기능과 함께 다음과 같은 기능을 제공합니다.
+Microsoft Exchange Enterprise CAL with Services는 EOP의 전자 메일 보호 기능과 다음과 같은 추가 클라우드 기반 기능을 제공 합니다.
 
 - [DLP(데이터 손실 방지)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
 
 - [웹 서비스를 사용하여 보고](reporting-and-message-trace.md#reporting-using-web-services)
 
-Exchange Enterprise CAL with Services 라이선스에 대 한 자세한 내용은 [Exchange Server license](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)를 참조 하십시오.
+Exchange Enterprise CAL with Services 라이선스에 대 한 자세한 내용은 [Exchange Server 라이선스](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)를 참조 하세요.
 
-Exchange Enterprise CAL (서비스 라이선스 포함)이 있고 서비스를 프로 비전 하려는 경우에는 [Set up THE EOP service](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service)의 지침을 따르세요. 설정 단계는 EOP 독립 실행형 설정 단계와 동일합니다.
+Exchange Enterprise CAL (서비스 라이선스 포함)이 있고 EOP를 프로 비전 하려는 경우에는 [Set up THE EOP service](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service)의 지침을 따르세요. 설정 단계는 EOP 독립 실행형 설정 단계와 동일합니다.
 
 > [!NOTE]
 > Exchange Enterprise CAL with Services의 새 기능은 EOP 독립 실행형이 아닌 Exchange Online과 같은 시기에 배포됩니다. EOP 독립 실행형과 Exchange Online/Exchange Enterprise CAL with Services의 배포 일정은 약간 다를 수도 있습니다.

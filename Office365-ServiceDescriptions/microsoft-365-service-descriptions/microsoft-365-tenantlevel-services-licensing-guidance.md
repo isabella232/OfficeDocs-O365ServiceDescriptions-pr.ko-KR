@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 테 넌 트 수준 서비스에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: 099f17c638a2c8c9d6d13004dc19a29862de2555
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: b0ff01a92ed1d3c3a5284fd3eba45241a65c0a6a
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582034"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734196"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 테 넌 트 수준 서비스 라이선스 지침
 
@@ -123,7 +123,7 @@ OCAS 조직이 생산성 클라우드 앱 및 서비스를 확인할 수 있도�
 
 Office 365 E5/A5/G5에서 사용이 허가 된 사용자는 OCAS에서 이점을 누릴 수 있습니다.
 
-자세한 내용은 [Microsoft Cloud App Security License Datasheet](http://www.aka.ms/mcaslicensing)를 참조 하세요.
+자세한 내용은 [Microsoft Cloud App Security License Datasheet](https://www.aka.ms/mcaslicensing)를 참조 하세요.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -153,7 +153,7 @@ MCAS에서 [조건부 Access 앱 제어](https://docs.microsoft.com/cloud-app-se
 
 [자동 레이블](https://docs.microsoft.com/cloud-app-security/data-protection-policies)기능의 혜택을 얻으려면 사용자에 게 Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 및 Microsoft 365 E5/A5/G5 준수에 포함 된 Azure Information Protection P2에 대 한 라이선스가 있어야 합니다.
 
-자세한 내용은 [Microsoft Cloud App Security License Datasheet](http://www.aka.ms/mcaslicensing)를 참조 하세요.
+자세한 내용은 [Microsoft Cloud App Security License Datasheet](https://www.aka.ms/mcaslicensing)를 참조 하세요.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 

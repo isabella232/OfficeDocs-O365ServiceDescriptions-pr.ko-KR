@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online에서는 조직의 전자 메일 인프라에 대 한 광범위 한 보존 및 복구 지원을 제공 합니다. 여기에는 데이터 센터에서의 사서함 복제와 삭제된 사서함 및 삭제된 항목의 복원 기능이 포함됩니다.
-ms.openlocfilehash: 08b4e7e6fc0adcb278a2ed4d74564455250a8855
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: aad8576e35af04eb819d9f5809f1862613298651
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581974"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734246"
 ---
 # <a name="high-availability-and-business-continuity"></a>고가용성 및 비즈니스 연속성
 
@@ -27,7 +27,7 @@ Microsoft Exchange Online에서는 조직의 전자 메일 인프라에 대 한 
 
 Exchange Online 사서함은 로컬 메시징 인프라에 오류가 발생했을 때 데이터를 복원할 수 있도록 지리적으로 분산된 Microsoft 데이터 센터에서 여러 데이터베이스 복사본으로 지속적으로 복제됩니다. 대규모 오류인 경우 서비스 연속성 관리 절차가 시작됩니다.
   
-Microsoft의 데이터 보호 방식에 대한 자세한 내용은 [Office 365 보안 센터](https://go.microsoft.com/fwlink/p/?LinkId=299135)를 참조하세요. 21Vianet에서 운영하는 Office 365를 사용 중인 경우 [21Vianet 보안 센터](http://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl)를 참조하세요.
+Microsoft의 데이터 보호 방식에 대한 자세한 내용은 [Office 365 보안 센터](https://go.microsoft.com/fwlink/p/?LinkId=299135)를 참조하세요. 21Vianet에서 운영하는 Office 365를 사용 중인 경우 [21Vianet 보안 센터](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl)를 참조하세요.
   
 ## <a name="deleted-mailbox-recovery"></a>삭제된 사서함 복구
 

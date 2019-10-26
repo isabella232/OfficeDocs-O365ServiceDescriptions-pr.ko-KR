@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: a14963c135cd5e76ed8b609dddb7fc2b275fd478
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 6f920cbd0164acc3675bfd31799c2abf25d2b981
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582004"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733869"
 ---
 # <a name="planning-and-deployment"></a>계획 및 배포
 
@@ -38,7 +38,7 @@ ms.locfileid: "37582004"
 
 Microsoft Exchange 2003, Exchange 2007, Exchange 2010 및 Exchange 2013 온-프레미스 조직에서 사용할 수 있는 하이브리드 배포에서는 일부 사서함을 온-프레미스에 호스트하고 일부는 Exchange Online에 호스트하는 장기적 공존 구성 또는 모든 사용자 사서함을 Exchange Online에 호스트하는 마이그레이션 경로를 제공합니다. 조직에서 하이브리드 배포를 활용하면 기존 온-프레미스 Microsoft Exchange 조직의 풍부한 기능과 관리 제어 능력을 클라우드로 확장할 수 있습니다. 하이브리드 배포 기능에는 온-프레미스와 Exchange Online 조직 간의 메시지 추적을 비롯해 보안 메일 전송, 공유 일정 약속 있음/없음 정보 등이 포함됩니다.
   
-하이브리드 배포에 대한 자세한 내용은 [Exchange Server 2013 하이브리드 배포](https://go.microsoft.com/fwlink/p/?LinkId=287035)를 참조하세요. 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 Exchange 하이브리드 배포 기능 구성](http://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409)을 참조하세요.
+하이브리드 배포에 대한 자세한 내용은 [Exchange Server 2013 하이브리드 배포](https://go.microsoft.com/fwlink/p/?LinkId=287035)를 참조하세요. 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 Exchange 하이브리드 배포 기능 구성](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409)을 참조하세요.
   
 > [!IMPORTANT]
 > 온-프레미스 Exchange 2003 조직은 반드시 적어도 하나의 Exchange 2010 클라이언트 액세스/사서함 서버를 설치하여 Exchange Online과 함께 하이브리드 배포를 구성해야 합니다. 온-프레미스 Exchange 2007 조직은 반드시 적어도 하나의 Exchange 2010 또는 Exchange 2013 클라이언트 액세스 및 사서함 서버를 설치하여 Exchange Online과 함께 하이브리드 배포를 구성해야 합니다. 온-프레미스 Exchange 2010 및 Exchange 2013 조직은 기본적으로 Exchange Online과 함께 하이브리드 배포를 지원합니다. 하이브리드 배포의 Exchange Server 호환성에 대한 자세한 내용은 [하이브리드 배포 필수 구성 요소](https://go.microsoft.com/fwlink/p/?LinkId=243541)를 참조하세요. > 온-프레미스 Exchange 조직은 반드시 하이브리드 배포에 맞게 조직을 구성해야 합니다. 관리자는 Exchange Server 배포 도우미 및 하이브리드 구성 마법사를 사용하여 하이브리드 배포를 구성하는 것이 가장 좋습니다. 자세한 내용은 [Exchange Server 배포 도우미](https://go.microsoft.com/fwlink/p/?LinkId=287036)를 참조하세요.

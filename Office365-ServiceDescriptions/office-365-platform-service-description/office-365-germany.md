@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와 차별화 된 옵션입니다. 독일어 데이터 센터에서 업계 최고의 생산성 서비스를 제공 하는 독일, 유럽 연합 (EU) 및 상주 (유럽 자유 무역 협회)의 요구를 해결 하는 데 도움이 됩니다. 독일어 법률에 따라 관리 되는 고유한 데이터 트러스티 모델을 통해 독일 및 엄격한 데이터 액세스 및 제어 조치를 사용 합니다.
-ms.openlocfilehash: 1c0882c54a90f2e5ec298c29fba5c6cfb4b00d2a
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 0c4efa563c856a804bf0cf3137c653e94f39dc87
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701690"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734266"
 ---
 # <a name="office-365-germany"></a>Office 365 독일
 
@@ -53,7 +53,7 @@ Deutsche Telekom의 독립적인 독일 회사이자 자회사인 T-Systems Inte
 
 ## <a name="system-requirements"></a>시스템 요구 사항
 
-Office 365에 대한 시스템 요구 사항을 보려면 [office.com](http://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 제품 사이트에서 [Office에 대한 시스템 요구 사항](http://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)을 참조하세요.
+Office 365에 대한 시스템 요구 사항을 보려면 [office.com](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 제품 사이트에서 [Office에 대한 시스템 요구 사항](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)을 참조하세요.
 
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Office &amp; 365 독일의 보안 및 준수 센터 가용성
 
@@ -186,14 +186,14 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 <sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/).<br/>
 <sup>5</sup> Reducing seats that were purchased with a term discount may be subject to an early termination fee. 이는 매달 한 번씩 지불 되는 구독에는 적용 되지 않습니다.<br/>
 <sup>6</sup> Office 365 독일 교육용 사용자는 Microsoft 365 관리 센터에서 라이선스를 변경할 수 없습니다.<br/>
-<sup>7</sup> Office 365 ProPlus office 2016과 같은 클라이언트 소프트웨어 응용 프로그램을 사용 하는 데 사용할 수 있는 권한 및 office 2013은 일부 Office 365 독일 계획에 포함 되어 있습니다. Client software applications run on an end user's device rather than in data centers in Germany. For purposes of your agreement with Microsoft, client software applications are not [German Online Services](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). 클라이언트 소프트웨어 응용 프로그램은 또한 최종 사용자가 독일어 온라인 서비스가 아닌 온라인 서비스에 액세스할 수 lry 수도 있습니다. German data residency commitments and access control by the German data trustee apply only to the German Online Services.<br/>
+<sup>7</sup> Office 365 ProPlus office 2016과 같은 클라이언트 소프트웨어 응용 프로그램을 사용 하는 데 사용할 수 있는 권한 및 office 2013은 일부 Office 365 독일 계획에 포함 되어 있습니다. Client software applications run on an end user's device rather than in data centers in Germany. For purposes of your agreement with Microsoft, client software applications are not [German Online Services](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). 클라이언트 소프트웨어 응용 프로그램은 또한 최종 사용자가 독일어 온라인 서비스가 아닌 온라인 서비스에 액세스할 수 lry 수도 있습니다. German data residency commitments and access control by the German data trustee apply only to the German Online Services.<br/>
 <sup>8</sup> [최신 인증은](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) Office 365 독일에서 사용 하도록 설정 해야 합니다.<br/>
 <sup>9</sup> Office 365 독일는 Office 365의 클라우드 보안 및 규정 준수 표준을 준수 합니다. Office 365 offers a comprehensive set of certifications, independently assessed by accredited auditors as part of SOC, ISO and audits. The certifications include ISO 27001/27002, 27017, 27018 and SOC 1 &amp; 2 certification. The additional data trustee controls in Office 365 Germany will be evaluated by independent assessors as part of our annual ISO and SOC audits.
 
 ## <a name="office-application-features"></a>Office 응용 프로그램 기능  
 
 > [!NOTE]
-> Office 365 Germany 계획에는 최종 사용자의 장치에서 설치 및 실행되는 Office 365 ProPlus, Office 2013\* 및 Office 2016과 같은 클라이언트 소프트웨어 응용 프로그램이 포함됩니다. 클라이언트 소프트웨어 응용 프로그램이 독일어 데이터 센터 에서만 독점적으로 작동 하는 것은 아니며, 최종 사용자가 [독일어 온라인 서비스가](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)아닌 온라인 서비스에 액세스할 수 있도록 합니다. Microsoft와의 계약을 위해 클라이언트 소프트웨어 응용 프로그램은 독일어 온라인 서비스가 아닙니다. 독일어 데이터 트러스티에 의한 액세스 제어 및 독일어 데이터 상주 약정은 독일어 온라인 서비스에만 적용됩니다.<br/> \*Office 365 Germany용 Office 2013을 사용하려면 [최신 인증이 사용되도록 설정되어야 합니다](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).
+> Office 365 Germany 계획에는 최종 사용자의 장치에서 설치 및 실행되는 Office 365 ProPlus, Office 2013\* 및 Office 2016과 같은 클라이언트 소프트웨어 응용 프로그램이 포함됩니다. 클라이언트 소프트웨어 응용 프로그램이 독일어 데이터 센터 에서만 독점적으로 작동 하는 것은 아니며, 최종 사용자가 [독일어 온라인 서비스가](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)아닌 온라인 서비스에 액세스할 수 있도록 합니다. Microsoft와의 계약을 위해 클라이언트 소프트웨어 응용 프로그램은 독일어 온라인 서비스가 아닙니다. 독일어 데이터 트러스티에 의한 액세스 제어 및 독일어 데이터 상주 약정은 독일어 온라인 서비스에만 적용됩니다.<br/> \*Office 365 Germany용 Office 2013을 사용하려면 [최신 인증이 사용되도록 설정되어야 합니다](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).
 
 다음 표를 사용하여 Office 365 Germany 계획 간의 기능을 비교해 볼 수 있습니다.
 
@@ -254,7 +254,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 <sup>2</sup> Office 2013을 사용하려면 [modern authentication be enabled](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).<br/>
 <sup>3</sup> Azure Information Protection은 포함 되어 있지 않지만 지원 되는 IRM 기능을 사용 하기 위해 별도의 추가 기능으로 구입할 수 있습니다.<br/>
 <sup>4</sup> Windows Server AD RMS는 온-프레미스 서버이며, 별도로 구입하여 지원되는 IRM 기능을 사용할 수 있습니다. <br/>
-<sup>5</sup> Office Professional Plus 2013 또는 독립 실행형 버전의 Excel 2013이 있는 경우 [Excel 2013용 파워 맵 미리 보기](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)를 다운로드하여 지원되지 않는 추가 기능으로 사용할 수 있습니다. <br/>
+<sup>5</sup> Office Professional Plus 2013 또는 독립 실행형 버전의 Excel 2013이 있는 경우 [Excel 2013용 파워 맵 미리 보기](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)를 다운로드하여 지원되지 않는 추가 기능으로 사용할 수 있습니다. <br/>
 <sup>6</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Germany Enterprise E3에는 고급 전화 통신, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 Skype 응용 프로그램이 포함됩니다. 비즈니스용 Skype 온라인 라이선스가 각 사용자에게 할당되어 있어야 합니다. Lync 기본 기능에 대 한 자세한 내용은 [Dektop 클라이언트 비교 표](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)를 참조 하십시오.<br/>
 <sup>7</sup> 일부 학교는 Office 365 ProPlus를 포함하는 Education Plus를 사용할 수 있으며, 학생, 교직원 및 직원은 최대 5대의 PC 또는 Mac 컴퓨터와 기타 모바일 장치(Windows 태블릿 및 iPad 포함)에 최신 버전의 Office를 설치할 수 있습니다. Enrollment for Education Solutions, Open Value Subscription Education Solutions 또는 학교 계약을 통해 교직원 및 직원에게 기관용 Office 라이선스를 허가한 학교는 Office 365 Education Plus를 이용할 수 있습니다. Access 및 Publisher는 PC에서만 사용할 수 있습니다. Mac용 OneNote는 Mac 앱 스토어에서 별도로 다운로드할 수 있습니다.<br/>
 <sup>8</sup> Office 2011 for Mac을 설치할 수 있으나 정품 인증을 받을 수 없습니다. <br/>
@@ -318,7 +318,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 > <sup>1</sup> Office 365 독일 계획에는 최종 사용자의 장치에서 설치 및 실행 되는 클라이언트 소프트웨어 응용 프로그램 (예: Office 365 ProPlus, office 2013 및 office 2016)이 포함 되어 있습니다. 클라이언트 소프트웨어 응용 프로그램은 독일어 데이터 센터에서 독점적으로 작동 하지 않으며 최종 사용자가 독일어 온라인 서비스가 아닌 온라인 서비스에 액세스할 수 있습니다. Microsoft와의 계약을 위해 클라이언트 소프트웨어 응용 프로그램은 독일어 온라인 서비스가 아닙니다. 독일어 데이터 트러스티에 의한 액세스 제어 및 독일어 데이터 상주 약정은 독일어 온라인 서비스에만 적용됩니다.<br/>
 <sup>2</sup> Office 2013을 사용하려면 [modern authentication be enabled](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).<br/>
 <sup>3</sup> 보관 및 규정 준수 기능은 이 Office 버전에서 지원되지만 Exchange Online 및 SharePoint Online 계획은 포함되어 있지 않으므로 별도 구입하거나 지원 가능한 온-프레미스 서버 동급의 제품과 함께 사용해야 합니다.<br/> <sup>4</sup> Azure Information Protection은 포함 되어 있지 않지만 지원 되는 IRM 기능을 사용 하기 위해 별도의 추가 기능으로 구입할 수 있습니다.<br/> <sup>5</sup> Windows Server AD RMS는 온-프레미스 서버이며, 별도로 구입하여 지원되는 IRM 기능을 사용할 수 있습니다.<br/>
-<sup>6</sup> Office Professional Plus 2013 또는 독립 실행형 버전의 Excel 2013이 있는 경우 [Excel 2013용 파워 맵 미리 보기](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)를 다운로드하여 지원되지 않는 추가 기능으로 사용할 수 있습니다.<br/>
+<sup>6</sup> Office Professional Plus 2013 또는 독립 실행형 버전의 Excel 2013이 있는 경우 [Excel 2013용 파워 맵 미리 보기](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)를 다운로드하여 지원되지 않는 추가 기능으로 사용할 수 있습니다.<br/>
 <sup>7</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 Skype 응용 프로그램이 포함됩니다. 비즈니스용 Skype 온라인 라이선스가 각 사용자에게 할당되어 있어야 합니다. Lync 기본 기능에 대 한 자세한 내용은 [데스크톱 클라이언트 비교 표](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)를 참조 하십시오.<br/>
 <sup>8</sup> Office 2011 for Mac을 설치할 수 있으나 정품 인증을 받을 수 없습니다.<br/>
 <sup>9</sup> Office 365 ProPlus는 사용자 전용 VDI (가상 데스크톱 인프라)에서 지원 됩니다. Office 365 ProPlus는 볼륨 라이선스 프로그램을 통해 구매한 경우만 RDS(원격 데스크톱 서비스)를 지원합니다.<br/>

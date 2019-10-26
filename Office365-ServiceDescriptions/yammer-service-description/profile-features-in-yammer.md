@@ -12,50 +12,43 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Yammer에서는 다음과 같은 프로필 기능을 사용할 수 있습니다.
-ms.openlocfilehash: e1462d97725dd2485021fbd7dc8d1b378b0c51fc
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 5c6acde9c620eb0f51263b121574266d67740b57
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777939"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726499"
 ---
 # <a name="profile-features-in-yammer"></a>Yammer의 프로필 기능
 
 Yammer에서는 다음과 같은 프로필 기능을 사용할 수 있습니다.
-  
-## <a name="user-profiles"></a>사용자 프로필
-<a name="bkmk_UserProfiles"> </a>
-
-사진을 업로드하고 자세한 연락처와 전문 지식을 나열합니다. 프로필에는 대화와 파일을 비롯한 모든 정보가 모여져 있습니다.
-  
+ 
 ## <a name="expertise"></a>전문 지식
-<a name="bkmk_Expertise"> </a>
 
-원하는 전문가를 찾기 위해 회사를 전체적으로 검색합니다. 전문 지식은 즉시 검색 가능하므로 요청 시 유용한 정보를 찾을 수 있습니다.
-  
-## <a name="member-directory"></a>구성원 디렉터리
-<a name="bkmk_MemberDirectory"> </a>
+필요한 전문가를 찾기 위해 조직 전체에 도달 합니다. 전문 지식은 즉시 검색 가능 하므로 요청 시 유용한 정보를 찾을 수 있습니다.
 
-구성원 디렉터리를 검색하여 회사 전반에 걸쳐 팀 구성원 및 동료를 찾아 볼 수 있습니다.
-  
-## <a name="org-chart"></a>조직 차트
-<a name="bkmk_OrgChart"> </a>
-
-관리자 및 보고서를 추가하여 동료와 함께 회사 조직 차트를 만듭니다. 조직 차트 정보는 프로필에 자동으로 나타납니다.
-  
-## <a name="praise"></a>칭찬
-<a name="bkmk_Praise"> </a>
-
-완벽하게 수행된 작업에 대해 인정하고 인정을 받습니다. 칭찬 탭의 프로필에는 성취도 및 배지가 표시됩니다.
-  
 ## <a name="leaderboards"></a>리더보드
-<a name="bkmk_Leaderboards"> </a>
 
 인맥 중 영향력 있는 동료를 식별합니다. 리더보드에는 메시지, 회신 메시지 및 링크된 메시지가 가장 많은 사람이 표시됩니다.
+
+## <a name="member-directory"></a>구성원 디렉터리
+
+구성원 디렉터리를 검색 하 여 조직 전체에서 팀과 동료 간의 사용자를 찾을 수 있습니다.
+  
+## <a name="org-chart"></a>조직도
+
+관리자 및 보고서를 추가 하 여 동료와 함께 조직도를 만들 수 있습니다. 조직도 정보는 프로필에 자동으로 표시 됩니다.
+  
+## <a name="praise"></a>칭찬
+
+완벽하게 수행된 작업에 대해 인정하고 인정을 받습니다. **칭찬** 탭의 프로필에는 과제 및 배지가 표시 됩니다.
+ 
+## <a name="user-profiles"></a>사용자 프로필
+
+사진을 업로드 하 고, 연락처 정보를 입력 하 고, 전문 지식을 나열 합니다. 프로필에는 대화와 파일을 비롯한 모든 정보가 모여져 있습니다.
   
 ## <a name="feature-availability"></a>기능 가용성
-<a name="bkmk_Leaderboards"> </a>
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션별로 기능 가용성을 확인하려면 [Yammer 서비스 설명](yammer-service-description.md)을 참조하세요.
+Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Yammer 서비스 설명을](yammer-service-description.md)참조 하세요.
   
 

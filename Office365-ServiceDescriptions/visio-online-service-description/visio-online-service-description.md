@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: 웹에서 Visio를 사용 하 여 웹에서 Visio 다이어그램을 보고, 편집 하 고, 공유할 수 있습니다. 기본 다이어그램으로 시작 하 여 계획 설명, 제안 만들기 또는 프로세스의 단계 순서 설명 같은 일반적인 아이디어를 표현 합니다. 일반적으로 사용 되는 다이어그램 형식 및 서식 있는 셰이프 집합을 사용 하 여 첫 번째 클래스 다이어그램을 간단 하 고 간편 하 게 만들 수 있습니다. 웹 사용자의 Visio는 다이어그램을 공유 하 고 SharePoint Online 또는 비즈니스용 OneDrive Online에 업로드 한 파일에 설명을 삽입 하 여 보고 공동 작업을 수행할 수 있습니다.
-ms.openlocfilehash: 65ee3eb301293ca50444184f50aaed9bc51d9f43
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+description: 웹에서 Visio를 사용 하 여 웹에서 Visio 다이어그램을 보고, 편집 하 고, 공유할 수 있습니다.
+ms.openlocfilehash: d56a6dfa84925c9bacaabeae8280923cdb14a909
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450302"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700240"
 ---
 # <a name="visio-for-the-web-service-description"></a>웹 서비스 설명에 대 한 Visio
 
-웹에서 Visio를 사용 하 여 웹에서 Visio 다이어그램을 보고, 편집 하 고, 공유할 수 있습니다. 기본 다이어그램으로 시작 하 여 계획 설명, 제안 만들기 또는 프로세스의 단계 순서 설명 같은 일반적인 아이디어를 표현 합니다. 일반적으로 사용 되는 다이어그램 형식 및 서식 있는 셰이프 집합을 사용 하 여 첫 번째 클래스 다이어그램을 간단 하 고 간편 하 게 만들 수 있습니다. 웹 사용자의 Visio는 다이어그램을 공유 하 고 SharePoint Online 또는 비즈니스용 OneDrive Online에 업로드 한 파일에 설명을 삽입 하 여 보고 공동 작업을 수행할 수 있습니다.
+웹에서 Visio를 사용 하 여 웹에서 Visio 다이어그램을 보고, 편집 하 고, 공유할 수 있습니다. 기본 다이어그램으로 시작 하 여 계획 설명, 제안 만들기 또는 프로세스의 단계 순서 설명 같은 일반적인 아이디어를 표현 합니다. 일반적으로 사용 되는 다이어그램 유형과 다양 한 셰이프 집합을 사용 하 여 첫 번째 클래스 다이어그램을 간단 하 고 간편 하 게 만들 수 있습니다. 웹 사용자의 Visio는 다이어그램을 공유 하 고 SharePoint Online 또는 비즈니스용 OneDrive Online에 업로드 한 파일에 설명을 삽입 하 여 보고 공동 작업을 수행할 수 있습니다.
   
 자세한 내용을 보고 시작 하려면 [Visio for the web](https://products.office.com/en-US/visio/visio-online)를 참조 하세요.
   
@@ -27,11 +27,11 @@ ms.locfileid: "36450302"
   
 ## <a name="feature-availability-and-comparison"></a>기능 가용성 및 비교
 
-다음 표에서는 기능이 풍부한 Visio 데스크톱 앱과 웹 기능 기능에 대 한 Visio를 비교 합니다. 표를 사용 하 여 Visio에서 웹에 사용할 수 있는 기능을 찾은 다음 기능 이름을 클릭 하 여 해당 기능의 작동 방식에 대 한 간략 한 설명을 읽습니다. 조직의 일부 사용자가 Visio 데스크톱 앱의 고급 기능을 필요로 하는 반면, 다른 사용자가 visio를 사용 하 여 visio 다이어그램을 보고 가볍게 편집 하기만 하면 되는 것을 알 수 있습니다. 
+다음 표에서는 기능이 풍부한 Visio 데스크톱 앱과 웹 기능 기능에 대 한 Visio를 비교 합니다. 표를 사용 하 여 Visio에서 웹에 사용할 수 있는 기능을 찾은 다음 기능 이름을 선택 하 여 해당 기능의 작동 방식에 대 한 간략 한 설명을 읽습니다. 조직의 일부 사용자가 Visio 데스크톱 앱의 고급 기능을 필요로 하는 반면, 다른 사용자가 visio를 사용 하 여 visio 다이어그램을 보고 가볍게 편집 하기만 하면 되는 것을 알 수 있습니다. 
   
 ||||
 |:-----|:-----|:-----|
-|**응용 프로그램 기능** <br/> |**Visio for web** <br/> |**Visio 데스크톱 앱** <br/> |
+|**응용 프로그램 기능** <br/> |**웹용 Visio** <br/> |**Visio 데스크톱 앱** <br/> |
 |[텍스트 및 도형에 다양 한 서식 적용](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |예  <br/> |예  <br/> |
 |[개체 정렬](visio-online.md#arrange-objects) <br/> |예  <br/> |예  <br/> |
 |[매시업 솔루션 빌드](visio-online.md#build-mashup-solutions) <br/> |예  <br/> |예  <br/> |
@@ -41,7 +41,7 @@ ms.locfileid: "36450302"
 |[SharePoint, 웹 또는 블로그 페이지에 다이어그램 포함](visio-online.md#embed-diagram-in-a-sharepoint-web-or-blog-page) <br/> |예  <br/> |아니요  <br/> |
 |[찾기](visio-online.md#find) <br/> |예  <br/> |예  <br/> |
 |[글꼴 서식](visio-online.md#font-formatting) <br/> |예  <br/> |예  <br/> |
-|[하이퍼링크](visio-online.md#hyperlinks) <sup>1</sup> <br/> |예<sup>3</sup> <br/> |예  <br/> |
+|[하이퍼링크](visio-online.md#hyperlinks)<sup>1</sup> <br/> |예<sup>3</sup> <br/> |예  <br/> |
 |[탐색](visio-online.md#navigation) <br/> |예  <br/> |예  <br/> |
 |[Office 추가 기능](visio-online.md#office-add-ins) <br/> |아니요  <br/> |지원  <br/> |
 |[오프 라인으로 보기](visio-online.md#offline-viewing) <br/> |아니요  <br/> |지원  <br/> |
@@ -49,7 +49,7 @@ ms.locfileid: "36450302"
 |[교정 도구](visio-online.md#proofing-tools) <br/> |아니요  <br/> |지원  <br/> |
 |[실시간 공동 작성](visio-online.md#real-time-co-authoring) <br/> |아니요  <br/> |예  <br/> |
 |[복사본 다른 이름으로 저장 또는 다운로드](visio-online.md#save-as-or-download-a-copy) <br/> |예  <br/> |예  <br/> |
-|[다이어그램 공유](visio-online.md#share-a-diagram) <sup>2</sup> <br/> |예  <br/> |예  <br/> |
+|[다이어그램 공유](visio-online.md#share-a-diagram)<sup>2</sup> <br/> |예  <br/> |예  <br/> |
 |[빠른](visio-online.md#smartart) <br/> |아니요  <br/> |지원  <br/> |
 |[표시](visio-online.md#tell-me) <br/> |아니요  <br/> |지원  <br/> |
 |[실행 취소 및 다시 실행](visio-online.md#undo-and-redo) <br/> |아니요  <br/> |지원  <br/> |

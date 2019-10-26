@@ -14,15 +14,15 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 089b3880-9094-4f18-8a56-d91915a2d2d9
 description: 비즈니스, 교육 및 정부 조직에 대 한 월별 구독 기반 서비스인 Office 365의 시스템 요구 사항에 대 한 자세한 내용은 office.com products site에서 Office의 시스템 요구 사항을 참조 하세요.
-ms.openlocfilehash: ec88fce805e8bb76924eadc54ceb1c6827def0c6
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 28f300fa3874b356105d33d00163b39c83c86cd1
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777289"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734106"
 ---
 # <a name="office-365-system-requirements"></a>Office 365 시스템 요구 사항
 
-비즈니스, 교육 및 정부 조직에 대 한 월별 구독 기반 서비스인 Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office.com](http://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409) products Site에서 [office의 시스템 요구 사항을](http://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 참조 하세요. 
+비즈니스, 교육 및 정부 조직에 대 한 월별 구독 기반 서비스인 Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office.com](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409) products Site에서 [office의 시스템 요구 사항을](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 참조 하세요. 
   
 

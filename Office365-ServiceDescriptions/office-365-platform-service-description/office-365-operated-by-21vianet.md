@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영 하는 Office 365는 중국의 안전 하 고 안정적 이며 확장 가능한 클라우드 서비스에 대 한 요구를 충족 하도록 설계 되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: ad4ffbd80396304f3c3e7a6155cb91cdd9bd4f3e
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 0d03633ddf45012c3e40d1c0548cb4c481164ef4
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701710"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734146"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -200,8 +200,8 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <sup>6</sup> 용어 할인을 사용 하 여 구매한 좌석을 초기 종결 수수료에 따라 줄일 수 있습니다. This is not applicable for subscriptions paid on a monthly basis.<br/>
 <sup>7</sup> Office 365 교육 계획은 Microsoft 365 관리 센터에서 라이선스 사용자 수를 변경 하는 것을 지원 하지 않습니다.<br/>
 <sup>8</sup> Microsoft Sway는 현재 특정 지역에 있는 고객에 게 제공 되지 않습니다. 8 2015 월로 더 이상 출시 되지 않는 일부 레거시 Office 365 계획에는 Microsoft Sway에 대 한 액세스 권한이 없을 수도 있습니다. <br/>
-<sup>9</sup> 21vianet에서 운영 하는 Office 365의 경우 [여기](http://www.21vbluecloud.com/office365/O365-SLA/)에서 서비스 수준 계약을 참조 하세요.<br/>
-<sup>10</sup> 21vianet에서 운영 하는 office 365의 경우, [office 365에 대 한](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/)21Vianet's 온라인 서비스 표준 계약을 참조 하세요.
+<sup>9</sup> 21vianet에서 운영 하는 Office 365의 경우 [여기](https://www.21vbluecloud.com/office365/O365-SLA/)에서 서비스 수준 계약을 참조 하세요.<br/>
+<sup>10</sup> 21vianet에서 운영 하는 office 365의 경우, [office 365에 대 한](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/)21Vianet's 온라인 서비스 표준 계약을 참조 하세요.
 <br/>
 <sup>11</sup> 중국 인터넷 준수 정책을 사용 하려면 공개 웹 사이트에 대 한 ICP (인터넷 콘텐츠 공급자) 번호를 얻어야 합니다. 자세한 내용은 해당 ICP 항목을 참조 하십시오. <br/>
 <sup>12</sup> 일부 콘텐츠는 21vianet에서 운영 하는 Office 365에 적용 되지 않을 수 있습니다.<br/>

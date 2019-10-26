@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 섹션에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다. Office 365 서비스 설명과 함께이 보조 섹션을 읽는 것이 좋습니다.
-ms.openlocfilehash: 05b8ccadd5fcd78b61c5fa1428c3370cff4e0e0b
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: e8256206cef71a58d0d2824f4cab0ec07ee2bb62
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595246"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734236"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -124,15 +124,15 @@ FastTrack 센터 프로세스에 대 한 구체적인 정보는 [여기](https:/
 
 Office 365 US 정부 고객은 공용 인터넷을 통해 연결 하는 대신 Azure 정부 Express 서비스를 사용 하 여 지원 되는 Office 365 서비스에 전용으로 연결할 수 있습니다.
   
-지원되는 공급자, 가격 책정 모델 등에 대한 자세한 내용은 [Azure Express 경로 정보](http://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409)를 참조하세요.
+지원되는 공급자, 가격 책정 모델 등에 대한 자세한 내용은 [Azure Express 경로 정보](https://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409)를 참조하세요.
   
-Azure Express경로에 대한 Office 365 지원 정보를 보려면 [Office 365용 Azure Express 경로](http://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409)를 참조하세요.
+Azure Express경로에 대한 Office 365 지원 정보를 보려면 [Office 365용 Azure Express 경로](https://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409)를 참조하세요.
   
 [이 서비스 설명 섹션을 사용 하는 방법](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="system-requirements"></a>시스템 요구 사항
 
-Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [office.com](http://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 제품 사이트에서 [Office에 대한 시스템 요구 사항](http://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)을 참조하세요. 
+Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [office.com](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 제품 사이트에서 [Office에 대한 시스템 요구 사항](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)을 참조하세요. 
   
 [이 서비스 설명 섹션을 사용 하는 방법](office-365-us-government.md#how-to-use-this-service-description-section)
   

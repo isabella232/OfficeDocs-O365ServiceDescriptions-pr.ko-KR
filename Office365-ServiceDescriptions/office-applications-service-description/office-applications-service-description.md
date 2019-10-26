@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365는 Word, Excel, PowerPoint 등 이미 익숙한 Office 데스크톱 응용 프로그램의 최신 버전을 제공 하는 구독 서비스입니다.
-ms.openlocfilehash: 3b01b4481b2f50ecaa2ff2928e53d6f5cbf25a29
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: f8655860d2741bbb84e19b8d42b64f791ab7f5bc
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595238"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734025"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 
@@ -29,7 +29,7 @@ Office 365는 클라우드 기반 서비스이지만 Office 응용 프로그램�
   
 Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다.
   
-계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)를 참조하세요.
+계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)를 참조하세요.
   
 ## <a name="feature-availability-across-office-365-plans"></a>Office 365 계획에서의 기능 가용성
 <a name="bkmk_Officefeaturesolutions"> </a>
@@ -96,7 +96,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 ><sup>1</sup> 보관 및 규정 준수 기능은 이 Office 버전에서 지원되지만 Exchange Online 및 SharePoint Online 계획은 포함되어 있지 않으므로 별도 구입하거나 지원 가능한 온-프레미스 서버 동급의 제품과 함께 사용해야 합니다.<br/>
 <sup>2</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용하려면 Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F1에 포함되어 있지 않은 Office365ProPlus를 구독해야 합니다.<br/>
 <sup>3</sup> Windows Server AD RMS는 지원되는 IRM 기능을 사용하기 위해 별도로 구입하여 관리해야 하는 온-프레미스 서버입니다.<br/>
-<sup>4</sup> Office Professional Plus 2013 또는 독립 실행형 버전의 Excel 2013이 있는 경우 [Excel 2013용 파워 맵 미리 보기](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)를 다운로드하여 지원되지 않는 추가 기능으로 사용할 수 있습니다.<br/> 
+<sup>4</sup> Office Professional Plus 2013 또는 독립 실행형 버전의 Excel 2013이 있는 경우 [Excel 2013용 파워 맵 미리 보기](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)를 다운로드하여 지원되지 않는 추가 기능으로 사용할 수 있습니다.<br/> 
 <sup>5</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 Skype 응용 프로그램이 포함됩니다. 비즈니스용 Skype 온라인 라이선스가 각 사용자에게 할당되어 있어야 합니다. 기능에 대 한 비교는 [Lync Server 2013에 대 한 데스크톱 클라이언트 비교 표](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)를 참조 하십시오.<br/> 
 <sup>6</sup> 일부 학교는 Office 365 ProPlus를 포함하는 Education Plus를 사용할 수 있으며, 학생, 교직원 및 직원은 최대 5대의 PC 또는 Mac 컴퓨터와 기타 모바일 장치(Windows 태블릿 및 iPad 포함)에 최신 버전의 Office를 설치할 수 있습니다. Enrollment for Education Solutions, Open Value Subscription Education Solutions 또는 학교 계약을 통해 교직원 및 직원에게 기관용 Office 라이선스를 허가한 학교는 Office 365 Education Plus를 이용할 수 있습니다. Access 및 Publisher는 PC에서만 사용할 수 있습니다. Mac용 OneNote는 Mac 앱 스토어에서 별도로 다운로드할 수 있습니다. <br/>
 <sup>7</sup> Office for Mac 2011을 설치할 수 있으 나 정품 인증을 받지 않습니다. <br/>

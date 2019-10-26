@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 이 항목에서는 Microsoft Exchange Online에 포함된 받는 사람 관련 기능에 대해 설명합니다. 설명에는 전자 메일, 연락처, 메일 그룹 및 달력/예약 기능이 포함됩니다.
-ms.openlocfilehash: c8f08e6d189c643e455c46c6703f9ea9b1038879
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 775d47e9a8db4e516f60bc98e9763f61becf5b70
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582134"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734206"
 ---
 # <a name="recipients"></a>받는 사람
 
 이 항목에서는 Microsoft Exchange Online에 포함된 받는 사람 관련 기능에 대해 설명합니다. 설명에는 전자 메일, 연락처, 메일 그룹 및 달력/예약 기능이 포함됩니다.
   
-## <a name="email"></a>메일
+## <a name="email"></a>전자 메일
 
 모든 Microsoft Exchange Online 구독자에게는 사서함이 제공되며, 회의실 등의 시설 리소스에 대한 일정 예약 및 다중 액세스를 통한 전자 메일 주소 공유를 위한 특수 사서함도 사용할 수 있습니다. 대부분의 사서함에는 최대 저장 용량 제한이 적용되며, 관리자는 허용 가능한 사서함 크기를 제어할 수 있습니다. 제한 용량에 가까워지거나 도달했을 경우 자동 알림 및 제한을 통해 사용자에게 경고합니다. Exchange Online에는 메시지 크기, 메시지 속도, 받는 사람 목록 제한 등 여러 유형의 메시지 제한도 있습니다. 이러한 모든 기능과 제한의 세부 정보는 아래에 나와 있습니다.
   
@@ -50,7 +50,7 @@ Exchange Online은 사용자가 다른 사람에게 자신의 전자 메일 및 
     
 - **다른 사람 이름으로 보내기** 대리인은 다른 사람의 사서함에서 사서함 소유자인 것처럼 메시지를 보낼 수 있습니다. 이 기능은 일반적으로 여러 직원이 각자의 Exchange Online 계정에서 전자 메일을 보내는 대신 공유 사서함에서 전자 메일 메시지를 보낼 때 사용됩니다. 
     
-액세스 권한 위임에 대한 자세한 내용은 [받은 사람의 권한 관리](https://technet.microsoft.com/en-us/library/jj919240%28v=exchg.160%29.aspx)를 참조하세요.
+액세스 권한 위임에 대한 자세한 내용은 [받은 사람의 권한 관리](https://technet.microsoft.com/library/jj919240%28v=exchg.160%29.aspx)를 참조하세요.
   
 ### <a name="inbox-rules"></a>받은 편지함 규칙
 
@@ -62,7 +62,7 @@ Exchange Online은 사용자가 다른 사람에게 자신의 전자 메일 및 
   
 ### <a name="connected-accounts"></a>연결된 계정
 
-연결 된 계정 기능을 사용 하면 Exchange Online 사용자가 외부 전자 메일 계정 (예: 개인 계정)을 Exchange Online의 내부 전자 메일 계정에 연결한 다음, 웹에서 Outlook을 사용 하 여 모든 메시지를 한 곳에서 상호 작용할 수 있습니다. 연결 된 계정은 웹에서 Outlook에 로그인 시 자동으로 동기화 합니다. 사용자는 웹에서 Outlook의 계정을 수동으로 동기화 할 수도 있습니다. 관리자는 [Exchange 관리 센터](http://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409)를 통해 특정 사용자 또는 모든 사용자에 대해이 기능을 사용 하거나 사용 하지 않도록 설정할 수 있습니다.
+연결 된 계정 기능을 사용 하면 Exchange Online 사용자가 외부 전자 메일 계정 (예: 개인 계정)을 Exchange Online의 내부 전자 메일 계정에 연결한 다음, 웹에서 Outlook을 사용 하 여 모든 메시지를 한 곳에서 상호 작용할 수 있습니다. 연결 된 계정은 웹에서 Outlook에 로그인 시 자동으로 동기화 합니다. 사용자는 웹에서 Outlook의 계정을 수동으로 동기화 할 수도 있습니다. 관리자는 [Exchange 관리 센터](https://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409)를 통해 특정 사용자 또는 모든 사용자에 대해이 기능을 사용 하거나 사용 하지 않도록 설정할 수 있습니다.
   
 ### <a name="inactive-mailboxes"></a>비활성 사서함
 
@@ -79,7 +79,7 @@ Exchange Online에서는 삭제된 사서함의 콘텐츠를 무기한 유지하
     
 - [원본 위치 유지 및 소송 보존](https://go.microsoft.com/fwlink/p/?LinkId=271746)
     
-- [원본 위치 eDiscovery](http://go.microsoft.com/fwlink/p/?LinkId=271747)
+- [원본 위치 eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=271747)
     
 ## <a name="contacts-and-distribution-groups"></a>연락처 및 메일 그룹
 
@@ -103,14 +103,14 @@ Exchange Online은 주소 목록 및 Gal의 사용자 지정을 지원 합니다
 
 메일 그룹(또는 메일 목록)은 회사에서 모든 사용자가 사용할 수 있는 사용자, 연락처, 다른 메일 그룹을 모아놓은 것입니다. 사용자가 메일 그룹 별칭에 전자 메일을 보내면 해당 그룹에 있는 모든 사람이 메시지를 받게 됩니다. 메일 그룹은 개인이 Outlook에 만든 개인 메일 그룹과 비슷하지만, 구성원 목록을 회사 전체에서 사용할 수 있다는 점만 다릅니다. 관리자는 Exchange 관리 센터에서 메일 그룹을 만듭니다. 이렇게 만든 그룹은 Exchange Online을 통해 온-프레미스 Active Directory에서 동기화할 수도 있습니다. Outlook의 GAL에 표시 됩니다. Exchange Online은 아래 설명된 기능을 비롯한 고급 메일 그룹 기능을 지원합니다.
   
-- **제한된 메일 그룹** 기본적으로 모든 사람은 모든 메일 그룹에 전자 메일을 보낼 수 있습니다. 관리자는 특정 개인만이 특정 그룹에 전자 메일을 보낼 수 있도록 권한을 변경하여 대형 메일 그룹의 부적절한 사용을 막는 등의 작업을 수행할 수 있습니다. 관리자는 또한 스팸 방지에 도움이 되도록 외부 소스가 전자 메일을 보내는 것을 차단할 수 있습니다. 디렉터리 동기화 도구를 사용하여 온-프레미스 Active Directory에서 동기화된 그룹의 경우, 제한의 특성이 클라우드에 자동으로 동기화됩니다. 자세한 내용은 [메일 그룹 관리](https://technet.microsoft.com/EN-US/library/mt577270%28v=exchg.160%29.aspx)를 참조하세요.
+- **제한된 메일 그룹** 기본적으로 모든 사람은 모든 메일 그룹에 전자 메일을 보낼 수 있습니다. 관리자는 특정 개인만이 특정 그룹에 전자 메일을 보낼 수 있도록 권한을 변경하여 대형 메일 그룹의 부적절한 사용을 막는 등의 작업을 수행할 수 있습니다. 관리자는 또한 스팸 방지에 도움이 되도록 외부 소스가 전자 메일을 보내는 것을 차단할 수 있습니다. 디렉터리 동기화 도구를 사용하여 온-프레미스 Active Directory에서 동기화된 그룹의 경우, 제한의 특성이 클라우드에 자동으로 동기화됩니다. 자세한 내용은 [메일 그룹 관리](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx)를 참조하세요.
     
-- **동적 메일 그룹** 동적 메일 목록 또는 쿼리 기반 메일 목록이라고도 하는 동적 메일 그룹은 해당 그룹에 메일을 보낼 때마다 산정됩니다. 이러한 산정은 관리자가 정의하는 필터 및 조건을 기준으로 합니다. 동적 메일 그룹은 원격 Windows Powershell을 통해 Exchange Online에서 관리됩니다. 동적 메일 그룹에 대한 자세한 내용은 [동적 메일 그룹 관리](https://technet.microsoft.com/EN-US/library/bb123722%28v=exchg.160%29.aspx)를 참조하세요.
+- **동적 메일 그룹** 동적 메일 목록 또는 쿼리 기반 메일 목록이라고도 하는 동적 메일 그룹은 해당 그룹에 메일을 보낼 때마다 산정됩니다. 이러한 산정은 관리자가 정의하는 필터 및 조건을 기준으로 합니다. 동적 메일 그룹은 원격 Windows Powershell을 통해 Exchange Online에서 관리됩니다. 동적 메일 그룹에 대한 자세한 내용은 [동적 메일 그룹 관리](https://technet.microsoft.com/library/bb123722%28v=exchg.160%29.aspx)를 참조하세요.
     
     > [!IMPORTANT]
     > Office 365 디렉터리 동기화 도구는 온-프레미스 Active Directory의 동적 메일 그룹을 무시하며, 이러한 동적 메일 그룹을 Exchange Online에 동기화하지 않습니다. 디렉터리 동기화 도구를 사용하는 조직은 온-프레미스에서 관리되는 일반적인 메일 그룹과 Exchange Online에서 관리되는 동적 메일 그룹을 구분할 수 있는 명명 규칙을 사용해야 합니다. 
   
-- **중재된 메일 그룹** 관리자는 중재자를 선택하여 메일 그룹으로 가는 메시지의 흐름을 조정할 수 있습니다. 중재된 메일 그룹을 사용하면 아무나 메일 그룹 별칭에 전자 메일을 보낼 수 있지만, 메시지가 해당 그룹의 구성원에게 전달되기 전에 먼저 중재자가 이를 검토하고 승인해야 합니다. 중재에 대한 자세한 내용은 [메일 그룹 관리](https://technet.microsoft.com/EN-US/library/mt577270%28v=exchg.160%29.aspx)의 메시지 승인 섹션을 참조하세요.
+- **중재된 메일 그룹** 관리자는 중재자를 선택하여 메일 그룹으로 가는 메시지의 흐름을 조정할 수 있습니다. 중재된 메일 그룹을 사용하면 아무나 메일 그룹 별칭에 전자 메일을 보낼 수 있지만, 메시지가 해당 그룹의 구성원에게 전달되기 전에 먼저 중재자가 이를 검토하고 승인해야 합니다. 중재에 대한 자세한 내용은 [메일 그룹 관리](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx)의 메시지 승인 섹션을 참조하세요.
     
 - **셀프 서비스 메일 그룹** 관리자는 사용자에게 웹 기반의 인터페이스에서 사용자만의 메일 그룹 구성원을 관리할 수 있는 기능을 제공할 수 있습니다. 사용자는 메일 그룹 만들기, 삭제, 참여 또는 나가기에 대한 권한이 주어집니다. 이러한 기능은 모든 Exchange Online 사용자에 대해 기본적으로 사용하도록 설정되어 있습니다. 관리자는 원할 경우 이 기능을 사용하지 않도록 설정하여 IT 부서에서만 메일 그룹을 관리하도록 할 수 있습니다. 관리자는 또한 명명 정책을 만들어 사용자가 만드는 메일 그룹의 이름을 표준화하고 관리할 수 있습니다. 예를 들어 메일 그룹이 만들어졌을 때 메일 그룹 이름에 특정 접두사 또는 접미사를 추가하거나, 그룹 이름에 특정 단어를 사용할 수 없도록 할 수 있습니다. 
     
@@ -121,7 +121,7 @@ Exchange Online은 주소 목록 및 Gal의 사용자 지정을 지원 합니다
 
 외부 연락처는 지정된 조직의 외부에서 작업하는 사람에 대한 정보를 기록한 것입니다. 외부 연락처는 개인이 Outlook에 만든 개인 연락처와 비슷하지만, 회사 전체에서 사용할 수 있다는 점만 다릅니다. 관리자는 Exchange 관리 센터 또는 원격 Windows PowerShell을 사용하여 외부 연락처를 만듭니다. 이렇게 만든 연락처는 Exchange Online을 통해 온-프레미스 Active Directory에서 동기화할 수도 있습니다. Outlook의 GAL에 표시 됩니다.
   
-외부 연락처에 대한 자세한 내용은 [Exchange Online에서 조직 관계 만들기](https://technet.microsoft.com/EN-US/library/jj916671%28v=exchg.150%29.aspx)를 참조하세요.
+외부 연락처에 대한 자세한 내용은 [Exchange Online에서 조직 관계 만들기](https://technet.microsoft.com/library/jj916671%28v=exchg.150%29.aspx)를 참조하세요.
   
 ## <a name="calendar-and-scheduling"></a>달력 및 일정
 
@@ -133,7 +133,7 @@ Exchange Online은 주소 목록 및 Gal의 사용자 지정을 지원 합니다
   
 리소스 사서함에 대한 자세한 내용은 다음을 참조하십시오.
   
-- [대화방 사서함 만들기 및 관리](http://go.microsoft.com/fwlink/?LinkId=717533&amp;clcid=0x409)
+- [대화방 사서함 만들기 및 관리](https://go.microsoft.com/fwlink/?LinkId=717533&amp;clcid=0x409)
     
 - [장비 사서함 관리](https://go.microsoft.com/fwlink/?LinkId=717534)
     

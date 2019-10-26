@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: BlackBerry® 스마트폰에서 Office 365의 전자 메일과 문서에 액세스할 수 있습니다.
-ms.openlocfilehash: 45271840070ede0ce00cbb85fe2d5fdca0429555
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: dd744fb5e90240c3f5c01f53ffe895e69c7b2d4e
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523473"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734166"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -38,11 +38,11 @@ BlackBerry® 인터넷 서비스 (BIS)를 사용 하 여 BlackBerry 7 및 이전
   
 대부분의 모바일 운영자에 게는 BIS 설정이 있습니다. 최종 사용자는 다음 기술 자료 문서의 지침을 사용 하 여 전자 메일, 일정 및 연락처 동기화를 구성 해야 합니다.
   
-- [KB31310 - BlackBerry 인터넷 서비스 및 Microsoft Office 365 서비스](http://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
+- [KB31310 - BlackBerry 인터넷 서비스 및 Microsoft Office 365 서비스](https://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
     
-- [KB00561 - BlackBerry 스마트폰에서 무선 일정 동기화를 구성하는 방법](http://go.microsoft.com/fwlink/?LinkID=826160&amp;clcid=0x409)
+- [KB00561 - BlackBerry 스마트폰에서 무선 일정 동기화를 구성하는 방법](https://go.microsoft.com/fwlink/?LinkID=826160&amp;clcid=0x409)
     
-- [KB22430 - BlackBerry 인터넷 서비스와의 무선 연락처 동기화를 사용하거나 사용하지 않도록 설정하는 방법](http://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
+- [KB22430 - BlackBerry 인터넷 서비스와의 무선 연락처 동기화를 사용하거나 사용하지 않도록 설정하는 방법](https://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
     
 > [!NOTE]
 > IMAP 또는 POP 연결을 사용 하 여 계정에 연결 하는 사용자는 무선 연결을 통해서만 전자 메일을 동기화 할 수 있습니다. BIS 사용자가 유선 연결을 사용 하 여 BlackBerry 스마트폰 및 해당 계정 간에 연락처 및 일정을 동기화 하는 방법에 대 한 자세한 내용은 BlackBerry 지원에 문의 하세요. 

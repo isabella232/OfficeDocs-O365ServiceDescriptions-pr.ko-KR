@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: 공인 Microsoft 파트너로서 Microsoft Office 365는 고객층을 확대하고 고객과의 지속적인 관계를 형성하기 위한 기회를 제공합니다. 월 단위 또는 연 단위로 비용을 지불하는 고객은 데이터 백업, 서버 하드웨어 및 서버 업데이트를 관리할 필요가 없는 클라우드 기반 서비스를 사용할 수 있습니다. 사용할 수 있는 서비스는 제공하도록 권한이 부여된 서비스 유형에 따라 다릅니다.
-ms.openlocfilehash: b6c3ae1f3701b4f44c51db138dde2d348d008f38
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 91efedcb7af728f3b93d80c937ab1a98d009a4db
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582114"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734085"
 ---
 # <a name="partners"></a>파트너
 
@@ -27,7 +27,7 @@ ms.locfileid: "37582114"
 공인 Microsoft 파트너로서 Microsoft Office 365는 고객층을 확대하고 고객과의 지속적인 관계를 형성하기 위한 기회를 제공합니다. 월 단위 또는 연 단위로 비용을 지불하는 고객은 데이터 백업, 서버 하드웨어 및 서버 업데이트를 관리할 필요가 없는 클라우드 기반 서비스를 사용할 수 있습니다. 사용할 수 있는 서비스는 제공하도록 권한이 부여된 서비스 유형에 따라 다릅니다.
   
 > [!NOTE]
-> 파트너 기능 사용 방법에 대한 자세한 내용은 [비즈니스 창출 및 Office 365 파트너 구독 관리](http://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409)를 참조하고 파트너 기능 프레젠테이션을 검토하세요. 파트너 기능에 대한 액세스 권한을 받으려면 [Microsoft Online Services 파트너 계약](https://go.microsoft.com/fwlink/p/?LinkId=285473)에 서명하여 Cloud Essentials에 가입할 수 있습니다. 
+> 파트너 기능 사용 방법에 대한 자세한 내용은 [비즈니스 창출 및 Office 365 파트너 구독 관리](https://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409)를 참조하고 파트너 기능 프레젠테이션을 검토하세요. 파트너 기능에 대한 액세스 권한을 받으려면 [Microsoft Online Services 파트너 계약](https://go.microsoft.com/fwlink/p/?LinkId=285473)에 서명하여 Cloud Essentials에 가입할 수 있습니다. 
   
 ## <a name="create-trial-invitations-and-purchase-orders"></a>평가판 초대 및 구매 주문 만들기
 
@@ -47,9 +47,9 @@ ms.locfileid: "37582114"
   
 ## <a name="connect-with-customers-and-other-partners-in-the-office-365-marketplace"></a>Office 365 마켓플레이스에서 고객 및 다른 파트너와 교류
 
-Office 365 마켓플레이스는 고객에게 파트너 서비스와 전문 분야를 찾을 수 있는 기회를 제공합니다. 자세한 내용은 [마켓플레이스에 등록](http://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409)을 참조하십시오.
+Office 365 마켓플레이스는 고객에게 파트너 서비스와 전문 분야를 찾을 수 있는 기회를 제공합니다. 자세한 내용은 [마켓플레이스에 등록](https://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409)을 참조하십시오.
   
-Microsoft 파트너 네트워크는 파트너의 요구 사항을 처리하기 위한 곳입니다. 네트워크에 합류하거나 Microsoft의 파트너 정책을 보려면 [Microsoft 파트너 네트워크](http://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409)를 참조하십시오.
+Microsoft 파트너 네트워크는 파트너의 요구 사항을 처리하기 위한 곳입니다. 네트워크에 합류하거나 Microsoft의 파트너 정책을 보려면 [Microsoft 파트너 네트워크](https://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409)를 참조하십시오.
   
 ## <a name="feature-availability"></a>기능 가용성
 

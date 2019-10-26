@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Microsoft Office 365의 관리자는 조직에서 Office 365 서비스를 사용 하는 방법을 보여 주는 보고서를 볼 수 있습니다. 이러한 보고서를 사용하면 문제를 확인하고 데이터를 필터링하며 데이터를 Microsoft Excel에 다운로드할 수 있습니다. Office 365 보고 웹 서비스를 사용하여 자체 보고서를 만들 수도 있습니다. Exchange Online 및 EOP(Exchange Online Protection) 관리자는 Office 365의 메일 보호 보고서를 사용하여 맬웨어, 스팸 및 규칙 감지에 대한 데이터 보기를 수행할 수 있습니다.
-ms.openlocfilehash: 3cc3423998b975a0bd5aaa61de48359ec29ca8aa
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 05219812609c4dbaa51756ed24d1bad2e9fc4c28
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582084"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734065"
 ---
 # <a name="reports"></a>보고서
 
 Microsoft Office 365의 관리자는 조직에서 Office 365 서비스를 사용 하는 방법을 보여 주는 보고서를 볼 수 있습니다. 이러한 보고서를 사용하면 문제를 확인하고 데이터를 필터링하며 데이터를 Microsoft Excel에 다운로드할 수 있습니다. Office 365 보고 웹 서비스를 사용하여 자체 보고서를 만들 수도 있습니다. Exchange Online 및 EOP(Exchange Online Protection) 관리자는 [Office 365의 메일 보호 보고서를 사용하여 맬웨어, 스팸 및 규칙 감지에 대한 데이터 보기](https://go.microsoft.com/fwlink/p/?LinkId=401102)를 수행할 수 있습니다.
   
-자세한 내용은 [Office 365에서 서비스 사용 현황에 대한 보고서 보기 및 다운로드](https://go.microsoft.com/fwlink/p/?LinkID=270182)를 참조하십시오. 21Vianet에서 운영하는 Office 365의 경우 [21Vianet에서 운영하는 Office 365용 보고서 보기 및 다운로드](http://go.microsoft.com/fwlink/?LinkID=733348&amp;clcid=0x409)를 참조하세요.
+자세한 내용은 [Office 365에서 서비스 사용 현황에 대한 보고서 보기 및 다운로드](https://go.microsoft.com/fwlink/p/?LinkID=270182)를 참조하십시오. 21Vianet에서 운영하는 Office 365의 경우 [21Vianet에서 운영하는 Office 365용 보고서 보기 및 다운로드](https://go.microsoft.com/fwlink/?LinkID=733348&amp;clcid=0x409)를 참조하세요.
   
 ## <a name="feature-availability"></a>기능 가용성
 
