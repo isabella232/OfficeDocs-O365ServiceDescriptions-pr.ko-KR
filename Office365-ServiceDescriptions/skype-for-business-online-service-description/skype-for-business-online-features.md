@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 관리자 인 경우 비즈니스용 Skype Online 설정에서 비즈니스용 Skype Online 기능을 설정 하는 방법에 대 한 자세한 지침을 확인할 수 있습니다.
-ms.openlocfilehash: b149dff807a32beced9bc5358435075229acda57
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 15574e9afbb1b635a96fd659b6a79a0211b6fc5a
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726084"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733799"
 ---
 # <a name="skype-for-business-online-features"></a>비즈니스용 Skype Online 기능
 
@@ -113,11 +113,11 @@ Microsoft는 모든 비즈니스용 Skype Online 데이터 센터를 직접 제�
 
 오디오 회의는 하나 이상의 참가자가 전화기를 사용 하 여 오디오 부분에 전화를 거는 모든 회의입니다. 전화를 사용 하 여 모임에 액세스 하는 기능은 이동 중이거나 모바일 장치 또는 PC를 사용 하 여 모임에 참석할 수 없는 사용자에 게 유용 합니다. 인터넷 연결이 제한되거나 모임이 오디오 전용인 경우와 같은 다른 시나리오에서는 전화기를 사용하는 것이 더 나을 수도 있습니다.
   
-오디오 회의를 사용 하면 조직의 사용자가 전화 접속 전화 번호를 포함 하는 모임을 호스팅하거나 만들 수 있습니다. 그런 다음 발신자는 이러한 전화 번호를 사용 하 여 휴대폰 (모임에 전화를 거는 사용자는 음성 메시지, 공유 데스크톱 또는 모임에서 공유 되는 파일)만 사용 하 여 모임에 전화를 걸 수 있습니다. 모임을 예약 하거나 잠재 고객을 계획 하는 사용자에 대해서만 전화 접속 회의를 설정 해야 합니다. 이끌이가 모임을 잠근 경우가 아니면 전화 접속 번호 및 전화 회의 ID를 가진 사용자는 누구나 모임에 참가할 수 있습니다. 자세한 내용은 audio 회의 [시작](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) 및 오디오 [회의에 사용할 수 있는 전화 접속 번호](http://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)를 참조 하세요.
+오디오 회의를 사용 하면 조직의 사용자가 전화 접속 전화 번호를 포함 하는 모임을 호스팅하거나 만들 수 있습니다. 그런 다음 발신자는 이러한 전화 번호를 사용 하 여 휴대폰 (모임에 전화를 거는 사용자는 음성 메시지, 공유 데스크톱 또는 모임에서 공유 되는 파일)만 사용 하 여 모임에 전화를 걸 수 있습니다. 모임을 예약 하거나 잠재 고객을 계획 하는 사용자에 대해서만 전화 접속 회의를 설정 해야 합니다. 이끌이가 모임을 잠근 경우가 아니면 전화 접속 번호 및 전화 회의 ID를 가진 사용자는 누구나 모임에 참가할 수 있습니다. 자세한 내용은 audio 회의 [시작](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) 및 오디오 [회의에 사용할 수 있는 전화 접속 번호](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)를 참조 하세요.
   
 Office 365에서는 전화 접속 회의 공급자로 Office 365을 사용 하거나, 타사 전화 접속 회의 공급자 (오디오 회의 공급자 또는 ACP 라고도 함)를 사용 하 여 전화 걸기 회의를 사용 하도록 설정할 수 있습니다.
   
-일부 국가 또는 지역에서는 오디오 회의를 사용할 수 없습니다. 오디오 회의를 구매할 수 있는 국가 또는 지역 목록은 [어디에서 음성 회의를 받을 수 있나요?](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409)를 참조 하세요.
+일부 국가 또는 지역에서는 오디오 회의를 사용할 수 없습니다. 오디오 회의를 구매할 수 있는 국가 또는 지역 목록은 [어디에서 음성 회의를 받을 수 있나요?](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409)를 참조 하세요.
   
 ## <a name="calling-plans-in-office-365"></a>Office 365의 통화 플랜
 

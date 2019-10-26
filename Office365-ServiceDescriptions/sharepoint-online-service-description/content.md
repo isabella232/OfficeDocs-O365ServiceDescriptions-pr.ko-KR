@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음의 콘텐츠 기능은 모든 사용자들이 ECM(엔터프라이즈 콘텐츠 관리)을 쉽게 사용할 수 있게 도와 줍니다. 콘텐츠는 기존의 콘텐츠 관리, 소셜 기능 및 강력한 검색 기능을 모두 결합합니다.
-ms.openlocfilehash: 76a4520caa6e630d064f94b1e45a8d68e777c73b
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5316256e83c7b2e142aee55023c43a8f6b91d29c
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726265"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733959"
 ---
 # <a name="content"></a>콘텐츠
 
@@ -172,7 +172,7 @@ SharePoint 사용자는 삭제된 콘텐츠가 저장되는 휴지통을 사용�
     
 SharePoint Designer를 통해 적용한 사이트 사용자 지정 내용은 휴지통에 의해 캡처되지 않습니다. 
   
-자세한 내용은 [SharePoint 사이트 모음의 휴지통 관리](http://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409)를 참조하세요.
+자세한 내용은 [SharePoint 사이트 모음의 휴지통 관리](https://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409)를 참조하세요.
   
 ## <a name="search-web-parts"></a>검색 웹 파트
 

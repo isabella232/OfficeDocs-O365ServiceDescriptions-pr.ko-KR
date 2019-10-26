@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer는 최고의, 보안 및 사설 엔터프라이즈 소셜 네트워크입니다. Yammer를 통해 직원들은 손쉽게 공동 작업을 수행하고 더욱 신속하게 의사 결정하고 비즈니스 과제를 담당하는 팀으로 자가 조직화할 수 있기 때문에 더욱 강력한 생산성을 갖추고 성과를 올릴 수 있습니다. Yammer는 비즈니스 제휴 및 민첩성을 자연스럽게 유도하면서 주기 시간을 줄이고 직원 간의 공동 작업을 진행하고 고객과 파트너와의 관계를 향상시킬 수 있는 새로운 작업 방식입니다.
-ms.openlocfilehash: ee9aebc28f97756a5291ab8ad5f292d8b4659d18
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 37fa62a9a4538da8fe37e0b3a6daedd29db5c27c
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726455"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733579"
 ---
 # <a name="yammer-service-description"></a>Yammer 서비스 설명
 
@@ -25,7 +25,7 @@ Yammer는 최고의, 보안 및 사설 엔터프라이즈 소셜 네트워크입
   
 Yammer가 포함된 Office 365 계획 목록은 [Office 365 서비스 제품군 및 계획](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)을 참조하세요.
   
-계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)를 참조하세요.
+계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)를 참조하세요.
   
 > [!TIP]
 > Office 365 서비스 설명의 페이지를 내보내고 저장하며 인쇄할 수 있습니다. [여러 페이지 내보내기](https://go.microsoft.com/fwlink/?LinkId=403349) 방법을 알아보세요. 
@@ -114,7 +114,7 @@ Yammer는 Office 365의 일부분이 며 [office 365 변경 관리 정책을](ht
 |[세션 관리](administration-and-security-features-in-yammer.md#session-management) <br/> |아니요  <br/> |예  <br/> |
 |[논리적 방화벽](administration-and-security-features-in-yammer.md#logical-firewall) <br/> |아니요  <br/> |예  <br/> |
 |[사용 정책](administration-and-security-features-in-yammer.md#usage-policy) <br/> |아니요  <br/> |예  <br/> |
-|[FastTrack 센터](http://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |아니요  <br/> |예  <br/> |
+|[FastTrack 센터](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |아니요  <br/> |예  <br/> |
 |[고객 지원](support-features-in-yammer.md#customer-support) <br/> |예  <br/> |예  <br/> |
 |[관리자 지원](support-features-in-yammer.md#administrator-support) <br/> |아니요  <br/> |예  <br/> |
 |[관리 전용 콘텐츠 모드](administration-and-security-features-in-yammer.md#admin-private-content-mode) <br/> |아니요  <br/> |예  <br/> |
