@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 각 구독 계획에 대해 제공되는 OneDrive 저장 공간에 알아봅니다.
-ms.openlocfilehash: 8eefabe547db81d758a98e5799729790340724a7
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 34ed849f989c4711b40b469539b48ac091b297b0
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582204"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734005"
 ---
 # <a name="onedrive-for-business-service-description"></a>비즈니스용 OneDrive 서비스 설명
 
-OneDrive는 조직에서 사용 허가되지 않은 사용자에게 제공된 클라우드의 온라인 저장소 공간입니다. 이를 사용하여 작업 파일을 보호하고 여러 장치에서 여기에 액세스할 수 있습니다. OneDrive를 사용하면 파일을 공유하고 문서에 대해 공동 작업하고 파일을 컴퓨터와 동기화할 수 있습니다. [OneDrive 기능 및 가격에 대해 자세히 알아보기](https://go.microsoft.com/fwlink/?linkid=850345) 
+OneDrive는 조직에서 사용 허가되지 않은 사용자에게 제공된 클라우드의 온라인 저장소 공간입니다. 이를 사용하여 작업 파일을 보호하고 여러 장치에서 여기에 액세스할 수 있습니다. OneDrive를 사용하면 파일을 공유하고 문서에 대해 공동 작업하고 파일을 컴퓨터와 동기화할 수 있습니다. [OneDrive 기능 및 가격에 대해 자세히 알아보기](https://go.microsoft.com/fwlink/?linkid=850345).
   
 OneDrive는 Microsoft 365 및 Office 365 요금제에서 SharePoint Online 요금제에 포함되고 독립 실행형 요금제로 구매할 수도 있습니다. 
     
@@ -108,4 +108,3 @@ OneDrive 저장소는 사용자별로 프로비저닝되며, 개별 사용자의
   
 개별 사용자에 대해 무제한 클라우드 저장소를 포함하는 요금제의 경우, 저장소 이외 기능에 제한이 적용될 수도 있습니다. 
   
-
