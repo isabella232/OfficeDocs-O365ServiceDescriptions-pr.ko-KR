@@ -12,41 +12,36 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: Yammer에서는 다음과 같은 문서 공동 작업 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 4fa20ae0209c0b70ad26790f12e70394f45a5d6c
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 5576d34b81f517d00d120fae761a5fdb1a0c6b7c
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777969"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726371"
 ---
-# <a name="document-collaboration-features-in-yammer"></a><span data-ttu-id="0beb0-103">Yammer의 문서 공동 작업 기능</span><span class="sxs-lookup"><span data-stu-id="0beb0-103">Document Collaboration Features in Yammer</span></span>
+# <a name="document-collaboration-features-in-yammer"></a><span data-ttu-id="16e12-103">Yammer의 문서 공동 작업 기능</span><span class="sxs-lookup"><span data-stu-id="16e12-103">Document collaboration features in Yammer</span></span>
 
-<span data-ttu-id="0beb0-104">Yammer에서는 다음과 같은 문서 공동 작업 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="0beb0-104">The following document collaboration features are available in Yammer.</span></span>
+<span data-ttu-id="16e12-104">Yammer에서는 다음과 같은 문서 공동 작업 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="16e12-104">The following document collaboration features are available in Yammer.</span></span>
   
-## <a name="files"></a><span data-ttu-id="0beb0-105">파일</span><span class="sxs-lookup"><span data-stu-id="0beb0-105">Files</span></span>
-<span data-ttu-id="0beb0-106"><a name="bkmk_Files"> </a></span><span class="sxs-lookup"><span data-stu-id="0beb0-106"></span></span>
+## <a name="document-collaboration-features-across-yammer-plans"></a><span data-ttu-id="16e12-105">Yammer 계획별 문서 공동 작업 기능</span><span class="sxs-lookup"><span data-stu-id="16e12-105">Document collaboration features across Yammer plans</span></span>
 
-<span data-ttu-id="0beb0-p101">팀 간에 Microsoft Office 문서, PDF, 이미지 및 비디오를 공유하고 피드백을 즉시 받아 봅니다. 새 버전을 업로드하여 모든 사람이 최신 초안을 볼 수 있도록 합니다. 이전 버전은 언제든지 액세스할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="0beb0-p101">Share Microsoft Office documents, PDFs, images and videos across teams and get feedback right away. Upload new versions to ensure everyone sees the latest draft and access older versions at any time.</span></span>
+<span data-ttu-id="16e12-p101">조직의 요구 사항에 가장 잘 맞는 Yammer 계획을 찾는 데 도움이 필요하십니까? 다음 표를 참조하여 각 계획에서 사용 가능한 문서 공동 작업 기능을 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="16e12-p101">Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which document collaboration features are available in each plan.</span></span>
   
-## <a name="recent-changes"></a><span data-ttu-id="0beb0-109">최근 변경 내용</span><span class="sxs-lookup"><span data-stu-id="0beb0-109">Recent Changes</span></span>
-<span data-ttu-id="0beb0-110"><a name="bkmk_RecentChanges"> </a></span><span class="sxs-lookup"><span data-stu-id="0beb0-110"></span></span>
-
-<span data-ttu-id="0beb0-p102">최근 변경 내용 창에서는 문서에 대해 각 공동 작업자가 편집한 모든 내용을 한 눈에 확인할 수 있습니다. 언제든지 이전 버전으로 되돌릴 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="0beb0-p102">At a glance, view all the edits made to a document by each collaborator in the Recent Changes pane. Revert to a previous version at any time.</span></span>
-  
-## <a name="official-content"></a><span data-ttu-id="0beb0-113">공식 콘텐츠</span><span class="sxs-lookup"><span data-stu-id="0beb0-113">Official Content</span></span>
-<span data-ttu-id="0beb0-114"><a name="bkmk_OfficialContent"> </a></span><span class="sxs-lookup"><span data-stu-id="0beb0-114"></span></span>
-
-<span data-ttu-id="0beb0-115">파일을 공식 및 읽기 전용으로 표시 합니다.</span><span class="sxs-lookup"><span data-stu-id="0beb0-115">Mark files as official and read-only.</span></span> <span data-ttu-id="0beb0-116">공식 콘텐츠는 손쉽게 액세스할 수 있도록 검색 결과 및 콘텐츠 디렉터리의 상단에 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="0beb0-116">Official Content appears higher in search results and content directories for easy access.</span></span>
-  
-## <a name="document-collaboration-features-across-yammer-plans"></a><span data-ttu-id="0beb0-117">Yammer 계획별 문서 공동 작업 기능</span><span class="sxs-lookup"><span data-stu-id="0beb0-117">Document collaboration features across Yammer plans</span></span>
-<span data-ttu-id="0beb0-118"><a name="bkmk_OfficialContent"> </a></span><span class="sxs-lookup"><span data-stu-id="0beb0-118"></span></span>
-
-<span data-ttu-id="0beb0-p104">조직의 요구 사항에 가장 잘 맞는 Yammer 계획을 찾는 데 도움이 필요하십니까? 다음 표를 참조하여 각 계획에서 사용 가능한 문서 공동 작업 기능을 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="0beb0-p104">Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which document collaboration features are available in each plan.</span></span>
-  
-|<span data-ttu-id="0beb0-121">**기능**</span><span class="sxs-lookup"><span data-stu-id="0beb0-121">**Feature**</span></span>|<span data-ttu-id="0beb0-122">**Yammer Basic**</span><span class="sxs-lookup"><span data-stu-id="0beb0-122">**Yammer Basic**</span></span>|<span data-ttu-id="0beb0-123">**Yammer Enterprise**</span><span class="sxs-lookup"><span data-stu-id="0beb0-123">**Yammer Enterprise**</span></span>|
+|<span data-ttu-id="16e12-108">**기능**</span><span class="sxs-lookup"><span data-stu-id="16e12-108">**Feature**</span></span>|<span data-ttu-id="16e12-109">**Yammer Basic**</span><span class="sxs-lookup"><span data-stu-id="16e12-109">**Yammer Basic**</span></span>|<span data-ttu-id="16e12-110">**Yammer Enterprise**</span><span class="sxs-lookup"><span data-stu-id="16e12-110">**Yammer Enterprise**</span></span>|
 |:-----|:-----|:-----|
-|[<span data-ttu-id="0beb0-124">파일</span><span class="sxs-lookup"><span data-stu-id="0beb0-124">Files</span></span>](document-collaboration-features-in-yammer.md#files) <br/> |<span data-ttu-id="0beb0-125">예</span><span class="sxs-lookup"><span data-stu-id="0beb0-125">Yes</span></span>  <br/> |<span data-ttu-id="0beb0-126">예</span><span class="sxs-lookup"><span data-stu-id="0beb0-126">Yes</span></span>  <br/> |
-|[<span data-ttu-id="0beb0-127">최근 변경 내용</span><span class="sxs-lookup"><span data-stu-id="0beb0-127">Recent Changes</span></span>](document-collaboration-features-in-yammer.md#recent-changes) <br/> |<span data-ttu-id="0beb0-128">예</span><span class="sxs-lookup"><span data-stu-id="0beb0-128">Yes</span></span>  <br/> |<span data-ttu-id="0beb0-129">예</span><span class="sxs-lookup"><span data-stu-id="0beb0-129">Yes</span></span>  <br/> |
-|[<span data-ttu-id="0beb0-130">공식 콘텐츠</span><span class="sxs-lookup"><span data-stu-id="0beb0-130">Official Content</span></span>](document-collaboration-features-in-yammer.md#official-content) <br/> |<span data-ttu-id="0beb0-131">아니요</span><span class="sxs-lookup"><span data-stu-id="0beb0-131">No</span></span>  <br/> |<span data-ttu-id="0beb0-132">예</span><span class="sxs-lookup"><span data-stu-id="0beb0-132">Yes</span></span>  <br/> |
-   
+|[<span data-ttu-id="16e12-111">파일</span><span class="sxs-lookup"><span data-stu-id="16e12-111">Files</span></span>](document-collaboration-features-in-yammer.md#files) <br/> |<span data-ttu-id="16e12-112">예</span><span class="sxs-lookup"><span data-stu-id="16e12-112">Yes</span></span>  <br/> |<span data-ttu-id="16e12-113">예</span><span class="sxs-lookup"><span data-stu-id="16e12-113">Yes</span></span>  <br/> |
+|[<span data-ttu-id="16e12-114">공식 콘텐츠</span><span class="sxs-lookup"><span data-stu-id="16e12-114">Official content</span></span>](document-collaboration-features-in-yammer.md#official-content) <br/> |<span data-ttu-id="16e12-115">아니요</span><span class="sxs-lookup"><span data-stu-id="16e12-115">No</span></span>  <br/> |<span data-ttu-id="16e12-116">예</span><span class="sxs-lookup"><span data-stu-id="16e12-116">Yes</span></span>  <br/> |
+|[<span data-ttu-id="16e12-117">최근 변경 내용</span><span class="sxs-lookup"><span data-stu-id="16e12-117">Recent changes</span></span>](document-collaboration-features-in-yammer.md#recent-changes) <br/> |<span data-ttu-id="16e12-118">예</span><span class="sxs-lookup"><span data-stu-id="16e12-118">Yes</span></span>  <br/> |<span data-ttu-id="16e12-119">예</span><span class="sxs-lookup"><span data-stu-id="16e12-119">Yes</span></span>  <br/> |
 
+## <a name="files"></a><span data-ttu-id="16e12-120">파일</span><span class="sxs-lookup"><span data-stu-id="16e12-120">Files</span></span>
+
+<span data-ttu-id="16e12-121">팀 간에 Microsoft Office 문서, Pdf, 이미지 및 동영상을 공유 하 고 바로 의견을 받습니다.</span><span class="sxs-lookup"><span data-stu-id="16e12-121">Share Microsoft Office documents, PDFs, images, and videos across teams and get feedback right away.</span></span> <span data-ttu-id="16e12-122">새 버전을 업로드 하 여 모든 사용자가 최신 초안을 확인 하 고 언제 든 지 이전 버전에 액세스할 수 있도록 합니다.</span><span class="sxs-lookup"><span data-stu-id="16e12-122">Upload new versions to ensure everyone sees the latest draft and access older versions at any time.</span></span>
+  
+## <a name="official-content"></a><span data-ttu-id="16e12-123">공식 콘텐츠</span><span class="sxs-lookup"><span data-stu-id="16e12-123">Official content</span></span>
+
+<span data-ttu-id="16e12-124">파일을 공식 및 읽기 전용으로 표시 합니다.</span><span class="sxs-lookup"><span data-stu-id="16e12-124">Mark files as official and read-only.</span></span> <span data-ttu-id="16e12-125">공식 콘텐츠는 쉽게 액세스할 수 있도록 검색 결과 및 콘텐츠 디렉터리에서 더 위쪽에 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="16e12-125">Official content appears higher in search results and content directories for easy access.</span></span>
+
+## <a name="recent-changes"></a><span data-ttu-id="16e12-126">최근 변경 내용</span><span class="sxs-lookup"><span data-stu-id="16e12-126">Recent changes</span></span>
+
+<span data-ttu-id="16e12-127">**최근 변경 내용** 창에서 각 협력자 별로 문서에 대해 수행한 모든 편집 내용을 한눈에 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="16e12-127">At a glance, view all the edits made to a document by each collaborator in the **Recent Changes** pane.</span></span> <span data-ttu-id="16e12-128">언제든지 이전 버전으로 되돌릴 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="16e12-128">Revert to a previous version at any time.</span></span>
+  
