@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365는 Word, Excel, PowerPoint 등 이미 익숙한 Office 데스크톱 응용 프로그램의 최신 버전을 제공 하는 구독 서비스입니다.
-ms.openlocfilehash: f8655860d2741bbb84e19b8d42b64f791ab7f5bc
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 619b8704f0c7e55f3a18adf33c9ef056bad13926
+ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734025"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37765629"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 
@@ -32,11 +32,10 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)를 참조하세요.
   
 ## <a name="feature-availability-across-office-365-plans"></a>Office 365 계획에서의 기능 가용성
-<a name="bkmk_Officefeaturesolutions"> </a>
 
 다음 표를 사용하여 Office 365 계획 및 Microsoft Office 2013 및 Office 2016의 볼륨 라이선스 버전에서 사용할 수 있는 기능을 비교해 보세요.
   
-비즈니스용 Office 365 요금제 중 일부는 구독에 대해 구입할 수 있는 추가 기능을 제공합니다. 추가 기능은 구독에 대한 추가 기능을 제공합니다. 자세한 내용은 [비즈니스용 Office 365 추가 기능 구입 또는 편집](https://support.office.com/en-us/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6)을 참조하세요.
+비즈니스용 Office 365 요금제 중 일부는 구독에 대해 구입할 수 있는 추가 기능을 제공합니다. 추가 기능은 구독에 대한 추가 기능을 제공합니다. 자세한 내용은 [비즈니스용 Office 365 추가 기능 구입 또는 편집](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)을 참조하세요.
 
 |||||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -80,7 +79,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |클라이언트 응용 프로그램에 대한 오프라인 지원  <br/> |예  <br/> |예  <br/>|예  <br/>  |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |지원 <br/> |
 |Excel용 파워 맵  <br/> |<sup>4</sup> 없음 <br/> |예  <br/>|예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |아니요 <br/> |
 |Power Pivot for Excel  <br/> |예  <br/> |예  <br/>|예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |지원 <br/> |
-|Excel용 파워 쿼리  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |아니요 <br/> |
+|Excel용 파워 쿼리  <br/> |<sup>15</sup> 없음  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |아니요 <br/> |
 |Power View for Excel  <br/> |예  <br/> |예  <br/>|예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |아니요 <br/> |
 |로밍 설정  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요 <br/> |
 |공유 컴퓨터 활성화  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |지원 <br/> |
@@ -90,7 +89,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |Volume activation (KMS/MAK)  <br/> |예  <br/> |예  <br/> |예  <br/>|<sup>9</sup> 없음 <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요 <br> |
    
 > [!NOTE]
-><sup>+</sup>Office 365 또는 Office 2019을 설치 하면 기본적으로 Windows 10 용 OneNote가 제공 됩니다. 자세한 내용은 [Office 2019의 OneNote에 대 한 질문과 대답](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)을 참조 하십시오.<br/>
+><sup>+</sup>Office 365 또는 Office 2019을 설치 하면 기본적으로 Windows 10 용 OneNote가 제공 됩니다. 자세한 내용은 [Office 2019의 OneNote에 대 한 질문과 대답](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)을 참조 하십시오.<br/>
 ><sup>++</sup>OneNote 앱은 SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365의 전자 필기장에 액세스할 수 있습니다. <br/>
 ><sup>+++</sup>BHO 지원은 Internet Explorer 용 확장 기술입니다. <br/>
 ><sup>1</sup> 보관 및 규정 준수 기능은 이 Office 버전에서 지원되지만 Exchange Online 및 SharePoint Online 계획은 포함되어 있지 않으므로 별도 구입하거나 지원 가능한 온-프레미스 서버 동급의 제품과 함께 사용해야 합니다.<br/>
@@ -107,8 +106,9 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 <sup>12</sup> Infopath 2013은 여전히 지원 되며 Office Professional Plus 2016 설치에 포함 되어 있지만 office 2016에 대 한 새 버전은 없습니다.<br/> 
 <sup>13</sup> 기본 편집 기능만 지원 합니다.<br/> 
 <sup>14</sup> 통합 화면이 10.1 인치 이하의 장치로 제한 됩니다.<br/> 
+<sup>15</sup> 파워 쿼리는 무료 추가 기능이 며 여기에서 다운로드할 수 있습니다. [파워 쿼리 추가 기능을 다운로드](https://www.microsoft.com/download/details.aspx?id=39379)합니다. 사용 하도록 설정 되 면 리본 메뉴의 파워 쿼리 탭에서 파워 쿼리 기능을 사용할 수 있습니다.
+
 ## <a name="office-application-availability-in-office-for-mac-in-office-365-plans"></a>Office 365 계획의 Office for Mac에서의 Office 응용 프로그램 가용성
-<a name="bkmk_Officefeaturesolutions"> </a>
 
 ||||
 |:-----|:-----|:-----|
@@ -123,6 +123,6 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |[비즈니스용 Skype](office-applications.md#skype-for-business) <br/> |예  <br/> |예  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |아니요  <br/> |아니요  <br/> |
    
-> <sup>1</sup> mac에 대 한 Office 2016에는 Mac OS X 10.10 이상이 필요 합니다. Outlook for Mac을 통해 Exchange에 연결되어 있는 고객은 Microsoft Exchange Server 2010 서비스 팩 2 이상에 연결되어 있어야 합니다. 자세한 내용은 [Office의 시스템 요구 사항을](https://products.office.com/en-US/office-system-requirements)참조 하세요.<br/> 
-<sup>2</sup> 앱 스토어에서 별도로 다운로드하여 사용할 수 있습니다. 자세한 내용은 [OneNote for Mac](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/)을 참조하세요.<br/> 
-<sup>3</sup> Office for Mac 2011을 설치할 수 있으 나 정품 인증을 받지 않습니다. 
+> <sup>1</sup> mac에 대 한 Office 2016에는 Mac OS X 10.10 이상이 필요 합니다. Outlook for Mac을 통해 Exchange에 연결되어 있는 고객은 Microsoft Exchange Server 2010 서비스 팩 2 이상에 연결되어 있어야 합니다. 자세한 내용은 [Office의 시스템 요구 사항을](https://products.office.com/en-US/office-system-requirements)참조 하세요.<br/>
+<sup>2</sup> 앱 스토어에서 별도로 다운로드하여 사용할 수 있습니다. 자세한 내용은 [OneNote for Mac](https://www.microsoft.com/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/)을 참조하세요.<br/> 
+<sup>3</sup> Office for Mac 2011을 설치할 수 있으 나 정품 인증을 받지 않습니다.

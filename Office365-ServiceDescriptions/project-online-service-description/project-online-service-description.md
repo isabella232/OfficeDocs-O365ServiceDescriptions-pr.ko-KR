@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을 위한 유연한 온라인 솔루션입니다. Office 365를 통해 제공되는 Project Online은 거의 모든 위치의 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획하고 우선 순위를 정하고 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: f061f7fb43d9f6283d64cb14672da8af7945ca4f
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: d5c66b7567a47675480030a308dd280ee44a0fef
+ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700250"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37765639"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project Service 설명
 
@@ -33,16 +33,13 @@ Microsoft Project에서는 프로젝트 및 작업 관리에 대 한 조직의 �
 
 이 문서는 각 프로젝트 구독에서 제공 되는 응용 프로그램과 각 응용 프로그램에서 제공 하는 기능을 이해 하는 데 도움이 됩니다.
 
-> [!NOTE]
-> 2019 년 10 월 29 일 Project Online Professional 및 Project Online Premium 구독의 이름은 각각 프로젝트 계획 3 및 프로젝트 계획 5로 변경 됩니다.
-
 ### <a name="project-for-the-web"></a>웹 프로젝트
 
 웹 프로젝트는 클라우드 기반 작업 및 프로젝트 관리를 위한 Microsoft의 최신 제품입니다. 웹 프로젝트에서는 대부분의 요구 사항과 역할을 충족 하기 위한 간단한 강력한 작업 관리 기능을 제공 합니다. 프로젝트 관리자 및 팀 구성원은 Project를 사용 하 여 웹을 통해 모든 규모의 작업을 계획 하 고 관리할 수 있습니다.
 
 웹에 대 한 Project는 Microsoft Power Platform을 기반으로 합니다. 이 전원 플랫폼은 PowerApps, Microsoft Flow, Power BI 및 일반 데이터 서비스 (CD)로 구성 됩니다. 웹 데이터에 대 한 프로젝트는 CD에 저장 됩니다. 
 
-웹 프로젝트는 Project Online Professional 및 Project Online Premium의 두 가지 구독에서 사용할 수 있습니다. [웹 기능에 대 한 프로젝트](#project-for-the-web-features) 섹션에 나열 된 기능은 웹 데이터 저장소에 대 한 프로젝트의 데이터와 상호 작용 합니다.
+웹 프로젝트는 세 가지 구독, 즉 프로젝트 계획 1, 프로젝트 계획 3 및 프로젝트 계획 5를 통해 제공 됩니다. [웹 기능에 대 한 프로젝트](#project-for-the-web-features) 섹션에 나열 된 기능은 웹 데이터 저장소에 대 한 프로젝트의 데이터와 상호 작용 합니다.
 
 ### <a name="project-online"></a>Project Online
  
@@ -50,9 +47,9 @@ Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을
 
 Project Online은 SharePoint 플랫폼을 기반으로 하며 데이터를 SharePoint 데이터 저장소에 저장 합니다.
 
-Project Online은 Project Online Professional 및 Project Online Premium 이라는 두 가지 구독을 통해 사용할 수 있습니다. [Project online 기능](#project-online-features) 섹션에 나열 된 기능은 Project online SharePoint 데이터 저장소의 데이터와 상호 작용 합니다.
+Project Online은 두 가지 구독, 즉 프로젝트 계획 3 및 프로젝트 계획 5를 통해 제공 됩니다. [Project online 기능](#project-online-features) 섹션에 나열 된 기능은 Project online SharePoint 데이터 저장소의 데이터와 상호 작용 합니다.
 
-Project online에 대 한 팀 구성원 기능은 [Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3) 구독을 통해 제공 됩니다. Project Online Essentials는 Project Online Professional 또는 Project Online Premium 구독이 있는 고객을 위한 팀 구성원 *추가 기능* 구독입니다. 이를 통해 팀 구성원은 Project Online에서 관리 되는 프로젝트에 대 한 작업 및 시간 업데이트를 수행 하는 웹 인터페이스를 제공 합니다. 
+Project online에 대 한 팀 구성원 기능은 Project Online Essentials 구독을 통해 제공 됩니다. Project Online Essentials는 프로젝트 계획 3 또는 project 계획 5 구독이 있는 고객을 위한 팀 구성원 *추가 기능* 구독입니다. 이를 통해 팀 구성원은 Project Online에서 관리 되는 프로젝트에 대 한 작업 및 시간 업데이트를 수행 하는 웹 인터페이스를 제공 합니다.
 
 Project Online Essentials를 사용 하는 팀 구성원은 다음과 같은 Project Online 기능을 수행할 수 있습니다.
 
@@ -65,7 +62,7 @@ Project Online Essentials에는 웹 프로젝트에 대 한 프로젝트가 포�
 
 ### <a name="project-online-desktop-client"></a>Project Online 데스크톱 클라이언트
 
-Microsoft Project Online 데스크톱 클라이언트는 자동화 된 일정, 프로젝트 자원 관리 및 기본 제공 보고 기능을 지 원하는 프로젝트 관리 프로그램입니다. Project Online 데스크톱 클라이언트는 독립 실행형 응용 프로그램으로 사용 하거나 Project Online에 연결할 수 있습니다. Project Online 데스크톱 클라이언트는 project online 데스크톱 클라이언트의 구독 버전 이며 Project Online Professional 및 Project Online Premium 구독에서 사용할 수 있습니다.
+Microsoft Project Online 데스크톱 클라이언트는 자동화 된 일정, 프로젝트 자원 관리 및 기본 제공 보고 기능을 지 원하는 프로젝트 관리 프로그램입니다. Project Online 데스크톱 클라이언트는 독립 실행형 응용 프로그램으로 사용 하거나 Project Online에 연결할 수 있습니다. Project Online 데스크톱 클라이언트는 project Online 데스크톱 클라이언트의 구독 버전 이며, 프로젝트 계획 3 및 Project 계획 5 구독에서 사용할 수 있습니다.
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>Project 및 Project Online을 함께 사용
 
@@ -79,23 +76,23 @@ Microsoft Project Online 데스크톱 클라이언트는 자동화 된 일정, �
 
 ## <a name="microsoft-project-subscriptions"></a>Microsoft Project 구독
 
-Microsoft Project는 조직의 요구 사항을 가장 잘 충족 하기 위해 두 가지 서로 다른 구독을 통해 사용할 수 있습니다. 다양 한 구독에서 기능을 비교 하려면 [응용 프로그램 및 구독 별 기능 가용성](#feature-availability-across-applications-and-subscriptions)을 참조 하십시오.
+Microsoft Project는 조직의 요구 사항을 가장 잘 충족 하기 위해 세 가지 다른 구독을 통해 제공 됩니다. 이러한 구독은 프로젝트 계획 1, 프로젝트 계획 3 및 프로젝트 계획 5입니다. 다양 한 구독에서 기능을 비교 하려면 [응용 프로그램 및 구독 별 기능 가용성](#feature-availability-across-applications-and-subscriptions)을 참조 하십시오.
 
-|제품 | Project Online Professional | Project Online Premium |
-|--------|-----------------------------|------------------------|
-|웹 프로젝트 |**x x** |**x x**|
-|Project Online |**x x**|**x x x**|
-|Project Online 데스크톱 클라이언트 |**좌표**|**좌표**|
+|제품 | 요금제 1 | 계획 3 | 계획 5 |
+|--------|-----------------------------|------------------------|------------------------|
+|웹 프로젝트 |**좌표**  | **x x** | **x x** |
+|Project Online | |**x x**| **x x x** |
+|Project Online 데스크톱 클라이언트 | |**좌표**|**좌표**|
 
-위 표에서 검사 횟수 (**x**)는 요금제에서 제공 하는 일반적인 기능 수준을 나타냅니다. 예를 들어 project online의 경우 project online Premium은 Project Online Professional 보다 많은 기능을 제공 합니다.
+위 표에서 검사 횟수 (**x**)는 요금제에서 제공 하는 일반적인 기능 수준을 나타냅니다. 예를 들어 Project Online의 경우 계획 5는 더 많은 기능을 제공 하 고 계획 3을 합니다.
 
 ## <a name="feature-availability-across-applications-and-subscriptions"></a>응용 프로그램 및 구독에서의 기능 가용성
 
 ### <a name="project-for-the-web-features"></a>웹 기능 용 프로젝트
 
-이 섹션에 나와 있는 기능은 웹 데이터 저장소에 대 한 프로젝트의 데이터와 상호 작용 합니다. 이러한 모든 기능은 Project Online Professional 및 Project Online Premium에서 모두 사용할 수 있습니다.
+이 섹션에 나와 있는 기능은 웹 데이터 저장소에 대 한 프로젝트의 데이터와 상호 작용 합니다. 이러한 모든 기능은 프로젝트 계획 1, 프로젝트 계획 3 및 프로젝트 계획 5에서는 모든 Microsoft Project 구독에서 사용할 수 있습니다.
 
-|기능 | 설명 |
+|기능 | Description |
 |--------|-------------|
 |**프로젝트, 작업 및 시간 관리**||
 |보드 보기 | 기본 및 사용자 지정 작업 보드를 사용 하 여 워크플로 및 상태 모니터링을 개선 하기 위해 프로젝트 작업을 시각적으로 추적 합니다.|
@@ -110,7 +107,7 @@ Microsoft Project는 조직의 요구 사항을 가장 잘 충족 하기 위해 
 |Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업을 수행 합니다. <sup>1</sup>|
 |**리소스 및 프로그램 관리**||
 |프로젝트 팀 설치 | 구성원을 추가 및 제거 하 고 작업 달력을 설정 하 여 프로젝트 팀을 관리 합니다.|
-|로드맵 | Microsoft Project Online, Microsoft Project for web 및 Azure 보드용 프로젝트 간에 시각적, 대화형 로드맵를 작성 합니다. <sup>2</sup>|
+|로드맵 | Microsoft Project Online, Microsoft Project for web 및 Azure 보드용 프로젝트 간에 시각적, 대화형 로드맵를 작성 합니다. <sup>2</sup> 프로젝트 계획 1을 사용 하 여 로드맵에 대 한 읽기 전용 액세스 권한을 갖습니다. 프로젝트 계획 3 또는 프로젝트 계획 5를 사용 하 여 로드맵를 만들 수도 있습니다. |
 |**보고**<sup>3</sup>||
 |기본 보고 | 미리 작성 된 보고서를 사용 하 여 프로젝트, 프로그램, 포트폴리오 및 자원 데이터를 이해 합니다.|
 |사용자 지정 보고서 | 기본 보고서를 기반으로 사용자 지정 보고서를 작성 하거나 처음부터 사용 하 여 조직에서 중요 한 데이터를 이해 합니다.|
@@ -131,7 +128,7 @@ Microsoft Project는 조직의 요구 사항을 가장 잘 충족 하기 위해 
 
 이 섹션에 나와 있는 기능은 Project Online SharePoint 데이터 저장소의 데이터와 상호 작용 합니다.
 
-|기능 | 설명 | Project Online Professional | Project Online Premium |
+|기능 | Description | 프로젝트 계획 3 | 프로젝트 계획 5 |
 |--------|-------------|-----------------------------|------------------------|
 |**프로젝트, 작업 및 시간 관리**||||
 |알림 및 미리 알림 | Outlook 및 Microsoft 팀의 미리 알림과 함께 중요 한 예정 작업 및 프로젝트 행사 일정을 유지 합니다. <sup>1</sup>| 예 | 예 |
@@ -196,16 +193,16 @@ Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업�
 <sup>1</sup> Office 또는 Microsoft 365 상업용 구독을 사용 해야 합니다.</br>
 <sup>2</sup> Azure 보드를 별도로 취득 했습니다.</br>
 <sup>3</sup> Power BI를 사용 하 여 웹 및 project Online 용 프로젝트에 대 한 보고를 사용할 수 있습니다. 보고서를 보고 편집 하 고 만들기 위해서는 Power BI Pro 구독이 필요 합니다. Microsoft는 미리 작성 된 Power BI 보고서 집합을 제공 합니다. 사용자는 Power BI를 사용 하 여 이러한 보고서를 사용자 지정 하거나 추가 보고서를 작성할 수 있습니다.</br> 
-<sup>4</sup> 웹 데이터에 대 한 프로젝트에 액세스 하는 사용자 지정 powerapps 모바일 응용 프로그램을 작성 하려면 PowerApps 구독 및 Project online Professional 또는 Project online Premium 구독이 필요 합니다.</br>
-<sup>5</sup> 비즈니스 프로세스를 웹 데이터에 대 한 project를 사용 하 여 microsoft 흐름과 통합 하면 microsoft flow 구독 및 Project online Professional 또는 Project online Premium 구독이 필요 합니다.</br>
-<sup>6</sup> 외부 사용자에 대 한 Project Online 라이선스는 내부 사용자의 경우와 동일한 정책을 따릅니다. Project Online 사이트에서의 모든 상호 작용에는 Project Online 구독이 필요 합니다.</br>
-<sup>7</sup> Project Online Professional 구독을 사용 하는 사용자는 리소스 계약 요청을 제출할 수 있습니다. 자원 계약 요청을 검토 하거나, 수행 하거나, 승인할 수 없습니다.</br>
-<sup>8</sup> Project Online Premium 구독을 사용 하는 사용자는 리소스 계약 요청을 검토 하 고, 수행 하 고, 승인할 수 있습니다.</br>
+<sup>4</sup> 웹 데이터에 대 한 프로젝트에 액세스 하는 사용자 지정 powerapps 모바일 응용 프로그램을 작성 하려면 PowerApps 구독 및 프로젝트 계획 3 또는 프로젝트 계획 5 구독이 필요 합니다.</br>
+<sup>5</sup> 비즈니스 프로세스를 웹 데이터를 위한 Project와 함께 자동화 하 고 통합 하려면 microsoft flow 구독 및 프로젝트 계획 3 또는 프로젝트 계획 5 구독이 필요 합니다.</br>
+<sup>6</sup> 외부 사용자에 대 한 Project Online 라이선스는 내부 사용자의 경우와 동일한 정책을 따릅니다. Project Online 사이트의 모든 상호 작용에는 프로젝트 계획 3 또는 프로젝트 계획 5 구독이 필요 합니다.</br>
+<sup>7</sup> 프로젝트 계획 3 또는 프로젝트 계획 5 구독을 사용 하는 사용자는 리소스 계약 요청을 제출할 수 있습니다. 자원 계약 요청을 검토 하거나, 수행 하거나, 승인할 수 없습니다.</br>
+<sup>8</sup> 프로젝트 계획 5 구독을 사용 하는 사용자는 리소스 계약 요청을 검토 하 고, 수행 하 고, 승인할 수 있습니다.</br>
 <sup>9</sup> Active Directory에는 별도의 구독이 필요 합니다. </br>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online 데스크톱 클라이언트 기능
 
-|기능 | 설명 |
+|기능 | Description |
 |--------|-------------|
 |**프로젝트 및 작업 관리**||
 |기준 | 프로젝트 초기 계획을 설정 하 여 이전의 성능에 대 한 현재 성과를 모니터링 합니다. |
@@ -252,13 +249,14 @@ Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업�
 
 ### <a name="licensing-considerations"></a>라이선스 고려 사항
 
-- Project Online 사이트에서의 모든 상호 작용에는 Project Online 구독이 필요 합니다.
-- 마지막 Project Online Professional 또는 Project Online Premium 구독이 만료 되 면 120 일 후에 웹 및 Project Online 인스턴스에 대 한 프로젝트가 삭제 됩니다.
+- Project Online 사이트의 모든 상호 작용에는 프로젝트 계획 3 또는 프로젝트 계획 5 구독이 필요 합니다.
+- 마지막 프로젝트 계획 1, 프로젝트 계획 3 또는 프로젝트 계획 5 구독이 만료 되 면 120 일 후에 웹 인스턴스에 대 한 프로젝트가 삭제 됩니다.
+- 마지막 프로젝트 계획 3 또는 프로젝트 계획 5 구독이 만료 되 면 120 일 후에 Project Online 인스턴스가 삭제 됩니다.
 - Project for web 및 Project Online 평가판 구독의 경우 평가판 인스턴스는 평가판 기간이 끝난 후 30 일이 지나면 삭제 됩니다.
 
 ### <a name="use-of-sharepoint-online"></a>SharePoint Online 사용
 
-Project Online에서는 Project Online의 일부로 프로 비전 되는 SharePoint Online을 사용 해야 합니다. Project Online Professional 또는 Premium에서 제공 하는 SharePoint Online 기능에 대 한 권한은 Project Online을 지원 하기 위해 데이터를 저장 하 고 액세스 하는 것으로 제한 됩니다.
+Project Online에서는 Project Online의 일부로 프로 비전 되는 SharePoint Online을 사용 해야 합니다. Project 요금제 3 또는 Project 계획 5 구독에서 제공 하는 SharePoint Online 기능에 대 한 권한은 Project Online을 지원 하기 위해 데이터를 저장 및 액세스 하는 것으로 제한 됩니다.
 
 ### <a name="project-roadmap-and-microsoft-flow"></a>프로젝트 로드맵 및 Microsoft Flow
 
