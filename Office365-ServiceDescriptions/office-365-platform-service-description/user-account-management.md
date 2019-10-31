@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365에서는 사용자 만들기, 관리 및 인증을 위해 다음과 같은 방법을 지원 합니다.
-ms.openlocfilehash: bd6e701c8ff4c699d305bfcde8a68e1867dd0bb2
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: b3a63d244c7a7993b6e5a9e120ae1bbe03074239
+ms.sourcegitcommit: d771dd300ab9b4bf51a8868143f77973dad58ea9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631657"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890057"
 ---
 # <a name="user-account-management"></a>사용자 계정 관리
 
@@ -64,9 +64,9 @@ Office 365의 도메인에 대한 자세한 내용은 [도메인](domains.md) �
 
 SharePoint Online으로 만들어진 익명 액세스에 대한 인터넷 사이트의 경우를 제외하고, 사용자는 Office 365 서비스에 액세스할 때 반드시 인증 절차를 거쳐야 합니다. 
   
-- **최신 인증** 최신 인증은 여러 플랫폼의 Office 클라이언트 앱에 대해 ADAL(Active Directory 인증 라이브러리) 기반 로그인을 제공합니다. 이를 통해 MFA(다단계 인증), Office 클라이언트 응용 프로그램이 있는 SAML 기반 타사 ID 공급자, 스마트 카드 및 인증서 기반 인증과 같은 로그인 기능을 사용할 수 있습니다. 또한 Microsoft Outlook이 없어도 기본 인증 프로토콜을 사용할 수 있습니다. Office 응용 프로그램의 최신 인증 가용성을 비롯한 자세한 내용은 [최신 인증이 Office 2013 및 Office 2016 클라이언트 앱에 작동하는 방식](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016) 및 [Office 클라이언트에서 Office 365 최신 인증 사용](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016)을 참조하세요.
+- **최신 인증** 최신 인증은 여러 플랫폼의 Office 클라이언트 앱에 대해 ADAL(Active Directory 인증 라이브러리) 기반 로그인을 제공합니다. 이를 통해 MFA(다단계 인증), Office 클라이언트 응용 프로그램이 있는 SAML 기반 타사 ID 공급자, 스마트 카드 및 인증서 기반 인증과 같은 로그인 기능을 사용할 수 있습니다. 또한 Microsoft Outlook이 없어도 기본 인증 프로토콜을 사용할 수 있습니다. Office 응용 프로그램 전반의 최신 인증을 사용할 때의 자세한 내용은 [office 2013 및 office 2016 클라이언트 앱에 대 한 최신 인증이 작동 하는 방법을](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016)참조 하세요.
     
-    Exchange Online의 경우 기본적으로 최신 인증이 사용되도록 설정되어 있지 않습니다. 최신 인증을 사용하도록 설정하는 방법에 대한 자세한 내용은 [Exchange Online에서 최신 인증 사용](https://docs.microsoft.com/Exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)을 참조하세요.
+    Exchange Online에 대 한 최신 인증은 기본적으로 설정 됩니다. 이 기능을 설정 하거나 해제 하는 방법을 알아보려면 [Exchange Online에서 최신 인증 사용](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)을 참조 하세요.
     
 - **클라우드 ID 인증** 클라우드 ID를 가진 사용자는 기존의 시도/응답을 통한 인증 과정을 거칩니다. 웹 브라우저는 Office 365 로그인 서비스로 리디렉션되며, 여기서 회사 또는 학교 계정에 대한 사용자 이름과 암호를 입력합니다. 로그인 서비스는 자격 증명을 인증하고 웹 브라우저가 요청된 서비스를 게시하고 사용자를 로그인하는 서비스 토큰을 생성합니다. 
     
