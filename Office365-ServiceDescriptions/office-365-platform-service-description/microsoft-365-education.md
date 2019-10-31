@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Microsoft 365 및 Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다.
-ms.openlocfilehash: a10f8c563481b00b76fceec7499a3bf01a7006a3
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 9fa0a7676df034deb61fb30971a7d1924854ca36
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595256"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890404"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -106,7 +106,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 > <sup>8</sup> Intune이 포함 됩니다. <br/>
 > <sup>9</sup> Exchange, SharePoint 및 비즈니스용 Skype에 대 한 서버 및 cal이 포함 됩니다. <br/>
 > <sup>10</sup> ecal 또는 Core CAL: 구입한 A3 버전 (A5)에 따라 ecal 권한이 포함 됩니다. <br/>
-> <sup>11</sup> Azure active directory에 대 한 자세한 내용은 [Active directory 란?](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis)를 참조 하십시오. <br/>
+> <sup>11</sup> Azure active directory에 대 한 자세한 내용은 [Active directory 란?](https://docs.microsoft.com/azure/active-directory/active-directory-whatis)를 참조 하십시오. <br/>
 > <sup>12</sup> Office Pro Plus는 보호를 적용 하 고 Outlook 데스크톱에서 제한 된 전자 메일을 보내기 위해 필요 합니다. 
   
 

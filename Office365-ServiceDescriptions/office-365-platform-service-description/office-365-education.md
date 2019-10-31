@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군을 microsoft Exchange Online, Microsoft SharePoint Online, Office를 비롯 한 클라우드 기반 Microsoft&mdash;의 차세대 통신 및 공동 작업 서비스와 결합 하 여 web 및 Microsoft 비즈니스용 Skype Online&mdash;을 사용 하 여 사용자가 인터넷에서 어디서 나 생산성을 유지 하는 데 도움을 받을 수 있습니다.
-ms.openlocfilehash: 480521a4b2497fa515a4e47eac93312fae9adefa
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 522b0a6b383ae74b21ae07ce1578ce0218ae54cc
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701400"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890444"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -191,7 +191,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 
 ## <a name="office-365-security-amp-compliance-center-features"></a>Office 365 보안 &amp; 및 준수 센터 기능
 
-[Office 365 보안 &amp; 및 준수 센터](https://docs.microsoft.com/office365/securitycompliance/?redirectSourcePath=%252fen-us%252farticle%252fSecurity-and-Compliance-in-Office-365-for-business-Admin-Help-7fe448f7-49bd-4d3e-919d-0a6d1cf675bb) 는 조직에 대 한 office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다. 
+[Office 365 보안 &amp; 및 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/go-to-the-securitycompliance-center) 는 조직에 대 한 office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다. 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
@@ -199,14 +199,14 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |||||
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[보안 &amp; 및 준수 센터에 대 한 액세스](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center?redirectSourcePath=%252fen-us%252farticle%252f7e696a40-b86b-4a20-afcc-559218b7b1b8) <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[보안 &amp; 및 준수 센터에 대 한 액세스](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[고급 보안 관리](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |메일 필터링 및 맬웨어 방지와 같은 [위협 관리](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|피싱 캠페인 <sup>5</sup> 용 위협 탐색기와 같은 [Advanced threat management](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|피싱 캠페인 <sup>5</sup> 용 위협 탐색기와 같은 [Advanced threat management](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[고객 Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[모바일 장치 관리](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09)<sup>1</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[고급 데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[콘텐츠 검색](https://docs.microsoft.com/office365/securitycompliance/search-for-content)<br/> |예  <br/> |예  <br/> |예  <br/> |
 |[eDiscovery 사례](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -585,7 +585,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
   
 #### <a name="message-limits"></a>메시지 제한
 
-- **메시지 크기 제한** 대용량 메시지가 다른 메시지의 배달을 차단하거나 사용자에 대한 서비스 성능에 영향을 미치지 않도록 하려면 메시지 크기 제한이 필요합니다. 이 제한은 첨부 파일을 포함하며 조직 전체에 대한 모든 메시지(인바운드, 아웃바운드, 내부)에 적용됩니다. 이 제한보다 큰 메시지는 배달되지 않으며, 보낸 사람에게는 배달 못 함 보고서(NDR)가 전송됩니다. 메시지 크기 제한은 더 크게, 더 작게 또는 각 사용자별로 구성할 수 있으며, 관리자는 전송 규칙을 만들어 모든 개별 첨부 파일의 최대 크기를 제한할 수도 있습니다. 자세한 내용은 [Office 365에서 더 큰 전자 메일 메시지 지원](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)을 참조하세요.
+- **메시지 크기 제한** 대용량 메시지가 다른 메시지의 배달을 차단하거나 사용자에 대한 서비스 성능에 영향을 미치지 않도록 하려면 메시지 크기 제한이 필요합니다. 이 제한은 첨부 파일을 포함하며 조직 전체에 대한 모든 메시지(인바운드, 아웃바운드, 내부)에 적용됩니다. 이 제한보다 큰 메시지는 배달되지 않으며, 보낸 사람에게는 배달 못 함 보고서(NDR)가 전송됩니다. 메시지 크기 제한은 더 크게, 더 작게 또는 각 사용자별로 구성할 수 있으며, 관리자는 전송 규칙을 만들어 모든 개별 첨부 파일의 최대 크기를 제한할 수도 있습니다. 자세한 내용은 [Office 365에서 더 큰 전자 메일 메시지 지원](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)을 참조하세요.
     
    > [!NOTE]
     > 일부 전자 메일 클라이언트의 메시지 크기 제한이 낮거나 개별 첨부 파일의 크기를 Exchange Online 메시지 크기 제한 보다 작은 값으로 제한할 수 있습니다. 
@@ -621,7 +621,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |포함 메시지 수준 제한  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 관리자는 1MB ~ 150MB 사이의 사용자 지정 제한을 지정할 수 있습니다. 그러나 보내거나 받을 수 있는 메시지의 크기는 전자 메일 클라이언트 또는 솔루션이 지원하는 크기에 따라서도 좌우됩니다. 조직에 허용되는 최대 메시지 크기를 사용자 지정하는 방법에 대한 자세한 내용은 [Office 365에서 더 큰 전자 메일 메시지 지원](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)을 참조하세요.<br/> 
+> <sup>1</sup> Office 365 관리자는 1MB ~ 150MB 사이의 사용자 지정 제한을 지정할 수 있습니다. 그러나 보내거나 받을 수 있는 메시지의 크기는 전자 메일 클라이언트 또는 솔루션이 지원하는 크기에 따라서도 좌우됩니다. 조직에 허용되는 최대 메시지 크기를 사용자 지정하는 방법에 대한 자세한 내용은 [Office 365에서 더 큰 전자 메일 메시지 지원](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)을 참조하세요.<br/> 
 <sup>2</sup> office 365 사용자 간에 최대 150 MB의 메시지를 보내고 받을 수 있습니다 (메시지에는 office 365 데이터 센터가 남아 있지 않음). Office 365 데이터 센터 외부로 전송되는 메시지는 변환 인코딩이 추가로 33% 증가할 수 있습니다. 이 경우 최대 메시지 크기는 112MB가 됩니다. <br/> 
 <sup>3</sup> OWA 계정은 메시지가 33% 인코딩이 증가 하 여 전송 가능한 메시지의 크기를 최대 25% 미만으로 제한할 수 있습니다. 예를 들어 100MB의 최대 메시지 크기에 대한 설정을 사용자 지정하는 경우 75MB보다 크지 않은 메시지를 보낼 수 있습니다. <br/> 
 <sup>4</sup> exchange online으로 이동할 메시지의 크기는 exchange online에서 계산 됩니다. Exchange Server 2013 이전의 Exchange 버전에서는 좀 더 작은 항목 크기를 보고할 수 있습니다. 이 제한은 지원되는 Exchange 사서함 복제 서비스를 사용하는 이동 기반 마이그레이션에 적용됩니다. 다른 마이그레이션 방법 (예를 들어, 단계적으로, IMAP, PST) 및 기타 타사 도구는 일반적인 메시지 크기 제한에 따라 제한 됩니다. <br/> 
@@ -1046,7 +1046,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |개인 사이트 <br/> |예  <br/> |예  <br/> |예  <br/> |
 |사진 및 현재 상태 <br/> |예  <br/> |예  <br/> |예  <br/> |
 |프로필 <br/> |예  <br/> |예  <br/> |예  <br/> |
-|등급 <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Ratings <br/> |예  <br/> |예  <br/> |예  <br/> |
 |나와 공유 <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[사이트 피드 (SharePoint 공유를 사용 하는 클래식 팀 사이트)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 OneDrive <br/> |예  <br/> |예  <br/> |예  <br/> |

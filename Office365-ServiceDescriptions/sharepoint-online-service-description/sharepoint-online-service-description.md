@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online Office 365에서는 사용자 들이 서로 공유 하 고 공동 작업을 수행 하 여 회사에서 다른 사용자에 게 알리고, 비즈니스 프로세스를 변환 하 고, 공동 지식을 활용할 수 있도록 지원 합니다. 또한 SharePoint는 조직에서 데이터를 보호 및 관리 하 고 사용자 지정 솔루션을 만드는 기능을 제공 합니다.
-ms.openlocfilehash: ec12aa14160415cc2de93742d05e7b80bcb3fa01
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c5bc41b1ff74df9f243b5c04aab77893c437bcb5
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726170"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890414"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 서비스 설명
 
@@ -254,5 +254,5 @@ Office 365 계획에 사용할 수 있는 SharePoint 기능을 확인하려면 �
 <sup>16</sup> 사용자 코드 (샌드박스)가 포함 된 InfoPath 양식은 Infopath 리치 클라이언트 에서만 사용 될 수 있습니다. <br/>
 <sup>17</sup> web 소비율 (보기 기능) 용 Visio를 무료로 사용할 수 있습니다. Visio for web 만들기 및 편집 기능을 사용 하려면 라이선스가 필요 합니다. 웹의 Visio에 대 한 자세한 내용은 [웹 서비스 설명을 위해 visio](../visio-online-service-description/visio-online-service-description.md)를 참조 하십시오.  <br/>
 <sup>18</sup> f1 사용자는 하이브리드 설치에서 SharePoint Server에 액세스할 수 있지만 Office 365 F1에는 서버 액세스를 위한 CAL 권한이 포함 되지 않습니다. 이러한 권한은 별도로 구입 해야 합니다. <br/>
-<sup>19</sup> 고객 키는 Office 365 Enterprise E5에서 사용할 수 있습니다. 고객 키를 사용 하면 조직의 암호화 키를 제어 하 고 Office 365을 구성 하 여 Microsoft 데이터 센터에서 휴지 상태인 데이터를 암호화할 수 있습니다. 미사용 데이터에는 SharePoint Online 및 비즈니스용 OneDrive에 저장되어 있는 사서함과 파일에 저장된 Exchange Online 및 비즈니스용 Skype의 데이터를 포함합니다. 고객 키를 사용하면 Office 365가 데이터의 암호를 해독하는 데 사용하는 암호화 키를 제어하므로 준수 의무를 이행할 수 있습니다. 자세한 내용은 [고객 키를 사용하여 Office 365에서 데이터 제어](https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key)를 참조하세요. <br/>
+<sup>19</sup> 고객 키는 Office 365 Enterprise E5에서 사용할 수 있습니다. 고객 키를 사용 하면 조직의 암호화 키를 제어 하 고 Office 365을 구성 하 여 Microsoft 데이터 센터에서 휴지 상태인 데이터를 암호화할 수 있습니다. 미사용 데이터에는 SharePoint Online 및 비즈니스용 OneDrive에 저장되어 있는 사서함과 파일에 저장된 Exchange Online 및 비즈니스용 Skype의 데이터를 포함합니다. 고객 키를 사용하면 Office 365가 데이터의 암호를 해독하는 데 사용하는 암호화 키를 제어하므로 준수 의무를 이행할 수 있습니다. 자세한 내용은 [고객 키를 사용하여 Office 365에서 데이터 제어](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)를 참조하세요. <br/>
 <sup>20</sup> 곧 출시 될 예정입니다. 
