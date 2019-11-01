@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 이 항목에서는 Microsoft Exchange Online에 포함된 받는 사람 관련 기능에 대해 설명합니다. 설명에는 전자 메일, 연락처, 메일 그룹 및 달력/예약 기능이 포함됩니다.
-ms.openlocfilehash: 775d47e9a8db4e516f60bc98e9763f61becf5b70
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 8a2813e2e5a86ca284f530ae0d83770b5dcaeb9d
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734206"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911721"
 ---
 # <a name="recipients"></a>받는 사람
 
@@ -58,7 +58,7 @@ Exchange Online은 사용자가 다른 사람에게 자신의 전자 메일 및 
   
 ### <a name="clutter"></a>Clutter
 
-클러터는 받은 편지함에서 가장 중요한 메시지에 중점을 둘 수 있게 도와줍니다. 이 기능은 기계 학습을 사용하여 우선 순위가 낮은 메시지를 새 클러터 폴더로 이동함으로써 받은 편지함을 우선 순위가 높은 메시지 위주로 정리합니다. 클러터는 기존 전자 메일 규칙을 따르므로, 전자 메일을 구성하는 규칙을 만든 경우 해당 규칙이 계속 적용되며 클러터 기능이 이러한 메시지에는 작용하지 않습니다. 클러터는 받은 편지함에 대해 기본적으로 사용되지 않도록 설정되어 있습니다. 자세한 내용은 [Office 365에서 받은 편지함 정리]( https://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/)를 참조하세요.
+클러터는 받은 편지함에서 가장 중요한 메시지에 중점을 둘 수 있게 도와줍니다. 이 기능은 기계 학습을 사용하여 우선 순위가 낮은 메시지를 새 클러터 폴더로 이동함으로써 받은 편지함을 우선 순위가 높은 메시지 위주로 정리합니다. 클러터는 기존 전자 메일 규칙을 따르므로, 전자 메일을 구성하는 규칙을 만든 경우 해당 규칙이 계속 적용되며 클러터 기능이 이러한 메시지에는 작용하지 않습니다. 클러터는 받은 편지함에 대해 기본적으로 사용되지 않도록 설정되어 있습니다. 자세한 내용은 [Office 365에서 받은 편지함 정리](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/)를 참조하세요.
   
 ### <a name="connected-accounts"></a>연결된 계정
 

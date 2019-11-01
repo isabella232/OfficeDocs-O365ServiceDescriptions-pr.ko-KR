@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365는 Word, Excel, PowerPoint 등 이미 익숙한 Office 데스크톱 응용 프로그램의 최신 버전을 제공 하는 구독 서비스입니다.
-ms.openlocfilehash: 619b8704f0c7e55f3a18adf33c9ef056bad13926
-ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
+ms.openlocfilehash: 75e30d76c2d5d8017af3785039849b1770a937fc
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37765629"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911821"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 
@@ -124,5 +124,5 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |아니요  <br/> |아니요  <br/> |
    
 > <sup>1</sup> mac에 대 한 Office 2016에는 Mac OS X 10.10 이상이 필요 합니다. Outlook for Mac을 통해 Exchange에 연결되어 있는 고객은 Microsoft Exchange Server 2010 서비스 팩 2 이상에 연결되어 있어야 합니다. 자세한 내용은 [Office의 시스템 요구 사항을](https://products.office.com/en-US/office-system-requirements)참조 하세요.<br/>
-<sup>2</sup> 앱 스토어에서 별도로 다운로드하여 사용할 수 있습니다. 자세한 내용은 [OneNote for Mac](https://www.microsoft.com/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/)을 참조하세요.<br/> 
+<sup>2</sup> 앱 스토어에서 별도로 다운로드하여 사용할 수 있습니다. 자세한 내용은 [OneNote for Mac](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/)을 참조하세요.<br/> 
 <sup>3</sup> Office for Mac 2011을 설치할 수 있으 나 정품 인증을 받지 않습니다.

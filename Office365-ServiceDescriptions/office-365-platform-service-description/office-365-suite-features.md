@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열 된 기능은 많은 장치 및 여러 Office 365 서비스에서 안전 하 게 공동 작업 하 고 통신 하는 데 사용할 수 있는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: b1bde5cfb39ed5c01251fdb7646402c0a01bef4b
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: f0d006b485792b70f58305cb5d2b0d84ee8c5e0f
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734116"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911711"
 ---
 # <a name="office-365-suite-features"></a>Office 365 제품군 기능
 
@@ -55,7 +55,7 @@ Microsoft PowerApps은 모든 장치에서 작동하는 앱을 신속하게 작�
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
-Microsoft StaffHub는 클라우드 기반 응용 프로그램으로, 작업자 및 해당 관리자가 모바일 장치를 사용하여 일정을 관리하고 연락을 주고받을 수 있습니다. 직원은 StaffHub를 사용하여 휴가 예약을 요청하고, 근무를 교대하고 다른 직원과 대화할 수 있습니다. 직원 간에 서로 또는 전체 팀에 직접 메시지를 보낼 수도 있습니다. 관리자는 StaffHub를 사용하여 메시지를 보내고, 일정을 만들고, 팀 소식 또는 회사 공지를 보낼 수 있습니다. StaffHub에 대한 자세한 내용은 Microsoft [StaffHub 웹 사이트](https://staffhub.office.com/) 및 [Office 365 팀 블로그](https://blogs.office.com/2017/01/12/microsoft-staffhub-is-here/)를 참조하세요.
+Microsoft StaffHub는 클라우드 기반 응용 프로그램으로, 작업자 및 해당 관리자가 모바일 장치를 사용하여 일정을 관리하고 연락을 주고받을 수 있습니다. 직원은 StaffHub를 사용하여 휴가 예약을 요청하고, 근무를 교대하고 다른 직원과 대화할 수 있습니다. 직원 간에 서로 또는 전체 팀에 직접 메시지를 보낼 수도 있습니다. 관리자는 StaffHub를 사용하여 메시지를 보내고, 일정을 만들고, 팀 소식 또는 회사 공지를 보낼 수 있습니다. StaffHub에 대한 자세한 내용은 Microsoft [StaffHub 웹 사이트](https://staffhub.office.com/) 및 [Office 365 팀 블로그](https://www.microsoft.com/en-us/microsoft-365/blog/2017/01/12/microsoft-staffhub-is-here/)를 참조하세요.
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -79,7 +79,7 @@ Office 365의 그룹은 더 많은 공동 작업을 수행할 수 있도록 동�
   
 ## <a name="office-365-video"></a>Office 365 비디오
 
-Office 365 비디오는 장치 간에 비디오를 업로드, 공유 및 검색할 수 있는 안전한 회사 차원 대상으로, Microsoft Azure 미디어 서비스에서 제공합니다. Office 365 비디오를 통해 사용자는 계속해서 참여하고, 정보를 제공 받아 아이디어를 광범위하게 전달하여 조직이 다 함께 협력할 수 있도록 할 수 있습니다. 자세한 내용은 [Office 365 비디오 소개](https://blogs.office.com/2014/11/18/introducing-office-365-video/)를 참조하세요.
+Office 365 비디오는 장치 간에 비디오를 업로드, 공유 및 검색할 수 있는 안전한 회사 차원 대상으로, Microsoft Azure 미디어 서비스에서 제공합니다. Office 365 비디오를 통해 사용자는 계속해서 참여하고, 정보를 제공 받아 아이디어를 광범위하게 전달하여 조직이 다 함께 협력할 수 있도록 할 수 있습니다. 자세한 내용은 [Office 365 비디오 소개](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/)를 참조하세요.
   
 ## <a name="onenote-class-notebook"></a>OneNote 수업용 전자 필기장
 

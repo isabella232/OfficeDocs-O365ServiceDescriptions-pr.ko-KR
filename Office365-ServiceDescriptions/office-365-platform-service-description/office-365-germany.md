@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와 차별화 된 옵션입니다. 독일어 데이터 센터에서 업계 최고의 생산성 서비스를 제공 하는 독일, 유럽 연합 (EU) 및 상주 (유럽 자유 무역 협회)의 요구를 해결 하는 데 도움이 됩니다. 독일어 법률에 따라 관리 되는 고유한 데이터 트러스티 모델을 통해 독일 및 엄격한 데이터 액세스 및 제어 조치를 사용 합니다.
-ms.openlocfilehash: 0c4efa563c856a804bf0cf3137c653e94f39dc87
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 25487d7219deaa92ebbff944e016fbd46cc75cce
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734266"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911811"
 ---
 # <a name="office-365-germany"></a>Office 365 독일
 
@@ -765,7 +765,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |개인 사이트|예|예|예|예|
 |사진 및 현재 상태|예|예|예|예|
 |프로필|예|예|예|예|
-|등급|예|예|예|예|
+|Ratings|예|예|예|예|
 |Shared with Me|예|예|예|예|
 |[사이트 피드 (SharePoint 공유를 사용 하는 클래식 팀 사이트)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|아니요|아니요|예|예|
 |비즈니스용 OneDrive|예|예|예|예|
@@ -786,7 +786,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 
 ## <a name="project-online-features"></a>Project Online 기능
 
-다음 표에서는 Office 365 Germany 계획에서 사용할 수 있는 Project Online 기능을 보여 줍니다. Project Online에 대한 자세한 내용은 [Project Online 시작](https://blogs.office.com/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)을 참조하세요.
+다음 표에서는 Office 365 Germany 계획에서 사용할 수 있는 Project Online 기능을 보여 줍니다. Project Online에 대한 자세한 내용은 [Project Online 시작](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)을 참조하세요.
 
 ||||
 |:-----|:-----|:-----|
@@ -1025,7 +1025,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |개인 사이트|예|예|예|예|예|예|예|아니요|
 |사진 및 현재 상태|예|예|예|예|예|예|예|예|
 |프로필|예|예|예|예|예|예|예|예|
-|등급|예|예|예|예|예|예|예|예|
+|Ratings|예|예|예|예|예|예|예|예|
 |Shared with Me|예|예|예|예|예|예|예|아니요|
 |[사이트 피드 (SharePoint 공유를 사용 하는 클래식 팀 사이트)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|예|아니요|있음|예|예|예|예|예|
 |비즈니스용 OneDrive|예|예|예|예|예|예|예|예<sup>2</sup>|
