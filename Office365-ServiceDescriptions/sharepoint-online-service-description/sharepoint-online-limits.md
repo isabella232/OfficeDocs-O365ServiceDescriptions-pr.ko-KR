@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 Enterprise 요금제 및 독립 실행형 요금제의 SharePoint Online 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: 52ffb52601838a005ffaa6b05ba905590cd65e19
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5a75e3b8f51feb6b6dc7318355b09e3e3cc4909f
+ms.sourcegitcommit: fcfec093e77bafd9940d94c8c3439b2fa3e007f8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726187"
+ms.lasthandoff: 11/02/2019
+ms.locfileid: "37932012"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 제한 사항
 
@@ -27,7 +27,7 @@ Office 365 요금제 및 SharePoint Online 독립 실행형 계획에 대 한 Sh
 |**기능** <br/> |**Office 365 Business Essentials 또는 Business Premium** <br/> |**Office 365 Enterprise E1, E3 또는 E5, 또는 SharePoint Online 계획 1 또는 2** <br/> | **Office 365 Enterprise F1** <br/> |
 |조직<sup>1, 2</sup> 당 총 저장소 <br/> |1TB 및 구매한 라이선스 당 10gb  <br/> |1TB 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |1TB<sup>3</sup> <br/> |
 |사이트 모음 당 최대 저장소<sup>4 개</sup><br/> |25tb <br/> |25tb <br/> |25 TB<sup>5</sup> <br/> |
-|조직 당 사이트 모음 수  <br/> |100만<sup>6</sup> <br/> |100만<sup>6</sup> <br/> |1,000,000<br/> |
+|조직 당 사이트 모음 수  <br/> |200만<sup>6</sup> <br/> |200만<sup>6</sup> <br/> |200만<br/> |
 |사용자 수  <br/> |최대 300  <br/> |1-50만<sup>7</sup> <br/> |1-50만<sup>7</sup> <br/> |
    
 <sup>1</sup> [조직에서 사용할 수 있는 총 및 사용 가능한 저장소를 찾는 방법을 알아봅니다](/sharepoint/manage-site-collection-storage-limits). 무제한의 추가 SharePoint 저장소를 구입할 수 있습니다. [구독에 대 한 저장소 공간 변경](/office365/admin/subscriptions-and-billing/add-storage-space)를 참조 하세요. 

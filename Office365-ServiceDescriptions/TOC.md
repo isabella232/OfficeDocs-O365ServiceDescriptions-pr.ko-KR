@@ -82,7 +82,7 @@
 ## [Workplace Analytics 서비스 설명](workplace-analytics-service-description.md)
 ## [MyAnalytics 서비스 설명](mya-service-description.md)
 ## [Power BI 서비스 설명](power-bi-service-description.md)
-## [Project Online 서비스 설명](project-online-service-description/project-online-service-description.md)
+## [Microsoft Project 서비스 설명](project-online-service-description/project-online-service-description.md)
 ### [핵심 기능](project-online-service-description/core-functionality.md)
 ### [프로젝트 계획](project-online-service-description/project-planning.md)
 ### [작업 관리](project-online-service-description/task-management.md)
@@ -107,7 +107,7 @@
 ### [Yammer의 관리 및 보안 기능](yammer-service-description/administration-and-security-features-in-yammer.md)
 ### [Yammer의 지원 기능](yammer-service-description/support-features-in-yammer.md)
 ## Microsoft 365 서비스 설명
-### [Microsoft 365 Business 서비스 설명](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
-### [Microsoft 365 테넌트 수준 라이선싱 참고 자료](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
+### [Microsoft 365 Business 서비스 설명](microsoft-365-service-descriptions/microsoft-365-business-service-description.md) 
+### [Microsoft 365 테넌트 수준 라이선싱 참고 자료](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md) 
 ## [Microsoft Dynamics 365(온라인) 서비스 설명](microsoft-dynamics-365-online-service-description.md)
 
