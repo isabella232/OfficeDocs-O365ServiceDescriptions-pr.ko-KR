@@ -108,7 +108,9 @@
 ### [Yammer의 지원 기능](yammer-service-description/support-features-in-yammer.md)
 ## Microsoft 365 서비스 설명
 ### [Microsoft 365 Business 음성 서비스 설명](microsoft-365-business-voice-service-description.md)
-### [Microsoft 365 Business 서비스 설명](microsoft-365-service-descriptions/microsoft-365-business-service-description.md) 
+### [Microsoft 365 Business 서비스 설명](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+
+### [중소기업을 위한 Microsoft 365 라이선싱](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md) 
 ### [Microsoft 365 테넌트 수준 라이선싱 참고 자료](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md) 
 ## [Microsoft Dynamics 365(온라인) 서비스 설명](microsoft-dynamics-365-online-service-description.md)
 
