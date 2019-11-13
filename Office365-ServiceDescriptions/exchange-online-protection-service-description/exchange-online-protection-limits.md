@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 현재 Exchange Online Protection에 대 한 제한은 다음과 같습니다. 별도로 지정 되지 않은 경우 이러한 제한은 구성할 수 없습니다.
-ms.openlocfilehash: 8d2d51a158376eb6a2f72bcdaa2ae6e351865d7e
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 0f23106f1f40f4a121ac260b07a83cdf38b7a9eb
+ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581472"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289778"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 제한
 
@@ -54,7 +54,7 @@ ms.locfileid: "37581472"
 |수신 허용 제한  <br/> |항목 1024개  <br/> |항목 1024개  <br/> ||
 |정책 당 차단 된 보낸 사람 제한  <br/> |항목 1024개  <br/> |항목 1024개  <br/> ||
 |IP 허용 목록 또는 IP 차단 목록 제한  <br/> |항목 1273개  <br/> |항목 1273개  <br/> |항목 1273개  <br/> |
-|지연 메시지 제한  <br/> |2일, 15분 간격으로 다시 시도  <br/> |2일, 15분 간격으로 다시 시도  <br/> |2일, 15분 간격으로 다시 시도  <br/> |
+|지연 메시지 제한  <br/> |1 일, 15 분 마다 다시 시도  <br/> |1 일, 15 분 마다 다시 시도  <br/> |1 일, 15 분 마다 다시 시도  <br/> |
 |스팸 격리 보존 기간  <br/> |기본적으로 30 일 이지만 낮출 수 있음  <br/> |기본적으로 30 일 이지만 낮출 수 있음  <br/> |기본적으로 30 일 이지만 낮출 수 있음  <br/> |
 |최종 사용자 스팸 격리 알림  <br/> |기본적으로 3일이지만 1일에서 15일 사이로 구성할 수 있음  <br/> |기본적으로 3일이지만 1일에서 15일 사이로 구성할 수 있음  <br/> |기본적으로 3일이지만 1일에서 15일 사이로 구성할 수 있음  <br/> |
    

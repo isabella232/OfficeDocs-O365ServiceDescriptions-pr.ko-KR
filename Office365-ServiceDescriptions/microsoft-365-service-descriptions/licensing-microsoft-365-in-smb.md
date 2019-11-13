@@ -1,5 +1,5 @@
 ---
-title: 중소 규모의 비즈니스를 위한 Microsoft 365 라이선스
+title: 중소기업을 위한 Microsoft 365 라이선싱
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,14 +9,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business는 중소 규모의 비즈니스 고객을 위한 Microsoft 모범 사례 제품입니다. Microsoft 365 Business는 Office 365 생산성, 고급 보안 및 장치 관리를 함께 제공 하는 통합 솔루션입니다.
-ms.openlocfilehash: 0c7d91293b65604183d67e24ab2490ca8032da3a
-ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
+ms.openlocfilehash: a02c6de6a1ffc46d5f1ea2b96ce864adfda56c11
+ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38020454"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289788"
 ---
-# <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>중소 규모의 비즈니스를 위한 Microsoft 365 라이선스
+# <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>중소기업을 위한 Microsoft 365 라이선싱
 
 Microsoft 365 Business는 중소 규모의 비즈니스 (SMB) 고객을 위한 Microsoft 모범 사례 제품입니다. Microsoft 365 Business는 **고급 보안** 및 **장치 관리**를 통해 Office 365의 **생산성** 을 함께 제공 하는 통합 솔루션입니다.
 
@@ -138,7 +138,7 @@ Microsoft 365 Business는 중소 규모의 비즈니스 (SMB) 고객을 위한 M
 |   | Office 365 위협 인텔리전스 | 아니요 | 아니요  | 아니요 | 예 |
 |**Id 관리** | 하이브리드 Azure Active Directory 계정, Azure MFA, 조건부 액세스에 대 한 셀프 서비스 암호 재설정   | 아니요 | 있음 | 예 | 예 |
 |   | Azure AD: 클라우드 앱 검색, Azure AD Connect Health, 10 개 이상의 앱에 대 한 SSO | 아니요 | 아니요 | 있음 | 예 |
-|   | Azure Active Directory 계획 2 | 아니요 | 아니요 | 아니요 | 예 |
+|   | Azure Active Directory 요금제 2 | 아니요 | 아니요 | 아니요 | 예 |
 |**장치 & 앱 관리** | Microsoft Intune, Windows AutoPilot | 아니요 | 있음 | 예 | 예 |
 |   | 공유 컴퓨터 활성화, Windows 가상 데스크톱 | 아니요 | 있음 | 예 | 예 |
 |   | Microsoft 데스크톱 최적화 팩, VDA | 아니요 | 아니요 | 있음 | 예 |
@@ -146,7 +146,7 @@ Microsoft 365 Business는 중소 규모의 비즈니스 (SMB) 고객을 위한 M
 |   | Azure Information Protection 계획 2, Microsoft Cloud App Security, Office 365 Cloud App Security | 아니요 | 아니요 | 아니요 | 예 |
 |**온-프레미스 CAL 권한** | ECAL Suite (Exchange, SharePoint, Skype, Windows, SCCM, Windows Rights Management) | 아니요 | 아니요 | 있음 | 예 |
 |**규정 준수** | 무제한 전자 메일 보관<sup>2</sup> | 아니요 | 예 | 예 | 예 |
-|   | 고급 eDiscovery, 고객 Lockbox, 고급 데이터 거 버 넌 스 | 아니요 | 아니요 | 아니요 | 예 |
+|   | 고급 eDiscovery, 고객 Lockbox, 고급 데이터 거버넌스 | 아니요 | 아니요 | 아니요 | 예 |
 |**분석** | Power BI Pro, MyAnalytics | 아니요 | 아니요 | 아니요 | 예 |
 |**음** | PSTN 회의, 클라우드 PBX | 아니요 | 아니요 | 아니요 | 예 |
 
@@ -202,7 +202,7 @@ Microsoft 365 Business에는 Pro Plus와 약간 다른 차이점이 있는 Offic
 
 <sup>1</sup> 조직에서는 Office에 대 한 특정 구성 설정 (보안 설정, 앱 설정, Active Directory 로밍 등)을 회사 네트워크에 로그온 하는 컴퓨터로 푸시할 수 있습니다.
 
-<sup>2</sup> office Standard 2016 및 Office Professional Plus 2016는 MSI 모델을 사용 하 여 업데이트를 완벽 하 게 제어할 수 있습니다. Office 365 ProPlus에서는 간편 실행을 통해 설치 및 업데이트를 관리할 수 있습니다.
+<sup>2</sup> office Standard 2016 및 Office Professional Plus 2016는 MSI 모델을 사용 하 여 업데이트를 완벽 하 게 제어할 수 있습니다. Office 365 ProPlus 및 **office 365 Business** 에서는 간편 실행을 통해 설치 및 업데이트를 관리할 수 있습니다.
 
 <sup>3</sup> 제품군은 비즈니스 생산성 서버와의 다양 한 통합 수준을 제공 합니다.
 
