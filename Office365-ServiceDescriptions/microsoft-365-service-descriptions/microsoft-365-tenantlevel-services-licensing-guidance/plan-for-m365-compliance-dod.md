@@ -8,14 +8,13 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ROBOTS: NOINDEX, NOFOLLOW
 description: 이 지침은 Microsoft 365 정부-DoD를 사용 하는 것이 적합 한 미국 연방 정부 엔터티나 Office 365의 배포를 추진 하는 IT 전문가를 위한 것입니다. 이러한 요구 사항을 충족 합니다.
-ms.openlocfilehash: 27f51c80b4d19f2ca42f0dc7f8b25c93d39dd5ca
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: 5356c019351108478c6fd27af3fa451dd2ec036a
+ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890516"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38319486"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 준수에 대 한 계획-DoD 배포
 
@@ -59,15 +58,15 @@ Office 365의 기능을 제공 하는 것 외에도 조직은 Microsoft 365 정�
 
 **의사 결정**사항: *기본 Microsoft 365 정부 보안 설정을 수정 하 고, 변경 내용에 대 한 영향을 먼저 이해 하도록 확인 합니다.*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dod"></a>4단계. Microsoft 365 정부에서 기본적으로 현재 사용할 수 없거나 사용 하지 않도록 설정 된 기능에 대해 설명 합니다.
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>4단계. Microsoft 365 정부에서 기본적으로 현재 사용할 수 없거나 사용 하지 않도록 설정 된 기능 이해 (영문<sup>)</sup>
 
 정부 클라우드 고객의 요구 사항을 충족 하기 위해 Microsoft 365 정부-DoD 및 enterprise 요금제 간에는 약간의 차이가 있습니다. 사용 가능한 기능을 확인 하려면 다음 표를 참조 하세요.
 
 
 |         |기능  |DoD 상태  |
 |---------|---------|---------|
-|**정보 보호 & 거 버 넌 스** | 보관할                                      |  사용할 수 있음             |
-|                                        |수동 레이블 및 정책                      |  사용할 수 있음             |
+|**정보 보호 & 거 버 넌 스** |보관할                                       |  사용할 수 있음             |
+|                                        |수동 레이블 및 정책<sup>2</sup>          |  사용할 수 있음             |
 |                                        |레이블 자동 응용 프로그램                      | 엔지니어링 백로그 |
 |                                        |중요 한 데이터 형식을 기반으로 하는 레이블            | 엔지니어링 백로그 |
 |                                        |쿼리 기반 레이블 및 관련 정책 | 엔지니어링 백로그 |
@@ -80,7 +79,7 @@ Office 365의 기능을 제공 하는 것 외에도 조직은 Microsoft 365 정�
 |                                        |파일 및 전자 메일에 대 한 DLP (데이터 손실 방지)  | 사용할 수 있음              |
 |                                        |팀 채팅 및 채널 대화에 대 한 DLP    | 엔지니어링 백로그 |
 |**참가자 위험 관리**             |고급 메시지 암호화                     | 사용할 수 있음              |
-|                                        |통신 준수                        | 엔지니어링 백로그 |
+|                                        |커뮤니케이션 규정 준수                        | 엔지니어링 백로그 |
 |                                        |Customer Lockbox                                | 사용할 수 있음              |
 |                                        |고객 키                                    | 사용할 수 있음              |
 |                                        |권한 있는 액세스 관리                    | 엔지니어링 백로그 |
@@ -106,5 +105,9 @@ Office 365의 기능을 제공 하는 것 외에도 조직은 Microsoft 365 정�
 |                                        |검토 및 주석 달기                             | 엔지니어링 백로그 |
 |                                        |비 Office 365 수집                        | 엔지니어링 백로그 |
 |                                        |검색 용어 보고서                              | 엔지니어링 백로그 |
+
+<sup>1</sup> 확인 된 상태는 프로젝트 계획 및 우선 순위를 다시 평가 하면서 변경 될 수 있습니다.<br/>
+<sup>2</sup> 레이블 수동 응용 프로그램에는 [Aip (Azure Information Protection) 클라이언트 버전 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)이 필요 합니다.
+
 
 **의사 결정**사항: *규정 준수 기능이 조직의 요구 사항을 충족 하는지 여부를 결정 합니다.*
