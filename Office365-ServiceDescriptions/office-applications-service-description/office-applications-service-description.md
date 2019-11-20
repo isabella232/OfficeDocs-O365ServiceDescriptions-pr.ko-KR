@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365는 Word, Excel, PowerPoint 등 이미 익숙한 Office 데스크톱 응용 프로그램의 최신 버전을 제공 하는 구독 서비스입니다.
-ms.openlocfilehash: 75e30d76c2d5d8017af3785039849b1770a937fc
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 0e46e857f1c43d4a488ef3a6874263e7a954eef0
+ms.sourcegitcommit: 1255382e878b3223a01477c48676e0d6a8bfe07d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911821"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38748982"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 
@@ -126,3 +126,88 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 > <sup>1</sup> mac에 대 한 Office 2016에는 Mac OS X 10.10 이상이 필요 합니다. Outlook for Mac을 통해 Exchange에 연결되어 있는 고객은 Microsoft Exchange Server 2010 서비스 팩 2 이상에 연결되어 있어야 합니다. 자세한 내용은 [Office의 시스템 요구 사항을](https://products.office.com/en-US/office-system-requirements)참조 하세요.<br/>
 <sup>2</sup> 앱 스토어에서 별도로 다운로드하여 사용할 수 있습니다. 자세한 내용은 [OneNote for Mac](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/)을 참조하세요.<br/> 
 <sup>3</sup> Office for Mac 2011을 설치할 수 있으 나 정품 인증을 받지 않습니다.
+
+## <a name="office-application-and-feature-availability-in-government-plans"></a>정부 계획의 Office 응용 프로그램 및 기능 가용성
+
+다음 Office 응용 프로그램은 정부 클라우드에서 사용할 수 있습니다. 그러나 일부 클라우드 기반 기능은 현재 표에 나와 있는 것 처럼 사용할 수 없을 수도 있습니다.
+
+|||||
+|-----|-----|-----|-----|
+|**Office 응용 프로그램** | **GCC** | **GCC 최고** | **여기서** |
+|**[Microsoft Excel](office-applications.md#microsoft-excel)** 은 정부 클라우드에서 완벽 하 게 사용할 수 있으며, 지금은 다음 기능을 사용할 수 없습니다.| 예 | 예 | 예 |
+|3D 포함 애니메이션 및 3D 모델 | 아니요 | 아니요 | 아니요 |
+|데이터 형식 | 아니요 | 아니요 | 아니요 |
+|빠른 채우기  | 아니요 | 아니요 | 아니요 |
+|아이디어 (통찰력 서비스) | 아니요 | 아니요 | 아니요 |
+|PowerBI과의 향상 된 통합 (사용자 지정 시각적, Excel에서 직접 PBI 차트 만들기) | 아니요 | 아니요 | 아니요 |
+|지능형 디지털 잉크 | 아니요 | 아니요 | 아니요 |
+|Office 365 그룹 | 아니요 | 아니요 | 아니요 |
+|피벗 테이블에 연결 된 피벗 차트 데이터 | 아니요 | 아니요 | 아니요 |
+|PowerPivot | 아니요 | 아니요 | 아니요 |
+|PowerBI에 게시 | 아니요 | 아니요 | 아니요 |
+|실시간 공동 작업 (현재 상태, 일반 공동 작성, 문서 내 채팅) | 아니요 | 아니요 | 아니요 |
+|Shared with Me | 아니요 | 아니요 | 아니요 |
+|스마트 조회 | 아니요 | 아니요 | 아니요 |
+|차트: 선 버스트, 트리 맵, 폭포, 히스토그램, 맵, 일정, 깔때기 | 아니요 | 아니요 | 아니요 |
+|버전 기록| 아니요 | 아니요 | 아니요 | 
+|**Microsoft 양식은** 정부 클라우드에서 완벽 하 게 사용할 수 있으며, 지금은 다음 기능을 사용할 수 없습니다. | 예 | 예 | 아니요 |
+|전자 메일 알림 | No<sup>1</sup> | No<sup>1</sup> | 아니요 |
+|그림 삽입 | No<sup>1</sup> | No<sup>1</sup> | 아니요 |
+|동영상 삽입 | No<sup>1</sup> | No<sup>1</sup> | 아니요 |
+|수학 | No<sup>1</sup> | No<sup>1</sup> | 아니요 |
+|Office 통합 | No<sup>1</sup> | No<sup>1</sup> | 아니요 |
+|가장 최근 그룹 양식 | No<sup>1</sup> | No<sup>1</sup> | 아니요 |
+|외부 공유 |예 | 아니요 | 아니요 |
+|**[Microsoft OneNote](office-applications.md#microsoft-onenote)** 는 정부 클라우드에서 완벽 하 게 사용할 수 있으며, 지금은 다음 기능을 사용할 수 없습니다.| 예 | 예 | 예 |
+|리서치 도구 | 아니요 | 아니요 | 아니요 |
+|지능형 디지털 잉크 | 아니요 | 아니요 | 아니요 |
+|**[Microsoft Outlook](office-applications.md#microsoft-outlook)** 은 정부 클라우드에서 완전히 사용할 수 있으며, 지금은 다음 기능을 사용할 수 없습니다.| 예 | 예 | 예 |
+|Office 소리 (일부) | 아니요 | 아니요 | 아니요 |
+|DDE 기본적으로 사용 안 함  | 아니요 | 아니요 | 아니요 |
+|받아쓰기 | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
+|**[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint)** 는 정부 클라우드에서 완벽 하 게 사용할 수 있으며, 지금은 다음 기능을 사용할 수 없습니다.| 예 | 예 | 예 |
+|스마트 조회 | 아니요 | 아니요 | 아니요 |
+|Office 소리 (일부) | 아니요 | 아니요 | 아니요 |
+|3D 모델 및 3D 포함 애니메이션 | 아니요 | 아니요 | 아니요 |
+차트: 지도 | 아니요 | 아니요 | 아니요 |
+|지능형 디지털 잉크 | 아니요 | 아니요 | 아니요 |
+|PowerPoint에서 자막 & 하는 라이브 캡션 | 아니요 | 아니요 | 아니요 |
+|발표자 Coach | 아니요 | 아니요 | 아니요 |
+|Shared with Me| 아니요 | 아니요 | 아니요 |
+|비즈니스용 Skype 통합 (공유)| 아니요 | 아니요 | 아니요 |
+|버전 기록 | 아니요 | 아니요 | 아니요 |
+|Office 365 그룹 | 아니요 | 아니요 | 아니요 |
+|실시간 공동 작업 (현재 상태, 일반 공동 작성, 문서 내 채팅) | 아니요 | 아니요 | 아니요 |
+|받아쓰기 | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
+|현재 정부 클라우드의 **Microsoft 화이트 보드** 는 데스크톱에는 제공 되지 않고 허브 클라이언트 에서만 사용할 수 있습니다. | 예<sup>2</sup> | 예<sup>2</sup> | 예<sup>2</sup> |
+|스티커 메모, 텍스트 및 이미지 삽입 |예<sup>2</sup> |예<sup>2</sup> |예<sup>2</sup> |
+|잉크를 도형에, 잉크를 표로 표 |예<sup>2</sup> |예<sup>2</sup> |예<sup>2</sup> |
+|잉크 beautification |예<sup>2</sup> |예<sup>2</sup> |예<sup>2</sup> |
+|이미지를 잉크로 변환 |예<sup>2</sup> |예<sup>2</sup> |예<sup>2</sup> |
+|접근성 검사 |예<sup>2</sup> |예<sup>2</sup> |예<sup>2</sup> |
+|동적 서식 파일 (간판, SWOT 등) | 아니요 | 아니요 | 아니요 |
+|실시간 공동 작업 | 아니요 | 아니요 | 아니요 |
+|실시간 현재 상태 | 아니요 | 아니요 | 아니요 |
+|콘텐츠에 대 한 Reactions | 아니요 | 아니요 | 아니요 |
+|사용자와 공유 하는 화이트 보드 갤러리 | 아니요 | 아니요 | 아니요 |
+|**[Microsoft Word](office-applications.md#microsoft-word)** 는 정부 클라우드에서 완벽 하 게 사용할 수 있으며, 이번에는 다음 기능을 사용할 수 없습니다.| 예 | 예 | 예 |
+|스마트 조회 | 아니요 | 아니요 | 아니요 |
+|리서치 도구 | 아니요 | 아니요 | 아니요 |
+|Office 소리 | 아니요 | 아니요 | 아니요 |
+|3D 모델 | 아니요 | 아니요 | 아니요 |
+|3D 포함 애니메이션 | 아니요 | 아니요 | 아니요 |
+|누르기 | 아니요 | 아니요 | 아니요 |
+|도우미 다시 시작 | 아니요 | 아니요 | 아니요 |
+|지도 차트 | 아니요 | 아니요 | 아니요 |
+|지능형 디지털 잉크 | 아니요 | 아니요 | 아니요 |
+|Shared with Me | 아니요 | 아니요 | 아니요 |
+|Translation | 아니요 | 아니요 | 아니요 |
+|비즈니스용 Skype 통합 (공유) | 아니요 | 아니요 | 아니요 |
+|버전 기록 | 아니요 | 아니요 | 아니요 |
+|Office 365 그룹 | 아니요 | 아니요 | 아니요 |
+|공동 작성자와 상황별 채팅: 문서 내 공동 작성자와 채팅 | 아니요 | 아니요 | 아니요 |
+|받아쓰기| No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
+
+> [!NOTE]
+> <sup>1</sup> 12 월 2019로 제공 됩니다. <br/>
+> <sup>2</sup> 로컬 Surface Hub에서 사용 가능 (로그인 되지 않음)
