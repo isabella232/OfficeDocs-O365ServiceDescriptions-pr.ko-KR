@@ -79,6 +79,7 @@
 ## [비즈니스용 Skype Online 서비스 설명](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [비즈니스용 Skype Online 기능](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [비즈니스용 Skype Online 제한](skype-for-business-online-service-description/skype-for-business-online-limits.md)
+## [브리핑 전자 메일 서비스 설명](briefing-service-description.md)
 ## [Workplace Analytics 서비스 설명](workplace-analytics-service-description.md)
 ## [MyAnalytics 서비스 설명](mya-service-description.md)
 ## [Power BI 서비스 설명](power-bi-service-description.md)
