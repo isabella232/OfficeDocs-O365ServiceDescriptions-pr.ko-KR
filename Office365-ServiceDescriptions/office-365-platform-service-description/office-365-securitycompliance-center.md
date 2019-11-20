@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 보안 &amp; 및 준수 센터는 조직에 대 한 office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: 7f4aae6b65a81c682e2f27576cb3a65bbd9a0a5a
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 20a80d2c02155fa0f648d5027028ebe173bce020
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633449"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724756"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -36,7 +36,7 @@ ms.locfileid: "37633449"
 |[고객 Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |[모바일 장치 관리](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Exchange online, SharePoint online 및 비즈니스용 OneDrive 7, 9에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup></sup><br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|[Microsoft 팀 채팅 및 채널 메시지에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/>|
+|[Microsoft 팀 채팅 및 채널 메시지에 대 한 데이터 손실 방지](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/>|
 |[민감도 레이블](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | 아니요 <br/>| 아니요 <br/> | 아니요 <br/>| 있음 <br/>| 예 <br/>| 아니요 <br/> |
 |[정보 장벽](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/>|
 |[데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -76,7 +76,7 @@ ms.locfileid: "37633449"
 |[고객 Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[모바일 장치 관리](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Exchange online, SharePoint online 및 비즈니스용 OneDrive 9에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup></sup> <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예 <sup>7<sup> <br/> |아니요  <br/> |있음  <br/> |
-|[Microsoft 팀 채팅 및 채널 메시지에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|[Microsoft 팀 채팅 및 채널 메시지에 대 한 데이터 손실 방지](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[정보 장벽](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |예<sup>2</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[고급 데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |

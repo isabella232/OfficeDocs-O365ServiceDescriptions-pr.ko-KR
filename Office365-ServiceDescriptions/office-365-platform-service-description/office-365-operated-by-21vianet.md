@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영 하는 Office 365는 중국의 안전 하 고 안정적 이며 확장 가능한 클라우드 서비스에 대 한 요구를 충족 하도록 설계 되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: 0d03633ddf45012c3e40d1c0548cb4c481164ef4
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: e7ca48d2a7c86e55284e4c9a56956c39f699bef8
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734146"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724766"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -82,6 +82,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |기계 번역을 통해 메시지 센터 게시물의 수동 번역|예|예|예|예|예|예|예|
 |**[Office 365 제품군 기능](office-365-suite-features.md)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F1**|
 |Microsoft Bookings|아니요|아니요|예|아니요|아니요|아니요|아니요|
+|Microsoft 브리핑 전자 메일|아니요|아니요|예|아니요|아니요|아니요|아니요|
 |Microsoft Flow|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Microsoft Forms|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Microsoft MyAnalytics|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -194,7 +195,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 
 <sup>1</sup> office 365 및 21vianet에서 운영 하는 office 365은 해당 제조업체에서 지원 하지 않는 운영 체제에 대 한 지원을 제공 하지 않습니다.<br/>
 <sup>2</sup> In Office 365 Enterprise F1에서 21vianet에서 운영 하는 office 365 비디오는 보기 전용으로 제한 됩니다 (게시 하거나 공유할 수 없음). <br/>
-<sup>3</sup> 로컬 active directory와 함께 디렉터리 동기화를 사용 하는 경우 계정을 삭제 하거나 암호를 변경 하려면 Office 365 포털이 아닌 로컬 active directory를 사용 하거나 Windows 용 Azure active directory 모듈을 사용 해야 합니다. 슬래시. <br/>
+<sup>3</sup> 로컬 active directory와 함께 디렉터리 동기화를 사용 하는 경우에는 Office 365 포털이 아닌 로컬 active directory를 사용 하거나 Windows PowerShell 용 Azure Active directory 모듈을 사용 하 여 계정을 삭제 하거나 암호를 변경 해야 합니다. <br/>
 <sup>4</sup> 21vianet에서 운영 하는 Office 365에서 아직 사용할 수 없지만 곧 제공 될 예정입니다. <br/>
 <sup>5</sup> 이전 버전의 office 365에서 업그레이드 한 경우를 제외 하 고는 office 365의 공개 웹 사이트가 하나만 있을 수 있습니다. 업그레이드하게 되면 두 개의 공개 웹 사이트를 사용할 수 있지만, 둘 중 하나만 사용자 지정 도메인 이름으로 호스트할 수 있습니다. 비즈니스를 위한 두 웹 사이트에 대 한 작업을 수행 하는 방법에 대 한 자세한 내용은 [2 Office 365 공용 웹 사이트](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5)에 대 한 작업을 참조 하세요. 다른 구독이 있는 경우에는 공개 [웹 사이트의 Office 365에 대 한 공용 웹사이트 도움말](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5)에서 자세한 내용을 참조 하세요.<br/>
 <sup>6</sup> 용어 할인을 사용 하 여 구매한 좌석을 초기 종결 수수료에 따라 줄일 수 있습니다. This is not applicable for subscriptions paid on a monthly basis.<br/>
@@ -791,7 +792,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |개인 사이트|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |사진 및 현재 상태|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |프로필|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|등급|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
+|Ratings|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Shared with Me|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |[사이트 피드 (SharePoint 공유를 사용 하는 클래식 팀 사이트)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |비즈니스용 OneDrive|예|예|예|예|예|예|예<sup>2</sup>|
@@ -806,7 +807,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |[Azure 프로 비전 응용 프로그램: Azure LWR (Lightweight Web Role)의 사용자 지정 코드](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr)|예|예|예|예|예|예|예|
 
 <sup>1</sup> 폴더 동기화를 사용하려면 Office 2013 이상(Standard 또는 Professional Edition)을 보유하고 있거나 Office 응용 프로그램이 포함된 Office 365를 구독해야 합니다. Office 365 Business Essentials, Office 365 Enterprise E1 및 Office 365 Education 계획에는 Office 데스크톱 응용 프로그램에 대한 구독이 포함되지 않습니다. 그러나 Office 2013 이상이 설치되어 있고 계획 중 하나를 구독한 경우 폴더 동기화를 사용할 수 있습니다.
-<br/><sup>2</sup> Kiosk 계정에서는 비즈니스용 OneDrive 기능이 제한됩니다. Kiosk 고객은 비즈니스용 OneDrive 폴더 동기화 클라이언트 응용 프로그램을 사용하여 팀 사이트 문서 라이브러리를 공유 컴퓨터와 동기화하고, 문서에 오프라인으로 액세스할 수 있습니다. 그러나 Kiosk 계정에는 비즈니스용 OneDrive 개인 사이트가 포함되지 않으므로 온라인 저장소 1TB가 포함된 비즈니스용 OneDrive 개인 라이브러리를 활용할 수 없습니다.
+<br/><sup>2</sup> Kiosk 계정에서는 비즈니스용 OneDrive 기능이 제한됩니다. 키오스크 고객은 비즈니스용 OneDrive 폴더 동기화 클라이언트 응용 프로그램을 사용하여 팀 사이트 문서 라이브러리를 공유 컴퓨터와 동기화하고, 문서에 오프라인으로 액세스할 수 있습니다. 그러나 Kiosk 계정에는 비즈니스용 OneDrive 개인 사이트가 포함되지 않으므로 온라인 저장소 1TB가 포함된 비즈니스용 OneDrive 개인 라이브러리를 활용할 수 없습니다.
 <br/><sup>3</sup> Access 2010는 지원 되지 않습니다.
 <br/><sup>4</sup> Kiosk 사용자는 관리자일 수 없으므로, 관리 센터에 액세스하려면 Kiosk 사용자가 있는 테넌트에 엔터프라이즈 사용자가 한 명 이상 필요합니다.
 <br/><sup>5</sup> SharePoint Online 고객은 무료 순위 모델 조정 앱을 다운로드 하 고 설치 해야 순위 모델을 만들고 사용자 지정할 수 있습니다.
@@ -1007,30 +1008,30 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 | Skype 페더레이션|아니요|아니요|
 |AOL 및 Yahoo! 페더레이션|아니요|아니요|
 |**[비즈니스 온라인 모임에 대 한 Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 1**|**21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 2**|
-|애드혹 및 오디오 회의 예약|아니요|예|
-|애드혹 및 비디오 회의 예약|아니요|예|
-|활성 발표자 비디오|아니요|예|
-|Eecoding-264 인코딩 및 기타|아니요|예|
-|단체 비디오|아니요|예|
-|모든 참석자의 고화질 비디오 또는 사진|아니요|예|
-|발표자 컨트롤|아니요|예|
-|참가자 선택 보기|아니요|예|
-|OneNote 공유|아니요|예|
-|애드혹 및 웹 회의 예약|아니요|예|
+|애드혹 및 오디오 회의 예약|아니요|있음|
+|애드혹 및 비디오 회의 예약|아니요|있음|
+|활성 발표자 비디오|아니요|있음|
+|Eecoding-264 인코딩 및 기타|아니요|있음|
+|단체 비디오|아니요|있음|
+|모든 참석자의 고화질 비디오 또는 사진|아니요|있음|
+|발표자 컨트롤|아니요|있음|
+|참가자 선택 보기|아니요|있음|
+|OneNote 공유|아니요|있음|
+|애드혹 및 웹 회의 예약|아니요|있음|
 |ACP (공인 오디오 회의 공급자)를 통한 전화 접속 오디오 회의|아니요|아니요|
-|PowerPoint 공유|아니요|예|
-|화이트 보드 및 주석|아니요|예|
-|PowerPoint 업로드|아니요|예|
-|폴링|아니요|예|
+|PowerPoint 공유|아니요|있음|
+|화이트 보드 및 주석|아니요|있음|
+|PowerPoint 업로드|아니요|있음|
+|폴링|아니요|있음|
 |클라이언트 쪽 녹화 및 재생|아니요|예<sup>1</sup>|
 |서버 쪽 기록 및 재생|아니요|아니요|
-|모임 로비|아니요|예|
-|비즈니스용 skype 웹 앱을 사용한 비즈니스용 Skype 모임에 대 한 게스트 액세스|아니요|예|
-|Outlook에서 비즈니스용 Skype 모임 예약|아니요|예|
-|다른 사용자 대신 Outlook에서 비즈니스용 Skype 모임 예약 (위임)|아니요|예|
-|웹 스케줄러를 사용 하 여 비즈니스용 Skype 모임 예약|아니요|예|
-|웹용 Outlook에서 온라인 모임 예약|아니요|예|
-|모임을 예약 하기 위한 Outlook 위임|아니요|예|
+|모임 로비|아니요|있음|
+|비즈니스용 skype 웹 앱을 사용한 비즈니스용 Skype 모임에 대 한 게스트 액세스|아니요|있음|
+|Outlook에서 비즈니스용 Skype 모임 예약|아니요|있음|
+|다른 사용자 대신 Outlook에서 비즈니스용 Skype 모임 예약 (위임)|아니요|있음|
+|웹 스케줄러를 사용 하 여 비즈니스용 Skype 모임 예약|아니요|있음|
+|웹용 Outlook에서 온라인 모임 예약|아니요|있음|
+|모임을 예약 하기 위한 Outlook 위임|아니요|있음|
 |Outlook에서 정적 모임 ID로 공개 모임 만들기|아니요|아니요|
 |**[보안 및 보관](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 1**|**21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 2**|
 |IM 및 미디어 암호화|예|예|
@@ -1149,7 +1150,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |**포트폴리오 관리**|**21Vianet에서 운영하는 Office 365용 Project Online Essentials**|**21Vianet에서 운영하는 Office 365용 Project Online Professional**|**21Vianet에서 운영하는 Office 365용 Project Online Premium**|**21Vianet에서 운영하는 Office 365용 Project Professional 2016**|**21Vianet에서 운영하는 Office 365용 Project Server 2016**|
 |[프로젝트 분석 및 포트폴리오 최적화](../project-online-service-description/portfolio-management.md#analyze-projects-and-optimize-portfolio)|아니요|아니요|예|아니요|있음|
 |[프로젝트 만들기 및 편집](../project-online-service-description/portfolio-management.md#create-and-edit-projects)|아니요|있음|예|아니요|있음|
-|[재무 관리](../project-online-service-description/portfolio-management.md#financial-management)|아니요|아니요|예|아니요|예|
+|[재무 관리](../project-online-service-description/portfolio-management.md#financial-management)|아니요|아니요|예|아니요|있음|
 |[워크플로에 참여](../project-online-service-description/portfolio-management.md#participate-in-workflow)|아니요|있음|예|아니요|예|
 |[포트폴리오 분석 및 선택](../project-online-service-description/portfolio-management.md#portfolio-analytics-and-selection)|아니요|아니요|예|아니요|예|
 |[프로그램 관리](../project-online-service-description/portfolio-management.md#program-management)|아니요|아니요|예|아니요|예|
@@ -1163,7 +1164,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |[자원 그룹 관리](../project-online-service-description/resource-management.md#manage-resource-pool)|아니요|아니요|예|아니요|예|
 |[리소스 용량 계획](../project-online-service-description/resource-management.md#plan-resource-capacity)|아니요|아니요|예|아니요|예|
 |[리소스 용량 계약](../project-online-service-description/resource-management.md#request-resource-agreements)|아니요|있음|예|예|예|
-|[사용 가능한 리소스 보기 및 팀 구성](../project-online-service-description/resource-management.md#view-available-resources-and-build-teams)|아니요|있음|예|예|예|
+|[사용 가능한 리소스 보기 및 팀 구성](../project-online-service-description/resource-management.md#view-available-resources-and-build-teams)|아니요|예|예|예|예|
 
 <sup>1</sup> Active Directory 통합에 Project Online Essentials 사용자가 포함됩니다. 그렇지만 Active Directory 통합을 관리하려면 Project Online 구독이 필요합니다.
 <br/><sup>2</sup> 팀 구성원 시나리오에 대한 확장만 지원됩니다.

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열 된 기능은 많은 장치 및 여러 Office 365 서비스에서 안전 하 게 공동 작업 하 고 통신 하는 데 사용할 수 있는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: f0d006b485792b70f58305cb5d2b0d84ee8c5e0f
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 5932dcfd79d2c52dbf4c254876f20ab8e9506e28
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911711"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724736"
 ---
 # <a name="office-365-suite-features"></a>Office 365 제품군 기능
 
@@ -28,7 +28,17 @@ ms.locfileid: "37911711"
 Microsoft Bookings는 고객에게 예약 기반의 서비스를 제공하는 소규모 기업용 온라인 및 모바일 앱입니다. 이러한 기업에는 미용실, 치과, 스파, 법률 사무소, 금융 거래 서비스 제공자, 컨설턴트 및 정비소 등이 있습니다. Office 365 Business Premium 구독이 있는 미국과 캐나다의 고객들은 Microsoft Bookings를 사용할 수 있습니다. 
   
 Microsoft Bookings에 대한 자세한 내용은 [Microsoft Bookings 소개](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조하세요.
-  
+
+## <a name="microsoft-briefing-email"></a>Microsoft 브리핑 전자 메일
+
+브리핑 전자 메일은 사용자가 매일 최대한 활용할 수 있도록 지원 합니다.
+
+* 관련 작업 또는 관련 문서를 표시 하 여 모임을 준비 합니다.
+* 보류 중일 수 있는 전자 메일에서 확인 된 작업을 관리 합니다.
+* 일정 및 음소거 알림에 시간을 예약 하 여 집중 시간을 최대한 활용 합니다.
+
+브리핑 전자 메일은 Exchange Online의 모든 사용자에 게 자동으로 제공 됩니다. 자세한 내용은 [브리핑 전자 메일 개요](https://docs.microsoft.com/Briefing/be-overview)를 참조 하세요.
+
 ## <a name="microsoft-flow"></a>Microsoft Flow
 
 Microsoft Flow를 사용하면 응용 프로그램 전체의 워크플로를 자동화할 수 있습니다. Flow를 사용하여 전자 메일 및 IM 알림을 연결하고, 응용 프로그램 간에 파일을 동기화하며, 한 서비스에서 다른 서비스로 파일을 복사하고, 한 앱에서 데이터를 수집하여 다른 앱에 저장하는 등의 작업을 수행할 수 있습니다. 시작하기 위한 템플릿을 제공합니다. Flow 기능 및 사용 방법에 대한 자세한 내용은 Microsoft [Flow 웹 사이트](https://flow.microsoft.com/en-us/)를 참조하세요.
@@ -87,7 +97,7 @@ Office 365 비디오는 장치 간에 비디오를 업로드, 공유 및 검색�
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-Microsoft Kaizala는 Microsoft 365에 대 한 고유한 기능을 제공 하는 단순 하 고 안전한 모바일 작업 관리 앱으로, 조직의 디렉터리 (계약 작업자, 공급 업체 등)의 내부와 외부에서 사용자를 연결 하 고 모두 사용할 수 있는 기능을 제공 합니다. 파트너, 공급자, 고객 및 시민-대규모 그룹과 [유연한 그룹 유형을](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)사용 합니다. Kaizala의 개방형 디렉터리 모델을 사용 하면 편리한 온 보 딩을 위한 전화 번호 기반 id와 메시징 및 작업 관리에 대 한 간단한 사용자 환경이 제공 됩니다. 사용자는 Kaizala 모바일 앱을 사용 하 여 사진, 문서, 비디오, 오디오 os 등의 인스턴트 메시지와 첨부 파일을 전송 하 고 설문 조사, 설문, 작업 할당, 공지 사항, trainings 등에 대해 작업 카드를 사용할 수 있습니다. [Kaizala는 Office 365에서 사용할 수](https://products.office.com/en/business/microsoft-kaizala) 있으며 IPhone 및 Android에서는 작동 합니다. 자세한 내용을 보려면 [Kaizala 웹 사이트로](https://products.office.com/en/business/microsoft-kaizala)이동 하세요. 
+Microsoft Kaizala는 [간단 하 고](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)안전한 모바일 작업 관리 앱으로, microsoft 365에 대 한 고유한 기능을 제공 하며, 조직 디렉터리 (예: 계약 작업자, 공급 업체, 파트너, 공급자, 고객 및 시민)의 내부와 외부에서 사용자를 연결 하 고 사용할 수 있는 기능을 제공 합니다. Kaizala의 개방형 디렉터리 모델을 사용 하면 편리한 온 보 딩을 위한 전화 번호 기반 id와 메시징 및 작업 관리에 대 한 간단한 사용자 환경이 제공 됩니다. 사용자는 Kaizala 모바일 앱을 사용 하 여 사진, 문서, 비디오, 오디오 os 등의 인스턴트 메시지와 첨부 파일을 전송 하 고 설문 조사, 설문, 작업 할당, 공지 사항, trainings 등에 대해 작업 카드를 사용할 수 있습니다. [Kaizala는 Office 365에서 사용할 수](https://products.office.com/en/business/microsoft-kaizala) 있으며 IPhone 및 Android에서는 작동 합니다. 자세한 내용을 보려면 [Kaizala 웹 사이트로](https://products.office.com/en/business/microsoft-kaizala)이동 하세요. 
   
 ## <a name="feature-availability"></a>기능 가용성
 

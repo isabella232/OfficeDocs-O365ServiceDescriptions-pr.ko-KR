@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365는 강력한 보안, 안정성 및 사용자 생산성에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되도록 설계 된 클라우드 기반 서비스입니다.
-ms.openlocfilehash: 0c7c14e53014af4bde6ba058b06f88e68cb97d73
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: d714677a9881713bb137a53ffad435a334eafa81
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890454"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38726086"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 서비스 설명 
 
@@ -40,7 +40,7 @@ Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365�
     
 - [Office 응용 프로그램 서비스 설명](office-applications-service-description/office-applications-service-description.md)
     
-- [웹 서비스에 대 한 Office 설명](office-online-service-description/office-online-service-description.md)
+- [웹용 Office 서비스 설명](office-online-service-description/office-online-service-description.md)
     
 - [Exchange Online 서비스 설명](exchange-online-service-description/exchange-online-service-description.md)
     
@@ -56,6 +56,8 @@ Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365�
     
 - [비즈니스용 Skype Online 서비스 설명](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
     
+- [브리핑 전자 메일 서비스 설명](briefing-service-description.md)
+
 - [Workplace Analytics 서비스 설명](workplace-analytics-service-description.md)
 
 - [MyAnalytics 서비스 설명](mya-service-description.md)
@@ -64,13 +66,13 @@ Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365�
     
 - [Project Online 서비스 설명](project-online-service-description/project-online-service-description.md)
     
-- [웹 서비스 설명에 대 한 Visio](visio-online-service-description/visio-online-service-description.md)
+- [웹용 Visio 서비스 설명](visio-online-service-description/visio-online-service-description.md)
     
 - [Yammer 서비스 설명](yammer-service-description/yammer-service-description.md)
 
 - [Microsoft 365 Business 서비스 설명](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Microsoft 365 테 넌 트 수준 서비스 라이선스 지침](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
+- [Microsoft 365 테넌트 수준 라이선싱 참고 자료](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
     
 - [Microsoft Dynamics 365(온라인) 서비스 설명](microsoft-dynamics-365-online-service-description.md)
     

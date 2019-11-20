@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business는 중소 규모의 비즈니스 고객을 위한 Microsoft 모범 사례 제품입니다. Microsoft 365 Business는 Office 365 생산성, 고급 보안 및 장치 관리를 함께 제공 하는 통합 솔루션입니다.
-ms.openlocfilehash: a02c6de6a1ffc46d5f1ea2b96ce864adfda56c11
-ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
+ms.openlocfilehash: 4b07cf8b823f0fa73fb13650bb108ff4c43a334b
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289788"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724666"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>중소기업을 위한 Microsoft 365 라이선싱
 
@@ -148,6 +148,7 @@ Microsoft 365 Business는 중소 규모의 비즈니스 (SMB) 고객을 위한 M
 |**규정 준수** | 무제한 전자 메일 보관<sup>2</sup> | 아니요 | 예 | 예 | 예 |
 |   | 고급 eDiscovery, 고객 Lockbox, 고급 데이터 거버넌스 | 아니요 | 아니요 | 아니요 | 예 |
 |**분석** | Power BI Pro, MyAnalytics | 아니요 | 아니요 | 아니요 | 예 |
+|**지원** | 브리핑 전자 메일 | 예 | 예 | 예 | 예 |
 |**음** | PSTN 회의, 클라우드 PBX | 아니요 | 아니요 | 아니요 | 예 |
 
 **참고**

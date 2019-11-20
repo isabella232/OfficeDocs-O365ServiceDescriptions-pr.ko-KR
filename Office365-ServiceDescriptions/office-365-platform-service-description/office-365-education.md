@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군을 microsoft Exchange Online, Microsoft SharePoint Online, Office를 비롯 한 클라우드 기반 Microsoft&mdash;의 차세대 통신 및 공동 작업 서비스와 결합 하 여 web 및 Microsoft 비즈니스용 Skype Online&mdash;을 사용 하 여 사용자가 인터넷에서 어디서 나 생산성을 유지 하는 데 도움을 받을 수 있습니다.
-ms.openlocfilehash: 522b0a6b383ae74b21ae07ce1578ce0218ae54cc
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군과 Microsoft Exchange Online, microsoft SharePoint Online, 웹을 위한 microsoft 비즈니스용 Skype 및&mdash;공동 작업 서비스를 포함 하 여, 사용자가 인터넷에서 거의 모든 위치에서 생산성을 유지&mdash;하는 데 도움을 주는 microsoft의 차세대 통신 및 협업 서비스가 제공 됩니다.
+ms.openlocfilehash: 958498bca50c736a37398c5ae59dfbe50fd7c4ec
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890444"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724646"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
-Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군을 microsoft Exchange Online, Microsoft SharePoint Online, Office를 비롯 한 클라우드 기반 Microsoft&mdash;의 차세대 통신 및 공동 작업 서비스와 결합 하 여 web 및 Microsoft 비즈니스용 Skype Online&mdash;을 사용 하 여 사용자가 인터넷에서 어디서 나 생산성을 유지 하는 데 도움을 받을 수 있습니다.
+Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군과 Microsoft Exchange Online, microsoft SharePoint Online, 웹을 위한 microsoft 비즈니스용 Skype 및&mdash;공동 작업 서비스를 포함 하 여, 사용자가 인터넷에서 거의 모든 위치에서 생산성을 유지&mdash;하는 데 도움을 주는 microsoft의 차세대 통신 및 협업 서비스가 제공 됩니다.
   
 이 문서에서는 Office 365 교육 계획 (A1, A3 및 A5)에 대 한 기능을 소개 합니다. 비즈니스 계획과 기업 계획 간에 기능을 비교 하려면 office [365 For 비즈니스 요금제 비교](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) 또는 자세한 기능 목록을 보려면 [Office 365 서비스 설명](../office-365-service-descriptions-technet-library.md)에서 관련 서비스 설명을 참조 하세요.
   
@@ -71,6 +71,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |Azure Information Protection을 사용하여 콘텐츠 보호  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[Office 365 제품군 기능](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft Bookings  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|Microsoft 브리핑 전자 메일<sup>10</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Flow  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Forms  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Graph API  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -188,6 +189,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 <sup>7</sup> 고급 EDiscovery는 미국과 서유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.) <br>
 <sup>8</sup> 각 계획에 포함 된 Microsoft Stream 기능에 대 한 자세한 내용은 [Stream license overview](https://stream.microsoft.com/documentation/stream-license-overview/)를 참조 하십시오.<br>
 <sup>9</sup> 자세한 내용은 [myanalytics 요금제 and 환경용](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)을 참조 하십시오.<br>
+<sup>10</sup> Exchange Online의 모든 사용자에 게 브리핑 전자 메일이 자동으로 제공 됩니다. 자세한 내용은 [브리핑 전자 메일 구성을](https://docs.microsoft.com/Briefing/be-admin)참조 하세요.<br>
 
 ## <a name="office-365-security-amp-compliance-center-features"></a>Office 365 보안 &amp; 및 준수 센터 기능
 
@@ -284,7 +286,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 > [!NOTE]
 > <sup>1</sup> WINDOWS SERVER AD RMS는 지원 되는 IRM 기능을 사용 하기 위해 별도로 구입 하 여 관리 해야 하는 온-프레미스 서버입니다. <br/> 
 <sup>2</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 Skype 응용 프로그램이 포함됩니다. 비즈니스용 Skype 온라인 라이선스가 각 사용자에게 할당되어 있어야 합니다. Lync 기본 기능에 대 한 자세한 내용은 [데스크톱 클라이언트 비교 표](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)를 참조 하십시오. <br/> 
-<sup>3</sup> 일부 학교는 교육 Plus를 위한 자격이 있고 Office 365 ProPlus를 포함 하 고 학생, 교직원 및 직원이 최대 5 대의 PC 또는 Mac 컴퓨터 및 기타 모바일 장치 (Windows 태블릿 및를 포함 한)에 최신 버전의 Office를 설치할 수 있도록 허용 합니다. 용. Enrollment for Education Solutions, Open Value Subscription Education Solutions 또는 학교 계약을 통해 교직원 및 직원에게 기관용 Office 라이선스를 허가한 학교는 Office 365 Education Plus를 이용할 수 있습니다. Access 및 Publisher는 PC에서만 사용할 수 있습니다. Mac용 OneNote는 Mac 앱 스토어에서 별도로 다운로드할 수 있습니다. <br/> 
+<sup>3</sup> 일부 학교는 교육 Plus에 적격 하 여 Office 365 ProPlus를 포함 하 고 학생, 교직원 및 직원이 최대 5 대의 PC 또는 Mac 컴퓨터 및 Windows 태블릿 및 iPad를 비롯 한 다른 모바일 장치에 Office의 최신 버전을 설치할 수 있도록 허용 합니다. Enrollment for Education Solutions, Open Value Subscription Education Solutions 또는 학교 계약을 통해 교직원 및 직원에게 기관용 Office 라이선스를 허가한 학교는 Office 365 Education Plus를 이용할 수 있습니다. Access 및 Publisher는 PC에서만 사용할 수 있습니다. Mac용 OneNote는 Mac 앱 스토어에서 별도로 다운로드할 수 있습니다. <br/> 
 <sup>4</sup> 웹 버전에 대 한 Office가 포함 됩니다. 자세한 내용은 [Office for web features](office-365-education.md#office-for-the-web-features) 를 참조 하세요.
   
 ## <a name="office-for-the-web-features"></a>웹 기능 용 Office
@@ -1146,7 +1148,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |참가자 선택 보기  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |OneNote 공유  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |애드혹 및 웹 회의 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|오디오 회의를 통한 비즈니스용 Skype 모임 전화 접속 (첫 번째 파티)  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
+|오디오 회의를 통한 비즈니스용 Skype 모임 전화 접속 (첫 번째 파티)  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |ACP (공인 오디오 회의 공급자)를 통한 비즈니스용 Skype 모임 전화 접속  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |PowerPoint 공유  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |파일 전송  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -1165,12 +1167,12 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |모임을 예약 하기 위한 Outlook 위임  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Outlook에서 정적 모임 ID로 공개 모임 만들기  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |**음성 통화** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|자동 전화 교환  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
+|자동 전화 교환  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |다른 용무 중 옵션  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |지점 존속성  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |통화 허용 제어  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |통화 받기/시작  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|통화 위임  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
+|통화 위임  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |착신 전환 및 동시 연결  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |통화 기록  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |통화 대기/검색  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -1181,15 +1183,15 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |자동 대기  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |PC, Mac 및 Mobile용 클라이언트  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |장치 전환  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|특수 전화 벨 소리  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
+|특수 전화 벨 소리  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |라우팅 방해 금지  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|긴급 통화 - 고정 위치  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
+|긴급 통화 - 고정 위치  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |긴급 통화 - 동적 위치  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Enterprise 달력 통화 라우팅  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |내선 통화  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |그룹 통화 받기  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|헌트 그룹/통화 큐 및 처리  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
-|통합 다이얼 패드  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
+|헌트 그룹/통화 큐 및 처리  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|통합 다이얼 패드  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |위치 기반 라우팅  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |통화 대기음  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |아웃바운드 DID 조작  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |

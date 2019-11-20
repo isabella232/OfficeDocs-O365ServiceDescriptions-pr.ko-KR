@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와 차별화 된 옵션입니다. 독일어 데이터 센터에서 업계 최고의 생산성 서비스를 제공 하는 독일, 유럽 연합 (EU) 및 상주 (유럽 자유 무역 협회)의 요구를 해결 하는 데 도움이 됩니다. 독일어 법률에 따라 관리 되는 고유한 데이터 트러스티 모델을 통해 독일 및 엄격한 데이터 액세스 및 제어 조치를 사용 합니다.
-ms.openlocfilehash: 25487d7219deaa92ebbff944e016fbd46cc75cce
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: b4715e6d3439b206ecaf514bf833963f95aa455d
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911811"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724696"
 ---
-# <a name="office-365-germany"></a>Office 365 독일
+# <a name="office-365-germany"></a>Office 365 Germany
 
 Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와 차별화 된 옵션입니다. 독일어 데이터 센터에서 업계 최고의 생산성 서비스를 제공 하는 독일, 유럽 연합 (EU) 및 상주 (유럽 자유 무역 협회)의 요구를 해결 하는 데 도움이 됩니다. 독일어 법률에 따라 관리 되는 고유한 데이터 트러스티 모델을 통해 독일 및 엄격한 데이터 액세스 및 제어 조치를 사용 합니다.
 
@@ -77,6 +77,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |Azure Information Protection을 사용하여 콘텐츠 보호|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|아니요|아니요|No<sup>2</sup>|
 |**[Office 365 제품군 기능](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Microsoft Bookings|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
+|Microsoft 브리핑 전자 메일|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Microsoft Flow|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Microsoft Forms|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Microsoft MyAnalytics|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -276,11 +277,11 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[비즈니스용 Skype](../office-applications-service-description/office-applications.md#skype-for-business)|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|예|예|아니요|
 |[Windows 10 앱](../office-applications-service-description/office-applications.md#windows-10-apps)|예|예|예|
-|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|아니요|예|예|
-|[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|아니요|예|예|
-|[Android용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android)|아니요|예|예|
-|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니요|예|예|
-|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니요|예|예|
+|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|아니요|지원|예|
+|[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|아니요|지원|예|
+|[Android용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android)|아니요|지원|예|
+|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니요|지원|예|
+|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니요|지원|예|
 |Android 용 Outlook<sup>11</sup>|아니요|아니요|아니요|
 |**Enterprise 값**|**Office Professional Plus 2013**|**Office Professional Plus 2016**|**Office 365 ProPlus**|
 |PC 또는 Mac에서 사용자당 5건의 동시 설치 지원|아니요|예|예<sup>8</sup>|
@@ -585,7 +586,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |**IT 전문가 기능**|**비즈니스용 OneDrive 계획 1**|**비즈니스용 OneDrive 계획 2**|**SharePoint Online 계획 1**|**SharePoint Online 계획 2**|
 |[Active Directory 동기화](../sharepoint-online-service-description/it-professional.md#active-directory-synchronization)|예|예|예|예|
 |[AAM (대체 액세스 매핑)](../sharepoint-online-service-description/it-professional.md#alternate-access-mapping-aam)|아니요|아니요|아니요|아니요|
-|분석 플랫폼|아니요|아니요|예|예|
+|분석 플랫폼|아니요|아니요|있음|예|
 |[맬웨어 방지 보호 기능](../sharepoint-online-service-description/it-professional.md#anti-malware-protection)|예|예|예|예|
 |[클레임 기반 인증 지원](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support)|아니요|아니요|아니요|아니요|
 |구성 마법사|아니요|아니요|아니요|아니요|
@@ -625,7 +626,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[감사](../sharepoint-online-service-description/content.md#auditing)|예|예|예|예|
 |[감사 &amp; 보고 (예: 문서 편집, 정책 편집, 삭제)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes)|예|예|예|예|
 |[콘텐츠 구성 도우미](../sharepoint-online-service-description/content.md#content-organizer)|아니요|아니요|예|예|
-|[디자인 관리자](../sharepoint-online-service-description/content.md#design-manager)|아니요|아니요|예|예|
+|[디자인 관리자](../sharepoint-online-service-description/content.md#design-manager)|아니요|아니요|있음|예|
 |[문서 집합](../sharepoint-online-service-description/content.md#document-sets)|예|예|예|예|
 |[웹에 대 한 Word의 문서 번역](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web)|예|예|예|예|
 |[eDiscovery 검색](../sharepoint-online-service-description/content.md#ediscovery-search)|예|예|예|예|
@@ -648,22 +649,22 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |PowerPoint Automation Services|아니요|아니요|아니요|아니요|
 |[자료 보존 라이브러리](../sharepoint-online-service-description/content.md#preservation-hold-library)|아니요|예|아니요|예|
 |[빠른 편집](../sharepoint-online-service-description/content.md#quick-edit)|예|예|예|예|
-|[레코드 관리](../sharepoint-online-service-description/content.md#records-management)|아니요|아니요|예|예|
+|[레코드 관리](../sharepoint-online-service-description/content.md#records-management)|아니요|아니요|있음|예|
 |[휴지통(SharePoint 관리 센터)](../sharepoint-online-service-description/content.md#recycle-bin-sharepoint-admin-center)|예|예|예|예|
 |[휴지통(사이트 모음)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection)|예|예|예|예|
-|관련 항목|아니요|아니요|예|예|
-|리치 미디어 관리|아니요|아니요|예|예|
+|관련 항목|아니요|아니요|있음|예|
+|리치 미디어 관리|아니요|아니요|있음|예|
 |[공유 콘텐츠 형식](../sharepoint-online-service-description/content.md#shared-content-types)|예|예|예|예|
-|[SharePoint 번역 서비스](../sharepoint-online-service-description/content.md#sharepoint-translation-services)|아니요|아니요|예|예|
+|[SharePoint 번역 서비스](../sharepoint-online-service-description/content.md#sharepoint-translation-services)|아니요|아니요|있음|예|
 |설문 조사|예|예|예|예|
 |[고유 문서 ID](../sharepoint-online-service-description/content.md#unique-document-ids)|예|예|예|예|
 |[비디오 검색](../sharepoint-online-service-description/content.md#video-search)|아니요|아니요|아니요|있음|
-|[게시 분석](../sharepoint-online-service-description/content.md#publishing-analytics)|아니요|아니요|예|예|
+|[게시 분석](../sharepoint-online-service-description/content.md#publishing-analytics)|아니요|아니요|있음|예|
 |[카탈로그](../sharepoint-online-service-description/content.md#catalog)|아니요|아니요|아니요|있음|
 |[범주 페이지 및 카탈로그 항목 페이지](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page)|아니요|아니요|아니요|있음|
 |[검색 웹 파트](../sharepoint-online-service-description/content.md#search-web-parts)|아니요|아니요|아니요|있음|
 |[교차 사이트 게시](../sharepoint-online-service-description/content.md#cross-site-publishing)|아니요|아니요|아니요|있음|
-|WCM: 디자이너 도구|아니요|아니요|예|예|
+|WCM: 디자이너 도구|아니요|아니요|있음|예|
 |[패싯 탐색](../sharepoint-online-service-description/content.md#faceted-navigation)|아니요|아니요|아니요|아니요|
 |[이미지 변환](../sharepoint-online-service-description/content.md#image-renditions)|아니요|아니요|예|예|
 |WCM: Managed navigation|아니요|아니요|예|예|
@@ -673,22 +674,22 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[WCM: SEO (검색 엔진 최적화)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|아니요|아니요|예|예|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|아니요|아니요|아니요|아니요|
 |**인사이트 기능**|**비즈니스용 OneDrive 계획 1**|**비즈니스용 OneDrive 계획 2**|**SharePoint Online 계획 1**|**SharePoint Online 계획 2**|
-|[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center)|아니요|아니요|아니요|예|
-|[계산 된 측정값 및 구성원](../sharepoint-online-service-description/insights.md#calculated-measures-and-members)|아니요|아니요|아니요|예|
-|[데이터 연결 라이브러리](../sharepoint-online-service-description/insights.md#data-connection-library)|아니요|아니요|아니요|예|
+|[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center)|아니요|아니요|아니요|있음|
+|[계산 된 측정값 및 구성원](../sharepoint-online-service-description/insights.md#calculated-measures-and-members)|아니요|아니요|아니요|있음|
+|[데이터 연결 라이브러리](../sharepoint-online-service-description/insights.md#data-connection-library)|아니요|아니요|아니요|있음|
 |[분리된 피벗 테이블 및 피벗 차트](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts)|아니요|아니요|아니요|예|
-|[Excel Services](../sharepoint-online-service-description/insights.md#excel-services)|아니요|아니요|아니요|예|
-|[필드 목록 및 필드 지원](../sharepoint-online-service-description/insights.md#field-list-and-field-support)|아니요|아니요|아니요|예|
-|[향상 된 필터](../sharepoint-online-service-description/insights.md#filter-enhancements)|아니요|아니요|아니요|예|
-|[필터 검색](../sharepoint-online-service-description/insights.md#filter-search)|아니요|아니요|아니요|예|
+|[Excel Services](../sharepoint-online-service-description/insights.md#excel-services)|아니요|아니요|아니요|있음|
+|[필드 목록 및 필드 지원](../sharepoint-online-service-description/insights.md#field-list-and-field-support)|아니요|아니요|아니요|있음|
+|[향상 된 필터](../sharepoint-online-service-description/insights.md#filter-enhancements)|아니요|아니요|아니요|있음|
+|[필터 검색](../sharepoint-online-service-description/insights.md#filter-search)|아니요|아니요|아니요|있음|
 |[PerformancePoint Services](../sharepoint-online-service-description/insights.md#performancepoint-services)|아니요|아니요|아니요|아니요|
 |PerformancePoint Services (PPS) Dashboard Migration|아니요|아니요|아니요|아니요|
-|[SharePoint의 Excel용 Power View](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint)|아니요|아니요|아니요|예|
-|[SharePoint의 Excel용 Power Pivot](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint)|아니요|아니요|아니요|예|
-|[빠른 탐색](../sharepoint-online-service-description/insights.md#quick-explore)|아니요|아니요|아니요|예|
+|[SharePoint의 Excel용 Power View](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint)|아니요|아니요|아니요|있음|
+|[SharePoint의 Excel용 Power Pivot](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint)|아니요|아니요|아니요|있음|
+|[빠른 탐색](../sharepoint-online-service-description/insights.md#quick-explore)|아니요|아니요|아니요|있음|
 |Scorecards & Dashboards|아니요|아니요|아니요|아니요|
 |[SSRS(SQL Server Reporting Services) 통합 모드](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode)|아니요|아니요|아니요|아니요|
-|[시간 표시 막대 슬라이서](../sharepoint-online-service-description/insights.md#timeline-slicer)|아니요|아니요|아니요|예|
+|[시간 표시 막대 슬라이서](../sharepoint-online-service-description/insights.md#timeline-slicer)|아니요|아니요|아니요|있음|
 |[Visio for 웹](https://docs.microsoft.com/office365/servicedescriptions/visio-online-service-description/visio-online-service-description)<sup>4</sup>|예|예|예|예|
 |[Visio Services](../sharepoint-online-service-description/insights.md#visio-services)<sup>4</sup>|아니요|아니요|아니요|아니요|
 |**검색 기능**|**비즈니스용 OneDrive 계획 1**|**비즈니스용 OneDrive 계획 2**|**SharePoint Online 계획 1**|**SharePoint Online 계획 2**|
@@ -710,7 +711,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[쿼리 추천 단어](../sharepoint-online-service-description/search.md#query-suggestions)|아니요|아니요|예|예|
 |Query throttling|아니요|아니요|예|예|
 |[대화형 미리 보기](../sharepoint-online-service-description/search.md#on-hover-preview)|예|예|예|예|
-|[순위 모델](../sharepoint-online-service-description/search.md#ranking-models)|아니요|예|예<sup>2</sup>|예<sup>2</sup>|
+|[순위 모델](../sharepoint-online-service-description/search.md#ranking-models)|아니요|있음|예<sup>2</sup>|예<sup>2</sup>|
 |[구체화](../sharepoint-online-service-description/search.md#refiners)|예|예|예|예|
 |[RESTful 쿼리 API/쿼리 OM](../sharepoint-online-service-description/search.md#restful-query-apiquery-om)|예|예|예|예|
 |Result sources|예|예|예|예|
@@ -808,9 +809,9 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[앱 배포: 클라우드 호스트 앱](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|예|예|예|예|예|예|예|예|
 |[앱 배포: SharePoint 호스트 앱](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|예|예|예|예|예|예|예|예|
 |[App Management Service](../sharepoint-online-service-description/developer.md#app-management-service)|예|예|예|예|예|예|예|예|
-|BCS: 외부 목록에 대 한 경고|아니요|아니요|아니요|예|아니요|예|예|아니요|
-|[BCS: 앱 범위가 지정 된 Ect (외부 콘텐츠 형식)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|아니요|아니요|아니요|예|아니요|예|예|아니요|
-|[BCS: 비즈니스 데이터 웹 파트](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|BCS: 외부 목록에 대 한 경고|아니요|아니요|아니요|예|아니요|있음|예|아니요|
+|[BCS: 앱 범위가 지정 된 Ect (외부 콘텐츠 형식)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
+|[BCS: 비즈니스 데이터 웹 파트](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
 |[BCS: 외부 목록](../sharepoint-online-service-description/developer.md#bcs-external-list)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
 |[BCS: OData 커넥터](../sharepoint-online-service-description/developer.md#bcs-odata-connector)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
 |BCS: Profile Pages|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -918,36 +919,36 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[비디오 검색](../sharepoint-online-service-description/content.md#video-search)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
 |[게시 분석](../sharepoint-online-service-description/content.md#publishing-analytics)|예|아니요|있음|예|예|예|예|예|
 |[카탈로그](../sharepoint-online-service-description/content.md#catalog)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
-|[범주 페이지 및 카탈로그 항목 페이지](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page)|아니요|아니요|아니요|예|아니요|예|예|아니요|
-|[검색 웹 파트](../sharepoint-online-service-description/content.md#search-web-parts)|아니요|아니요|아니요|예|아니요|예|예|아니요|
-|[교차 사이트 게시](../sharepoint-online-service-description/content.md#cross-site-publishing)|아니요|아니요|아니요|예|아니요|예|예|아니요|
-|WCM: 디자이너 도구|예|아니요|예|예|예|예|예|예|
+|[범주 페이지 및 카탈로그 항목 페이지](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
+|[검색 웹 파트](../sharepoint-online-service-description/content.md#search-web-parts)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
+|[교차 사이트 게시](../sharepoint-online-service-description/content.md#cross-site-publishing)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
+|WCM: 디자이너 도구|예|아니요|있음|예|예|예|예|예|
 |[패싯 탐색](../sharepoint-online-service-description/content.md#faceted-navigation)|아니요|아니요|아니요|아니요|아니요|예<sup>7</sup>|예<sup>7</sup>|아니요|
-|[이미지 변환](../sharepoint-online-service-description/content.md#image-renditions)|예|아니요|예|예|예|예|예|예|
-|WCM: Managed navigation|예|아니요|예|예|예|예|예|예|
-|WCM: 모바일 및 장치 렌더링|예|아니요|예|예|예|예|예|예|
+|[이미지 변환](../sharepoint-online-service-description/content.md#image-renditions)|예|아니요|있음|예|예|예|예|예|
+|WCM: Managed navigation|예|아니요|있음|예|예|예|예|예|
+|WCM: 모바일 및 장치 렌더링|예|아니요|있음|예|예|예|예|예|
 |WCM: 여러 도메인|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|WCM: Recommendations|예|아니요|예|예|예|예|예|예|
-|[WCM: SEO (검색 엔진 최적화)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|예|아니요|예|예|예|예|예|예|
+|WCM: Recommendations|예|아니요|있음|예|예|예|예|예|
+|[WCM: SEO (검색 엔진 최적화)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|예|아니요|있음|예|예|예|예|예|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**인사이트 기능**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center)|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
-|[계산 된 측정값 및 구성원](../sharepoint-online-service-description/insights.md#calculated-measures-and-members)|아니요|아니요|아니요|예|아니요|예|예|아니요|
-|[데이터 연결 라이브러리](../sharepoint-online-service-description/insights.md#data-connection-library)|아니요|아니요|아니요|예|아니요|예|예|아니요|
-|[분리된 피벗 테이블 및 피벗 차트](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts)|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center)|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
+|[계산 된 측정값 및 구성원](../sharepoint-online-service-description/insights.md#calculated-measures-and-members)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
+|[데이터 연결 라이브러리](../sharepoint-online-service-description/insights.md#data-connection-library)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
+|[분리된 피벗 테이블 및 피벗 차트](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
 |Excel Services|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|[필드 목록 및 필드 지원](../sharepoint-online-service-description/insights.md#field-list-and-field-support)|아니요|아니요|아니요|예|아니요|예|예|아니요|
-|[향상 된 필터](../sharepoint-online-service-description/insights.md#filter-enhancements)|아니요|아니요|아니요|예|아니요|예|예|아니요|
-|[필터 검색](../sharepoint-online-service-description/insights.md#filter-search)|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|[필드 목록 및 필드 지원](../sharepoint-online-service-description/insights.md#field-list-and-field-support)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
+|[향상 된 필터](../sharepoint-online-service-description/insights.md#filter-enhancements)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
+|[필터 검색](../sharepoint-online-service-description/insights.md#filter-search)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
 |[PerformancePoint Services](../sharepoint-online-service-description/insights.md#performancepoint-services)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |PerformancePoint Services (PPS) Dashboard Migration|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Power BI|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|[SharePoint의 Excel용 Power View](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint)|아니요|아니요|아니요|예|아니요|예|예|아니요|
-|[SharePoint의 Excel용 Power Pivot](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint)|아니요|아니요|아니요|예|아니요|예|예|아니요|
-|[빠른 탐색](../sharepoint-online-service-description/insights.md#quick-explore)|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|[SharePoint의 Excel용 Power View](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
+|[SharePoint의 Excel용 Power Pivot](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
+|[빠른 탐색](../sharepoint-online-service-description/insights.md#quick-explore)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
 |성과 기록표 & 대시보드|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |[SSRS(SQL Server Reporting Services) 통합 모드](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-web-part)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|[시간 표시 막대 슬라이서](../sharepoint-online-service-description/insights.md#timeline-slicer)|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|[시간 표시 막대 슬라이서](../sharepoint-online-service-description/insights.md#timeline-slicer)|아니요|아니요|아니요|예|아니요|있음|예|아니요|
 |[데이터 모델을 포함하는 Excel 통합 문서 사용 및 상호 작용](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models)|예|예|예|예|예|예|예|예|
 |[Visio for 웹](../visio-online-service-description/visio-online-service-description.md)<sup>18</sup>|예|예|예|예|예|예|예|예|
 |[Visio Services](../sharepoint-online-service-description/insights.md#visio-services)<sup>18</sup>|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
