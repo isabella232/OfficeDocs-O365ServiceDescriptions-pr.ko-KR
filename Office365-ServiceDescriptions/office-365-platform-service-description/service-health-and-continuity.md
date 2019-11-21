@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 관리자는 서비스 상태를 보고 유지 관리 예정 시간을 확인할 수 있습니다. 서비스 상태 정보는 언제 든 지 Office 365에 로그인 하 여 사용할 수 있습니다.
-ms.openlocfilehash: 6265dd28d03099281a9ee2540c5a775daa32108f
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: d9f70d69be201d3ccd7724751eec614173ce7b2d
+ms.sourcegitcommit: 8c906991cf9180fee9ac55f5ac182ade69607d3c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911802"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38752717"
 ---
 # <a name="service-health-and-continuity"></a>서비스 상태 및 연속성
 
@@ -49,7 +49,7 @@ Office 365의 서비스 상태 섹션에는 서비스의 현재 상태와 서비
 |**2019** <br/> ||||
 |:-----|:-----|:-----|:-----|
 | **사분기** <br/> | **2006** <br/> |**만들고** <br/> |**Q4** <br/> |
-| 99.97% <br/> | 99.97% <br/> |  <br/> |  <br/> |
+| 99.97% <br/> | 99.97% <br/> | 99.98% <br/> |  <br/> |
 
 <br/>
 
@@ -75,7 +75,7 @@ Office 365의 서비스 상태 섹션에는 서비스의 현재 상태와 서비
 
 ### <a name="office-365-admin-app"></a>Office 365 관리 앱
 
-관리 앱 for Office 365 테 넌 트 관리자는 이동 중에 조직의 Office 365 서비스 상태에 연결 하는 기능을 제공 합니다. Office 365 테 넌 트 관리자는 모바일 장치에서 서비스 상태 정보 및 유지 관리 상태 업데이트를 볼 수 있습니다. 자세한 내용은 [관리 앱 FAQ](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)를 참조하세요.
+관리 앱 for Office 365 테 넌 트 관리자는 이동 중에 조직의 Office 365 서비스 상태에 연결 하는 기능을 제공 합니다. Office 365 테 넌 트 관리자는 모바일 장치에서 서비스 상태 정보 및 유지 관리 상태 업데이트를 볼 수 있습니다. 자세한 내용은 [관리자 앱 FAQ](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)를 참조하세요.
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Microsoft System Center 2012 R2용 Office 365 관리 팩
 

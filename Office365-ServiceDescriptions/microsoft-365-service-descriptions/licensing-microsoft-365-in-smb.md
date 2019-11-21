@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business는 중소 규모의 비즈니스 고객을 위한 Microsoft 모범 사례 제품입니다. Microsoft 365 Business는 Office 365 생산성, 고급 보안 및 장치 관리를 함께 제공 하는 통합 솔루션입니다.
-ms.openlocfilehash: 4b07cf8b823f0fa73fb13650bb108ff4c43a334b
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: ea6c46c83d00db1bebe17b8dbeae0ea7457d115b
+ms.sourcegitcommit: 28be53d2579d91cd76b9f047f13a309a3c0b9dd4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724666"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38755476"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>중소기업을 위한 Microsoft 365 라이선싱
 
@@ -148,6 +148,7 @@ Microsoft 365 Business는 중소 규모의 비즈니스 (SMB) 고객을 위한 M
 |**규정 준수** | 무제한 전자 메일 보관<sup>2</sup> | 아니요 | 예 | 예 | 예 |
 |   | 고급 eDiscovery, 고객 Lockbox, 고급 데이터 거버넌스 | 아니요 | 아니요 | 아니요 | 예 |
 |**분석** | Power BI Pro, MyAnalytics | 아니요 | 아니요 | 아니요 | 예 |
+| | MyAnalytics에서의 정보 | 예 | 예 | 예 | 예 |
 |**지원** | 브리핑 전자 메일 | 예 | 예 | 예 | 예 |
 |**음** | PSTN 회의, 클라우드 PBX | 아니요 | 아니요 | 아니요 | 예 |
 
@@ -166,7 +167,7 @@ Microsoft 365 Business는 중소 규모의 비즈니스 (SMB) 고객을 위한 M
 | PowerPoint       | 예                     | 예                    |
 | OneNote          | 예                     | 예                    |
 | Outlook          | 예                     | 예                    |
-| Publisher        | 예                     | 예                    |
+| 게시자        | 예                     | 예                    |
 | Access           | 예                     | 예                    |
 | Microsoft Teams  | 예                     | 예                    |
 | **프리미엄 값**                             | **Office 365 Business** | **Office 365 ProPlus** |
@@ -190,9 +191,9 @@ Microsoft 365 Business는 중소 규모의 비즈니스 (SMB) 고객을 위한 M
 | **라이선스**                                   | **Office 365 Business** | **Office 365 ProPlus** |
 | 라이선스 모델                                 | 사용자 당                | 사용자 당               |
 | 라이선스 유형                                    | 구독은            | 구독은           |
-| PC/Mac 설치<sup>6</sup>                     | 2-5                       | 2-5                      |
-| iOS/Android smartphone 설치<sup>6</sup>     | 2-5                       | 2-5                      |
-| 태블릿 설치<sup>6</sup>                     | 2-5                       | 2-5                      |
+| PC/Mac 설치<sup>6</sup>                     | 5                        | 5                       |
+| iOS/Android smartphone 설치<sup>6</sup>     | 5                        | 5                       |
+| 태블릿 설치<sup>6</sup>                     | 5                        | 5                       |
 | Office RT 상업용 권한                     | 예                     | 예                    |
 | Office Online/web apps                          | 예                     | 예                    |
 | 상업적 사용 권한                           | 예                     | 예                    |
