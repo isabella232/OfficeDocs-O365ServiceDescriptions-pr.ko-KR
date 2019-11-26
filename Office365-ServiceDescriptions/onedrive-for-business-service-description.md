@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 각 구독 계획에 대해 제공되는 OneDrive 저장 공간에 알아봅니다.
-ms.openlocfilehash: 34ed849f989c4711b40b469539b48ac091b297b0
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 63ab72221fa009384baad0fd7367c676d84798b5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734005"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263482"
 ---
 # <a name="onedrive-for-business-service-description"></a>비즈니스용 OneDrive 서비스 설명
 
@@ -42,7 +42,7 @@ IT 부서에서 분명하게 사용하지 않도록 설정한 경우가 아니�
   
 ## <a name="storage-space-per-user"></a>사용자당 저장소 공간
 
-**5 GB**
+**2GB**
 
 - Office 365 Enterprise F1
 
