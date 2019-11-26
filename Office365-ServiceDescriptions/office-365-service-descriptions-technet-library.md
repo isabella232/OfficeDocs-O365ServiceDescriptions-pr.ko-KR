@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365는 강력한 보안, 안정성 및 사용자 생산성에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되도록 설계 된 클라우드 기반 서비스입니다.
-ms.openlocfilehash: d714677a9881713bb137a53ffad435a334eafa81
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 45f666b7b3cf741bc101bf8dbfeef2a50dd85206
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38726086"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262039"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 서비스 설명 
 
@@ -30,7 +30,7 @@ Microsoft Office 365는 강력한 보안, 안정성 및 사용자 생산성에 �
 지원 문서와 정보를 검색하려면 [Office 지원](https://support.office.com/)을 참조하세요.
   
 > [!NOTE]
-> 서비스 설명 비교 스프레드시트에 대한 내용은 더 이상 사용되지 않습니다. 각 서비스 설명 페이지의 제품 기능 가용성 표가 필요에 맞는 Office 365 버전을 선택하는 데 도움이 되도록 업데이트되었습니다. 
+> 서비스 설명 비교 스프레드시트를 찾으려는 경우에는이를 폐기 해야 합니다. 각 서비스 설명 페이지의 제품 기능 가용성 표가 필요에 맞는 Office 365 버전을 선택 하는 데 도움이 되도록 업데이트 되었습니다. 
   
 Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365의 FastTrack 센터 혜택을 제공 합니다. 이를 통해 Microsoft 전문가와 원격으로 작업 하 여 Office 365 환경을 준비 하 고 사용할 수 있습니다. 자세한 내용은 [Office 365용 FastTrack Center 혜택](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)을 참조합니다.
   
@@ -40,7 +40,7 @@ Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365�
     
 - [Office 응용 프로그램 서비스 설명](office-applications-service-description/office-applications-service-description.md)
     
-- [웹용 Office 서비스 설명](office-online-service-description/office-online-service-description.md)
+- [웹 서비스에 대 한 Office 설명](office-online-service-description/office-online-service-description.md)
     
 - [Exchange Online 서비스 설명](exchange-online-service-description/exchange-online-service-description.md)
     
@@ -48,7 +48,7 @@ Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365�
     
 - [Office 365 Advanced Threat Protection 서비스 설명](office-365-advanced-threat-protection-service-description.md)
     
-- [Exchange Online Archiving 서비스 설명](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
+- [Exchange Online 보관 서비스 설명](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
     
 - [비즈니스용 OneDrive 서비스 설명](onedrive-for-business-service-description.md)
     
@@ -58,7 +58,7 @@ Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365�
     
 - [브리핑 전자 메일 서비스 설명](briefing-service-description.md)
 
-- [Workplace Analytics 서비스 설명](workplace-analytics-service-description.md)
+- [회사 분석 서비스 설명](workplace-analytics-service-description.md)
 
 - [MyAnalytics 서비스 설명](mya-service-description.md)
     
@@ -66,15 +66,15 @@ Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365�
     
 - [Project Online 서비스 설명](project-online-service-description/project-online-service-description.md)
     
-- [웹용 Visio 서비스 설명](visio-online-service-description/visio-online-service-description.md)
+- [웹 서비스 설명에 대 한 Visio](visio-online-service-description/visio-online-service-description.md)
     
 - [Yammer 서비스 설명](yammer-service-description/yammer-service-description.md)
 
-- [Microsoft 365 Business 서비스 설명](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Microsoft 365 Business service 설명](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Microsoft 365 테넌트 수준 라이선싱 참고 자료](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
+- [Microsoft 365 테 넌 트 수준 서비스 라이선스 지침](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
     
-- [Microsoft Dynamics 365(온라인) 서비스 설명](microsoft-dynamics-365-online-service-description.md)
+- [Microsoft Dynamics 365 (온라인) 서비스 설명](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
 > <sup>1</sup> Office Delve, Microsoft MyAnalytics, Microsoft Sway 및 Microsoft Teams와 같은 [제품군 기능](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features)의 가용성이 포함되어 있습니다.

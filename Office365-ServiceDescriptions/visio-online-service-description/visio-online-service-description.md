@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: 웹에서 Visio를 사용 하 여 웹에서 Visio 다이어그램을 보고, 편집 하 고, 공유할 수 있습니다.
-ms.openlocfilehash: d56a6dfa84925c9bacaabeae8280923cdb14a909
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 808130302fe027f65d3e6c1bae7b445a6f0ceae9
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700240"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263231"
 ---
 # <a name="visio-for-the-web-service-description"></a>웹 서비스 설명에 대 한 Visio
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365은 업계 표준 및 규정을 준수 하며, 비즈니스에 대 한 규정 요구 사항을 충족 하는 데 도움이 되도록 설계 되었습니다. 자세한 내용은 준수 서비스를 참조 하세요.
-ms.openlocfilehash: 8d93ff65402361b610ef6a41ed855667a0cdc8b6
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: 71caa7bdb60410bbebce86c60564438d37d47e55
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523463"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262871"
 ---
 # <a name="compliance"></a>규정 준수
 
@@ -101,7 +101,7 @@ Office 365 준수 및 감사 보고서에 대 한 자세한 내용은 Service Tr
     
 - **Office 365에서 어떻게 PCI-DSS를 사용 하 여 조직에서 지원 하나요?**
     
-  - Office 365에서는 고객이 커뮤니케이션 및 공동 작업을 할 수 있는 안전한 플랫폼을 제공 합니다. Microsoft는 서비스를 안전 하 게 운영 하 고, 수명 주기 동안 데이터를 보호 하는 데 사용할 수 있는 다양 한 준수 및 보안 기능 집합을 제공 합니다. [DLP (데이터 손실 방지)](https://go.microsoft.com/fwlink/?linkid=868520), [고급 데이터 거 버 넌 스](https://go.microsoft.com/fwlink/?linkid=863925), [Azure Information Protection (aip)](https://go.microsoft.com/fwlink/?linkid=868521)등의 기능을 사용 하 여 신용 카드 번호와 같은 데이터를 SWIFT 때 중요 한 콘텐츠를 자동으로 검색 하 고 레이블을 지정 하는 정책을 설정할 수 있습니다. 코드, ABA 라우팅 번호 등이 존재 합니다. [여기](https://go.microsoft.com/fwlink/?linkid=868522)에서 기본 제공 중요 한 정보 유형 목록을 찾을 수 있으며, [여기](https://go.microsoft.com/fwlink/?linkid=868523) 에 나와 있는 지침을 수행 하 여 자체 중요 한 정보 유형을 만들 수도 있습니다. 고객이 특정 기간 동안 데이터를 자동으로 보존 하 고 사용자가 중요 한 데이터를 공유 하지 못하도록 하 여 해당 콘텐츠를 보호할 수 있습니다. 고객이 조직의 내부 또는 외부에 있는 사용자와 전자 메일을 통해 중요 한 데이터를 공유 해야 하는 경우 고객은 승인 된 사용자만 보호 된 메시지를 읽을 수 있도록 [Office 365 메시지 암호화](https://go.microsoft.com/fwlink/?linkid=858986) 를 통해 암호화 및 권한 보호를 적용할 수 있습니다. 
+  - Office 365에서는 고객이 커뮤니케이션 및 공동 작업을 할 수 있는 안전한 플랫폼을 제공 합니다. Microsoft는 서비스를 안전 하 게 운영 하 고, 수명 주기 동안 데이터를 보호 하는 데 사용할 수 있는 다양 한 준수 및 보안 기능 집합을 제공 합니다. [DLP (데이터 손실 방지)](https://go.microsoft.com/fwlink/?linkid=868520), [고급 데이터 거 버 넌 스](https://go.microsoft.com/fwlink/?linkid=863925), [Azure Information Protection (aip)](https://go.microsoft.com/fwlink/?linkid=868521)등의 기능을 사용 하면 신용 카드 번호, SWIFT 코드, ABA 라우팅 번호 등의 데이터가 있을 때 중요 한 콘텐츠를 자동으로 검색 하 고 레이블을 지정 하는 정책을 설정할 수 있습니다. [여기](https://go.microsoft.com/fwlink/?linkid=868522)에서 기본 제공 중요 한 정보 유형 목록을 찾을 수 있으며, [여기](https://go.microsoft.com/fwlink/?linkid=868523) 에 나와 있는 지침을 수행 하 여 자체 중요 한 정보 유형을 만들 수도 있습니다. 고객이 특정 기간 동안 데이터를 자동으로 보존 하 고 사용자가 중요 한 데이터를 공유 하지 못하도록 하 여 해당 콘텐츠를 보호할 수 있습니다. 고객이 조직의 내부 또는 외부에 있는 사용자와 전자 메일을 통해 중요 한 데이터를 공유 해야 하는 경우 고객은 승인 된 사용자만 보호 된 메시지를 읽을 수 있도록 [Office 365 메시지 암호화](https://go.microsoft.com/fwlink/?linkid=858986) 를 통해 암호화 및 권한 보호를 적용할 수 있습니다. 
     
 - **금융서비스 현대화법(Gramm-Leach-Bliley Act)** GLB는 미국 금융 기관에 대한 최소 보안 및 개인 정보 요구 사항을 규정합니다. GLB 준수에도 절차와 정책이 필요하므로 소프트웨어나 서비스는 "GLB 규격"이라고 할 수 없습니다. Office 365 서비스에 영향을 주는 GLB의 주요 규정 두 가지는 다음과 같습니다. 
     
@@ -111,5 +111,5 @@ Office 365 준수 및 감사 보고서에 대 한 자세한 내용은 Service Tr
     
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](office-365-platform-service-description.md)을 참조하세요.
+Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
   

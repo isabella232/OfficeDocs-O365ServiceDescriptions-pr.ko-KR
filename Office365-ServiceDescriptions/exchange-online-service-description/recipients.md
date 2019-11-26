@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 이 항목에서는 Microsoft Exchange Online에 포함된 받는 사람 관련 기능에 대해 설명합니다. 설명에는 전자 메일, 연락처, 메일 그룹 및 달력/예약 기능이 포함됩니다.
-ms.openlocfilehash: 8a2813e2e5a86ca284f530ae0d83770b5dcaeb9d
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 437e3884ad385df1a63144deb8e358efb3a6b129
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911721"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262731"
 ---
 # <a name="recipients"></a>받는 사람
 
@@ -34,7 +34,7 @@ ms.locfileid: "37911721"
 
 사용자가 사용 가능한 사서함 저장소 용량 및 기본 사서함 크기는 사서함 유형과 사용자의 구독 라이선스에 따라 결정됩니다. 관리자는 각 사용자별 사서함 크기 또는 모든 사용자의 사서함 크기를 줄일 수 있습니다. 또한 Exchange Online은 사용자의 사서함이 최대 용량에 가까워졌거나 도달하면 알림을 제공합니다.
   
-자세한 내용은 [Exchange Online 제한](exchange-online-limits.md) 항목의 "사서함 저장소 제한" 및 "용량 경고" 섹션을 참조하십시오.
+자세한 내용은 [Exchange Online 제한](exchange-online-limits.md)항목의 "사서함 저장소 제한" 및 "용량 경고" 섹션을 참조 하십시오.
   
 ### <a name="mailtips"></a>메일 설명
 

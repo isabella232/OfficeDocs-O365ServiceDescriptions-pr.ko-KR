@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Web for excel (이전의 Excel Web App)은 Microsoft Excel 환경을 웹 브라우저로 확장 하 여 통합 문서가 저장 된 웹 사이트에서 통합 문서를 직접 사용할 수 있습니다. 모든 Office 365 고객은 웹에서 Office를 사용 하 여 Office 파일을 보고 가볍게 편집할 수 있습니다.
-ms.openlocfilehash: 648fe5c4d3944c0bd388ac6693ec7b662bc89319
-ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
+ms.openlocfilehash: e81a24733fba2f61d44982ae09cca6e2df41e2ca
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38020265"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39261919"
 ---
 # <a name="excel-for-the-web"></a>웹용 Excel
 
@@ -102,7 +102,7 @@ Excel 표를 만든 후 표 기능 없이만 표 스타일을 사용 하는 것�
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-텍스트, 숫자, 수식, 도형, 차트 및 이미지를 잘라내고 복사 하 고 붙여넣을 수 있습니다. 행에 데이터를 다시 정렬 하기 위해 회전 해야 하는 열에 데이터가 있는 경우 **붙여넣기** 메뉴에서 줄 **바꿈** 기능을 사용 합니다.
+텍스트, 하이퍼링크, 숫자, 수식, 도형, 차트 및 이미지를 잘라내고 복사 하 고 붙여넣을 수 있습니다. 행에 데이터를 다시 정렬 하기 위해 회전 해야 하는 열에 데이터가 있는 경우 **붙여넣기** 메뉴에서 줄 **바꿈** 기능을 사용 합니다. 자세한 내용은 [Excel에서 복사 하 여 붙여넣기](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline)에 대 한 자세한 내용을 확인 하세요.
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 

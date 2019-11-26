@@ -1,5 +1,5 @@
 ---
-title: Exchange Online Archiving 서비스 설명
+title: Exchange Online 보관 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,25 +14,25 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online 보관은 microsoft exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange server 2013, 마이크로소프트를 배포한 조직에 대 한 Microsoft Office 365 클라우드 기반 엔터프라이즈급 보관 솔루션입니다. Exchange Server 2010 (SP2 이상) 또는 특정 Exchange Online 또는 Office 365 계획을 구독 합니다. Exchange Online Archiving은 보관, 규정 준수, 규제 및 eDiscovery 문제와 관련하여 이러한 조직을 지원하는 동시에 온-프레미스 인프라를 단순화하여 비용을 절감하고 IT 부담을 완화시켜 줍니다.
-ms.openlocfilehash: 139db7903e9b0fe61b9fc6aab3a90a7ef8e1bdee
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: 79933bce411219b95b73021c9d8afde3a9f81a0c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319476"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260523"
 ---
-# <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 서비스 설명
+# <a name="exchange-online-archiving-service-description"></a>Exchange Online 보관 서비스 설명
 
 Microsoft Exchange Online 보관은 microsoft exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange server 2013, 마이크로소프트를 배포한 조직에 대 한 Microsoft Office 365 클라우드 기반 엔터프라이즈급 보관 솔루션입니다. Exchange Server 2010 (SP2 이상) 또는 특정 Exchange Online 또는 Office 365 계획을 구독 합니다. Exchange Online Archiving은 보관, 규정 준수, 규제 및 eDiscovery 문제와 관련하여 이러한 조직을 지원하는 동시에 온-프레미스 인프라를 단순화하여 비용을 절감하고 IT 부담을 완화시켜 줍니다.
   
-Exchange Online Archiving은 Microsoft Office 365 온라인 서비스로서 강력한 보안, 안정성 및 사용자 생산성을 충족하도록 디자인되었습니다. 모든 Office 365 온라인 서비스에 대한 공통 기능을 비롯한 Office 365에 대한 자세한 내용은 [Office 365 플랫폼 서비스 설명](../office-365-platform-service-description/office-365-platform-service-description.md)을 참조하세요.
+Exchange Online Archiving은 Microsoft Office 365 온라인 서비스로서 강력한 보안, 안정성 및 사용자 생산성을 충족하도록 디자인되었습니다. 모든 Office 365 온라인 서비스에 공통적인 기능을 포함 하 여 Office 365에 대 한 자세한 내용은 [office 365 플랫폼 서비스 설명을](../office-365-platform-service-description/office-365-platform-service-description.md)참조 하세요.
   
 Exchange Online Archiving을 구입하려면 [Exchange Online Archiving](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)을 참조하세요.
   
 계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)를 참조하세요.
   
 > [!TIP]
-> Office 365 서비스 설명의 페이지를 내보내고 저장하며 인쇄할 수 있습니다. [여러 페이지 내보내기](https://docs.microsoft.com/office365/securitycompliance/export-search-results) 방법을 알아보세요. 
+> Office 365 서비스 설명에서 페이지를 내보내고 저장 하 고 인쇄할 수 있습니다. [여러 페이지 내보내기](https://docs.microsoft.com/office365/securitycompliance/export-search-results) 방법을 알아보세요. 
   
 ## <a name="exchange-online-archiving-plans"></a>Exchange Online Archiving 계획
 
@@ -49,7 +49,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 <br/>
 <sup>2</sup> Exchange Online 계획 1 및 Office 365 Business 계획에는 [사서함 및 보관 사서함의 크기 제한](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)이 있습니다. Exchange Online용 Exchange Online Archiving 추가 기능을 통해 클라우드 기반의 무제한 보관 사서함 및 [원본 위치 유지 및 소송 보존](compliance-and-security-features.md#in-place-hold-and-litigation-hold) 기능이 추가 제공됩니다.
   
-모든 Office 365 계획에 대한 정보를 찾고 계신가요? Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 독립 실행형 계획 옵션 및 계획 간 이동 정보를 비롯하여 여러 계획에 대한 자세한 내용은 [Office 365 계획 옵션](../office-365-platform-service-description/office-365-plan-options.md)을 참조하십시오.
+모든 Office 365 계획에 대한 정보를 찾고 계신가요? Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 독립 실행형 계획 옵션 및 계획 간 이동에 대 한 정보를 비롯 하 여 다양 한 계획에 대 한 자세한 내용은 [Office 365 계획 옵션](../office-365-platform-service-description/office-365-plan-options.md)을 참조 하세요.
   
 ## <a name="requirements"></a>요구 사항
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Exchange Online 계획을 비롯하여 Office 365 계획 간의 차이점을 알고 싶은 경우 이 문서를 통해 각 계획에 포함된 기능을 확인할 수 있습니다.
-ms.openlocfilehash: b8bbc7068d809b023135f0f4b078b3e84bdd7d89
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 519d5260cd2a5155d365047bf69b241d0bd26d4d
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724716"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263079"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 플랫폼 서비스 설명
 
@@ -27,7 +27,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
   
 Microsoft Office 365는 모든 규모의 비즈니스에 클라우드 생산성을 제공 하 여 시간 및 비용을 절감 하 고 가치 있는 리소스를 확보 하는 데 도움이 됩니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군을 microsoft Exchange Online, Microsoft SharePoint Online, Office for web에 해당 하는 클라우드 기반 버전의 Microsoft의 차세대 통신 및 공동 작업 서비스와 조합 하 여 제공 합니다. Microsoft 비즈니스용 Skype Online-사용자가 인터넷을 통해 어디서 나 생산성을 유지 하는 데 도움이 됩니다.
   
-계획 간에 기능을 비교 하려면 office [365 For Business 요금제 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 또는 자세한 기능 목록을 보려면 [Office 365 서비스 설명 ](../office-365-service-descriptions-technet-library.md)에서 관련 서비스 설명을 참조 하세요.
+계획 간에 기능을 비교 하려면 office [365 For Business 요금제 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 또는 자세한 기능 목록을 보려면 [office 365 서비스 설명 ](../office-365-service-descriptions-technet-library.md)에서 관련 서비스 설명을 참조 하세요.
   
 - Office 365 Education 요금제에 대한 내용은 [Office 365 Education](office-365-education.md) 페이지부터 확인하세요. 
     
@@ -39,7 +39,7 @@ Microsoft Office 365는 모든 규모의 비즈니스에 클라우드 생산성�
     
 ## <a name="office-365-plans"></a>Office 365 계획
 
-Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 독립 실행형 계획 옵션 및 계획 간 이동 정보를 비롯하여 여러 계획에 대한 자세한 내용은 [Office 365 계획 옵션](office-365-plan-options.md)을 참조하십시오.
+Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 독립 실행형 계획 옵션 및 계획 간 이동에 대 한 정보를 비롯 하 여 다양 한 계획에 대 한 자세한 내용은 [Office 365 계획 옵션](office-365-plan-options.md)을 참조 하세요.
   
 Office 365의 볼륨 라이선스에 대한 자세한 내용은 [사용권 계약 및 설명서](https://go.microsoft.com/fwlink/?linkid=848696)를 참조하세요.
   
@@ -173,7 +173,7 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 |알림을 보낸 대상: 메시지 센터 작업이 다음과 같은 경우 필수  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |일부 서비스에 대한 Roadmap.office.com 업데이트  <br/> |예  <br/> |--  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |대상 지정 릴리스를 설정하는 옵션  <br/> |예  <br/> |--  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[도움말 및 훈련](help-and-training.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**[도움말 및 교육](help-and-training.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |온라인 도움말  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |커뮤니티  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |기타 자가 진단 리소스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -205,7 +205,7 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 |지정된 계획을 사용하는 고객에 대한 평가판 초대 및 구매 주문 만들기  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |위임된 관리 제공  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[서비스 수준 계약](service-level-agreement.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[제품 사용권](product-use-rights.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> | 
+|**[제품 사용 권한](product-use-rights.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> | 
 
 > <sup>1</sup> Office 365는 제조업체에서 지원 하지 않는 운영 체제에 대 한 지원을 제공 하지 않습니다. 
 <br/><sup>2</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용하려면 Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F1에 포함되어 있지 않은 Office365ProPlus를 구독해야 합니다. Microsoft 365 Business와 함께 제공 되는 Office 클라이언트 앱은 모든 Azure Information Protection (계획 1) 기능을 지원 합니다.

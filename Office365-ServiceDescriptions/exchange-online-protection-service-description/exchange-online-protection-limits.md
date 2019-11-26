@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 현재 Exchange Online Protection에 대 한 제한은 다음과 같습니다. 별도로 지정 되지 않은 경우 이러한 제한은 구성할 수 없습니다.
-ms.openlocfilehash: 0f23106f1f40f4a121ac260b07a83cdf38b7a9eb
-ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
+ms.openlocfilehash: 08e3295930933b9f233dcff36e2ad94972d7c2ee
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289778"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260753"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 제한
 
 현재 Exchange Online Protection에 대 한 제한은 다음과 같습니다. 별도로 지정 되지 않은 경우 이러한 제한은 구성할 수 없습니다. 
   
 > [!TIP]
-> Exchange Online의 제한에 대한 자세한 내용은 [Exchange Online 제한](../exchange-online-service-description/exchange-online-limits.md)을 참조하세요. EOP 독립 실행형 고객에게는 전송 규칙 제한도 적용됩니다. Exchange Online의 받는 사람 처리 속도 및 메시지 속도 제한은 EOP 독립 실행형 고객에게 적용되지 않습니다. 
+> Exchange Online의 제한 사항에 대 한 자세한 내용은 [Exchange online 제한을](../exchange-online-service-description/exchange-online-limits.md)참조 하세요. EOP 독립 실행형 고객에게는 전송 규칙 제한도 적용됩니다. Exchange Online의 받는 사람 처리 속도 및 메시지 속도 제한은 EOP 독립 실행형 고객에게 적용되지 않습니다. 
   
 - **도메인 제한** 테넌트당 도메인을 900개까지 추가할 수 있습니다. 하위 도메인은 이 900개 제한 내에 포함되거나 보완 옵션인 하위 도메인 일치의 일부분으로 포함될 수 있습니다. 자세한 내용은 [EOP에서 허용 도메인 관리](https://go.microsoft.com/fwlink/p/?LinkId=282239)를 참조하세요.
     
@@ -42,7 +42,7 @@ ms.locfileid: "38289778"
     
 - **최종 사용자 스팸 격리 알림** 최종 사용자 스팸 격리 알림은 사용하도록 설정된 경우 기본적으로 3일마다 전송됩니다. 이 값을 1일에서 15일 사이로 구성할 수 있습니다. 
     
-- **보고 및 메시지 추적 제한** 보고 및 메시지 추적 제한에 대한 내용은 [Exchange Online Protection의 보고 및 메시지 추적](https://go.microsoft.com/fwlink/?LinkId=394248)에서 "보고 및 메시지 추적 데이터 사용 가능 여부 및 대기 시간" 섹션을 참조하세요.
+- **보고 및 메시지 추적 제한** 보고 및 메시지 추적 제한에 대 한 자세한 내용은 [reporting and message trace In Exchange Online Protection](https://go.microsoft.com/fwlink/?LinkId=394248)의 "보고 및 메시지 추적 데이터 사용 가능 여부 및 대기 시간" 섹션을 참조 하십시오.
     
 ### <a name="limits-across-eop-options"></a>EOP 옵션별 제한
 

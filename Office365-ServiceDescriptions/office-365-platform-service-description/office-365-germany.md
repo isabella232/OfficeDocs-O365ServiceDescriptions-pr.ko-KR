@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와 차별화 된 옵션입니다. 독일어 데이터 센터에서 업계 최고의 생산성 서비스를 제공 하는 독일, 유럽 연합 (EU) 및 상주 (유럽 자유 무역 협회)의 요구를 해결 하는 데 도움이 됩니다. 독일어 법률에 따라 관리 되는 고유한 데이터 트러스티 모델을 통해 독일 및 엄격한 데이터 액세스 및 제어 조치를 사용 합니다.
-ms.openlocfilehash: b4715e6d3439b206ecaf514bf833963f95aa455d
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 75991d0995e1b9d9122c1a9e52355d7a422b5fdd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724696"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263059"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -178,7 +178,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |지정된 계획을 사용하는 고객에 대한 평가판 초대 및 구매 주문 만들기|예|예|예|예|예|예|예|예|
 |위임된 관리 제공|예|예|예|예|예|예|예|예|
 |**[서비스 수준 계약](service-level-agreement.md)**|예|예|예|예|예|예|예|예|
-|**[제품 사용권](product-use-rights.md)**|예|예|예|예|예|예|예|예|
+|**[제품 사용 권한](product-use-rights.md)**|예|예|예|예|예|예|예|예|
 
 > [!NOTE]
 > <sup>1</sup> Office 365 독일에서는 제조업체에서 지원 하지 않는 운영 체제에 대 한 지원을 제공 하지 않습니다.<br/>

@@ -11,18 +11,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: b544ebc38b4a1f79477b773bc91b40f051a41346
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: bd1baaf7d6d2a7cc0757f156f2931d7725ee8e2c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582014"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262721"
 ---
 # <a name="sharing-and-collaboration"></a>공유 및 공동 작업
 
 ## <a name="federated-sharing"></a>페더레이션 공유
 
-페더레이션은 페더레이션 공유를 지 원하는 기본 트러스트 인프라 (Microsoft Exchange Online 사용자가 약속 있음/없음 일정 데이터를 공유 하 고 다른 외부 페더레이션 조직의 받는 사람과 연락처 정보를 공유할 수 있도록 하는 방법)를 참조 합니다. 인터넷에 액세스 하는 사용자입니다. 여기에는 Exchange Online에서도 호스트되는 조직, 외부 Microsoft Exchange Server 2010 또는 Exchange Server 2013 조직이 포함됩니다. Exchange Online 관리자는 조직 관계 및 공유 정책을 사용 하 여 사용자가 웹 이나 Microsoft Outlook 2010 이상에서 Microsoft Outlook의 일정 공유 초대를 보낼 수 있습니다.
+페더레이션은 페더레이션 공유를 지 원하는 기본 트러스트 인프라 (Microsoft Exchange Online 사용자가 다른 외부 페더레이션 조직의 받는 사람과 약속 있음/없음 일정 데이터 및 연락처 정보를 인터넷에 액세스 하는 사용자)와 공유 하는 방법입니다. 여기에는 Exchange Online에서도 호스트되는 조직, 외부 Microsoft Exchange Server 2010 또는 Exchange Server 2013 조직이 포함됩니다. Exchange Online 관리자는 조직 관계 및 공유 정책을 사용 하 여 사용자가 웹 이나 Microsoft Outlook 2010 이상에서 Microsoft Outlook의 일정 공유 초대를 보낼 수 있습니다.
   
 > [!IMPORTANT]
 >  외부 Exchange 2010 및 Exchange 2013 조직은 페더레이션 공유 구성의 일부로 Microsoft 페더레이션 게이트웨이와의 페더레이션 트러스트를 구성해야 합니다. 그러나 Exchange Online 조직의 경우에는 Office 365 테넌트가 만들어질 때 Microsoft 페더레이션 게이트웨이와의 페더레이션 트러스트가 자동으로 만들어지므로 페더레이션 트러스트를 구성할 필요가 없습니다. 
@@ -46,7 +46,7 @@ ms.locfileid: "37582014"
   
 ## <a name="public-folders"></a>공용 폴더
 
-Exchange Online의 공용 폴더는 사서함 데이터베이스의 기존 고가용성 및 저장소 기술을 활용하도록 새롭게 바뀌었습니다. 공용 폴더 아키텍처에서는 특별히 설계된 사서함을 사용하여 계층 구조와 공용 폴더 내용을 모두 저장합니다. 이는 별도의 공용 폴더 데이터베이스가 더 이상 존재하지 않음을 의미합니다. 공용 폴더 복제에서는 이제 연속 복제 모델을 사용합니다. 계층 및 콘텐츠 사서함에 대한 고가용성은 데이터 센터의 DAG(데이터베이스 사용 가능 그룹)를 통해 제공됩니다. Exchange Online에서 공용 폴더 사서함은 1000 개로 제한 됩니다. 또한 각 공용 폴더 사서함에는 최대 저장소 크기가 있습니다. 자세한 내용은 [Exchange Online 제한](exchange-online-limits.md)의 "사서함 폴더 제한" 섹션을 참조하십시오. 공용 폴더 사서함의 경우 메시지, 받는 사람 및 용량 경고 제한은 일반 사서함과 같습니다. 자세한 내용은 [받는 사람](recipients.md)을 참조하십시오. 
+Exchange Online의 공용 폴더는 사서함 데이터베이스의 기존 고가용성 및 저장소 기술을 활용하도록 새롭게 바뀌었습니다. 공용 폴더 아키텍처에서는 특별히 설계된 사서함을 사용하여 계층 구조와 공용 폴더 내용을 모두 저장합니다. 이는 별도의 공용 폴더 데이터베이스가 더 이상 존재하지 않음을 의미합니다. 공용 폴더 복제에서는 이제 연속 복제 모델을 사용합니다. 계층 및 콘텐츠 사서함에 대한 고가용성은 데이터 센터의 DAG(데이터베이스 사용 가능 그룹)를 통해 제공됩니다. Exchange Online에서 공용 폴더 사서함은 1000 개로 제한 됩니다. 또한 각 공용 폴더 사서함에는 최대 저장소 크기가 있습니다. 자세한 내용은 [Exchange Online 제한](exchange-online-limits.md)의 "사서함 폴더 제한" 섹션을 참조 하십시오. 공용 폴더 사서함의 경우 메시지, 받는 사람 및 용량 경고 제한은 일반 사서함과 같습니다. 자세한 내용은 [받는 사람](recipients.md)을 참조하십시오. 
   
 공용 폴더에 대한 자세한 내용은 [공용 폴더](https://go.microsoft.com/fwlink/p/?LinkId=271790)를 참조하세요.
   

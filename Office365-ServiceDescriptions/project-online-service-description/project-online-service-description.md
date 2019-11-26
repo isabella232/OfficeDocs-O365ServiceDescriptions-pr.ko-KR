@@ -1,5 +1,5 @@
 ---
-title: Microsoft Project Service 설명
+title: Microsoft Project service 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을 위한 유연한 온라인 솔루션입니다. Office 365를 통해 제공되는 Project Online은 거의 모든 위치의 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획하고 우선 순위를 정하고 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: d5c66b7567a47675480030a308dd280ee44a0fef
-ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
+ms.openlocfilehash: 4a5d95c24fb67012ace390a79fa32ea26543907b
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37765639"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263422"
 ---
-# <a name="microsoft-project-service-description"></a>Microsoft Project Service 설명
+# <a name="microsoft-project-service-description"></a>Microsoft Project service 설명
 
 ## <a name="overview"></a>개요
 
@@ -92,7 +92,7 @@ Microsoft Project는 조직의 요구 사항을 가장 잘 충족 하기 위해 
 
 이 섹션에 나와 있는 기능은 웹 데이터 저장소에 대 한 프로젝트의 데이터와 상호 작용 합니다. 이러한 모든 기능은 프로젝트 계획 1, 프로젝트 계획 3 및 프로젝트 계획 5에서는 모든 Microsoft Project 구독에서 사용할 수 있습니다.
 
-|기능 | Description |
+|기능 | 설명 |
 |--------|-------------|
 |**프로젝트, 작업 및 시간 관리**||
 |보드 보기 | 기본 및 사용자 지정 작업 보드를 사용 하 여 워크플로 및 상태 모니터링을 개선 하기 위해 프로젝트 작업을 시각적으로 추적 합니다.|
@@ -128,7 +128,7 @@ Microsoft Project는 조직의 요구 사항을 가장 잘 충족 하기 위해 
 
 이 섹션에 나와 있는 기능은 Project Online SharePoint 데이터 저장소의 데이터와 상호 작용 합니다.
 
-|기능 | Description | 프로젝트 계획 3 | 프로젝트 계획 5 |
+|기능 | 설명 | 프로젝트 계획 3 | 프로젝트 계획 5 |
 |--------|-------------|-----------------------------|------------------------|
 |**프로젝트, 작업 및 시간 관리**||||
 |알림 및 미리 알림 | Outlook 및 Microsoft 팀의 미리 알림과 함께 중요 한 예정 작업 및 프로젝트 행사 일정을 유지 합니다. <sup>1</sup>| 예 | 예 |
@@ -148,7 +148,7 @@ Microsoft Project는 조직의 요구 사항을 가장 잘 충족 하기 위해 
 |작업 예약 | Project Web App을 사용 하 여 작업 시작 및 종료 날짜, 작업량, 작업 시간, 겹치는 기간, 지연 시간 및 의존 관계를 사용 하 여 프로젝트 날짜를 정확 하 게 일정 하 게 유지 합니다. | 예 | 예 |
 |작업 업데이트 | 프로젝트 작업, 프로젝트 이외 작업 및 휴무 시간에 대 한 설명과 함께 시간 및 상태를 파악 합니다. | 예 | 예 |
 |Timeline | Project Web App을 사용 하 여 시간 표시 막대 보기에서 프로젝트 날짜, 종속성 및 할당을 시각적으로 추적 하 고 이해 합니다. | 예 | 예 |
-|단위 | 팀 구성원은 작업, 프로젝트 이외 작업 및 휴무 시간에 대 한 시간 및 상태를 입력할 수 있습니다. | 예 | 예 |
+|작업표 | 팀 구성원은 작업, 프로젝트 이외 작업 및 휴무 시간에 대 한 시간 및 상태를 입력할 수 있습니다. | 예 | 예 |
 |작업표 승인 | 팀 구성원은 승인을 위해 작업표를 제출할 수 있습니다. 리소스 관리자 및 감독자는 제출 된 작업표를 검토, 승인 및 거부할 수 있습니다. | 예 | 예 |
 |휴무 시간 설정 | 휴가, 휴일, 병가 및 기타 휴무 시간을 프로젝트 일정에 추가합니다. | 아니요 | 예 |
 |**공동 작업** ||||
@@ -202,7 +202,7 @@ Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업�
 
 ### <a name="project-online-desktop-client-features"></a>Project Online 데스크톱 클라이언트 기능
 
-|기능 | Description |
+|기능 | 설명 |
 |--------|-------------|
 |**프로젝트 및 작업 관리**||
 |기준 | 프로젝트 초기 계획을 설정 하 여 이전의 성능에 대 한 현재 성과를 모니터링 합니다. |
@@ -227,7 +227,7 @@ Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업�
 |Work, generic, and material resources | 사용자와 같은 회사 자원, 목수 같은 일반 자원, 컴퓨터 및 시멘트와 같은 재료 리소스 등의 자원을 프로젝트에 추가 합니다. |
 |프로젝트 비용 및 예산 작성 | 계획 된 진행 상황과 예산과 실제 시간 및 비용을 비교 합니다. |
 |자원 비용 | 프로젝트의 리소스 비용을 추적 하 고 관리 합니다.|
-|**Reporting** ||
+|**보고** ||
 |사용자 지정 보고서 | 프로젝트, 프로그램, 포트폴리오 및 자원에 대 한 사용자 지정 보고서를 작성 합니다. |
 |기본 보고 | 미리 작성 된 보고서를 사용 하 여 프로젝트, 프로그램, 포트폴리오 및 자원 데이터를 이해 합니다. |
 |PDF 및 XPS 출력 | 프로젝트 파일을 PDF 또는 XPS 파일로 저장 합니다. |

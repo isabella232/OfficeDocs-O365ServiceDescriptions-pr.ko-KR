@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
 description: Microsoft SharePoint는 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구와 기술의 모음입니다. Microsoft SharePoint Server 2013에 빌드된 이 서비스는 프로젝트 작업, 중앙에서 데이터 및 문서 저장, 다른 사람과 정보 공유에 이상적입니다. Office 365 고객은 SharePoint Online 관련 추가 기능을 더 구매할 수도 있습니다.
-ms.openlocfilehash: ce39786029373163e407bc204d7d33192a0a7785
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: a74849d9d493a94456124d6340a7c92c72830fbc
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726317"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263362"
 ---
 # <a name="add-ons"></a>추가 기능
 

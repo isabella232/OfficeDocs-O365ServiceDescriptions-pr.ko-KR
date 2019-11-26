@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: 이 문서에서는 Exchange Online 설정을 사용자 지정 하 고 조직의 Exchange Online 환경을 최신, 실행 및 최신 상태로 유지 하는 데 사용할 수 있는 관리 제어 및 지원에 대해 설명 합니다. 내용에는 Microsoft 관리 책임 및 성능 약정, 서비스 및 제품 업그레이드와 같이 조직에서 사용할 수 있는 셀프 서비스 관리 도구 및 기능에 대한 정보가 포함되어 있습니다.
-ms.openlocfilehash: 2cb5dc23c744e37089e75aec7e7e911775c179b6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 1665afcc165f1dee8e5efbfdfa2e2f4f15f167a5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581984"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262611"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 설치 및 관리
 
@@ -74,7 +74,7 @@ Exchange Online에서는 모바일 장치에 대해 Exchange Server 2013과 동�
   
 ### <a name="message-tracking-for-exchange-online"></a>Exchange Online에 대한 메시지 추적
 
-배달 보고서를 통한 메시지 추적은 다음 항목에서 설명합니다. [보고 기능 및 문제 해결 도구](reporting-features-and-troubleshooting-tools.md).
+배달 보고서 기능을 통한 메시지 추적은 [보고 기능 및 문제 해결 도구](reporting-features-and-troubleshooting-tools.md)항목에 설명 되어 있습니다.
   
 ### <a name="usage-reporting-for-exchange-online"></a>Exchange Online에 대한 사용 현황 보고
 
@@ -92,7 +92,7 @@ Exchange Online에서 사용할 수 있는 Windows PowerShell cmdlet에 대한 �
   
 ### <a name="auditing-for-exchange-online"></a>Exchange Online에 대한 감사
 
-감사 로깅 기능은 다음 항목에서 설명합니다. [보고 기능 및 문제 해결 도구](reporting-features-and-troubleshooting-tools.md).
+감사 로깅 기능은 [보고 기능 및 문제 해결 도구](reporting-features-and-troubleshooting-tools.md)항목에 설명 되어 있습니다.
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Exchange Online에 대한 서비스 및 제품 업그레이드
 

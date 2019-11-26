@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online Office 365에서는 사용자 들이 서로 공유 하 고 공동 작업을 수행 하 여 회사에서 다른 사용자에 게 알리고, 비즈니스 프로세스를 변환 하 고, 공동 지식을 활용할 수 있도록 지원 합니다. 또한 SharePoint는 조직에서 데이터를 보호 및 관리 하 고 사용자 지정 솔루션을 만드는 기능을 제공 합니다.
-ms.openlocfilehash: c5bc41b1ff74df9f243b5c04aab77893c437bcb5
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: f5ff485410e915cd77bebe33dc18be12aebcd593
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890414"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263312"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 서비스 설명
 
@@ -46,13 +46,13 @@ Microsoft에서 관리 하는 SharePoint Online 서비스에는 사이트 모음
   
 ## <a name="subscription-options"></a>구독 옵션
 
-Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 독립 실행형 계획 옵션 및 계획 간 이동 정보를 비롯하여 여러 계획에 대한 자세한 내용은 [Office 365 계획 옵션](../office-365-platform-service-description/office-365-plan-options.md)을 참조하십시오.
+Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 독립 실행형 계획 옵션 및 계획 간 이동에 대 한 정보를 비롯 하 여 다양 한 계획에 대 한 자세한 내용은 [Office 365 계획 옵션](../office-365-platform-service-description/office-365-plan-options.md)을 참조 하세요.
   
 SharePoint Online에 액세스하는 각 사용자를 Office 365 계획 또는 SharePoint Online 계획 1/SharePoint Online 계획 2 독립 실행형 서비스에 할당해야 합니다. 그러나 Firstline 계획은 독립 실행형 구독으로 판매 되지 않으며, SharePoint Online Firstline과 같은 Firstline 구독의 일부로만 제공 됩니다. Firstline 작업자는 관리자가 될 수 없으므로, Firstline 작업 자가 포함 된 테 넌 트에는 SharePoint를 관리 하기 위한 엔터프라이즈 관리자가 하나 이상 필요 합니다. Firstline 작업자는 SharePoint 탐색 메뉴를 볼 수 없으므로 Filine worker는 URL을 통해 직접 SharePoint 사이트로 이동 해야 합니다.
   
 ## <a name="onedrive-for-business"></a>비즈니스용 OneDrive
 
-비즈니스용 OneDrive (이전 SkyDrive Pro)는 회사 직원을 위한 개인 온라인 저장소입니다. 사용자가 간편 하 고 보안을 사용 하 여 여러 장치에서 작업 파일을 저장, 동기화 및 공유할 수 있는 위치입니다. 비즈니스용 OneDrive는 SharePoint Online에 포함 되어 있으며 독립 실행형 계획으로 구입할 수도 있습니다. 비즈니스용 OneDrive 독립 실행형 옵션에는 웹에 대 한 Office가 포함 됩니다. 웹을 사용 하는 비즈니스용 OneDrive에 포함 된 기능을 확인 하려면 [비즈니스용 Onedrive 서비스 설명을](../onedrive-for-business-service-description.md)참조 하세요.
+비즈니스용 OneDrive (이전 SkyDrive Pro)는 회사 직원을 위한 개인 온라인 저장소입니다. 사용자가 간편 하 고 보안을 사용 하 여 여러 장치에서 작업 파일을 저장, 동기화 및 공유할 수 있는 위치입니다. 비즈니스용 OneDrive는 SharePoint Online에 포함 되어 있으며 독립 실행형 계획으로 구입할 수도 있습니다. 비즈니스용 OneDrive 독립 실행형 옵션에는 웹에 대 한 Office가 포함 됩니다. 웹을 사용 하는 비즈니스용 OneDrive에 포함 된 기능을 확인 하려면 [비즈니스용 onedrive 서비스 설명을](../onedrive-for-business-service-description.md)참조 하세요.
   
 ## <a name="sharepoint-online-enterprise-external-users"></a>SharePoint Online Enterprise 외부 사용자
 

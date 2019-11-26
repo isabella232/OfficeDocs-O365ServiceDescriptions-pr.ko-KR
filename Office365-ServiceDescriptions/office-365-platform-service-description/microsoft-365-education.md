@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Microsoft 365 및 Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다.
-ms.openlocfilehash: 9fa0a7676df034deb61fb30971a7d1924854ca36
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: 2a6413f2dff6255b10cb11cf596f05303ca358f2
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890404"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263029"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
 Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Microsoft 365 및 Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. 
   
-Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 포함 하는 완전 한 시스템을 제공 합니다. 다음 표에는 교육용 A1, A3 및 A5 기능에 대 한 Office 365과 교육용 A3 및 A5 기능에 해당 하는 Microsoft 365이 나열 되어 있습니다. 비즈니스 계획과 enterprise 요금제 간에 Office 365 기능을 비교 하려면 office [365 For business 요금제 비교](https://go.microsoft.com/fwlink/?linkid=799177)를 참조 하거나, 자세한 기능 목록을 보려면 [Office 365 서비스 설명](../office-365-service-descriptions-technet-library.md)에서 관련 서비스 설명을 참조 하세요. 지원 문서 및 정보를 검색 하려면 [Office 도움말 및 교육](https://support.office.com/)을 참조 하세요.
+Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 포함 하는 완전 한 시스템을 제공 합니다. 다음 표에는 교육용 A1, A3 및 A5 기능에 대 한 Office 365과 교육용 A3 및 A5 기능에 해당 하는 Microsoft 365이 나열 되어 있습니다. 비즈니스 계획과 enterprise 요금제 간에 Office 365 기능을 비교 하려면 office [365 For business 요금제 비교](https://go.microsoft.com/fwlink/?linkid=799177)를 참조 하거나, 자세한 기능 목록을 보려면 [office 365 서비스 설명](../office-365-service-descriptions-technet-library.md)에서 관련 서비스 설명을 참조 하세요. 지원 문서 및 정보를 검색 하려면 [Office 도움말 &amp; 교육](https://support.office.com/)을 참조 하십시오.
   
 ## <a name="services-and-features"></a>서비스 및 기능
 
@@ -62,7 +62,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |**Azure Active Directory**<sup>11</sup> <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Azure Active Directory Basic  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Azure Active Directory 계획 1  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|Azure Active Directory 계획 2  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
+|Azure Active Directory 요금제 2  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |**규정 준수** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Office 365 권한 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Azure Information Protection 계획 1<sup>7</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
@@ -84,7 +84,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |Device Guard  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
 |**고급 보안** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Advanced Threat Protection  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
+|위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |Cloud App Security  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |Windows Defender Advanced Threat Protection  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
 |**서버 및 CAL 관련 혜택** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |

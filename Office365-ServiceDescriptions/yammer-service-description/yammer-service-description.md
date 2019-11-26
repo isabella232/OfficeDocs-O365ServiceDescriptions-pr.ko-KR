@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer는 최고의, 보안 및 사설 엔터프라이즈 소셜 네트워크입니다. Yammer를 통해 직원들은 손쉽게 공동 작업을 수행하고 더욱 신속하게 의사 결정하고 비즈니스 과제를 담당하는 팀으로 자가 조직화할 수 있기 때문에 더욱 강력한 생산성을 갖추고 성과를 올릴 수 있습니다. Yammer는 비즈니스 제휴 및 민첩성을 자연스럽게 유도하면서 주기 시간을 줄이고 직원 간의 공동 작업을 진행하고 고객과 파트너와의 관계를 향상시킬 수 있는 새로운 작업 방식입니다.
-ms.openlocfilehash: b6d6d5edad8a0136ef285ffe87b89addfdbc20b6
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: a7f918f7bca754596f18e926e03d282b43fe84d0
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911831"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263139"
 ---
 # <a name="yammer-service-description"></a>Yammer 서비스 설명
 
@@ -28,7 +28,7 @@ Yammer가 포함된 Office 365 계획 목록은 [Office 365 서비스 제품군 
 계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)를 참조하세요.
   
 > [!TIP]
-> Office 365 서비스 설명의 페이지를 내보내고 저장하며 인쇄할 수 있습니다. [여러 페이지 내보내기](https://go.microsoft.com/fwlink/?LinkId=403349) 방법을 알아보세요. 
+> Office 365 서비스 설명에서 페이지를 내보내고 저장 하 고 인쇄할 수 있습니다. [여러 페이지 내보내기](https://go.microsoft.com/fwlink/?LinkId=403349) 방법을 알아보세요. 
   
 ## <a name="system-requirements"></a>시스템 요구 사항
 
@@ -44,7 +44,7 @@ Yammer는 다음 계획을 통해 사용할 수 있습니다.
 |[Yammer Enterprise](https://go.microsoft.com/fwlink/?LinkId=691122) <br/> |고급 보안, 관리 및 통합 기능을 갖춘 기업용 소셜 네트워킹입니다.  <br/> |
    
 > [!NOTE]
-> [Office 365 플랫폼 서비스 설명](../office-365-platform-service-description/office-365-platform-service-description.md) 에 포함되어 있는 기능과 정책은 Yammer 서비스에 적용되지 않습니다. 
+> [Office 365 플랫폼 서비스 설명](../office-365-platform-service-description/office-365-platform-service-description.md) 에 설명 되어 있는 기능과 정책은 Yammer 서비스에 적용 되지 않습니다. 
   
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer enterprise 서비스 통신 정책
 <a name="YammerCommsPolicy"> </a>

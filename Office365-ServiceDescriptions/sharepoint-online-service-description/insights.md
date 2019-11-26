@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
 description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013을 기반으로 구축된 이 호스트된 서비스는 프로젝트를 진행하고, 데이터와 문서를 중앙 위치에 저장하며 다른 사용자들과 정보를 공유하는 데 이상적입니다. 다음에 나오는 인사이트 기능은 조직에서 데이터베이스, 보고서 및 비즈니스 응용 프로그램의 정보를 사용하여 구체적인 업무 요구 사항을 해결할 수 있게 도와 줍니다.
-ms.openlocfilehash: 705c059e8d63c59c2aaadd03b71a5e7c1833cf47
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: ff2b29a84017b6b1bf2b58337122334d3a6a0ca7
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726245"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263342"
 ---
 # <a name="insights"></a>인사이트
 

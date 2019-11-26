@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 미국 방어 부서에 대 한 고유 하 고 진화 한 요구 사항을 충족 하 고, DoD 정보를 보유 하거나 처리 하는 계약자, ITAR (무장 규정)의 국제 트래픽에 대 한 주체를 지원 하기 위해 Microsoft는 다음을 제공 합니다. GCC High 및 DoD 환경 볼륨 라이선스를 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재는 평가판을 사용할 수 없습니다.
-ms.openlocfilehash: 65a8362ba02fe000c2f0f6a4c172b3067a5663e6
-ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
+ms.openlocfilehash: 4d539df25546255feae5d33369b678833b2d967f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36568121"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262549"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High 및 DoD
 
@@ -23,9 +23,9 @@ ms.locfileid: "36568121"
   
 계정 팀 또는 기본 설정 파트너에 참여해서 자세히 알아보거나 유효성 검사 프로세스를 시작하세요. 구입 방법에 대 한 자세한 내용은 [Microsoft 365 정부-구매 방법](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)를 참조 하세요.
   
-## <a name="how-to-use-this-service-description-section"></a>서비스 설명 섹션 사용 방법
+## <a name="how-to-use-this-service-description-section"></a>이 서비스 설명 섹션을 사용 하는 방법
 
-Office 365 Government 서비스 설명은 일반 Office 365 서비스 설명에 대한 오버레이로 사용하도록 디자인되어 있습니다. Office 365 Enterprise 제품과 비교하여 고유한 확정 및 차이점을 정의합니다.
+Office 365 US 정부 서비스 설명은 일반적인 Office 365 서비스 설명에 대 한 오버레이를 제공 하도록 설계 되었습니다. Office 365 Enterprise 제품과 비교하여 고유한 확정 및 차이점을 정의합니다.
   
 ## <a name="compliance"></a>규정 준수
 
@@ -43,7 +43,7 @@ Office 365 직원은 GCC High 및 DoD 프로덕션에 대 한 액세스 권한�
   
 |||
 |:-----|:-----|
-|**Microsoft 직원 선별 및 배경 검사** <sup>1</sup> <br/> |**설명** <br/> |
+|**Microsoft 직원 선별 및 배경 검사**<sup>1</sup> <br/> |**설명** <br/> |
 |미국 시민권  <br/> |미국 시민권 확인  <br/> |
 |고용 기록 확인  <br/> |최근 7년의 고용 기록 확인  <br/> |
 |교육 확인  <br/> |획득한 최종 학위 확인  <br/> |
@@ -110,6 +110,6 @@ Yammer Enterprise는 GCC High 및 DoD 환경에서는 사용할 수 없습니다
   
 ## <a name="customer-support"></a>고객 지원
 
-Microsoft는 Office 365 GCC High/DOD를 사용 하는 경우 지원 센터에 대 한 제어 되 고 중요 하거나 기밀 정보를 고객 지원 담당자와 공유 하지 않도록 하 고 최소한 지원 에이전트의 권한 부여를 확인 하거나 이러한 데이터에 액세스 합니다.
+Microsoft는 Office 365 GCC High/DOD를 사용 하는 경우 지원 센터에서 이러한 데이터를 보거나 액세스 하기 위한 인증을 확인할 때까지 고객 지원 담당자에 게 제어, 중요 또는 기밀 정보를 공유 하지 않도록 합니다.
 
 Microsoft는 사용자의 [개인 정보](https://privacy.microsoft.com/privacystatement)보호를 위해 최선을 다하고 있습니다. 그러나 Office 365 GCC High/DoD 지원은 서비스 인정 경계에 포함 되지 않으며 FedRAMP, DOD SRG, ITAR, IRS 1075 또는 CJIS 데이터 처리 준수 보장을 제공 하지 않습니다.

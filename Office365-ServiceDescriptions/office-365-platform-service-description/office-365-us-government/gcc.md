@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 미국 정부를 대신 하 여 데이터를 보관 하거나 처리할 수 있는 정부 뿐 아니라 미국의 연방, 주, 로컬 및 부족에 대 한 고유한 요구 사항과 진화 하는 규정을 충족 하기 위해 Microsoft에서는 Office 365 GCC (미국 정부 커뮤니티) 서비스를 제공 합니다. 볼륨 라이선스를 비롯한 여러 채널을 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재 평가판은 미국 정부 기관에만 제공됩니다.
-ms.openlocfilehash: ca481bdb6deb4d686dc713418a412b2085bb3127
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: 5baa9f8d1042ef8470b983d2a38a8a1130b55f34
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890424"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262539"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -23,9 +23,9 @@ ms.locfileid: "37890424"
   
 계정 팀 또는 기본 설정 파트너에 참여해서 자세히 알아보거나 유효성 검사 프로세스를 시작하세요. 추가 정보는 [Compare Office 365 Government 요금제](https://products.office.com/government/compare-office-365-government-plans) 페이지에서 찾을 수 있습니다. 
   
-## <a name="how-to-use-this-service-description-section"></a>서비스 설명 섹션 사용 방법
+## <a name="how-to-use-this-service-description-section"></a>이 서비스 설명 섹션을 사용 하는 방법
 
-Office 365 Government 서비스 설명은 일반 Office 365 서비스 설명에 대한 오버레이로 사용하도록 디자인되어 있습니다. Office 365 Enterprise 제품과 비교하여 고유한 확정 및 차이점을 정의합니다.
+Office 365 US 정부 서비스 설명은 일반적인 Office 365 서비스 설명에 대 한 오버레이를 제공 하도록 설계 되었습니다. Office 365 Enterprise 제품과 비교하여 고유한 확정 및 차이점을 정의합니다.
   
 ## <a name="us-government-community-compliance"></a>미국 정부 커뮤니티 준수
 
@@ -59,7 +59,7 @@ Office 365 직원은 Office 365 US Government Community에서 호스트된 고�
 
 Yammer Enterprise는 Office 365 Government의 구성 요소는 아니지만 Office 365 Government 계획 E1 및 E3의 사용이 허가된 각 사용자는 독립 실행형 제공 서비스로 추가 비용 없이 얻을 수 있습니다. 이 제공 서비스는 현재 기업계약 및 기업 정기가입 계약에 따라 Office 365 Government를 구입한 고객에게 제한됩니다. 
   
-현재 Yammer는 응용 프로그램 계층에서 고객 데이터를 논리적으로 분리할 수 있도록 합니다. 그렇지만 Yammer는 Office 365 Government와 동일한 데이터 위치 및 데이터 액세스 기능을 제공하지 않고 FedRAMP 승인을 지원하지 않으며 Office 365 서비스와는 다른 계약 조건을 따릅니다. 조직에서 Yammer의 적절한 사용을 평가할 때는 [Yammer 서비스 설명](../../yammer-service-description/yammer-service-description.md) 및 개인정보취급방침을 검토하는 것이 좋습니다. Yammer를 포함한 Office 365 정부 계획에 대해 자세히 알아보려면 [Office 365 Government](office-365-us-government.md)를 참조하세요.
+현재 Yammer는 응용 프로그램 계층에서 고객 데이터를 논리적으로 분리할 수 있도록 합니다. 그렇지만 Yammer는 Office 365 Government와 동일한 데이터 위치 및 데이터 액세스 기능을 제공하지 않고 FedRAMP 승인을 지원하지 않으며 Office 365 서비스와는 다른 계약 조건을 따릅니다. 조직에서 Yammer의 적절 한 사용을 평가할 때는 [yammer 서비스 설명](../../yammer-service-description/yammer-service-description.md) 및 개인 정보 취급 방침을 검토 하는 것이 좋습니다. Yammer를 포함한 Office 365 정부 계획에 대해 자세히 알아보려면 [Office 365 Government](office-365-us-government.md)를 참조하세요.
   
 Yammer의 사용이 Office 365 Government 구독의 일부로서 조직에 적합하다고 판단되고 위에 언급된 Yammer를 포함하는 계획 중 하나를 구입한 경우 Enterprise Enrollment에 따라 Yammer Enterprise 구독을 사용할 수 있게 개정할 것을 요청할 수 있습니다.
   

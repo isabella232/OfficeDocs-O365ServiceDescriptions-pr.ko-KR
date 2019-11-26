@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365는 Word, Excel, PowerPoint 등 이미 익숙한 Office 데스크톱 응용 프로그램의 최신 버전을 제공 하는 구독 서비스입니다.
-ms.openlocfilehash: 0e46e857f1c43d4a488ef3a6874263e7a954eef0
-ms.sourcegitcommit: 1255382e878b3223a01477c48676e0d6a8bfe07d
+ms.openlocfilehash: a53fd2b7786ca3f8c48cc3fa2a731f0be6edaef7
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38748982"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39261959"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 

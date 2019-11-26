@@ -9,12 +9,12 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: 브리핑 전자 메일을 사용 하면 사용자가 하루를 가장 많이 만들 수 있습니다. 다양 한 요소에서의 기회를 식별 하 고 적시에 미리 알림을 제공 합니다.
-ms.openlocfilehash: 1027ffd93891139e90d369950be5e364e14b074a
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 40333ba8c66af3f44261093c94b6fbc87fc3fff8
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724776"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260663"
 ---
 # <a name="briefing-email-service-description"></a>브리핑 전자 메일 서비스 설명
 

@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 준수에 대 한 계획-DoD 배포
+title: Microsoft 365 규정 준수 - DoD 배포 계획
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,14 +9,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 Microsoft 365 정부-DoD를 사용 하는 것이 적합 한 미국 연방 정부 엔터티나 Office 365의 배포를 추진 하는 IT 전문가를 위한 것입니다. 이러한 요구 사항을 충족 합니다.
-ms.openlocfilehash: 5356c019351108478c6fd27af3fa451dd2ec036a
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: c45306738fcda2e3a7431cd15e5ac39d6373bd8a
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319486"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262841"
 ---
-# <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 준수에 대 한 계획-DoD 배포
+# <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 규정 준수 - DoD 배포 계획
 
 이 지침은 Microsoft 365 정부-DoD를 사용 하는 것이 적합 한 미국 연방 정부 엔터티나 Office 365의 배포를 추진 하는 IT 전문가를 위한 것입니다. 이러한 요구 사항을 충족 합니다.
 
@@ -78,11 +78,16 @@ Office 365의 기능을 제공 하는 것 외에도 조직은 Microsoft 365 정�
 |                                        |정보 장벽                            | 사용할 수 있음              |
 |                                        |파일 및 전자 메일에 대 한 DLP (데이터 손실 방지)  | 사용할 수 있음              |
 |                                        |팀 채팅 및 채널 대화에 대 한 DLP    | 엔지니어링 백로그 |
+|                                        |DLP 정확히 일치 하는 데이터                            | 엔지니어링 백로그 |
+|                                        |레이블 활동 탐색기                         | 엔지니어링 백로그 |
+|                                        |Trainable 분류자                           | 엔지니어링 백로그 |
+|                                        |통합 레이블 및 민감도 레이블         | 엔지니어링 백로그 |
 |**참가자 위험 관리**             |고급 메시지 암호화                     | 사용할 수 있음              |
+|                                        |참가자 위험 관리                         | 엔지니어링 백로그 |
 |                                        |커뮤니케이션 규정 준수                        | 엔지니어링 백로그 |
 |                                        |Customer Lockbox                                | 사용할 수 있음              |
 |                                        |고객 키                                    | 사용할 수 있음              |
-|                                        |권한 있는 액세스 관리                    | 엔지니어링 백로그 |
+|                                        |권한이 부여된 액세스 관리                    | 엔지니어링 백로그 |
 |**응답 & 검색**                  |원본 위치 예약                            | 사용할 수 있음              |
 |                                        |사례 관리                                 | 사용할 수 있음              |
 |                                        |검색                                          | 사용할 수 있음              |

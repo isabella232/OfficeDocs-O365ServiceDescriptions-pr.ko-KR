@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online은 조직에서 디지털 정보를 저장, 공유 및 관리 하는 데 도움이 되는 웹 기반 도구 및 기술의 모음입니다. Microsoft SharePoint Server 2013에서 기본 제공되는 이 호스트 서비스는 프로젝트 작업, 중앙 위치에 데이터 및 문서 저장, 다른 사람과의 정보 공유에 이상적입니다. 다음 SharePoint 기능은 조직의 SharePoint 환경에 대한 보안 및 관리를 담당하는 IT 전문가를 지원합니다.
-ms.openlocfilehash: 33769abd6c9a6a765d0b15e00050dee0818521f1
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c8a6f6075ed6b184be7d7deefde74d2bde13d750
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726221"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263332"
 ---
 # <a name="it-professional"></a>IT 전문가
 

@@ -1,5 +1,5 @@
 ---
-title: 사용자 계정 관리
+title: User account management
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365에서는 사용자 만들기, 관리 및 인증을 위해 다음과 같은 방법을 지원 합니다.
-ms.openlocfilehash: a43ecb83bface37e21cca7ca2aa877e878ef362b
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 947030a8a0e04d5a5bc79cffed20cf054bb8d29e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911798"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262119"
 ---
-# <a name="user-account-management"></a>사용자 계정 관리
+# <a name="user-account-management"></a>User account management
 
 Microsoft Office 365에서는 사용자 만들기, 관리 및 인증을 위해 다음과 같은 방법을 지원 합니다. 
   
 > [!NOTE]
-> 이 주제에는 각 Office 365 리소스(예: Microsoft Exchange Online의 역할 기반 액세스 제어 또는 Microsoft SharePoint Online의 보안 구성)에 대한 액세스를 허용 또는 금지하는 보안 기능에 대한 정보가 포함되어 있지 않습니다. 이러한 기능과 관련된 자세한 내용은 [Exchange Online 서비스 설명](../exchange-online-service-description/exchange-online-service-description.md) 및 [SharePoint Online 서비스 설명](../sharepoint-online-service-description/sharepoint-online-service-description.md)을 참조하세요. 
+> 이 주제에는 각 Office 365 리소스(예: Microsoft Exchange Online의 역할 기반 액세스 제어 또는 Microsoft SharePoint Online의 보안 구성)에 대한 액세스를 허용 또는 금지하는 보안 기능에 대한 정보가 포함되어 있지 않습니다. 이러한 기능에 대 한 자세한 내용은 [Exchange Online 서비스 설명](../exchange-online-service-description/exchange-online-service-description.md) 및 [SharePoint online 서비스 설명을](../sharepoint-online-service-description/sharepoint-online-service-description.md)참조 하십시오. 
   
 관리 작업을 수행하는 데 도움이 되는 도구에 대한 자세한 내용은 [Office 365 계정 관리 도구](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts)를 참조하세요. 일 단위 관리 작업을 수행하는 방법은 [Office 365의 일반적인 관리 작업](https://docs.microsoft.com/office365/admin/manage/manage)을 참조하세요.
   
@@ -127,7 +127,7 @@ Office 365 서비스의 올바른 인증과 검색을 보장하려면 관리자�
     
 - 디렉터리 동기화를 사용할 경우에는 반드시 Office 365가 아닌 로컬 Active Directory에서 사용자를 삭제해야 합니다.
     
-계정은 삭제 후 비활성화됩니다. 삭제 후 약 30일이 지나면 계정을 복원할 수 있습니다. 계정을 삭제 하 고 복원 하는 방법에 대 한 자세한 내용은 office 365에서 사용자 [삭제](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) 및 [office 365에서 사용자 복원](https://docs.microsoft.com/office365/admin/add-users/restore-user) 또는 중국의 21vianet에서 운영 하는 office 365을 사용 하는 경우 [office 365에서 운영 하는 사용자 계정 만들기 또는 편집을 참조 하세요. 21Vianet-관리자 도움말](https://docs.microsoft.com/office365/admin/add-users/add-users)
+계정은 삭제 후 비활성화됩니다. 삭제 후 약 30일이 지나면 계정을 복원할 수 있습니다. 계정을 삭제 및 복원 하는 방법에 대 한 자세한 내용은 office online에서 사용자 [365 삭제](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) 및 [office 365에서 사용자 복원](https://docs.microsoft.com/office365/admin/add-users/restore-user) 또는 중국의 21vianet에서 운영 하는 office 365을 사용 하는 경우 21vianet에서 운영 하는 [Office 365에서 사용자 계정 만들기 또는 편집](https://docs.microsoft.com/office365/admin/add-users/add-users)을 참조 하세요.
   
 ## <a name="password-management"></a>암호 관리
 

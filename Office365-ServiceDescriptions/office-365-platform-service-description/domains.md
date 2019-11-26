@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: 도메인을 추가하면 단계별 마법사가 사용자를 추가하고 Office 365 전자 메일 주소 및 기타 서비스를 회사 이름으로 변환하도록 도와줍니다. 마법사를 완료하면 회사 전자 메일이 현재의 전자 메일 공급자가 아닌 Office 365로 들어오기 시작합니다. 자세한 내용은 Office 365에 사용자 및 도메인 추가를 참조하세요. 21Vianet에서 운영 하는 Office 365을 사용 하는 경우 도메인 확인을 참조 하세요.
-ms.openlocfilehash: cc88aeb19573b089d06749df5ab6db5de4bbecfa
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: a1038e0ff6db0dc5def4fd5d50bd5798e45fde2c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595226"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262791"
 ---
 # <a name="domains"></a>도메인
 

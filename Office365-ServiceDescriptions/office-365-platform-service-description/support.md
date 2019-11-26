@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: 모든 Microsoft Office 365 Enterprise, Business, Education 및 Government 구독에 대해 Microsoft 고객 지원에서는 세계적인 기술, 사전 판매, 대금 청구 및 구독 지원을 제공합니다. 지원은 Office 365 포털을 통해 온라인으로 제공 되며 유료 및 평가판 구독 모두에 대해 전화로 지원 됩니다. 자세한 내용은 Office 365 지원 옵션을 참조하세요.
-ms.openlocfilehash: d24a16956331bb939bfd4a7db242208207c08fdd
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 24da9f620219de6453a5db15bf022f22cd528ff6
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582194"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262219"
 ---
 # <a name="support"></a>지원
 
@@ -31,7 +31,7 @@ O365 기술 지원 팀은 Office 365와 관련된 문제만 해결합니다. 고
   
 ## <a name="community-and-self-service-support-options"></a>커뮤니티 및 셀프 서비스 지원 옵션
 
-셀프 서비스 지원은 모든 Office 365 계획에 대해 제공되며 문제 해결 도구/비디오, 도움말 문서/비디오 및 [Office 365 커뮤니티](https://go.microsoft.com/fwlink/p/?LinkID=279811)의 포럼/Wiki를 포함합니다. 셀프 서비스 지원 리소스에 대한 자세한 내용은 [도움말 및 훈련](help-and-training.md) 서비스 설명을 참조하세요.
+셀프 서비스 지원은 모든 Office 365 계획에 대해 제공되며 문제 해결 도구/비디오, 도움말 문서/비디오 및 [Office 365 커뮤니티](https://go.microsoft.com/fwlink/p/?LinkID=279811)의 포럼/Wiki를 포함합니다. 셀프 서비스 지원 리소스에 대 한 자세한 내용은 [도움말 및 교육](help-and-training.md) 서비스 설명을 참조 하세요.
   
 ## <a name="pre-sales-support"></a>사전 판매 지원
 
@@ -201,4 +201,4 @@ Microsoft 파트너를 선택하여 서비스 요청 티켓 작성 등의 관리
 
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](office-365-platform-service-description.md)을 참조하세요.
+Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.

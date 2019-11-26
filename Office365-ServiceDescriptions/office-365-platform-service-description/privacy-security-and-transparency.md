@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft는 고객과의 파트너 관계를 소중히 여기며 고객 데이터의 보안 및 개인 정보를 보호하는 데 중점을 두고 있습니다. 자세한 내용은 Microsoft 보안 센터를 참조하세요.
-ms.openlocfilehash: d8eecc4a5f120832c9e55fab7a3887eced071136
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 8eac5028858b7da2523031de087de92370288438
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734256"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262509"
 ---
 # <a name="privacy-security-and-transparency"></a>개인 정보, 보안 및 투명성
 
@@ -58,5 +58,5 @@ Office 365 Advanced Threat Protection은 맬웨어 및 바이러스 로부터 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](office-365-platform-service-description.md)을 참조하세요.
+Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
   

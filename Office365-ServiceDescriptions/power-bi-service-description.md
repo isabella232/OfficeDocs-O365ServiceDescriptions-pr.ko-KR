@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI는 더 빠른 속도, 효율성 및 이해를 통해 누구나 연결 하 고, 시각화 하 고, 데이터를 분석할 수 있게 해 주는 클라우드 기반 비즈니스 분석 도구 모음입니다. 사용자를 사용하기 쉬운 대시보드를 통해 다양한 범위의 라이브 데이터와 연결하고, 대화형 보고서를 제공하며 데이터에 생동감을 주는 뛰어난 시각화를 전달합니다.
-ms.openlocfilehash: 1190c6af728f3f09c023f59673372a7ddf30adce
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: eca434b58fb379c025a44073fdea23a40a746861
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733995"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263472"
 ---
 # <a name="power-bi-service-description"></a>Power BI 서비스 설명
 

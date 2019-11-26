@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice는 전화 통화를 위해 Microsoft 팀을 사용할 수 있는 추가 기능 서비스입니다. 전화 시스템, 국내 통화 계획, SMS 및 오디오 회의를 결합 한 것입니다.
-ms.openlocfilehash: a2d8c50e83a19b6c8b5602b55fa7feb10039364c
-ms.sourcegitcommit: beb9745b3fb89585771c9d0e4d8be93bf759b867
+ms.openlocfilehash: c6a00e2292027b1ba96ab7edd6d545ff9b736c60
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37972510"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262781"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business Voice 서비스 설명
 

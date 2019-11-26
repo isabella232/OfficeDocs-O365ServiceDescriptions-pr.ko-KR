@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는 클라우드 기반 전자 메일 필터링 서비스 이며, 다음을 보호 하는 기능을 포함 합니다. 실시간으로 해로운 링크에서 조직으로 구성 합니다.
-ms.openlocfilehash: 3295bf261c9412f5881a16e3bc17088f32b4a18e
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 42695e03b95429f44c79b1ff5084f12cd5bd6da5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734176"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262801"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection 서비스 설명
 
@@ -27,7 +27,7 @@ Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호
 
 - Office 365 ATP 필터링 전용 시나리오에서 ATP는 온-프레미스 Exchange 서버 환경 또는 기타 모든 온-프레미스 SMTP 전자 메일 솔루션에 대해 클라우드 기반 전자 메일 보호 기능을 제공 합니다.
 
-- Office 365 ATP를 사용 하도록 설정 하 여 Exchange Online 클라우드 호스트 사서함을 보호할 수 있습니다. Exchange Online에 대한 자세한 내용은 [Exchange Online 서비스 설명](exchange-online-service-description/exchange-online-service-description.md)을 참조하세요.
+- Office 365 ATP를 사용 하도록 설정 하 여 Exchange Online 클라우드 호스트 사서함을 보호할 수 있습니다. Exchange Online에 대 한 자세한 내용은 [Exchange online 서비스 설명을](exchange-online-service-description/exchange-online-service-description.md)참조 하세요.
 
 - 하이브리드 배포에서는 인바운드 전자 메일 필터링에 대 한 Exchange Online 보호와 함께 온-프레미스 및 클라우드 사서함을 함께 사용 하는 경우 메시징 환경을 보호 하 고 메일 라우팅을 제어 하도록 ATP를 구성할 수 있습니다.
 
@@ -131,7 +131,7 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 
 ### <a name="real-time-reports"></a>실시간 보고서
 
-Office 365 보안 & 준수 센터에서 사용할 수 있는 모니터링 기능-보안 및 준수 관리자가 보안 공격이 나 증대와 같은 우선 순위가 높은 문제에 집중할 수 있도록 하는 [실시간 보고서 및 통찰력](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp) 을 포함 합니다. 의심 스러운 활동 문제 영역을 강조 표시 하는 것 외에도 smart reports 및 insights에는 데이터를 보고 탐색 하 고 빠른 작업도 수행할 수 있는 권장 사항과 링크가 포함 되어 있습니다.
+Office 365 보안 & 준수 센터에서 사용할 수 있는 모니터링 기능 보안 및 준수 관리자가 보안 공격이 나 향상 된 수상한 작업과 같은 우선 순위가 높은 문제에 집중할 수 있도록 하는 [실시간 보고서와 정보](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp) 를 포함 합니다. 문제 영역을 강조 표시 하는 것 외에도 smart reports 및 insights에는 데이터를 보고 탐색 하 고 빠른 작업도 수행할 수 있는 권장 사항과 링크가 포함 되어 있습니다.
 
 ### <a name="threat-trackers"></a>위협 트래커
 

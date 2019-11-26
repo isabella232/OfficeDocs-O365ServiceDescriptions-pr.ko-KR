@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다. 여기에는 Exchange Online Protection을 제공 하는 계획 목록과 이러한 요금제의 기능 비교가 포함 되어 있습니다.
-ms.openlocfilehash: 92363cebf6478f87f553792d449f0b9b0784fa5b
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c385ef02d7d3c28a37b71162daace04a0cee800c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700230"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260923"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 서비스 설명
 
@@ -29,7 +29,7 @@ Microsoft EOP(Exchange Online Protection)는 스팸 및 맬웨어로부터 조�
 
 - **독립 실행형 시나리오에서**EOP는 온-프레미스 전자 메일 환경 (Exchange Server 또는 기타 온-프레미스 SMTP 전자 메일 솔루션)에 대해 클라우드 기반 전자 메일 보호 기능을 제공 합니다.
 
-- **Microsoft Exchange online의 일부로**, EOP는 기본적으로 Exchange Online 클라우드 호스트 사서함을 보호 합니다. Exchange Online에 대한 자세한 내용은 [Exchange Online 서비스 설명](../exchange-online-service-description/exchange-online-service-description.md)을 참조하세요.
+- **Microsoft Exchange online의 일부로**, EOP는 기본적으로 Exchange Online 클라우드 호스트 사서함을 보호 합니다. Exchange Online에 대 한 자세한 내용은 [Exchange online 서비스 설명을](../exchange-online-service-description/exchange-online-service-description.md)참조 하세요.
 
 - **하이브리드 배포에서**: 온-프레미스 및 클라우드 사서함을 함께 사용 하는 경우 메시징 환경을 보호 하 고 메일 라우팅을 제어 하도록 EOP를 구성할 수 있습니다.
 
@@ -75,7 +75,7 @@ EOP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트에서
 
 ## <a name="limits"></a>제한
 
-EOP의 제한은 [Exchange Online Protection 제한](exchange-online-protection-limits.md)을 참조하세요.
+EOP의 제한에 대 한 내용은 [Exchange Online Protection 제한을](exchange-online-protection-limits.md)참조 하세요.
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>EOP(Exchange Online Protection) 계획에서의 기능 가용성
 

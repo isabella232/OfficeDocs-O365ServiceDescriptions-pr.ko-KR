@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 준수 계획-GCC High
+title: Microsoft 365 규정 준수 - GCC High 계획
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 Microsoft 365 정부-GCC High를 사용 하는 경우 미국 연방 정부 엔터티나 Office 365의 배포를 추진 하는 IT 전문가를 위한 것 이며,이는 정부 규정 및 요구 사항이 적용 되는 데이터를 처리 하는 기타 엔터티입니다. 이러한 요구 사항을 충족 해야 합니다.
-ms.openlocfilehash: 72819a1a2b62df681f8b08dd3049ab6d704b256e
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: b1b2b34d93ee7c8e2096fbd0492d16a466a05ef8
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319506"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262831"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Microsoft 365 준수 계획 – GCC High
 
@@ -75,11 +75,16 @@ Microsoft 365 정부에 대 한 자세한 내용은 자격 요구 사항을 포�
 |                                         | 정보 장벽                            | 사용할 수 있음              |
 |                                         | 파일 및 전자 메일에 대 한 DLP (데이터 손실 방지)  | 사용할 수 있음              |
 |                                         | 팀 채팅 및 채널 대화에 대 한 DLP    | 엔지니어링 백로그 |
+|                                         | DLP 정확히 일치 하는 데이터                            | 엔지니어링 백로그 |
+|                                         | 레이블 활동 탐색기                         | 엔지니어링 백로그 |
+|                                         | Trainable 분류자                           | 엔지니어링 백로그 |
+|                                         | 통합 레이블 및 민감도 레이블         | 엔지니어링 백로그 |
 | **참가자 위험 관리**             | 고급 메시지 암호화                     | 사용할 수 있음              |
+|                                         | 참가자 위험 관리                         | 엔지니어링 백로그 |
 |                                         | 커뮤니케이션 규정 준수                        | 엔지니어링 백로그 |
 |                                         | Customer Lockbox                                | 사용할 수 있음              |
 |                                         | 고객 키                                    | 사용할 수 있음              |
-|                                         | 권한 있는 액세스 관리                    | 엔지니어링 백로그 |
+|                                         | 권한이 부여된 액세스 관리                    | 엔지니어링 백로그 |
 | **응답 & 검색**                  | 원본 위치 예약                            | 사용할 수 있음              |
 |                                         | 사례 관리                                 | 사용할 수 있음              |
 |                                         | 검색                                          | 사용할 수 있음              |

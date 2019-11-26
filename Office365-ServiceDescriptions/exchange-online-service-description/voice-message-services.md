@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 34a1d6a4cbadfb17054aa606a0ae9f25d80b53ac
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: c1df4da5a1877728b3060e5605071d8175d1c503
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581434"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262691"
 ---
 # <a name="voice-message-services"></a>음성 메시지 서비스
 
@@ -76,7 +76,7 @@ Microsoft Exchange Online에서는 호스트된 음성 메일 서비스를 제�
   
 ## <a name="skype-for-business-integration"></a>비즈니스용 Skype 통합
 
-조직에서는 비즈니스용 Skype Online을 독립 실행형 서비스로 또는 Microsoft Office 365의 일부분으로 구입할 수 있습니다. 비즈니스용 Skype Online에 대한 자세한 내용은 [비즈니스용 Skype Online 서비스 설명](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)을 참조하세요.
+조직에서는 비즈니스용 Skype Online을 독립 실행형 서비스로 또는 Microsoft Office 365의 일부분으로 구입할 수 있습니다. 비즈니스용 Skype 2015 온-프레미스도 지원 됩니다. 비즈니스용 Skype Online에 대 한 자세한 내용은 [비즈니스용 Skype online 서비스 설명을](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)참조 하세요.
   
 ## <a name="feature-availability"></a>기능 가용성
 

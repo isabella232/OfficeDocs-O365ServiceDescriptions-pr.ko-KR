@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함하는 여러 Office 365 구독의 기능을 비교하고 싶나요? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: 331ae092f69ec39cc743e0291e8b4f596dbbb6bc
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 2a18ee18d702b31eb4b06c9451d622b611ba734b
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701367"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262771"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -40,7 +40,7 @@ Exchange Online을 구독한 조직은 사용자에게 제공하는 메시징 �
 요금제 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 요금제 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)를 참조하세요. Office 365 Germany의 요금제를 비교하려면 [Office 365 Germany 구독 요금제](https://go.microsoft.com/fwlink/?linkid=839016)를 참조하세요.
   
 > [!TIP]
-> Office 365 서비스 설명의 페이지를 내보내고 저장하며 인쇄할 수 있습니다. [여러 페이지 내보내기](https://docs.microsoft.com/office365/securitycompliance/export-search-results) 방법을 알아보세요. 
+> Office 365 서비스 설명에서 페이지를 내보내고 저장 하 고 인쇄할 수 있습니다. [여러 페이지 내보내기](https://docs.microsoft.com/office365/securitycompliance/export-search-results) 방법을 알아보세요. 
   
 ## <a name="whats-new-in-exchange-online"></a>Exchange Online의 새로운 기능
 
@@ -48,7 +48,7 @@ Exchange Online의 새 기능에 대한 자세한 내용은 [Exchange Online의 
   
 ## <a name="office-365-plans-for-exchange-online"></a>Exchange Online에 대한 Office 365 계획
 
-Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 독립 실행형 계획 옵션 및 계획 간 이동 정보를 비롯하여 여러 계획에 대한 자세한 내용은 [Office 365 계획 옵션](../office-365-platform-service-description/office-365-plan-options.md)을 참조하십시오.
+Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 독립 실행형 계획 옵션 및 계획 간 이동에 대 한 정보를 비롯 하 여 다양 한 계획에 대 한 자세한 내용은 [Office 365 계획 옵션](../office-365-platform-service-description/office-365-plan-options.md)을 참조 하세요.
   
 Exchange Online 서비스에 액세스하는 각 사용자는 구독 계획을 선택해야 하며, 각 사용자 구독에는 자체 사서함이 있습니다. 이러한 사서함의 폴더와 메시지는 Microsoft 데이터 센터에서 Exchange Server를 실행하는 컴퓨터에 있습니다.
   
@@ -60,7 +60,7 @@ Exchange Online 서비스에 액세스하는 각 사용자는 구독 계획을 �
   
 ## <a name="storage-and-recipient-limits-for-exchange-online"></a>Exchange Online에 대 한 저장소 및 받는 사람 제한
 
-Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람 제한에 대한 자세한 내용은 [Exchange Online 제한](exchange-online-limits.md)을 참조하십시오.
+Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람 제한에 대 한 자세한 내용은 [Exchange online 제한을](exchange-online-limits.md)참조 하세요.
   
 ## <a name="feature-availability-across-office-365-plans"></a>Office 365 계획에서의 기능 가용성
 
@@ -131,7 +131,7 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |**[보고 기능 및 문제 해결 도구](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Microsoft 365 관리 센터 보고서|아니요|아니요|예|예|예|예|예|예|
 |Excel 보고 통합 문서|아니요|아니요|예|예|예|예|예|예|
-|웹 서비스 보고서|아니요|아니요|예|예|예|예|예|예|
+|웹 서비스 보고서|아니요|아니요|있음|예|예|예|예|예|
 |Message trace|아니요|있음|예|예|예|예|예|예|
 |감사 보고서|예|예|예|예|예|예|예|예 <sup>3</sup>|
 |통합 메시징 보고서|예|예|아니요|아니요|아니요|있음|예|아니요|
@@ -237,12 +237,12 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |**[메일 흐름](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |아웃 바운드 메일의 사용자 지정 라우팅|예|예|예|예|예|
 |Secure messaging with a trusted partner|예|예|예|예|예|
-|Conditional mail routing|아니요|아니요|있음|예|예|
-|인바운드 수신 허용 목록에 파트너 추가|아니요|아니요|있음|예|예|
+|Conditional mail routing|아니요|아니요|예|예|예|
+|인바운드 수신 허용 목록에 파트너 추가|아니요|아니요|예|예|예|
 |하이브리드 전자 메일 라우팅|예|예|예|예|예|
 |**[받는 사람](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |용량 경고|예|예|예|예|예|
-|Clutter|아니요|아니요|있음|예|예|
+|Clutter|아니요|아니요|예|예|예|
 |메일 설명|예|예|예|예|예|
 |위임 액세스|예|예|예\|/아니요|아니요|
 |받은 편지함 규칙|예|예|예|예|예|

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영 하는 Office 365는 중국의 안전 하 고 안정적 이며 확장 가능한 클라우드 서비스에 대 한 요구를 충족 하도록 설계 되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: e7ca48d2a7c86e55284e4c9a56956c39f699bef8
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 0509bd901319ca3268c208f91bd17ea9ad4fd707
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724766"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263069"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -191,7 +191,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |지정된 계획을 사용하는 고객에 대한 평가판 초대 및 구매 주문 만들기|예|예|예|예|예|예|예|
 |위임된 관리 제공|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**[서비스 수준 계약](service-level-agreement.md)**<sup>9</sup>|예|예|예|예|예|예|예|
-|**[제품 사용권](product-use-rights.md)**<sup>10</sup>|예|예|예|예|예|예|예|
+|**[제품 사용 권한](product-use-rights.md)**<sup>10</sup>|예|예|예|예|예|예|예|
 
 <sup>1</sup> office 365 및 21vianet에서 운영 하는 office 365은 해당 제조업체에서 지원 하지 않는 운영 체제에 대 한 지원을 제공 하지 않습니다.<br/>
 <sup>2</sup> In Office 365 Enterprise F1에서 21vianet에서 운영 하는 office 365 비디오는 보기 전용으로 제한 됩니다 (게시 하거나 공유할 수 없음). <br/>
@@ -460,7 +460,7 @@ Exchange Online 한도에 대한 자세한 내용은 다음 항목을 참조하�
 > - Microsoft Office 365 조직에 적용된 제한은 조직이 서비스에 등록된 기간에 따라 다를 수 있습니다. 제한이 Microsoft 데이터 센터에서 변경된 경우 기존의 모든 고객에게 변경 사항을 적용하는 데 시간이 걸릴 수 있습니다.
 > - 이러한 제한은 대부분 수정할 수 없지만 사용자와 함께 어떠한 제한이 있는지 알고 있어야 합니다.
 > - 이들 제한은 내부 및 외부의 받는 사람에게 모두 적용됩니다.
-> - 기본적으로 EOP (Exchange Online Protection)는 Exchange Online 사서함을 보호 합니다. Exchange Online의 EOP 기능에 적용되는 제한 사항은 [Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md)을 참조하세요.
+> - 기본적으로 EOP (Exchange Online Protection)는 Exchange Online 사서함을 보호 합니다. Exchange Online의 EOP 기능에 적용 되는 제한 사항은 [Exchange Online Protection 제한을](../exchange-online-protection-service-description/exchange-online-protection-limits.md)참조 하세요.
 
 ## <a name="exchange-online-protection-features"></a>Exchange Online Protection 기능
 
@@ -555,7 +555,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 
 <sup>1</sup> 사용자 사서함이 Exchange 2010 SP2 이상에 있어야 합니다. <br/>
 <sup>2</sup> 원본 위치 보관함은 라이선스가 적용된 단일 사용자나 엔터티의 메일을 보관하는 경우에만 사용할 수 있습니다. 여러 사용자나 엔터티의 메일을 저장하는 목적으로 원본 위치 보관함을 사용할 수는 없습니다. 예를 들어 IT 관리자는 공유 사서함을 만들 수 없으며, 사용자가 명시적으로 보관을 위해 공유 사서함 (참조 또는 숨은 참조 필드 또는 메일 흐름 규칙을 통해)을 복사 합니다. <br/>
-<sup>3</sup> 지원되는 Microsoft Outlook 버전 목록은 [Exchange Online Archiving의 클라이언트 기능](../exchange-online-archiving-service-description/client-features.md)을 참조하세요. <br/>
+<sup>3</sup> 지원 되는 Microsoft Outlook 버전 목록은 [Exchange Online 보관의 클라이언트 기능을](../exchange-online-archiving-service-description/client-features.md)참조 하세요. <br/>
 <sup>4</sup> Windows Server AD RMS는 온-프레미스 서버이며, 별도로 구입하여 지원되는 IRM 기능을 사용할 수 있습니다. <br/>
 <sup>5</sup> 사서함에 대해 원본 위치 유지 또는 소송 보존을 사용할 경우 기본 사서함과 보관 사서함 모두에 적용됩니다.
 

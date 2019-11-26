@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: bfee6590232453eaf84332496db88554bcc76f8c
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: ef59f2725b1aaa332926b2fa8d6f1d886e16316e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911731"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262621"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -55,7 +55,7 @@ Microsoft Exchange Online 제한은 다음 범주 중 하나에 속합니다.
 - [Exchange ActiveSync limits](#exchange-activesync-limits)
 
 > [!IMPORTANT]
-> •  Microsoft Office 365 조직에 적용된 제한은 조직이 서비스에 등록된 기간에 따라 다를 수 있습니다. <br/> •  제한이 Microsoft 데이터 센터에서 변경된 경우 기존의 모든 고객에게 변경 사항을 적용하는 데 시간이 걸릴 수 있습니다. <br/> •    이러한 제한은 대부분 수정할 수 없지만 사용자와 함께 어떠한 제한이 있는지 알고 있어야 합니다. <br/> •    이들 제한은 내부 및 외부의 받는 사람에게 모두 적용됩니다. <br/> •    기본적으로 EOP(Exchange Online Protection)는 Exchange Online 사서함을 보호합니다. Exchange Online의 EOP 기능에 적용되는 제한 사항은 [Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md)을 참조하세요. <br/> •    Office 365 그룹 제한 사항에 관한 정보는 [Office 365 그룹에 대해 자세히 알아보기](https://go.microsoft.com/fwlink/?linkid=846714)의 “내 그룹을 관리하려면 어떻게 해야 하나요?”를 참조하세요.
+> •  Microsoft Office 365 조직에 적용된 제한은 조직이 서비스에 등록된 기간에 따라 다를 수 있습니다. <br/> •  제한이 Microsoft 데이터 센터에서 변경된 경우 기존의 모든 고객에게 변경 사항을 적용하는 데 시간이 걸릴 수 있습니다. <br/> •    이러한 제한은 대부분 수정할 수 없지만 사용자와 함께 어떠한 제한이 있는지 알고 있어야 합니다. <br/> •    이들 제한은 내부 및 외부의 받는 사람에게 모두 적용됩니다. <br/> •    기본적으로 EOP(Exchange Online Protection)는 Exchange Online 사서함을 보호합니다. Exchange Online의 EOP 기능에 적용 되는 제한 사항은 [Exchange Online Protection 제한을](../exchange-online-protection-service-description/exchange-online-protection-limits.md)참조 하세요. <br/> •    Office 365 그룹 제한 사항에 관한 정보는 [Office 365 그룹에 대해 자세히 알아보기](https://go.microsoft.com/fwlink/?linkid=846714)의 “내 그룹을 관리하려면 어떻게 해야 하나요?”를 참조하세요.
 
 ## <a name="address-book-limits"></a>주소록 제한
 
@@ -111,7 +111,7 @@ Microsoft Exchange Online 제한은 다음 범주 중 하나에 속합니다.
 |그룹 사서함|50GB|50GB|50GB|50GB|50GB|50GB|
 
 > [!NOTE]
-> <sup>1</sup> 각 사용자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. Office 365은 보관 사서함에 최대 1TB의 추가 저장소를 제공 합니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=844060)를 참조하세요. <br/> <sup>2</sup> 공유 사서함에 액세스 하려면 사용자에 게 Exchange Online 라이선스가 있어야 하지만 공유 사서함에는 별도의 라이선스가 필요 하지 않습니다. 라이선스가 없으면 공유 사서함은 50 g b로 제한 됩니다. 크기 제한을 100 GB로 높이려면 공유 사서함에 exchange online 계획 2 라이선스 또는 exchange online 계획 1 라이선스를 할당 받아야 합니다. 이를 통해 보관 저장소 용량에 무제한으로 자동 확장 보관을 사용 하도록 설정할 수도 있습니다. 마찬가지로 공유 사서함을 소송 보존으로 설정 하거나 보관 정책을 할당 하려는 경우에는 공유 사서함에 exchange online 계획 2 라이선스가 있어야 하 고,이에 대 한 원격 계획 1 라이선스가 포함 되어야 합니다. <br/> <sup>3</sup> 리소스 사서함에는 라이선스가 필요하지 않습니다. 그러나 라이선스가 없으면 리소스 사서함은 50 g b로 제한 됩니다. 사서함 크기를 늘리려면 E3 또는 E5 라이선스가 할당되어야 합니다. 그러면 100GB로 사서함이 늘어납니다. <br/> <sup>4</sup> Exchange Online Kiosk에는 보관 사서함이 포함되지 않습니다. 하지만 Exchange Online Archiving을 통해 추가 기능으로 구입할 수 있습니다. 자세한 내용은 [Exchange Online Archiving Service Description](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)을 참조하십시오. <br/> <sup>5</sup> 사이트 사서함은 Exchange Online 및 SharePoint online에서 2017에서 제거 되었습니다. <br/> <sup>6</sup> 공용 폴더 사서함은 1,000개까지만 사용할 수 있으며 모든 공용 폴더 사서함의 최대 크기는 50TB입니다. 계층 구조 제공 사서함은 100개의 공용 폴더 사서함으로 제한됩니다. <br/> <sup>7</sup> 보관 사서함은 라이선스가 적용된 단일 사용자나 엔터티의 메일을 보관하는 경우(예: 공유 사서함)에만 사용할 수 있습니다. 여러 사용자나 엔터티의 메일을 저장하는 목적으로 보관 사서함을 사용할 수는 없습니다. 예를 들어 IT 관리자는 공유 사서함을 만들 수 없고, 사용자가 명백히 보관을 목적으로 참조, 숨은 참조 필드 또는 전송 규칙을 통해 복사하도록 할 수 없습니다. 여러 사람이 사용하는 공유 사서함은 실제로 해당 개별 사용자의 전자 메일을 저장하지 않습니다. 여러 사용자에게 액세스 권한이 있으며 이러한 사용자는 공유 사서함으로 전자 메일을 보냅니다. 따라서 공유 사서함에 저장된 전자 메일은 *와* 공유 사서함으로서 이 사서함에서 주고받은 메일 뿐입니다. <br/> <sup>8</sup> Exchange Online에서 보존 정책을 만든 경우 사용자의 기본 사서함이 10MB보다 큰 경우에만 메시지가 사용자 보관 사서함으로 자동 이동됩니다. 10MB 보다 작은 사서함에 대해서는 보존 정책이 자동으로 실행되지 않습니다. <br/> <sup>9</sup> 공유 및 리소스 사서함에는 라이선스가 필요하지 않습니다. 그러나 라이센스가 없으면 해당 사서함이 50GB로 제한됩니다. 사서함 크기를 늘리려면 E3 또는 E5 라이선스가 할당되어야 합니다. 그러면 100GB로 사서함이 늘어납니다. <br/> <sup>10</sup> 기본적으로 공유 사서함에는 시스템 생성 (알 수 없는) 암호가 있는 연결 된 활성 사용자 계정이 있습니다. 연결 된 공유 사서함 계정에 대 한 로그인을 차단 하려면 [공유 사서함 계정에 대 한 로그인 차단](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)를 참조 하세요.
+> <sup>1</sup> 각 사용자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. Office 365은 보관 사서함에 최대 1TB의 추가 저장소를 제공 합니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=844060)를 참조하세요. <br/> <sup>2</sup> 공유 사서함에 액세스 하려면 사용자에 게 Exchange Online 라이선스가 있어야 하지만 공유 사서함에는 별도의 라이선스가 필요 하지 않습니다. 라이선스가 없으면 공유 사서함은 50 g b로 제한 됩니다. 크기 제한을 100 GB로 높이려면 공유 사서함에 exchange online 계획 2 라이선스 또는 exchange online 계획 1 라이선스를 할당 받아야 합니다. 이를 통해 보관 저장소 용량에 무제한으로 자동 확장 보관을 사용 하도록 설정할 수도 있습니다. 마찬가지로 공유 사서함을 소송 보존으로 설정 하거나 보관 정책을 할당 하려는 경우에는 공유 사서함에 exchange online 계획 2 라이선스가 있어야 하 고,이에 대 한 원격 계획 1 라이선스가 포함 되어야 합니다. <br/> <sup>3</sup> 리소스 사서함에는 라이선스가 필요하지 않습니다. 그러나 라이선스가 없으면 리소스 사서함은 50 g b로 제한 됩니다. 사서함 크기를 늘리려면 E3 또는 E5 라이선스가 할당되어야 합니다. 그러면 100GB로 사서함이 늘어납니다. <br/> <sup>4</sup> Exchange Online Kiosk에는 보관 사서함이 포함되지 않습니다. 하지만 Exchange Online Archiving을 통해 추가 기능으로 구입할 수 있습니다. 자세한 내용은 [Exchange Online 보관 서비스 설명을](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)참조 하세요. <br/> <sup>5</sup> 사이트 사서함은 Exchange Online 및 SharePoint online에서 2017에서 제거 되었습니다. <br/> <sup>6</sup> 공용 폴더 사서함은 1,000개까지만 사용할 수 있으며 모든 공용 폴더 사서함의 최대 크기는 50TB입니다. 계층 구조 제공 사서함은 100개의 공용 폴더 사서함으로 제한됩니다. <br/> <sup>7</sup> 보관 사서함은 라이선스가 적용된 단일 사용자나 엔터티의 메일을 보관하는 경우(예: 공유 사서함)에만 사용할 수 있습니다. 여러 사용자나 엔터티의 메일을 저장하는 목적으로 보관 사서함을 사용할 수는 없습니다. 예를 들어 IT 관리자는 공유 사서함을 만들 수 없고, 사용자가 명백히 보관을 목적으로 참조, 숨은 참조 필드 또는 전송 규칙을 통해 복사하도록 할 수 없습니다. 여러 사람이 사용하는 공유 사서함은 실제로 해당 개별 사용자의 전자 메일을 저장하지 않습니다. 여러 사용자에게 액세스 권한이 있으며 이러한 사용자는 공유 사서함으로 전자 메일을 보냅니다. 따라서 공유 사서함에 저장된 전자 메일은 *와* 공유 사서함으로서 이 사서함에서 주고받은 메일 뿐입니다. <br/> <sup>8</sup> Exchange Online에서 보존 정책을 만든 경우 사용자의 기본 사서함이 10MB보다 큰 경우에만 메시지가 사용자 보관 사서함으로 자동 이동됩니다. 10MB 보다 작은 사서함에 대해서는 보존 정책이 자동으로 실행되지 않습니다. <br/> <sup>9</sup> 공유 및 리소스 사서함에는 라이선스가 필요하지 않습니다. 그러나 라이센스가 없으면 해당 사서함이 50GB로 제한됩니다. 사서함 크기를 늘리려면 E3 또는 E5 라이선스가 할당되어야 합니다. 그러면 100GB로 사서함이 늘어납니다. <br/> <sup>10</sup> 기본적으로 공유 사서함에는 시스템 생성 (알 수 없는) 암호가 있는 연결 된 활성 사용자 계정이 있습니다. 연결 된 공유 사서함 계정에 대 한 로그인을 차단 하려면 [공유 사서함 계정에 대 한 로그인 차단](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)를 참조 하세요.
 
 ### <a name="storage-limits-across-standalone-plans"></a>독립 실행형 계획별 저장소 제한
 
@@ -126,7 +126,7 @@ Microsoft Exchange Online 제한은 다음 범주 중 하나에 속합니다.
 |그룹 사서함|50GB|50GB|50GB|50GB|
 
 > [!NOTE]
-> <sup>1</sup>Exchange Server 2013 조직의 기본 사서함 크기입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다. 온-프레미스 사서함의 경우에는 최대 저장소 제한이 없습니다. <br/> <sup>2</sup> 각 사용자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=844060)를 참조하세요. 자동 확장 보관의 가용성에 대한 자세한 내용은 [Office 365 로드맵](https://go.microsoft.com/fwlink/?LinkId=509914)을 참조하세요. <br/> <sup>3</sup> 공유 사서함에 액세스 하려면 사용자에 게 Exchange Online 라이선스가 있어야 하지만 공유 사서함에는 별도의 라이선스가 필요 하지 않습니다. 라이선스가 없으면 공유 사서함은 50 g b로 제한 됩니다. 크기 제한을 100 GB로 높이려면 공유 사서함에 exchange online 계획 2 라이선스 또는 exchange online 계획 1 라이선스를 할당 받아야 합니다. 이를 통해 보관 저장소 용량에 무제한으로 자동 확장 보관을 사용 하도록 설정할 수도 있습니다. 마찬가지로 공유 사서함을 소송 보존으로 설정 하거나 보관 정책을 할당 하려는 경우에는 공유 사서함에 exchange online 계획 2 라이선스가 있어야 하 고,이에 대 한 원격 계획 1 라이선스가 포함 되어야 합니다. <br/> <sup>4</sup> 리소스 사서함에는 라이선스가 필요하지 않습니다. 그러나 라이선스가 없으면 리소스 사서함은 50 g b로 제한 됩니다. 사서함 크기를 늘리려면 Exchange Online Plan 2 라이선스가 할당되어야 합니다. 그러면 100GB로 사서함이 늘어납니다. <br/> <sup>5</sup> 보관 사서함을 Exchange Online Kiosk에 포함 되지 않습니다. 하지만 Exchange Online Archiving을 통해 추가 기능으로 구입할 수 있습니다. 자세한 내용은 [Exchange Online Archiving Service Description](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)을 참조하십시오. <br/> <sup>6</sup> Microsoft Exchange Server 2013 조직의 기본 사서함 크기입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다. Exchange Server 2013에서 공용 폴더 사서함은 100개까지만 사용할 수 있으며 모든 공용 폴더 사서함의 최대 크기는 50TB입니다. <br/> <sup>7</sup> Exchange Online에서 공용 폴더 사서함은 1,000개까지만 사용할 수 있으며 모든 공용 폴더 사서함의 최대 총 크기는 50TB입니다.  <br/> <sup>8</sup> 보관 사서함은 라이선스가 적용된 단일 사용자나 엔터티의 메일을 보관하는 경우에만 사용할 수 있습니다. 여러 사용자나 엔터티의 메일을 저장하는 목적으로 보관 사서함을 사용할 수는 없습니다. 예를 들어 IT 관리자는 공유 사서함을 만들 수 없고, 사용자가 명백히 보관을 목적으로 참조, 숨은 참조 필드 또는 전송 규칙을 통해 공유 사서함을 복사하도록 할 수 없습니다. <br/> <sup>9</sup>Exchange Online에서 보존 정책을 만든 경우 사용자의 기본 사서함이 10MB보다 큰 경우에만 메시지가 사용자 보관 사서함으로 자동 이동됩니다. 10MB 보다 작은 사서함에 대해서는 보존 정책이 자동으로 실행되지 않습니다. <br/> <sup>10</sup> 공유 및 리소스 사서함에는 라이선스가 필요 하지 않습니다. 그러나 라이센스가 없으면 해당 사서함이 50GB로 제한됩니다. 사서함 크기를 늘리려면 Exchange Online Plan 2 라이선스가 할당되어야 합니다. 그러면 100GB로 사서함이 늘어납니다. <br/> <sup>11</sup> 기본적으로 공유 사서함에는 시스템 생성 (알 수 없는) 암호가 있는 연결 된 활성 사용자 계정이 있습니다. 연결 된 공유 사서함 계정에 대 한 로그인을 차단 하려면 [공유 사서함 계정에 대 한 로그인 차단](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)를 참조 하세요.
+> <sup>1</sup>Exchange Server 2013 조직의 기본 사서함 크기입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다. 온-프레미스 사서함의 경우에는 최대 저장소 제한이 없습니다. <br/> <sup>2</sup> 각 사용자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=844060)를 참조하세요. 자동 확장 보관의 가용성에 대한 자세한 내용은 [Office 365 로드맵](https://go.microsoft.com/fwlink/?LinkId=509914)을 참조하세요. <br/> <sup>3</sup> 공유 사서함에 액세스 하려면 사용자에 게 Exchange Online 라이선스가 있어야 하지만 공유 사서함에는 별도의 라이선스가 필요 하지 않습니다. 라이선스가 없으면 공유 사서함은 50 g b로 제한 됩니다. 크기 제한을 100 GB로 높이려면 공유 사서함에 exchange online 계획 2 라이선스 또는 exchange online 계획 1 라이선스를 할당 받아야 합니다. 이를 통해 보관 저장소 용량에 무제한으로 자동 확장 보관을 사용 하도록 설정할 수도 있습니다. 마찬가지로 공유 사서함을 소송 보존으로 설정 하거나 보관 정책을 할당 하려는 경우에는 공유 사서함에 exchange online 계획 2 라이선스가 있어야 하 고,이에 대 한 원격 계획 1 라이선스가 포함 되어야 합니다. <br/> <sup>4</sup> 리소스 사서함에는 라이선스가 필요하지 않습니다. 그러나 라이선스가 없으면 리소스 사서함은 50 g b로 제한 됩니다. 사서함 크기를 늘리려면 Exchange Online Plan 2 라이선스가 할당되어야 합니다. 그러면 100GB로 사서함이 늘어납니다. <br/> <sup>5</sup> 보관 사서함을 Exchange Online Kiosk에 포함 되지 않습니다. 하지만 Exchange Online Archiving을 통해 추가 기능으로 구입할 수 있습니다. 자세한 내용은 [Exchange Online 보관 서비스 설명을](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)참조 하세요. <br/> <sup>6</sup> Microsoft Exchange Server 2013 조직의 기본 사서함 크기입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다. Exchange Server 2013에서 공용 폴더 사서함은 100개까지만 사용할 수 있으며 모든 공용 폴더 사서함의 최대 크기는 50TB입니다. <br/> <sup>7</sup> Exchange Online에서 공용 폴더 사서함은 1,000개까지만 사용할 수 있으며 모든 공용 폴더 사서함의 최대 총 크기는 50TB입니다.  <br/> <sup>8</sup> 보관 사서함은 라이선스가 적용된 단일 사용자나 엔터티의 메일을 보관하는 경우에만 사용할 수 있습니다. 여러 사용자나 엔터티의 메일을 저장하는 목적으로 보관 사서함을 사용할 수는 없습니다. 예를 들어 IT 관리자는 공유 사서함을 만들 수 없고, 사용자가 명백히 보관을 목적으로 참조, 숨은 참조 필드 또는 전송 규칙을 통해 공유 사서함을 복사하도록 할 수 없습니다. <br/> <sup>9</sup>Exchange Online에서 보존 정책을 만든 경우 사용자의 기본 사서함이 10MB보다 큰 경우에만 메시지가 사용자 보관 사서함으로 자동 이동됩니다. 10MB 보다 작은 사서함에 대해서는 보존 정책이 자동으로 실행되지 않습니다. <br/> <sup>10</sup> 공유 및 리소스 사서함에는 라이선스가 필요 하지 않습니다. 그러나 라이센스가 없으면 해당 사서함이 50GB로 제한됩니다. 사서함 크기를 늘리려면 Exchange Online Plan 2 라이선스가 할당되어야 합니다. 그러면 100GB로 사서함이 늘어납니다. <br/> <sup>11</sup> 기본적으로 공유 사서함에는 시스템 생성 (알 수 없는) 암호가 있는 연결 된 활성 사용자 계정이 있습니다. 연결 된 공유 사서함 계정에 대 한 로그인을 차단 하려면 [공유 사서함 계정에 대 한 로그인 차단](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)를 참조 하세요.
 
 ## <a name="capacity-alerts"></a>용량 경고
 
@@ -134,7 +134,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 - **경고**: 사용자가 사서함에서 최대 크기 제한에 근접 하 고 있음을 알리는 전자 메일을 받습니다. 이 경고는 사용자가 원치 않는 메일을 삭제하도록 장려하기 위해 발송됩니다.
 
-- **보내기 금지**: 사서함 크기 제한에 도달 했을 때 사용자에 게 금지할 알림 전자 메일을 받습니다. 전자 메일을 삭제하여 사서함 크기가 제한 용량 미만으로 줄어들 때까지 새로운 메시지를 보낼 수 없습니다.
+- **보내기 금지**: 사서함 크기 제한에 도달 했을 때 사용자에 게 금지할 알림 전자 메일을 받습니다. 사서함이 크기 제한 아래에 표시 되도록 충분 한 전자 메일을 삭제할 때까지 사용자가 새 메시지를 보낼 수 없습니다.
 
 - **보내기/받기 금지**: Exchange Online은 사서함 크기 제한에 도달할 경우 들어오는 메일을 거부 하 고 보낸 사람에 게 배달 못 함 보고서 (NDR)를 보냅니다. 보낸 사람에게는 나중에 다시 해당 전자 메일을 보내도록 시도할 수 있는 옵션이 제공됩니다. 사용자는 사서함 크기가 제한 용량 미만으로 줄어들 때까지 전자 메일을 삭제해야만 다시 메시지를 받을 수 있습니다.
 
@@ -272,15 +272,20 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |제목 길이 제한|255자|255자|255자|255자|255자|255자|
 |파일 첨부 제한|250개 첨부 파일|250개 첨부 파일|250개 첨부 파일|250개 첨부 파일|250개 첨부 파일|250개 첨부 파일|
 |첨부 파일 크기 제한 - Outlook|150MB |150MB |150MB |150MB |150MB |150MB|
-|첨부 파일 크기 제한 - OWA <sup>6</sup>|35MB|35MB|35MB|35MB|35MB|35MB|
-|첨부 파일 크기 제한 - Outlook for Mac|150MB |150MB |150MB |150MB |150MB |150MB|
+|첨부 파일 크기 제한 - OWA |112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|
+|첨부 파일 크기 제한 - Outlook for Mac|150MB|150MB |150MB |150MB |150MB |150MB|
 |첨부 파일 크기 제한-iOS 및 Android 용 Outlook|33 |33 |33 |33 |33 |33 |
 |여러 부분으로 구성된 메시지 제한|250개 부분|250개 부분|250개 부분|250개 부분|250개 부분|250개 부분|
 |포함 메시지 수준 제한|30개 포함 메시지|30개 포함 메시지|30개 포함 메시지|30개 포함 메시지|30개 포함 메시지|30개 포함 메시지|
 
 > [!NOTE]
-> <sup>1</sup> Office 365 사서함의 기본 최대 메시지 크기는 25MB입니다. Office 365 관리자는 1mb와 150 MB 사이의 사용자 지정 제한을 지정할 수 있습니다. 그러나 보내거나 받을 수 있는 메시지의 크기는 전자 메일 클라이언트 또는 솔루션이 지원하는 크기에 따라서도 좌우됩니다. 조직에 허용되는 최대 메시지 크기를 사용자 지정하는 방법에 대한 자세한 내용은 [Office 365에서 더 큰 전자 메일 메시지 지원](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)을 참조하세요. <br/> <sup>2</sup> Office 365 사용자 간에 최대 150MB의 메시지를 보내고 받을 수 있습니다(메시지가 Office 365 데이터 센터를 벗어나지 않을 경우). Office 365 데이터 센터 외부로 전송되는 메시지는 변환 인코딩이 추가로 33% 증가할 수 있습니다. 이 경우 최대 메시지 크기는 112MB가 됩니다. <br/> <sup>3</sup> OWA는 메시지의 인코딩이 33% 증가할 가능성을 고려하여 사용자가 보낼 수 있는 메시지 크기를 구성된 설정보다 25% 작게 제한합니다. 예를 들어 100MB의 최대 메시지 크기에 대한 설정을 사용자 지정하는 경우 75MB보다 크지 않은 메시지를 보낼 수 있습니다. <br/> <sup>4</sup> Exchange Online으로 이동될 메시지 크기는 Exchange Online에서 계산됩니다. Exchange Server 2013 이전의 Exchange 버전에서는 좀 더 작은 항목 크기를 보고할 수 있습니다. 이 제한은 지원되는 Exchange 사서함 복제 서비스를 사용하는 이동 기반 마이그레이션에 적용됩니다. 다른 마이그레이션 방법 (예를 들어, 단계적으로, IMAP, PST) 및 기타 타사 도구는 일반적인 메시지 크기 제한에 따라 제한 됩니다. <br/> 
-  <sup>5</sup> 새로운 기능이 있는 OME에 관한 정보는 [Azure Information Protection을 기반으로 빌드된 새 Office 365 Message Encryption 기능 설정](https://support.office.com/article/7ff0c040-b25c-4378-9904-b1b50210d00e)을 참조하세요. <br/> <sup>6</sup> 35MB를 초과하는 단일 파일을 첨부할 수 없습니다. 또한 전체적으로 35MB를 초과하는 파일도 첨부할 수 없습니다. 예를 들어, 34MB 파일 하나를 첨부한 경우 추가로 1MB의 파일만 더 첨부할 수 있습니다.
+> <sup>1</sup> Office 365 사서함의 기본 최대 메시지 크기는 25MB입니다. Office 365 관리자는 1mb와 150 MB 사이의 사용자 지정 제한을 지정할 수 있습니다. 그러나 보내거나 받을 수 있는 메시지의 크기는 전자 메일 클라이언트 또는 솔루션이 지원하는 크기에 따라서도 좌우됩니다. 조직에 허용되는 최대 메시지 크기를 사용자 지정하는 방법에 대한 자세한 내용은 [Office 365에서 더 큰 전자 메일 메시지 지원](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)을 참조하세요. 
+<br/> <sup>2</sup> Office 365 사용자 간에 최대 150MB의 메시지를 보내고 받을 수 있습니다(메시지가 Office 365 데이터 센터를 벗어나지 않을 경우). Office 365 데이터 센터 외부로 전송되는 메시지는 변환 인코딩이 추가로 33% 증가할 수 있습니다. 이 경우 최대 메시지 크기는 112MB가 됩니다. <br/> 
+<sup>3</sup> OWA 계정은 메시지가 33% 인코딩이 증가 하 여 전송 가능한 메시지의 크기를 최대 25% 미만으로 제한할 수 있습니다. 예를 들어 100MB의 최대 메시지 크기에 대한 설정을 사용자 지정하는 경우 75MB보다 크지 않은 메시지를 보낼 수 있습니다. 
+<br/> <sup>4</sup> Exchange Online으로 이동될 메시지 크기는 Exchange Online에서 계산됩니다. Exchange Server 2013 이전의 Exchange 버전에서는 좀 더 작은 항목 크기를 보고할 수 있습니다. 이 제한은 지원 되는 Exchange 사서함 복제 서비스를 사용 하는 이동 기반 마이그레이션에 적용 됩니다. 다른 마이그레이션 방법 (예를 들어, 단계적으로, IMAP, PST) 및 기타 타사 도구는 일반적인 메시지 크기 제한에 따라 제한 됩니다. <br/> 
+<sup>5</sup> 새로운 기능이 포함 된 OME에 대 한 자세한 내용은 [Azure information Protection에 구축 된 새로운 Office 365 메시지 암호화 기능 설정](https://support.office.com/article/7ff0c040-b25c-4378-9904-b1b50210d00e)를 참조 하세요. <br/> 
+<sup>6</sup> 기본 첨부 파일의 제한은 112 이지만 OneDrive 파일 첨부 파일의 크기는 최대 2gb가 될 수 있습니다.
+
 
 ### <a name="message-limits-across-standalone-options"></a>독립 실행형 옵션별 메시지 제한
 
@@ -293,19 +298,22 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |메시지 크기 제한 - 마이그레이션|해당 없음|150MB <sup>5</sup>|150MB <sup>5</sup>|150MB <sup>5</sup>|
 |메시지 크기 제한-iOS 및 Android 용 Outlook |25MB |33 |33 |33 |
 |암호화된 메시지의 크기 제한(새 기능에 Office 365 메시지 암호화를 사용하는 구독자)<sup>6</sup>|150MB|150MB |150MB |150MB|
-|암호화된 메시지의 크기 제한(Office 365 메시지 암호화 레거시 버전을 사용하는 구독자)<sup>6</sup>|25MB|25MB |25MB |25MB|
+|암호화된 메시지의 크기 제한(Office 365 메시지 암호화 레거시 버전을 사용하는 구독자)<sup>6</sup>|25MB|25MB|25MB|25MB|
 |제목 길이 제한|255자|255자|255자|255자|
 |파일 첨부 제한|1024 attachments<sup>4</sup>|250개 첨부 파일|250개 첨부 파일|250개 첨부 파일|
 |첨부 파일 크기 제한 - Outlook|35MB<sup>4</sup>|150MB|150MB|150MB|
-|첨부 파일 크기 제한 - OWA|35MB<sup>4</sup>|35MB|35MB|35MB|
+|첨부 파일 크기 제한 - OWA|35MB<sup>4</sup>|112 MB<sup>3</sup>|112 MB<sup>3</sup>|112 MB<sup>3</sup>|
 |첨부 파일 크기 제한 - Outlook for Mac|35MB<sup>4</sup>|150MB|150MB|35MB|
 |첨부 파일 크기 제한-iOS 및 Android 용 Outlook|25MB |33|33|33|
 |여러 부분으로 구성된 메시지 제한|250개 부분|250개 부분|250개 부분|250개 부분|
 |포함 메시지 수준 제한|30개 포함 메시지|30개 포함 메시지|30개 포함 메시지|30개 포함 메시지|
 
 > [!NOTE]
-> <sup>1</sup> Office 365 관리자는 1MB ~ 150MB 사이의 사용자 지정 제한을 지정할 수 있습니다. 그러나 보내거나 받을 수 있는 메시지의 크기는 전자 메일 클라이언트 또는 솔루션이 지원하는 크기에 따라서도 좌우됩니다. 조직에 허용되는 최대 메시지 크기를 사용자 지정하는 방법에 대한 자세한 내용은 [Office 365에서 더 큰 전자 메일 메시지 지원](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)을 참조하세요. <br/> <sup>2</sup> Office 365 사용자 간에 최대 150MB의 메시지를 보내고 받을 수 있습니다(메시지가 Office 365 데이터 센터를 벗어나지 않을 경우). Office 365 데이터 센터 외부로 전송되는 메시지는 변환 인코딩이 추가로 33% 증가할 수 있습니다. 이 경우 최대 메시지 크기는 112MB가 됩니다. <br/> <sup>3</sup> OWA는 메시지의 인코딩이 33% 증가할 가능성을 고려하여 사용자가 보낼 수 있는 메시지 크기를 구성된 설정보다 25% 작게 제한합니다. 예를 들어 100MB의 최대 메시지 크기에 대한 설정을 사용자 지정하는 경우 75MB보다 크지 않은 메시지를 보낼 수 있습니다. <br/> <sup>4</sup> Exchange Server 2013 조직의 기본 제한입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다. <br/> <sup>5</sup> Exchange Online으로 이동될 메시지 크기는 Exchange Online에서 계산됩니다. Exchange Server 2013 이전의 Exchange 버전에서는 좀 더 작은 항목 크기를 보고할 수 있습니다. <br/> 
-  <sup>6</sup> 새로운 기능이 있는 OME에 관한 정보는 [Azure Information Protection을 기반으로 빌드된 새 Office 365 Message Encryption 기능 설정](https://support.office.com/article/7ff0c040-b25c-4378-9904-b1b50210d00e)을 참조하세요.
+> <sup>1</sup> Office 365 관리자는 1MB ~ 150MB 사이의 사용자 지정 제한을 지정할 수 있습니다. 그러나 보내거나 받을 수 있는 메시지의 크기는 전자 메일 클라이언트 또는 솔루션이 지원하는 크기에 따라서도 좌우됩니다. 조직에 허용되는 최대 메시지 크기를 사용자 지정하는 방법에 대한 자세한 내용은 [Office 365에서 더 큰 전자 메일 메시지 지원](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)을 참조하세요. <br/> <sup>2</sup> Office 365 사용자 간에 최대 150MB의 메시지를 보내고 받을 수 있습니다(메시지가 Office 365 데이터 센터를 벗어나지 않을 경우). Office 365 데이터 센터 외부로 전송되는 메시지는 변환 인코딩이 추가로 33% 증가할 수 있습니다. 이 경우 최대 메시지 크기는 112MB가 됩니다. <br/> 
+<sup>3</sup> OWA 계정은 메시지가 33% 인코딩이 증가 하 여 전송 가능한 메시지의 크기를 최대 25% 미만으로 제한할 수 있습니다. 예를 들어 100MB의 최대 메시지 크기에 대한 설정을 사용자 지정하는 경우 75MB보다 크지 않은 메시지를 보낼 수 있습니다. <br/> 
+<sup>4</sup> Exchange Server 2013 조 직의 기본 제한입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다. <br/> 
+<sup>5</sup> exchange online으로 이동할 메시지의 크기는 exchange online에서 계산 됩니다. Exchange Server 2013 이전의 Exchange 버전에서는 좀 더 작은 항목 크기를 보고할 수 있습니다. <br/> 
+<sup>6</sup> 새로운 기능이 포함 된 OME에 대 한 자세한 내용은 [Azure information Protection의 새로운 Office 365 메시지 암호화 기능 구축](https://support.office.com/article/7ff0c040-b25c-4378-9904-b1b50210d00e)을 참조 하십시오.
 
 ## <a name="receiving-and-sending-limits"></a>수신 및 전송 제한
 
@@ -370,7 +378,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 ## <a name="reporting-and-message-trace-limits"></a>보고 및 메시지 추적 제한
 
-보고 및 메시지 추적 제한에 대한 내용은 [Exchange Online Protection의 보고 및 메시지 추적](https://go.microsoft.com/fwlink/p/?LinkId=394248)의 "보고 및 메시지 추적 데이터 사용 가능 여부 및 대기 시간" 섹션을 참조하세요.
+보고 및 메시지 추적 제한에 대 한 자세한 내용은 [reporting and message trace In Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=394248)의 "보고 및 메시지 추적 데이터 사용 가능 여부 및 대기 시간" 섹션을 참조 하십시오.
 
 ## <a name="retention-limits"></a>보존 제한
 
@@ -478,8 +486,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |첨부 파일 내용 검사 제한|1MB|1MB|1MB|1MB|1MB|1MB|
 |모든 전송 규칙에 의해 메시지에 추가되는 최대 받는 사람 수|받는 사람 100명|받는 사람 100명|받는 사람 100명|받는 사람 100명|받는 사람 100명|받는 사람 100명|
 |전달받는 사람 제한|받는 사람 10명|받는 사람 10명|받는 사람 10명|받는 사람 10명|받는 사람 10명|받는 사람 10명|
-|메시지 리디렉션 횟수|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|
-|전송 규칙에 의해 메시지가 리디렉션되는 횟수|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|
+|메시지 리디렉션 횟수|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|
+|전송 규칙에 의해 메시지가 리디렉션되는 횟수|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|리디렉션 1회|
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>독립 실행형 옵션에 걸친 저널, 전송 및 받은 편지함 규칙 제한
 

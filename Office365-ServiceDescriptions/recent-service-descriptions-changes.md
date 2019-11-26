@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: 다음 표에는 최근에 변경 된 서비스 설명 콘텐츠가 나열 되어 있습니다.
-ms.openlocfilehash: 0a4d4e6f8b44320bc78a4309ff93c2e101b98c06
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 5a8acdce7c4d3a1beeb3ea38401bf5255860904e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777529"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263372"
 ---
 # <a name="recent-service-descriptions-changes"></a>최근 서비스 설명 변경 사항
 
@@ -31,7 +31,7 @@ ms.locfileid: "35777529"
 ||[Office 365 Education](office-365-platform-service-description/office-365-education.md) <br/> |교육 보안 및 준수 센터 및 Exchange Online 섹션에서 소송 보존 참조가 업데이트 되었습니다.  <br/> |
 |Exchange Online  <br/> |[Exchange Online 서비스 설명](exchange-online-service-description/exchange-online-service-description.md) <br/> |Office 365 Business의 업데이트 된 가용성이 제공 됩니다.  <br/> |
 |Office 응용 프로그램  <br/> |[Office 응용 프로그램 서비스 설명](office-applications-service-description/office-applications-service-description.md) <br/> |모바일 플랫폼 간의 가용성이 업데이트 되었습니다.  <br/> |
-|Workplace Analytics  <br/> |[Workplace Analytics 서비스 설명](workplace-analytics-service-description.md) <br/> |라이선스 좌석 한도를 업데이트 하 고 시작 문서에 대 한 링크가 추가 되었으며 필수 구성 요소가 업데이트 되었습니다.  <br/> |
+|작업 공간 분석  <br/> |[Workplace Analytics 서비스 설명](workplace-analytics-service-description.md) <br/> |라이선스 좌석 한도를 업데이트 하 고 시작 문서에 대 한 링크가 추가 되었으며 필수 구성 요소가 업데이트 되었습니다.  <br/> |
 |Project Online  <br/> |[Project Online 서비스 설명](project-online-service-description/project-online-service-description.md) <br/> |라이선스를 명확히 설명 했습니다.  <br/> |
 |Visio Online  <br/> |[Visio Online 서비스 설명](visio-online-service-description/visio-online-service-description.md) <br/> |Visio Online에서 이제 사용할 수 있는 추가 기능을 보여 주는 features 표가 업데이트 되었습니다.  <br/> |
    
@@ -52,7 +52,7 @@ ms.locfileid: "35777529"
 ||[Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Microsoft 365 Business가 추가 되었습니다.  <br/> |
 ||[Office 365 보안 &amp; 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Office 365 Business Essentials 및 Office 365 Business Premium에 대 한 보관 제한 항목을 "Yes"로 변경 했습니다.  <br/> |
 ||[Office 365 보안 &amp; 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |"고급 보안 관리"를 "Office 365 Cloud App Security"로 변경 했습니다.  <br/> |
-|웹에 대 한 Office  <br/> |[웹에 대 한 Excel](office-online-service-description/excel-online.md) <br/> |"30mb를 초과 하는 통합 문서는 Microsoft SharePoint Online 내에서 웹에 대해 Excel에서 볼 수 없습니다." 항목의 첫 번째 변경 사항에 대해 설명 합니다. 이전에는 10 MB를 언급 했습니다.  <br/> |
+|웹에 대 한 Office  <br/> |[웹용 Excel](office-online-service-description/excel-online.md) <br/> |"30mb를 초과 하는 통합 문서는 Microsoft SharePoint Online 내에서 웹에 대해 Excel에서 볼 수 없습니다." 항목의 첫 번째 변경 사항에 대해 설명 합니다. 이전에는 10 MB를 언급 했습니다.  <br/> |
 |비즈니스용 OneDrive  <br/> |[비즈니스용 OneDrive 서비스 설명](onedrive-for-business-service-description.md) <br/> |비즈니스용 OneDrive 서비스 설명에 대 한 주요 업데이트입니다.  <br/> |
    
 ## <a name="march-2018"></a>2018년 3월
@@ -62,7 +62,7 @@ ms.locfileid: "35777529"
 |**서비스 설명** <br/> |**항목** <br/> |**변경** <br/> |
 |Exchange Online  <br/> |[Exchange Online 서비스 설명](exchange-online-service-description/exchange-online-service-description.md) <br/> |데이터 센터의 휴지 및 Office 365 메시지 암호화 (OME)에 대 한 업데이트  <br/> |
 ||[메시지 정책 및 규정 준수](exchange-online-service-description/message-policy-and-compliance.md) <br/> |데이터 센터의 휴지 및 Office 365 메시지 암호화 (OME)에 대 한 업데이트  <br/> |
-|웹에 대 한 Office  <br/> |[웹에 대 한 Excel](office-online-service-description/excel-online.md) <br/> |Excel에서 웹을 사용할 수 있도록 창 고정을 지 원하는 업데이트입니다.  <br/> |
+|웹에 대 한 Office  <br/> |[웹용 Excel](office-online-service-description/excel-online.md) <br/> |Excel에서 웹을 사용할 수 있도록 창 고정을 지 원하는 업데이트입니다.  <br/> |
 |SharePoint Online  <br/> |[SharePoint Online 서비스 설명](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |여러 업데이트 및 재구성  <br/> |
 ||[SharePoint Online 제한 사항](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |여러 업데이트  <br/> |
 |Yammer  <br/> |[Yammer의 관리 및 보안 기능](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |메모 및 활동 스트림 키를 제거 했습니다.  <br/> |
@@ -181,10 +181,10 @@ ms.locfileid: "35777529"
 ||[21Vianet에서 운영하는 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Windows Server AD RMS를 사용 하 여 IRM (정보 권한 관리)을 업데이트 했습니다.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |"사용자 계정 관리" 아래에 "앱 암호 만들기" 행이 추가 되었습니다.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |보안 &amp; 및 준수 센터 기능 설명에 대 한 포인터가 추가 되었습니다. (보안 &amp; 준수 센터는 Office 365 독일에 사용할 수 있습니다.)  <br/> |
-|웹에 대 한 Office  <br/> |[웹 서비스에 대 한 Office 설명](office-online-service-description/office-online-service-description.md) <br/> |Visio를 추가 했습니다.  <br/> |
+|웹에 대 한 Office  <br/> |[웹용 Office 서비스 설명](office-online-service-description/office-online-service-description.md) <br/> |Visio를 추가 했습니다.  <br/> |
 |Exchange Online  <br/> |[Exchange Online 서비스 설명](exchange-online-service-description/exchange-online-service-description.md) <br/> |"보존 태그 및 보존 정책"을 "MRM (메시징 레코드 관리) 보존 태그 및 보존 정책"으로 변경 했습니다.  <br/> |
 ||[음성 메시지 서비스](exchange-online-service-description/voice-message-services.md) <br/> |SBC를 통한 Exchange Online 통합 메시징의 수명 종료 알림을 포함 하도록 업데이트 되었습니다.  <br/> |
-| Workplace Analytics  <br/> |[Workplace Analytics 서비스 설명](workplace-analytics-service-description.md) <br/> |새 서비스 설명 추가  <br/> |
+| 작업 공간 분석  <br/> |[Workplace Analytics 서비스 설명](workplace-analytics-service-description.md) <br/> |새 서비스 설명 추가  <br/> |
 |여러 개  <br/> |여러 개  <br/> |Azure RMS에서 Azure Information Protection (AIP)의 이름이 바뀌었습니다.  <br/> |
 |여러 개  <br/> |여러 개  <br/> |21Vianet 페이지에서 운영 하는 office 365 독일 및 Office 365에서 웹 및 Office 데스크톱 비교 세부 정보에 대 한 Office를 제거 했습니다. 웹 서비스 설명 페이지에 대 한 Office의 동일한 콘텐츠에 대 한 포인터가 추가 되었습니다.  <br/> |
    

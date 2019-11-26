@@ -1,5 +1,5 @@
 ---
-title: Exchange Online Archiving의 규정 준수 및 보안 기능
+title: Exchange Online 보관의 규정 준수 및 보안 기능
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 815800d14ab4eacf43ef966218117db5ad3c90f4
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 783cf73931bbb09e0b6ddc198dc4fce83ae53d87
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581884"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260733"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online 보관의 규정 준수 및 보안 기능
 
@@ -133,6 +133,6 @@ Exchange 관리 센터에서는 관리자 역할 변경, 소송 보존, 비소�
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션별로 기능 가용성을 확인하려면 [Exchange Online Archiving 서비스 설명](exchange-online-archiving-service-description.md)을 참조하세요.
+Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 보관 서비스 설명을](exchange-online-archiving-service-description.md)참조 하세요.
   
 

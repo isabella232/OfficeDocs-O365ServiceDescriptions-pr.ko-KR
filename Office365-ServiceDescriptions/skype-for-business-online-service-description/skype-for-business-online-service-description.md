@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 특정 비즈니스용 Skype 기능을 구입하기 위해 어떤 라이선스가 필요한지 알고 싶나요? 비즈니스용 Skype 라이선스 개요를 참조 하세요.
-ms.openlocfilehash: b9e97642f9b7dd1585a1815a080aed764a160013
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 50925e7df7b8cde37764365bd7403154546631b5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733749"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263272"
 ---
 # <a name="skype-for-business-online-service-description"></a>비즈니스용 Skype Online 서비스 설명
 
@@ -40,13 +40,13 @@ ms.locfileid: "37733749"
 비즈니스용 Skype 온라인의 새로운 기능에 대한 자세한 정보는 [비즈니스용 Skype 탐색](https://go.microsoft.com/fwlink/?linkid=529224) 및 [비즈니스용 Skype의 새로운 기능](https://go.microsoft.com/fwlink/?linkid=846973).를 참조하세요.
   
 > [!TIP]
-> Office 365 서비스 설명의 페이지를 내보내고 저장하며 인쇄할 수 있습니다. [여러 페이지 내보내기](https://go.microsoft.com/fwlink/?LinkId=403349) 방법을 알아보세요. 
+> Office 365 서비스 설명에서 페이지를 내보내고 저장 하 고 인쇄할 수 있습니다. [여러 페이지 내보내기](https://go.microsoft.com/fwlink/?LinkId=403349) 방법을 알아보세요. 
   
 ## <a name="compare-skype-for-business-online-features-across-office-365-plans"></a>Office 365 계획의 비즈니스용 Skype 온라인 기능 비교하기
 
 간단한 비교 페이지를 사용하여 비즈니스용 Skype 온라인 버전을 선택하는 것이 좋습니다. [Skype 모임을 통해 계획 비교하기](https://go.microsoft.com/fwlink/?linkid=798291)를 참조하세요. 더 자세한 비교를 원하시면 아래의 기능 테이블을 참조하세요. 이에 대한 추가 지원이 필요한 경우, [지원](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support)에 전화하시기 바랍니다. 드롭다운 목록에서 지역을 선택하여 지역 번호를 가져올 수 있습니다.
   
-모든 Office 365 계획을 보려면, [비즈니스용 Office 365 계획 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)을 참조하세요. 비교에 대한 자세한 내용은 [Office 365 계획 옵션](https://go.microsoft.com/fwlink/?linkid=846972)을 참조하세요.
+모든 Office 365 계획을 보려면, [비즈니스용 Office 365 계획 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)을 참조하세요. 보다 자세한 비교를 보려면 [Office 365 계획 옵션](https://go.microsoft.com/fwlink/?linkid=846972)을 참조 하세요.
   
  비즈니스용 Skype 데스크톱 및 웹 클라이언트의 개별 기능을 비교하려면, [비즈니스용 Skype Online 클라이언트 비교 테이블](https://go.microsoft.com/fwlink/?linkid=829754)을 참조하세요. 비즈니스용 Skype 모바일 클라이언트 비교에 대한 자세한 내용은 [모바일 클라이언트 비교 테이블](https://go.microsoft.com/fwlink/?linkid=846932)을 참조하세요.
   

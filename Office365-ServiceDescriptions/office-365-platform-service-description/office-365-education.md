@@ -10,20 +10,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군과 Microsoft Exchange Online, microsoft SharePoint Online, 웹을 위한 microsoft 비즈니스용 Skype 및&mdash;공동 작업 서비스를 포함 하 여, 사용자가 인터넷에서 거의 모든 위치에서 생산성을 유지&mdash;하는 데 도움을 주는 microsoft의 차세대 통신 및 협업 서비스가 제공 됩니다.
-ms.openlocfilehash: 958498bca50c736a37398c5ae59dfbe50fd7c4ec
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: eb74436260a66081a959b4c7aaa424387c0adc6c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724646"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263039"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
 Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군과 Microsoft Exchange Online, microsoft SharePoint Online, 웹을 위한 microsoft 비즈니스용 Skype 및&mdash;공동 작업 서비스를 포함 하 여, 사용자가 인터넷에서 거의 모든 위치에서 생산성을 유지&mdash;하는 데 도움을 주는 microsoft의 차세대 통신 및 협업 서비스가 제공 됩니다.
   
-이 문서에서는 Office 365 교육 계획 (A1, A3 및 A5)에 대 한 기능을 소개 합니다. 비즈니스 계획과 기업 계획 간에 기능을 비교 하려면 office [365 For 비즈니스 요금제 비교](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) 또는 자세한 기능 목록을 보려면 [Office 365 서비스 설명](../office-365-service-descriptions-technet-library.md)에서 관련 서비스 설명을 참조 하세요.
+이 문서에서는 Office 365 교육 계획 (A1, A3 및 A5)에 대 한 기능을 소개 합니다. 비즈니스 계획과 기업 계획 간에 기능을 비교 하려면 office [365 For 비즈니스 요금제 비교](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) 또는 자세한 기능 목록을 보려면 [office 365 서비스 설명](../office-365-service-descriptions-technet-library.md)에서 관련 서비스 설명을 참조 하세요.
   
-지원 문서 및 정보를 검색 하려면 [Office 도움말 및 교육](https://support.office.com/)을 참조 하세요.
+지원 문서 및 정보를 검색 하려면 [Office 도움말 &amp; 교육](https://support.office.com/)을 참조 하십시오.
   
 ## <a name="service-availability-for-each-plan"></a>각 계획의 서비스 가용성
 
@@ -472,7 +472,7 @@ Microsoft Exchange Online의 제한은 다음 범주 중 하나에 속합니다.
 >  - Microsoft Office 365 조직에 적용된 제한은 조직이 서비스에 등록된 기간에 따라 다를 수 있습니다. 제한이 Microsoft 데이터 센터에서 변경된 경우 기존의 모든 고객에게 변경 사항을 적용하는 데 시간이 걸릴 수 있습니다. 
 >  - 이러한 제한은 대부분 수정할 수 없지만 사용자와 함께 어떠한 제한이 있는지 알고 있어야 합니다. 
 > - 이들 제한은 내부 및 외부의 받는 사람에게 모두 적용됩니다. 
-> - 기본적으로 EOP (Exchange Online Protection)는 Exchange Online 사서함을 보호 합니다. Exchange Online의 EOP 기능에 적용되는 제한 사항은 [Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md)을 참조하세요. 
+> - 기본적으로 EOP (Exchange Online Protection)는 Exchange Online 사서함을 보호 합니다. Exchange Online의 EOP 기능에 적용 되는 제한 사항은 [Exchange Online Protection 제한을](../exchange-online-protection-service-description/exchange-online-protection-limits.md)참조 하세요. 
 >  - Office 365 그룹 제한에 대 한 자세한 내용은 "내 그룹을 관리 하는 방법"을 참조 하십시오. [Office 365 그룹에 대해 자세히 알아보기](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)의 “내 그룹을 관리하려면 어떻게 해야 하나요?”를 참조하세요. 
   
 #### <a name="address-book-limits"></a>주소록 제한
@@ -671,7 +671,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
    
 #### <a name="reporting-and-message-trace-limits"></a>보고 및 메시지 추적 제한
 
-보고 및 메시지 추적 제한에 대한 내용은 [Exchange Online Protection의 보고 및 메시지 추적](https://docs.microsoft.com/office365/SecurityCompliance/eop/reporting-and-message-trace-in-exchange-online-protection)의 "보고 및 메시지 추적 데이터 사용 가능 여부 및 대기 시간" 섹션을 참조하세요.
+보고 및 메시지 추적 제한에 대 한 자세한 내용은 [reporting and message trace In Exchange Online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/reporting-and-message-trace-in-exchange-online-protection)의 "보고 및 메시지 추적 데이터 사용 가능 여부 및 대기 시간" 섹션을 참조 하십시오.
   
 #### <a name="retention-limits"></a>보존 제한
 

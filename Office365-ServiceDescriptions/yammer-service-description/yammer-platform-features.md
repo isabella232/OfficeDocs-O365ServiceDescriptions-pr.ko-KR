@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a7d8a60e-a80d-429b-b4eb-d188cbf15371
 description: Yammer에서는 다음과 같은 Yammer 플랫폼 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 80918999bd9f6e42aa1b966b900b70d4410731d2
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: bbae95e2284cac39e8e4bbfbb08faeac5c4b3fad
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726472"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263149"
 ---
 # <a name="yammer-platform-features"></a>Yammer 플랫폼 기능
 

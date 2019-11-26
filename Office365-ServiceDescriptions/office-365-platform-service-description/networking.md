@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft Office 365에서는 다음과 같은 네트워킹 기능을 지원 합니다.
-ms.openlocfilehash: 915736e704f3d3995993100a82515ee71113be5b
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: f2343872faac2b1b289c37b8dc91240fa030482d
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523426"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262901"
 ---
 # <a name="networking"></a>네트워킹
 
@@ -64,6 +64,6 @@ Office 365 네트워킹 인프라는 서비스를 세계적으로 배포하기 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획 간의 기능 가용성을 확인하려면 [Office 365 플랫폼 서비스 설명](office-365-platform-service-description.md)을 참조하세요.
+Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
   
 
