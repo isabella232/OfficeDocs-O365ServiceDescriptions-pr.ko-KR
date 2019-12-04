@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
-ms.openlocfilehash: 61e1f1243e3b8d175f6b4ed58fd9faa06ff3ff8f
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 15af043bbce11ba9c4672a6aad0cd524b9159091
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263049"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810817"
 ---
 # <a name="office-365-plan-options"></a>Office 365 계획 옵션
 
@@ -67,7 +67,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 <sup>2</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용하려면 Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F1에 포함되어 있지 않은 Office365ProPlus를 구독해야 합니다.<br/>
 <sup>3</sup> Office 365 요금제에 포함된 Azure Information Protection 기능에 대해 자세히 알아보려면 [Azure Information Protection](https://azure.microsoft.com/services/information-protection/)을참 조하세요.<br/>
 <sup>4</sup> Office 365 Enterprise E5에는 전화 시스템, 오디오 회의 및 통화 요금제 기능이 포함 되어 있습니다. 통화 요금제를 구현하려면 추가 요금제(국내 또는 국제)를 구매해야 합니다.<br/>
-<sup>5</sup> 2GB 저장소가 포함됩니다. 데스크톱 동기화 기능은 포함되지 않습니다. <br/>
+<sup>5</sup> 2GB 저장소가 포함됩니다. <br/>
 <sup>6</sup> Exchange Online 계획 1이 포함됩니다. <br/>
 <sup>7</sup> Exchange Online 계획 2가 포함됩니다. <br/>
 <sup>8</sup> Exchange Online 계획 1과 추가 기능이 포함됩니다. <br/>

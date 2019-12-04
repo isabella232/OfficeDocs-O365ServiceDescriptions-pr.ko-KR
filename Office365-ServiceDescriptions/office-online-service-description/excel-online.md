@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Web for excel (이전의 Excel Web App)은 Microsoft Excel 환경을 웹 브라우저로 확장 하 여 통합 문서가 저장 된 웹 사이트에서 통합 문서를 직접 사용할 수 있습니다. 모든 Office 365 고객은 웹에서 Office를 사용 하 여 Office 파일을 보고 가볍게 편집할 수 있습니다.
-ms.openlocfilehash: e81a24733fba2f61d44982ae09cca6e2df41e2ca
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39261919"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810827"
 ---
 # <a name="excel-for-the-web"></a>웹용 Excel
 
 Web for excel (이전의 Excel Web App)은 Microsoft Excel 환경을 웹 브라우저로 확장 하 여 통합 문서가 저장 된 웹 사이트에서 통합 문서를 직접 사용할 수 있습니다. 모든 Office 365 고객은 웹에서 Office를 사용 하 여 Office 파일을 보고 가볍게 편집할 수 있습니다.
   
 > [!NOTE]
-> 30mb를 초과 하는 통합 문서는 Microsoft SharePoint Online 내에서 웹을 위한 Excel에서 볼 수 없습니다. 더 큰 파일을 보려면 Excel 데스크톱 앱이 컴퓨터에 설치되어 있어야 합니다. 
+> 50 메가바이트 (MB)를 초과 하는 통합 문서는 Microsoft SharePoint Online 내에서 웹을 사용할 때 Excel에서 볼 수 없습니다. 더 큰 파일을 보려면 Excel 데스크톱 앱이 컴퓨터에 설치되어 있어야 합니다. 
 
 > [!NOTE]
 > 제품을 간편하게 비교할 수 있도록 이 문서에 나열된 고급 기능에는 Office 제품군(예: Office Professional Plus, Office Standard 또는 Office 365 ProPlus)에서만 사용할 수 있는 Excel 데스크톱 앱 기능이 포함됩니다. 웹을 위한 Word, 웹의 PowerPoint와 같은 웹 기능에 대 한 모든 Office의 목록은 [웹 요금제에 대 한 office의 기능 가용성](office-online-service-description.md#feature-availability-across-office-for-the-web-plans)을 참조 하십시오.

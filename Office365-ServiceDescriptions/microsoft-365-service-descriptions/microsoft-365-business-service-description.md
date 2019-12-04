@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business service 설명
+title: Microsoft 365 Business 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,20 +10,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business는 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 제공 하는 Office 365의 최고급 생산성을 함께 제공 하는 통합 솔루션입니다. 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다.
-ms.openlocfilehash: 5da58f1000468d25d4e62a40b2cd602165ad899e
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9cdc5b8bc366b5f646aff6866b19dd63a3de8daa
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262851"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810807"
 ---
-# <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business service 설명
+# <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business 서비스 설명
 
 Microsoft 365 Business는 고급 보안 및 장치 관리에 대 365 한 모범 중 수준의 생산성을 결합 하 여 비즈니스 위협을 방지 하는 데 도움이 되는 통합 솔루션입니다. 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다. Office 365에 대 한 자세한 내용은 [office 365 서비스 설명을](../office-365-service-descriptions-technet-library.md)참조 하세요.
   
 ## <a name="feature-availability-across-office-365-business-premium-and-microsoft-365-business-plans"></a>Office 365 Business Premium 및 Microsoft 365 비즈니스 요금제에서의 기능 가용성
 
-Microsoft 365 Business에는 기본적으로 office 365 Business Premium에서 사용할 수 있는 모든 기능과 추가 Office 365 보안 기능이 포함 되어 있습니다.
+Microsoft 365 Business에는 기본적으로 Office 365 Business Premium에서 사용할 수 있는 모든 기능이 추가 Office 365 보안 기능과 함께 포함 되어 있습니다.
+
+Microsoft 365 Business에는 AD 쓰기 백, Azure MFA (Multi-factor Authentication) 및 조건부 액세스를 포함 하는 셀프 서비스 암호 재설정 기능과 함께 다음 Azure AD Premium P1 기능이 포함 되어 있습니다. Azure AD Premium P1의 전체는 포함 되지 않습니다.
 
 ||||
 |:-----|:-----|:-----|
@@ -76,9 +78,9 @@ Microsoft 365 Business에는 기본적으로 office 365 Business Premium에서 �
 |SLA 99.9%  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Advanced Threat Analytics  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[장치 및 응용 프로그램 관리](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business에는 iOS, Android, Mac OS 및 기타 플랫폼 간 장치 관리에 대 한 전체 Intune 기능이 포함 되어 있습니다. <sup>9</sup> <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Pc, Mac 및 모바일 장치에 대 한 Intune MDM (모바일 장치 관리)<sup>5</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Pc, Mac 및 모바일 장치에 대 한 Intune MDM (모바일 장치 관리)<sup>5</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |MDM (모바일 장치 관리) 자동 등록  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|Office 앱 및 LOB 앱에 대 한 Intune MAM (모바일 응용 프로그램 관리)<sup>17</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|Office 앱 및 LOB 앱에 대 한 Intune MAM (모바일 응용 프로그램 관리)<sup>9</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |Windows 업데이트 관리, Defender, 방화벽 정책<sup>5</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |데이터 보호-선택적 지우기  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |정책에 대 한 대상 SG (보안 그룹)  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
