@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365는 Word, Excel, PowerPoint 등 이미 익숙한 Office 데스크톱 응용 프로그램의 최신 버전을 제공 하는 구독 서비스입니다.
-ms.openlocfilehash: a53fd2b7786ca3f8c48cc3fa2a731f0be6edaef7
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: dd792241b7e2030c80fb9d79b9bcf51e9f8dea7f
+ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39261959"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "39969955"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 
@@ -71,7 +71,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |예<sup>1</sup> <br/> |예  <br/> |예  <br/>|예<sup>1</sup> <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |
 |그룹 정책 지원  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |아니요 <br/> |
 |Office 클라우드 정책 지원  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |아니요 <br/> |
-|Azure Information Protection을 사용한 정보 권한 관리  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |
+|Azure Information Protection을 사용한 정보 권한 관리  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |예 <br/> |
 |Windows Server AD RMS를 사용한 Information Rights Management  <br/> |예<sup>3</sup> <br/> |예  <br/> |예 <br/>| 예<sup>3</sup> <br/>|예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |
 |Office 추가 기능, ActiveX 및 BHO 지원  <br/> |예  <br/> |예  <br/> |예로<sup>+++<sup> <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |예 <br/> |
 |SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  <br/> |예  <br/> |예  <br/> |예로<sup>++</sup> <br/> |예 <br/> |예  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |지원  <br/>|예  <br/> |아니요  <br/> |지원 <br/> |
@@ -169,7 +169,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |스마트 조회 | 아니요 | 아니요 | 아니요 |
 |Office 소리 (일부) | 아니요 | 아니요 | 아니요 |
 |3D 모델 및 3D 포함 애니메이션 | 아니요 | 아니요 | 아니요 |
-차트: 지도 | 아니요 | 아니요 | 아니요 |
+|차트: 지도 | 아니요 | 아니요 | 아니요 |
 |지능형 디지털 잉크 | 아니요 | 아니요 | 아니요 |
 |PowerPoint에서 자막 & 하는 라이브 캡션 | 아니요 | 아니요 | 아니요 |
 |발표자 Coach | 아니요 | 아니요 | 아니요 |
@@ -179,6 +179,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |Office 365 그룹 | 아니요 | 아니요 | 아니요 |
 |실시간 공동 작업 (현재 상태, 일반 공동 작성, 문서 내 채팅) | 아니요 | 아니요 | 아니요 |
 |받아쓰기 | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
+|슬라이드 다시 사용 | 아니요 | 아니요 | 아니요 |
 |현재 정부 클라우드의 **Microsoft 화이트 보드** 는 데스크톱에는 제공 되지 않고 허브 클라이언트 에서만 사용할 수 있습니다. | 예<sup>2</sup> | 예<sup>2</sup> | 예<sup>2</sup> |
 |스티커 메모, 텍스트 및 이미지 삽입 |예<sup>2</sup> |예<sup>2</sup> |예<sup>2</sup> |
 |잉크를 도형에, 잉크를 표로 표 |예<sup>2</sup> |예<sup>2</sup> |예<sup>2</sup> |
