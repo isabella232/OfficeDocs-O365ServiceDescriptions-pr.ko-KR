@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 미국 방어 부서에 대 한 고유 하 고 진화 한 요구 사항을 충족 하 고, DoD 정보를 보유 하거나 처리 하는 계약자, ITAR (무장 규정)의 국제 트래픽에 대 한 주체를 지원 하기 위해 Microsoft는 다음을 제공 합니다. GCC High 및 DoD 환경 볼륨 라이선스를 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재는 평가판을 사용할 수 없습니다.
-ms.openlocfilehash: 4d539df25546255feae5d33369b678833b2d967f
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e98f95ea51a402bd31ddf59a49d2bf77a931eb4a
+ms.sourcegitcommit: 462c41ef3d98c4e1ad8f0bec26c4a212650175ad
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262549"
+ms.lasthandoff: 12/13/2019
+ms.locfileid: "40003963"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High 및 DoD
 
@@ -98,8 +98,15 @@ GCC High 또는 DoD 환경에서 SharePoint Online 및 비즈니스용 OneDrive�
   
 ### <a name="skype-for-business-online"></a>비즈니스용 Skype Online
 
- **Pstn &amp; 회의** pstn 전화-통신 지향 서비스에 pstn (공중 전화망)을 사용 해야 하는 요구 사항으로 인해 현재 GCC High 및 &amp; DoD에서는 pstn 회의 서비스를 호출 하는 것이 가능 하지 않습니다. 
-  
+ **Pstn &amp; 회의** pstn 전화-통신 지향 서비스에 pstn (공중 전화망)을 사용 해야 하는 요구 사항으로 인해 현재 GCC High 및 &amp; DoD에서는 pstn 회의 서비스를 호출 하는 것이 가능 하지 않습니다.
+
+### <a name="microsoft-teams"></a>Microsoft Teams
+
+**전화 시스템 및 오디오 회의 (직접 라우팅 통해)**: GCC High 및 DoD 환경에 대 한 전화 시스템 및 오디오 회의는 직접 라우팅을 통해 제공 됩니다. 자세한 내용은 여기에서 서비스 수준 설명서를 참조 하세요.
+
+- [직접 라우팅를 통한 전화 시스템](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
+- [GCC High 및 DoD에 대 한 직접 라우팅이 있는 오디오 회의](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
+
 ### <a name="identity"></a>ID
 
 페더레이션 ID 모델을 사용하는 다단계 인증은 PIV 및 CAC 카드를 사용할 수 있도록 합니다.
