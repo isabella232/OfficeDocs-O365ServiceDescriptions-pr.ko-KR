@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 섹션에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다. Office 365 서비스 설명과 함께이 보조 섹션을 읽는 것이 좋습니다.
-ms.openlocfilehash: 5676680e5285b7b825388e8140480a07bef047b6
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: ca251b876b2cc69d1f35524471e089003e71c4de
+ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262529"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40614837"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -250,7 +250,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |알림을 보낸 대상: 메시지 센터 작업이 다음과 같은 경우 필수  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |일부 서비스에 대한 Roadmap.office.com 업데이트  <br/> |<sup>10, 13</sup> <br/> |<sup>10, 13</sup> <br/> |<sup>10, 13</sup> <br/> |<sup>10, 13</sup> <br/> |
 |대상 지정 된 릴리스를 설정 하는 옵션  <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |
-|**[도움말 및 교육](../../office-365-platform-service-description/help-and-training.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
+|**[도움말 및 학습](../../office-365-platform-service-description/help-and-training.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
 |온라인 도움말  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |커뮤니티  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |기타 자가 진단 리소스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -260,9 +260,9 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**트러스트** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
 |**[개인 정보, 보안 및 투명성](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |고급 데이터 거버넌스  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예 <br/> |<sup>12</sup> <br/> |
-|Cloud App Security  <br/> |<sup>11, 12</sup> <br/> |<sup>11, 12</sup> <br/> |예<sup>11</sup> <br/> |<sup>11, 12</sup> <br/> |
+|Cloud App Security  <br/> |<sup>12, 15, 19</sup> <br/> |<sup>12, 15, 19</sup> <br/> |예<sup>15, 19</sup> <br/> |<sup>12, 15, 19</sup> <br/> |
 |Advanced Threat Protection  <br/> |<sup>12, 18</sup> <br/> |<sup>12, 18</sup> <br/> |예<sup>18</sup>  <br/> |<sup>12, 18</sup> <br/> |
-|Customer Lockbox  <br/> |<sup>9, 12, 15</sup> 없음 <br/> |<sup>9, 12, 15</sup> 없음 <br/> |예<sup>9, 15</sup> <br/> |<sup>9, 12, 15</sup> 없음 <br/> |
+|Customer Lockbox  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예 <br/> |<sup>12</sup> <br/> |
 |Office 365 고급 eDiscovery  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예  <br/> |<sup>12</sup> <br/> |
 |보안 점수<sup>14</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |
 |Office 메시지 암호화  <br/> |아니요  <br/> |있음 <br/> |예 <br/> |아니요  <br/> |
@@ -284,7 +284,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |지정된 계획을 사용하는 고객에 대한 평가판 초대 및 구매 주문 만들기  <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |
 |위임된 관리 제공  <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |
 |**[서비스 수준 계약](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[제품 사용 권한](../../office-365-platform-service-description/product-use-rights.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|**[제품 사용권](../../office-365-platform-service-description/product-use-rights.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
    
 > <sup>1</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 Office 365 정부 G1 또는 Office 365 정부 F1에 포함 되지 않은 Office 365 ProPlus에 대 한 구독이 필요 합니다. > 
 <br/><sup>2</sup> 기존 bbcs 및 BIS 고객은 서비스를 계속 사용할 수 있습니다. 신규 고객은 수락되지 않습니다. 
@@ -304,6 +304,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 <br/><sup>16</sup> 관리 센터에는 DOD 또는 GCC High 환경에 사용 현황 분석이 포함 되어 있지 않습니다.
 <br/><sup>17</sup> GCC High 또는 DoD 환경에서는 지원 되지 않습니다.
 <br/><sup>18</sup> 사용자 및 도메인 가장에 대 한 피싱 방지 및 스푸핑 인텔리전스는 GCC High 및 DoD에서 아직 사용할 수 없습니다.
+<br/><sup>19</sup> GCC 환경에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다.
   
 [이 서비스 설명 섹션을 사용 하는 방법](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -332,32 +333,32 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**기업 가치** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
 |PC 또는 Mac에서 사용자당 5건의 동시 설치 지원  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
 |사용자 계정 자동 구축  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|다국어 사용자 인터페이스  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|다국어 사용자 인터페이스  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |클라이언트 푸시 배포  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
-|온-프레미스 Exchange에 대한 클라이언트 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|온-프레미스 Sharepoint에 대한 클라이언트 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|소프트웨어 업데이트 제어  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|데이터베이스 비교  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|데스크톱 가상화  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Excel 스프레드시트 비교  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Excel 스프레드시트 조회  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|그룹 정책 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|온-프레미스 Exchange에 대한 클라이언트 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|온-프레미스 Sharepoint에 대한 클라이언트 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|소프트웨어 업데이트 제어  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|데이터베이스 비교  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|데스크톱 가상화  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|Excel 스프레드시트 비교  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|Excel 스프레드시트 조회  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|그룹 정책 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |Azure Information Protection을 사용한 정보 권한 관리  <br/> |No<sup>1</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |No<sup>1</sup> <br/> |
 |Windows Server AD RMS를 사용한 정보 권한 관리  <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |
-|Office 추가 기능, ActiveX 및 BHO 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|Office 추가 기능, ActiveX 및 BHO 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |Office Lens  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Office 원격 분석  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
-|클라이언트 응용 프로그램에 대한 오프라인 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|최적화된 클라이언트 병렬 설치  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|클라이언트 응용 프로그램에 대한 오프라인 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|최적화된 클라이언트 병렬 설치  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |Excel용 파워 맵  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Power Pivot for Excel  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Excel용 파워 쿼리  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Power View for Excel  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |로밍 설정  <br/> |아니요  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |아니요  <br/> |
 |공유 컴퓨터 활성화  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
-|클라우드 기반 파일 저장 차단 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|클라우드 기반 파일 저장 차단 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |버전 업그레이드  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Volume activation (KMS/MAK)  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
    

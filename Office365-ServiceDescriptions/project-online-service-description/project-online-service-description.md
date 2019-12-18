@@ -1,5 +1,5 @@
 ---
-title: Microsoft Project service 설명
+title: Microsoft Project 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을 위한 유연한 온라인 솔루션입니다. Office 365를 통해 제공되는 Project Online은 거의 모든 위치의 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획하고 우선 순위를 정하고 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: 4a5d95c24fb67012ace390a79fa32ea26543907b
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f1e1818a98dbd8bff69e7ff1b7e566876af941a0
+ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263422"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40614827"
 ---
-# <a name="microsoft-project-service-description"></a>Microsoft Project service 설명
+# <a name="microsoft-project-service-description"></a>Microsoft Project 서비스 설명
 
 ## <a name="overview"></a>개요
 
@@ -247,6 +247,11 @@ Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업�
 
 ## <a name="service-considerations"></a>서비스 고려 사항
 
+> [!NOTE]
+> - 현재 웹의 프랑스 &ndash; 및 대한민국 프로젝트를 사용할 수 없습니다. Microsoft에서는 웹에 대 한 프로젝트를 지역으로 제공 하 고 아래에 표시 된 통신 채널을 통해 가용성을 알려줍니다.
+> - 웹 &ndash; 에 대 한 교육 프로젝트가 교육 고객에 게 곧 제공 될 예정입니다. 정확한 기간이 보류 중입니다.
+> - Gcc, gcc High, DoD &ndash; 현재, 웹의 프로젝트는 GCC, gcc High 및 dod에서 사용할 수 없습니다. 죄송 하지만, 현재는 웹에 대 한 Project를 제공 하는 작업 이지만 지금은 회사 기간을 공유할 수 없습니다.
+
 ### <a name="licensing-considerations"></a>라이선스 고려 사항
 
 - Project Online 사이트의 모든 상호 작용에는 프로젝트 계획 3 또는 프로젝트 계획 5 구독이 필요 합니다.
@@ -283,7 +288,7 @@ Project Online에서는 Project Online의 일부로 프로 비전 되는 SharePo
 |최대값. 요약 작업의 기간 | 3650 일 (10 년) |
 |최대값. 작업에 할당할 수 있는 자원 | 자원 20 개 |
 |작업에 대해 지원 되는 날짜 범위 | 1/1/1984 &ndash; 12/31/2149 |
-|**프로젝트** ||
+|**Project** ||
 |최대값. 프로젝트의 총 작업 | 500 |
 |최대값. 프로젝트의 전체 기간입니다. | 3650 일 (10 년) |
 |최대값. 프로젝트에 대 한 총 자원 | 150 |
