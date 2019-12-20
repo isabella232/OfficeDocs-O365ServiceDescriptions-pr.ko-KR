@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는 클라우드 기반 전자 메일 필터링 서비스 이며, 다음을 보호 하는 기능을 포함 합니다. 실시간으로 해로운 링크에서 조직으로 구성 합니다.
-ms.openlocfilehash: 30b57b2bc0150be299861626aa17aa32fa5d3f6f
-ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
+ms.openlocfilehash: 2c08cb74b826602ec9e123cae3e6e29390b37895
+ms.sourcegitcommit: faa19e491c43f33c0a07077b7dcb74daa11d4842
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39969974"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "40824992"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection 서비스 설명
 
@@ -118,8 +118,10 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 
 > [!NOTE]
 > 사용자에 게 ATP<sup>\*</sup>라이선스가 있어야 하 고, Atp 안전한 링크 정책에 포함 되어야 하며, 보호를 위해 해당 장치에 로그인 되어 있어야 합니다.
-
-<sup>\*</sup>조직 전반의 ATP 라이선스 (예: ATP_ENTERPRISE_FACULTY)의 경우에는 개별 사용자에 게 ATP 라이선스를 할당할 필요가 없습니다.
+>
+> <sup>\*</sup>조직 전반의 ATP 라이선스 (예: ATP_ENTERPRISE_FACULTY)의 경우에는 개별 사용자에 게 ATP 라이선스를 할당할 필요가 없습니다.
+>
+> ATP 안전한 링크 보호에 대 한 자세한 내용은 [How To Safe 링크가 Office 문서의 url과 함께 작동 하는 방식을](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-atp-safe-links-works#how-atp-safe-links-works-with-urls-in-office-documents)참조 하세요.
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>SharePoint, OneDrive 및 Microsoft Teams에 대한 ATP
 
