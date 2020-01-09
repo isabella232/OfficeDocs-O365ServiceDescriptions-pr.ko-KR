@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 다음 섹션에서는 Microsoft Exchange Online 보관의 보관 기능에 대해 설명 합니다.
-ms.openlocfilehash: 9cf2084f947e20f02c40c1bd5e7485d10bcb6416
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: aa3a43a0af668f84adaf14c69ad5b38d7c5cb1eb
+ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260503"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40987580"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online 보관의 보관 기능
 
@@ -33,7 +33,7 @@ Exchange Online Archiving에서는 보관 사서함 기능과 함께 고급 보�
   
 > [!IMPORTANT]
 >  보관 목적으로 저널링, 전송 규칙 또는 자동 전달 규칙을 사용하여 Exchange Online Archiving에 메시지를 복사할 수는 없습니다. <br/>
->  사용자의 보관 사서함은 해당 사용자만을 위한 것입니다. Microsoft는 사용자의 보관 사서함이 다른 사용자의 보관 데이터를 저장하는데 사용되는 경우 인스턴스의 무제한 보관을 거부할 권리를 가지고 있습니다. 
+>  사용자의 보관 사서함은 해당 사용자만을 위한 것입니다. Microsoft는 사용자의 보관 사서함이 다른 사용자의 보관 데이터를 저장 하는 데 사용 되거나 부적절 하 게 사용 되는 경우를 제외 하 고 무제한 보관을 거부할 수 있는 권한을 보유 합니다.
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Exchange Online Archiving으로 메시지 이동
 

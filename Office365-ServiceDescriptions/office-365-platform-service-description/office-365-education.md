@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군과 Microsoft Exchange Online, microsoft SharePoint Online, 웹을 위한 microsoft 비즈니스용 Skype 및&mdash;공동 작업 서비스를 포함 하 여, 사용자가 인터넷에서 거의 모든 위치에서 생산성을 유지&mdash;하는 데 도움을 주는 microsoft의 차세대 통신 및 협업 서비스가 제공 됩니다.
-ms.openlocfilehash: eb74436260a66081a959b4c7aaa424387c0adc6c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e5afcc499298b661a2869958ece9a257a8e96aeb
+ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263039"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40987650"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -146,7 +146,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |알림을 보낸 대상: 메시지 센터 작업이 다음과 같은 경우 필수  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |일부 서비스에 대한 Roadmap.office.com 업데이트  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |대상 지정 릴리스를 설정하는 옵션  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[도움말 및 교육](help-and-training.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[도움말 및 학습](help-and-training.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |온라인 도움말  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |커뮤니티  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |기타 자가 진단 리소스  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -177,7 +177,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |지정된 계획을 사용하는 고객에 대한 평가판 초대 및 구매 주문 만들기  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |위임된 관리 제공  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[서비스 수준 계약](service-level-agreement.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[제품 사용 권한](product-use-rights.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |
+|**[제품 사용권](product-use-rights.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Office 365는 제조업체에서 지원 하지 않는 운영 체제에 대 한 지원을 제공 하지 않습니다.<br/> 
@@ -498,7 +498,7 @@ Microsoft Exchange Online의 제한은 다음 범주 중 하나에 속합니다.
 사용할 수 있는 사서함 저장소의 크기는 사서함 유형 및 사용자의 구독 라이선스에 따라 결정됩니다. 관리자는 각 사용자별 사서함 크기 또는 모든 사용자의 사서함 크기를 줄일 수 있습니다.
   
 > [!NOTE]
-> 보관 목적으로 Exchange Online 사서함에 메시지를 복사하는 저널링, 전송 규칙 또는 자동 전달 규칙을 사용하는 것은 허용되지 않습니다. 사용자의 보관 사서함은 해당 사용자만을 위한 것입니다. Microsoft는 사용자의 보관 사서함이 다른 사용자의 보관 데이터를 저장하는데 사용되는 경우 인스턴스의 무제한 보관을 거부할 권리를 가지고 있습니다. 
+> 보관 목적으로 Exchange Online 사서함에 메시지를 복사하는 저널링, 전송 규칙 또는 자동 전달 규칙을 사용하는 것은 허용되지 않습니다. 사용자의 보관 사서함은 해당 사용자만을 위한 것입니다. Microsoft는 사용자의 보관 사서함이 다른 사용자의 보관 데이터를 저장 하는 데 사용 되거나 부적절 하 게 사용 되는 경우를 제외 하 고 무제한 보관을 거부할 수 있는 권한을 보유 합니다.
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -507,9 +507,9 @@ Microsoft Exchange Online의 제한은 다음 범주 중 하나에 속합니다.
 |보관 사서함<sup>6, 7</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |공유 사서함  <br/> |50GB<sup>2</sup> <br/> |50GB<sup>2</sup> <br/> |50GB<sup>2</sup> <br/> |
 |리소스 사서함  <br/> |50GB<sup>3</sup> <br/> |50GB<sup>3</sup> <br/> |50GB<sup>3</sup> <br/> |
-|사이트 사서함<sup>4</sup> <br/> |50GB  <br/> |50GB  <br/> |50GB  <br/> |
+|사이트 사서함<sup>4</sup> <br/> |50GB  <br/> |50 GB  <br/> |50 GB  <br/> |
 |공용 폴더 사서함  <br/> |50 GB<sup>5</sup> <br/> |100 GB<sup>5</sup> <br/> |100 GB<sup>5</sup> <br/> |
-|그룹 사서함  <br/> |50GB  <br/> |50GB  <br/> |50GB  <br/> |
+|그룹 사서함  <br/> |50GB  <br/> |50 GB  <br/> |50GB  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> 각 사용자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 Office 365 무제한 보관의 개요를 참조하세요. 가용성에 대한 자세한 내용은 Office 365 로드맵을 참조하세요. <br/> 
