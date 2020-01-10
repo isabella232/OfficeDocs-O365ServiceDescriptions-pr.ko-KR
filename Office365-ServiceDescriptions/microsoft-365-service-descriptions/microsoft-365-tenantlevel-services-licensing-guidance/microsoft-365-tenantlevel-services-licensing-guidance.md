@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 테 넌 트 수준 서비스 라이선스 지침
+title: Microsoft 365 테넌트 수준 라이선싱 참고 자료
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 테 넌 트 수준 서비스에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: b0ff01a92ed1d3c3a5284fd3eba45241a65c0a6a
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: c0d02c56241a000b48306619b3e96b0ef97a33ee
+ms.sourcegitcommit: 262c4a84be6c09ce5e56495506a1e599159efcdc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890517"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "41000868"
 ---
-# <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 테 넌 트 수준 서비스 라이선스 지침
+# <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 테넌트 수준 라이선싱 참고 자료
 
 이 문서를 사용 하는 경우 테 넌 트 수준 서비스는 테 넌 트의&mdash;모든 사용자에 대해 구매한 경우 (독립 실행형 또는 Office 365 또는 Microsoft 365 요금제의 일부로)&mdash;이 테 넌 트의 모든 사용자에 대해 전체에서 정품 인증을 받아야 하는 온라인 서비스입니다. 일부 허가 되지 않은 사용자는 기술적으로 서비스에 액세스할 수 있지만,이 경우 서비스에서 혜택을 받으려는 모든 사용자에 게 라이선스가 필요 합니다.
 
@@ -39,7 +39,7 @@ SecOps 분석가 및 보안 전문가는 컴퓨터 학습 알고리즘에 따라
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
-기본적으로 AADIP 기능은 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다. AADIP을 구성 하는 방법에 대 한 자세한 내용은 [Azure Active Directory Id 보호 사용](https://docs.microsoft.com/azure/active-directory/identity-protection/enable)을 참조 하십시오.
+기본적으로 AADIP 기능은 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다. AADIP에 대 한 자세한 내용은 [Azure Active Directory Id 보호 란?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)를 참조 하세요.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
@@ -141,7 +141,7 @@ OCAS 섀도를 검색 하 고, Office 365에서 위협을 보호 하며, Office 
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-Microsoft Cloud App Security (MCAS)는 조직에 클라우드 앱 및 서비스를 표시 하는 방법을 제공 하는 사이버 (클라우드 액세스 보안 브로커) 솔루션 이며, 문제를 식별 하 고 해결 하는 정교한 분석 기능을 제공 하며 데이터를 제어 하는 데 사용할 수 있습니다. 모든&mdash;클라우드 앱에서 이동 합니다.
+Microsoft Cloud App Security (MCAS)는 조직에 클라우드 앱 및 서비스를 표시 하는 방법을 제공 하는 사이버 (Cloud Access Security Broker) 솔루션으로, 복잡 한 분석을 제공 하 여 모든 클라우드 앱&mdash;에서 데이터를 전송 하는 방법을 제어할 수 있도록 합니다.
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
@@ -149,7 +149,7 @@ MCAS의 라이선스가 있는 사용자, Enterprise Mobility + Security E5/A5/G
 
 Azure AD P1의 라이선스가 있는 사용자는 MCAS의 검색 기능을 활용할 수 있습니다.
 
-MCAS에서 [조건부 Access 앱 제어](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) 기능을 활용 하려면 사용자에 게 Enterprise Mobility + security E3/A3/G3, enterprise Mobility + security E5/A5/G5, Microsoft 365 E3/에 포함 된 Azure Active Directory P1에 대 한 라이선스가 있어야 합니다. A3/G3, Microsoft 365 E5/A5/G5 및 Microsoft 365 E5/A5/G5 보안
+MCAS에서 [조건부 Access 앱 제어](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) 기능을 활용 하려면 사용자에 게 enterprise Mobility + Security E3/A3/G3, enterprise Mobility + security E5/A5/G5, Microsoft 365 E3/A3/G3, Microsoft 365 e5/A5/G5 및 Microsoft 365 e5/A5/G5 Security에 포함 된 Azure Active Directory P1에 대 한 라이선스가 있어야 합니다.
 
 [자동 레이블](https://docs.microsoft.com/cloud-app-security/data-protection-policies)기능의 혜택을 얻으려면 사용자에 게 Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 및 Microsoft 365 E5/A5/G5 준수에 포함 된 Azure Information Protection P2에 대 한 라이선스가 있어야 합니다.
 
@@ -253,7 +253,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준�
 
 Microsoft는 Office 365 조직의 사용자에 대 한 고객 Lockbox 액세스 제어 승인 요청을 제공 합니다.
 
-## <a name="privileged-access-management-in-office-365"></a>Office 365의 특권이 있는 액세스 관리
+## <a name="privileged-access-management-in-office-365"></a>Office 365의 권한 있는 액세스 관리
 
 PAM (권한 부여 관리) 기능은 Office 365의 권한 있는 관리 작업에 대 한 세부적인 액세스 제어를 제공 합니다. PAM을 사용 하도록 설정한 후에는 사용자가 상승 및 권한 작업을 완료 하기 위해 범위가 높고 시간이 제한 된 승인 워크플로를 통해 just-in-time 액세스를 요청 해야 합니다.
 
@@ -323,7 +323,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예:
+사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예시는 다음과 같습니다:
 
 | 시나리오                                                                                                                                                                                                              | 라이선스가 필요한 사용자 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
@@ -344,7 +344,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준�
 
 OME(Office 365 메시지 암호화)는 Azure RMS(권한 관리)를 기반으로 구축된 서비스로, 대상의 전자 메일 주소(Gmail, Yahoo! Mail, Outlook.com 등)에 상관없이 사용자 조직 내부 또는 외부 사람에게 암호화된 전자 메일을 보낼 수 있습니다.
 
-암호화된 메시지를 보려면 받는 사람이 일회용 암호를 얻어 Microsoft 계정에 로그인하거나 Office 365와 연결된 회사 또는 학교 계정을 사용하여 로그인할 수 있습니다. 받는 사람은 암호화된 회신을 보낼 수도 있습니다. 암호화 된 메시지를 보거나 암호화 된 회신을 보내기 위해 Office 365 구독이 필요 하지는 않습니다.
+암호화된 메시지를 보려면 받는 사람이 일회용 암호를 얻어 Microsoft 계정에 로그인하거나 Office 365와 연결된 회사 또는 학교 계정을 사용하여 로그인할 수 있습니다. 받는 사람은 암호화된 회신을 보낼 수도 있습니다. 암호화된 메시지를 보거나 암호화된 회신을 보내는 데는 Office 365 구독이 필요하지 않습니다.
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
@@ -361,7 +361,6 @@ Office 365 E3/A3/G3, Microsoft 365 E3/A3/G3 및 Azure Information Protection 계
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
 관리자는 라이선스가 있는 사용자 에게만 Office 365 메시지 암호화에 대 한 메일 흐름 규칙을 적용 해야 합니다. 메일 흐름 규칙을 정의 하는 방법에 대 한 자세한 내용은 [Office 365에서 전자 메일 메시지를 암호화 하는 메일 흐름 규칙 정의](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)를 참조 하십시오.
-
 
 ## <a name="office-365-advanced-message-encryption"></a>Office 365 고급 메시지 암호화
 
@@ -402,3 +401,23 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준�
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
 관리자 감독 정책에 포함할 특정 사용자 또는 그룹을 선택 합니다. 그룹을 선택 하는 경우에는 해당 그룹의 특정 사용자를 감독 정책에서 제외할 수도 있습니다. 감독 정책에 대 한 자세한 내용은 [Office 365의 감독 정책을](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies)참조 하세요.
+
+## <a name="conditional-access-policies"></a>조건부 액세스 정책
+
+조건부 액세스는 Azure Active Directory에서 신호를 함께 가져오고 결정을 내리고 조직 정책을 적용 하는 데 사용 되는 도구입니다. 조건부 액세스는 id 기반 제어 평면의 핵심입니다. 조건부 액세스 정책 가장 간단한 방법은 if 문으로 사용 하는 것입니다. 사용자가 리소스에 액세스 하려는 경우에는 작업을 완료 해야 합니다. 예: 급여 관리자가 급여 응용 프로그램에 액세스 하려는 경우에는 다단계 인증을 수행 하 여 액세스 하는 데 필요 합니다.
+
+### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
+
+Enterprise Mobility + Security E3/A3/G3, Microsoft 365 F1/E3/A3/G3 및 Azure Active Directory Premium 요금제 1의 라이선스가 있는 사용자는 조건부 액세스 정책을 활용할 수 있습니다. Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft E5 보안 및 Azure Active Directory Premium 요금제 2의 라이선스가 있는 사용자는 Id 보호 (위험 기반 조건부 액세스 정책)를 활용할 수 있습니다.
+
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+
+보안 작업 분석가 및 보안 전문가는 회사 콘텐츠에 대 한 액세스 권한을 부여 하기 전에 특정 기준을 충족 해야 하는 조직 정책을 사용자에 게 적용할 수 있는 기능을 통해 혜택을 제공 합니다. 최종 사용자는 조직의 자산을 보호 하면서 언제 어디서 나 언제 든 지 작업에 액세스할 수 있게 됩니다.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+
+기본적으로 조건부 액세스 기능은 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+
+Id 보호 및 조건부 액세스에 대 한 구체적인 경우 사용자를 그룹에 포함 하거나 조건부 액세스 정책에 추가 해야 합니다. 조건부 액세스 정책에서 사용자 및 그룹 조건은 필수입니다. 정책에서 **모든 사용자** 또는 특정 사용자 및 그룹을 선택할 수 있습니다. 적절 하 게 허가 된 사용자 및 그룹만 선택 해야 합니다. 자세한 내용은 [Azure Active Directory 조건부 액세스의 조건](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions)를 참조 하세요.
