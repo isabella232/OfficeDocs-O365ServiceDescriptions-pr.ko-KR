@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 섹션에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다. Office 365 서비스 설명과 함께이 보조 섹션을 읽는 것이 좋습니다.
-ms.openlocfilehash: d305fa31fa63d24b0f42f91f2f82085b0ea375eb
-ms.sourcegitcommit: e80ced3148cb7d281d7270f36380578a8dc21f42
+ms.openlocfilehash: be73b616012d37c2bd58df63587201675962ae11
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40884333"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216743"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -182,7 +182,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**[Office 365 제품군 기능](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
 |Microsoft Bookings  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Microsoft 브리핑 전자 메일  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|Microsoft Flow  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
+|Microsoft 파워 자동화  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |Microsoft Forms  <br/> |예 <br/> |예 <br/> |예<br/> |예</sup> <br/> |
 |Microsoft Graph API  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft MyAnalytics  <br/> |아니요 <br/> |아니요 <br/> |예<sup>17</sup> <br/> |아니요 <br/> |

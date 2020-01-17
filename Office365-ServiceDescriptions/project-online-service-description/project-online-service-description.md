@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을 위한 유연한 온라인 솔루션입니다. Office 365를 통해 제공되는 Project Online은 거의 모든 위치의 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획하고 우선 순위를 정하고 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: f1e1818a98dbd8bff69e7ff1b7e566876af941a0
-ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
+ms.openlocfilehash: 13c4432f63ed1f73c6ce617ddd436bdb5c0cfab4
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40614827"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216667"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 서비스 설명
 
@@ -27,17 +27,17 @@ ms.locfileid: "40614827"
 
 Microsoft Project에서는 프로젝트 및 작업 관리에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되는 다음과 같은 응용 프로그램을 제공 합니다.
 
-- 웹 프로젝트
+- 웹용 Project
 - Project Online 
 - Project Online 데스크톱 클라이언트
 
 이 문서는 각 프로젝트 구독에서 제공 되는 응용 프로그램과 각 응용 프로그램에서 제공 하는 기능을 이해 하는 데 도움이 됩니다.
 
-### <a name="project-for-the-web"></a>웹 프로젝트
+### <a name="project-for-the-web"></a>웹용 Project
 
 웹 프로젝트는 클라우드 기반 작업 및 프로젝트 관리를 위한 Microsoft의 최신 제품입니다. 웹 프로젝트에서는 대부분의 요구 사항과 역할을 충족 하기 위한 간단한 강력한 작업 관리 기능을 제공 합니다. 프로젝트 관리자 및 팀 구성원은 Project를 사용 하 여 웹을 통해 모든 규모의 작업을 계획 하 고 관리할 수 있습니다.
 
-웹에 대 한 Project는 Microsoft Power Platform을 기반으로 합니다. 이 전원 플랫폼은 PowerApps, Microsoft Flow, Power BI 및 일반 데이터 서비스 (CD)로 구성 됩니다. 웹 데이터에 대 한 프로젝트는 CD에 저장 됩니다. 
+웹에 대 한 Project는 Microsoft Power Platform을 기반으로 합니다. 이 전원 플랫폼은 PowerApps, 파워 자동화, Power BI 및 일반 데이터 서비스 (CD)로 구성 됩니다. 웹 데이터에 대 한 프로젝트는 CD에 저장 됩니다. 
 
 웹 프로젝트는 세 가지 구독, 즉 프로젝트 계획 1, 프로젝트 계획 3 및 프로젝트 계획 5를 통해 제공 됩니다. [웹 기능에 대 한 프로젝트](#project-for-the-web-features) 섹션에 나열 된 기능은 웹 데이터 저장소에 대 한 프로젝트의 데이터와 상호 작용 합니다.
 
@@ -80,7 +80,7 @@ Microsoft Project는 조직의 요구 사항을 가장 잘 충족 하기 위해 
 
 |제품 | 요금제 1 | 계획 3 | 계획 5 |
 |--------|-----------------------------|------------------------|------------------------|
-|웹 프로젝트 |**좌표**  | **x x** | **x x** |
+|웹용 Project |**좌표**  | **x x** | **x x** |
 |Project Online | |**x x**| **x x x** |
 |Project Online 데스크톱 클라이언트 | |**좌표**|**좌표**|
 
@@ -119,7 +119,7 @@ Microsoft Project는 조직의 요구 사항을 가장 잘 충족 하기 위해 
 |모바일 응용 프로그램 | PowerApps를 사용 하 여 사용자 지정 모바일 응용 프로그램을 작성 합니다. <sup>4</sup> |
 |**사용자 지정 및 통합**||
 |PowerApps | PowerApps를 사용 하 여 웹 및 mobile 용 솔루션을 구축 및 사용 합니다. <sup>4</sup> |
-|Workflows | 비즈니스 프로세스를 자동화 하 고 Microsoft Flow로 통합 합니다. <sup>5</sup> |
+|Workflows | 비즈니스 프로세스를 자동화 하 고 전원 자동화로 통합 합니다. <sup>5</sup> |
 |Microsoft Office 365 통합 | 익숙한 Office 365 도구 및 응용 프로그램을 사용 하 여 문서를 공동으로 작업 하 고 관리 합니다. <sup>1</sup> |
 |**보안 및 사용자 관리**||
 |Office 최신 그룹 | 공동 작업을 수행 하 고 팀 구성원 들이 공유할 리소스 모음을 쉽게 설정할 수 있도록 프로젝트 팀을 구축 합니다.|
@@ -180,7 +180,7 @@ Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업�
 |Custom fields | 프로젝트, 작업 및 자원 수준에서 사용자 정의 필드를 추가 하 여 조직 및 프로젝트에 중요 한 데이터를 추적 합니다. | 예 | 예 |
 |식을 | 작업 및 프로젝트에서 수식을 사용 하 여 중요 한 데이터를 계산 하 고 캡처합니다. | 예 | 예 |
 |PowerApps | PowerApps를 사용 하 여 웹 및 모바일 (OData를 통해) 솔루션을 구축 및 사용 합니다. <sup>4</sup> | 예 | 예 |
-|Workflows | OData를 통해 비즈니스 프로세스를 자동화 하 고 Microsoft 흐름과 통합 합니다. <sup>5</sup> | 예 | 예 |
+|Workflows | OData를 통한 비즈니스 프로세스 자동화 및 통합 (고급 자동화 기능 포함) <sup>5</sup> | 예 | 예 |
 |Microsoft Office 365 통합 | 익숙한 Office 365 도구 및 응용 프로그램을 사용 하 여 문서를 공동으로 작업 하 고 관리 합니다. <sup>1</sup> | 예 | 예 |
 |Microsoft Planner 통합 | 프로젝트 작업을 Planner 계획에 연결 하 고 Planner에서 자세한 작업을 추적 합니다. <sup>1</sup> | 예 | 예 |
 |**보안, 사용자 및 서비스 관리**||||
@@ -188,13 +188,13 @@ Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업�
 |사용자 관리 | 프로젝트, 팀 및 조직 수준에서 사용자 및 그룹 역할 및 사용 권한을 관리 합니다. | 아니요 | 예 |
 |서비스 관리 | Office 365<sup>1</sup> 환경의 일부로 Microsoft Project 환경을 계획, 설치 및 구성, 유지 관리 및 확장 합니다.  | 아니요 | 예 |
 
-#### <a name="notes"></a>참고
+#### <a name="notes"></a>Notes
 
 <sup>1</sup> Office 또는 Microsoft 365 상업용 구독을 사용 해야 합니다.</br>
 <sup>2</sup> Azure 보드를 별도로 취득 했습니다.</br>
 <sup>3</sup> Power BI를 사용 하 여 웹 및 project Online 용 프로젝트에 대 한 보고를 사용할 수 있습니다. 보고서를 보고 편집 하 고 만들기 위해서는 Power BI Pro 구독이 필요 합니다. Microsoft는 미리 작성 된 Power BI 보고서 집합을 제공 합니다. 사용자는 Power BI를 사용 하 여 이러한 보고서를 사용자 지정 하거나 추가 보고서를 작성할 수 있습니다.</br> 
 <sup>4</sup> 웹 데이터에 대 한 프로젝트에 액세스 하는 사용자 지정 powerapps 모바일 응용 프로그램을 작성 하려면 PowerApps 구독 및 프로젝트 계획 3 또는 프로젝트 계획 5 구독이 필요 합니다.</br>
-<sup>5</sup> 비즈니스 프로세스를 웹 데이터를 위한 Project와 함께 자동화 하 고 통합 하려면 microsoft flow 구독 및 프로젝트 계획 3 또는 프로젝트 계획 5 구독이 필요 합니다.</br>
+<sup>5</sup> 비즈니스 프로세스 자동화 및 통합 (웹 데이터를 위한 project)에는 전원 자동화 구독 및 프로젝트 계획 3 또는 프로젝트 계획 5 구독이 필요 합니다.</br>
 <sup>6</sup> 외부 사용자에 대 한 Project Online 라이선스는 내부 사용자의 경우와 동일한 정책을 따릅니다. Project Online 사이트의 모든 상호 작용에는 프로젝트 계획 3 또는 프로젝트 계획 5 구독이 필요 합니다.</br>
 <sup>7</sup> 프로젝트 계획 3 또는 프로젝트 계획 5 구독을 사용 하는 사용자는 리소스 계약 요청을 제출할 수 있습니다. 자원 계약 요청을 검토 하거나, 수행 하거나, 승인할 수 없습니다.</br>
 <sup>8</sup> 프로젝트 계획 5 구독을 사용 하는 사용자는 리소스 계약 요청을 검토 하 고, 수행 하 고, 승인할 수 있습니다.</br>
@@ -239,7 +239,7 @@ Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업�
 |정렬 및 그룹화 | 사용자 지정 정렬 및 그룹화를 사용 하 여 프로젝트, 작업 및 자원을 중점적으로 볼 수 있습니다.|
 |**사용자 지정 및 통합**||
 |사용자 지정 필드 | 프로젝트, 작업 및 자원 수준에서 사용자 정의 필드를 추가 하 여 조직 및 프로젝트에 중요 한 데이터를 추적 합니다. |
-|양식 | 사용자 지정 양식을 만들고 배포 하 여 중요 한 프로젝트 데이터를 캡처합니다. |
+|Forms | 사용자 지정 양식을 만들고 배포 하 여 중요 한 프로젝트 데이터를 캡처합니다. |
 |식을 | 작업 및 프로젝트에서 수식을 사용 하 여 중요 한 데이터를 계산 하 고 캡처합니다. |
 |템플릿 | 프로젝트 계획, 팀 및 배정을 비롯 한 일반 프로젝트에 대 한 서식 파일을 만듭니다. |
 |mpp 가져오기/내보내기 | 기존 .mpp 파일에서 새 프로젝트를 만들거나 기존 프로젝트의 .mpp 파일을 만듭니다. |
@@ -263,9 +263,9 @@ Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업�
 
 Project Online에서는 Project Online의 일부로 프로 비전 되는 SharePoint Online을 사용 해야 합니다. Project 요금제 3 또는 Project 계획 5 구독에서 제공 하는 SharePoint Online 기능에 대 한 권한은 Project Online을 지원 하기 위해 데이터를 저장 및 액세스 하는 것으로 제한 됩니다.
 
-### <a name="project-roadmap-and-microsoft-flow"></a>프로젝트 로드맵 및 Microsoft Flow
+### <a name="project-roadmap-and-power-automate"></a>프로젝트 로드맵 및 전원 자동화
 
-프로젝트 로드맵을 사용 하려면 프로젝트 구독의 일부로 프로 비전 되는 Microsoft Flow가 필요 합니다. Microsoft Flow 기능에 대 한 권한은 프로젝트 로드맵에 필요한 Microsoft 흐름 기능으로 제한 됩니다. Project 로드맵에 필요한 microsoft 흐름 기능은 Microsoft 365 관리 센터의 **Apps** 섹션에 있는 Project to Flow service 계획 **에 대 한 데이터 통합** 으로 표시 됩니다.
+프로젝트 로드맵을 사용 하려면 프로젝트 구독의 일부로 프로 비전 되는 전원 자동화가 필요 합니다. 전원 자동화 기능에 대 한 권한은 프로젝트 로드맵을 필요로 하는 강력한 자동화 기능으로 제한 됩니다. Project 로드맵에 필요한 전력 자동화 기능은 Microsoft 365 관리 센터의 **Apps** 섹션에 있는 Project to Flow service 계획 **에 대 한 데이터 통합** 으로 표시 됩니다.
 
 ### <a name="project-for-the-web-and-common-data-service"></a>웹 및 일반 데이터 서비스용 프로젝트
 

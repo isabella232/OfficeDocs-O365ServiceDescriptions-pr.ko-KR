@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Microsoft 365 및 Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다.
-ms.openlocfilehash: 2a6413f2dff6255b10cb11cf596f05303ca358f2
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 356d8e35d4872d50a4de1baf89b11b412ead6fdd
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263029"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216537"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -92,7 +92,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |SharePoint<sup>9</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>10</sup> <br/> |예  <br/> |
 |비즈니스용 Skype<sup>9</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>10</sup> <br/> |예  <br/> |
 |Windows Server CAL  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
-|System Center Configuration Manager  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|Microsoft Endpoint Configuration Manager  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |System Center Endpoint Protection  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
    
 > [!NOTE]

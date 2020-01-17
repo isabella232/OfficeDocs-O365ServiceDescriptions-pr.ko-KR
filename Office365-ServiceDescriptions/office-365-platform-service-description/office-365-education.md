@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군과 Microsoft Exchange Online, microsoft SharePoint Online, 웹을 위한 microsoft 비즈니스용 Skype 및&mdash;공동 작업 서비스를 포함 하 여, 사용자가 인터넷에서 거의 모든 위치에서 생산성을 유지&mdash;하는 데 도움을 주는 microsoft의 차세대 통신 및 협업 서비스가 제공 됩니다.
-ms.openlocfilehash: e5afcc499298b661a2869958ece9a257a8e96aeb
-ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
+ms.openlocfilehash: 7e3ad5731e5a0346314617247bc61ed3bc2dc318
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987650"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216527"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -72,7 +72,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |**[Office 365 제품군 기능](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft Bookings  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |Microsoft 브리핑 전자 메일<sup>10</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft Flow  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Microsoft 파워 자동화  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Forms  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Graph API  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft MyAnalytics<sup>9</sup>  <br/> |아니요  <br/> |예  <br/> |예  <br/> |

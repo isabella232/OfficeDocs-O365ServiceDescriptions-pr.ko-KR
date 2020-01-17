@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영 하는 Office 365는 중국의 안전 하 고 안정적 이며 확장 가능한 클라우드 서비스에 대 한 요구를 충족 하도록 설계 되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: 0509bd901319ca3268c208f91bd17ea9ad4fd707
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 5de46f8188a936ceadc36caf1cf76c2a4eb4bab7
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263069"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216627"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -83,7 +83,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |**[Office 365 제품군 기능](office-365-suite-features.md)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F1**|
 |Microsoft Bookings|아니요|아니요|예|아니요|아니요|아니요|아니요|
 |Microsoft 브리핑 전자 메일|아니요|아니요|예|아니요|아니요|아니요|아니요|
-|Microsoft Flow|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
+|Microsoft 파워 자동화|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Microsoft Forms|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Microsoft MyAnalytics|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Microsoft Planner|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -158,7 +158,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |알림 메시지 작업을 수행 해야 하는 경우 문제를 해결 하거나 기능을 배포 하거나 서비스 변경|예|예|예|예|예|예|예|
 |일부 서비스 업데이트에 대 한 [Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=)|예|--|예|예|예|예|예|
 |대상 지정 릴리스를 설정하는 옵션|아니요|--|아니요|아니요|예|예|예|
-|**[도움말 및 교육](help-and-training.md)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F1**|
+|**[도움말 및 학습](help-and-training.md)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F1**|
 |온라인 도움말|예|예|예|예|예|예|예|
 |커뮤니티|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |기타 자가 진단 리소스<sup>12</sup>|예|예|예|예|예|예|예|

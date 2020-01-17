@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와 차별화 된 옵션입니다. 독일어 데이터 센터에서 업계 최고의 생산성 서비스를 제공 하는 독일, 유럽 연합 (EU) 및 상주 (유럽 자유 무역 협회)의 요구를 해결 하는 데 도움이 됩니다. 독일어 법률에 따라 관리 되는 고유한 데이터 트러스티 모델을 통해 독일 및 엄격한 데이터 액세스 및 제어 조치를 사용 합니다.
-ms.openlocfilehash: 75991d0995e1b9d9122c1a9e52355d7a422b5fdd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: a62211889e0b7830f4aa00fec16a0da207e1a654
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263059"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216657"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -78,7 +78,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |**[Office 365 제품군 기능](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Microsoft Bookings|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Microsoft 브리핑 전자 메일|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|Microsoft Flow|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
+|Microsoft 파워 자동화|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Microsoft Forms|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Microsoft MyAnalytics|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Microsoft Planner|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -149,7 +149,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |알림을 보낸 대상: 메시지 센터 작업이 다음과 같은 경우 필수|예|예|예|예|예|예|예|예|
 |일부 서비스에 대한 Roadmap.office.com 업데이트|예|--|예|예|예|예|예|예|
 |대상 지정 릴리스를 설정하는 옵션|예|--|예|예|예|예|예|예|
-|**[도움말 및 교육](help-and-training.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[도움말 및 학습](help-and-training.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |온라인 도움말|예|예|예|예|예|예|예|예|
 |커뮤니티|예|예|예|예|예|예|예|예|
 |기타 자가 진단 리소스|예|예|예|예|예|예|예|예|
@@ -178,7 +178,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |지정된 계획을 사용하는 고객에 대한 평가판 초대 및 구매 주문 만들기|예|예|예|예|예|예|예|예|
 |위임된 관리 제공|예|예|예|예|예|예|예|예|
 |**[서비스 수준 계약](service-level-agreement.md)**|예|예|예|예|예|예|예|예|
-|**[제품 사용 권한](product-use-rights.md)**|예|예|예|예|예|예|예|예|
+|**[제품 사용권](product-use-rights.md)**|예|예|예|예|예|예|예|예|
 
 > [!NOTE]
 > <sup>1</sup> Office 365 독일에서는 제조업체에서 지원 하지 않는 운영 체제에 대 한 지원을 제공 하지 않습니다.<br/>

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business는 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 제공 하는 Office 365의 최고급 생산성을 함께 제공 하는 통합 솔루션입니다. 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다.
-ms.openlocfilehash: 9cdc5b8bc366b5f646aff6866b19dd63a3de8daa
-ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
+ms.openlocfilehash: 3ef3e018d8768fe63239a83c9aeb20d0b4fb3098
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39810807"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216637"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business 서비스 설명
 
@@ -39,7 +39,7 @@ Microsoft 365 Business에는 AD 쓰기 백, Azure MFA (Multi-factor Authenticati
 |[Office 응용 프로그램](../office-applications-service-description/office-applications-service-description.md)  <br/> |예  <br/> |예  <br/> |
 |Yammer Enterprise  <br/> |예  <br/> |예  <br/> |
 |Microsoft 예약  <br/> |예  <br/> |예  <br/> |
-|Microsoft Flow  <br/> |예  <br/> |예  <br/> |
+|Microsoft 파워 자동화  <br/> |예  <br/> |예  <br/> |
 |Microsoft Forms  <br/> |예  <br/> |예  <br/> |
 |Microsoft Planner  <br/> |예  <br/> |예  <br/> |
 |Microsoft PowerApps  <br/> |예  <br/> |예  <br/> |
@@ -62,7 +62,7 @@ Microsoft 365 Business에는 AD 쓰기 백, Azure MFA (Multi-factor Authenticati
 |Office 365 Advanced Threat Protection 계획 1 <br/> |아니요  <br/> |예<sup>7</sup> <br/> |
 |보안 점수<sup>4</sup> <br/> |예  <br/> |예  <br/> |
 |Office 365 Advanced Threat Protection Plan 2 <br/> |아니요  <br/> |아니요 <br/> |
-|[ID 및 액세스 관리](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Microsoft 365 Business에는 Azure AD Premium P1 (AADP P1) 기능을 선택 합니다. AADP1 전체를 포함 하지는 않습니다. <sup>8</sup> <br/>|**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|[Id 및 액세스 관리](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Microsoft 365 Business에는 Azure AD Premium P1 (AADP P1) 기능을 선택 합니다. AADP1 전체를 포함 하지는 않습니다. <sup>8</sup> <br/>|**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Azure MFA(Multi-Factor Authentication)  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |관리 단위  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |Cloud app discovery  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
@@ -89,7 +89,7 @@ Microsoft 365 Business에는 AD 쓰기 백, Azure MFA (Multi-factor Authenticati
 |장치 프로필 및 보안 구성<sup>5</sup> 배포 <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |Azure AD 조인이 포함 된 Windows 10 용 엔터프라이즈 상태 로밍  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |셀프 서비스 BitLocker 복구  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|Windows 가상 데스크톱 <br/> |아니요 <br/> |예 <br/> |예 <br/> |
+|Windows Virtual Desktop <br/> |아니요 <br/> |예 <br/> |예 <br/> |
 
 |||
 |:-----|:-----|
@@ -108,7 +108,7 @@ Microsoft 365 Business에는 AD 쓰기 백, Azure MFA (Multi-factor Authenticati
 |랜섬웨어와 같은 위협으로부터 폴더 보호 <br/> |예  <br/> |
 |Bitlocker를 사용 하 여 Pc의 파일 및 폴더를 무단 액세스 로부터 보호 <br/> |예  <br/> |
 
-### <a name="notes"></a>참고
+### <a name="notes"></a>Notes
 <sup>1</sup> Exchange Online 계획 1이 포함 됩니다.<br/>
 <sup>2</sup> aip (Azure information Protection)에서는 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 합니다. Microsoft 365 Business에는 AIP 요금제 1이 포함 되어 있습니다. <br/>
 <sup>3</sup> Microsoft 365 Business에는 Exchange Online 보관 구독이 포함 되어 있습니다. 각 Exchange Online Archiving 구독자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)를 참조하세요. <br/>

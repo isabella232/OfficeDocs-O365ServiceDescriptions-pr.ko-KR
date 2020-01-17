@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Exchange Online 계획을 비롯하여 Office 365 계획 간의 차이점을 알고 싶은 경우 이 문서를 통해 각 계획에 포함된 기능을 확인할 수 있습니다.
-ms.openlocfilehash: 45b35c66752842196acfcad52fea8b5470384550
-ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
+ms.openlocfilehash: 369b753a5b96db0faefaf34e7a1c6b58739abb3e
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39810797"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216617"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 플랫폼 서비스 설명
 
@@ -98,7 +98,7 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 |**[Office 365 제품군 기능](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Microsoft Bookings  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |<sup>20</sup>  <br/> |<sup>20</sup>  <br/> |아니요  <br/> |
 |Microsoft 브리핑 전자 메일<sup>23</sup>  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft Flow  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>14</sup> <br/> |
+|Microsoft 파워 자동화  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Graph API  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft MyAnalytics<sup>21</sup>  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |

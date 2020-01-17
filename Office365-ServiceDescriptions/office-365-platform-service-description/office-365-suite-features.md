@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열 된 기능은 많은 장치 및 여러 Office 365 서비스에서 안전 하 게 공동 작업 하 고 통신 하는 데 사용할 수 있는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: 215c284e2ba535c6e6e1f7eff95ada524b2ec72a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 51bb73ecf80b6fd38e958983386ed8bdd8043c09
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263129"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216733"
 ---
 # <a name="office-365-suite-features"></a>Office 365 suite features
 
@@ -39,9 +39,9 @@ Microsoft Bookings에 대한 자세한 내용은 [Microsoft Bookings 소개](htt
 
 브리핑 전자 메일은 Exchange Online의 모든 사용자에 게 자동으로 제공 됩니다. 자세한 내용은 [브리핑 전자 메일 개요](https://docs.microsoft.com/Briefing/be-overview)를 참조 하세요.
 
-## <a name="microsoft-flow"></a>Microsoft Flow
+## <a name="microsoft-power-automate"></a>Microsoft 파워 자동화
 
-Microsoft Flow를 사용하면 응용 프로그램 전체의 워크플로를 자동화할 수 있습니다. Flow를 사용하여 전자 메일 및 IM 알림을 연결하고, 응용 프로그램 간에 파일을 동기화하며, 한 서비스에서 다른 서비스로 파일을 복사하고, 한 앱에서 데이터를 수집하여 다른 앱에 저장하는 등의 작업을 수행할 수 있습니다. 시작하기 위한 템플릿을 제공합니다. Flow 기능 및 사용 방법에 대한 자세한 내용은 Microsoft [Flow 웹 사이트](https://flow.microsoft.com/en-us/)를 참조하세요.
+Microsoft 파워 자동 자동화를 사용 하면 여러 응용 프로그램에서 워크플로를 자동화할 수 있습니다. Flow를 사용하여 전자 메일 및 IM 알림을 연결하고, 응용 프로그램 간에 파일을 동기화하며, 한 서비스에서 다른 서비스로 파일을 복사하고, 한 앱에서 데이터를 수집하여 다른 앱에 저장하는 등의 작업을 수행할 수 있습니다. 시작하기 위한 템플릿을 제공합니다. Flow 기능 및 사용 방법에 대한 자세한 내용은 Microsoft [Flow 웹 사이트](https://flow.microsoft.com/en-us/)를 참조하세요.
   
 ## <a name="microsoft-forms"></a>Microsoft Forms
 

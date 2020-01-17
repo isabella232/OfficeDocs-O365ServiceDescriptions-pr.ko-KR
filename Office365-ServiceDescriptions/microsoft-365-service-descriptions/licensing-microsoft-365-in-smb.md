@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business는 중소 규모의 비즈니스 고객을 위한 Microsoft 모범 사례 제품입니다. Microsoft 365 Business는 Office 365 생산성, 고급 보안 및 장치 관리를 함께 제공 하는 통합 솔루션입니다.
-ms.openlocfilehash: ea6c46c83d00db1bebe17b8dbeae0ea7457d115b
-ms.sourcegitcommit: 28be53d2579d91cd76b9f047f13a309a3c0b9dd4
+ms.openlocfilehash: 70e649c0aa66390e3e84da2ff517bfef9a5dbc8f
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38755476"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216467"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>중소기업을 위한 Microsoft 365 라이선싱
 
@@ -31,7 +31,7 @@ Microsoft 365 Business는 중소 규모의 비즈니스 (SMB) 고객을 위한 M
 |**전자 메일 & 일정** | Outlook, Exchange Online| 50GB | 50GB |
 |**팀 작업 용 허브** | Microsoft 팀의 채팅 기반 작업 영역, 온라인 모임 등 | 예 |예 |
 |**파일 저장소** | 비즈니스용 OneDrive  | 사용자 당 1TB | 사용자 당 1TB |
-|**소셜, 비디오, 사이트** | Stream, Yammer, Planner, SharePoint Online, PowerApps, Microsoft Flow | 예 | 예 |
+|**소셜, 비디오, 사이트** | Stream, Yammer, Planner, SharePoint Online, PowerApps, 고급 자동화 | 예 | 예 |
 |**비즈니스 앱** | 앱 &ndash; 예약 예약<sup>1</sup> | 예 | 예 |
 |   | 비즈니스 앱 &ndash; MileIQ<sup>1</sup> | 예 | 예 |
 |**위협 방지** | Office 365 Advanced Threat Protection | 아니요 | 예 |
@@ -42,7 +42,7 @@ Microsoft 365 Business는 중소 규모의 비즈니스 (SMB) 고객을 위한 M
 |   | 공유 컴퓨터 활성화 | 아니요 | 예 |
 |   | Windows AutoPilot, Windows Pro 관리 | 아니요 | 예 |
 |   | Win 7/8.1 Pro 라이선스에 대 한 Windows 10 Pro 업그레이드 권한 | 아니요 | 예 |
-|   | Windows 가상 데스크톱 | 아니요 | 예 |
+|   | Windows Virtual Desktop | 아니요 | 예 |
 |**정보 보호** | Office 365 데이터 손실 방지 | 아니요 | 예 |
 |   | Azure Information Protection 계획 1, BitLocker 적용 | 아니요 | 예 |
 |**규정 준수** | 무제한 전자 메일 보관<sup>2</sup> | 아니요 | 예 |
@@ -62,7 +62,7 @@ Microsoft 365 Business는 중소 규모의 비즈니스 (SMB) 고객을 위한 M
 |**전자 메일 & 일정** | Outlook, Exchange Online | 100GB | 50GB |
 |**팀 작업 용 허브** | Microsoft 팀의 채팅 기반 작업 영역, 온라인 모임 등 | 예 | 예 |
 |**파일 저장소** | 비즈니스용 OneDrive | 무제한 | 사용자 당 1TB |
-|**소셜, 비디오, 사이트** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Microsoft Flow<sup>1</sup> | 예 | 예 |
+|**소셜, 비디오, 사이트** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, 전원 자동화<sup>1</sup> | 예 | 예 |
 |**비즈니스 앱** | 앱 &ndash; 예약 예약<sup>2</sup> | 예 | 예 |
 |   | 비즈니스 앱 &ndash; MileIQ<sup>2</sup> | 아니요 | 예 |
 |**위협 방지** | Office 365 Advanced Threat Protection | 아니요 | 예 |
@@ -72,7 +72,7 @@ Microsoft 365 Business는 중소 규모의 비즈니스 (SMB) 고객을 위한 M
 |**장치 & 앱 관리** | Microsoft Intune, Windows AutoPilot, Windows Pro 관리 | 아니요 | 예 |
 |   | 공유 컴퓨터 활성화 | 예 | 예 |
 |   | Windows 10 Pro for Win 7/8.1 Pro 업그레이드 권한 | 아니요 | 예 |
-|   | Windows 가상 데스크톱 | 아니요 | 예 |
+|   | Windows Virtual Desktop | 아니요 | 예 |
 |**정보 보호** | Office 365 데이터 손실 방지 | 예 | 예 |
 |   | Azure Information Protection 계획 1, BitLocker 적용 | 아니요 | 예 |
 |**온-프레미스 CAL 권한** | ECAL Suite (Exchange, SharePoint, Skype) | 예 | 아니요 |
@@ -95,7 +95,7 @@ Microsoft 365 Business는 중소 규모의 비즈니스 (SMB) 고객을 위한 M
 |**전자 메일 & 일정** | Outlook, Exchange Online  | 50GB | 50GB | 100GB |
 |**팀 작업 용 허브** | Microsoft 팀의 채팅 기반 작업 영역, 온라인 모임 등 | 예 | 예 | 예 |
 |**파일 저장소** | 비즈니스용 OneDrive | 사용자 당 1TB | 사용자 당 1TB | 무제한 |
-|**소셜, 비디오, 사이트** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Microsoft Flow<sup>1</sup> | 예 | 예 | 예 |
+|**소셜, 비디오, 사이트** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, 전원 자동화<sup>1</sup> | 예 | 예 | 예 |
 |**비즈니스 앱** | 앱 &ndash; 예약 예약<sup>2</sup> | 예 | 예 | 예 |
 |   | 비즈니스 앱 &ndash; MileIQ<sup>2</sup> | 예 | 예 | 아니요 |
 |**위협 방지** | Office 365 Advanced Threat Protection | 아니요 | 예 | 아니요 |
@@ -105,7 +105,7 @@ Microsoft 365 Business는 중소 규모의 비즈니스 (SMB) 고객을 위한 M
 |**장치 & 앱 관리** | Microsoft Intune, Windows AutoPilot, Windows Pro 관리 | 아니요 | 예 | 아니요 |
 |   | 공유 컴퓨터 활성화 | 아니요 | 예 | 예 |
 |   | Win 7/8.1 Pro 라이선스에 대 한 Windows 10 Pro 업그레이드 권한 | 아니요 | 예 | 아니요 |
-|   | Windows 가상 데스크톱 | 아니요 | 예 | 아니요 |
+|   | Windows Virtual Desktop | 아니요 | 예 | 아니요 |
 |**정보 보호**  | Office 365 데이터 손실 방지 | 아니요 | 예 | 예 |
 |   | Azure Information Protection 계획 1, BitLocker 적용 | 아니요 | 예 | 아니요 |
 |**온-프레미스 CAL 권한** | ECAL Suite (Exchange, SharePoint, Skype) | 아니요 | 아니요 | 예 |
@@ -144,7 +144,7 @@ Microsoft 365 Business는 중소 규모의 비즈니스 (SMB) 고객을 위한 M
 |   | Microsoft 데스크톱 최적화 팩, VDA | 아니요 | 아니요 | 있음 | 예 |
 | **정보 보호** | Office 365 데이터 손실 방지, Azure Information Protection 계획 1 | 아니요 | 있음 | 예 | 예 |
 |   | Azure Information Protection 계획 2, Microsoft Cloud App Security, Office 365 Cloud App Security | 아니요 | 아니요 | 아니요 | 예 |
-|**온-프레미스 CAL 권한** | ECAL Suite (Exchange, SharePoint, Skype, Windows, SCCM, Windows Rights Management) | 아니요 | 아니요 | 있음 | 예 |
+|**온-프레미스 CAL 권한** | ECAL Suite (Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Windows Rights Management) | 아니요 | 아니요 | 있음 | 예 |
 |**규정 준수** | 무제한 전자 메일 보관<sup>2</sup> | 아니요 | 예 | 예 | 예 |
 |   | 고급 eDiscovery, 고객 Lockbox, 고급 데이터 거버넌스 | 아니요 | 아니요 | 아니요 | 예 |
 |**분석** | Power BI Pro, MyAnalytics | 아니요 | 아니요 | 아니요 | 예 |

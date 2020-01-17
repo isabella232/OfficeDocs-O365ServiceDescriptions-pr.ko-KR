@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 정부 기관 구입 방법
+title: Microsoft 365 정부용 구입 방법
 ms.author: danarl
 author: danarl
 manager: mnirkhe
@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 063565b3aa2e6cd7a315ebd252bb5de327493c33
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: ac13308180797039797fb087eb2509e3945368cc
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263542"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216547"
 ---
 ---
 
@@ -100,7 +100,7 @@ Microsoft 365 정부에서 사용할 수 있는 서비스에 대 한 자세한 �
 - [정부 팀-DoD 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
 - [정부 커뮤니티 클라우드의 iOS 및 Android 용 Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
 - [Microsoft PowerApps US 정부](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Flow 미국 정부](https://docs.microsoft.com/flow/us-govt)
+- [Microsoft Power 자동화 US 정부](https://docs.microsoft.com/flow/us-govt)
 - [Microsoft 365 정부 제품 페이지](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft 365 로드맵](https://www.microsoft.com/microsoft-365/roadmap)
 
@@ -167,7 +167,7 @@ Microsoft 365 정부에 대 한 자세한 내용을 알아보려면 다음 리�
 - [정부 팀-DoD 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
 - [정부 커뮤니티 클라우드의 iOS 및 Android 용 Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
 - [Microsoft PowerApps US 정부](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Flow 미국 정부](https://docs.microsoft.com/flow/us-govt)
+- [Microsoft Power 자동화 US 정부](https://docs.microsoft.com/flow/us-govt)
 - [Microsoft 365 로드맵](https://www.microsoft.com/microsoft-365/roadmap)
 - [Microsoft 365 정부 제품 페이지](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft 정부 업계 페이지](https://www.microsoft.com/enterprise/government)
