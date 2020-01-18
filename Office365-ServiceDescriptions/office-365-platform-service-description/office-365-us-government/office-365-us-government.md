@@ -9,21 +9,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
-description: 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 섹션에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다. Office 365 서비스 설명과 함께이 보조 섹션을 읽는 것이 좋습니다.
-ms.openlocfilehash: be73b616012d37c2bd58df63587201675962ae11
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+description: 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 문서에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다.
+ms.openlocfilehash: 7fdf83fc7cd4ededf28826861ef0202aca6185bf
+ms.sourcegitcommit: 66e0fa8f265fe5cdb0d94c340fef5cb5431fc600
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216743"
+ms.lasthandoff: 01/18/2020
+ms.locfileid: "41233361"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 섹션에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다. [Office 365 서비스 설명과 ](../../office-365-service-descriptions-technet-library.md)함께이 보조 섹션을 읽는 것이 좋습니다.
   
-## <a name="how-to-use-this-service-description-section"></a>서비스 설명 섹션 사용 방법
+## <a name="how-to-use-this-service-description"></a>이 서비스 설명을 사용 하는 방법
 
-Office 365 Government 서비스 설명은 일반 Office 365 서비스 설명에 대한 오버레이로 사용하도록 디자인되어 있습니다. Office 365 Enterprise 제품과 비교하여 고유한 확정 및 차이점을 정의합니다.
+Office 365 US 정부 서비스 설명은 일반적인 Office 365 서비스 설명에 대 한 오버레이를 제공 하도록 설계 되었습니다. Office 365 Enterprise 제품과 비교하여 고유한 확정 및 차이점을 정의합니다.
   
 ## <a name="about-office-365-us-government-environments"></a>Office 365 US 정부 환경
 
@@ -42,8 +42,6 @@ Office 365의 특징 및 기능 외에도 Office 365 Government을 사용하는 
 - 조직 고객 콘텐츠에 대한 액세스는 선별된 Microsoft 직원으로 제한됩니다.
     
 - Office 365 Government은 미국 공공 부문 고객에게 요구되는 인증 및 승인을 준수합니다.
-    
-[이 서비스 설명 섹션을 사용 하는 방법](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="customer-eligibility"></a>고객 자격
 
@@ -54,8 +52,6 @@ Office 365 Government은 (1) 미국 연방, 주, 지방, 자치 정부 및 준�
 Office 365 Government 자격에 대해 질문이 있는 기관은 계정 팀에 문의해야 합니다.
   
 고객의 Office 365 Government 계약 갱신 시 자격에 대한 유효성 검사를 다시 수행해야 합니다.
-  
-[이 서비스 설명 섹션을 사용 하는 방법](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="customer-content-located-within-the-united-states"></a>미국 내의 고객 콘텐츠
 
@@ -74,13 +70,9 @@ Office 365 Government 서비스는 미국에 실제로 있는 데이터 센터�
   
 사용자가 웹에 대해 Office (이전 버전에서는 Office Web Apps)를 사용 하는 동안 또는 AD FS (Active Directory Federation Services) 2.0을 사용 하 고 사용자가 단일 si를 통해 서비스에 연결 하는 데 도움이 되도록 정책을 설정 하는 경우 미국 내의 내에 있는 경우 gn에서 웹을 위해 Office에 일시적으로 캐시 되는 모든 고객 콘텐츠는 미국 내의에 배치 됩니다.
   
-[이 서비스 설명 섹션을 사용 하는 방법](office-365-us-government.md#how-to-use-this-service-description-section)
-  
 ## <a name="office-365-us-government-and-third-party-services"></a>Office 365 Government 및 타사 서비스
 
 Office 365는 SharePoint Online 사이트, 비즈니스용 Skype, Office 365 ProPlus에 포함된 Office 응용 프로그램(예: Word, Excel, PowerPoint 및 Outlook) 및 Outlook Web App에 타사 응용 프로그램을 통합하는 기능을 제공합니다. 또한 Office 365는 타사 서비스 공급자와의 통합을 지원합니다. 이러한 타사 응용 프로그램과 서비스는 Office 365 인프라 외부의 타사 시스템에서 조직의 고객 데이터를 저장, 전송 및 처리하는 작업과 관련되어 있을 수 있으므로 Office 365 규정 준수 및 데이터 보호 약정에 해당되지 않습니다. 조직에서 이러한 서비스의 적절한 사용에 대해 평가할 때는 타사에서 제공하는 개인 정보 취급 방침 및 규정 준수 조항을 검토하는 것이 좋습니다.
-  
-[이 서비스 설명 섹션을 사용 하는 방법](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="restricted-data-access-by-administrators"></a>관리자에 의한 데이터 액세스 제한
 
@@ -96,45 +88,38 @@ Office 365<sup>1</sup>에 대 한 Fasttrack 센터 혜택을 사용 하 여 Fast
 - 코어 온 보 딩-필요한 경우 테 넌 트 구성 및 Azure Active Directory (Azure AD)와의 통합에 필요한 작업입니다. 핵심 온보딩은 기타 적합한 서비스를 온보딩하기 위한 기준도 제공합니다.
     
 - 서비스 온 보 딩 및 마이그레이션-서비스 온 보 딩 작업은 테 넌 트에서 시나리오를 사용 하도록 설정 합니다. 데이터 마이그레이션 (전자 메일 및 파일 포함)은 [데이터 마이그레이션](https://aka.ms/whatcanmigrate)에 포함 됩니다. <sup>2</sup>
-    
-사용자 채택 서비스는 사용자가 적합한 서비스를 인식하고 비즈니스 가치를 창출하는 데 사용할 수 있는 지침을 제공하는 작업으로 구성됩니다. 이 지원은 온보딩 활동과 동시에 이루어집니다.
+
+사용자 채택 서비스는 사용자가 적합 한 서비스를 이해 하 고 비즈니스 가치를 확보할 수 있도록 지침을 제공 하는 작업으로 구성 됩니다. 이 지원은 온보딩 활동과 동시에 이루어집니다.
   
 FastTrack 센터 프로세스에 대 한 구체적인 정보는 [여기](https://aka.ms/whatistheprocess)에서 찾을 수 있습니다. 계약 역할 및 책임을 분석 하려면 [사용자의 업무](https://aka.ms/whatdowedo)를 비롯 하 여 [fasttrack 책임](https://aka.ms/whatdoesftcdo) 을 검토 하세요.
   
-<sup>1</sup> fasttrack 서비스를 받으려면 [적격 계획](https://aka.ms/whocanbenefit) 목록에서 50 개 이상의 라이선스를 구입 해야 합니다. 
-  
-<sup>2</sup> 500 이상의 라이선스를 사용 하는 Office 365 테 넌 트에서 데이터 마이그레이션 서비스를 사용할 수 있습니다. 
+> <sup>1</sup> fasttrack 서비스를 받으려면 [적격 계획](https://aka.ms/whocanbenefit) 목록에서 50 개 이상의 라이선스를 구입 해야 합니다.
+<br/><sup>2</sup> 500 이상의 라이선스를 사용 하는 Office 365 테 넌 트에서 데이터 마이그레이션 서비스를 사용할 수 있습니다.
   
 ## <a name="data-migrations-performed-by-fasttrack"></a>FastTrack에서 수행 하는 데이터 마이그레이션
 
-[Fasttrack](https://fasttrack.microsoft.com/) 마이그레이션 혜택을 선택 하는 고객은 데이터 마이그레이션을 관리 하는 팀에 대 한 액세스 권한을 부여 해야 합니다. 이러한 직원은 미국 시민 이며, Office 365 US 정부 서비스 고객을 위해 마이그레이션을 수행 하기 전에 다음 배경 검사를 거칩니다. 
+[Fasttrack](https://fasttrack.microsoft.com/) 마이그레이션 혜택을 선택 하는 고객은 데이터 마이그레이션을 관리 하는 팀에 대 한 액세스 권한을 부여 해야 합니다. 이러한 직원은 미국 시민 이며, Office 365 US 정부 서비스 고객을 위해 마이그레이션을 수행 하기 전에 다음 배경 검사를 거칩니다.
   
 ||||
 |:-----|:-----|:-----|
-|**배경 조사** <br/> |**GCC** <br/> |**GCC High 및 DoD** <br/> |
-|미국 시민권 확인  <br/> |예  <br/> |예  <br/> |
+|**백그라운드 차단** <br/> |**GCC** <br/> |**GCC High 및 DoD** <br/> |
+|미국 의식 확인  <br/> |예  <br/> |예  <br/> |
 |고용 기록 확인  <br/> |예  <br/> |예  <br/> |
 |교육 확인  <br/> |예  <br/> |예  <br/> |
 |SSN (사회 보장 번호) 검색  <br/> |예  <br/> |예  <br/> |
-|최근 7년의 범죄 기록 확인  <br/> |예  <br/> |예  <br/> |
-   
-[이 서비스 설명 섹션을 사용 하는 방법](office-365-us-government.md#how-to-use-this-service-description-section)
-  
+|범죄 기록 확인 (7 년)  <br/> |예  <br/> |예  <br/> |
+     
 ## <a name="office-365-us-government-and-azure-government-expressroute"></a>Office 365 Government 및 Azure Government ExpressRoute
 
 Office 365 US 정부 고객은 공용 인터넷을 통해 연결 하는 대신 Azure 정부 Express 서비스를 사용 하 여 지원 되는 Office 365 서비스에 전용으로 연결할 수 있습니다.
   
-지원되는 공급자, 가격 책정 모델 등에 대한 자세한 내용은 [Azure Express 경로 정보](https://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409)를 참조하세요.
+지원 되는 공급자, 가격 책정 모델 등에 대 한 자세한 내용은 [Azure express 경로 정보](https://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409)를 참조 하세요.
   
-Azure Express경로에 대한 Office 365 지원 정보를 보려면 [Office 365용 Azure Express 경로](https://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409)를 참조하세요.
-  
-[이 서비스 설명 섹션을 사용 하는 방법](office-365-us-government.md#how-to-use-this-service-description-section)
+Azure Express 경로에 대 한 Office 365 지원에 대 한 자세한 내용은 [Azure express For office 365](https://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409) 를 참조 하세요.
   
 ## <a name="system-requirements"></a>시스템 요구 사항
 
 Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [office.com](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 제품 사이트에서 [Office에 대한 시스템 요구 사항](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)을 참조하세요. 
-  
-[이 서비스 설명 섹션을 사용 하는 방법](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -148,13 +133,13 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |:-----|:-----|:-----|:-----|:-----|
 |**Office 365 서비스** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
 |웹에 대 한 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Office 365 ProPlus  <br/> |아니요 <br/> |있음 <br/> |예 <br/> |아니요  <br/> |
-|Exchange Online  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Office 365 ProPlus  <br/> |아니요 <br/> |지원 <br/> |예 <br/> |아니요  <br/> |
+|Exchange Online  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange Online Protection  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |SharePoint Online  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Skype for Business (Instant Messaging &amp; Presence)  <br/> |예<sup>1</sup> <br/> |예  <br/> |예  <br/> |예<sup>1</sup> <br/> |
-| 음성 전화 시스템, 오디오 회의  <br/> |아니요 <sup>2, 3</sup> <br/> |아니요 <sup>2, 3</sup> <br/> |예 <sup>3, 5</sup> <br/> |아니요  <br/> |
+| 음성 전화 시스템, 오디오 회의  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예 <sup>5</sup> <br/> |아니요  <br/> |
 |Power BI Pro  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |No<sup>2</sup> <br/> |
 |Project Online  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |
 |웹용 Visio  <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |
@@ -307,8 +292,6 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 <br/><sup>18</sup> 사용자 및 도메인 가장에 대 한 피싱 방지 및 스푸핑 인텔리전스는 GCC High 및 DoD에서 아직 사용할 수 없습니다.
 <br/><sup>19</sup> GCC 환경에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다.
   
-[이 서비스 설명 섹션을 사용 하는 방법](office-365-us-government.md#how-to-use-this-service-description-section)
-  
 ## <a name="office-application-availability-and-enterprise-value"></a>Office 응용 프로그램 가용성 및 enterprise 값
 
 다음 표에서는 Office 365 Government 계획에서 사용할 수 있는 Office 응용 프로그램 기능을 보여 줍니다.
@@ -333,35 +316,35 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |[Windows Phone용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |예  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예  <br/> |
 |Office Mobile for Windows 10 tablets <br/> |예  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |예  <br/> |
 |IOS 및 Android 용 Outlook<sup>5, 4</sup>  <br/> |예 <br/> |예 <br/> |예 <br/> |예 <br/> |
-|**기업 가치** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
-|PC 또는 Mac에서 사용자당 5건의 동시 설치 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|**Enterprise 값** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
+|PC 또는 Mac에서 사용자당 5건의 동시 설치 지원  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
 |사용자 계정 자동 구축  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|다국어 사용자 인터페이스  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|다국어 사용자 인터페이스  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |클라이언트 푸시 배포  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
-|온-프레미스 Exchange에 대한 클라이언트 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|온-프레미스 Sharepoint에 대한 클라이언트 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|소프트웨어 업데이트 제어  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|데이터베이스 비교  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|데스크톱 가상화  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|Excel 스프레드시트 비교  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|Excel 스프레드시트 조회  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|그룹 정책 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|온-프레미스 Exchange에 대한 클라이언트 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|온-프레미스 Sharepoint에 대한 클라이언트 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|소프트웨어 업데이트 제어  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|데이터베이스 비교  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|데스크톱 가상화  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|Excel 스프레드시트 비교  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|Excel 스프레드시트 조회  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|그룹 정책 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Azure Information Protection을 사용한 정보 권한 관리  <br/> |No<sup>1</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |No<sup>1</sup> <br/> |
 |Windows Server AD RMS를 사용한 정보 권한 관리  <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |
-|Office 추가 기능, ActiveX 및 BHO 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|Office 추가 기능, ActiveX 및 BHO 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Office Lens  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Office 원격 분석  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
-|클라이언트 응용 프로그램에 대한 오프라인 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|최적화된 클라이언트 병렬 설치  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|클라이언트 응용 프로그램에 대한 오프라인 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|최적화된 클라이언트 병렬 설치  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Excel용 파워 맵  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Power Pivot for Excel  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Excel용 파워 쿼리  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Power View for Excel  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |로밍 설정  <br/> |아니요  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |아니요  <br/> |
-|공유 컴퓨터 활성화  <br/> |아니요  <br/> |있음 <br/> |예 <br/> |아니요  <br/> |
-|클라우드 기반 파일 저장 차단 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|공유 컴퓨터 활성화  <br/> |아니요  <br/> |예 <br/> |예 <br/> |아니요  <br/> |
+|클라우드 기반 파일 저장 차단 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |버전 업그레이드  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Volume activation (KMS/MAK)  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
    
@@ -372,7 +355,6 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 <br/><sup>5</sup> [정부 커뮤니티 클라우드에서 iOS 및 Android 용 Outlook 사용에서](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) 자세한 내용을 참조 하세요.
 <br/><sup>6</sup> Office 365 DoD 환경에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다.
 <br/><sup>7</sup> 응용 프로그램은 정부 클라우드에서 완벽 하 게 사용할 수 있으며, 지금은 사용할 수 없는 특정 기능을 제외 합니다. 자세한 내용은 [Office application feature availability](#office-application-and-feature-availability-in-government-plans) 를 참조 하세요.
-<br/><br/>[이 서비스 설명 섹션을 사용 하는 방법](office-365-us-government.md#how-to-use-this-service-description-section)
 
 ## <a name="office-application-and-feature-availability-in-government-plans"></a>정부 계획의 Office 응용 프로그램 및 기능 가용성
 
@@ -456,7 +438,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |공동 작성자와 상황별 채팅: 문서 내 공동 작성자와 채팅 | 아니요 <br/> | 아니요 <br/> | 아니요 <br/> |
 |받아쓰기 | No<sup>1</sup> <br/> | No<sup>1</sup> <br/> | No<sup>1</sup> <br/> |
 
-<sup>1</sup> 가용성을 곧 제공 합니다.<br/>
+> <sup>1</sup> 가용성을 곧 제공 합니다.<br/>
 <sup>2</sup> 로컬 Surface Hub의 가용성 (로그인 되지 않음)<br/>
 <sup>3</sup> 응용 프로그램은 현재 DOD 클라우드에서 사용할 수 없습니다.<br/>
-<sup>4</sup> GCC 환경에 대해 외부 공유를 사용할 수 있습니다. 자세한 내용은 조직 [에서 Microsoft 양식을 해제 하거나 설정](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) 하는 방법에 대 한 자세한 내용을 알아보세요. GCC High 및 DOD 환경에서는 외부 공유를 사용할 수 없습니다. 조직 내의 사용자는 양식을 작성 하 고, 응답을 제출 하 고, 양식을 [서식 파일로 복제 및 공유](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)하 고, 양식 [에서 공동 작업](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)을 수행 하거나, [양식 결과에 액세스](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)하는 등의 작업을 수행할 수 있습니다.<br/>
+<sup>4</sup> GCC 환경에 대해 외부 공유를 사용할 수 있습니다. 자세한 내용은 조직 [에서 Microsoft 양식을 해제 하거나 설정](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) 하는 방법에 대 한 자세한 내용을 알아보세요. GCC High 및 DOD 환경에서는 외부 공유를 사용할 수 없습니다. 조직 내의 사용자는 양식을 작성 하 고, 응답을 제출 하 고, 양식을 [서식 파일로 복제 및 공유](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)하 고, 양식 [에서 공동 작업](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)을 수행 하거나, [양식 결과에 액세스](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)하는 등의 작업을 수행할 수 있습니다.
