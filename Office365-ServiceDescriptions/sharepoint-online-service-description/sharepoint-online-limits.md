@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Office 365 Enterprise 요금제 및 독립 실행형 요금제의 SharePoint Online 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: c1ece223f90b14c73de6240d042d95701c443c0a
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: b5ba34d3a1ebd80d7833e09e70a76b57882ae6fd
+ms.sourcegitcommit: 81ba764537d6bfb99fe6f96cdbd0c0ac1534cae1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216647"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "41519199"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 제한 사항
 
@@ -66,7 +66,7 @@ Office 365 요금제 및 SharePoint Online 독립 실행형 계획에 대 한 Sh
 
 - **SharePoint에서 호스트 하는 응용 프로그램** -조직 당 2만 인스턴스
 
-- **목록 또는 라이브러리 당 고유한 보안 범위** -적용 되는 제한은 5만 이지만 권장 되는 일반적인 제한은 5000입니다. 5000 이상에서 ACL (액세스 제어 목록) 크기는 문제에 대 한 것으로 시작 합니다. 적용 된 제한인 5만까지 범위를 추가할 수 있지만 Microsoft에서는 특별 한 시나리오가 있는 경우를 제외 하 고는이 권장 사항을 고려 하지 않습니다. 큰 목록의 경우에는 가능한 한 한 가지 고유한 사용 권한을 갖도록 디자인 합니다.
+- **목록 또는 라이브러리 당 고유한 보안 범위** -지원 되는 제한은 5만 이지만 권장 되는 일반적인 제한은 5000입니다. 5000 이상에서 ACL (액세스 제어 목록) 크기는 문제에 대 한 것으로 시작 합니다. 지원 되는 5만 제한에 따라 범위를 추가할 수는 있지만 Microsoft에서는 특별 한 시나리오가 있는 경우를 제외 하 고는이 권장 사항을 고려 하지 않습니다. 큰 목록의 경우에는 가능한 한 한 가지 고유한 사용 권한을 갖도록 디자인 합니다.
 
 - **사용자** -사이트 모음 당 200만
     > [!NOTE]
