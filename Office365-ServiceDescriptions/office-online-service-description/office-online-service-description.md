@@ -1,5 +1,5 @@
 ---
-title: 웹 서비스에 대 한 Office 설명
+title: 웹용 Office 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Web for office를 사용 하면 거의 모든 장치에서 인터넷에 연결 하 여 어디서 나 Office 파일을 보다 쉽게 작업 하 고 공유할 수 있습니다. Microsoft Office 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: b706c6e45b965768babc04c588d65b305a690fde
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
+ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263522"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711908"
 ---
-# <a name="office-for-the-web-service-description"></a>웹 서비스에 대 한 Office 설명
+# <a name="office-for-the-web-service-description"></a>웹용 Office 서비스 설명
 
 Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Web for office를 사용 하면 거의 모든 장치에서 인터넷에 연결 하 여 어디서 나 Office 파일을 보다 쉽게 작업 하 고 공유할 수 있습니다. Microsoft Office 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다. 
   
@@ -192,7 +192,7 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 > [!NOTE] 
 > <sup>1</sup> 피벗 차트 보기는 만들 수 없습니다.
  <br/><sup>2</sup> 환경의 구성 방법에 따라 웹에 대해 Excel에 표시 된 통합 문서에 대해 일부 데이터 연결을 지원 합니다. 자세한 내용은 브라우저 창에서 통합 문서의 데이터 새로 고침을 참조하세요. 
- <br/><sup>3</sup> EXCEL에서 vba를 사용 하 여 매크로를 만들 수는 없지만 파일에 포함 된 vba를 제거 하거나 손상 시 키 지 않고 vba 사용 가능 스프레드시트를 열고 편집할 수는 있습니다.
+ <br/><sup>3</sup> 웹의 EXCEL에서는 vba로 매크로를 만들거나 실행할 수 없지만, 파일에 포함 된 vba를 제거 하거나 손상 시 키 지 않고 vba 사용 가능 스프레드시트를 열고 편집할 수는 있습니다.
  <br/><sup>4</sup> 웹의 Excel에서는 마지막으로 알려진 참조 값이 브라우저 창에 표시 됩니다. 그러나 Excel 데스크톱 앱을 사용 하 여 업데이트 해야 합니다. 
  <br/><sup>5</sup> 모두는 아니지만 일부 Office 추가 기능을 사용할 수 있습니다. 
   

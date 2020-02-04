@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 특정 비즈니스용 Skype 기능을 구입하기 위해 어떤 라이선스가 필요한지 알고 싶나요? 비즈니스용 Skype 라이선스 개요를 참조 하세요.
-ms.openlocfilehash: 50925e7df7b8cde37764365bd7403154546631b5
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 5563c2ef767f04340a643099a1aff8e387aa7523
+ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263272"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711918"
 ---
 # <a name="skype-for-business-online-service-description"></a>비즈니스용 Skype Online 서비스 설명
 
 > [!NOTE]
-> Microsoft 팀은 이제 메시징, 모임 및 Office 365의 통화에 대 한 기본 클라이언트입니다. 새 Office 365 사용자가 500를 적게 사용 하는 고객은 Microsoft 팀으로 등록 비즈니스용 Skype Online에 액세스할 수 없습니다. 이미 비즈니스용 Skype Online을 사용 하는 테 넌 트는 Microsoft 팀으로 전환할 때까지 계속 진행할 수 있습니다 (새 사용자 프로 비전).
+> Microsoft 팀은 이제 메시징, 모임 및 Office 365의 통화에 대 한 기본 클라이언트입니다. 2018 년 10 월 1 일부 터 시작 하는 경우, 500를 적게 사용 하는 새 Office 365 고객은 Microsoft 팀으로 등록 비즈니스용 Skype Online에 액세스할 수 없습니다. 2019 년 9 월 1 일 현재 모든 신규 고객에 게 적용 됩니다. 이미 비즈니스용 Skype Online을 사용 하는 테 넌 트는 Microsoft 팀으로 전환할 때까지 계속 진행할 수 있습니다 (새 사용자 프로 비전).
 
 > [!NOTE]
 > 비즈니스용 Skype Online 계획 2에서 2019 년 7 월 1 일에 할인 되지 않습니다. 즉, 인스턴트 메시징, 현재 상태, 회의 및 피어 투 피어 음성 및 비디오에 대 한 비즈니스용 Skype Online 계획 2를 더 이상 취득할 수 없습니다. 이러한 기능은 Office 365 제품군을 비롯 한 팀이 포함 된 모든 Office 365 제공에서 계속 지원 됩니다. 현재 용어의 끝에 계획이 만료 되는 경우 이러한 기능에 계속 액세스할 수 있도록 하려면 다른 요금제로 전환 해야 합니다. 현재 비즈니스용 Skype Online 계획 2가 할당 된 사용자에 대 한 Office 365 Business Essentials, Business Premium 또는 기타 Office 제품군을 평가 하는 것이 좋습니다. 
