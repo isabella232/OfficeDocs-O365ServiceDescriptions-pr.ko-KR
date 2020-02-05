@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 보안 &amp; 및 준수 센터는 조직에 대 한 office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: deda84949994d65d025df9ae781d82827cf8518d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9b21d4c6224afb0fea3c0425a671bcdd5c888510
+ms.sourcegitcommit: e8eb7062cf2a572e027d30e6abf619965dc91eae
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262571"
+ms.lasthandoff: 02/05/2020
+ms.locfileid: "41773778"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -62,7 +62,7 @@ ms.locfileid: "39262571"
 <sup>8</sup> [Office 365 관리 활동 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 를 사용 하 여 통합 된 감사 로그에서 이벤트를 검색할 수도 있습니다. <br/>
 <sup>9</sup> Exchange 또는 SharePoint/OneDrive가 있는 SKU에 추가할 수 있는 DLP 추가 기능을 사용할 수 있습니다.<br/>
 <sup>10</sup> 민감도 레이블은 Azure Information Protection P1 및 P2에도 포함 됩니다.<br/>
-<sup>11</sup> 사용자 사서함에 보존 정책을 적용 하려면 Exchange Online 계획 2 라이선스가 필요 합니다. 
+<sup>11</sup> 보존 정책을 사용 하 여 사용자 사서함을 유지 하려면 Exchange Online 계획 2 라이선스가 필요 합니다.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>독립 &amp; 실행형 계획에 대 한 보안 준수 센터 가용성
 
@@ -87,7 +87,7 @@ ms.locfileid: "39262571"
 |[고급 eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[보관](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup> <br/> |예  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예<sup>10</sup> <br/>|예<sup>10</sup> <br/> |아니요  <br/> |아니요  <br/> |
 |[통합 감사](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>10</sup> <br/>|예<sup>10</sup> <br/> |아니요  <br/> |아니요  <br/> |
-|[보존 정책](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예<sup>10</sup> <br/>|예<sup>10</sup> <br/> |예  <br/> |예  <br/> |
+|[보존 정책](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |예<sup>11</sup>  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예<sup>10</sup> <br/>|예<sup>10</sup> <br/> |예  <br/> |예  <br/> |
 |[감독 정책](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |||||||||
    
@@ -100,7 +100,8 @@ ms.locfileid: "39262571"
 <sup>7</sup> Microsoft 팀 리포지토리에 저장 된 파일을 포함 합니다.<br/>
 <sup>8</sup> [Office 365 관리 활동 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 를 사용 하 여 통합 된 감사 로그에서 이벤트를 검색할 수도 있습니다. <br/>
 <sup>9</sup> Exchange 또는 SharePoint/OneDrive가 있는 SKU에 추가할 수 있는 DLP 추가 기능을 사용할 수 있습니다.<br/>
-<sup>10</sup> 비즈니스용 OneDrive에 저장 된 파일로만 제한 됩니다.
+<sup>10</sup> 비즈니스용 OneDrive에 저장 된 파일로만 제한 됩니다.<br/>
+<sup>11</sup> 보존 정책을 사용 하 여 사용자 사서함을 유지 하려면 Exchange Online 계획 2 라이선스가 필요 합니다.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>21Vianet &amp; 에서 운영 하는 Office 365의 보안 및 준수 센터 가용성
 
