@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365는 강력한 보안, 안정성 및 사용자 생산성에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되도록 설계 된 클라우드 기반 서비스입니다.
-ms.openlocfilehash: 45f666b7b3cf741bc101bf8dbfeef2a50dd85206
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: d07435954bb46a8e38b69415f70f3c194473cdaa
+ms.sourcegitcommit: 357f93c151a5302d5d3aa43f633b295c37e036a2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262039"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "41787020"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 서비스 설명 
 
@@ -37,49 +37,49 @@ Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365�
 시작하려면 다음 서비스 설명을 참조하십시오.
   
 - [Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
-    
+
 - [Office 응용 프로그램 서비스 설명](office-applications-service-description/office-applications-service-description.md)
-    
-- [웹 서비스에 대 한 Office 설명](office-online-service-description/office-online-service-description.md)
-    
+
+- [웹용 Office 서비스 설명](office-online-service-description/office-online-service-description.md)
+
 - [Exchange Online 서비스 설명](exchange-online-service-description/exchange-online-service-description.md)
-    
+
 - [Exchange Online Protection 서비스 설명](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
-    
+
 - [Office 365 Advanced Threat Protection 서비스 설명](office-365-advanced-threat-protection-service-description.md)
-    
-- [Exchange Online 보관 서비스 설명](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
-    
+
+- [Exchange Online Archiving 서비스 설명](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
+
 - [비즈니스용 OneDrive 서비스 설명](onedrive-for-business-service-description.md)
-    
+
 - [SharePoint Online 서비스 설명](sharepoint-online-service-description/sharepoint-online-service-description.md)
-    
+
 - [비즈니스용 Skype Online 서비스 설명](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
-    
+
 - [브리핑 전자 메일 서비스 설명](briefing-service-description.md)
 
-- [회사 분석 서비스 설명](workplace-analytics-service-description.md)
+- [Workplace Analytics 서비스 설명](workplace-analytics-service-description.md)
 
 - [MyAnalytics 서비스 설명](mya-service-description.md)
-    
+
 - [Power BI 서비스 설명](power-bi-service-description.md)
-    
+
 - [Project Online 서비스 설명](project-online-service-description/project-online-service-description.md)
-    
-- [웹 서비스 설명에 대 한 Visio](visio-online-service-description/visio-online-service-description.md)
-    
+
+- [웹용 Visio 서비스 설명](visio-online-service-description/visio-online-service-description.md)
+
 - [Yammer 서비스 설명](yammer-service-description/yammer-service-description.md)
 
-- [Microsoft 365 Business service 설명](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Microsoft 365 Business 서비스 설명](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Microsoft 365 테 넌 트 수준 서비스 라이선스 지침](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
-    
-- [Microsoft Dynamics 365 (온라인) 서비스 설명](microsoft-dynamics-365-online-service-description.md)
-    
+- [Microsoft 365 보안 & 준수 라이선스 지침](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
+
+- [Microsoft Dynamics 365(온라인) 서비스 설명](microsoft-dynamics-365-online-service-description.md)
+
 > [!NOTE]
 > <sup>1</sup> Office Delve, Microsoft MyAnalytics, Microsoft Sway 및 Microsoft Teams와 같은 [제품군 기능](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features)의 가용성이 포함되어 있습니다.
   
 ## <a name="disclaimer"></a>고지 사항
 
-© 2018 Microsoft Corporation 모든 권리 보유. Microsoft, Office 365 및 기타 제품과 서비스 이름은 미국, 대한민국 및/또는 기타 국가에서의 등록 상표 또는 상표이거나 그러한 가능성이 있습니다. 이 내용은 오직 정보를 제공하기 위한 목적으로 작성되었고 이 문서의 최근 게시 또는 수정 날짜 시점의 Microsoft Corporation의 견해를 나타냅니다. 이 내용은 서비스 계약을 위한 것이 아니며, Microsoft 또는 고객에게 여기에 언급된 기능이나 책임을 약속하지 않습니다. Microsoft는 이 설명서의 정보에 대해 어떠한 명시적이거나 묵시적인 보증도 하지 않습니다. 
-  
+© 2018 Microsoft Corporation 모든 권리 보유. Microsoft, Office 365 및 기타 제품과 서비스 이름은 미국, 대한민국 및/또는 기타 국가에서의 등록 상표 또는 상표이거나 그러한 가능성이 있습니다. 이 내용은 오직 정보를 제공하기 위한 목적으로 작성되었고 이 문서의 최근 게시 또는 수정 날짜 시점의 Microsoft Corporation의 견해를 나타냅니다. 이 내용은 서비스 계약을 위한 것이 아니며, Microsoft 또는 고객에게 여기에 언급된 기능이나 책임을 약속하지 않습니다. Microsoft는 이 설명서의 정보에 대해 어떠한 명시적이거나 묵시적인 보증도 하지 않습니다.
+ 
