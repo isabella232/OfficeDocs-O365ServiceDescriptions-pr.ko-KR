@@ -1,6 +1,4 @@
 
-  
-
 # [Office 365 서비스 설명](office-365-service-descriptions-technet-library.md)
 ## [Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Office 365 계획 옵션](office-365-platform-service-description/office-365-plan-options.md)
@@ -111,10 +109,10 @@
 ### [Microsoft 365 Business 음성 서비스 설명](microsoft-365-business-voice-service-description.md)
 ### [Microsoft 365 Business 서비스 설명](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-### [중소기업을 위한 Microsoft 365 라이선싱](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md) 
-### [Microsoft 365 테넌트 수준 라이선싱 참고 자료](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md) 
+### [중소기업을 위한 Microsoft 365 라이선싱](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
+### [보안 및 규정 준수를 위한 Microsoft 365 라이선싱 지침](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 #### [Microsoft 365 규정 준수 - DoD 배포 계획](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-dod.md)
 #### [Microsoft 365 규정 준수 - GCC High 계획](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc-high.md)
 #### [Microsoft 365 규정 준수 - GCC 계획](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc.md)
 ## [Microsoft Dynamics 365(온라인) 서비스 설명](microsoft-dynamics-365-online-service-description.md)
-
+ 
