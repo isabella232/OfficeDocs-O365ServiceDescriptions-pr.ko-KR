@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Microsoft 365 및 Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다.
-ms.openlocfilehash: 356d8e35d4872d50a4de1baf89b11b412ead6fdd
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: 8cae1e6407ff99472d039872b82c220a338c03b4
+ms.sourcegitcommit: c7388a31056b4053ff094ff0e96f6ae891e069d7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216537"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41839771"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -86,7 +86,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |Advanced Threat Protection  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |Cloud App Security  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
-|Windows Defender Advanced Threat Protection  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
+|Microsoft Defender Advanced Threat Protection  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>13</sup>  <br/> |
 |**서버 및 CAL 관련 혜택** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Exchange<sup>9</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>10</sup> <br/> |예  <br/> |
 |SharePoint<sup>9</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>10</sup> <br/> |예  <br/> |
@@ -107,6 +107,6 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 > <sup>9</sup> Exchange, SharePoint 및 비즈니스용 Skype에 대 한 서버 및 cal이 포함 됩니다. <br/>
 > <sup>10</sup> ecal 또는 Core CAL: 구입한 A3 버전 (A5)에 따라 ecal 권한이 포함 됩니다. <br/>
 > <sup>11</sup> Azure active directory에 대 한 자세한 내용은 [Active directory 란?](https://docs.microsoft.com/azure/active-directory/active-directory-whatis)를 참조 하십시오. <br/>
-> <sup>12</sup> Office Pro Plus는 보호를 적용 하 고 Outlook 데스크톱에서 제한 된 전자 메일을 보내기 위해 필요 합니다. 
-  
+> <sup>12</sup> Office Pro Plus는 보호를 적용 하 고 Outlook 데스크톱에서 제한 된 전자 메일을 보내기 위해 필요 합니다. <br/> 
+> <sup>13</sup> Microsoft 365 교육 A5 학생 사용 혜택에 Microsoft Defender Advanced Threat Protection이 포함 되지 않습니다.  
 
