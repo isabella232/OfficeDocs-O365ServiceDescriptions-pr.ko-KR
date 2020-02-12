@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을 위한 유연한 온라인 솔루션입니다. Office 365를 통해 제공되는 Project Online은 거의 모든 위치의 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획하고 우선 순위를 정하고 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: 13c4432f63ed1f73c6ce617ddd436bdb5c0cfab4
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: 291d7dd4c9db1e8284095a57e0942006dd1dcaa2
+ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216667"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41931944"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 서비스 설명
 
@@ -62,7 +62,7 @@ Project Online Essentials에는 웹 프로젝트에 대 한 프로젝트가 포�
 
 ### <a name="project-online-desktop-client"></a>Project Online 데스크톱 클라이언트
 
-Microsoft Project Online 데스크톱 클라이언트는 자동화 된 일정, 프로젝트 자원 관리 및 기본 제공 보고 기능을 지 원하는 프로젝트 관리 프로그램입니다. Project Online 데스크톱 클라이언트는 독립 실행형 응용 프로그램으로 사용 하거나 Project Online에 연결할 수 있습니다. Project Online 데스크톱 클라이언트는 project Online 데스크톱 클라이언트의 구독 버전 이며, 프로젝트 계획 3 및 Project 계획 5 구독에서 사용할 수 있습니다.
+Microsoft Project Online 데스크톱 클라이언트는 자동화 된 일정, 프로젝트 자원 관리 및 기본 제공 보고 기능을 지 원하는 프로젝트 관리 프로그램입니다. Project Online 데스크톱 클라이언트는 독립 실행형 응용 프로그램으로 사용 하거나 Project Online에 연결할 수 있습니다. Project Online 데스크톱 클라이언트는 project Professional 데스크톱 클라이언트의 구독 버전 이며, 프로젝트 계획 3 및 Project 계획 5 구독에서 사용할 수 있습니다.
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>Project 및 Project Online을 함께 사용
 
@@ -279,7 +279,7 @@ Project Online에서는 Project Online의 일부로 프로 비전 되는 SharePo
 
 웹 프로젝트에는 다음 표에 설명 된 몇 가지 제한 사항이 있습니다.
 
-|엔터티/필드 | 제한 유형 |
+|엔터티/필드 | Limit |
 |-------------|-------|
 |**작업** ||
 |최대값. 작업의 계층 구조 수준 | 10 수준 |
