@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 보안 &amp; 및 준수 센터는 조직에 대 한 office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: 9b21d4c6224afb0fea3c0425a671bcdd5c888510
-ms.sourcegitcommit: e8eb7062cf2a572e027d30e6abf619965dc91eae
+ms.openlocfilehash: d71fb083c34d72de8bcb20536bdd01d572fc788d
+ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2020
-ms.locfileid: "41773778"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41931924"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -28,7 +28,7 @@ ms.locfileid: "41773778"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 US 정부 G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 US Government G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 US 정부 F1** <br/> |
+|**기능** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 US 정부 G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 US 정부 G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 US 정부 F1** <br/> |
 |[보안 &amp; 및 준수 센터에 대 한 액세스](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |메일 필터링 및 맬웨어 방지와 같은 [위협 관리](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -39,8 +39,8 @@ ms.locfileid: "41773778"
 |[Microsoft 팀 채팅 및 채널 메시지에 대 한 데이터 손실 방지](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/>|
 |[민감도 레이블](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | 아니요 <br/>| 아니요 <br/> | 아니요 <br/>| 있음 <br/>| 예 <br/>| 아니요 <br/> |
 |[정보 장벽](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/>|
-|[데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[고급 데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
+|[정보 거 버 넌 스](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[고급 정보 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |[콘텐츠 검색](https://docs.microsoft.com/office365/securitycompliance/search-for-content) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[eDiscovery 사례](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[eDiscovery 보류 (쿼리 기반 eDiscovery 보류 포함)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
@@ -48,12 +48,13 @@ ms.locfileid: "41773778"
 |[고급 eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |[보관할](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |[통합 감사](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[고급 감사](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup><br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |[보존 정책](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |아니요  <br/> |아니요  <br/> |예<sup>11</sup> <br/> |예  <br/> |예  <br/> |예<sup>11<br/> |
 |[감독 정책](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 ||||||||
    
-<sup>1</sup> 데이터 거 버 넌 스에서는 사용자가 문서에 레이블을 만들고 게시 하 고 수동으로 적용할 수 있습니다. 드라이브 전달을 사용 하거나 네트워크를 통해 데이터를 가져옵니다.<br/>
-<sup>2</sup> 고급 데이터 관리 기능을 사용 하면 보존 또는 삭제 정책에 따라 정보를 분류 하 여 중요 한 정보를 유지 하 고 해당 정보를 삭제할 수 있습니다. 여기에는 정책 추천, 데이터에 레이블을 자동으로 적용 하 고, 중요 한 데이터 형식 또는 쿼리, 처리 검토 및 스마트 가져오기 필터 사용에 따라 레이블을 적용 하는 등의 지능형/자동화 작업이 포함 됩니다. 또한 보안 및 규정 준수를 위해 직원 통신을 검토 하기 위한 감독 기능도 포함 되어 있습니다.<br/>
+<sup>1</sup> 정보 거 버 넌 스에서는 사용자가 문서에 레이블을 만들고 게시 하 고 수동으로 적용할 수 있습니다. 드라이브 전달을 사용 하거나 네트워크를 통해 데이터를 가져옵니다.<br/>
+<sup>2</sup> 고급 정보 거 버 넌 스는 보존 또는 삭제 정책 또는 두 가지 모두를 기준으로 정보를 분류 하 여 중요 한 정보를 유지 하 고 해당 정보를 삭제할 수 있도록 합니다. 여기에는 정책 추천, 데이터에 레이블을 자동으로 적용 하 고, 중요 한 데이터 형식 또는 쿼리, 처리 검토 및 스마트 가져오기 필터 사용에 따라 레이블을 적용 하는 등의 지능형/자동화 작업이 포함 됩니다. 또한 보안 및 규정 준수를 위해 직원 통신을 검토 하기 위한 감독 기능도 포함 되어 있습니다.<br/>
 <sup>3</sup> 50 GB 제한입니다. <br/>
 <sup>4</sup> 제한 없음 <br/>
 <sup>5</sup> Advanced EDiscovery는 미국 및 유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.)<br>
@@ -62,7 +63,8 @@ ms.locfileid: "41773778"
 <sup>8</sup> [Office 365 관리 활동 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 를 사용 하 여 통합 된 감사 로그에서 이벤트를 검색할 수도 있습니다. <br/>
 <sup>9</sup> Exchange 또는 SharePoint/OneDrive가 있는 SKU에 추가할 수 있는 DLP 추가 기능을 사용할 수 있습니다.<br/>
 <sup>10</sup> 민감도 레이블은 Azure Information Protection P1 및 P2에도 포함 됩니다.<br/>
-<sup>11</sup> 보존 정책을 사용 하 여 사용자 사서함을 유지 하려면 Exchange Online 계획 2 라이선스가 필요 합니다.
+<sup>11</sup> Exchange Online 계획 2 라이선스는 보존 정책을 사용 하 여 사용자 사서함의 콘텐츠를 유지 하는 데 필요 합니다.<br/>
+<sup>12</sup> Advanced Audit는 Azure Active Directory, Exchange 및 SharePoint의 활동에 대해 1 년의 감사 로그를 보존 하 고, 다른 Office 365 서비스에 대 한 감사 로그 보존을 관리 하기 위한 사용자 지정 감사 로그 보존 정책을 만들 수 있는 기능을 제공 합니다. 또한 높은 가치 이벤트와 Office 365 관리 활동 API에 대 한 고대역폭 액세스에 대 한 감사를 제공 합니다.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>독립 &amp; 실행형 계획에 대 한 보안 준수 센터 가용성
 
@@ -78,8 +80,8 @@ ms.locfileid: "41773778"
 |[Exchange online, SharePoint online 및 비즈니스용 OneDrive 9에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup></sup> <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예 <sup>7<sup> <br/> |아니요 <br/> |예<sup>10</sup> <br/>|아니요  <br/> |있음  <br/> |
 |[Microsoft 팀 채팅 및 채널 메시지에 대 한 데이터 손실 방지](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[정보 장벽](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|[데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |예<sup>2</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |예  <br/> |예  <br/> |
-|[고급 데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|[정보 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |예<sup>2</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |예  <br/> |예  <br/> |
+|[고급 정보 관리](https://docs.microsoft.com/office365/securitycompliance/labels)방식<sup>3</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[콘텐츠 검색](https://docs.microsoft.com/office365/securitycompliance/search-for-content) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/>| 예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |예  <br/> |예  <br/> |
 |[eDiscovery 사례](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |아니요  <br/> |아니요  <br/> |
 |[eDiscovery 내보내기](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요 <br/> |예<sup>10</sup> <br/>|<sup>4</sup> 없음 <br/> |<sup>4</sup> 없음 <br/> |
@@ -91,9 +93,9 @@ ms.locfileid: "41773778"
 |[감독 정책](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |||||||||
    
-<sup>1</sup> 데이터 거 버 넌 스에서는 사용자가 문서에 레이블을 만들고 게시 하 고 수동으로 적용할 수 있습니다. 드라이브 전달을 사용 하거나 네트워크를 통해 데이터를 가져옵니다. <br/>
+<sup>1</sup> 정보 거 버 넌 스에서는 사용자가 문서에 레이블을 만들고 게시 하 고 수동으로 적용할 수 있습니다. 드라이브 전달을 사용 하거나 네트워크를 통해 데이터를 가져옵니다. <br/>
 <sup>2</sup> Exchange Online 보관 추가 기능을 구입 해야 합니다. <br/>
-<sup>3</sup> 고급 데이터 관리 기능을 사용 하면 보존 또는 삭제 정책 또는 두 가지 모두를 기준으로 정보를 분류 하 여 중요 한 정보를 유지 하 고 해당 정보를 삭제할 수 있습니다. 여기에는 정책 추천, 데이터에 레이블을 자동으로 적용 하 고, 중요 한 데이터 형식 또는 쿼리, 처리 검토 및 스마트 가져오기 필터 사용에 따라 레이블을 적용 하는 등의 지능형/자동화 작업이 포함 됩니다. 또한 보안 및 규정 준수를 위해 직원 통신을 검토 하기 위한 감독 기능도 포함 되어 있습니다.<br/>
+<sup>3</sup> 고급 정보 거 버 넌 스는 보존 또는 삭제 정책 또는 두 가지 모두를 기준으로 정보를 분류 하 여 중요 한 정보를 유지 하 고 해당 정보를 삭제할 수 있도록 합니다. 여기에는 정책 추천, 데이터에 레이블을 자동으로 적용 하 고, 중요 한 데이터 형식 또는 쿼리, 처리 검토 및 스마트 가져오기 필터 사용에 따라 레이블을 적용 하는 등의 지능형/자동화 작업이 포함 됩니다. 또한 보안 및 규정 준수를 위해 직원 통신을 검토 하기 위한 감독 기능도 포함 되어 있습니다.<br/>
 <sup>4</sup> Skype 대화는 사서함의 일부로 저장 됩니다. <br/>
 <sup>5</sup> 고급 eDiscovery에는 Office 365 Enterprise E5 또는 추가 기능 라이선스가 필요 합니다. <br/>
 <sup>6</sup> Skype 보관이 사용자의 사서함 내에 있습니다.<br/> 
