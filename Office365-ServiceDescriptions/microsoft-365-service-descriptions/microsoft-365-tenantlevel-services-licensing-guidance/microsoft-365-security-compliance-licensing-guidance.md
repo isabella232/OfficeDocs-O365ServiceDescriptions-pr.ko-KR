@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 보안 & 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: ead339254c57c4bd9f682159f54f235279f7c362
-ms.sourcegitcommit: 357f93c151a5302d5d3aa43f633b295c37e036a2
+ms.openlocfilehash: c4daa7a5d97998e62a5d0bc71dfbdaf02f1afbad
+ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41787037"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42279861"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -421,3 +421,23 @@ Enterprise Mobility + Security E3/A3/G3, Microsoft 365 F1/E3/A3/G3 및 Azure Act
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
 Id 보호 및 조건부 액세스에 대 한 구체적인 경우 사용자를 그룹에 포함 하거나 조건부 액세스 정책에 추가 해야 합니다. 조건부 액세스 정책에서 사용자 및 그룹 조건은 필수입니다. 정책에서 **모든 사용자** 또는 특정 사용자 및 그룹을 선택할 수 있습니다. 적절 하 게 허가 된 사용자 및 그룹만 선택 해야 합니다. 자세한 내용은 [Azure Active Directory 조건부 액세스의 조건](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions)를 참조 하세요.
+
+## <a name="advanced-audit"></a>고급 감사
+
+Microsoft 365의 고급 감사는 사용자 및 관리 작업에 대 한 감사 로그를 1 년 동안 보존 하 고, 다른 Microsoft 365 서비스에 대 한 감사 로그 보존을 관리 하기 위한 사용자 지정 감사 로그 보존 정책을 만들 수 있는 기능을 제공 합니다. 또한 Office 365 관리 활동 API에 대 한 조사 및 고대역폭 액세스에 대 한 중요 한 이벤트에 대 한 액세스를 제공 합니다. 자세한 내용은 [Microsoft 365의 고급 감사](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)를 참조 하세요.
+
+### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
+
+Office 365 E5, Microsoft 365 E5 및 Microsoft 365 E5 규정 준수의 허가 된 사용자는 고급 감사의 이점을 누릴 수 있습니다.
+
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+
+Microsoft 365 서비스의 사용자 작업과 관련 된 감사 레코드를 최대 1 년까지 보유할 수 있으므로 고급 감사의 사용자에 게는 장점이 있습니다. 또한 높은 값 감사 이벤트는 사용자 사서함의 항목에 액세스 하거나 읽을 때와 같이 기록 됩니다. 자세한 내용은 [높은 값 감사 이벤트](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit#high-value-audit-events)를 참조 하십시오.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+
+기본적으로 고급 감사는 Office 365 또는 Microsoft 365 E5 구독이 있는 모든 조직에 대 한 테 넌 트 수준에서 사용 하도록 설정 되며, 작업에 대 한 감사 로그를 한 해 자동으로 보존 합니다 (해당 하는 라이선스가 있는 사용자가 수행 함). Azure Active Directory, Exchange 및 SharePoint 또한 조직에서는 감사 로그 보존 정책을 사용 하 여 다른 Microsoft 365 서비스의 활동에 의해 생성 된 감사 레코드의 보존 기간을 관리할 수 있습니다. 자세한 내용은 [감사 로그 보존 정책 관리](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies)를 참조하십시오.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+
+1 년의 감사 로그 보존 및 감사 상위 값 이벤트는 해당 라이선스가 있는 사용자 에게만 적용 됩니다. 또한 관리자는 감사 로그 보존 정책을 사용 하 여 특정 사용자의 감사 로그에 대해 더 짧은 보존 기간을 지정할 수 있습니다.

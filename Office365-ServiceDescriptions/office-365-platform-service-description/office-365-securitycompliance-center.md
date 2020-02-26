@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 보안 &amp; 및 준수 센터는 조직에 대 한 office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: d71fb083c34d72de8bcb20536bdd01d572fc788d
-ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
+ms.openlocfilehash: 7551f92f58387e988fcaa42d5b298254a064fb1a
+ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41931924"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42279811"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -28,7 +28,7 @@ ms.locfileid: "41931924"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 US 정부 G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 US 정부 G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 US 정부 F1** <br/> |
+|**기능** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 US 정부 G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 US Government G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 US 정부 F1** <br/> |
 |[보안 &amp; 및 준수 센터에 대 한 액세스](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |메일 필터링 및 맬웨어 방지와 같은 [위협 관리](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -64,7 +64,7 @@ ms.locfileid: "41931924"
 <sup>9</sup> Exchange 또는 SharePoint/OneDrive가 있는 SKU에 추가할 수 있는 DLP 추가 기능을 사용할 수 있습니다.<br/>
 <sup>10</sup> 민감도 레이블은 Azure Information Protection P1 및 P2에도 포함 됩니다.<br/>
 <sup>11</sup> Exchange Online 계획 2 라이선스는 보존 정책을 사용 하 여 사용자 사서함의 콘텐츠를 유지 하는 데 필요 합니다.<br/>
-<sup>12</sup> Advanced Audit는 Azure Active Directory, Exchange 및 SharePoint의 활동에 대해 1 년의 감사 로그를 보존 하 고, 다른 Office 365 서비스에 대 한 감사 로그 보존을 관리 하기 위한 사용자 지정 감사 로그 보존 정책을 만들 수 있는 기능을 제공 합니다. 또한 높은 가치 이벤트와 Office 365 관리 활동 API에 대 한 고대역폭 액세스에 대 한 감사를 제공 합니다.
+<sup>12</sup> Advanced Audit는 Azure Active Directory, Exchange 및 SharePoint의 활동에 대해 1 년의 감사 로그를 보존 하 고, 다른 Office 365 서비스에 대 한 감사 로그 보존을 관리 하기 위한 사용자 지정 감사 로그 보존 정책을 만들 수 있는 기능을 제공 합니다. 또한 Office 365 관리 활동 API에 대 한 조사 및 고대역폭 액세스에 대 한 중요 한 이벤트에 대 한 액세스를 제공 합니다.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>독립 &amp; 실행형 계획에 대 한 보안 준수 센터 가용성
 
