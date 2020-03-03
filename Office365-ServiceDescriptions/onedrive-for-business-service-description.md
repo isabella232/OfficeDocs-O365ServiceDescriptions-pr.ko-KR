@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 어떤 계획에서 어떤 OneDrive 기능을 사용할 수 있는지 확인합니다.
-ms.openlocfilehash: d1a8efd1cb01ae2f7643f673b66b6c0204ddde73
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 78780b53d1d5901405ecf98839c2b1a2df851f1a
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172090"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374175"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 서비스 설명
 
@@ -88,7 +88,7 @@ OneDrive 동기화 앱 및 모바일 앱에 대한 요구 사항을 검토하려
   
 - 사용자가 5TB의 OneDrive 저장소 용량을 90% 이상 채운 경우 Microsoft에서 OneDrive의 기본 저장소 공간을 사용자당 최대 25TB로 늘립니다(관리자는 원할 경우 사용자당 제한을 더 낮게 설정할 수 있음). 
     
-- 25TB OneDrive 저장소 용량의 90% 이상에 도달한 사용자에게는 25TB SharePoint 팀 사이트로 개별 사용자에게 추가 클라우드 저장소가 제공됩니다. 이 추가 저장소는 크레딧 방식으로 조직에 제공됩니다.
+- 25TB OneDrive 저장소 용량의 90% 이상에 도달한 사용자에게는 25TB SharePoint 팀 사이트로 개별 사용자에게 추가 클라우드 저장소가 제공됩니다.
     
 개별 사용자의 저장소 공간 및 사용 현황을 보려면 OneDrive 동기화 앱에서 [저장소 관리](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68)로 이동합니다. 조직의 사용자가 사용하는 저장소 용량을 보려면 Microsoft 365 관리 센터에서 [OneDrive 사용 현황 보고서](/office365/admin/activity-reports/onedrive-for-business-usage)로 이동합니다. 
    
