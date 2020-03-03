@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영 하는 Office 365는 중국의 안전 하 고 안정적 이며 확장 가능한 클라우드 서비스에 대 한 요구를 충족 하도록 설계 되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: 1456d280f07dc6997cd8c8366fd4ff5f601cb197
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 668307267529b9d65a05e9296d80ea7da6350bc9
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279841"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374195"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -52,11 +52,12 @@ Microsoft에서는 이 서비스 자체를 운영하지 않습니다. 21Vianet�
 |Power BI|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Visio for 웹<sup>3</sup>|예|예|예|예|예|예|예|
 |Yammer Enterprise|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|Azure Information Protection|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
+|Azure Information Protection|아니요|아니요|아니요|아니요|아니요|예<sup>4</sup>|아니요|
 
 <sup>1</sup> Office 365 관리, Office 365 제품군 앱, 사용자 계정 관리, 도메인, 서비스 상태 및 연속성, 보고, 서비스 업데이트, 도움말 및 교육, 네트워킹 등과 같은 기능이 포함되어 있습니다. 자세한 내용은 [플랫폼 기능](office-365-operated-by-21vianet.md#platform-features) 표를 참조하세요.
 <br/><sup>2</sup> Project Online은 포함되어 있지 않지만 별도의 추가 기능 서비스로 구매하거나 Office 365 A1 계획에 무료로 추가할 수 있습니다.
 <br/><sup>3</sup> 웹 사용량 (보기 기능) 용 Visio를 무료로 사용할 수 있습니다. Visio for web 만들기 및 편집 기능을 사용 하려면 라이선스가 필요 합니다. 웹의 Visio에 대 한 자세한 내용은 [웹 서비스 설명을 위해 visio](../visio-online-service-description/visio-online-service-description.md)를 참조 하십시오.
+<br/><sup>4</sup> 21vianet에서 운영 하는 Office 365에서 Azure Information Protection (aip)이 부분적으로 지원 됩니다. 자세한 내용은 [21vianet에서 운영 하는 Office 365에 대 한 Azure Information Protection 간 패리티](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet)를 참조 하세요.
 
 ## <a name="system-requirements"></a>시스템 요구 사항
 
@@ -232,7 +233,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[비즈니스용 Skype](../office-applications-service-description/office-applications.md#skype-for-business)|예|예|예|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예|예<sup>4</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|아니요|아니요|아니요|아니요|아니요|아니요|<sup>5</sup> 없음|아니요|아니요|아니요|
 |[Windows 10 앱](../office-applications-service-description/office-applications.md#windows-10-apps)|예|예|예|예|예|예|예|예|예|아니요|
-|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|아니요|예|아니요|아니요|아니요|예|<sup>5</sup> 없음|아니요|예|아니요|
+|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|아니요|예|아니요|아니요|아니요|있음|<sup>5</sup> 없음|아니요|예|아니요|
 |[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|예|예|예|예|예|예|예<sup>5</sup>|예|예|예|
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|예|예|예|예|예|예|예|예|예|예|
 |[Android 용 Office Mobile] <sup>15</sup>(.. /office-applications-service-description/office-applications.md # office-android 용 모바일)|예|예|예|예|예|예|예<sup>5</sup>|예|예|예|
@@ -998,7 +999,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |**[Skype-Skype 오디오, 비디오 및 미디어](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)**|**21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 1**|**21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 2**|
 |데스크톱 공유|No<sup>2</sup>|예|
 |응용 프로그램 공유|No<sup>2</sup>|예|
-|파일 전송|아니요|예|
+|파일 전송|아니요|있음|
 |음성|아니요|아니요|
 |비디오|예|예|
 |미디어 경로 최적화|아니요|아니요|
@@ -1150,7 +1151,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |[일정 관리](../project-online-service-description/project-management.md#reporting-and-business-intelligence)|아니요|있음|예|예|예|
 |[시간 및 작업 관리](../project-online-service-description/project-management.md#time-and-task-management)|아니요|있음|예|아니요|있음|
 |**포트폴리오 관리**|**21Vianet에서 운영하는 Office 365용 Project Online Essentials**|**21Vianet에서 운영하는 Office 365용 Project Online Professional**|**21Vianet에서 운영하는 Office 365용 Project Online Premium**|**21Vianet에서 운영하는 Office 365용 Project Professional 2016**|**21Vianet에서 운영하는 Office 365용 Project Server 2016**|
-|[프로젝트 분석 및 포트폴리오 최적화](../project-online-service-description/portfolio-management.md#analyze-projects-and-optimize-portfolio)|아니요|아니요|예|아니요|있음|
+|[프로젝트 분석 및 포트폴리오 최적화](../project-online-service-description/portfolio-management.md#analyze-projects-and-optimize-portfolio)|아니요|아니요|예|아니요|예|
 |[프로젝트 만들기 및 편집](../project-online-service-description/portfolio-management.md#create-and-edit-projects)|아니요|있음|예|아니요|예|
 |[재무 관리](../project-online-service-description/portfolio-management.md#financial-management)|아니요|아니요|예|아니요|예|
 |[워크플로에 참여](../project-online-service-description/portfolio-management.md#participate-in-workflow)|아니요|있음|예|아니요|예|

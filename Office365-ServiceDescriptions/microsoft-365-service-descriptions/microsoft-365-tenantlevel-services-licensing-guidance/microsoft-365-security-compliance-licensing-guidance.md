@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 보안 & 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: c4daa7a5d97998e62a5d0bc71dfbdaf02f1afbad
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 4cb0c741ba7029fbb2420554dc9fa34f3f12b54d
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279861"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374165"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -189,9 +189,9 @@ ADG를 사용 하면 특정 데이터에 레이블을 적용 하 여 특정 정�
 
 ADG 보존 정책은 특정 위치 (팀 사이트, 그룹 사이트 등)의 사용이 가능한 사용자에 게 자동 분류를 통해 적용할 수 있습니다. ADG 보존 정책을 적용 하는 방법에 대 한 자세한 내용은 [전체 조직이 나 특정 위치에 보존 정책 적용](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)을 참조 하십시오.
 
-## <a name="office-365-advanced-ediscovery"></a>Office 365 고급 eDiscovery
+## <a name="advanced-ediscovery"></a>Advanced eDiscovery
 
-Office 365 Advanced eDiscovery는 회사 내의 IT 및 법률 부서에서 조사 또는 소송에 관련 된 콘텐츠를 식별, 수집, 보존, 절감 및 검토 하기 위한 조사 및 eDiscovery 솔루션을 제공 합니다. Office 365 시스템
+Advanced eDiscovery는 회사 내의 IT 및 법률 부서에서 조사 또는 소송에 관련 된 콘텐츠를 식별, 수집, 보존, 절감 및 검토 하기 위한 조사 및 eDiscovery 솔루션을 제공 하 여 Office 365에서 내보내기 전 컴퓨터.
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
@@ -440,4 +440,4 @@ Microsoft 365 서비스의 사용자 작업과 관련 된 감사 레코드를 �
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
-1 년의 감사 로그 보존 및 감사 상위 값 이벤트는 해당 라이선스가 있는 사용자 에게만 적용 됩니다. 또한 관리자는 감사 로그 보존 정책을 사용 하 여 특정 사용자의 감사 로그에 대해 더 짧은 보존 기간을 지정할 수 있습니다.
+1 년의 감사 로그 보존 및 중요 한 이벤트 감사는 해당 라이선스가 있는 사용자 에게만 적용 됩니다. 또한 관리자는 감사 로그 보존 정책을 사용 하 여 특정 사용자의 감사 로그에 대해 더 짧은 보존 기간을 지정할 수 있습니다.
