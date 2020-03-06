@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
 ms.openlocfilehash: 88885d5837ae8acd070c9f61dd8ed49c577c5e67
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374185"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546111"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 

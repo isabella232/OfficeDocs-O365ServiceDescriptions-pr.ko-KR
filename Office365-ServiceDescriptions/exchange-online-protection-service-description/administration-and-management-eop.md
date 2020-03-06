@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: 이 섹션에서는 Microsoft EOP (Exchange Online Protection) 관리자가 사용할 수 있는 관리 인터페이스에 대해 설명 합니다.
 ms.openlocfilehash: a0489e781238dd5e52fada58897bafd35e3bd7b4
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260723"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545831"
 ---
 # <a name="administration-and-managementeop"></a>관리 [EOP]
 

@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: Project Online에서는 다음과 같은 작업 관리 기능을 사용할 수 있습니다.
 ms.openlocfilehash: 9766161bf6ad67e66e6b13f77ceaa628142a017d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263382"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546101"
 ---
 # <a name="task-management"></a>작업 관리
 

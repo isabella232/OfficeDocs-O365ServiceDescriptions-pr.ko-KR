@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Web for office를 사용 하면 거의 모든 장치에서 인터넷에 연결 하 여 어디서 나 Office 파일을 보다 쉽게 작업 하 고 공유할 수 있습니다. Microsoft Office 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
 ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
-ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41711908"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545791"
 ---
 # <a name="office-for-the-web-service-description"></a>웹용 Office 서비스 설명
 
@@ -87,7 +87,7 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 |[실시간 공동 작성](word-online.md#real-time-co-authoring) <br/> |예  <br/> |예  <br/> |
 |[참조 도구](word-online.md#reference-tools) <br/> |아니요  <br/> |예  <br/> |
 |[텍스트 상자/도형 렌더링](word-online.md#rendering-of-text-boxesshapes) <br/> |예  <br/> |예  <br/> |
-|[리서치 도구](word-online.md#researcher) <br/> |아니요  <br/> |있음  <br/> |
+|[Researcher](word-online.md#researcher) <br/> |아니요  <br/> |있음  <br/> |
 |[리치 미디어](word-online.md#rich-media) <br/> |아니요  <br/> |있음  <br/> |
 |[서식 있는 표 서식](word-online.md#rich-table-formatting) <br/> |예  <br/> |예  <br/> |
 |[복사본 다른 이름으로 저장 또는 다운로드](word-online.md#save-as-and-download-a-copy) <br/> |예  <br/> |예  <br/> |

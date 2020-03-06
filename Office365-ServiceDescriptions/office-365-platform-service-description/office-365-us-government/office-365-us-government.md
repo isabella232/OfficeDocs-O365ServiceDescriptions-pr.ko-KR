@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 문서에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다.
-ms.openlocfilehash: 7fdf83fc7cd4ededf28826861ef0202aca6185bf
-ms.sourcegitcommit: 66e0fa8f265fe5cdb0d94c340fef5cb5431fc600
+ms.openlocfilehash: d94134443ffa106fa162690908825ab295d733e5
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/18/2020
-ms.locfileid: "41233361"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545721"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -167,14 +167,14 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**[Office 365 제품군 기능](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
 |Microsoft Bookings  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Microsoft 브리핑 전자 메일  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|Microsoft 파워 자동화  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
+|Microsoft Power Automate  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |Microsoft Forms  <br/> |예 <br/> |예 <br/> |예<br/> |예</sup> <br/> |
 |Microsoft Graph API  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft MyAnalytics  <br/> |아니요 <br/> |아니요 <br/> |예<sup>17</sup> <br/> |아니요 <br/> |
 |Microsoft Planner  <br/> |예 <br/> |예 <br/> |예 <br/> |예 <br/> |
 |Microsoft PowerApps  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |Microsoft StaffHub  <br/> |아니요 <br/> |아니요 <br/> |아니요 <br/> |아니요<br/> |
-|Microsoft Stream  <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |아니요  <br/> |
+|Microsoft Stream  <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15, 20</sup>  <br/> |
 |Microsoft Sway  <br/> |아니요 <br/> |아니요 <br/> |아니요 <br/> |아니요 <br/> |
 |Microsoft 팀  <br/> |예 <br/> |예 <br/> |예 <br/> |예 <br/> |
 |Office Delve  <br/> |예<sup>17</sup> <br/> |예<sup>17</sup> <br/> |예  <br/> |예<sup>17</sup> <br/> |
@@ -219,10 +219,10 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |메일에 대한 상위 맬웨어  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |메일에 대한 규칙 일치  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |메일에 대한 상위 규칙 일치  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
-|메일에 대한 상위 DLP 정책 일치  <br/> |아니요  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
-|메일에 대한 심각도별 DLP 정책 일치  <br/> |아니요  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
-|메일에 대한 DLP 정책 일치, 재정의 및 가양성  <br/> |아니요  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
-|메일에 대한 상위 DLP 규칙 일치  <br/> |아니요  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
+|메일에 대한 상위 DLP 정책 일치  <br/> |아니요  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |아니요 <br/> |
+|메일에 대한 심각도별 DLP 정책 일치  <br/> |아니요  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |아니요 <br/> |
+|메일에 대한 DLP 정책 일치, 재정의 및 가양성  <br/> |아니요  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |아니요 <br/> |
+|메일에 대한 상위 DLP 규칙 일치  <br/> |아니요  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |아니요 <br/> |
 |IM 및 오디오 세션  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |응용 프로그램 공유, 웹 및 전화 접속 회의  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |비디오, 응용 프로그램 공유 및 파일 전송 세션  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
@@ -285,12 +285,14 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 <br/><sup>11</sup> Office 365 정부 제품에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다. 
 <br/><sup>12</sup> 포함 되지 않지만 GCC에서 별도의 추가 기능으로 구입할 수 있습니다. 
 <br/><sup>13</sup> Office 365 정부 제품에는 지원 되지 않습니다. 
-<br/>[https://securescore.office.com](https://securescore.office.com) <sup>14 인치</sup> 관리자 권한이 있어야 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://go.microsoft.com/fwlink/?linkid=836894)를 참조 하세요. 
+<br/>[https://securescore.office.com](https://securescore.office.com) <sup>14 인치</sup> 관리자 권한이 있어야 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)를 참조 하세요.
+). 
 <br/><sup>15</sup> DoD 환경에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다. 
 <br/><sup>16</sup> 관리 센터에는 DOD 또는 GCC High 환경에 사용 현황 분석이 포함 되어 있지 않습니다.
 <br/><sup>17</sup> GCC High 또는 DoD 환경에서는 지원 되지 않습니다.
 <br/><sup>18</sup> 사용자 및 도메인 가장에 대 한 피싱 방지 및 스푸핑 인텔리전스는 GCC High 및 DoD에서 아직 사용할 수 없습니다.
 <br/><sup>19</sup> GCC 환경에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다.
+<br/>Microsoft Stream에만 사용할 <sup>20 개의</sup> 소비량: 게시 또는 공유 안 함 
   
 ## <a name="office-application-availability-and-enterprise-value"></a>Office 응용 프로그램 가용성 및 enterprise 값
 
@@ -319,32 +321,32 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**Enterprise 값** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
 |PC 또는 Mac에서 사용자당 5건의 동시 설치 지원  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
 |사용자 계정 자동 구축  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|다국어 사용자 인터페이스  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|다국어 사용자 인터페이스  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |클라이언트 푸시 배포  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
-|온-프레미스 Exchange에 대한 클라이언트 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|온-프레미스 Sharepoint에 대한 클라이언트 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|소프트웨어 업데이트 제어  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|데이터베이스 비교  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|데스크톱 가상화  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Excel 스프레드시트 비교  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Excel 스프레드시트 조회  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|그룹 정책 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|온-프레미스 Exchange에 대한 클라이언트 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|온-프레미스 Sharepoint에 대한 클라이언트 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|소프트웨어 업데이트 제어  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|데이터베이스 비교  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|데스크톱 가상화  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|Excel 스프레드시트 비교  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|Excel 스프레드시트 조회  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|그룹 정책 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |Azure Information Protection을 사용한 정보 권한 관리  <br/> |No<sup>1</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |No<sup>1</sup> <br/> |
 |Windows Server AD RMS를 사용한 정보 권한 관리  <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |
-|Office 추가 기능, ActiveX 및 BHO 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|Office 추가 기능, ActiveX 및 BHO 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |Office Lens  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Office 원격 분석  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
-|클라이언트 응용 프로그램에 대한 오프라인 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|최적화된 클라이언트 병렬 설치  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|클라이언트 응용 프로그램에 대한 오프라인 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|최적화된 클라이언트 병렬 설치  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |Excel용 파워 맵  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Power Pivot for Excel  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Excel용 파워 쿼리  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Power View for Excel  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |로밍 설정  <br/> |아니요  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |아니요  <br/> |
-|공유 컴퓨터 활성화  <br/> |아니요  <br/> |예 <br/> |예 <br/> |아니요  <br/> |
-|클라우드 기반 파일 저장 차단 지원  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|공유 컴퓨터 활성화  <br/> |아니요  <br/> |있음 <br/> |예 <br/> |아니요  <br/> |
+|클라우드 기반 파일 저장 차단 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |버전 업그레이드  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Volume activation (KMS/MAK)  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
    
@@ -378,14 +380,14 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |스마트 조회 | 아니요 <br/> | 아니요 <br/> | 아니요 <br/> |
 |차트: 선 버스트 트리, 폭포, 히스토그램, 맵, 타임 라인, 깔때기 | 아니요 <br/> | 아니요 <br/> | 아니요 <br/> |
 |버전 기록 | 아니요 <br/> | 아니요 <br/> | 아니요 <br/> |
-|[**Microsoft 양식은**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) 현재 사용할 수 없는 다음 기능을 제외 하 고는 정부 클라우드에서 완벽 하 게 사용할 수 있습니다. | **GCC** <br/> | **GCC 최고** <br/> | **DOD**<sup>3</sup> <br/> |
+|[**Microsoft 양식은**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) 현재 사용할 수 없는 다음 기능을 제외 하 고는 정부 클라우드에서 완벽 하 게 사용할 수 있습니다. | **GCC** <br/> | **GCC 최고** <br/> | **여기서** <br/> |
 |전자 메일 알림 | No<sup>1</sup> <br/> | No<sup>1</sup> <br/> | 아니요 <br/> | 
 |그림 삽입 | No<sup>1</sup> <br/> | No<sup>1</sup> <br/> | 아니요 <br/> |
 |동영상 삽입 | No<sup>1</sup> <br/> | No<sup>1</sup> <br/> | 아니요 <br/> |
 |수학 | No<sup>1</sup> <br/> | No<sup>1</sup> <br/> | 아니요 <br/> |
 |Office 통합 | No<sup>1</sup> <br/> | No<sup>1</sup> <br/> | 아니요 <br/> |
-|가장 최근 그룹 양식 | 예 <br/> | 예 <br/> | 아니요 <br/> |
-|외부 공유 <sup>4</sup> | 예 <br/> | 아니요 <br/> | 아니요 <br/> |
+|가장 최근 그룹 양식 | <sup>4</sup> 없음 <br/> | 예 <br/> | 예 <br/> |
+|외부 공유 <sup>3</sup> | 예 <br/> | 아니요 <br/> | 아니요 <br/> |
 |폼 Pro | 아니요 | 아니요 | 아니요 |
 |다음 기능은 현재 사용할 수 없는 다음 기능을 제외 하 고는 정부 클라우드에서 [**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) 를 완전히 사용할 수 있습니다. | **GCC** <br/> | **GCC 최고** <br/> | **여기서** <br/> |
 |리서치 도구 | 아니요 <br/> | 아니요 <br/> | 아니요 <br/> |
@@ -438,7 +440,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |공동 작성자와 상황별 채팅: 문서 내 공동 작성자와 채팅 | 아니요 <br/> | 아니요 <br/> | 아니요 <br/> |
 |받아쓰기 | No<sup>1</sup> <br/> | No<sup>1</sup> <br/> | No<sup>1</sup> <br/> |
 
-> <sup>1</sup> 가용성을 곧 제공 합니다.<br/>
-<sup>2</sup> 로컬 Surface Hub의 가용성 (로그인 되지 않음)<br/>
-<sup>3</sup> 응용 프로그램은 현재 DOD 클라우드에서 사용할 수 없습니다.<br/>
-<sup>4</sup> GCC 환경에 대해 외부 공유를 사용할 수 있습니다. 자세한 내용은 조직 [에서 Microsoft 양식을 해제 하거나 설정](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) 하는 방법에 대 한 자세한 내용을 알아보세요. GCC High 및 DOD 환경에서는 외부 공유를 사용할 수 없습니다. 조직 내의 사용자는 양식을 작성 하 고, 응답을 제출 하 고, 양식을 [서식 파일로 복제 및 공유](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)하 고, 양식 [에서 공동 작업](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)을 수행 하거나, [양식 결과에 액세스](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)하는 등의 작업을 수행할 수 있습니다.
+><sup>1</sup> 가용성을 곧 제공 합니다.
+<br/><sup>2</sup> 로컬 Surface Hub의 가용성 (로그인 되지 않음)
+<br/><sup>3</sup> GCC 환경에 대해 외부 공유를 사용할 수 있습니다. 자세한 내용은 조직 [에서 Microsoft 양식을 해제 하거나 설정](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) 하는 방법에 대 한 자세한 내용을 알아보세요. GCC High 및 DOD 환경에서는 외부 공유를 사용할 수 없습니다. 조직 내의 사용자는 양식을 작성 하 고, 응답을 제출 하 고, 양식을 [서식 파일로 복제 및 공유](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)하 고, 양식 [에서 공동 작업](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)을 수행 하거나, [양식 결과에 액세스](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)하는 등의 작업을 수행할 수 있습니다.
+<br/><sup>4</sup> GCC 환경에는 최근 그룹 양식 기능이 사용 되지 않도록 설정 됩니다. 그러나 사용자는 그룹 양식 탭에서 특정 그룹을 선택 하 여 그룹 양식에 계속 액세스할 수 있습니다.

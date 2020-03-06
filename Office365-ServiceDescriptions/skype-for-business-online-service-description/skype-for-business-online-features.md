@@ -11,11 +11,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 관리자 인 경우 비즈니스용 Skype Online 설정에서 비즈니스용 Skype Online 기능을 설정 하는 방법에 대 한 자세한 지침을 확인할 수 있습니다.
 ms.openlocfilehash: 15574e9afbb1b635a96fd659b6a79a0211b6fc5a
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733799"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545761"
 ---
 # <a name="skype-for-business-online-features"></a>비즈니스용 Skype Online 기능
 
@@ -121,7 +121,7 @@ Office 365에서는 전화 접속 회의 공급자로 Office 365을 사용 하�
   
 ## <a name="calling-plans-in-office-365"></a>Office 365의 통화 플랜
 
-비즈니스용 Skype에는 PSTN (공중 전화망)에서 발견 된 통화 기능이 포함 되어 있습니다. 통화 계획은 조직 내부 및 외부의 사용자가 전화를 걸고 받을 수 있도록 조직의 사용자에 게 연락처를 검색, 취득 및 지정 하는 기능을 허용 하는 [Office 365의 전화 시스템](https://docs.microsoft.com/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-features#phone-system-in-office-365) 에 대 한 추가 기능이 됩니다. 를 Office 365에서 직접 시작 합니다. 전화 번호가 할당 된 사용자는 VoIP 전화, Pc 및 모바일 장치를 비롯 한 모든 비즈니스용 Skype 장치에서 음성 통화를 할 수 있습니다. 또한 음소거/음소거 해제, 대기/다시 시작, 통화 전송 및 착신 전환 기능을 통해 통화를 제어할 수 있으며 필요한 경우 응급 통화를 할 수 있습니다. 
+비즈니스용 Skype에는 PSTN (공중 전화망)에서 발견 된 통화 기능이 포함 되어 있습니다. 통화 요금제는 [office 365의 전화 시스템](https://docs.microsoft.com/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-features#phone-system-in-office-365) 에 대 한 추가 기능으로, 조직의 내부 및 외부 사용자 로부터 전화를 걸어 office 365에서 직접 통화를 받을 수 있도록 조직에서 사용자를 검색 하 고 취득 하 고 번호를 지정 하는 데 사용 됩니다. 전화 번호가 할당 된 사용자는 VoIP 전화, Pc 및 모바일 장치를 비롯 한 모든 비즈니스용 Skype 장치에서 음성 통화를 할 수 있습니다. 또한 음소거/음소거 해제, 대기/다시 시작, 통화 전송 및 착신 전환 기능을 통해 통화를 제어할 수 있으며 필요한 경우 응급 통화를 할 수 있습니다. 
   
 사용 가능한 통화 계획에 대 한 자세한 내용은 [Office 365에 대 한 통화 요금제](https://products.office.com/skype-for-business/pstn-calling-plans)로 이동 하십시오. 자세한 내용과 통화 계획을 설정 하는 방법에 대 한 자세한 내용은 [어떤 통화 요금제가 적합 합니까?](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429) 를 참조 하세요.
   

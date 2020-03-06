@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영 하는 Office 365는 중국의 안전 하 고 안정적 이며 확장 가능한 클라우드 서비스에 대 한 요구를 충족 하도록 설계 되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: 668307267529b9d65a05e9296d80ea7da6350bc9
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 0e07a9958800c56c6c6ccfc3e3e3bf964b7c74a8
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374195"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546001"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -234,9 +234,11 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|아니요|아니요|아니요|아니요|아니요|아니요|<sup>5</sup> 없음|아니요|아니요|아니요|
 |[Windows 10 앱](../office-applications-service-description/office-applications.md#windows-10-apps)|예|예|예|예|예|예|예|예|예|아니요|
 |[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|아니요|예|아니요|아니요|아니요|있음|<sup>5</sup> 없음|아니요|예|아니요|
+|Android 용 Microsoft Office 앱|예|예|예|예|예|예|예|예|예|예|
+|IOS 용 Microsoft Office 앱|예|예|예|예|예|예|예|예|예|예|
 |[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|예|예|예|예|예|예|예<sup>5</sup>|예|예|예|
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|예|예|예|예|예|예|예|예|예|예|
-|[Android 용 Office Mobile] <sup>15</sup>(.. /office-applications-service-description/office-applications.md # office-android 용 모바일)|예|예|예|예|예|예|예<sup>5</sup>|예|예|예|
+|[Android 용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android)<sup>15</sup>|예|예|예|예|예|예|예<sup>5</sup>|예|예|예|
 |[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니요|예|아니요|아니요|아니요|있음|<sup>5</sup> 없음|아니요|예|아니요|
 |[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니요|예|아니요|아니요|아니요|있음|<sup>5</sup> 없음|아니요|예|아니요|
 |Android용 Outlook|아니요|있음|예|예|아니요|있음|<sup>5</sup> 없음|아니요|예|아니요|
@@ -497,7 +499,7 @@ Exchange Online 한도에 대한 자세한 내용은 다음 항목을 참조하�
 |[조건부 메일 라우팅](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing)|예|예|
 |[하이브리드 메일 라우팅](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing)|아니요|있음|
 |[Microsoft 365 관리 센터 보고서](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |<sup>8</sup>|예<sup>8, 9</sup>|
-|[웹 서비스를 사용하여 보고](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services)|아니요|예|
+|[웹 서비스를 사용하여 보고](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services)|아니요|있음|
 |[메시지 추적](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace)|예<sup>12</sup>|예<sup>12</sup>|
 |[Microsoft 365 관리 센터에 대 한 액세스 권한](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |예|예|
 |[Exchange 관리 센터 액세스](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center)(EAC)|예|예|
@@ -536,20 +538,20 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |:-----|:-----|:-----|
 |**기능**|**Exchange Server용 Exchange Online Archiving<sup>1</sup>**|**Exchange Online용 Exchange Online Archiving<sup>2</sup>**|
 |**[Exchange Online 보관의 보관 기능](../exchange-online-archiving-service-description/archive-features.md)**|||
-|보관 사서함|아니요|예|
+|보관 사서함|아니요|있음|
 |보관 정책을 사용하여 메시지 이동|아니요|예|
-|보관 사서함으로 데이터 가져오기|아니요|예|
-|삭제된 항목 복구|아니요|예|
-|삭제된 사서함 복구|아니요|예|
-|사서함 백업|아니요|예|
+|보관 사서함으로 데이터 가져오기|아니요|있음|
+|삭제된 항목 복구|아니요|있음|
+|삭제된 사서함 복구|아니요|있음|
+|사서함 백업|아니요|있음|
 |**[Exchange Online 보관의 클라이언트 기능](../exchange-online-archiving-service-description/client-features.md)**|||
-|Outlook<sup>3</sup>|아니요|예|
-|웹용 Outlook|아니요|예|
+|Outlook<sup>3</sup>|아니요|있음|
+|웹용 Outlook|아니요|있음|
 |**[Exchange Online 보관의 규정 준수 및 보안 기능](../exchange-online-archiving-service-description/compliance-and-security-features.md)**|||
-|보존 정책|아니요|예|
-|원본 위치 유지 및 소송 보존<sup>5</sup>|아니요|예|
+|보존 정책|아니요|있음|
+|원본 위치 유지 및 소송 보존<sup>5</sup>|아니요|있음|
 |원본 위치 eDiscovery|아니요|예|
-|온-프레미스 서버와 Exchange Online Archiving 간 암호화|아니요|예|
+|온-프레미스 서버와 Exchange Online Archiving 간 암호화|아니요|있음|
 |클라이언트와 Exchange Online Archiving 간 암호화|아니요|예|
 |암호화: S/MIME 및 PGP|예|예|
 |Azure Information Protection을 사용한 IRM|아니요|아니요|
@@ -643,7 +645,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |효율적인 중앙 관리|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |시스템 상태 알림|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |연결 되지 않은 콘텐츠 데이터베이스 복구|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|Upgrade evaluation site collections|아니요|아니요|아니요|예|예|예|예|
+|Upgrade evaluation site collections|아니요|아니요|아니요|있음|예|예|예|
 |사용 현황 보고 및 로깅|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Windows PowerShell 지원|예|예|예|예|예|예|예|
 |**콘텐츠 기능**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F1**|
@@ -676,7 +678,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |PowerPoint Automation Services|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Preservation hold library|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |Quick Edit|예|예|예|예|예|예|아니요|
-|Records management|예|아니요|예|예|예|예|예|
+|Records management|예|아니요|있음|예|예|예|예|
 |Recycle Bin (SharePoint admin center)|예|예|예|예|예|예|아니요|
 |Recycle Bin (site collection)|예|예|예|예|예|예|아니요|
 |관련 항목|예|아니요|예|예|예|예|예|
@@ -746,9 +748,9 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |Result sources|예|예|예|아니요|아니요|아니요|아니요|
 |Search connector framework|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Search results sorting|예|예|예|예|예|예|예|
-|Search vertical: “Conversations”|예|예|예|예|예|예|예|
-|Search vertical: “People”|예|예|예|예|예|예|예|
-|Search vertical: “Video”|아니요|아니요|아니요|아니요|아니요|예|아니요|
+|검색 범주: "대화"|예|예|예|예|예|예|예|
+|검색 범주: "인물"|예|예|예|예|예|예|예|
+|검색 범주: "동영상"|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |"현재 목록" 검색|예|예|예|예|예|예|예|
 |**사이트 기능**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F1**|
 |Change the look|예|아니요|예|예|예|예|예|
@@ -1149,7 +1151,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |[문제점 및 위험 관리](../project-online-service-description/project-management.md#issues-and-risk-management)|아니요|있음|예|아니요|있음|
 |[프로젝트 리소스 관리](../project-online-service-description/project-management.md#manage-project-resources)|아니요|있음|예|아니요|있음|
 |[일정 관리](../project-online-service-description/project-management.md#reporting-and-business-intelligence)|아니요|있음|예|예|예|
-|[시간 및 작업 관리](../project-online-service-description/project-management.md#time-and-task-management)|아니요|있음|예|아니요|있음|
+|[시간 및 작업 관리](../project-online-service-description/project-management.md#time-and-task-management)|아니요|있음|예|아니요|예|
 |**포트폴리오 관리**|**21Vianet에서 운영하는 Office 365용 Project Online Essentials**|**21Vianet에서 운영하는 Office 365용 Project Online Professional**|**21Vianet에서 운영하는 Office 365용 Project Online Premium**|**21Vianet에서 운영하는 Office 365용 Project Professional 2016**|**21Vianet에서 운영하는 Office 365용 Project Server 2016**|
 |[프로젝트 분석 및 포트폴리오 최적화](../project-online-service-description/portfolio-management.md#analyze-projects-and-optimize-portfolio)|아니요|아니요|예|아니요|예|
 |[프로젝트 만들기 및 편집](../project-online-service-description/portfolio-management.md#create-and-edit-projects)|아니요|있음|예|아니요|예|
@@ -1166,8 +1168,8 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |[수신 리소스 참여 요청 수락/거절/수정](../project-online-service-description/resource-management.md#approverejectmodify-incoming-resource-engagement-requests)|아니요|아니요|예|아니요|예|
 |[자원 그룹 관리](../project-online-service-description/resource-management.md#manage-resource-pool)|아니요|아니요|예|아니요|예|
 |[리소스 용량 계획](../project-online-service-description/resource-management.md#plan-resource-capacity)|아니요|아니요|예|아니요|예|
-|[리소스 용량 계약](../project-online-service-description/resource-management.md#request-resource-agreements)|아니요|예|예|예|예|
-|[사용 가능한 리소스 보기 및 팀 구성](../project-online-service-description/resource-management.md#view-available-resources-and-build-teams)|아니요|예|예|예|예|
+|[리소스 용량 계약](../project-online-service-description/resource-management.md#request-resource-agreements)|아니요|있음|예|예|예|
+|[사용 가능한 리소스 보기 및 팀 구성](../project-online-service-description/resource-management.md#view-available-resources-and-build-teams)|아니요|있음|예|예|예|
 
 <sup>1</sup> Active Directory 통합에 Project Online Essentials 사용자가 포함됩니다. 그렇지만 Active Directory 통합을 관리하려면 Project Online 구독이 필요합니다.
 <br/><sup>2</sup> 팀 구성원 시나리오에 대한 확장만 지원됩니다.

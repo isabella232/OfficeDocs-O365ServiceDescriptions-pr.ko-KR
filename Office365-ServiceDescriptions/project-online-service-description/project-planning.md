@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: Project Online에서는 다음과 같은 프로젝트 계획 기능을 사용할 수 있습니다.
 ms.openlocfilehash: e591d491f76a340da7e3260ece0210de3ac57637
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263412"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546031"
 ---
 # <a name="project-planning"></a>프로젝트 계획
 

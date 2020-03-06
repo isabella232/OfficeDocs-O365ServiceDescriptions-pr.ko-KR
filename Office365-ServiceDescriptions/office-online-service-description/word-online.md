@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word for web (이전의 Word Web App)을 사용 하면 Microsoft Word 환경을 웹 브라우저로 확장 하 여 문서가 저장 된 웹 사이트에서 직접 문서로 작업할 수 있습니다.
 ms.openlocfilehash: 5b99a52df57fdceaa341422a4265795438e2d296
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263492"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545741"
 ---
 # <a name="word-for-the-web"></a>웹용 Word
 

@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: 웹 (이전의 OneNote Web App)에 OneNote를 사용 하 여 어디에서 나 다른 사람과 쉽게 공유할 수 있는 OneNote 전자 필기장에서 온라인으로 노트를 작성 합니다. 모든 Office 365 고객은 웹에서 Office를 사용 하 여 Office 파일을 보고 가볍게 편집할 수 있습니다.
 ms.openlocfilehash: ac5ddb4e0599f3155a592aed3fc663723db6500c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263512"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545771"
 ---
 # <a name="onenote-for-the-web"></a>웹용 OneNote
 
@@ -97,7 +97,7 @@ OneNote에서는 웹에서 사용할 수 없습니다. OneNote 데스크톱 앱�
 
 웹의 OneNote에서는 노트 기록 기능을 파일에 연결할 수 없으며 파일에 대 한 링크가 숨겨집니다. 그러나 이 링크는 OneNote 데스크톱 앱에서 열 수 있도록 메모에서 유지됩니다. 
   
-## <a name="navigation"></a>탐색
+## <a name="navigation"></a>Navigation
 
 웹을 사용 하는 경우에는 빠른 실행 도구 모음의 뒤로/앞으로 브라우저 스타일 단추를 사용 하 여 페이지 사이를 빠르게 이동할 수 있습니다.
   
