@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 문서에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다.
-ms.openlocfilehash: d94134443ffa106fa162690908825ab295d733e5
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 79c803fd407b96d3b5e12589ccb9bec1a34ad097
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545721"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609899"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -68,7 +68,7 @@ Office 365 Government 서비스는 미국에 실제로 있는 데이터 센터�
 > [!NOTE]
 > 일반적인 경우에는 비즈니스용 Skype에서 고객 콘텐츠를 저장하지 않지만 만약 이러한 저장을 수행할 경우 미국 내의 데이터 센터에 저장됩니다. 
   
-사용자가 웹에 대해 Office (이전 버전에서는 Office Web Apps)를 사용 하는 동안 또는 AD FS (Active Directory Federation Services) 2.0을 사용 하 고 사용자가 단일 si를 통해 서비스에 연결 하는 데 도움이 되도록 정책을 설정 하는 경우 미국 내의 내에 있는 경우 gn에서 웹을 위해 Office에 일시적으로 캐시 되는 모든 고객 콘텐츠는 미국 내의에 배치 됩니다.
+사용자가 웹에 대해 Office (이전 버전에서는 Office Web Apps)를 사용 하는 동안 또는 AD FS (Active Directory Federation Services) 2.0을 사용 하 고 사용자가 single을 통해 서비스에 연결할 수 있도록 정책을 설정 하는 경우 미국 내의 내에 있는 경우 로그온-웹을 위해 Office에 일시적으로 캐시 되는 모든 고객 콘텐츠는 미국 내의에 배치 됩니다.
   
 ## <a name="office-365-us-government-and-third-party-services"></a>Office 365 Government 및 타사 서비스
 
@@ -131,7 +131,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Office 365 서비스** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
+|**Office 365 서비스** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |웹에 대 한 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365 ProPlus  <br/> |아니요 <br/> |지원 <br/> |예 <br/> |아니요  <br/> |
 |Exchange Online  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -158,13 +158,13 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**기능** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
+|**기능** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |**Office 365 administration** <br/> |||||
 |Microsoft 365 관리 센터를 사용 하 여 Office 365 관리  <br/> |예<sup>16</sup> <br/> |예<sup>16</sup> <br/> |예  <br/> |예<sup>16</sup> <br/> |
 |Office 365에서 핵심 서비스 설정 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Windows PowerShell을 사용하여 Office 365 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Azure Information Protection을 사용하여 콘텐츠 보호  <br/> |No<sup>1</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup>  <br/> |No<sup>1</sup> <br/> |
-|**[Office 365 제품군 기능](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
+|**[Office 365 제품군 기능](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |Microsoft Bookings  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Microsoft 브리핑 전자 메일  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Microsoft Power Automate  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
@@ -179,7 +179,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |Microsoft 팀  <br/> |예 <br/> |예 <br/> |예 <br/> |예 <br/> |
 |Office Delve  <br/> |예<sup>17</sup> <br/> |예<sup>17</sup> <br/> |예  <br/> |예<sup>17</sup> <br/> |
 |Office 365 그룹  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[사용자 계정 관리](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
+|**[사용자 계정 관리](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |클라우드 ID  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |페더레이션 ID(Single Sign-On)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Multi-Factor Authentication  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -197,16 +197,16 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |사용할 수 있는 여러 관리자 역할  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |관리자가 사용자를 대신하여 Office 365를 관리하도록 허용  <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |예<sup>11</sup> <br/> |
 |Azure Active Directory 서비스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[도메인](../../office-365-platform-service-description/domains.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
+|**[도메인](../../office-365-platform-service-description/domains.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |사용자 지정 2차 수준 도메인 추가(예: fourthcoffee.com)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |사용자 지정 3차 수준 도메인 추가(예: marketing.fourthcoffee.com)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |사용자 지정 도메인 최대 900개 추가  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |사용자 지정 도메인에 대해 도메인 소유권 확인 필요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[서비스 상태 및 연속성](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
+|**[서비스 상태 및 연속성](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |**서비스 상태** 또는 **서비스 상태** 페이지에서 상태 정보를 사용할 수 있음  <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |
 |Microsoft 365 관리 센터 대시보드에서 사용할 수 있는 개별 알림 상태  <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |
 |**서비스 상태** RSS 피드  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[보고서](../../office-365-platform-service-description/reports.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
+|**[보고서](../../office-365-platform-service-description/reports.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |사서함 활성 및 비활성  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |신규 및 삭제된 사서함  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |신규 및 삭제된 그룹  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
@@ -231,19 +231,19 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |사용된 브라우저  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |사용된 운영 체제  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |Office 365 보고 웹 서비스를 사용하여 자신만의 보고서 만들기  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
-|**[서비스 업데이트](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
+|**[서비스 업데이트](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |모든 고객에게 제공되는 정규 업데이트  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |알림을 보낸 대상: 메시지 센터 작업이 다음과 같은 경우 필수  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |일부 서비스에 대한 Roadmap.office.com 업데이트  <br/> |<sup>10, 13</sup> <br/> |<sup>10, 13</sup> <br/> |<sup>10, 13</sup> <br/> |<sup>10, 13</sup> <br/> |
 |대상 지정 된 릴리스를 설정 하는 옵션  <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |
-|**[도움말 및 학습](../../office-365-platform-service-description/help-and-training.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
+|**[도움말 및 학습](../../office-365-platform-service-description/help-and-training.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |온라인 도움말  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |커뮤니티  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |기타 자가 진단 리소스  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |개인별 진도 교육  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[네트워킹](../../office-365-platform-service-description/networking.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
+|**[네트워킹](../../office-365-platform-service-description/networking.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |IPv4 및 IPv6 프로토콜  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**트러스트** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
+|**트러스트** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |**[개인 정보, 보안 및 투명성](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |고급 데이터 거버넌스  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예 <br/> |<sup>12</sup> <br/> |
 |Cloud App Security  <br/> |<sup>12, 15, 19</sup> <br/> |<sup>12, 15, 19</sup> <br/> |예<sup>15, 19</sup> <br/> |<sup>12, 15, 19</sup> <br/> |
@@ -264,7 +264,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |PCI DSS 레벨 1  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |PCI 적용 PAN 데이터  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |**[서비스 연속성](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[BlackBerry](../../office-365-platform-service-description/blackberry.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
+|**[BlackBerry](../../office-365-platform-service-description/blackberry.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |BIS(BlackBerry Internet Service) 사용  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |
 |**[파트너](../../office-365-platform-service-description/partners.md)** <br/> |||||
 |지정된 계획을 사용하는 고객에 대한 평가판 초대 및 구매 주문 만들기  <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |<sup>11</sup> <br/> |
@@ -272,16 +272,16 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**[서비스 수준 계약](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[제품 사용권](../../office-365-platform-service-description/product-use-rights.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
    
-> <sup>1</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 Office 365 정부 G1 또는 Office 365 정부 F1에 포함 되지 않은 Office 365 ProPlus에 대 한 구독이 필요 합니다. > 
+> <sup>1</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 Office 365 정부 G1 또는 Office 365 정부 F3에 포함 되지 않은 Office 365 ProPlus에 대 한 구독이 필요 합니다. > 
 <br/><sup>2</sup> 기존 bbcs 및 BIS 고객은 서비스를 계속 사용할 수 있습니다. 신규 고객은 수락되지 않습니다. 
 <br/><sup>3</sup> 디렉터리 동기화를 사용할 경우 계정을 삭제 하거나 암호를 변경 하려면 Office 365 포털이 아닌 Active directory를 사용 하거나 Windows PowerShell 용 Azure Active directory 모듈을 사용 해야 합니다. 
 <br/><sup>4</sup> 암호 동기화를 사용 하는 경우 사용자는 로컬 Active Directory에서 암호를 변경 해야 합니다. 
 <br/><sup>5</sup> 사용자에 대해 셀프 서비스 암호 관리 정책을 설정 하는 방법에 대 한 자세한 내용은 [Azure AD에서 암호 관리](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)를 참조 하십시오. 
 <br/><sup>6</sup> office 365의 이전 버전에서 업그레이드 한 경우를 제외 하 고는 office 365의 공개 웹 사이트가 하나만 있을 수 있습니다. 업그레이드하게 되면 두 개의 공개 웹 사이트를 사용할 수 있지만, 둘 중 하나만 사용자 지정 도메인 이름으로 호스트할 수 있습니다. 비즈니스를 위한 두 웹 사이트에 대 한 작업을 수행 하는 방법에 대 한 자세한 내용은 [2 Office 365 공용 웹 사이트](https://go.microsoft.com/fwlink/p/?LinkID=271589)에 대 한 작업을 참조 하세요. 다른 구독이 있는 경우 [Office 365의 파트너 웹 사이트 호스팅 및 공개 웹 사이트에 대 한](https://go.microsoft.com/fwlink/p/?LinkID=325009)자세한 내용은 공개 웹 사이트에 대해 자세히 알아보세요. 
 <br/><sup>7</sup> 용어 할인을 사용 하 여 구매한 좌석을 초기 종결 수수료에 따라 줄일 수 있습니다. 이러한 위약금이 월별 유료 구독에는 적용되지 않습니다. 
-<br/><sup>8</sup> 다음 계획에서는 Office 365 정부 센터, Office 365 정부 G3, Office 365 정부 F1의 라이선스 사용자 변경 365 내용을 지원 하지 않습니다. 
+<br/><sup>8</sup> 다음 계획에서는 Office 365 정부 센터, Office 365 정부 G3, Office 365 정부 F3의 라이선스 사용자 변경 365 내용을 지원 하지 않습니다. 
 <br/><sup>9</sup> GCC High에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다.
-<br/><sup>10</sup> Office 365 정부, G3 및 F1, 대상이 지정 된 릴리스와 office 365 비즈니스 로드맵에 적용 됩니다. 그러나 [규정 준수 요구 사항](https://www.microsoft.com/trust-center)으로 인해 특정 서비스 업데이트에 대 한 몇 가지 차이점이 나 지연이 있을 수 있습니다.
+<br/><sup>10</sup> Office 365 정부, G3 및 F3, 대상이 지정 된 릴리스 및 비즈니스에 대 한 Office 365의 로드맵을 적용 합니다. 그러나 [규정 준수 요구 사항](https://www.microsoft.com/trust-center)으로 인해 특정 서비스 업데이트에 대 한 몇 가지 차이점이 나 지연이 있을 수 있습니다.
 <br/><sup>11</sup> Office 365 정부 제품에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다. 
 <br/><sup>12</sup> 포함 되지 않지만 GCC에서 별도의 추가 기능으로 구입할 수 있습니다. 
 <br/><sup>13</sup> Office 365 정부 제품에는 지원 되지 않습니다. 
@@ -300,7 +300,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**기능** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
+|**기능** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |**Office 응용 프로그램** <br/> |||||
 |[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word)<sup>7</sup> <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
 |[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel)<sup>7</sup> <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
@@ -318,7 +318,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |[Windows Phone용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |예  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예  <br/> |
 |Office Mobile for Windows 10 tablets <br/> |예  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |예  <br/> |
 |IOS 및 Android 용 Outlook<sup>5, 4</sup>  <br/> |예 <br/> |예 <br/> |예 <br/> |예 <br/> |
-|**Enterprise 값** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F1** <br/> |
+|**Enterprise 값** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |PC 또는 Mac에서 사용자당 5건의 동시 설치 지원  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
 |사용자 계정 자동 구축  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |다국어 사용자 인터페이스  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
@@ -350,7 +350,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |버전 업그레이드  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Volume activation (KMS/MAK)  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
    
-> <sup>1</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 Office 365 정부 G1 또는 Office 365 정부 F1에 포함 되지 않은 Office 365 ProPlus에 대 한 구독이 필요 합니다. 
+> <sup>1</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 Office 365 정부 G1 또는 Office 365 정부 F3에 포함 되지 않은 Office 365 ProPlus에 대 한 구독이 필요 합니다. 
 <br/><sup>2</sup> WINDOWS SERVER AD RMS는 지원 되는 IRM 기능을 사용 하기 위해 별도로 구입 하 여 관리 해야 하는 온-프레미스 서버입니다. 
 <br/><sup>3</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise e 3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능과 같은 추가 기능을 비롯 한 전체 Skype 응용 프로그램이 포함 됩니다. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
 <br/><sup>4</sup> GCC High 또는 DoD 환경에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다.

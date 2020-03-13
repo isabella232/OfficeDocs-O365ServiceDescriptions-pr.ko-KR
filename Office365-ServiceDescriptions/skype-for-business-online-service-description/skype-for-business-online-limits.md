@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 비즈니스용 Skype Online의 제한은 다음 범주에 속합니다.
-ms.openlocfilehash: bbe968670e8fcaf442422c8f835363f7dc5f0c66
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 46ad0ef0095880ef91733e26b4666a6ba99940b3
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263282"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609959"
 ---
 # <a name="skype-for-business-online-limits"></a>비즈니스용 Skype Online 제한
 
@@ -47,7 +47,7 @@ ms.locfileid: "39263282"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
+|**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
 |파일 전송 제한  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |해당 사항 없음  <br/> |
 |대화 한도<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |대화 탭 열기 제한  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |해당 사항 없음  <br/> |
@@ -85,7 +85,7 @@ ms.locfileid: "39263282"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
+|**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
 |파일 업로드 제한  <br/> |500MB  <br/> |500MB  <br/> |500MB  <br/> |500MB  <br/> |500MB  <br/> |해당 없음  <br/> |
 |비즈니스용 Skype 모임의 참가자<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 사항 없음  <br/> |
 |비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 사항 없음  <br/> |

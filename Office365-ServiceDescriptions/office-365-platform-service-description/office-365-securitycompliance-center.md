@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 보안 &amp; 및 준수 센터는 조직에 대 한 office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: 7551f92f58387e988fcaa42d5b298254a064fb1a
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 00eb75df2e902131a2e5dd3c8d584d5f31db59db
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279811"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609949"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -28,14 +28,14 @@ ms.locfileid: "42279811"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 US 정부 G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 US Government G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 US 정부 F1** <br/> |
+|**기능** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 US 정부 G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 US 정부 G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> **Office 365 US 정부 F3** <br/> |
 |[보안 &amp; 및 준수 센터에 대 한 액세스](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |메일 필터링 및 맬웨어 방지와 같은 [위협 관리](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |피싱 캠페인<sup>6</sup> 용 위협 탐색기와 같은 [Advanced threat management](https://docs.microsoft.com/office365/securitycompliance/office-365-ti) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |[고객 Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |[모바일 장치 관리](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Exchange online, SharePoint online 및 비즈니스용 OneDrive 7, 9에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup></sup><br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|[Exchange online, SharePoint online 및 비즈니스용 OneDrive 7, 9에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup><br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |[Microsoft 팀 채팅 및 채널 메시지에 대 한 데이터 손실 방지](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/>|
 |[민감도 레이블](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | 아니요 <br/>| 아니요 <br/> | 아니요 <br/>| 있음 <br/>| 예 <br/>| 아니요 <br/> |
 |[정보 장벽](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/>|
@@ -77,7 +77,7 @@ ms.locfileid: "42279811"
 |피싱 캠페인에 대 한 위협 탐색기와 같은 [Advanced threat management](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|
 |[고객 Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[모바일 장치 관리](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[Exchange online, SharePoint online 및 비즈니스용 OneDrive 9에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup></sup> <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예 <sup>7<sup> <br/> |아니요 <br/> |예<sup>10</sup> <br/>|아니요  <br/> |있음  <br/> |
+|[Exchange online, SharePoint online 및 비즈니스용 OneDrive 9에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup> <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예 <sup>7<sup> <br/> |아니요 <br/> |예<sup>10</sup> <br/>|아니요  <br/> |있음  <br/> |
 |[Microsoft 팀 채팅 및 채널 메시지에 대 한 데이터 손실 방지](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[정보 장벽](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |[정보 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |예<sup>2</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |예  <br/> |예  <br/> |

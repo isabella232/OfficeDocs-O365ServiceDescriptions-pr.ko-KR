@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 사용할 수 있는 SharePoint 기능을 계획 합니다.
-ms.openlocfilehash: 422ab1aae6910233dd766695607e10621fb9a2bd
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 3d9bd3cba9cfecad648ab39aabcb243e04a6d3e2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172855"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609869"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 서비스 설명
 
@@ -43,7 +43,7 @@ US 정부 클라우드 고객을 위한 SharePoint 기능 차이에 대 한 자�
 
 Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 독립 실행형 계획 옵션 및 계획 간 이동 정보를 비롯하여 여러 계획에 대한 자세한 내용은 [Office 365 계획 옵션](../office-365-platform-service-description/office-365-plan-options.md)을 참조하십시오.
   
-SharePoint에 액세스 하려면 조직의 사용자에 게 SharePoint를 포함 하는 라이선스를 할당 해야 합니다. Firstline 계획은 독립 라인 구독으로 판매 되지 않으며, Firstline 구독의 일부로만 제공 됩니다. Firstline 작업자는 SharePoint 탐색 메뉴를 볼 수 없으므로 filine worker는 URL을 통해 직접 SharePoint 사이트로 이동 해야 합니다.
+SharePoint에 액세스 하려면 조직의 사용자에 게 SharePoint를 포함 하는 라이선스를 할당 해야 합니다. Firstline 계획은 독립 라인 구독으로 판매 되지 않으며, [firstline 구독의](https://www.microsoft.com/microsoft-365/business/office-365-f1)일부로만 제공 됩니다. 
   
 ## <a name="rights-of-guests"></a>게스트 권한
 
@@ -152,7 +152,7 @@ SharePoint는 Microsoft 365의 고급 보안 및 규정 준수 기능과 통합 
 다른 설명이 없는 한, SharePoint를 포함 하는 모든 요금제 및 모든 SharePoint 독립 실행형 계획에서 다음 기능을 사용할 수 있습니다.
 
 - [접근성](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
-- [Microsoft 팀을 사이트에 추가](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865)합니다. Office 365이 포함 된 구독이 필요 하며 사용자에 게 팀에 대 한 라이선스가 있어야 합니다.
+- [Microsoft 팀을 사이트에 추가](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865)합니다. Office 365가 포함된 구독이 필요하며 사용자에게 팀 라이선스가 있어야 합니다.
 - [대상 그룹 지정](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
 - [클래식 팀 사이트를 새 Office 365 그룹에 연결](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d)합니다. Office 365이 포함 된 구독이 필요 합니다.
 - [계획 만들기 (Planner 통합)](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb) Office 365이 포함 된 구독이 필요 하며, 사용자에 게 Planner 라이선스가 있어야 합니다.
@@ -163,7 +163,7 @@ SharePoint는 Microsoft 365의 고급 보안 및 규정 준수 기능과 통합 
 - [메가 메뉴](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
 - [Microsoft 양식 통합](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256) Office 365이 포함 된 구독이 필요 하며, 사용자에 게 양식을 사용할 수 있는 권한이 있어야 합니다.
 - [뉴스](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)
-- Office 데스크톱 앱 통합 Office 데스크톱 앱을 포함 하는 구독이 필요 합니다.
+- Office 데스크톱 앱 통합 Office 데스크톱 앱이 포함된 구독이 필요합니다.
 - 웹 통합을 위한 Office Office 365이 포함 된 구독이 필요 합니다.
 - [조직 자산 라이브러리](/sharepoint/organization-assets-library)
 - [조직 소식](/sharepoint/organization-news-site)
@@ -185,11 +185,11 @@ SharePoint는 Microsoft 365의 고급 보안 및 규정 준수 기능과 통합 
 - [팀 OneNote 전자 필기장](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
 - [테마 (모양 변경)](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)
 - [웹 파트](https://support.office.com/article/336e8e92-3e2d-4298-ae01-d404bbe751e0)
-- [Microsoft 팀에서 SharePoint 콘텐츠에 대 한 작업을 수행](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f)합니다. Office 365이 포함 된 구독이 필요 하며 사용자에 게 팀에 대 한 라이선스가 있어야 합니다.
+- [Microsoft 팀에서 SharePoint 콘텐츠에 대 한 작업을 수행](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f)합니다. Office 365가 포함된 구독이 필요하며 사용자에게 팀 라이선스가 있어야 합니다.
 
 Microsoft Power Apps 및 Power 자동화의 가용성에 대 한 자세한 내용은 [Power apps 및 Power 자동화 라이선스 faq](/power-platform/admin/powerapps-flow-licensing-faq)를 참조 하세요.
 
-공유와 관련 된 기능에 대 한 자세한 내용은 [OneDrive 서비스 설명을](/office365/servicedescriptions/onedrive-for-business-service-description)참조 하세요.
+공유와 관련 된 기능에 대 한 자세한 내용은 [OneDrive 서비스 설명을](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features)참조 하세요.
 
 ## <a name="search-features"></a>검색 기능
 

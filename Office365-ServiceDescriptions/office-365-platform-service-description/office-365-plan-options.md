@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
-ms.openlocfilehash: 15af043bbce11ba9c4672a6aad0cd524b9159091
-ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
+ms.openlocfilehash: 64c73c3f14e4afb57a459592eba18b2fd6a38870
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39810817"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42614519"
 ---
 # <a name="office-365-plan-options"></a>Office 365 계획 옵션
 
@@ -34,7 +34,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |**Office 365 서비스 제품군**|**계획**|
 |:-----|:-----|
 |**Business (최대 300 명의 사용자)** <br/> |[Office 365 Business Essentials](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 Business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Office 365 Business Premium](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
-|**Enterprise (사용자 수 제한 없음)** <br/> |[Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 Enterprise F1](https://products.office.com/business/office-365-f1) <br/> |
+|**Enterprise (사용자 수 제한 없음)** <br/> |[Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 Enterprise F3](https://products.office.com/business/office-365-f1) <br/> |
 |**교육 (사용자 수 제한 없음)** <br/> |[Office 365 Education](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Education E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**정부 (사용자 수 제한 없음)** <br/> |[모든 사용 가능한 비즈니스 계획을 참조하세요.](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**중국의 21Vianet에서 운영하는 Office 365** <br/> |[사용 가능한 모든 비즈니스 계획 참조](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
@@ -49,7 +49,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**서비스** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F1** <br/> |
+|**서비스** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F3** <br/> |
 |Office 365 플랫폼  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange Online  <br/> |예<sup>6</sup> <br/> |아니요  <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |예<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -64,7 +64,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |Microsoft Kaizala<sup>17</sup> <br/> |예 <br/> |아니요  <br/> |있음 <br/> |예 <br/> |예  <br/> |예  <br/> |예 <br/> |
    
 <sup>1</sup> Project Online은 포함되어 있지 않지만 별도의 추가 기능으로 구매하거나 Office 365 Education 계획에 무료로 추가할 수 있습니다.<br/>
-<sup>2</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용하려면 Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F1에 포함되어 있지 않은 Office365ProPlus를 구독해야 합니다.<br/>
+<sup>2</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 교육 또는 Office 365 Enterprise F3에 포함 되지 않은 Office 365 ProPlus에 대 한 구독이 필요 합니다.<br/>
 <sup>3</sup> Office 365 요금제에 포함된 Azure Information Protection 기능에 대해 자세히 알아보려면 [Azure Information Protection](https://azure.microsoft.com/services/information-protection/)을참 조하세요.<br/>
 <sup>4</sup> Office 365 Enterprise E5에는 전화 시스템, 오디오 회의 및 통화 요금제 기능이 포함 되어 있습니다. 통화 요금제를 구현하려면 추가 요금제(국내 또는 국제)를 구매해야 합니다.<br/>
 <sup>5</sup> 2GB 저장소가 포함됩니다. <br/>

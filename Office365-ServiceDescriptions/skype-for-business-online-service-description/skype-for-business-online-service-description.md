@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 특정 비즈니스용 Skype 기능을 구입하기 위해 어떤 라이선스가 필요한지 알고 싶나요? 비즈니스용 Skype 라이선스 개요를 참조 하세요.
-ms.openlocfilehash: 5563c2ef767f04340a643099a1aff8e387aa7523
-ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
+ms.openlocfilehash: f914d64ac380f4c4e5d4ba917a90de3b1d3c313b
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41711918"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609849"
 ---
 # <a name="skype-for-business-online-service-description"></a>비즈니스용 Skype Online 서비스 설명
 
@@ -54,7 +54,7 @@ ms.locfileid: "41711918"
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |**[비즈니스용 Skype Online 클라이언트](skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||||||
 |비즈니스용 Skype 전체  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |비즈니스용 Skype 기본  <br/> |아니요  <br/> |예<sup>1</sup> <br/> |예<sup>1</sup> <br/> |예<sup>1</sup> <br/> |아니요  <br/> |아니요  <br/> |예<sup>1</sup> <br/> |
@@ -63,7 +63,7 @@ ms.locfileid: "41711918"
 |Mac 2011용 Lync  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 Skype 모바일 클라이언트  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 Skype 웹 앱  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[인스턴트 메시징, 현재 상태 및 연락처](skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**[인스턴트 메시징, 현재 상태 및 연락처](skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |PC 간 IM 및 현재 상태  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |단체 IM 및 현재 상태  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |대화 상대 카드 구성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -75,18 +75,18 @@ ms.locfileid: "41711918"
 |메일 그룹 확장  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |영구 채팅  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |보낸 사람/받는 사람의 사진  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**[Skype-Skype 오디오, 비디오 및 미디어](skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**[Skype-Skype 오디오, 비디오 및 미디어](skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |VbSS(비디오 기반 화면 공유)를 통한 데스크톱 공유  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |<sup>4</sup> 없음 <br/> |
 |RDP(원격 데스크톱 프로토콜)를 통한 데스크톱 및 응용 프로그램 공유  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |<sup>4</sup> 없음 <br/> |
 |파일 전송  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비디오  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |네트워크 QoS(서비스 품질) - DSCP(Differentiated Services Code Point)  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|**[페더레이션 및 공용 IM 연결](skype-for-business-online-features.md#federation-and-public-im-connectivity)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**[페더레이션 및 공용 IM 연결](skype-for-business-online-features.md#federation-and-public-im-connectivity)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Office Communications Server 2007 R2 및 Lync Server 2010 (IM, 현재 상태, 오디오, 비디오, 회의)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |XMPP(Google Talk 등에서 사용됨) 및 Sametime 페더레이션  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 | Skype 페더레이션  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |AOL 및 Yahoo! 페더레이션  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|**[비즈니스 온라인 모임에 대 한 Skype](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**[비즈니스 온라인 모임에 대 한 Skype](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |애드혹 및 오디오 회의 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |애드혹 및 비디오 회의 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |활성 발표자 비디오  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
@@ -115,7 +115,7 @@ ms.locfileid: "41711918"
 |웹용 Outlook에서 온라인 모임 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |모임을 예약 하기 위한 Outlook 위임  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Outlook에서 정적 모임 ID로 공개 모임 만들기  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|**음성 통화** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**음성 통화** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |자동 전화 교환  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |다른 용무 중 옵션  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |지점 존속성  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
@@ -155,7 +155,7 @@ ms.locfileid: "41711918"
 |[계획을 호출합니다.](skype-for-business-online-features.md#calling-plans-in-office-365) (국제 통화 계획, 추가 기능을 구매해야 함)      <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예  <br/> |아니요  <br/> |
 |[통신 크레딧](https://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |아니요  <br/> |아니요  <br/> |<sup>6</sup> 없음 <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |비즈니스용 Skype 음성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|**[보안 및 보관](skype-for-business-online-features.md#security-and-archiving)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**[보안 및 보관](skype-for-business-online-features.md#security-and-archiving)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |IM 및 미디어 암호화  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |IM 및 파일 필터링  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |클라이언트 버전 제어  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -165,7 +165,7 @@ ms.locfileid: "41711918"
 |사용자 수준 보관 구성  <br/> |예  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |
 |로그인 추적 파일  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365에 대한 고객 키<sup>8</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|**[Exchange 및 SharePoint 상호 운용성](skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**[Exchange 및 SharePoint 상호 운용성](skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Exchange Server와의 현재 상태 상호 운용성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange Online과의 현재 상태 상호 운용성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Exchange Server와의 통합 메시징 상호 운용성  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
@@ -175,7 +175,7 @@ ms.locfileid: "41711918"
 |Exchange Online과의 보관 상호 운용성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |SharePoint Server를 사용한 기술 검색  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |SharePoint Online을 사용한 기술 검색  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|**[비즈니스 온라인 관리 및 관리에 대 한 Skype](skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**[비즈니스 온라인 관리 및 관리에 대 한 Skype](skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Microsoft Office 365 포털  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft 365 관리 센터  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 Skype 관리 센터  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -185,7 +185,7 @@ ms.locfileid: "41711918"
 > <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic은 모든 고객이 사용할 수 있습니다. Lync Basic 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 비즈니스용 Skype(Lync) 응용 프로그램이 포함됩니다. 비즈니스용 Skype 온라인 라이선스가 각 사용자에게 할당되어 있어야 합니다. Lync 기본 기능에 대 한 자세한 내용은 [데스크톱 클라이언트 비교 표](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)를 참조 하십시오. 
 <br/> <sup>2</sup>비즈니스용 Skype 온라인에 대한 보관은 이 계획에 포함되지 않은 Exchange 원본 위치 유지 기능에 따라 다릅니다. 
 <br/><sup>3</sup> 음성 메일을 받으려는 사용자에 게 Exchange Online (요금제 2) 계획을 할당 해야 합니다. Exchange Online(계획 1) 계획은 음성 메일에 사용할 수 없습니다. 
-<br/><sup>4</sup> Office 365 enterprise F1 사용자는 비즈니스용 Skype Online 계획 2 또는 Enterprise 요금제 사용자가 초대 하는 경우 공유 세션에 참가할 수 있습니다. 
+<br/><sup>4</sup> a Office 365 enterprise F3 사용자는 비즈니스용 Skype Online 계획 2 또는 Enterprise 요금제 사용자가 초대 하는 경우 공유 세션에 참가할 수 있습니다. 
 <br/> <sup>5</sup> 오디오 회의는 Office 365 Business Premium, Office 365 Enterprise E1 및 Office 365 enterprise E3 구독 계획에 추가 기능으로 추가할 수 있습니다. 
 <br/> <sup>6</sup> 통신 제작진은 오디오 회의만 지 원하는 추가 기능으로 Office 365 Business Premium 구독 계획에 추가할 수 있습니다. 
 <br/><sup>7</sup> Mac 및 모바일 클라이언트에서는 응급 통화를 사용할 수 없습니다. 
