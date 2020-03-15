@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 어떤 계획에서 어떤 OneDrive 기능을 사용할 수 있는지 확인합니다.
-ms.openlocfilehash: 78780b53d1d5901405ecf98839c2b1a2df851f1a
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 2919d32b3478e5cc5bb2207c300f6a0608f0dadd
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374175"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609879"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 서비스 설명
 
@@ -40,7 +40,7 @@ OneDrive 동기화 앱 및 모바일 앱에 대한 요구 사항을 검토하려
 
 **2GB**
 
-- Office 365 Enterprise F1
+- Office 365 Enterprise F3
 
 **1TB**
 
@@ -88,7 +88,7 @@ OneDrive 동기화 앱 및 모바일 앱에 대한 요구 사항을 검토하려
   
 - 사용자가 5TB의 OneDrive 저장소 용량을 90% 이상 채운 경우 Microsoft에서 OneDrive의 기본 저장소 공간을 사용자당 최대 25TB로 늘립니다(관리자는 원할 경우 사용자당 제한을 더 낮게 설정할 수 있음). 
     
-- 25TB OneDrive 저장소 용량의 90% 이상에 도달한 사용자에게는 25TB SharePoint 팀 사이트로 개별 사용자에게 추가 클라우드 저장소가 제공됩니다.
+- 25TB OneDrive 저장소 용량의 90% 이상에 도달한 사용자에게는 25TB SharePoint 팀 사이트로 개별 사용자에게 추가 클라우드 저장소가 제공됩니다. 정보나 지원이 필요한 경우에는 Microsoft 기술 지원팀에 문의하세요.
     
 개별 사용자의 저장소 공간 및 사용 현황을 보려면 OneDrive 동기화 앱에서 [저장소 관리](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68)로 이동합니다. 조직의 사용자가 사용하는 저장소 용량을 보려면 Microsoft 365 관리 센터에서 [OneDrive 사용 현황 보고서](/office365/admin/activity-reports/onedrive-for-business-usage)로 이동합니다. 
    
@@ -132,7 +132,7 @@ IT 부서에서 분명하게 사용하지 않도록 설정한 경우가 아니�
 달리 명시하지 않는 한 OneDrive 및 모든 OneDrive 독립 실행형 계획을 포함하는 모든 계획에서 다음 기능을 사용할 수 있습니다.
 
 - [액세스 요청](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
-- ["모든 사용자" 링크](/Office365/Enterprise/best-practices-anonymous-sharing) (만료 필요로 설정할 수 있음) 
+- ["모든 사용자" 링크](/Office365/Enterprise/best-practices-anonymous-sharing) (만료를 요구하도록 설정할 수 있음) 
 - [댓글의 @멘션](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows). 웹용 Office 365 또는 Office 365 데스크톱 앱을 포함하는 계획이 필요합니다.
 - [파일 요청](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - 기본 공유 링크 관리([ 조직 수준에서](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) 및 [사이트당](/sharepoint/change-default-sharing-link))
@@ -184,5 +184,5 @@ IT 부서에서 분명하게 사용하지 않도록 설정한 경우가 아니�
 
 ## <a name="it-admin-security-and-compliance-features"></a>IT 관리자, 보안 및 규정 준수 기능
 
-이러한 기능에 대한 자세한 내용은 [SharePoint 서비스 설명](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-descriptions#security-and-compliance-features)을 참조하십시오.
-  
+이러한 기능에 대한 자세한 내용은 [SharePoint 서비스 설명](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description#security-and-compliance-features)을 참조하십시오.
+
