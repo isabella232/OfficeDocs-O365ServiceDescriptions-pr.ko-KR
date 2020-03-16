@@ -65,6 +65,7 @@
 ### [클라이언트 기능](exchange-online-archiving-service-description/client-features.md)
 ### [규정 준수 및 보안 기능](exchange-online-archiving-service-description/compliance-and-security-features.md)
 ## [Office 365 Advanced Threat Protection 서비스 설명](office-365-advanced-threat-protection-service-description.md)
+## [Microsoft Teams 서비스 설명](teams-service-description.md)
 ## [OneDrive 서비스 설명](onedrive-for-business-service-description.md)
 ## [SharePoint 서비스 설명](sharepoint-online-service-description/sharepoint-online-service-description.md)
 ### [SharePoint 제한](sharepoint-online-service-description/sharepoint-online-limits.md)
