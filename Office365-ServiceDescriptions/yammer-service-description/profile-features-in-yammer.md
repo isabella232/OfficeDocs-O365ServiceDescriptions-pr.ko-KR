@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Yammer에서는 다음과 같은 프로필 기능을 사용할 수 있습니다.
 ms.openlocfilehash: 0f85007ec52bee13557f831c9f72029cc7fe93f5
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263159"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688260"
 ---
 # <a name="profile-features-in-yammer"></a>Yammer의 프로필 기능
 

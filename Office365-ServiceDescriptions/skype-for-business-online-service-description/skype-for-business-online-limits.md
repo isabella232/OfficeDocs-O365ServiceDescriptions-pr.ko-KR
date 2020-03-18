@@ -18,8 +18,8 @@ ms.openlocfilehash: 46ad0ef0095880ef91733e26b4666a6ba99940b3
 ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609959"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688441"
 ---
 # <a name="skype-for-business-online-limits"></a>비즈니스용 Skype Online 제한
 
@@ -48,9 +48,9 @@ ms.locfileid: "42609959"
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
-|파일 전송 제한  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |해당 사항 없음  <br/> |
+|파일 전송 제한  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |해당 없음  <br/> |
 |대화 한도<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
-|대화 탭 열기 제한  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |해당 사항 없음  <br/> |
+|대화 탭 열기 제한  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |해당 없음  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> 클라이언트가 최대 99 명의 사용자와 대화를 직접 추가 하거나 그룹이 나 메일 그룹의 상황에 맞는 메뉴에서 인스턴트 메시지를 보내 채팅을 시작할 수 있습니다. 비즈니스용 Skype Online의 인스턴트 메시징에 대 한 자세한 내용은 [비즈니스용 skype에서 메신저 대화](https://go.microsoft.com/fwlink/?linkid=533412)를 참조 하세요. 
@@ -87,11 +87,11 @@ ms.locfileid: "42609959"
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
 |파일 업로드 제한  <br/> |500MB  <br/> |500MB  <br/> |500MB  <br/> |500MB  <br/> |500MB  <br/> |해당 없음  <br/> |
-|비즈니스용 Skype 모임의 참가자<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 사항 없음  <br/> |
-|비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 사항 없음  <br/> |
+|비즈니스용 Skype 모임의 참가자<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
+|비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
 |비즈니스용 Skype 웹 앱 모임 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
-|비즈니스용 Skype 웹 앱 익명 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 사항 없음  <br/> |
-|전화로 참가하는 게스트  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 사항 없음  <br/> |
+|비즈니스용 Skype 웹 앱 익명 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
+|전화로 참가하는 게스트  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
 |팀 호출 그룹의 개인  <br/> |25@@  <br/> |25@@  <br/> |25@@  <br/> |25@@  <br/> |25@@  <br/> |해당 없음  <br/> |
    
 > [!NOTE]
@@ -103,12 +103,12 @@ ms.locfileid: "42609959"
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 1** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 2** <br/> |
 |파일 업로드 제한  <br/> |500MB  <br/> |해당 없음  <br/> |500MB  <br/> |
-|비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |해당 사항 없음  <br/> |250  <br/> |
-|비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |해당 사항 없음  <br/> |250  <br/> |
-|비즈니스용 Skype 웹 앱 모임 참가자  <br/> |250  <br/> |해당 사항 없음  <br/> |250  <br/> |
-|비즈니스용 Skype 웹 앱 익명 참가자  <br/> |250  <br/> |해당 사항 없음  <br/> |250  <br/> |
-|전화로 참가하는 게스트  <br/> |250  <br/> |해당 사항 없음  <br/> |250  <br/> |
-|팀 호출 그룹의 개인  <br/> |25@@  <br/> |해당 사항 없음  <br/> |25@@  <br/> |
+|비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
+|비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
+|비즈니스용 Skype 웹 앱 모임 참가자  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
+|비즈니스용 Skype 웹 앱 익명 참가자  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
+|전화로 참가하는 게스트  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
+|팀 호출 그룹의 개인  <br/> |25@@  <br/> |해당 없음  <br/> |25@@  <br/> |
    
 ## <a name="meeting-retention-limits"></a>모임 보존 제한
 

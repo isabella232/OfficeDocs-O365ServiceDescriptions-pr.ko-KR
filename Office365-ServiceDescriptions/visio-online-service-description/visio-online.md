@@ -14,11 +14,11 @@ ms.custom:
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Web for visio는 Microsoft Visio 환경을 브라우저로 확장 하 여 클라우드에 저장 된 다이어그램을 만들고 편집할 수 있습니다. Microsoft Office 365 고객은 다이어그램을 보고 인쇄 하 고 공유 하며 이동 중에 의견을 삽입할 수 있습니다.
 ms.openlocfilehash: de28a68fcd3b81656e86316d345e7e4fa6bd4d20
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700220"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688279"
 ---
 # <a name="visio-for-the-web"></a>웹용 Visio
 
@@ -64,7 +64,7 @@ Visio에서 웹에 대해 글꼴, 글꼴 크기 및 기타 글꼴 모양 특성 
 
 웹의 Visio에서는 셰이프를 선택 하 여 하이퍼링크에 직접 액세스할 수 있습니다.
   
-## <a name="navigation"></a>탐색
+## <a name="navigation"></a>Navigation
 
 웹의 Visio에서는 왼쪽 아래에 있는 탭을 선택 하 여 다른 페이지로 이동할 수 있습니다.
   

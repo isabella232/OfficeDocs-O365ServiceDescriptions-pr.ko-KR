@@ -11,11 +11,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
 description: Project Online에서는 다음과 같은 보고 및 비즈니스 인텔리전스 기능을 사용할 수 있습니다.
 ms.openlocfilehash: dc3c5939bbdfc08cafc6bf6b7d4bb65d90e675c7
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546081"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688320"
 ---
 # <a name="reporting-and-business-intelligence"></a>보고 및 비즈니스 인텔리전스
 
