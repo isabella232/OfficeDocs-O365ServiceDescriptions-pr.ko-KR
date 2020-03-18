@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: 243e43803c7b9932491da75e64173433fb831309
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 31042c0cb80a844502ab77208c9684f47835f4cf
+ms.sourcegitcommit: 346e5482d49a354a48fc69c57b55d21a31a70f51
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609929"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707069"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -479,7 +479,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**기능**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
-|최대 저널 규칙 수|50 규칙|50 규칙|50 규칙|50 규칙|50 규칙|50 규칙|
+|최대 저널 규칙 수|300개 규칙|300개 규칙|300개 규칙|300개 규칙|300개 규칙|300개 규칙|
 |최대 전송 규칙 수|300개 규칙|300개 규칙|300개 규칙|300개 규칙|300개 규칙|300개 규칙|
 |개별 전송 규칙의 최대 크기|8 KB|8KB|8KB|8KB|8KB|8KB|
 |모든 전송 규칙에서 사용되는 모든 정규식의 문자 제한|20 KB|20KB|20KB|20KB|20KB|20KB|
