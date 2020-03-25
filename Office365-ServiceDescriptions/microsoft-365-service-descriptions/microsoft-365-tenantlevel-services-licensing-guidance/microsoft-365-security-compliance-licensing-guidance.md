@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 보안 & 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: 097ad158d7688050f8fe30fc06d8f35fd2125caf
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: da063525aaf7116aed5d85424b3249d2fb82cf15
+ms.sourcegitcommit: a3c2099eb691866f9e48d25f3f9009df3ef8ecd3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609919"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42926341"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -168,6 +168,29 @@ MCAS는 섀도 IT를 감지 및 평가 하 고, 첫 번째 및 타사 클라우�
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
 관리자는 서비스에서 사용할 수 있는 범위가 지정 된 배포 기능을 사용 하 여 라이선스 사용자에 게 MCAS 배포의 범위를 지정할 수 있습니다. 자세한 내용은 범위가 지정 된 [배포](https://docs.microsoft.com/cloud-app-security/scoped-deployment)를 참조 하세요.
+
+
+## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
+Microsoft Defender ATP는 위험 기반 취약성 관리 및 평가를 포함 하는 끝점 보안 솔루션입니다. 공격 표면 축소 기능 동작 기반 차세대 차세대 보호 기능 EDR (끝점 검색 및 응답); 자동 조사 및 수정 및 관리 되는 구하기 서비스 자세한 내용은 [Microsoft DEFENDER ATP](https://www.microsoft.com/en-us/microsoft-365/windows/microsoft-defender-atp?rtc=1) 페이지를 참조 하세요. 
+
+
+### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
+
+Windows 10 Enterprise E5, Windows 10 교육 A5, microsoft 365 E5 (M365 E5), windows 10 Enterprise E5, Microsoft 365 E5 Security, microsoft 365 A5 (M365 A5)를 포함 하 여 microsoft Defender ATP가 혜택을 받을 수 있습니다.
+
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+
+SecOps 분석가 및 보안 전문가는 Microsoft Defender ATP의 끝점 보안 기능을 통해 예방 기능 보호, 위반 감지, 자동 조사 및 고급 위협에 대 한 응답을 수행 합니다. 최종 사용자는 Microsoft Defender ATP에 의해 모니터링 되는 악성 이벤트를 통해 혜택을 얻을 수 있습니다.
+
+
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+
+기본적으로 Microsoft Defender ATP 기능은 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다. 배포에 대 한 자세한 내용은 [배포 가이드](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases)를 참조 하세요.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+
+Microsoft Defender ATP 관리자는 [RBAC (역할 기반 액세스 제어)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) 를 사용 하 여 보안 운영 팀 내의 역할 및 그룹을 만들어 Microsoft Defender 보안 센터에 적절 한 액세스 권한을 부여할 수 있습니다.
+
 
 ## <a name="office-365-advanced-data-governance"></a>Office 365 고급 데이터 거버넌스
 
@@ -323,7 +346,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예:
+사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예시:
 
 | 시나리오                                                                                                                                                                                                              | 라이선스가 필요한 사용자 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
