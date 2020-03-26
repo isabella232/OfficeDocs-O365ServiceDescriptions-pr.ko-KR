@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Microsoft 365 및 Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다.
-ms.openlocfilehash: 8cae1e6407ff99472d039872b82c220a338c03b4
-ms.sourcegitcommit: c7388a31056b4053ff094ff0e96f6ae891e069d7
+ms.openlocfilehash: fa3bf6e0795913861b3c4a4bc7a0a021c8ca05a1
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41839771"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959316"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -37,7 +37,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Teams  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 Skype 온라인  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Project Online  <br/> |<sup>5</sup> 없음 <br/> |<sup>5</sup> 없음 <br/> |<sup>5</sup> 없음 <br/> |<sup>5</sup> 없음 <br/> |<sup>5</sup> 없음 <br/> |
+|Project  <br/> |<sup>5</sup> 없음 <br/> |<sup>5</sup> 없음 <br/> |<sup>5</sup> 없음 <br/> |<sup>5</sup> 없음 <br/> |<sup>5</sup> 없음 <br/> |
 |Yammer 교육  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**교실 도구** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Microsoft 팀의 강의실 경험  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -100,7 +100,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 > <sup>2</sup> Exchange Online 계획 2가 포함 됩니다. <br/>
 > <sup>3</sup> SharePoint Online 계획 1과 보조 기능을 포함 합니다. <br/>
 > <sup>4</sup> SharePoint Online 계획 2가 포함 됩니다. <br/>
-> <sup>5</sup> Project Online Essentials는 포함 되어 있지 않지만 Office 365 교육 계획에 무료로 추가할 수 있습니다. <br/>
+> <sup>5</sup> Microsoft Project는 Office 365에 포함 되어 있지 않지만 별도로 가져올 수 있습니다. Project Online Essentials를 사용할 수 없습니다. 학생 또는 교육 기관 인 경우 프로젝트 계획 3을 구매 하 고 교육용 가격에 계획 5를 구매할 수 있습니다.   <br/>
 > <sup>6</sup> Microsoft 365 교육 A5에는 전화 시스템, 오디오 회의 및 통화 요금제 기능이 포함 되어 있습니다. 통화 요금제를 구현 하려면 추가 요금제 (국내 통화 요금제 또는 국제 통화 요금제)가 필요 합니다. <br/>
 > <sup>7</sup> Office 365 계획에 포함 된 Azure information protection 기능에 대해 자세히 알아보려면 [azure information protection](https://go.microsoft.com/fwlink/?linkid=838357)을 참조 하세요. <br/>
 > <sup>8</sup> Intune이 포함 됩니다. <br/>

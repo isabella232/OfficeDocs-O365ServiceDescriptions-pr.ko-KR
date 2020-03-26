@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군과 Microsoft Exchange Online, microsoft SharePoint Online, 웹을 위한 microsoft 비즈니스용 Skype 및&mdash;공동 작업 서비스를 포함 하 여, 사용자가 인터넷에서 거의 모든 위치에서 생산성을 유지&mdash;하는 데 도움을 주는 microsoft의 차세대 통신 및 협업 서비스가 제공 됩니다.
-ms.openlocfilehash: 7f2c794c60e0c2b9ce677291c134aa5aa3be4dc4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 949fe15b1bb6f0d8823aeb2156975636149e2b4e
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609969"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959296"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -39,13 +39,13 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |비즈니스용 Skype Online  <br/> |예<sup>7</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |
 |웹에 대 한 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 응용 프로그램  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|Project Online  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |
+|Project  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |
 |Power BI  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |Yammer 교육  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Azure Information Protection<sup>2</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Project Online은 포함 되어 있지 않지만 Office 365 교육 계획에 무료로 추가할 수 있습니다. <br/> 
+> <sup>1</sup> Microsoft Project는 Office 365에 포함 되어 있지 않지만 별도로 가져올 수 있습니다. Project Online Essentials를 사용할 수 없습니다. 학생 또는 교육 기관 인 경우 프로젝트 계획 3을 구매 하 고 교육용 가격에 계획 5를 구매할 수 있습니다.   <br/> 
 <sup>2</sup> Office 365 계획에 포함 된 Azure information protection 기능에 대해 자세히 알아보려면 [azure information protection](https://azure.microsoft.com/services/information-protection/)을 참조 하세요.<br/> 
 <sup>3</sup> Office 365 A5에는 전화 시스템, 오디오 회의 및 통화 요금제 기능이 포함 되어 있습니다. 통화 요금제를 구현 하려면 추가 요금제 (국내 통화 요금제 또는 국제 통화 요금제)가 필요 합니다. <br/> <sup>4</sup> Exchange Online 계획 2가 포함 됩니다. <br/> 
 <sup>5</sup> Exchange Online 계획 1과 추가 기능이 포함 됩니다. <br/> 
@@ -616,9 +616,9 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |암호화된 메시지의 크기 제한(Office 365 메시지 암호화 레거시 버전을 사용하는 구독자)  <br/> |250mb<sup>5</sup> <br/> |250mb<sup>5</sup> <br/> |250mb<sup>5</sup> <br/> |
 |제목 길이 제한  <br/> |255자  <br/> |255자  <br/> |255자  <br/> |
 |파일 첨부 제한  <br/> |250개 첨부 파일  <br/> |250개 첨부 파일  <br/> |250개 첨부 파일  <br/> |
-|첨부 파일 크기 제한 - Outlook  <br/> |150MB  <br/> |150MB   <br/> |150MB  <br/> |
+|첨부 파일 크기 제한 - Outlook  <br/> |150MB  <br/> |150MB  <br/> |150MB  <br/> |
 |첨부 파일 크기 제한 - OWA  <br/> |35MB  <br/> |35MB  <br/> |35MB  <br/> |
-|첨부 파일 크기 제한 - Outlook for Mac  <br/> |150MB  <br/> |150MB   <br/> |150MB  <br/> |
+|첨부 파일 크기 제한 - Outlook for Mac  <br/> |150MB  <br/> |150MB  <br/> |150MB  <br/> |
 |여러 부분으로 구성된 메시지 제한  <br/> |250개 부분  <br/> |250개 부분  <br/> |250개 부분  <br/> |
 |포함 메시지 수준 제한  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |
    

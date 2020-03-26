@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: Web for PowerPoint (이전의 PowerPoint Web App)에서는 프레젠테이션이 저장 된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있는 Microsoft PowerPoint 환경을 웹 브라우저로 확장 합니다. Microsoft Office 365 customers for web Office는 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: 28c272d420225cfb49ada0e9d130c8c374f0f9ef
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 211a028951ee86e8c7e79f36361a4249bbbdb838
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688338"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959326"
 ---
 # <a name="powerpoint-for-the-web"></a>웹용 PowerPoint
 
@@ -117,7 +117,7 @@ PowerPoint에서 웹을 위한 잉크를 삽입할 수는 없지만, 웹의 Powe
   
 ## <a name="navigation---slide-sorter"></a>탐색-슬라이드 보기
 
-이 웹의 PowerPoint에서는 사용할 수 없습니다. 슬라이드 정렬 보기를 사용 하 여 슬라이드를 축소판 그림 형태로 볼 수 있으며,이를 통해 슬라이드를 쉽게 정렬할 수 있으며, PowerPoint에서 웹을 사용 하는 것이 가능 합니다. PowerPoint 데스크톱 앱을 사용 하 여 슬라이드 정렬 보기를 사용 하 여 슬라이드를 구성 하 고 섹션을 추가 하 고 슬라이드를 다른 범주로 정렬할 수 있습니다.
+슬라이드 정렬 보기를 사용 하 여 슬라이드를 축소판 그림 형태로 볼 수 있으며, 슬라이드를 쉽게 정렬할 수 있습니다. 여러 슬라이드 보기를 사용 하 여 슬라이드를 구성 하 고, 구역을 추가 하 고, 슬라이드를 다른 범주로 정렬할 수 있습니다.
   
 ## <a name="offline-viewing-and-authoring"></a>오프라인으로 보기 및 작성
 

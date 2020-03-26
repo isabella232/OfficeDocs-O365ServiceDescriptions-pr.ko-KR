@@ -10,14 +10,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 문서에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다.
-ms.openlocfilehash: 79c803fd407b96d3b5e12589ccb9bec1a34ad097
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: dfb71c726e8993d333132d259828873d073f1d61
+ms.sourcegitcommit: bc0094d0f6bce70728fe740a9b1f8e60174f5617
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609899"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42954815"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
+
+> [!IMPORTANT]
+> Microsoft 팀은 coronavirus (COVID-19) pandemic 인해 온라인 통화 및 오디오/비디오 회의에 큰 스파이크를 발생 하 고 있습니다.<br/>
+> 
+>Microsoft는 통화의 전례 증가 및 연속성 및 가용성을 보장 하기 위해 microsoft 팀의 GCC 오디오/비디오 서버가 상업적 데이터 센터의 처리 용량을 활용할 수 있도록 하며, 해당 정부 데이터 센터 에서도 지원 합니다.<br/>
+> 
+>이러한 오디오/비디오 서버는 미국에 있는 Microsoft Azure FedRAMP High 인정 경계 서버 내에 있으며 고객 콘텐츠를 저장 하지 않습니다. 그러나 이러한 서버는 통화 및 전화 회의에 대 한 오디오 및 비디오를 처리 하며,이 중간 기간 동안 상업 담당자에 게 서 운영 됩니다.<br/>
+> 
+>자격이 있는 선별 된 직원은 이러한 서버에 대 한 대화형 로그인을 검토 하 여 이러한 서버에서 고객 데이터에 액세스할 수 있는지 모니터링 하 고 있습니다. 자격이 있는 직원은 고객 콘텐츠에 대 한 액세스를 위한 GCC 요구 사항을 충족 합니다. 차단 요구 사항에 대 한 자세한 내용은 [GCC service description](gcc.md)을 참조 하십시오.<br/>
+> 
+>이러한 특별 한 시간에 서비스가 사용 가능 하 고 안정적으로 유지 되도록 하기 위해 단계를 수행할 때 고객의 지원을 주셔서 감사 합니다.<br/> 
 
 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 섹션에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다. [Office 365 서비스 설명과 ](../../office-365-service-descriptions-technet-library.md)함께이 보조 섹션을 읽는 것이 좋습니다.
   
@@ -134,7 +145,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**Office 365 서비스** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |웹에 대 한 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365 ProPlus  <br/> |아니요 <br/> |지원 <br/> |예 <br/> |아니요  <br/> |
-|Exchange Online  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Exchange Online  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange Online Protection  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |SharePoint Online  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -182,7 +193,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**[사용자 계정 관리](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |클라우드 ID  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |페더레이션 ID(Single Sign-On)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Multi-Factor Authentication  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|다단계 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |전화 요인 인증  <br/> |예<sup>9</sup> <br/> |예<sup>9</sup> <br/> |예  <br/> |예<sup>9</sup> <br/> |
 |Office 365 데스크톱 설정  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365로 사용자 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -248,7 +259,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |고급 데이터 거버넌스  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예 <br/> |<sup>12</sup> <br/> |
 |Cloud App Security  <br/> |<sup>12, 15, 19</sup> <br/> |<sup>12, 15, 19</sup> <br/> |예<sup>15, 19</sup> <br/> |<sup>12, 15, 19</sup> <br/> |
 |Advanced Threat Protection  <br/> |<sup>12, 18</sup> <br/> |<sup>12, 18</sup> <br/> |예<sup>18</sup>  <br/> |<sup>12, 18</sup> <br/> |
-|Customer Lockbox  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예 <br/> |<sup>12</sup> <br/> |
+|고객 Lockbox  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예 <br/> |<sup>12</sup> <br/> |
 |Office 365 고급 eDiscovery  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예  <br/> |<sup>12</sup> <br/> |
 |보안 점수<sup>14</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |
 |Office 메시지 암호화  <br/> |아니요  <br/> |있음 <br/> |예 <br/> |아니요  <br/> |
@@ -319,7 +330,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |Office Mobile for Windows 10 tablets <br/> |예  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |예  <br/> |
 |IOS 및 Android 용 Outlook<sup>5, 4</sup>  <br/> |예 <br/> |예 <br/> |예 <br/> |예 <br/> |
 |**Enterprise 값** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
-|PC 또는 Mac에서 사용자당 5건의 동시 설치 지원  <br/> |아니요  <br/> |지원  <br/> |예  <br/> |아니요  <br/> |
+|PC 또는 Mac에서 사용자당 5건의 동시 설치 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |사용자 계정 자동 구축  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |다국어 사용자 인터페이스  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |클라이언트 푸시 배포  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
