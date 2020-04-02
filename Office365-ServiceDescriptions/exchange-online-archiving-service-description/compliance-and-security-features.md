@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 783cf73931bbb09e0b6ddc198dc4fce83ae53d87
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 3d740495a70834cd8f5e8eaeddc04774c2e38664
+ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260733"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43093565"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online 보관의 규정 준수 및 보안 기능
 
@@ -37,9 +37,6 @@ Exchange Online Archiving에서 제공하는 보존 정책 기능은 Exchange Se
 ### <a name="in-place-hold-and-litigation-hold"></a>원본 위치 유지 및 소송 보존
 
 소송 가능성이 존재하는 경우 조직은 해당 사례와 관련된 전자 메일을 비롯한 ESI(전자적으로 저장된 정보)를 보존해야 합니다. 이러한 가능성은 사례의 세부 사항이 알려지기 전에 발생할 수 있으며 많은 경우 보존 범위가 넓습니다. 조직에서는 특정 항목과 관련된 모든 전자 메일 또는 특정 개인의 모든 전자 메일을 보존할 수 있습니다.
-  
-> [!NOTE]
-> 원본 위치 유지 및 소송 보존은 현재 POP 또는 IMAP 클라이언트를 사용하여 보냈거나 SMTP 프로토콜을 사용하는 사용자 지정 응용 프로그램에서 보낸 전자 메일에는 적용되지 않습니다. 
   
 Exchange Online에서는 원본 위치 유지 또는 소송 보존 기능을 사용하여 다음과 같은 목표를 달성할 수 있습니다.
   
