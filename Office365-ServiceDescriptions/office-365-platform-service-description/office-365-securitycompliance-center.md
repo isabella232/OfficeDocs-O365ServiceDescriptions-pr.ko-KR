@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 보안 &amp; 및 준수 센터는 조직에 대 한 office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: b6bfd9a9cfe54d364059629cd9a133446672f4d8
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: 672063dcd87446eb552f635654c7ca0f48b60168
+ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101127"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43109438"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -75,11 +75,11 @@ ms.locfileid: "43101127"
 
 <sup>8</sup> [Office 365 관리 활동 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 를 사용 하 여 통합 된 감사 로그에서 이벤트를 검색할 수도 있습니다.
 
-<sup>9</sup> Exchange 또는 SharePoint/OneDrive가 있는 SKU에 추가할 수 있는 DLP 추가 기능을 사용할 수 있습니다.
+<sup>9</sup> Office 365 데이터 손실 방지 추가 기능을 사용 해야 합니다.
 
 <sup>10</sup> 민감도 레이블은 Azure Information Protection P1 및 P2에도 포함 됩니다.
 
-<sup>11</sup> Exchange Online 계획 2 라이선스는 보존 정책을 사용 하 여 사용자 사서함의 콘텐츠를 유지 하는 데 필요 합니다.
+<sup>11</sup> Exchange online 계획 2 또는 Exchange online 보관 라이선스는 보존 정책을 사용 하 여 사용자 사서함의 콘텐츠를 유지 하는 데 필요 합니다.
 
 <sup>12</sup> Advanced Audit는 Azure Active Directory, Exchange 및 SharePoint의 활동에 대해 1 년의 감사 로그를 보존 하 고, 다른 Office 365 서비스에 대 한 감사 로그 보존을 관리 하기 위한 사용자 지정 감사 로그 보존 정책을 만들 수 있는 기능을 제공 합니다. 또한 Office 365 관리 활동 API에 대 한 조사 및 고대역폭 액세스에 대 한 중요 한 이벤트에 대 한 액세스를 제공 합니다.
 
@@ -131,7 +131,7 @@ ms.locfileid: "43101127"
 
 <sup>8</sup> [Office 365 관리 활동 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 를 사용 하 여 통합 된 감사 로그에서 이벤트를 검색할 수도 있습니다.
 
-<sup>9</sup> Exchange 또는 SharePoint/OneDrive가 있는 SKU에 추가할 수 있는 DLP 추가 기능을 사용할 수 있습니다.
+<sup>9</sup> Office 365 데이터 손실 방지 추가 기능을 사용 해야 합니다.
 
 <sup>10</sup> 비즈니스용 OneDrive에 저장 된 파일로만 제한 됩니다.
 
