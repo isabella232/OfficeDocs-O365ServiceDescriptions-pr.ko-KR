@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 보안 & 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: 0a7cd5aff15173e257181af5bf6f84aa45fe764e
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: f3416b122ead21fec84c86173e970d5a9c0208fe
+ms.sourcegitcommit: 9acaf883eb2ea3c047b36b91b2fa30ab89bb5ea7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101117"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43171144"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -323,7 +323,7 @@ PAM을 사용 하도록 설정 하면 조직에서 권한이 없는 상태로 �
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까? 
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 준수, Microsoft 365 E5/a5 정보 보호 및 관리 방식, Office 365 E5/A5/G5 및 Office 365 고급 규정 PAM의 혜택을 받을 수 있는 권한을 사용자에 게 제공 합니다.
+Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 및 Microsoft 365 E5/A5 참가자 위험 관리 사용자에 게 PAM의 혜택을 받을 수 있는 권한을 제공 합니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
@@ -379,7 +379,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 준수 및 O
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예시:
+사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예:
 
 | 시나리오 | 라이선스가 필요한 사용자 |
 |:-------|:------|
@@ -444,23 +444,23 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/a5/G5 준수, micr
 
 ## <a name="communication-compliance"></a>통신 준수
 
-Office 365의 통신 준수를 통해 지정 된 검토자가 조사를 위해 직원 통신을 캡처할 감독 정책을 만들 수 있습니다. 조직의 내부 및 외부 전자 메일, Microsoft 팀 또는 타사 통신을 캡처하는 특정 정책을 정의할 수 있습니다. 그러면 검토자가 메시지를 검사 하 여 조직의 메시지 표준과 호환 되는지 확인 하 고 분류 유형으로 문제를 해결할 수 있습니다.
+Microsoft 365의 통신 준수 기능은 조직의 부적절 한 메시지에 대 한 검색, 캡처 및 수정 작업 수행을 지원 하 여 통신 위험을 최소화 하는 데 도움이 됩니다. 조직의 내부 및 외부 전자 메일, Microsoft 팀 또는 타사 통신을 캡처하는 특정 정책을 정의할 수 있습니다. 검토자가 조직의 메시지 표준을 준수 하는지 확인 하기 위해 적절 한 수정 작업을 수행할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자는 감독 정책에 의해 통신이 모니터링 되도록 하 여 서비스를 활용할 수 있습니다.
+준수 전문가는 통신 준수 정책에 따라 조직 통신을 모니터링 하는 방식으로 서비스를 활용할 수 있습니다.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
-Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/a5/G5 준수, microsoft 365 E5/A5 정보 보호 및 관리 방식 및 Office 365 고급 규정 준수에 따른 혜택을 받을 수 있는 권한을 사용자에 게 제공 합니다.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/a5/G5 규정 준수, 그리고 Microsoft 365 E5/a 참가자 위험 관리는 통신 준수를 활용할 수 있는 권한을 사용자에 게 제공 합니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
-관리자는 보안 & 준수 센터에서 감독 정책을 만듭니다. 이러한 정책은 조직의 검토 대상이 되는 통신 및 사용자를 정의 하 고, 통신이 충족 해야 하는 사용자 지정 조건을 정의 하 고, 검토를 수행할 사람을 지정 합니다.
+관리자 및 규정 준수 전문가는 Microsoft 365 준수 센터에서 통신 준수 정책을 만듭니다. 이러한 정책은 조직의 검토 대상이 되는 통신 및 사용자를 정의 하 고, 통신이 충족 해야 하는 사용자 지정 조건을 정의 하 고, 검토를 수행할 사용자를 지정 합니다.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
-관리자 감독 정책에 포함할 특정 사용자 또는 그룹을 선택 합니다. 그룹을 선택 하는 경우에는 해당 그룹의 특정 사용자를 감독 정책에서 제외할 수도 있습니다. 감독 정책에 대 한 자세한 내용은 [Office 365의 감독 정책을](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)참조 하세요.
+관리자 통신 준수 정책에 포함할 특정 사용자 또는 그룹을 선택 합니다. 그룹을 선택 하는 경우에는 그룹의 특정 사용자를 통신 준수 정책에서 제외할 수도 있습니다. 통신 준수 정책에 대 한 자세한 내용은 [Microsoft 365의 통신 준수](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)를 참조 하세요.
 
 ## <a name="insider-risk-management"></a>참가자 위험 관리
 
