@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
-description: Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는 클라우드 기반 전자 메일 필터링 서비스 이며, 다음을 보호 하는 기능을 포함 합니다. 실시간으로 해로운 링크에서 조직으로 구성 합니다.
-ms.openlocfilehash: 5457cbe5304665f7cddc9cc068a167684cf77024
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는 클라우드 기반 전자 메일 필터링 서비스로, 실시간으로 유해한 링크 로부터 조직을 보호 하는 기능을 포함 합니다.
+ms.openlocfilehash: 5a455d13dc7d5c47dec9983d8bdd0663ead71ec7
+ms.sourcegitcommit: 8ecef4a10e06ce60db4ab197ae13bf9f3b023e0c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609839"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43197964"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection 서비스 설명
 
-Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는 클라우드 기반 전자 메일 필터링 서비스 이며, 다음을 보호 하는 기능을 포함 합니다. 실시간으로 해로운 링크에서 조직으로 구성 합니다. ATP에는 조직에서 발생 하는 공격 종류를 관리자에 게 제공 하는 다양 한 보고 및 URL 추적 기능이 있습니다.
+Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는 클라우드 기반 전자 메일 필터링 서비스로, 실시간으로 유해한 링크 로부터 조직을 보호 하는 기능을 포함 합니다. ATP에는 조직에서 발생 하는 공격 종류를 관리자에 게 제공 하는 다양 한 보고 및 URL 추적 기능이 있습니다.
 
 다음은 메시지 보호에 ATP를 사용할 수 있는 기본 방법입니다.
 
@@ -85,13 +85,13 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 |[안전한 첨부 파일](#safe-attachments)|예|예|예|
 |팀의 안전한 첨부 파일|예|예|예|
 |[안전한 링크](#safe-links)|예|예|예|
-|팀의 안전한 링크|아니요|아니요|아니요|
+|Teams의 안전한 링크|예|예|예|
 |[SharePoint, OneDrive 및 Microsoft 팀에 대 한 ATP](#atp-for-sharepoint-onedrive-and-microsoft-teams)|예|예|예|
 |[피싱 방지 정책](#anti-phishing-policies)|예|예|예|
 |[실시간 보고서](#real-time-reports)|예|예|예|
 |*자동화, 조사, 수정 및 교육*|
 |[위협 트래커](#threat-trackers)|아니요|예|예|
-|[Explorer](#explorer) (advanced threat 조사의)|아니요|예|예|
+|위협 조사 (advanced threat 조사의)|[실시간 탐지](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
 |[자동 인시던트 대응](#automated-incident-response)|아니요|예|예|
 |[공격 시뮬레이터](#attack-simulator)|아니요|예|예|
 
@@ -116,6 +116,8 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 
 - IOS 및 Android 장치의 Office 앱은 물론 Word, Excel, PowerPoint, Visio의 Windows
 
+- Microsoft 팀 채널 및 채팅
+
 > [!NOTE]
 > 사용자에 게 ATP<sup>\*</sup>라이선스가 있어야 하 고, Atp 안전한 링크 정책에 포함 되어야 하며, 보호를 위해 해당 장치에 로그인 되어 있어야 합니다.
 >
@@ -125,7 +127,7 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>SharePoint, OneDrive 및 Microsoft Teams에 대한 ATP
 
-[SharePoint, OneDrive 및 Microsoft 팀의 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) 는 팀 사이트 및 문서 라이브러리에서 악의적으로 식별 된 파일을 검색 하 고 차단 하는 데 도움이 됩니다.
+[SharePoint, OneDrive 및 Microsoft 팀의 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) 는 팀 사이트 및 문서 라이브러리에서 악의적으로 식별 된 파일을 검색 하 고 차단 하는 데 도움이 됩니다. 또한 이제는 Microsoft 팀 채널과 채팅에서 ATP 안전한 링크 보호 기능을 사용할 수 있습니다.
 
 ### <a name="anti-phishing-policies"></a>피싱 방지 정책
 
@@ -135,15 +137,25 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 
 Office 365 보안 & 준수 센터에서 사용할 수 있는 모니터링 기능 보안 및 준수 관리자가 보안 공격이 나 향상 된 수상한 작업과 같은 우선 순위가 높은 문제에 집중할 수 있도록 하는 [실시간 보고서와 정보](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) 를 포함 합니다. 문제 영역을 강조 표시 하는 것 외에도 smart reports 및 insights에는 데이터를 보고 탐색 하 고 빠른 작업도 수행할 수 있는 권장 사항과 링크가 포함 되어 있습니다.
 
-### <a name="threat-trackers"></a>위협 트래커
-
-[위협 추적기](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers) 는 권한 있는 사용자에 게 조직에 영향을 줄 수 있는 cybersecurity 문제에 대 한 정보를 제공 하는 정보와 관련 된 위젯 및 뷰입니다.
-
 ### <a name="explorer"></a>Explorer
 
 Explorer (위협 탐색기 라고도 함)는 승인 된 사용자가 최근 위협을 식별 하 고 분석할 수 있도록 하는 실시간 보고서입니다. 기본적으로이 보고서에는 최근 7 일간의 데이터가 표시 됩니다. 그러나 보기를 수정 하 여 최근 30 일간의 데이터를 표시할 수 있습니다.
 
+탐색기에는 맬웨어 (전자 메일 및 콘텐츠에 대 한), 전송, 피싱 및 모든 전자 메일 같은 보기가 포함 되어 있습니다.
+
 Explorer (Office 365 Advanced Threat Protection 계획 2) 및 실시간 검색 (Office 365 Advanced Threat Protection 계획 1)에 대 한 자세한 내용은 [Threat Explorer 및 실시간](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)검색을 참조 하십시오.
+
+### <a name="real-time-detections"></a>실시간 탐지
+
+실시간 검색은 승인 된 사용자가 최근 위협을 식별 하 고 분석할 수 있도록 하는 실시간 보고서입니다. Explorer와 마찬가지로 기본적으로이 보고서에는 최근 7 일간의 데이터가 표시 됩니다.
+
+실시간 검색에는 맬웨어 (전자 메일 및 콘텐츠에 대 한), 전송 및 피싱 같은 보기가 포함 됩니다.
+
+Explorer (Office 365 Advanced Threat Protection 계획 2) 및 실시간 검색 (Office 365 Advanced Threat Protection 계획 1)에 대 한 자세한 내용은 [Threat Explorer 및 실시간](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)검색을 참조 하십시오.
+
+### <a name="threat-trackers"></a>위협 트래커
+
+[위협 추적기](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers) 는 권한 있는 사용자에 게 조직에 영향을 줄 수 있는 cybersecurity 문제에 대 한 정보를 제공 하는 정보와 관련 된 위젯 및 뷰입니다.
 
 ### <a name="automated-incident-response"></a>자동 인시던트 대응
 
