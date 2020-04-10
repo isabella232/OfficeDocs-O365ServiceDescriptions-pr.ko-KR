@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 보안 & 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: f3416b122ead21fec84c86173e970d5a9c0208fe
-ms.sourcegitcommit: 9acaf883eb2ea3c047b36b91b2fa30ab89bb5ea7
+ms.openlocfilehash: bfc14f703e0c4d2813e123b88c17b26027bc25d5
+ms.sourcegitcommit: 7810744bc9a91a89767604d4aa27708114cba045
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43171144"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43215117"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -353,13 +353,13 @@ Microsoft 365 A1/E3/A3/G3 365/G3 및 Office 365 데이터 손실 방지는 사�
 
 관리자는 **데이터 손실 방지** > **위치**아래의 Office 365 보안 & 준수 센터에서 위치 (작업), 포함 된 사용자 및 제외 된 사용자를 사용자 지정할 수 있습니다.
 
-## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>팀 채팅 및 채널 메시지에 대 한 데이터 손실 방지
+## <a name="communication-data-loss-prevention-for-teams"></a>팀에 대 한 통신 데이터 손실 방지
 
-팀 채팅 및 채널 메시지에 대 한 DLP (데이터 손실 방지)를 통해 조직은 금융 정보, 개인 식별 정보, 상태 관련 정보 또는 기타 기밀 정보와 같은 중요 한 정보를 포함 하는 채팅 및 채널 메시지를 차단할 수 있습니다.
+팀에 대 한 통신 DLP를 사용 하면 조직에서 금융 정보, 개인 식별 정보, 상태 관련 정보 또는 기타 기밀 정보와 같은 중요 한 정보를 포함 하는 채팅 및 채널 메시지를 차단할 수 있습니다.
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 준수 및 Office 365 Advanced 준수는 팀 채팅 및 채널 메시지에 대 한 DLP를 활용할 수 있습니다.
+Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 정보 보호 및 거 버 넌 스 및 Office 365 Advanced 준수는 팀에 대 한 통신 DLP의 혜택을 받을 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -379,7 +379,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 준수 및 O
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예:
+사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예시:
 
 | 시나리오 | 라이선스가 필요한 사용자 |
 |:-------|:------|
