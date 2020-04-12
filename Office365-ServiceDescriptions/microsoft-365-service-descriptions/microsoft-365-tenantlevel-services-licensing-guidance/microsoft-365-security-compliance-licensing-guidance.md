@@ -5,18 +5,19 @@ author: skjerland
 manager: mnirkhe
 audience: ITPro
 ms.topic: reference
+ms.date: 4/10/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 보안 & 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: bfc14f703e0c4d2813e123b88c17b26027bc25d5
-ms.sourcegitcommit: 7810744bc9a91a89767604d4aa27708114cba045
+ms.openlocfilehash: d2699fbd63eb6a7303ae62579f4abbb09faf67d1
+ms.sourcegitcommit: ce029467be2d9ec428458c04bec5947ba895b99c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43215117"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43230798"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -37,7 +38,7 @@ SecOps 분석가 및 보안 전문가는 컴퓨터 학습 알고리즘에 따라
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
-Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 보안 및 Azure Active Directory Premium 요금제 2는 Azure Active Directory Id 보호를 활용할 수 있는 권한을 사용자에 게 제공 합니다.
+Enterprise Mobility + Security E5/A5, Microsoft 365 E5/a5, Microsoft 365 E5/a5 보안 및 Azure Active Directory Premium 요금제 2는 Azure Active Directory Id 보호를 활용할 수 있는 권한을 사용자에 게 제공 합니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
@@ -57,7 +58,7 @@ SecOp 분석가 및 보안 전문가는 Azure ATP가 고급 위협, 손상 된 i
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
-Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 보안 및 Azure Advanced Threat Protection 사용자가 Azure ATP의 혜택을 얻을 수 있는 권한을 제공 합니다.
+Enterprise Mobility + Security E5/A5, Microsoft 365 E5/a5, Microsoft 365 E5/, a5 보안 및 Azure Advanced Threat Protection for Users는 Azure ATP의 혜택을 받을 수 있는 권한을 제공 합니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
@@ -77,7 +78,7 @@ ATP는 피싱 및 제로 일 멀웨어와 같은 복잡 한 공격 으로부터 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까? 
 
-Office 365 Advanced Threat Protection, Office 365 E5/A5/G5, Microsoft 365 E5/a5/G5, microsoft 365 E5/A5/G5 보안, Microsoft 365 Business 및 Office 365 ATP 계획 1 및 2는 사용자에 게 Office 365 Advanced Threat Protection의 혜택을 받을 수 있는 권한을 제공 합니다.
+Office 365 Advanced Threat Protection, Office 365 E5/A5, Microsoft 365 E5/A5, microsoft 365 E5/a5 보안, Microsoft 365 Business 및 Office 365 ATP 계획 1 및 2는 사용자에 게 Office 365 Advanced Threat Protection의 혜택을 받을 수 있는 권한을 제공 합니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
