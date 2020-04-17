@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는 클라우드 기반 전자 메일 필터링 서비스로, 실시간으로 유해한 링크 로부터 조직을 보호 하는 기능을 포함 합니다.
-ms.openlocfilehash: 5c604eac3079946c5b6fc2a02b44f4870a99a69f
-ms.sourcegitcommit: 80f7e210831388962a4cc9bfa3892ab1070fb92b
+ms.openlocfilehash: edcf7b7207be27e406f9c6876c1d7d50d3d12dd5
+ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43285554"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43529221"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection 서비스 설명
 
@@ -96,7 +96,7 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 |[공격 시뮬레이터](#attack-simulator)|아니요|예|예|
 
 > [!TIP]
-> Office 365 ATP 계획 1과 계획 2 간의 차이점에 대 한 다운로드 가능 목록을 원하십니까? [PDF를 가져옵니다](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf). 
+> Office 365 ATP 계획 1과 계획 2 간의 차이점에 대 한 다운로드 가능 목록을 원하십니까? [PDF를 가져옵니다](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf). 
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>ATP (Advanced Threat Protection) 기능
 
@@ -144,7 +144,7 @@ Office 365 보안 & 준수 센터에서 사용할 수 있는 모니터링 기능
 
 Explorer (위협 탐색기 라고도 함)는 승인 된 사용자가 최근 위협을 식별 하 고 분석할 수 있도록 하는 실시간 보고서입니다. 기본적으로이 보고서에는 최근 7 일간의 데이터가 표시 됩니다. 그러나 보기를 수정 하 여 최근 30 일간의 데이터를 표시할 수 있습니다.
 
-탐색기에는 맬웨어 (전자 메일 및 콘텐츠에 대 한), 전송, 피싱 및 모든 전자 메일 같은 보기가 포함 되어 있습니다. Explorer에서 실시간 검색을 비교 하는 방법을 보려면 [이 PDF를 다운로드](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf)하세요.
+탐색기에는 맬웨어 (전자 메일 및 콘텐츠에 대 한), 전송, 피싱 및 모든 전자 메일 같은 보기가 포함 되어 있습니다. Explorer에서 실시간 검색을 비교 하는 방법을 보려면 [이 PDF를 다운로드](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)하세요.
 
 Explorer (Office 365 Advanced Threat Protection 계획 2) 및 실시간 검색 (Office 365 Advanced Threat Protection 계획 1)에 대 한 자세한 내용은 [Threat Explorer 및 실시간](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)검색을 참조 하십시오.
 
@@ -152,7 +152,7 @@ Explorer (Office 365 Advanced Threat Protection 계획 2) 및 실시간 검색 (
 
 실시간 검색은 승인 된 사용자가 최근 위협을 식별 하 고 분석할 수 있도록 하는 실시간 보고서입니다. Explorer와 마찬가지로 기본적으로이 보고서에는 최근 7 일간의 데이터가 표시 됩니다.
 
-실시간 검색에는 맬웨어 (전자 메일 및 콘텐츠에 대 한), 전송 및 피싱 같은 보기가 포함 됩니다. 실시간 검색이 탐색기와 비교 되는지 확인 하려면 [이 PDF를 다운로드](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf)하세요.
+실시간 검색에는 맬웨어 (전자 메일 및 콘텐츠에 대 한), 전송 및 피싱 같은 보기가 포함 됩니다. 실시간 검색이 탐색기와 비교 되는지 확인 하려면 [이 PDF를 다운로드](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)하세요.
 
 Explorer (Office 365 Advanced Threat Protection 계획 2) 및 실시간 검색 (Office 365 Advanced Threat Protection 계획 1)에 대 한 자세한 내용은 [Threat Explorer 및 실시간](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)검색을 참조 하십시오.
 
