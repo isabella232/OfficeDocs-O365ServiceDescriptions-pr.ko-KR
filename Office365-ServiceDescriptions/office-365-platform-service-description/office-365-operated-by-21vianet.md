@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영 하는 Office 365는 중국의 안전 하 고 안정적 이며 확장 가능한 클라우드 서비스에 대 한 요구를 충족 하도록 설계 되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: 047a03cc3b63de40a0974ce241ffa7844ef95a98
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 319c7f4bbd0a9fa038cccdfb60ce9e93f5a68def
+ms.sourcegitcommit: 0f0f12bfd4690a463b645e3ee8b75b73109e19dd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609939"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43581980"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -42,10 +42,10 @@ Microsoft에서는 이 서비스 자체를 운영하지 않습니다. 21Vianet�
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**서비스**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F3**|
 |Office 365 플랫폼<sup>1</sup>|예|예|예|예|예|예|예|
-|Exchange Online|예|아니요|있음|예|예|예|예|
-|SharePoint Online|예|아니요|있음|예|예|예|예|
+|Exchange Online|예|아니오|있음|예|예|예|예|
+|SharePoint Online|예|아니오|있음|예|예|예|예|
 |비즈니스용 OneDrive|예|예|예|예|예|예|예|
-|비즈니스용 Skype 온라인|예|아니요|있음|예|예|예|예|
+|비즈니스용 Skype 온라인|예|아니오|있음|예|예|예|예|
 |웹에 대 한 Office|예|예|예|예|예|예|예|
 |Office 365 ProPlus|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |Project Online<sup>2</sup>|예|예|예|예|예|예|예|
@@ -94,7 +94,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Microsoft Sway<sup>8</sup>|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Microsoft 팀|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Office Delve|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|Office 365 그룹|예|아니요|있음|예|예|예|예|
+|Office 365 그룹|예|아니오|있음|예|예|예|예|
 |Office 365 비디오|아니요|아니요|아니요|있음|예|예|예<sup>2</sup>|
 |OneNote 수업용 전자 필기장|아니요|아니요|아니요|예<sup>15<sup>|아니요|아니요|아니요|
 |**[사용자 계정 mManagement](user-account-management.md)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F3**|
@@ -114,7 +114,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |사용자 지정 2차 수준 도메인 추가(예: fourthcoffee.com)|예|예|예|예|예|예|예|
 |사용자 지정 3차 수준 도메인 추가(예: marketing.fourthcoffee.com)|예|예|예|예|예|예|예|
 |사용자 지정 도메인 최대 900개 추가|예|예|예|예|예|예|예|
-|Office 365에서 관리되는 DNS 레코드(완전 재위임)|예|예|예|예|아니요|있음|예|
+|Office 365에서 관리되는 DNS 레코드(완전 재위임)|예|예|예|예|아니오|있음|예|
 |DNS 호스팅 공급자 웹 사이트에서 관리되는 DNS 레코드(부분 재위임)|예|예|예|예|예|예|예|
 |전자 메일 주소 및 비즈니스용 Skype 온라인에 **name.partner.onmschina.cn** 도메인 또는 사용자 지정 도메인 이름 사용|예|예|예|예|예|예|예|
 |SharePoint Online 공개 웹 사이트에 **name-public.sharepoint.cn** 또는 사용자 지정 도메인 이름 사용 <sup>5, 11</sup>|예|예|예|예|예|예|예|
@@ -222,34 +222,34 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**기능**|**21Vianet에서 운영하는 Office Professional Plus 2013**|**21Vianet에서 운영하는 Office Professional Plus 2016**|**21Vianet에서 운영하는 Office 365 ProPlus**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F3**|
 |**Office 응용 프로그램**|||||||||||
-|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|예|예|예|예|아니요|예|<sup>5</sup> 없음|아니요|예|아니요|
-|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|예|예|예|예|아니요|예|<sup>5</sup> 없음|아니요|예|아니요|
-|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|예|예|예|예|아니요|예|<sup>5</sup> 없음|아니요|예|아니요|
-|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote)|예|예|예|예|아니요|예|<sup>5</sup> 없음|아니요|예|아니요|
-|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|예|예|예|예|아니요|예|<sup>5</sup> 없음|아니요|예|아니요|
-|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher)|예|예|예|예|아니요|예|<sup>5</sup> 없음|아니요|예|아니요|
-|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access)|예|예|예|예<sup>9</sup>|아니요|예<sup>9</sup>|<sup>5</sup> 없음|아니요|예|아니요|
+|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|예|예|예|예|아니오|예|<sup>5</sup> 없음|아니오|예|아니요|
+|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|예|예|예|예|아니오|예|<sup>5</sup> 없음|아니오|예|아니요|
+|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|예|예|예|예|아니오|예|<sup>5</sup> 없음|아니오|예|아니요|
+|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote)|예|예|예|예|아니오|예|<sup>5</sup> 없음|아니오|예|아니요|
+|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|예|예|예|예|아니오|예|<sup>5</sup> 없음|아니오|예|아니요|
+|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher)|예|예|예|예|아니오|예|<sup>5</sup> 없음|아니오|예|아니요|
+|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access)|예|예|예|예<sup>9</sup>|아니요|예<sup>9</sup>|<sup>5</sup> 없음|아니오|예|아니요|
 |Microsoft Visio Pro<sup>10</sup>|예|예|예|예|예|예|예|예|예|예|
 |[비즈니스용 Skype](../office-applications-service-description/office-applications.md#skype-for-business)|예|예|예|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예|예<sup>4</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|아니요|아니요|아니요|아니요|아니요|아니요|<sup>5</sup> 없음|아니요|아니요|아니요|
 |[Windows 10 앱](../office-applications-service-description/office-applications.md#windows-10-apps)|예|예|예|예|예|예|예|예|예|아니요|
-|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|아니요|예|아니요|아니요|아니요|있음|<sup>5</sup> 없음|아니요|예|아니요|
+|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|아니오|예|아니요|아니요|아니요|예|<sup>5</sup> 없음|아니오|예|아니요|
 |Android 용 Microsoft Office 앱|예|예|예|예|예|예|예|예|예|예|
 |IOS 용 Microsoft Office 앱|예|예|예|예|예|예|예|예|예|예|
 |[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|예|예|예|예|예|예|예<sup>5</sup>|예|예|예|
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|예|예|예|예|예|예|예|예|예|예|
 |[Android 용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android)<sup>15</sup>|예|예|예|예|예|예|예<sup>5</sup>|예|예|예|
-|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니요|예|아니요|아니요|아니요|있음|<sup>5</sup> 없음|아니요|예|아니요|
-|[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니요|예|아니요|아니요|아니요|있음|<sup>5</sup> 없음|아니요|예|아니요|
-|Android용 Outlook|아니요|있음|예|예|아니요|있음|<sup>5</sup> 없음|아니요|예|아니요|
+|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니오|예|아니요|아니요|아니요|있음|<sup>5</sup> 없음|아니오|예|아니요|
+|[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니오|예|아니요|아니요|아니요|있음|<sup>5</sup> 없음|아니오|예|아니요|
+|Android용 Outlook|아니오|있음|예|예|아니오|있음|<sup>5</sup> 없음|아니오|예|아니요|
 |**Enterprise 값**|**21Vianet에서 운영하는 Office Professional Plus 2013**|**21Vianet에서 운영하는 Office Professional Plus 2016**|**21Vianet에서 운영하는 Office 365 ProPlus**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F3**|
-|PC 또는 Mac에서 사용자당 5건의 동시 설치 지원|아니요|예|예<sup>6</sup>|예<sup>6</sup>|아니요|있음|<sup>5</sup> 없음|아니요|예|아니요|
+|PC 또는 Mac에서 사용자당 5건의 동시 설치 지원|아니오|예|예<sup>6</sup>|예<sup>6</sup>|아니오|있음|<sup>5</sup> 없음|아니오|예|아니요|
 |사용자 계정 자동 구축|해당 없음|예|예|예|예|예|예|예|예|예|
 |다국어 사용자 인터페이스|예|예|예|아니요|아니요|예|아니요|아니요|예|아니요|
 |클라이언트 푸시 배포|예|예|예|예|예|예|아니요|아니요|예|아니요|
-|온-프레미스 Exchange에 대한 클라이언트 지원|예|예|예|예|아니요|예|아니요|아니요|예|아니요|
-|온-프레미스 Sharepoint에 대한 클라이언트 지원|예|예|예|예|아니요|예|아니요|아니요|예|아니요|
-|소프트웨어 업데이트 제어|예|예|예|예|아니요|예|아니요|아니요|예|아니요|
+|온-프레미스 Exchange에 대한 클라이언트 지원|예|예|예|예|아니오|예|아니요|아니요|예|아니요|
+|온-프레미스 Sharepoint에 대한 클라이언트 지원|예|예|예|예|아니오|예|아니요|아니요|예|아니요|
+|소프트웨어 업데이트 제어|예|예|예|예|아니오|예|아니요|아니요|예|아니요|
 |데이터베이스 비교|예|예|예|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |데스크톱 가상화|예|예|예<sup>7</sup>|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |Excel 스프레드시트 비교|예|예|예|아니요|아니요|아니요|아니요|아니요|예|아니요|
@@ -259,11 +259,11 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Azure Information Protection을 사용한 IRM(정보 권한 관리)<sup>11</sup>|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |Windows Server AD RMS를 사용한 IRM(정보 권한 관리)<sup>2</sup>|예|예|예|예|예|예|예|예|예|예|
 |Office 추가 기능, ActiveX 및 BHO 지원|예|예|예|아니요|아니요|예|아니요|아니요|예|아니요|
-|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스|아니요|예|아니요|아니요|아니요|예|아니요|아니요|예|아니요|
+|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스|아니오|예|아니요|아니요|아니요|예|아니요|아니요|예|아니요|
 |Office Lens|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Office 원격 분석|예|예|예|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |클라이언트 응용 프로그램에 대한 오프라인 지원|예|예|예|예|예|예|아니요|아니요|예|아니요|
-|최적화된 클라이언트 병렬 설치|아니요|있음|예|예|예|예|아니요|아니요|예|아니요|
+|최적화된 클라이언트 병렬 설치|아니오|있음|예|예|예|예|아니요|아니요|예|아니요|
 |Excel용 파워 맵|<sup>3</sup> 없음|아니요|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |Power Pivot for Excel|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |Excel용 파워 쿼리|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요|
@@ -271,7 +271,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |로밍 설정|예|예|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |공유 컴퓨터 활성화|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |클라우드 기반 파일 저장 차단 지원|예|예|예|아니요|아니요|아니요|아니요|아니요|예|아니요|
-|버전 업그레이드|아니요|있음|예|예|아니요|예|아니요|아니요|예|아니요|
+|버전 업그레이드|아니오|있음|예|예|아니오|예|아니요|아니요|예|아니요|
 |Volume activation (KMS/MAK)|예|예|<sup>8</sup>|아니요|아니요|아니요|아니요|아니요|아니요|아니요  <br/>
 
 <sup>1</sup> 보관 및 규정 준수 기능은 이 Office 버전에서 지원되지만 Exchange Online 및 SharePoint Online 계획은 포함되어 있지 않으므로 별도 구입하거나 지원 가능한 온-프레미스 서버 동급의 제품과 함께 사용해야 합니다.
@@ -335,7 +335,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Windows Server AD RMS를 사용하는 IRM<sup>2</sup>|예|예|예|예|예|예|예|
 |Office 365 메시지 암호화|아니요|아니요|아니요|예<sup>15</sup>|아니요|예<sup>15</sup>|아니요|
 |S/MIME|예|예|예|예|예|예|예||
-|원본 위치 유지 및 소송 보존|아니요|--|아니요|예|아니요|예|아니요|
+|원본 위치 유지 및 소송 보존|아니요|--|아니요|예|아니오|예|아니요|
 |원본 위치 eDiscovery|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|예|예<sup>7</sup>|예<sup>7</sup>|예|
 |메일 흐름 규칙(전송 규칙)|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|
 |데이터 손실 방지|아니요|아니요|아니요|아니요|아니요|예|아니요|
@@ -377,7 +377,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |일정 공유|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|
 |**[보고 기능 및 문제 해결 도구](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F3**|
 |Microsoft 365 관리 센터 보고서|예|예|예|예|예|예|예|
-|Excel 보고 통합 문서|아니요|예|아니요|아니요|있음|예|예|
+|Excel 보고 통합 문서|아니오|예|아니요|아니요|있음|예|예|
 |웹 서비스 보고서|예|예|예|예|예|예|예|
 |Message trace|예|예|예|예|예|예|예|
 |감사 보고서|예|예|예|예|예|예|예 <sup>2</sup>|
@@ -396,7 +396,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |**[음성 메시지 서비스](../exchange-online-service-description/voice-message-services.md)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F3**|
 |음성 사서함|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |음성 사서함과 타사 팩스 통합|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|타사 음성 사서함 상호 운용성|아니요|예|아니요|아니요|아니요|아니요|아니요|
+|타사 음성 사서함 상호 운용성|아니오|예|아니요|아니요|아니요|아니요|아니요|
 |비즈니스용 Skype 통합|예|예|예|예|예|예|예|
 |**[고가용성 및 비즈니스 연속성](../exchange-online-service-description/high-availability-and-business-continuity.md)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F3**|
 |데이터 센터에서 사서함 복제|예|예|예|예|예|예|예|
@@ -480,7 +480,7 @@ Exchange Online 한도에 대한 자세한 내용은 다음 항목을 참조하�
 |[관리자 역할 그룹 권한](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#admin-role-group-permissions)|예<sup>2</sup>|예|
 |[도메인 관리](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#domain-management)|예<sup>3</sup>|예<sup>3</sup>|
 |[하위 도메인 일치](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#match-subdomains)|예|예|
-|[DBEB(디렉터리 기반 Edge 차단)](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|아니요|있음|
+|[DBEB(디렉터리 기반 Edge 차단)](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|아니오|있음|
 |[메일 흐름 규칙](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#mail-flow-rules)|예 <sup>3, 4, 11</sup>|예 <sup>3, 4, 11</sup>|
 |[감사 로깅](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#audit-logging)|예<sup>5</sup>|예|
 |[DLP(데이터 손실 방지)](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|아니요|아니요|
@@ -497,7 +497,7 @@ Exchange Online 한도에 대한 자세한 내용은 다음 항목을 참조하�
 |[신뢰할 수 있는 파트너와의 보안 메시징](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|예|예|
 |[수신 허용 목록에 파트너의 IP 주소 추가](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|예|예|
 |[조건부 메일 라우팅](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing)|예|예|
-|[하이브리드 메일 라우팅](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing)|아니요|있음|
+|[하이브리드 메일 라우팅](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing)|아니오|있음|
 |[Microsoft 365 관리 센터 보고서](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |<sup>8</sup>|예<sup>8, 9</sup>|
 |[웹 서비스를 사용하여 보고](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services)|아니요|있음|
 |[메시지 추적](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace)|예<sup>12</sup>|예<sup>12</sup>|
@@ -539,7 +539,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |**기능**|**Exchange Server용 Exchange Online Archiving<sup>1</sup>**|**Exchange Online용 Exchange Online Archiving<sup>2</sup>**|
 |**[Exchange Online 보관의 보관 기능](../exchange-online-archiving-service-description/archive-features.md)**|||
 |보관 사서함|아니요|있음|
-|보관 정책을 사용하여 메시지 이동|아니요|예|
+|보관 정책을 사용하여 메시지 이동|아니요|있음|
 |보관 사서함으로 데이터 가져오기|아니요|있음|
 |삭제된 항목 복구|아니요|있음|
 |삭제된 사서함 복구|아니요|있음|
@@ -552,7 +552,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |원본 위치 유지 및 소송 보존<sup>5</sup>|아니요|있음|
 |원본 위치 eDiscovery|아니요|예|
 |온-프레미스 서버와 Exchange Online Archiving 간 암호화|아니요|있음|
-|클라이언트와 Exchange Online Archiving 간 암호화|아니요|예|
+|클라이언트와 Exchange Online Archiving 간 암호화|아니요|있음|
 |암호화: S/MIME 및 PGP|예|예|
 |Azure Information Protection을 사용한 IRM|아니요|아니요|
 |Windows Server AD RMS를 사용한 IRM|예<sup>4</sup>|예<sup>4</sup>|
@@ -587,30 +587,30 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |BCS: OData connector|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |BCS: 프로필 페이지|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |BCS: 리치 클라이언트 통합|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|BCS: Secure Store Service|아니요|아니요|아니요|예|아니요|예|아니요|
+|BCS: Secure Store Service|아니요|아니요|아니요|예|아니오|예|아니요|
 |BCS: Tenant-level external data log|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |Browser-based customizations|예|예|예|예|예|예|예|
 |Client Object Model (OM)|예|예|예|예|예|예|예|
 |Client-side rendering (CSR)|예|예|예|예|예|예|예|
 |사용자 지정 사이트 정의|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |사용자 지정 사이트 프로 비전 페이지|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|개발자 사이트|예|아니요|있음|예|예|예|예|
-|폼 기반 응용 프로그램|예|아니요|있음|예|예|예|예|
+|개발자 사이트|예|아니오|있음|예|예|예|예|
+|폼 기반 응용 프로그램|예|아니오|있음|예|예|예|예|
 |완전 신뢰 솔루션|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |InfoPath Forms Services|아니요|아니요|아니요|아니요|아니요|<sup>14</sup> 없음|아니요|
 |JavaScript Object Model|예|예|예|예|예|예|예|
 |List and Library APIs|예|예|예|예|예|예|예|
-|원격 이벤트 수신기|예|아니요|있음|예|예|예|예|
+|원격 이벤트 수신기|예|아니오|있음|예|예|예|예|
 |REST Api|예|예|예|예|예|예|예|
-|SharePoint Design Manager|예|아니요|있음|예|예|예|예|
-|SharePoint Designer 2013|예|아니요|있음|예|예|예|예|
+|SharePoint Design Manager|예|아니오|있음|예|예|예|예|
+|SharePoint Designer 2013|예|아니오|있음|예|예|예|예|
 |SharePoint Store|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |SharePoint 2010 워크플로 (.NET 3.5)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |SharePoint 2010 워크플로 (이 상자에서 제외 됨)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|SharePoint 2013 및 SharePoint 2016 워크플로|예|아니요|예|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예|
-|Workload API: ECM APIs|예|아니요|있음|예|예|예|예|
-|Workload API: Search APIs|예|아니요|있음|예|예|예|예|
-|Workload API: Social APIs|예|아니요|있음|예|예|예|예|
+|SharePoint 2013 및 SharePoint 2016 워크플로|예|아니오|예|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예|
+|Workload API: ECM APIs|예|아니오|있음|예|예|예|예|
+|Workload API: Search APIs|예|아니오|있음|예|예|예|예|
+|Workload API: Social APIs|예|아니오|있음|예|예|예|예|
 |**IT 전문가 기능**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F3**|
 |Active Directory 동기화|예|예|예|예|예|예|예|
 |AAM (대체 액세스 매핑)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -635,7 +635,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |요청 관리|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Request throttling|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Resource throttling|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|서비스 응용 프로그램 플랫폼|예|아니요|있음|예|예|예|예|
+|서비스 응용 프로그램 플랫폼|예|아니오|있음|예|예|예|예|
 |SharePoint Health Analyzer|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |SharePoint 관리 센터 (Office 365)|예|예|예|예|예|예|<sup>4</sup> 없음|
 |Shredded Storage|예|예|예|예|예|예|예|
@@ -653,8 +653,8 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |자산 라이브러리 향상/비디오 지원|예|예|예|예|예|예|예|
 |감사|예|예|예|예|예|예|예|
 |감사 &amp; 보고 (예: 문서 편집, 정책 편집, 삭제)|예|예|예|예|예|예|예|
-|Content Organizer|예|아니요|있음|예|예|예|예|
-|Design Manager|예|아니요|있음|예|예|예|예|
+|Content Organizer|예|아니오|있음|예|예|예|예|
+|Design Manager|예|아니오|있음|예|예|예|예|
 |문서 집합|예|예|예|예|예|예|예|
 |웹에 대 한 Word의 문서 번역|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |eDiscovery 검색|예<sup>6</sup>|예|예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|
@@ -668,43 +668,43 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |하이브리드 분류 및 콘텐츠 형식|예|예|예|예|예|예|예<sup>15</sup>|
 |IRM(정보 권한 관리)|아니요|아니요|아니요|아니요|아니요|아니요|<sup>4</sup> 없음|
 |IRM(정보 권한 관리)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|Managed Metadata Service|예|아니요|있음|예|예|예|예|
-|메타 데이터 기반 탐색|예|아니요|있음|예|예|예|예|
+|Managed Metadata Service|예|아니오|있음|예|예|예|예|
+|메타 데이터 기반 탐색|예|아니오|있음|예|예|예|예|
 |다단계 처리|예|예|예|예|예|예|예|
 |웹을 위한 Office (만들기/편집)|예|예|예|예|예|예|예<sup>8</sup>|
 |웹에 대 한 Office (보기)|예|예|예|예|예|예|예|
-|Office ProPlus(Osub)|아니요|예|아니요|아니요|아니요|예|아니요|
+|Office ProPlus(Osub)|아니오|예|아니요|아니요|아니요|예|아니요|
 |Office Web Apps Server integration|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |PowerPoint Automation Services|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Preservation hold library|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |Quick Edit|예|예|예|예|예|예|아니요|
-|Records management|예|아니요|있음|예|예|예|예|
+|Records management|예|아니오|있음|예|예|예|예|
 |Recycle Bin (SharePoint admin center)|예|예|예|예|예|예|아니요|
 |Recycle Bin (site collection)|예|예|예|예|예|예|아니요|
-|관련 항목|예|아니요|예|예|예|예|예|
-|리치 미디어 관리|예|아니요|예|예|예|예|예|
+|관련 항목|예|아니오|있음|예|예|예|예|
+|리치 미디어 관리|예|아니오|있음|예|예|예|예|
 |공유 콘텐츠 형식|예|예|예|예|예|예|예|
 |SharePoint 번역 서비스|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |설문 조사|예|예|예|예|예|예|예|
 |고유 문서 Id|예|예|예|예|예|예|예|
 |비디오 검색|아니요|아니요|아니요|아니요|아니요|예|아니요|
-|게시 분석|예|아니요|예|예|아니요|예|아니요|
+|게시 분석|예|아니오|있음|예|아니오|예|아니요|
 |카탈로그|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |범주 페이지 및 카탈로그 항목 페이지|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |검색 웹 파트|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |교차 사이트 게시|아니요|아니요|아니요|아니요|아니요|예|아니요|
-|WCM: 디자이너 도구|예|아니요|예|예|예|예|예|
+|WCM: 디자이너 도구|예|아니오|있음|예|예|예|예|
 |패싯 탐색|아니요|아니요|아니요|아니요|아니요|<sup>7</sup> 없음|아니요|
-|이미지 변환|예|아니요|예|예|아니요|아니요|아니요|
-|WCM: Managed navigation|예|아니요|예|예|예|예|예|
-|WCM: 모바일 및 장치 렌더링|예|아니요|예|예|예|예|예|
+|이미지 변환|예|아니오|있음|예|아니요|아니요|아니요|
+|WCM: Managed navigation|예|아니오|있음|예|예|예|예|
+|WCM: 모바일 및 장치 렌더링|예|아니오|있음|예|예|예|예|
 |WCM: 여러 도메인|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|WCM: Recommendations|예|아니요|예|예|예|예|예|
-|WCM: SEO (검색 엔진 최적화)|예|아니요|예|예|예|예|예|
+|WCM: Recommendations|예|아니오|있음|예|예|예|예|
+|WCM: SEO (검색 엔진 최적화)|예|아니오|있음|예|예|예|예|
 |Word Automation Services|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**인사이트 기능**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F3**|
 |Business Intelligence Center|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|계산 된 측정값 및 구성원|아니요|아니요|아니요|예|아니요|예|아니요|
+|계산 된 측정값 및 구성원|아니요|아니요|아니요|예|아니오|예|아니요|
 |데이터 연결 라이브러리|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |Decoupled PivotTables and PivotCharts|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |Excel Services|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -724,7 +724,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |Visio for 웹<sup>14, 15</sup>|예|예|예|예|예|예|예|
 |Visio Services<sup>14</sup>|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**검색 기능**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F3**|
-|고급 콘텐츠 처리|예|아니요|예|예|예|예|예|
+|고급 콘텐츠 처리|예|아니오|예|예|예|예|예|
 |Continuous crawls|예|예|예|예|예|예|예|
 |Custom entity extraction|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Deep links|예|예|예|예|예|예|예|
@@ -733,14 +733,14 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |Extensible content processing|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Graphical refiners|예|예|예|예|예|예|예|
 |Hybrid search|예|예|예|예|예|예|예|
-|Manage search schema|예|아니요|예|예|예|예|예|
+|Manage search schema|예|아니오|예|예|예|예|예|
 |On-premises search index|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Phonetic name matching|예|예|예|예|예|예|예|
-|쿼리 규칙 - 승격된 결과 추가|예|아니요|예|예|예|예|예|
+|쿼리 규칙 - 승격된 결과 추가|예|아니오|예|예|예|예|예|
 |Query rules—advanced actions|아니요|아니요|아니요|아니요|아니요|예|아니요|
-|Query spelling correction|예|아니요|예|예|예|예|예|
-|Query suggestions|예|아니요|예|예|예|예|예|
-|Query throttling|예|아니요|예|예|예|예|예|
+|Query spelling correction|예|아니오|예|예|예|예|예|
+|Query suggestions|예|아니오|예|예|예|예|예|
+|Query throttling|예|아니오|예|예|예|예|예|
 |대화형 미리 보기|예|예|예|예|예|예|예|
 |Ranking models|<sup>5</sup> 없음|아니요|아니요|<sup>5</sup> 없음|<sup>5</sup> 없음|<sup>5</sup> 없음|<sup>5</sup> 없음|
 |구체화|예|예|예|예|예|예|예|
@@ -753,7 +753,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |검색 범주: "동영상"|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |"현재 목록" 검색|예|예|예|예|예|예|예|
 |**사이트 기능**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F3**|
-|Change the look|예|아니요|예|예|예|예|예|
+|Change the look|예|아니오|예|예|예|예|예|
 |Microsoft Office 클라이언트에 대 한 연결|예|예|예|예|예|예|예|
 |크로스 브라우저 지원|예|예|예|예|예|예|예|
 |관리 경로 사용자 지정|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -773,15 +773,15 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |SharePoint 목록|예|아니요|있음|예|예|예|예|
 |SharePoint 리본|예|아니요|있음|예|예|예|예|
 |문서 라이브러리|예|아니요|있음|예|예|예|예|
-|Task list|예|아니요|있음|예|예|예|예|
-|팀 사이트: 끌어서 & 끌어 놓기|예|아니요|있음|예|예|예|예|
-|팀 전자 필기장|예|아니요|있음|예|예|예|예|
-|팀 사이트: 간편한 액세스|예|아니요|있음|예|예|예|예|
-|사이트 디자인|예|아니요|있음|예|예|예|예|
-|사이트 테마 (모양 변경)|예|아니요|있음|예|예|예|예|
+|Task list|예|아니오|있음|예|예|예|예|
+|팀 사이트: 끌어서 & 끌어 놓기|예|아니오|있음|예|예|예|예|
+|팀 전자 필기장|예|아니오|있음|예|예|예|예|
+|팀 사이트: 간편한 액세스|예|아니오|있음|예|예|예|예|
+|사이트 디자인|예|아니오|있음|예|예|예|예|
+|사이트 테마 (모양 변경)|예|아니오|있음|예|예|예|예|
 |사이트 사용 현황 페이지|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|Variations|예|아니요|있음|예|예|예|아니요|
-|Work Management Service|예|아니요|있음|예|예|예|예|
+|Variations|예|아니오|있음|예|예|예|아니요|
+|Work Management Service|예|아니오|있음|예|예|예|예|
 |**소셜 기능**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F3**|
 |Ask Me About|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |개인 블로그|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -791,7 +791,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |Yammer를 사용한 문서 대화|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |팔로우|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |마이크로 블로그|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|뉴스 피드|예|아니요|있음|예|예|예|아니요|
+|뉴스 피드|예|아니오|있음|예|예|예|아니요|
 |한 번 클릭으로 공유|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |사용자, 사이트, 문서 권장 사항|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |개인 사이트|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -807,7 +807,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |Wiki|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Yammer|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**추가 기능**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F3**|
-|추가 저장소|예|아니요|있음|예|예|예|예|
+|추가 저장소|예|아니오|있음|예|예|예|예|
 |Azure 프로 비전 응용 프로그램: Access services<sup>3</sup>|예|예|예|예|예|예|예|
 |Azure 프로 비전 응용 프로그램: Azure LWR (Lightweight Web Role)의 사용자 지정 코드|예|예|예|예|예|예|예|
 
@@ -864,7 +864,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |비디오|예|예|예|예|예|예|아니요|
 |네트워크 QoS(서비스 품질) - DSCP(Differentiated Services Code Point)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**[페더레이션 및 공용 IM 연결](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F3**|
-|Office Communications Server 2007 R2 및 Lync Server 2010(IM, 현재 상태, 오디오, 비디오, 회의)|예|아니요|있음|예|예|예|아니요|
+|Office Communications Server 2007 R2 및 Lync Server 2010(IM, 현재 상태, 오디오, 비디오, 회의)|예|아니오|있음|예|예|예|아니요|
 |XMPP(Google Talk 등에서 사용됨) 및 Sametime 페더레이션|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 | Skype 페더레이션|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |AOL 및 Yahoo! 페더레이션|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -1001,7 +1001,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |**[Skype-Skype 오디오, 비디오 및 미디어](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)**|**21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 1**|**21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 2**|
 |데스크톱 공유|No<sup>2</sup>|예|
 |응용 프로그램 공유|No<sup>2</sup>|예|
-|파일 전송|아니요|있음|
+|파일 전송|아니오|있음|
 |음성|아니요|아니요|
 |비디오|예|예|
 |미디어 경로 최적화|아니요|아니요|
@@ -1013,30 +1013,30 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 | Skype 페더레이션|아니요|아니요|
 |AOL 및 Yahoo! 페더레이션|아니요|아니요|
 |**[비즈니스 온라인 모임에 대 한 Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 1**|**21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 2**|
-|애드혹 및 오디오 회의 예약|아니요|있음|
-|애드혹 및 비디오 회의 예약|아니요|있음|
-|활성 발표자 비디오|아니요|있음|
-|Eecoding-264 인코딩 및 기타|아니요|있음|
-|단체 비디오|아니요|있음|
-|모든 참석자의 고화질 비디오 또는 사진|아니요|있음|
-|발표자 컨트롤|아니요|있음|
-|참가자 선택 보기|아니요|있음|
-|OneNote 공유|아니요|있음|
-|애드혹 및 웹 회의 예약|아니요|있음|
+|애드혹 및 오디오 회의 예약|아니오|있음|
+|애드혹 및 비디오 회의 예약|아니오|있음|
+|활성 발표자 비디오|아니오|있음|
+|Eecoding-264 인코딩 및 기타|아니오|있음|
+|단체 비디오|아니오|있음|
+|모든 참석자의 고화질 비디오 또는 사진|아니오|있음|
+|발표자 컨트롤|아니오|있음|
+|참가자 선택 보기|아니오|있음|
+|OneNote 공유|아니오|있음|
+|애드혹 및 웹 회의 예약|아니오|있음|
 |ACP (공인 오디오 회의 공급자)를 통한 전화 접속 오디오 회의|아니요|아니요|
-|PowerPoint 공유|아니요|있음|
-|화이트 보드 및 주석|아니요|있음|
-|PowerPoint 업로드|아니요|있음|
-|폴링|아니요|있음|
+|PowerPoint 공유|아니오|있음|
+|화이트 보드 및 주석|아니오|있음|
+|PowerPoint 업로드|아니오|있음|
+|폴링|아니오|있음|
 |클라이언트 쪽 녹화 및 재생|아니요|예<sup>1</sup>|
 |서버 쪽 기록 및 재생|아니요|아니요|
-|모임 로비|아니요|있음|
-|비즈니스용 skype 웹 앱을 사용한 비즈니스용 Skype 모임에 대 한 게스트 액세스|아니요|있음|
-|Outlook에서 비즈니스용 Skype 모임 예약|아니요|있음|
-|다른 사용자 대신 Outlook에서 비즈니스용 Skype 모임 예약 (위임)|아니요|있음|
-|웹 스케줄러를 사용 하 여 비즈니스용 Skype 모임 예약|아니요|있음|
-|웹용 Outlook에서 온라인 모임 예약|아니요|있음|
-|모임을 예약 하기 위한 Outlook 위임|아니요|예|
+|모임 로비|아니오|있음|
+|비즈니스용 skype 웹 앱을 사용한 비즈니스용 Skype 모임에 대 한 게스트 액세스|아니오|있음|
+|Outlook에서 비즈니스용 Skype 모임 예약|아니오|있음|
+|다른 사용자 대신 Outlook에서 비즈니스용 Skype 모임 예약 (위임)|아니오|있음|
+|웹 스케줄러를 사용 하 여 비즈니스용 Skype 모임 예약|아니오|있음|
+|웹용 Outlook에서 온라인 모임 예약|아니오|있음|
+|모임을 예약 하기 위한 Outlook 위임|아니오|예|
 |Outlook에서 정적 모임 ID로 공개 모임 만들기|아니요|아니요|
 |**[보안 및 보관](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 1**|**21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 2**|
 |IM 및 미디어 암호화|예|예|
@@ -1070,41 +1070,31 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
 <br/><sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan.
 
-## <a name="outlook-mobile-features"></a>Outlook 모바일 기능
+## <a name="outlook-features-for-ios-and-android"></a>IOS 및 Android 용 Outlook 기능
 
-다음 표에는 21Vianet에서 운영 하는 모든 Office 365 서비스에서 사용할 수 있는 Outlook 모바일 플랫폼 및 기능이 나열 되어 있습니다.
+21Vianet에서 운영 하는 Office 365은 iOS 용 Outlook 및 Android 용 Outlook을 모두 지원 합니다.
 
-### <a name="mobile-platforms-supported"></a>지원 되는 모바일 플랫폼
+다음과 같은 모바일 기능은 지원 되지 않습니다.
 
-|||
-|:-----|:-----|:-----|
-| |**IOS 용 Outlook (iphone & iPad)**|**Android용 Outlook**|
-|21Vianet에서 운영하는 Office 365|예|아니요|
-
-### <a name="mobile-features-supported"></a>지원 되는 모바일 기능
-
-|||
-|:-----|:-----|:-----|
-|**기능**|**IOS 용 Outlook (iPhone & iPad)**|**Android용 Outlook**|
-|비즈니스용 OneDrive|아니요|해당 없음|
-|사용자 & 일정 검색|아니요|해당 없음|
-|회의실 검색 & 예약|아니요|해당 없음|
-|자리 카드|아니요|해당 없음|
-|"LinkedIn" & 사용자 카드의 데이터에 대 한 보고|아니요|해당 없음|
-|즐겨찾기|아니요|해당 없음|
-|내 전자 메일 재생|아니요|해당 없음|
-|추가 기능|아니요|해당 없음|
-|그룹|아니요|해당 없음|
-|스마트 회신|아니요|해당 없음|
-|Office 피드|아니요|해당 없음|
-|나갈 시간|아니요|해당 없음|
-|CLP/MIL|아니요|해당 없음|
-|Dropbox 저장소|아니요|해당 없음|
-|Google Drive Storage|아니요|해당 없음|
-|Box 저장소|아니요|해당 없음|
-|Facebook 일정|아니요|해당 없음|
-|Helpshift|아니요|해당 없음|
-|서비스인|아니요|해당 없음|
+- 비즈니스용 OneDrive (Android만 지원)
+- 사용자 & 일정 검색
+- 회의실 검색 & 예약
+- 자리 카드
+- "LinkedIn" & 사용자 카드의 데이터에 대 한 보고
+- 즐겨찾기
+- 내 전자 메일 재생
+- 추가 기능
+- 그룹
+- 스마트 회신
+- Office 피드
+- 나갈 시간
+- Microsoft Information Protection 민감도 레이블
+- Dropbox 저장소
+- Google Drive Storage
+- Box 저장소
+- Facebook 일정
+- Helpshift
+- 서비스인
 
 ## <a name="project-online-features"></a>Project Online 기능
 
@@ -1117,19 +1107,19 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**기능**|**21Vianet에서 운영하는 Office 365용 Project Online Essentials**|**21Vianet에서 운영하는 Office 365용 Project Online Professional**|**21Vianet에서 운영하는 Office 365용 Project Online Premium**|**21Vianet에서 운영하는 Office 365용 Project Professional 2016**|**21Vianet에서 운영하는 Office 365용 Project Server 2016**|
 |**핵심 기능(데스크톱 클라이언트)**||||||
-|[열 추가](../project-online-service-description/core-functionality.md#add-columns)|아니요|있음|예|예|아니요|
-|[Backstage](../project-online-service-description/core-functionality.md#backstage)|아니요|있음|예|예|아니요|
-|[간편 실행](../project-online-service-description/core-functionality.md#click-to-run)|아니요|있음|예|예|아니요|
-|[상황별 오른쪽 클릭 메뉴](../project-online-service-description/core-functionality.md#contextual-right-click-menus)|아니요|있음|예|예|아니요|
-|[사용자 지정 필드](../project-online-service-description/core-functionality.md#custom-fields)|아니요|있음|예|예|아니요|
-|[Microsoft Office 응용 프로그램 간에 향상된 복사 및 붙여넣기](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|아니요|있음|예|예|아니요|
-|[Gantt 차트, 달력 및 작업 시트 보기](../project-online-service-description/core-functionality.md#gantt-chart-calendar-and-task-sheet-views)|아니요|있음|예|예|아니요|
-|[Microsoft의 효율적인 사용자 인터페이스, 리본](../project-online-service-description/core-functionality.md#microsoft-fluent-user-interface-the-ribbon)|아니요|있음|예|예|아니요|
-|[여러 수준 실행 취소](../project-online-service-description/core-functionality.md#multiple-level-undo)|아니요|있음|예|예|아니요|
-|[Network diagram view](../project-online-service-description/core-functionality.md#network-diagram-view)|아니요|있음|예|예|아니요|
+|[열 추가](../project-online-service-description/core-functionality.md#add-columns)|아니오|있음|예|예|아니요|
+|[Backstage](../project-online-service-description/core-functionality.md#backstage)|아니오|있음|예|예|아니요|
+|[간편 실행](../project-online-service-description/core-functionality.md#click-to-run)|아니오|있음|예|예|아니요|
+|[상황별 오른쪽 클릭 메뉴](../project-online-service-description/core-functionality.md#contextual-right-click-menus)|아니오|있음|예|예|아니요|
+|[사용자 지정 필드](../project-online-service-description/core-functionality.md#custom-fields)|아니오|있음|예|예|아니요|
+|[Microsoft Office 응용 프로그램 간에 향상된 복사 및 붙여넣기](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|아니오|있음|예|예|아니요|
+|[Gantt 차트, 달력 및 작업 시트 보기](../project-online-service-description/core-functionality.md#gantt-chart-calendar-and-task-sheet-views)|아니오|있음|예|예|아니요|
+|[Microsoft의 효율적인 사용자 인터페이스, 리본](../project-online-service-description/core-functionality.md#microsoft-fluent-user-interface-the-ribbon)|아니오|있음|예|예|아니요|
+|[여러 수준 실행 취소](../project-online-service-description/core-functionality.md#multiple-level-undo)|아니오|있음|예|예|아니요|
+|[Network diagram view](../project-online-service-description/core-functionality.md#network-diagram-view)|아니오|있음|예|예|아니요|
 |[Office 스토어](../project-online-service-description/core-functionality.md#office-store)|아니요|아니요|아니요|아니요|아니요|
-|[온라인 도움말](../project-online-service-description/core-functionality.md#online-help)|아니요|있음|예|예|아니요|
-|[PDF 및 XPS 출력](../project-online-service-description/core-functionality.md#pdf-and-xps-output)|아니요|있음|예|예|아니요|
+|[온라인 도움말](../project-online-service-description/core-functionality.md#online-help)|아니오|있음|예|예|아니요|
+|[PDF 및 XPS 출력](../project-online-service-description/core-functionality.md#pdf-and-xps-output)|아니오|있음|예|예|아니요|
 |[프로젝트 필드의 자리 표시자 텍스트](../project-online-service-description/core-functionality.md#placeholder-text-in-project-fields)|아니요|있음|예|예|아니요|
 |[프로젝트 템플릿](../project-online-service-description/core-functionality.md#project-templates)|아니요|있음|예|예|아니요|
 |[환경 시작](../project-online-service-description/core-functionality.md#start-experience)|아니요|있음|예|예|아니요|
@@ -1163,49 +1153,49 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |[리소스 평준화](../project-online-service-description/project-resource-management.md#resource-leveling)|아니요|있음|예|예|아니요|
 |[리소스 시트 및 배정 현황 보기](../project-online-service-description/project-resource-management.md#resource-sheet-and-usage-views)|아니요|있음|예|예|아니요|
 |[자원 대체](../project-online-service-description/project-resource-management.md#resource-substitution)|아니요|있음|예|예|아니요|
-|[팀 리소스](../project-online-service-description/project-resource-management.md#team-resources)|아니요|있음|예|예|아니요|
-|[작업, 일반, 재료 리소스](../project-online-service-description/project-resource-management.md#work-generic-and-material-resources)|아니요|있음|예|예|아니요|
+|[팀 리소스](../project-online-service-description/project-resource-management.md#team-resources)|아니오|있음|예|예|아니요|
+|[작업, 일반, 재료 리소스](../project-online-service-description/project-resource-management.md#work-generic-and-material-resources)|아니오|있음|예|예|아니요|
 |**프로젝트 게시(데스크톱 클라이언트)**|**21Vianet에서 운영하는 Office 365용 Project Online Essentials**|**21Vianet에서 운영하는 Office 365용 Project Online Professional**|**21Vianet에서 운영하는 Office 365용 Project Online Premium**|**21Vianet에서 운영하는 Office 365용 Project Professional 2016**|**21Vianet에서 운영하는 Office 365용 Project Server 2016**|
-|[프로젝트 사이트 만들기](../project-online-service-description/project-publishing.md#create-a-project-site)|아니요|있음|예|예|아니요|
-|[Sharepoint의 마스터 프로젝트](../project-online-service-description/project-publishing.md#master-projects-on-sharepoint)|아니요|있음|예|예|아니요|
-|[비즈니스용 Skype를 사용한 현재 상태](../project-online-service-description/project-publishing.md#presence-with-skype-for-business)|아니요|있음|예|예|아니요|
-|[Project Server 또는 Project Online에 프로젝트 게시](../project-online-service-description/project-publishing.md#publish-projects-on-project-server-or-project-online)|아니요|있음|예|예|아니요|
-|[SharePoint에 프로젝트 MPP 파일 저장](../project-online-service-description/project-publishing.md#save-a-project-mpp-file-on-sharepoint)|아니요|있음|예|예|아니요|
-|[SharePoint와 작업 목록 동기화](../project-online-service-description/project-publishing.md#task-list-sync-to-sharepoint)|아니요|있음|예|예|아니요|
+|[프로젝트 사이트 만들기](../project-online-service-description/project-publishing.md#create-a-project-site)|아니오|있음|예|예|아니요|
+|[Sharepoint의 마스터 프로젝트](../project-online-service-description/project-publishing.md#master-projects-on-sharepoint)|아니오|있음|예|예|아니요|
+|[비즈니스용 Skype를 사용한 현재 상태](../project-online-service-description/project-publishing.md#presence-with-skype-for-business)|아니오|있음|예|예|아니요|
+|[Project Server 또는 Project Online에 프로젝트 게시](../project-online-service-description/project-publishing.md#publish-projects-on-project-server-or-project-online)|아니오|있음|예|예|아니요|
+|[SharePoint에 프로젝트 MPP 파일 저장](../project-online-service-description/project-publishing.md#save-a-project-mpp-file-on-sharepoint)|아니오|있음|예|예|아니요|
+|[SharePoint와 작업 목록 동기화](../project-online-service-description/project-publishing.md#task-list-sync-to-sharepoint)|아니오|있음|예|예|아니요|
 |**핵심 서비스 기능**|**21Vianet에서 운영하는 Office 365용 Project Online Essentials**|**21Vianet에서 운영하는 Office 365용 Project Online Professional**|**21Vianet에서 운영하는 Office 365용 Project Online Premium**|**21Vianet에서 운영하는 Office 365용 Project Professional 2016**|**21Vianet에서 운영하는 Office 365용 Project Server 2016**|
-|[Active Directory 통합](../project-online-service-description/core-services-functionality.md#active-directory-integration)|예<sup>1</sup>|예|예|아니요|있음|
-|[관리, 배포 및 확장성](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|No<sup>2</sup>|예|예|아니요|있음|
-|[시작](../project-online-service-description/core-services-functionality.md#getting-started)|예|예|예|아니요|있음|
-|[문제점 및 위험 관리(팀 구성원용)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|예|예|예|아니요|있음|
+|[Active Directory 통합](../project-online-service-description/core-services-functionality.md#active-directory-integration)|예<sup>1</sup>|예|예|아니오|있음|
+|[관리, 배포 및 확장성](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|No<sup>2</sup>|예|예|아니오|있음|
+|[시작](../project-online-service-description/core-services-functionality.md#getting-started)|예|예|예|아니오|있음|
+|[문제점 및 위험 관리(팀 구성원용)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|예|예|예|아니오|있음|
 |[Office 365 보안 센터](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|아니요|아니요|아니요|해당 없음|해당 없음|
-|[PPM 파트너 에코시스템](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|예|예|예|아니요|있음|
+|[PPM 파트너 에코시스템](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|예|예|예|아니오|있음|
 |[서비스 안정성](../project-online-service-description/core-services-functionality.md#service-reliability)|예|예|예|해당 없음|해당 없음|
 |[서비스 업데이트](../project-online-service-description/core-services-functionality.md#service-updates)|예|예|예|해당 없음|해당 없음|
-|[팀 구성원 공동 작업](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|예|예|예|아니요|있음|
-|[시간 및 작업 관리(팀 구성원용)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|예|예|예|아니요|예|
+|[팀 구성원 공동 작업](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|예|예|예|아니오|있음|
+|[시간 및 작업 관리(팀 구성원용)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|예|예|예|아니오|예|
 |**프로젝트 관리**|**21Vianet에서 운영하는 Office 365용 Project Online Essentials**|**21Vianet에서 운영하는 Office 365용 Project Online Professional**|**21Vianet에서 운영하는 Office 365용 Project Online Premium**|**21Vianet에서 운영하는 Office 365용 Project Professional 2016**|**21Vianet에서 운영하는 Office 365용 Project Server 2016**|
-|[문제점 및 위험 관리](../project-online-service-description/project-management.md#issues-and-risk-management)|아니요|있음|예|아니요|있음|
-|[프로젝트 리소스 관리](../project-online-service-description/project-management.md#manage-project-resources)|아니요|있음|예|아니요|있음|
-|[일정 관리](../project-online-service-description/project-management.md#reporting-and-business-intelligence)|아니요|있음|예|예|예|
-|[시간 및 작업 관리](../project-online-service-description/project-management.md#time-and-task-management)|아니요|있음|예|아니요|있음|
+|[문제점 및 위험 관리](../project-online-service-description/project-management.md#issues-and-risk-management)|아니오|있음|예|아니오|있음|
+|[프로젝트 리소스 관리](../project-online-service-description/project-management.md#manage-project-resources)|아니오|있음|예|아니오|있음|
+|[일정 관리](../project-online-service-description/project-management.md#reporting-and-business-intelligence)|아니오|있음|예|예|예|
+|[시간 및 작업 관리](../project-online-service-description/project-management.md#time-and-task-management)|아니오|있음|예|아니오|있음|
 |**포트폴리오 관리**|**21Vianet에서 운영하는 Office 365용 Project Online Essentials**|**21Vianet에서 운영하는 Office 365용 Project Online Professional**|**21Vianet에서 운영하는 Office 365용 Project Online Premium**|**21Vianet에서 운영하는 Office 365용 Project Professional 2016**|**21Vianet에서 운영하는 Office 365용 Project Server 2016**|
-|[프로젝트 분석 및 포트폴리오 최적화](../project-online-service-description/portfolio-management.md#analyze-projects-and-optimize-portfolio)|아니요|아니요|예|아니요|있음|
-|[프로젝트 만들기 및 편집](../project-online-service-description/portfolio-management.md#create-and-edit-projects)|아니요|있음|예|아니요|있음|
-|[재무 관리](../project-online-service-description/portfolio-management.md#financial-management)|아니요|아니요|예|아니요|있음|
-|[워크플로에 참여](../project-online-service-description/portfolio-management.md#participate-in-workflow)|아니요|있음|예|아니요|있음|
-|[포트폴리오 분석 및 선택](../project-online-service-description/portfolio-management.md#portfolio-analytics-and-selection)|아니요|아니요|예|아니요|있음|
-|[프로그램 관리](../project-online-service-description/portfolio-management.md#program-management)|아니요|아니요|예|아니요|있음|
+|[프로젝트 분석 및 포트폴리오 최적화](../project-online-service-description/portfolio-management.md#analyze-projects-and-optimize-portfolio)|아니요|아니요|예|아니오|있음|
+|[프로젝트 만들기 및 편집](../project-online-service-description/portfolio-management.md#create-and-edit-projects)|아니오|있음|예|아니오|있음|
+|[재무 관리](../project-online-service-description/portfolio-management.md#financial-management)|아니요|아니요|예|아니오|있음|
+|[워크플로에 참여](../project-online-service-description/portfolio-management.md#participate-in-workflow)|아니오|있음|예|아니오|있음|
+|[포트폴리오 분석 및 선택](../project-online-service-description/portfolio-management.md#portfolio-analytics-and-selection)|아니요|아니요|예|아니오|있음|
+|[프로그램 관리](../project-online-service-description/portfolio-management.md#program-management)|아니요|아니요|예|아니오|있음|
 |**보고 및 비즈니스 인텔리전스**|**21Vianet에서 운영하는 Office 365용 Project Online Essentials**|**21Vianet에서 운영하는 Office 365용 Project Online Professional**|**21Vianet에서 운영하는 Office 365용 Project Online Premium**|**21Vianet에서 운영하는 Office 365용 Project Professional 2016**|**21Vianet에서 운영하는 Office 365용 Project Server 2016**|
-|[OData 피드](../project-online-service-description/reporting-and-business-intelligence.md#odata-feeds)|아니요|있음|예|아니요|예|
+|[OData 피드](../project-online-service-description/reporting-and-business-intelligence.md#odata-feeds)|아니오|있음|예|아니오|예|
 |[기본 포트폴리오 대시보드](../project-online-service-description/reporting-and-business-intelligence.md#out-of-the-box-portfolio-dashboards)|아니요|아니요|예|아니요|아니요|
 |Power BI content pack|아니요|아니요|예|아니요|아니요|
-|[프로젝트 데스크톱 보고](../project-online-service-description/reporting-and-business-intelligence.md#project-desktop-reporting)|아니요|있음|예|예|아니요|
+|[프로젝트 데스크톱 보고](../project-online-service-description/reporting-and-business-intelligence.md#project-desktop-reporting)|아니오|있음|예|예|아니요|
 |**자원 관리**|**21Vianet에서 운영하는 Office 365용 Project Online Essentials**|**21Vianet에서 운영하는 Office 365용 Project Online Professional**|**21Vianet에서 운영하는 Office 365용 Project Online Premium**|**21Vianet에서 운영하는 Office 365용 Project Professional 2016**|**21Vianet에서 운영하는 Office 365용 Project Server 2016**|
-|[수신 리소스 참여 요청 수락/거절/수정](../project-online-service-description/resource-management.md#approverejectmodify-incoming-resource-engagement-requests)|아니요|아니요|예|아니요|예|
-|[자원 그룹 관리](../project-online-service-description/resource-management.md#manage-resource-pool)|아니요|아니요|예|아니요|예|
-|[리소스 용량 계획](../project-online-service-description/resource-management.md#plan-resource-capacity)|아니요|아니요|예|아니요|예|
-|[리소스 용량 계약](../project-online-service-description/resource-management.md#request-resource-agreements)|아니요|있음|예|예|예|
-|[사용 가능한 리소스 보기 및 팀 구성](../project-online-service-description/resource-management.md#view-available-resources-and-build-teams)|아니요|예|예|예|예|
+|[수신 리소스 참여 요청 수락/거절/수정](../project-online-service-description/resource-management.md#approverejectmodify-incoming-resource-engagement-requests)|아니요|아니요|예|아니오|예|
+|[자원 그룹 관리](../project-online-service-description/resource-management.md#manage-resource-pool)|아니요|아니요|예|아니오|예|
+|[리소스 용량 계획](../project-online-service-description/resource-management.md#plan-resource-capacity)|아니요|아니요|예|아니오|예|
+|[리소스 용량 계약](../project-online-service-description/resource-management.md#request-resource-agreements)|아니오|있음|예|예|예|
+|[사용 가능한 리소스 보기 및 팀 구성](../project-online-service-description/resource-management.md#view-available-resources-and-build-teams)|아니오|있음|예|예|예|
 
 <sup>1</sup> Active Directory 통합에 Project Online Essentials 사용자가 포함됩니다. 그렇지만 Active Directory 통합을 관리하려면 Project Online 구독이 필요합니다.
 <br/><sup>2</sup> 팀 구성원 시나리오에 대한 확장만 지원됩니다.
