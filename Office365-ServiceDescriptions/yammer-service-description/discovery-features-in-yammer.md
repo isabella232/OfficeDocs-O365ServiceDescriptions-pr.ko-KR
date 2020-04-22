@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: Yammer에서는 다음과 같은 검색 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 7207f3c6317d7a8479692bcbf06ff2b242eb5ce1
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 44f959480415dc1d4eba7b3159fb46e38d153da0
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263099"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640076"
 ---
 # <a name="discovery-features-in-yammer"></a>Yammer의 검색 기능
 
@@ -45,6 +45,6 @@ Yammer에서는 다음과 같은 검색 기능을 사용할 수 있습니다.
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Yammer 서비스 설명을](yammer-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Yammer 서비스 설명을](yammer-service-description.md)참조 하세요.
   
   

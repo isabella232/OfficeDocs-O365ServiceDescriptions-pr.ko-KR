@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: Project Online에서는 다음과 같은 프로젝트 계획 기능을 사용할 수 있습니다.
-ms.openlocfilehash: e591d491f76a340da7e3260ece0210de3ac57637
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 74e091f674bead0ad8300a6045df5181cf5bb71f
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546031"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640206"
 ---
 # <a name="project-planning"></a>프로젝트 계획
 
@@ -63,5 +63,5 @@ Project 2016에서는 데이터를 다른 프로그램으로 내보낼 필요 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Project Online service description](project-online-service-description.md)을 참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Project Online service description](project-online-service-description.md)을 참조 하세요.
   

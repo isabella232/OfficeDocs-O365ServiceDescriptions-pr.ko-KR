@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열 된 기능은 많은 장치 및 여러 Office 365 서비스에서 안전 하 게 공동 작업 하 고 통신 하는 데 사용할 수 있는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: 51bb73ecf80b6fd38e958983386ed8bdd8043c09
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: b8e849c5f50ee9f289e057878bb25f1e4efa8109
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216733"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639936"
 ---
 # <a name="office-365-suite-features"></a>Office 365 suite features
 
@@ -25,9 +25,9 @@ ms.locfileid: "41216733"
   
 ## <a name="microsoft-bookings"></a>Microsoft 예약
 
-Microsoft Bookings는 고객에게 예약 기반의 서비스를 제공하는 소규모 기업용 온라인 및 모바일 앱입니다. 이러한 기업에는 미용실, 치과, 스파, 법률 사무소, 금융 거래 서비스 제공자, 컨설턴트 및 정비소 등이 있습니다. Office 365 Business Premium 구독이 있는 미국과 캐나다의 고객들은 Microsoft Bookings를 사용할 수 있습니다. 
+Microsoft Bookings는 고객에게 예약 기반의 서비스를 제공하는 소규모 기업용 온라인 및 모바일 앱입니다. 이러한 기업에는 미용실, 치과, 스파, 법률 사무소, 금융 거래 서비스 제공자, 컨설턴트 및 정비소 등이 있습니다. Microsoft 365 비즈니스 표준 구독을 보유 하 고 있는 미국 및 캐나다의 고객이 제공 합니다. 
   
-Microsoft Bookings에 대한 자세한 내용은 [Microsoft Bookings 소개](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조하세요.
+Microsoft 예약에 대 한 자세한 내용은 [Microsoft 예약을 사용 하 여 비즈니스 캘린더 온라인으로 게시](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)를 방문 하세요.
 
 ## <a name="microsoft-briefing-email"></a>Microsoft 브리핑 전자 메일
 
@@ -39,7 +39,7 @@ Microsoft Bookings에 대한 자세한 내용은 [Microsoft Bookings 소개](htt
 
 브리핑 전자 메일은 Exchange Online의 모든 사용자에 게 자동으로 제공 됩니다. 자세한 내용은 [브리핑 전자 메일 개요](https://docs.microsoft.com/Briefing/be-overview)를 참조 하세요.
 
-## <a name="microsoft-power-automate"></a>Microsoft 파워 자동화
+## <a name="microsoft-power-automate"></a>Microsoft Power Automate
 
 Microsoft 파워 자동 자동화를 사용 하면 여러 응용 프로그램에서 워크플로를 자동화할 수 있습니다. Flow를 사용하여 전자 메일 및 IM 알림을 연결하고, 응용 프로그램 간에 파일을 동기화하며, 한 서비스에서 다른 서비스로 파일을 복사하고, 한 앱에서 데이터를 수집하여 다른 앱에 저장하는 등의 작업을 수행할 수 있습니다. 시작하기 위한 템플릿을 제공합니다. Flow 기능 및 사용 방법에 대한 자세한 내용은 Microsoft [Flow 웹 사이트](https://flow.microsoft.com/en-us/)를 참조하세요.
   

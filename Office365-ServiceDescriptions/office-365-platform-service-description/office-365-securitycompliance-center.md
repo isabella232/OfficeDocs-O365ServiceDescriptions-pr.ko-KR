@@ -1,5 +1,5 @@
 ---
-title: Office 365 보안 및 준수 센터
+title: 보안 및 준수 센터
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: Office 365 보안 &amp; 및 준수 센터는 조직에 대 한 office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: 672063dcd87446eb552f635654c7ca0f48b60168
-ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
+description: 보안 &amp; 및 준수 센터는 조직에 대 한 Office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
+ms.openlocfilehash: a63a6b925ca65438a8a760e502e0cc777f354387
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43109438"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639686"
 ---
-# <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
+# <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-[Office 365 보안 &amp; 및 준수 센터](https://protection.office.com/) 는 조직에 대 한 office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
+[ &amp; 보안 및 준수 센터](https://protection.office.com/) 는 조직에 대 한 Office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
@@ -30,7 +30,7 @@ ms.locfileid: "43109438"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**  |**Office 365 Business Essentials**  |**Office 365 Business Premium**  |**Office 365 Enterprise E1**, **Office 365 US 정부 G1**  |**Office 365 Enterprise E3**, **Office 365 US 정부 G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise F3**  **Office 365 US 정부 F3**|
+|**기능**  |**Microsoft 365 Business Basic**  |**Microsoft 365 비즈니스 표준**  |**Office 365 Enterprise E1**, **Office 365 US 정부 G1**  |**Office 365 Enterprise E3**, **Office 365 US 정부 G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise F3**  **Office 365 US 정부 F3**|
 |[보안 &amp; 및 준수 센터에 대 한 액세스](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |예   |예   |예   |예   |예   |예   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |아니요   |아니요   |아니요|아니요   |예   |아니요   |
 |메일 필터링 및 맬웨어 방지와 같은 [위협 관리](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) |예   |예   |예   |예   |예   |예   |
@@ -56,7 +56,7 @@ ms.locfileid: "43109438"
 |[OME(Office 365 메시지 암호화)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
 |[Office 365 고급 메시지 암호화](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
 |[권한 있는 액세스 관리](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
-|[Office 365 고객 키](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
+|[고객 키](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
 ||||||||
 
 <sup>1</sup> 정보 거 버 넌 스에서는 사용자가 문서에 레이블을 만들고 게시 하 고 수동으로 적용할 수 있습니다. 드라이브 전달을 사용 하거나 네트워크를 통해 데이터를 가져옵니다.
@@ -96,17 +96,17 @@ ms.locfileid: "43109438"
 |피싱 캠페인에 대 한 위협 탐색기와 같은 [Advanced threat management](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요  |
 |[고객 Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
 |[모바일 장치 관리](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |예   |예   |예   |예   |예   |예   |예   |예   |예   |
-|[Exchange online, SharePoint online 및 비즈니스용 OneDrive 9에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup>  |아니요   |예   |아니요   |아니요   |예 <sup>7<sup>  |아니요  |예<sup>10</sup> |아니요   |있음   |
+|[Exchange online, SharePoint online 및 비즈니스용 OneDrive 9에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup>  |아니오   |예   |아니요   |아니요   |예 <sup>7<sup>  |아니요  |예<sup>10</sup> |아니오   |있음   |
 |[Microsoft 팀에 대 한 통신 데이터 손실 방지](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
 |[정보 장벽](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
 |[정보 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup>  |예<sup>2</sup>  |예   |예   |예   |예   |예<sup>10</sup>  |예<sup>10</sup>  |예   |예   |
 |[고급 정보 관리](https://docs.microsoft.com/office365/securitycompliance/labels)방식<sup>3</sup>  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
 |[콘텐츠 검색](https://docs.microsoft.com/office365/securitycompliance/search-for-content)  |예   |예   |예   |예   |예  | 예<sup>10</sup>  |예<sup>10</sup>  |예   |예   |
 |[eDiscovery 사례](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |예   |예   |예   |예   |예   |예<sup>10</sup>  |예<sup>10</sup>  |아니요   |아니요   |
-|[eDiscovery 내보내기](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |아니요   |예   |아니요   |아니요   |예   |아니요  |예<sup>10</sup> |<sup>4</sup> 없음  |<sup>4</sup> 없음  |
-|[eDiscovery 보류 (쿼리 기반 eDiscovery 보류 포함)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1)  |아니요   |예   |아니요   |아니요   |예   |아니요  |예<sup>10</sup> |<sup>4</sup> 없음  |<sup>4</sup> 없음  |
+|[eDiscovery 내보내기](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |아니오   |예   |아니요   |아니요   |예   |아니요  |예<sup>10</sup> |<sup>4</sup> 없음  |<sup>4</sup> 없음  |
+|[eDiscovery 보류 (쿼리 기반 eDiscovery 보류 포함)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1)  |아니오   |예   |아니요   |아니요   |예   |아니요  |예<sup>10</sup> |<sup>4</sup> 없음  |<sup>4</sup> 없음  |
 |[고급 eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
-|[보관](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup>  |아니요   |예   |아니요   |있음   |예   |예<sup>10</sup> |예<sup>10</sup>  |아니요   |아니요   |
+|[보관](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup>  |아니오   |예   |아니오   |있음   |예   |예<sup>10</sup> |예<sup>10</sup>  |아니요   |아니요   |
 |[통합 감사](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup>|예|예|예|예|예|예<sup>10</sup>|예<sup>10</sup>|아니요|아니요|
 |고급 감사|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |[통신 준수 (감독 정책)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |

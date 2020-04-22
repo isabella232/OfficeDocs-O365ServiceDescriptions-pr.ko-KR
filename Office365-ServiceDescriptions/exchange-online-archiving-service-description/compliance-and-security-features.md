@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 3d740495a70834cd8f5e8eaeddc04774c2e38664
-ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
+ms.openlocfilehash: b977fea67c28a660a7468945c76d19677769cd8f
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43093565"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638696"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online 보관의 규정 준수 및 보안 기능
 
@@ -88,7 +88,7 @@ Exchange 관리 센터 및 원격 Windows PowerShell을 사용하여 원본 위�
   
 ### <a name="encryption-between-on-premises-servers-and-exchange-online-archiving"></a>온-프레미스 서버와 Exchange Online Archiving 간 암호화
 
-전자 메일 서버 간 연결을 암호화하는 데는 TLS가 사용되어 스푸핑이 방지되도록 하고 전송 중인 메시지에 기밀성을 제공합니다. 또한 TLS는 Exchange Online Archiving용 Office 365 데이터 센터로 전송되는 온-프레미스 메일 서버 트래픽의 보안을 유지하는 데 사용됩니다.
+전자 메일 서버 간 연결을 암호화하는 데는 TLS가 사용되어 스푸핑이 방지되도록 하고 전송 중인 메시지에 기밀성을 제공합니다. TLS는 Exchange Online 보관용 Microsoft 데이터 센터에 대 한 온-프레미스 메일 서버 트래픽을 보호 하는 데도 사용 됩니다.
   
 ### <a name="encrypting-between-clients-and-exchange-online-archiving"></a>클라이언트와 Exchange Online Archiving 간 암호화
 
@@ -130,6 +130,6 @@ Exchange 관리 센터에서는 관리자 역할 변경, 소송 보존, 비소�
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 보관 서비스 설명을](exchange-online-archiving-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 보관 서비스 설명을](exchange-online-archiving-service-description.md)참조 하세요.
   
 

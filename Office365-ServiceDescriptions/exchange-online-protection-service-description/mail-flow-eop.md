@@ -11,27 +11,27 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: Microsoft는 Office 365를 사용하는 대다수 조직의 사서함을 호스트하고 메일 흐름을 관리합니다. 이것은 가장 단순한 구성으로, Office 365가 모든 사서함을 관리하고 필터링한다는 것을 의미합니다. 그러나 일부 조직에서는 모든 사서함을 온-프레미스로 유지해야 할 비즈니스적 필요성을 느낍니다. EOP (Exchange Online Protection)를 사용 하 여이 작업을 수행 하 고 클라우드에 바이러스 백신 및 스팸 방지 메일 처리를 제공할 수 있습니다.
-ms.openlocfilehash: c6a41df3e8b8c157d599f6a9d55be4b7f826e1d9
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Microsoft는 Office 365를 사용하는 대다수 조직의 사서함을 호스트하고 메일 흐름을 관리합니다. 가장 간단한 구성 이며 Microsoft에서 모든 사서함과 필터링을 관리 하는 것을 의미 합니다. 그러나 일부 조직에서는 모든 사서함을 온-프레미스로 유지해야 할 비즈니스적 필요성을 느낍니다. EOP (Exchange Online Protection)를 사용 하 여이 작업을 수행 하 고 클라우드에 바이러스 백신 및 스팸 방지 메일 처리를 제공할 수 있습니다.
+ms.openlocfilehash: d85ae7b22be1405679ceac8d853b345d251166b6
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688326"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638931"
 ---
 # <a name="mail-floweop"></a>메일 흐름 [EOP]
 
-Microsoft는 Office 365를 사용하는 대다수 조직의 사서함을 호스트하고 메일 흐름을 관리합니다. 이것은 가장 단순한 구성으로, Office 365가 모든 사서함을 관리하고 필터링한다는 것을 의미합니다. 그러나 일부 조직에서는 모든 사서함을 온-프레미스로 유지해야 할 비즈니스적 필요성을 느낍니다. EOP (Exchange Online Protection)를 사용 하 여이 작업을 수행 하 고 클라우드에 바이러스 백신 및 스팸 방지 메일 처리를 제공할 수 있습니다. EOP에 대한 자세한 내용과 구매 정보는 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)을 참조하세요.
+Microsoft를 사용 하는 대부분의 조직에서는 사서함을 호스트 하 고 메일 흐름을 관리 합니다. 가장 간단한 구성 이며 Microsoft에서 모든 사서함과 필터링을 관리 하는 것을 의미 합니다. 그러나 일부 조직에서는 모든 사서함을 온-프레미스로 유지해야 할 비즈니스적 필요성을 느낍니다. EOP (Exchange Online Protection)를 사용 하 여이 작업을 수행 하 고 클라우드에 바이러스 백신 및 스팸 방지 메일 처리를 제공할 수 있습니다. EOP에 대한 자세한 내용과 구매 정보는 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)을 참조하세요.
   
 도메인 관리 또는 DBEB (디렉터리 기반 Edge 차단)에 대 한 정보를 찾으십니까? [받는 사람, 도메인 및 회사 관리](recipient-domain-and-company-management.md)를 참조 하세요. 모든 EOP 기능에 대 한 자세한 내용은 [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.
   
-## <a name="routing-email-between-office-365-and-your-own-email-servers"></a>Office 365와 자체 메일 서버 간의 이메일 라우팅
+## <a name="routing-email-between-microsoft-and-your-own-email-servers"></a>Microsoft와 자체 전자 메일 서버 간의 전자 메일 라우팅
 
-Office 365(Exchange Online 또는 EOP 포함)와 SMTP 기반 메일 서버(예: Exchange) 간에 메일 흐름을 사용하도록 커넥터를 구성할 수 있습니다. 이에 대한 자세한 정보는 [Do I need a connector](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)? 및 [Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)을 참조하세요.
+Microsoft (Exchange Online 또는 EOP 포함)와 SMTP 기반 전자 메일 서버 (예: Exchange) 간에 메일 흐름을 사용 하도록 커넥터를 구성할 수 있습니다. 이에 대한 자세한 정보는 [Do I need a connector](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)? [Microsoft와 자체 전자 메일 서버 간에 메일을 라우팅하도록 커넥터를 설정](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)합니다.
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>신뢰할 수 있는 파트너와의 보안 메시징
 
-EOP 고객은 Office 365 커넥터를 사용하여 신뢰할 수 있는 파트너와 보안 메일 흐름을 설정할 수 있습니다. Office 365는 TLS(전송 계층 보안)을 통한 보안 통신을 지원합니다. [TLS](https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections) 는 인터넷을 통한 통신에 보안을 제공 하는 암호화 프로토콜입니다. 커넥터를 사용하면 자체 서명된 인증서 또는 CA(인증 기관) 확인 인증서를 통해 강제로 받거나 보내는 TLS를 모두 구성할 수 있습니다. 도메인 이름 또는 파트너 조직에서 메일을 보내는 IP 주소 범위를 지정하는 것과 같은 기타 보안 제한을 적용할 수도 있습니다. 
+EOP 고객은 Microsoft 커넥터를 사용 하 여 신뢰할 수 있는 파트너와 보안 메일 흐름을 설정할 수 있습니다. Microsoft는 TLS (전송 계층 보안)를 통한 보안 통신을 지원 하며 TLS를 통해 암호화를 적용 하는 커넥터를 만들 수 있습니다. [TLS](https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections) 는 인터넷을 통한 통신에 보안을 제공 하는 암호화 프로토콜입니다. 커넥터를 사용하면 자체 서명된 인증서 또는 CA(인증 기관) 확인 인증서를 통해 강제로 받거나 보내는 TLS를 모두 구성할 수 있습니다. 도메인 이름 또는 파트너 조직에서 메일을 보내는 IP 주소 범위를 지정하는 것과 같은 기타 보안 제한을 적용할 수도 있습니다. 
   
 자세한 내용은 [Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner)을 참조하세요.
   
@@ -53,4 +53,4 @@ EOP 고객은 Office 365 커넥터를 사용하여 신뢰할 수 있는 파트�
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.

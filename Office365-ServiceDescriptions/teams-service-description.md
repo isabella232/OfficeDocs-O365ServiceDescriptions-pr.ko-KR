@@ -1,5 +1,5 @@
 ---
-title: Microsoft 팀 서비스 설명
+title: Microsoft Teams 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -8,14 +8,14 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 팀은 인스턴트 메시징, 파일 및 데이터 공동 작업, 오디오 및 비디오 통화, 리치 온라인 모임, 모바일 환경 및 광범위 한 웹 회의 기능을 제공 합니다.
-ms.openlocfilehash: cd16f511c5bd0af7c8e64cf4efd383ca48f74b30
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 260710e9f794c4c59447ceabd37626162e24ecbf
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609989"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640116"
 ---
-# <a name="microsoft-teams-service-description"></a>Microsoft 팀 서비스 설명
+# <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
 Microsoft 팀은 Microsoft 365의 팀 작업에 대 한 허브입니다. 팀 서비스를 사용 하면 인스턴트 메시징, 오디오 및 비디오 통화, 풍부한 온라인 모임, 모바일 환경 및 광범위 한 웹 회의 기능을 사용할 수 있습니다. 또한 팀에서는 파일 및 데이터 공동 작업 및 확장성 기능을 제공 하 고 Microsoft 365 및 기타 Microsoft 및 파트너 앱과 통합 합니다.
 
@@ -23,18 +23,18 @@ Microsoft 팀은 Microsoft 365의 팀 작업에 대 한 허브입니다. 팀 서
 
 Microsoft는 데이터의 보안 및 서비스의 [내게 필요한 옵션](https://www.microsoft.com/trust-center/compliance/accessibility) 에 대 한 커밋된 상태를 유지 합니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조 하세요.
 
-여기에는 Microsoft 팀을 위해 사용자를 사용할 수 있도록 하는 Office 365 구독의 마스터 테이블이 포함 되어 있습니다. 자세한 내용은 [Microsoft 팀에 대 한 Office 365 라이선스](https://docs.microsoft.com/microsoftteams/office-365-licensing)를 참조 하세요. 정부 계획의 추가 Office 365에 대 한 자세한 내용은 [office 365 정부 요금제](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)를 참조 하세요. Office 365 G1 to G5에는 팀 기능에 대 한 액세스 권한이 포함 됩니다.
+여기에는 Microsoft 팀을 위해 사용자를 사용할 수 있도록 하는 구독에 대 한이 마스터 테이블이 포함 되어 있습니다. 자세한 내용은 [Microsoft 팀에 대 한 라이선스](https://docs.microsoft.com/microsoftteams/office-365-licensing)를 참조 하세요. 정부 계획의 추가 Office 365에 대 한 자세한 내용은 [office 365 정부 요금제](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)를 참조 하세요. Office 365 G1 to G5에는 팀 기능에 대 한 액세스 권한이 포함 됩니다.
 
 |||||
 |:-----|:-----|:-----|:-----|
 |**소규모 기업 계획** <br/> |**엔터프라이즈 계획** <br/> |**교육 계획** <br/> |**개발자 계획** <br/> |
-|Office 365 Business Essentials  <br/> |Office 365 Enterprise E1  <br/> |Office 365 Education  <br/> |Office 365 개발자  <br/> |
-|Office 365 Business Premium  <br/> |Office 365 Enterprise E3  <br/> |Office 365 Education Plus  <br/> |   <br/> |
+|Microsoft 365 Business Basic  <br/> |Office 365 Enterprise E1  <br/> |Office 365 Education  <br/> |Office 365 개발자  <br/> |
+|Microsoft 365 비즈니스 표준  <br/> |Office 365 Enterprise E3  <br/> |Office 365 Education Plus  <br/> |   <br/> |
 |비즈니스에 대 한 Microsoft 365  <br/> |Office 365 Enterprise E4 (폐기 됨)  <br/> |Office 365 교육 E3 (폐기 됨)  <br/> |  <br/> |
 |  <br/> |Office 365 Enterprise E5  <br/> |Office 365 Education E5  <br/> |  <br/> |
 |  <br/> |Office 365 Enterprise F1  <br/> |  <br/> |  <br/> |
 
-자세한 제품 기능 구현 지침은 [Microsoft 팀 관리 설명서](https://docs.microsoft.com/MicrosoftTeams)를 참조 하십시오. 이 서비스 설명은 다양 한 클라우드 설치에서 제공 되는 서비스 간의 주요 차이점에 대해 자세히 설명 합니다. Microsoft 팀 핵심 기능은 Office 365 구독 간에는 다릅니다. 준수 기능의 가용성은 구독 수준에 따라 달라 집니다. 자세한 내용은 [Microsoft 팀의 보안 및 규정 준수](https://docs.microsoft.com/microsoftteams/security-compliance-overview)를 참조 하세요. 각 구독에서 사용할 수 있는 기능에 대 한 자세한 목록은 [Office 365 플랫폼 서비스 설명을](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)참조 하세요.
+자세한 제품 기능 구현 지침은 [Microsoft 팀 관리 설명서](https://docs.microsoft.com/MicrosoftTeams)를 참조 하십시오. 이 서비스 설명은 다양 한 클라우드 설치에서 제공 되는 서비스 간의 주요 차이점에 대해 자세히 설명 합니다. Microsoft 팀 핵심 기능은 구독 간에 차이가 없습니다. 준수 기능의 가용성은 구독 수준에 따라 달라 집니다. 자세한 내용은 [Microsoft 팀의 보안 및 규정 준수](https://docs.microsoft.com/microsoftteams/security-compliance-overview)를 참조 하세요. 각 구독에서 사용할 수 있는 기능에 대 한 자세한 목록은 [Office 365 플랫폼 서비스 설명을](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)참조 하세요.
 
 **클라우드 음성 기능**: 오디오 회의의 경우 조직에서 전화 접속 회의를 설정할 각 사용자에 게 오디오 회의 라이선스를 구입 하 여 할당 해야 합니다. 요금제를 호출 해야 하는 팀 기능의 경우 각 사용자에 게 전화 시스템과 국내 또는 국내/국제 통화 요금제가 필요 합니다. 자세한 내용은 [Microsoft 팀 추가 기능 라이선스](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)를 참조 하세요.
 
@@ -55,7 +55,7 @@ Microsoft 팀은 독립 실행형 서비스로 사용할 수 없습니다.
 |Teams  <br/> |예 <br/> |예 <br/> |예 <br/> |예<sup>1</sup>  <br/> |예<sup>1</sup>  <br/> |예  <br/> |
 |채널-표준  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |채널-개인  <br/> |예  <br/> |예<sup>2</sup>  <br/> |<sup>3</sup> 없음  <br/> |<sup>3</sup> 없음  <br/> |<sup>3</sup> 없음  <br/> |예  <br/> |
-|Meetings  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|모임  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |화면 공유 PowerPoint Audio/Video Desktop <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |음성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |오디오 회의  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |

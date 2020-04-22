@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 문서에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다.
-ms.openlocfilehash: dfb71c726e8993d333132d259828873d073f1d61
-ms.sourcegitcommit: bc0094d0f6bce70728fe740a9b1f8e60174f5617
+ms.openlocfilehash: 1040e396b63341879ee0293b4fb0ec53d296af67
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42954815"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638796"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -79,11 +79,11 @@ Office 365 Government 서비스는 미국에 실제로 있는 데이터 센터�
 > [!NOTE]
 > 일반적인 경우에는 비즈니스용 Skype에서 고객 콘텐츠를 저장하지 않지만 만약 이러한 저장을 수행할 경우 미국 내의 데이터 센터에 저장됩니다. 
   
-사용자가 웹에 대해 Office (이전 버전에서는 Office Web Apps)를 사용 하는 동안 또는 AD FS (Active Directory Federation Services) 2.0을 사용 하 고 사용자가 single을 통해 서비스에 연결할 수 있도록 정책을 설정 하는 경우 미국 내의 내에 있는 경우 로그온-웹을 위해 Office에 일시적으로 캐시 되는 모든 고객 콘텐츠는 미국 내의에 배치 됩니다.
+사용자가 웹에 대해 Office (이전 버전에서는 Office Web Apps)를 사용 하는 동안 또는 AD FS (Active Directory Federation Services) 2.0을 사용 하 고 사용자가 single sign-on을 통해 서비스에 연결할 수 있도록 하는 정책을 설정 하는 경우에는 웹에 대 한 Office에서 일시적으로 캐시 되는 모든 고객 콘텐츠가 미국 내의에 미국 내의
   
 ## <a name="office-365-us-government-and-third-party-services"></a>Office 365 Government 및 타사 서비스
 
-Office 365는 SharePoint Online 사이트, 비즈니스용 Skype, Office 365 ProPlus에 포함된 Office 응용 프로그램(예: Word, Excel, PowerPoint 및 Outlook) 및 Outlook Web App에 타사 응용 프로그램을 통합하는 기능을 제공합니다. 또한 Office 365는 타사 서비스 공급자와의 통합을 지원합니다. 이러한 타사 응용 프로그램과 서비스는 Office 365 인프라 외부의 타사 시스템에서 조직의 고객 데이터를 저장, 전송 및 처리하는 작업과 관련되어 있을 수 있으므로 Office 365 규정 준수 및 데이터 보호 약정에 해당되지 않습니다. 조직에서 이러한 서비스의 적절한 사용에 대해 평가할 때는 타사에서 제공하는 개인 정보 취급 방침 및 규정 준수 조항을 검토하는 것이 좋습니다.
+Office 365에서는 타사 응용 프로그램을 SharePoint Online 사이트, 비즈니스용 Skype, Microsoft 365 앱 (예: Word, Excel, PowerPoint, Outlook) 및 Outlook Web App에 포함 된 Office 응용 프로그램에 통합할 수 있는 기능을 제공 합니다. 또한 Office 365는 타사 서비스 공급자와의 통합을 지원합니다. 이러한 타사 응용 프로그램과 서비스는 Office 365 인프라 외부의 타사 시스템에서 조직의 고객 데이터를 저장, 전송 및 처리하는 작업과 관련되어 있을 수 있으므로 Office 365 규정 준수 및 데이터 보호 약정에 해당되지 않습니다. 조직에서 이러한 서비스의 적절한 사용에 대해 평가할 때는 타사에서 제공하는 개인 정보 취급 방침 및 규정 준수 조항을 검토하는 것이 좋습니다.
   
 ## <a name="restricted-data-access-by-administrators"></a>관리자에 의한 데이터 액세스 제한
 
@@ -134,7 +134,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
   
 ## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-보안 &amp; 및 준수 센터에 대 한 자세한 내용과 추가 정보 및 가용성에 대 한 링크는 [Office &amp; 365 보안 및 준수 센터](../../office-365-platform-service-description/office-365-securitycompliance-center.md)를 참조 하세요.
+보안 &amp; 및 준수 센터에 대 한 자세한 내용과 추가 정보 및 가용성에 대 한 링크는 [ &amp; 보안 준수 센터](../../office-365-platform-service-description/office-365-securitycompliance-center.md)를 참조 하세요.
   
 ## <a name="service-availability-for-each-plan"></a>각 계획의 서비스 가용성
 
@@ -144,7 +144,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |:-----|:-----|:-----|:-----|:-----|
 |**Office 365 서비스** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |웹에 대 한 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Office 365 ProPlus  <br/> |아니요 <br/> |지원 <br/> |예 <br/> |아니요  <br/> |
+|Microsoft 365 enterprise 용 앱  <br/> |아니요 <br/> |지원 <br/> |예 <br/> |아니요  <br/> |
 |Exchange Online  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange Online Protection  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |SharePoint Online  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -156,7 +156,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |웹용 Visio  <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |<sup>6</sup> 없음 <br/> |
 |Yammer Enterprise  <br/> |<sup>4</sup> 없음 <br/> |<sup>4</sup> 없음 <br/> |<sup>4</sup> 없음 <br/> |<sup>4</sup> 없음 <br/> |
    
-> <sup>1</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus, G3 및 G5에는 고급 전화 통신 지원, 보관 및 규정 준수 기능과 같은 추가 기능을 비롯 한 전체 Skype 응용 프로그램이 포함 됩니다. A Skype for Business Online license must be assigned for each user.
+> <sup>1</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. Microsoft 365 Apps for enterprise, G3 및 G5에는 고급 전화 통신 지원, 보관 및 규정 준수 기능과 같은 추가 기능을 비롯 한 전체 Skype 응용 프로그램이 포함 됩니다. A Skype for Business Online license must be assigned for each user.
 <br/><sup>2</sup> 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있습니다. Project Online에는 구독의 일부로 Project Online 데스크톱 클라이언트가 포함 되어 있습니다.
 <br/> <sup>3</sup> GCC High 또는 DoD 요금제에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다. 
 <br/><sup>4</sup> Yammer Enterprise는 OFFICE 365 US 정부의 구성 요소가 아니며, GCC에서 office 365에 사용이 허가 된 각 사용자의 독립 실행형 제공으로 취득 될 수 있습니다. 이 제안은 현재 기업 계약과 엔터프라이즈 구독 계약에 따라 Office 365 GCC를 구매한 고객만으로 제한 됩니다. Yammer는 GCC High 또는 DoD에서는 사용할 수 없습니다.
@@ -193,7 +193,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**[사용자 계정 관리](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |클라우드 ID  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |페더레이션 ID(Single Sign-On)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|다단계 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Multi-Factor Authentication  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |전화 요인 인증  <br/> |예<sup>9</sup> <br/> |예<sup>9</sup> <br/> |예  <br/> |예<sup>9</sup> <br/> |
 |Office 365 데스크톱 설정  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365로 사용자 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -241,7 +241,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |다운로드 가능한 메일 보호 보고서  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |사용된 브라우저  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |사용된 운영 체제  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
-|Office 365 보고 웹 서비스를 사용하여 자신만의 보고서 만들기  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
+|Microsoft 365 보고 웹 서비스를 사용 하 여 자체 보고서 만들기  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
 |**[서비스 업데이트](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |모든 고객에게 제공되는 정규 업데이트  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |알림을 보낸 대상: 메시지 센터 작업이 다음과 같은 경우 필수  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |
@@ -259,10 +259,10 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |고급 데이터 거버넌스  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예 <br/> |<sup>12</sup> <br/> |
 |Cloud App Security  <br/> |<sup>12, 15, 19</sup> <br/> |<sup>12, 15, 19</sup> <br/> |예<sup>15, 19</sup> <br/> |<sup>12, 15, 19</sup> <br/> |
 |Advanced Threat Protection  <br/> |<sup>12, 18</sup> <br/> |<sup>12, 18</sup> <br/> |예<sup>18</sup>  <br/> |<sup>12, 18</sup> <br/> |
-|고객 Lockbox  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예 <br/> |<sup>12</sup> <br/> |
-|Office 365 고급 eDiscovery  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예  <br/> |<sup>12</sup> <br/> |
+|Customer Lockbox  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예 <br/> |<sup>12</sup> <br/> |
+|Advanced eDiscovery  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예  <br/> |<sup>12</sup> <br/> |
 |보안 점수<sup>14</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |
-|Office 메시지 암호화  <br/> |아니요  <br/> |있음 <br/> |예 <br/> |아니요  <br/> |
+|Office 메시지 암호화  <br/> |아니오  <br/> |있음 <br/> |예 <br/> |아니요  <br/> |
 |위협 인텔리전스  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예 <br/> |<sup>12</sup> <br/> |
 |**[규정 준수](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
 |SAS 70 / SSAE16 평가  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -283,7 +283,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**[서비스 수준 계약](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[제품 사용권](../../office-365-platform-service-description/product-use-rights.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
    
-> <sup>1</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 Office 365 정부 G1 또는 Office 365 정부 F3에 포함 되지 않은 Office 365 ProPlus에 대 한 구독이 필요 합니다. > 
+> <sup>1</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 Office 365 정부 G1 또는 Office 365 정부 F3에 포함 되지 않은 Microsoft 365 for enterprise 앱을 구독 해야 합니다. > 
 <br/><sup>2</sup> 기존 bbcs 및 BIS 고객은 서비스를 계속 사용할 수 있습니다. 신규 고객은 수락되지 않습니다. 
 <br/><sup>3</sup> 디렉터리 동기화를 사용할 경우 계정을 삭제 하거나 암호를 변경 하려면 Office 365 포털이 아닌 Active directory를 사용 하거나 Windows PowerShell 용 Azure Active directory 모듈을 사용 해야 합니다. 
 <br/><sup>4</sup> 암호 동기화를 사용 하는 경우 사용자는 로컬 Active Directory에서 암호를 변경 해야 합니다. 
@@ -341,29 +341,29 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |데스크톱 가상화  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |Excel 스프레드시트 비교  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |Excel 스프레드시트 조회  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|그룹 정책 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|그룹 정책 지원  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |Azure Information Protection을 사용한 정보 권한 관리  <br/> |No<sup>1</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |No<sup>1</sup> <br/> |
 |Windows Server AD RMS를 사용한 정보 권한 관리  <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |
-|Office 추가 기능, ActiveX 및 BHO 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|Office 추가 기능, ActiveX 및 BHO 지원  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |Office Lens  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Office 원격 분석  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
-|클라이언트 응용 프로그램에 대한 오프라인 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
-|최적화된 클라이언트 병렬 설치  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|클라이언트 응용 프로그램에 대한 오프라인 지원  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|최적화된 클라이언트 병렬 설치  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |Excel용 파워 맵  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Power Pivot for Excel  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Excel용 파워 쿼리  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Power View for Excel  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |로밍 설정  <br/> |아니요  <br/> |예<sup></sup> <br/> |예<sup></sup> <br/> |아니요  <br/> |
-|공유 컴퓨터 활성화  <br/> |아니요  <br/> |있음 <br/> |예 <br/> |아니요  <br/> |
-|클라우드 기반 파일 저장 차단 지원  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|공유 컴퓨터 활성화  <br/> |아니오  <br/> |있음 <br/> |예 <br/> |아니요  <br/> |
+|클라우드 기반 파일 저장 차단 지원  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |버전 업그레이드  <br/> |아니요  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |아니요  <br/> |
 |Volume activation (KMS/MAK)  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
    
-> <sup>1</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 Office 365 정부 G1 또는 Office 365 정부 F3에 포함 되지 않은 Office 365 ProPlus에 대 한 구독이 필요 합니다. 
+> <sup>1</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 Office 365 정부 G1 또는 Office 365 정부 F3에 포함 되지 않은 Microsoft 365 for enterprise 앱을 구독 해야 합니다. 
 <br/><sup>2</sup> WINDOWS SERVER AD RMS는 지원 되는 IRM 기능을 사용 하기 위해 별도로 구입 하 여 관리 해야 하는 온-프레미스 서버입니다. 
-<br/><sup>3</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise e 3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능과 같은 추가 기능을 비롯 한 전체 Skype 응용 프로그램이 포함 됩니다. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
+<br/><sup>3</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. Microsoft 365 Apps for enterprise 및 Office 365 Enterprise e 3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능과 같은 추가 기능을 비롯 한 전체 Skype 응용 프로그램이 포함 됩니다. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
 <br/><sup>4</sup> GCC High 또는 DoD 환경에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다.
 <br/><sup>5</sup> [정부 커뮤니티 클라우드에서 iOS 및 Android 용 Outlook 사용에서](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) 자세한 내용을 참조 하세요.
 <br/><sup>6</sup> Office 365 DoD 환경에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다.

@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer는 최고의, 보안 및 사설 엔터프라이즈 소셜 네트워크입니다. Yammer를 통해 직원들은 손쉽게 공동 작업을 수행하고 더욱 신속하게 의사 결정하고 비즈니스 과제를 담당하는 팀으로 자가 조직화할 수 있기 때문에 더욱 강력한 생산성을 갖추고 성과를 올릴 수 있습니다. Yammer는 비즈니스 제휴 및 민첩성을 자연스럽게 유도하면서 주기 시간을 줄이고 직원 간의 공동 작업을 진행하고 고객과 파트너와의 관계를 향상시킬 수 있는 새로운 작업 방식입니다.
-ms.openlocfilehash: a7f918f7bca754596f18e926e03d282b43fe84d0
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 65a8dc8e6c407278e395a1a9506c9ac9a272cd4c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263139"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640186"
 ---
 # <a name="yammer-service-description"></a>Yammer 서비스 설명
 
 Yammer는 최고의, 보안 및 사설 엔터프라이즈 소셜 네트워크입니다. Yammer를 통해 직원들은 손쉽게 공동 작업을 수행하고 더욱 신속하게 의사 결정하고 비즈니스 과제를 담당하는 팀으로 자가 조직화할 수 있기 때문에 더욱 강력한 생산성을 갖추고 성과를 올릴 수 있습니다. Yammer는 비즈니스 제휴 및 민첩성을 자연스럽게 유도하면서 주기 시간을 줄이고 직원 간의 공동 작업을 진행하고 고객과 파트너와의 관계를 향상시킬 수 있는 새로운 작업 방식입니다.
   
-Yammer가 포함된 Office 365 계획 목록은 [Office 365 서비스 제품군 및 계획](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)을 참조하세요.
+Yammer를 포함 하는 계획 목록은 [Microsoft 서비스 제품군 및 요금제](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)를 참조 하세요.
   
-계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)를 참조하세요.
+계획 간에 기능을 비교 하려면 [Microsoft 365 for 비즈니스 요금제 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)를 참조 하세요.
   
 > [!TIP]
-> Office 365 서비스 설명에서 페이지를 내보내고 저장 하 고 인쇄할 수 있습니다. [여러 페이지 내보내기](https://go.microsoft.com/fwlink/?LinkId=403349) 방법을 알아보세요. 
+> Microsoft 서비스 설명에서 페이지를 내보내고 저장 하 고 인쇄할 수 있습니다. [여러 페이지 내보내기](https://go.microsoft.com/fwlink/?LinkId=403349) 방법을 알아보세요. 
   
 ## <a name="system-requirements"></a>시스템 요구 사항
 
-비즈니스, 교육 및 정부 조직이 사용할 수 있는 월 단위 구독 기반 서비스인 Office 365의 시스템 요구 사항에 대한 자세한 내용은 [Office 365 시스템 요구 사항](https://products.office.com/office-system-requirements/#Office365forBEG)을 참조하세요.
+비즈니스, 교육 및 정부 조직에서 사용할 수 있는 월별 구독 기반 서비스인 Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [Microsoft 365 시스템 요구 사항을](https://products.office.com/office-system-requirements/#Office365forBEG)참조 하세요.
   
 ## <a name="yammer-plans"></a>Yammer 계획
 
@@ -49,7 +49,7 @@ Yammer는 다음 계획을 통해 사용할 수 있습니다.
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer enterprise 서비스 통신 정책
 <a name="YammerCommsPolicy"> </a>
 
-Yammer는 Office 365의 일부분이 며 [office 365 변경 관리 정책을](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/)준수 하지만, 대상 지정 된 릴리스를 사용 하 여 업데이트를 롤업 하지는 않습니다. 
+Yammer는 [Microsoft 365 변경 관리 정책을](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/)준수 하지만 대상 지정 된 릴리스를 사용 하 여 업데이트를 롤업 하지는 않습니다. 
   
 모든 Yammer 사용자는 A/B 기능 테스트의 대상입니다. 이렇게 하면 Microsoft가 많은 환경 및 장치에서 안정성, 성능 및 환경 개선에 대한 기능을 테스트할 수 있습니다. 같은 네트워크 내의 사용자라도 테스트로 인해 환경이 달라질 수 있습니다. 고객은 A/B 테스트를 거부할 수 없습니다.
   
@@ -59,8 +59,8 @@ Yammer는 Office 365의 일부분이 며 [office 365 변경 관리 정책을](ht
   
 |||
 |:-----|:-----|
-|**작업이 필요한 변경 내용 (변경 계획)** <br/>서비스가 실행 되는 것을 유지 하기 위해 변경 작업을 수행 해야 하며, 조직의 규정 준수에 영향을 줄 수 있는 업데이트  <br/> |-Office 365 메시지 센터 전자 메일이 Yammer 확인 된 관리자에 게 다이렉트 됨 <br/>-Office 365 로드맵<br/>-Yammer 서비스 업데이트<br/>-외부 그룹<br/>대상 사용자 집합에 영향을 주는 변경 내용으로 인해 해당 사용자에 게 직접 알릴 수도 있습니다. |
-|**인식이 필요한 변경 내용 (정보 유지)**<br/>관리 작업이 필요 하지 않은 변경 내용, 시각적 디자인 변경 내용  <br/> |-Office 365 메시지 센터<br/>-Office 365 로드맵<br/>-Yammer 서비스 업데이트<br/>-외부 그룹<br/>대상 사용자 집합에 영향을 주는 변경 내용으로 인해 해당 사용자에 게 직접 알릴 수도 있습니다. |
+|**작업이 필요한 변경 내용 (변경 계획)** <br/>서비스가 실행 되는 것을 유지 하기 위해 변경 작업을 수행 해야 하며, 조직의 규정 준수에 영향을 줄 수 있는 업데이트  <br/> |-Office 365 메시지 센터 전자 메일이 Yammer 확인 된 관리자에 게 다이렉트 됨 <br/>-Microsoft 365 로드맵<br/>-Yammer 서비스 업데이트<br/>-외부 그룹<br/>대상 사용자 집합에 영향을 주는 변경 내용으로 인해 해당 사용자에 게 직접 알릴 수도 있습니다. |
+|**인식이 필요한 변경 내용 (정보 유지)**<br/>관리 작업이 필요 하지 않은 변경 내용, 시각적 디자인 변경 내용  <br/> |-Office 365 메시지 센터<br/>-Microsoft 365 로드맵<br/>-Yammer 서비스 업데이트<br/>-외부 그룹<br/>대상 사용자 집합에 영향을 주는 변경 내용으로 인해 해당 사용자에 게 직접 알릴 수도 있습니다. |
 |**중요 하지 않음** <br/>중요 하지 않으며 일부 사용자가 예측 가능 하더라도 작업 또는 인식이 필요 하지 않은 변경 내용  <br/> |광범위하게 통신되지 않음 |
    
 ## <a name="feature-availability-across-yammer-plans"></a>Yammer 계획에서의 기능 가용성

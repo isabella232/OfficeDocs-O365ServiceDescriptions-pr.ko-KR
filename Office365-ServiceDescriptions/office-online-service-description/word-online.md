@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word for web (이전의 Word Web App)을 사용 하면 Microsoft Word 환경을 웹 브라우저로 확장 하 여 문서가 저장 된 웹 사이트에서 직접 문서로 작업할 수 있습니다.
-ms.openlocfilehash: 5b99a52df57fdceaa341422a4265795438e2d296
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 5845e8221ca0b1ff12e447e44136a8e3214cd325
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545741"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640216"
 ---
 # <a name="word-for-the-web"></a>웹용 Word
 
@@ -47,7 +47,7 @@ Word용 추가 기능은 Office 스토어에서 다운로드할 수 있습니다
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>찾아보기 및 전문적으로 디자인된 템플릿에서 시작
 
-웹의 Word에서는 사용할 수 없습니다. Office.com에 호스트된 전문적으로 디자인된 템플릿을 대량으로 선택하여 문서를 시작하는 등의 고급 디자인 기능은 Word 데스크톱 앱에서만 사용할 수 있습니다. 그러나 Office 365 고객은 사용자가 새 문서를 만들 때 문서 라이브러리를 구성하여 사용자 지정 템플릿을 시작할 수 있습니다. 자세한 내용은 [목록 또는 라이브러리에 콘텐츠 형식 추가](https://go.microsoft.com/fwlink/p/?LinkId=391446)를 참조하세요.
+웹의 Word에서는 사용할 수 없습니다. Office.com에 호스트된 전문적으로 디자인된 템플릿을 대량으로 선택하여 문서를 시작하는 등의 고급 디자인 기능은 Word 데스크톱 앱에서만 사용할 수 있습니다. 그러나 사용자가 새 문서를 만들 때 문서 라이브러리를 구성 하 여 사용자 지정 서식 파일을 시작할 수 있습니다. 자세한 내용은 [목록 또는 라이브러리에 콘텐츠 형식 추가](https://go.microsoft.com/fwlink/p/?LinkId=391446)를 참조하세요.
   
 ## <a name="bullets-and-numbering"></a>글머리 기호 및 번호 매기기
 
@@ -125,7 +125,7 @@ OneDrive 또는 SharePoint에서 문서를 열 때 웹의 Word가 브라우저�
 
 웹 용 Word에서는 문서 내에 책갈피에 대 한 링크를 간편 하 게 만들 수 있으며 커서가 링크를 가리킬 때 표시 되는 스크린 팁을 설정할 수도 있습니다. 자세한 내용은 [Word의 하이퍼링크](https://go.microsoft.com/fwlink/p/?LinkId=271863)를 참고 하세요.
   
-## <a name="index"></a>인덱스
+## <a name="index"></a>색인
 
 인덱스는 문서에 언급된 용어 및 주제와 함께 해당 내용이 표시된 페이지를 나열합니다. 인덱스를 만들려면 문서의 기본 항목 이름과 상호 참조를 제공하여 인덱스 항목을 표시한 다음 인덱스를 작성합니다.
   
@@ -297,5 +297,5 @@ Web 용 word에서는 문서에 있는 단어에 대해 대략적인 단어 수�
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [office for 웹 서비스 설명을](office-online-service-description.md)참조 하세요. 
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Office for 웹 서비스 설명을](office-online-service-description.md)참조 하세요. 
   

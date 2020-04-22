@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office는 자신이 가지고 있는 최고의 아이디어를 표현하고, 업무를 신속하게 처리하며 이동 중에도 사용할 수 있는 강력한 서비스입니다. Office에 로그인하기만 하면 자신에게 맞게 설정된 작업 환경을 경험하고, 신규 기능과 향상된 기능이 지속적으로 추가되는 모든 최신 Office 응용 프로그램을 사용해 볼 수 있습니다.
-ms.openlocfilehash: 72ffbac42a0d2a2ebdecf9316d6016d50022d464
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: d5f5638ddcf965736b6d385594bf27228a5cf2b8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688333"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639676"
 ---
 # <a name="office-applications"></a>Office 응용 프로그램
 
 Microsoft Office는 자신이 가지고 있는 최고의 아이디어를 표현하고, 업무를 신속하게 처리하며 이동 중에도 사용할 수 있는 강력한 서비스입니다. Office에 로그인하기만 하면 자신에게 맞게 설정된 작업 환경을 경험하고, 신규 기능과 향상된 기능이 지속적으로 추가되는 모든 최신 Office 응용 프로그램을 사용해 볼 수 있습니다.
   
-비즈니스, 교육 및 정부 조직에서 사용할 수 있는 월별 구독 기반 서비스인 Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [Office 365 시스템 요구 사항을](https://products.office.com/office-system-requirements/#Office365forBEG)참조 하세요.
+비즈니스, 교육 및 정부 조직에 사용할 수 있는 월별 구독 기반 서비스인 시스템 요구 사항에 대해서는 [Microsoft 365 시스템 요구 사항을](https://products.office.com/office-system-requirements/#Office365forBEG)참조 하세요.
   
 ## <a name="microsoft-word"></a>Microsoft Word
 
@@ -69,15 +69,15 @@ Excel 및 Word 같은 일부 Office 응용 프로그램에는 기본적으로 Wi
   
 ## <a name="office-mobile-for-ipadiphone"></a>Office Mobile for iPad/iPhone
 
-IPad 및 iPhone 용 office Mobile에는 Word for iPad/iPhone, Excel for iPad/iPhone 및 PowerPoint for iPad/iPhone과 같은 즐겨 찾는 Office 앱이 포함 되어 있습니다. 이러한 앱은 무료로 다운로드할 수 있으며 해당 Office 365 계획에 따라 iPad 또는 iPhone에서 문서를 만들고 편집할 수 있습니다. 자세한 내용은 [iOS 장치에서 Office 앱 및 전자 메일 설정을](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US)참조 하세요.
+IPad 및 iPhone 용 office Mobile에는 Word for iPad/iPhone, Excel for iPad/iPhone 및 PowerPoint for iPad/iPhone과 같은 즐겨 찾는 Office 앱이 포함 되어 있습니다. 앱은 무료로 다운로드할 수 있으며 해당 계획을 사용 하 여 iPad 또는 iPhone에서 문서를 만들고 편집할 수 있습니다. 자세한 내용은 [iOS 장치에서 Office 앱 및 전자 메일 설정을](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US)참조 하세요.
 
 ## <a name="office-mobile-for-android"></a>Office Mobile for Android
 
-Android 용 office Mobile에는 Android 용 Word, Android 용 Excel 및 Android 용 PowerPoint와 같은 즐겨 찾는 Office 앱이 포함 되어 있습니다. 이러한 앱은 무료로 다운로드할 수 있으며 해당 Office 365 계획에 따라 Android 장치에서 문서를 만들고 편집할 수 있습니다. 자세한 내용은 [Android에서 Office 앱 및 전자 메일 설정을](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US)참조 하세요.
+Android 용 office Mobile에는 Android 용 Word, Android 용 Excel 및 Android 용 PowerPoint와 같은 즐겨 찾는 Office 앱이 포함 되어 있습니다. 앱은 무료로 다운로드할 수 있으며 해당 계획을 사용 하 여 Android 장치에서 문서를 만들고 편집할 수 있습니다. 자세한 내용은 [Android에서 Office 앱 및 전자 메일 설정을](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US)참조 하세요.
 
 ## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 
-Windows phone 용 office Mobile에는 Word for Windows Phone, Excel for Windows phone, Windows Phone 용 PowerPoint와 같은 즐겨 찾는 Office 앱이 포함 됩니다. 이러한 앱은 무료로 다운로드할 수 있으며 해당 Office 365 계획에 따라 Windows Phone에서 문서를 만들고 편집할 수 있습니다. 자세한 내용은 [Windows Phone에서 Office 앱 및 전자 메일 설정을](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US)참조 하세요.
+Windows phone 용 office Mobile에는 Word for Windows Phone, Excel for Windows phone, Windows Phone 용 PowerPoint와 같은 즐겨 찾는 Office 앱이 포함 됩니다. 앱은 무료로 다운로드할 수 있으며 해당 계획을 사용 하 여 Windows Phone에서 문서를 만들고 편집할 수 있습니다. 자세한 내용은 [Windows Phone에서 Office 앱 및 전자 메일 설정을](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US)참조 하세요.
 
 ## <a name="office-for-windows-10-mobile"></a>Windows 10 Mobile 용 Office
 
@@ -85,5 +85,5 @@ Windows 10 용 Office 모바일 앱은 Windows 10 휴대폰 및 태블릿에서 
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [office 응용 프로그램 서비스 설명을](office-applications-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Office 응용 프로그램 서비스 설명을](office-applications-service-description.md)참조 하세요.
   

@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
-ms.openlocfilehash: 64c73c3f14e4afb57a459592eba18b2fd6a38870
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: f90bbfa85d0b3c800725a2e51c5da1ea73415434
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688386"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640256"
 ---
 # <a name="office-365-plan-options"></a>Office 365 계획 옵션
 
@@ -33,7 +33,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
   
 |**Office 365 서비스 제품군**|**계획**|
 |:-----|:-----|
-|**Business (최대 300 명의 사용자)** <br/> |[Office 365 Business Essentials](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 Business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Office 365 Business Premium](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|**Business (최대 300 명의 사용자)** <br/> |[Microsoft 365 Business Basic](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Microsoft 365 비즈니스 에디션 앱](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 비즈니스 표준](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |**Enterprise (사용자 수 제한 없음)** <br/> |[Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 Enterprise F3](https://products.office.com/business/office-365-f1) <br/> |
 |**교육 (사용자 수 제한 없음)** <br/> |[Office 365 Education](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Education E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**정부 (사용자 수 제한 없음)** <br/> |[모든 사용 가능한 비즈니스 계획을 참조하세요.](https://products.office.com/government/compare-office-365-government-plans) <br/> |
@@ -49,7 +49,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**서비스** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F3** <br/> |
+|**서비스** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 비즈니스 에디션 앱** <br/> |**Microsoft 365 비즈니스 표준** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F3** <br/> |
 |Office 365 플랫폼  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange Online  <br/> |예<sup>6</sup> <br/> |아니요  <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |예<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -59,12 +59,12 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |Office 응용 프로그램  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
 |Project Online  <br/> |No<sup>1</sup> <br/> |아니요  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |
 |Power BI  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|Yammer Enterprise  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Yammer Enterprise  <br/> |예  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Azure Information Protection<sup>3</sup> <br/> |No<sup>2</sup> <br/> |아니요  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |
-|Microsoft Kaizala<sup>17</sup> <br/> |예 <br/> |아니요  <br/> |있음 <br/> |예 <br/> |예  <br/> |예  <br/> |예 <br/> |
+|Microsoft Kaizala<sup>17</sup> <br/> |예 <br/> |아니오  <br/> |있음 <br/> |예 <br/> |예  <br/> |예  <br/> |예 <br/> |
    
 <sup>1</sup> Project Online은 포함되어 있지 않지만 별도의 추가 기능으로 구매하거나 Office 365 Education 계획에 무료로 추가할 수 있습니다.<br/>
-<sup>2</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 교육 또는 Office 365 Enterprise F3에 포함 되지 않은 Office 365 ProPlus에 대 한 구독이 필요 합니다.<br/>
+<sup>2</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise E1, Office 365 교육 또는 Office 365 Enterprise F3에 포함 되지 않은 Microsoft 365 for enterprise 앱을 구독 해야 합니다.<br/>
 <sup>3</sup> Office 365 요금제에 포함된 Azure Information Protection 기능에 대해 자세히 알아보려면 [Azure Information Protection](https://azure.microsoft.com/services/information-protection/)을참 조하세요.<br/>
 <sup>4</sup> Office 365 Enterprise E5에는 전화 시스템, 오디오 회의 및 통화 요금제 기능이 포함 되어 있습니다. 통화 요금제를 구현하려면 추가 요금제(국내 또는 국제)를 구매해야 합니다.<br/>
 <sup>5</sup> 2GB 저장소가 포함됩니다. <br/>
@@ -77,7 +77,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 <sup>12</sup> 비즈니스용 Skype Online 계획 1과 추가 기능이 포함됩니다. <br/>
 <sup>13</sup> 음성이 지원되고 클라이언트 제한 사항이 없는 비즈니스용 Skype Online 계획 2가 포함됩니다.  <br/>
 <sup>14</sup> 비즈니스용 Skype Online 계획 1이 포함됩니다.<br>
-<sup>15</sup> Microsoft 팀은 이제 메시징, 모임 및 Office 365의 통화에 대 한 기본 클라이언트입니다. Oct. 1, 2018, 새 Office 365 고객이 500를 적게 사용 하는 고객은 Microsoft 팀에 등록 비즈니스용 Skype Online에 액세스할 수 없습니다. 이미 비즈니스용 Skype Online을 사용 하는 테 넌 트는 Microsoft 팀으로 전환할 때까지 계속 진행할 수 있습니다 (새 사용자 프로 비전).<br>
+<sup>15</sup> microsoft 팀은 이제 microsoft 365에서 메시징, 모임 및 통화를 위한 기본 클라이언트입니다. 1, 2018, Oct를 500 사용 하는 신규 고객은 Microsoft 팀에 게 등록 비즈니스용 Skype Online에 액세스할 수 없습니다. 이미 비즈니스용 Skype Online을 사용 하는 테 넌 트는 Microsoft 팀으로 전환할 때까지 계속 진행할 수 있습니다 (새 사용자 프로 비전).<br>
 <sup>16</sup> 고급 데이터 거 버 넌 스, advanced EDiscovery, 고객 Lockbox, 고객 키, 권한이 부여 된 액세스 관리 및 장기간 감사 로그 보존 기능을 제공 하는 고급 규정 준수 기능이 포함 되어 있습니다.<br>
 <sup>17</sup> 년 5 월 2019 일, 기존 적격 365 Sku 및 Microsoft 365는 Kaizala Pro를 사용 하 여 backfilled 됩니다. 2019 년 6 월 1 일부 Kaizala Pro는 모든 적격 Office 365 및 Microsoft 365 Sku에 포함 됩니다. 
   
@@ -96,14 +96,14 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
     
 ### <a name="changing-or-mixing-plans"></a>계획 변경 또는 혼합 사용
 
-조직의 요구 사항이 바뀌면 Office 365 계획을 변경해야 할 수 있습니다. 다음과 같이 현재 Office 365 구독을 다른 Office 365 구독으로 전환할 수 있습니다. 
+조직의 요구가 변경 되 면 Microsoft 365 계획을 변경 해야 할 수 있습니다. 현재 구독에서 다른 구독으로 전환할 수 있습니다. 
   
-- **같은 서비스 제품군 내에서 전환하는 경우:** 예를 들면 Office 365 Business Essentials에서 Office 365 Business Premium으로 또는 Office 365 Enterprise E1에서 Office 365 Enterprise E3로 이동할 수 있습니다.
+- **동일한 서비스 제품군** 예를 들어 Microsoft 365 Business Basic에서 Microsoft 365 Business Standard로 또는 Office 365 Enterprise E1에서 Office 365 Enterprise e 3로 이동할 수 있습니다.
 - **독립 실행형 계획에서 전환하는 경우:** 예를 들면 Exchange Online 계획 1에서 Office 365 Enterprise E1으로 이동할 수 있습니다.     
-- **다른 서비스 제품군 내에서 전환하는 경우:** 예를 들면 Office 365 Business Essentials에서 Office 365 Enterprise E3로 이동할 수 있습니다.     
+- **다른 서비스 제품군으로:** 예를 들어 Microsoft 365 Business Basic에서 Office 365 Enterprise e 3로 이동할 수 있습니다.     
 평가판에서 유료 구독으로 이동하는 방법을 비롯하여 구독을 변경하는 방법에 대한 자세한 내용은 [다른 Office 365 계획 또는 구독으로 전환](https://support.office.com/article/HA104031833)을 참조하세요.
   
-단일 계정 내에 Enterprise, Business 및 독립 실행형 계획(예: Exchange Online 계획 1)을 결합할 수 있습니다. 그렇지만 기존의 계획당 시트 수 제한은 변경되지 않습니다. 예를 들어 Office 365 Business Essentials 및 Office 365 Business Premium에서는 계획당 시트 수를 최대 300개 보유할 수 있지만 Exchange Online 계획 1에서는 사용자 수에 제한이 없습니다.
+단일 계정 내에 Enterprise, Business 및 독립 실행형 계획(예: Exchange Online 계획 1)을 결합할 수 있습니다. 그렇지만 기존의 계획당 시트 수 제한은 변경되지 않습니다. 예를 들어 Microsoft 365 Business Basic과 Microsoft 365 비즈니스 표준 모두에 대해 계획 당 좌석을 최대 300 개까지 포함할 수 있지만 Exchange Online 계획 1의 사용자 수에는 제한이 없습니다.
   
 ## <a name="standalone-services"></a>독립 실행형 서비스
 
@@ -115,7 +115,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |SharePoint Online  <br/> |[SharePoint Online 계획 1](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online 계획 2](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
 |비즈니스용 OneDrive  <br/> |[비즈니스용 OneDrive 계획 1](https://onedrive.live.com/about/business/) <br/> [비즈니스용 OneDrive 계획 2](https://onedrive.live.com/about/business/) <br/> |
 |비즈니스용 Skype 온라인  <br/> |[비즈니스용 Skype Online 계획 1](https://products.office.com/microsoft-teams/group-chat-software) <br/> [비즈니스용 Skype Online 계획 2](https://products.office.com/microsoft-teams/group-chat-software) <br/> |
-|Office 응용 프로그램  <br/> |[Office 365 ProPlus](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Office 365 Business](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Office 365 Business Premium](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|Office 응용 프로그램  <br/> |[Microsoft 365 enterprise 용 앱](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Microsoft 365 비즈니스 에디션 앱](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 비즈니스 표준](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |프로젝트 포트폴리오 관리  <br/> |[Project Online](https://products.office.com/project/project-and-portfolio-management-software) <br/> |
 |Yammer  <br/> |[Yammer Basic](https://products.office.com/yammer/) <br/> |
 |조직 분석  <br/> |[작업 공간 분석](https://products.office.com/business/workplace-analytics) <br/> |

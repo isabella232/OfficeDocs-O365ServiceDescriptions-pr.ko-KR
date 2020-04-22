@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다. 여기에는 Exchange Online Protection을 제공 하는 계획 목록과 이러한 요금제의 기능 비교가 포함 되어 있습니다.
-ms.openlocfilehash: c385ef02d7d3c28a37b71162daace04a0cee800c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 86c3084ec8f3f7d845b2c99b1c4adf5814cc0f77
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260923"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640176"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 서비스 설명
 
@@ -33,7 +33,7 @@ Microsoft EOP(Exchange Online Protection)는 스팸 및 맬웨어로부터 조�
 
 - **하이브리드 배포에서**: 온-프레미스 및 클라우드 사서함을 함께 사용 하는 경우 메시징 환경을 보호 하 고 메일 라우팅을 제어 하도록 EOP를 구성할 수 있습니다.
 
-계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)를 참조하세요.
+계획 간에 기능을 비교 하려면 [Microsoft 365 for 비즈니스 요금제 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)를 참조 하세요.
 
 Exchange Online Protection을 구입하려면 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)을 참조하세요.
 
@@ -42,7 +42,7 @@ Exchange Online Protection을 구입하려면 [Exchange Online Protection](https
 
 ## <a name="whats-new-in-exchange-online-protection-eop"></a>EOP(Exchange Online Protection)의 새로운 기능
 
-[업무용 Office 365 로드맵](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx)에서는 예정된 새로운 기능에 대한 정보를 제공합니다.
+[Microsoft 365 for business 로드맵](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) 은 예정 된 새로운 기능에 대 한 정보를 확인할 수 있는 좋은 리소스입니다.
 
 ## <a name="exchange-online-protection-eop-plans"></a>EOP(Exchange Online Protection) 계획
 
@@ -101,7 +101,7 @@ EOP의 제한에 대 한 내용은 [Exchange Online Protection 제한을](exchan
 |[격리](anti-spam-and-anti-malware-protection-eop.md#quarantine): 최종 사용자 자기 관리|예|예|예|
 |[Outlook 용 보고서 메시지 추가 기능](anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|예|예|예|
 |[웹용 Outlook에서 정크 메일 보고](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|예|예|예|
-|[Office 365와 자체 메일 서버 간의 이메일 라우팅](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers)|예|예|예|
+|[Microsoft와 자체 전자 메일 서버 간의 전자 메일 라우팅](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|예|예|예|
 |[신뢰할 수 있는 파트너와의 보안 메시징](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|예|예|예|
 |[수신 허용 목록에 파트너의 IP 주소 추가](mail-flow-eop.md#safe-listing-a-partners-ip-address)|예|예|예|
 |[조건부 메일 라우팅](mail-flow-eop.md#conditional-mail-routing)|예|예|예|

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: Project Online에서는 다음과 같은 작업 관리 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 9766161bf6ad67e66e6b13f77ceaa628142a017d
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 2c12f50e40703a25b0c6909fc21b73ea92d73a84
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688374"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640276"
 ---
 # <a name="task-management"></a>작업 관리
 
@@ -67,5 +67,5 @@ Project Online에서는 다음과 같은 작업 관리 기능을 사용할 수 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Project Online service description](project-online-service-description.md)을 참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Project Online service description](project-online-service-description.md)을 참조 하세요.
   

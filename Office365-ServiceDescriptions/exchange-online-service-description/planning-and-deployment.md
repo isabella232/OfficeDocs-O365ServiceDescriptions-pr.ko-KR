@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: 30d1c68976bf450a87ace792af0b219b0fce21d4
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: bcc71e05761f3990e79cb7eaaed003b1118d54ad
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262741"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639966"
 ---
 # <a name="planning-and-deployment"></a>계획 및 배포
 
@@ -86,7 +86,7 @@ Exchange Online은 온-프레미스 Exchange Server 2003, Exchange Server 2007 �
     
 4. 초기 마이그레이션이 완료되면 관리자가 마이그레이션 일괄 처리를 중지하거나 삭제할 때까지 모든 변경 내용이 24시간마다 클라우드로 동기화됩니다.
     
-사용자를 사용자의 사서함으로 전환하려면 관리자는 MX 기록이 Office 365를 가리키도록 구성하고 Outlook의 사용자 프로필을 다시 구성합니다. 사용자가 클라우드 사서함으로 전환하며 사용자의 로컬 오프라인 폴더(.ost 파일)이 다시 동기화되고, 클라이언트 워크스테이션에 마이그레이션된 전자 메일이 다운로드됩니다. 사용자는 마이그레이션이 완료되면 사서함의 기존 메시지를 회신할 수 있습니다.
+사용자를 클라우드 사서함으로 전환 하기 위해 관리자는 Microsoft를 가리키고 Outlook의 사용자 프로필을 다시 구성 하도록 MX 레코드를 구성 합니다. 사용자가 클라우드 사서함으로 전환하며 사용자의 로컬 오프라인 폴더(.ost 파일)이 다시 동기화되고, 클라이언트 워크스테이션에 마이그레이션된 전자 메일이 다운로드됩니다. 사용자는 마이그레이션이 완료되면 사서함의 기존 메시지를 회신할 수 있습니다.
   
 단독형 Exchange 마이그레이션에 대한 자세한 내용은 [Office 365로 단독형 전자 메일 마이그레이션에 대해 알아야 할 사항](https://support.office.com/en-us/article/What-you-need-to-know-about-a-cutover-email-migration-to-Office-365-961978ef-f434-472d-a811-1801733869da)을 참조하세요.
   
@@ -136,6 +136,6 @@ Microsoft는 기존 전자 메일 환경에서 Exchange Online으로 마이그�
     
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 서비스 설명을](exchange-online-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 서비스 설명을](exchange-online-service-description.md)참조 하세요.
   
 

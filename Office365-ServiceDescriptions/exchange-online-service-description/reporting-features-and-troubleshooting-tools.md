@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online은 EAC (Exchange 관리 센터)에 대 한 다양 한 보고 기능을 제공 합니다.
-ms.openlocfilehash: d7560a95d127731bc8354c8be73aa016ee0aecfd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: b0545d1e0b18714fa138fa085542be90711e8da2
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262711"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639956"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>보고 기능 및 문제 해결 도구
 
@@ -31,9 +31,9 @@ Exchange Online 고객은 Excel 보고 통합 문서를 다운로드 하거나 �
 
 Microsoft 365 관리 센터의 보고서 페이지에는 사서함 및 그룹에 대 한 요약 정보를 제공 하는 보고서가 있습니다. 예를 들어 한 보고서에는 일, 주, 월 또는 연도에 따라 만들고 삭제 한 그룹 수가 나열 됩니다. 또한 새 사서함 및 삭제 된 우편함 및 활성 및 비활성 사서함에 대 한 요약 보고서도 있습니다. 
   
-또한 Microsoft 365 관리 센터의 보고서 페이지에는 메시지 트래픽, 스팸 및 맬웨어 감지, Exchange 전송 규칙이 나 DLP (데이터 손실 방지)의 영향을 받는 메시지에 대 한 정보를 제공 하는 메시징 데이터 보고서가 포함 되어 있습니다. 정책도. 보호, 규칙 및 DLP에 대한 향상된 보고서에서는 Exchange Online 관리자에게 대화형 보고 환경이 제공됩니다. 이러한 보고서에서는 개별 메시지에 대한 세부 정보로 드릴다운할 수 있는 기능과 함께 요약 데이터가 제공됩니다.
+또한 Microsoft 365 관리 센터의 보고서 페이지에는 메시지 트래픽, 스팸 및 맬웨어 감지, Exchange 전송 규칙이 나 DLP (데이터 손실 방지) 정책의 영향을 받는 메시지에 대 한 정보를 제공 하는 메시징 데이터 보고서가 포함 되어 있습니다. 보호, 규칙 및 DLP에 대한 향상된 보고서에서는 Exchange Online 관리자에게 대화형 보고 환경이 제공됩니다. 이러한 보고서에서는 개별 메시지에 대한 세부 정보로 드릴다운할 수 있는 기능과 함께 요약 데이터가 제공됩니다.
   
-각 Office 365 구독에 사용할 수 있는 보고서에 대한 자세한 내용은 [보고서](../office-365-platform-service-description/reports.md)를 참조하세요. Microsoft 365 관리 센터의 보고서 페이지에 대 한 자세한 내용은 [view and download the office 365의 서비스 사용 현황에 대 한 보고서 보기 및 다운로드](https://go.microsoft.com/fwlink/p/?LinkId=401187) [365 및 맬웨어, 스팸 및 규칙 감지에 대 한 데이터 보기를](https://go.microsoft.com/fwlink/p/?LinkID=401102)참조 하세요.
+각 구독에서 사용할 수 있는 보고서에 대 한 자세한 내용은 [reports](../office-365-platform-service-description/reports.md)를 참조 하십시오. Microsoft 365 관리 센터의 보고서 페이지에 대 한 자세한 내용은 [보기 및 다운로드 보고서-Office 365의 서비스 사용 현황](https://go.microsoft.com/fwlink/p/?LinkId=401187) 및 [메일 보호 보고서를 사용 하 여 맬웨어, 스팸 및 규칙 감지에 대 한 데이터 보기](https://go.microsoft.com/fwlink/p/?LinkID=401102)를 참조 하세요.
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Excel 보고 통합 문서를 사용하여 보고
 
@@ -72,6 +72,6 @@ Exchange 관리 센터에서 다음 보고 기능 및 문제 해결 도구를 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 서비스 설명을](exchange-online-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 서비스 설명을](exchange-online-service-description.md)참조 하세요.
   
 

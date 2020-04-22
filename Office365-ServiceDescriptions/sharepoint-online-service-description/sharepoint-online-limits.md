@@ -8,13 +8,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
-description: Office 365 및 독립 실행형 계획에 대 한 SharePoint 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: 0a94f4012b0757398e52236c44e0602b9876e05a
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Microsoft 365 및 독립 실행형 계획에 대 한 SharePoint 제한 사항에 대해 알아봅니다.
+ms.openlocfilehash: ea8b55958678f14332ea808f0d49eed6827bcd58
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609979"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638942"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -24,7 +24,7 @@ Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**기능** <br/> |**Office 365 Business Essentials 또는 Business Premium** <br/> |**Office 365 Enterprise E1, E3 또는 E5, 또는 SharePoint 계획 1 또는 2** <br/> | **Office 365 Enterprise F3** <br/> |
+|**기능** <br/> |**Microsoft 365 Business Basic 또는 Business Premium** <br/> |**Office 365 Enterprise E1, E3 또는 E5, 또는 SharePoint 계획 1 또는 2** <br/> | **Office 365 Enterprise F3** <br/> |
 |조직<sup>1, 2, 6</sup> 당 총 저장소 <br/> |1TB 및 구매한 라이선스 당 10gb  <br/> |1TB 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |1TB<sup>3</sup> <br/> |
 |사이트당 최대 저장소 (사이트 모음)<sup>4</sup><br/> |25tb <br/> |25tb <br/> |25 TB<sup>5</sup> <br/> |
 |조직 당 사이트 (사이트 모음)  <br/> |200만<sup>6</sup> <br/> |200만<sup>6</sup> <br/> |200만<br/> |
@@ -32,7 +32,7 @@ Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
    
 <sup>1</sup> [조직에서 사용할 수 있는 총 및 사용 가능한 저장소를 찾는 방법을 알아봅니다](/sharepoint/manage-site-collection-storage-limits). 무제한의 추가 SharePoint 저장소를 구입할 수 있습니다. [구독에 대 한 저장소 공간 변경](/office365/admin/subscriptions-and-billing/add-storage-space)를 참조 하세요. 
 <br/><sup>2</sup> 휴지통을 모니터링 하 고 정기적으로 비우는 것이 좋습니다. 사용 하는 저장소 공간은 조직의 총 저장 용량 한도의 일부입니다. 
-<br/> <sup>3</sup> office 365 구독 및 office 365 추가 파일 저장소 추가 기능을 사용 하는 경우 저장소 금액이 추가 됩니다. 
+<br/> <sup>3</sup> Microsoft 365 구독 및 Office 365 추가 파일 저장소 추가 기능을 사용 하는 경우 저장소 금액이 추가 됩니다. 
 <br/> <sup>4</sup> 이 값은 각 사이트에 대해 *제공 되* 는 저장 용량에 해당 하지 않고 단일 사이트 (이전에는 "사이트 모음")에 대 한 저장소 *제한* 입니다. 이 제한은 Office 365 그룹에 연결 된 팀 사이트 및 OneDrive를 포함 하 여 모든 유형의 사이트에 적용 됩니다. SharePoint 관리자가 [더 낮은 저장 제한을 수동으로 설정할](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)수 있습니다. 
 <br/> <sup>5</sup> firstline Worker는 SharePoint 사이트를 관리할 수 없습니다. 
 <br/> <sup>6</sup> 사용 허가 된 각 사용자에 대해 만들어진 OneDrive를 포함 하지 않습니다. 

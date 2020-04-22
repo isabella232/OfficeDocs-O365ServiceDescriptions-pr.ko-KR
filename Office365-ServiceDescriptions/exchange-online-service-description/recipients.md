@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 이 항목에서는 Microsoft Exchange Online에 포함된 받는 사람 관련 기능에 대해 설명합니다. 설명에는 전자 메일, 연락처, 메일 그룹 및 달력/예약 기능이 포함됩니다.
-ms.openlocfilehash: 437e3884ad385df1a63144deb8e358efb3a6b129
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: c65745f22b303acb5740e0ff014aa8f9a5b2c7b7
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262731"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639986"
 ---
 # <a name="recipients"></a>받는 사람
 
@@ -28,7 +28,7 @@ ms.locfileid: "39262731"
 모든 Microsoft Exchange Online 구독자에게는 사서함이 제공되며, 회의실 등의 시설 리소스에 대한 일정 예약 및 다중 액세스를 통한 전자 메일 주소 공유를 위한 특수 사서함도 사용할 수 있습니다. 대부분의 사서함에는 최대 저장 용량 제한이 적용되며, 관리자는 허용 가능한 사서함 크기를 제어할 수 있습니다. 제한 용량에 가까워지거나 도달했을 경우 자동 알림 및 제한을 통해 사용자에게 경고합니다. Exchange Online에는 메시지 크기, 메시지 속도, 받는 사람 목록 제한 등 여러 유형의 메시지 제한도 있습니다. 이러한 모든 기능과 제한의 세부 정보는 아래에 나와 있습니다.
   
 > [!NOTE]
-> 범용 주소는 Exchange Online에서 더 이상 지원되지 않습니다. 잠재적 스팸 메시지로부터 보호하기 위해 사용되는 받는 사람 필터링 때문에 Office 365 테넌트에 존재하지 않는 전자 메일 주소는 거부됩니다. 
+> 범용 주소는 Exchange Online에서 더 이상 지원되지 않습니다. 잠재적 스팸 메시지 로부터 보호 하기 위해 받는 사람 필터링이 적용 되므로 조직에 없는 전자 메일 주소는 거부 됩니다. 
   
 ### <a name="mailbox-types-storage-limits-and-capacity-alerts"></a>사서함 유형, 저장소 제한 및 용량 경고
 
@@ -153,7 +153,7 @@ Exchange Online에는 리소스 예약 도우미(RBA)가 포함되어 있어 회
 
 사용자는 다음 두 가지 방법을 통해 개인 일정을 공유할 수 있습니다.
   
-- **페더레이션 일정 공유** 페더레이션은 페더레이션 공유를 지원하는 기본 트러스트 인프라를 나타내며, Exchange 사용자가 다른 외부 페더레이션 조직의 받는 사람과 약속 있음/없음 일정 데이터 및 연락처 정보를 쉽게 공유할 수 있는 방법입니다. 여기에는 Exchange Online 조직이나 Exchange Server 2010 또는 Exchange Server 2013 온-프레미스를 실행하는 조직이 포함됩니다. 이 트러스트는 Office 365 테넌트 서비스가 만들어질 때 모든 Exchange Online 고객에 대해 사전 구성되어 있기 때문에 Exchange Online 관리자는 Microsoft Federation Gateway와의 트러스트를 설정할 필요가 없습니다. 기본 공유 정책을 사용 하면 사용자가 웹에서 Outlook 또는 Outlook 2010에서 일정 공유 초대를 보낼 수 있습니다. 관리자는 원격 Windows PowerShell을 사용해 이 정책을 사용하지 않도록 설정하거나 사용자가 공유하는 약속 있음/없음 일정 데이터의 수준을 구성할 수 있습니다. 관리자는 또한 다른 페더레이션 조직과 조직 대 조직 관계를 생성하여, 개별 사용자가 공유 초대를 만들 필요 없이 모든 사용자에 대한 약속 있음/없음 정보를 원하는 수준으로 조직 서로 간에 볼 수 있도록 허용할 수 있습니다. 관리자가 정의한 공유 정책 및/또는 조직 대 조직 관계의 범위 내에서 사용자는 각자의 공유 세부 정보를 제한할 수 있습니다. 
+- **페더레이션 일정 공유** 페더레이션은 페더레이션 공유를 지원하는 기본 트러스트 인프라를 나타내며, Exchange 사용자가 다른 외부 페더레이션 조직의 받는 사람과 약속 있음/없음 일정 데이터 및 연락처 정보를 쉽게 공유할 수 있는 방법입니다. 여기에는 Exchange Online 조직이나 Exchange Server 2010 또는 Exchange Server 2013 온-프레미스를 실행하는 조직이 포함됩니다. Microsoft 서비스를 만들 때 exchange Online 관리자는 모든 Exchange Online 고객에 대해이 트러스트를 미리 구성 했기 때문에 Microsoft Federation Gateway와의 트러스트를 설정할 필요가 없습니다. 기본 공유 정책을 사용 하면 사용자가 웹에서 Outlook 또는 Outlook 2010에서 일정 공유 초대를 보낼 수 있습니다. 관리자는 원격 Windows PowerShell을 사용해 이 정책을 사용하지 않도록 설정하거나 사용자가 공유하는 약속 있음/없음 일정 데이터의 수준을 구성할 수 있습니다. 관리자는 또한 다른 페더레이션 조직과 조직 대 조직 관계를 생성하여, 개별 사용자가 공유 초대를 만들 필요 없이 모든 사용자에 대한 약속 있음/없음 정보를 원하는 수준으로 조직 서로 간에 볼 수 있도록 허용할 수 있습니다. 관리자가 정의한 공유 정책 및/또는 조직 대 조직 관계의 범위 내에서 사용자는 각자의 공유 세부 정보를 제한할 수 있습니다. 
     
 - **인터넷 일정 공유** Exchange Online에서 사용자는 조직 내부 또는 외부 사람의 익명 액세스에 대해 iCal 형식을 사용하여 자신의 일정을 게시할 수 있습니다. Exchange나 다른 플랫폼, 또는 단순히 웹 브라우저의 사용자에게 보낼 수 있습니다. Exchange Online 사용자는 또한 다른 사람이 iCal을 통해 인터넷 위치에 게시 한 일정을 구독할 수 있습니다. 이 개인 일정 공유는 관리자가 구성하고 조직 대 조직 약속 있음/없음 공유를 제공하는 페더레이션 일정 공유와는 다릅니다. 관리자가 허용 되는 공유 정책을 설정 및 적용 하기 전 까지는 사용자가 일정 데이터를 iCal 형식으로 게시할 수 없습니다. 관리자는 원격 Windows PowerShell을 사용하여 조직 내 사용자에 대해 iCal 게시 및 iCal 구독을 사용하지 않도록 설정할 수 있습니다.
     
@@ -169,5 +169,5 @@ Exchange Online은 모임을 예약할 때 가까운 회의실을 쉽게 찾을 
     
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 서비스 설명을](exchange-online-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 서비스 설명을](exchange-online-service-description.md)참조 하세요.
   

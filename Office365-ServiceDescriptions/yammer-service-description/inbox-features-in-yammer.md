@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: Yammer에서는 다음과 같은 받은 편지함 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 11bf4f2d8eb46e3b18b22720c584fbf7f748bc60
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 391792d166313f0119b9b50de9a7d89180f57084
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688267"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640046"
 ---
 # <a name="inbox-features-in-yammer"></a>Yammer의 받은 편지함 기능
 
@@ -33,6 +33,6 @@ Yammer에서는 다음과 같은 받은 편지함 기능을 사용할 수 있습
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Yammer 서비스 설명을](yammer-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Yammer 서비스 설명을](yammer-service-description.md)참조 하세요.
   
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 사용할 수 있는 SharePoint 기능을 계획 합니다.
-ms.openlocfilehash: 3d9bd3cba9cfecad648ab39aabcb243e04a6d3e2
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 52ae355158a5c801500c85b6ce6f796762503673
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609869"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639846"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 서비스 설명
 
@@ -31,7 +31,7 @@ ms.locfileid: "42609869"
 
 간략 한 개요를 보려면 [SharePoint 란?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f) 를 참조 하세요.
   
-SharePoint를 포함 하는 Office 365 계획을 보려면 [office 365 For Business 요금제를 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)합니다. Office 365 시스템 요구 사항에 대 한 자세한 내용은 [office의 시스템 요구 사항을](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4)참조 하세요. 
+SharePoint를 포함 하는 계획을 확인 하려면 [Microsoft 365 for business 요금제를 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)합니다. Microsoft 365 시스템 요구 사항에 대 한 자세한 내용은 [Office의 시스템 요구 사항을](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4)참조 하세요. 
 
 US 정부 클라우드 고객을 위한 SharePoint 기능 차이에 대 한 자세한 내용은 [sharepoint FOR us 정부 환경을](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)참조 하세요.
   
@@ -41,7 +41,7 @@ US 정부 클라우드 고객을 위한 SharePoint 기능 차이에 대 한 자�
   
 ## <a name="subscription-options"></a>구독 옵션
 
-Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 독립 실행형 계획 옵션 및 계획 간 이동 정보를 비롯하여 여러 계획에 대한 자세한 내용은 [Office 365 계획 옵션](../office-365-platform-service-description/office-365-plan-options.md)을 참조하십시오.
+Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. 독립 실행형 계획 옵션 및 계획 간 이동에 대 한 정보를 비롯 하 여 다양 한 계획에 대 한 자세한 내용은 [Microsoft 365 계획 옵션](../office-365-platform-service-description/office-365-plan-options.md)을 참조 하십시오.
   
 SharePoint에 액세스 하려면 조직의 사용자에 게 SharePoint를 포함 하는 라이선스를 할당 해야 합니다. Firstline 계획은 독립 라인 구독으로 판매 되지 않으며, [firstline 구독의](https://www.microsoft.com/microsoft-365/business/office-365-f1)일부로만 제공 됩니다. 
   
@@ -99,7 +99,7 @@ Microsoft Graph의 가용성에 대 한 자세한 내용은 [Office 365 플랫�
 - [마이그레이션: 마이그레이션 관리자](/sharepointmigration/mm-get-started)
 - [마이그레이션: SharePoint 마이그레이션 평가 도구](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
 - [마이그레이션: Mover.io](https://mover.io/). 현재 북미 지역 고객만 사용할 수 있습니다.
-- [다중 지역 (데이터 상주)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365) 최소 500 Office 365 라이선스가 필요한 추가 기능을 사용 하는 경우 자세한 내용은 Microsoft 담당자에 게 문의 하세요.
+- [다중 지역 (데이터 상주)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365) 최소 500의 Microsoft 라이선스를 필요로 하는 추가 기능을 사용 합니다. 자세한 내용은 Microsoft 담당자에 게 문의 하세요.
 - [프로그래밍 방식 사이트 프로 비전](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [루트 사이트 교체](/sharepoint/modern-root-site)
 - [삭제된 사이트 복원](/sharepoint/restore-deleted-site-collection)
@@ -124,7 +124,7 @@ SharePoint에 대 한 관리자 도움말은 [Sharepoint Online administration](
 - [전송 중 암호화 (rest)](/office365/securitycompliance/data-encryption-in-odb-and-spo)
 - [유휴 세션 로그 아웃](/sharepoint/sign-out-inactive-users)
 - [정보 관리 정책](https://support.office.com/article/EB501FE9-2EF6-4150-945A-65A6451EE9E9)
-- [IRM (정보 권한 관리)](/office365/securitycompliance/set-up-irm-in-sp-admin-center) Azure Information Protection 독립 실행형 또는 제품군의 일부로 필요 일부 Azure Information Protection 기능을 수행 하려면 Office 365 ProPlus에 대 한 구독이 필요 합니다.
+- [IRM (정보 권한 관리)](/office365/securitycompliance/set-up-irm-in-sp-admin-center) Azure Information Protection 독립 실행형 또는 제품군의 일부로 필요 일부 Azure Information Protection 기능을 수행 하려면 Microsoft 365 for enterprise 앱을 구독 해야 합니다.
 - [문서 라이브러리를 이전 시점으로 복원](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [바이러스 검색](/office365/securitycompliance/virus-detection-in-spo)
 
@@ -151,7 +151,7 @@ SharePoint는 Microsoft 365의 고급 보안 및 규정 준수 기능과 통합 
 
 다른 설명이 없는 한, SharePoint를 포함 하는 모든 요금제 및 모든 SharePoint 독립 실행형 계획에서 다음 기능을 사용할 수 있습니다.
 
-- [접근성](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
+- [손쉬운 사용](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
 - [Microsoft 팀을 사이트에 추가](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865)합니다. Office 365가 포함된 구독이 필요하며 사용자에게 팀 라이선스가 있어야 합니다.
 - [대상 그룹 지정](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
 - [클래식 팀 사이트를 새 Office 365 그룹에 연결](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d)합니다. Office 365이 포함 된 구독이 필요 합니다.

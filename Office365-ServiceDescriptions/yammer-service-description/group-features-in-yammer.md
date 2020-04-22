@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: Yammer에서는 다음과 같은 그룹 기능을 사용할 수 있습니다.
-ms.openlocfilehash: d362905170141d3bd838b342971816168821106e
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 873698fbe21f1be210fb89271bce0365ea4e69a9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263180"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640056"
 ---
 # <a name="group-features-in-yammer"></a>Yammer의 그룹 기능
 
 Yammer에서는 다음과 같은 그룹 기능을 사용할 수 있습니다.
   
-## <a name="announcements"></a>Announcements
+## <a name="announcements"></a>공지 사항
 
 중요 업데이트를 구성원에게 즉시 알리기 위해 알림을 그룹과 공유합니다. 관리자는 쉬운 검색을 위해 그룹에 알림을 고정할 수 있습니다.
   
@@ -37,5 +37,5 @@ Yammer에서는 다음과 같은 그룹 기능을 사용할 수 있습니다.
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Yammer 서비스 설명을](yammer-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Yammer 서비스 설명을](yammer-service-description.md)참조 하세요.
   

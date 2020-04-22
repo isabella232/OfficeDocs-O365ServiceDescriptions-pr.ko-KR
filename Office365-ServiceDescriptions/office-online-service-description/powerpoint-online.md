@@ -13,23 +13,23 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: Web for PowerPoint (이전의 PowerPoint Web App)에서는 프레젠테이션이 저장 된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있는 Microsoft PowerPoint 환경을 웹 브라우저로 확장 합니다. Microsoft Office 365 customers for web Office는 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: 211a028951ee86e8c7e79f36361a4249bbbdb838
-ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
+description: Web for PowerPoint (이전의 PowerPoint Web App)에서는 프레젠테이션이 저장 된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있는 Microsoft PowerPoint 환경을 웹 브라우저로 확장 합니다. Microsoft 365 web for Office를 사용 하는 고객은 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
+ms.openlocfilehash: f30eb6f981478c27e068282b5f0d523bad33eb38
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959326"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640286"
 ---
 # <a name="powerpoint-for-the-web"></a>웹용 PowerPoint
 
-Web for PowerPoint (이전의 PowerPoint Web App)에서는 프레젠테이션이 저장 된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있는 Microsoft PowerPoint 환경을 웹 브라우저로 확장 합니다. Microsoft Office 365 customers for web Office는 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
+Web for PowerPoint (이전의 PowerPoint Web App)에서는 프레젠테이션이 저장 된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있는 Microsoft PowerPoint 환경을 웹 브라우저로 확장 합니다. Microsoft 365 web for Office를 사용 하는 고객은 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
   
 PowerPoint 편집기는 사용자가 충실도를 잃지 않고 문서 작업을 수행할 수 있도록 하는 브라우저 기반 편집 화면을 만드는 웹 프런트 엔드 구성 요소입니다.
   
 웹 도구 모음의 PowerPoint에서 **powerpoint에서 열기** 단추를 선택 하면 프레젠테이션이 powerpoint 데스크톱 앱에서 열립니다 (Microsoft powerpoint 2010 이상이 컴퓨터에 설치 되어 있는 경우).
   
-[PC에서 비즈니스용 office 365을 사용 하 여 office를 다운로드 하 고 설치](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c)하는 방법에 대해 알아봅니다.
+[PC에서 비즈니스용 Microsoft 365을 사용 하 여 Office를 다운로드 하 고 설치](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c)하는 방법에 대해 알아봅니다.
   
 ## <a name="alignment-bullets-numbers"></a>맞춤, 글머리 기호, 번호
 
@@ -211,4 +211,4 @@ SmartArt를 삽입 하 고, 다른 레이아웃이 나 색 구성표로 전환 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [office for 웹 서비스 설명을](office-online-service-description.md)참조 하세요. 
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Office for 웹 서비스 설명을](office-online-service-description.md)참조 하세요. 

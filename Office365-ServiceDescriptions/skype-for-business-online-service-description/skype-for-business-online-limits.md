@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 비즈니스용 Skype Online의 제한은 다음 범주에 속합니다.
-ms.openlocfilehash: 46ad0ef0095880ef91733e26b4666a6ba99940b3
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 940405e3fa13adb52a98fb749e8dea51812ff32b
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688441"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639706"
 ---
 # <a name="skype-for-business-online-limits"></a>비즈니스용 Skype Online 제한
 
@@ -34,7 +34,7 @@ ms.locfileid: "42688441"
 - [분 한도](skype-for-business-online-limits.md#minute-limits)
     
 > [!NOTE]
-> Office 365 조직에 적용되는 제한은 조직이 서비스에 등록된 기간에 따라 다를 수 있습니다. 제한이 Microsoft 데이터 센터에서 변경된 경우 기존의 모든 고객에게 변경 사항을 적용하는 데 시간이 걸릴 수 있습니다. 
+> Microsoft 365 조직에 적용 되는 제한은 조직이 서비스에 등록 된 기간에 따라 다를 수 있습니다. 제한이 Microsoft 데이터 센터에서 변경된 경우 기존의 모든 고객에게 변경 사항을 적용하는 데 시간이 걸릴 수 있습니다. 
   
 ## <a name="peer-to-peer-limits"></a>피어-투-피어 제한
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
@@ -43,14 +43,14 @@ ms.locfileid: "42688441"
     
 - **대화 탭 열기 제한** 비즈니스용 Skype 사용자가 한 번에 열 수 있는 최대 대화 탭 수입니다. 
     
-### <a name="peer-to-peer-limits-across-office-365-options"></a>Office 365 옵션별 피어-투-피어 제한
+### <a name="peer-to-peer-limits"></a>피어-투-피어 제한 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
-|파일 전송 제한  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |해당 없음  <br/> |
+|**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 비즈니스 표준** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
+|파일 전송 제한  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |해당 사항 없음  <br/> |
 |대화 한도<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
-|대화 탭 열기 제한  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |해당 없음  <br/> |
+|대화 탭 열기 제한  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |해당 사항 없음  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> 클라이언트가 최대 99 명의 사용자와 대화를 직접 추가 하거나 그룹이 나 메일 그룹의 상황에 맞는 메뉴에서 인스턴트 메시지를 보내 채팅을 시작할 수 있습니다. 비즈니스용 Skype Online의 인스턴트 메시징에 대 한 자세한 내용은 [비즈니스용 skype에서 메신저 대화](https://go.microsoft.com/fwlink/?linkid=533412)를 참조 하세요. 
@@ -81,17 +81,17 @@ ms.locfileid: "42688441"
     
 - **전화로 참가하는 게스트** 모임에 전화를 걸 수 있는 최대 게스트 수입니다. 
     
-### <a name="meeting-limits-across-office-365-options"></a>Office 365 옵션별 모임 제한
+### <a name="meeting-limits"></a>모임 제한
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
+|**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 비즈니스 표준** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
 |파일 업로드 제한  <br/> |500MB  <br/> |500MB  <br/> |500MB  <br/> |500MB  <br/> |500MB  <br/> |해당 없음  <br/> |
-|비즈니스용 Skype 모임의 참가자<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
+|비즈니스용 Skype 모임의 참가자<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 사항 없음  <br/> |
 |비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
-|비즈니스용 Skype 웹 앱 모임 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
-|비즈니스용 Skype 웹 앱 익명 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
-|전화로 참가하는 게스트  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
+|비즈니스용 Skype 웹 앱 모임 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 사항 없음  <br/> |
+|비즈니스용 Skype 웹 앱 익명 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 사항 없음  <br/> |
+|전화로 참가하는 게스트  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 사항 없음  <br/> |
 |팀 호출 그룹의 개인  <br/> |25@@  <br/> |25@@  <br/> |25@@  <br/> |25@@  <br/> |25@@  <br/> |해당 없음  <br/> |
    
 > [!NOTE]
@@ -103,12 +103,12 @@ ms.locfileid: "42688441"
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 1** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 2** <br/> |
 |파일 업로드 제한  <br/> |500MB  <br/> |해당 없음  <br/> |500MB  <br/> |
-|비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
-|비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
-|비즈니스용 Skype 웹 앱 모임 참가자  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
-|비즈니스용 Skype 웹 앱 익명 참가자  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
-|전화로 참가하는 게스트  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
-|팀 호출 그룹의 개인  <br/> |25@@  <br/> |해당 없음  <br/> |25@@  <br/> |
+|비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |해당 사항 없음  <br/> |250  <br/> |
+|비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |해당 사항 없음  <br/> |250  <br/> |
+|비즈니스용 Skype 웹 앱 모임 참가자  <br/> |250  <br/> |해당 사항 없음  <br/> |250  <br/> |
+|비즈니스용 Skype 웹 앱 익명 참가자  <br/> |250  <br/> |해당 사항 없음  <br/> |250  <br/> |
+|전화로 참가하는 게스트  <br/> |250  <br/> |해당 사항 없음  <br/> |250  <br/> |
+|팀 호출 그룹의 개인  <br/> |25@@  <br/> |해당 사항 없음  <br/> |25@@  <br/> |
    
 ## <a name="meeting-retention-limits"></a>모임 보존 제한
 
@@ -116,7 +116,7 @@ ms.locfileid: "42688441"
     
 - **모임 만료 기간** 모임이 끝난 후에 사용자가 모임에 액세스할 수 있는 시간입니다. 
     
-### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Office 365 옵션 및 독립 실행형 계획에 걸친 모임 보존 제한
+### <a name="meeting-retention-limits-across-plans"></a>요금제에 걸친 모임 보존 제한
 
 > [!NOTE]
 > 개인별로 언제든지 최대 1000개의 회의를 데이터베이스에 가질 수 있습니다. 
@@ -131,5 +131,5 @@ ms.locfileid: "42688441"
 
 ## <a name="minute-limits"></a>분 한도
 
-Office 365 국내 통화 요금제 또는 Office 365 국제 통화 요금제의 분 제한 사항에 대 한 자세한 내용은 [오디오 회의 및 통화 요금제의 국가 및 지역 사용 가능 여부](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)를 방문 하세요.
+국내 통화 요금제 또는 국제 통화 요금제의 분 제한 사항에 대 한 자세한 내용은 [오디오 회의 및 통화 요금제에 대 한 국가 및 지역 사용 가능 여부](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)를 방문 하세요.
   

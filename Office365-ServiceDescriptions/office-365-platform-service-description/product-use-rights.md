@@ -1,5 +1,5 @@
 ---
-title: 제품 사용 권한
+title: 제품 사용권
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: bb5ce750365056dc88beee31f627fa7c569849e1
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 4eee250ce5d4ae2855c7ec1f26775bab73089676
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262499"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639916"
 ---
-# <a name="product-use-rights"></a>제품 사용 권한
+# <a name="product-use-rights"></a>제품 사용권
 
 ## <a name="microsoft-online-services-use-rights"></a>Microsoft Online Services 사용 권한
 
@@ -34,6 +34,6 @@ Microsoft Online 구독 계약을 준수하는 경우 [Microsoft Online Services
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
+계획 간의 기능 가용성을 확인 하려면 [Office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
   
 

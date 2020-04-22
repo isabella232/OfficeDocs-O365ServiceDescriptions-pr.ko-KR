@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c60a8507-72d2-43aa-a15b-aed053d5851f
 description: Yammer에서는 다음과 같은 외부 네트워크 기능을 사용할 수 있습니다.
-ms.openlocfilehash: a9def9e10eee6d6ceb5356ed748f6f700b9ec20a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 4c929b6194c7ec4dbad94db644c656ebdd5c5ba0
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263190"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640066"
 ---
 # <a name="external-network-features-in-yammer"></a>Yammer의 외부 네트워크 기능
 
@@ -33,4 +33,4 @@ Yammer에서는 다음과 같은 외부 네트워크 기능을 사용할 수 있
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Yammer 서비스 설명을](yammer-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Yammer 서비스 설명을](yammer-service-description.md)참조 하세요.

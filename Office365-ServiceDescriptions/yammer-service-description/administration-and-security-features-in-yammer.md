@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: Yammer에서는 다음과 같은 관리 및 보안 기능을 사용할 수 있습니다.
-ms.openlocfilehash: e1d9b86c96665398931261d258bd14a7e7687b95
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e177cbdfa4c34aba68970e26cec2c72d7780afef
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263200"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640086"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Yammer의 관리 및 보안 기능
 
@@ -58,7 +58,7 @@ Yammer 네트워크의 확인된 관리자는 전체 네트워크에서 개인 �
 통합 Yammer 네트워크를 하나로 통합합니다. 자세한 내용은 [네트워크 마이그레이션: 여러 Yammer 네트워크 통합](https://go.microsoft.com/fwlink/?LinkID=617488)을 참조하세요.
   
 > [!NOTE]
-> Office 365 테넌트 간에 Yammer 네트워크를 마이그레이션하는 것은 지원되지 않습니다. 
+> 계획 간에 Yammer 네트워크 마이그레이션은 지원 되지 않습니다. 
 
 ## <a name="organization-resources"></a>조직 리소스
 
@@ -74,7 +74,7 @@ Yammer 네트워크의 확인된 관리자는 전체 네트워크에서 개인 �
 
 ## <a name="single-identity"></a>단일 id
 
-조직에 대해 Office 365의 기본 소셜 환경으로 Yammer를 선택하면 직원이 자신의 기존 Yammer 계정에 매핑됩니다. 그러므로 Office 365에서 Yammer로 이동할 때 다시 로그인하지 않아도 됩니다. 직원이 Office 365,&mdash;yammer 모바일 앱을 통해 또는 Yammer.com&mdash;로 이동 하 여 yammer에 액세스 하는 경우 기존 조직 자격 증명을 기반으로 자동으로 로그인 됩니다.
+조직의 기본 소셜 환경으로 Yammer를 선택 하면 직원이 기존 Yammer 계정에 매핑됩니다. 그러므로 Office 365에서 Yammer로 이동할 때 다시 로그인하지 않아도 됩니다. 직원이 Office 365,&mdash;yammer 모바일 앱을 통해 또는 Yammer.com&mdash;로 이동 하 여 yammer에 액세스 하는 경우 기존 조직 자격 증명을 기반으로 자동으로 로그인 됩니다.
 
 ## <a name="usage-policy"></a>사용 정책
 
@@ -86,6 +86,6 @@ Yammer 네트워크의 확인된 관리자는 전체 네트워크에서 개인 �
 
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Yammer 서비스 설명을](yammer-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Yammer 서비스 설명을](yammer-service-description.md)참조 하세요.
   
 

@@ -11,29 +11,29 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Web for office를 사용 하면 거의 모든 장치에서 인터넷에 연결 하 여 어디서 나 Office 파일을 보다 쉽게 작업 하 고 공유할 수 있습니다. Microsoft Office 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+description: Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Web for office를 사용 하면 거의 모든 장치에서 인터넷에 연결 하 여 어디서 나 Office 파일을 보다 쉽게 작업 하 고 공유할 수 있습니다. Microsoft 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
+ms.openlocfilehash: 12130b5aaa77a3e84748a9e60e3864559a21b4e3
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545791"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640136"
 ---
 # <a name="office-for-the-web-service-description"></a>웹용 Office 서비스 설명
 
-Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Web for office를 사용 하면 거의 모든 장치에서 인터넷에 연결 하 여 어디서 나 Office 파일을 보다 쉽게 작업 하 고 공유할 수 있습니다. Microsoft Office 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다. 
+Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Web for office를 사용 하면 거의 모든 장치에서 인터넷에 연결 하 여 어디서 나 Office 파일을 보다 쉽게 작업 하 고 공유할 수 있습니다. Microsoft 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다. 
   
-요금제 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 요금제 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)를 참조하세요.
+계획 간에 기능을 비교 하려면 [Microsoft 365 for 비즈니스 요금제 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)를 참조 하세요.
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>웹 계획에 대 한 Office에서의 기능 가용성
 
 조직에 가장 잘 맞는 Office 솔루션을 찾는 데 도움이 필요하십니까? 다음 표에서는 Office web feature 기능을 다양 한 기능의 Microsoft Office 데스크톱 앱과 비교 합니다. 표를 사용 하 여 웹에서 사용할 수 있는 기능을 찾은 다음 기능 이름을 선택 하 여 해당 기능의 작동 방식에 대 한 간략 한 설명을 읽습니다. 조직의 일부 사용자가 Excel 데스크톱 앱의 고급 차트 기능을 필요로 하는 반면, 다른 사용자가 웹의 Office에서 Word 문서 및 PowerPoint 프레젠테이션을 보고 가볍게 편집 하기만 하면 되는 것을 알 수 있습니다. 
   
 > [!NOTE]
->  Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. 표는 Microsoft Office 기능의 전체 목록이 아닙니다. <br/>  Microsoft Office 365 ProPlus는 최신 Office 데스크톱 제품군의 월별 구독 제품입니다. <br/>  Office Professional Plus, Office Standard 또는 Office 365 ProPlus 라이선스와 같은 Office 데스크톱 제품군 라이선스를 구매한 경우 Microsoft Office Online Server 온-프레미스 고객은 웹 편집 라이선스로 Office를 가져옵니다. 
+>  Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. 표는 Microsoft Office 기능의 전체 목록이 아닙니다. <br/>  Microsoft Microsoft 365 Apps for enterprise는 최신 Office 데스크톱 제품군의 월별 구독 제공입니다. <br/>  Office Professional Plus, Office Standard 또는 Microsoft 365 앱 for enterprise 라이선스와 같은 office 데스크톱 제품군 라이선스를 구매한 경우 microsoft Office Online Server 온-프레미스 고객은 웹 편집 라이선스로 Office를 받습니다. 
   
 > [!NOTE]
-> Outlook 전자 메일 첨부 파일 또는 SharePoint 문서 라이브러리에서 Office 문서를 열면 문서가 Office for web에서 실행 되며 읽기 전용으로 설정 됩니다. Office의 웹 (편집 모드)에서 문서를 편집 하려면 office 365 Enterprise E1과 같은 Office 365 제품군 라이선스가 필요 합니다. 데스크톱 앱에서 문서를 편집하려면 Office 365 ProPlus 구독 또는 Office Professional Plus 2010 설치 버전과 같은 Office 데스크톱 제품군 라이선스가 필요합니다. 
+> Outlook 전자 메일 첨부 파일 또는 SharePoint 문서 라이브러리에서 Office 문서를 열면 문서가 Office for web에서 실행 되며 읽기 전용으로 설정 됩니다. Office의 웹 (편집 모드)에서 문서를 편집 하려면 Office 365 Enterprise E1과 같은 제품군 라이선스가 필요 합니다. 데스크톱 앱에서 문서를 편집 하려면 office 데스크톱 제품군 라이선스 (예: 엔터프라이즈 구독 용 Microsoft 365 Apps 또는 Office Professional Plus 2010 설치 된 버전)가 필요 합니다. 
   
 ### <a name="word"></a>Word
 

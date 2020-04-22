@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
 description: Project Online에서는 다음과 같은 SharePoint 및 비즈니스용 Skype 상호 운용성 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 3c81ee0250cf3cf27bb18c83ca823da5a02cac9a
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: c0d1f8d471a9841306a0d35edfd546179185c23b
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546051"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638943"
 ---
 # <a name="project-publishing"></a>프로젝트 게시
 
@@ -51,6 +51,6 @@ Project Server가 없는 팀 구성원과 공유할 프로젝트를 SharePoint �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Project Online service description](project-online-service-description.md)을 참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Project Online service description](project-online-service-description.md)을 참조 하세요.
   
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
 description: Project Online에서는 다음과 같은 리소스 관리 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 6141e5467b4ff85757ef85accf9098fb9b5ee9e8
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 9534503dfe54be12e92041a34d156d462fb91eee
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546061"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639866"
 ---
 # <a name="project-resource-management"></a>프로젝트 자원 관리
 
@@ -55,6 +55,6 @@ Project Online에서는 다음과 같은 리소스 관리 기능을 사용할 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Project Online service description](project-online-service-description.md)을 참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Project Online service description](project-online-service-description.md)을 참조 하세요.
   
 

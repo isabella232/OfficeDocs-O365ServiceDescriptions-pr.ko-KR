@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 다음 섹션에서는 Microsoft Exchange Online 보관의 보관 기능에 대해 설명 합니다.
-ms.openlocfilehash: aa3a43a0af668f84adaf14c69ad5b38d7c5cb1eb
-ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
+ms.openlocfilehash: cc4b6cb6f0aa817f3b0369f2bf3517fd480a11e8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987580"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639837"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online 보관의 보관 기능
 
@@ -68,7 +68,7 @@ Exchange Online Archiving에서는 보관 사서함 기능과 함께 고급 보�
   
 ## <a name="deleted-mailbox-recovery"></a>삭제된 사서함 복구
 
-관리자가 사용자를 온-프레미스 Exchange Server에서 삭제하면 해당 사용자의 보관 사서함도 삭제됩니다. 삭제된 보관 사서함을 복구해야 하는 경우 Office 365 지원 팀이 해당 복구를 수행할 수 있습니다. 복구된 보관 사서함에는 삭제 당시에 저장되어 있던 모든 메일이 포함됩니다.
+관리자가 사용자를 온-프레미스 Exchange Server에서 삭제하면 해당 사용자의 보관 사서함도 삭제됩니다. 삭제 된 보관 사서함을 복구 해야 하는 경우 Microsoft 지원 팀에서이 복구를 수행할 수 있습니다. 복구된 보관 사서함에는 삭제 당시에 저장되어 있던 모든 메일이 포함됩니다.
   
 > [!IMPORTANT]
 > 관리자는 사용자 사서함이 삭제된 시점부터 30일 동안 보관 사서함의 복구를 요청할 수 있습니다. 30일 후에는 보관 사서함을 복구할 수 없습니다. 
@@ -79,5 +79,5 @@ Exchange Online Archiving의 보관 사서함은 메시징 인프라에 오류�
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 보관 서비스 설명을](exchange-online-archiving-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 보관 서비스 설명을](exchange-online-archiving-service-description.md)참조 하세요.
   

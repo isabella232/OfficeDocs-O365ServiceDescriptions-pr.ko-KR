@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 03f282d6458c763fc362d2ea680d12f4cf5e2861
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 4d81cef3f2b3edefe21e40b0cde6a6edcc0fc1af
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688339"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638950"
 ---
 # <a name="message-policy-and-compliance"></a>메시지 정책 및 규정 준수
 
@@ -73,11 +73,11 @@ Exchange Server 2007에서 제공했던 기존의 메시징 레코드 관리 접
   
 ## <a name="encryption-of-data-at-rest"></a>보관된 데이터 암호화
 
-Office 365 고객 데이터의 암호화 기능은 BitLocker, DKM, Azure Storage Service Encryption, Exchange Online의 서비스 암호화, 비즈니스용 Skype, 비즈니스용 OneDrive, SharePoint 등의 여러 서비스 쪽 기술에서 제공 됩니다. 온라인. Office 365 서비스 암호화에는 Azure 키 자격 증명 모음에 저장 되는 고객 관리 암호화 키를 사용 하기 위한 옵션이 포함 됩니다. [Office 365 고객 키](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697)라는이 고객 관리 키 옵션은 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 사용할 수 있습니다. 
+Exchange Online, 비즈니스용 Skype, 비즈니스용 OneDrive 및 SharePoint Online의 BitLocker, DKM, Azure Storage Service 암호화 및 서비스 암호화를 비롯 한 여러 서비스 쪽 기술에 따라 나머지 고객 데이터 암호화가 제공 됩니다. Office 365 서비스 암호화에는 Azure 키 자격 증명 모음에 저장 되는 고객 관리 암호화 키를 사용 하기 위한 옵션이 포함 됩니다. [고객 키](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697)라고 하는이 고객 관리 키 옵션은 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 사용할 수 있습니다. 
   
 ### <a name="bitlocker"></a>BitLocker
 
-Office 365 서버는 BitLocker를 사용 하 여 볼륨 수준에서 남은 고객 데이터를 포함 하는 디스크 드라이브를 암호화 합니다. BitLocker 암호화는 Windows에 기본적으로 제공 되는 데이터 보호 기능입니다. BitLocker는 다른 프로세스나 컨트롤에 lapses가 있는 경우 (예: 액세스 제어 또는 하드웨어 재활용) 고객이 고객 데이터를 포함 하는 디스크에 물리적으로 액세스할 수 있도록 하는 데 사용 되는 기술 중 하나입니다. 이 경우 BitLocker는 컴퓨터 및 디스크 분실, 도난 또는 부적절 한 제거로 인 한 데이터 도용 또는 노출을 방지할 수 있습니다. 
+Microsoft 서버는 BitLocker를 사용 하 여 볼륨 수준에서 남은 고객 데이터를 포함 하는 디스크 드라이브를 암호화 합니다. BitLocker 암호화는 Windows에 기본적으로 제공 되는 데이터 보호 기능입니다. BitLocker는 다른 프로세스나 컨트롤에 lapses가 있는 경우 (예: 액세스 제어 또는 하드웨어 재활용) 고객이 고객 데이터를 포함 하는 디스크에 물리적으로 액세스할 수 있도록 하는 데 사용 되는 기술 중 하나입니다. 이 경우 BitLocker는 컴퓨터 및 디스크 분실, 도난 또는 부적절 한 제거로 인 한 데이터 도용 또는 노출을 방지할 수 있습니다. 
   
 ### <a name="distributed-key-manager"></a>배포 된 키 관리자
 
@@ -85,13 +85,13 @@ BitLocker 외에도, DKM (Distributed Key Manager) 이라는 기술을 사용 �
   
 ## <a name="customer-key"></a>고객 키
 
-고객 키를 사용 하 여 조직의 암호화 키를 제어 하 고 Microsoft 데이터 센터의 휴지 상태에서 데이터를 암호화 하는 데 사용 하도록 Office 365를 구성 합니다. 미사용 데이터에는 SharePoint Online 및 비즈니스용 OneDrive에 저장되어 있는 사서함과 파일에 저장된 Exchange Online 및 비즈니스용 Skype의 데이터를 포함합니다. 자세한 내용은 고객 키 및 서비스 암호화를 [사용 하 여 office 365에서 데이터 제어](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) [office 365 FAQ](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq)를 참조 하세요.
+고객 키를 사용 하 여 조직의 암호화 키를 제어 하 고 Microsoft 데이터 센터의 휴지 상태에서 데이터가 암호화 되도록 구성 합니다. 미사용 데이터에는 SharePoint Online 및 비즈니스용 OneDrive에 저장되어 있는 사서함과 파일에 저장된 Exchange Online 및 비즈니스용 Skype의 데이터를 포함합니다. 자세한 내용은 고객 키 및 [서비스 암호화](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq)를 [사용 하 여 데이터 제어](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) FAQ를 참조 하세요.
   
 ## <a name="office-365-message-encryption"></a>Office 365 메시지 암호화
 
 Office 365 메시지 암호화를 사용 하면 전자 메일 사용자가 암호화 된 전자 메일 메시지를 누구 든 지 보낼 수 있습니다. Azure Information Encryption의 보호 기능을 활용 하는 Office 메시지 암호화의 새로운 기능을 발표 했습니다. 이러한 새로운 기능을 통해 조직 내부 또는 외부의 모든 사용자와 보호 된 메시지를 보다 쉽게 공유 하 고 공동으로 작업할 수 있도록 하는 향상 된 최종 사용자 환경이 제공 됩니다. 새 Office 메시지 암호화 기능에는 몇 가지 설치 요구 사항이 있습니다. Azure Information Protection 기반으로 구축 된 새 Office 365 메시지 암호화 기능을 참조 하세요. 고객이 레거시 Office 365 메시지 암호화를 사용 하는 경우에는 위에 나와 있는 설정 지침을 따르지 않으면 새로운 기능을 얻을 수 없습니다. 신규 및 레거시 Office 365 메시지 암호화 기능에 포함 된 항목에 대 한 자세한 내용은 [FAQ](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) 를 참조 하세요. 
 
-Office 365 고급 메시지 암호화는 메시지 만료 및 해지를 허용 하 여 추가 보호 기능을 제공 합니다.  조직에서 보내는 암호화 된 전자 메일용으로 여러 템플릿을 만들 수도 있습니다.  고급 메시지 암호화는 Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (비영리 스태프 가격), Office 365 Enterprise E5 (비영리 스태프 가격) 또는 Office 365 교육용 A5에 포함 되어 있습니다. 조직에서 Office 365 고급 메시지 암호화를 포함 하지 않는 Office 365 구독을 사용 하는 경우에는 Microsoft 365 E5 규정 준수 또는 Office 365 Advanced 준수 SKU를 추가 기능으로 구입할 수 있습니다.
+Office 365 고급 메시지 암호화는 메시지 만료 및 해지를 허용 하 여 추가 보호 기능을 제공 합니다.  조직에서 보내는 암호화 된 전자 메일용으로 여러 템플릿을 만들 수도 있습니다.  고급 메시지 암호화는 Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (비영리 스태프 가격), Office 365 Enterprise E5 (비영리 스태프 가격) 또는 Office 365 교육용 A5에 포함 되어 있습니다. 조직에서 Office 365 고급 메시지 암호화를 포함 하지 않는 구독을 사용 하는 경우에는 Microsoft 365 E5 규정 준수 또는 Office 365 Advanced 준수 SKU를 추가 기능으로 구입할 수 있습니다.
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>S/MIME(Secure/Multipurpose Internet Mail Extensions)
 
@@ -219,6 +219,6 @@ Exchange 관리 센터 또는 원격 Windows PowerShell을 사용하여 저널 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 서비스 설명을](exchange-online-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 서비스 설명을](exchange-online-service-description.md)참조 하세요.
   
 

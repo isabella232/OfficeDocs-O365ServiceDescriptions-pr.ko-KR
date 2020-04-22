@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Project Online에서는 다음과 같은 핵심 서비스 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 172aabf2a2cdf4891db556b38f1415edf6389610
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: ac60216d3331ce41f2257f287306a18a0896888b
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688432"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638966"
 ---
 # <a name="core-services-functionality"></a>핵심 서비스 기능
 
@@ -49,11 +49,11 @@ Microsoft PPM 솔루션은 PPM 역량을 획득하여 전 세계 80여 국가에
   
 ## <a name="service-reliability"></a>Service reliability
 
-Microsoft는 업계 최고의 금전적 보상으로 Office 365 고객에게 99.9%의 가동 시간을 보장합니다. [서비스 연속성](https://go.microsoft.com/fwlink/?LinkId=402653)을 참조하세요.
+우리는 업계 최고의 재무 보증을 통해 99.9%의 가동 시간을 보장 합니다. [서비스 연속성](https://go.microsoft.com/fwlink/?LinkId=402653)을 참조하세요.
   
 ## <a name="service-updates"></a>서비스 업데이트
 
-Office 365 서비스는 정기적으로 새로운 기능이 업데이트됩니다. [서비스 업데이트](../office-365-platform-service-description/service-updates.md)를 참조 하세요.
+Microsoft 서비스는 정기적으로 새로운 기능을 사용 하 여 업데이트 합니다. [서비스 업데이트](../office-365-platform-service-description/service-updates.md)를 참조 하세요.
   
 ## <a name="team-member-collaboration"></a>Team member collaboration
 

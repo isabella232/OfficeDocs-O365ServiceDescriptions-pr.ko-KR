@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft EOP(Exchange Online Protection)에서는 조직의 전체 상태를 확인할 수 있는 다양한 보고서를 제공합니다. 일부 보고서는 Microsoft 365 관리 센터에서 사용할 수 있고, 일부는 EAC (Exchange 관리 센터)에서 사용할 수 있습니다.
-ms.openlocfilehash: d4e0f1104bfc87f5641cc241d2a526e8d56f0d1a
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 58e1c33b331c9bb05bd45893357bba9b5cca9945
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688332"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638955"
 ---
 # <a name="reporting-and-message-trace"></a>보고 및 메시지 추적
 
@@ -29,12 +29,12 @@ Microsoft EOP(Exchange Online Protection)에서는 조직의 전체 상태를 �
 
 Microsoft 365 관리 센터의 보고서 페이지에서는 메시지 트래픽, 스팸 및 맬웨어 감지, 메일 흐름 규칙 (전송 규칙이 라고도 함) 또는 DLP (데이터 손실 방지) 정책과 관련 된 메시지에 대 한 정보를 제공 합니다. 보호, 규칙 및 DLP에 대한 향상된 보고서에서는 EOP 관리자에게 대화형 보고 환경이 제공됩니다. 이러한 보고서에서는 개별 메시지에 대한 세부 정보로 드릴다운할 수 있는 기능과 함께 요약 데이터가 제공됩니다.
 
-이러한 보고서에 대 한 자세한 내용은 [Use mail protection reports In Office 365에서 맬웨어, 스팸 및 규칙 감지에 대 한 데이터 보기](https://docs.microsoft.com/exchange/monitoring/use-mail-protection-reports)를 참조 하세요.
+이러한 보고서에 대 한 자세한 내용은 [메일 보호 보고서를 사용 하 여 맬웨어, 스팸 및 규칙 감지에 대 한 데이터 보기](https://docs.microsoft.com/exchange/monitoring/use-mail-protection-reports)를 참조 하세요.
 
 ## <a name="reporting-using-web-services"></a>Reporting using web services
 
 > [!NOTE]
-> 대부분의 REST 기반 보고 기능 및 관련 cmdlet은 1 월 2018 일에 더 이상 사용 되지 않습니다. Office 365에서 사용 가능한 대체 Microsoft Graph 보고서에 대 한 자세한 내용은 [Microsoft graph에서 Office 365 사용 현황 보고서 작업](https://go.microsoft.com/fwlink/p/?LinkID=865135)의 하위 주제를 참조 하세요.
+> 대부분의 REST 기반 보고 기능 및 관련 cmdlet은 1 월 2018 일에 더 이상 사용 되지 않습니다. Office 365에서 사용 가능한 대체 Microsoft Graph 보고서에 대 한 자세한 내용은 [Microsoft graph에서 사용 현황 보고서 작업](https://go.microsoft.com/fwlink/p/?LinkID=865135)의 하위 주제를 참조 하세요.
 
 EOP 독립 실행형 고객에게는 제공되지 않습니다. REST/OData 테 넌 트 보고 웹 서비스를 사용 하 여 메시징 데이터에 대 한 요약 및 자세한 보고서를 프로그래밍 방식으로 수집 하 고 사용자 지정 웹 관리 포털에 웹 페이지에 데이터를 표시할 수 있습니다.
 
@@ -44,4 +44,4 @@ EAC의 메시지 추적 기능을 사용 하면 관리자가 EOP를 통과 하�
 
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.

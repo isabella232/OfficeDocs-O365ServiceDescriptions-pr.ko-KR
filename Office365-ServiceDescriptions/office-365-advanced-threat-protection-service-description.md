@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는 클라우드 기반 전자 메일 필터링 서비스로, 실시간으로 유해한 링크 로부터 조직을 보호 하는 기능을 포함 합니다.
-ms.openlocfilehash: edcf7b7207be27e406f9c6876c1d7d50d3d12dd5
-ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
+ms.openlocfilehash: 9316cf30bb195b540c2653d66154c672af49000c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529221"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640146"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection 서비스 설명
 
@@ -33,9 +33,9 @@ Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호
 
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Office 365 ATP (Advanced Threat Protection) 가용성
 
-ATP는 Office 365 Enterprise E5, Office 365 교육 A5 및 Microsoft 365 Business에 포함 되어 있습니다.
+ATP는 Office 365 Enterprise E5, Office 365 교육 A5 및 Microsoft 365 Business Premium에 포함 되어 있습니다.
 
-ATP를 다음 Exchange 및 Office 365 구독 계획에 추가할 수 있습니다.
+ATP를 다음 Exchange 및 Microsoft 365 구독 계획에 추가할 수 있습니다.
 
 - Exchange Online 요금제 1
 
@@ -45,9 +45,9 @@ ATP를 다음 Exchange 및 Office 365 구독 계획에 추가할 수 있습니�
 
 - Exchange Online Protection
 
-- Office 365 Business Essentials
+- Microsoft 365 Business Basic
 
-- Office 365 Business Premium
+- Microsoft 365 비즈니스 표준
 
 - Office 365 Enterprise E1
 
@@ -61,7 +61,7 @@ ATP를 다음 Exchange 및 Office 365 구독 계획에 추가할 수 있습니�
 
 Office 365 Advanced threat Protection을 구입 하려면 [office 365 Advanced Threat protection](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)를 참조 하세요.
 
-계획 간에 기능을 비교 하려면 [Office 365 For Business 요금제 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 및 [적절 한 Microsoft 365 Enterprise 솔루션 검색](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)을 참조 하세요.
+계획 간에 기능을 비교 하려면 [microsoft 365 앱 비즈니스 요금제 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 를 참조 하 고 [사용자에 게 적합 한 microsoft 365 Enterprise 솔루션을 검색](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)합니다.
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Office 365의 새로운 기능 (Advanced Threat Protection (ATP)
 
@@ -113,7 +113,7 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 
 다음과 같은 앱의 Url에 대해 안전한 링크를 사용할 수 있습니다.
 
-- Windows 또는 Mac의 Office 365 ProPlus
+- Windows 또는 Mac의 엔터프라이즈에 대 한 Microsoft 365 앱
 
 - 웹 (웹의 Word, 웹의 경우 Excel, 웹의 경우 PowerPoint, 웹의 OneNote)에 대 한 Office
 
@@ -138,7 +138,7 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 
 ### <a name="real-time-reports"></a>실시간 보고서
 
-Office 365 보안 & 준수 센터에서 사용할 수 있는 모니터링 기능 보안 및 준수 관리자가 보안 공격이 나 향상 된 수상한 작업과 같은 우선 순위가 높은 문제에 집중할 수 있도록 하는 [실시간 보고서와 정보](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) 를 포함 합니다. 문제 영역을 강조 표시 하는 것 외에도 smart reports 및 insights에는 데이터를 보고 탐색 하 고 빠른 작업도 수행할 수 있는 권장 사항과 링크가 포함 되어 있습니다.
+보안 및 준수 관리자가 보안 공격이 나 향상 된 수상한 활동과 같은 우선 순위가 높은 문제에 집중할 수 있도록 하는 [실시간 보고서 및 정보](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) 를 제공 하는 모니터링 기능 (Security & 준수 센터)이 포함 되어 있습니다. 문제 영역을 강조 표시 하는 것 외에도 smart reports 및 insights에는 데이터를 보고 탐색 하 고 빠른 작업도 수행할 수 있는 권장 사항과 링크가 포함 되어 있습니다.
 
 ### <a name="explorer"></a>Explorer
 

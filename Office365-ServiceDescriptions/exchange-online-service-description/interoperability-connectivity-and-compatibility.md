@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 2da88139da1d779c5fb72d3b8fe72a077c1f9e16
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 6dcb4f38b62585eb6c87f175332cfaeef80230a9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262661"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639996"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>상호 운용성, 연결 및 호환성
 
@@ -36,7 +36,7 @@ Microsoft Lync Server 2010, Lync Server 2013 또는 Microsoft Office Communicati
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-Office 365 구독 계획의 일부로 Microsoft SharePoint Server나 SharePoint Online을 배포한 고객의 경우 통합 서비스를 위해 SharePoint를 Exchange Online에 연결할 수 있습니다.
+구독 계획의 일부로 Microsoft SharePoint Server 또는 SharePoint Online을 배포한 고객의 경우 SharePoint는 통합 서비스용 Exchange Online에 연결할 수 있습니다.
   
 SharePoint를 Exchange Online에 연결하는 데 대한 자세한 내용은 [사용자 지정 도메인의 SharePoint Online을 다른 서비스와 함께 사용](https://go.microsoft.com/fwlink/?LinkId=271805)을 참조하세요.
   
@@ -58,6 +58,6 @@ Exchange Online을 SMTP 배달 서비스로 사용하여 팩스 게이트웨이,
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 서비스 설명을](exchange-online-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 서비스 설명을](exchange-online-service-description.md)참조 하세요.
   
 

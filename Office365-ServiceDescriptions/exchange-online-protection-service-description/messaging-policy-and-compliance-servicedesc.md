@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft EOP (Exchange Online Protection)에서는 전자 메일 데이터를 관리 하는 데 사용할 수 있는 메시징 정책 및 규정 준수 기능을 제공 합니다.
-ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 9ebfdae60eac6e646b3c1b64b13f3cbcb6612b0c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688273"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640166"
 ---
 # <a name="messaging-policy-and-compliance"></a>메시징 정책 및 규정 준수
 
@@ -77,4 +77,4 @@ Office 365 메시지 암호화는 Azure Information Protection의 일부로, 전
 > <sup>1</sup> EOP와 Exchange Online의 사용 가능한 메일 흐름 규칙 조건, 예외 및 작업은 약간씩 다릅니다. Exchange online의 메일 [흐름 규칙 조건 및 예외 (조건자)](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) 에서는 exchange online의 메일 흐름 [규칙 동작](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)에 나와 있습니다. <br/>
 > <sup>2</sup> EOP 감사 보고서는 사서함에 대한 정보가 제외된, Exchange Online 감사 보고서의 하위 집합입니다. <br/>
 > <sup>3</sup> Exchange Enterprise CAL with Services 고객은 DLP 정책 팁을 사용할 수 없습니다. <br/>
-> <sup>4</sup> Azure Information Protection 추가 기능을 구입 하 고 Exchange online Protection을 사용 하 여 exchange online을 통해 전자 메일을 라우팅하는 온-프레미스 고객에 게 지원 됩니다. 데스크톱 환경에서 Azure Information Protection 추가 기능 외에 Office 365 ProPlus를 구입 해야 합니다. <br/>
+> <sup>4</sup> Azure Information Protection 추가 기능을 구입 하 고 Exchange online Protection을 사용 하 여 exchange online을 통해 전자 메일을 라우팅하는 온-프레미스 고객에 게 지원 됩니다. 데스크톱 환경에서 Azure Information Protection 추가 기능 외에도, 엔터프라이즈 용 Microsoft 365 앱을 구입 해야 합니다. <br/>
