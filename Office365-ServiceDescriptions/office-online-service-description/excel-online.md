@@ -13,23 +13,23 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: Web for excel (이전의 Excel Web App)은 Microsoft Excel 환경을 웹 브라우저로 확장 하 여 통합 문서가 저장 된 웹 사이트에서 통합 문서를 직접 사용할 수 있습니다. 모든 Office 365 고객은 웹에서 Office를 사용 하 여 Office 파일을 보고 가볍게 편집할 수 있습니다.
-ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Web for excel (이전의 Excel Web App)은 Microsoft Excel 환경을 웹 브라우저로 확장 하 여 통합 문서가 저장 된 웹 사이트에서 통합 문서를 직접 사용할 수 있습니다. 모든 고객은 웹에서 Office를 사용 하 여 Office 파일을 보고 가볍게 편집할 수 있습니다.
+ms.openlocfilehash: 016df373aca64369cbde5e60f0b5d08111177913
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688284"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639886"
 ---
 # <a name="excel-for-the-web"></a>웹용 Excel
 
-Web for excel (이전의 Excel Web App)은 Microsoft Excel 환경을 웹 브라우저로 확장 하 여 통합 문서가 저장 된 웹 사이트에서 통합 문서를 직접 사용할 수 있습니다. 모든 Office 365 고객은 웹에서 Office를 사용 하 여 Office 파일을 보고 가볍게 편집할 수 있습니다.
+Web for excel (이전의 Excel Web App)은 Microsoft Excel 환경을 웹 브라우저로 확장 하 여 통합 문서가 저장 된 웹 사이트에서 통합 문서를 직접 사용할 수 있습니다. 모든 고객은 웹에서 Office를 사용 하 여 Office 파일을 보고 가볍게 편집할 수 있습니다.
   
 > [!NOTE]
 > 50 메가바이트 (MB)를 초과 하는 통합 문서는 Microsoft SharePoint Online 내에서 웹을 사용할 때 Excel에서 볼 수 없습니다. 더 큰 파일을 보려면 Excel 데스크톱 앱이 컴퓨터에 설치되어 있어야 합니다. 
 
 > [!NOTE]
-> 제품을 간편하게 비교할 수 있도록 이 문서에 나열된 고급 기능에는 Office 제품군(예: Office Professional Plus, Office Standard 또는 Office 365 ProPlus)에서만 사용할 수 있는 Excel 데스크톱 앱 기능이 포함됩니다. 웹을 위한 Word, 웹의 PowerPoint와 같은 웹 기능에 대 한 모든 Office의 목록은 [웹 요금제에 대 한 office의 기능 가용성](office-online-service-description.md#feature-availability-across-office-for-the-web-plans)을 참조 하십시오.
+> 이 문서에 나와 있는 고급 기능은 office 제품군 에서만 사용할 수 있는 Excel 데스크톱 앱 기능 (예: Office Professional Plus, Office Standard 또는 Microsoft 365 Apps for enterprise)과 함께 제공 됩니다. 웹을 위한 Word, 웹의 PowerPoint와 같은 웹 기능에 대 한 모든 Office의 목록은 [웹 요금제에 대 한 office의 기능 가용성](office-online-service-description.md#feature-availability-across-office-for-the-web-plans)을 참조 하십시오.
 
 웹에서 Excel에서 지 원하는 파일 형식을 확인 하려면 지원 되는 [Office 파일 형식을 웹](office-online-service-description.md#supported-file-types-for-office-for-the-web)을 참조 하십시오. Excel과 Excel 데스크톱 응용 프로그램에서 사용 하는 경우의 차이점에 대 한 자세한 내용은 [브라우저 및 excel에서 통합 문서를 사용할](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6)때의 차이점을 참조 하십시오.
   
@@ -342,4 +342,4 @@ Excel에서 웹을 사용할 수 없습니다. Excel에서 웹에 대 한 "What 
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [office for 웹 서비스 설명을](office-online-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Office for 웹 서비스 설명을](office-online-service-description.md)참조 하세요.

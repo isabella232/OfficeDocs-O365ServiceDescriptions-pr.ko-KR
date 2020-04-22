@@ -1,5 +1,5 @@
 ---
-title: Office 365 플랫폼 서비스 설명
+title: Microsoft 365 및 Office 365 플랫폼 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Exchange Online 계획을 비롯하여 Office 365 계획 간의 차이점을 알고 싶은 경우 이 문서를 통해 각 계획에 포함된 기능을 확인할 수 있습니다.
-ms.openlocfilehash: b207c66057ef8cbdc6ca9dce65cee72d6c4a9792
-ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
+ms.openlocfilehash: 2e706ea6dcb85b03a40fb6790b058ceb2c23be20
+ms.sourcegitcommit: 5a76557af16611192b978d84c0b01f23edaab746
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43093575"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43725137"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 플랫폼 서비스 설명
 
-Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Exchange Online 계획을 비롯하여 Office 365 계획 간의 차이점을 알고 싶은 경우 이 문서를 통해 각 계획에 포함된 기능을 확인할 수 있습니다.
+Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Exchange Online 계획을 비롯 하 여 계획 간의 차이점을 확인 하는 경우이 문서에 각 기능에 포함 되는 기능이 표시 됩니다.
   
-Microsoft Office 365는 모든 규모의 비즈니스에 클라우드 생산성을 제공 하 여 시간 및 비용을 절감 하 고 가치 있는 리소스를 확보 하는 데 도움이 됩니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군과 microsoft Exchange Online, Microsoft SharePoint Online, 웹을 위한 microsoft 비즈니스용 Skype 및 공동 작업 서비스를 포함 하 여 사용자가 인터넷에서 거의 모든 위치에서 생산성을 유지 하는 데 도움이 되는 microsoft의 차세대 communications and 협업 서비스가 제공 됩니다.
+Microsoft 365 및 Office 365는 모든 규모의 비즈니스에 클라우드 생산성을 제공 하 여 시간 및 비용을 절감 하 고 가치 있는 리소스를 확보 하는 데 도움을 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군과 microsoft Exchange Online, Microsoft SharePoint Online, 웹을 위한 microsoft 비즈니스용 Skype 및 공동 작업 서비스를 포함 하 여 사용자가 인터넷에서 거의 모든 위치에서 생산성을 유지 하는 데 도움이 되는 microsoft의 차세대 communications and 협업 서비스가 제공 됩니다.
   
-계획 간에 기능을 비교 하려면 office [365 For Business 요금제 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 또는 자세한 기능 목록을 보려면 [office 365 서비스 설명 ](../office-365-service-descriptions-technet-library.md)에서 관련 서비스 설명을 참조 하세요.
+계획 간에 기능을 비교 하려면 [비교 계획](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 을 참조 하 고 자세한 기능 목록을 보려면 [Office 365 서비스 설명 ](../office-365-service-descriptions-technet-library.md)에서 관련 서비스 설명을 참조 하세요.
   
 - Office 365 Education 요금제에 대한 내용은 [Office 365 Education](office-365-education.md) 페이지부터 확인하세요. 
     
@@ -65,7 +65,7 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
   
 ## <a name="multi-geo-capabilities-in-office-365"></a>Office 365의 다중 지역 기능
 
-다중 위치를 사용 하면 단일 Office 365 테 넌 트가 여러 Office 365 데이터 센터 지역에 걸쳐 있을 수 있으며, 선택한 지리에서 Exchange Online 및 비즈니스용 OneDrive에 대 한 Office 365 데이터를 사용자별로 저장 하는 기능이 제공 됩니다. 
+다중 위치를 사용 하면 단일 조직이 여러 Office 365 데이터 센터 지역에 걸쳐 있을 수 있으며, 선택한 지리에 대해 Exchange Online 및 비즈니스용 OneDrive에 대 한 Office 365 데이터를 사용자별로 저장 하는 기능이 제공 됩니다. 
   
 사용 가능한 Geos: 아시아 태평양, 오스트레일리아, 캐나다, 유럽 연합, 인도, 일본, 한국, 영국, 미국 
   
@@ -77,7 +77,7 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
   
 다양한 비즈니스에 종류에 대한 가격 책정 및 기능에 대한 구체적인 정보를 보려면 다음 페이지를 참조하세요.
   
-- 일반 기업: [Office 365 Business 요금제 및 가격](https://go.microsoft.com/fwlink/?LinkID=827896)
+- 비즈니스: [비즈니스 계획 및 가격 책정에 대 한 Microsoft 365](https://go.microsoft.com/fwlink/?LinkID=827896)
     
 - 교육: [Office 365 Education 요금제 및 가격](https://go.microsoft.com/fwlink/?LinkID=827897)
     
@@ -98,18 +98,18 @@ Office 365 Nonprofit 요금제 혜택을 받을 자격이 있는 조직의 경�
 |**[Office 365 제품군 기능](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Microsoft Bookings  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |<sup>19</sup> 없음  <br/> |<sup>19</sup> 없음  <br/> |아니요  <br/> |
 |Microsoft 브리핑 전자 메일<sup>22</sup>  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft Power Automate  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>13</sup> <br/> |
+|Microsoft Power Automate  <br/> |예  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>13</sup> <br/> |
 |Microsoft Forms  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Graph API  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft MyAnalytics<sup>20</sup>  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Microsoft Planner  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft PowerApps  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>12</sup> <br/> |
+|Microsoft Planner  <br/> |예  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Microsoft PowerApps  <br/> |예  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>12</sup> <br/> |
 |Microsoft StaffHub  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft Stream  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>17</sup> <br/> |
+|Microsoft Stream  <br/> |예  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>17</sup> <br/> |
 |Microsoft Sway  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |
-|Microsoft 팀<sup>10</sup> <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <br/> |
+|Microsoft 팀<sup>10</sup> <br/> |예  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <br/> |
 |Office Delve  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Office 365 그룹  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Office 365 그룹  <br/> |예  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365 비디오  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예<sup>11</sup> <br/> |
 |OneNote 수업용 전자 필기장  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>14</sup> <br/> |아니요  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <br/> |
