@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: 327a33935e78288ec9c74174d5876a90805fcede
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2a81ed79a248e7d8880c9539775d8e9d7d1748dc
+ms.sourcegitcommit: 12e74155cfe2a17c66fd8ef8985d40ebcdff63e5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640006"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43790459"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -360,7 +360,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |메시지 속도 제한|분당 30개 메시지|분당 30개 메시지|분당 30개 메시지|분당 30개 메시지|분당 30개 메시지|분당 30개 메시지|
 
 > [!NOTE]
-> <sup>1</sup> 받는 사람 속도 제한에 도달한 후 지난 24 시간 내에 보낸 메시지의 받는 사람 수가 한도 미만으로 떨어질 때까지 사서함에서 메시지를 보낼 수 없습니다. 예를 들어 사용자가 09:00 AM에 5000 받는 사람에 게 전자 메일 메시지를 보낸 다음 2, 1000 명의 받는 사람을 10:00 AM에 보낸 다음 11:00, 오전에 받는 사람 2500에 게 메시지를 보내 다른 메시지를 보낼 수 있습니다. 사용자는 다음 날 오전 09:00까지 메시지를 보낼 수 없게 됩니다.
+> <sup>1</sup> 받는 사람 속도 제한에 도달한 후 지난 24 시간 내에 보낸 메시지의 받는 사람 수가 한도 미만으로 떨어질 때까지 사서함에서 메시지를 보낼 수 없습니다. 예를 들어 사용자가 09:00 오전에 5000 명의 받는 사람에 게 전자 메일 메시지를 보낸 다음, 2500 받는 사람에 게 10:00에 메시지를 보낸 다음, 오전에 받는 사람에 게 다른 메시지를 보내 2500 AM에 메시지를 다시 표시 합니다. 사용자는 다음 날 오전 09:00까지 메시지를 보낼 수 없게 됩니다.
 > <sup>2</sup> 기존 사서함에 대해 1에서 1000 사이의 받는 사람 제한을 사용자 지정 하 고 앞으로 만들 새 사서함을 지정할 수 있습니다. Exchange 관리 센터를 사용 하 여 기존 사서함의 받는 사람 제한을 개별적으로 또는 대량으로 편집 하 고 원격 PowerShell을 통해 새 사서함의 기본 설정을 사용자 지정 합니다. 자세한 내용은 [Office 365에서 사용자 지정 가능한 받는 사람 제한을](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228)참조 하십시오.
 
 #### <a name="sending-limits-across-standalone-options"></a>독립 실행형 옵션별 전송 제한
