@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 어떤 계획에서 어떤 OneDrive 기능을 사용할 수 있는지 확인합니다.
-ms.openlocfilehash: 2919d32b3478e5cc5bb2207c300f6a0608f0dadd
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: a44c426be19db30ccd2544ed58fc0cf614357ea8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609879"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639876"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 서비스 설명
 
@@ -44,10 +44,10 @@ OneDrive 동기화 앱 및 모바일 앱에 대한 요구 사항을 검토하려
 
 **1TB**
 
-- Office 365 Business Essentials
-- Office 365 Business
-- Office 365 Business Premium
-- Office 365 ProPlus
+- Microsoft 365 Business Basic
+- 비즈니스용 Microsoft 365 앱
+- Microsoft 365 Business Standard
+- 엔터프라이즈용 Microsoft 365 앱
 - Office 365 Enterprise E1
 - Office 365 Government G1
 - Office 365 비영리 사업 기초
@@ -55,7 +55,7 @@ OneDrive 동기화 앱 및 모바일 앱에 대한 요구 사항을 검토하려
 - Office 365 Nonprofit E1
 - 비즈니스용 OneDrive 요금제 1
 - SharePoint Online 요금제 1
-- Microsoft 365 Business
+- Microsoft 365 Business Premium
 
 **1TB 이상, 무제한**
  
