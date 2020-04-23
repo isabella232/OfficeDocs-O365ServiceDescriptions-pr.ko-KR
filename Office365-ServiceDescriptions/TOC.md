@@ -3,7 +3,7 @@
 ## [Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Office 365 계획 옵션](office-365-platform-service-description/office-365-plan-options.md)
 ### [Office 365 시스템 요구 사항](office-365-platform-service-description/office-365-system-requirements.md)
-### [Office 365 보안 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md)
+### [보안 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md)
 ### [Office 365 제품군 기능](office-365-platform-service-description/office-365-suite-features.md)
 ### [Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
@@ -102,7 +102,7 @@
 ### [Yammer의 지원 기능](yammer-service-description/support-features-in-yammer.md)
 ## Microsoft 365 서비스 설명
 ### [Microsoft 365 Business 음성 서비스 설명](microsoft-365-business-voice-service-description.md)
-### [Microsoft 365 Business 서비스 설명](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+### [Microsoft 365 Business Premium 서비스 설명](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 ### [중소기업을 위한 Microsoft 365 라이선싱](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
 ### [보안 및 규정 준수를 위한 Microsoft 365 라이선싱 지침](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
