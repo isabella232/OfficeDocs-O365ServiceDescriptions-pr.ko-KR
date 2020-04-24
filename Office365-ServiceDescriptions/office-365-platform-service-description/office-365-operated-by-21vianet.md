@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영 하는 Office 365는 중국의 안전 하 고 안정적 이며 확장 가능한 클라우드 서비스에 대 한 요구를 충족 하도록 설계 되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: cd5ddf01b3075d1538470d1f352d5da4e51baacd
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 894087ac6d25bf64d36f6a047239072ec2897a18
+ms.sourcegitcommit: dc3ce02268eeeb6de29e61276b5572e0633940bf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639856"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43800624"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -1084,7 +1084,6 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 - 즐겨찾기
 - 내 전자 메일 재생
 - 추가 기능
-- 그룹
 - 스마트 회신
 - Office 피드
 - 나갈 시간
@@ -1153,7 +1152,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |[리소스 평준화](../project-online-service-description/project-resource-management.md#resource-leveling)|아니요|있음|예|예|아니요|
 |[리소스 시트 및 배정 현황 보기](../project-online-service-description/project-resource-management.md#resource-sheet-and-usage-views)|아니요|있음|예|예|아니요|
 |[자원 대체](../project-online-service-description/project-resource-management.md#resource-substitution)|아니요|있음|예|예|아니요|
-|[팀 리소스](../project-online-service-description/project-resource-management.md#team-resources)|아니오|있음|예|예|아니요|
+|[팀 리소스](../project-online-service-description/project-resource-management.md#team-resources)|아니요|있음|예|예|아니요|
 |[작업, 일반, 재료 리소스](../project-online-service-description/project-resource-management.md#work-generic-and-material-resources)|아니오|있음|예|예|아니요|
 |**프로젝트 게시(데스크톱 클라이언트)**|**21Vianet에서 운영하는 Office 365용 Project Online Essentials**|**21Vianet에서 운영하는 Office 365용 Project Online Professional**|**21Vianet에서 운영하는 Office 365용 Project Online Premium**|**21Vianet에서 운영하는 Office 365용 Project Professional 2016**|**21Vianet에서 운영하는 Office 365용 Project Server 2016**|
 |[프로젝트 사이트 만들기](../project-online-service-description/project-publishing.md#create-a-project-site)|아니오|있음|예|예|아니요|
