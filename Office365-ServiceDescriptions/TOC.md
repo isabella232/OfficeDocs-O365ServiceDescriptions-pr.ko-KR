@@ -11,6 +11,7 @@
 #### [Microsoft 365 정부용 구입 방법](office-365-platform-service-description\office-365-us-government\microsoft-365-government-how-to-buy.md)
 #### [미국 정부용 OneDrive](office-365-platform-service-description\office-365-us-government\onedrive.md)
 #### [미국 정부용 SharePoint](office-365-platform-service-description\office-365-us-government\sharepoint.md)
+#### [미국 정부 기관용 Exchange Online](office-365-platform-service-description\office-365-us-government\exchange-online-for-us-government-environments.md)
 ### [21Vianet에서 운영하는 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md)
 ### [Office 365 Germany](office-365-platform-service-description/office-365-germany.md)
 ### [Office 365 Education](office-365-platform-service-description/office-365-education.md)
