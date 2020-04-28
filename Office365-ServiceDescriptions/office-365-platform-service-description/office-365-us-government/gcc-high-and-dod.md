@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Office 365 상업용 환경과 비교 하 여 Office 365 GCC High 및 DoD 환경의 고유한 약정 및 차이점에 대해 알아봅니다.
-ms.openlocfilehash: 8ad2ae12a58c494c72e044655e69679346118aee
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: ac769bf832d1aa3454596d5aad1c2a8b3769e6d2
+ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639056"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914784"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High 및 DoD
 
@@ -31,7 +31,7 @@ Office 365 US 정부 서비스 설명은 일반적인 Office 365 서비스 설�
 
 GCC High 및 DoD는 다음과 같은 인증 및 승인에 대 한 준수 요구 사항을 충족 합니다. 
   
-- NIST(National Institute of Standards and Technology: 미국 표준 기술 연구소) 특별판 800-53에 설명되어 있는 보안 통제 및 통제 개선 사항을 포함하는 FedRAMP Moderate(Federal Risk and Authorization Management Program at a Moderate baseline)
+- FedRAMP의 연방 위험 및 권한 부여 관리 프로그램은 국내 표준 및 기술 (NIST) 특별 게시 800-53에 설명 된 대로, 보안 제어 및 향상 된 제어 기능을 포함 합니다.
     
 - 영향 수준 5(L5)까지의 정보를 제공하는 미국방부 클라우드 컴퓨팅 SRG(보안 요구 사항 가이드)의 보안 통제 및 통제 개선 사항
     
