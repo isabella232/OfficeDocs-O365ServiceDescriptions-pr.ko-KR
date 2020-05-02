@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365는 강력한 보안, 안정성 및 사용자 생산성에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되도록 설계 된 클라우드 기반 서비스입니다.
-ms.openlocfilehash: 38064eb467bb46e09ccb1cf1d6eea6b01ce3a295
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f297c1be0a2096a75dab8e14858236b69efb9986
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638726"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002068"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 서비스 설명 
 
@@ -36,7 +36,7 @@ Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365�
   
 시작하려면 다음 서비스 설명을 참조하십시오.
   
-- [Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Microsoft 365 및 Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
 
 - [Office 응용 프로그램 서비스 설명](office-applications-service-description/office-applications-service-description.md)
 

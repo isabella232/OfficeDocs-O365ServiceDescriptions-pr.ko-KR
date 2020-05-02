@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft는 사용자를 만들고 관리 하 고 인증 하기 위해 다음과 같은 방법을 지원 합니다.
-ms.openlocfilehash: 2de28edc6e85e2ac0f849d797639e29fdc62d5f9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7711a57247c20d7185e613d042791b089b01b483
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639826"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002315"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -28,11 +28,11 @@ Microsoft는 사용자를 만들고 관리 하 고 인증 하기 위해 다음�
 > [!NOTE]
 > 이 항목에는 개별 Microsoft 리소스 (예: Microsoft Exchange Online의 역할 기반 액세스 제어 또는 Microsoft SharePoint Online의 보안 구성)에 대 한 액세스를 허용 하거나 금지 하는 보안 기능에 대 한 정보가 포함 되어 있지 않습니다. 이러한 기능에 대 한 자세한 내용은 [Exchange Online 서비스 설명](../exchange-online-service-description/exchange-online-service-description.md) 및 [SharePoint online 서비스 설명을](../sharepoint-online-service-description/sharepoint-online-service-description.md)참조 하십시오. 
   
-관리 작업을 수행 하는 데 도움이 되는 도구에 대 한 정보가 필요한 경우 [Microsoft 계정 관리 도구](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts)를 참조 하십시오. 일 단위 관리 작업을 수행하는 방법은 [Office 365의 일반적인 관리 작업](https://docs.microsoft.com/office365/admin/manage/manage)을 참조하세요.
+관리 작업을 수행 하는 데 도움이 되는 도구에 대 한 정보가 필요한 경우 [Microsoft 계정 관리 도구](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts)를 참조 하십시오. 일상적인 관리 작업을 수행 하는 방법에 대 한 자세한 내용은 [일반 관리 작업](https://docs.microsoft.com/office365/admin/manage/manage)을 참조 하십시오.
   
 ## <a name="need-help-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>로그인, 설치 또는 제거, 구독 취소에 대해 도움이 필요한가요?
 
-[Office 365에 로그인](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | [Office 설치 또는 제거](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) | [Office 365 취소](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)에 대한 도움말 보기
+ | [Office 설치 또는 제거](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) [에서 로그인에](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | 대 한 도움말 보기[office 365 취소](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 기타 문제점은 [Microsoft 지원 센터](https://support.microsoft.com/contactus/)를 방문 하세요. 중국의 21Vianet에서 운영하는 Office 365에 대한 지원을 받으려면 [21Vianet 지원팀](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)에 문의하세요. Office 365 Germany에 대해서는 [Office 365 Germany 지원팀](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)에 문의하세요. 
   
@@ -48,7 +48,7 @@ ID 유형은 사용자 환경 및 사용자 계정 관리 옵션을 비롯해 �
   
 ### <a name="custom-domains-and-identity-options"></a>사용자 지정 도메인 및 ID 옵션
 
-새 사용자를 만들 때 사용자의 로그인 이름과 전자 메일 주소는 Microsoft 365 관리 센터에 설정 된 대로 기본 도메인에 할당 됩니다. 자세한 내용은 [Office 365에 사용자 및 도메인 추가](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)를 참조하세요. 
+새 사용자를 만들 때 사용자의 로그인 이름과 전자 메일 주소는 Microsoft 365 관리 센터에 설정 된 대로 기본 도메인에 할당 됩니다. 자세한 내용은 [사용자 및 도메인 추가](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)를 참조 하세요. 
   
 기본적으로 구독은 계정을 사용 하 여 \< 만든 _회사 이름_ \> **. onmicrosoft.com** 도메인을 사용 합니다. \* Onmicrosoft.com 도메인을 유지 하는 대신 하나 이상의 사용자 지정 도메인을 Microsoft에 추가할 수 있으며, 사용자에 게 유효성 검사 된 도메인을 사용 하 여 로그인 하도록 할당할 수 있습니다. 각 사용자의 할당된 도메인은 보내고 받은 전자 메일 메시지에 표시되는 전자 메일 주소입니다. 
   
@@ -74,9 +74,9 @@ SharePoint Online을 사용 하 여 만든 익명 액세스에 대 한 인터넷
     
 Microsoft는 양식 기반 인증을 사용 하며, 네트워크를 통한 인증 트래픽은 항상 포트 443를 사용 하 여 TLS/SSL로 암호화 됩니다. 인증 트래픽은 Microsoft 서비스에 대 한 대역폭을 무시할 비율입니다. 
   
-### <a name="multi-factor-authentication-for-office-365"></a>Office 365에 대 한 다단계 인증
+### <a name="multi-factor-authentication"></a>다단계 인증
 
-Office 365에 대한 다단계 인증을 사용하는 경우 올바른 암호를 입력한 후 스마트폰으로 전화 통화를 하거나 문자 메시지 또는 앱 알림을 확인해야 합니다. 이 두 번째 인증 과정을 거쳐야만 로그인 할 수 있습니다. Microsoft 관리자는 Microsoft 365 관리 센터에서 다단계 인증을 위해 사용자를 등록할 수 있습니다. 자세한 내용은 [Office 365에 대한 다단계 인증 사용](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication)을 참조하세요.
+다단계 인증을 사용 하는 경우 사용자는 암호를 올바르게 입력 한 후 smartphone에서 전화 통화, 문자 메시지 또는 앱 알림을 승인 해야 합니다. 이 두 번째 인증 과정을 거쳐야만 로그인 할 수 있습니다. Microsoft 관리자는 Microsoft 365 관리 센터에서 다단계 인증을 위해 사용자를 등록할 수 있습니다. [Multi-factor Authentication](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication)에 대해 자세히 알아보세요.
   
 ### <a name="rich-client-authentication"></a>리치 클라이언트 인증
 
@@ -117,7 +117,7 @@ Microsoft 서비스의 올바른 검색 및 인증을 위해 관리자는 리치
   
 ## <a name="creating-user-accounts"></a>사용자 계정 만들기
 
-여러 가지 방법으로 Office 365에 사용자를 추가할 수 있습니다. 자세한 내용은 [사용자를 개별적으로 또는 대량 관리 도움말에서 추가](https://docs.microsoft.com/office365/admin/add-users/add-users) [, Microsoft 365 관리 센터 미리 보기에서 사용자 추가, 제거 및 관리](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US)를 참조 하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 사용자 계정 만들기 또는 편집 - 관리자 도움말](https://docs.microsoft.com/office365/admin/add-users/add-users)을 참조하세요.
+사용자를 추가 하는 방법에는 여러 가지가 있습니다. 자세한 내용은 [사용자를 개별적으로 또는 대량 관리 도움말에서 추가](https://docs.microsoft.com/office365/admin/add-users/add-users) [, Microsoft 365 관리 센터 미리 보기에서 사용자 추가, 제거 및 관리](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US)를 참조 하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 사용자 계정 만들기 또는 편집 - 관리자 도움말](https://docs.microsoft.com/office365/admin/add-users/add-users)을 참조하세요.
   
 ## <a name="deleting-accounts"></a>계정 삭제
 
@@ -127,7 +127,7 @@ Microsoft 서비스의 올바른 검색 및 인증을 위해 관리자는 리치
     
 - 디렉터리 동기화를 사용할 경우에는 반드시 Office 365가 아닌 로컬 Active Directory에서 사용자를 삭제해야 합니다.
     
-계정은 삭제 후 비활성화됩니다. 삭제 후 약 30일이 지나면 계정을 복원할 수 있습니다. 계정을 삭제 및 복원 하는 방법에 대 한 자세한 내용은 office online에서 사용자 [365 삭제](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) 및 [office 365에서 사용자 복원](https://docs.microsoft.com/office365/admin/add-users/restore-user) 또는 중국의 21vianet에서 운영 하는 office 365을 사용 하는 경우 21vianet에서 운영 하는 [Office 365에서 사용자 계정 만들기 또는 편집](https://docs.microsoft.com/office365/admin/add-users/add-users)을 참조 하세요.
+계정은 삭제 후 비활성화됩니다. 삭제 후 약 30일이 지나면 계정을 복원할 수 있습니다. 계정을 삭제 및 복원 하는 방법에 대 한 자세한 내용은 사용자 [삭제](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) 및 [사용자 복원](https://docs.microsoft.com/office365/admin/add-users/restore-user) 또는 중국의 21vianet에서 운영 하는 office 365 [365에서 사용자 계정 만들기 또는 편집](https://docs.microsoft.com/office365/admin/add-users/add-users)을 참조 하세요.
   
 ## <a name="password-management"></a>암호 관리
 
@@ -188,5 +188,5 @@ Azure AD(Active Directory)는 Office 365에 포괄적인 ID 및 액세스 관리
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Microsoft 365 및 Office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
   

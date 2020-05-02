@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열 된 기능은 많은 장치 및 여러 Office 365 서비스에서 안전 하 게 공동 작업 하 고 통신 하는 데 사용할 수 있는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: b8e849c5f50ee9f289e057878bb25f1e4efa8109
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4cd440fc8b575769080a047ae0c9d02f8caaf91c
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639936"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002004"
 ---
 # <a name="office-365-suite-features"></a>Office 365 suite features
 
@@ -83,9 +83,9 @@ Microsoft 팀은 팀 구성원이 함께 목표를 달성하도록 도와주는 
 
 사용자는 office Delve를 통해 개인 정보 통찰력을 기반으로 Office 365에서 콘텐츠를 검색 하 고 검색할 수 있습니다. Delve는 Office Graph를 기반으로 하는 최초의 작업 환경입니다. Office Delve에 대한 자세한 내용은 [Office Delve란?](https://go.microsoft.com/fwlink/?LinkId=511463)을 참조하세요. 
   
-## <a name="office-365-groups"></a>Office 365 그룹
+## <a name="microsoft-365-groups"></a>Microsoft 365 그룹
 
-Office 365의 그룹은 더 많은 공동 작업을 수행할 수 있도록 동료, 정보 및 응용 프로그램과 사용자를 연결합니다. 그룹은 기본적으로 검색 기능과 공유 기능을 향상하기 위해 열려 있지만, 사용자는 중요한 콘텐츠에 대한 비공개 그룹을 만들 수도 있습니다. 그룹에 대한 자세한 내용은 [Office 365의 그룹](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1)을 참조하세요. 그룹 제한에 대한 자세한 내용은 [Office 365 그룹 정보](https://go.microsoft.com/fwlink/?linkid=846714)의 "내 그룹을 관리하는 방법은 무엇인가요?"를 참조하세요.
+Microsoft 365의 그룹은 더 많은 공동 작업을 수행 하는 데 필요한 동료, 정보 및 응용 프로그램과 사용자를 연결 합니다. 그룹은 기본적으로 검색 기능과 공유 기능을 향상하기 위해 열려 있지만, 사용자는 중요한 콘텐츠에 대한 비공개 그룹을 만들 수도 있습니다. 그룹에 대 한 자세한 내용은 [Microsoft 365의 그룹](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1)을 참조 하십시오. 그룹 제한에 대 한 자세한 내용은 [Microsoft 365 그룹에 대 한 자세한 내용](https://go.microsoft.com/fwlink/?linkid=846714)에서 "내 그룹을 관리 하는 방법"을 참조 하십시오.
   
 ## <a name="office-365-video"></a>Office 365 비디오
 

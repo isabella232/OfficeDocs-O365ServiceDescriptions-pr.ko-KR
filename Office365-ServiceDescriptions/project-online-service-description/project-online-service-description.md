@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을 위한 유연한 온라인 솔루션입니다. Office 365를 통해 제공되는 Project Online은 거의 모든 위치의 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획하고 우선 순위를 정하고 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: ac329a90e636b8adcdead13dbe30d562bd67eb39
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2b54ea0aa1aab30e8c21e6e0ccdbedc92bd8b10e
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638736"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002335"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 서비스 설명
 
@@ -115,7 +115,7 @@ Microsoft Project는 조직의 요구 사항을 가장 잘 충족 하기 위해 
 |**편의성이**||
 |작성 | 관련자와 팀 구성원을 함께 사용 하 여 작업 목록, 프로젝트 일정 등을 동시에 작성, 편집 및 업데이트 합니다.|
 |그래픽 표시기 | 그래픽 표시기를 통해 작업 상태, 배정 및 기타 사항을 이해 합니다. |
-|이동성**||
+|**이동성**||
 |모바일 응용 프로그램 | PowerApps를 사용 하 여 사용자 지정 모바일 응용 프로그램을 작성 합니다. <sup>4</sup> |
 |**사용자 지정 및 통합**||
 |PowerApps | PowerApps를 사용 하 여 웹 및 mobile 용 솔루션을 구축 및 사용 합니다. <sup>4</sup> |
@@ -188,12 +188,12 @@ Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업�
 |사용자 관리 | 프로젝트, 팀 및 조직 수준에서 사용자 및 그룹 역할 및 사용 권한을 관리 합니다. | 아니요 | 예 |
 |서비스 관리 | Office 365<sup>1</sup> 환경의 일부로 Microsoft Project 환경을 계획, 설치 및 구성, 유지 관리 및 확장 합니다.  | 아니요 | 예 |
 
-#### <a name="notes"></a>Notes
+#### <a name="notes"></a>참고
 
 <sup>1</sup> Office 또는 Microsoft 365 상업용 구독을 사용 해야 합니다.</br>
 <sup>2</sup> Azure 보드를 별도로 취득 했습니다.</br>
 <sup>3</sup> Power BI를 사용 하 여 웹 및 project Online 용 프로젝트에 대 한 보고를 사용할 수 있습니다. 보고서를 보고 편집 하 고 만들기 위해서는 Power BI Pro 구독이 필요 합니다. Microsoft는 미리 작성 된 Power BI 보고서 집합을 제공 합니다. 사용자는 Power BI를 사용 하 여 이러한 보고서를 사용자 지정 하거나 추가 보고서를 작성할 수 있습니다.</br> 
-<sup>4</sup> 웹 데이터에 대 한 프로젝트에 액세스 하는 사용자 지정 powerapps 모바일 응용 프로그램을 작성 하려면 PowerApps 구독 및 프로젝트 계획 3 또는 프로젝트 계획 5 구독이 필요 합니다.</br>
+<sup>4</sup> 웹 데이터에 대 한 프로젝트에 액세스 하는 사용자 지정 powerapps 모바일 응용 프로그램을 작성 하 고 사용 하려면 PowerApps 구독 및 프로젝트 계획 3 또는 프로젝트 계획 5 구독이 필요 합니다.</br>
 <sup>5</sup> 비즈니스 프로세스 자동화 및 통합 (웹 데이터를 위한 project)에는 전원 자동화 구독 및 프로젝트 계획 3 또는 프로젝트 계획 5 구독이 필요 합니다.</br>
 <sup>6</sup> 외부 사용자에 대 한 Project Online 라이선스는 내부 사용자의 경우와 동일한 정책을 따릅니다. Project Online 사이트의 모든 상호 작용에는 프로젝트 계획 3 또는 프로젝트 계획 5 구독이 필요 합니다.</br>
 <sup>7</sup> 프로젝트 계획 3 또는 프로젝트 계획 5 구독을 사용 하는 사용자는 리소스 계약 요청을 제출할 수 있습니다. 자원 계약 요청을 검토 하거나, 수행 하거나, 승인할 수 없습니다.</br>
@@ -239,7 +239,7 @@ Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업�
 |정렬 및 그룹화 | 사용자 지정 정렬 및 그룹화를 사용 하 여 프로젝트, 작업 및 자원을 중점적으로 볼 수 있습니다.|
 |**사용자 지정 및 통합**||
 |사용자 지정 필드 | 프로젝트, 작업 및 자원 수준에서 사용자 정의 필드를 추가 하 여 조직 및 프로젝트에 중요 한 데이터를 추적 합니다. |
-|양식 | 사용자 지정 양식을 만들고 배포 하 여 중요 한 프로젝트 데이터를 캡처합니다. |
+|Forms | 사용자 지정 양식을 만들고 배포 하 여 중요 한 프로젝트 데이터를 캡처합니다. |
 |식을 | 작업 및 프로젝트에서 수식을 사용 하 여 중요 한 데이터를 계산 하 고 캡처합니다. |
 |템플릿 | 프로젝트 계획, 팀 및 배정을 비롯 한 일반 프로젝트에 대 한 서식 파일을 만듭니다. |
 |mpp 가져오기/내보내기 | 기존 .mpp 파일에서 새 프로젝트를 만들거나 기존 프로젝트의 .mpp 파일을 만듭니다. |

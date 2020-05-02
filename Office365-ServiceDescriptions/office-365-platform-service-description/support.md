@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: 모든 Microsoft Office 365 Enterprise, Business, Education 및 Government 구독에 대해 Microsoft 고객 지원에서는 세계적인 기술, 사전 판매, 대금 청구 및 구독 지원을 제공합니다. Microsoft365 관리 센터를 통해 온라인 및 전화를 통해 유료 및 평가판 구독에 대해 지원을 받을 수 있습니다. 자세한 내용은 Microsoft 지원 옵션을 참조 하십시오.
-ms.openlocfilehash: d0ec7daf88cc84a85984afd9b1794837e7ff586e
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 28989b81ea3a20e4654630db51fd1abbbce09e14
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639906"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002325"
 ---
 # <a name="support"></a>지원
 
@@ -27,11 +27,11 @@ ms.locfileid: "43639906"
   
 권한 있는 관리자는 Microsoft 365 관리 센터를 사용 하 여 서비스 요청을 온라인으로 제출 하 고, access에서 지 원하는 전화 번호를 확인 하 고, 열려 있거나 최근에 닫힌 서비스 요청을 볼 수 관리 센터에서 전송 된 서비스 요청을 닫은 후 최대 14 일 동안 다시 열 수 있습니다. 자세한 내용은 [Microsoft 365 for business support](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)를 참조 하세요.
   
-O365 기술 지원 팀은 Office 365와 관련 된 문제만 해결 합니다. 고객 네트워크에서 발생 한 문제는 지원 범위를 벗어나지만, 이러한 경우 고객은 네트워킹 팀과 함께 작업 하거나 [Microsoft 네트워킹 팀](https://support.microsoft.com/gp/contactus81?Audience=Commercial) 과 협력 하 여 도움을 받아야 합니다.
+Microsoft 365 기술 지원 팀은 Microsoft 365 및 Office 365과 관련 된 문제만 해결 합니다. 고객 네트워크에서 발생 한 문제는 지원 범위를 벗어나지만, 이러한 경우 고객은 네트워킹 팀과 함께 작업 하거나 [Microsoft 네트워킹 팀](https://support.microsoft.com/gp/contactus81?Audience=Commercial) 과 협력 하 여 도움을 받아야 합니다.
   
 ## <a name="community-and-self-service-support-options"></a>커뮤니티 및 셀프 서비스 지원 옵션
 
-셀프 서비스 지원은 모든 요금제에서 사용할 수 있으며 문제 해결 도구 및 비디오, 도움말 문서 및 비디오, [Office 365 커뮤니티](https://go.microsoft.com/fwlink/p/?LinkID=279811)의 포럼 및 wiki도 포함 됩니다. 셀프 서비스 지원 리소스에 대 한 자세한 내용은 [도움말 및 교육](help-and-training.md) 서비스 설명을 참조 하세요.
+셀프 서비스 지원은 모든 요금제에서 사용할 수 있으며 문제 해결 도구 및 비디오, 도움말 문서 및 비디오, [Microsoft 365 커뮤니티](https://go.microsoft.com/fwlink/p/?LinkID=279811)의 포럼 및 wiki도 포함 됩니다. 셀프 서비스 지원 리소스에 대 한 자세한 내용은 [도움말 및 교육](help-and-training.md) 서비스 설명을 참조 하세요.
   
 ## <a name="pre-sales-support"></a>사전 판매 지원
 
@@ -201,4 +201,4 @@ Microsoft 파트너를 선택하여 서비스 요청 티켓 작성 등의 관리
 
 ## <a name="feature-availability"></a>기능 가용성
 
-계획 간의 기능 가용성을 확인 하려면 [Office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
+계획 간의 기능 가용성을 확인 하려면 [Microsoft 365 및 Office 365 platform service description](office-365-platform-service-description.md)을 참조 하세요.

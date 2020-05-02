@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: 03c1b613404033b38b9898ac2f3c979882f96845
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 34e959c8b5d88034154819f7bdca53e72ab92bde
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640296"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001984"
 ---
 # <a name="service-level-agreement"></a>서비스 수준 계약
 
@@ -35,5 +35,5 @@ Microsoft에서는 각 서비스의 서비스 수준을 확보하고 유지 관�
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획 간의 기능 가용성을 확인 하려면 [Office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
+계획 간의 기능 가용성을 확인 하려면 [Microsoft 365 및 Office 365 platform service description](office-365-platform-service-description.md)을 참조 하세요.
   
