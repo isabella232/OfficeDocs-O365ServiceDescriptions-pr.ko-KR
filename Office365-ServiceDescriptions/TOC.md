@@ -1,6 +1,6 @@
 
-# [Office 365 서비스 설명](office-365-service-descriptions-technet-library.md)
-## [Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md)
+# [Microsoft 365 및 Office 365 서비스 설명](office-365-service-descriptions-technet-library.md)
+## [Microsoft 365 및 Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Office 365 계획 옵션](office-365-platform-service-description/office-365-plan-options.md)
 ### [Office 365 시스템 요구 사항](office-365-platform-service-description/office-365-system-requirements.md)
 ### [보안 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md)
