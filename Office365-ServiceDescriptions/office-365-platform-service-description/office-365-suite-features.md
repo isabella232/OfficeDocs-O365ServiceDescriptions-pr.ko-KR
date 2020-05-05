@@ -1,5 +1,5 @@
 ---
-title: Office 365 suite features
+title: Microsoft 365 제품군 기능
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열 된 기능은 많은 장치 및 여러 Office 365 서비스에서 안전 하 게 공동 작업 하 고 통신 하는 데 사용할 수 있는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: 4cd440fc8b575769080a047ae0c9d02f8caaf91c
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: b91260202bb65287061c54e94380156cf7f19123
+ms.sourcegitcommit: 95b146eb31f1052422822be24509223ac9f94ea1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002004"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44022838"
 ---
-# <a name="office-365-suite-features"></a>Office 365 suite features
+# <a name="microsoft-365-suite-features"></a>Microsoft 365 제품군 기능
 
 이 항목에 나열 된 기능은 많은 장치 및 여러 Office 365 서비스에서 안전 하 게 공동 작업 하 고 통신 하는 데 사용할 수 있는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
   
 ## <a name="microsoft-bookings"></a>Microsoft 예약
 
-Microsoft Bookings는 고객에게 예약 기반의 서비스를 제공하는 소규모 기업용 온라인 및 모바일 앱입니다. 이러한 기업에는 미용실, 치과, 스파, 법률 사무소, 금융 거래 서비스 제공자, 컨설턴트 및 정비소 등이 있습니다. Microsoft 365 비즈니스 표준 구독을 보유 하 고 있는 미국 및 캐나다의 고객이 제공 합니다. 
+Microsoft 예약은 고객에 게 약속 단위로 서비스를 제공 하려는 비즈니스용 온라인 및 모바일 앱입니다. 이러한 기업의 예로는 헤어 미용실,, spas, 법률 기업, 금융 서비스 공급자, 컨설턴트, 의료 practitioners, 교육 기관 및 자동 상점 등이 있습니다. Microsoft 예약은 Microsoft 365 for business 구독을 보유 하 고 있는 미국 및 캐나다의 고객에 게 제공 됩니다.
   
 Microsoft 예약에 대 한 자세한 내용은 [Microsoft 예약을 사용 하 여 비즈니스 캘린더 온라인으로 게시](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)를 방문 하세요.
 
@@ -41,11 +41,11 @@ Microsoft 예약에 대 한 자세한 내용은 [Microsoft 예약을 사용 하 
 
 ## <a name="microsoft-power-automate"></a>Microsoft Power Automate
 
-Microsoft 파워 자동 자동화를 사용 하면 여러 응용 프로그램에서 워크플로를 자동화할 수 있습니다. Flow를 사용하여 전자 메일 및 IM 알림을 연결하고, 응용 프로그램 간에 파일을 동기화하며, 한 서비스에서 다른 서비스로 파일을 복사하고, 한 앱에서 데이터를 수집하여 다른 앱에 저장하는 등의 작업을 수행할 수 있습니다. 시작하기 위한 템플릿을 제공합니다. Flow 기능 및 사용 방법에 대한 자세한 내용은 Microsoft [Flow 웹 사이트](https://flow.microsoft.com/en-us/)를 참조하세요.
+Microsoft 파워 자동 자동화를 사용 하면 여러 응용 프로그램에서 워크플로를 자동화할 수 있습니다. Flow를 사용하여 전자 메일 및 IM 알림을 연결하고, 응용 프로그램 간에 파일을 동기화하며, 한 서비스에서 다른 서비스로 파일을 복사하고, 한 앱에서 데이터를 수집하여 다른 앱에 저장하는 등의 작업을 수행할 수 있습니다. 시작하기 위한 템플릿을 제공합니다. 흐름 기능 및 사용 방법에 대 한 자세한 내용은 [Power 자동화 웹 사이트로](https://preview.flow.microsoft.com/en-us/)이동 하세요.
   
 ## <a name="microsoft-forms"></a>Microsoft Forms
 
-Microsoft Forms은 사용자 지정 퀴즈, 설문 조사, 으로써, 등록 등을 쉽고 빠르게 만들 수 있게 해 주는 Office 365 교육의 새로운 부분입니다. 퀴즈 또는 설문지를 만들 때 모든 웹 브라우저를 사용하여 모바일 장치에서도 다른 사용자가 응답하도록 초대 할 수 있습니다. 결과가 제출되면 기본 제공 분석을 사용하여 응답을 평가할 수 있습니다. 퀴즈 결과와 같은 양식 데이터는 추가 분석 또는 그레이를 위해 쉽게 Excel로 내보낼 수 있습니다. 자세한 내용은 [Microsoft Forms 란?](https://support.office.com/en-us/forms)을 참조 하십시오.
+Microsoft 양식을 사용 하면 신속 하 고 간편 하 게 사용자 지정 퀴즈, 설문 조사, 으로써, 등록 등을 만들 수 있습니다. 퀴즈 또는 설문지를 만들 때 모든 웹 브라우저를 사용하여 모바일 장치에서도 다른 사용자가 응답하도록 초대 할 수 있습니다. 결과가 제출되면 기본 제공 분석을 사용하여 응답을 평가할 수 있습니다. 퀴즈 결과와 같은 양식 데이터는 추가 분석 또는 그레이를 위해 쉽게 Excel로 내보낼 수 있습니다. 자세한 내용은 [Microsoft Forms 란?](https://support.office.com/en-us/forms)을 참조 하십시오.
   
 ## <a name="microsoft-graph-api"></a>Microsoft Graph API
 
@@ -53,7 +53,7 @@ Microsoft Graph API를 사용 하 여 단일 끝점을 통해 다양 한 리소�
   
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 
-MyAnalytics는 개인 생산성의 두 가지 주요 요인, 즉 시간과 사용자가 사용 하는 방법에 대 한 정보를 제공 합니다. MyAnalytics는 일상적인 작업 패턴을 살펴보고 주의 해 서 혜택을 받을 수 있는 영역을 찾고 시간을 보다 자세히 사용 하기 위한 도구를 제공 합니다. 자세한 내용은 [Microsoft myanalytics](https://products.office.com/business/myanalytics-personal-analytics) 및 [microsoft Myanalytics for Office 365 admins를](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/mya-for-admins)참고 하세요.
+MyAnalytics는 개인 생산성의 두 가지 주요 요인, 즉 시간과 사용자가 사용 하는 방법에 대 한 정보를 제공 합니다. MyAnalytics는 일상적인 작업 패턴을 살펴보고 주의 해 서 혜택을 받을 수 있는 영역을 찾고 시간을 보다 자세히 사용 하기 위한 도구를 제공 합니다. 자세한 내용은 [microsoft myanalytics](https://products.office.com/business/myanalytics-personal-analytics) 및 [microsoft myanalytics for admins](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/mya-for-admins)를 참고 하세요.
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
@@ -61,11 +61,11 @@ Microsoft Planner는 사용자에게 팀 작업을 구성하는 시각적인 방
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
-Microsoft PowerApps은 모든 장치에서 작동하는 앱을 신속하게 작성, 통합 및 공유할 수 있는 엔터프라이즈 서비스입니다. PowerApps을 사용하면 기본 제공 연결 또는 회사에서 구축한 연결을 통해 앱을 클라우드 및 Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, Oracle 데이터베이스 등을 비롯한 온-프레미스 서비스에 연결할 수 있습니다. 전자 메일 주소를 입력하기만 하면 동료와 PowerApps을 쉽게 공유할 수 있습니다. 자세한 내용은 Microsoft [PowerApps 웹 사이트](https://powerapps.microsoft.com/en-us/)를 참조하세요.
+Microsoft PowerApps은 모든 장치에서 작동하는 앱을 신속하게 작성, 통합 및 공유할 수 있는 엔터프라이즈 서비스입니다. PowerApps를 사용 하면 기본 제공 연결 또는 회사에서 구축한 사용자가 Microsoft 365 및 Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, Oracle 데이터베이스 등을 비롯 한 클라우드 및 온-프레미스 서비스에 앱을 연결할 수 있습니다. 전자 메일 주소를 입력하기만 하면 동료와 PowerApps을 쉽게 공유할 수 있습니다. 자세한 내용은 Microsoft [PowerApps 웹 사이트](https://powerapps.microsoft.com/en-us/)를 참조하세요.
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
-Microsoft StaffHub는 클라우드 기반 응용 프로그램으로, 작업자 및 해당 관리자가 모바일 장치를 사용하여 일정을 관리하고 연락을 주고받을 수 있습니다. 직원은 StaffHub를 사용하여 휴가 예약을 요청하고, 근무를 교대하고 다른 직원과 대화할 수 있습니다. 직원 간에 서로 또는 전체 팀에 직접 메시지를 보낼 수도 있습니다. 관리자는 StaffHub를 사용하여 메시지를 보내고, 일정을 만들고, 팀 소식 또는 회사 공지를 보낼 수 있습니다. StaffHub에 대한 자세한 내용은 Microsoft [StaffHub 웹 사이트](https://staffhub.office.com/) 및 [Office 365 팀 블로그](https://www.microsoft.com/en-us/microsoft-365/blog/2017/01/12/microsoft-staffhub-is-here/)를 참조하세요.
+Microsoft StaffHub는 클라우드 기반 응용 프로그램으로, 작업자 및 해당 관리자가 모바일 장치를 사용하여 일정을 관리하고 연락을 주고받을 수 있습니다. 직원은 StaffHub를 사용하여 휴가 예약을 요청하고, 근무를 교대하고 다른 직원과 대화할 수 있습니다. 직원 간에 서로 또는 전체 팀에 직접 메시지를 보낼 수도 있습니다. 관리자는 StaffHub를 사용하여 메시지를 보내고, 일정을 만들고, 팀 소식 또는 회사 공지를 보낼 수 있습니다. StaffHub에 대 한 자세한 내용을 보려면 Microsoft [StaffHub 웹 사이트](https://staffhub.office.com/) 및 [microsoft 365 팀 블로그로](https://www.microsoft.com/en-us/microsoft-365/blog/2017/01/12/microsoft-staffhub-is-here/)이동 합니다.
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -77,11 +77,11 @@ Microsoft Sway는 대화형 웹 기반 캔버스를 사용 하 여 의견을 표
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
-Microsoft 팀은 팀 구성원이 함께 목표를 달성하도록 도와주는 Office 365의 채팅 중심 작업 영역입니다. Microsoft 팀은 팀워크의 허브 역할을 하며, 채팅 대화, 콘텐츠 및 도구를 통해 Office 365에서 단일 작업 영역으로 바로 액세스할 수 있도록 합니다. SharePoint 및 OneNote가 기본적으로 제공되며, 팀원들은 앱 내에서 바로 Office 문서 작업을 수행할 수 있습니다. 채팅 외에도, Microsoft 팀은 팀이 주문형 또는 일정에 따라 live meeting을 충족할 수 있도록 비디오 통화와 회의를 지원 합니다. 팀원들은 여러 팀과 함께 쉽게 공동 작업을 수행하고, 언제든지 피플, 채팅 및 파일을 검색할 수 있습니다. Microsoft 팀은 Windows, Mac, 웹, Android 및 iOS 플랫폼에서 작동 합니다. 자세한 내용은 [Microsoft 팀 온라인 도움말](https://go.microsoft.com/fwlink/?linkid=834413)을 참조하세요. 팀은 [Office 365 Germany](office-365-germany.md)에서 아직 사용할 수 없습니다.
+Microsoft 팀은 팀 구성원이 보다 효율적으로 작업할 수 있도록 돕는 채팅 중심 작업 영역입니다. Microsoft 팀은 팀 작업의 허브 역할을 하며, 대화, 콘텐츠 및 도구를 단일 작업 영역에 즉시 액세스할 수 있도록 합니다. SharePoint 및 OneNote가 기본적으로 제공되며, 팀원들은 앱 내에서 바로 Office 문서 작업을 수행할 수 있습니다. 채팅 외에도, Microsoft 팀은 팀이 주문형 또는 일정에 따라 live meeting을 충족할 수 있도록 비디오 통화와 회의를 지원 합니다. 팀원들은 여러 팀과 함께 쉽게 공동 작업을 수행하고, 언제든지 피플, 채팅 및 파일을 검색할 수 있습니다. Microsoft 팀은 Windows, Mac, 웹, Android 및 iOS 플랫폼에서 작동 합니다. 자세한 내용은 [Microsoft 팀 온라인 도움말](https://go.microsoft.com/fwlink/?linkid=834413)을 참조하세요. 팀은 [Office 365 Germany](office-365-germany.md)에서 아직 사용할 수 없습니다.
   
 ## <a name="office-delve"></a>Office Delve
 
-사용자는 office Delve를 통해 개인 정보 통찰력을 기반으로 Office 365에서 콘텐츠를 검색 하 고 검색할 수 있습니다. Delve는 Office Graph를 기반으로 하는 최초의 작업 환경입니다. Office Delve에 대한 자세한 내용은 [Office Delve란?](https://go.microsoft.com/fwlink/?LinkId=511463)을 참조하세요. 
+사용자는 Office Delve를 통해 개인 정보 통찰력을 기반으로 Microsoft 365에서 콘텐츠를 검색 하 고 검색할 수 있습니다. Delve는 Office Graph를 기반으로 하는 최초의 작업 환경입니다. Office Delve에 대한 자세한 내용은 [Office Delve란?](https://go.microsoft.com/fwlink/?LinkId=511463)을 참조하세요. 
   
 ## <a name="microsoft-365-groups"></a>Microsoft 365 그룹
 
@@ -97,10 +97,10 @@ Office 365 비디오는 장치 간에 비디오를 업로드, 공유 및 검색�
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-Microsoft Kaizala는 [간단 하 고](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)안전한 모바일 작업 관리 앱으로, microsoft 365에 대 한 고유한 기능을 제공 하며, 조직 디렉터리 (예: 계약 작업자, 공급 업체, 파트너, 공급자, 고객 및 시민)의 내부와 외부에서 사용자를 연결 하 고 사용할 수 있는 기능을 제공 합니다. Kaizala의 개방형 디렉터리 모델을 사용 하면 편리한 온 보 딩을 위한 전화 번호 기반 id와 메시징 및 작업 관리에 대 한 간단한 사용자 환경이 제공 됩니다. 사용자는 Kaizala 모바일 앱을 사용 하 여 사진, 문서, 비디오, 오디오 os 등의 인스턴트 메시지와 첨부 파일을 전송 하 고 설문 조사, 설문, 작업 할당, 공지 사항, trainings 등에 대해 작업 카드를 사용할 수 있습니다. [Kaizala는 Office 365에서 사용할 수](https://products.office.com/en/business/microsoft-kaizala) 있으며 IPhone 및 Android에서는 작동 합니다. 자세한 내용을 보려면 [Kaizala 웹 사이트로](https://products.office.com/en/business/microsoft-kaizala)이동 하세요. 
+Microsoft Kaizala는 [간단 하 고](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)안전한 모바일 작업 관리 앱으로, microsoft 365에 대 한 고유한 기능을 제공 하며, 조직 디렉터리 (예: 계약 작업자, 공급 업체, 파트너, 공급자, 고객 및 시민)의 내부와 외부에서 사용자를 연결 하 고 사용할 수 있는 기능을 제공 합니다. Kaizala의 개방형 디렉터리 모델을 사용 하면 편리한 온 보 딩을 위한 전화 번호 기반 id와 메시징 및 작업 관리에 대 한 간단한 사용자 환경이 제공 됩니다. 사용자는 Kaizala 모바일 앱을 사용 하 여 사진, 문서, 비디오, 오디오 os 등의 인스턴트 메시지와 첨부 파일을 전송 하 고 설문 조사, 설문, 작업 할당, 공지 사항, trainings 등에 대해 작업 카드를 사용할 수 있습니다. [Kaizala](https://products.office.com/en/business/microsoft-kaizala) 은 IPhone 및 Android에서 작동 합니다. 자세한 내용을 보려면 [Kaizala 웹 사이트로](https://products.office.com/en/business/microsoft-kaizala)이동 하세요.
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
+계획 간의 기능 가용성을 확인 하려면 [Microsoft 365 및 Office 365 platform service description](office-365-platform-service-description.md)을 참조 하세요.
   
 
