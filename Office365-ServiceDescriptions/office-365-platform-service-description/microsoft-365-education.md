@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Microsoft 365 및 Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다.
-ms.openlocfilehash: bd4204538838b448c1cdb33dfa2903af113b098d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7f4d24a32afa116632358ec6560414f7e2d74289
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639786"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045060"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
 Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Microsoft 365 및 Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. 
   
-Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 포함 하는 완전 한 시스템을 제공 합니다. 다음 표에는 교육용 A1, A3 및 A5 기능에 대 한 Office 365과 교육용 A3 및 A5 기능에 해당 하는 Microsoft 365이 나열 되어 있습니다. 비즈니스 계획과 기업 계획 간에 기능을 비교 하려면 microsoft [365 for business 요금제 비교](https://go.microsoft.com/fwlink/?linkid=799177)를 참조 하거나, 자세한 기능 목록을 보려면 [microsoft 365 서비스 설명](../office-365-service-descriptions-technet-library.md)에서 관련 서비스 설명을 참조 하세요. 지원 문서 및 정보를 검색 하려면 [Office 도움말 &amp; 교육](https://support.office.com/)을 참조 하십시오.
+Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 포함 하는 완전 한 시스템을 제공 합니다. 다음 표에는 교육용 A1, A3 및 A5 기능에 대 한 Office 365과 교육용 A3 및 A5 기능에 해당 하는 Microsoft 365이 나열 되어 있습니다. 비즈니스 계획과 enterprise 요금제의 기능을 비교 하려면 microsoft [365 for business 요금제 비교](https://go.microsoft.com/fwlink/?linkid=799177)를 참조 하거나, 자세한 기능 목록을 보려면 [Microsoft 365 및 Office 365 서비스 설명](../office-365-service-descriptions-technet-library.md)의 관련 서비스 설명을 참조 하십시오. 지원 문서 및 정보를 검색 하려면 [Office 도움말 &amp; 교육](https://support.office.com/)을 참조 하십시오.
   
 ## <a name="services-and-features"></a>서비스 및 기능
 
@@ -31,7 +31,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |**서비스** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Office 365 플랫폼  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |웹에 대 한 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft 365 enterprise 용 앱  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|엔터프라이즈용 Microsoft 365 앱  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange Online  <br/> |예<sup>1</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |
 |SharePoint Online  <br/> |예<sup>3</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |
 |비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |

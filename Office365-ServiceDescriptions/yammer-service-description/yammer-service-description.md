@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer는 최고의, 보안 및 사설 엔터프라이즈 소셜 네트워크입니다. Yammer를 통해 직원들은 손쉽게 공동 작업을 수행하고 더욱 신속하게 의사 결정하고 비즈니스 과제를 담당하는 팀으로 자가 조직화할 수 있기 때문에 더욱 강력한 생산성을 갖추고 성과를 올릴 수 있습니다. Yammer는 비즈니스 제휴 및 민첩성을 자연스럽게 유도하면서 주기 시간을 줄이고 직원 간의 공동 작업을 진행하고 고객과 파트너와의 관계를 향상시킬 수 있는 새로운 작업 방식입니다.
-ms.openlocfilehash: 65a8dc8e6c407278e395a1a9506c9ac9a272cd4c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 0360d5a4ca4f761e1eac3775d981111101f72f3c
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640186"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044820"
 ---
 # <a name="yammer-service-description"></a>Yammer 서비스 설명
 
@@ -44,7 +44,7 @@ Yammer는 다음 계획을 통해 사용할 수 있습니다.
 |[Yammer Enterprise](https://go.microsoft.com/fwlink/?LinkId=691122) <br/> |고급 보안, 관리 및 통합 기능을 갖춘 기업용 소셜 네트워킹입니다.  <br/> |
    
 > [!NOTE]
-> [Office 365 플랫폼 서비스 설명](../office-365-platform-service-description/office-365-platform-service-description.md) 에 설명 되어 있는 기능과 정책은 Yammer 서비스에 적용 되지 않습니다. 
+> [Microsoft 365 및 Office 365 platform 서비스 설명](../office-365-platform-service-description/office-365-platform-service-description.md) 에 설명 되어 있는 기능과 정책은 Yammer 서비스에 적용 되지 않습니다. 
   
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer enterprise 서비스 통신 정책
 <a name="YammerCommsPolicy"> </a>

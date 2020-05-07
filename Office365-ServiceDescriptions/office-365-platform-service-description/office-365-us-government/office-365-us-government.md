@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 문서에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다.
-ms.openlocfilehash: 1040e396b63341879ee0293b4fb0ec53d296af67
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: c530009151f327f556a28194aaa692fcb5ebc122
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638796"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045040"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -30,7 +30,7 @@ ms.locfileid: "43638796"
 > 
 >이러한 특별 한 시간에 서비스가 사용 가능 하 고 안정적으로 유지 되도록 하기 위해 단계를 수행할 때 고객의 지원을 주셔서 감사 합니다.<br/> 
 
-미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 섹션에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다. [Office 365 서비스 설명과 ](../../office-365-service-descriptions-technet-library.md)함께이 보조 섹션을 읽는 것이 좋습니다.
+미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 섹션에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다. 이 보조 섹션은 [Microsoft 365 및 Office 365 서비스 설명과](../../office-365-service-descriptions-technet-library.md)함께 읽어 보는 것이 좋습니다.
   
 ## <a name="how-to-use-this-service-description"></a>이 서비스 설명을 사용 하는 방법
 
@@ -144,7 +144,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |:-----|:-----|:-----|:-----|:-----|
 |**Office 365 서비스** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |웹에 대 한 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft 365 enterprise 용 앱  <br/> |아니요 <br/> |지원 <br/> |예 <br/> |아니요  <br/> |
+|엔터프라이즈용 Microsoft 365 앱  <br/> |아니요 <br/> |지원 <br/> |예 <br/> |아니요  <br/> |
 |Exchange Online  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange Online Protection  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |SharePoint Online  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -193,7 +193,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**[사용자 계정 관리](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |클라우드 ID  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |페더레이션 ID(Single Sign-On)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Multi-Factor Authentication  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|다단계 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |전화 요인 인증  <br/> |예<sup>9</sup> <br/> |예<sup>9</sup> <br/> |예  <br/> |예<sup>9</sup> <br/> |
 |Office 365 데스크톱 설정  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365로 사용자 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -259,7 +259,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |고급 데이터 거버넌스  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예 <br/> |<sup>12</sup> <br/> |
 |Cloud App Security  <br/> |<sup>12, 15, 19</sup> <br/> |<sup>12, 15, 19</sup> <br/> |예<sup>15, 19</sup> <br/> |<sup>12, 15, 19</sup> <br/> |
 |Advanced Threat Protection  <br/> |<sup>12, 18</sup> <br/> |<sup>12, 18</sup> <br/> |예<sup>18</sup>  <br/> |<sup>12, 18</sup> <br/> |
-|Customer Lockbox  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예 <br/> |<sup>12</sup> <br/> |
+|고객 Lockbox  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예 <br/> |<sup>12</sup> <br/> |
 |Advanced eDiscovery  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예  <br/> |<sup>12</sup> <br/> |
 |보안 점수<sup>14</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |
 |Office 메시지 암호화  <br/> |아니오  <br/> |있음 <br/> |예 <br/> |아니요  <br/> |

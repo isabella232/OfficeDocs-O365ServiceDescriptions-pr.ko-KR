@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 사용할 수 있는 SharePoint 기능을 계획 합니다.
-ms.openlocfilehash: 52ae355158a5c801500c85b6ce6f796762503673
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e24e8cb36aee1121381617279903ca1ac686e58b
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639846"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044790"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 서비스 설명
 
@@ -82,7 +82,7 @@ Microsoft 365의 OneDrive는 조직 내의 개별 사용자에 대 한 온라인
 
 Microsoft Power Apps 및 Power 자동화의 가용성에 대 한 자세한 내용은 [Power apps 및 Power 자동화 라이선스 faq](/power-platform/admin/powerapps-flow-licensing-faq)를 참조 하세요.
 
-Microsoft Graph의 가용성에 대 한 자세한 내용은 [Office 365 플랫폼 서비스 설명](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans) 참조
+Microsoft Graph의 가용성에 대 한 자세한 내용은 [microsoft 365 및 Office 365 플랫폼 서비스 설명을](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)참조 하세요.
 
 ## <a name="it-admin-features"></a>IT 관리 기능
 
@@ -151,7 +151,7 @@ SharePoint는 Microsoft 365의 고급 보안 및 규정 준수 기능과 통합 
 
 다른 설명이 없는 한, SharePoint를 포함 하는 모든 요금제 및 모든 SharePoint 독립 실행형 계획에서 다음 기능을 사용할 수 있습니다.
 
-- [손쉬운 사용](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
+- [접근성](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
 - [Microsoft 팀을 사이트에 추가](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865)합니다. Office 365가 포함된 구독이 필요하며 사용자에게 팀 라이선스가 있어야 합니다.
 - [대상 그룹 지정](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
 - [클래식 팀 사이트를 새 Office 365 그룹에 연결](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d)합니다. Office 365이 포함 된 구독이 필요 합니다.
@@ -203,6 +203,6 @@ Microsoft Power Apps 및 Power 자동화의 가용성에 대 한 자세한 내�
 - [검색 센터 (기본 검색)](/sharepoint/manage-search-center)
 - [검색 스키마 (클래식 및 최신 검색)](/sharepoint/manage-search-schema)
 
-Delve에 대 한 자세한 내용은 [Office 365 플랫폼 서비스 설명을](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)참조 하세요. 
+Delve에 대 한 자세한 내용은 [Microsoft 365 및 Office 365 플랫폼 서비스 설명을](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)참조 하세요. 
 
 

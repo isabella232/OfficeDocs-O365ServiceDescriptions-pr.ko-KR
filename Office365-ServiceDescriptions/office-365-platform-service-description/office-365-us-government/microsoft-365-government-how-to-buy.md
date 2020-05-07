@@ -8,26 +8,26 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 80c6318a4fa32c50159ea05c6b54bd2e68929100
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 62311ff24d00cbdbb6add06f04eeb5eeb840aa51
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172260"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045050"
 ---
 ---
 
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 정부-구매 방법
 
-미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 US 공용 지역 고객용으로 특정 Microsoft 365 정부 환경을 구축 했습니다. 이 섹션에서는 환경에 대 한 개요 및 구입 방법에 대 한 자세한 정보를 제공 합니다. [Office 365 서비스 설명과 ](../../office-365-service-descriptions-technet-library.md)함께이 보조 섹션을 읽는 것이 좋습니다.
+미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 US 공용 지역 고객용으로 특정 Microsoft 365 정부 환경을 구축 했습니다. 이 섹션에서는 환경에 대 한 개요 및 구입 방법에 대 한 자세한 정보를 제공 합니다. 이 보조 섹션은 [Microsoft 365 및 Office 365 서비스 설명과](../../office-365-service-descriptions-technet-library.md)함께 읽는 것이 좋습니다.
   
 ## <a name="whats-microsoft-365-government"></a>Microsoft 365 정부는 무엇 인가요?
 
-Microsoft 365 정부는 통제 되 고 분류 되지 않은 정보를 보유 하도록 보증 되는 미국 정부 기관 및 계약자에 맞게 특별히 조정 된 생산성, 보안 및 모바일 클라우드 소프트웨어 기능 집합입니다. 규정 준수 요구 사항을 가장 엄격 하 게 충족 하는 고유한 환경을 통해 제공 되는 Microsoft 365 정부는 Microsoft 상업용 클라우드의 특징과 기능을 최대한 일치 시키는 미국 정부 고객을 위한 클라우드 제공 서비스입니다. 엔터프라이즈 제품 
+Microsoft 365 정부는 통제 되 고 분류 되지 않은 정보를 보유 하도록 보증 되는 미국 정부 기관 및 계약자에 맞게 특별히 조정 된 생산성, 보안 및 모바일 클라우드 소프트웨어 기능 집합입니다. 규정 준수 요구 사항을 가장 엄격 하 게 충족 하는 고유한 환경을 통해 제공 되는 Microsoft 365 정부는 Microsoft 상업용 클라우드 enterprise 제품의 기능 및 기능에 대해 최대한 유사 하 게 일치 하는 미국 정부 고객을 위한 클라우드 제공입니다. 
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Microsoft 365 정부의 가치는 무엇 인가요?
 
-Microsoft 365 정부 자가 지원 센터에서 규정 데이터 규정 준수를 효과적으로 관리 하 여 모바일 생산성과 안전한 공동 작업을 통해 언제 어디서 나 생산성을 유지 하도록 지원 합니다. 요구 사항. 다음 표에서는 주요 정부 역할에 대 한 예를 제공 합니다.
+Microsoft 365 정부 자가 지원 센터는 규정 준수 요구 사항을 효과적으로 관리 하 여 모바일 생산성과 안전한 공동 작업을 지원 함으로써 언제 어디서 나 생산성을 높일 수 있습니다. 다음 표에서는 주요 정부 역할에 대 한 예를 제공 합니다.
 
  
 ||||||
@@ -69,7 +69,7 @@ Microsoft 정부 클라우드에 적합 한 모든 고객은 GCC 및 GCC High �
 - 미국 정부의 기관, 사무실, 에이전시, 부서 또는 기타 엔티티로 정의 된 연방 에이전시
 - 다음 중 하나로 정의 된 상태/로컬 엔터티입니다.
     1. 미국의 주 또는 지방 정부 기관
-    2. 모든 미국 관할지, borough, 관할지, 구/군/시, municipality, 마을, township, 특별 목적의 학구 또는 고객의 상태 법률에 의해 설정 된 기타 유사한 정부 기관 instrumentality 및 지리적 경계
+    2. 모든 미국 관할지, borough, 관할지, 구/군/시, municipality, 마을, township, 특별 목적의 학구 또는 고객의 상태 법규에 의해 설정 되 고 고객의 관할지 및 지리적 경계 내에 있는 기타 유사한 정부 기관 instrumentality
     3. 콜롬비아의 학구, 푸에르토리코 연방, 괌, 미국령 사모아, 미국령 버진 아일랜드 및 북마리아나 군도
 - Federally을 인도 tribe로 인정 하거나, 알래스카에서 기본 마을 또는 알래스카 지역 기본 회사의 내부를 부족으로 하 여 자금 및 서비스를 받을 자격이 있는 부족로 정의 된 엔터티
 

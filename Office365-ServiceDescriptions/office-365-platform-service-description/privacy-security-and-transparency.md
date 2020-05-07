@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft는 고객과의 파트너 관계를 소중히 여기며 고객 데이터의 보안 및 개인 정보를 보호하는 데 중점을 두고 있습니다. 자세한 내용은 Microsoft 보안 센터를 참조하세요.
-ms.openlocfilehash: f78ad545436952325d74964ae1ea228796290b0e
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7b55ac4e310accb909e122e031c7d1557ce132fb
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639926"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044950"
 ---
 # <a name="privacy-security-and-transparency"></a>개인 정보, 보안 및 투명성
 
@@ -46,7 +46,7 @@ Microsoft에서 Office 365 서비스를 안전하고 안정적으로 전달하�
 
 전자 검색 또는 eDiscovery는 법률 소송에서 증거로 사용할 수 있는 전자 정보를 식별하고 전달하는 프로세스입니다. Advanced eDiscovery는 Office 365의 기존 eDiscovery 기능 집합을 기반으로 하며, 구조화 되지 않은 대규모 데이터 집합을 분석 하 고 법적 사례와 관련 된 데이터의 양을 줄일 수 있도록 합니다. Office 365 준수 센터의 검색 기능을 사용하여 조직의 모든 콘텐츠 원본의 초기 검색을 수행함으로써 특정 법률 소송과 관련이 있을 수 있는 데이터를 식별하고 수집할 수 있습니다. 그런 후 고급 eDiscovery의 텍스트 분석, 기계 학습 및 관련성/예측 코딩 기능을 적용하여 해당 데이터를 분석할 수 있습니다. 자세한 내용은 [Advanced eDiscovery](https://go.microsoft.com/fwlink/?LinkID=717971&amp;clcid=0x409)를 참조 하십시오.
   
-## <a name="customer-lockbox"></a>Customer Lockbox
+## <a name="customer-lockbox"></a>고객 Lockbox
 
 Microsoft 관리자는 고객 Lockbox를 사용 하 여 Microsoft 기술 지원 엔지니어가 도움말 세션 중에 데이터에 액세스 하는 방법을 제어할 수 있습니다. 엔지니어가 문제를 해결하기 위해 사용자 데이터에 대한 액세스 권한을 요구하는 경우 Customer Lockbox를 사용하여 액세스 요청을 승인하거나 거부할 수 있습니다. 승인하는 경우 엔지니어는 데이터에 액세스할 수 있습니다. 각 요청에는 만료 시간이 있으며 문제가 해결되면 요청이 닫히고 액세스 권한이 취소됩니다.
   
@@ -58,5 +58,5 @@ Office 365 Advanced Threat Protection은 맬웨어 및 바이러스 로부터 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획 간의 기능 가용성을 확인 하려면 [Office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
+계획 간의 기능 가용성을 확인 하려면 [Microsoft 365 및 Office 365 platform service description](office-365-platform-service-description.md)을 참조 하세요.
   

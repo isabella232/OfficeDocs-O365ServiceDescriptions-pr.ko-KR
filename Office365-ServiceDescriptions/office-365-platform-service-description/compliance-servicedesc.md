@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365은 업계 표준 및 규정을 준수 하며, 비즈니스에 대 한 규정 요구 사항을 충족 하는 데 도움이 되도록 설계 되었습니다. 자세한 내용은 준수 서비스를 참조 하세요.
-ms.openlocfilehash: 71caa7bdb60410bbebce86c60564438d37d47e55
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: a88255e948deab39e10116463130e2e8087abec5
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262871"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044780"
 ---
 # <a name="compliance"></a>규정 준수
 
@@ -33,7 +33,7 @@ Microsoft Office 365은 업계 표준 및 규정을 준수 하며, 비즈니스�
   
 ## <a name="industry-certifications"></a>산업 인증
 
-조직에서 개인 데이터를 수집 하 고 사용 하는 국가, 지역별 및 업계 관련 요구 사항을 준수 하는 데 도움이 되도록 Office 365은 조직에서 가장 포괄적인 정부 집합을 준수 하는 데 도움이 되거나 모든 클라우드 서비스 공급자의 타사 요구 사항, 인증 및 attestations:
+조직이 개인 데이터의 수집 및 사용을 관리 하는 국가, 지역별 및 업계 관련 요구 사항을 준수 하는 데 도움이 되도록, Office 365은 조직에서 가장 포괄적인 정부 및 타사 요구 사항, 인증 및 모든 클라우드 서비스 공급자를 준수 하는 데 도움을 attestations 수 있습니다.
   
 - 아르헨티나
     
@@ -111,5 +111,5 @@ Office 365 준수 및 감사 보고서에 대 한 자세한 내용은 Service Tr
     
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획 간의 기능 가용성을 확인 하려면 [office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
+Office 365 계획 간의 기능 가용성을 확인 하려면 [Microsoft 365 및 Office 365 platform service description](office-365-platform-service-description.md)을 참조 하세요.
   

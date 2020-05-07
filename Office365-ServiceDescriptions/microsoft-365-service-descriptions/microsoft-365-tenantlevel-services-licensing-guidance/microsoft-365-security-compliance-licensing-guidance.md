@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: abeb93c0eee7f783601ae755f40f6f8cf8163d11
-ms.sourcegitcommit: a475f562af23f1591b4962651affef8c23c8051d
+ms.openlocfilehash: ae21a804059510c777d5ef0991c3158b9142ce50
+ms.sourcegitcommit: c37c418e0965962a87426ce1246a1081c04bde88
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005964"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44090141"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -129,13 +129,13 @@ MCAS는 섀도 IT를 감지 및 평가 하 고, 첫 번째 및 타사 클라우�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
-MCAS, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 보안 및 Microsoft 365 참가자 위험 관리는 MCAS에서 혜택을 받을 수 있는 권한을 사용자에 게 제공 합니다.
+MCAS, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/A5/G5 보안, Microsoft 365 Information Protection 및 관리 방식에서는 MCAS에서 혜택을 받을 수 있는 권한을 사용자에 게 제공 합니다.
 
 Azure AD P1은 사용자에 게 MCAS의 검색 기능을 활용할 수 있는 권한을 제공 합니다.
 
 MCAS에서 조건부 Access 앱 제어 기능을 활용 하려면 사용자에 게 Enterprise Mobility + Security E3/A3/G3, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E3/A3/G3, microsoft 365 E5/a5/G5 및 Microsoft 365 E5/a5/G5 Security에 포함 된 Azure Active Directory P1에 대 한 라이선스가 있어야 합니다.
 
-자동 레이블 기능을 활용 하려면 사용자에 게 Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 준수 및 Microsoft 365 참가자 위험 관리에 포함 된 Azure Information Protection P2에 대 한 라이선스가 있어야 합니다.
+자동 레이블 기능의 이점을 얻으려면 사용자에 게 Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 준수 및 Microsoft 365 정보 보호 및 관리 방식에 포함 된 Azure Information Protection P2에 대 한 라이선스가 있어야 합니다.
 
 자세한 내용은 [Microsoft Cloud App Security License Datasheet](https://www.aka.ms/mcaslicensing)를 참조 하세요.
 
@@ -181,7 +181,7 @@ Microsoft Defender ATP 관리자는 [RBAC (역할 기반 액세스 제어)](http
 
 Microsoft 365 E5/A5/G5/E3/A3/G3/F1/t/365 o f t/t/c e t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 준수, Microsoft 365 참가자 위험 관리, Office 365 E5, Office 365 Advanced 규정 준수, Enterprise Mobility + Security E5 및 AIP 요금제 2는 사용자가 자동 민감도 레이블을 활용할 수 있는 권한을 제공 합니다.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, Microsoft 365 정보 보호 및 관리 방식, office 365 E5, 사무 365 고급 규정 준수, Enterprise Mobility + Security E5 및 AIP 요금제 2는 사용자가 자동 민감도 레이블을 통해 혜택을 얻을 수 있는 권한을 제공 합니다.
 
 라이선스 별 특정 권한에 대 한 자세한 내용은 [Microsoft 365 준수 라이선스 비교 (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)를 참조 하십시오.
 
@@ -209,9 +209,9 @@ AIP 스캐너 기능의 경우 Microsoft는 라이선스가 없는 사용자에 
 
 Microsoft 365 E5/A5/E3/A3, Office 365 E5/a5/e3/a3은 단일 조직 전체 또는 위치 차원의 보존 정책 및/또는 수동 보존 레이블에서 혜택을 얻을 수 있는 권한을 사용자에 게 제공 합니다.
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 참가자 위험 관리, Office 365 E5/A5 및 Office 365 고급 규정 준수 사용자는 보존 레이블 또는 정책을 자동으로 적용 하 고, 사용자 지정 이벤트를 기반으로 보존 레이블의 보존 기간을 시작 하 고, 기본 데이터 커넥터를 통해 타사 데이터를 가져오고, 레이블이 지정 된 콘텐츠를 검색 하 고 레이블 작업을 모니터링 하는 방법에 대 한 권한을 제공 합니다.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및 관리 방식 Office 365 E5/A5 및 Office 365 고급 규정 준수 사용자는 보존 레이블 또는 정책을 자동으로 적용 하 고, 사용자 지정 이벤트를 기반으로 보존 레이블의 보존 기간을 시작 하 고, 기본 데이터 커넥터를 통해 타사 데이터를 가져오고, 레이블이 지정 된 콘텐츠를 검색 하 고 레이블 작업을 모니터링 하는 방법에 대 한 권한을 제공 합니다.
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 trainable 분류자를 기반으로 보존 레이블을 자동으로 적용 하 여 혜택을 받을 수 있는 권한을 사용자에 게 제공 합니다.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및 관리 방식에서는 trainable 분류자에 따라 보존 레이블을 자동으로 적용 하 여 혜택을 얻을 수 있는 권한을 제공 합니다.
 
 라이선스 별 특정 권한에 대 한 자세한 내용은 [Microsoft 365 준수 라이선스 비교 (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)를 참조 하십시오.
 
@@ -231,9 +231,9 @@ Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 trainable 분류�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 사용자의 365 참가자/r i c r o r c o r c e r c e r c e r c r 365 i c e r c e r c e r c e r c e r c e r c e r c e r c e r c e r c e r c e r c e r
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보호 및 관리, office 365 E5/a5, Office 365 고급 규정은 사용자에 게 항목을 레코드로 선언, 자동으로 보존을 적용 하 고, 처리 검토 프로세스를 실행 (trainable 분류자를 기반으로 보존 레이블 자동 적용 제외) 하 여 레코드 관리를 활용할 수 있는 권한을 제공 합니다.
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 trainable 분류자에 따라 보존 또는 레코드 레이블을 자동으로 적용 하 여 혜택을 받을 수 있는 권한을 사용자에 게 제공 합니다.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및 관리 방식에서는 trainable 분류자에 따라 자동으로 보존을 적용 하거나 레이블을 녹음할 때 혜택을 받을 수 있는 권한을 사용자에 게 제공 합니다.
 
 라이선스 별 특정 권한에 대 한 자세한 내용은 [Microsoft 365 준수 라이선스 비교 (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)를 참조 하십시오.
 
@@ -280,7 +280,7 @@ eDiscovery 관리자는 [고급 ediscovery에 Custodians 추가](https://docs.mi
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 참가자 위험 관리, Office 365 E5/A5 및 Office 365 고급 규정은 사용자에 게 고객 키를 활용할 수 있는 권한을 제공 합니다. 고객 키의 모든 이점을 얻으려면 Azure Key Vault 용 구독도 있어야 합니다.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보호 및 관리 방식, Office 365 E5/A5, Office 365 고급 규정은 사용자에 게 고객 키를 활용할 수 있는 권한을 제공 합니다. 고객 키의 모든 이점을 얻으려면 Azure Key Vault 용 구독도 있어야 합니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
@@ -324,7 +324,7 @@ PAM을 사용 하도록 설정 하면 조직에서 권한이 없는 상태로 �
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까? 
 
-Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 및 Microsoft 365 E5/A5 참가자 위험 관리 사용자에 게 PAM의 혜택을 받을 수 있는 권한을 제공 합니다.
+Office 365 E5/A5, Microsoft 365 E5/a5, Microsoft 365 E5/a5 준수, Microsoft 365 E5/A5 정보 보호 및 거 버 넌 사용자에 게 PAM의 혜택을 받을 수 있는 권한을 제공 합니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
@@ -344,7 +344,7 @@ Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 대 한 Offic
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
-Microsoft 365 A1/E3/A3/Business, Office 365 E3/A3 및 데이터 손실 방지 기능은 사용자에 게 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 대 한 Office 365 DLP를 활용할 수 있는 권한을 제공 합니다.
+Microsoft 365 A1/E3/A3/Business, Office 365 E3/A3 및 Office 365 데이터 손실 방지는 사용자에 게 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 대 한 Office 365 DLP의 혜택을 받을 수 있는 권한을 제공 합니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
@@ -360,7 +360,7 @@ Microsoft 365 A1/E3/A3/Business, Office 365 E3/A3 및 데이터 손실 방지 �
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Office 365 E5/A5의 라이선스가 있는 사용자, microsoft 365 E5/A5, Microsoft 365 참가자 위험 관리 및 Office 365 Advanced 준수는 팀에 대 한 통신 DLP를 활용할 수 있습니다.
+Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365, 정보 보호 및 관리 및 Office 365 Advanced 준수를 사용 하도록 허가 된 사용자는 팀에 대 한 통신 DLP를 활용할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -380,7 +380,7 @@ Office 365 E5/A5의 라이선스가 있는 사용자, microsoft 365 E5/A5, Micro
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예를 들면 다음과 같습니다.
+사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예시:
 
 | 시나리오 | 라이선스가 필요한 사용자 |
 |:-------|:------|
@@ -433,7 +433,7 @@ Office 365 고급 메시지 암호화는 외부 받는 사람에 대 한 보다 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
-Office 365 E5/A5, Microsoft 365 E5/a5, Microsoft 365 E5/A5 준수, Microsoft 365 참가자 위험 관리 및 Office 365 고급 규정 준수 고급 메시지 암호화를 활용할 수 있는 권한을 사용자에 게 제공 합니다.
+Office 365 E5/A5, Microsoft 365 E5/a5, Microsoft 365 E5/A5 준수, Microsoft 365 Information Protection and 거 버 넌 스 및 Office 365 고급 규정 준수 고급 메시지 암호화를 활용할 수 있는 권한을 사용자에 게 제공 합니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
@@ -510,7 +510,7 @@ Microsoft 365의 고급 감사는 사용자 및 관리 작업에 대 한 감사 
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Office 365 E5, Microsoft 365 E5 및 Microsoft 365 E5 규정 준수의 허가 된 사용자는 고급 감사의 이점을 누릴 수 있습니다.
+Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Microsoft 365 eDiscovery 및 감사의 라이선스가 있는 사용자가 고급 감사를 활용할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365에서는 다음과 같은 도움말 및 교육 리소스를 제공 합니다.
-ms.openlocfilehash: 10d08047ae4e96ef5fac87bfe0a0f1f433e95014
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 34f840a23b197ae5268b6dc1208fb8052d984ffd
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262891"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045030"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -114,7 +114,7 @@ Office 365 커뮤니티 및 온라인 365 도움말 외에도 다음과 같은 �
   
 |**언어**|**온라인 도움말 문서**|**Wiki 및 블로그**|**포럼**|**기술 센터**|**문제 해결 도구**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|아랍어  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|아랍어  <br/> |아니오  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |불가리아어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |중국어 간체  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |중국어 번체  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -133,7 +133,7 @@ Office 365 커뮤니티 및 온라인 365 도움말 외에도 다음과 같은 �
 |라트비아어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |리투아니아어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |노르웨이어  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|폴란드어  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
+|폴란드어  <br/> |예  <br/> |예  <br/> |예  <br/> |아니오  <br/> |예  <br/> |
 |포르투갈어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |포르투갈어(브라질)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |루마니아어  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
@@ -149,4 +149,4 @@ Office 365 커뮤니티 및 온라인 365 도움말 외에도 다음과 같은 �
    
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Microsoft 365 및 Office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
