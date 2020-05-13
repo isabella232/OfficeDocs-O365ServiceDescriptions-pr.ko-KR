@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 Exchange Online 서비스 설명에 나와 있는 미국 정부 클라우드와 상업용 클라우드 간의 기능 차이에 대 한 개요를 제공 합니다.
-ms.openlocfilehash: f104f072a74707f46528d9b111d8af46103a919e
-ms.sourcegitcommit: 87c1b1cc9c02e5f446e382f1174cbbccad20196d
+ms.openlocfilehash: b2ea792f6a205cbe6c9031c924a22e7f6d1d3030
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813408"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213700"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>미국 정부 환경용 Exchange Online
 
@@ -22,7 +22,7 @@ ms.locfileid: "43813408"
 
 자격 및 구매를 비롯 한 정부 클라우드에 대 한 자세한 내용은 [Microsoft 365 정부-구매 방법](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)를 참조 하세요. Office 365 정부 요금제를 비교 하려면 [office 365 정부 요금제](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)를 참조 하세요.
 
-네트워크 연결을 관리할 때 필요한 끝점에 대 한 자세한 내용은 [office 365 미국 정부 GCC High endpoints](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) 또는 [Office 365 미국 정부 DoD endpoints](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)를 참조 하세요.
+네트워크 연결을 관리할 때 필요한 끝점에 대 한 자세한 내용은 [office 365 미국 정부 GCC High endpoints](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business)   또는 [Office 365 미국 정부 DoD endpoints](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)를 참조 하세요.
 
 조직에서는 Office 365의 기능과 기능을 제공 하는 것 외에도 미국 정부 클라우드 환경에 고유한 다음과 같은 기능을 활용할 수 있습니다.
 
@@ -65,7 +65,7 @@ ms.locfileid: "43813408"
 |원본 위치 유지 및 소송 보존|예|예|예|G3 또는 G5 서비스 계획이 필요 합니다.|
 |원본 위치 eDiscovery|예|예|예||
 |메일 흐름 규칙|예|예|예||
-|데이터 손실 방지|아니요|예|예|G3 또는 G5 서비스 계획이 필요 합니다.|
+|데이터 손실 방지|예|예|예|G3 또는 G5 서비스 계획이 필요 합니다.|
 |저널링|예|예|예||
 |**[스팸 방지 및 맬웨어 방지 보호](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC 최고**|**여기서**|**주요 고려 사항**|
 |스팸 방지 보호 기능 내장|예|예|예||
@@ -154,9 +154,9 @@ GCC High 및 DoD 환경 둘 다는 아웃 바운드 연결을 명시적으로 �
 
 이러한 제한으로 인해 다음과 같은 GCC High/DoD 환경에서 이러한 아웃 바운드 연결을 사용 하는 기능은 일반적으로 지원 되지 않습니다. 
 
-- 연결 된&mdash;계정 사용자는 계정 (GOOGLE, POP/IMAP 등)을 추가/동기화 할 수 없습니다. 
+- 연결 된 계정 &mdash; 사용자는 계정 (Google, POP/IMAP 등)을 추가/동기화 할 수 없습니다. 
 
-- 타사 파일 저장소 공급자&mdash;지원 *GCC High/DoD* 내에서 사용자의 비즈니스용 OneDrive 계정에는 파일 연결/공유를 위해 다양 한 Outlook 클라이언트 내에서 액세스할 수 있습니다. 타사 저장소 계정 (Dropbox, Box, Google Drive)은 추가할 수 없습니다. 
+- 타사 파일 저장소 공급자 지원 &mdash;  *GCC High/DoD 내*에서 사용자의 비즈니스용 OneDrive 계정에는   파일 연결/공유를 위해 다양 한 Outlook 클라이언트 내에서 액세스할 수 있습니다. 타사 저장소 계정 (Dropbox, Box, Google Drive)은 추가할 수 없습니다. 
 
 - Facebook 또는 LinkedIn과 같은 공유 네트워크와의 연결 
 

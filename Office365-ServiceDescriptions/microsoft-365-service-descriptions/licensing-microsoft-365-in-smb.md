@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium은 중소 규모의 비즈니스 고객을 위한 Microsoft 모범 사례 제품입니다. Microsoft 365 Business Premium은 Microsoft 365 생산성, 고급 보안 및 장치 관리를 함께 제공 하는 통합 솔루션입니다.
-ms.openlocfilehash: b608aaa2f0ba113c504b72bec38ce0ba07a93031
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7d4def2067790bb77456643ebc9c89d121aa8c9a
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640306"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213960"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>중소기업을 위한 Microsoft 365 라이선싱
 
@@ -24,7 +24,7 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-business-premium"></a>기능 비교: Microsoft 365 Business Standard 및 Microsoft 365 Business Premium
 
-|**서비스 영역** |**기능** | **Microsoft 365 비즈니스 표준** | **Microsoft 365 Business Premium** |
+|**서비스 영역** |**기능** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** |
 |--|------------ | ------------------------------- | -------------------------- |
 |**사용 가능한 라이선스** | 최대 사용자 수 | 300  | 300  |
 |**Office 앱** | 최대 5 대의 Pc/Mac에 Office 설치 (Word, Excel, PowerPoint, OneNote, Access), Office Online 및 사용자 당 스마트폰 5 대 | 비즈니스 | 비즈니스 |
@@ -32,7 +32,7 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 |**팀 작업 용 허브** | Microsoft 팀의 채팅 기반 작업 영역, 온라인 모임 등 | 예 |예 |
 |**파일 저장소** | 비즈니스용 OneDrive  | 사용자 당 1TB | 사용자 당 1TB |
 |**소셜, 비디오, 사이트** | Stream, Yammer, Planner, SharePoint Online, PowerApps, 고급 자동화 | 예 | 예 |
-|**비즈니스 앱** | 앱 &ndash; 예약 예약<sup>1</sup> | 예 | 예 |
+|**비즈니스 앱** | 앱 예약 &ndash; 예약<sup>1</sup> | 예 | 예 |
 |   | 비즈니스 앱 &ndash; MileIQ<sup>1</sup> | 예 | 예 |
 |**위협 방지** | Office 365 Advanced Threat Protection | 아니요 | 예 |
 |   | Windows Exploit Guard 적용 | 아니요 | 예  |
@@ -63,7 +63,7 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 |**팀 작업 용 허브** | Microsoft 팀의 채팅 기반 작업 영역, 온라인 모임 등 | 예 | 예 |
 |**파일 저장소** | 비즈니스용 OneDrive | 무제한 | 사용자 당 1TB |
 |**소셜, 비디오, 사이트** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, 전원 자동화<sup>1</sup> | 예 | 예 |
-|**비즈니스 앱** | 앱 &ndash; 예약 예약<sup>2</sup> | 예 | 예 |
+|**비즈니스 앱** | 앱 예약 &ndash; 예약<sup>2</sup> | 예 | 예 |
 |   | 비즈니스 앱 &ndash; MileIQ<sup>2</sup> | 아니요 | 예 |
 |**위협 방지** | Office 365 Advanced Threat Protection | 아니요 | 예 |
 |   | Windows Exploit Guard 적용 | 아니요 | 예 |
@@ -88,7 +88,7 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 
 ## <a name="feature-comparison-microsoft-365-business-standard-microsoft-365-business-premium-and-office-365-e3"></a>기능 비교: Microsoft 365 Business Standard, Microsoft 365 Business Premium 및 Office 365 E3
 
-|**서비스 영역**   |**기능** | **Microsoft 365 비즈니스 표준** | **Microsoft 365 Business Premium** | **Office 365 E3** |
+|**서비스 영역**   |**기능** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Office 365 E3** |
 |---|-------------|---------------------------------|----------------------------|-------------------|
 |**사용 가능한 라이선스** | 최대 사용자 수 | 300 | 300 | 무제한 |
 |**Office 앱** | 최대 5 대의 Pc/Mac에 Office 설치 (Word, Excel, PowerPoint, OneNote, Access), Office Online 및 사용자 당 스마트폰 5 대 | 비즈니스 | 비즈니스 | ProPlus |
@@ -96,7 +96,7 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 |**팀 작업 용 허브** | Microsoft 팀의 채팅 기반 작업 영역, 온라인 모임 등 | 예 | 예 | 예 |
 |**파일 저장소** | 비즈니스용 OneDrive | 사용자 당 1TB | 사용자 당 1TB | 무제한 |
 |**소셜, 비디오, 사이트** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, 전원 자동화<sup>1</sup> | 예 | 예 | 예 |
-|**비즈니스 앱** | 앱 &ndash; 예약 예약<sup>2</sup> | 예 | 예 | 예 |
+|**비즈니스 앱** | 앱 예약 &ndash; 예약<sup>2</sup> | 예 | 예 | 예 |
 |   | 비즈니스 앱 &ndash; MileIQ<sup>2</sup> | 예 | 예 | 아니요 |
 |**위협 방지** | Office 365 Advanced Threat Protection | 아니오 | 예 | 아니요 |
 |   | Windows Exploit Guard 적용 | 아니오 | 예 | 아니요 |
@@ -121,7 +121,7 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>기능 비교: Microsoft 365 business Standard 및 Microsoft 365 for business 요금제
 
-|**서비스 영역**   |**기능** | **Microsoft 365 비즈니스 표준** | **Microsoft 365 Business Premium** | **Microsoft 365 E3** | **Microsoft 365 E5** |
+|**서비스 영역**   |**기능** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Microsoft 365 E3** | **Microsoft 365 E5** |
 |---|-------------|---------------------------------|----------------------------| ----------------- |-------------------|
 |**사용 가능한 라이선스** | 최대 사용자 수 | 300 | 300 | 무제한 | 무제한 |
 |**Office 앱** | 최대 5 대의 Pc/Mac에 Office 설치 (Word, Excel, PowerPoint, OneNote, Access), Office Online 및 사용자 당 스마트폰 5 대 | 비즈니스 | 비즈니스 | ProPlus | ProPlus |
@@ -130,7 +130,7 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 |**파일 저장소** | 비즈니스용 OneDrive | 사용자 당 1TB | 사용자 당 1TB | unlimited | unlimited |
 |**소셜, 비디오, 사이트** | Yammer, SharePoint Online, Planner | 예 | 예 | 예 | 예 |
 |   | Stream | | 예 | 예 | 예 |
-|**비즈니스 앱** | 앱 &ndash; 예약 예약<sup>1</sup> | 예 | 예 | 예 | 예 |
+|**비즈니스 앱** | 앱 예약 &ndash; 예약<sup>1</sup> | 예 | 예 | 예 | 예 |
 |   | 비즈니스 앱 &ndash; MileIQ<sup>1</sup> | 예 | 예 | 아니요 | 아니요 |
 |**위협 방지** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, 엔터프라이즈 데이터 보호 | 아니요 | 아니요 | 있음 | 예 |
 |   | Office 365 Advanced Threat Protection | 아니오 | 예 | 아니오 | 예 |
@@ -160,7 +160,7 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 
 ## <a name="office-client-commercial-plans"></a>Office 클라이언트 상업용 계획
 
-| **응용 프로그램** | **Microsoft 365 비즈니스 에디션 앱** | **Microsoft 365 enterprise 용 앱** |
+| **응용 프로그램** | **비즈니스용 Microsoft 365 앱** | **Microsoft Office 365 ProPlus** |
 |------------------|-------------------------|------------------------|
 | Word             | 예                     | 예                    |
 | Excel            | 예                     | 예                    |
@@ -170,7 +170,7 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 | Publisher        | 예                     | 예                    |
 | Access           | 예                     | 예                    |
 | Microsoft Teams  | 예                     | 예                    |
-| **프리미엄 값**                             | **Microsoft 365 비즈니스 에디션 앱** | **Microsoft 365 enterprise 용 앱** |
+| **프리미엄 값**                             | **비즈니스용 Microsoft 365 앱** | **Microsoft Office 365 ProPlus** |
 | 볼륨 정품 인증                             | 아니요                      | 아니요                     |
 | 그룹 정책<sup>1</sup>                      | 아니오                      | 있음                    |
 | 공유 컴퓨터 활성화                    | 예<sup>7</sup>        | 예                    |
@@ -183,12 +183,12 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 | 비즈니스 인텔리전스                         | 아니요                      | 예<sup>5</sup>        |
 | IRM<sup>3</sup> 만들기                        | 예<sup>7</sup>        | 예                    |
 | 데이터 손실 방지<sup>3</sup>              | 예<sup>7</sup>        | 예<sup>5</sup>        |
-| **클라우드 값**                  | **Microsoft 365 비즈니스 에디션 앱** | **Microsoft 365 enterprise 용 앱** |
+| **클라우드 값**                  | **비즈니스용 Microsoft 365 앱** | **Microsoft Office 365 ProPlus** |
 | 그룹                           | 예                     | 예                    |
 | Office 배포 도구           | 예                     | 예                    |
 | 로밍 문서 & 설정     | 예                     | 예                    |
 | 1TB 비즈니스용 OneDrive       | 예                     | 예                    |
-| **라이선스**                                   | **Microsoft 365 비즈니스 에디션 앱** | **Microsoft 365 enterprise 용 앱** |
+| **라이선스**                                   | **비즈니스용 Microsoft 365 앱** | **Microsoft Office 365 ProPlus** |
 | 라이선스 모델                                 | 사용자 당                | 사용자 당               |
 | 라이선스 유형                                    | 구독은            | 구독은           |
 | PC/Mac 설치<sup>6</sup>                     | 5                        | 5                       |
@@ -204,11 +204,11 @@ Microsoft 365 Business Premium에는 microsoft 365 for enterprise 용 Microsoft 
 
 <sup>1</sup> 조직에서는 Office에 대 한 특정 구성 설정 (보안 설정, 앱 설정, Active Directory 로밍 등)을 회사 네트워크에 로그온 하는 컴퓨터로 푸시할 수 있습니다.
 
-<sup>2</sup> office Standard 2016 및 Office Professional Plus 2016는 MSI 모델을 사용 하 여 업데이트를 완벽 하 게 제어할 수 있습니다. 엔터프라이즈 및 **비즈니스용 microsoft 365 앱** 에 대 한 Microsoft 365 앱이 설치 및 업데이트는 간편 실행을 통해 관리 됩니다.
+<sup>2</sup> office Standard 2016 및 Office Professional Plus 2016는 MSI 모델을 사용 하 여 업데이트를 완벽 하 게 제어할 수 있습니다. 엔터프라이즈 및 비즈니스용 Microsoft 365 앱에 대 한 Microsoft 365 앱이 설치 및 업데이트는 간편 실행을 통해 관리 됩니다.
 
 <sup>3</sup> 제품군은 비즈니스 생산성 서버와의 다양 한 통합 수준을 제공 합니다.
 
-<sup>4</sup> Outlook&mdash;에서 필요한&mdash;.pst 파일을 보관 하지 않고 전자 메일을 자동으로 보관 하거나 삭제 하는 보존 정책을 설정 합니다. IT 관리자가 중앙에서 원본 위치 보관 함을 관리할 수 있습니다.
+<sup>4</sup> Outlook에서 &mdash; 필요한 .Pst 파일을 보관 하지 않고 전자 메일을 &mdash; 자동으로 보관 하거나 삭제 하는 보존 정책을 설정 합니다. IT 관리자가 중앙에서 원본 위치 보관 함을 관리할 수 있습니다.
 
 <sup>5</sup> 추가 온라인 서비스가 필요 합니다.
 

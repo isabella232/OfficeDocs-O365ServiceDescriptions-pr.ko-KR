@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을 위한 유연한 온라인 솔루션입니다. Office 365를 통해 제공되는 Project Online은 거의 모든 위치의 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획하고 우선 순위를 정하고 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: 2b54ea0aa1aab30e8c21e6e0ccdbedc92bd8b10e
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: 0ab37090e6c31603665c0a457eced04db8f36bfb
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002335"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213880"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 서비스 설명
 
@@ -43,13 +43,13 @@ Microsoft Project에서는 프로젝트 및 작업 관리에 대 한 조직의 �
 
 ### <a name="project-online"></a>Project Online
  
-Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을 위한 유연한 온라인 솔루션입니다. Project Online은 거의 모든 장치에서 거의 모든 위치에서 프로젝트 및 프로젝트 포트폴리오 투자&mdash;를 계획, 우선 순위 지정 및 관리 하기 위한 강력한 프로젝트 관리 기능을 제공 합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
+Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을 위한 유연한 온라인 솔루션입니다. Project Online은 &mdash; 거의 모든 장치에서 거의 모든 위치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획, 우선 순위 지정 및 관리 하기 위한 강력한 프로젝트 관리 기능을 제공 합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
 
 Project Online은 SharePoint 플랫폼을 기반으로 하며 데이터를 SharePoint 데이터 저장소에 저장 합니다.
 
 Project Online은 두 가지 구독, 즉 프로젝트 계획 3 및 프로젝트 계획 5를 통해 제공 됩니다. [Project online 기능](#project-online-features) 섹션에 나열 된 기능은 Project online SharePoint 데이터 저장소의 데이터와 상호 작용 합니다.
 
-Project online에 대 한 팀 구성원 기능은 Project Online Essentials 구독을 통해 제공 됩니다. Project Online Essentials는 프로젝트 계획 3 또는 project 계획 5 구독이 있는 고객을 위한 팀 구성원 *추가 기능* 구독입니다. 이를 통해 팀 구성원은 Project Online에서 관리 되는 프로젝트에 대 한 작업 및 시간 업데이트를 수행 하는 웹 인터페이스를 제공 합니다.
+Project online에 대 한 팀 구성원 기능은 Project Online Essentials 구독을 통해 제공 됩니다. Project Online Essentials는 *add-on*   프로젝트 계획 3 또는 project 계획 5 구독이 있는 고객을 위한 팀 구성원 추가 기능 구독입니다. 이를 통해 팀 구성원은 Project Online에서 관리 되는 프로젝트에 대 한 작업 및 시간 업데이트를 수행 하는 웹 인터페이스를 제공 합니다.
 
 Project Online Essentials를 사용 하는 팀 구성원은 다음과 같은 Project Online 기능을 수행할 수 있습니다.
 
@@ -248,9 +248,7 @@ Microsoft 팀 통합 | Microsoft 팀에서 프로젝트에 대해 공동 작업�
 ## <a name="service-considerations"></a>서비스 고려 사항
 
 > [!NOTE]
-> - 현재 웹의 프랑스 &ndash; 및 대한민국 프로젝트를 사용할 수 없습니다. Microsoft에서는 웹에 대 한 프로젝트를 지역으로 제공 하 고 아래에 표시 된 통신 채널을 통해 가용성을 알려줍니다.
-> - 웹 &ndash; 에 대 한 교육 프로젝트가 교육 고객에 게 곧 제공 될 예정입니다. 정확한 기간이 보류 중입니다.
-> - Gcc, gcc High, DoD &ndash; 현재, 웹의 프로젝트는 GCC, gcc High 및 dod에서 사용할 수 없습니다. 죄송 하지만, 현재는 웹에 대 한 Project를 제공 하는 작업 이지만 지금은 회사 기간을 공유할 수 없습니다.
+> 현재 GCC, GCC High 및 DoD에 대해 웹 프로젝트를 사용할 수 없습니다. 현재 웹에 대 한 프로젝트를 제공 하 고 있지만 지금은 회사 기간을 공유할 수 없습니다.
 
 ### <a name="licensing-considerations"></a>라이선스 고려 사항
 
@@ -279,7 +277,7 @@ Project Online에서는 Project Online의 일부로 프로 비전 되는 SharePo
 
 웹 프로젝트에는 다음 표에 설명 된 몇 가지 제한 사항이 있습니다.
 
-|엔터티/필드 | 제한 유형 |
+|엔터티/필드 | Limit |
 |-------------|-------|
 |**작업** ||
 |최대값. 작업의 계층 구조 수준 | 10 수준 |

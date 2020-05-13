@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는 클라우드 기반 전자 메일 필터링 서비스로, 실시간으로 유해한 링크 로부터 조직을 보호 하는 기능을 포함 합니다.
-ms.openlocfilehash: 9316cf30bb195b540c2653d66154c672af49000c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4e39c40c0448e35ed0df554499a6c2aa2d5c404c
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640146"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213950"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection 서비스 설명
 
@@ -47,7 +47,7 @@ ATP를 다음 Exchange 및 Microsoft 365 구독 계획에 추가할 수 있습�
 
 - Microsoft 365 Business Basic
 
-- Microsoft 365 비즈니스 표준
+- Microsoft 365 Business Standard
 
 - Office 365 Enterprise E1
 
@@ -61,7 +61,7 @@ ATP를 다음 Exchange 및 Microsoft 365 구독 계획에 추가할 수 있습�
 
 Office 365 Advanced threat Protection을 구입 하려면 [office 365 Advanced Threat protection](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)를 참조 하세요.
 
-계획 간에 기능을 비교 하려면 [microsoft 365 앱 비즈니스 요금제 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 를 참조 하 고 [사용자에 게 적합 한 microsoft 365 Enterprise 솔루션을 검색](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)합니다.
+계획 간에 기능을 비교 하려면 엔터프라이즈를 지원 하 고 [Microsoft 365으로 엔터프라이즈를 변환](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans) [하는 강력한 도구](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 를 참조 하세요.
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Office 365의 새로운 기능 (Advanced Threat Protection (ATP)
 
@@ -73,7 +73,7 @@ Office 365 Advanced threat Protection을 구입 하려면 [office 365 Advanced T
 
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Office 365의 ATP (Advanced Threat Protection)에 대 한 요구 사항
 
-ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 함께 사용할 수 있습니다. ATP에서 지원되는 운영 체제, 웹 브라우저, 언어에 대한 자세한 내용은 [Exchange Online Protection의 Exchange 관리 센터](https://go.microsoft.com/fwlink/p/?LinkId=282381)의 "지원되는 브라우저" 및 "지원되는 언어" 섹션을 참조하세요.
+ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 함께 사용할 수 있습니다. ATP에서 지 원하는 운영 체제, 웹 브라우저 및 언어에 대 한 자세한 내용은 exchange [Online Protection의 exchange 관리 센터](https://go.microsoft.com/fwlink/p/?LinkId=282381)에서 "지원 되는 브라우저" 및 "지원 되는 언어" 섹션을 참조 하십시오.
 
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>ATP (Advanced Threat Protection) 계획에서의 기능 가용성
 
@@ -122,7 +122,7 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 - Microsoft 팀 채널 및 채팅
 
 > [!NOTE]
-> 사용자에 게 ATP<sup>\*</sup>라이선스가 있어야 하 고, Atp 안전한 링크 정책에 포함 되어야 하며, 보호를 위해 해당 장치에 로그인 되어 있어야 합니다.
+> 사용자에 게 ATP 라이선스가 있어야 <sup>\*</sup> 하 고, Atp 안전한 링크 정책에 포함 되어야 하며, 보호를 위해 해당 장치에 로그인 되어 있어야 합니다.
 >
 > <sup>\*</sup>조직 전반의 ATP 라이선스 (예: ATP_ENTERPRISE_FACULTY)의 경우에는 개별 사용자에 게 ATP 라이선스를 할당할 필요가 없습니다.
 >

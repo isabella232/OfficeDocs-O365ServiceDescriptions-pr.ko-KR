@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer는 최고의, 보안 및 사설 엔터프라이즈 소셜 네트워크입니다. Yammer를 통해 직원들은 손쉽게 공동 작업을 수행하고 더욱 신속하게 의사 결정하고 비즈니스 과제를 담당하는 팀으로 자가 조직화할 수 있기 때문에 더욱 강력한 생산성을 갖추고 성과를 올릴 수 있습니다. Yammer는 비즈니스 제휴 및 민첩성을 자연스럽게 유도하면서 주기 시간을 줄이고 직원 간의 공동 작업을 진행하고 고객과 파트너와의 관계를 향상시킬 수 있는 새로운 작업 방식입니다.
-ms.openlocfilehash: 0360d5a4ca4f761e1eac3775d981111101f72f3c
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 02a39b94179a175a72e53c6a1d9e3ccacfca3ea3
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044820"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213680"
 ---
 # <a name="yammer-service-description"></a>Yammer 서비스 설명
 
@@ -25,14 +25,11 @@ Yammer는 최고의, 보안 및 사설 엔터프라이즈 소셜 네트워크입
   
 Yammer를 포함 하는 계획 목록은 [Microsoft 서비스 제품군 및 요금제](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)를 참조 하세요.
   
-계획 간에 기능을 비교 하려면 [Microsoft 365 for 비즈니스 요금제 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)를 참조 하세요.
-  
-> [!TIP]
-> Microsoft 서비스 설명에서 페이지를 내보내고 저장 하 고 인쇄할 수 있습니다. [여러 페이지 내보내기](https://go.microsoft.com/fwlink/?LinkId=403349) 방법을 알아보세요. 
+계획 간에 기능을 비교 하려면 [엔터프라이즈를 지원 하기 위한 강력한 도구](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)를 참조 하세요.
   
 ## <a name="system-requirements"></a>시스템 요구 사항
 
-비즈니스, 교육 및 정부 조직에서 사용할 수 있는 월별 구독 기반 서비스인 Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [Microsoft 365 시스템 요구 사항을](https://products.office.com/office-system-requirements/#Office365forBEG)참조 하세요.
+비즈니스, 교육 및 정부 조직에서 사용할 수 있는 월별 구독 기반 서비스인 Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [Microsoft 365 및 Office 리소스](https://products.office.com/office-system-requirements/#Office365forBEG)를 참조 하세요.
   
 ## <a name="yammer-plans"></a>Yammer 계획
 
@@ -41,7 +38,7 @@ Yammer는 다음 계획을 통해 사용할 수 있습니다.
 |**계획**|**설명**|
 |:-----|:-----|
 |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |언제 어디서든 사용 가능한 기업용 소셜 네트워킹입니다.  <br/> |
-|[Yammer Enterprise](https://go.microsoft.com/fwlink/?LinkId=691122) <br/> |고급 보안, 관리 및 통합 기능을 갖춘 기업용 소셜 네트워킹입니다.  <br/> |
+|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |고급 보안, 관리 및 통합 기능을 갖춘 기업용 소셜 네트워킹입니다.  <br/> |
    
 > [!NOTE]
 > [Microsoft 365 및 Office 365 platform 서비스 설명](../office-365-platform-service-description/office-365-platform-service-description.md) 에 설명 되어 있는 기능과 정책은 Yammer 서비스에 적용 되지 않습니다. 

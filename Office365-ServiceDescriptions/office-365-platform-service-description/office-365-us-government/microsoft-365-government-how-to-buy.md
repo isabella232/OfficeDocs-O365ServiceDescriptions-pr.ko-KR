@@ -8,15 +8,13 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 62311ff24d00cbdbb6add06f04eeb5eeb840aa51
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: b8adbcee90fbdbd014656f8f0e497821d37adfc2
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045050"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213720"
 ---
----
-
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 정부-구매 방법
 
 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 US 공용 지역 고객용으로 특정 Microsoft 365 정부 환경을 구축 했습니다. 이 섹션에서는 환경에 대 한 개요 및 구입 방법에 대 한 자세한 정보를 제공 합니다. 이 보조 섹션은 [Microsoft 365 및 Office 365 서비스 설명과](../../office-365-service-descriptions-technet-library.md)함께 읽는 것이 좋습니다.

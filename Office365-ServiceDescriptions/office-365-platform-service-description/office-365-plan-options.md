@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
-ms.openlocfilehash: cf077a9065d2c65ab2ab81a03437cc2b5296cfbe
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: fbef76e115a95c3add524e39d8b7e70d21605223
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044991"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213910"
 ---
 # <a name="office-365-plan-options"></a>Office 365 계획 옵션
 
@@ -33,12 +33,12 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
   
 |**Office 365 서비스 제품군**|**계획**|
 |:-----|:-----|
-|**Business (최대 300 명의 사용자)** <br/> |[Microsoft 365 Business Basic](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Microsoft 365 비즈니스 에디션 앱](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|**Business (최대 300 명의 사용자)** <br/> |[Microsoft 365 Business Basic](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [비즈니스용 Microsoft 365 앱](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |**Enterprise (사용자 수 제한 없음)** <br/> |[Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 Enterprise F3](https://products.office.com/business/office-365-f1) <br/> |
 |**교육 (사용자 수 제한 없음)** <br/> |[Office 365 Education](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Education E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**정부 (사용자 수 제한 없음)** <br/> |[모든 사용 가능한 비즈니스 계획을 참조하세요.](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**중국의 21Vianet에서 운영하는 Office 365** <br/> |[사용 가능한 모든 비즈니스 계획 참조](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
-|**Office 365 Germany** <br/> |[모든 사용 가능한 비즈니스 계획을 참조하세요.](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview) <br/> |
+|**Office 365 Germany** <br/> |[Office 365 독일에 대 한 자세한 정보를 참조 하세요.](https://docs.microsoft.com/microsoft-365/admin/admin-overview/learn-about-office-365-germany?view=o365-germany) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>각 Office 365 계획 내의 서비스 사용 가능 여부
 
@@ -49,7 +49,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**서비스** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 비즈니스 에디션 앱** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F3** <br/> |
+|**서비스** <br/> |**Microsoft 365 Business Basic** <br/> |**비즈니스용 Microsoft 365 앱** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F3** <br/> |
 |Office 365 플랫폼  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange Online  <br/> |예<sup>6</sup> <br/> |아니요  <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |예<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -115,7 +115,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |SharePoint Online  <br/> |[SharePoint Online 계획 1](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online 계획 2](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
 |비즈니스용 OneDrive  <br/> |[비즈니스용 OneDrive 계획 1](https://onedrive.live.com/about/business/) <br/> [비즈니스용 OneDrive 계획 2](https://onedrive.live.com/about/business/) <br/> |
 |비즈니스용 Skype 온라인  <br/> |[비즈니스용 Skype Online 계획 1](https://products.office.com/microsoft-teams/group-chat-software) <br/> [비즈니스용 Skype Online 계획 2](https://products.office.com/microsoft-teams/group-chat-software) <br/> |
-|Office 응용 프로그램  <br/> |[Microsoft Office 365 ProPlus](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Microsoft 365 비즈니스 에디션 앱](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|Office 응용 프로그램  <br/> |[Microsoft Office 365 ProPlus](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [비즈니스용 Microsoft 365 앱](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |프로젝트 포트폴리오 관리  <br/> |[Project Online](https://products.office.com/project/project-and-portfolio-management-software) <br/> |
 |Yammer  <br/> |[Yammer Basic](https://products.office.com/yammer/) <br/> |
 |조직 분석  <br/> |[작업 공간 분석](https://products.office.com/business/workplace-analytics) <br/> |

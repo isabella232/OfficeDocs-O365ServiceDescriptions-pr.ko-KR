@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 사용할 수 있는 SharePoint 기능을 계획 합니다.
-ms.openlocfilehash: e24e8cb36aee1121381617279903ca1ac686e58b
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: a7606d1fe17c293a46398c93c95a1ffb7313f9b4
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044790"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214040"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 서비스 설명
 
@@ -31,7 +31,7 @@ ms.locfileid: "44044790"
 
 간략 한 개요를 보려면 [SharePoint 란?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f) 를 참조 하세요.
   
-SharePoint를 포함 하는 계획을 확인 하려면 [Microsoft 365 for business 요금제를 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)합니다. Microsoft 365 시스템 요구 사항에 대 한 자세한 내용은 [Office의 시스템 요구 사항을](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4)참조 하세요. 
+[엔터프라이즈를 지 원하는 SharePoint, 강력한 도구](https://products.office.com/business/compare-more-office-365-for-business-plans)를 포함 하는 계획을 확인 합니다. Microsoft 365 시스템 요구 사항에 대 한 자세한 내용은 [microsoft 365 및 Office 리소스](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4)를 참조 하십시오. 
 
 US 정부 클라우드 고객을 위한 SharePoint 기능 차이에 대 한 자세한 내용은 [sharepoint FOR us 정부 환경을](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)참조 하세요.
   
@@ -43,7 +43,7 @@ US 정부 클라우드 고객을 위한 SharePoint 기능 차이에 대 한 자�
 
 Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. 독립 실행형 계획 옵션 및 계획 간 이동에 대 한 정보를 비롯 하 여 다양 한 계획에 대 한 자세한 내용은 [Microsoft 365 계획 옵션](../office-365-platform-service-description/office-365-plan-options.md)을 참조 하십시오.
   
-SharePoint에 액세스 하려면 조직의 사용자에 게 SharePoint를 포함 하는 라이선스를 할당 해야 합니다. Firstline 계획은 독립 라인 구독으로 판매 되지 않으며, [firstline 구독의](https://www.microsoft.com/microsoft-365/business/office-365-f1)일부로만 제공 됩니다. 
+SharePoint에 액세스 하려면 조직의 사용자에 게 SharePoint를 포함 하는 라이선스를 할당 해야 합니다. Firstline 요금제는 [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1)의 일부로만 독립 실행형 제공으로 판매 되지 않습니다. 
   
 ## <a name="rights-of-guests"></a>게스트 권한
 
@@ -51,11 +51,11 @@ SharePoint에 액세스 하려면 조직의 사용자에 게 SharePoint를 포�
 
 ## <a name="onedrive"></a>OneDrive
 
-Microsoft 365의 OneDrive는 조직 내의 개별 사용자에 대 한 온라인 저장소입니다. 사용자가 간편 하 고 보안을 사용 하 여 여러 장치에서 작업 파일을 저장, 동기화 및 공유할 수 있는 위치입니다. OneDrive는 SharePoint에 포함 되어 있으며 독립 실행형 계획으로 구입할 수도 있습니다. 각 요금제에 제공 되는 OneDrive 저장소의 양에 대해 알아보려면 [Onedrive 서비스 설명을](../onedrive-for-business-service-description.md)참조 하세요.
+Microsoft 365의 OneDrive는 조직 내의 개별 사용자에 대 한 온라인 저장소입니다. 사용자가 간편 하 고 보안을 사용 하 여 여러 장치에서 작업 파일을 저장, 동기화 및 공유할 수 있는 위치입니다. OneDrive는 SharePoint에 포함 되어 있으며 독립 실행형 계획으로 구입할 수도 있습니다. 각 요금제에 제공 되는 OneDrive 저장소의 양에 대해 알아보려면 [onedrive 서비스 설명을](../onedrive-for-business-service-description.md)참조 하세요.
 
 ## <a name="apps"></a>앱
 
-컴퓨터에서 SharePoint 파일을 동기화 하기 위해 사용자는 Windows 또는 Mac 용 [OneDrive 동기화 앱](https://onedrive.live.com/about/download/) 을 사용할 수 있습니다. 동기화 앱의 기능 가용성에 대 한 자세한 내용은 [OneDrive 서비스 설명을](/office365/servicedescriptions/onedrive-for-business-service-description)참조 하세요. 
+컴퓨터에서 SharePoint 파일을 동기화 하기 위해 사용자는 Windows 또는 Mac 용 [OneDrive 동기화 앱](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) 을 사용할 수 있습니다. 동기화 앱의 기능 가용성에 대 한 자세한 내용은 [OneDrive 서비스 설명을](/office365/servicedescriptions/onedrive-for-business-service-description)참조 하세요. 
 
 모바일 장치에서 SharePoint 사이트에 대 한 작업을 수행 하려면 [iOS, Android 또는 Windows 용 sharepoint 모바일 앱을 설치할](https://products.office.com/sharepoint/mobile-app)수 있습니다. 
   
@@ -109,7 +109,7 @@ Microsoft Graph의 가용성에 대 한 자세한 내용은 [microsoft 365 및 O
 - [사이트 거 버 넌 스](/sharepoint/governance-overview) 
 - [용어 저장소 관리 메타 데이터](/sharepoint/managed-metadata)
 
-FastTrack 마이그레이션 서비스를 사용 하는 방법에 대 한 자세한 내용은 [Microsoft 365에 대 한 Fasttrack 센터 혜택](/fasttrack/m365-eligible-services-and-plans)을 참조 하세요. 
+FastTrack 마이그레이션 서비스의 가용성에 대 한 자세한 내용은 [적합 한 서비스 및 계획](/fasttrack/m365-eligible-services-and-plans)을 참조 하세요. 
 
 공유와 관련 된 기능에 대 한 자세한 내용은 [OneDrive 서비스 설명을](/office365/servicedescriptions/onedrive-for-business-service-description)참조 하세요.
 
@@ -143,7 +143,7 @@ SharePoint는 Microsoft 365의 고급 보안 및 규정 준수 기능과 통합 
 
 [Azure Information protection](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection)에 대 한 자세한 내용은 [azure information protection에 대 한 요구 사항](/azure/information-protection/requirements) 를 참조 하세요.
 
-고객 키의 가용성에 대 한 자세한 내용은 [How To Customer key license?](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed)를 참조 하세요. 
+고객 키의 가용성에 대 한 자세한 내용은 [고객 키를 사용한 서비스 암호화](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed)를 참조 하세요. 
 
 
 
@@ -179,8 +179,8 @@ SharePoint는 Microsoft 365의 고급 보안 및 규정 준수 기능과 통합 
 - [사이트: 통신 사이트](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
 - [사이트: 홈 사이트](/sharepoint/home-site)
 - [사이트: 허브 사이트](/sharepoint/planning-hub-sites)
-- 사이트: 최신 팀 사이트 (Office 365 그룹 없음)
-- [사이트: Office 365 그룹-연결 된 팀 사이트](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e) Office 365이 포함 된 구독이 필요 합니다.
+- 사이트: 최신 팀 사이트 (Microsoft 365 그룹 없음)
+- [사이트: Microsoft 365 그룹-연결 된 팀 사이트](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e) Office 365이 포함 된 구독이 필요 합니다.
 - [사이트: 루트 사이트](/sharepoint/modern-root-site)
 - [팀 OneNote 전자 필기장](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
 - [테마 (모양 변경)](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)

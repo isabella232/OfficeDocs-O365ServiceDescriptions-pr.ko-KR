@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Web for office를 사용 하면 거의 모든 장치에서 인터넷에 연결 하 여 어디서 나 Office 파일을 보다 쉽게 작업 하 고 공유할 수 있습니다. Microsoft 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: 12130b5aaa77a3e84748a9e60e3864559a21b4e3
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 447ea8b31424f1c37ecd5a76ee60014d94df9f26
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640136"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213990"
 ---
 # <a name="office-for-the-web-service-description"></a>웹용 Office 서비스 설명
 
 Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Web for office를 사용 하면 거의 모든 장치에서 인터넷에 연결 하 여 어디서 나 Office 파일을 보다 쉽게 작업 하 고 공유할 수 있습니다. Microsoft 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다. 
   
-계획 간에 기능을 비교 하려면 [Microsoft 365 for 비즈니스 요금제 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)를 참조 하세요.
+계획 간에 기능을 비교 하려면 [엔터프라이즈를 지원 하기 위한 강력한 도구](https://products.office.com/business/compare-more-office-365-for-business-plans)를 참조 하세요.
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>웹 계획에 대 한 Office에서의 기능 가용성
 

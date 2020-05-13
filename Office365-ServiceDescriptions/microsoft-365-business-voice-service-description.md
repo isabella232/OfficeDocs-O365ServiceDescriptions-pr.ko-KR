@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice는 전화 통화를 위해 Microsoft 팀을 사용할 수 있는 추가 기능 서비스입니다. 전화 시스템, 국내 통화 계획, SMS 및 오디오 회의를 결합 한 것입니다.
-ms.openlocfilehash: f1a5c61d1517e8c08f8972567d6f5054b0dd1cfe
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7cf636b962f9f97b8b2b73466622494bb54f3a07
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640156"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213970"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business 음성 서비스 설명
 
@@ -28,11 +28,11 @@ Microsoft 365 Business Voice는 통화 대기, 착신 전환, 자동 전화 교�
 Microsoft 365 비즈니스 음성은 최대 300의 라이선스가 있는 다음과 같은 중소 규모의 비즈니스 구독에서 사용할 수 있습니다.
 
 - [Microsoft 365 Business Basic](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Microsoft 365 비즈니스 표준](office-365-platform-service-description/office-365-platform-service-description.md)
+- [Microsoft 365 Business Standard](office-365-platform-service-description/office-365-platform-service-description.md)
 - [Microsoft 365 Business Premium](microsoft-365-business-service-description.md)
 - [Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e1-business-software?activetab=pivot%3aoverviewtab)
 - [Office 365 E3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e3-business-software?activetab=pivot%3aoverviewtab)
-- [Office 365 F1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
+- [Office 365 F3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
 - [Microsoft 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
 - [Microsoft 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
 
@@ -63,4 +63,4 @@ Microsoft 365 비즈니스 음성은 최대 300의 라이선스가 있는 다음
 | 국제 통화 플랜\*                           | 예                              | 아니요                                                    |
 | 오디오 회의                                     | 예                              | 예                                                   |
  
-\*무료 전화 걸기 및 국제 통화 요금제는 [통신 제작진](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)을 사용 하 여 추가 비용으로 제공 됩니다. 자세한 내용은 무료 [전화 걸기](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) 및 [국제 통화 속도](https://products.office.com/microsoft-teams/online-meeting-solutions#Rates)를 참조 하세요.
+\*무료 전화 걸기 및 국제 통화 요금제는 [통신 제작진](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)을 사용 하 여 추가 비용으로 제공 됩니다. 자세한 내용은 무료 [전화 걸기](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) 및 [국제 통화 속도](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)를 참조 하세요.

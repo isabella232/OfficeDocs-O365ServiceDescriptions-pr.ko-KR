@@ -12,16 +12,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: ae21a804059510c777d5ef0991c3158b9142ce50
-ms.sourcegitcommit: c37c418e0965962a87426ce1246a1081c04bde88
+ms.openlocfilehash: c3521baf89ddcdc442a7dcd461c5de15f2a2d48e
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44090141"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214020"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
-이 문서를 사용 하는 경우 테 넌 트 수준 서비스는 테 넌 트의&mdash;모든 사용자에 대해 구매한 경우 (독립 실행형 또는 Office 365 또는 Microsoft 365 요금제의 일부로)&mdash;이 테 넌 트의 모든 사용자에 대해 전체에서 정품 인증을 받아야 하는 온라인 서비스입니다. 일부 허가 되지 않은 사용자는 기술적으로 서비스에 액세스할 수 있지만,이 경우 서비스에서 혜택을 받으려는 모든 사용자에 게 라이선스가 필요 합니다.
+이 문서를 사용 하는 경우 테 넌 트 수준 서비스는 테 넌 트 &mdash; 의 모든 사용자에 대해 구매한 경우 (독립 실행형 또는 Office 365 또는 Microsoft 365 요금제의 일부로)이 테 넌 &mdash; 트의 모든 사용자에 대해 전체에서 정품 인증을 받아야 하는 온라인 서비스입니다. 일부 허가 되지 않은 사용자는 기술적으로 서비스에 액세스할 수 있지만,이 경우 서비스에서 혜택을 받으려는 모든 사용자에 게 라이선스가 필요 합니다.
 
 > [!NOTE]
 > 일부 테 넌 트 서비스가 현재 특정 사용자에 대 한 혜택을 제한할 수 없습니다. 사용이 허가 된 사용자에 대 한 서비스 혜택을 제한 하기 위해 노력을 기울여야 합니다. 이렇게 하면 사용 가능한 기능을 사용할 수 있게 되 면 조직에 대 한 잠재적 서비스 중단을 방지 하기 위해 도움이 됩니다.
@@ -96,7 +96,7 @@ ATP 범위를 적용 하려면 안전한 링크 및 안전한 첨부 파일 배�
 
 Office 365 Cloud App Security (OCAS)는 Office 365로 제한 되는 기능과 타사 클라우드 앱 및 IaaS 서비스에 대 한 추가 보안을 사용 하지 않고 Microsoft Cloud App Security의 하위 집합입니다.
 
-OCAS 조직이 생산성 클라우드 앱 및 서비스를 확인할 수 있도록 하 고, 사이버 위협을 식별 하 고 해결 하는 정교한 분석을 제공 하며, Office&mdash;365에서 데이터를 전송 하는 방법을 제어할 수 있습니다.
+OCAS 조직이 생산성 클라우드 앱 및 서비스를 확인할 수 있도록 하 고, 사이버 위협을 식별 하 고 해결 하는 정교한 분석을 제공 하며, Office 365에서 데이터를 전송 하는 방법을 제어할 수 있습니다 &mdash; .
 
 기능을 비교 하려면 [Microsoft Cloud App security 및 Office 365 Cloud App security의 차이점](https://docs.microsoft.com/cloud-app-security/editions-cloud-app-security-o365)을 참조 하세요.
 
@@ -121,7 +121,7 @@ Office 365 E5/A5/G5 사용자가 OCAS의 혜택을 받을 수 있는 권한을 �
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-Microsoft Cloud App Security (MCAS)는 조직에 클라우드 앱 및 서비스를 표시 하는 방법을 제공 하는 사이버 (Cloud Access Security Broker) 솔루션으로, 복잡 한 분석을 제공 하 여 모든 클라우드 앱&mdash;에서 데이터를 전송 하는 방법을 제어할 수 있도록 합니다.
+Microsoft Cloud App Security (MCAS)는 조직에 클라우드 앱 및 서비스를 표시 하는 방법을 제공 하는 사이버 (Cloud Access Security Broker) 솔루션으로, 복잡 한 분석을 제공 하 여 모든 클라우드 앱에서 데이터를 전송 하는 방법을 제어할 수 있도록 &mdash; 합니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -352,7 +352,7 @@ Microsoft 365 A1/E3/A3/Business, Office 365 E3/A3 및 Office 365 데이터 손�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
-관리자는 보안 & 준수 센터의 **데이터 손실 방지** > **위치**에서 위치 (작업), 포함 된 사용자 및 제외 된 사용자를 사용자 지정할 수 있습니다.
+관리자는 보안 & 준수 센터의 **데이터 손실 방지**위치에서 위치 (작업), 포함 된 사용자 및 제외 된 사용자를 사용자 지정할 수 있습니다  >  **Locations**.
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>팀에 대 한 통신 데이터 손실 방지
 
@@ -372,7 +372,7 @@ Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365, 정보 보호 및 관리 �
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
-관리자는 보안 & 준수 센터의 **데이터 손실 방지** > **위치**에서 위치 (작업), 포함 된 사용자 및 제외 된 사용자를 사용자 지정할 수 있습니다.
+관리자는 보안 & 준수 센터의 **데이터 손실 방지**위치에서 위치 (작업), 포함 된 사용자 및 제외 된 사용자를 사용자 지정할 수 있습니다  >  **Locations**.
 
 ## <a name="information-barriers"></a>정보 장벽
 
@@ -417,7 +417,7 @@ Microsoft 365 E3/A3, Office 365 E3/A3 및 Azure Information Protection 계획 1 
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
-관리자 **메일 흐름** > **규칙**아래의 Exchange 관리 센터에서 Office 365 메시지 암호화 정책을 만들고 관리 합니다. 기본적으로이 규칙은 테 넌 트의 모든 사용자에 게 적용 됩니다. 새 Office 365 메시지 암호화 기능을 설정 하는 방법에 대 한 자세한 내용은 [Set Up office 365 Message encryption capabilities](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)를 참조 하십시오.
+관리자 **메일 흐름**규칙 아래의 Exchange 관리 센터에서 Office 365 메시지 암호화 정책을 만들고 관리  >  **Rules**합니다. 기본적으로이 규칙은 테 넌 트의 모든 사용자에 게 적용 됩니다. 새 Office 365 메시지 암호화 기능을 설정 하는 방법에 대 한 자세한 내용은 [Set Up office 365 Message encryption capabilities](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)를 참조 하십시오.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
@@ -514,7 +514,7 @@ Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Microsoft 36
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-Microsoft 365 서비스의 사용자 작업과 관련 된 감사 레코드를 최대 1 년까지 보유할 수 있으므로 고급 감사의 사용자에 게는 장점이 있습니다. 또한 높은 값 감사 이벤트는 사용자 사서함의 항목에 액세스 하거나 읽을 때와 같이 기록 됩니다. 자세한 내용은 [높은 값 감사 이벤트](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit#high-value-audit-events)를 참조 하십시오.
+Microsoft 365 서비스의 사용자 작업과 관련 된 감사 레코드를 최대 1 년까지 보유할 수 있으므로 고급 감사의 사용자에 게는 장점이 있습니다. 또한 높은 값 감사 이벤트는 사용자 사서함의 항목에 액세스 하거나 읽을 때와 같이 기록 됩니다. 자세한 내용은 [Microsoft 365의 고급 감사](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)를 참조 하세요.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 

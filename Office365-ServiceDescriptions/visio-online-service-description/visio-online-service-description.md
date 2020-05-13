@@ -1,5 +1,5 @@
 ---
-title: 웹 서비스 설명에 대 한 Visio
+title: 웹용 Visio 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,20 +10,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: 웹에서 Visio를 사용 하 여 웹에서 Visio 다이어그램을 보고, 편집 하 고, 공유할 수 있습니다.
-ms.openlocfilehash: 808130302fe027f65d3e6c1bae7b445a6f0ceae9
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 40f35b0201dc845509250a36eef8b8f5f8b47046
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263231"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213657"
 ---
-# <a name="visio-for-the-web-service-description"></a>웹 서비스 설명에 대 한 Visio
+# <a name="visio-for-the-web-service-description"></a>웹용 Visio 서비스 설명
 
 웹에서 Visio를 사용 하 여 웹에서 Visio 다이어그램을 보고, 편집 하 고, 공유할 수 있습니다. 기본 다이어그램으로 시작 하 여 계획 설명, 제안 만들기 또는 프로세스의 단계 순서 설명 같은 일반적인 아이디어를 표현 합니다. 일반적으로 사용 되는 다이어그램 유형과 다양 한 셰이프 집합을 사용 하 여 첫 번째 클래스 다이어그램을 간단 하 고 간편 하 게 만들 수 있습니다. 웹 사용자의 Visio는 다이어그램을 공유 하 고 SharePoint Online 또는 비즈니스용 OneDrive Online에 업로드 한 파일에 설명을 삽입 하 여 보고 공동 작업을 수행할 수 있습니다.
   
-자세한 내용을 보고 시작 하려면 [Visio for the web](https://products.office.com/en-US/visio/visio-online)를 참조 하세요.
+자세한 내용을 보고 시작 하려면 [Visio 요금제 1](https://products.office.com/en-US/visio/visio-online)을 참조 하십시오.
   
-웹에서 Visio를 사용 하는 경우 도움말은 [visio help center](https://support.office.com/visio)를 참조 하십시오.
+웹에서 Visio를 사용할 때 도움이 필요한 경우 [visio 도움말 & 학습](https://support.office.com/visio)을 참조 하십시오.
   
 ## <a name="feature-availability-and-comparison"></a>기능 가용성 및 비교
 
