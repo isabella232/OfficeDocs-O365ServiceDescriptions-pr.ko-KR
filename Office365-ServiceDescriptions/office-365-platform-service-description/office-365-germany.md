@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와 차별화 된 옵션입니다. 이를 통해 독일에서 업계 최고의 생산성 서비스를 제공 하는 스페인어 (유럽 연합) 및 상주 (유럽 자유 무역 협회)의 디지털 작업에 대 한 요구 사항을 해결 하는 데 도움이 되 고 독일어 데이터를 사용 하 여 독일 및 엄격한 데이터 액세스 및 제어 조치를 수행 합니다.
-ms.openlocfilehash: cdac821da552186f6ac2c82740b0acd0c7819311
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f9d28a459885da3e5101143c6940dc6d641452e2
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639816"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226267"
 ---
-# <a name="office-365-germany"></a>Office 365 독일
+# <a name="office-365-germany"></a>Office 365 Germany
 
 Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와 차별화 된 옵션입니다. 이를 통해 독일에서 업계 최고의 생산성 서비스를 제공 하는 스페인어 (유럽 연합) 및 상주 (유럽 자유 무역 협회)의 디지털 작업에 대 한 요구 사항을 해결 하는 데 도움이 되 고 독일어 데이터를 사용 하 여 독일 및 엄격한 데이터 액세스 및 제어 조치를 수행 합니다.
 
@@ -55,9 +55,9 @@ Deutsche Telekom의 독립적인 독일 회사이자 자회사인 T-Systems Inte
 
 Office 365에 대한 시스템 요구 사항을 보려면 [office.com](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 제품 사이트에서 [Office에 대한 시스템 요구 사항](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)을 참조하세요.
 
-## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Office &amp; 365 독일의 보안 및 준수 센터 가용성
+## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>&amp;Office 365 독일의 보안 및 준수 센터 가용성
 
-보안 &amp; 및 준수 센터는 Office 365 독일에서 사용할 수 있습니다. 자세한 내용과 기능 목록에 대 한 자세한 내용은 [Office 365 보안 &amp; 및 준수 센터](office-365-securitycompliance-center.md)를 참조 하세요.
+보안 및 &amp; 준수 센터는 Office 365 독일에서 사용할 수 있습니다. 자세한 내용과 기능 목록에 대 한 자세한 내용은 [Office 365 보안 및 &amp; 준수 센터](office-365-securitycompliance-center.md)를 참조 하세요.
 
 ### <a name="what-compliance-certificates-are-provided-for-office-365-germany"></a>Office 365 독일에 제공 되는 준수 인증서는 무엇입니까?
 
@@ -462,7 +462,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 <sup>6</sup> eDiscovery의 경우 온-프레미스 및 클라우드에 대해 별도의 쿼리가 필요 합니다.<br/>
 <sup>7</sup> 메일 흐름 규칙 (전송 규칙이 라고도 함)은 다양 한 조건으로 구성 되므로 조건에 따라 수행할 조건, 예외 및 작업을 정의할 수 있습니다. 사용 가능한 조건, 예외 및 작업은 Exchange Online과 Microsoft Exchange Server의 서로 다릅니다. 자세한 내용은 각 제품에 해당 하는 항목을 참조 하십시오.<br/>
 <sup>8</sup> EAC (Exchange 관리 센터) 관리 인터페이스에 직접 액세스 하는 방법 으로만 액세스할 수 있습니다. <br/>
-<sup>9</sup> Exchange 서버 2013은 Microsoft 맬웨어 방지 엔진도 사용 합니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다. <br/> <sup>10</sup> 연결 된 계정은 POP &amp; IMAP 계정에 대해서는 지원 되지만 Outlook.com (Hotmail)에는 사용할 수 없습니다. <br/>
+<sup>9</sup> Exchange 서버 2013은 Microsoft 맬웨어 방지 엔진도 사용 합니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다. <br/> <sup>10</sup> 연결 된 계정은 POP IMAP 계정에 대해서는 지원 &amp; 되지만 Outlook.com (Hotmail)에는 사용할 수 없습니다. <br/>
 <sup>11</sup> 비활성 사서함 기능이 필요한 각 사서함에 대해 eoa 구독을 별도로 구입할 수 있습니다. <br/>
 <sup>12</sup> cmdlet을 사용 하 여 주소 목록 및 전체 주소 목록으로 작업할 수 없습니다. <br/>
 <sup>13</sup> 다른 테 넌 트와의 공유를 지원 하기 위해 가용성 주소 공간을 사용 해야 합니다. 가용성 주소 공간을 만드는 방법에 대 한 자세한 내용은 [Add-add-availabilityaddressspace](https://docs.microsoft.com/powershell/module/exchange/sharing-and-collaboration/Add-AvailabilityAddressSpace?view=exchange-ps)를 참조 하십시오. <br/> <sup>14</sup> 테이블은 클라이언트가 관련 요금제와 함께 작동 하는지 여부를 나타냅니다. 이러한 계획 구매에 클라이언트가 반드시 포함되어야 하는 것을 의미하지는 않습니다.<br/>
@@ -495,7 +495,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[격리](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): 최종 사용자 자기 관리|예|예|예|
 |[고급 데이터 관리](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|아니요|예|예|
 |[Office 365 위협 인텔리전스](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)<sup>18</sup>|아니요|예|예|
-|[웹용 Outlook에서 정크 메일 보고](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|예<sup>8</sup>|<sup>8</sup>|<sup>8</sup>|
+|[웹용 Outlook에서 정크 메일 보고](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|예<sup>8</sup>|<sup>8</sup>|<sup>8</sup>|
 |[Microsoft와 자체 전자 메일 서버 간의 전자 메일 라우팅](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|예|예|예|
 |[신뢰할 수 있는 파트너와의 보안 메시징](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|예|예|예|
 |[수신 허용 목록에 파트너의 IP 주소 추가](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|예|예|예|

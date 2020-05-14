@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영 하는 Office 365는 중국의 안전 하 고 안정적 이며 확장 가능한 클라우드 서비스에 대 한 요구를 충족 하도록 설계 되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: 894087ac6d25bf64d36f6a047239072ec2897a18
-ms.sourcegitcommit: dc3ce02268eeeb6de29e61276b5572e0633940bf
+ms.openlocfilehash: df10728ec4e195fb69bb9140fa5da968a5ed2ac1
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43800624"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226257"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -63,7 +63,7 @@ Microsoft에서는 이 서비스 자체를 운영하지 않습니다. 21Vianet�
 
 Office 365에 대한 시스템 요구 사항을 보려면 [office.com](https://products.office.com/office-system-requirements/#Office365forBEG) 제품 사이트에서 [Office에 대한 시스템 요구 사항](https://www.office.com)을 참조하세요.
 
-## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>21Vianet &amp; 에서 운영 하는 Office 365의 보안 및 준수 센터 가용성
+## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>&amp;21vianet에서 운영 하는 Office 365의 보안 및 준수 센터 가용성
 
 The Office 365 Security &amp; Compliance Center is not available in any plans for Office 365 operated by 21Vianet.
 
@@ -96,7 +96,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Office Delve|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Office 365 그룹|예|아니오|있음|예|예|예|예|
 |Office 365 비디오|아니요|아니요|아니요|있음|예|예|예<sup>2</sup>|
-|OneNote 수업용 전자 필기장|아니요|아니요|아니요|예<sup>15<sup>|아니요|아니요|아니요|
+|OneNote 수업용 전자 필기장|아니요|아니요|아니요|예 <sup> 15<sup>|아니요|아니요|아니요|
 |**[사용자 계정 mManagement](user-account-management.md)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F3**|
 |클라우드 id, 페더레이션 id 또는 다단계 인증<sup>14</sup>|예|예|예|예|예|예|예|
 |Office 365 데스크톱 설정|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -430,7 +430,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>10</sup> 하이브리드 구성 마법사는 EXCHANGE 2013 CU5 및 더 많은 온-프레미스 배포에 사용할 수 있습니다. 그러나 일부 하이브리드 기능에는 다음과 같은 제한 사항이 있습니다. 자세한 내용은 [21vianet에서 운영 하는 Office 365](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet)을 참조 하십시오.
 <br/><sup>11</sup> 21vianet에서 운영 하는 Office 365의 경우 LinkedIn을 사용할 수 있으 나 Facebook이 아닙니다.
 <br/><sup>12</sup> 하이브리드 배포 설정은 EXCHANGE 2013 CU5 용 하이브리드 구성 마법사를 통해 제공 되거나, exchange 2013 s p 1이 있는 경우에는 수동으로 설정할 수 있습니다. 자세한 내용은 도움말 항목 [365](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet)을 참조 하십시오.
-<br/><sup>13</sup> 연결 된 계정은 POP &amp; IMAP 계정에 대해서는 지원 되지만 Outlook.com (Hotmail)에는 사용할 수 없습니다.
+<br/><sup>13</sup> 연결 된 계정은 POP IMAP 계정에 대해서는 지원 &amp; 되지만 Outlook.com (Hotmail)에는 사용할 수 없습니다.
 <br/><sup>14</sup> cmdlet을 사용 하 여 주소 목록 및 전체 주소 목록으로 작업할 수 없습니다.
 <br/><sup>15</sup> 현재 Office 365 메시지 암호화 (OME) 기능은 현재 IRM (정보 권한 관리) 및 이전 OME 솔루션의 발전 과정입니다. OME에 대 한 자세한 내용은 [Office 365 메시지 암호화 FAQ](https://docs.microsoft.com/microsoft-365/compliance/ome-faq)를 참조 하세요.
 
@@ -491,8 +491,8 @@ Exchange Online 한도에 대한 자세한 내용은 다음 항목을 참조하�
 |[맬웨어 방지 정책 사용자 지정](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|예|예|
 |[격리](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): 관리자 관리|예|예|
 |[격리](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): 최종 사용자 자기 관리|예|예|
-|[Outlook 용 보고서 메시지 추가 기능](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|예|예|
-|[웹용 Outlook에서 정크 메일 보고](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|<sup>7</sup> 없음|<sup>7</sup> 없음|
+|[Outlook 용 보고서 메시지 추가 기능](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|예|예|
+|[웹용 Outlook에서 정크 메일 보고](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|<sup>7</sup> 없음|<sup>7</sup> 없음|
 |[Microsoft와 자체 전자 메일 서버 간의 전자 메일 라우팅](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|예|예|
 |[신뢰할 수 있는 파트너와의 보안 메시징](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|예|예|
 |[수신 허용 목록에 파트너의 IP 주소 추가](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|예|예|

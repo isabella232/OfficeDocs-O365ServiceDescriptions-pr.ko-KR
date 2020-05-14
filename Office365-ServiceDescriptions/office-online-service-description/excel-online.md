@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Web for excel (이전의 Excel Web App)은 Microsoft Excel 환경을 웹 브라우저로 확장 하 여 통합 문서가 저장 된 웹 사이트에서 통합 문서를 직접 사용할 수 있습니다. 모든 고객은 웹에서 Office를 사용 하 여 Office 파일을 보고 가볍게 편집할 수 있습니다.
-ms.openlocfilehash: 016df373aca64369cbde5e60f0b5d08111177913
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4866506af511200607786bc8188634c8b3139dff
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639886"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226227"
 ---
 # <a name="excel-for-the-web"></a>웹용 Excel
 
@@ -90,7 +90,7 @@ Excel 차트 및 테이블을 사용하여 더욱 간편하게 데이터 서식�
 
 ## <a name="check-spelling"></a>맞춤법 검사
 
-워크시트의 텍스트에 대 한 맞춤법을 검사 하려면**언어 교정** > **맞춤법** **검토** > 를 선택 합니다. 자세한 내용은 [맞춤법 검사](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159)를 참고 하세요.
+워크시트의 텍스트에 대 한 맞춤법을 검사 하려면 **Review**  >  **언어 교정**  >  **맞춤법**검토를 선택 합니다. 자세한 내용은 [맞춤법 검사](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159)를 참고 하세요.
 
 ## <a name="comment-creation"></a>Comment creation
 
@@ -102,7 +102,7 @@ Excel 표를 만든 후 표 기능 없이만 표 스타일을 사용 하는 것�
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-텍스트, 하이퍼링크, 숫자, 수식, 도형, 차트 및 이미지를 잘라내고 복사 하 고 붙여넣을 수 있습니다. 행에 데이터를 다시 정렬 하기 위해 회전 해야 하는 열에 데이터가 있는 경우 **붙여넣기** 메뉴에서 줄 **바꿈** 기능을 사용 합니다. 자세한 내용은 [Excel에서 복사 하 여 붙여넣기](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline)에 대 한 자세한 내용을 확인 하세요.
+텍스트, 하이퍼링크, 숫자, 수식, 도형, 차트 및 이미지를 잘라내고 복사 하 고 붙여넣을 수 있습니다. 열에 데이터가 있는 경우 행의 다시 정렬로 회전 해야 하는 경우에는 **붙여넣기** 메뉴에서 줄 **바꿈** 기능을 사용 합니다. 자세한 내용은 [Excel에서 복사 하 여 붙여넣기](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline)에 대 한 자세한 내용을 확인 하세요. Edge 또는 Chrome을 브라우저로 사용 하는 경우 다른 앱에서 하이퍼링크를 복사 하 여 웹으로 Excel에 붙여넣을 수 있습니다. 붙여 넣은 하이퍼링크가 정상적으로 작동 합니다.
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -110,7 +110,7 @@ Excel을 사용 하 여 데이터 연결을 볼 수는 있지만 Excel을 사용
   
 ## <a name="create-tables"></a>테이블 만들기
 
-테이블을 만들어서 관련 데이터를 구성하고 분석합니다. 테이블을 사용하면 데이터를 간편하게 정렬, 필터링 및 서식 지정할 수 있습니다. 
+테이블을 만들어서 관련 데이터를 구성하고 분석합니다. 테이블을 사용하면 데이터를 간편하게 정렬, 필터링 및 서식 지정할 수 있습니다. 스타일 갤러리를 포함 하 여 [표 서식 옵션](https://support.office.com/article/format-an-excel-table-6789619f-c889-495c-99c2-2f971c0e2370)을 사용 하 여 일부 폴란드어를 추가 합니다.
   
 ## <a name="creation-of-advanced-analysis-views-power-view-power-pivot-slicers"></a>고급 분석 보기 만들기(Power View, Power Pivot, 슬라이서)
 
@@ -162,7 +162,7 @@ Excel 통합 문서를 OneDrive.com에 저장한 경우 블로그나 웹 사이�
   
 ## <a name="formula-tools-advanced"></a>수식 도구, 고급
 
-Microsoft Excel 데스크톱 앱에서는 3D 참조 스타일 및 배열 수식과 같은 최고급 수식 도구를 지원합니다. 웹의 excel에서는 가장 기본적인 Excel 수식만 지원 됩니다. 자세한 내용은 [수식](https://go.microsoft.com/fwlink/p/?LinkId=271665)을 참조하세요.
+Microsoft Excel 데스크톱 앱에서는 3D 참조 스타일과 같은 가장 고급 수식 도구를 제공 합니다. Web 용 Excel에서는 [동적 배열 수식과](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)같은 점점 더 많은 고급 Excel 수식을 지원 합니다. 자세한 내용은 [수식](https://support.office.com/article/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173?ocmsassetID=HA102748997&CTT=1&CorrelationId=1baa4c77-693e-4503-a2c5-b66a8b40dd40&ui=en-US&rs=en-US&ad=US)을 참조하세요.
   
 ## <a name="freeze-panes"></a>Freeze panes
 
@@ -174,7 +174,7 @@ Microsoft Excel 데스크톱 앱에서는 3D 참조 스타일 및 배열 수식�
   
 ## <a name="functions"></a>함수
 
-Excel에서 웹에 대 한 수식에서 400 개 보다 많은 Excel의 워크시트 함수를 사용할 수 있습니다.
+[FILTER 함수](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)등의 [동적 배열 수식](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)에 사용 되는 함수를 포함 하 여 웹에서 excel의 수식에서 400 개 이상의 excel 워크시트 함수를 사용할 수 있습니다.
   
 ## <a name="goto"></a>GoTo
 
@@ -207,6 +207,10 @@ Excel의 아이디어는 높은 수준의 시각적 요약, 추세 및 패턴을
 ## <a name="insert-shapes"></a>셰이프 삽입
 
 웹 스프레드시트에 대 한 Excel에 상자, 원, 선, 연결선, 화살표 등의 도형을 추가 하 고 서식을 지정 합니다. 자세한 내용은 [셰이프 추가](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)를 참고 하십시오.
+
+## <a name="keyboard-shortcuts"></a>바로 가기 키
+
+바로 가기 키 설정을 변경 하 여 바탕 화면 및 웹 버전의 Excel 에서도 동일 하 게 작동 되도록 키보드 바로 가기를 제어할 수 있습니다 &mdash; . **바로**  >  **가기 키**를 선택 하기만 하면 됩니다. "
   
 ## <a name="merge-cells"></a>Merge cells
 
@@ -283,6 +287,10 @@ Excel에서 웹을 사용할 수 없습니다. Excel 데스크톱 앱이 컴퓨�
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 
 통합 문서의 복사본이 필요할 수 있습니다. 파일 탭에서 다른 이름으로 저장 명령을 사용하거나, 폴더에서 통합 문서 이름을 마우스 오른쪽 단추로 클릭하고 다운로드 명령을 사용하여 복사본을 컴퓨터로 보냅니다.
+
+## <a name="sensitivity-labels"></a>민감도 레이블
+
+레이블을 수동으로 적용 하거나 Microsoft의 자동으로 권장 되는 레이블을 사용 하 여 문서의 액세스 및 민감도를 제어할 관리 합니다.
   
 ## <a name="share"></a>공유
 
@@ -291,14 +299,18 @@ Excel에서 웹을 사용할 수 없습니다. Excel 데스크톱 앱이 컴퓨�
 ## <a name="sheet-protection"></a>시트 보호
 
 Excel 파일을 다른 사용자와 공유할 경우 워크시트가 변경되지 않도록 보호하고 워크시트 사용자가 수행할 수 있는 작업을 선택할 수 있습니다.
-  
-## <a name="slicer-viewing"></a>슬라이서 보기
 
-워크시트에서 슬라이서를 보고 슬라이서 단추를 선택 하 여 데이터를 필터링 합니다. 웹의 Excel에서는 슬라이서를 만들거나 편집할 수 없습니다.
+## <a name="sheet-views"></a>시트 보기
+
+[시트 보기](https://support.microsoft.com/office/sheet-views-in-excel-0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6) 에서는 Excel 워크시트의 사용자 지정 된 보기를 다른 사용자가 중단 하지 않고 만들 수 있습니다. 예를 들어 사용자에 게 중요 한 레코드만 표시 하도록 필터를 설정 하 여 문서의 다른 정렬 및 필터링에 영향을 주지 않습니다. 같은 워크시트에 여러 시트 보기를 설정할 수도 있습니다.
+  
+## <a name="slicers"></a>슬라이서
+
+워크시트에서 슬라이서를 보고 슬라이서 단추를 선택 하 여 데이터를 필터링 합니다. Excel에서 웹에 대 한 슬라이서를 만들거나 편집할 수는 없지만 기존 슬라이서를 삭제할 수는 있습니다.
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-웹의 Excel에서는 모든 워크시트를 보고 순서를 변경 하 고, 데이터를 정렬 및 필터링 하 고, 위쪽에서 아래쪽 또는 왼쪽에서 오른쪽으로, 여러 단계를 진행 하 고, 피벗 테이블의 세부 정보를 볼 수 있습니다. 자세한 내용은 [데이터 정렬 및 필터링을](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web)참고 하세요.
+웹의 Excel에서는 모든 워크시트를 보고 순서를 변경 하 고, 데이터를 정렬 및 필터링 하 고, 위쪽에서 아래쪽 또는 왼쪽에서 오른쪽으로, 여러 단계를 진행 하 고, 피벗 테이블의 세부 정보를 볼 수 있습니다. 아이콘이 나 색 값을 사용 하 여 조건부로 서식이 지정 된 데이터를 정렬 하거나 아이콘 집합 또는 색 배율을 사용 합니다. 자세한 내용은 [데이터 정렬 및 필터링을](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web)참고 하세요.
   
 ## <a name="spreadsheet-audit-and-compliance"></a>스프레드시트 감사 및 준수
 
@@ -339,6 +351,10 @@ Microsoft Excel 데스크톱 앱은 데이터를 조작, 분석 및 제공하는
 ## <a name="what-if-analysis-tools"></a>What if analysis tools
 
 Excel에서 웹을 사용할 수 없습니다. Excel에서 웹에 대 한 "What if" 분석 결과를 예상 대로 볼 수 있습니다. 목표값 찾기, 데이터 테이블, 문제 해결 및 시리즈와 같은 분석 도구를 사용하려면 Excel 데스크톱 앱이 필요합니다. 자세한 내용은 [브라우저와 Excel 데스크톱 앱 간의 통합 문서 사용 차이점](https://go.microsoft.com/fwlink/p/?LinkId=273900)을 참조하세요.
+
+## <a name="workbook-statistics"></a>통합 문서 통계
+
+통합 문서 통계 기능은 통합 문서의 요소를 계산 하 고 식별 하 여 모든 콘텐츠를 검색 하는 데 도움을 줍니다. **검토** 탭에서 찾을 수 있습니다.
   
 ## <a name="feature-availability"></a>기능 가용성
 

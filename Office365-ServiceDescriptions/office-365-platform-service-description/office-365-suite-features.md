@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열 된 기능은 많은 장치 및 여러 Office 365 서비스에서 안전 하 게 공동 작업 하 고 통신 하는 데 사용할 수 있는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: b91260202bb65287061c54e94380156cf7f19123
-ms.sourcegitcommit: 95b146eb31f1052422822be24509223ac9f94ea1
+ms.openlocfilehash: f9887a0d2b408a5b9faed0f322ea1b71ff642217
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022838"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226197"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 제품군 기능
 
@@ -27,7 +27,7 @@ ms.locfileid: "44022838"
 
 Microsoft 예약은 고객에 게 약속 단위로 서비스를 제공 하려는 비즈니스용 온라인 및 모바일 앱입니다. 이러한 기업의 예로는 헤어 미용실,, spas, 법률 기업, 금융 서비스 공급자, 컨설턴트, 의료 practitioners, 교육 기관 및 자동 상점 등이 있습니다. Microsoft 예약은 Microsoft 365 for business 구독을 보유 하 고 있는 미국 및 캐나다의 고객에 게 제공 됩니다.
   
-Microsoft 예약에 대 한 자세한 내용은 [Microsoft 예약을 사용 하 여 비즈니스 캘린더 온라인으로 게시](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)를 방문 하세요.
+Microsoft 예약에 대 한 자세한 내용은 [Microsoft 예약을 사용 하 여 비즈니스 캘린더 온라인으로 게시](https://support.office.com/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)를 방문 하세요.
 
 ## <a name="microsoft-briefing-email"></a>Microsoft 브리핑 전자 메일
 
@@ -41,15 +41,15 @@ Microsoft 예약에 대 한 자세한 내용은 [Microsoft 예약을 사용 하 
 
 ## <a name="microsoft-power-automate"></a>Microsoft Power Automate
 
-Microsoft 파워 자동 자동화를 사용 하면 여러 응용 프로그램에서 워크플로를 자동화할 수 있습니다. Flow를 사용하여 전자 메일 및 IM 알림을 연결하고, 응용 프로그램 간에 파일을 동기화하며, 한 서비스에서 다른 서비스로 파일을 복사하고, 한 앱에서 데이터를 수집하여 다른 앱에 저장하는 등의 작업을 수행할 수 있습니다. 시작하기 위한 템플릿을 제공합니다. 흐름 기능 및 사용 방법에 대 한 자세한 내용은 [Power 자동화 웹 사이트로](https://preview.flow.microsoft.com/en-us/)이동 하세요.
+Microsoft 파워 자동 자동화를 사용 하면 여러 응용 프로그램에서 워크플로를 자동화할 수 있습니다. Flow를 사용하여 전자 메일 및 IM 알림을 연결하고, 응용 프로그램 간에 파일을 동기화하며, 한 서비스에서 다른 서비스로 파일을 복사하고, 한 앱에서 데이터를 수집하여 다른 앱에 저장하는 등의 작업을 수행할 수 있습니다. 시작하기 위한 템플릿을 제공합니다. 흐름 기능 및 사용 방법에 대 한 자세한 내용은 [Power 자동화 웹 사이트로](https://preview.flow.microsoft.com/)이동 하세요.
   
 ## <a name="microsoft-forms"></a>Microsoft Forms
 
-Microsoft 양식을 사용 하면 신속 하 고 간편 하 게 사용자 지정 퀴즈, 설문 조사, 으로써, 등록 등을 만들 수 있습니다. 퀴즈 또는 설문지를 만들 때 모든 웹 브라우저를 사용하여 모바일 장치에서도 다른 사용자가 응답하도록 초대 할 수 있습니다. 결과가 제출되면 기본 제공 분석을 사용하여 응답을 평가할 수 있습니다. 퀴즈 결과와 같은 양식 데이터는 추가 분석 또는 그레이를 위해 쉽게 Excel로 내보낼 수 있습니다. 자세한 내용은 [Microsoft Forms 란?](https://support.office.com/en-us/forms)을 참조 하십시오.
+Microsoft 양식을 사용 하면 신속 하 고 간편 하 게 사용자 지정 퀴즈, 설문 조사, 으로써, 등록 등을 만들 수 있습니다. 퀴즈 또는 설문지를 만들 때 모든 웹 브라우저를 사용하여 모바일 장치에서도 다른 사용자가 응답하도록 초대 할 수 있습니다. 결과가 제출되면 기본 제공 분석을 사용하여 응답을 평가할 수 있습니다. 퀴즈 결과와 같은 양식 데이터는 추가 분석 또는 그레이를 위해 쉽게 Excel로 내보낼 수 있습니다. 자세한 내용은 [Microsoft Forms 란?](https://support.office.com/forms)을 참조 하십시오.
   
 ## <a name="microsoft-graph-api"></a>Microsoft Graph API
 
-Microsoft Graph API를 사용 하 여 단일 끝점을 통해 다양 한 리소스, 관계 및 인텔리전스에 연결 되는 앱을 신속 하 게 작성할 https://graph.microsoft.com수 있습니다. 예를 들어 조직에 대 한 데이터를 검색 하는 사용자 지정 대시보드, 워크플로 및 앱을 만들 수 있습니다. 자세한 내용은 [Microsoft Graph 설명서](https://go.microsoft.com/fwlink/?linkid=849595)를 참고 하십시오.
+Microsoft Graph API를 사용 하 여 단일 끝점을 통해 다양 한 리소스, 관계 및 인텔리전스에 연결 되는 앱을 신속 하 게 작성할 수 https://graph.microsoft.com 있습니다. 예를 들어 조직에 대 한 데이터를 검색 하는 사용자 지정 대시보드, 워크플로 및 앱을 만들 수 있습니다. 자세한 내용은 [Microsoft Graph 설명서](https://go.microsoft.com/fwlink/?linkid=849595)를 참고 하십시오.
   
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 
@@ -61,7 +61,7 @@ Microsoft Planner는 사용자에게 팀 작업을 구성하는 시각적인 방
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
-Microsoft PowerApps은 모든 장치에서 작동하는 앱을 신속하게 작성, 통합 및 공유할 수 있는 엔터프라이즈 서비스입니다. PowerApps를 사용 하면 기본 제공 연결 또는 회사에서 구축한 사용자가 Microsoft 365 및 Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, Oracle 데이터베이스 등을 비롯 한 클라우드 및 온-프레미스 서비스에 앱을 연결할 수 있습니다. 전자 메일 주소를 입력하기만 하면 동료와 PowerApps을 쉽게 공유할 수 있습니다. 자세한 내용은 Microsoft [PowerApps 웹 사이트](https://powerapps.microsoft.com/en-us/)를 참조하세요.
+Microsoft PowerApps은 모든 장치에서 작동하는 앱을 신속하게 작성, 통합 및 공유할 수 있는 엔터프라이즈 서비스입니다. PowerApps를 사용 하면 기본 제공 연결 또는 회사에서 구축한 사용자가 Microsoft 365 및 Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, Oracle 데이터베이스 등을 비롯 한 클라우드 및 온-프레미스 서비스에 앱을 연결할 수 있습니다. 전자 메일 주소를 입력하기만 하면 동료와 PowerApps을 쉽게 공유할 수 있습니다. 자세한 내용은 Microsoft [PowerApps 웹 사이트](https://powerapps.microsoft.com/)를 참조하세요.
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
@@ -77,7 +77,7 @@ Microsoft Sway는 대화형 웹 기반 캔버스를 사용 하 여 의견을 표
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
-Microsoft 팀은 팀 구성원이 보다 효율적으로 작업할 수 있도록 돕는 채팅 중심 작업 영역입니다. Microsoft 팀은 팀 작업의 허브 역할을 하며, 대화, 콘텐츠 및 도구를 단일 작업 영역에 즉시 액세스할 수 있도록 합니다. SharePoint 및 OneNote가 기본적으로 제공되며, 팀원들은 앱 내에서 바로 Office 문서 작업을 수행할 수 있습니다. 채팅 외에도, Microsoft 팀은 팀이 주문형 또는 일정에 따라 live meeting을 충족할 수 있도록 비디오 통화와 회의를 지원 합니다. 팀원들은 여러 팀과 함께 쉽게 공동 작업을 수행하고, 언제든지 피플, 채팅 및 파일을 검색할 수 있습니다. Microsoft 팀은 Windows, Mac, 웹, Android 및 iOS 플랫폼에서 작동 합니다. 자세한 내용은 [Microsoft 팀 온라인 도움말](https://go.microsoft.com/fwlink/?linkid=834413)을 참조하세요. 팀은 [Office 365 Germany](office-365-germany.md)에서 아직 사용할 수 없습니다.
+Microsoft 팀은 팀 구성원이 보다 효율적으로 작업할 수 있도록 돕는 채팅 중심 작업 영역입니다. Microsoft 팀은 팀 작업의 허브 역할을 하며, 대화, 콘텐츠 및 도구를 단일 작업 영역에 즉시 액세스할 수 있도록 합니다. SharePoint 및 OneNote가 기본적으로 제공되며, 팀원들은 앱 내에서 바로 Office 문서 작업을 수행할 수 있습니다. 채팅 외에도, Microsoft 팀은 팀이 주문형 또는 일정에 따라 live meeting을 충족할 수 있도록 비디오 통화와 회의를 지원 합니다. 팀원들은 여러 팀과 함께 쉽게 공동 작업을 수행하고, 언제든지 피플, 채팅 및 파일을 검색할 수 있습니다. Microsoft 팀은 Windows, Mac, 웹, Android 및 iOS 플랫폼에서 작동 합니다. 자세한 내용은 [Microsoft 팀 서비스 설명](../teams-service-description.md) 및 [Microsoft 팀 온라인 도움말](https://go.microsoft.com/fwlink/?linkid=834413)을 참조 하세요. 팀은 [Office 365 Germany](office-365-germany.md)에서 아직 사용할 수 없습니다.
   
 ## <a name="office-delve"></a>Office Delve
 
@@ -85,7 +85,7 @@ Microsoft 팀은 팀 구성원이 보다 효율적으로 작업할 수 있도록
   
 ## <a name="microsoft-365-groups"></a>Microsoft 365 그룹
 
-Microsoft 365의 그룹은 더 많은 공동 작업을 수행 하는 데 필요한 동료, 정보 및 응용 프로그램과 사용자를 연결 합니다. 그룹은 기본적으로 검색 기능과 공유 기능을 향상하기 위해 열려 있지만, 사용자는 중요한 콘텐츠에 대한 비공개 그룹을 만들 수도 있습니다. 그룹에 대 한 자세한 내용은 [Microsoft 365의 그룹](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1)을 참조 하십시오. 그룹 제한에 대 한 자세한 내용은 [Microsoft 365 그룹에 대 한 자세한 내용](https://go.microsoft.com/fwlink/?linkid=846714)에서 "내 그룹을 관리 하는 방법"을 참조 하십시오.
+Microsoft 365의 그룹은 더 많은 공동 작업을 수행 하는 데 필요한 동료, 정보 및 응용 프로그램과 사용자를 연결 합니다. 그룹은 기본적으로 검색 기능과 공유 기능을 향상하기 위해 열려 있지만, 사용자는 중요한 콘텐츠에 대한 비공개 그룹을 만들 수도 있습니다. 그룹에 대 한 자세한 내용은 [Microsoft 365의 그룹](https://support.office.com/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1)을 참조 하십시오. 그룹 제한에 대 한 자세한 내용은 [Microsoft 365 그룹에 대 한 자세한 내용](https://go.microsoft.com/fwlink/?linkid=846714)에서 "내 그룹을 관리 하는 방법"을 참조 하십시오.
   
 ## <a name="office-365-video"></a>Office 365 비디오
 

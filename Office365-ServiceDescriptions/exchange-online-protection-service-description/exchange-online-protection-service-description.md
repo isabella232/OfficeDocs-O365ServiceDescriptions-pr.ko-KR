@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다. 여기에는 Exchange Online Protection을 제공 하는 계획 목록과 이러한 요금제의 기능 비교가 포함 되어 있습니다.
-ms.openlocfilehash: 3a52d682c4aa181c549e3e2d96ea8645ccae6260
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 661d2359d53fe740c5217aaecaf2f86e5f741d5c
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213980"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226207"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 서비스 설명
 
@@ -99,15 +99,16 @@ EOP의 제한에 대 한 내용은 [Exchange Online Protection 제한을](exchan
 |[맬웨어 방지 정책 사용자 지정](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|예|예|예|
 |[격리](anti-spam-and-anti-malware-protection-eop.md#quarantine): 관리자 관리|예|예|예|
 |[격리](anti-spam-and-anti-malware-protection-eop.md#quarantine): 최종 사용자 자기 관리|예|예|예|
-|[Outlook 용 보고서 메시지 추가 기능](anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|예|예|예|
-|[웹용 Outlook에서 정크 메일 보고](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|예|예|예|
+|[서류가](anti-spam-and-anti-malware-protection-eop.md#report-messages-to-microsoft-for-analysis)|아니요|예|아니요|
+|[Outlook 용 보고서 메시지 추가 기능](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|예|예|예|
+|[웹용 Outlook에서 정크 메일 보고](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|예|예|예|
 |[Microsoft와 자체 전자 메일 서버 간의 전자 메일 라우팅](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|예|예|예|
 |[신뢰할 수 있는 파트너와의 보안 메시징](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|예|예|예|
 |[수신 허용 목록에 파트너의 IP 주소 추가](mail-flow-eop.md#safe-listing-a-partners-ip-address)|예|예|예|
 |[조건부 메일 라우팅](mail-flow-eop.md#conditional-mail-routing)|예|예|예|
 |[하이브리드 메일 라우팅](mail-flow-eop.md#hybrid-mail-routing)|예|예|예|
 |[Microsoft 365 관리 센터 보고서](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |예<sup>9</sup>|예<sup>10</sup>|예 <sup>9, 10</sup>|
-|[웹 서비스를 사용하여 보고](reporting-and-message-trace.md#reporting-using-web-services)|아니요|예|예|
+|[웹 서비스를 사용하여 보고](reporting-and-message-trace.md#reporting-using-web-services)|아니요|있음|예|
 |[메시지 추적](reporting-and-message-trace.md#message-trace)|예<sup>15</sup>|예<sup>15</sup>|예|
 |[Microsoft 365 관리 센터에 대 한 액세스 권한](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)|예|예|예|
 |[Exchange 관리 센터에 대 한 액세스 권한](administration-and-management-eop.md#access-to-the-exchange-admin-center (EAC))|예|예|예|

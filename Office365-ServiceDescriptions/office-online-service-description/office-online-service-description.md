@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Web for office를 사용 하면 거의 모든 장치에서 인터넷에 연결 하 여 어디서 나 Office 파일을 보다 쉽게 작업 하 고 공유할 수 있습니다. Microsoft 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: 447ea8b31424f1c37ecd5a76ee60014d94df9f26
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: f04056668b9d64b7783afce4e7df52403f904c29
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213990"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226217"
 ---
 # <a name="office-for-the-web-service-description"></a>웹용 Office 서비스 설명
 
@@ -176,7 +176,7 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 |[복사본 저장 또는 다운로드](excel-online.md#save-or-download-a-copy) <br/> |예  <br/> |예  <br/> |
 |[공유](excel-online.md#share) <br/> |예  <br/> |예  <br/> |
 |[시트 보호](excel-online.md#sheet-protection) <br/> |예  <br/> |예  <br/> |
-|[슬라이서 보기](excel-online.md#slicer-viewing) <br/> |예  <br/> |예  <br/> |
+|[슬라이서](excel-online.md#slicers) <br/> |예  <br/> |예  <br/> |
 |[데이터 정렬 및 필터링](excel-online.md#sort-and-filter-data) <br/> |예  <br/> |예  <br/> |
 |[스프레드시트 감사 및 준수](excel-online.md#spreadsheet-audit-and-compliance) <br/> |아니요  <br/> |예  <br/> |
 |[상태 표시줄 집계 기능](excel-online.md#status-bar-aggregates) <br/> |예  <br/> |예  <br/> |
