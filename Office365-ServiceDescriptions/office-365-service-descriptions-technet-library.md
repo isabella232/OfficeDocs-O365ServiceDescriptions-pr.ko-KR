@@ -1,5 +1,5 @@
 ---
-title: 'Office 365 서비스 설명 '
+title: Microsoft 365 및 Office 365 서비스 설명
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft Office 365는 강력한 보안, 안정성 및 사용자 생산성에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되도록 설계 된 클라우드 기반 서비스입니다.
-ms.openlocfilehash: f297c1be0a2096a75dab8e14858236b69efb9986
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+description: Microsoft 365 및 Office 365는 강력한 보안, 안정성 및 사용자 생산성에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되도록 설계 된 클라우드 기반 서비스입니다.
+ms.openlocfilehash: 8f52de49564c07a41153b0935c27aef1277c4bb8
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002068"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044800"
 ---
-# <a name="office-365-service-descriptions"></a>Office 365 서비스 설명 
+# <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 및 Office 365 서비스 설명 
 
-Microsoft Office 365는 강력한 보안, 안정성 및 사용자 생산성에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되도록 설계 된 클라우드 기반 서비스입니다. 
+Microsoft 365 및 Office 365는 강력한 보안, 안정성 및 사용자 생산성에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되도록 설계 된 클라우드 기반 서비스입니다. 
   
-이 라이브러리의 항목은 Office 365에서 사용할 수 있는 서비스 및 기능에 대한 자세한 설명을 제공합니다. 계획 간에 기능을 비교하려면 [Office 365 비즈니스 에디션 계획 비교](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 또는 아래 목록의 관련 서비스 설명을 참조하세요. 
+이 라이브러리의 항목에서는 Microsoft 365 및 Office 365에서 사용할 수 있는 서비스 및 기능에 대 한 자세한 설명을 제공 합니다. 계획 간에 기능을 비교 하려면 [엔터프라이즈를 지 원하는 강력한 도구](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 또는 아래 목록의 관련 서비스 설명을 참조 하세요. 
   
-지원 문서와 정보를 검색하려면 [Office 지원](https://support.office.com/)을 참조하세요.
+지원 문서 및 정보는 [Office 도움말 & 교육](https://support.office.com/), [관리자 및 it 전문가를 위한 office 설명서](https://docs.microsoft.com/office/), [관리자 및 it 전문가를 위한 Microsoft 365 도움말 센터](https://docs.microsoft.com/microsoft-365/?view=o365-worldwide)를 참조 하세요.
   
 > [!NOTE]
 > 서비스 설명 비교 스프레드시트를 찾으려는 경우에는이를 폐기 해야 합니다. 각 서비스 설명 페이지의 제품 기능 가용성 표가 필요에 맞는 Office 365 버전을 선택 하는 데 도움이 되도록 업데이트 되었습니다. 
@@ -46,13 +46,15 @@ Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365�
 
 - [Exchange Online Protection 서비스 설명](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
 
-- [Office 365 Advanced Threat Protection 서비스 설명](office-365-advanced-threat-protection-service-description.md)
-
 - [Exchange Online Archiving 서비스 설명](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
 
-- [비즈니스용 OneDrive 서비스 설명](onedrive-for-business-service-description.md)
+- [Office 365 Advanced Threat Protection 서비스 설명](office-365-advanced-threat-protection-service-description.md)
 
-- [SharePoint Online 서비스 설명](sharepoint-online-service-description/sharepoint-online-service-description.md)
+- [Microsoft Teams 서비스 설명](teams-service-description.md)
+
+- [OneDrive 서비스 설명](onedrive-for-business-service-description.md)
+
+- [SharePoint 서비스 설명](sharepoint-online-service-description/sharepoint-online-service-description.md)
 
 - [비즈니스용 Skype Online 서비스 설명](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 
@@ -64,15 +66,19 @@ Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365�
 
 - [Power BI 서비스 설명](power-bi-service-description.md)
 
-- [Project Online 서비스 설명](project-online-service-description/project-online-service-description.md)
+- [Microsoft Project 서비스 설명](project-online-service-description/project-online-service-description.md)
 
 - [웹용 Visio 서비스 설명](visio-online-service-description/visio-online-service-description.md)
 
 - [Yammer 서비스 설명](yammer-service-description/yammer-service-description.md)
 
+- [Microsoft 365 Business 음성 서비스 설명](microsoft-365-business-voice-service-description.md)
+
 - [Microsoft 365 Business Premium 서비스 설명](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Microsoft 365 보안 & 준수 라이선스 지침](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
+- [중소기업을 위한 Microsoft 365 라이선싱](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
+
+- [보안 및 규정 준수를 위한 Microsoft 365 라이선싱 지침](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
 - [Microsoft Dynamics 365(온라인) 서비스 설명](microsoft-dynamics-365-online-service-description.md)
 

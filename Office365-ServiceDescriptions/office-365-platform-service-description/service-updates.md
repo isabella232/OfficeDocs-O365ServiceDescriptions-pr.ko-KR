@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 바로 출시 되었거나 출시 될 Office 365 기능에 대 한 자세한 내용은 Microsoft 365 로드맵를 참조 하세요.
-ms.openlocfilehash: 70236f8d0600e5a614524fb1842d1fd62764655d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e0a9c143a85a1df830b973b69babac6bb8b831f5
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639776"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044810"
 ---
 # <a name="service-updates"></a>서비스 업데이트
 
@@ -43,6 +43,6 @@ Microsoft는 [온라인 수명 주기 정책을](https://support.microsoft.com/l
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획 간의 기능 가용성을 확인 하려면 [Office 365 플랫폼 서비스 설명을](office-365-platform-service-description.md)참조 하세요.
+계획 간의 기능 가용성을 확인 하려면 [Microsoft 365 및 Office 365 platform service description](office-365-platform-service-description.md)을 참조 하세요.
   
 
