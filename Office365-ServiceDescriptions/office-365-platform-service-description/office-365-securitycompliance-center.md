@@ -9,36 +9,36 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: 보안 &amp; 및 준수 센터는 조직에 대 한 Office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: ec6c84e80f25699537b92d38ae8eb7470931750d
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+description: 보안 및 &amp; 준수 센터는 조직에 대 한 Office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
+ms.openlocfilehash: 143e23db874a7529e20cef05d8d54b27624873f7
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44001994"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267327"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-[ &amp; 보안 및 준수 센터](https://protection.office.com/) 는 조직에 대 한 Office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
+[보안 및 &amp; 준수 센터](https://protection.office.com/) 는 조직에 대 한 Office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
 
 사용자에 게 라이선스를 부여 하기 위한 옵션을 확인 하려면 2020 년 4 월 1 일부 터 Microsoft 365 준수 기능을 활용 하려면 자세한 Microsoft 365 준수 라이선스 비교를 다운로드 하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
   
-## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>비즈니스 &amp; 및 엔터프라이즈 요금제의 보안 및 준수 센터
+## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>&amp;비즈니스 및 엔터프라이즈 요금제의 보안 및 준수 센터
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**기능**  |**Microsoft 365 Business Basic**  |**Microsoft 365 Business Standard**  |**Microsoft 365 Business Premium**  |**Office 365 Enterprise E1**, **Office 365 US 정부 G1**  |**Office 365 Enterprise E3**, **Office 365 US 정부 G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise F3**  **Office 365 US 정부 F3**|
-|[보안 &amp; 및 준수 센터에 대 한 액세스](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |예   |예   |예   |예   |예   |예   |예   |
+|[보안 및 준수 센터에 대 한 액세스 &amp;](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |예   |예   |예   |예   |예   |예   |예   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |아니요   |아니요   |아니요|아니요   |아니요   |예   |
 |메일 필터링 및 맬웨어 방지와 같은 [위협 관리](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) |예   |예   |예   |예   |예   |예   |예   |
 |피싱 캠페인<sup>6</sup> 용 위협 탐색기와 같은 [Advanced threat management](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)  |아니요   |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
 |[고객 Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |아니요   |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
 |[모바일 장치 관리](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |예   |예   |예   |예   |예   |예   |예   |
 |[Exchange online, SharePoint online 및 비즈니스용 OneDrive 7, 9에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup> |아니요   |아니요   |아니요   |아니요   |예   |예   |아니요   |
-|[Microsoft 팀에 대 한 통신 데이터 손실 방지](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |아니요   |아니요   |아니요   |아니요   |예   |아니요  |
+|[Microsoft 팀에 대 한 통신 데이터 손실 방지](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |아니요   |아니요   |아니요   |아니요   |아니요   |예  |
 |[수동 민감도 레이블](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | 아니요 | 아니요  |아니요   | 예 | 예 | 예 | 아니요  |
 |자동 민감도 레이블| 아니요 | 아니요  |아니요  | 아니요 | 아니요 | 예<sup>13</sup> | 아니요  |
 |[정보 장벽](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |아니요   |아니요   |아니요   |아니요   |아니요   |예   |아니요  |
@@ -53,8 +53,8 @@ ms.locfileid: "44001994"
 |[기본 감사](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |예   |예   |예|예   |예   |예   |예   |
 |[고급 감사](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |아니요   |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
 |[통신 준수 (감독 정책)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |아니요   |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
-|[OME(Office 365 메시지 암호화)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |아니요   |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
-|[Office 365 고급 메시지 암호화](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |아니요   |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
+|[Office 365 메시지 암호화 (OME) Basic](https://docs.microsoft.com/microsoft-365/compliance/ome)  |아니요   |아니요   |아니요   |아니요   |예  |예   |아니요   |
+|[Office 365 고급 메시지 암호화](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |아니요   |아니요   |아니요   |아니요   |아니요 |예   |아니요   |
 |[권한 있는 액세스 관리](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |아니요   |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
 |[고객 키](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |아니요   |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
 |||||||||
@@ -85,12 +85,12 @@ ms.locfileid: "44001994"
 
 <sup>13</sup> 에는 기계 학습 기반 레이블 (trainable 분류자)이 포함 되어 있지 않습니다.
 
-## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>독립 &amp; 실행형 계획에 대 한 보안 준수 센터 가용성
+## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;독립 실행형 계획에 대 한 보안 준수 센터 가용성
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**기능**  |**Exchange Online 계획 1**  |**Exchange Online 계획 2**  |**Exchange Online Kiosk**  |**SharePoint Online 계획 1**  |**SharePoint Online 계획 2**  |**비즈니스용 OneDrive 계획 1** |**비즈니스용 OneDrive 계획 2** |**비즈니스용 Skype Online 계획 1**  |**비즈니스용 Skype Online 계획 2**  |
-|[보안 &amp; 및 준수 센터에 대 한 액세스](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |예   |예   |예   |예   |예   |예   |예   |예   |예   |
+|[보안 및 준수 센터에 대 한 액세스 &amp;](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |예   |예   |예   |예   |예   |예   |예   |예   |예   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |있음   |
 |메일 필터링 및 맬웨어 방지와 같은 [위협 관리](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)   |예   |예   |예   |예   |예   |예   |예   |예   |예   |
 |피싱 캠페인에 대 한 위협 탐색기와 같은 [Advanced threat management](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요  |
@@ -137,10 +137,10 @@ ms.locfileid: "44001994"
 
 <sup>11</sup> 보존 정책을 사용 하 여 사용자 사서함을 유지 하려면 Exchange online 계획 2 또는 Exchange online 보관 라이선스가 필요 합니다.
   
-## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>21Vianet &amp; 에서 운영 하는 Office 365의 보안 및 준수 센터 가용성
+## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>&amp;21vianet에서 운영 하는 Office 365의 보안 및 준수 센터 가용성
 
 보안 & 준수 센터는 21Vianet에서 운영 하는 Office 365에 대 한 계획에서 사용할 수 없습니다.
   
-## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Office &amp; 365 독일의 보안 및 준수 센터 가용성
+## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>&amp;Office 365 독일의 보안 및 준수 센터 가용성
 
 Security & 준수 센터는 Office 365 독일에 사용할 수 있습니다. Office 365 독일에 대 한 자세한 내용은 [office 365 독일](office-365-germany.md)를 참조 하세요.

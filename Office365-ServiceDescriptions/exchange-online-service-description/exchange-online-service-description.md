@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함 하는 구독의 기능 비교를 찾으십니까? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: f8c7a3b5d070fa51780e85f57a4a7176ca5c970b
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 53a553004ebe43770906c9bfb6a00178ac47249f
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213790"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267347"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -119,7 +119,7 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |주소록 정책|예|예|예|예|예|예|예|예|
 |계층 구조 주소록|예|예|예|예|예|예|예|아니요|
 |주소 목록 및 전체 주소 목록|예|예|예|예|예<sup>18</sup>|예<sup>18</sup>|예<sup>18</sup>|예<sup>18</sup>|
-|Office 365 그룹|아니요|아니요|있음|예|예|예|예|예|
+|Microsoft 365 그룹|아니요|아니요|있음|예|예|예|예|예|
 |메일 그룹|예|예|예|예|예|예|예|예|
 |외부 연락처(전체)|예|예|예|예|예|예|예|예|
 |일반 대화 상대 카드|예|예|예|예|예|예|예|예|
