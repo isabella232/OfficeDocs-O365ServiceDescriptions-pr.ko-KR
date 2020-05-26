@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 팀은 인스턴트 메시징, 파일 및 데이터 공동 작업, 오디오 및 비디오 통화, 리치 온라인 모임, 모바일 환경 및 광범위 한 웹 회의 기능을 제공 합니다.
-ms.openlocfilehash: 59337249c650157797e2c577ceefe24d3db62863
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 3ed7740d5413867767828b4b02079a7a9e57398d
+ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213658"
+ms.lasthandoff: 05/25/2020
+ms.locfileid: "44356896"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -60,7 +60,7 @@ Microsoft 팀은 독립 실행형 서비스로 사용할 수 없습니다.
 |음성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |오디오 회의  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |앱, Bot, & 커넥터  <br/> |예  <br/> |예  <br/> |예<sup>4</sup>  <br/> |예<sup>4</sup>  <br/> |예<sup>4</sup>  <br/> |예  <br/> |
-|라이브 이벤트  <br/> |예  <br/> |예  <br/> |예  <br/> |<sup>5</sup> 없음  <br/> |<sup>5</sup> 없음  <br/> |예  <br/> |
+|라이브 이벤트  <br/> |아니요  <br/> |예  <br/> |예  <br/> |<sup>5</sup> 없음  <br/> |<sup>5</sup> 없음  <br/> |예  <br/> |
 
 <sup>1</sup> 개별 팀에서 GCC-고가용성 및 DOD 지원 2500 구성원의 Microsoft 팀<br/>
 <sup>2</sup> Microsoft Planner는 현재 개인 채널에서 액세스 하는 데 사용할 수 없습니다.<br/>

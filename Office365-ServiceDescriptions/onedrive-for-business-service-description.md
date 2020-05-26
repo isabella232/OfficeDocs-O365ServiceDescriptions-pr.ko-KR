@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 어떤 계획에서 어떤 OneDrive 기능을 사용할 수 있는지 확인합니다.
-ms.openlocfilehash: a44c426be19db30ccd2544ed58fc0cf614357ea8
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 860010cab2fb7a1c15f7335fb5d4aab2ffc3b557
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639876"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213930"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 서비스 설명
 
@@ -27,7 +27,7 @@ ms.locfileid: "43639876"
   
 OneDrive는 Microsoft 365 및 Office 365 요금제에서 SharePoint 요금제에 포함되고 독립 실행형 요금제로 구매할 수도 있습니다. 
     
-요금제를 비교하려면 [Office 365 비즈니스 요금제 비교](https://go.microsoft.com/fwlink/?linkid=799177) 및 [비즈니스용 OneDrive 요금제 비교](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans)를 참조하세요. 
+플랜을 비교하려면 [기업을 지원하기 위한 강력한 도구](https://go.microsoft.com/fwlink/?linkid=799177) 및 [비즈니스용 OneDrive 플랜 비교](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans)를 참조하세요. 
   
 > [!NOTE]
 > 비즈니스용 OneDrive 독립 실행형 요금제에는 웹용 Office가 포함됩니다. 
