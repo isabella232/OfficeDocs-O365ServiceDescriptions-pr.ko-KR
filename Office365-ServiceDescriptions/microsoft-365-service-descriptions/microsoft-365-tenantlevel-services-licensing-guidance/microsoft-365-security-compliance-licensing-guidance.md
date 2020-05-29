@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: e3c4819c3734bd6c00f92d1cdf1411b1142d08b4
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 9ffcba0e8c4e2fe92afe8fff4da093b38c207573
+ms.sourcegitcommit: 2d13c0f81cf0698a738dbb2a2943ad97c6128bbe
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267337"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44408928"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -30,7 +30,7 @@ ms.locfileid: "44267337"
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory ID 보호
 
-Azure Active Directory Id 보호 (AADIP)는 조직의 id에 영향을 미치는 잠재적인 취약점을 검색 하 고, 자동화 된 응답을 구성 하 여 조직의 id와 관련 된 의심 스러운 작업을 감지 하 고, 의심 스러운 문제를 조사 하 고 문제를 해결 하는 데 적절 한 조치를 취할 수 있는 Azure Active Directory Premium P2 계획의 기능입니다.
+Azure Active Directory Id 보호는 조직의 id에 영향을 미치는 잠재적인 취약점을 검색 하 고, 자동화 된 응답을 구성 하 여 조직의 id와 관련 된 의심 스러운 작업을 감지 하 고, 의심 스러운 문제를 조사 하 고 문제를 해결할 수 있는 적절 한 조치를 취할 수 있도록 하는 Azure Active Directory Premium P2 계획의 기능입니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -42,11 +42,11 @@ Enterprise Mobility + Security E5/A5, Microsoft 365 E5/a5, Microsoft 365 E5/a5 �
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
-기본적으로 AADIP 기능은 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다. AADIP에 대 한 자세한 내용은 [Azure Active Directory Id 보호 란?를 참조 하세요](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection) .
+기본적으로 Azure AD Id 보호 기능은 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다. Azure AD Id 보호에 대 한 자세한 내용은 [Azure Active Directory Id 보호 란?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection) 를 참조 하세요.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
-관리자는 암호 재설정 수준을 정의 하 고 허가 된 사용자 에게만 액세스를 허용 하는 위험 정책을 할당 하 여 AADIP의 범위를 지정할 수 있습니다. AADIP 배포의 범위를 결정 하는 방법에 대 한 자세한 내용은 [로그인 위험 정책 구성을](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)참조 하십시오.
+관리자는 암호 재설정에 대 한 수준을 정의 하 고 라이선스가 있는 사용자 에게만 액세스를 허용 하는 위험 정책을 할당 하 여 Azure AD Id 보호 범위를 지정할 수 있습니다. Azure AD Id 보호 배포의 범위를 설정 하는 방법에 대 한 자세한 내용은 [로그인 위험 정책 구성을](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)참조 하십시오.
 
 ## <a name="azure-advanced-threat-protection"></a>Azure Advanced Threat Protection
 
