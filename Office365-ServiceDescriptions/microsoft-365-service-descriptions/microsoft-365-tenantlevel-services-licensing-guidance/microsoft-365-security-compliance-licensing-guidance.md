@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: 9ffcba0e8c4e2fe92afe8fff4da093b38c207573
-ms.sourcegitcommit: 2d13c0f81cf0698a738dbb2a2943ad97c6128bbe
+ms.openlocfilehash: 8d3e63906024582f78db93a3cf288ca80c868387
+ms.sourcegitcommit: f7d8ab5daf7618c9b6827c8595403592faf2758b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44408928"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44412697"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -179,7 +179,7 @@ Microsoft Defender ATP 관리자는 [RBAC (역할 기반 액세스 제어)](http
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
-Microsoft 365 E5/A5/G5/E3/A3/G3/F1/t/365 o f t/t/c e t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t/t
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/t/f e t/t/t/f o m/e m t/i m/a m/1/3, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/A5/E3/A3/F3, AIP 요금제 1
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, Microsoft 365 정보 보호 및 관리 방식, office 365 E5, 사무 365 고급 규정 준수, Enterprise Mobility + Security E5 및 AIP 요금제 2는 사용자가 자동 민감도 레이블을 통해 혜택을 얻을 수 있는 권한을 제공 합니다.
 
