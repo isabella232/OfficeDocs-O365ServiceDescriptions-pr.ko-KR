@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와 차별화 된 옵션입니다. 이를 통해 독일에서 업계 최고의 생산성 서비스를 제공 하는 스페인어 (유럽 연합) 및 상주 (유럽 자유 무역 협회)의 디지털 작업에 대 한 요구 사항을 해결 하는 데 도움이 되 고 독일어 데이터를 사용 하 여 독일 및 엄격한 데이터 액세스 및 제어 조치를 수행 합니다.
-ms.openlocfilehash: f9d28a459885da3e5101143c6940dc6d641452e2
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: bc4825c38eac63b3dc4acbebcf42b05d46346f5c
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226267"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429123"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -162,7 +162,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |Customer Lockbox|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |Office 365 고급 eDiscovery|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |보안 점수|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|**[준수](compliance-servicedesc.md)**<sup>9</sup>|||||||||
+|**[준수](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**<sup>9</sup>|||||||||
 |SAS 70 / SSAE16 평가|예|예|예|예|예|예|예|예|
 |ISO 27001 인증|예|예|예|예|예|예|예|예|
 |EU 모델 조항|예|예|예|예|예|예|예|예|

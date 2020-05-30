@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군과 Microsoft Exchange Online, microsoft SharePoint Online, 웹을 위한 microsoft 비즈니스용 Skype 및&mdash;공동 작업 서비스를 포함 하 여, 사용자가 인터넷에서 거의 모든 위치에서 생산성을 유지&mdash;하는 데 도움을 주는 microsoft의 차세대 통신 및 협업 서비스가 제공 됩니다.
-ms.openlocfilehash: eeb5c721c57948dcbce2eb9fa952b0b89c6d3c3d
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군과 &mdash; Microsoft Exchange online, Microsoft SharePoint online, 웹을 위한 Microsoft 비즈니스용 Skype 및 공동 작업 서비스를 포함 하 여, &mdash; 사용자가 인터넷에서 거의 모든 위치에서 생산성을 유지 하는 데 도움을 주는 microsoft의 차세대 통신 및 협업 서비스가 제공 됩니다.
+ms.openlocfilehash: 4287d96e0f169196ad612d247da257df469d9e8a
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045000"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429133"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
-Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군과 Microsoft Exchange Online, microsoft SharePoint Online, 웹을 위한 microsoft 비즈니스용 Skype 및&mdash;공동 작업 서비스를 포함 하 여, 사용자가 인터넷에서 거의 모든 위치에서 생산성을 유지&mdash;하는 데 도움을 주는 microsoft의 차세대 통신 및 협업 서비스가 제공 됩니다.
+Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군과 &mdash; Microsoft Exchange online, Microsoft SharePoint online, 웹을 위한 Microsoft 비즈니스용 Skype 및 공동 작업 서비스를 포함 하 여, &mdash; 사용자가 인터넷에서 거의 모든 위치에서 생산성을 유지 하는 데 도움을 주는 microsoft의 차세대 통신 및 협업 서비스가 제공 됩니다.
   
 이 문서에서는 Office 365 교육 계획 (A1, A3 및 A5)에 대 한 기능을 소개 합니다. 비즈니스 계획과 기업 계획 간에 기능을 비교 하려면 [office 365 For 비즈니스 요금제 비교](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) 또는 자세한 기능 목록을 보려면 [Microsoft 365 및 Office 365 서비스 설명](../office-365-service-descriptions-technet-library.md)의 관련 서비스 설명을 참조 하십시오.
   
@@ -161,7 +161,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |Advanced eDiscovery<sup>7</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |보안 점수<sup>5</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|**[규정 준수](compliance-servicedesc.md)** <br/> ||||
+|**[규정 준수](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||
 |SAS 70 / SSAE16 평가  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |ISO 27001 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |EU 모델 조항  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -184,16 +184,16 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 <sup>2</sup> 로컬 active directory와의 디렉터리 동기화를 사용 하는 경우 계정을 삭제 하거나 암호를 변경 하려면 Office 365 포털이 아닌 로컬 active directory를 사용 하거나 Windows PowerShell 용 Azure Active directory 모듈을 사용 해야 합니다. <br/> 
 <sup>3</sup> 사용자에 대해 셀프 서비스 암호 관리 정책을 설정 하는 방법에 대 한 자세한 내용은 [Azure AD에서 암호 관리](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)를 참조 하십시오. <br/> 
 <sup>4</sup> 용어 할인을 사용 하 여 구매한 좌석을 초기 종결 수수료에 따라 줄일 수 있습니다. This is not applicable for subscriptions paid on a monthly basis. <br/> 
-<sup>5</sup> (연결 [https://securescore.office.com](https://securescore.office.com/) 에는 관리자 권한이 필요 함)에서 사용 가능 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)를 참조 하세요.<br/> 
+<sup>5</sup> [https://securescore.office.com](https://securescore.office.com/) (연결에는 관리자 권한이 필요 함)에서 사용 가능 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)를 참조 하세요.<br/> 
 <sup>6</sup> 현재 특정 지역에 있는 고객은 Microsoft Sway를 사용할 수 없습니다. 8 2015 월로 더 이상 출시 되지 않는 일부 레거시 Office 365 계획에는 Microsoft Sway에 대 한 액세스 권한이 없을 수도 있습니다. <br/> 
 <sup>7</sup> 고급 EDiscovery는 미국과 서유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.) <br>
 <sup>8</sup> 각 계획에 포함 된 Microsoft Stream 기능에 대 한 자세한 내용은 [Stream license overview](https://stream.microsoft.com/documentation/stream-license-overview/)를 참조 하십시오.<br>
 <sup>9</sup> 자세한 내용은 [myanalytics 요금제 and 환경용](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)을 참조 하십시오.<br>
 <sup>10</sup> Exchange Online의 모든 사용자에 게 브리핑 전자 메일이 자동으로 제공 됩니다. 자세한 내용은 [브리핑 전자 메일 구성을](https://docs.microsoft.com/Briefing/be-admin)참조 하세요.<br>
 
-## <a name="security-amp-compliance-center-features"></a>보안 &amp; 및 준수 센터 기능
+## <a name="security-amp-compliance-center-features"></a>보안 및 &amp; 준수 센터 기능
 
-[ &amp; 보안 및 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/go-to-the-securitycompliance-center) 는 조직에 대 한 Office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다. 
+[보안 및 &amp; 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/go-to-the-securitycompliance-center) 는 조직에 대 한 Office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다. 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
@@ -201,7 +201,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |||||
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[보안 &amp; 및 준수 센터에 대 한 액세스](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[보안 및 준수 센터에 대 한 액세스 &amp;](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[고급 보안 관리](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |아니오  <br/> |예  <br/> |예  <br/> |
 |메일 필터링 및 맬웨어 방지와 같은 [위협 관리](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |피싱 캠페인 <sup>5</sup> 용 위협 탐색기와 같은 [Advanced threat management](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 문서에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다.
-ms.openlocfilehash: c530009151f327f556a28194aaa692fcb5ebc122
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: fb7eac83230c92adfbd52a3744e9cfd101292050
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045040"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429063"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -134,7 +134,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
   
 ## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-보안 &amp; 및 준수 센터에 대 한 자세한 내용과 추가 정보 및 가용성에 대 한 링크는 [ &amp; 보안 준수 센터](../../office-365-platform-service-description/office-365-securitycompliance-center.md)를 참조 하세요.
+보안 및 준수 센터에 대 한 자세한 &amp; 내용과 추가 정보 및 가용성에 대 한 링크는 [보안 &amp; 준수 센터](../../office-365-platform-service-description/office-365-securitycompliance-center.md)를 참조 하세요.
   
 ## <a name="service-availability-for-each-plan"></a>각 계획의 서비스 가용성
 
@@ -264,7 +264,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |보안 점수<sup>14</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9</sup> <br/> |예<sup>9, 15</sup> <br/> |예<sup>9, 15</sup> <br/> |
 |Office 메시지 암호화  <br/> |아니오  <br/> |있음 <br/> |예 <br/> |아니요  <br/> |
 |위협 인텔리전스  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예 <br/> |<sup>12</sup> <br/> |
-|**[규정 준수](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
+|**[규정 준수](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> |||||
 |SAS 70 / SSAE16 평가  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |ISO 27001 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |EU 모델 조항  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -296,7 +296,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 <br/><sup>11</sup> Office 365 정부 제품에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다. 
 <br/><sup>12</sup> 포함 되지 않지만 GCC에서 별도의 추가 기능으로 구입할 수 있습니다. 
 <br/><sup>13</sup> Office 365 정부 제품에는 지원 되지 않습니다. 
-<br/>[https://securescore.office.com](https://securescore.office.com) <sup>14 인치</sup> 관리자 권한이 있어야 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)를 참조 하세요.
+<br/><sup>14 인치</sup> [https://securescore.office.com](https://securescore.office.com) 관리자 권한이 있어야 합니다. 자세한 내용은 [Office 365 보안 점수 소개](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)를 참조 하세요.
 ). 
 <br/><sup>15</sup> DoD 환경에서는 아직 사용할 수 없지만 곧 제공 될 예정입니다. 
 <br/><sup>16</sup> 관리 센터에는 DOD 또는 GCC High 환경에 사용 현황 분석이 포함 되어 있지 않습니다.

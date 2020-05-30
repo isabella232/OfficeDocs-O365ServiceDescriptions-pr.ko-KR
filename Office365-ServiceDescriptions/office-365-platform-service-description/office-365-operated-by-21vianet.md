@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영 하는 Office 365는 중국의 안전 하 고 안정적 이며 확장 가능한 클라우드 서비스에 대 한 요구를 충족 하도록 설계 되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: df10728ec4e195fb69bb9140fa5da968a5ed2ac1
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 2cbb01706acaf5902ceda7a2ee16bcd3497a5f28
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226257"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429113"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -176,7 +176,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Office 365 고급 eDiscovery|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |보안 점수<sup>4</sup>|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |위협 인텔리전스|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|**[규정 준수](compliance-servicedesc.md)**||||||||
+|**[규정 준수](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
 |SAS 70 / SSAE16 평가|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |ISO 27001 인증|예|예|예|예|예|예|예|
 |EU 모델 조항|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
