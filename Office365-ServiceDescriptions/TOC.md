@@ -26,7 +26,6 @@
 ### [도움말 및 학습](office-365-platform-service-description/help-and-training.md)
 ### [네트워킹](office-365-platform-service-description/networking.md)
 ### [개인 정보, 보안 및 투명성](office-365-platform-service-description/privacy-security-and-transparency.md)
-### [규정 준수](office-365-platform-service-description/compliance-servicedesc.md)
 ### [BlackBerry](office-365-platform-service-description/blackberry.md)
 ### [파트너](office-365-platform-service-description/partners.md)
 ### [서비스 수준 계약](office-365-platform-service-description/service-level-agreement.md)
