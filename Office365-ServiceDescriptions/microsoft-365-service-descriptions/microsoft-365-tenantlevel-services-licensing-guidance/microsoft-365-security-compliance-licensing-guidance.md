@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: 8d3e63906024582f78db93a3cf288ca80c868387
-ms.sourcegitcommit: f7d8ab5daf7618c9b6827c8595403592faf2758b
+ms.openlocfilehash: 62bd075a22a7952bcd1f3608f0a7f82f3908d374
+ms.sourcegitcommit: 7c4be54e4f685c259b732167dc88ae34a8b1e4e2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44412697"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44524181"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -180,6 +180,11 @@ Microsoft Defender ATP 관리자는 [RBAC (역할 기반 액세스 제어)](http
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
 Microsoft 365 E5/A5/G5/E3/A3/G3/F1/t/f e t/t/t/f o m/e m t/i m/a m/1/3, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/A5/E3/A3/F3, AIP 요금제 1
+
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, AIP 계획 1 및 AIP 요금제 2는 power bi에서 민감도 레이블을 적용 및 확인 하 고 Power BI에서 Excel, PowerPoint 또는 PDF로 내보낼 때 데이터를 보호 하는 데 도움이 되는 사용자의 권한을 제공 합니다. 
+
+> [!NOTE]
+> Power BI는 Microsoft 365 E5/A5/G5에 포함 되어 있습니다. 다른 모든 계획에서 Power BI는 별도로 사용이 허가 되어야 합니다.
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, Microsoft 365 정보 보호 및 관리 방식, office 365 E5, 사무 365 고급 규정 준수, Enterprise Mobility + Security E5 및 AIP 요금제 2는 사용자가 자동 민감도 레이블을 통해 혜택을 얻을 수 있는 권한을 제공 합니다.
 
@@ -380,7 +385,7 @@ Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365, 정보 보호 및 관리 �
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예시는 다음과 같습니다:
+사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예시:
 
 | 시나리오 | 라이선스가 필요한 사용자 |
 |:-------|:------|
