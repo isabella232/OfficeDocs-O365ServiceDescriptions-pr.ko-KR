@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Exchange Online 계획을 비롯 하 여 계획 간의 차이점을 확인 하는 경우이 문서에 각 기능에 포함 되는 기능이 표시 됩니다.
-ms.openlocfilehash: e5800a18c0709db2e9b8c16b569a20434d9e25e4
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: c0210b264f077a4403bbe987c469fa2574f77bf2
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429073"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679575"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 및 Office 365 플랫폼 서비스 설명
 
@@ -43,9 +43,9 @@ Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 �
   
 볼륨 라이선스에 대 한 자세한 내용은 [라이선스 용어 및 설명서](https://go.microsoft.com/fwlink/?linkid=848696)를 참조 하세요.
   
-## <a name="microsoft-365-and-office-365-nonprofit-plans-and-pricing"></a>Microsoft 365 및 Office 365 비영리 요금제 및 가격
+## <a name="microsoft-365-and-office-365-plans-and-pricing-for-nonprofits"></a>수익이 있는 Microsoft 365 및 Office 365 요금제 및 가격 책정
 
-Microsoft 365 또는 Office 365 비영리 요금제에 적합 한 조직의 경우 이러한 요금제에는 해당 하는 비즈니스 계획과 동일한 기능이 포함 됩니다 (예: Office 365 비영리 E5에는 Office 365 E5와 동일한 기능이 포함 되어 있습니다.). 동급 요금제 간의 유일한 차이는 지불하는 가격입니다. Microsoft 365 및 Office 365 비영리 계획에 대 한 자세한 내용은 [Compare For microsoft 365 And office 365 비영리 혜택](https://go.microsoft.com/fwlink/?LinkID=627221)및 [생산성 솔루션](https://go.microsoft.com/fwlink/?LinkID=786641)비교를 참조 하세요.
+비영리 용 Microsoft 365 및 Office 365 요금제를 담당 하는 조직의 경우 이러한 요금제에는 해당 하는 비즈니스 계획과 동일한 기능이 포함 되어 있습니다 (예: 비 수익 용 Office 365 E5에는 Office 365 E5와 같은 기능 포함). 동급 요금제 간의 유일한 차이는 지불하는 가격입니다. 비영리에 대 한 Microsoft 365 및 office 365 계획에 대 한 자세한 내용은 [비 수익에 대 한 microsoft 365 및 office 365 혜택을 비교](https://go.microsoft.com/fwlink/?LinkID=627221)하 고, 비영리 [에 대 한 생산성 솔루션](https://go.microsoft.com/fwlink/?LinkID=786641)을 참조 하십시오.
   
 ## <a name="system-requirements"></a>시스템 요구 사항
 
@@ -83,7 +83,7 @@ Microsoft 365 또는 Office 365 비영리 요금제에 적합 한 조직의 경�
     
 - 미국 정보: [Office 365 U.S. Government 요금제](https://go.microsoft.com/fwlink/?LinkID=827898)
     
-- 비영리: [Microsoft 365 및 Office 365 비영리 혜택 비교](https://go.microsoft.com/fwlink/?LinkID=733237)
+- 비영리: [Microsoft 365 및 Office 365 혜택을 비교 하 여 수익을 창출](https://go.microsoft.com/fwlink/?LinkID=733237) 하지 않음
 
 - Office 365 Germany: [Office 365 Germany 계획](https://go.microsoft.com/fwlink/?linkid=839016)
     

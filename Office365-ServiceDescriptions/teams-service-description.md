@@ -8,18 +8,18 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 팀은 인스턴트 메시징, 파일 및 데이터 공동 작업, 오디오 및 비디오 통화, 리치 온라인 모임, 모바일 환경 및 광범위 한 웹 회의 기능을 제공 합니다.
-ms.openlocfilehash: 3ed7740d5413867767828b4b02079a7a9e57398d
-ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
+ms.openlocfilehash: fbfa15c4a4e7f6ace835318310abdf1207eb6ef9
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "44356896"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679585"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
 Microsoft 팀은 Microsoft 365의 팀 작업에 대 한 허브입니다. 팀 서비스를 사용 하면 인스턴트 메시징, 오디오 및 비디오 통화, 풍부한 온라인 모임, 모바일 환경 및 광범위 한 웹 회의 기능을 사용할 수 있습니다. 또한 팀에서는 파일 및 데이터 공동 작업 및 확장성 기능을 제공 하 고 Microsoft 365 및 기타 Microsoft 및 파트너 앱과 통합 합니다.
 
-비즈니스용 Skype Online은 2021 년 7 월 31 일, 2019에 [발표](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) 되었습니다. Microsoft 팀은 Microsoft의 Azure 및 기타 서비스 혁신을 활용 하 여 처음부터 클라우드를 기반으로 구축 되는 완전히 새로운 서비스입니다. Microsoft 팀은 office 365 그룹, Microsoft Graph 및 Office 365의 나머지와 같은 엔터프라이즈 수준의 보안, 규정 준수 및 관리 용이성을 기반으로 구축 됩니다. 팀은 azure Active Directory (Azure AD)에 저장 된 id를 활용 합니다. 이러한 서비스는 Microsoft 데이터 센터에서 제공 되며 회사 네트워크 내부 또는 인터넷을 통해 광범위 한 장치에서 사용자가 액세스할 수 있습니다. 자세한 내용은 [Microsoft 팀 IT 아키텍처 및 전화 통신 솔루션 포스터](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters)를 참조 하세요.
+비즈니스용 Skype Online은 2021 년 7 월 31 일, 2019에 [발표](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) 되었습니다. Microsoft 팀은 Microsoft의 Azure 및 기타 서비스 혁신을 활용 하 여 처음부터 클라우드를 기반으로 구축 되는 완전히 새로운 서비스입니다. Microsoft 팀은 microsoft 365 그룹, Microsoft Graph 및 Office 365의 나머지와 같은 엔터프라이즈 수준의 보안, 규정 준수 및 관리 용이성을 기반으로 구축 됩니다. 팀은 azure Active Directory (Azure AD)에 저장 된 id를 활용 합니다. 이러한 서비스는 Microsoft 데이터 센터에서 제공 되며 회사 네트워크 내부 또는 인터넷을 통해 광범위 한 장치에서 사용자가 액세스할 수 있습니다. 자세한 내용은 [Microsoft 팀 IT 아키텍처 및 전화 통신 솔루션 포스터](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters)를 참조 하세요.
 
 Microsoft는 데이터의 보안 및 서비스의 [내게 필요한 옵션](https://www.microsoft.com/trust-center/compliance/accessibility) 에 대 한 커밋된 상태를 유지 합니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조 하세요.
 

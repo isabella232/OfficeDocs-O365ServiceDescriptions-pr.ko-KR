@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice는 전화 통화를 위해 Microsoft 팀을 사용할 수 있는 추가 기능 서비스입니다. 전화 시스템, 국내 통화 계획, SMS 및 오디오 회의를 결합 한 것입니다.
-ms.openlocfilehash: 7cf636b962f9f97b8b2b73466622494bb54f3a07
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 0653be3875dd2e8713f06ed84d9e0d9081eed3c0
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213970"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679595"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business 음성 서비스 설명
 
@@ -25,16 +25,20 @@ Microsoft 365 Business Voice는 통화 대기, 착신 전환, 자동 전화 교�
 - Microsoft 365 Business Voice
 - 요금제를 사용 하지 않고 Microsoft 365 비즈니스 음성
 
-Microsoft 365 비즈니스 음성은 최대 300의 라이선스가 있는 다음과 같은 중소 규모의 비즈니스 구독에서 사용할 수 있습니다.
+Microsoft 365 Business Voice는 최대 300의 라이선스와 함께 다음 구독에서 사용할 수 있습니다.
 
-- [Microsoft 365 Business Basic](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Microsoft 365 Business Standard](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Microsoft 365 Business Premium](microsoft-365-business-service-description.md)
-- [Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e1-business-software?activetab=pivot%3aoverviewtab)
-- [Office 365 E3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e3-business-software?activetab=pivot%3aoverviewtab)
-- [Office 365 F3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
-- [Microsoft 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
-- [Microsoft 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+- Microsoft 365 F1
+- Microsoft 365 F3
+- Office 365 F3
+- Microsoft 및 Office 365 Enterprise E1, E3 또는 E5
+- Microsoft 365 및 Office 365 교육 A1, A3 또는 A5
+- Microsoft 365 및 Office 365 정부, G3 또는 G5 (GCC 전용)
+- Microsoft 365 비영리 Business Basic
+- Microsoft 365 비영리 비즈니스 표준
+- Microsoft 365 및 Office 365 비영리 E1, E3 또는 E5
 
 ## <a name="microsoft-365-business-voice-features"></a>Microsoft 365 Business Voice 기능
 
