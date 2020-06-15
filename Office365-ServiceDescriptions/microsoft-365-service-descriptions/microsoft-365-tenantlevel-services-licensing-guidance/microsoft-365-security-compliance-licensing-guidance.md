@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: 62bd075a22a7952bcd1f3608f0a7f82f3908d374
-ms.sourcegitcommit: 7c4be54e4f685c259b732167dc88ae34a8b1e4e2
+ms.openlocfilehash: 4664f782fcd15f3357ae2394b54a4a4302834073
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44524181"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711138"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -188,9 +188,7 @@ Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Se
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, Microsoft 365 정보 보호 및 관리 방식, office 365 E5, 사무 365 고급 규정 준수, Enterprise Mobility + Security E5 및 AIP 요금제 2는 사용자가 자동 민감도 레이블을 통해 혜택을 얻을 수 있는 권한을 제공 합니다.
 
-라이선스 별 특정 권한에 대 한 자세한 내용은 [Microsoft 365 준수 라이선스 비교 (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)를 참조 하십시오.
-
-기계 학습 (trainable 분류자)을 기반으로 하는 자동 분류에 대 한 권한을 포함 하지 않습니다.
+라이선스 별 특정 권한에 대 한 자세한 내용은 Microsoft 365 준수 라이선스 비교를 참조 하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) 기계 학습 (trainable 분류자)을 기반으로 하는 자동 분류에 대 한 권한을 포함 하지 않습니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
@@ -218,7 +216,7 @@ Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및
 
 Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및 관리 방식에서는 trainable 분류자에 따라 보존 레이블을 자동으로 적용 하 여 혜택을 얻을 수 있는 권한을 제공 합니다.
 
-라이선스 별 특정 권한에 대 한 자세한 내용은 [Microsoft 365 준수 라이선스 비교 (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)를 참조 하십시오.
+라이선스 별 특정 권한에 대 한 자세한 내용은 Microsoft 365 준수 라이선스 비교를 참조 하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 기계 학습 (trainable 분류자)을 기반으로 하는 자동 보존에 대 한 권한을 포함 하지 않습니다.
 
@@ -240,7 +238,7 @@ Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보
 
 Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및 관리 방식에서는 trainable 분류자에 따라 자동으로 보존을 적용 하거나 레이블을 녹음할 때 혜택을 받을 수 있는 권한을 사용자에 게 제공 합니다.
 
-라이선스 별 특정 권한에 대 한 자세한 내용은 [Microsoft 365 준수 라이선스 비교 (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)를 참조 하십시오.
+라이선스 별 특정 권한에 대 한 자세한 내용은 Microsoft 365 준수 라이선스 비교를 참조 하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 

@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 팀은 인스턴트 메시징, 파일 및 데이터 공동 작업, 오디오 및 비디오 통화, 리치 온라인 모임, 모바일 환경 및 광범위 한 웹 회의 기능을 제공 합니다.
-ms.openlocfilehash: fbfa15c4a4e7f6ace835318310abdf1207eb6ef9
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: 13b7c1e08e331d90d2318eb7bad055ddf184e2d3
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679585"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711148"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -25,14 +25,17 @@ Microsoft는 데이터의 보안 및 서비스의 [내게 필요한 옵션](http
 
 여기에는 Microsoft 팀을 위해 사용자를 사용할 수 있도록 하는 구독에 대 한이 마스터 테이블이 포함 되어 있습니다. 자세한 계획 정보는 [비즈니스에 적합 한 Microsoft 팀을 찾으십시오](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1).를 참조 하세요. 정부 계획의 추가 Office 365에 대 한 자세한 내용은 [office 365 정부 요금제](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)를 참조 하세요. Office 365 G1 to G5에는 팀 기능에 대 한 액세스 권한이 포함 됩니다.
 
-|||||
+|||||||||
 |:-----|:-----|:-----|:-----|
 |**소규모 기업 계획** <br/> |**엔터프라이즈 계획** <br/> |**교육 계획** <br/> |**개발자 계획** <br/> |
-|Microsoft 365 Business Basic  <br/> |Office 365 Enterprise E1  <br/> |Office 365 Education  <br/> |Office 365 개발자  <br/> |
-|Microsoft 365 Business Standard  <br/> |Office 365 Enterprise E3  <br/> |Office 365 Education Plus  <br/> |   <br/> |
-|비즈니스에 대 한 Microsoft 365  <br/> |Office 365 Enterprise E4 (폐기 됨)  <br/> |Office 365 교육 E3 (폐기 됨)  <br/> |  <br/> |
-|  <br/> |Office 365 Enterprise E5  <br/> |Office 365 Education E5  <br/> |  <br/> |
-|  <br/> |Office 365 Enterprise F1  <br/> |  <br/> |  <br/> |
+|Microsoft 365 Business Basic <br/> |Office 365 E1 <br/> |Office 365 A1 <br/> |Office 365 개발자 <br/> |
+|Microsoft 365 Business Standard <br/> |Office 365 E3 <br/> |Office 365 A3 <br/>|   <br/> |
+|Microsoft 365 Business Premium <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
+|  <br/> |Office 365 F3 <br/> |  Microsoft 365 A3<br/> |  <br/> |
+|  <br/> |Microsoft 365 F1 <br/> |  Microsoft 365 A5<br/> |  <br/> |
+|  <br/> |Microsoft 365 F3 <br/> |  <br/> |  <br/> |
+|  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
+|  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
 
 자세한 제품 기능 구현 지침은 [Microsoft 팀 관리 설명서](https://docs.microsoft.com/MicrosoftTeams)를 참조 하십시오. 이 서비스 설명은 다양 한 클라우드 설치에서 제공 되는 서비스 간의 주요 차이점에 대해 자세히 설명 합니다. Microsoft 팀 핵심 기능은 구독 간에 차이가 없습니다. 준수 기능의 가용성은 구독 수준에 따라 달라 집니다. 자세한 내용은 [Microsoft 팀의 보안 및 규정 준수](https://docs.microsoft.com/microsoftteams/security-compliance-overview)를 참조 하세요. 각 구독에서 사용할 수 있는 기능에 대 한 자세한 목록은 [Microsoft 365 및 Office 365 platform service description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)을 참조 하십시오.
 

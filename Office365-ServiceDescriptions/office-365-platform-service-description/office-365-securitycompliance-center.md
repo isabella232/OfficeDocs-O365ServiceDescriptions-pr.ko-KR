@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 보안 및 &amp; 준수 센터는 조직에 대 한 Office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: 143e23db874a7529e20cef05d8d54b27624873f7
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267327"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711118"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -59,7 +59,7 @@ ms.locfileid: "44267327"
 |[고객 키](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |아니요   |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
 |||||||||
 
-<sup>1</sup> 정보 거 버 넌 스에서는 사용자가 문서에 레이블을 만들고 게시 하 고 수동으로 적용할 수 있습니다. 드라이브 전달을 사용 하거나 네트워크를 통해 데이터를 가져옵니다.
+<sup>1</sup> 정보 거 버 넌 스에서는 사용자가 문서에 레이블을 만들고 게시 하 고 수동으로 적용할 수 있습니다. 드라이브 전달을 사용 하거나 네트워크를 통해 데이터를 가져옵니다. E3 및 E5에서는 이러한 기능을 사용할 수 있으며,이 기능은 E1 에서만 사용 가능 합니다. E1, E3 및 E5에서 사용할 수 있는 전체 기능 목록은 자세한 Microsoft 365 준수 라이선스 비교를 참조 하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup> 고급 정보 거 버 넌 스는 보존 또는 삭제 정책 또는 두 가지 모두를 기준으로 정보를 분류 하 여 중요 한 정보를 유지 하 고 해당 정보를 삭제할 수 있도록 합니다. 여기에는 정책 추천, 데이터에 레이블을 자동으로 적용 하 고, 중요 한 데이터 형식 또는 쿼리, 처리 검토 및 스마트 가져오기 필터 사용에 따라 레이블을 적용 하는 등의 지능형/자동화 작업이 포함 됩니다. 또한 보안 및 규정 준수를 위해 직원 통신을 검토 하기 위한 감독 기능도 포함 되어 있습니다.
 
@@ -115,7 +115,7 @@ ms.locfileid: "44267327"
 |[권한 있는 액세스 관리](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |아니요   |아니요   |아니요   |아니요   |예   |아니요   |아니요|아니요|아니요|
 |||||||||
 
-<sup>1</sup> 정보 거 버 넌 스에서는 사용자가 문서에 레이블을 만들고 게시 하 고 수동으로 적용할 수 있습니다. 드라이브 전달을 사용 하거나 네트워크를 통해 데이터를 가져옵니다.
+<sup>1</sup> 정보 거 버 넌 스에서는 사용자가 문서에 레이블을 만들고 게시 하 고 수동으로 적용할 수 있습니다. 드라이브 전달을 사용 하거나 네트워크를 통해 데이터를 가져옵니다. E3 및 E5에서는 이러한 기능을 사용할 수 있으며,이 기능은 E1 에서만 사용 가능 합니다. E1, E3 및 E5에서 사용할 수 있는 전체 기능 목록은 자세한 Microsoft 365 준수 라이선스 비교를 참조 하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup> Exchange Online 보관 추가 기능을 구입 해야 합니다.
 

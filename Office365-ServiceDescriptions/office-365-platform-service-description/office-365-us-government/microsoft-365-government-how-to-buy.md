@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: b8adbcee90fbdbd014656f8f0e497821d37adfc2
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6a3bdafcdd7b18f64fd6894d1a4ab3612d392ae2
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213720"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711128"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 정부-구매 방법
 
@@ -136,6 +136,7 @@ Microsoft 365 정부 라이선스를 구매 하려면 다음 단계를 수행 �
 **AOS-G 파트너 GCC 및 GCC High (500 개 미만)**
 
 - Agile IT
+- AIS (적용 된 정보 Sciences) 
 - C3 통합 솔루션
 - Dox 전자 제품, i c.
 - F1 Solutions, i n c.
