@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Exchange Online 계획을 비롯 하 여 계획 간의 차이점을 확인 하는 경우이 문서에 각 기능에 포함 되는 기능이 표시 됩니다.
-ms.openlocfilehash: c0210b264f077a4403bbe987c469fa2574f77bf2
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: 47c1c475204f891c69f327bd8008931685df898b
+ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679575"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "44768134"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 및 Office 365 플랫폼 서비스 설명
 
@@ -103,7 +103,8 @@ Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 �
 |Microsoft Graph API  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft MyAnalytics<sup>20</sup>  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Microsoft Planner  <br/> |예  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft PowerApps  <br/> |예  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>12</sup> <br/> |
+|Microsoft PowerApps  <br/> |예  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>12</sup> <br/> | 
+|웹에 대 한 Microsoft Project <sup>23</sup> <br/> |예 <br/> |아니오 <br/>|있음 <br/> |예 <br/> |예 <br/> |예 <br/> | 예 <br/> |
 |Microsoft StaffHub  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Stream  <br/> |예  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>17</sup> <br/> |
 |Microsoft Sway  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |
@@ -226,3 +227,4 @@ Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 �
 <br/><sup>20</sup> 자세한 내용은 [myanalytics 요금제 and 환경용](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)을 참조 하십시오.
 <br/><sup>21</sup> 은 [azure active directory 가격](https://azure.microsoft.com/pricing/details/active-directory/) 페이지의 **Office 365 Apps** 열에 설명 되어 있는 azure active directory 기능을 포함 합니다. 프리미엄 Azure AD 기능을 얻으려면 Azure Active Directory 계획 1 또는 계획 2, 엔터프라이즈 모바일 보안 또는 Microsoft 365 E3 또는 E5를 추가 해야 합니다.<br/>
 <sup>22</sup> Exchange Online의 모든 사용자에 게 브리핑 전자 메일이 자동으로 제공 됩니다. 자세한 내용은 [브리핑 전자 메일 구성을](https://docs.microsoft.com/Briefing/be-admin)참조 하세요.<br>
+<sup>23</sup> 기능에 대 한 자세한 내용은 [Microsoft Project service description](../project-online-service-description/project-online-service-description.md)을 참조 하세요. 사용자에 게는 웹 프로젝트에 대 한 제한 된 액세스 권한이 부여 됩니다. 이러한 권한은 웹 응용 프로그램의 프로젝트와만 사용 하도록 제한 되며 프로젝트 계획 1, 프로젝트 계획 3 또는 프로젝트 계획 5 라이선스가 있는 테 넌 트에 대해서만 사용할 수 있습니다. 이러한 권한에는 전원 플랫폼 응용 프로그램 또는 기타 데이터 집합, Project Online 데스크톱 클라이언트 또는 Project Online에 대 한 액세스 권한을 부여 하지 않습니다.

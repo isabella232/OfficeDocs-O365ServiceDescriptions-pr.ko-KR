@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 및 독립 실행형 계획에 대 한 SharePoint 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: 8f793cbda0728f3d9ccc800b1c8eb75fb5855bde
-ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
+ms.openlocfilehash: 0f8516b92d6d32477c95a4d6bbc894700f607226
+ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "44356886"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "44768114"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -25,7 +25,7 @@ Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
 |||||
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Microsoft 365 Business Basic 또는 Business Premium** <br/> |**Office 365 Enterprise E1, E3 또는 E5, 또는 SharePoint 계획 1 또는 2** <br/> | **Office 365 Enterprise F3** <br/> |
-|조직<sup>1, 2, 6</sup> 당 총 저장소 <br/> |1TB 및 구매한 라이선스 당 10gb  <br/> |1TB 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |1TB<sup>3</sup> <br/> |
+|조직<sup>1, 2, 6</sup> 당 총 저장소 <br/> |1TB 및 구매한 라이선스 당 10gb  <br/> |1TB 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |10gb 및 구매한 라이선스 당 2gb<sup>3</sup> <br/> |
 |사이트당 최대 저장소 (사이트 모음)<sup>4</sup><br/> |25tb <br/> |25tb <br/> |25 TB<sup>5</sup> <br/> |
 |조직 당 사이트 (사이트 모음)  <br/> |200만<sup>6</sup> <br/> |200만<sup>6</sup> <br/> |200만<br/> |
 |사용자 수  <br/> |최대 300  <br/> |1-50만<sup>7</sup> <br/> |1-50만<sup>7</sup> <br/> |
@@ -53,7 +53,7 @@ Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
 
 ### <a name="file-size-and-file-path-length"></a>파일 크기 및 파일 경로 길이
 
-15gb 목록 항목에 첨부 되는 파일의 최대 크기는 250입니다. 새 OneDrive 동기화 앱 (OneDrive)을 사용 하는 경우 제한 및 제한 사항에 대 한 자세한 내용은 [잘못 된 파일 이름 및 파일 형식을](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)참조 하세요.
+15gb 목록 항목에 첨부 되는 파일의 최대 크기는 250입니다. 새 OneDrive 동기화 앱을 사용 하는 경우의 제한 사항에 대 한 자세한 내용은 [잘못 된 파일 이름 및 파일 형식](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)OneDrive.exe를 참조 하세요.
 
 ### <a name="moving-and-copying-across-sites"></a>사이트 간 이동 및 복사
 
@@ -63,7 +63,7 @@ Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
 
 **새 OneDrive 동기화 앱** -최적의 성능을 위해, 주문형 파일을 사용 하거나 라이브러리 내에서 동기화 할 일부 폴더만 선택 해도 동기화 된 모든 문서 라이브러리에서 파일을 30만 개 이하로 저장 하는 것이 좋습니다.
 
-**이전 비즈니스용 OneDrive 동기화 앱 (Groove)** -동기화 된 모든 라이브러리에서 최대 2만 항목 합계를 동기화 할 수 있습니다. 여기에는 OneDrive 라이브러리, 팀 사이트 라이브러리 또는 둘 다 포함 됩니다. 전체 동기화 제한과 별도로, 각 라이브러리 유형에 대해 동기화 할 수 있는 항목 수에 제한이 있습니다.
+**이전 비즈니스용 OneDrive 동기화 앱 (Groove.exe)** -동기화 된 모든 라이브러리에서 최대 2만 항목 합계를 동기화 할 수 있습니다. 여기에는 OneDrive 라이브러리, 팀 사이트 라이브러리 또는 둘 다 포함 됩니다. 전체 동기화 제한과 별도로, 각 라이브러리 유형에 대해 동기화 할 수 있는 항목 수에 제한이 있습니다.
 
    - OneDrive 라이브러리에서 최대 2만 개의 항목을 동기화 할 수 있습니다. 여기에는 폴더 및 파일이 포함 됩니다. 
    - SharePoint 라이브러리에서 최대 5000 개의 항목을 동기화 할 수 있습니다. 여기에는 폴더 및 파일이 포함 됩니다. 이 라이브러리는 팀 사이트 및 커뮤니티 사이트, 다른 사용자가 만들었거나 만든 라이브러리 또는 사이트 페이지에서 만든 라이브러리가 있는 다양 한 SharePoint 사이트에서 찾을 수 있습니다. 여러 SharePoint 라이브러리를 동기화 할 수 있습니다. 동기화 하는 모든 팀 사이트는 모든 동기화 된 라이브러리의 전체 2만 항목 제한에 대해서도 계산 됩니다.
