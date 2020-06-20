@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열 된 기능은 많은 장치 및 여러 Office 365 서비스에서 안전 하 게 공동 작업 하 고 통신 하는 데 사용할 수 있는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: f9887a0d2b408a5b9faed0f322ea1b71ff642217
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 402d755368d7a83996b2f1d7254f6b4defcdb3d6
+ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226197"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44820606"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 제품군 기능
 
@@ -57,11 +57,15 @@ MyAnalytics는 개인 생산성의 두 가지 주요 요인, 즉 시간과 사�
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
-Microsoft Planner는 사용자에게 팀 작업을 구성하는 시각적인 방법을 제공하는 도구입니다. 팀은 새 계획을 만들고, 작업을 구성 및 할당하고, 파일을 공유하고, 진행 중인 작업에 대해 대화를 나누고, 기한을 설정하고, 상태를 업데이트할 수 있습니다. 또한 Microsoft Planner는 문서를 특정 작업과 연결하고, 팀이 문서를 함께 편집하고, 작업 관련 대화를 하는 기능도 제공합니다. 자세한 내용은 [Microsoft Planner 소개](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809)를 참조하세요. Planner는 [Office 365 Germany](office-365-germany.md)에서 아직 사용할 수 없습니다.
+Microsoft Planner is a tool that gives users a visual way to organize teamwork. Teams can create new plans, organize and assign tasks, share files, chat about what they're working on, set due dates, and update status. Microsoft Planner also offers the ability to associate documents with specific tasks, edit them together, and have conversations around tasks. To learn more, see [Introducing Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner is not yet available in [Office 365 Germany](office-365-germany.md).
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
 Microsoft PowerApps은 모든 장치에서 작동하는 앱을 신속하게 작성, 통합 및 공유할 수 있는 엔터프라이즈 서비스입니다. PowerApps를 사용 하면 기본 제공 연결 또는 회사에서 구축한 사용자가 Microsoft 365 및 Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, Oracle 데이터베이스 등을 비롯 한 클라우드 및 온-프레미스 서비스에 앱을 연결할 수 있습니다. 전자 메일 주소를 입력하기만 하면 동료와 PowerApps을 쉽게 공유할 수 있습니다. 자세한 내용은 Microsoft [PowerApps 웹 사이트](https://powerapps.microsoft.com/)를 참조하세요.
+
+## <a name="microsoft-project-for-the-web"></a>웹에 대 한 Microsoft Project
+
+웹에 대 한 project는 클라우드 기반 작업 및 프로젝트 관리를 위한 가장 최근 Microsoft 제공입니다. 웹 프로젝트에서는 대부분의 요구 사항과 역할을 충족 하기 위한 간단한 강력한 작업 관리 기능을 제공 합니다. 프로젝트 관리자 및 팀 구성원은 Project를 사용 하 여 웹을 통해 모든 규모의 작업을 계획 하 고 관리할 수 있습니다. 자세한 내용을 보려면 [Microsoft Project 웹 사이트로](https://aka.ms/MicrosoftProject)이동 하세요.
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
@@ -89,7 +93,7 @@ Microsoft 365의 그룹은 더 많은 공동 작업을 수행 하는 데 필요�
   
 ## <a name="office-365-video"></a>Office 365 비디오
 
-Office 365 비디오는 장치 간에 비디오를 업로드, 공유 및 검색할 수 있는 안전한 회사 차원 대상으로, Microsoft Azure 미디어 서비스에서 제공합니다. Office 365 비디오를 통해 사용자는 계속해서 참여하고, 정보를 제공 받아 아이디어를 광범위하게 전달하여 조직이 다 함께 협력할 수 있도록 할 수 있습니다. 자세한 내용은 [Office 365 비디오 소개](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/)를 참조하세요.
+Office 365 Video is a secure, company-wide destination where you can upload, share and discover videos across your devices—powered by Microsoft Azure Media Services. Office 365 Video can help keep viewers engaged and informed, to communicate ideas broadly, and for organizations to be in unison. To learn more, see [Introducing Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
   
 ## <a name="onenote-class-notebook"></a>OneNote 수업용 전자 필기장
 
