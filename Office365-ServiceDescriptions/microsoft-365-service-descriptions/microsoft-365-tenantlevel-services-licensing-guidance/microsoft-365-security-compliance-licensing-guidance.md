@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: 4664f782fcd15f3357ae2394b54a4a4302834073
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
+ms.openlocfilehash: d9b6d40bb5c9e55805f0e26d008194aa0399ec3f
+ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711138"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44845012"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -210,6 +210,8 @@ AIP 스캐너 기능의 경우 Microsoft는 라이선스가 없는 사용자에 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
+Office 365 E5/A5/E3/A3/E1/A1은 레코드 없는 보존 레이블을 수동으로 적용 하 고, PST 파일을 가져오고, 전자 메일을 보관 하는 기본 정보 관리 기능을 제공 합니다.
+
 Microsoft 365 E5/A5/E3/A3, Office 365 E5/a5/e3/a3은 단일 조직 전체 또는 위치 차원의 보존 정책 및/또는 수동 보존 레이블에서 혜택을 얻을 수 있는 권한을 사용자에 게 제공 합니다.
 
 Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및 관리 방식 Office 365 E5/A5 및 Office 365 고급 규정 준수 사용자는 보존 레이블 또는 정책을 자동으로 적용 하 고, 사용자 지정 이벤트를 기반으로 보존 레이블의 보존 기간을 시작 하 고, 기본 데이터 커넥터를 통해 타사 데이터를 가져오고, 레이블이 지정 된 콘텐츠를 검색 하 고 레이블 작업을 모니터링 하는 방법에 대 한 권한을 제공 합니다.
@@ -218,7 +220,7 @@ Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및
 
 라이선스 별 특정 권한에 대 한 자세한 내용은 Microsoft 365 준수 라이선스 비교를 참조 하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
-기계 학습 (trainable 분류자)을 기반으로 하는 자동 보존에 대 한 권한을 포함 하지 않습니다.
+Office 365 Advanced 준수에는 기계 학습 (trainable 분류자)을 기반으로 하는 자동 보존에 대 한 권한이 포함 되어 있지 않습니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
@@ -406,7 +408,7 @@ Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 참가자 위험 
 
 ## <a name="office-365-message-encryption"></a>Office 365 메시지 암호화
 
-OME(Office 365 메시지 암호화)는 Azure RMS(권한 관리)를 기반으로 구축된 서비스로, 대상의 전자 메일 주소(Gmail, Yahoo! Mail, Outlook.com 등)에 상관없이 사용자 조직 내부 또는 외부 사람에게 암호화된 전자 메일을 보낼 수 있습니다.
+Office 365 Message Encryption (OME) is a service built on Azure Rights Management (Azure RMS) that lets you send encrypted email to people inside or outside your organization, regardless of the destination email address (Gmail, Yahoo! Mail, Outlook.com, etc.).
 
 암호화된 메시지를 보려면 받는 사람이 일회용 암호를 얻어 Microsoft 계정에 로그인하거나 Office 365와 연결된 회사 또는 학교 계정을 사용하여 로그인할 수 있습니다. 받는 사람은 암호화된 회신을 보낼 수도 있습니다. 암호화 된 메시지를 보거나 암호화 된 회신을 보내기 위해 구독을 할 필요가 없습니다.
 

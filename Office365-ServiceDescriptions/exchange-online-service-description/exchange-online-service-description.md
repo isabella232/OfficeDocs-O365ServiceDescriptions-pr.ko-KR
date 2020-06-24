@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함 하는 구독의 기능 비교를 찾으십니까? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: 53a553004ebe43770906c9bfb6a00178ac47249f
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 7b92bbbd418fd8b408f776b428dcbcc05e993bc5
+ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267347"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44845022"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -33,7 +33,7 @@ Exchange Online을 포함 하는 구독의 기능 비교를 찾으십니까? 그
 [Exchange Online의 전자 메일 배달 못 함 보고서](https://docs.microsoft.com/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
 [Exchange Online 도움말](https://docs.microsoft.com/exchange/exchange-online)
   
-Microsoft Exchange Online은 Microsoft Exchange Server의 기능을 클라우드 기반 서비스로 전달하는 호스트 메시징 솔루션입니다. 이 솔루션은 PC, 웹, 모바일 장치로부터 전자 메일, 일정, 연락처 및 작업에 액세스할 수 있도록 하며, Active Directory와 완전히 통합되어 관리자가 그룹 정책과 다른 관리 도구를 통해 환경 전반에서 Exchange Online 기능을 관리할 수 있도록 합니다.
+Microsoft Exchange Online is a hosted messaging solution that delivers the capabilities of Microsoft Exchange Server as a cloud-based service. It gives users access to email, calendar, contacts, and tasks from PCs, the web, and mobile devices. It integrates fully with Active Directory, enabling administrators to use group policies, as well as other administration tools, to manage Exchange Online features across their environment.
   
 Exchange Online을 구독한 조직은 사용자에게 제공하는 메시징 서비스에 대한 제어 권한은 유지하면서도 온-프레미스 서버 소프트웨어에 대한 작업 부담을 덜 수 있습니다. 이 문서에서 설명한 Exchange Online 호스트 계획을 사용하여, 다중 고객을 동시에 지원하는 서버에서 전자 메일이 호스트됩니다. 이러한 서버는 Microsoft 데이터 센터에 있으며 회사 네트워크 내부에서 또는 인터넷을 통해 광범위 한 장치에서 사용자가 액세스할 수 있습니다.
   
@@ -50,9 +50,9 @@ Exchange 관리 센터의 새로운 기능에 대 한 자세한 내용은 [excha
 
 Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. 독립 실행형 계획 옵션 및 계획 간 이동에 대 한 정보를 비롯 하 여 다양 한 계획에 대 한 자세한 내용은 [Office 365 계획 옵션](../office-365-platform-service-description/office-365-plan-options.md)을 참조 하세요.
   
-Exchange Online 서비스에 액세스하는 각 사용자는 구독 계획을 선택해야 하며, 각 사용자 구독에는 자체 사서함이 있습니다. 이러한 사서함의 폴더와 메시지는 Microsoft 데이터 센터에서 Exchange Server를 실행하는 컴퓨터에 있습니다.
+Each user who accesses the Exchange Online service must be assigned to a subscription plan, and each user subscription has its own mailbox. Folders and messages in these mailboxes reside on a computer running Exchange Server at a Microsoft data center.
   
-회의실 및 공유 사서함에 대해서는 사용자의 구독이 필요하지 않습니다. 이러한 특수 사서함 유형은 로그인 자격 증명이 없는 대신, 위임을 통해 적절한 권한을 가진 정식 사용자가 이를 관리 및 액세스합니다.
+User subscriptions are not required for conference rooms and shared mailboxes. These special mailbox types do not have login credentials. Instead, licensed users with the appropriate permissions manage and access them via delegation.
   
 ## <a name="system-requirements-for-exchange-online"></a>Exchange Online에 대한 시스템 요구 사항
 
@@ -237,14 +237,14 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |**[메일 흐름](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |아웃 바운드 메일의 사용자 지정 라우팅|예|예|예|예|예|
 |Secure messaging with a trusted partner|예|예|예|예|예|
-|Conditional mail routing|아니요|아니요|예|예|예|
-|인바운드 수신 허용 목록에 파트너 추가|아니요|아니요|예|예|예|
+|Conditional mail routing|아니요|아니요|있음|예|예|
+|인바운드 수신 허용 목록에 파트너 추가|아니요|아니요|있음|예|예|
 |하이브리드 전자 메일 라우팅|예|예|예|예|예|
 |**[받는 사람](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |용량 경고|예|예|예|예|예|
-|Clutter|아니요|아니요|예|예|예|
+|Clutter|아니요|아니요|있음|예|예|
 |메일 설명|예|예|예|예|예|
-|위임 액세스|예|예|예 \| /아니요|아니요|
+|위임 액세스|예|예|예|예|아니요|
 |받은 편지함 규칙|예|예|예|예|예|
 |연결된 계정|예|예|예<sup>19</sup>|예<sup>19</sup>|예<sup>19</sup>|
 |비활성 사서함|아니요|아니요|아니요 <sup>6</sup>|예|아니요<sup>6</sup>|
