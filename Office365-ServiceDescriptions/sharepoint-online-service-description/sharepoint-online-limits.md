@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 및 독립 실행형 계획에 대 한 SharePoint 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: 0f8516b92d6d32477c95a4d6bbc894700f607226
-ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
+ms.openlocfilehash: 1df1b5914d26e46798db04732b0574203ec1fab9
+ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "44768114"
+ms.lasthandoff: 06/24/2020
+ms.locfileid: "44873618"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -25,7 +25,7 @@ Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
 |||||
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Microsoft 365 Business Basic 또는 Business Premium** <br/> |**Office 365 Enterprise E1, E3 또는 E5, 또는 SharePoint 계획 1 또는 2** <br/> | **Office 365 Enterprise F3** <br/> |
-|조직<sup>1, 2, 6</sup> 당 총 저장소 <br/> |1TB 및 구매한 라이선스 당 10gb  <br/> |1TB 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |10gb 및 구매한 라이선스 당 2gb<sup>3</sup> <br/> |
+|조직<sup>1, 2, 6</sup> 당 총 저장소 <br/> |1TB 및 구매한 라이선스 당 10gb  <br/> |1TB 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |1TB<sup>3</sup> <br/> |
 |사이트당 최대 저장소 (사이트 모음)<sup>4</sup><br/> |25tb <br/> |25tb <br/> |25 TB<sup>5</sup> <br/> |
 |조직 당 사이트 (사이트 모음)  <br/> |200만<sup>6</sup> <br/> |200만<sup>6</sup> <br/> |200만<br/> |
 |사용자 수  <br/> |최대 300  <br/> |1-50만<sup>7</sup> <br/> |1-50만<sup>7</sup> <br/> |
@@ -53,7 +53,7 @@ Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
 
 ### <a name="file-size-and-file-path-length"></a>파일 크기 및 파일 경로 길이
 
-15gb 목록 항목에 첨부 되는 파일의 최대 크기는 250입니다. 새 OneDrive 동기화 앱을 사용 하는 경우의 제한 사항에 대 한 자세한 내용은 [잘못 된 파일 이름 및 파일 형식](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)OneDrive.exe를 참조 하세요.
+100 GB입니다. 목록 항목에 첨부 되는 파일의 최대 크기는 250입니다. 새 OneDrive 동기화 앱을 사용 하는 경우의 제한 사항에 대 한 자세한 내용은 [잘못 된 파일 이름 및 파일 형식](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)OneDrive.exe를 참조 하세요.
 
 ### <a name="moving-and-copying-across-sites"></a>사이트 간 이동 및 복사
 

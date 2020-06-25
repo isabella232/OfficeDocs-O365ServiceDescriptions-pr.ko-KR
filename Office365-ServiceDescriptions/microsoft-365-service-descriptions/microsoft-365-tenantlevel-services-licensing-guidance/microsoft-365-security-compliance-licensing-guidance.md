@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: d9b6d40bb5c9e55805f0e26d008194aa0399ec3f
-ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
+ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
+ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44845012"
+ms.lasthandoff: 06/24/2020
+ms.locfileid: "44873628"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -210,17 +210,21 @@ AIP 스캐너 기능의 경우 Microsoft는 라이선스가 없는 사용자에 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
-Office 365 E5/A5/E3/A3/E1/A1은 레코드 없는 보존 레이블을 수동으로 적용 하 고, PST 파일을 가져오고, 전자 메일을 보관 하는 기본 정보 관리 기능을 제공 합니다.
+Microsoft 365 F3/Business Premium, Office 365 E1/A1/F3 및 독립 실행형 Exchange 계획은 사서함 데이터에 레코드가 아닌 보존 레이블을 수동으로 적용 하 여 이점을 얻을 수 있는 권한을 제공 합니다.
 
-Microsoft 365 E5/A5/E3/A3, Office 365 E5/a5/e3/a3은 단일 조직 전체 또는 위치 차원의 보존 정책 및/또는 수동 보존 레이블에서 혜택을 얻을 수 있는 권한을 사용자에 게 제공 합니다.
+Microsoft 365 F3/F1/Business Premium, Office 365 E1/A1/F3 및 독립 실행형 SharePoint 계획은 SharePoint 또는 OneDrive의 파일에 레코드가 아닌 보존 레이블을 수동으로 적용 하 여 이점을 얻을 수 있는 권한을 제공 합니다. 
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및 관리 방식 Office 365 E5/A5 및 Office 365 고급 규정 준수 사용자는 보존 레이블 또는 정책을 자동으로 적용 하 고, 사용자 지정 이벤트를 기반으로 보존 레이블의 보존 기간을 시작 하 고, 기본 데이터 커넥터를 통해 타사 데이터를 가져오고, 레이블이 지정 된 콘텐츠를 검색 하 고 레이블 작업을 모니터링 하는 방법에 대 한 권한을 제공 합니다.
+Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/A3, Exchange 요금제 2 및 Exchange Online 보관은 사용자가 단일 기본 조직 전체 또는 위치 전체 사서함 보존 정책을 통해 혜택을 얻을 수 있는 권한을 제공 하며, 사서함 데이터에 레코드 없는 보존 레이블을 수동으로 적용 하는 데 사용 됩니다.
+
+Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/A3, SharePoint 계획 2는 사용자가 기본 SharePoint 또는 OneDrive 보존 정책을 통해 혜택을 얻을 수 있는 권한을 제공 하 고, SharePoint 또는 OneDrive의 파일에 레코드 없는 보존 레이블을 수동으로 적용할 수 있습니다.
+
+Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/A3은 팀 보존 정책을 활용할 수 있는 권한을 사용자에 게 제공 합니다.
+
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보호 및 관리 방식, Office 365 E5/A5, Office 365 고급 규정은 사용자가 보존 레이블 또는 정책을 자동으로 적용 하 여 혜택을 얻을 수 있는 권한을 제공 합니다. 기본 보존 레이블 또는 정책을 적용 하 고, 사용자 지정 이벤트를 기반으로 보존 레이블의 보존 기간을 시작 하 고, 기본 데이터 커넥터를 통해 타사 데이터를 가져오고, 파일 a 레코드를 선언 하 고, 레이블이 지정 된 콘텐츠를 검색 하 고, 레이블 작업을 모니터링 합니다.
 
 Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및 관리 방식에서는 trainable 분류자에 따라 보존 레이블을 자동으로 적용 하 여 혜택을 얻을 수 있는 권한을 제공 합니다.
 
 라이선스 별 특정 권한에 대 한 자세한 내용은 Microsoft 365 준수 라이선스 비교를 참조 하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-
-Office 365 Advanced 준수에는 기계 학습 (trainable 분류자)을 기반으로 하는 자동 보존에 대 한 권한이 포함 되어 있지 않습니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
@@ -390,9 +394,7 @@ Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365, 정보 보호 및 관리 �
 | 시나리오 | 라이선스가 필요한 사용자 |
 |:-------|:------|
 | 두 그룹 (그룹 1 및 그룹 2)은 서로 통신할 수 없으며, 그룹 1 사용자는 그룹 2 명의 사용자와 통신 하지 못하도록 제한 되며, 그룹 2 사용자는 그룹 1 명의 사용자와 통신 하는 것이 제한 됩니다. | 그룹 1 및 그룹 2의 사용자 |
-| 그룹 1의 사용자는 회사의 나머지와 통신 하지 못하도록 제한 됩니다. | 그룹 1의 사용자만 |
-| 회사의 나머지는 그룹 1과의 통신으로 제한 됩니다. | 그룹 1의 경우를 제외한 모든 사용자 |
-| 그룹 1 사용자는 그룹 2 사용자와의 통신을 제한 하지만 그룹 2 사용자는 그룹 1 사용자와 통신할 수 있습니다. | 그룹 1의 사용자만 ||
+| 그룹 1의 사용자는 회사의 나머지와 통신 하지 못하도록 제한 됩니다. | 그룹 1의 사용자만 ||
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
