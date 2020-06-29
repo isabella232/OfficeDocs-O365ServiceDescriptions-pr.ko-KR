@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
-ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
+ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
+ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44873628"
+ms.lasthandoff: 06/27/2020
+ms.locfileid: "44909451"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -129,7 +129,7 @@ MCAS는 섀도 IT를 감지 및 평가 하 고, 첫 번째 및 타사 클라우�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
-MCAS, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/A5/G5 보안, Microsoft 365 Information Protection 및 관리 방식에서는 MCAS에서 혜택을 받을 수 있는 권한을 사용자에 게 제공 합니다.
+MCAS, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Security, microsoft 365 E5/a5/G5 준수, microsoft 365 Information Protection 및 관리 방식 사용자에 게 MCAS에서 혜택을 얻을 수 있는 권한을 제공 합니다.
 
 Azure AD P1은 사용자에 게 MCAS의 검색 기능을 활용할 수 있는 권한을 제공 합니다.
 
@@ -214,7 +214,7 @@ Microsoft 365 F3/Business Premium, Office 365 E1/A1/F3 및 독립 실행형 Exch
 
 Microsoft 365 F3/F1/Business Premium, Office 365 E1/A1/F3 및 독립 실행형 SharePoint 계획은 SharePoint 또는 OneDrive의 파일에 레코드가 아닌 보존 레이블을 수동으로 적용 하 여 이점을 얻을 수 있는 권한을 제공 합니다. 
 
-Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/A3, Exchange 요금제 2 및 Exchange Online 보관은 사용자가 단일 기본 조직 전체 또는 위치 전체 사서함 보존 정책을 통해 혜택을 얻을 수 있는 권한을 제공 하며, 사서함 데이터에 레코드 없는 보존 레이블을 수동으로 적용 하는 데 사용 됩니다.
+Microsoft 365 E5/A5/E3/A3/Business Premium, Office 365 E5/A5/E3/A3, Exchange Online 보관은 사용자에 게 기본 조직 전체 또는 위치 전체 사서함 보존 정책을 통해 혜택을 얻을 수 있는 권한을 제공 하 고, 사서함 데이터에 레코드 없는 보존 레이블을 수동으로 적용 하는 데 사용 됩니다.
 
 Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/A3, SharePoint 계획 2는 사용자가 기본 SharePoint 또는 OneDrive 보존 정책을 통해 혜택을 얻을 수 있는 권한을 제공 하 고, SharePoint 또는 OneDrive의 파일에 레코드 없는 보존 레이블을 수동으로 적용할 수 있습니다.
 
