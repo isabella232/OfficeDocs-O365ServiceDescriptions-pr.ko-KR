@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
-ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
+ms.openlocfilehash: e9bdbeb811f874f14cd292faff56dc7c0eb9a829
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/27/2020
-ms.locfileid: "44909451"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988872"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -497,7 +497,7 @@ Microsoft 365 준수 센터에서 정책을 만들 때 **사용자 및 그룹 �
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
-Enterprise Mobility + Security E3/A3, Microsoft 365 F3/E3/A3 및 Azure Active Directory Premium 요금제 1의 라이선스가 있는 사용자가 조건부 액세스 정책을 활용할 수 있습니다. Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5, Microsoft E5 Security 및 Azure Active Directory Premium 요금제 2의 라이선스가 있는 사용자는 Id 보호 (위험 기반 조건부 액세스 정책)를 활용할 수 있습니다.
+Enterprise Mobility + Security E3/A3, Microsoft 365 F3/E3/A3/Business Premium 및 Azure Active Directory Premium 요금제 1의 라이선스가 있는 사용자는 조건부 액세스 정책이 도움이 될 수 있습니다. Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5, Microsoft E5 Security 및 Azure Active Directory Premium 요금제 2의 라이선스가 있는 사용자는 Id 보호 (위험 기반 조건부 액세스 정책)를 활용할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium은 중소 규모의 비즈니스 고객을 위한 Microsoft 모범 사례 제품입니다. Microsoft 365 Business Premium은 Microsoft 365 생산성, 고급 보안 및 장치 관리를 함께 제공 하는 통합 솔루션입니다.
-ms.openlocfilehash: 7d4def2067790bb77456643ebc9c89d121aa8c9a
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 1daa243d00291023b93b6c2f02cc0b73a06bb4a7
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213960"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988862"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>중소기업을 위한 Microsoft 365 라이선싱
 
@@ -137,7 +137,7 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 |   | Windows Defender Advanced Threat Protection | 아니요 | 아니요 | 아니요 | 예 |
 |   | Office 365 위협 인텔리전스 | 아니요 | 아니요  | 아니요 | 예 |
 |**Id 관리** | 하이브리드 Azure Active Directory 계정, Azure MFA, 조건부 액세스에 대 한 셀프 서비스 암호 재설정   | 아니오 | 있음 | 예 | 예 |
-|   | Azure AD: 클라우드 앱 검색, Azure AD Connect Health, 10 개 이상의 앱에 대 한 SSO | 아니요 | 아니요 | 있음 | 예 |
+|   | Azure AD: 클라우드 앱 검색, Azure AD Connect Health, 10 개 이상의 앱에 대 한 SSO | 예 | 예 | 예 | 예 |
 |   | Azure Active Directory 요금제 2 | 아니요 | 아니요 | 아니요 | 예 |
 |**장치 & 앱 관리** | Microsoft Intune, Windows AutoPilot | 아니오 | 있음 | 예 | 예 |
 |   | 공유 컴퓨터 활성화, Windows 가상 데스크톱 | 아니오 | 있음 | 예 | 예 |
