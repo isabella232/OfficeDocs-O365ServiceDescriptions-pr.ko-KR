@@ -10,12 +10,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 보안 및 &amp; 준수 센터는 조직에 대 한 Office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
-ms.translationtype: MT
+ms.openlocfilehash: 5264f2bb01085980a2fdab11a854df14a674b98d
+ms.sourcegitcommit: d5ea7e294f0b231c787280928a352a6be585c580
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711118"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043040"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -50,6 +49,7 @@ ms.locfileid: "44711118"
 |[eDiscovery 내보내기](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |아니요   |아니요   |아니요   |아니요   |예   |예   |아니요   |
 |[고급 eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |아니요   |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
 |[보관](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)  |예<sup>3</sup>  |예<sup>3</sup>  |예<sup>3</sup>   |예<sup>3</sup>  |예<sup>4</sup>  |예<sup>4</sup>  |아니요   |
+|[알림 정책](https://docs.microsoft.com/microsoft-365/compliance/alert-policies) |예   |예   |예|예   |예   |예   |예   |
 |[기본 감사](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |예   |예   |예|예   |예   |예   |예   |
 |[고급 감사](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |아니요   |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
 |[통신 준수 (감독 정책)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |아니요   |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
