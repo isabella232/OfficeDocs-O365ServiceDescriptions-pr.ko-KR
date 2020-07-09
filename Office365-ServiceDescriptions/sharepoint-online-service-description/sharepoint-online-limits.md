@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 및 독립 실행형 계획에 대 한 SharePoint 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: 5b5b3fb771ef148a57d8d3224eacf1c34b794f67
-ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
+ms.openlocfilehash: 2dca7a0f3cbcdfd958d325d56caf8b0656b50680
+ms.sourcegitcommit: 267c5bf4467aa1d7cc34e28d355bf38f5236c231
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/27/2020
-ms.locfileid: "44909441"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45082260"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -59,7 +59,11 @@ Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
 
 ### <a name="moving-and-copying-across-sites"></a>사이트 간 이동 및 복사
 
-작업당 100 웹 브라우저가 열린 상태를 유지 해야 합니다.
+단일 작업에서 여러 파일을 복사/이동 하면 다음과 같은 세 가지 요구 사항이 있습니다. 
+
+- 총 파일 크기 100 GB 이상 
+- 3만 개 이하의 파일
+- 각 파일은 2gb 미만 이어야 합니다.
 
 ### <a name="sync"></a>동기화
 
