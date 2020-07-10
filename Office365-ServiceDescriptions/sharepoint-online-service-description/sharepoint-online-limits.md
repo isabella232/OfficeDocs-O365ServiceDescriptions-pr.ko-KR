@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 및 독립 실행형 계획에 대 한 SharePoint 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: 2dca7a0f3cbcdfd958d325d56caf8b0656b50680
-ms.sourcegitcommit: 267c5bf4467aa1d7cc34e28d355bf38f5236c231
+ms.openlocfilehash: c6e18ea3e2219843c8169649ec6f1013270e6cff
+ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45082260"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45089649"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -25,7 +25,7 @@ Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
 |||||
 |:-----|:-----|:-----|:-----|
 |**기능** <br/> |**Microsoft 365 Business Basic 또는 Business Premium** <br/> |**Office 365 Enterprise E1, E3 또는 E5, 또는 SharePoint 계획 1 또는 2** <br/> | **Office 365 Enterprise F3** <br/> |
-|조직<sup>1, 2, 6</sup> 당 총 저장소 <br/> |1TB 및 구매한 라이선스 당 10gb  <br/> |1TB 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |1TB<sup>3</sup> <br/> |
+|조직<sup>1, 2, 6</sup> 당 총 저장소 <br/> |1TB 및 구매한 라이선스 당 10gb<sup>3</sup>  <br/> |1TB 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |1TB<sup>3</sup> <br/> |
 |사이트당 최대 저장소 (사이트 모음)<sup>4</sup><br/> |25tb <br/> |25tb <br/> |25 TB<sup>5</sup> <br/> |
 |조직 당 사이트 (사이트 모음)  <br/> |200만<sup>6</sup> <br/> |200만<sup>6</sup> <br/> |200만<br/> |
 |사용자 수  <br/> |최대 300  <br/> |1-50만<sup>7</sup> <br/> |1-50만<sup>7</sup> <br/> |

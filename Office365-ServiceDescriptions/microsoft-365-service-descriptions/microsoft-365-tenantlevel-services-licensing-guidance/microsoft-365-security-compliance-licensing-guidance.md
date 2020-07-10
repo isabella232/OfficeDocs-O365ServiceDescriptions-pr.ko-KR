@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: e9bdbeb811f874f14cd292faff56dc7c0eb9a829
-ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
+ms.openlocfilehash: 6c3fe17e95d3515e1a0df3c697362bb3438e77ac
+ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "44988872"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45089659"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -389,12 +389,11 @@ Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365, 정보 보호 및 관리 �
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예시:
+사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예:
 
 | 시나리오 | 라이선스가 필요한 사용자 |
 |:-------|:------|
-| 두 그룹 (그룹 1 및 그룹 2)은 서로 통신할 수 없으며, 그룹 1 사용자는 그룹 2 명의 사용자와 통신 하지 못하도록 제한 되며, 그룹 2 사용자는 그룹 1 명의 사용자와 통신 하는 것이 제한 됩니다. | 그룹 1 및 그룹 2의 사용자 |
-| 그룹 1의 사용자는 회사의 나머지와 통신 하지 못하도록 제한 됩니다. | 그룹 1의 사용자만 ||
+| 두 그룹 (그룹 1 및 그룹 2)은 서로 통신할 수 없으며, 그룹 1 사용자는 그룹 2 명의 사용자와 통신 하지 못하도록 제한 되며, 그룹 2 사용자는 그룹 1 명의 사용자와 통신 하는 것이 제한 됩니다. | 그룹 1 및 그룹 2의 사용자 ||
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
