@@ -1,19 +1,18 @@
 ---
 title: Microsoft Teams 서비스 설명
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 팀은 인스턴트 메시징, 파일 및 데이터 공동 작업, 오디오 및 비디오 통화, 리치 온라인 모임, 모바일 환경 및 광범위 한 웹 회의 기능을 제공 합니다.
-ms.openlocfilehash: 13b7c1e08e331d90d2318eb7bad055ddf184e2d3
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
+ms.openlocfilehash: bf8d879e002539753d0fd125fdb97f06ae4a6860
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711148"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131992"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 

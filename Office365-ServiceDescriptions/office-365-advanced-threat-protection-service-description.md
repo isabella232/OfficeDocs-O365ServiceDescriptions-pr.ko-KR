@@ -1,8 +1,7 @@
 ---
 title: Office 365 Advanced Threat Protection 서비스 설명
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,24 +11,24 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는 클라우드 기반 전자 메일 필터링 서비스로, 실시간으로 유해한 링크 로부터 조직을 보호 하는 기능을 포함 합니다.
-ms.openlocfilehash: 4e39c40c0448e35ed0df554499a6c2aa2d5c404c
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 53e80f635485594f95c62dfa5452ef5352b5a4d7
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213950"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132372"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection 서비스 설명
 
 Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는 클라우드 기반 전자 메일 필터링 서비스로, 실시간으로 유해한 링크 로부터 조직을 보호 하는 기능을 포함 합니다. ATP에는 조직에서 발생 하는 공격 종류를 관리자에 게 제공 하는 다양 한 보고 및 URL 추적 기능이 있습니다.
 
-다음은 메시지 보호에 ATP를 사용할 수 있는 기본 방법입니다.
+다음은 메시지 보호에 ATP를 사용하는 기본 방법입니다.
 
-- Office 365 ATP 필터링 전용 시나리오에서 ATP는 온-프레미스 Exchange 서버 환경 또는 기타 모든 온-프레미스 SMTP 전자 메일 솔루션에 대해 클라우드 기반 전자 메일 보호 기능을 제공 합니다.
+- Office 365 ATP 필터링 전용 시나리오에서 ATP는 온-프레미스 Exchange Server 환경이나 다른 온-프레미스 SMTP 전자 메일 솔루션에 클라우드 기반 전자 메일 보호를 제공합니다.
 
-- Office 365 ATP를 사용 하도록 설정 하 여 Exchange Online 클라우드 호스트 사서함을 보호할 수 있습니다. Exchange Online에 대 한 자세한 내용은 [Exchange online 서비스 설명을](exchange-online-service-description/exchange-online-service-description.md)참조 하세요.
+- Office 365 ATP를 사용하도록 설정하여 Exchange Online 클라우드 호스트 사서함을 보호할 수 있습니다. Exchange Online에 대 한 자세한 내용은 [Exchange online 서비스 설명을](exchange-online-service-description/exchange-online-service-description.md)참조 하세요.
 
-- 하이브리드 배포에서는 인바운드 전자 메일 필터링에 대 한 Exchange Online 보호와 함께 온-프레미스 및 클라우드 사서함을 함께 사용 하는 경우 메시징 환경을 보호 하 고 메일 라우팅을 제어 하도록 ATP를 구성할 수 있습니다.
+- 하이브리드 배포에서 온-프레미스 사서함과 클라우드 사서함을 인바운드 전자 메일 필터링용 Exchange Online Protection과 함께 사용하는 경우 메시징 환경을 보호하고 전자 메일 라우팅을 제어하도록 ATP를 구성할 수 있습니다.
 
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Office 365 ATP (Advanced Threat Protection) 가용성
 
@@ -77,7 +76,7 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>ATP (Advanced Threat Protection) 계획에서의 기능 가용성
 
-각 기능은 아래와 같습니다. Exchange Online은 대개 Office 365 Enterprise 서비스 제품군을 지칭하는 것입니다.
+Each feature is listed below. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
 
 |**기능**|**ATP 계획 1**<br>(이전의 ATP 독립 실행형)|**ATP 계획 2**<br>(이전의 위협 인텔리전스 <br>독립| Office 365 Enterprise E5|
 |:-----|:-----|:-----|:-----|
@@ -91,14 +90,14 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 |[실시간 보고서](#real-time-reports)|예|예|예|
 |*자동화, 조사, 수정 및 교육*|
 |[위협 트래커](#threat-trackers)|아니요|예|예|
-|위협 조사 (advanced threat 조사의)|[실시간 탐지](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
+|위협 조사 (advanced threat 조사의)|[실시간 탐지](#real-time-detections)|[탐색기](#explorer)|[탐색기](#explorer)|
 |[자동 인시던트 대응](#automated-incident-response)|아니요|예|예|
 |[공격 시뮬레이터](#attack-simulator)|아니요|예|예|
 
 > [!TIP]
 > Office 365 ATP 계획 1과 계획 2 간의 차이점에 대 한 다운로드 가능 목록을 원하십니까? [PDF를 가져옵니다](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf). 
 
-## <a name="advanced-threat-protection-atp-capabilities"></a>ATP (Advanced Threat Protection) 기능
+## <a name="advanced-threat-protection-atp-capabilities"></a>ATP(고급 위협 방지) 기능
 
 ### <a name="safe-attachments"></a>안전한 첨부 파일
 
@@ -109,7 +108,7 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 
 ### <a name="safe-links"></a>안전한 링크
 
-[ATP Safe Links](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) 기능은 메시지나 Office 문서의 악의적인 url 로부터 사용자를 사전에 보호 합니다. 악성 링크에 액세스할 수 있는 경우 악의적인 링크가 동적으로 차단 되므로이 기능은 링크를 선택할 때마다 유지 됩니다.
+[ATP Safe Links](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) 기능은 메시지나 Office 문서의 악의적인 url 로부터 사용자를 사전에 보호 합니다. 악의적인 링크는 동적으로 차단되지만 정상 링크에는 액세스할 수 있으므로 링크를 선택할 때마다 보호 기능이 유지됩니다.
 
 다음과 같은 앱의 Url에 대해 안전한 링크를 사용할 수 있습니다.
 
@@ -134,15 +133,15 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 
 ### <a name="anti-phishing-policies"></a>피싱 방지 정책
 
-[ATP 피싱 방지](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) 는 메시지가 피싱 인 경우 메시지에 대 한 표시기를 확인 합니다. 사용자에 게 ATP 정책 (안전한 첨부 파일, 안전한 링크 또는 피싱 방지)이 포함 되어 있는 경우 들어오는 메시지는 메시지를 분석 하는 여러 기계 학습 모델에 의해 평가 되며 구성 된 정책에 따라 적절 한 조치를 취할 수 있습니다.
+[ATP 피싱 방지](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) 는 메시지가 피싱 인 경우 메시지에 대 한 표시기를 확인 합니다. 사용자에게 ATP 정책(안전한 첨부 파일, 안전한 링크 또는 피싱 방지)이 적용되는 경우 들어오는 메시지는 메시지를 분석하고 구성된 정책을 기반으로 해당 조치를 수행하는 여러 기계 학습 모델에 의해 평가됩니다.
 
 ### <a name="real-time-reports"></a>실시간 보고서
 
 보안 및 준수 관리자가 보안 공격이 나 향상 된 수상한 활동과 같은 우선 순위가 높은 문제에 집중할 수 있도록 하는 [실시간 보고서 및 정보](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) 를 제공 하는 모니터링 기능 (Security & 준수 센터)이 포함 되어 있습니다. 문제 영역을 강조 표시 하는 것 외에도 smart reports 및 insights에는 데이터를 보고 탐색 하 고 빠른 작업도 수행할 수 있는 권장 사항과 링크가 포함 되어 있습니다.
 
-### <a name="explorer"></a>Explorer
+### <a name="explorer"></a>탐색기
 
-Explorer (위협 탐색기 라고도 함)는 승인 된 사용자가 최근 위협을 식별 하 고 분석할 수 있도록 하는 실시간 보고서입니다. 기본적으로이 보고서에는 최근 7 일간의 데이터가 표시 됩니다. 그러나 보기를 수정 하 여 최근 30 일간의 데이터를 표시할 수 있습니다.
+탐색기(위협 탐색기라고도 함)는 인증된 사용자가 최근 위협을 식별하고 분석하는 데 사용되는 실시간 보고서입니다. 기본적으로 이 보고서에는 지난 7일간에 대한 데이터가 표시됩니다. 그러나 이전의 30일간에 대한 데이터를 표시하도록 보기를 수정할 수 있습니다.
 
 탐색기에는 맬웨어 (전자 메일 및 콘텐츠에 대 한), 전송, 피싱 및 모든 전자 메일 같은 보기가 포함 되어 있습니다. Explorer에서 실시간 검색을 비교 하는 방법을 보려면 [이 PDF를 다운로드](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)하세요.
 
@@ -150,7 +149,7 @@ Explorer (Office 365 Advanced Threat Protection 계획 2) 및 실시간 검색 (
 
 ### <a name="real-time-detections"></a>실시간 탐지
 
-실시간 검색은 승인 된 사용자가 최근 위협을 식별 하 고 분석할 수 있도록 하는 실시간 보고서입니다. Explorer와 마찬가지로 기본적으로이 보고서에는 최근 7 일간의 데이터가 표시 됩니다.
+실시간 검색은 권한있는 사용자가 최근 위협을 식별하고 분석하는 데 사용되는 실시간 보고서입니다. 기본적으로 이 보고서에는 탐색기와 유사한 지난 7일 동안의 데이터가 표시됩니다.
 
 실시간 검색에는 맬웨어 (전자 메일 및 콘텐츠에 대 한), 전송 및 피싱 같은 보기가 포함 됩니다. 실시간 검색이 탐색기와 비교 되는지 확인 하려면 [이 PDF를 다운로드](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)하세요.
 

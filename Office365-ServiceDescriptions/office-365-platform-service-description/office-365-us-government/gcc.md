@@ -1,8 +1,7 @@
 ---
 title: Office 365 GCC
-ms.author: danarl
-author: danarl
-manager: dianap
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 미국 정부를 대신 하 여 데이터를 보관 하거나 처리할 수 있는 정부 뿐 아니라 미국의 연방, 주, 로컬 및 부족에 대 한 고유한 요구 사항과 진화 하는 규정을 충족 하기 위해 Microsoft에서는 Office 365 GCC (미국 정부 커뮤니티) 서비스를 제공 합니다. 볼륨 라이선스를 비롯한 여러 채널을 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재 평가판은 미국 정부 기관에만 제공됩니다.
-ms.openlocfilehash: 5baa9f8d1042ef8470b983d2a38a8a1130b55f34
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 63cd26644cfdfc218026d120b73574ad1dc14c00
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262539"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131742"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
 미국 정부를 대신 하 여 데이터를 보관 하거나 처리할 수 있는 정부 뿐 아니라 미국의 연방, 주, 로컬 및 부족에 대 한 고유한 요구 사항과 진화 하는 규정을 충족 하기 위해 Microsoft에서는 Office 365 GCC (미국 정부 커뮤니티) 서비스를 제공 합니다. 볼륨 라이선스를 비롯한 여러 채널을 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재 평가판은 미국 정부 기관에만 제공됩니다. 
   
-계정 팀 또는 기본 설정 파트너에 참여해서 자세히 알아보거나 유효성 검사 프로세스를 시작하세요. 추가 정보는 [Compare Office 365 Government 요금제](https://products.office.com/government/compare-office-365-government-plans) 페이지에서 찾을 수 있습니다. 
+Please engage your account team or preferred partner to learn more, or initiate the validation process. Additional information can be found on the [Compare Office 365 Government Plans](https://products.office.com/government/compare-office-365-government-plans) page. 
   
 ## <a name="how-to-use-this-service-description-section"></a>이 서비스 설명 섹션을 사용 하는 방법
 
@@ -29,7 +28,7 @@ Office 365 US 정부 서비스 설명은 일반적인 Office 365 서비스 설�
   
 ## <a name="us-government-community-compliance"></a>미국 정부 커뮤니티 준수
 
-Office 365 Government는 보통 영향 수준에서 FedRAMP(Federal Risk and Authorization Management Program) 승인을 지원합니다. FedRAMP 아티팩트는 FedRAMP를 준수해야 하는 연방 고객이 검토할 수 있습니다. 연방 정부 기관은 ATO(Authority to Operate)를 부여하기 위한 검토 지원 시 이러한 아티팩트를 검토할 수 있습니다.
+Office 365 US Government supports the Federal Risk and Authorization Management Program (FedRAMP) accreditation at a Moderate Impact level. FedRAMP artifacts are available for review by federal customers who are required to comply with FedRAMP. Federal agencies can review these artifacts in support of their review to grant an Authority to Operate (ATO).
   
 Office 365 Government에서는 수준 2(Non-Controlled Unclassified Information) 시스템에 대한 미 국무부 클라우드 컴퓨팅 보안 요구 지침도 지원합니다. 
   
@@ -57,7 +56,7 @@ Office 365 직원은 Office 365 US Government Community에서 호스트된 고�
   
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 Government 커뮤니티 및 Yammer
 
-Yammer Enterprise는 Office 365 Government의 구성 요소는 아니지만 Office 365 Government 계획 E1 및 E3의 사용이 허가된 각 사용자는 독립 실행형 제공 서비스로 추가 비용 없이 얻을 수 있습니다. 이 제공 서비스는 현재 기업계약 및 기업 정기가입 계약에 따라 Office 365 Government를 구입한 고객에게 제한됩니다. 
+Yammer Enterprise is not a component of Office 365 US Government, but may be acquired at no cost as a standalone offer for each user licensed for Office 365 US Government Plan E1 and E3. This offer is currently limited to customers who purchase Office 365 US Government under Enterprise Agreement and Enterprise Subscription Agreements. 
   
 현재 Yammer는 응용 프로그램 계층에서 고객 데이터를 논리적으로 분리할 수 있도록 합니다. 그렇지만 Yammer는 Office 365 Government와 동일한 데이터 위치 및 데이터 액세스 기능을 제공하지 않고 FedRAMP 승인을 지원하지 않으며 Office 365 서비스와는 다른 계약 조건을 따릅니다. 조직에서 Yammer의 적절 한 사용을 평가할 때는 [yammer 서비스 설명](../../yammer-service-description/yammer-service-description.md) 및 개인 정보 취급 방침을 검토 하는 것이 좋습니다. Yammer를 포함한 Office 365 정부 계획에 대해 자세히 알아보려면 [Office 365 Government](office-365-us-government.md)를 참조하세요.
   
@@ -65,7 +64,7 @@ Yammer의 사용이 Office 365 Government 구독의 일부로서 조직에 적�
   
 ## <a name="office-365-us-government-community-and-myanalytics"></a>Office 365 Government 커뮤니티 및 MyAnalytics
 
-MyAnalytics는 Office 365 서비스용 FedRAMP 제어 구현에 맞게 설계되고 작동되지만 아직 3PAO에게 Office 365 연간 FedRAMP 감사의 일부로서 검토받지 않았습니다. 필요한 경우 조직에서 MyAnalytics를 사용하기 전에 서비스 규정 준수 감사부에 문의하세요.
+MyAnalytics is designed and operated in accordance with the FedRAMP control implementation for Office 365 services, but has not yet been reviewed by a 3PAO as part of the Office 365 annual FedRAMP audit. If necessary, please consult with your compliance office before enabling MyAnalytics services for users in your organization.
   
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 GCC (미국 정부 커뮤니티 클라우드) 고객 지원
 

@@ -1,7 +1,7 @@
 ---
 title: 비즈니스용 Skype Online 기능
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 manager: supotter
 audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 관리자 인 경우 비즈니스용 Skype Online 설정에서 비즈니스용 Skype Online 기능을 설정 하는 방법에 대 한 자세한 지침을 확인할 수 있습니다.
-ms.openlocfilehash: 90d5e7ab138d3bb2098cd279dcf7431043107a57
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: be40d66d6a59bc69f90b354d3df82393921d1163
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638806"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132112"
 ---
 # <a name="skype-for-business-online-features"></a>비즈니스용 Skype Online 기능
 
@@ -40,7 +40,7 @@ ms.locfileid: "43638806"
 
 비즈니스용 Skype를 사용 하는 사용자는 다음을 수행할 수 있습니다.
   
-- 사용자의 현재 상태&mdash;를 표시 하려면 사용 가능, 자리 비움, 방해 금지 또는 오프&mdash;라인으로 설정 합니다. 비즈니스용 Skype 현재 상태 정보가 제품군 전체에 제공 됩니다.
+- 사용자의 현재 상태를 표시 &mdash; 하려면 사용 가능, 자리 비움, 방해 금지 또는 오프 라인 &mdash; 으로 설정 합니다. 비즈니스용 Skype 현재 상태 정보가 제품군 전체에 제공 됩니다.
     
 - 인터넷과 같은 IP (인터넷 프로토콜) 네트워크를 통해 실시간으로 텍스트 메시지를 보내거나 조직의 회사 네트워크를 통해 수신 합니다. 인스턴트 메시징은 Skype 간 통신 및 단체 통신 모두에 사용할 수 있습니다. IM 텍스트는 보안 향상을 위해 암호화됩니다.
     
@@ -140,4 +140,4 @@ Microsoft를 전화 접속 회의 공급자로 사용 하거나 타사 전화 �
   
 자세한 내용은 [Skype 모임 브로드캐스트 란?를 확인](https://support.office.com/article/c472c76b-21f1-4e4b-ab58-329a6c33757d)하세요.
   
-Skype 모임 브로드캐스트 포털은에서 [https://portal.broadcast.skype.com](https://portal.broadcast.skype.com/)찾을 수 있습니다.
+Skype 모임 브로드캐스트 포털은에서 찾을 수 있습니다 [https://portal.broadcast.skype.com](https://portal.broadcast.skype.com/) .

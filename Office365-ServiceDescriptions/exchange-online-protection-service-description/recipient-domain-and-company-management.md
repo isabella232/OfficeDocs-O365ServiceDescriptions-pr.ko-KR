@@ -1,8 +1,7 @@
 ---
 title: 받는 사람, 도메인 및 회사 관리
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Microsoft EOP (Exchange Online Protection)에서는 받는 사람, 도메인 및 회사 정보를 관리 하는 여러 가지 방법을 제공 합니다. 관리자는 EAC (Exchange 관리 센터) 내에서 특정 관리 작업을 수행 하 고 Microsoft 365 관리 센터에서 수행 된 기타 관리 작업을 확인할 수 있습니다.
-ms.openlocfilehash: dcd039eab77c1b9df638df5ac3a3e5f6373e852d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4a2d2d091a6170e0606702a4a8047a21ad57ac11
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640266"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132772"
 ---
 # <a name="recipient-domain-and-company-management"></a>받는 사람, 도메인 및 회사 관리
 
@@ -31,7 +30,7 @@ Microsoft EOP (Exchange Online Protection)에서는 받는 사람, 도메인 및
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 
-EOP에서는 관리자 역할만 구성할 수 있습니다. EAC에서 직접 사용자를 기본 관리자 역할 그룹에 추가하거나 그룹에서 제거할 수 있습니다. RBAC는 사용자 지정할 수 없습니다. 자세한 내용은 [EOP에서 관리자 역할 그룹 권한 관리](https://go.microsoft.com/fwlink/p/?LinkId=282238)를 참조하세요.
+In EOP, you can configure administrative roles only. Users can be added and removed from default admin role groups directly in the EAC. No RBAC customization is available. For more information, see [Manage Admin Role Group Permissions in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282238).
   
 ## <a name="domain-management"></a>도메인 관리
 
@@ -39,13 +38,13 @@ EOP에서는 관리자 역할만 구성할 수 있습니다. EAC에서 직접 �
   
 ## <a name="match-subdomains"></a>하위 도메인 일치
 
-EOP에서는 관리되는 도메인의 하위 도메인에 대한 메일 흐름을 사용하도록 설정할 수 있습니다. 자세한 내용은 [EOP에서 하위 도메인에 대해 전자 메일 흐름 사용](https://go.microsoft.com/fwlink/p/?LinkId=397213)을 참조하세요. 
+In EOP, you can enable mail flow to subdomains of a managed domain. For more information, see [Enable Email Flow for Subdomains in EOP](https://go.microsoft.com/fwlink/p/?LinkId=397213). 
   
 ## <a name="directory-based-edge-blocking-dbeb"></a>DBEB(디렉터리 기반 Edge 차단)
 
 디렉터리 기반 Edge 차단 기능을 사용하면 서비스 네트워크 경계에서 잘못된 받는 사람의 메시지를 거부할 수 있습니다. DBEB를 사용 하면 관리자가 메일 사용이 가능한 받는 사람을 Microsoft에 추가 하 고 Microsoft에 제공 되지 않은 전자 메일 주소로 전송 된 모든 메시지를 차단할 수 있습니다. Microsoft에 있는 유효한 전자 메일 주소로 메시지가 전송 되는 경우 해당 메시지는 나머지 서비스 필터링 계층 (맬웨어 방지, 스팸 방지, 전송 규칙)을 통해 계속 진행 됩니다. 주소가 없는 경우 필터링이 이루어지기 전에 서비스에서 메시지가 차단되고, 메시지가 배달되지 않았음을 알리는 NDR(배달 못 함 보고서)이 보낸 사람에게 보냅니다. 
   
-DBEB를 사용하려면 일부 사용자 및 도메인 구성이 필요합니다. 자세한 내용은 [디렉터리 기반 Edge 차단을 사용하여 잘못된 받는 사람에게 전송된 메시지 거부](https://go.microsoft.com/fwlink/p/?LinkId=390676)를 참조하세요.
+Enabling DBEB requires some user and domain configuration. For more information, see [Use Directory Based Edge Blocking to Reject Messages Sent to Invalid Recipients](https://go.microsoft.com/fwlink/p/?LinkId=390676).
   
 ## <a name="feature-availability"></a>기능 가용성
 

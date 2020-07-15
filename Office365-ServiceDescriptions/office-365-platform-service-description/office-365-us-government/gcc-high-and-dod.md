@@ -1,8 +1,7 @@
 ---
 title: Office 365 GCC High 및 DoD
-ms.author: danarl
-author: danarl
-manager: dianap
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Office 365 상업용 환경과 비교 하 여 Office 365 GCC High 및 DoD 환경의 고유한 약정 및 차이점에 대해 알아봅니다.
-ms.openlocfilehash: ac769bf832d1aa3454596d5aad1c2a8b3769e6d2
-ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
+ms.openlocfilehash: 388e7c3a37e88233982cf12a73e22622a61d1cb8
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43914784"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131982"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High 및 DoD
 
@@ -75,7 +74,7 @@ Office 365 정부에는 [파일 요청](https://support.office.com/article/f54aa
 
 ### <a name="skype-for-business-online"></a>비즈니스용 Skype Online
 
- **Pstn &amp; 회의** pstn 전화-통신 지향 서비스에 pstn (공중 전화망)을 사용 해야 하는 요구 사항으로 인해 현재 GCC High 및 &amp; DoD에서는 pstn 회의 서비스를 호출 하는 것이 가능 하지 않습니다.
+ **PSTN 통화 &amp; PSTN 회의** -전화 통신 지향 서비스에 pstn (공중 전화망)을 사용 해야 하기 때문에 Pstn 회의 서비스를 호출 하는 pstn &amp; 은 현재 GCC High 및 DoD에서는 사용할 수 없습니다.
 
 ### <a name="microsoft-teams"></a>Microsoft Teams
 

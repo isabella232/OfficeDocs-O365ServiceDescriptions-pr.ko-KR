@@ -1,8 +1,7 @@
 ---
 title: Yammer의 관리 및 보안 기능
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: Yammer에서는 다음과 같은 관리 및 보안 기능을 사용할 수 있습니다.
-ms.openlocfilehash: e177cbdfa4c34aba68970e26cec2c72d7780afef
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: c4f7bc321de1abff3a260cd30922d305548cfc97
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640086"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132102"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Yammer의 관리 및 보안 기능
 
@@ -27,11 +26,11 @@ Yammer에서는 다음과 같은 관리 및 보안 기능을 사용할 수 있�
 
 ## <a name="admin-private-content-mode"></a>관리 전용 콘텐츠 모드
 
-Yammer 네트워크의 확인된 관리자는 전체 네트워크에서 개인 메시지 및 그룹을 볼 수 있습니다. 확인된 관리자는 문제 조사를 위해 전용 콘텐츠에 대한 액세스 권한이 일시적으로 부여된 경우에만 전용 콘텐츠를 볼 수 있습니다. 자세한 내용은 [Yammer에서 전용 콘텐츠 모니터링(확인된 관리자)](https://go.microsoft.com/fwlink/?LinkId=627479)을 참조하세요.
+A verified admin of a Yammer network can view private messages and groups throughout the network.  Verified admins can see private content only when temporarily granting themselves access to private content to investigate issues.  For more information, see [Monitor private content in Yammer (verified admins)](https://go.microsoft.com/fwlink/?LinkId=627479).
 
 ## <a name="analytics"></a>분석
 
-네트워크 분석을 통해 직원의 Yammer 사용 현황을 파악할 수 있습니다. 사용 메트릭에서 구성원 통계에 이르기까지의 분석을 통해 성장을 유도하고 네트워크의 가치를 향상시키는 방법을 알아봅니다.
+Gain insights from network analytics to find out how employees are using Yammer. From usage metrics to member statistics, identify ways to drive growth and increase the value of your network.
 
 ## <a name="custom-network-branding"></a>사용자 지정 네트워크 브랜딩
 
@@ -74,7 +73,7 @@ Yammer 네트워크의 확인된 관리자는 전체 네트워크에서 개인 �
 
 ## <a name="single-identity"></a>단일 id
 
-조직의 기본 소셜 환경으로 Yammer를 선택 하면 직원이 기존 Yammer 계정에 매핑됩니다. 그러므로 Office 365에서 Yammer로 이동할 때 다시 로그인하지 않아도 됩니다. 직원이 Office 365,&mdash;yammer 모바일 앱을 통해 또는 Yammer.com&mdash;로 이동 하 여 yammer에 액세스 하는 경우 기존 조직 자격 증명을 기반으로 자동으로 로그인 됩니다.
+조직의 기본 소셜 환경으로 Yammer를 선택 하면 직원이 기존 Yammer 계정에 매핑됩니다. 그러므로 Office 365에서 Yammer로 이동할 때 다시 로그인하지 않아도 됩니다. 직원이 &mdash; Office 365, yammer 모바일 앱을 통해 또는 Yammer.com로 이동 하 여 yammer에 액세스 하는 경우 &mdash; 기존 조직 자격 증명을 기반으로 자동으로 로그인 됩니다.
 
 ## <a name="usage-policy"></a>사용 정책
 

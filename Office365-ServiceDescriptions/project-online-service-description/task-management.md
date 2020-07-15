@@ -1,8 +1,7 @@
 ---
 title: 작업 관리
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: Project Online에서는 다음과 같은 작업 관리 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 2c12f50e40703a25b0c6909fc21b73ea92d73a84
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 803721cda7498c7acf876471ebc679bab5b5a577
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640276"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131072"
 ---
 # <a name="task-management"></a>작업 관리
 
@@ -27,7 +26,7 @@ Project Online에서는 다음과 같은 작업 관리 기능을 사용할 수 �
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
-작업을 비활성화하더라도 프로젝트 계획에 남아 있으며 리소스 가용성, 프로젝트 일정 또는 다른 작업의 예약 방법에 영향을 주지 않습니다. 자세한 내용은 [작업 비활성화](https://go.microsoft.com/fwlink/p/?LinkId=271335)를 참조하세요.
+When you inactivate a task, it stays in the project plan but does not affect the following: resource availability, the project schedule, or how other tasks are scheduled. Learn more about [inactivating a task](https://go.microsoft.com/fwlink/p/?LinkId=271335).
   
 ## <a name="auto-complete"></a>자동 완성
 
@@ -43,7 +42,7 @@ Project Online에서는 다음과 같은 작업 관리 기능을 사용할 수 �
   
 ## <a name="cross-project-critical-path"></a>프로젝트 간 요주의 경로
 
-요주의 경로는 프로젝트를 일정대로 끝내기 위해 일정대로 완료해야 하는 일련의 작업입니다. 다른 프로젝트에 속한 작업과의 종속 관계를 만들고 편집하고 삭제할 수 있습니다. 
+A critical path is the series of tasks that must be completed on schedule for a project to finish on schedule. You can create, edit, and delete a dependency relationship with a task in another project. 
   
 ## <a name="task-inspector"></a>작업 검사
 
@@ -51,7 +50,7 @@ Project Online에서는 다음과 같은 작업 관리 기능을 사용할 수 �
   
 ## <a name="task-path-analysis"></a>작업 경로 분석
 
-프로젝트 전체에서 작업 경로를 강조 표시하여 한 작업이 다른 작업에 연결되는 방식을 확인합니다. 자세한 내용은 [작업과 다른 작업의 연결 상태 강조 표시](https://go.microsoft.com/fwlink/p/?LinkId=271345)를 참조하세요.
+See how one task connects to other tasks by highlighting its task path throughout the project. Learn more about [highlighting how tasks link to other tasks](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
 ## <a name="top-down-summary-tasks"></a>하향식 요약 작업
 

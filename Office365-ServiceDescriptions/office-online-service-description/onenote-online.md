@@ -1,8 +1,7 @@
 ---
 title: 웹용 OneNote
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: 웹 (이전의 OneNote Web App)에 OneNote를 사용 하 여 어디에서 나 다른 사람과 쉽게 공유할 수 있는 OneNote 전자 필기장에서 온라인으로 노트를 작성 합니다. 모든 고객은 웹에서 Office를 사용 하 여 Office 파일을 보고 가볍게 편집할 수 있습니다.
-ms.openlocfilehash: 64a6e74e82814af94ed362d98950279b7562142c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: a85dcebbba52a14c0041f0cc514e557c8691161f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640226"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131312"
 ---
 # <a name="onenote-for-the-web"></a>웹용 OneNote
 

@@ -1,8 +1,7 @@
 ---
 title: 서비스 업데이트
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,17 +11,17 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 바로 출시 되었거나 출시 될 Office 365 기능에 대 한 자세한 내용은 Microsoft 365 로드맵를 참조 하세요.
-ms.openlocfilehash: e0a9c143a85a1df830b973b69babac6bb8b831f5
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6dcc27411eaab86762a2fa8672d69b359b5a2ee0
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44044810"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131482"
 ---
 # <a name="service-updates"></a>서비스 업데이트
 
 > [!NOTE]
-> 이 항목은 21Vianet에서 운영하는 Office 365에는 적용되지 않습니다 서비스 업데이트에 대한 자세한 내용은 [21Vianet에서 운영하는 Office 365에 대한 기술, 결제 및 구독 지원 받기](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)를 참조하세요. 
+> This topic does not apply to Office 365 operated by 21Vianet. To learn about service updates, see [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
   
 방금 출시 되었거나 출시 될 기능에 대 한 자세한 내용은 [Microsoft 365 로드맵](https://go.microsoft.com/fwlink/?LinkId=509914)를 참조 하세요.
   

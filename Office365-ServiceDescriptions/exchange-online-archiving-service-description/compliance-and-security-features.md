@@ -1,8 +1,7 @@
 ---
 title: Exchange Online 보관의 규정 준수 및 보안 기능
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: b977fea67c28a660a7468945c76d19677769cd8f
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: b03c74e0c760cf22c12e6973a544553d119471fe
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638696"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132742"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online 보관의 규정 준수 및 보안 기능
 
@@ -28,15 +27,15 @@ ms.locfileid: "43638696"
 
 Exchange Online Archiving은 전자 메일 및 기타 통신과 관련한 조직의 부담을 줄이는 데 도움을 주는 보존 정책을 제공합니다. 이러한 정책을 사용하면 관리자가 사용자 사서함의 특정 폴더에 보존 설정을 적용할 수 있습니다. 또한 관리자는 사용자에 게 보존 정책 메뉴를 제공 하 고 Outlook 2010 이상 또는 웹용 Outlook을 사용 하 여 특정 항목, 대화 또는 폴더에 정책을 적용 하도록 할 수 있습니다. Exchange Online Archiving에서 관리자는 온-프레미스 인프라의 보존 정책을 관리합니다.
   
-Exchange Online Archiving은 보관과 삭제라는 두 가지 유형의 정책을 제공합니다. 이 두 가지 유형을 동일한 항목이나 폴더에 적용할 수 있습니다. 예를 들어, 사용자가 지정한 기간(일)이 지나면 자동으로 전자 메일 메시지가 보관 사서함으로 이동되고 또 다른 지정한 기간(일)이 지나면 삭제되도록 전자 메일 메시지에 태그를 지정할 수 있습니다.
+Exchange Online Archiving offers two types of policies: archive and delete. Both types can be applied to the same item or folder. For example, a user can tag an email message so that it is automatically moved to the personal archive in a specified number of days and deleted after another span of days.
   
 Outlook 2010 이상 및 웹용 Outlook을 사용 하면 사용자가 폴더, 대화 또는 개별 메시지에 보존 정책을 적용할 수 있으며, 적용 된 보존 정책 및 메시지의 예상 삭제 날짜를 볼 수도 있습니다. 다른 전자 메일 클라이언트 사용자의 경우 관리자가 프로비전한 서버 쪽 보존 정책에 따라 전자 메일이 삭제되거나 보관되도록 할 수는 있지만 Outlook 2010 및 Outlook Web App에서와 같은 수준으로 메시지를 보거나 제어할 수는 없습니다.
   
-Exchange Online Archiving에서 제공하는 보존 정책 기능은 Exchange Server 2010 SP2(서비스 팩 2) 이상에서 제공하는 기능과 동일합니다. 관리자는 온-프레미스 Exchange Server 2010 이상 환경에서 보존 정책을 관리할 수 있습니다. Exchange 2007에 도입되었던 이전의 메시징 레코드 관리 방법인 관리 폴더는 Exchange Online Archiving에서 사용할 수 없으며 Exchange Online Archiving과 호환되지 않습니다. 자세한 내용은 [보존 태그 및 보존 정책](https://go.microsoft.com/fwlink/p/?LinkID=314153)을 참조하세요.
+The retention policy capabilities offered in Exchange Online Archiving are the same as those offered in Exchange Server 2010 Service Pack 2 (SP2) and later. Administrators can manage retention policies from on-premises Exchange Server 2010 and later environments. Managed Folders, an older approach to messaging records management that was introduced in Exchange 2007, are not available in and not compatible with Exchange Online Archiving. For more details, see [Retention Tags and Retention Policies](https://go.microsoft.com/fwlink/p/?LinkID=314153).
   
 ### <a name="in-place-hold-and-litigation-hold"></a>원본 위치 유지 및 소송 보존
 
-소송 가능성이 존재하는 경우 조직은 해당 사례와 관련된 전자 메일을 비롯한 ESI(전자적으로 저장된 정보)를 보존해야 합니다. 이러한 가능성은 사례의 세부 사항이 알려지기 전에 발생할 수 있으며 많은 경우 보존 범위가 넓습니다. 조직에서는 특정 항목과 관련된 모든 전자 메일 또는 특정 개인의 모든 전자 메일을 보존할 수 있습니다.
+When a reasonable expectation of litigation exists, organizations are required to preserve electronically stored information (ESI), including email that's relevant to the case. This expectation can occur before the specifics of the case are known, and preservation is often broad. Organizations may preserve all email related to a specific topic, or all email for certain individuals.
   
 Exchange Online에서는 원본 위치 유지 또는 소송 보존 기능을 사용하여 다음과 같은 목표를 달성할 수 있습니다.
   
@@ -68,19 +67,19 @@ Exchange Online에서는 원본 위치 유지 또는 소송 보존 기능을 사
   
 ### <a name="in-place-ediscovery"></a>원본 위치 eDiscovery
 
-Exchange Online Archiving에서는 조직의 사서함 콘텐츠 검색에 대해 원본 위치 eDiscovery를 지원합니다. 온-프레미스 Exchange 2013 서버에서 Exchange 관리 센터 또는 원격 Windows PowerShell을 사용하여 관리자나 권한 있는 Discovery 관리자는 전자 메일 메시지, 첨부 파일, 일정 약속, 작업, 연락처 등 다양한 사서함 항목을 검색할 수 있습니다. 원본 위치 eDiscovery는 기본 사서함 및 보관 사서함을 동시에 검색할 수 있습니다. KQL(Keyword Query Language) 구문과 함께, 다양한 필터링 기능에는 보낸 사람, 받는 사람, 메시지 유형, 보낸 날짜, 받은 날짜, 참조 및 숨은 참조가 있습니다. 자세한 내용은 [원본 위치 eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169)를 참조하세요.
+Exchange Online Archiving supports In-Place eDiscovery for searching the contents of mailboxes in an organization. Using the Exchange admin center or remote Windows PowerShell from an on-premises Exchange 2013 server, administrators or authorized Discovery managers can search a variety of mailbox items - including email messages, attachments, calendar appointments, tasks, and contacts. In-Place eDiscovery can search simultaneously across primary mailboxes and archives. Rich filtering capabilities include sender, receiver, message types, sent date, received date, carbon copy, and blind carbon copy, along with Keyword Query Language (KQL) syntax. For more details, see [In-Place eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169).
   
-Exchange 관리 센터 및 원격 Windows PowerShell을 사용하여 원본 위치 eDiscovery 검색에서 최대 5,000개의 사서함을 한 번에 검색할 수 있습니다. 원격 Windows PowerShell을 사용하여 원본 위치 eDiscovery 검색을 실행하는 방법에 대한 자세한 내용은 [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170)를 참조하세요. 
-  
-> [!NOTE]
-> 원격 Windows PowerShell에서  `Search-Mailbox` cmdlet을 사용하여 5,000개가 넘는 사서함을 검색할 수 있습니다. 원격 Windows PowerShell을 사용하여 많은 수의 사서함을 검색하는 방법에 대한 자세한 내용은 [Search-Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314171)를 참조하세요. 
-  
-원본 위치 eDiscovery 검색의 결과는 Exchange 관리 센터에서 미리 보거나 .pst 파일로 내보내거나 검색 사서함이라는 특수 유형의 사서함에 복사할 수 있습니다. 관리자 또는 준수 관리자는 검색 사서함에 연결하여 메시지를 검토할 수 있습니다. 자세한 내용은 [원본 위치 eDiscovery 검색 만들기](https://go.microsoft.com/fwlink/p/?LinkId=314172)를 참조하세요.
+The Exchange admin center and remote Windows PowerShell can be used to search up to 5,000 mailboxes at a time in an In-Place eDiscovery search. For details about using remote Windows PowerShell to run In-Place eDiscovery searches, see [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170). 
   
 > [!NOTE]
-> 온-프레미스 및 클라우드 기반 사서함 또는 보관 사서함에 대해 수행된 원본 위치 eDiscovery 검색의 검색 결과를 복사할 때 온-프레미스 검색 사서함을 선택해야 합니다. 온-프레미스 기본 사서함과 클라우드 기반 보관 사서함의 메시지는 온-프레미스 검색 사서함에 복사됩니다. 
+> In remote Windows PowerShell, the  `Search-Mailbox` cmdlet can be used to search more than 5,000 mailboxes. For details about searching large numbers of mailboxes using remote Windows PowerShell, see [Search-Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314171). 
   
-또한 관리자는 조직 전체의 여러 사서함으로 전송된 부적절한 전자 메일 메시지를 검색하여 삭제할 수도 있습니다. 예를 들어, 기밀에 해당하는 급여 정보가 실수로 모든 직원에게 전송된 경우 관리자는 사용자의 사서함에서 해당 전자 메일을 삭제할 수 있습니다. 이 유형의 검색은 Exchange 관리 센터에서는 사용할 수 없으며, 원격 PowerShell을 사용하여 수행해야 합니다. 사용자의 사서함에서 메시지를 삭제하는 방법에 대한 자세한 내용은 [메시지 검색 및 삭제](https://go.microsoft.com/fwlink/p/?LinkId=314173)를 참조하세요.
+Results of an In-Place eDiscovery search can be previewed in the Exchange admin center, exported to a .pst file, or copied to a special type of mailbox, called a discovery mailbox. Administrators or compliance officers can connect to the discovery mailbox to review messages. For details, see [Create an In-Place eDiscovery Search](https://go.microsoft.com/fwlink/p/?LinkId=314172).
+  
+> [!NOTE]
+> When copying search results for an In-Place eDiscovery search performed across on-premises and cloud-based mailboxes or archives, you must select an on-premises discovery mailbox. Messages from the on-premises primary mailbox and the cloud-based archive are copied to the on-premises discovery mailbox. 
+  
+Administrators can also search for and delete inappropriate email messages sent to multiple mailboxes across their organizations. For example, if confidential salary information was accidentally sent to all employees, an administrator can delete the email from the users' mailboxes. This type of search is not available in the Exchange admin center. It must be performed using Remote PowerShell. For details on how to delete messages from users' mailboxes, see [Search and Delete Messages](https://go.microsoft.com/fwlink/p/?LinkId=314173).
   
 ## <a name="security-features-in-exchange-online-archiving"></a>Exchange Online Archiving의 보안 기능
 
@@ -100,13 +99,13 @@ Exchange 관리 센터 및 원격 Windows PowerShell을 사용하여 원본 위�
     
 ### <a name="encryption-smime-and-pgp"></a>암호화: S/MIME 및 PGP
 
-Exchange Online Archiving에서는 S/MIME(Secure/Multipurpose Internet Mail Extensions) 메시지를 저장합니다. 그러나 Exchange Online Archiving에서 S/MIME 기능을 호스트하거나 공개 키를 호스트하지는 않으며 키 리포지토리, 키 관리 또는 키 디렉터리 서비스를 제공하지도 않습니다. 이러한 모든 서비스가 온-프레미스 Exchange 인프라에 연결되기 때문입니다.
+Exchange Online Archiving will store Secure/Multipurpose Internet Mail Extensions (S/MIME) messages. However, Exchange Online Archiving does not host S/MIME functions or host the public keys, nor does it provide key repository, key management, or key directory services because all of these services attach to the on-premises Exchange infrastructure.
   
 마찬가지로, Exchange Online Archiving에서는 클라이언트 쪽, 타사 암호화 솔루션(예: PGP(Pretty Good Privacy))을 사용하여 암호화된 메시지를 저장합니다.
   
 ### <a name="information-rights-management"></a>정보 권한 관리
 
-Exchange Online Archiving에서 호스트 IRM(정보 권한 관리) 서비스를 제공하지는 않지만 관리자는 온-프레미스 AD RMS(Active Directory Rights Management Services)를 사용할 수 있습니다. AD RMS 서버가 배포되면 Outlook은 해당 서버와 직접 통신할 수 있으며, 사용자는 IRM으로 보호된 메시지를 작성하고 읽을 수 있습니다. AD RMS 서버와 온-프레미스 Exchange 환경 간의 상호 운용성이 구성된 경우 사용자는 IRM으로 보호된 메시지를 작성하고 읽을 수 있습니다.
+Exchange Online Archiving does not provide hosted Information Rights Management (IRM) services, but administrators can use on-premises Active Directory Rights Management Services (AD RMS). If an AD RMS server is deployed, Outlook can communicate directly with that server, enabling users to compose and read IRM-protected messages. If interoperability between the AD RMS server and the on-premises Exchange environment is configured, users will be able to compose and read IRM-protected messages.
   
 #### <a name="support-for-irm-in-outlook-on-the-web"></a>웹용 Outlook의 IRM 지원
 
@@ -124,9 +123,9 @@ Exchange Online Archiving에서는 다음과 같은 두 가지 유형의 기본 
     
 - **사서함 감사 로깅** 사서함 감사 로깅을 통해 고객은 사서함 소유자가 아닌 다른 사용자에 의한 사서함 액세스를 추적할 수 있습니다. 
     
-Exchange 관리 센터에서는 관리자 역할 변경, 소송 보존, 비소유자 사서함 액세스 등 미리 정의된 여러 감사 보고서를 사용할 수 있습니다. 관리자는 날짜 및 역할별로 보고서를 필터링하고 장기 보존 또는 사용자 지정 보고를 위해 지정된 사서함에 대한 모든 감사 이벤트를 XML 형식으로 내보낼 수 있습니다.
+Several predefined audit reports are available in the Exchange admin center, including Administrator Role Changes, Litigation Hold, and Non-Owner Mailbox Access. Administrators can filter reports by date and role, and they can export all audit events for specified mailboxes in XML format for long-term retention or custom reporting.
   
-관리자 감사 로깅은 기본적으로 설정되며, 사서함 감사 로깅은 기본적으로 해제됩니다. 관리자는 원격 Windows PowerShell을 사용하여 조직에 있는 사서함 일부 또는 전부에 대해 사서함 감사 로깅을 사용하도록 설정할 수 있습니다. 자세한 내용은 [감사 보고서](https://go.microsoft.com/fwlink/p/?LinkId=314175)를 참조하세요.
+Administrator audit logging is on by default, and mailbox audit logging is off by default. Administrators can use remote Windows PowerShell to enable mailbox audit logging for some or all mailboxes in their organization. For more information, see [Auditing Reports](https://go.microsoft.com/fwlink/p/?LinkId=314175).
   
 ## <a name="feature-availability"></a>기능 가용성
 

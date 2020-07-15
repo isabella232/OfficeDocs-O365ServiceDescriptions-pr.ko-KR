@@ -1,8 +1,7 @@
 ---
 title: 보고서
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Microsoft 관리자는 조직에서 Microsoft 서비스를 사용 하는 방법을 보여 주는 보고서를 볼 수 있습니다. 이러한 보고서를 사용하면 문제를 확인하고 데이터를 필터링하며 데이터를 Microsoft Excel에 다운로드할 수 있습니다. Microsoft 365 보고 웹 서비스를 사용 하 여 고유한 보고서를 만들 수도 있습니다. Exchange Online 및 EOP (Exchange Online Protection) 관리자는 메일 보호 보고서를 사용 하 여 맬웨어, 스팸 및 규칙 감지에 대 한 데이터를 볼 수 있습니다.
-ms.openlocfilehash: 4b2ca6916cf0f47c1eb973480e5eb2752d22d7fe
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: e013a38446af676534043529ad285b7042c6ee34
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44001969"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131852"
 ---
 # <a name="reports"></a>보고서
 

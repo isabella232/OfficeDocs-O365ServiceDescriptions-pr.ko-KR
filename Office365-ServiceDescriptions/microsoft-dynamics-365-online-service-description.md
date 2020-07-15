@@ -1,8 +1,7 @@
 ---
 title: Microsoft Dynamics 365(온라인) 서비스 설명
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: Dynamics 365 (온라인 및 온-프레미스)에 대 한 12 월 2016 업데이트의 경우 Dynamics CRM 기능은 지능형 비즈니스 응용 프로그램의 제품군 인 Dynamics 365의 일부로 포함 되어 있습니다. Dynamics 365는 특정 비즈니스 기능을 관리 하는 데 도움이 되는 새로운 응용 프로그램을 제공 하 여 CRM (고객 관계 관리) 및 ERP (enterprise resource 계획) 기능을 통합 합니다.
-ms.openlocfilehash: 680ebec088cd98cf1e12a9a3ac6d2db60a129c38
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: b1852f586ba6d4eb0ec8ac6c269caee922d17802
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213920"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132452"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365(온라인) 서비스 설명
 

@@ -1,8 +1,7 @@
 ---
 title: Office 365 계획 옵션
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -16,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
-ms.openlocfilehash: fbef76e115a95c3add524e39d8b7e70d21605223
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 1410fec329c7d92de905a1d34df50d41c094b76f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213910"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132132"
 ---
 # <a name="office-365-plan-options"></a>Office 365 계획 옵션
 
@@ -42,7 +41,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
    
 ### <a name="service-availability-within-each-office-365-plan"></a>각 Office 365 계획 내의 서비스 사용 가능 여부
 
-각 Office 365 계획에는 Exchange Online, SharePoint Online 등의 여러 개별 서비스가 포함됩니다. 다음 표에는 각 Office 365 계획에서 사용 가능한 서비스가 나와 있습니다.
+Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
   
 > [!IMPORTANT]
 >  여러 Office 365 계획에서 사용 가능한 서비스도 있지만 각 계획에서 제공되는 기능은 서로 다를 수 있습니다. 각 계획에 대해 사용할 수 있는 기능에 대한 자세한 내용은 개별 서비스 설명을 참조하거나 대리점 또는 Microsoft 판매 담당자에게 문의하세요. <br/>  비즈니스용 Office 365 요금제 중 일부는 구독에 대해 구입할 수 있는 추가 기능을 제공합니다. 추가 기능은 구독에 대한 추가 기능을 제공합니다. 자세한 내용은 [비즈니스용 Office 365 추가 기능 구입 또는 편집](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6)을 참조하세요. 

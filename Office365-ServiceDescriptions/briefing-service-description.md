@@ -1,7 +1,7 @@
 ---
 title: 브리핑 전자 메일 서비스 설명
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +9,12 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: 브리핑 전자 메일을 사용 하면 사용자가 하루를 가장 많이 만들 수 있습니다. 다양 한 요소에서의 기회를 식별 하 고 적시에 미리 알림을 제공 합니다.
-ms.openlocfilehash: 40333ba8c66af3f44261093c94b6fbc87fc3fff8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 16ce371bbe38a65cf1b302ef6cbdabdc45f28984
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260663"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132012"
 ---
 # <a name="briefing-email-service-description"></a>브리핑 전자 메일 서비스 설명
 

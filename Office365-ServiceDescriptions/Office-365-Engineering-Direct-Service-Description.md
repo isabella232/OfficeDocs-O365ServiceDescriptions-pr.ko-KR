@@ -1,20 +1,19 @@
 ---
 title: Office 365 기술팀 Direct 서비스 설명
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 엔지니어링 Direct는 Microsoft 프리미어 지원 계약에 대 한 엔터프라이즈 수준의 지원 서비스 추가 기능입니다. Office 365 기술팀 Direct service 설명에는 제공 되는 기능과 구현 요구 사항에 대 한 추가 정보가 포함 되어 있습니다.
-ms.openlocfilehash: 6b2577a2164415ddd3865e22ef6785d9c6887066
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 00d481aeb789e017bbc4099d4bbb7338858716a7
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638746"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131602"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Office 365 기술팀 Direct 서비스 설명
 

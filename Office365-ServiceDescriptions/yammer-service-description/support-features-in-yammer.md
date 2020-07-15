@@ -1,8 +1,7 @@
 ---
 title: Yammer의 지원 기능
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,25 +11,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Yammer에서는 다음과 같은 지원 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 8d0a1ee35cc9c6629b256be5a7256ccb4a65a4b4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: cefb03ae4a3edcb70f2c2182adec8625ef4fdf76
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688266"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132002"
 ---
 # <a name="support-features-in-yammer"></a>Yammer의 지원 기능
 
 Yammer에서는 다음과 같은 지원 기능을 사용할 수 있습니다.
   
 > [!IMPORTANT]
-> Yammer는 네트워크 관리자가 실수로 삭제&mdash;한 콘텐츠를 비롯 하 여 외부 네트워크, 사용자, 메시지,&mdash;그룹, 파일 등의 삭제 된 콘텐츠 복구를 지원 하지 않습니다.
+> Yammer는 &mdash; &mdash; 네트워크 관리자가 실수로 삭제 한 콘텐츠를 비롯 하 여 외부 네트워크, 사용자, 메시지, 그룹, 파일 등의 삭제 된 콘텐츠 복구를 지원 하지 않습니다.
 >
 > Microsoft는 Yammer에서 사용할 수 있는 분석 기능 이외의 사용자 지정 또는 임시 보고서를 제공하지 않습니다. Microsoft는 지원 요청 과정에서 사용자 지정 보고서를 제공할 수 있지만 대부분의 경우에는 데이터에 대 한 직접 요청을 수용할 수 없습니다.
 
 ## <a name="administrator-support"></a>관리자 지원
 
-Yammer Enterprise 관리자는 계정 유지 관리를 담당하며, Microsoft 지원 팀에 직접 연락할 수 있는 권한이 있습니다. 지원이 필요한 Yammer Enterprise 관리자는 [Microsoft 고객지원](https://go.microsoft.com/fwlink/p/?LinkId=330922)을 참조하세요.
+Yammer Enterprise administrators are responsible for account maintenance and are authorized to communicate directly with the Microsoft Support team. If you're a Yammer Enterprise administrator searching for support, see [Microsoft Support](https://go.microsoft.com/fwlink/p/?LinkId=330922).
 
 ## <a name="customer-support"></a>고객 지원
 
@@ -42,7 +41,7 @@ Microsoft FastTrack 서비스는 조직이 Microsoft 클라우드로 이동 하�
 
 ## <a name="support-features-across-yammer-plans"></a>Yammer 계획별 지원 기능
 
-조직의 요구 사항에 가장 잘 맞는 Yammer 계획을 찾는 데 도움이 필요하십니까? 다음 표를 참조하여 각 계획에서 사용 가능한 지원 기능을 확인할 수 있습니다.
+Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which support features are available in each plan.
   
 |**기능**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
@@ -52,7 +51,7 @@ Microsoft FastTrack 서비스는 조직이 Microsoft 클라우드로 이동 하�
  
 ## <a name="technical-support-case-handling"></a>기술 지원 사례 처리
 
-예제 
+Microsoft Support assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table. 
   
 |**심각도 수준**|**설명**|**예제**|
 |:-----|:-----|:-----|

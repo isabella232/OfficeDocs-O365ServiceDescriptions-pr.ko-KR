@@ -1,8 +1,7 @@
 ---
 title: 웹용 Office 서비스 설명
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Web for office를 사용 하면 거의 모든 장치에서 인터넷에 연결 하 여 어디서 나 Office 파일을 보다 쉽게 작업 하 고 공유할 수 있습니다. Microsoft 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: f04056668b9d64b7783afce4e7df52403f904c29
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: ffba59a00e21401038d999a508a82e19f63e90e3
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226217"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131332"
 ---
 # <a name="office-for-the-web-service-description"></a>웹용 Office 서비스 설명
 
@@ -87,7 +86,7 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 |[실시간 공동 작성](word-online.md#real-time-co-authoring) <br/> |예  <br/> |예  <br/> |
 |[참조 도구](word-online.md#reference-tools) <br/> |아니요  <br/> |예  <br/> |
 |[텍스트 상자/도형 렌더링](word-online.md#rendering-of-text-boxesshapes) <br/> |예  <br/> |예  <br/> |
-|[Researcher](word-online.md#researcher) <br/> |아니요  <br/> |있음  <br/> |
+|[리서치 도구](word-online.md#researcher) <br/> |아니요  <br/> |있음  <br/> |
 |[리치 미디어](word-online.md#rich-media) <br/> |아니요  <br/> |있음  <br/> |
 |[서식 있는 표 서식](word-online.md#rich-table-formatting) <br/> |예  <br/> |예  <br/> |
 |[복사본 다른 이름으로 저장 또는 다운로드](word-online.md#save-as-and-download-a-copy) <br/> |예  <br/> |예  <br/> |

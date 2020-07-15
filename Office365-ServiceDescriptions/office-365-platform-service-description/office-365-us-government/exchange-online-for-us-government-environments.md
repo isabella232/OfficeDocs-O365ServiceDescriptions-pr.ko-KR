@@ -1,20 +1,19 @@
 ---
 title: 미국 정부 환경용 Exchange Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 Exchange Online 서비스 설명에 나와 있는 미국 정부 클라우드와 상업용 클라우드 간의 기능 차이에 대 한 개요를 제공 합니다.
-ms.openlocfilehash: b2ea792f6a205cbe6c9031c924a22e7f6d1d3030
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6eae6379120b91697edf6e1cb631e8acf57e30a9
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213700"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131932"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>미국 정부 환경용 Exchange Online
 
@@ -117,7 +116,7 @@ ms.locfileid: "44213700"
 |Outlook for Mac|예|예|예|GCC High 및 DoD 준수 요구 사항을 충족 하려면 최소 버전 1803의 Office 365 ProPlus를 실행 해야 합니다. Office 365 ProPlus는 G1 또는 F3에 포함 되지 않습니다.|
 |iOS 및 Android용 Outlook|예|예|예||
 |Exchange ActiveSync|예|예|예||
-|Office 365의 모바일 장치 관리|예|예|예||
+|Microsoft 365에 대 한 기본 모바일 및 보안|예|예|예||
 |POP 및 IMAP|예|예|예||
 |SMTP|예|예|예||
 |EWS 응용 프로그램 지원|예|예|예||

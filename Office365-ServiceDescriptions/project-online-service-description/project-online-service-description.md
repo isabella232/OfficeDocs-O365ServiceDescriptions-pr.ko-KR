@@ -1,8 +1,7 @@
 ---
 title: Microsoft Project 서비스 설명
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: End User
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online은 PPM (프로젝트 포트폴리오 관리) 및 일상 작업을 위한 유연한 온라인 솔루션입니다. Office 365를 통해 제공되는 Project Online은 거의 모든 위치의 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획하고 우선 순위를 정하고 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: b9601175bc147796922731b5367394c3392dbe55
-ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
+ms.openlocfilehash: dc5ba0c5663311a2c8817404d1fc72abbf3c772f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44820616"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131162"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 서비스 설명
 

@@ -1,8 +1,7 @@
 ---
 title: 포트폴리오 관리
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Project Online에서는 다음과 같은 포트폴리오 관리 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 190680e99bc65fa16b5269462f7c50abd8233efa
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 50b8ec7e0cd8a0a8366ee2842a767d68c591ad4e
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546071"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131232"
 ---
 # <a name="portfolio-management"></a>포트폴리오 관리
 
@@ -37,19 +36,19 @@ Project Online에서는 다음과 같은 포트폴리오 관리 기능을 사용
   
 ## <a name="financial-management"></a>Financial management
 
-재무 관리 프로세스를 채택하여 예상 비용 및 혜택을 향상시킵니다. 비용 대비 성능을 효과적으로 추적하여 각 프로젝트가 예산 내에서 인도되도록 하고 포트폴리오가 예측한 결과를 달성하도록 합니다. 자세한 내용은 [프로젝트 포트폴리오 관리 솔루션 가이드(백서)](https://go.microsoft.com/fwlink/p/?LinkId=402633)를 참조하세요.
+Adopt financial management processes to improve estimates of costs and benefits. Effectively track cost performance to make sure that each project is delivered within budget and that the portfolio achieves the expected results. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="participate-in-workflow"></a>워크플로에 참여
 
-워크플로란 프로젝트를 작업 단계별로 진행할 수 있는 체계적 방법을 제공합니다. 워크플로에는 제안서 제작 및 초기 승인 등의 프로젝트 진행 전반의 단계에 대한 정의가 포함됩니다. 워크플로는 각 단계에서 필요하거나 고정된 정보를 설정합니다.
+Workflows provide a structured way for projects to proceed through the phases. A workflow includes definitions of the lifecycle stages through which the project progresses, such as proposal creation and initial approval. The workflow sets the information that is required or locked in each stage.
   
 ## <a name="portfolio-analytics-and-selection"></a>포트폴리오 분석 및 선택
 
-조직의 비즈니스 전략에 맞추고 ROI(투자 수익)를 최대화하는 프로젝트 포트폴리오를 효과적으로 식별, 선택 및 전달합니다. 자세한 내용은 [프로젝트 포트폴리오 관리 솔루션 가이드(백서)](https://go.microsoft.com/fwlink/p/?LinkId=402633)를 참조하세요.
+Effectively identify, select, and deliver project portfolios that best align with your organization's business strategy and maximize your return on investment (ROI). To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="program-management"></a>Program management
 
-프로젝트 관리에서 각 프로젝트는 서로 결합될 경우 전체 프로그램의 예측 이익을 제공하는 고유한 목적을 저마다 가지고 있습니다. 자세한 내용은 [프로젝트 포트폴리오 관리 솔루션 가이드(백서)](https://go.microsoft.com/fwlink/p/?LinkId=402633)를 참조하세요.
+In program management, each project has its own set of goals that, when combined with each other, deliver the forecasted benefits of the overall program. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="roadmap"></a>로드맵
 

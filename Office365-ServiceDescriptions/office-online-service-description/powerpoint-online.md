@@ -1,8 +1,7 @@
 ---
 title: 웹용 PowerPoint
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: Web for PowerPoint (이전의 PowerPoint Web App)에서는 프레젠테이션이 저장 된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있는 Microsoft PowerPoint 환경을 웹 브라우저로 확장 합니다. Microsoft 365 web for Office를 사용 하는 고객은 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: f30eb6f981478c27e068282b5f0d523bad33eb38
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 50be528559234a5d386dcd8fbfb1805961494432
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640286"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131322"
 ---
 # <a name="powerpoint-for-the-web"></a>웹용 PowerPoint
 
@@ -89,7 +88,7 @@ Dropbox는 클라우드 저장소, 파일 동기화, 개인 클라우드 및 클
   
 ## <a name="full-fidelity-reading-view"></a>고화질 읽기용 보기
 
-애니메이션, 전환 및 오디오/비디오를&mdash;보여 주는 것 처럼 프레젠테이션을 봅니다.
+&mdash;애니메이션, 전환 및 오디오/비디오를 보여 주는 것 처럼 프레젠테이션을 봅니다.
   
 ## <a name="full-ink-support"></a>전체 잉크 지원
 
@@ -125,7 +124,7 @@ PowerPoint에서 웹을 위한 잉크를 삽입할 수는 없지만, 웹의 Powe
   
 ## <a name="picture-cropping"></a>그림 자르기
 
-자르기 도구를 사용하여 그림의 피사체 프레이밍을 향상시킵니다. 그림 가장자리의 자르기 핸들 중 하나를 클릭하여 원하는 그림이 될 때까지 끌면 됩니다.
+Improve the framing of a subject in a picture with the cropping tool. Simply click one of the cropping handles at the edge of the picture and drag it until you achieve the picture you want.
   
 ## <a name="pictures"></a>그림
 
@@ -173,7 +172,7 @@ Word 아트 및 차트를 웹용 PowerPoint에 삽입할 수 없지만 웹용 Po
   
 ## <a name="share"></a>공유
 
-프레젠테이션을 SharePoint 문서 라이브러리에 저장하면 프레젠테이션이 온라인 상태이므로 전자 메일 첨부 파일이 아니라 링크를 보내서 프레젠테이션을 공유할 수 있습니다. 적절한 권한을 보유한 다른 사용자가 웹 브라우저나 모바일 장치에서 프레젠테이션을 볼 수 있습니다. 자세한 내용은 [프레젠테이션 공유](https://go.microsoft.com/fwlink/?LinkId=272776)를 참조하세요.
+If your presentation is saved in a SharePoint document library, then your presentation is online and you can share it by sending a link instead of an email attachment. People with proper permissions can view it in their web browser or mobile device. Learn more about [sharing a presentation](https://go.microsoft.com/fwlink/?LinkId=272776).
   
 ## <a name="slide-show"></a>슬라이드 쇼
 

@@ -1,8 +1,7 @@
 ---
 title: Office 응용 프로그램
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
-description: Microsoft Office는 자신이 가지고 있는 최고의 아이디어를 표현하고, 업무를 신속하게 처리하며 이동 중에도 사용할 수 있는 강력한 서비스입니다. Office에 로그인하기만 하면 자신에게 맞게 설정된 작업 환경을 경험하고, 신규 기능과 향상된 기능이 지속적으로 추가되는 모든 최신 Office 응용 프로그램을 사용해 볼 수 있습니다.
-ms.openlocfilehash: d5f5638ddcf965736b6d385594bf27228a5cf2b8
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+description: Microsoft Office is a powerful service that helps you unleash your best ideas, get things done, and stay connected on the go. Simply sign in for a personalized experience and all the most up-to-date Office applications, with new and enhanced features continually being added.
+ms.openlocfilehash: 3ca3f34f9c60d4e922c2f8cdcf25dc76c6ee1c1d
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639676"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131432"
 ---
 # <a name="office-applications"></a>Office 응용 프로그램
 
-Microsoft Office는 자신이 가지고 있는 최고의 아이디어를 표현하고, 업무를 신속하게 처리하며 이동 중에도 사용할 수 있는 강력한 서비스입니다. Office에 로그인하기만 하면 자신에게 맞게 설정된 작업 환경을 경험하고, 신규 기능과 향상된 기능이 지속적으로 추가되는 모든 최신 Office 응용 프로그램을 사용해 볼 수 있습니다.
+Microsoft Office is a powerful service that helps you unleash your best ideas, get things done, and stay connected on the go. Simply sign in for a personalized experience and all the most up-to-date Office applications, with new and enhanced features continually being added.
   
 비즈니스, 교육 및 정부 조직에 사용할 수 있는 월별 구독 기반 서비스인 시스템 요구 사항에 대해서는 [Microsoft 365 시스템 요구 사항을](https://products.office.com/office-system-requirements/#Office365forBEG)참조 하세요.
   
@@ -59,7 +58,7 @@ Microsoft Access는 Windows 운영 체제에서 사용할 수 있는 데이터�
   
 ## <a name="microsoft-infopath"></a>Microsoft InfoPath
 
-Microsoft InfoPath는 전자 양식을 디자인, 배포, 완성 및 제출할 수 있는 프로그램입니다. 필요한 경우 SharePoint Online 사이트에 InfoPath 양식 웹 파트를 추가할 수 있습니다. [InfoPath 양식 웹 파트](https://go.microsoft.com/fwlink/p/?LinkId=271687)에서 더 자세히 알아보십시오.
+Microsoft InfoPath is a program that allows you to design, distribute, complete, and submit electronic forms. You may choose to add the InfoPath Form Web Part to a SharePoint Online site. Learn more about the [InfoPath Form Web Part](https://go.microsoft.com/fwlink/p/?LinkId=271687).
 
 코드를 작성 하지 않고도 SharePoint에서 비즈니스 생산성을 향상 시킬 수 있는 PowerApps를 사용 하는 방법에 대 한 자세한 내용은 [Sharepoint 사용자 지정 powerapps](https://powerapps.microsoft.com/infopath/)를 참조 하십시오.
   

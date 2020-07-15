@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365 Education
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Microsoft 365 및 Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다.
-ms.openlocfilehash: 7f4d24a32afa116632358ec6560414f7e2d74289
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 63d34a19286ba5fa4719a890df89b732e9f84aeb
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045060"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132412"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 

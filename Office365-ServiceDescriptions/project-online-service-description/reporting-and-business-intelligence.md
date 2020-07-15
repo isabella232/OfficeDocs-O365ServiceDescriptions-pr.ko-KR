@@ -1,8 +1,7 @@
 ---
 title: 보고 및 비즈니스 인텔리전스
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
 description: Project Online에서는 다음과 같은 보고 및 비즈니스 인텔리전스 기능을 사용할 수 있습니다.
-ms.openlocfilehash: dc3c5939bbdfc08cafc6bf6b7d4bb65d90e675c7
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 04f8faf3c92698617ade586b47095f720472d6b3
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688320"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131622"
 ---
 # <a name="reporting-and-business-intelligence"></a>보고 및 비즈니스 인텔리전스
 
@@ -23,7 +22,7 @@ Project Online에서는 다음과 같은 보고 및 비즈니스 인텔리전스
   
 ## <a name="odata-feeds"></a>OData feeds
 
-OData 피드를 사용하면 REST 쿼리 및 다양한 OData 클라이언트 라이브러리를 통해 Project Web App 인스턴스의 보고 데이터에 대해 쿼리할 수 있습니다. 예를 들어 웹 브라우저에서 직접 REST 쿼리를 사용하거나 JavaScript를 사용하여 모바일 장치, 태블릿, PC 및 Mac 컴퓨터용 웹앱과 클라이언트 앱을 만들 수 있습니다. 자세한 내용은 [Project 2013 OData 서비스 참조](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409)를 참조하세요.
+OData feeds enable REST queries and a variety of OData client libraries to make both queries of reporting data from a Project Web App instance. For example, you can directly use a REST query in a web browser, or use JavaScript to build web apps and client apps for mobile devices, tablets, PCs, and Mac computers. For more information, see the [Project 2013 OData service reference](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409).
   
 ## <a name="out-of-the-box-portfolio-dashboards"></a>Out-of-the-box portfolio dashboards
 
@@ -31,5 +30,5 @@ OData 피드를 사용하면 REST 쿼리 및 다양한 OData 클라이언트 라
   
 ## <a name="project-desktop-reporting"></a>Project desktop reporting
 
-프로젝트 데스크톱 보고에서는 다른 소프트웨어를 사용할 필요 없이 원하는 모든 프로젝트 데이터에 대한 뛰어난 그래픽 보고서를 만들고 사용자 지정할 수 있습니다. 자세한 내용은 [프로젝트 보고서 만들기](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409)를 참조하세요.
+Project desktop reporting allows you to create and customize striking graphical reports of whatever project data you want, without having to rely on any other software. For more information, see [Create a project report](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409).
   

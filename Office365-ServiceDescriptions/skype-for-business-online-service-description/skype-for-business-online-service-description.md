@@ -1,8 +1,7 @@
 ---
 title: 비즈니스용 Skype Online 서비스 설명
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 특정 비즈니스용 Skype 기능을 구입하기 위해 어떤 라이선스가 필요한지 알고 싶나요? 비즈니스용 Skype 라이선스 개요를 참조 하세요.
-ms.openlocfilehash: f98546f6b229d1573fb3b170e9da5d04763a4db2
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 283f0ee8aa60728a0ddd91665a0b68933216260d
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213710"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45133072"
 ---
 # <a name="skype-for-business-online-service-description"></a>비즈니스용 Skype Online 서비스 설명
 
@@ -31,7 +30,7 @@ ms.locfileid: "44213710"
 
  **특정 비즈니스용 Skype 기능을 얻기 위해 구입 해야 하는 라이선스를 알고 싶으십니까? [비즈니스용 Skype 추가 기능 라이선스](https://go.microsoft.com/fwlink/?LinkID=799524)를 참조 하세요.**
   
-비즈니스용 Skype 온라인은 회의나 대화를 위해 언제 어디서나 사람들을 연결하는 통신 서비스입니다. 이를 통해 사용자는 현재 상태에 대한 정보에 액세스하고 인스턴트 메시징, 오디오 및 비디오 통화, 다양한 온라인 회의 및 대규모 웹 회의 기능을 사용할 수 있습니다. 
+Skype for Business Online is a communications service that connects people for meetings and conversations anytime and from virtually anywhere. It gives users access to information about presence, and enables instant messaging, audio and video calling, rich online meetings, and extensive web conferencing capabilities. 
   
 비즈니스용 Skype는 여러 고객을 동시에 지원하는 다중 테넌트 서버에서 호스팅됩니다. 이러한 서버는 Microsoft 데이터 센터에 있으며 회사 네트워크 내부에서 또는 인터넷을 통해 광범위 한 장치에서 사용자가 액세스할 수 있습니다. 
   
@@ -82,7 +81,7 @@ ms.locfileid: "44213710"
 |Office Communications Server 2007 R2 및 Lync Server 2010 (IM, 현재 상태, 오디오, 비디오, 회의)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |XMPP(Google Talk 등에서 사용됨) 및 Sametime 페더레이션  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 | Skype 페더레이션  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|AOL 및 Yahoo! 페더레이션  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|AOL and Yahoo! federation  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |**[비즈니스 온라인 모임에 대 한 Skype](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |애드혹 및 오디오 회의 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |애드혹 및 비디오 회의 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
@@ -190,7 +189,7 @@ ms.locfileid: "44213710"
   
 ## <a name="feature-availability-across-skype-for-business-online-standalone-plans"></a>비즈니스용 Skype 온라인 독립 실행형 계획에서의 기능 가용성
 
-다음 표에는 비즈니스용 Skype 온라인 기능이 독립 실행형 계획별로 나와 있습니다. 이러한 기능에 대한 설명은 [비즈니스용 Skype Online 기능](skype-for-business-online-features.md)에서 확인할 수 있습니다.
+The following table lists Skype for Business Online feature availability across standalone plans. For a description of these features, go to [Skype for Business Online features](skype-for-business-online-features.md).
   
 > [!NOTE]
 > 비즈니스용 Skype 온라인 독립 실행형 계획 2의 허가된 사용자는 비즈니스용 Skype Basic 클라이언트를 얻게 되지만 전체 비즈니스용 Skype 클라이언트를 얻지는 않습니다. 사용자가 비즈니스용 Skype 클라이언트를 사용할 수 있게 하려면 엔터프라이즈 기반 라이선스 등이 포함된 라이선스로 업그레이드해야 합니다. 비즈니스용 Skype 클라이언트를 사용자에 게 배포 하려면 [Microsoft 365 또는 Office 365에서 비즈니스용 skype 클라이언트 배포](https://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409)를 참조 하세요. 
@@ -231,7 +230,7 @@ ms.locfileid: "44213710"
 |Office Communications Server 2007 R2 및 Lync Server 2010(IM, 현재 상태, 오디오, 비디오, 회의)  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |XMPP(Google Talk 등에서 사용됨) 및 Sametime 페더레이션  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
 | Skype 페더레이션  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|AOL 및 Yahoo! 페더레이션  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
+|AOL and Yahoo! federation  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
 |**[비즈니스 온라인 모임에 대 한 Skype](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 1** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 2** <br/> |
 |애드혹 및 오디오 회의 예약  <br/> |예  <br/> |아니오  <br/> |예  <br/> |
 |애드혹 및 비디오 회의 예약  <br/> |예  <br/> |아니오  <br/> |예  <br/> |

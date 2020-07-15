@@ -1,8 +1,7 @@
 ---
 title: 보고 기능 및 문제 해결 도구
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online은 EAC (Exchange 관리 센터)에 대 한 다양 한 보고 기능을 제공 합니다.
-ms.openlocfilehash: b0545d1e0b18714fa138fa085542be90711e8da2
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f2cc51c9923be8d399fa2837e5b5fabe3117d5ba
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639956"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132602"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>보고 기능 및 문제 해결 도구
 
@@ -52,23 +51,23 @@ Exchange 관리 센터에서 다음 보고 기능 및 문제 해결 도구를 �
 메시지 추적 기능을 사용 하면 관리자가 Exchange Online 서비스를 통과 하는 전자 메일 메시지를 팔 로우 할 수 있습니다. 이를 통해 대상이 지정 된 전자 메일 메시지의 수신, 거부, 지연 또는 서비스에 의해 전달 되었는지 여부를 확인할 수 있습니다. 이를 통해 사용자의 질문에 효과적으로 대답 하 고 메일 흐름 문제를 해결할 수 있으며 기술 지원 서비스에 문의 하 여 도움을 받을 필요가 없습니다.
   
 > [!IMPORTANT]
-> 일반 문제 및 추세 문제를 해결하려면 보고 도구를 사용하여 해당 데이터를 가져옵니다. 메시지에 대한 세부 정보가 필요한 단일 지점에 대해서는 메시지 추적 도구를 사용합니다. 
+> For troubleshooting general issues and trends, use the reporting tools to obtain such data. For single point specifics where details are needed about a message, use the message trace tool. 
   
 메시지 추적 기능에 대한 자세한 내용은 [전자 메일 메시지 추적](https://go.microsoft.com/fwlink/p/?LinkId=271777)을 참조하세요.
   
 ### <a name="auditing-reports"></a>감사 보고서
 
-감사 로깅을 사용하면 관리자가 수행한 특정 변경을 추적하여 구성 문제를 해결하고 규정, 준수 및 소송 요구 사항을 따르는 데 도움이 될 수 있습니다. Exchange Online에서는 두 가지 유형의 감사 로깅을 제공합니다.
+You can use audit logging to troubleshoot configuration issues by tracking specific changes made by administrators and to help you meet regulatory, compliance, and litigation requirements. Exchange Online provides two types of audit logging:
   
-- 관리자 감사 로깅은 관리자가 수행한 작업을 기록합니다. 따라서 구성 문제를 해결하거나 보안 관련 또는 준수 관련 문제의 원인을 파악하는 데 도움이 될 수 있습니다. 
+- Administrator audit logging records any action performed by an administrator. This can help you troubleshoot configuration issues or identify the cause of security-related or compliance-related problems. 
     
-- 사서함 감사 로깅은 사서함 소유자 이외의 사용자가 사서함에 액세스할 때마다 기록합니다. 따라서 사서함에 액세스한 사용자와 해당 사용자가 수행한 작업을 확인하는 데 도움이 될 수 있습니다. 
+- Mailbox audit logging records whenever a mailbox is accessed by someone other than the person who owns the mailbox. This can help you determine who has accessed a mailbox and what they've done. 
     
 감사 로깅에 대한 자세한 내용은 [감사 보고서](https://go.microsoft.com/fwlink/p/?LinkId=271779)를 참조하세요.
   
 ### <a name="unified-messaging-reports"></a>통합 메시징 보고서
 
-이 보고서를 사용하여 Exchange Online 조직에서 UM(통합 메시징)을 모니터링하고 관련 문제를 해결할 수 있습니다. 자세한 내용은 [음성 사서함 호출에 대한 보고서 실행](https://go.microsoft.com/fwlink/p/?LinkId=287042)을 참조하세요.
+You can use these reports to monitor and troubleshoot Unified Messaging (UM) in your Exchange Online organization. For more information, see [Run Reports for Voice Mail Calls](https://go.microsoft.com/fwlink/p/?LinkId=287042).
   
 ## <a name="feature-availability"></a>기능 가용성
 

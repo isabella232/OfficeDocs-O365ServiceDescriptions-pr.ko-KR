@@ -1,20 +1,19 @@
 ---
 title: Microsoft 365 규정 준수 - GCC High 계획
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 미국 연방 정부 엔터티 또는 정부 규정 요구 사항이 적용 되는 데이터를 처리 하는 기타 엔터티와의 Office 365 배포를 추진 하는 IT 전문가를 위한 것으로, Microsoft 365 정부의 사용은 이러한 요구 사항을 충족 하는 데 적합 합니다.
-ms.openlocfilehash: 0d5fe248080b816056276ccb79687960cd1c58df
-ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
+ms.openlocfilehash: 6e5e8fb9001adb873e07ce50f084bb80a3b28808
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "45089639"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132502"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Microsoft 365 준수 계획 – GCC High
 

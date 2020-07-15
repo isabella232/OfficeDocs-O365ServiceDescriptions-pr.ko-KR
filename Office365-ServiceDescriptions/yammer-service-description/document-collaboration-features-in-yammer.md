@@ -1,8 +1,7 @@
 ---
 title: Yammer의 문서 공동 작업 기능
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: Yammer에서는 다음과 같은 문서 공동 작업 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 5576d34b81f517d00d120fae761a5fdb1a0c6b7c
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 3eb187a72179c108516b86934388ff6460324191
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688272"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132092"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Yammer의 문서 공동 작업 기능
 
@@ -25,7 +24,7 @@ Yammer에서는 다음과 같은 문서 공동 작업 기능을 사용할 수 �
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>Yammer 계획별 문서 공동 작업 기능
 
-조직의 요구 사항에 가장 잘 맞는 Yammer 계획을 찾는 데 도움이 필요하십니까? 다음 표를 참조하여 각 계획에서 사용 가능한 문서 공동 작업 기능을 확인할 수 있습니다.
+Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which document collaboration features are available in each plan.
   
 |**기능**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

@@ -1,8 +1,7 @@
 ---
 title: Exchange Online 제한
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: 8dec4101dae6af37e4001481d6651fac959b60c6
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 5586505bc7d4269fefa2d8c96d626ffc872afeea
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213870"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132992"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -92,7 +91,7 @@ Microsoft Exchange Online 제한은 다음 범주 중 하나에 속합니다.
 
 ## <a name="mailbox-storage-limits"></a>사서함 저장소 제한
 
-사용할 수 있는 사서함 저장소의 크기는 사서함 유형 및 사용자의 구독 라이선스에 따라 결정됩니다. 관리자는 각 사용자별 사서함 크기 또는 모든 사용자의 사서함 크기를 줄일 수 있습니다.
+The amount of mailbox storage available is determined by the mailbox type and the user's subscription license. Administrators can reduce maximum mailbox sizes per user or globally.
 
 > [!NOTE]
 > 보관 목적으로 Exchange Online 사서함에 메시지를 복사하는 저널링, 전송 규칙 또는 자동 전달 규칙을 사용하는 것은 허용되지 않습니다. 사용자의 보관 사서함은 해당 사용자만을 위한 것입니다. Microsoft는 사용자의 보관 사서함이 다른 사용자의 보관 데이터를 저장 하는 데 사용 되거나 부적절 하 게 사용 되는 경우를 제외 하 고 무제한 보관을 거부할 수 있는 권한을 보유 합니다.
@@ -126,7 +125,7 @@ Microsoft Exchange Online 제한은 다음 범주 중 하나에 속합니다.
 |그룹 사서함|50GB|50GB|50GB|50GB|
 
 > [!NOTE]
-> <sup>1</sup>Exchange Server 2013 조직의 기본 사서함 크기입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다. 온-프레미스 사서함의 경우에는 최대 저장소 제한이 없습니다. <br/> <sup>2</sup> 각 사용자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=844060)를 참조하세요. 자동 확장 보관의 가용성에 대 한 자세한 내용은 [Microsoft 365 로드맵](https://go.microsoft.com/fwlink/?LinkId=509914) 를 참조 하세요. <br/> <sup>3</sup> 공유 사서함에 액세스 하려면 사용자에 게 Exchange Online 라이선스가 있어야 하지만 공유 사서함에는 별도의 라이선스가 필요 하지 않습니다. 라이선스가 없으면 공유 사서함은 50 g b로 제한 됩니다. 크기 제한을 100 GB로 높이려면 공유 사서함에 exchange online 계획 2 라이선스 또는 exchange online 계획 1 라이선스를 할당 받아야 합니다. 이를 통해 보관 저장소 용량에 무제한으로 자동 확장 보관을 사용 하도록 설정할 수도 있습니다. 마찬가지로 공유 사서함에 소송 보존을 적용 하려는 경우에는 공유 사서함에 exchange online 계획 2 라이선스가 있어야 하 고, 해당 사용자의 exchange online 요금제가 1 개 라이선스를 포함 해야 합니다. Office 365 Advanced Threat Protection, Advanced eDiscovery 또는 자동 보존 정책과 같은 고급 기능을 적용 하려면 공유 사서함에 해당 기능에 대 한 라이선스가 있어야 합니다. <br/> <sup>4</sup> 리소스 사서함에는 라이선스가 필요하지 않습니다. 그러나 라이선스가 없으면 리소스 사서함은 50 g b로 제한 됩니다. 사서함 크기를 늘리려면 Exchange Online Plan 2 라이선스가 할당되어야 합니다. 그러면 100GB로 사서함이 늘어납니다. <br/> <sup>5</sup> 보관 사서함을 Exchange Online Kiosk에 포함 되지 않습니다. 하지만 Exchange Online Archiving을 통해 추가 기능으로 구입할 수 있습니다. 자세한 내용은 [Exchange Online 보관 서비스 설명을](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)참조 하세요. <br/> <sup>6</sup> Microsoft Exchange Server 2013 조직의 기본 사서함 크기입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다. Exchange Server 2013에서 공용 폴더 사서함은 100개까지만 사용할 수 있으며 모든 공용 폴더 사서함의 최대 크기는 50TB입니다. <br/> <sup>7</sup> Exchange Online에서 공용 폴더 사서함은 1,000개까지만 사용할 수 있으며 모든 공용 폴더 사서함의 최대 총 크기는 50TB입니다.  <br/> <sup>8</sup> 보관 사서함은 라이선스가 적용된 단일 사용자나 엔터티의 메일을 보관하는 경우에만 사용할 수 있습니다. 여러 사용자나 엔터티의 메일을 저장하는 목적으로 보관 사서함을 사용할 수는 없습니다. 예를 들어 IT 관리자는 공유 사서함을 만들 수 없고, 사용자가 명백히 보관을 목적으로 참조, 숨은 참조 필드 또는 전송 규칙을 통해 공유 사서함을 복사하도록 할 수 없습니다. <br/> <sup>9</sup>Exchange Online에서 보존 정책을 만든 경우 사용자의 기본 사서함이 10MB보다 큰 경우에만 메시지가 사용자 보관 사서함으로 자동 이동됩니다. 10MB 보다 작은 사서함에 대해서는 보존 정책이 자동으로 실행되지 않습니다. <br/> <sup>10</sup> 공유 및 리소스 사서함에는 라이선스가 필요 하지 않습니다. 그러나 라이센스가 없으면 해당 사서함이 50GB로 제한됩니다. 사서함 크기를 늘리려면 Exchange Online Plan 2 라이선스가 할당되어야 합니다. 그러면 100GB로 사서함이 늘어납니다. <br/> <sup>11</sup> 기본적으로 공유 사서함에는 시스템 생성 (알 수 없는) 암호가 있는 연결 된 활성 사용자 계정이 있습니다. 연결 된 공유 사서함 계정에 대 한 로그인을 차단 하려면 [공유 사서함 계정에 대 한 로그인 차단](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)를 참조 하세요.
+> <sup>1</sup>Exchange Server 2013 조직의 기본 사서함 크기입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다. 온-프레미스 사서함의 경우에는 최대 저장소 제한이 없습니다. <br/> <sup>2</sup> 각 사용자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=844060)를 참조하세요. 자동 확장 보관의 가용성에 대 한 자세한 내용은 [Microsoft 365 로드맵](https://go.microsoft.com/fwlink/?LinkId=509914) 를 참조 하세요. <br/> <sup>3</sup> 공유 사서함에 액세스 하려면 사용자에 게 Exchange Online 라이선스가 있어야 하지만 공유 사서함에는 별도의 라이선스가 필요 하지 않습니다. 라이선스가 없으면 공유 사서함은 50 g b로 제한 됩니다. 크기 제한을 100 GB로 높이려면 공유 사서함에 exchange online 계획 2 라이선스 또는 exchange online 계획 1 라이선스를 할당 받아야 합니다. 이를 통해 보관 저장소 용량에 무제한으로 자동 확장 보관을 사용 하도록 설정할 수도 있습니다. 마찬가지로 공유 사서함에 소송 보존을 적용 하려는 경우에는 공유 사서함에 exchange online 계획 2 라이선스가 있어야 하 고, 해당 사용자의 exchange online 요금제가 1 개 라이선스를 포함 해야 합니다. Office 365 Advanced Threat Protection, Advanced eDiscovery 또는 자동 보존 정책과 같은 고급 기능을 적용 하려면 공유 사서함에 해당 기능에 대 한 라이선스가 있어야 합니다. <br/> <sup>4</sup> 리소스 사서함에는 라이선스가 필요하지 않습니다. 그러나 라이선스가 없으면 리소스 사서함은 50 g b로 제한 됩니다. 사서함 크기를 늘리려면 Exchange Online Plan 2 라이선스가 할당되어야 합니다. 그러면 100GB로 사서함이 늘어납니다. <br/> <sup>5</sup> 보관 사서함을 Exchange Online Kiosk에 포함 되지 않습니다. 하지만 Exchange Online Archiving을 통해 추가 기능으로 구입할 수 있습니다. 자세한 내용은 [Exchange Online 보관 서비스 설명을](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)참조 하세요. <br/> <sup>6</sup> Microsoft Exchange Server 2013 조직의 기본 사서함 크기입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다. Exchange Server 2013에서 공용 폴더 사서함은 100개까지만 사용할 수 있으며 모든 공용 폴더 사서함의 최대 크기는 50TB입니다. <br/> <sup>7</sup> In Exchange Online, you are limited to 1,000 public folder mailboxes, and the maximum total size of all public folder mailboxes is 50 TB. <br/> <sup>8</sup> 보관 사서함은 라이선스가 적용된 단일 사용자나 엔터티의 메일을 보관하는 경우에만 사용할 수 있습니다. 여러 사용자나 엔터티의 메일을 저장하는 목적으로 보관 사서함을 사용할 수는 없습니다. 예를 들어 IT 관리자는 공유 사서함을 만들 수 없고, 사용자가 명백히 보관을 목적으로 참조, 숨은 참조 필드 또는 전송 규칙을 통해 공유 사서함을 복사하도록 할 수 없습니다. <br/> <sup>9</sup>Exchange Online에서 보존 정책을 만든 경우 사용자의 기본 사서함이 10MB보다 큰 경우에만 메시지가 사용자 보관 사서함으로 자동 이동됩니다. 10MB 보다 작은 사서함에 대해서는 보존 정책이 자동으로 실행되지 않습니다. <br/> <sup>10</sup> 공유 및 리소스 사서함에는 라이선스가 필요 하지 않습니다. 그러나 라이센스가 없으면 해당 사서함이 50GB로 제한됩니다. 사서함 크기를 늘리려면 Exchange Online Plan 2 라이선스가 할당되어야 합니다. 그러면 100GB로 사서함이 늘어납니다. <br/> <sup>11</sup> 기본적으로 공유 사서함에는 시스템 생성 (알 수 없는) 암호가 있는 연결 된 활성 사용자 계정이 있습니다. 연결 된 공유 사서함 계정에 대 한 로그인을 차단 하려면 [공유 사서함 계정에 대 한 로그인 차단](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)를 참조 하세요.
 
 ## <a name="capacity-alerts"></a>용량 경고
 
@@ -157,11 +156,11 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |보내기/받기 금지|2.3GB<sup>1</sup>|50GB|100GB|2GB|
 
 > [!NOTE]
-> <sup>1</sup>Exchange Server 2013 조직의 기본값입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다.
+> <sup>1</sup> This is the default value for Exchange Server 2013 organizations. Administrators can change this value for their organization.
 
 ## <a name="mailbox-folder-limits"></a>사서함 폴더 제한
 
-이러한 제한은 사서함을 Exchange Online에서 지원 가능한 크기로 제한하기 위한 값입니다. 이러한 제한을 둠으로써 폴더당 사서함 항목, 사서함당 폴더 또는 Exchange Online 조직당 공용 폴더가 무제한으로 사용되는 것을 방지할 수 있습니다. 사실상 사서함 폴더 제한은 무한하며 대부분의 Exchange Online 사서함 및 Exchange Online으로 마이그레이션되는 온-프레미스 사서함을 지원하기에 충분합니다.
+These limits are intended to limit mailboxes to known dimensions that can be supported in Exchange Online. The goal of these limits is to prevent an infinite number of mailbox items per folder, an infinite number of folders per mailbox, or an infinite number of public folders per Exchange Online organization. For practical purposes, mailbox folder limits are in effect unlimited and sufficient to support most Exchange Online mailboxes and on-premises mailboxes that are migrated to Exchange Online.
 
 - **사서함 폴더당 최대 메시지 수**: 사서함 폴더의 최대 메시지 수를 지정 합니다. 이 제한에 도달하면 새 메시지를 폴더에 배달하거나 저장할 수 없습니다.
 
@@ -317,7 +316,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 ## <a name="receiving-and-sending-limits"></a>수신 및 전송 제한
 
-수신 및 전송 제한은 스팸 및 대량 메일 웜 또는 바이러스를 방지하기 위해 적용됩니다. 이러한 제한은 시스템의 상태를 보호하고 사용자를 안전하게 유지하는 데 도움이 됩니다.
+Receiving and sending limits are applied to combat spam and mass-mailing worms or viruses. These limits help to protect the health of our systems and keep our users safe.
 
 ### <a name="receiving-limits"></a>수신 제한
 
@@ -333,7 +332,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 전송 제한은 사용자가 Exchange Online 계정에서 보낼 수 있는 메시지당 받는 사람 수, 메시지의 수 및 받는 사람 수에 적용됩니다.
 
 > [!NOTE]
-> 조직의 주소록에 저장된 메일 그룹은 받는 사람 한 명으로 계산합니다. 사서함의 연락처 폴더에 저장된 메일 그룹은 해당 그룹의 구성원들을 각각 계산합니다.
+> For distribution groups stored in an organization's address book, the group is counted as one recipient. For distribution groups stored in the Contacts folder of a mailbox, the members of the group are counted individually.
 
 - **받는 사람 속도 제한**: 원하지 않는 대량 메시지의 배달을 방지 하기 위해 Exchange Online에는 받는 사람 제한이 있어 사용자와 응용 프로그램은 대용량 전자 메일을 보내지 못합니다. 이러한 제한은 모든 아웃바운드 메시지 및 내부 메시지에 사용자당 적용됩니다.
 
@@ -343,7 +342,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 - **받는 사람 제한**: 단일 전자 메일 메시지에 대해 To:, Cc: 및 Bcc: 필드에 허용 되는 최대 받는 사람 수입니다.
 
     > [!NOTE]
-    > 받는 사람 처리 속도 제한 및 받는 사람 제한을 적용하기 위해 조직의 공유 주소록에 저장된 메일 그룹이 하나의 받는 사람으로 계산됩니다. 개인 메일 그룹의 받는 사람은 각각 하나의 받는 사람으로 계산됩니다.
+    > For the purposes of the recipient rate limit and the recipient limit, a distribution group that is stored in the organization's shared address book counts as one recipient. In a personal distribution list, each recipient is counted separately.
 
 - **받는 사람 프록시 주소 제한**: 받는 사람 사서함에 포함 될 수 있는 별칭 (전자 메일 주소)의 최대 개수입니다. 
 
@@ -416,7 +415,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |정크 메일 폴더 보존 기간|2년<sup>1</sup>|30일|30일|30일|
 
 > [!NOTE]
-> <sup>1</sup> 기본 제한입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다.<br/> <sup>2</sup> Exchange Online 조직의 기본값입니다. 관리자는 조직 사서함에 대해 이 값을 최대 30일로 변경할 수 있습니다.
+> <sup>1</sup> This is the default limit. Administrators can change this value for their organization. <br/> <sup>2</sup> Exchange Online 조직의 기본값입니다. 관리자는 조직 사서함에 대해 이 값을 최대 30일로 변경할 수 있습니다.
 
 ## <a name="distribution-group-limits"></a>메일 그룹 제한
 
@@ -437,7 +436,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |큰 메일 그룹에 메시지 보내기 제한|구성원 5,000명 이상|구성원 5,000명 이상|구성원 5,000명 이상|구성원 5,000명 이상|구성원 5,000명 이상|구성원 5,000명 이상|
 |5,000명 ~ 99,999명의 구성원이 있는 메일 그룹에 대한 최대 메시지 크기|25MB|25MB|25MB|25MB|25MB|25MB|
 |100,000명의 구성원이 있는 큰 메일 그룹에 대한 최대 메시지 크기|5MB|5MB|5MB|5MB|5MB|5MB|
-|최대 메일 그룹 소유자 수|10  |10  |10  |10  |10  |10  |
+|최대 메일 그룹 소유자 수|10 |10 |10 |10 |10 |10 |
 |사용자가 만들 수 있는 최대 그룹 수|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -450,7 +449,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |**기능**|**Exchange Server 2013**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |최대 메일 그룹 구성원 수|구성원 100,000명<sup>1</sup>|구성원 100,000명|구성원 100,000명|구성원 100,000명|
 |큰 메일 그룹에 메시지 보내기 제한|구성원 5,000명 이상<sup>1</sup>|구성원 5,000명 이상|구성원 5,000명 이상|구성원 5,000명 이상|
-|최대 메일 그룹 소유자 수|10  |10  |10  |10  |
+|최대 메일 그룹 소유자 수|10 |10 |10 |10 |
 |사용자가 만들 수 있는 최대 그룹 수|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]
@@ -466,13 +465,13 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 - **Maximum size of an individual transport rule** The maximum number of characters that can be used in a single transport rule. The characters are used in the conditions, exceptions, and actions.
 
-- **모든 전송 규칙에 사용되는 모든 정규식에 대한 문자 제한** 조직에서 모든 전송 규칙 조건 및 예외의 모든 정규식에 사용되는 총 문자 수입니다. 길고 복잡한 정규식을 사용하는 규칙이 몇 가지 있거나 단순한 정규식을 사용하는 규칙이 많이 있을 수 있습니다.
+- **Character limit for all regular expressions used in all transport rules** The total number of characters used by all the regular expressions in all the transport rule conditions and exceptions in the organization. You can have a few rules that use long and complex regular expressions, or you can have many rules that use simple regular expressions.
 
 - **첨부 파일 콘텐츠의 검색 제한** 전송 규칙 조건을 사용 하면 메시지 첨부 파일의 내용을 검사할 수 있지만 첨부 파일에서 추출 된 텍스트 중 처음 1mb만 검사 됩니다. 이 1MB 제한은 첨부 파일의 파일 크기가 아닌 첨부 파일에서 추출된 텍스트를 나타냅니다. 예를 들어 2mb 파일에는 1mb 미만의 텍스트가 포함 되어 있을 수 있으므로 모든 텍스트가 검사 됩니다.
 
-- **모든 전송 규칙에 의해 메시지에 추가되는 받는 사람의 최대 수** 여러 전송 규칙에 의해 메시지가 처리될 때 제한된 수의 받는 사람만 메시지에 추가될 수 있습니다. 제한에 도달하면 나머지 받는 사람은 메시지가 추가되지 않습니다. 메일 그룹도 전송 규칙에 의해 메시지에 추가될 수 없습니다.
+- **Maximum number of recipients added to a message by all transport rules** When a message is acted on by different transport rules, only a finite number of recipients can be added to the message. After the limit is reached, any remaining recipients aren't added to the message. Also, distribution groups can't be added to a message by a transport rule.
 
-- **전달받는 사람 제한** 리디렉션 작업을 통해 받은 편지함 또는 전송 규칙에 대해 구성할 수 있는 최대 받는 사람 수입니다. 이 받는 사람 수보다 많은 사람에게 메시지를 리디렉션하도록 구성하는 규칙은 적용되지 않으며, 규칙 조건을 충족하는 메시지는 규칙에 나와 있는 받는 사람에게 리디렉션되지 않습니다.
+- **Forwardee limit** The maximum number of recipients that can be configured for an inbox or transport rule with a redirecting action. If a rule is configured to redirect a message to more than this number of recipients, the rule won't be applied and any message that satisfies the rule condition won't be redirected to any of the recipients listed in the rule.
     
 - **메시지가 리디렉션되는** 횟수 받은 편지함 규칙을 기반으로 메시지를 리디렉션하고 전달 하거나 자동으로 회신 하는 횟수입니다. 예를 들어, 사용자 A에게는 보낸 사람에 따라 사용자 B에게 메시지를 리디렉션하는 받은 편지함 규칙이 있고, 사용자 B에게는 제목 행의 키워드에 따라 사용자 C에게 메시지를 전달하는 받은 편지함 규칙이 있습니다. 리디렉션은 1회만 허용되므로 메시지가 이러한 조건을 모두 충족시키는 경우 사용자 B에게만 전송되며 사용자 C에게는 전송되지 않습니다. 이러한 두 조건을 충족 하는 메시지는 사용자 B로만 전송 됩니다. 리디렉션이 하나만 허용 되므로 사용자 C에 게 전달 되지 않습니다. 이 경우 사용자 B에 게 메시지를 사용자 C로 배달 하지 않았다는 NDR (배달 못 함 보고서)을 보내지 않고 메시지가 삭제 됩니다. 메시지를 리디렉션한 횟수를 결정 하는 데에는 X-MS-수신함-Rules-Loop 헤더를 사용 합니다. 이 헤더는 Exchange 조직 경계를 넘어도 유지 됩니다.
 
@@ -519,7 +518,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 - **만료 된 중재 알림 메시지의 최대 속도**:이 제한은 일회용 메시지에 대 한 최대 알림 메시지 수를 1 시간 간격으로 설정 합니다. 데이터 센터의 각 사서함 데이터베이스에 이 제한이 적용됩니다.
 
-사용량이 많은 기간에는 일부 보낸 사람이 만료된 중재된 메시지에 대한 알림 메시지를 받지 못할 수 있습니다. 그러나 배달 보고서에서 이러한 알림을 검색할 수 있습니다.
+During periods of heavy usage, some senders may not receive notification messages for moderated messages that have expired. However, these notifications are still discoverable using delivery reports.
 
 ### <a name="moderation-limits"></a>중재 제한
 
@@ -542,7 +541,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |만료된 중재 알림 메시지의 최대 처리 속도|시간당 만료 알림 300개|시간당 만료 알림 300개|시간당 만료 알림 300개|시간당 만료 알림 300개|
 
 > [!NOTE]
-> <sup>1</sup>Exchange Server 2013 조직의 기본 제한입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다.
+> <sup>1</sup> This is the default limit for Exchange Server 2013 organizations. Administrators can change this value for their organization.
 
 ## <a name="exchange-activesync-limits"></a>Exchange ActiveSync 제한
 

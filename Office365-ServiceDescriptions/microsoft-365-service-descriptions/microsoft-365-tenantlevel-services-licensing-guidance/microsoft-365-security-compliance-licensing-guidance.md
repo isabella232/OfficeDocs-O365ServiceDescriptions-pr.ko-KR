@@ -1,23 +1,22 @@
 ---
 title: 보안 & 준수에 대 한 Microsoft 365 라이선스 지침
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: v-trscho
+author: vtrscho
 audience: ITPro
 ms.topic: reference
-ms.date: 4/13/2020
+ms.date: 7/13/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: 6c3fe17e95d3515e1a0df3c697362bb3438e77ac
-ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
+ms.openlocfilehash: 18df87a9bf867c68cf4a711c1f6c9f728d2b6655
+ms.sourcegitcommit: f3cf76cada0f11efc225c246fff4346910491659
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "45089659"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45137564"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -70,7 +69,7 @@ Azure ATP 서비스가 현재 특정 사용자에 게 기능을 제한할 수 �
 
 ## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
 
-ATP (Advanced Threat Protection)를 사용 하면 피싱 및 제로 일 멀웨어와 같은 정교한 공격 으로부터 조직을 보호할 수 있습니다. 또한 다양 한 데이터를 식별 하 고 우선 순위를 지정 하 여 잠재적 위협을 해결 하는 방법에 대 한 권장 사항을 제공 하는 데 도움을 주는 유효한 통찰력을 제공 합니다.
+ATP (Advanced Threat Protection)를 사용 하면 피싱 및 제로 일 멀웨어와 같은 정교한 공격 으로부터 조직을 보호할 수 있습니다. 또한 ATP는 다양 한 데이터를 식별 하 고 우선 순위를 지정 하 고 잠재적 위협을 해결 하는 방법에 대 한 권장 사항을 제공 하는 데 도움을 주는 일련의 조치를 제공 합니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -389,7 +388,7 @@ Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365, 정보 보호 및 관리 �
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예:
+사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예시:
 
 | 시나리오 | 라이선스가 필요한 사용자 |
 |:-------|:------|

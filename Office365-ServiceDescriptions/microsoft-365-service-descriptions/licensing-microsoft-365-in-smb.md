@@ -1,20 +1,19 @@
 ---
 title: 중소기업을 위한 Microsoft 365 라이선싱
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium은 중소 규모의 비즈니스 고객을 위한 Microsoft 모범 사례 제품입니다. Microsoft 365 Business Premium은 Microsoft 365 생산성, 고급 보안 및 장치 관리를 함께 제공 하는 통합 솔루션입니다.
-ms.openlocfilehash: 1daa243d00291023b93b6c2f02cc0b73a06bb4a7
-ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
+ms.openlocfilehash: b8171b54714cfa0c4b28347ec949a849bb819f53
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "44988862"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132542"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>중소기업을 위한 Microsoft 365 라이선싱
 
@@ -190,7 +189,7 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 | 1TB 비즈니스용 OneDrive       | 예                     | 예                    |
 | **라이선스**                                   | **비즈니스용 Microsoft 365 앱** | **Microsoft Office 365 ProPlus** |
 | 라이선스 모델                                 | 사용자 당                | 사용자 당               |
-| 라이선스 유형                                    | 구독은            | 구독은           |
+| 라이선스 유형                                    | 구독            | 구독           |
 | PC/Mac 설치<sup>6</sup>                     | 5                        | 5                       |
 | iOS/Android smartphone 설치<sup>6</sup>     | 5                        | 5                       |
 | 태블릿 설치<sup>6</sup>                     | 5                        | 5                       |

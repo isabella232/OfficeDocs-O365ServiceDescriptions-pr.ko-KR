@@ -1,8 +1,7 @@
 ---
 title: 핵심 기능
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online에서는 다음과 같은 핵심 기능 기능을 사용할 수 있습니다.
-ms.openlocfilehash: ef7db261827e79f47403e897aaabd248a25e4d02
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 876de70c098ec5fda88bf48c4dba1a49f19a5920
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640196"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131272"
 ---
 # <a name="core-functionality"></a>핵심 기능
 
@@ -43,11 +42,11 @@ Project Online에서는 다음과 같은 핵심 기능 기능을 사용할 수 �
   
 ## <a name="custom-fields"></a>사용자 지정 필드
 
-Project에 포함된 필드 외에, 조직의 요구 사항에 맞도록 사용자 지정 필드를 사용할 수도 있습니다. 필드에 대한 자세한 내용은 [사용 가능한 필드 참조](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460)를 참조하세요.
+In addition to the fields that are included with Project, you can also use custom fields to meet your organizational needs. To learn more about fields, see [Available fields reference](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
   
 ## <a name="enhanced-copy-and-paste-across-microsoft-office-applications"></a>Microsoft Office 응용 프로그램 간에 향상된 복사 및 붙여넣기
 
-Word와 같은 Office 응용 프로그램 간에 일정 세부 정보를 복사하여 붙여넣는 방법으로 일정 개발에 대한 공동 작업을 수행합니다. 자세한 내용은 [Word에서 Project로 복사하여 붙여넣기](https://go.microsoft.com/fwlink/p/?LinkId=271330)를 참조하세요.
+Collaborate on schedule development by copying and pasting schedule details between Office applications, such as Word. Learn more about [copying and pasting from Word into Project](https://go.microsoft.com/fwlink/p/?LinkId=271330).
   
 ## <a name="gantt-chart-calendar-and-task-sheet-views"></a>Gantt 차트, 달력 및 작업 시트 보기
 
@@ -55,7 +54,7 @@ Gantt 차트, 네트워크 다이어그램, 그래프, 시트, 사용 현황 및
   
 ## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft의 효율적인 사용자 인터페이스, 리본
 
-Project 기능과 컨트롤을 빠르게 찾아 사용할 수 있는 탭 인터페이스인 리본을 통해 생산성을 향상합니다. 자세한 내용은 [리본](https://go.microsoft.com/fwlink/p/?LinkId=271325)을 참조하세요.
+Increase productivity with the ribbon, a tab interface that you can use to quickly find and use Project features and controls. [Learn more about the ribbon](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="multiple-level-undo"></a>여러 수준 실행 취소
 
@@ -79,15 +78,15 @@ Project 도움말은 Office.com에서 또는 project에서 직접 시작할 때 
   
 ## <a name="placeholder-text-in-project-fields"></a>프로젝트 필드의 자리 표시자 텍스트
 
-프로젝트의 모든 세부 정보를 잘 모르는 경우 리소스, 시작 날짜, 종료 날짜 등에 대해 "TBD"와 같은 자리 표시자 텍스트를 사용할 수 있습니다. 자세한 내용은 [하향식 계획](https://go.microsoft.com/fwlink/p/?LinkId=271333)을 참조하세요.
+If you're not sure of all the details for a project, you can use placeholder text, such as "TBD" for resources, start dates, end dates, and so on. For more information, see [Top-down planning](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
 ## <a name="project-templates"></a>프로젝트 템플릿
 
-기존 프로젝트를 템플릿으로 사용하여 프로젝트를 만들면 시간을 절약할 수 있습니다. [다른 프로젝트 또는 템플릿에서 새 프로젝트 만들기](https://go.microsoft.com/fwlink/p/?LinkId=271328)를 참조하세요.
+You can save lots of time creating a project by using a past project as a template. See [Creating a new project from another project or template](https://go.microsoft.com/fwlink/p/?LinkId=271328).
   
 ## <a name="start-experience"></a>환경 시작
 
-Project 2013에서는 빈 프로젝트를 여는 대신 원하는 프로젝트를 시작할 수 있는 원스톱 센터가 제공됩니다. 고객 템플릿 또는 기본 제공 가이드를 사용하여 간편한 4개의 단계에서 시작할 수 있습니다.
+Instead of dropping you into a blank project, Project 2013 presents a one-stop center for starting your project. You can use customer templates or a built-in guide to get you started in four easy steps.
   
 ## <a name="text-wrap"></a>텍스트 자동 줄 바꿈
 

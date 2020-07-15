@@ -1,8 +1,7 @@
 ---
 title: Exchange Online 서비스 설명
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함 하는 구독의 기능 비교를 찾으십니까? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: 7b92bbbd418fd8b408f776b428dcbcc05e993bc5
-ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
+ms.openlocfilehash: 140cb5eb12a67248928fb75201375c039186dd09
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44845022"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131552"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -145,7 +144,7 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 |Outlook for Mac<sup>21</sup>|예|예|예|예|예|예|예| 아니요|
 |iOS 및 Android용 Outlook<sup>21</sup>|예|예|예|예|예|예|예|예|
 |Exchange ActiveSync|예|예|예|예|예|예|예|예|
-|Office 365의 모바일 장치 관리|아니요|아니요|있음|예|예|예|예|예|
+|Microsoft 365에 대 한 기본 모바일 및 보안|아니요|아니요|있음|예|예|예|예|예|
 |POP 및 IMAP|예|예|예|예|예|예|예|예 <sup>12</sup>|
 |SMTP|예|예|예|예|예|예|예|예|
 |EWS 응용 프로그램 지원|예|예|예|예|예|예|예|아니요|

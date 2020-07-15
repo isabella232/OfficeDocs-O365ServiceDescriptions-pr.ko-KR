@@ -1,7 +1,7 @@
 ---
 title: MyAnalytics 서비스 설명
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +9,12 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics 기능, 배포판, 개인 정보 및 필수 구성 요소
-ms.openlocfilehash: 9b5683c0b2d19b0e263d25228b190110ba489b6a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f9f6a329aadb874be1e7b1e13cb0446daec8a4ee
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262861"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132432"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics 서비스 설명
 
@@ -37,13 +37,13 @@ MyAnalytics는 다음 요소로 구성 되어 있습니다.
 
 다음 지침에 따라 MyAnalytics은 지역 규정 준수를 지원 하 고 직원의 개인 정보를 보호 합니다.
 
-* MyAnalytics는 직원 평가, 추적, 자동화 된 의사 결정, 프로 파일링 또는 모니터링을 가능 하 게 하도록 설계 되지 않았습니다.
+* MyAnalytics는 직원 평가, 추적, 자동화된 의사 결정, 프로파일링 또는 모니터링을 사용하도록 설계되지 않았습니다.
 * MyAnalytics에서는 직원에 게 다른 동료의 개인 식별이 가능한 새 정보에 대 한 액세스 권한을 부여 하지 않습니다.
-* MyAnalytics 데이터를 처리 하 고 직원의 Exchange Online 사서함에 저장 합니다.
-* MyAnalytics는 GDPR (일반 데이터 보호 규정) 준수를 지원 합니다.
-* MyAnalytics가 의도적으로 옵트인 되도록 구성할 수 있습니다.
+* 직원의 Exchange Online 사서함에서 MyAnalytics 데이터가 처리되고 저장됩니다.
+* MyAnalytics는 GDPR(일반 데이터 보호 규정) 준수를 지원합니다.
+* MyAnalytics를 구성하여 사용자가 목절에 맞게 참여하도록 할 수 있습니다.
 * MyAnalytics 및 Delve는 상호 종속성이 없는 별도의 응용 프로그램입니다.
-* MyAnalytics가 데이터를 비공개로 보호 하 고 있음을 사용자에 게 알립니다.
+* MyAnalytics는 사람들에게 데이터가 비공개이고 안전한지를 알립니다.
 
 자세한 내용은 [Myanalytics 개인 정보 가이드](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide)를 참조 하십시오.
 

@@ -1,7 +1,7 @@
 ---
 title: Workplace Analytics 서비스 설명
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 ms.reviewer: v-midehm
 audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Microsoft 작업 공간 분석에서는 비즈니스 의사 결정을 보다 효율적으로 수행 하는 데 도움이 되는 조직의 커뮤니케이션 및 공동 작업 경향을 다양 하 게 수행할 수 있는 통찰력을 제공 합니다.
-ms.openlocfilehash: fd114e7c56a2bb9427a2f45c06706ad902b27644
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 1698590614c202075532de9977077da2195c3ebe
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640106"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132932"
 ---
 # <a name="workplace-analytics-service-description"></a>Workplace Analytics 서비스 설명
 

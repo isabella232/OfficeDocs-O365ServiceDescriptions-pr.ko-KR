@@ -1,8 +1,7 @@
 ---
 title: Office 365 Government
-ms.author: danarl
-author: danarl
-manager: dianap
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 문서에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다.
-ms.openlocfilehash: fb7eac83230c92adfbd52a3744e9cfd101292050
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: 7ca2dc6afa9d22f17b7c95d338e5b700df070d42
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429063"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131732"
 ---
 # <a name="office-365-us-government"></a>Office 365 Government
 
@@ -66,7 +65,7 @@ Office 365 Government 자격에 대해 질문이 있는 기관은 계정 팀에 
   
 ## <a name="customer-content-located-within-the-united-states"></a>미국 내의 고객 콘텐츠
 
-Office 365 Government 서비스는 미국에 실제로 있는 데이터 센터에서 제공합니다. 다음 고객 콘텐츠는 실제로 미국에 있는 데이터 센터에 계속 보관됩니다. 
+Office 365 US Government services are provided from datacenters physically located in the United States. The following customer content is stored at rest in datacenters physically located only in the U.S.A.: 
   
 - Exchange Online 사서함 콘텐츠 (전자 메일 본문, 일정 항목 및 첨부 파일의 콘텐츠)
     
@@ -138,7 +137,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
   
 ## <a name="service-availability-for-each-plan"></a>각 계획의 서비스 가용성
 
-각 Office 365 계획에는 Exchange Online, SharePoint Online 등의 여러 개별 서비스가 포함됩니다. 다음 표에는 각 Office 365 Government 계획에서 사용 가능한 서비스가 나와 있습니다.
+Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 US Government plan.
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
@@ -257,7 +256,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**트러스트** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 정부 F3** <br/> |
 |**[개인 정보, 보안 및 투명성](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |고급 데이터 거버넌스  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예 <br/> |<sup>12</sup> <br/> |
-|Cloud App Security  <br/> |<sup>12, 15, 19</sup> <br/> |<sup>12, 15, 19</sup> <br/> |예<sup>15, 19</sup> <br/> |<sup>12, 15, 19</sup> <br/> |
+|클라우드 앱 보안  <br/> |<sup>12, 15, 19</sup> <br/> |<sup>12, 15, 19</sup> <br/> |예<sup>15, 19</sup> <br/> |<sup>12, 15, 19</sup> <br/> |
 |Advanced Threat Protection  <br/> |<sup>12, 18</sup> <br/> |<sup>12, 18</sup> <br/> |예<sup>18</sup>  <br/> |<sup>12, 18</sup> <br/> |
 |고객 Lockbox  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예 <br/> |<sup>12</sup> <br/> |
 |Advanced eDiscovery  <br/> |<sup>12</sup> <br/> |<sup>12</sup> <br/> |예  <br/> |<sup>12</sup> <br/> |

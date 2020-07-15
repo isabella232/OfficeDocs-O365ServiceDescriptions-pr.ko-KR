@@ -1,8 +1,7 @@
 ---
 title: 비즈니스용 Skype Online 제한
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 비즈니스용 Skype Online의 제한은 다음 범주에 속합니다.
-ms.openlocfilehash: 940405e3fa13adb52a98fb749e8dea51812ff32b
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 6f9cf165c2b0bf9408ce0801740bb3abf0caa5a4
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639706"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131022"
 ---
 # <a name="skype-for-business-online-limits"></a>비즈니스용 Skype Online 제한
 
@@ -39,7 +38,7 @@ ms.locfileid: "43639706"
 ## <a name="peer-to-peer-limits"></a>피어-투-피어 제한
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
 
-- **파일 전송 제한**비즈니스용 Skype 온라인 IM 대화에서 전송할 수 있는 최대 파일 크기입니다. 파일 전송이 차단된 파일 형식을 확인하려면 [비즈니스용 Skype Online에서 파일 또는 첨부 파일 보내고 받기](https://go.microsoft.com/fwlink/?LinkId=398280)에 대한 Microsoft 지원 문서를 참조하세요.
+- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
     
 - **대화 탭 열기 제한** 비즈니스용 Skype 사용자가 한 번에 열 수 있는 최대 대화 탭 수입니다. 
     
@@ -47,7 +46,7 @@ ms.locfileid: "43639706"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 비즈니스 표준** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
+|**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
 |파일 전송 제한  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |해당 사항 없음  <br/> |
 |대화 한도<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |대화 탭 열기 제한  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |해당 사항 없음  <br/> |
@@ -85,7 +84,7 @@ ms.locfileid: "43639706"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 비즈니스 표준** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
+|**기능** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
 |파일 업로드 제한  <br/> |500MB  <br/> |500MB  <br/> |500MB  <br/> |500MB  <br/> |500MB  <br/> |해당 없음  <br/> |
 |비즈니스용 Skype 모임의 참가자<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 사항 없음  <br/> |
 |비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |해당 없음  <br/> |
@@ -95,7 +94,7 @@ ms.locfileid: "43639706"
 |팀 호출 그룹의 개인  <br/> |25@@  <br/> |25@@  <br/> |25@@  <br/> |25@@  <br/> |25@@  <br/> |해당 없음  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 비즈니스용 Skype 모임의 참가자 수가 75명보다 많은 경우, 모임 명단의 참가자 목록(발표자 및 참석자)이 잘리므로 개별 참석자는 발표자와 개별 참석자 본인의 이름만 볼 수 있습니다. 모임의 발표자는 여전히 전체 참가자 목록을 볼 수 있습니다. 또한 참석자는 갤러리 보기 및 IM 오류는 볼 수 없습니다. 
+> <sup>1</sup> If the number of participants in a Skype for Business meeting exceeds 75 participants, then the participant list (presenters and attendees) in the meeting roster will be truncated so that an individual attendee sees only the presenters and the individual attendee's own name. The full participant list remains visible to the presenters in the meeting. Also, Gallery View and IM errors are hidden from the attendees. 
   
 ### <a name="meeting-limits-across-standalone-options"></a>독립 실행형 옵션별 모임 제한
 

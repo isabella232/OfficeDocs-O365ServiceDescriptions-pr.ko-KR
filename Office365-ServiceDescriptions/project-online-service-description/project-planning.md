@@ -1,8 +1,7 @@
 ---
 title: 프로젝트 계획
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: Project Online에서는 다음과 같은 프로젝트 계획 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 74e091f674bead0ad8300a6045df5181cf5bb71f
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8016984662d42935249e024550296b68479756c2
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640206"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131102"
 ---
 # <a name="project-planning"></a>프로젝트 계획
 
@@ -31,11 +30,11 @@ Project Online에서는 다음과 같은 프로젝트 계획 기능을 사용할
   
 ## <a name="budget-planning"></a>Budget planning
 
-예산 계획을 통해 프로젝트 시작 시점에 설정한 초기 계획과 현재 진행 상황을 비교할 수 있습니다. 자세한 내용은 [진척 상황 분석](https://go.microsoft.com/fwlink/p/?LinkId=271336)을 참조하세요.
+Budget planning allows you to compare current progress against a baseline that you set at the start of a project. Learn more about [earned value analysis](https://go.microsoft.com/fwlink/p/?LinkId=271336).
   
 ## <a name="compare-project-versions"></a>프로젝트 버전 비교
 
-프로젝트의 두 버전을 비교합니다. 새 작업 추가와 같은 변경된 내용을 나타내는 보고서가 만들어집니다.
+Compare two versions of a project. A report is created that shows what changed, such as the addition of new tasks.
   
 ## <a name="deadlines"></a>마감
 
@@ -55,7 +54,7 @@ Project Online에서는 다음과 같은 프로젝트 계획 기능을 사용할
   
 ## <a name="reports"></a>보고서
 
-Project 2016에서는 데이터를 다른 프로그램으로 내보낼 필요 없이 산뜻하고 화려한 색감의 전문적인 보고서를 만들 수 있습니다. 이해 관계자 및 팀 구성원과 프로젝트 상태 정보를 명확 하&mdash;고 효율적으로 공유 하기 위해 필요한 모든 정보를 그림, 차트, 애니메이션, 링크 등으로 추가 합니다. 자세한 내용은 [프로젝트 보고서 만들기](https://go.microsoft.com/fwlink/p/?LinkId=271349)를 참조하세요.
+Project 2016에서는 데이터를 다른 프로그램으로 내보낼 필요 없이 산뜻하고 화려한 색감의 전문적인 보고서를 만들 수 있습니다. &mdash;이해 관계자 및 팀 구성원과 프로젝트 상태 정보를 명확 하 고 효율적으로 공유 하기 위해 필요한 모든 정보를 그림, 차트, 애니메이션, 링크 등으로 추가 합니다. 자세한 내용은 [프로젝트 보고서 만들기](https://go.microsoft.com/fwlink/p/?LinkId=271349)를 참조하세요.
   
 ## <a name="team-planner"></a>팀 플래너
 

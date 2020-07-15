@@ -1,8 +1,7 @@
 ---
 title: Microsoft 365 Business Premium 서비스 설명
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium은 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 활용 하 여 최고의 생산성을 제공 하는 통합 솔루션입니다. 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다.
-ms.openlocfilehash: 8760788fe6fd0b8a66f9379f56b569239b18c142
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: fbeae5678143d78138b71fe842c40a9969951531
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214030"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132562"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 Business Premium 서비스 설명
 

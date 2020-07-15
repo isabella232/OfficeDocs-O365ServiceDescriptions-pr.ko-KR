@@ -1,8 +1,7 @@
 ---
 title: Yammer의 프로필 기능
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Yammer에서는 다음과 같은 프로필 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 88203bd0a62a8094596a3719e5dc3eff09cd6e31
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4a3b0dc2a73a7d05b1acbee27ad23e732c127e02
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640020"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45133032"
 ---
 # <a name="profile-features-in-yammer"></a>Yammer의 프로필 기능
 
@@ -29,7 +28,7 @@ Yammer에서는 다음과 같은 프로필 기능을 사용할 수 있습니다.
 
 ## <a name="leaderboards"></a>리더보드
 
-인맥 중 영향력 있는 동료를 식별합니다. 리더보드에는 메시지, 회신 메시지 및 링크된 메시지가 가장 많은 사람이 표시됩니다.
+Identify influential coworkers in your network. Leaderboards display people with the most messages, replied-to messages, and liked messages.
 
 ## <a name="member-directory"></a>구성원 디렉터리
 

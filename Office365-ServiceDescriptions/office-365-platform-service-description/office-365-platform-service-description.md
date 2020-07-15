@@ -1,8 +1,7 @@
 ---
 title: Microsoft 365 및 Office 365 플랫폼 서비스 설명
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Exchange Online 계획을 비롯 하 여 계획 간의 차이점을 확인 하는 경우이 문서에 각 기능에 포함 되는 기능이 표시 됩니다.
-ms.openlocfilehash: 47c1c475204f891c69f327bd8008931685df898b
-ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
+ms.openlocfilehash: 660a716f53ad8cc1fe39c20d939656a0d627f683
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "44768134"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131922"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 및 Office 365 플랫폼 서비스 설명
 

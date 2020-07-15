@@ -1,24 +1,23 @@
 ---
 title: Microsoft 365 규정 준수 - DoD 배포 계획
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: 이 지침은 Microsoft 365 정부-DoD를 사용 하는 것이 적합 한 미국 연방 정부 엔터티나 Office 365의 배포를 추진 하는 IT 전문가를 위한 것입니다. 이러한 요구 사항을 충족 합니다.
-ms.openlocfilehash: c45306738fcda2e3a7431cd15e5ac39d6373bd8a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: 이 지침은 미국 연방 정부 엔터티 또는 정부 규정 요구 사항이 적용 되는 데이터를 처리 하는 기타 엔터티와의 Office 365의 배포를 추진 하는 IT 전문가를 위한 것으로, Microsoft 365 정부-DoD를 사용 하는 것이 이러한 요구 사항을 충족 하는 데 적합 합니다.
+ms.openlocfilehash: f9fe178b5d22f1a40d6e5b9a12b83f9d65d22411
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262841"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132492"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 규정 준수 - DoD 배포 계획
 
-이 지침은 Microsoft 365 정부-DoD를 사용 하는 것이 적합 한 미국 연방 정부 엔터티나 Office 365의 배포를 추진 하는 IT 전문가를 위한 것입니다. 이러한 요구 사항을 충족 합니다.
+이 지침은 미국 연방 정부 엔터티 또는 정부 규정 요구 사항이 적용 되는 데이터를 처리 하는 기타 엔터티와의 Office 365의 배포를 추진 하는 IT 전문가를 위한 것으로, Microsoft 365 정부-DoD를 사용 하는 것이 이러한 요구 사항을 충족 하는 데 적합 합니다.
 
 > [!NOTE]
 > 조직이 Microsoft 365 정부-DoD 자격 요건을 이미 충족 하 여 프로그램에 적용 되 고이에 동의 하는 경우 1 단계와 2 단계로 건너뛰고 3 단계로 바로 이동할 수 있습니다.
@@ -52,20 +51,20 @@ Office 365의 기능을 제공 하는 것 외에도 조직은 Microsoft 365 정�
 
 이 서비스가 조직에 적합 하다 고 판단 되 면 [이 서비스에 대 한 적용](https://products.office.com/government/eligibility-validation)프로세스를 시작 합니다.
 
-## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>3단계. Microsoft 365 정부-DoD 기본 보안 설정 이해
+## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>3단계 Microsoft 365 정부-DoD 기본 보안 설정 이해
 
 관리 및 보안 설정을 수정 하기 전에 주의 깊게 검토 하 고, 기본 보안 설정을 변경 하기 전에 준수에 미치는 영향을 고려 하는 것이 좋습니다.
 
 **의사 결정**사항: *기본 Microsoft 365 정부 보안 설정을 수정 하 고, 변경 내용에 대 한 영향을 먼저 이해 하도록 확인 합니다.*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>4단계. Microsoft 365 정부에서 기본적으로 현재 사용할 수 없거나 사용 하지 않도록 설정 된 기능 이해 (영문<sup>)</sup>
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>4단계 Microsoft 365 정부에서 기본적으로 현재 사용할 수 없거나 사용 하지 않도록 설정 된 기능 이해 (영문<sup>)</sup>
 
 정부 클라우드 고객의 요구 사항을 충족 하기 위해 Microsoft 365 정부-DoD 및 enterprise 요금제 간에는 약간의 차이가 있습니다. 사용 가능한 기능을 확인 하려면 다음 표를 참조 하세요.
 
 
 |         |기능  |DoD 상태  |
 |---------|---------|---------|
-|**정보 보호 & 거 버 넌 스** |보관할                                       |  사용할 수 있음             |
+|**정보 보호 & 거 버 넌 스** |보관                                       |  사용할 수 있음             |
 |                                        |수동 레이블 및 정책<sup>2</sup>          |  사용할 수 있음             |
 |                                        |레이블 자동 응용 프로그램                      | 엔지니어링 백로그 |
 |                                        |중요 한 데이터 형식을 기반으로 하는 레이블            | 엔지니어링 백로그 |
@@ -82,10 +81,10 @@ Office 365의 기능을 제공 하는 것 외에도 조직은 Microsoft 365 정�
 |                                        |레이블 활동 탐색기                         | 엔지니어링 백로그 |
 |                                        |Trainable 분류자                           | 엔지니어링 백로그 |
 |                                        |통합 레이블 및 민감도 레이블         | 엔지니어링 백로그 |
-|**참가자 위험 관리**             |고급 메시지 암호화                     | 사용할 수 있음              |
-|                                        |참가자 위험 관리                         | 엔지니어링 백로그 |
+|**내부자 위험 관리**             |고급 메시지 암호화                     | 사용할 수 있음              |
+|                                        |내부자 위험 관리                         | 엔지니어링 백로그 |
 |                                        |커뮤니케이션 규정 준수                        | 엔지니어링 백로그 |
-|                                        |Customer Lockbox                                | 사용할 수 있음              |
+|                                        |고객 Lockbox                                | 사용할 수 있음              |
 |                                        |고객 키                                    | 사용할 수 있음              |
 |                                        |권한이 부여된 액세스 관리                    | 엔지니어링 백로그 |
 |**응답 & 검색**                  |원본 위치 예약                            | 사용할 수 있음              |
@@ -101,7 +100,7 @@ Office 365의 기능을 제공 하는 것 외에도 조직은 Microsoft 365 정�
 |                                        |예측 코딩                               | 엔지니어링 백로그 |
 |                                        |로드 파일을 사용 하 여 내보내기 처리                 | 엔지니어링 백로그 |
 |                                        |열리면                                         | 엔지니어링 백로그 |
-|                                        |뷰어                                         | 엔지니어링 백로그 |
+|                                        |보기 권한자                                         | 엔지니어링 백로그 |
 |                                        |Redactions                                      | 엔지니어링 백로그 |
 |                                        |필터링                                       | 엔지니어링 백로그 |
 |                                        |Custodian 매핑                   | 엔지니어링 백로그 |

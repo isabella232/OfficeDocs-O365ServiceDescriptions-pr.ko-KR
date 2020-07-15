@@ -1,7 +1,7 @@
 ---
 title: 웹용 Visio
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Web for visio는 Microsoft Visio 환경을 브라우저로 확장 하 여 클라우드에 저장 된 다이어그램을 만들고 편집할 수 있습니다. Microsoft 365 고객은 다이어그램을 보고 인쇄 하 고 공유 하며 이동 중에 의견을 삽입할 수 있습니다.
-ms.openlocfilehash: 26852615913a07c667e10c052563b7e8680b9350
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 6c0b05a7e2365ebf517048aeb008ebf098053a52
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640096"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132122"
 ---
 # <a name="visio-for-the-web"></a>웹용 Visio
 
@@ -122,5 +122,5 @@ Visio 다이어그램은 온라인으로 저장 되므로 여기에 대 한 링�
   
 ## <a name="zoom"></a>확대/축소
 
-웹에 대 한 Visio에 확대 및 축소할 수 있는 슬라이더가 포함 되어 있습니다. 또한 확대/축소 이동 &amp; 기능을 사용 하 여 다이어그램 영역을 확대할 수도 있습니다.
+웹에 대 한 Visio에 확대 및 축소할 수 있는 슬라이더가 포함 되어 있습니다. 또한 확대/축소 이동 기능을 사용 하 여 &amp; 다이어그램 영역을 확대할 수도 있습니다.
   

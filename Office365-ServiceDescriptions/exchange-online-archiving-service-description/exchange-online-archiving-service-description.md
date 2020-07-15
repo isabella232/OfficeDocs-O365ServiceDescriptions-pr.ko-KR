@@ -1,8 +1,7 @@
 ---
 title: Exchange Online Archiving 서비스 설명
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online 보관은 microsoft exchange Server 2019, Microsoft exchange Server 2016, microsoft exchange server 2013, microsoft exchange server 2010 (SP2 이상)을 배포 하거나 특정 Exchange Online 또는 Microsoft 365 계획을 구독 하는 조직에 대 한 Microsoft 365 클라우드 기반 엔터프라이즈 급 보관 솔루션입니다. Exchange Online Archiving은 보관, 규정 준수, 규제 및 eDiscovery 문제와 관련하여 이러한 조직을 지원하는 동시에 온-프레미스 인프라를 단순화하여 비용을 절감하고 IT 부담을 완화시켜 줍니다.
-ms.openlocfilehash: 5b5b19fa947594bbf648a46746bbfecbf8039fda
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6869fd655142eb6dd6df062fc669f5c8e9c5840f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213730"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131522"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 서비스 설명
 
@@ -61,7 +60,7 @@ Exchange Server에 대해 Exchange Online 보관을 사용 하려면 사용자 �
   
 ### <a name="user-subscriptions"></a>사용자 구독
 
-Exchange Online Archiving 서비스에 액세스하는 각 사용자가 Exchange Online Archiving 구독을 보유해야 합니다. 각 전자 메일 보관 사서함 구독은 사용자 한 명의 메시징 데이터를 저장하는 용도로만 사용할 수 있습니다.
+Each user who accesses the Exchange Online Archiving service must have an Exchange Online Archiving subscription. Each email archive subscription can be used only for storage of one user's messaging data.
   
 ## <a name="unlimited-archive-storage-quota"></a>무제한 보관 저장소 할당량
 

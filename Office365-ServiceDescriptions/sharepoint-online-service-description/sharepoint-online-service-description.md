@@ -1,8 +1,7 @@
 ---
 title: SharePoint 서비스 설명
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 사용할 수 있는 SharePoint 기능을 계획 합니다.
-ms.openlocfilehash: a7606d1fe17c293a46398c93c95a1ffb7313f9b4
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: cc98d37abe936a7ad6ac67c22b5e8250e6326adb
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214040"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131032"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 서비스 설명
 
@@ -136,7 +135,7 @@ SharePoint는 Microsoft 365의 고급 보안 및 규정 준수 기능과 통합 
 - [DLP(데이터 손실 방지)](/microsoft-365/compliance/data-loss-prevention-policies) 
 - [eDiscovery](/microsoft-365/compliance/ediscovery-cases) (콘텐츠 검색, 보류, 내보내기)
 - [정보 장벽](/microsoft-365/compliance/information-barriers)
-- [Office 365 ATP (Advanced Threat Protection)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Office 365 Advanced Threat Protection (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [보존 레이블 및 정책](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
 - [민감도 레이블](/microsoft-365/compliance/sensitivity-labels)
 - [통합 감사](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (SharePoint 사용자 및 관리 활동 감사)
@@ -151,7 +150,7 @@ SharePoint는 Microsoft 365의 고급 보안 및 규정 준수 기능과 통합 
 
 다른 설명이 없는 한, SharePoint를 포함 하는 모든 요금제 및 모든 SharePoint 독립 실행형 계획에서 다음 기능을 사용할 수 있습니다.
 
-- [접근성](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
+- [손쉬운 사용](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
 - [Microsoft 팀을 사이트에 추가](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865)합니다. Office 365가 포함된 구독이 필요하며 사용자에게 팀 라이선스가 있어야 합니다.
 - [대상 그룹 지정](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
 - [클래식 팀 사이트를 새 Office 365 그룹에 연결](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d)합니다. Office 365이 포함 된 구독이 필요 합니다.

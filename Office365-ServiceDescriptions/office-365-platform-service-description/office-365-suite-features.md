@@ -1,8 +1,7 @@
 ---
 title: Microsoft 365 제품군 기능
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열 된 기능은 많은 장치 및 여러 Office 365 서비스에서 안전 하 게 공동 작업 하 고 통신 하는 데 사용할 수 있는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: 402d755368d7a83996b2f1d7254f6b4defcdb3d6
-ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
+ms.openlocfilehash: 058acf94ae50764616a02febfac09f2a86cf66d0
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44820606"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131942"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 제품군 기능
 

@@ -1,8 +1,7 @@
 ---
 title: 서비스 상태 및 연속성
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 관리자는 서비스 상태를 보고 유지 관리 일정을 확인할 수 있습니다. 서비스 상태 정보는 언제 든 지 로그인 하 여 사용할 수 있습니다.
-ms.openlocfilehash: 7f4f83acdc2a6016f2bd54c98ccf05b2ccb144af
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 4fa2e8a907eaae36e9185adcd4f99bd841c42ccc
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044960"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131802"
 ---
 # <a name="service-health-and-continuity"></a>서비스 상태 및 연속성
 
@@ -126,7 +125,7 @@ Microsoft 제공은 최대 서비스 성능을 유지 하는 데 도움이 되�
 
 Microsoft는 다음 기능을 통해 필요할 때는 언제나 고객 데이터를 사용할 수 있도록 보장하고 있습니다.
   
-- **데이터 저장 및 중복성:** 고객 데이터는 강력한 데이터 보호 기능으로 가용성, 비즈니스 연속성 및 신속한 복구가 가능한 중복된 환경에 저장됩니다. 로컬 디스크 오류를 대비한 중복 디스크에서 다양한 지역별 데이터 센터에 이루어진 지속적이고 완전한 데이터 복제에 이르기까지 여러 단계의 데이터 중복성이 구현되어 있습니다. 
+- **Data storage and redundancy:** Customer data is stored in a redundant environment with robust data protection capabilities to enable availability, business continuity, and rapid recovery. Multiple levels of data redundancy are implemented, ranging from redundant disks to guard against local disk failure to continuous, full data replication to a geographically diverse data center. 
     
 - **데이터 모니터링:** Microsoft 서비스는 다음을 통해 높은 수준의 성능을 유지 관리 합니다. 
     
@@ -146,13 +145,13 @@ Microsoft는 다음 기능을 통해 필요할 때는 언제나 고객 데이터
 
 Microsoft 개발 및 운영 팀은 고객에 게 비즈니스 연속성을 제공 하는 데 중요 한 역할을 하는 전용 지원 조직에 의해 보완 됩니다. 지원팀 직원은 서비스 및 관련 응용 프로그램에 대한 에 대한 깊은 지식과 Microsoft 아키텍처, 개발 및 테스트 전문가에 대한 직접적인 액세스를 가지고 있습니다.
   
-지원 조직은 운영 및 제품 개발과 긴밀하게 협조하며, 빠르게 문제를 해결하고 고객의 목소리에 귀를 기울이고 있습니다. 고객 여러분이 제공하는 피드백은 계획, 개발 및 운영 프로세스에 반영됩니다.
+The support organization closely aligns with operations and product development, offers fast resolution times and provides a channel for customers' voices to be heard. Feedback from customers provides input to the planning, development, and operations processes.
   
 - **온라인 문제 추적:** 고객은 문제에 대한 대응이 이루어지고 있는지, 시간에 맞는 해결이 이루어지는지 추적할 수 있어야 합니다. Microsoft 365 padmin 센터 ortal에서는 지원 하기 위한 단일 웹 기반 인터페이스를 제공 합니다. 고객은 포털을 통해 서비스 요청을 추가 및 모니터링하고 Microsoft 지원팀으로부터 피드백을 받게 됩니다. 
     
 - **지속적인 직원이 지 원하는 자가 진단:** Microsoft는 고객이 Microsoft 지원 없이도 서비스 관련 문제를 해결 하는 데 도움이 되는 다양 한 자가 진단 리소스와 도구를 제공 합니다. 
     
-고객은 서비스 요청을 입력하기 전에 먼저 기술 문서 및 FAQ를 통해 일반적인 문제에 대한 도움을 즉각적으로 제공받을 수 있습니다. 이러한 리소스에는 알려진 문제에 대한 해결 방법을 제공하는 최신 정보가 지속적으로 업데이트됩니다. 하지만 지원 전문가의 도움이 필요한 문제가 발생할 경우 하루 24시간 365일 지원을 제공하는 관리 포털 또는 전화를 통해 지원팀 직원으로부터 즉각적인 지원을 받을 수 있습니다.
+Before customers enter service requests, they can access knowledge base articles and FAQs that provide immediate help with the most common problems. These resources are continually updated with the latest information, which helps avoid delays by providing solutions to known issues. However, when an issue arises that needs the help of a support professional; staff members are available for immediate assistance by telephone and through the administration portal 24 hours a day, 7 days a week.
   
 지원에 대한 자세한 내용은 [지원](support.md) 항목을 참조하세요. 
   

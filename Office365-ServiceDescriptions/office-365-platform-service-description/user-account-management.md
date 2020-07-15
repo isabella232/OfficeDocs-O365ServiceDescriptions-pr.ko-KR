@@ -1,8 +1,7 @@
 ---
 title: User account management
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft는 사용자를 만들고 관리 하 고 인증 하기 위해 다음과 같은 방법을 지원 합니다.
-ms.openlocfilehash: 7711a57247c20d7185e613d042791b089b01b483
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: 38d9c247e54943599554e374bc3c9905f043361b
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002315"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131662"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -32,7 +31,7 @@ Microsoft는 사용자를 만들고 관리 하 고 인증 하기 위해 다음�
   
 ## <a name="need-help-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>로그인, 설치 또는 제거, 구독 취소에 대해 도움이 필요한가요?
 
- | [Office 설치 또는 제거](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) [에서 로그인에](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | 대 한 도움말 보기[office 365 취소](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+[signing in](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [Office 설치 또는 제거](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)에서 로그인에 대 한 도움말 보기  |  [office 365 취소](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 기타 문제점은 [Microsoft 지원 센터](https://support.microsoft.com/contactus/)를 방문 하세요. 중국의 21Vianet에서 운영하는 Office 365에 대한 지원을 받으려면 [21Vianet 지원팀](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)에 문의하세요. Office 365 Germany에 대해서는 [Office 365 Germany 지원팀](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)에 문의하세요. 
   
@@ -50,7 +49,7 @@ ID 유형은 사용자 환경 및 사용자 계정 관리 옵션을 비롯해 �
 
 새 사용자를 만들 때 사용자의 로그인 이름과 전자 메일 주소는 Microsoft 365 관리 센터에 설정 된 대로 기본 도메인에 할당 됩니다. 자세한 내용은 [사용자 및 도메인 추가](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)를 참조 하세요. 
   
-기본적으로 구독은 계정을 사용 하 여 \< 만든 _회사 이름_ \> **. onmicrosoft.com** 도메인을 사용 합니다. \* Onmicrosoft.com 도메인을 유지 하는 대신 하나 이상의 사용자 지정 도메인을 Microsoft에 추가할 수 있으며, 사용자에 게 유효성 검사 된 도메인을 사용 하 여 로그인 하도록 할당할 수 있습니다. 각 사용자의 할당된 도메인은 보내고 받은 전자 메일 메시지에 표시되는 전자 메일 주소입니다. 
+기본적으로 구독은 계정을 사용 하 여 \< _company name_\> 만든 **. onmicrosoft.com** 도메인을 사용 합니다. \* Onmicrosoft.com 도메인을 유지 하는 대신 하나 이상의 사용자 지정 도메인을 Microsoft에 추가할 수 있으며, 사용자에 게 유효성 검사 된 도메인을 사용 하 여 로그인 하도록 할당할 수 있습니다. 각 사용자의 할당된 도메인은 보내고 받은 전자 메일 메시지에 표시되는 전자 메일 주소입니다. 
   
 각각 다른 네임 스페이스로 표시 되는 등록 된 인터넷 도메인을 최대 900 개까지 호스트할 수 있습니다. 
   
@@ -58,7 +57,7 @@ Single sign-on을 사용 하는 조직의 경우 도메인의 모든 사용자�
   
 Office 365의 도메인에 대한 자세한 내용은 [도메인](domains.md) 서비스 설명을 참조하십시오. 
   
-\* 중국의 21Vianet에서 운영되는 Office 365를 사용하는 경우 기본 도메인은 \<companyname\> **.onmsChina.cn**입니다. Office 365 Germany를 사용하는 경우 기본 도메인은 \<companyname\> **.onmicrosoft.de**입니다.
+\*중국의 21Vianet에서 운영 하는 Office 365을 사용 하는 경우 기본 도메인은 \<companyname\> **onmsChina.cn**입니다. Office 365 독일을 사용 하는 경우 기본 도메인은 \<companyname\> **onmicrosoft.de입니다.**
   
 ## <a name="authentication"></a>인증
 
@@ -184,7 +183,7 @@ Office 365 Enterprise는 RBAC (역할 기반 액세스 제어) 모델을 따르�
   
 ## <a name="azure-active-directory-services"></a>Azure Active Directory 서비스
 
-Azure AD(Active Directory)는 Office 365에 포괄적인 ID 및 액세스 관리 기능을 제공합니다. 또한 디렉터리 서비스, 고급 ID 거버넌스, 응용 프로그램 액세스 관리 및 개발자를 위한 풍부한 표준 기반 플랫을 결합합니다. Office 365의 AD 기능에 대한 자세한 내용은 [로그인 페이지 브랜딩 및 클라우드 사용자 셀프 서비스 암호 재설정](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/)을 참조하세요. [Azure Active Directory Free, Basic 및 Premium 버전](https://msdn.microsoft.com/library/azure/dn532272.aspx)에 대해 자세히 알아보세요. 
+Azure Active Directory (AD) brings comprehensive identity and access management capabilities to Office 365. It combines directory services, advanced identity governance, application access management and a rich standards-based platform for developers. To learn more about AD features in Office 365, see [Sign in page branding and cloud user self-service password reset](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Learn more about the [Free, Basic, and Premium editions of Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
   
 ## <a name="feature-availability"></a>기능 가용성
 

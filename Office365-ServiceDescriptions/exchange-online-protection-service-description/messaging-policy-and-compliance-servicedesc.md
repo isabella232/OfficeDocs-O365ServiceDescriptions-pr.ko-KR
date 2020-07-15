@@ -1,8 +1,7 @@
 ---
 title: 메시징 정책 및 규정 준수
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft EOP (Exchange Online Protection)에서는 전자 메일 데이터를 관리 하는 데 사용할 수 있는 메시징 정책 및 규정 준수 기능을 제공 합니다.
-ms.openlocfilehash: 9ebfdae60eac6e646b3c1b64b13f3cbcb6612b0c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640166"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132792"
 ---
 # <a name="messaging-policy-and-compliance"></a>메시징 정책 및 규정 준수
 
@@ -56,7 +55,7 @@ EAC에서 DLP 정책을 구성하면 다음과 같은 작업이 가능합니다.
 - DLP 보고서의 문제 데이터를 검토하거나, 문제 보고서 생성 작업을 사용하여 자체 보고서를 추가합니다.
 
 > [!NOTE]
-> DLP 정책은 조직을 드나드는 메일에만 적용됩니다. DLP 온-프레미스가 포함된 Exchange Server 2013을 실행하는 경우 외에는 조직 내(내부) 메일에 DLP 정책이 적용되지 않습니다. 이는 중요한 데이터를 권한이 없는 받는 사람에게 실수로 보내기 전에 정책 위반 가능성을 사용자에게 알려주는 DLP 정책 팁의 경우에도 마찬가지입니다.
+> DLP policies are applied only to mail that passes in or out of the organization. Intra-organizational (internal) mail does not have DLP policies applied unless you run Exchange Server 2013 with DLP on-premises. This also applies to DLP policy tips, which inform users about potential policy violations before sensitive data is mistakenly sent to unauthorized recipients.
 
 DLP에 대 한 자세한 내용은 [Exchange Online의 데이터 손실 방지](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)를 참조 하세요.
 
@@ -66,7 +65,7 @@ Office 365 메시지 암호화는 Azure Information Protection의 일부로, 전
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>EOP 옵션별 메시징 정책 및 규정 준수 기능
 
-|**기능**|**EOP 독립 실행형**|**Exchange Online의 <br/> EOP 기능**|**Exchange Enterprise <br/> CAL (서비스 포함)**|
+|**기능**|**EOP 독립 실행형**|**Exchange Online의 EOP 기능 <br/>**|**Exchange Enterprise <br/> CAL (서비스 포함)**|
 |:-----|:-----|:-----|:-----|
 |메일 흐름 규칙|예<sup>1</sup>|예<sup>1</sup>|예<sup>1, 3</sup>|
 |감사 로깅|예<sup>2</sup>|예|예|
