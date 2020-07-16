@@ -28,11 +28,11 @@ Microsoft에서는 이 서비스 자체를 운영하지 않습니다. 21Vianet�
 > [!NOTE]
 > 이러한 서비스는 중국 법을 따릅니다.
 
-Due to the unique nature of the China services—operated by a partner from datacenters inside China—there are some features that have not yet been enabled. Customers will see the services come closer to full feature parity over time. See the service description footnotes for differences. For a higher-level overview of differences, see [Learn about Office 365 operated by 21Vianet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china).
+중국 서비스의 고유 특성(중국 내 데이터 센터를 통해 파트너가 운영함)으로 인해 일부 기능은 아직 활성화되지 않았습니다. 고객은 시간에 따라 전체 기능 패리티에 근접한 서비스를 확인할 수 있습니다. 차이점에 대해 알아보려면 서비스 설명 각주를 참조하세요. 차이점에 대한 자세한 설명은 [21Vianet에서 운영하는 Office 365에 대한 자세한 내용](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china)을 참조하세요.
 
 ## <a name="service-availability-within-each-plan"></a>각 계획 내의 서비스 사용 가능 여부
 
-Each Office 365 plan operated by 21Vianet includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
+21Vianet에서 운영하는 각 Office 365 계획에는 Exchange Online, SharePoint Online 등의 여러 개별 서비스가 포함됩니다. 다음 표에는 각 Office 365 계획에서 사용 가능한 서비스가 나와 있습니다.
 
 > [!NOTE]
 > 21Vianet에서 운영하는 Office 365 버전의 Office 365는 중국에 한정됩니다.
@@ -528,7 +528,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 
 |**계획**|**설명**|
 |:-----|:-----|
-|**21Vianet에서 운영하는 Office 365용 Exchange Server의 Exchange Online Archiving**|기본 사서함이 Exchange Server 2013 또는 Exchange 2010(SP2 이상)에 있는 사용자를 위한 클라우드 기반 보관 사서함입니다.  <br/> If you want to add a cloud-based archive to a primary mailbox that's located on an on-premises Exchange server, you need to configure a hybrid deployment. For more information about hybrid deployments see [Exchange Server Hybrid Deployments](https://docs.microsoft.com/exchange/exchange-hybrid).|
+|**21Vianet에서 운영하는 Office 365용 Exchange Server의 Exchange Online Archiving**|기본 사서함이 Exchange Server 2013 또는 Exchange 2010(SP2 이상)에 있는 사용자를 위한 클라우드 기반 보관 사서함입니다.  <br/> 클라우드 기반 보관을 온-프레미스 Exchange Server에 있는 기본 사서함에 추가하려면 하이브리드 배포를 구성해야 합니다. 하이브리드 배포에 대한 자세한 내용은 [Exchange Server 하이브리드 배포](https://docs.microsoft.com/exchange/exchange-hybrid)를 참조하세요.  |
 |**21Vianet에서 운영하는 Office 365용 Exchange Online의 Exchange Online Archiving**| 다음 계획에는 보관 기능이 이미 포함되어 있으므로 Exchange Online Archiving이 추가 기능으로 필요하지 않습니다.  <br/>  21Vianet에서 운영하는 Office 365 A1  <br/>  21Vianet에서 운영하는 Office 365 Enterprise E3  <br/>  21Vianet에서 운영하는 Office 365용 Exchange Online 계획 2  <br/>  Exchange Online 사서함의 보관 기능에 대한 자세한 내용은 [Exchange Online의 보관 사서함](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview)을 참조하세요.|
 
 다음 표에서는 21Vianet에서 운영하는 Office 365에서 사용할 수 있는 Exchange Online Archiving 기능을 보여 줍니다.
@@ -565,7 +565,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 
 ## <a name="sharepoint-online-features"></a>SharePoint Online 기능
 
-All Office 365 plans include the SharePoint Online service, but not all plans support all SharePoint features. The following table shows whether a feature is available in a plan.
+모든 Office 365 계획에는 SharePoint Online 서비스가 포함되지만 모든 계획에서 SharePoint 기능을 모두 지원하는 것은 아닙니다. 다음 표에는 각 계획에서 기능을 사용할 수 있는지 여부가 나와 있습니다.
 
 > [!NOTE]
 21Vianet에서 운영하는 Office 365 버전의 Office 365는 중국에 한정됩니다.
@@ -866,7 +866,7 @@ All Office 365 plans include the SharePoint Online service, but not all plans su
 |Office Communications Server 2007 R2 및 Lync Server 2010(IM, 현재 상태, 오디오, 비디오, 회의)|예|아니오|있음|예|예|예|아니요|
 |XMPP(Google Talk 등에서 사용됨) 및 Sametime 페더레이션|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 | Skype 페더레이션|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|AOL and Yahoo! federation|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
+|AOL 및 Yahoo! 페더레이션|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**[비즈니스 온라인 모임에 대 한 Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영 하는 Office 365 Enterprise F3**|
 |애드혹 및 오디오 회의 예약|예|예|예|예|예|예|아니요|
 |애드혹 및 비디오 회의 예약|예|예|예|예|예|예|아니요|
@@ -969,11 +969,11 @@ All Office 365 plans include the SharePoint Online service, but not all plans su
 
 ### <a name="skype-for-business-online-features-across-office-365-standalone-plans"></a>Office 365 독립 실행형 계획별 비즈니스용 Skype 온라인 기능
 
-The following table lists Office 365 plans that include the SharePoint Online service, but not all plans support all SharePoint features. The following table shows whether a feature is available in a plan.
+다음 표에는 SharePoint Online 서비스가 포함 Office 365 계획이 나와 있지만 모든 계획에서 SharePoint 기능을 모두 지원하는 것은 아닙니다. 다음 표에는 각 계획에서 기능을 사용할 수 있는지 여부가 나와 있습니다.
 
 > [!NOTE]
 > - 21Vianet에서 운영하는 Office 365 버전의 Office 365는 중국에 한정됩니다.
-> - Skype for Business Online Standalone Plan 2 licensed users will get the Skype for Business Basic client, not the full Skype for Business client. If you want users to have the Skype for Business client, you will need to upgrade them to a license that includes it, such as an Enterprise-based license. To deploy the Skype for Business client to your users, see [Deploy the Skype for Business client in Office 365](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365).
+> - 비즈니스용 Skype 온라인 독립 실행형 계획 2의 허가된 사용자는 비즈니스용 Skype Basic 클라이언트를 얻게 되지만 전체 비즈니스용 Skype 클라이언트를 얻지는 않습니다. 사용자가 비즈니스용 Skype 클라이언트를 사용할 수 있게 하려면 엔터프라이즈 기반 라이선스 등이 포함된 라이선스로 업그레이드해야 합니다. 사용자에게 비즈니스용 Skype 클라이언트를 배포하려면 [Office 365에서 비즈니스용 Skype 클라이언트 배포](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365)를 참조하세요.
 
 ||||
 |:-----|:-----|:-----|
@@ -1010,7 +1010,7 @@ The following table lists Office 365 plans that include the SharePoint Online se
 |Office Communications Server 2007 R2 및 Lync Server 2010(IM, 현재 상태, 오디오, 비디오, 회의)|예|예|
 |XMPP(Google Talk 등에서 사용됨) 및 Sametime 페더레이션|아니요|아니요|
 | Skype 페더레이션|아니요|아니요|
-|AOL and Yahoo! federation|아니요|아니요|
+|AOL 및 Yahoo! 페더레이션|아니요|아니요|
 |**[비즈니스 온라인 모임에 대 한 Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 1**|**21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 2**|
 |애드혹 및 오디오 회의 예약|아니오|있음|
 |애드혹 및 비디오 회의 예약|아니오|있음|

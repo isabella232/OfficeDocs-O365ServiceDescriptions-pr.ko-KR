@@ -41,7 +41,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
    
 ### <a name="service-availability-within-each-office-365-plan"></a>각 Office 365 계획 내의 서비스 사용 가능 여부
 
-Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
+각 Office 365 계획에는 Exchange Online, SharePoint Online 등의 여러 개별 서비스가 포함됩니다. 다음 표에는 각 Office 365 계획에서 사용 가능한 서비스가 나와 있습니다.
   
 > [!IMPORTANT]
 >  여러 Office 365 계획에서 사용 가능한 서비스도 있지만 각 계획에서 제공되는 기능은 서로 다를 수 있습니다. 각 계획에 대해 사용할 수 있는 기능에 대한 자세한 내용은 개별 서비스 설명을 참조하거나 대리점 또는 Microsoft 판매 담당자에게 문의하세요. <br/>  비즈니스용 Office 365 요금제 중 일부는 구독에 대해 구입할 수 있는 추가 기능을 제공합니다. 추가 기능은 구독에 대한 추가 기능을 제공합니다. 자세한 내용은 [비즈니스용 Office 365 추가 기능 구입 또는 편집](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6)을 참조하세요. 

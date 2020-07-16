@@ -48,28 +48,28 @@ Microsoft 365 관리 센터는 각 회사의 서비스 관리자가 구독 하�
   
 ### <a name="exchange-admin-center"></a>Exchange 관리 센터
 
-Exchange Online provides a single unified management console that allows for ease of use and is optimized for management of on-premises, online, or hybrid deployments. The Exchange admin center (EAC) is where administrators can manage Exchange-specific settings.
+Exchange Online은 온-프레미스, 온라인 또는 하이브리드 배포의 관리에 최적화된 편리한 단일 통합 관리 콘솔을 제공합니다. EAC(Exchange 관리 센터)를 통해 관리자는 Exchange 관련 설정을 관리할 수 있습니다.
   
 EAC를 사용하여 Exchange Online을 관리하는 방법에 대한 자세한 내용은 [Exchange 관리 센터](https://go.microsoft.com/fwlink/p/?LinkId=271807)를 참조하세요.
   
 ### <a name="remote-windows-powershell-for-exchange-online"></a>Exchange Online용 원격 Windows PowerShell
 
-Using remote Windows PowerShell, administrators can connect to Exchange Online to perform management tasks that are not available or practical using the EAC. These include the ability to automate repetitive tasks, extract data for custom reports, customize policies, and connect Exchange Online to existing infrastructure and processes. For more information, see [Connect to Exchange Online Using Remote PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=308994).
+원격 Windows PowerShell을 사용하면 관리자는 Exchange Online에 연결하여 EAC에서는 사용할 수 없거나 타당하지 않은 관리 작업을 수행할 수 없습니다. 여기에는 반복 작업 자동화, 사용자 지정 보고서용 데이터 추출, 정책 사용자 지정 및 기존 인프라와 프로세스에 Exchange Online 연결 기능이 포함됩니다. 자세한 내용은 [원격 PowerShell을 사용하여 Exchange Online에 연결](https://go.microsoft.com/fwlink/p/?LinkId=308994)을 참조하세요.
   
-Exchange Online uses the same Windows PowerShell cmdlets as Exchange Server 2013, with certain commands and parameters unavailable because these features do not apply in Exchange Online. For a list of cmdlets for use with Exchange Online, see [Exchange Online cmdlets](https://go.microsoft.com/fwlink/p/?LinkId=271808).
+Exchange Online에서는 Exchange Server 2013과 동일한 Windows PowerShell cmdlet을 사용합니다. 그러나 Exchange Online에 적용되지 않는 특정 명령과 매개 변수는 사용할 수 없습니다. Exchange Online에서 사용할 수 있는 cmdlet 목록은 [Exchange Online cmdlet](https://go.microsoft.com/fwlink/p/?LinkId=271808)을 참조하세요.
   
-Administrators do not need to install any Exchange Server management or migration tools to use remote Windows PowerShell. However, administrators' computers must be running the Windows Management Framework 3.0, which contains Windows PowerShell v3 and WinRM 3.0; and Windows .NET Framework 4.5. These components are already installed on computers running Windows 8 or Windows Server 2012. Administrators can manually download these components for computers that are running Windows 7 or Windows Server 2008 R2.
+원격 Windows PowerShell을 사용하기 위해 관리자가 Exchange Server 관리 또는 마이그레이션 도구를 설치할 필요가 없습니다. 그러나 관리자의 컴퓨터는 Windows PowerShell v3 및 WinRM 3.0, Windows .NET Framework 4.5가 포함된 Windows Management Framework 3.0을 실행 중이어야 합니다. 이러한 구성 요소는 Windows 8 또는 Windows Server 2012를 실행 중인 컴퓨터에 이미 설치되어 있습니다. Windows 7 또는 Windows Server 2008 R2를 실행 중인 컴퓨터에 대해서는 관리자가 이러한 구성 요소를 수동으로 다운로드할 수 있습니다.
   
 > [!IMPORTANT]
 > DoS(서비스 거부) 공격을 방지하려면 Exchange Online 조직에 대해 세 가지 개방형 Windows PowerShell 연결만을 사용해야 합니다. 
   
 ## <a name="self-service-capabilities-for-exchange-online"></a>Exchange Online에 대한 셀프 서비스 기능
 
-Below are important capabilities that are available for managing Exchange Online by using the EAC, remote Windows PowerShell, and other tools. Many other settings can also be controlled with these tools, as described throughout this document.
+EAC, 원격 Windows PowerShell 및 기타 도구를 통해 Exchange Online을 관리하는 데 사용할 수 있는 다음 기능은 중요한 기능입니다. 이 문서에서 설명하는 다른 많은 설정 또한 이러한 도구로 제어할 수 있습니다.
   
 ### <a name="mobile-device-security-policies-for-exchange-online"></a>Exchange Online에 대한 모바일 장치 보안 정책
 
-Exchange Online supports the same ActiveSync policies for mobile devices as Exchange Server 2013. Administrators can enforce and customize these security policies for specific users and groups by using the EAC or remote Windows PowerShell.
+Exchange Online에서는 모바일 장치에 대해 Exchange Server 2013과 동일한 ActiveSync 정책을 지원합니다. 관리자는 EAC 또는 원격 Windows PowerShell을 통해 이러한 보안 정책을 특정 사용자 및 그룹에 대해 적용하고 사용자 지정할 수 있습니다.
   
 ### <a name="message-tracking-for-exchange-online"></a>Exchange Online에 대한 메시지 추적
 
@@ -77,7 +77,7 @@ Exchange Online supports the same ActiveSync policies for mobile devices as Exch
   
 ### <a name="usage-reporting-for-exchange-online"></a>Exchange Online에 대한 사용 현황 보고
 
-Administrators can use remote Windows PowerShell to retrieve information about how people in their organizations use the Exchange Online service. Available information includes:
+관리자는 원격 Windows PowerShell을 사용하여 조직 내 사람들이 Exchange Online 서비스를 사용하는 방식에 대한 정보를 검색할 수 있습니다. 사용할 수 있는 정보는 다음과 같습니다.
   
 - 조직 내 각 사용자에 대한 사서함 크기 표시.
     
@@ -85,7 +85,7 @@ Administrators can use remote Windows PowerShell to retrieve information about h
     
 - Exchange ActiveSync를 통해 연결 중인 사용자, 이러한 사용자가 사용 중인 장치 및 마지막으로 연결한 시간과 같은 모바일 장치 액세스에 대한 데이터 추출.
     
-Remote Windows PowerShell cmdlets that start with "get-" can fetch data from the Exchange Online system. Administrators can export this information from Windows PowerShell in .csv format for advanced analysis or reporting.
+"get-"으로 시작하는 원격 Windows PowerShell cmdlet은 Exchange Online 시스템에서 데이터를 가져올 수 있습니다. 관리자는 고급 분석 또는 보고를 위해 Windows PowerShell에서 이 정보를 .csv 형식으로 내보낼 수 있습니다.
   
 Exchange Online에서 사용할 수 있는 Windows PowerShell cmdlet에 대한 자세한 내용은 [Exchange Online cmdlet](https://go.microsoft.com/fwlink/p/?LinkId=271808)을 참조하세요.
   
@@ -95,7 +95,7 @@ Exchange Online에서 사용할 수 있는 Windows PowerShell cmdlet에 대한 �
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Exchange Online에 대한 서비스 및 제품 업그레이드
 
-Exchange Online customers benefit from periodic upgrades to the latest Exchange technology, including new releases of Exchange Server. These upgrades are made available at no additional charge, and ensure that customers are always using the latest Exchange software.
+Exchange Online 고객은 Exchange Server의 새 릴리스를 비롯하여 최신 Exchange 기술에 대한 정기 업그레이드를 통해 혜택을 얻을 수 있습니다. 이러한 업그레이드는 추가 비용 없이 가능하며, 고객은 항상 최신 Exchange 소프트웨어를 사용하고 있는지 확인해야 합니다.
   
 고객은 Microsoft에서 주요 Exchange 버전을 릴리스한 후 12개월 이내에 서비스를 새 릴리스로 업그레이드할 수 있습니다.
   

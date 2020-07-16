@@ -65,7 +65,7 @@ Office 365 Government 자격에 대해 질문이 있는 기관은 계정 팀에 
   
 ## <a name="customer-content-located-within-the-united-states"></a>미국 내의 고객 콘텐츠
 
-Office 365 US Government services are provided from datacenters physically located in the United States. The following customer content is stored at rest in datacenters physically located only in the U.S.A.: 
+Office 365 Government 서비스는 미국에 실제로 있는 데이터 센터에서 제공합니다. 다음 고객 콘텐츠는 실제로 미국에 있는 데이터 센터에 계속 보관됩니다. 
   
 - Exchange Online 사서함 콘텐츠 (전자 메일 본문, 일정 항목 및 첨부 파일의 콘텐츠)
     
@@ -137,7 +137,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
   
 ## <a name="service-availability-for-each-plan"></a>각 계획의 서비스 가용성
 
-Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 US Government plan.
+각 Office 365 계획에는 Exchange Online, SharePoint Online 등의 여러 개별 서비스가 포함됩니다. 다음 표에는 각 Office 365 Government 계획에서 사용 가능한 서비스가 나와 있습니다.
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|

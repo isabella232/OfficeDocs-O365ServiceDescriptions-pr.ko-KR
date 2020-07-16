@@ -21,9 +21,9 @@ ms.locfileid: "45131672"
 # <a name="privacy-security-and-transparency"></a>개인 정보, 보안 및 투명성
 
 > [!NOTE]
-> The information in this article applies to worldwide versions of Office 365. If you are using a national cloud instance of Office 365, including Office 365 U.S. Government, Office 365 Germany, and Office 365 operated by 21Vianet, see [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582). 
+> 이 문서의 정보는 전 세계 버전의 Office 365에 적용됩니다. Office 365 미국, 정부, Office 365 Germany 및 21Vianet에서 운영하는 Office 365를 비롯한 Office 365의 국가별 클라우드 인스턴스를 사용하는 경우 [Microsoft 국가별 클라우드](https://go.microsoft.com/fwlink/?linkid=841582)를 참조하세요. 
   
-Microsoft values the partnerships we have with our customers and places great emphasis on protecting the privacy and security of customer data. For more information, see the [Microsoft Trust Center](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
+Microsoft는 고객과의 파트너 관계를 소중히 여기며 고객 데이터의 보안 및 개인 정보를 보호하는 데 중점을 두고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409)를 참조하세요.
   
 ## <a name="privacy"></a>개인 정보
 
@@ -49,7 +49,7 @@ Microsoft에서 Office 365 서비스를 안전하고 안정적으로 전달하�
 
 Microsoft 관리자는 고객 Lockbox를 사용 하 여 Microsoft 기술 지원 엔지니어가 도움말 세션 중에 데이터에 액세스 하는 방법을 제어할 수 있습니다. 엔지니어가 문제를 해결하기 위해 사용자 데이터에 대한 액세스 권한을 요구하는 경우 Customer Lockbox를 사용하여 액세스 요청을 승인하거나 거부할 수 있습니다. 승인하는 경우 엔지니어는 데이터에 액세스할 수 있습니다. 각 요청에는 만료 시간이 있으며 문제가 해결되면 요청이 닫히고 액세스 권한이 취소됩니다.
   
-Customer Lockbox is included in the Office 365 Enterprise 5 plan, or you can purchase a separate subscription with any other Office 365 Enterprise plan. For more information, see [Office 365 Customer Lockbox Requests](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
+Customer Lockbox는 Office 365 Enterprise 5 계획에 포함되어 있거나 다른 Office 365 Enterprise 계획을 포함하는 별도 구독을 구입할 수 있습니다. 자세한 내용은 [Office 365 Customer Lockbox 요청](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409)을 참조하세요.
   
 ## <a name="advanced-threat-protection"></a>Advanced Threat Protection
 

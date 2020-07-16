@@ -25,11 +25,11 @@ Microsoft Outlook은 일정, 연락처, 작업 및 다음 주요 기능에 대 �
   
 - **HTTP를 통한 MAPI** HTTP를 통한 MAPI (메시징 응용 프로그램 인터페이스)를 사용 하면 Outlook 사용자가 조직의 방화벽 외부에서 인터넷을 통해 Exchange Online 사서함에 연결할 수 있습니다. HTTP를 통한 MAPI, 외부에서 Outlook 사용에 대 한 장기간 교체 이 연결 방법은 향상 된 연결 복구, 보다 안전한 로그인, 확장성 및 IT 및 지원에 대 한 향상을 제공 합니다. 자세한 내용은 Office 365 및 [MAPI OVER http](https://go.microsoft.com/fwlink/?linkid=393041) [에서 RPC over http 지원의 끝에 도달 하는 방법에 대](https://go.microsoft.com/fwlink/?linkid=863890) 한 자세한 내용을 참조 하세요.
 
-- **Autodiscover** The Autodiscover service feature automatically configures Outlook to work with Exchange Online. Outlook users can receive their required profile settings directly from Exchange Online the first time they sign in with their email address and password. These settings automatically update the Outlook client with the information necessary to create and maintain the user's profile. An SSL certificate is required to use the Autodiscover service. This SSL certificate is limited to a single primary SSL domain. 
+- **자동 검색** 자동 검색 서비스 기능은 자동으로 Outlook을 Exchange Online과 함께 작동하도록 구성합니다. Outlook 사용자는 처음 전자 메일 주소와 암호를 통해 로그인했을 때 Exchange Online에서 바로 필요한 프로필 설정을 받을 수 있습니다. 이러한 설정은 사용자의 프로필을 만들고 유지하는 데 필요한 정보를 가지고 Outlook 클라이언트를 자동으로 업데이트합니다. 자동 검색 서비스를 사용하려면 SSL 인증서를 필요합니다. 이 SSL 인증서는 하나의 기본 SSL 도메인으로 제한됩니다. 
 
 - **캐시 된 Exchange 모드** 캐시 된 Exchange 모드 기능을 사용 하면 Outlook 사용자가 인터넷에 연결 되어 있지 않을 때 Exchange Online 사서함의 로컬 복사본에 액세스할 수 있습니다. 캐시 된 Exchange 모드는 Outlook에서 사용자 Exchange 사서함의 클라이언트 쪽 복사본을 유지 하며이 복사본을 전자 메일 서버와 자동으로 동기화 합니다. Outlook은 캐시 된 Exchange 모드에서 오프 라인 액세스를 제공 하 고 클라이언트와 서버 간의 네트워크 조건이 적합 하지 않은 경우에도 응답성이 뛰어난 사용자 환경을 제공 하는 것이 좋습니다. 
 
-By default, Outlook access is enabled for all users. Administrators can disable access for specific users or groups through Windows PowerShell. We recommend using the latest version of Outlook—with the latest service pack installed—to access Exchange Online. 
+기본적으로 Outlook 액세스는 모든 사용자에 대해 사용하도록 설정되어 있습니다. 관리자는 Windows Powershell을 통해 특정 사용자 또는 그룹의 액세스를 사용하지 않도록 설정할 수 있습니다. Exchange Online에 액세스하려면 최신 서비스 팩이 설치된 Outlook 최신 버전을 사용하는 것이 좋습니다. 
   
 Exchange 2016 및 Exchange Online에서 지 원하는 Outlook 클라이언트에 대 한 자세한 내용은 [시스템 요구 사항 Office](https://products.office.com/office-system-requirements)를 참조 하십시오. 
 
@@ -135,20 +135,20 @@ Exchange 웹 서비스로 개발된 응용 프로그램에 대한 자세한 내�
   
 ## <a name="pop-and-imap"></a>POP 및 IMAP
 
-Exchange Online supports mailbox access through both POP3 and IMAP4 protocols. POP and IMAP access requires encryption using SSL. POP is enabled by default for all users. Users can view their POP and IMAP connection settings in Outlook on the web. Administrators can disable POP and IMAP access on a per-user basis.
+Exchange Online은 POP3 및 IMAP4 프로토콜을 통해 사서함 액세스를 지원합니다. POP 및 IMAP 액세스에는 SSL를 사용한 암호화가 필요합니다. POP는 기본적으로 모든 사용자에 대해 사용하도록 설정되어 있습니다. 사용자는 자신의 POP 및 IMAP 연결 설정을 웹상의 Outlook에서 볼 수 있습니다. 관리자는 POP 및 IMAP 액세스를 각 사용자별로 사용하지 않도록 설정할 수 있습니다.
   
 POP3 및 IMAP4 연결에 대한 자세한 내용은 [POP3 및 IMAP4](https://go.microsoft.com/fwlink/p/?LinkId=272070)를 참조하세요.
   
 ## <a name="smtp"></a>SMTP
 
-Simple Mail Transfer Protocol (SMTP) is used to send outbound mail for clients that connect to Exchange Online through IMAP or POP. It is the primary protocol for routing and delivery through Exchange Server. Exchange Online supports two types of SMTP relay services for authorized internal customer applications that require SMTP mail submission:
+SMTP(Simple Mail Transfer Protocol)은 IMAP 또는 POP를 통해 Exchange Online에 연결하는 클라이언트의 아웃바운드 메일을 보내는 데 사용됩니다. Exchange Server를 통한 배달 및 라우팅의 기본 프로토콜입니다. Exchange Online은 SMTP 메일 전송에 필요한 승인된 내부 고객 응용 프로그램에 대해 2가지 유형의 SMTP 릴레이 서비스를 지원합니다.
   
 - 관리 환경 내부 사용자에 대한 SMTP 메시지 전송.
 
 - 관리 환경 외부의 주소에 대한 인증된 SMTP 메시지 릴레이.
 
 > [!IMPORTANT]
-> IP addresses for authorized source servers are required to allow SMTP relay. Transport Layer Security (TLS) encryption and authentication is required when using SMTP to send email. 
+> SMTP 릴레이를 허용하려면 승인된 원본 서버에 대한 IP 주소가 필요합니다. SMTP를 사용해 전자 메일을 보낼 때는 전송 계층 보안(TLS) 암호화 및 인증이 필요합니다. 
   
 ## <a name="blackberryreg-devices"></a>BlackBerry &reg; 장치
 
@@ -161,7 +161,7 @@ Simple Mail Transfer Protocol (SMTP) is used to send outbound mail for clients t
 자세한 내용은 [BlackBerry](../office-365-platform-service-description/blackberry.md)를 참고하세요.
   
 > [!NOTE]
-> If you are using Office 365 operated by 21Vianet in China, BlackBerry Business Cloud Services is not available. However, you can use Exchange ActiveSync devices or an offering from Research in Motion (RIM, the BlackBerry wireless email solution) to run Blackberry Enterprise Server (BES). 
+> 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 BlackBerry Business Cloud Services를 사용할 수 없지만 Exchange ActiveSync 장치 또는 RIM(Research in Motion, BlackBerry 무선 전자 메일 솔루션)의 기능을 사용하여 BES(Blackberry Enterprise Server)를 실행할 수 있습니다. 
   
 ## <a name="feature-availability"></a>기능 가용성
 

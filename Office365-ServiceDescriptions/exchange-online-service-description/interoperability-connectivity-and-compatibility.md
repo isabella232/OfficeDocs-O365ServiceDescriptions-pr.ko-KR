@@ -31,7 +31,7 @@ Microsoft Lync Server 2010, Lync Server 2013 또는 Microsoft Office Communicati
     
 - 음성 메일 상호 운용성
     
-For more information about how to configure Skype for Business Server 2015 with Exchange Online, see [Configuring On-premises Skype for Business Server 2015 Integration with Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271804). For hybrid configurations, see [Supported Skype for Business Server 2015 hybrid configurations](https://go.microsoft.com/fwlink/?LinkID=513084).
+비즈니스용 Skype 서버 2015와 Exchange Online을 함께 구성하는 방법에 대한 자세한 내용은 [Exchange Online과 온-프레미스 비즈니스용 Skype Server 2015의 통합 구성](https://go.microsoft.com/fwlink/p/?LinkId=271804)을 참조하세요. 하이브리드 구성은 [지원되는 비즈니스용 Skype Server 2015 하이브리드 구성](https://go.microsoft.com/fwlink/?LinkID=513084)을 참조하세요.
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
@@ -43,7 +43,7 @@ SharePoint를 Exchange Online에 연결하는 데 대한 자세한 내용은 [�
 
 Exchange Online에서는 외부 응용 프로그램과 장치에 연결하기 위해 다음과 같은 기능을 제공합니다.
   
-- **Through messaging protocols such as MAPI over HTTP, SMTP, POP3, IMAP4, or Exchange Web Services** External applications that are running on-premises, in Azure, or in other hosted services can access data stored with Exchange Online by using messaging protocols such as MAPI over HTTP, SMTP, POP3, and IMAPv4. Exchange Web Services or the Exchange Web Services Managed API is recommended for application development. 
+- **MAPI over HTTP, SMTP, POP3, IMAP4 또는 Exchange Web Services와 같은 메시징 프로토콜** 온-프레미스, Azure 또는 다른 호스팅된 서비스에서 실행되는 외부 응용 프로그램은 MAPI over HTTP, SMTP, POP3, IMAPv4 등의 메시징 프로토콜을 사용하여 Exchange Online에서 저장된 데이터에 액세스할 수 있습니다. 응용 프로그램을 개발하는 경우 Exchange Web Services 또는 Exchange Web Services Managed API를 사용하는 것이 좋습니다. 
     
 - **SMTP 릴레이** 팩스 게이트웨이, 네트워크 어플라이언스 및 사용자 지정 응용 프로그램에서 보내는 전자 메일 메시지를 릴레이하도록 Exchange Online을 SMTP 배달 서비스로 구성할 수 있습니다. 
     
@@ -53,7 +53,7 @@ EWS(Exchange Web Services)는 Exchange Server 및 Exchange Online을 위한 개�
   
 ### <a name="smtp-relay"></a>SMTP 릴레이
 
-Exchange Online can be used as an SMTP delivery service to relay email messages sent from fax gateways, network appliances, and custom applications. For example, if a line-of-business application sends email alerts to users, it can be configured to use Exchange Online as the mail delivery system. The application or service must authenticate with the username and password of a valid, licensed Exchange Online mailbox, and connect by using Transport Layer Security (TLS).
+Exchange Online을 SMTP 배달 서비스로 사용하여 팩스 게이트웨이, 네트워크 어플라이언스 및 사용자 지정 응용 프로그램에서 보낸 전자 메일 메시지를 릴레이할 수 있습니다. 예를 들어 LOB(기간 업무) 응용 프로그램에서 사용자에게 전자 메일 경고를 보낼 경우, Exchange Online을 메일 배달 시스템으로 사용하도록 구성할 수 있습니다. 이 경우 응용 프로그램 또는 서비스는 라이선스가 있는 유효한 Exchange Online 사서함의 사용자 이름과 암호로 인증되어야 하며 TLS(전송 계층 보안)를 사용하여 연결되어야 합니다.
   
 ## <a name="feature-availability"></a>기능 가용성
 

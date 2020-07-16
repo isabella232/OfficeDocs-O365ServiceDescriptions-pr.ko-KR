@@ -76,7 +76,7 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>ATP (Advanced Threat Protection) 계획에서의 기능 가용성
 
-Each feature is listed below. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
+각 기능은 아래와 같습니다. Exchange Online은 대개 Office 365 Enterprise 서비스 제품군을 지칭하는 것입니다.
 
 |**기능**|**ATP 계획 1**<br>(이전의 ATP 독립 실행형)|**ATP 계획 2**<br>(이전의 위협 인텔리전스 <br>독립| Office 365 Enterprise E5|
 |:-----|:-----|:-----|:-----|

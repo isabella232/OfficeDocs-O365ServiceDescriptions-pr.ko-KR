@@ -21,13 +21,13 @@ ms.locfileid: "45132702"
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Exchange Online 기반 사서함 보관
 
-Exchange Online mailboxes reside in the cloud, and archiving them requires unique hosting environments. In some cases, Exchange Online can also be used to archive on-premises mailboxes in the cloud. The options for archiving with Exchange Online are described in this section.
+Exchange Online 사서함은 클라우드에 있으며, 이를 보관하려면 고유한 호스트 환경이 필요합니다. 경우에 따라 Exchange Online은 클라우드에 온-프레미스 사서함을 보관하는 데 사용되기도 합니다. Exchange Online을 사용한 보관 옵션을 이 섹션에서 설명합니다.
   
 Exchange Online은 사용자가 오래된 전자 메일 메시지를 저장할 수 있는 편리한 위치를 제공하는 원본 위치 보관을 비롯하여 클라우드 기반 사서함에 대한 보관 기능을 기본 제공합니다. 원본 위치 보관은 Outlook 및 웹용 Outlook에서 사용자의 기본 사서함 폴더 옆에 표시 되는 특수 한 유형의 사서함입니다. 사용자는 기본 사서함에 액세스하고 검색할 때와 동일한 방식으로 보관 사서함에 액세스하고 검색할 수 있습니다. 사용 가능한 기능은 사용 중인 클라이언트에 따라 다릅니다.
   
 - **웹용 outlook 2016, outlook 2013, outlook 2010 및 outlook** 사용자는 보존 및 보관 정책에 대 한 제어와 같은 관련 준수 기능 뿐만 아니라 보관 함의 모든 기능에 액세스할 수 있습니다. 
     
-- **Outlook 2007** Users have basic support for the In-Place Archive, but not all archiving and compliance features are available. For example, users cannot apply retention or archive policies to mailbox items and must rely on administrator-provisioned policies instead. 
+- **Outlook 2007** 사용자는 원본 위치 보관에 대해 기본 지원을 제공받지만 일부 보관 및 준수 기능은 사용할 수 없습니다. 예를 들면, 사용자는 사서함 항목에 대해 보존 및 보관 정책을 적용할 수 없으며 관리자 프로비저닝 정책을 대신 사용해야 합니다 Outlook 2007 사용자는 원본 위치 보관에 대해 기본 지원을 제공받지만 일부 보관 및 준수 기능은 사용할 수 없습니다. 
     
 예를 들면, 사용자는 사서함 항목에 대해 보존 및 보관 정책을 적용할 수 없으며 관리자 프로비저닝 정책을 대신 사용해야 합니다
   
@@ -43,12 +43,12 @@ Exchange Online은 사용자가 오래된 전자 메일 메시지를 저장할 �
   
 > [!IMPORTANT]
 > - 보관 목적으로 Exchange Online 사서함에 메시지를 복사하는 저널링, 전송 규칙 또는 자동 전달 규칙을 사용하는 것은 허용되지 않습니다. Microsoft는 개인 시나리오에서 또는 부적절 하 게 사용 되는 다른 경우에 사서함 보관이 사용 되지 않는 인스턴스에서 무제한 보관을 거부할 권한을 보유 합니다.
-> - In-Place Archive has specific licensing requirements for Outlook users. Outlook 2007 users must have the Office 2007 Cumulative Update for February 2011 to access the personal archive. 
+> - Outlook 사용자의 경우 원본 위치 보관에 특정 라이선스 요구 사항이 적용됩니다. Outlook 2007 사용자의 경우 개인 보관 파일에 액세스하려면 2011년 2월 Office 2007 누적 업데이트가 필요합니다. 
 > - Exchange Online에서는 관리자가 .pst 파일을 개인 보관 함으로 가져올 때 Exchange Server 2010 서비스 팩 1 이상 버전의 _새로운 New-mailboximportrequest_ Windows PowerShell cmdlet을 지원 하지 않습니다. 사용자의 기본 사서함과 보관 사서함 모두가 Exchange Online에 있으면 관리자는 무료 도구인 PST Capture를 사용하여 사용자의 기본 사서함이나 보관 사서함으로 .pst 파일 데이터를 가져올 수 있습니다.
 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>온-프레미스 사서함의 클라우드 기반 보관
 
-Using Exchange Online for cloud-based archiving of on-premises Exchange Server 2010 or later mailboxes is possible with Microsoft Exchange Online Archiving, a hosted archiving solution from Microsoft. This requires that the on-premises organization be in Hybrid mode or be set up for Exchange Online Archiving.
+온-프레미스 Exchange Server 2010 이상 사서함의 클라우드 기반 보관에 Exchange Online을 사용하려는 경우 Microsoft에서 호스트하는 보관 솔루션인 Microsoft Exchange Online Archiving을 구현할 수 있습니다. 이를 위해서는 온-프레미스 조직이 하이브리드 모드이거나 Exchange Online Archiving에 맞게 설정되어야 합니다.
   
 > [!IMPORTANT]
 > 관리되는 폴더 정책이 적용되는 Exchange 2010 사서함 서버에 온-프레미스 사서함이 있는 사용자는 온-프레미스 또는 클라우드 기반 원본 위치 보관을 사용할 수 없습니다. 
@@ -59,11 +59,11 @@ Exchange Online은 전자 메일 및 다른 통신과 관련한 조직의 부담
   
 또한 관리자는 Outlook 2010 이상 또는 Outlook Web App를 통해 사용자에게 보존 정책 메뉴를 제공하고 이를 특정 항목, 대화 또는 폴더에 적용하도록 할 수 있습니다.
   
-Exchange Online offers two types of policies: archive policies and delete policies. Both types can be combined on the same item or folder. For example, a user can tag an email message to be automatically moved to the In-Place Archive in a specified number of days and deleted after another span of days.
+Exchange Online은 보관 정책 및 삭제 정책이라는 두 가지 유형의 정책을 제공합니다. 이 두 가지 유형을 동일한 항목이나 폴더에 함께 적용할 수 있습니다. 예를 들어, 사용자는 특정 기간 후 전자 메일 메시지가 자동으로 원본 위치 보관으로 이동되고 그로부터 며칠이 지나면 삭제되도록 태그를 설정할 수 있습니다. Exchange Online은 보관 정책 및 삭제 정책이라는 두 가지 유형의 정책을 제공합니다. 이 두 가지 유형을 동일한 항목이나 폴더에 함께 적용할 수 있습니다.
   
 Outlook 2010 이상 및 웹용 Outlook에서는 사용자가 폴더, 대화 또는 개별 메시지에 보존 정책을 적용할 수 있습니다. 또한 적용되는 보존 정책 및 메시지의 예상 삭제 날짜를 직접 확인할 수 있습니다. 그러나 다른 전자 메일 클라이언트 사용자는 관리자가 설정한 서버 쪽 보존 정책을 기반으로 전자 메일을 삭제하거나 보관할 수만 있습니다.
   
-The retention policy capabilities offered in Exchange Online are the same as those offered in Exchange Server 2010 Service Pack 2 RU4. Administrators can use remote Windows PowerShell to migrate retention policies from on-premises Exchange Server 2010 or later environments to Exchange Online.
+Exchange Online에서 제공하는 보존 정책 기능은 Exchange Server 2010 SP2 RU4에서 제공하는 기능과 동일합니다. 관리자는 원격 Windows PowerShell을 사용하여 온-프레미스 Exchange Server 2010 이상 환경에서 Exchange Online으로 보존 정책을 마이그레이션할 수 있습니다. Exchange Online에서 제공하는 보존 정책 기능은 Exchange Server 2010 SP2 RU4에서 제공하는 기능과 동일합니다.
   
 > [!IMPORTANT]
 > 관리자는 원격 Windows PowerShell을 사용하여 온-프레미스 Exchange Server 2010 이상 환경에서 Exchange Online으로 보존 정책을 마이그레이션할 수 있습니다. 
@@ -94,13 +94,13 @@ Office 365 고급 메시지 암호화는 메시지 만료 및 해지를 허용 �
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>S/MIME(Secure/Multipurpose Internet Mail Extensions)
 
-S/MIME allows you to help protect sensitive information by sending signed and encrypted email within your organization. Administrators can use remote Windows PowerShell to set up S/MIME after establishing and issuing PKI certificates to users. These certificates must be synchronized from an on-premises Active Directory Certificate Service.
+S/MIME을 사용하면 조직 내에서 서명 및 암호화된 전자 메일을 보내 중요한 정보를 보호할 수 있습니다. 관리자는 PKI 인증서를 설정하고 사용자에게 발급한 후 원격 Windows PowerShell을 사용하여 S/MIME을 설정할 수 있습니다. 이러한 인증서는 온-프레미스 Active Directory 인증서 서비스에서 동기화해야 합니다. S/MIME을 사용하면 조직 내에서 서명 및 암호화된 전자 메일을 보내 중요한 정보를 보호할 수 있습니다. 관리자는 PKI 인증서를 설정하고 사용자에게 발급한 후 원격 Windows PowerShell을 사용하여 S/MIME을 설정할 수 있습니다.
   
 S/MIME은 Microsoft Edge 및 Internet Explorer 11에서 지원 됩니다. 현재 Firefox, Opera 및 Chrome에서는 S/MIME이 지원 되지 않습니다. 자세한 내용은 [S/MIME for Message Signing and Encryption](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019)을 참조하십시오.
   
 ## <a name="in-place-hold-and-litigation-hold"></a>원본 위치 유지 및 소송 보존
 
-When a reasonable expectation of litigation exists, organizations are required to preserve electronically stored information (ESI), including email that's relevant to the case. This expectation can occur before the specifics of the case are known, and preservation is often broad. Organizations may preserve all email related to a specific topic, or all email for certain individuals.
+소송 가능성이 존재하는 경우 조직은 해당 사례와 관련된 전자 메일을 비롯한 ESI(전자적으로 저장된 정보)를 보존해야 합니다. 이러한 가능성은 사례의 세부 사항이 알려지기 전에 발생할 수 있으며 많은 경우 보존 범위가 넓습니다. 조직에서는 특정 항목과 관련된 모든 전자 메일 또는 특정 개인의 모든 전자 메일을 보존할 수 있습니다.
   
 Exchange Online에서는 원본 위치 유지 또는 소송 보존 기능을 사용하여 다음과 같은 목표를 달성할 수 있습니다.
   
@@ -131,13 +131,13 @@ Exchange Online에서는 원본 위치 유지 또는 소송 보존 기능을 사
 
 고객은 Exchange Online을 통해 웹 기반 인터페이스를 사용 하 여 조직 전체의 사서함 내용을 검색할 수 있습니다. 할당을 통한 원본 위치 eDiscovery 검색을 수행할 권한이 있는 관리자나 규정 준수 및 보안 담당자는 전자 메일 메시지, 첨부 파일, 일정 약속, 작업, 연락처 및 기타 항목을 검색할 수 있습니다. 원본 위치 eDiscovery은 기본 사서함 및 보관함을 동시에 검색할 수 있습니다. KQL 구문과 함께, 다양한 필터링 기능에는 보낸 사람, 받는 사람, 메시지 유형, 보낸 날짜/받은 날짜, 참조/숨은 참조가 있습니다. 검색 쿼리와 일치할 경우 지운 편지함 폴더의 항목도 검색 결과에 포함됩니다.
   
-Results of In-Place eDiscovery searches can be previewed in the web-based interface, exported to a PST file or copied to a special type of mailbox called a Discovery mailbox. A Discovery mailbox has a 50 GB quota for storing search results. Administrators can also connect Outlook to the Discovery mailbox to access search results, and export the search results to a .pst file.
+원본 위치 eDiscovery 검색의 결과는 웹 기반 인터페이스에서 미리 보거나 PST 파일로 내보내거나 검색 사서함이라는 특수 유형 사서함에 복사할 수 있습니다. 검색 사서함에는 검색 결과를 저장하기 위한 50GB의 할당량이 있습니다. 또한 관리자는 Outlook을 검색 사서함에 연결하여 검색 결과에 액세스하고 검색 결과를 .pst 파일로 내보낼 수 있습니다.
   
-Administrators use either the Exchange admin center or remote Windows PowerShell to perform multi-mailbox searches. The Exchange admin center can provide a read-only preview of the search results, enabling administrators to quickly verify a search and rerun it, if needed, with different parameters. Once a search is optimized, the administrator can copy the results to the Discovery mailbox.
+관리자는 Exchange 관리 센터 또는 원격 Windows PowerShell을 사용하여 여러 사서함 검색을 수행합니다. Exchange 관리 센터에서 검색 결과에 대한 읽기 전용 미리 보기를 제공하므로, 관리자는 신속하게 검색을 확인하고 필요한 경우 다른 매개 변수를 사용하여 검색을 다시 실행할 수 있습니다. 검색이 최적화되면 관리자는 검색 사서함에 결과를 복사할 수 있습니다.
   
-By default, one Discovery mailbox is created for each organization, but administrators can create additional Discovery mailboxes using remote Windows PowerShell. Discovery mailboxes cannot be used for any purpose other than storing In-Place eDiscovery search results.
+기본적으로 조직별로 하나의 검색 사서함이 만들어지지만 관리자가 원격 Windows PowerShell을 사용하여 검색 사서함을 추가로 만들 수 있습니다. 검색 사서함은 원본 위치 eDiscovery 검색 결과 저장 이외의 용도로는 사용할 수 없습니다.
   
-Administrators use either the Exchange admin center or remote Windows PowerShell to perform In-Place eDiscovery searches. The Exchange admin center can provide a read-only preview of the search results, enabling administrators to quickly verify a search and rerun it, if needed, with different parameters. Once a search is optimized, the administrator can copy the results to the Discovery mailbox or export search results to a PST file.
+관리자는 Exchange 관리 센터 또는 원격 Windows PowerShell을 사용하여 원본 위치 eDiscovery 검색을 수행합니다. Exchange 관리 센터에서 검색 결과에 대한 읽기 전용 미리 보기를 제공하므로, 관리자는 신속하게 검색을 확인하고 필요한 경우 다른 매개 변수를 사용하여 검색을 다시 실행할 수 있습니다. 검색이 최적화되면 관리자는 검색 사서함에 결과를 복사하거나 검색 결과를 PST 파일로 내보낼 수 있습니다.
   
 관리자는 Exchange 관리 센터 또는 원격 Windows PowerShell을 사용하여 원본 위치 eDiscovery 검색에서 한 번에 최대 10,000개의 사서함을 검색할 수 있습니다. 
   
@@ -155,7 +155,7 @@ Exchange Online에서 권한 있는 사용자는 원본 위치 eDiscovery를 수
 
 메일 흐름 규칙을 사용 하 여 조직을 통과 하는 메시지에 대 한 특정 조건을 찾아보고 작업을 수행할 수 있습니다. 메일 흐름 규칙을 사용 하면 전자 메일 메시지, 보안 메시지, 메시징 시스템 보호 및 정보 누출 방지에 메시징 정책을 적용할 수 있습니다.
   
-Many organizations today are required by law, regulatory requirements, or company policies to apply messaging policies that limit the interaction between recipients and senders, both inside and outside the organization. In addition to limiting interactions among individuals, departmental groups inside the organization, and entities outside the organization, some organizations are also subject to the following messaging policy requirements:
+현재 여러 조직들은 법률, 규정 요구 사항 또는 회사 정책에 따라 조직 내부 및 외부에서 받는 사람과 보낸 사람 사이의 상호 작용을 제한해야 합니다. 개인 사이의 상호 작용을 제한하는 것 외에 조직 내부의 부서 그룹 및 조직 외부의 엔터티와 일부 조직 역시 다음 메시징 정책 요구 사항에 의해 제한될 수 있습니다.
   
 - 조직 내/외부에서 부적절한 콘텐츠를 주고받는 행위 차단
     
@@ -188,7 +188,7 @@ EAC(Exchange 관리 센터) 관리 인터페이스에서 DLP 정책을 구성하
     
 - 메시지 첨부 파일, 본문 텍스트 또는 제목 줄에서 중요 한 정보를 검색 하 고 Exchange Online이 작동 하는 신뢰 수준을 조정 합니다.
     
-- Detect sensitive form data by using Document Fingerprinting. Document Fingerprinting helps you easily create custom sensitive information types based on text-based forms that you can use to define transport rules and DLP policies.
+- 문서 지문을 사용하여 중요한 양식 데이터를 감지합니다. 문서 지문을 사용하면 전송 규칙 및 DLP 정책을 정의하는 데 사용할 수 있는 텍스트 기반 양식의 중요한 사용자 지정 정보 유형을 손쉽게 만들 수 있습니다.
     
 - Outlook 2016, Outlook 2013, 웹용 Outlook 및 장치용 OWA에 알림을 표시 하 여 데이터 손실을 줄이는 데 도움이 되는 정책 팁을 추가 하 고, 가양성 보고를 허용 하 여 정책의 효율성을 향상 시킬 수 있습니다. 
     
@@ -198,9 +198,9 @@ DLP에 대한 자세한 내용은 [데이터 손실 방지](https://docs.microso
   
 ## <a name="journaling"></a>저널링
 
-You can configure Exchange Online to journal copies of emails to any external mailbox that can receive messages via SMTP. Journaling can help your organization respond to legal, regulatory, and organizational compliance requirements by recording inbound and outbound email communications. When planning for messaging retention and compliance, it's important to understand journaling and how it fits in with your organization's compliance policies.
+SMTP를 통해 메시지를 수신할 수 있는 외부 사서함으로 전자 메일의 사본을 저널링하도록 Exchange Online을 구성할 수 있습니다. 저널링은 조직이 인바운드 및 아웃바운드 전자 메일 통신을 기록하여 법적, 규정 및 조직의 준수 요구 사항에 대응하는 데 도움이 됩니다. 메시징 보존 및 준수에 대한 계획을 세울 때는 저널링 및 저널링이 조직의 준수 정책과 잘 맞는지 이해하는 것이 중요합니다.
   
-You can manage journal rules by using the Exchange admin center or remote Windows PowerShell. You can configure journaling on a per-user and per-distribution list basis, and choose to journal only internal messages, only external messages, or both. Journaled messages include not only the original message but also information about the sender, recipients, copies, and blind copies.
+Exchange 관리 센터 또는 원격 Windows PowerShell을 사용하여 저널 규칙을 관리할 수 있습니다. 사용자별 및 메일 그룹별 기반으로 저널링을 구성하고, 내부 메시지만, 외부 메시지만 또는 둘 다 저널링하도록 선택할 수 있습니다. 저널링된 메시지에는 원본 메시지뿐 아니라 보낸 사람, 받는 사람, 참조, 숨은 참조에 대한 정보도 포함됩니다.
   
 정상적이 고 안정적인 저널링 솔루션을 보장 하려면 다음 작업을 완료 해야 합니다.
   

@@ -24,7 +24,7 @@ Yammer에서는 다음과 같은 문서 공동 작업 기능을 사용할 수 �
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>Yammer 계획별 문서 공동 작업 기능
 
-Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which document collaboration features are available in each plan.
+조직의 요구 사항에 가장 잘 맞는 Yammer 계획을 찾는 데 도움이 필요하십니까? 다음 표를 참조하여 각 계획에서 사용 가능한 문서 공동 작업 기능을 확인할 수 있습니다.
   
 |**기능**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

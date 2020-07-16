@@ -476,7 +476,7 @@ Microsoft Exchange Online의 제한은 다음 범주 중 하나에 속합니다.
   
 #### <a name="address-book-limits"></a>주소록 제한
 
-- **Address list limit** The maximum number of address lists that can be created in an Exchange Online or Exchange Server 2013 organization. This number includes the default address lists in Exchange Online, such as All Contacts and All Groups. 
+- **주소록 목록 제한** Exchange Online 또는 Exchange Server 2013 조직에서 만들 수 있는 주소 목록의 최대 수입니다. 이 수에는 Exchange Online의 기본 주소 목록(예: 모든 연락처 및 모든 그룹)이 포함됩니다. 
     
 - **오프라인 주소록 제한** Exchange Online 또는 Exchange Server 2013 조직에서 만들 수 있는 OAB(오프라인 주소록)의 최대 수입니다. 
     
@@ -494,7 +494,7 @@ Microsoft Exchange Online의 제한은 다음 범주 중 하나에 속합니다.
    
 #### <a name="mailbox-storage-limits"></a>사서함 저장소 제한
 
-The amount of mailbox storage available is determined by the mailbox type and the user's subscription license. Administrators can reduce maximum mailbox sizes per user or globally.
+사용할 수 있는 사서함 저장소의 크기는 사서함 유형 및 사용자의 구독 라이선스에 따라 결정됩니다. 관리자는 각 사용자별 사서함 크기 또는 모든 사용자의 사서함 크기를 줄일 수 있습니다.
   
 > [!NOTE]
 > 보관 목적으로 Exchange Online 사서함에 메시지를 복사하는 저널링, 전송 규칙 또는 자동 전달 규칙을 사용하는 것은 허용되지 않습니다. 사용자의 보관 사서함은 해당 사용자만을 위한 것입니다. Microsoft는 사용자의 보관 사서함이 다른 사용자의 보관 데이터를 저장 하는 데 사용 되거나 부적절 하 게 사용 되는 경우를 제외 하 고 무제한 보관을 거부할 수 있는 권한을 보유 합니다.
@@ -523,11 +523,11 @@ The amount of mailbox storage available is determined by the mailbox type and th
 
 Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거나 도달했을 경우 3가지 유형의 알림을 통해 사용자에게 경고합니다.
   
-- **Warning** The user receives an email warning that the mailbox is approaching the maximum size limit. This warning is intended to encourage users to delete unwanted mail. 
+- **경고** 사서함이 최대 크기 제한에 가까워지고 있다는 전자 메일 경고가 사용자에게 발송됩니다. 이 경고는 사용자가 원치 않는 메일을 삭제하도록 장려하기 위해 발송됩니다. 
     
-- **Prohibit Send** The user receives a prohibit-send notification email when the mailbox size limit is reached. The user cannot send new messages until enough email is deleted to bring the mailbox below the size limit. 
+- **보내기 금지** 사서함 크기가 제한 용량에 도달할 경우 보내기 금지 알림 전자 메일이 사용자에게 발송됩니다. 전자 메일을 삭제하여 사서함 크기가 제한 용량 미만으로 줄어들 때까지 새로운 메시지를 보낼 수 없습니다. 
     
-- **Prohibit Send/Receive** Exchange Online rejects any incoming mail when the mailbox size limit is reached, and sends a non-delivery report (NDR) to the sender. The sender has the option to try resending the mail later. To receive messages again, the user must delete email until the mailbox is below the size limit. 
+- **보내기/받기 금지** 사서함 크기가 제한 용량에 도달할 경우 Exchange Online은 모든 받는 메일을 거부하고 보낸 사람에게는 배달 못 함 보고서(NDR)을 보냅니다. 보낸 사람에게는 나중에 다시 해당 전자 메일을 보내도록 시도할 수 있는 옵션이 제공됩니다. 사용자는 사서함 크기가 제한 용량 미만으로 줄어들 때까지 전자 메일을 삭제해야만 다시 메시지를 받을 수 있습니다. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -538,29 +538,29 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
    
 #### <a name="mailbox-folder-limits"></a>사서함 폴더 제한
 
-These limits are intended to limit mailboxes to known dimensions that can be supported in Exchange Online. The goal of these limits is to prevent an infinite number of mailbox items per folder, an infinite number of folders per mailbox, or an infinite number of public folders per Exchange Online organization. For practical purposes, mailbox folder limits are in effect unlimited and sufficient to support most Exchange Online mailboxes and on-premises mailboxes that are migrated to Exchange Online.
+이러한 제한은 사서함을 Exchange Online에서 지원 가능한 크기로 제한하기 위한 값입니다. 이러한 제한을 둠으로써 폴더당 사서함 항목, 사서함당 폴더 또는 Exchange Online 조직당 공용 폴더가 무제한으로 사용되는 것을 방지할 수 있습니다. 사실상 사서함 폴더 제한은 무한하며 대부분의 Exchange Online 사서함 및 Exchange Online으로 마이그레이션되는 온-프레미스 사서함을 지원하기에 충분합니다.
   
-- **Maximum number of messages per mailbox folder** Specifies the maximum number of messages for a mailbox folder. New messages can't be delivered or saved in a folder when this limit is reached. 
+- **사서함 폴더당 최대 메시지 수** 사서함 폴더의 최대 메시지 수를 지정합니다. 이 제한에 도달하면 새 메시지를 폴더에 배달하거나 저장할 수 없습니다. 
     
-- **Warning for number of messages per mailbox folder** Specifies the number of messages that a mailbox folder can hold before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
+- **사서함 폴더당 메시지 수에 대한 경고** Exchange Online이 사서함 소유자에게 경고 메시지를 보내기 전까지 최대한 사서함 폴더에 보유할 수 있는 메시지 수를 지정합니다. 이 할당량에 도달하면 경고 메시지가 하루에 한 번 전송됩니다. 
     
-- **Maximum number of messages per folder in the Recoverable Items folder** Specifies the maximum number of messages that can be contained in each folder in the Recoverable Items folder. When a folder exceeds this limit, it can't store new messages. For example, if the Deletions folder in the Recoverable Items folder has exceeded the message count limit and the mailbox owner attempts to permanently delete items from their mailbox, the deletion will fail. 
+- **복구 가능한 항목 폴더의 폴더당 최대 메시지 수** 복구 가능한 항목 폴더의 각 폴더에 포함할 수 있는 최대 메시지 수를 지정합니다. 폴더에서 이 제한을 초과하면 새 메시지를 저장할 수 없습니다. 예를 들어 복구 가능한 항목 폴더의 삭제 폴더가 메시지 개수 제한을 넘고 사서함 소유자가 자신의 사서함의 항목을 영구 삭제하려고 하는 경우 삭제에 실패합니다. 
     
 - **복구 가능한 항목 폴더의 폴더당 메시지 수 경고** Exchange Online이 응용 프로그램 이벤트 로그에 이벤트를 기록하게 되는 복구 가능한 항목 폴더의 폴더당 메시지 수를 지정합니다. 
     
-- **Maximum number of subfolders per mailbox folder** Specifies the maximum number of subfolders that can be created in a mailbox folder. The mailbox owner won't be able to create a new subfolder when this limit is reached. 
+- **사서함 폴더당 최대 하위 폴더 수** 사서함 폴더에 만들 수 있는 최대 하위 폴더 수를 지정합니다. 이 제한에 도달하면 사서함 사용자가 하위 폴더를 새로 만들 수 없습니다. 
     
-- **Warning for number of subfolders per mailbox folder** Specifies the number of subfolders that can be created in a mailbox folder before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
+- **사서함 폴더당 하위 폴더 수에 대한 경고** Exchange Online이 사서함 소유자에게 경고 메시지를 보내기 전까지 사서함 폴더당 생성 가능한 하위 폴더 수를 지정합니다. 이 할당량에 도달하면 경고 메시지가 하루에 한 번 전송됩니다. 
     
-- **Maximum folder hierarchy depth** Specifies the maximum number of levels in the folder hierarchy of a mailbox. The mailbox owner won't be able to create another level in the folder hierarchy of the mailbox folder when this limit is reached. 
+- **최대 폴더 계층** 사서함 폴더 계층 구조의 최대 폴더 단계 수를 지정합니다. 이 제한에 도달하면 사서함 사용자가 사서함 폴더 계층 구조에 폴더 단계를 더 추가하여 만들 수 없습니다. 
     
-- **Warning for folder hierarchy depth** Specifies the number of levels in the folder hierarchy of a mailbox folder that can be created before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
+- **폴더 계층 수에 대한 경고** Exchange Online이 사서함 소유자에게 경고 메시지를 보내기 전까지 생성할 수 있는 사서함 폴더의 폴더 계층 수를 지정합니다. 이 할당량에 도달하면 경고 메시지가 하루에 한 번 전송됩니다. 
     
-- **Maximum number of public folders** Specifies the maximum number of public folders in the complete public folder hierarchy. When this limit is reached, existing public folders must be deleted before new public folders can be created. 
+- **최대 공용 폴더 수** 전체 공용 폴더 계층 구조에서 공용 폴더의 최대 수를 지정합니다. 이 제한에 도달하면 기존 공용 폴더를 삭제해야 새 공용 폴더를 만들 수 있습니다. 
     
-- **Maximum number of subfolders per public folder** Specifies the maximum number of subfolders that can be created in a public folder. New subfolders can't be created in a public folder when this limit is reached. 
+- **공용 폴더당 최대 하위 폴더 수** 공용 폴더에 만들 수 있는 최대 하위 폴더 수를 지정합니다. 이 제한에 도달하면 공용 폴더에서 새 하위 폴더를 만들 수 없습니다. 
     
-- **Warning for number of subfolders per public folder** Specifies the number of subfolders that can be created in a public folder before Exchange Online sends a warning message to the folder owner. If no owner exists, warning messages are sent to users with Owner permissions. When this quota is reached, warning messages are sent once a day. 
+- **공용 폴더당 하위 폴더 수에 대한 경고** Exchange Online이 폴더 소유자에게 경고 메시지를 보내기 전까지 공용 폴더당 생성 가능한 하위 폴더 수를 지정합니다. 소유자가 없으면 소유자 권한이 있는 사용자에게 경고 메시지가 전달됩니다. 이 할당량에 도달하면 경고 메시지가 하루에 한 번 전송됩니다. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -593,14 +593,14 @@ These limits are intended to limit mailboxes to known dimensions that can be sup
   
 - **제목 길이 제한** 전자 메일 메시지의 제목 줄에서 허용되는 텍스트 문자의 최대 개수입니다. 
     
-- **File attachments limit** The maximum number of file attachments allowed in an email message. Even if the total size of all the file attachments doesn't violate the message size limit, there is still a limit on how many attachments are allowed in the message. This limit is controlled by the multipart message limit. 
+- **첨부 파일 제한** 전자 메일 메시지에 허용되는 최대 첨부 파일 수입니다. 모든 첨부 파일의 전체 크기가 메시지 크기 제한을 넘지 않는 경우에도 메시지에서 허용되는 첨부 파일 수에 대한 제한이 있습니다. 이 제한은 여러 부분으로 구성된 메시지 제한을 통해 제어됩니다. 
     
 - **첨부 파일 크기 제한** 단일 첨부 파일의 최대 파일 크기입니다. 
     
     > [!NOTE] 
     > 단일 첨부 파일의 최대 파일 크기입니다. 웹에서 Outlook을 비롯 한 개별 클라이언트 프로그램은 첨부 파일 크기를이 최대값 미만으로 제한할 수 있습니다. Exchange ActiveSync에서는 첨부 파일 크기 제한을 개별 첨부 파일별로 설정하지 않습니다. Exchange ActiveSync 메시지에 대한 모든 첨부 파일의 전체 크기는 메시지 크기 제한보다 작아야 합니다. 
   
-- **Multipart message limit** The maximum number of message body parts that are allowed in a MIME multipart message. This limit also controls the maximum number of file attachments that are allowed in a message. 
+- **여러 부분으로 구성된 메시지 제한** 여러 부분으로 구성된 MIME 형식의 메시지에서 허용되는 메시지 본문 부분의 최대 개수입니다. 이 제한은 메시지에서 허용되는 첨부 파일의 최대 수도 제어합니다. 
     
 - **포함 메시지 수준 제한** 전자 메일 메시지에 허용되는 전달된 전자 메일 메시지의 최대 수입니다. 
     
@@ -630,11 +630,11 @@ These limits are intended to limit mailboxes to known dimensions that can be sup
   
 #### <a name="receiving-and-sending-limits"></a>수신 및 전송 제한
 
-Receiving and sending limits are applied to combat spam and mass-mailing worms or viruses. These limits help to protect the health of our systems and keep our users safe.
+수신 및 전송 제한은 스팸 및 대량 메일 웜 또는 바이러스를 방지하기 위해 적용됩니다. 이러한 제한은 시스템의 상태를 보호하고 사용자를 안전하게 유지하는 데 도움이 됩니다.
   
 #### <a name="receiving-limits"></a>수신 제한
 
-Receiving limits apply to the number of messages that a user, group, or public folder can receive per hour. This applies for both messages received from the Internet and from on-premises servers. When the receiving limit has been exceeded, any emails sent to that mailbox will receive a non-delivery report stating that the mailbox has exceeded the maximum delivery threshold. After one hour, the limit will refresh and the mailbox will once again be able to receive messages.
+수신 제한은 사용자, 그룹 또는 공용 폴더가 시간당 받을 수 있는 메시지 수에 적용됩니다. 이 제한은 인터넷에서 받은 메시지와 온-프레미스 서버에서 받은 메시지 둘 다에 적용됩니다. 수신 제한을 초과할 경우 해당 사서함으로 전송된 모든 전자 메일은 사서함이 최대 배달 임계값을 초과했다는 배달 못 함 보고서(NDR)를 받게 됩니다. 1시간 후에 이 제한이 새로 고쳐지고 사서함은 다시 한 번 메시지를 받을 수 있게 됩니다.
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -646,9 +646,9 @@ Receiving limits apply to the number of messages that a user, group, or public f
 전송 제한은 사용자가 Exchange Online 계정에서 보낼 수 있는 메시지당 받는 사람 수, 메시지의 수 및 받는 사람 수에 적용됩니다.
   
 > [!NOTE]
-> For distribution groups stored in an organization's address book, the group is counted as one recipient. For distribution groups stored in the Contacts folder of a mailbox, the members of the group are counted individually. 
+> 조직의 주소록에 저장된 메일 그룹은 받는 사람 한 명으로 계산합니다. 사서함의 연락처 폴더에 저장된 메일 그룹은 해당 그룹의 구성원들을 각각 계산합니다. 
   
-- **Recipient rate limit** To discourage the delivery of unsolicited bulk messages, Exchange Online has recipient limits that prevent users and applications from sending large volumes of email. These limits are applied per-user to all outbound and internal messages. 
+- **받는 사람 처리 속도 제한** 원치 않는 대량 메시지의 배달을 막기 위해 Exchange Online에서는 받는 사람 제한을 통해 사용자와 응용 프로그램이 대용량 전자 메일을 보내는 것을 방지합니다. 이러한 제한은 모든 아웃바운드 메시지 및 내부 메시지에 사용자당 적용됩니다. 
     
     > [!NOTE]
     > 적법한 상업성 대량 전자 메일(예: 고객 회보)을 보내려는 Exchange Online 고객은 이러한 서비스를 제공하는 타사 제공업체를 이용해야 합니다. 
@@ -656,9 +656,9 @@ Receiving limits apply to the number of messages that a user, group, or public f
 - **받는 사람 제한** 단일 전자 메일 메시지에 대한 받는 사람:, 참조: 및 숨은 참조: 필드에서 허용되는 최대 받는 사람 수입니다. 
     
     > [!NOTE]
-    > For the purposes of the recipient rate limit and the recipient limit, a distribution group that is stored in the organization's shared address book counts as one recipient. In a personal distribution list, each recipient is counted separately. 
+    > 받는 사람 처리 속도 제한 및 받는 사람 제한을 적용하기 위해 조직의 공유 주소록에 저장된 메일 그룹이 하나의 받는 사람으로 계산됩니다. 개인 메일 그룹의 받는 사람은 각각 하나의 받는 사람으로 계산됩니다. 
   
-- **Message rate limit** Message rate limits determine how many messages a user can send from their Exchange Online account within a specified period of time. This limit helps prevent overconsumption of system resources by a single sender. If a user submits messages at a rate that exceeds the limit via SMTP client submission, the messages will be rejected and the client will need to retry. 
+- **메시지 처리 속도 제한** 메시지 처리 속도 제한은 사용자가 일정 기간 동안 Exchange Online 계정에서 보낼 수 있는 메시지의 수를 결정합니다. 이 제한은 보낸 사람 한 명이 시스템 리소스를 과도하게 사용하지 못하도록 방지할 수 있습니다. 사용자가 SMTP 클라이언트 전송을 통해 제한을 초과하는 속도로 메시지를 전송하면 메시지가 거부되므로 해당 클라이언트가 다시 시도해야 합니다. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -690,7 +690,7 @@ Receiving limits apply to the number of messages that a user, group, or public f
 |정크 메일 폴더 보존 기간  <br/> |30일  <br/> |30일  <br/> |30일  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> This is the default limit. Administrators can change this value for their organization. 
+> <sup>1</sup> 기본 제한입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다. 
   
 #### <a name="distribution-group-limits"></a>메일 그룹 제한
 
@@ -698,9 +698,9 @@ Receiving limits apply to the number of messages that a user, group, or public f
   
 - **Maximum number of distribution group members** The total recipient count is determined after distribution group expansion. 
     
-- **Limit sending messages to large distribution groups** Distribution groups that contain the number of members specified by this limit must have delivery management or message approval options configured. Delivery management specifies a list of senders who are allowed to send messages to the distribution group. Message approval specifies one or more moderators who must approve all messages sent to the distribution group. 
+- **큰 메일 그룹에 메시지 보내기 제한** 이 제한에 지정된 수의 구성원을 포함하는 메일 그룹에 대해 배달 관리 또는 메시지 승인 옵션을 구성해야 합니다. 배달 관리는 메일 그룹에 메시지를 보낼 수 있는 보낸 사람 목록을 지정하고, 메시지 승인은 메일 그룹에 보낸 모든 메시지를 승인해야 하는 한 명 이상의 중재자를 지정합니다. 
     
-- **Maximum message size for large distribution groups** If a message is sent to 5,000 or more recipients, the message size can't exceed this limit. If the message size exceeds the limit, the message isn't delivered, and the sender receives a non-delivery report (NDR). The total recipient count is determined after distribution group expansion. 
+- **큰 메일 그룹에 대한 최대 메시지 크기** 5,000명 이상의 받는 사람에게 메시지를 보낼 경우 메시지 크기가 이 제한을 초과할 수 없습니다. 메시지 크기가 이 제한을 초과하면 메시지가 배달되지 않고 보낸 사람에게 NDR(배달 못 함 보고서)이 전송됩니다. 메일 그룹 확장 후 총 받는 사람 수가 결정됩니다. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -717,7 +717,7 @@ Receiving limits apply to the number of messages that a user, group, or public f
 
 #### <a name="journal-transport-and-inbox-rule-limits"></a>저널, 전송 및 받은 편지함 규칙 제한
 
-The following list includes limits that apply to journal rules, transport rules (also known as organization-wide rules), and limits that apply to Inbox rules. Inbox rules are set up by individual users and applied to messages sent and received by the individual user's mailbox.
+다음 목록에는 저널 규칙, 전송 규칙에 적용되는 제한(조직 차원 규칙이라고도 함)과 받은 편지함 규칙에 적용되는 제한이 나와 있습니다. 받은 편지함 규칙은 개별 사용자에 의해 설정되어 개별 사용자 사서함에서 보내고 받는 메시지에 적용됩니다.
   
 - **최대 저널 규칙 수** 조직에 존재할 수 있는 최대 저널 규칙 수입니다. 
     
@@ -725,15 +725,15 @@ The following list includes limits that apply to journal rules, transport rules 
     
 - **Maximum size of an individual transport rule** The maximum number of characters that can be used in a single transport rule. The characters are used in the conditions, exceptions, and actions. 
     
-- **Character limit for all regular expressions used in all transport rules** The total number of characters used by all the regular expressions in all the transport rule conditions and exceptions in the organization. You can have a few rules that use long and complex regular expressions, or you can have many rules that use simple regular expressions. 
+- **모든 전송 규칙에 사용되는 모든 정규식에 대한 문자 제한** 조직에서 모든 전송 규칙 조건 및 예외의 모든 정규식에 사용되는 총 문자 수입니다. 길고 복잡한 정규식을 사용하는 규칙이 몇 가지 있거나 단순한 정규식을 사용하는 규칙이 많이 있을 수 있습니다. 
     
 - **첨부 파일 콘텐츠의 검색 제한** 전송 규칙 조건을 사용 하면 메시지 첨부 파일의 내용을 검사할 수 있지만 첨부 파일에서 추출 된 텍스트 중 처음 1mb만 검사 됩니다. 이 1MB 제한은 첨부 파일의 파일 크기가 아닌 첨부 파일에서 추출된 텍스트를 나타냅니다. 예를 들어 2MB 파일에는 1MB 미만의 텍스트가 포함되어 있을 수 있으므로 모든 텍스트가 검사됩니다. 
     
-- **Maximum number of recipients added to a message by all transport rules** When a message is acted on by different transport rules, only a finite number of recipients can be added to the message. After the limit is reached, any remaining recipients aren't added to the message. Also, distribution groups can't be added to a message by a transport rule. 
+- **모든 전송 규칙에 의해 메시지에 추가되는 받는 사람의 최대 수** 여러 전송 규칙에 의해 메시지가 처리될 때 제한된 수의 받는 사람만 메시지에 추가될 수 있습니다. 제한에 도달하면 나머지 받는 사람은 메시지가 추가되지 않습니다. 메일 그룹도 전송 규칙에 의해 메시지에 추가될 수 없습니다. 
     
-- **Forwardee limit** The maximum number of recipients that can be configured for an inbox or transport rule with a redirecting action. If a rule is configured to redirect a message to more than this number of recipients, the rule won't be applied and any message that satisfies the rule condition won't be redirected to any of the recipients listed in the rule. 
+- **전달받는 사람 제한** 리디렉션 작업을 통해 받은 편지함 또는 전송 규칙에 대해 구성할 수 있는 최대 받는 사람 수입니다. 이 받는 사람 수보다 많은 사람에게 메시지를 리디렉션하도록 구성하는 규칙은 적용되지 않으며, 규칙 조건을 충족하는 메시지는 규칙에 나와 있는 받는 사람에게 리디렉션되지 않습니다. 
     
-- **Number of times a message is redirected** The number of times a message will be redirected, forwarded, or replied to automatically based on Inbox rules. For example, User A has an Inbox rule that redirects messages to User B, based on the sender. User B has an Inbox rule that forwards messages to User C based on keywords in the subject line. If a message satisfies both of these conditions, the message is only sent to User B; it's not forwarded to User C because only one redirection is allowed. In this case, the message is dropped without sending a non-delivery report (NDR) to User B indicating that the message wasn't delivered to User C. 
+- **메시지 리디렉션 횟수** 받은 편지함 규칙을 기준으로 메시지를 자동으로 리디렉션, 전달 또는 회신할 횟수입니다. 보낸 사람을 기준으로 메시지를 사용자 B에게 리디렉션하는 받은 편지함 규칙이 사용자 A에게 적용되는 경우를 예로 들어 보겠습니다. 사용자 B의 경우에는 제목 줄의 키워드를 기준으로 메시지를 사용자 C에게 전달하는 받은 편지함 규칙이 적용됩니다. 이 두 조건을 모두 충족하는 메시지는 사용자 B에게만 발송됩니다. 리디렉션은 한 번만 허용되므로 사용자 C에게는 메시지가 전달되지 않습니다. 이 경우 사용자 C에게 메시지가 배달되지 않았음을 나타내는 NDR(배달 못 함 보고서)을 사용자 B에게 보내지 않고 메시지가 삭제됩니다. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -753,13 +753,13 @@ The following list includes limits that apply to journal rules, transport rules 
   
 - **중재 사서함의 최대 크기** 중재 사서함이 이 제한을 초과하면 중재를 요구하는 메시지가 NDR(배달 못 함 보고서)과 함께 보낸 사람에게 반송됩니다. 
     
-- **Maximum number of moderators** The maximum number of moderators that you can assign to a single moderated distribution group or that can be added to a message using a single transport rule. Note that you can't specify a distribution group as a moderator. 
+- **최대 중재자 수** 단일 전송 규칙을 사용하여 메시지에 추가할 수 있거나 중재된 단일 메일 그룹에 할당할 수 있는 최대 중재자 수입니다. 메일 그룹은 중재자로 지정할 수 없습니다. 
     
-- **Expiration for messages waiting for moderation** By default, a message waiting for moderation expires after two days. However, the processing of expired moderated messages runs every seven days. This means that a moderated message can expire at any time between two and nine days. 
+- **중재 대기 중인 메시지의 만료** 기본적으로 중재 대기 중인 메시지는 2일 후 만료됩니다. 그러니 만료된 중재된 메시지의 처리가 7일마다 실행되므로 2~9일 사이에 언제든지 중재된 메시지가 만료될 수 있습니다. 
     
-- **Maximum rate for expired moderation notification messages** This limit sets the maximum number of notification messages for expired moderated messages in a one-hour period. This limit is placed on each mailbox database in the datacenter. 
+- **만료된 중재 알림 메시지의 최대 처리 속도** 이 제한은 1시간 동안 만료된 중재된 메시지에 대한 최대 알림 메시지 수를 설정합니다. 데이터 센터의 각 사서함 데이터베이스에 이 제한이 적용됩니다. 
     
-    During periods of heavy usage, some senders may not receive notification messages for moderated messages that have expired. However, these notifications are still discoverable using delivery reports.
+    사용량이 많은 기간에는 일부 보낸 사람이 만료된 중재된 메시지에 대한 알림 메시지를 받지 못할 수 있습니다. 그러나 배달 보고서에서 이러한 알림을 검색할 수 있습니다.
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -883,7 +883,7 @@ SharePoint Online 기능에 대 한 자세한 내용은 [Sharepoint online 서�
 |Office Communications Server 2007 R2 및 Lync Server 2010(IM, 현재 상태, 오디오, 비디오, 회의)  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |XMPP(Google Talk 등에서 사용됨) 및 Sametime 페더레이션  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 | Skype 페더레이션  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|AOL and Yahoo! federation  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
+|AOL 및 Yahoo! 페더레이션  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |**[비즈니스 온라인 모임에 대 한 Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |애드혹 및 오디오 회의 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |애드혹 및 비디오 회의 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -1000,7 +1000,7 @@ SharePoint Online 기능에 대 한 자세한 내용은 [Sharepoint online 서�
   
 #### <a name="peer-to-peer-limits"></a>피어-투-피어 제한
 
-- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
+- **파일 전송 제한**비즈니스용 Skype 온라인 IM 대화에서 전송할 수 있는 최대 파일 크기입니다. 파일 전송이 차단된 파일 형식을 확인하려면 [비즈니스용 Skype Online에서 파일 또는 첨부 파일 보내고 받기](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments)에 대한 Microsoft 지원 문서를 참조하세요.
     
 - **대화 탭 열기 제한** 비즈니스용 Skype 사용자가 한 번에 열 수 있는 최대 대화 탭 수입니다. 
     
@@ -1036,7 +1036,7 @@ SharePoint Online 기능에 대 한 자세한 내용은 [Sharepoint online 서�
 |팀 호출 그룹의 개인  <br/> |25@@  <br/> |25@@  <br/> |25@@  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> If the number of participants in a Skype for Business meeting exceeds 75 participants, then the participant list (presenters and attendees) in the meeting roster will be truncated so that an individual attendee sees only the presenters and the individual attendee's own name. The full participant list remains visible to the presenters in the meeting. Also, Gallery View and IM errors are hidden from the attendees. 
+> <sup>1</sup> 비즈니스용 Skype 모임의 참가자 수가 75명보다 많은 경우, 모임 명단의 참가자 목록(발표자 및 참석자)이 잘리므로 개별 참석자는 발표자와 개별 참석자 본인의 이름만 볼 수 있습니다. 모임의 발표자는 여전히 전체 참가자 목록을 볼 수 있습니다. 또한 참석자는 갤러리 보기 및 IM 오류는 볼 수 없습니다. 
   
 #### <a name="meeting-retention-limits"></a>모임 보존 제한
 

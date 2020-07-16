@@ -28,7 +28,7 @@ Microsoft Office 365에서는 다음과 같은 도움말 및 교육 리소스를
   
 ## <a name="training"></a>교육
 
-Training is available through videos, webinars, and classes leading to certification. For more information, see:
+교육은 동영상, 웹 세미나, 자격증 취득용 강의를 통해 제공됩니다. 자세한 내용은 다음 항목을 참조하십시오.
   
 - [Office 365 비디오 교육](https://go.microsoft.com/fwlink/p/?LinkId=286119)
     
@@ -45,13 +45,13 @@ Training is available through videos, webinars, and classes leading to certifica
 ## <a name="community"></a>커뮤니티
 
 > [!NOTE]
-> Community resources apply to worldwide versions of Office 365. If you are using Office 365 operated by 21Vianet, you can use WeChat. See [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) and scroll to the bottom of the page for a QR code. 
+> 커뮤니티 리소스는 전 세계 버전의 Office 365에 적용됩니다. 21Vianet에서 운영하는 Office 365를 사용 중인 경우 WeChat을 사용할 수 있습니다. [21Vianet에서 운영하는 Office 365에 대한 기술, 결제 및 구독 지원 받기](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)를 참조하고 페이지 아래로 스크롤하여 QR 코드를 찾으세요. 
   
-The Office 365 Community is a single destination for self-help support information. It has the latest information to help customers find answers to a variety of technical, billing, and service questions through support forums, wikis, and blogs. The support forums are staffed and moderated by Microsoft Support agents.
+Office 365 커뮤니티는 자가 진단 지원 정보에 대한 단일 대상입니다. 여기에 포함되어 있는 최신 정보를 사용하면 지원 포럼, Wiki 및 블로그를 통해 다양한 기술, 비용 청구 및 서비스 관련 질문에 대한 답변을 쉽게 찾을 수 있습니다. 지원 포럼은 Microsoft 지원 담당자들이 직접 관리합니다.
   
 Office 365 커뮤니티 홈 페이지에서는 다음과 같은 리소스에 액세스할 수 있습니다.
   
-- **Forums** Forums are intended to provide community participants with an online destination where they can post technical support questions and discuss topics related to the Office 365 services. Here are the forums that are available: 
+- **포럼** 포럼은 커뮤니티 참가자가 기술 지원 질문 사항을 게시하고 Office 365 서비스와 관련된 항목을 논의할 수 있는 온라인 공간을 제공합니다. 사용할 수 있는 포럼은 다음과 같습니다. 
     
   - Office 365 배포
     
@@ -83,9 +83,9 @@ Office 365 커뮤니티 홈 페이지에서는 다음과 같은 리소스에 액
     
   - Yammer
     
-- **Wikis** Wikis include wiki pages created by Microsoft employees and authenticated community members. This collaborative site encompasses the latest collective content about specific Office 365 technical scenarios. Each individual wiki page typically includes links to websites, webcasts, troubleshooting videos, FAQ pages, documents, and downloads about that specific technical scenario. Historical tracking of every revision date and author alias is provided along with the ability to compare versions. 
+- **Wiki** Wiki에는 Microsoft 직원과 인증된 커뮤니티 구성원이 만든 Wiki 페이지가 포함됩니다. 이 공동 작업 사이트에는 특정 Office 365 기술 시나리오에 대한 최신의 종합 콘텐츠가 포함됩니다. 일반적으로 개별 Wiki 페이지에는 특정 기술 시나리오에 대한 웹 사이트, 웹캐스트, 문제 해결 동영상, FAQ 페이지, 문서 및 다운로드와 연결되는 링크가 포함됩니다. 모든 수정 날짜와 만든 이 별칭을 추적하는 기능과 함께 버전 비교 기능도 제공됩니다. 
     
-- **Blogs** The Office 365 Technical Blog is a good resource for obtaining current information about Office 365 online services and for learning about the benefits of Office 365 features and functions. Topics include product insights, new product announcements, customer interviews, and a guest blog series. 
+- **블로그** Office 365 기술 블로그는 Office 365 온라인 서비스에 대한 최신 정보를 얻고 Office 365의 기능과 특징에 대해 알아볼 수 있는 유용한 리소스입니다. 항목에는 제품 이해, 새로운 제품 공지 사항, 고객 인터뷰 및 게스트 블로그 시리즈가 포함됩니다. 
     
 자세한 내용을 보려면 [Office 365 커뮤니티](https://techcommunity.microsoft.com/)를 방문하세요.
   
@@ -99,13 +99,13 @@ Office 365 커뮤니티 홈 페이지에서는 다음과 같은 리소스에 액
 
 Office 365 커뮤니티 및 온라인 365 도움말 외에도 다음과 같은 자가 진단 리소스를 포함 합니다.
   
-- **Troubleshooting tool for Office 365** After answering a series of short questions about your issue, the Troubleshooting tool for Office 365 suggests helpful tools and information based on your answers. To use the tool, go to the [Troubleshooting tool for Office 365](https://go.microsoft.com/fwlink/?LinkId=272113) page of the Office 365 Community. 
+- **Office 365용 문제 해결 도구** 고객 자신이 겪고 있는 문제에 대한 몇 가지 짧은 질문에 응답하면 Office 365용 문제 해결 도구는 이 답변을 바탕으로 유용한 도구와 정보를 제안합니다. 도구를 사용하려면 Office 365 커뮤니티의 [Office 365 문제 해결 도구](https://go.microsoft.com/fwlink/?LinkId=272113) 페이지로 이동하세요. 
     
-- **Technical support videos** English language-only instructional troubleshooting videos have been developed based on the most commonly asked questions from customers. There are more than 35 individual videos and more coming every week. Topics range from an overview of the BlackBerry® Administration Center to activating and migrating directory synchronization. To view these videos, go to the Office 365 Community site and search for videos. Customers are encouraged to submit a request for a video through the community portal. Customers can also navigate to the [Office 365 YouTube](https://go.microsoft.com/fwlink/?LinkId=272059) and [Showcase](https://go.microsoft.com/fwlink/?LinkId=272060) channels. 
+- **기술 지원 동영상** 문제 해결 동영상은 고객들이 자주 묻는 질문을 바탕으로 개발되었으며 영어로만 제공됩니다. 매주 35개 이상의 동영상이 추가되며, 항목 범위는 BlackBerry® 관리 센터 개요부터 디렉터리 동기화를 활성화하고 마이그레이션하는 업무까지 매우 다양합니다. 이러한 동영상을 보려면 Office 365 커뮤니티 사이트로 이동하여 동영상을 검색하면 됩니다. 필요한 경우 커뮤니티 포털을 통해 원하는 동영상을 직접 요청할 수도 있습니다. [Office 365 YouTube](https://go.microsoft.com/fwlink/?LinkId=272059) 및 [쇼케이스](https://go.microsoft.com/fwlink/?LinkId=272060) 채널로 이동할 수도 있습니다. 
     
-- **Social media** Following Office 365 on [Facebook](https://go.microsoft.com/fwlink/?LinkId=272061), [Twitter](https://go.microsoft.com/fwlink/?LinkId=272062), and [LinkedIn](https://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1) provides a way for customers and partners to become more educated about Office 365. This fast and easy way of learning about Office 365 allows customers to listen to what others are saying and be able to add their own comments and tweets. Microsoft support professionals monitor the Microsoft-related Facebook and Twitter activity to assist with any support-related inquiries. To find the most current Facebook feeds along with the most recent tweets, go to the bottom of the Office 365 Community homepage to hear the daily discussions among customers and partners. 
+- **소셜 미디어**[Facebook](https://go.microsoft.com/fwlink/?LinkId=272061), [Twitter](https://go.microsoft.com/fwlink/?LinkId=272062) 및 [LinkedIn](https://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1)에서 Office 365를 팔로우하면 고객이나 파트너가 Office 365에 대해 더 많은 정보를 얻을 수 있습니다. 이와 같이 쉽고 빠른 방법으로 Office 365에 대해 학습하는 방법을 통해 고객은 다른 사용자들의 의견을 듣고 자신의 의견과 트윗을 직접 추가할 수 있습니다. 모든 지원 관련 문의에 도움을 주기 위해 Microsoft와 관련된 Facebook 및 Twitter 활동은 Microsoft 지원 전문가가 직접 모니터링합니다. Office 365 커뮤니티 홈 페이지의 하단에는 가장 최근 Facebook 피드와 최근 트윗이 제공되며 고객과 파트너 사이에 매일 오고 가는 토론 내용을 확인할 수 있습니다. 
     
-    If you are using Office 365 operated by 21Vianet, you can use WeChat. See [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) and scroll to the bottom of the page for a QR code. 
+    21Vianet에서 운영하는 Office 365를 사용 중인 경우 WeChat을 사용할 수 있습니다. [21Vianet에서 운영하는 Office 365에 대한 기술, 결제 및 구독 지원 받기](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)를 참조하고 페이지 아래로 스크롤하여 QR 코드를 찾으세요. 
     
 ## <a name="languages"></a>언어
 
