@@ -56,7 +56,7 @@ MyAnalytics는 개인 생산성의 두 가지 주요 요인, 즉 시간과 사�
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
-Microsoft Planner is a tool that gives users a visual way to organize teamwork. Teams can create new plans, organize and assign tasks, share files, chat about what they're working on, set due dates, and update status. Microsoft Planner also offers the ability to associate documents with specific tasks, edit them together, and have conversations around tasks. To learn more, see [Introducing Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner is not yet available in [Office 365 Germany](office-365-germany.md).
+Microsoft Planner는 사용자에게 팀 작업을 구성하는 시각적인 방법을 제공하는 도구입니다. 팀은 새 계획을 만들고, 작업을 구성 및 할당하고, 파일을 공유하고, 진행 중인 작업에 대해 대화를 나누고, 기한을 설정하고, 상태를 업데이트할 수 있습니다. 또한 Microsoft Planner는 문서를 특정 작업과 연결하고, 팀이 문서를 함께 편집하고, 작업 관련 대화를 하는 기능도 제공합니다. 자세한 내용은 [Microsoft Planner 소개](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809)를 참조하세요. Planner는 [Office 365 Germany](office-365-germany.md)에서 아직 사용할 수 없습니다.
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
@@ -92,7 +92,7 @@ Microsoft 365의 그룹은 더 많은 공동 작업을 수행 하는 데 필요�
   
 ## <a name="office-365-video"></a>Office 365 비디오
 
-Office 365 Video is a secure, company-wide destination where you can upload, share and discover videos across your devices—powered by Microsoft Azure Media Services. Office 365 Video can help keep viewers engaged and informed, to communicate ideas broadly, and for organizations to be in unison. To learn more, see [Introducing Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
+Office 365 비디오는 장치 간에 비디오를 업로드, 공유 및 검색할 수 있는 안전한 회사 차원 대상으로, Microsoft Azure 미디어 서비스에서 제공합니다. Office 365 비디오를 통해 사용자는 계속해서 참여하고, 정보를 제공 받아 아이디어를 광범위하게 전달하여 조직이 다 함께 협력할 수 있도록 할 수 있습니다. 자세한 내용은 [Office 365 비디오 소개](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/)를 참조하세요.
   
 ## <a name="onenote-class-notebook"></a>OneNote 수업용 전자 필기장
 

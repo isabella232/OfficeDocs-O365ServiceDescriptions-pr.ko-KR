@@ -34,9 +34,9 @@ ms.locfileid: "45132592"
   
 ## <a name="site-mailboxes"></a>사이트 사서함
 
-Email and documents are traditionally kept in two unique and separate data repositories. Most teams collaborate by using both email and documents. The challenge is that email and documents are accessed by using different clients. This usually results in a reduction in user productivity and a degraded user experience.
+전자 메일과 문서는 일반적으로 두 가지 고유한 별도의 데이터 리포지토리에 보관됩니다. 대부분의 팀은 전자 메일과 문서를 사용하여 공동 작업을 수행합니다. 문제는 전자 메일과 문서가 여러 가지 클라이언트를 사용하여 액세스된다는 점입니다. 이에 따라 사용자 생산성이 감소하고 사용자 환경이 저하되는 경우가 많습니다.
   
-The site mailbox is a new concept in Exchange 2013 that attempts to solve this problem. Site mailboxes improve collaboration and user productivity by using the same client interface to allow access to both Microsoft SharePoint 2013 documents and Exchange email. A site mailbox functionally consists of SharePoint 2013 site membership (owners and members), shared storage through an Exchange 2013 mailbox for email messages and a SharePoint 2013 site for documents, and a management interface that addresses provisioning and life cycle needs.
+사이트 사서함은 이 문제를 해결하기 위해 시도되는 Exchange 2013의 새로운 개념입니다. 사이트 사서함은 동일한 클라이언트를 사용하여 Microsoft SharePoint 2013 문서와 Exchange 전자 메일에 대한 액세스를 허용하므로 공동 작업의 능률과 사용자 생산성을 향상합니다. 사이트 사서함의 기능은 SharePoint 2013 사이트 구성원(소유자 및 구성원), 전자 메일 메시지용 Exchange 2013 사서함 및 문서용 SharePoint 2013 사이트를 통한 공유 저장소, 프로비저닝 및 수명 주기 요구를 처리하는 관리 인터페이스 등으로 구성됩니다.
   
 > [!IMPORTANT]
 > 계획에 SharePoint가 포함 되어야 합니다. 사이트 사서함을 사용하려면 사용자에게 SharePoint와 Exchange 라이선스가 둘 다 있어야 합니다. 

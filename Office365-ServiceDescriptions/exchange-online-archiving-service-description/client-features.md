@@ -27,14 +27,14 @@ Microsoft Exchange Online 보관을 통해 사용자는 다양 한 장치 및 �
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook is a rich email program that includes support for calendaring, contacts, and tasks. Exchange Online Archiving supports Outlook 2013, Outlook 2010, and Outlook 2007. Key features include:
+Microsoft Outlook은 일정, 연락처 및 작업을 지원하는 기능이 포함된 유용한 전자 메일 프로그램입니다. Exchange Online Archiving에서는 Outlook 2013, Outlook 2010 및 Outlook 2007을 지원합니다. 주요 기능은 다음과 같습니다.
   
 - **외부에서 Outlook** 사용 Outlook Anywhere를 사용 하면 Outlook 사용자가 VPN 연결을 사용 하지 않아도 인터넷을 통해 Exchange 서버 및 Exchange Online 보관에 연결할 수 있습니다. Outlook과 Exchange Online Archiving 간의 통신은 RPC-over-HTTP Windows 네트워킹 구성 요소를 사용하여 SSL 보안 터널을 통해 수행됩니다.    
 - **자동 검색** Exchange 자동 검색 서비스는 Exchange Online 보관용으로 작동 하도록 Outlook을 구성 합니다. 자동 검색을 사용 하면 Outlook 사용자가 전자 메일 주소 및 암호를 사용 하 여 로그인 하는 처음으로 Exchange에서 직접 필요한 프로필 설정을 받을 수 있습니다. 
 
 Outlook 2010 이상 및 웹용 Outlook에서는 보존 및 보관 정책과 같은 관련 기능 뿐 아니라 보관 함의 모든 기능을 사용자에 게 제공 합니다.
   
-Outlook 2007 provides basic support for the archive, but not all archiving and compliance features are available in Outlook 2007. For example, with Outlook 2007, users cannot apply retention or archive policies to items in their mailboxes. They must rely on administrator-provisioned policies instead. Outlook 2007 users require the Office 2007 Cumulative Update for February 2011 to access the archive.
+Outlook 2007은 보관 사서함을 기본적으로 지원하지만 일부 보관 및 규정 준수 기능은 Outlook 2007에서 사용할 수 없습니다. 예를 들어 Outlook 2007에서는 사용자가 사서함의 항목에 보존 또는 보관 정책을 적용할 수 없습니다. 그 대신에 관리자가 프로비저닝한 정책을 사용해야 합니다. Outlook 2007 사용자의 경우 보관 사서함에 액세스하려면 2011년 2월 Office 2007 누적 업데이트가 필요합니다.
   
 > [!NOTE]
 > Exchange Online Archiving에서는 Outlook이 제공되지 않습니다. Microsoft 365 for enterprise (Microsoft Outlook 포함)는 일부 계획에 포함 되어 있으며 별도의 구독으로 구매할 수 있습니다. 자세한 내용은 [Microsoft 365 계획 옵션](../office-365-platform-service-description/office-365-plan-options.md)을 참조 하세요. Microsoft 365 for enterprise 용 앱에 대 한 자세한 내용은 [Office 응용 프로그램 서비스 설명을](../office-applications-service-description/office-applications-service-description.md)참조 하세요. 

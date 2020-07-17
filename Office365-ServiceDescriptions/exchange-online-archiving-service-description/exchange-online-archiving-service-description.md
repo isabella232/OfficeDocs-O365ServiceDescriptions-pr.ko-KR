@@ -60,7 +60,7 @@ Exchange Server에 대해 Exchange Online 보관을 사용 하려면 사용자 �
   
 ### <a name="user-subscriptions"></a>사용자 구독
 
-Each user who accesses the Exchange Online Archiving service must have an Exchange Online Archiving subscription. Each email archive subscription can be used only for storage of one user's messaging data.
+Exchange Online Archiving 서비스에 액세스하는 각 사용자가 Exchange Online Archiving 구독을 보유해야 합니다. 각 전자 메일 보관 사서함 구독은 사용자 한 명의 메시징 데이터를 저장하는 용도로만 사용할 수 있습니다.
   
 ## <a name="unlimited-archive-storage-quota"></a>무제한 보관 저장소 할당량
 

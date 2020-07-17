@@ -42,7 +42,7 @@ Word용 추가 기능은 Office 스토어에서 다운로드할 수 있습니다
   
 ## <a name="autotext"></a>상용구
 
-You can insert blocks of preformatted text using AutoText from your AutoText gallery. This is useful, for example, when you need to repeatedly enter the same large block of text and the text contains a lot of formatting. You create AutoText entries by adding selected text to the AutoText gallery. To learn more, see [Automatically insert text](https://go.microsoft.com/fwlink/?linkid=846739).
+상용구 갤러리에서 상용구를 사용하여 서식 설정된 텍스트의 블록을 삽입할 수 있습니다. 상용구는 텍스트의 동일한 큰 블록을 반복해서 입력해야 하고 텍스트에 많은 서식이 포함된 경우에 유용합니다. 선택한 텍스트를 상용구 갤러리에 추가하여 상용구 항목을 만듭니다. 자세한 내용은 [자동으로 텍스트 삽입](https://go.microsoft.com/fwlink/?linkid=846739)을 참조하세요.
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>찾아보기 및 전문적으로 디자인된 템플릿에서 시작
 
@@ -70,11 +70,11 @@ You can insert blocks of preformatted text using AutoText from your AutoText gal
   
 ## <a name="content-controls"></a>콘텐츠 컨트롤
 
-Content controls are individual controls that you can add and customize for use in templates, forms, and documents. To learn about content controls, see [Content controls](https://go.microsoft.com/fwlink/p/?LinkId=846741).
+콘텐츠 컨트롤은 템플릿, 양식 및 문서에서 사용하도록 추가하고 사용자 지정할 수 있는 개별 컨트롤입니다. 콘텐츠 컨트롤에 대한 자세한 내용은 [콘텐츠 컨트롤](https://go.microsoft.com/fwlink/p/?LinkId=846741)을 참조하세요.
   
 ## <a name="cover-pages"></a>표지
 
-Microsoft Word offers a gallery of convenient predesigned cover pages. You can simply choose a cover page and replace the sample text with your own.
+Microsoft Word는 미리 설계된 편리한 표지의 갤러리를 제공합니다. 간편하게 표지를 선택하고 샘플 텍스트를 직접 바꿀 수 있습니다.
   
 ## <a name="creation-of-advanced-document-elements"></a>고급 문서 요소 만들기
 
@@ -86,7 +86,7 @@ Microsoft Word offers a gallery of convenient predesigned cover pages. You can s
   
 ## <a name="document-translation"></a>문서 번역
 
-Translate documents directly in the browser. Even document comments are translated.
+문서를 브라우저에서 직접 번역합니다. 이 기능은 문서 주석까지도 번역해 줍니다.
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -126,7 +126,7 @@ OneDrive 또는 SharePoint에서 문서를 열 때 웹의 Word가 브라우저�
   
 ## <a name="index"></a>인덱스
 
-An index lists the terms and topics that are discussed in a document, along with the pages that they appear on. To create an index, you mark the index entries by providing the name of the main entry and the cross-reference in your document, and then you build the index.
+인덱스는 문서에 언급된 용어 및 주제와 함께 해당 내용이 표시된 페이지를 나열합니다. 인덱스를 만들려면 문서의 기본 항목 이름과 상호 참조를 제공하여 인덱스 항목을 표시한 다음 인덱스를 작성합니다.
   
 ## <a name="ink-editor"></a>잉크 편집기
 
@@ -184,7 +184,7 @@ Web 용 Word에서 IRM (정보 권한 관리)으로 보호 되는 문서를 표�
   
 ## <a name="preformatted-font-and-color-schemes"></a>서식 설정된 글꼴 및 색 구성표
 
-You can use themes to simplify the process of creating matching, professional-looking documents. Themes can be applied to tables, charts, shapes and diagrams to provide consistent fonts, effects, and color schemes.
+테마를 사용하여 일치하는 전문가 수준의 문서를 만드는 과정을 단순화할 수 있습니다. 테마를 테이블, 차트, 도형 및 다이어그램에 적용하여 일관된 글꼴, 효과 및 색 구성표를 제공할 수 있습니다.
   
 ## <a name="present-online"></a>온라인으로 프레젠테이션
 
@@ -212,7 +212,7 @@ Word에서 입력할 때 자동으로 맞춤법을 검사 하 고 철자가 잘�
   
 ## <a name="reference-tools"></a>참조 도구
 
-Bibliography, table of contents, and index features display in the document as expected in View mode. In Edit mode, they appear as placeholders that you can delete but not edit or update. Advanced reference tools, such as creating a bibliography, table of contents, index, or table of authorities, are only available in the Word desktop app.
+참고 문헌, 목차 및 인덱스 기능은 보기 모드에서 문서에 예상대로 표시됩니다. 편집 모드에서 이러한 기능은 삭제할 수 있지만 편집하거나 업데이트할 수 없는 자리 표시자로 표시됩니다. 참고 문헌, 목차, 인덱스, 관련 근거 목차와 같은 고급 참조 도구는 Word 데스크톱 앱에서만 사용할 수 있습니다.
   
 ## <a name="rendering-of-text-boxesshapes"></a>텍스트 상자/도형 렌더링
 
@@ -260,7 +260,7 @@ Bibliography, table of contents, and index features display in the document as e
   
 ## <a name="tap"></a>누르기
 
-Use the Tap feature to find and reuse content. Tap surfaces relevant files that you use most frequently, allowing you to focus on document creation rather than searching for files and information. For more information, see [Find and use the content you need](https://go.microsoft.com/fwlink/?linkid=825878).
+누르기 기능을 사용하여 콘텐츠를 찾고 재사용합니다. 가장 자주 사용하는 관련 파일을 눌러서 파일 및 정보를 검색하는 대신 문서 작성에 집중할 수 있습니다. 자세한 정보는 [원하는 콘텐츠 찾고 사용하기](https://go.microsoft.com/fwlink/?linkid=825878)를 참조하세요.
   
 ## <a name="tell-me"></a>표시
 
@@ -284,7 +284,7 @@ Active X 컨트롤, 포함된 OLR 개체 및 서명란은 보기 모드에서 �
   
 ## <a name="watermarks"></a>워터마크
 
-Watermarks are text or pictures placed behind the text in your document; for example, you can add text watermarks such as Draft or Confidential. Word has a gallery of watermarks to choose from, or you can create your own custom watermark, such as a company logo for your document. 
+워터 마크는 문서의 텍스트 뒤에 있는 텍스트 또는 그림입니다. 예를 들어 초안이나 기밀과 같은 텍스트 워터마크를 추가할 수 있습니다. Word에는 선택할 수 있는 워터마크 갤러리가 있거나 문서의 회사 로고와 같은 사용자 지정 워터마크를 만들 수 있습니다.  
   
 ## <a name="word-count"></a>단어 개수
 

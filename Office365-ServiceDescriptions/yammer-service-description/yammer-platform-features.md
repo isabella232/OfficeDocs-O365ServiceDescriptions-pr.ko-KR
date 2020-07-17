@@ -24,7 +24,7 @@ Yammer에서는 다음과 같은 Yammer 플랫폼 기능을 사용할 수 있습
  
 ## <a name="activity-stream-api"></a>활동 스트림 API
 
-Integrate existing enterprise business applications by adding data to the social graph. Drive discovery of activities taking place across all your existing business applications.
+데이터를 소셜 그래프에 추가하여 기존의 엔터프라이즈 비즈니스 응용 프로그램을 통합합니다. 기존의 모든 비즈니스 응용 프로그램에 걸쳐 수행될 작업에 대한 검색이 이루어집니다.
   
 ## <a name="browser-extension"></a>브라우저 확장
 

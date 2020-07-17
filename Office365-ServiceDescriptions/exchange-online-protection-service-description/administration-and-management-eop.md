@@ -34,7 +34,7 @@ EAC(Exchange 관리 센터)는 쉽게 사용할 수 있는 단일 통합형 관�
   
 ## <a name="remote-windows-powershell-access"></a>원격 Windows PowerShell 액세스
 
- Administrators can use Remote Windows PowerShell to perform management tasks from the command line. For more information about how to use Windows PowerShell, including information about creating a remote Shell session and documentation about each cmdlet, see [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266).
+ 관리자는 원격 Windows PowerShell을 사용하여 명령줄에서 관리 작업을 수행할 수 있습니다. 원격 Shell 세션 만들기와 각 cmdlet 설명서 관련 정보 등 Windows PowerShell의 사용 방법에 대한 자세한 내용은 [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266)을 참조하세요.
   
 ## <a name="feature-availability"></a>기능 가용성
 

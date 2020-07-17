@@ -22,7 +22,7 @@ ms.locfileid: "45132842"
 
 Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다. 여기에는 Exchange Online Protection을 제공 하는 계획 목록과 이러한 요금제의 기능 비교가 포함 되어 있습니다.
 
-Microsoft Exchange Online Protection (EOP) is a cloud-based email filtering service that helps protect your organization against spam and malware, and includes features to safeguard your organization from messaging-policy violations. EOP can simplify the management of your messaging environment and alleviate many of the burdens that come with maintaining on-premises hardware and software.
+Microsoft EOP(Exchange Online Protection)는 스팸 및 맬웨어로부터 조직을 보호하는 클라우드 기반 전자 메일 필터링 서비스로, 메시징 정책 위반으로부터 조직을 보호하는 기능을 포함합니다. EOP를 사용하면 메시징 환경을 쉽게 관리하고 온-프레미스 하드웨어 및 소프트웨어 유지 관리 시의 부담을 대부분 완화할 수 있습니다.
 
 다음 목록에서는 메시징 보호를 위해 EOP을 사용할 수 있는 기본 방법에 대해 설명 합니다.
 
@@ -66,7 +66,7 @@ Exchange Enterprise CAL with Services 라이선스에 대 한 자세한 내용�
 Exchange Enterprise CAL (서비스 라이선스 포함)이 있고 EOP를 프로 비전 하려는 경우에는 [Set up THE EOP service](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service)의 지침을 따르세요. 설정 단계는 EOP 독립 실행형 설정 단계와 동일합니다.
 
 > [!NOTE]
-> New features for Exchange Enterprise CAL with Services are deployed at the same time as Exchange Online, not EOP standalone. Be advised that the deployment schedules for EOP standalone and Exchange Online/Exchange Enterprise CAL with Services may be slightly different.
+> Exchange Enterprise CAL with Services의 새 기능은 EOP 독립 실행형이 아닌 Exchange Online과 같은 시기에 배포됩니다. EOP 독립 실행형과 Exchange Online/Exchange Enterprise CAL with Services의 배포 일정은 약간 다를 수도 있습니다.
 
 ## <a name="requirements-for-exchange-online-protection-eop"></a>EOP(Exchange Online Protection)에 대한 요구 사항
 
@@ -78,7 +78,7 @@ EOP의 제한에 대 한 내용은 [Exchange Online Protection 제한을](exchan
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>EOP(Exchange Online Protection) 계획에서의 기능 가용성
 
-Each feature is listed below. For more detailed information about EOP features, click the links in the table. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
+각 기능은 아래와 같습니다. EOP 기능에 대한 자세한 내용을 보려면 표에 있는 링크를 클릭하세요. Exchange Online이 언급된 경우 대개 Office 365 Enterprise 서비스 제품군을 지칭하는 것입니다.
 
 |||||
 |:-----|:-----|:-----|:-----|

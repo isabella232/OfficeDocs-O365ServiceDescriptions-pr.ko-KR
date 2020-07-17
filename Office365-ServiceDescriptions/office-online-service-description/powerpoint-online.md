@@ -124,7 +124,7 @@ PowerPoint에서 웹을 위한 잉크를 삽입할 수는 없지만, 웹의 Powe
   
 ## <a name="picture-cropping"></a>그림 자르기
 
-Improve the framing of a subject in a picture with the cropping tool. Simply click one of the cropping handles at the edge of the picture and drag it until you achieve the picture you want.
+자르기 도구를 사용하여 그림의 피사체 프레이밍을 향상시킵니다. 그림 가장자리의 자르기 핸들 중 하나를 클릭하여 원하는 그림이 될 때까지 끌면 됩니다.
   
 ## <a name="pictures"></a>그림
 
@@ -172,7 +172,7 @@ Word 아트 및 차트를 웹용 PowerPoint에 삽입할 수 없지만 웹용 Po
   
 ## <a name="share"></a>공유
 
-If your presentation is saved in a SharePoint document library, then your presentation is online and you can share it by sending a link instead of an email attachment. People with proper permissions can view it in their web browser or mobile device. Learn more about [sharing a presentation](https://go.microsoft.com/fwlink/?LinkId=272776).
+프레젠테이션을 SharePoint 문서 라이브러리에 저장하면 프레젠테이션이 온라인 상태이므로 전자 메일 첨부 파일이 아니라 링크를 보내서 프레젠테이션을 공유할 수 있습니다. 적절한 권한을 보유한 다른 사용자가 웹 브라우저나 모바일 장치에서 프레젠테이션을 볼 수 있습니다. 자세한 내용은 [프레젠테이션 공유](https://go.microsoft.com/fwlink/?LinkId=272776)를 참조하세요.
   
 ## <a name="slide-show"></a>슬라이드 쇼
 

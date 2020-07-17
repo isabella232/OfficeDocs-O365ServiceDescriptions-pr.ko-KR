@@ -26,11 +26,11 @@ Yammer에서는 다음과 같은 관리 및 보안 기능을 사용할 수 있�
 
 ## <a name="admin-private-content-mode"></a>관리 전용 콘텐츠 모드
 
-A verified admin of a Yammer network can view private messages and groups throughout the network.  Verified admins can see private content only when temporarily granting themselves access to private content to investigate issues.  For more information, see [Monitor private content in Yammer (verified admins)](https://go.microsoft.com/fwlink/?LinkId=627479).
+Yammer 네트워크의 확인된 관리자는 전체 네트워크에서 개인 메시지 및 그룹을 볼 수 있습니다. 확인된 관리자는 문제 조사를 위해 전용 콘텐츠에 대한 액세스 권한이 일시적으로 부여된 경우에만 전용 콘텐츠를 볼 수 있습니다. 자세한 내용은 [Yammer에서 전용 콘텐츠 모니터링(확인된 관리자)](https://go.microsoft.com/fwlink/?LinkId=627479)을 참조하세요.
 
 ## <a name="analytics"></a>분석
 
-Gain insights from network analytics to find out how employees are using Yammer. From usage metrics to member statistics, identify ways to drive growth and increase the value of your network.
+네트워크 분석을 통해 직원의 Yammer 사용 현황을 파악할 수 있습니다. 사용 메트릭에서 구성원 통계에 이르기까지의 분석을 통해 성장을 유도하고 네트워크의 가치를 향상시키는 방법을 알아봅니다.
 
 ## <a name="custom-network-branding"></a>사용자 지정 네트워크 브랜딩
 

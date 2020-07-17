@@ -29,7 +29,7 @@ Yammer에서는 다음과 같은 지원 기능을 사용할 수 있습니다.
 
 ## <a name="administrator-support"></a>관리자 지원
 
-Yammer Enterprise administrators are responsible for account maintenance and are authorized to communicate directly with the Microsoft Support team. If you're a Yammer Enterprise administrator searching for support, see [Microsoft Support](https://go.microsoft.com/fwlink/p/?LinkId=330922).
+Yammer Enterprise 관리자는 계정 유지 관리를 담당하며, Microsoft 지원 팀에 직접 연락할 수 있는 권한이 있습니다. 지원이 필요한 Yammer Enterprise 관리자는 [Microsoft 고객지원](https://go.microsoft.com/fwlink/p/?LinkId=330922)을 참조하세요.
 
 ## <a name="customer-support"></a>고객 지원
 
@@ -41,7 +41,7 @@ Microsoft FastTrack 서비스는 조직이 Microsoft 클라우드로 이동 하�
 
 ## <a name="support-features-across-yammer-plans"></a>Yammer 계획별 지원 기능
 
-Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which support features are available in each plan.
+조직의 요구 사항에 가장 잘 맞는 Yammer 계획을 찾는 데 도움이 필요하십니까? 다음 표를 참조하여 각 계획에서 사용 가능한 지원 기능을 확인할 수 있습니다.
   
 |**기능**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
@@ -51,7 +51,7 @@ Need help figuring out which Yammer plan best fits your organization's needs? Us
  
 ## <a name="technical-support-case-handling"></a>기술 지원 사례 처리
 
-Microsoft Support assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table. 
+예제 
   
 |**심각도 수준**|**설명**|**예제**|
 |:-----|:-----|:-----|

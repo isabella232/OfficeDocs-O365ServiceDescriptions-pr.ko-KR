@@ -30,11 +30,11 @@ Project Online에서는 다음과 같은 프로젝트 계획 기능을 사용할
   
 ## <a name="budget-planning"></a>Budget planning
 
-Budget planning allows you to compare current progress against a baseline that you set at the start of a project. Learn more about [earned value analysis](https://go.microsoft.com/fwlink/p/?LinkId=271336).
+예산 계획을 통해 프로젝트 시작 시점에 설정한 초기 계획과 현재 진행 상황을 비교할 수 있습니다. 자세한 내용은 [진척 상황 분석](https://go.microsoft.com/fwlink/p/?LinkId=271336)을 참조하세요.
   
 ## <a name="compare-project-versions"></a>프로젝트 버전 비교
 
-Compare two versions of a project. A report is created that shows what changed, such as the addition of new tasks.
+프로젝트의 두 버전을 비교합니다. 새 작업 추가와 같은 변경된 내용을 나타내는 보고서가 만들어집니다.
   
 ## <a name="deadlines"></a>마감
 

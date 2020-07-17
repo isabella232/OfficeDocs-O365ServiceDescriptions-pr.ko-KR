@@ -36,7 +36,7 @@ Yammer에서 웹을 지원 하기 위해 Office를 사용 하 여 yammer에 업�
 
 ## <a name="online-now"></a>지금 온라인
 
-See who's online and instantly start a private discussion with one or more co-workers. The contact list is automatically sorted by the people you interact with most.
+현재 온라인 상태인 동료를 확인하고 한 명 이상의 동료와 개인 토론을 즉석에서 시작합니다. 가장 자주 연락한 사람을 기준으로 연락처 목록이 자동으로 정렬됩니다.
 
 ## <a name="polls"></a>설문 조사
 

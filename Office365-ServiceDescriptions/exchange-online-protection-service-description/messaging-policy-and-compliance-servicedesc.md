@@ -55,7 +55,7 @@ EAC에서 DLP 정책을 구성하면 다음과 같은 작업이 가능합니다.
 - DLP 보고서의 문제 데이터를 검토하거나, 문제 보고서 생성 작업을 사용하여 자체 보고서를 추가합니다.
 
 > [!NOTE]
-> DLP policies are applied only to mail that passes in or out of the organization. Intra-organizational (internal) mail does not have DLP policies applied unless you run Exchange Server 2013 with DLP on-premises. This also applies to DLP policy tips, which inform users about potential policy violations before sensitive data is mistakenly sent to unauthorized recipients.
+> DLP 정책은 조직을 드나드는 메일에만 적용됩니다. DLP 온-프레미스가 포함된 Exchange Server 2013을 실행하는 경우 외에는 조직 내(내부) 메일에 DLP 정책이 적용되지 않습니다. 이는 중요한 데이터를 권한이 없는 받는 사람에게 실수로 보내기 전에 정책 위반 가능성을 사용자에게 알려주는 DLP 정책 팁의 경우에도 마찬가지입니다.
 
 DLP에 대 한 자세한 내용은 [Exchange Online의 데이터 손실 방지](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)를 참조 하세요.
 

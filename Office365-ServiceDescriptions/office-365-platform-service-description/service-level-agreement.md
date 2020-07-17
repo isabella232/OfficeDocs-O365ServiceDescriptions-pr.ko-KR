@@ -23,14 +23,14 @@ ms.locfileid: "45131782"
 
 ## <a name="microsoft-online-services-level-agreement"></a>Microsoft Online Services 서비스 수준 계약
 
-We provide financial backing to our commitment to achieve and maintain the service levels for each service. If we do not achieve and maintain the service levels for each service as described in the Service Level Agreement, then you might be eligible for a credit towards a portion of your monthly service fees. To learn more about our Service Level Agreements for the services, download the [Service Level Agreement for Microsoft Online Services](https://go.microsoft.com/fwlink/?linkid=272026). For overview information about system uptimes, as well as security, privacy, and compliance information, see [Transparent operations from Office 365](https://go.microsoft.com/fwlink/?linkid=845427).
+Microsoft에서는 각 서비스의 서비스 수준을 확보하고 유지 관리하기 위한 노력에 대해 재정적 지원을 제공합니다. 서비스 수준 약정에 설명된대로 각 서비스에 대한 서비스 수준을 달성하고 유지하지 않으면, 월간 서비스 요금 일부분에 대한 크레딧을 받을 수 있습니다. 서비스에 대한 Microsoft 서비스 수준 약정에 대한 자세한 내용은 [Microsoft Online Services의 서비스 수준 약정](https://go.microsoft.com/fwlink/?linkid=272026)을 참조하세요. 시스템 작동 시간, 보안, 개인 정보 및 규정 준수 정보에 대한 개요 정보는 [ Office 365의 투명 작업 ](https://go.microsoft.com/fwlink/?linkid=845427)을 참조하세요.
   
 ## <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
 21Vianet에서 운영하는 Office 365의 경우 [21Vianet 서비스 수준 계약](https://go.microsoft.com/fwlink/?linkid=846729) 및 [온라인 서비스 표준 계약 ](https://go.microsoft.com/fwlink/?linkid=846730)을 참조하세요. 
   
 > [!NOTE]
-> Office 365 operated by 21Vianet is a service offered and operated only in China. This service is powered by technology that Microsoft has licensed to 21Vianet. For more information, see [Learn about Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?linkid=846725). 
+> 21Vianet에서 운영하는 Office 365는 중국에서만 제공 및 운영되는 서비스입니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다. 자세한 내용은 [21Vianet에 의해 운영되는 Office 365 정보](https://go.microsoft.com/fwlink/?linkid=846725)를 참조하세요. 
   
 ## <a name="feature-availability"></a>기능 가용성
 

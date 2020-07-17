@@ -28,7 +28,7 @@ Yammer에서는 다음과 같은 프로필 기능을 사용할 수 있습니다.
 
 ## <a name="leaderboards"></a>리더보드
 
-Identify influential coworkers in your network. Leaderboards display people with the most messages, replied-to messages, and liked messages.
+인맥 중 영향력 있는 동료를 식별합니다. 리더보드에는 메시지, 회신 메시지 및 링크된 메시지가 가장 많은 사람이 표시됩니다.
 
 ## <a name="member-directory"></a>구성원 디렉터리
 

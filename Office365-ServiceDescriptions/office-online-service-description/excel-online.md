@@ -38,7 +38,7 @@ Web for excel (이전의 Excel Web App)은 Microsoft Excel 환경을 웹 브라�
 
 ## <a name="add-hyperlinks"></a>하이퍼링크 추가
 
-Link to web pages or open files on the web by adding a hyperlink in a cell. You can type the web address directly in the cell or use the Insert Hyperlink command.
+셀에 하이퍼링크를 추가하여 웹 페이지에 연결하거나 웹에 있는 파일을 엽니다. 셀에 직접 웹 주소를 입력하거나 하이퍼링크 삽입 명령을 사용할 수 있습니다.
 
 ## <a name="advanced-data-types-stocks-and-geography"></a>고급 데이터 형식: 증권 및 지리
 
@@ -46,7 +46,7 @@ Excel에서 주식 및 지리적 데이터를 가져올 수 있습니다. 셀에
   
 ## <a name="advanced-time-filtering-timeline-slicer"></a>Advanced time filtering (Timeline slicer)
 
-The Timeline control lets you filter modeled data. It's a visual way to view and change a continuous range of dates and filter pivot-based objects, such as PivotTables and PivotCharts.  
+시간 표시 막대 컨트롤을 사용하여 모델링된 데이터를 필터링할 수 있습니다. 눈으로 확인하면서 연속 날짜 범위를 표시 및 변경하고 피벗 테이블, 피벗 차트 등의 피벗 기반 개체를 필터링할 수 있는 방법입니다.  
   
 ## <a name="alignment"></a>맞춤
 
@@ -70,11 +70,11 @@ Excel에서 웹을 사용할 수 없습니다. Excel 데스크톱 응용 프로�
   
 ## <a name="autosum"></a>AutoSum
 
-Total a column or row of numbers by selecting the cells you want to sum and then double-click AutoSum. The result appears in the next blank cell.
+요약할 셀을 선택하여 숫자 열 또는 행의 합계를 계산하고 자동 요약을 두 번 클릭합니다. 다음 빈 셀에 결과가 나타납니다.
   
 ## <a name="calculations"></a>계산
 
-You can use Excel to perform a variety of automatic, manual, and iterative calculations. Excel uses functions to perform these calculations. For more information, see [Excel functions by category](https://go.microsoft.com/fwlink/?linkid=847459).
+Excel을 사용하여 다양한 자동, 수동 및 반복 계산을 수행할 수 있습니다. Excel 함수를 사용하여 이러한 계산을 수행할 수 있습니다. 자세한 내용은 [범주별 Excel 함수](https://go.microsoft.com/fwlink/?linkid=847459)를 참조하세요.
 
 ## <a name="cell-references-in-formulas"></a>수식의 셀 참조
 
@@ -137,7 +137,7 @@ Dropbox는 클라우드 저장소, 파일 동기화, 개인 클라우드 및 클
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>웹 또는 블로그 페이지에 통합 문서 포함 (OneDrive)
 
-If you store an Excel workbook on OneDrive.com, you can embed it directly in a blog or website. Your readers can sort, filter, and calculate data right there, and if you update the workbook in OneDrive, they'll see the latest changes the next time they refresh the page. Learn more about [embedding an Excel workbook on your blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
+Excel 통합 문서를 OneDrive.com에 저장한 경우 블로그나 웹 사이트에 직접 포함할 수 있습니다. 독자는 여기에서 직접 데이터를 정렬, 필터링하고 계산할 수 있을 뿐만 아니라 OneDrive에서 통합 문서를 업데이트하면 다음에 페이지를 새로 고칠 때 최신 변경 사항을 볼 수 있습니다. 자세한 내용은 [블로그에 Excel 통합 문서 포함](https://go.microsoft.com/fwlink/p/?LinkId=271673)을 참조하세요.
   
 ## <a name="external-references-links"></a>외부 참조(링크)
 
@@ -193,7 +193,7 @@ Excel의 아이디어는 높은 수준의 시각적 요약, 추세 및 패턴을
   
 ## <a name="insert-charts"></a>Insert charts
 
-Create a chart to visually represent your data. Choose from a variety of chart types, such as column, line, pie, or bar charts. Learn more about [available chart types](https://go.microsoft.com/fwlink/p/?LinkId=273899).
+차트를 만들어서 데이터를 시각적으로 표시합니다. 막대형, 선형, 원형 또는 막대 차트와 같은 다양한 차트 유형 중에서 선택합니다. 자세한 내용은 [사용 가능한 차트 유형](https://go.microsoft.com/fwlink/p/?LinkId=273899)을 참조하십시오.
   
 ## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
@@ -221,7 +221,7 @@ Excel에서 웹에 대해 명명 된 범위를 만들 수는 없지만 excel의 
 
 ## <a name="number-formatting"></a>숫자 서식
 
-Change the format of numbers. Pick a format such as Currency or Short Date from a list of formats, change the decimal places, or insert a thousands separator.
+숫자 형식을 변경합니다. 형식 목록에서 통화 또는 간단한 날짜와 같은 형식을 선택하거나 소수 자릿수를 변경하거나 천 단위 구분 기호를 삽입합니다.
   
 ## <a name="office-add-ins"></a>Office 추가 기능
 
@@ -285,7 +285,7 @@ Excel에서 웹을 사용할 수 없습니다. Excel 데스크톱 앱이 컴퓨�
   
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 
-Want your own copy of the workbook? Use the Save As command on the File tab, or right-click the workbook's name in its folder and use the Download command to send a copy to your computer.
+통합 문서의 복사본이 필요할 수 있습니다. 파일 탭에서 다른 이름으로 저장 명령을 사용하거나, 폴더에서 통합 문서 이름을 마우스 오른쪽 단추로 클릭하고 다운로드 명령을 사용하여 복사본을 컴퓨터로 보냅니다.
 
 ## <a name="sensitivity-labels"></a>민감도 레이블
 

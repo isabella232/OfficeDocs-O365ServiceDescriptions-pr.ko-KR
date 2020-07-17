@@ -20,13 +20,13 @@ ms.locfileid: "45132393"
 
 Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와 차별화 된 옵션입니다. 이를 통해 독일에서 업계 최고의 생산성 서비스를 제공 하는 스페인어 (유럽 연합) 및 상주 (유럽 자유 무역 협회)의 디지털 작업에 대 한 요구 사항을 해결 하는 데 도움이 되 고 독일어 데이터를 사용 하 여 독일 및 엄격한 데이터 액세스 및 제어 조치를 수행 합니다.
 
-The data trustee, T-Systems International, an independent German company and subsidiary of Deutsche Telekom, controls physical and logical access to customer data. Customer data cannot be accessed without approval from or supervision by the data trustee, which is governed by German law.
+Deutsche Telekom의 독립적인 독일 회사이자 자회사인 T-Systems International의 데이터 트러스트를 받을 대상은 고객 데이터로의 실제 및 논리적 액세스를 제어합니다. 고객 데이터는 독일 법에 제어되는 데이터 트러스트를 받을 대상의 승인이나 감독 없이는 액세스할 수 없습니다.
 
 고객의 요구 사항에 대 한 이러한 발전에 따라 독일의 클라우드 전략은 독일에서 글로벌 클라우드 제품과 일치 하는 새 클라우드 지역 제공에 초점을 맞춥니다. 이 포커스를 사용 하면 더 이상 새 고객을 수락 하거나 현재 사용 가능한 Microsoft 클라우드 독일에서 새 서비스를 배포할 수 없습니다. 기존 고객은 현재 사용 가능한 최신 클라우드 서비스를 계속 사용할 수 있으며, 필요한 보안 업데이트를 유지 합니다. [Office 365 독일에 대해 알아봅니다](https://support.office.com/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
 
 ## <a name="service-availability-for-each-plan"></a>각 계획의 서비스 가용성
 
-Each Office 365 Germany plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
+각 Office 365 Germany 계획에는 Exchange Online, SharePoint Online 등의 여러 개별 서비스가 포함됩니다. 다음 표에는 각 Office 365 계획에서 사용 가능한 서비스가 나와 있습니다.
 
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -538,7 +538,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 
 ## <a name="project-online-features"></a>Project Online 기능
 
-The following table lists the Project Online features that are available across Office 365 Germany plans. To learn more aboutProject Online, see [Getting Started with Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
+다음 표에서는 Office 365 Germany 계획에서 사용할 수 있는 Project Online 기능을 보여 줍니다. Project Online에 대한 자세한 내용은 [Project Online 시작](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)을 참조하세요.
 
 ||||
 |:-----|:-----|:-----|
@@ -549,7 +549,7 @@ The following table lists the Project Online features that are available across 
 
 ## <a name="sharepoint-online-features"></a>SharePoint Online 기능
 
-All Office 365 plans include the SharePoint Online service, but not all plans support all SharePoint features. The following table lists features that are available across Office 365 Germany plans.
+모든 Office 365 계획에는 SharePoint Online 서비스가 포함되지만 모든 계획에서 SharePoint 기능을 모두 지원하는 것은 아닙니다. 다음 표에서는 Office 365 Germany 계획에서 사용할 수 있는 기능을 보여 줍니다.
 
 ****
 
@@ -849,7 +849,7 @@ All Office 365 plans include the SharePoint Online service, but not all plans su
 |Office Communications Server 2007 R2 및 Lync Server 2010(IM, 현재 상태, 오디오, 비디오, 회의)|예|아니오|있음|예|예|예|아니요|
 |XMPP(Google Talk 등에서 사용됨) 및 Sametime 페더레이션|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Skype 페더레이션|<sup>6</sup> 없음|아니요|<sup>6</sup> 없음|<sup>6</sup> 없음|<sup>6</sup> 없음|<sup>6</sup> 없음|아니요|
-|AOL and Yahoo! federation|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
+|AOL 및 Yahoo! 페더레이션|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**[비즈니스 온라인 모임에 대 한 Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |애드혹 및 오디오 회의 예약|예|예|예|예|예|예|아니요|
 |애드혹 및 비디오 회의 예약|예|예|예|예|예|예|아니요|

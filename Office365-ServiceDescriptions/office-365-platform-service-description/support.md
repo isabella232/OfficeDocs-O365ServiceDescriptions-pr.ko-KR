@@ -70,13 +70,13 @@ Microsoft 365 구독에 대 한 기술 지원은 기본 설치, 설정 및 일�
   
 ### <a name="technical-support-case-handling"></a>기술 지원 사례 처리
 
-Microsoft assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table.
+Microsoft에서는 문제 유형 및 고객 영향의 평가에 따라 사례가 열릴 때 사례의 심각도 수준을 지정합니다. 다음 표에는 문제 유형 및 심각도 수준의 예가 나와 있습니다.
   
 |**심각도 수준**|**운영 및 지원 설명**|**예제**|
 |:-----|:-----|:-----|
-|Sev A(중요)  <br/> |One or more services aren't accessible or are unusable. Production, operations, or deployment deadlines are severely affected, or there will be a severe impact on production or profitability. Multiple users or services are affected.  <br/> | 메일 보내기 또는 받기에 광범위한 문제가 있습니다.  <br/>  SharePoint 사이트가 다운됩니다.  <br/>  일부 사용자가 인스턴트 메시지를 보내거나 비즈니스용 Skype 회의를 참가 또는 예약하거나 비즈니스용 Skype 호출을 수행할 수 없습니다.  <br/> |
-|Sev B(높음)  <br/> |The service is usable but in an impaired fashion. The situation has moderate business impact and can be dealt with during business hours. A single user, customer, or service is partially affected.  <br/> | Outlook의 보내기 단추가 잘못 표시됩니다.  <br/>  EAC(Exchange 관리 센터)에서는 설정할 수 없지만 PowerShell에서 설정할 수 있습니다.  <br/> |
-|Sev C(중요하지 않음)  <br/> |The situation has minimal business impact. The issue is important but does not have a significant current service or productivity impact for the customer. A single user is experiencing partial disruption, but an acceptable workaround exists.  <br/> | 만료되지 않는 사용자 암호 설정하는 방법입니다.  <br/>  Exchange Online의 연락처 정보를 삭제할 수 없습니다.  <br/> |
+|Sev A(중요)  <br/> |하나 이상의 서비스에 액세스할 수 없거나 서비스를 사용할 수 없습니다. 생산, 운영 또는 배포 마감일이 심각한 영향을 받거나 생산이나 수익성에 심각한 영향이 있을 수 있습니다. 여러 사용자나 서비스가 영향을 받습니다.  <br/> | 메일 보내기 또는 받기에 광범위한 문제가 있습니다.  <br/>  SharePoint 사이트가 다운됩니다.  <br/>  일부 사용자가 인스턴트 메시지를 보내거나 비즈니스용 Skype 회의를 참가 또는 예약하거나 비즈니스용 Skype 호출을 수행할 수 없습니다.  <br/> |
+|Sev B(높음)  <br/> |이 서비스를 사용할 수 있지만 기능이 제한적입니다. 이 상황은 비즈니스에 중간 정도의 영향을 미치며 업무 시간 중에 처리될 수 있습니다. 단일 사용자, 고객 또는 서비스가 부분적으로 영향을 받습니다.  <br/> | Outlook의 보내기 단추가 잘못 표시됩니다.  <br/>  EAC(Exchange 관리 센터)에서는 설정할 수 없지만 PowerShell에서 설정할 수 있습니다.  <br/> |
+|Sev C(중요하지 않음)  <br/> |이 상황은 비즈니스에 최소한의 영향을 미칩니다. 이 문제는 중요하지만 고객에 대한 현재 서비스나 생산성에 큰 영향을 미치지 않습니다. 단일 사용자에게 부분적인 중단이 발생하지만 적절한 해결 방법이 있습니다.  <br/> | 만료되지 않는 사용자 암호 설정하는 방법입니다.  <br/>  Exchange Online의 연락처 정보를 삭제할 수 없습니다.  <br/> |
 
 ### <a name="technical-support-initial-response-times"></a>기술 지원 초기 응답 시간
 
@@ -105,7 +105,7 @@ Microsoft assigns a severity level to a case when it is opened, based on an asse
   
 ## <a name="shared-support-responsibilities"></a>공유 지원 책임
 
-Microsoft understands that receiving timely technical support from qualified professionals is a key aspect of cloud services. Equally important is the critical role that the customer's IT department plays in the support of its users.
+Microsoft는 자격 있는 전문가로부터 시기 적절한 기술 지원을 받는 것이 클라우드 서비스의 주요 특징이라고 이해하고 있습니다. 고객의 IT 부서가 해당 사용자 지원 시 수행하는 중요 역할도 똑같이 중요합니다.
   
 ### <a name="administrator-role-and-responsibilities"></a>관리자 역할 및 책임
 
@@ -131,7 +131,7 @@ Office 365 Enterprise 및 Microsoft 365 앱 계획을 사용 하 여 다양 한 
 
 - Microsoft의 셀프 서비스 지원 리소스를 사용하여 지원 문제를 해결합니다.
 
-The administrator is expected to provide initial assistance for the customer's users. However, if the administrator is unable to resolve issues with the help of self-service support resources, he or she should contact [Technical support](support.md#technical-support).
+관리자는 고객의 사용자에 대한 초기 지원을 제공해야 합니다. 그러나 관리자가 셀프 서비스 지원 리소스를 사용하여 문제를 해결할 수 없는 경우에는 [기술 지원](support.md#technical-support)에 문의해야 합니다.
   
 ### <a name="microsoft-support-role"></a>Microsoft 고객지원 역할
 
@@ -177,7 +177,7 @@ Microsoft에 포함 된 지원 서비스는 많은 고객의 요구를 충족 �
 
 ### <a name="partners"></a>파트너
 
-You can select a Microsoft partner and delegate administrative functions, including creating service request tickets. For more information, see the [Partners](partners.md) service description and [Add, change, or delete a subscription advisor partner](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
+Microsoft 파트너를 선택하여 서비스 요청 티켓 작성 등의 관리 기능을 위임할 수 있습니다. 자세한 내용은 [파트너](partners.md) 서비스 설명 및 [구독 관리자 파트너 추가, 변경, 삭제](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide)를 참조하세요.
   
 ### <a name="developers"></a>개발자
 
