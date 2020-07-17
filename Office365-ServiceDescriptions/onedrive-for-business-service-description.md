@@ -1,8 +1,7 @@
 ---
 title: OneDrive 서비스 설명
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 어떤 계획에서 어떤 OneDrive 기능을 사용할 수 있는지 확인합니다.
-ms.openlocfilehash: 860010cab2fb7a1c15f7335fb5d4aab2ffc3b557
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: d838b4759514bd993e01d2b2aa9381677d482086
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213930"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131292"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 서비스 설명
 
@@ -50,9 +49,9 @@ OneDrive 동기화 앱 및 모바일 앱에 대한 요구 사항을 검토하려
 - 엔터프라이즈용 Microsoft 365 앱
 - Office 365 Enterprise E1
 - Office 365 Government G1
-- Office 365 비영리 사업 기초
-- Office 365 비영리 사업 프리미엄
-- Office 365 Nonprofit E1
+- Microsoft 365 Business Basic(비영리)
+- Microsoft 365 Business Standard(비영리)
+- Office 365 E1(비영리)
 - 비즈니스용 OneDrive 요금제 1
 - SharePoint Online 요금제 1
 - Microsoft 365 Business Premium
@@ -68,8 +67,8 @@ OneDrive 동기화 앱 및 모바일 앱에 대한 요구 사항을 검토하려
 - Office 365 A5
 - Office 365 US Government G3
 - Office 365 US Government G5
-- Office 365 Nonprofit E3
-- Office 365 Nonprofit E5
+- Office 365 E3(비영리)
+- Office 365 E5(비영리)
 - 비즈니스용 OneDrive 요금제 2
 - SharePoint Online 요금제 2
 - Microsoft 365 Enterprise E3
@@ -78,8 +77,8 @@ OneDrive 동기화 앱 및 모바일 앱에 대한 요구 사항을 검토하려
 - Microsoft 365 A5
 - Microsoft 365 US Government G3
 - Microsoft 365 US Government G5
-- Microsoft 365 E3 for Nonprofit
-- Microsoft 365 E5 for Nonprofit
+- Microsoft 365 E3(비영리)
+- Microsoft 365 E5(비영리)
 
 > [!NOTE]
 > 기본 OneDrive 저장소 공간을 늘리려면 먼저 사용자에게 하나 이상의 라이선스를 할당해야 합니다. 
