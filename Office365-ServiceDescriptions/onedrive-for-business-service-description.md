@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 어떤 계획에서 어떤 OneDrive 기능을 사용할 수 있는지 확인합니다.
-ms.openlocfilehash: d838b4759514bd993e01d2b2aa9381677d482086
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 523d3effdcaede87ebe3d69bdb43681d8ce4bad4
+ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131292"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45154406"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 서비스 설명
 
@@ -40,6 +40,8 @@ OneDrive 동기화 앱 및 모바일 앱에 대한 요구 사항을 검토하려
 **2GB**
 
 - Office 365 Enterprise F3
+- Microsoft 365 F1
+- Microsoft 365 F3
 
 **1TB**
 
