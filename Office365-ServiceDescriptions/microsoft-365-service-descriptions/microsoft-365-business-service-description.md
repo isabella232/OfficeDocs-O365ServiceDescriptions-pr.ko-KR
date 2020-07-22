@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium은 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 활용 하 여 최고의 생산성을 제공 하는 통합 솔루션입니다. 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다.
-ms.openlocfilehash: fbeae5678143d78138b71fe842c40a9969951531
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 429629deddd4565332e8d429db72da580beaa971
+ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132562"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45201562"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 Business Premium 서비스 설명
 
@@ -59,29 +59,29 @@ Microsoft 365 Business Premium에는 기본적으로 microsoft 365 Business Stan
 |Office 365 Advanced Threat Protection 계획 1 <br/> |아니요  <br/> |예<sup>7</sup> <br/> |
 |보안 점수<sup>4</sup> <br/> |예  <br/> |예  <br/> |
 |Office 365 Advanced Threat Protection Plan 2 <br/> |아니요  <br/> |아니요 <br/> |
-|[ID 및 액세스 관리](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> 전체 Azure AD Premium P1은 Microsoft 365 Business Premium 고객에 게 곧 제공 될 예정입니다. 자세한 내용은 [이 블로그 게시물](https://aka.ms/aadp1smbblog)을 참조 하세요. <sup>8</sup> <br/>|**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Azure MFA(Multi-Factor Authentication)  <br/> |아니요  <br/> |예<sup>11</sup>  <br/> |예  <br/> |
-|관리 단위  <br/> |아니요  <br/> |예<sup>11</sup>  <br/> |예  <br/> |
-|Cloud app discovery  <br/> |아니요  <br/> |예<sup>11</sup>  <br/> |예  <br/> |
-|동적 그룹  <br/> |아니요  <br/> |예<sup>11</sup>  <br/> |예  <br/> |
+|**Azure AD Premium P1은 Microsoft 365 Business Premium 고객에 게 제공 됩니다.**<br/>|**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|Azure MFA(Multi-Factor Authentication)  <br/> |아니오  <br/> |예 <br/> |예  <br/> |
+|관리 단위  <br/> |아니오  <br/> |예 <br/> |예  <br/> |
+|Cloud app discovery  <br/> |아니오  <br/> |예 <br/> |예  <br/> |
+|동적 그룹  <br/> |아니오  <br/> |예  <br/> |예  <br/> |
 |클라우드 id에 대 한 셀프 서비스 암호 재설정  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|온-프레미스 AD 쓰기 저장과 함께 셀프 서비스 암호 재설정  <br/> |아니요  <br/> |예<sup>10</sup>  <br/> |예  <br/> |
-|온-프레미스 디렉터리와 Azure AD (장치 쓰기 복구) 간에 장치 개체 양방향 동기화  <br/> |아니요  <br/> |예<sup>10</sup>  <br/> |예  <br/> |
-|조건부 액세스 (그룹, 위치 또는 장치 상태 기준)  <br/> |아니요  <br/> |예<sup>10</sup>  <br/> |예  <br/> |
+|온-프레미스 AD 쓰기 저장과 함께 셀프 서비스 암호 재설정  <br/> |아니요  <br/> |예<sup>9</sup>  <br/> |예  <br/> |
+|온-프레미스 디렉터리와 Azure AD (장치 쓰기 복구) 간에 장치 개체 양방향 동기화  <br/> |아니요  <br/> |예<sup>9</sup>  <br/> |예  <br/> |
+|조건부 액세스 (그룹, 위치 또는 장치 상태 기준)  <br/> |아니요  <br/> |예<sup>9</sup>  <br/> |예  <br/> |
 |회사 브랜딩 (로그온 페이지/액세스 패널 사용자 지정)  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|응용 프로그램 프록시  <br/> |아니요  <br/> |예<sup>10</sup>  <br/> |예  <br/> |
-|MIM (Microsoft Identity Manager) 사용자 CAL  <br/> |아니요  <br/> |예<sup>10</sup>  <br/> |예  <br/> |
-|연결 상태  <br/> |아니요  <br/> |예<sup>10</sup>  <br/> |예  <br/> |
+|응용 프로그램 프록시  <br/> |아니요  <br/> |예<sup>9</sup>  <br/> |예  <br/> |
+|MIM (Microsoft Identity Manager) 사용자 CAL  <br/> |아니요  <br/> |예<sup>9</sup>  <br/> |예  <br/> |
+|연결 상태  <br/> |아니요  <br/> |예<sup>9</sup>  <br/> |예  <br/> |
 |SLA 99.9%  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[장치 및 응용 프로그램 관리](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business Premium에는 iOS, Android, Mac OS 및 기타 플랫폼 간 장치 관리에 대 한 전체 Intune 기능이 포함 되어 있습니다. <sup>9</sup> <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|[장치 및 응용 프로그램 관리](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business Premium에는 iOS, Android, Mac OS 및 기타 플랫폼 간 장치 관리에 대 한 전체 Intune 기능이 포함 되어 있습니다. <sup>8</sup> <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Pc, Mac 및 모바일 장치에 대 한 Intune MDM (모바일 장치 관리)<sup>5</sup> <br/> |아니오  <br/> |예  <br/> |예  <br/> |
 |MDM (모바일 장치 관리) 자동 등록  <br/> |아니오  <br/> |예  <br/> |예  <br/> |
-|Office 앱 및 LOB 앱 용 Intune MAM (모바일 응용 프로그램 관리)<sup>8</sup> <br/> |아니오  <br/> |예  <br/> |예  <br/> |
+|Office 앱 및 LOB 앱 용 Intune MAM (모바일 응용 프로그램 관리)<br/> |아니오  <br/> |예  <br/> |예  <br/> |
 |Windows 업데이트 관리, Defender, 방화벽 정책<sup>5</sup> <br/> |아니오  <br/> |예  <br/> |예  <br/> |
 |데이터 보호-선택적 지우기  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |정책에 대 한 대상 SG (보안 그룹)  <br/> |아니오  <br/> |예  <br/> |예  <br/> |
 |등록 한 Windows 10 장치에 Office 앱 설치  <br/> |아니오  <br/> |예  <br/> |예  <br/> |
-|Windows Defender 구성  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|Windows Defender 구성  <br/> |아니오  <br/> |예  <br/> |예  <br/> |
 |장치 프로필 및 보안 구성<sup>5</sup> 배포 <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |Azure AD 조인이 포함 된 Windows 10 용 엔터프라이즈 상태 로밍  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |셀프 서비스 BitLocker 복구  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
@@ -89,7 +89,7 @@ Microsoft 365 Business Premium에는 기본적으로 microsoft 365 Business Stan
 
 |||
 |:-----|:-----|
-|**Windows 10 Pro 관리** <br/>Windows 7 및 8.1 Professional에 사용이 허가 된 장치가 있는 경우 Microsoft 365 Business Premium을 통해 Windows 10 Pro로 업그레이드할 수 있습니다. <sup>10</sup> <br/>|**Microsoft 365 Business Premium** <br/> |
+|**Windows 10 Pro 관리** <br/>Windows 7 및 8.1 Professional에 사용이 허가 된 장치가 있는 경우 Microsoft 365 Business Premium을 통해 Windows 10 Pro로 업그레이드할 수 있습니다. <sup>9</sup> <br/>|**Microsoft 365 Business Premium** <br/> |
 |Windows AutoPilot을 사용한 간소화 된 배포  <br/> |예  <br/> |
 |구독 활성화  <br/> |예  <br/> |
 |유휴 상태에 있는 장치 화면의 구성 제어  <br/> |예  <br/> |
@@ -112,7 +112,5 @@ Microsoft 365 Business Premium에는 기본적으로 microsoft 365 Business Stan
 Microsoft 365 관리 센터에 기본 제공 되는 간소화 된 Windows 10 장치 관리 <sup>5 개</sup> Intune, Android, macOS 및 기타 플랫폼 간 장치 관리 기능 (장치 관리 관리 센터에 기본 제공 됨) 또한 Microsoft 365 Business Premium에서 사용 하도록 허가 되었습니다. 타사 앱 및 WiFi 프로필 및 VPN 인증서와 같은 항목의 구성은 장치 관리 관리 센터 에서도 관리할 수 있습니다. <br/>
 <sup>6</sup> 이 계획은 비디오 포털, 음성 텍스트 기록, 심층 검색 및 얼굴 검색을 포함 하는 Microsoft Stream 요금제 2와 함께 제공 됩니다.<br/>
 <sup>7</sup> Microsoft 365에는 Office 365 Advanced Threat Protection 계획 1이 제공 됩니다. 자세한 내용은 [Microsoft 365 Business Premium 보안 및 규정 준수 기능](https://docs.microsoft.com/microsoft-365/business/security-features)을 참조 하세요.<br/>
-<sup>8</sup> Microsoft 365 Business Premium에는 ad 쓰기 백, Azure MFA (multi-factor Authentication) 및 조건부 액세스를 포함 하는 셀프 서비스 암호 재설정 기능과 함께 다음과 같은 Azure AD Premium P1 기능이 있습니다. Azure AD Premium P1의 전체는 포함 되지 않습니다.</br>
-<sup>9</sup> Microsoft 365 Business Premium 구독자에는 IOS, Android, macos 및 기타 플랫폼 간 장치 관리를 위해 전체 Intune 기능을 사용할 수 있는 라이선스가 있습니다. Microsoft 365 Business Premium의 관리 센터에서 사용할 수 없는 기능은 타사 앱 관리 및 WiFi 프로필의 구성, VPN 인증서 등은 전체 Intune 콘솔에서 관리할 수 있습니다.</br>
-<sup>10</sup> windows 7 및 8.1 Professional에 사용이 허가 된 장치가 있는 경우 Microsoft 365 Business Premium을 통해 Windows 10 Pro로 업그레이드할 수 있습니다. Microsoft 365 Business Premium을 사용 하면 [Windows Pro에서 사용 하도록 설정 된 Microsoft Defender 보안 기능만](https://go.microsoft.com/fwlink/p/?linkid=2089903)얻을 수 있을 뿐만 아니라, 웹 기반 위협에 대 한 네트워크 보호와 같은 프리미엄 기능에 액세스 하 고 침입 방지 규칙을 호스트 하 여 랜 섬 웨어를 완화할 수 있습니다. Microsoft 365 Business Premium 계정을 설정 하는 경우 앱 보호 및 장치 구성 설정을 선택 합니다. 이러한 설정에 따라 디바이스에서 Azure Active Directory에 참가할 때 자동으로 적용 되는 정책이 결정 됩니다.</br>
-<sup>11</sup> FULL Azure AD Premium P1은 Microsoft 365 Business Premium 고객에 게 곧 제공 될 예정입니다. 자세한 내용은 [이 블로그 게시물](https://aka.ms/aadp1smbblog)을 참조 하세요.
+<sup>8</sup> Microsoft 365 Business Premium 구독자에는 IOS, Android, macos 및 기타 플랫폼 간 장치 관리에 대해 전체 Intune 기능을 사용할 수 있는 라이선스가 있습니다. Microsoft 365 Business Premium의 관리 센터에서 사용할 수 없는 기능은 타사 앱 관리 및 WiFi 프로필의 구성, VPN 인증서 등은 전체 Intune 콘솔에서 관리할 수 있습니다.</br>
+<sup>9</sup> windows 7 및 8.1 Professional에 사용이 허가 된 장치가 있는 경우 Microsoft 365 Business Premium을 통해 Windows 10 Pro로 업그레이드할 수 있습니다. Microsoft 365 Business Premium을 사용 하면 [Windows Pro에서 사용 하도록 설정 된 Microsoft Defender 보안 기능만](https://go.microsoft.com/fwlink/p/?linkid=2089903)얻을 수 있을 뿐만 아니라, 웹 기반 위협에 대 한 네트워크 보호와 같은 프리미엄 기능에 액세스 하 고 침입 방지 규칙을 호스트 하 여 랜 섬 웨어를 완화할 수 있습니다. Microsoft 365 Business Premium 계정을 설정 하는 경우 앱 보호 및 장치 구성 설정을 선택 합니다. 이러한 설정에 따라 디바이스에서 Azure Active Directory에 참가할 때 자동으로 적용 되는 정책이 결정 됩니다.</br>

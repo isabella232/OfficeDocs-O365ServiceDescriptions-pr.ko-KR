@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: 5586505bc7d4269fefa2d8c96d626ffc872afeea
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: c5fd2ac24f69dae3e87cf273e32cc5fd2eec3170
+ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132992"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45201572"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -103,7 +103,7 @@ Microsoft Exchange Online 제한은 다음 범주 중 하나에 속합니다.
 |**기능**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |사용자 사서함|50GB|50GB|50 GB|100GB|100GB|2GB|
 |보관 사서함<sup>7, 8</sup>|50GB|50GB|50GB|Unlimited<sup>1</sup>|Unlimited<sup>1</sup>|사용할 수 없음<sup>4</sup>|
-|공유 사서함<sup>10</sup>|50GB<sup>2</sup>|50GB<sup>2</sup>|50GB<sup>2</sup>|50GB<sup>2,9</sup>|50GB<sup>2,9</sup>|50GB<sup>2</sup>|
+|공유 사서함<sup>10</sup>|50GB<sup>2</sup>|50GB<sup>2</sup>|50GB<sup>2</sup>|50/100 GB<sup>2, 9</sup>|50/100 GB<sup>2, 9</sup>|50GB<sup>2</sup>|
 |리소스 사서함|50GB<sup>3</sup>|50GB<sup>3</sup>|50GB<sup>3</sup>|50GB<sup>3,9</sup>|50GB<sup>3,9</sup>|50GB<sup>3</sup>|
 |사이트 사서함<sup>5</sup>|50 GB|50GB|50GB|50GB|50GB|사용할 수 없음|
 |공용 폴더 사서함|50GB<sup>6</sup>|50GB<sup>6</sup>|50GB<sup>6</sup>|100GB<sup>6</sup>|100GB<sup>6</sup>|사용할 수 없음|

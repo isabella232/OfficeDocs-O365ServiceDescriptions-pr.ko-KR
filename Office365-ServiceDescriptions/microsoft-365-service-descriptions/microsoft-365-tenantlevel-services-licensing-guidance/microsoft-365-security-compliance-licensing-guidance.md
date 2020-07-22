@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: 18df87a9bf867c68cf4a711c1f6c9f728d2b6655
-ms.sourcegitcommit: f3cf76cada0f11efc225c246fff4346910491659
+ms.openlocfilehash: 2aac8f15b0c7433dc25b02cabd860ce4fbb06912
+ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45137564"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45201558"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -342,6 +342,26 @@ Office 365 E5/A5, Microsoft 365 E5/a5, Microsoft 365 E5/a5 준수, Microsoft 365
 
 고객은 승인자 그룹 및 액세스 정책을 통해 사용자 단위로 PAM을 관리할 수 있으며,이는 라이선스가 있는 사용자에 게 적용할 수 있습니다. 자세한 내용은 [Office 365의 권한이 부여 된 액세스 관리](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751)를 참조 하세요.
 
+## <a name="double-key-encryption-for-microsoft-365"></a>Microsoft 365에 대 한 이중 키 암호화 
+
+Microsoft 365에 대 한 이중 암호화를 사용 하면 중요 한 데이터를 보호 하 여 전문화 된 요구 사항을 충족 하 고 암호화 키에 대 한 모든 권한을 유지할 수 있습니다. 이중 키 암호화에서는 두 가지 키를 사용 하 여 컨트롤의 키와 안전 하 게 Microsoft Azure에 저장 된 두 번째 키를 사용 하 여 데이터를 보호 합니다. 데이터를 보려면 두 키에 대 한 액세스 권한이 있어야 합니다. Microsoft는 하나의 키에만 액세스할 수 있으므로 Microsoft에서는 사용자의 키 및 데이터를 사용 하지 않으므로 데이터의 개인 정보 보호 및 보안에 대 한 모든 권한이 보장 됩니다.
+
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+
+사용자는 암호화 된 데이터를 클라우드로 마이그레이션하고, 키가 사용자를 제어할 수 있는 경우 타사 액세스를 차단 하 여 이중 키 암호화의 이점을 얻게 됩니다. 최종 사용자는 다른 민감도 레이블 보호 콘텐츠와 비슷한 암호화 된 두 콘텐츠를 보호 하 고 사용할 수 있습니다.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보호 및 관리 방식, Office 365 E5/A5, Office 365 고급 규정은 사용자에 게 이중 키 암호화를 활용할 수 있는 권한을 제공 합니다.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+
+이중 키 암호화는 Windows 용 Microsoft Office의 데스크톱 버전을 지원 합니다.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+
+사용이 허가 된 사용자에 대해 Office 365 및/또는 Microsoft 365 조직 내의 데이터에 암호화 키를 할당 하려면 이중 키 암호화 배포 지침을 따릅니다.
+
 ## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 대 한 Office 365 데이터 손실 방지
 
 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 대 한 Office 365 DLP (데이터 손실 방지)를 사용 하면 조직에서 전자 메일 및 파일 (Microsoft 팀 파일 리포지토리에 저장 된 파일 포함) 간의 중요 한 정보를 식별, 모니터링 및 자동으로 보호할 수 있습니다.
@@ -388,7 +408,7 @@ Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365, 정보 보호 및 관리 �
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예시:
+사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예를 들어 다음과 같은 가치를 제공해야 합니다.
 
 | 시나리오 | 라이선스가 필요한 사용자 |
 |:-------|:------|
