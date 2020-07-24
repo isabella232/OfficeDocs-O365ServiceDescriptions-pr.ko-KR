@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 미국 연방 정부 엔터티 또는 정부 규정 요구 사항이 적용 되는 데이터를 처리 하는 기타 엔터티와의 Office 365의 배포를 추진 하는 IT 전문가를 위한 것으로, Microsoft 365 정부-DoD를 사용 하는 것이 이러한 요구 사항을 충족 하는 데 적합 합니다.
-ms.openlocfilehash: f9fe178b5d22f1a40d6e5b9a12b83f9d65d22411
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5518a0332d598a25a434c817ce04eefc6069b62d
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132492"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388084"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 규정 준수 - DoD 배포 계획
 
@@ -51,13 +51,13 @@ Office 365의 기능을 제공 하는 것 외에도 조직은 Microsoft 365 정�
 
 이 서비스가 조직에 적합 하다 고 판단 되 면 [이 서비스에 대 한 적용](https://products.office.com/government/eligibility-validation)프로세스를 시작 합니다.
 
-## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>3단계 Microsoft 365 정부-DoD 기본 보안 설정 이해
+## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>3단계. Microsoft 365 정부-DoD 기본 보안 설정 이해
 
 관리 및 보안 설정을 수정 하기 전에 주의 깊게 검토 하 고, 기본 보안 설정을 변경 하기 전에 준수에 미치는 영향을 고려 하는 것이 좋습니다.
 
 **의사 결정**사항: *기본 Microsoft 365 정부 보안 설정을 수정 하 고, 변경 내용에 대 한 영향을 먼저 이해 하도록 확인 합니다.*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>4단계 Microsoft 365 정부에서 기본적으로 현재 사용할 수 없거나 사용 하지 않도록 설정 된 기능 이해 (영문<sup>)</sup>
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>4단계. Microsoft 365 정부에서 기본적으로 현재 사용할 수 없거나 사용 하지 않도록 설정 된 기능 이해 (영문<sup>)</sup>
 
 정부 클라우드 고객의 요구 사항을 충족 하기 위해 Microsoft 365 정부-DoD 및 enterprise 요금제 간에는 약간의 차이가 있습니다. 사용 가능한 기능을 확인 하려면 다음 표를 참조 하세요.
 
@@ -81,34 +81,34 @@ Office 365의 기능을 제공 하는 것 외에도 조직은 Microsoft 365 정�
 |                                        |레이블 활동 탐색기                         | 엔지니어링 백로그 |
 |                                        |Trainable 분류자                           | 엔지니어링 백로그 |
 |                                        |통합 레이블 및 민감도 레이블         | 엔지니어링 백로그 |
-|**내부자 위험 관리**             |고급 메시지 암호화                     | 사용할 수 있음              |
+|**참가자 위험 관리**             |고급 메시지 암호화                     | 사용할 수 있음              |
 |                                        |내부자 위험 관리                         | 엔지니어링 백로그 |
 |                                        |커뮤니케이션 규정 준수                        | 엔지니어링 백로그 |
 |                                        |고객 Lockbox                                | 사용할 수 있음              |
 |                                        |고객 키                                    | 사용할 수 있음              |
 |                                        |권한이 부여된 액세스 관리                    | 엔지니어링 백로그 |
-|**응답 & 검색**                  |원본 위치 예약                            | 사용할 수 있음              |
-|                                        |사례 관리                                 | 사용할 수 있음              |
-|                                        |검색                                          | 사용할 수 있음              |
-|                                        |내보내기                                          | 사용할 수 있음              |
-|                                        |RMS 암호 해독                                  | 사용할 수 있음              |
-|                                        |네이티브 내보내기                                   | 사용할 수 있음              |
-|                                        |고급 처리                             | 엔지니어링 백로그 |
-|                                        |이메일 스레드                                 | 엔지니어링 백로그 |
-|                                        |중복 확인 근접                   | 엔지니어링 백로그 |
-|                                        |테마                                          | 엔지니어링 백로그 |
-|                                        |예측 코딩                               | 엔지니어링 백로그 |
-|                                        |로드 파일을 사용 하 여 내보내기 처리                 | 엔지니어링 백로그 |
-|                                        |열리면                                         | 엔지니어링 백로그 |
-|                                        |보기 권한자                                         | 엔지니어링 백로그 |
-|                                        |Redactions                                      | 엔지니어링 백로그 |
-|                                        |필터링                                       | 엔지니어링 백로그 |
-|                                        |Custodian 매핑                   | 엔지니어링 백로그 |
-|                                        |Custodian 통신                        | 엔지니어링 백로그 |
-|                                        |집합 검토                                     | 엔지니어링 백로그 |
-|                                        |검토 및 주석 달기                             | 엔지니어링 백로그 |
-|                                        |비 Office 365 수집                        | 엔지니어링 백로그 |
-|                                        |검색 용어 보고서                              | 엔지니어링 백로그 |
+|**응답 & 검색**                  |코어 eDiscovery: 원본 위치 유지                            | 사용할 수 있음              |
+|                                        |코어 eDiscovery: 사례 관리                                 | 사용할 수 있음              |
+|                                        |코어 eDiscovery: 검색                                          | 사용할 수 있음              |
+|                                        |코어 eDiscovery: 내보내기                                          | 사용할 수 있음              |
+|                                        |코어 eDiscovery: RMS 암호 해독                                  | 사용할 수 있음              |
+|                                        |코어 eDiscovery: 네이티브 내보내기                                   | 사용할 수 있음              |
+|                                        |고급 eDiscovery: 고급 처리                             | 사용할 수 있음 |
+|                                        |고급 eDiscovery: 전자 메일 스레딩                                 | 사용할 수 있음 |
+|                                        |고급 eDiscovery: 근접 중복 식별                   | 사용할 수 있음 |
+|                                        |고급 eDiscovery: 테마                                          | 사용할 수 있음 |
+|                                        |고급 eDiscovery: 예측 코딩                               | 사용할 수 있음 |
+|                                        |고급 eDiscovery: 로드 파일을 사용 하 여 내보내기 처리                 | 사용할 수 있음 |
+|                                        |고급 eDiscovery: 태그 지정                                         | 사용할 수 있음 |
+|                                        |고급 eDiscovery: 뷰어                                         | 사용할 수 있음 |
+|                                        |Advanced eDiscovery: Redactions                                      | 사용할 수 있음 |
+|                                        |고급 eDiscovery: 필터링                                       | 사용할 수 있음 |
+|                                        |고급 eDiscovery: Custodian-작업에 대 한 매핑                   | 사용할 수 있음 |
+|                                        |Advanced eDiscovery: Custodian 통신                        | 사용할 수 있음 |
+|                                        |Advanced eDiscovery: 검토 집합                                     | 사용할 수 있음 |
+|                                        |고급 eDiscovery: 검토 및 주석 달기                             | 사용할 수 있음 |
+|                                        |고급 eDiscovery: 비 Office 365 수집                        | 엔지니어링 백로그 |
+|                                        |Advanced eDiscovery: 용어 검색 보고서                              | 사용할 수 있음 |
 
 <sup>1</sup> 확인 된 상태는 프로젝트 계획 및 우선 순위를 다시 평가 하면서 변경 될 수 있습니다.<br/>
 <sup>2</sup> 레이블 수동 응용 프로그램에는 [Aip (Azure Information Protection) 클라이언트 버전 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)이 필요 합니다.

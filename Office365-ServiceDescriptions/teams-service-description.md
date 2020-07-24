@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 팀은 인스턴트 메시징, 파일 및 데이터 공동 작업, 오디오 및 비디오 통화, 리치 온라인 모임, 모바일 환경 및 광범위 한 웹 회의 기능을 제공 합니다.
-ms.openlocfilehash: bf8d879e002539753d0fd125fdb97f06ae4a6860
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e017d2ee8291bab0edf7c866b0d53b02dcfe7371
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131992"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388094"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -56,19 +56,18 @@ Microsoft 팀은 독립 실행형 서비스로 사용할 수 없습니다.
 |채팅  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Teams  <br/> |예 <br/> |예 <br/> |예 <br/> |예<sup>1</sup>  <br/> |예<sup>1</sup>  <br/> |예  <br/> |
 |채널-표준  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|채널-개인  <br/> |예  <br/> |예<sup>2</sup>  <br/> |<sup>3</sup> 없음  <br/> |<sup>3</sup> 없음  <br/> |<sup>3</sup> 없음  <br/> |예  <br/> |
+|채널-개인  <br/> |예  <br/> |예<sup>2</sup>  <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |지원  <br/> |
 |모임  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |화면 공유 PowerPoint Audio/Video Desktop <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |음성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |오디오 회의  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|앱, Bot, & 커넥터  <br/> |예  <br/> |예  <br/> |예<sup>4</sup>  <br/> |예<sup>4</sup>  <br/> |예<sup>4</sup>  <br/> |예  <br/> |
-|라이브 이벤트  <br/> |아니요  <br/> |예  <br/> |예  <br/> |<sup>5</sup> 없음  <br/> |<sup>5</sup> 없음  <br/> |예  <br/> |
+|앱, Bot, & 커넥터  <br/> |예  <br/> |예  <br/> |예<sup>3</sup>  <br/> |예<sup>3</sup>  <br/> |예<sup>3</sup>  <br/> |예  <br/> |
+|라이브 이벤트  <br/> |아니요  <br/> |예  <br/> |예  <br/> |<sup>4</sup> 없음  <br/> |<sup>4</sup> 없음  <br/> |예  <br/> |
 
 <sup>1</sup> 개별 팀에서 GCC-고가용성 및 DOD 지원 2500 구성원의 Microsoft 팀<br/>
 <sup>2</sup> Microsoft Planner는 현재 개인 채널에서 액세스 하는 데 사용할 수 없습니다.<br/>
-<sup>3</sup> GCC 클라우드에서는 개인 채널을 사용할 수 없습니다. 가용성에 대 한 추가 업데이트는 메시지 센터에 게시 됩니다.<br/>
-<sup>4</sup> DOD 클라우드에서 Microsoft OneNote를 사용할 수 없습니다. 지금은이 클라우드에서 응용 프로그램 및 응용 프로그램 게시를 사용할 수 없습니다.<br/>
-<sup>5</sup> 현재는 GCC-HIGH 또는 DOD에서 Live 이벤트를 사용할 수 없습니다.<br/>
+<sup>3</sup> Microsoft ONENOTE는 DOD 클라우드에서 사용할 수 없습니다. 지금은이 클라우드에서 응용 프로그램 및 응용 프로그램 게시를 사용할 수 없습니다.<br/>
+<sup>4</sup> 현재는 GCC-HIGH 또는 DOD에서 Live 이벤트를 사용할 수 없습니다.<br/>
 
 ## <a name="next-steps"></a>다음 단계
 

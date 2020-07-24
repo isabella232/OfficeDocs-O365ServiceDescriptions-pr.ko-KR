@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium은 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 활용 하 여 최고의 생산성을 제공 하는 통합 솔루션입니다. 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다.
-ms.openlocfilehash: 429629deddd4565332e8d429db72da580beaa971
-ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
+ms.openlocfilehash: 8294146d8271e081a87e5ce28fbc2d4c077c4376
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45201562"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388114"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 Business Premium 서비스 설명
 
@@ -73,19 +73,19 @@ Microsoft 365 Business Premium에는 기본적으로 microsoft 365 Business Stan
 |MIM (Microsoft Identity Manager) 사용자 CAL  <br/> |아니요  <br/> |예<sup>9</sup>  <br/> |예  <br/> |
 |연결 상태  <br/> |아니요  <br/> |예<sup>9</sup>  <br/> |예  <br/> |
 |SLA 99.9%  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|[장치 및 응용 프로그램 관리](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business Premium에는 iOS, Android, Mac OS 및 기타 플랫폼 간 장치 관리에 대 한 전체 Intune 기능이 포함 되어 있습니다. <sup>8</sup> <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Pc, Mac 및 모바일 장치에 대 한 Intune MDM (모바일 장치 관리)<sup>5</sup> <br/> |아니오  <br/> |예  <br/> |예  <br/> |
-|MDM (모바일 장치 관리) 자동 등록  <br/> |아니오  <br/> |예  <br/> |예  <br/> |
-|Office 앱 및 LOB 앱 용 Intune MAM (모바일 응용 프로그램 관리)<br/> |아니오  <br/> |예  <br/> |예  <br/> |
-|Windows 업데이트 관리, Defender, 방화벽 정책<sup>5</sup> <br/> |아니오  <br/> |예  <br/> |예  <br/> |
-|데이터 보호-선택적 지우기  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|정책에 대 한 대상 SG (보안 그룹)  <br/> |아니오  <br/> |예  <br/> |예  <br/> |
-|등록 한 Windows 10 장치에 Office 앱 설치  <br/> |아니오  <br/> |예  <br/> |예  <br/> |
-|Windows Defender 구성  <br/> |아니오  <br/> |예  <br/> |예  <br/> |
-|장치 프로필 및 보안 구성<sup>5</sup> 배포 <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|Azure AD 조인이 포함 된 Windows 10 용 엔터프라이즈 상태 로밍  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|셀프 서비스 BitLocker 복구  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|Windows Virtual Desktop <br/> |아니요 <br/> |예 <br/> |예 <br/> |
+|[장치 및 응용 프로그램 관리](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business Premium에는 iOS, Android, Mac OS 및 기타 플랫폼 간 장치 관리에 대 한 전체 Intune 기능이 포함 되어 있습니다. <sup>8</sup> <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
+|Pc, Mac 및 모바일 장치에 대 한 Intune MDM (모바일 장치 관리)<sup>5</sup> <br/> |아니오  <br/> |예  <br/> |
+|MDM (모바일 장치 관리) 자동 등록  <br/> |아니오  <br/> |예  <br/> |
+|Office 앱 및 LOB 앱 용 Intune MAM (모바일 응용 프로그램 관리)<br/> |아니오  <br/> |예  <br/> |
+|Windows 업데이트 관리, Defender, 방화벽 정책<sup>5</sup> <br/> |아니오  <br/> |예  <br/> |
+|데이터 보호-선택적 지우기  <br/> |예  <br/> |예  <br/> |
+|정책에 대 한 대상 SG (보안 그룹)  <br/> |아니오  <br/> |예  <br/> |
+|등록 한 Windows 10 장치에 Office 앱 설치  <br/> |아니오  <br/> |예  <br/> |
+|Windows Defender 구성  <br/> |아니오  <br/> |예  <br/> |
+|장치 프로필 및 보안 구성<sup>5</sup> 배포 <br/> |아니오  <br/> |예  <br/> |
+|Azure AD 조인이 포함 된 Windows 10 용 엔터프라이즈 상태 로밍  <br/> |아니오  <br/> |예  <br/> |
+|셀프 서비스 BitLocker 복구  <br/> |아니오  <br/> |예  <br/> |
+|Windows Virtual Desktop <br/> |아니요 <br/> |예 <br/> |
 
 |||
 |:-----|:-----|
