@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 보안 및 &amp; 준수 센터는 조직에 대 한 Office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: 4ab535757c0d192c4d790a7aeacfba9e73d4157f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: d2ec7d1de214d513b90fae6a498ad0b8dacf98f4
+ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131792"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46501707"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -36,7 +36,7 @@ ms.locfileid: "45131792"
 |피싱 캠페인<sup>6</sup> 용 위협 탐색기와 같은 [Advanced threat management](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)  |아니요   |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
 |[고객 Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |아니요   |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
 |[모바일 장치 관리](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |예   |예   |예   |예   |예   |예   |예   |
-|[Exchange online, SharePoint online 및 비즈니스용 OneDrive 7, 9에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup> |아니요   |아니요   |아니요   |아니요   |예   |예   |아니요   |
+|[Exchange online, SharePoint online 및 비즈니스용 OneDrive 7, 9에 대 한 데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup> |아니오   |예  |예   |아니오   |예   |예   |아니요   |
 |[Microsoft 팀에 대 한 통신 데이터 손실 방지](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |아니요   |아니요   |아니요   |아니요   |아니요   |예  |
 |[수동 민감도 레이블](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | 아니요 | 아니요  |아니요   | 예 | 예 | 예 | 아니요  |
 |자동 민감도 레이블| 아니요 | 아니요  |아니요  | 아니요 | 아니요 | 예<sup>13</sup> | 아니요  |
