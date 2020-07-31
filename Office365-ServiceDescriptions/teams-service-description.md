@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 팀은 인스턴트 메시징, 파일 및 데이터 공동 작업, 오디오 및 비디오 통화, 리치 온라인 모임, 모바일 환경 및 광범위 한 웹 회의 기능을 제공 합니다.
-ms.openlocfilehash: 8a22154cf97031518fac99a5b7052c00e0bdb214
-ms.sourcegitcommit: 31ef23008777fe063df8c9abca75292f6991b8a2
+ms.openlocfilehash: 81dd8ad165c0a0155544b929dd8abee767fa150a
+ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46513894"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46531211"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -56,7 +56,7 @@ Microsoft 팀은 독립 실행형 서비스로 사용할 수 없습니다.
 |채팅  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Teams  <br/> |예 <br/> |예 <br/> |예 <br/> |예<sup>1</sup>  <br/> |예<sup>1</sup>  <br/> |예  <br/> |
 |채널-표준  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|채널-개인  <br/> |예  <br/> |예<sup>2</sup>  <br/> |아니요  <br/> |예  <br/> |아니요 <br/> |지원  <br/> |
+|채널-개인  <br/> |예  <br/> |예<sup>2</sup>  <br/> |예 <br/> |아니요  <br/> |아니요 <br/> |지원  <br/> |
 |모임  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |화면 공유 PowerPoint Audio/Video Desktop <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |음성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
