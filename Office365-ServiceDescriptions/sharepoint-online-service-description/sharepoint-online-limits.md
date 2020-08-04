@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 및 독립 실행형 계획에 대 한 SharePoint 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: 7c449c12c4dc29784757454223d6b5479fa109b8
-ms.sourcegitcommit: 325de2faa5a2f72cd464c957ed867d83b6c28469
+ms.openlocfilehash: 1c05fb3e60a941a394a0736ca2a72442d2fe4612
+ms.sourcegitcommit: 9090cf400aa5deee337b23fcca4b90ae092a44cb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45229644"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560083"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -99,6 +99,9 @@ Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
 ### <a name="subsites"></a>하위 
 
 사이트 당 2000 개 (사이트 모음) 하위 사이트를 만드는 것이 아닌 위치를 만들어 허브로 구성 하는 것이 좋습니다. 하위 사이트를 사용 하는 경우에는 해당 번호를 제한 하는 것이 좋습니다 (특히 트래픽이 더 적은 사이트가 높은 경우).
+
+> [!NOTE] 
+> 조직은 2000 허브 사이트로 제한 됩니다. 모든 기능에 대해 허브 사이트가 필요 하지 않을 수 있으며, 허브를 만들기 전에 계획을 세우는 것이 중요 합니다. 자세한 내용은 [SharePoint 허브 사이트 계획](https://docs.microsoft.com/sharepoint/planning-hub-sites)을 참조 하세요.
 
 ### <a name="sharepoint-hosted-applications"></a>SharePoint 호스팅된 응용 프로그램
 
