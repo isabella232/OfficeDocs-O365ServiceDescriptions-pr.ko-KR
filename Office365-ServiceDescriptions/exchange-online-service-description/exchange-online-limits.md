@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: cb87b3890ed02248f88428d94f5a4149f0f9a0e0
-ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
+ms.openlocfilehash: 0793d814aec8de33fea7c546652f0659dfda18a1
+ms.sourcegitcommit: 7edfd698124bec003a42e384d4b9102694f0e251
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46501717"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "46580831"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -101,11 +101,11 @@ Microsoft Exchange Online 제한은 다음 범주 중 하나에 속합니다.
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**기능**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
-|사용자 사서함|50GB|50GB|50 GB|100GB|100GB|2GB|
-|보관 사서함<sup>7, 8</sup>|50GB|50GB|50GB|Unlimited<sup>1</sup>|Unlimited<sup>1</sup>|사용할 수 없음<sup>4</sup>|
+|사용자 사서함|50GB|50GB|50GB|100GB|100GB|2GB|
+|보관 사서함<sup>7, 8</sup>|50GB|50GB|50 GB|Unlimited<sup>1</sup>|Unlimited<sup>1</sup>|사용할 수 없음<sup>4</sup>|
 |공유 사서함<sup>10</sup>|50GB<sup>2</sup>|50GB<sup>2</sup>|50GB<sup>2</sup>|50/100 GB<sup>2, 9</sup>|50/100 GB<sup>2, 9</sup>|50GB<sup>2</sup>|
 |리소스 사서함|50GB<sup>3</sup>|50GB<sup>3</sup>|50GB<sup>3</sup>|50GB<sup>3,9</sup>|50GB<sup>3,9</sup>|50GB<sup>3</sup>|
-|사이트 사서함<sup>5</sup>|50 GB|50GB|50GB|50GB|50GB|사용할 수 없음|
+|사이트 사서함<sup>5</sup>|50 GB|50GB|50GB|50GB|50 GB|사용할 수 없음|
 |공용 폴더 사서함|50GB<sup>6</sup>|50GB<sup>6</sup>|50GB<sup>6</sup>|100GB<sup>6</sup>|100GB<sup>6</sup>|사용할 수 없음|
 |그룹 사서함|50GB|50GB|50GB|50GB|50GB|50GB|
 
@@ -144,7 +144,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |**기능**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |경고|49GB|49GB|49GB|98GB|98GB|1.96GB|
 |보내기 금지|49.5GB|49.5GB|49.5GB|99GB|99GB|1.98GB|
-|보내기/받기 금지|50 GB|50GB|50 GB|100GB|100GB|2GB|
+|보내기/받기 금지|50 GB|50GB|50GB|100GB|100GB|2GB|
 
 ### <a name="capacity-alerts-across-standalone-plans"></a>독립 실행형 계획별 용량 경고
 
@@ -189,14 +189,14 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**기능**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
-|사서함 폴더당 최대 메시지 수|1백만 개|1백만|1백만|1백만|1백만|1백만|
+|사서함 폴더당 최대 메시지 수|1백만|1백만|1백만|1백만|1백만|1백만|
 |사서함 폴더당 메시지 수에 대한 경고|900,000|900,000|900,000|900,000|900,000|900,000|
 |복구 가능한 항목 폴더의 폴더당 최대 메시지 수|3백만 개|3백만 개|3백만 개|3백만 개|3백만 개|3백만 개|
 |기본 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중 아님)|30GB|30GB|30GB|30GB|30GB|30GB|
 |기본 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중)|100GB|100GB|100GB|100GB|100GB|100GB|
 |보관 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중 아님)|30GB|30GB|30GB|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|30GB|
 |보관 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중)|100 GB<sup>1</sup>|100 GB<sup>1</sup>|100 GB<sup>1</sup>|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|100 GB<sup>1</sup>|
-|복구 가능한 항목 폴더의 폴더당 메시지 수에 대한 경고|2.75백만 개|2,750,000개|2,750,000개|2,750,000개|2,750,000개|2,750,000개|
+|복구 가능한 항목 폴더의 폴더당 메시지 수에 대한 경고|2,750,000개|2,750,000개|2,750,000개|2,750,000개|2,750,000개|2,750,000개|
 |사서함 폴더당 최대 하위 폴더 수|10,000|10,000|10,000|10,000|10,000|10,000|
 |사서함 폴더당 하위 폴더 수에 대한 경고|9000|9000|9000|9000|9000|9000|
 |최대 폴더 계층 수|300|300|300|300|300|300|
@@ -213,7 +213,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**기능**|**Exchange Server 2013**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
-|사서함 폴더당 최대 메시지 수|제한 없음<sup>1</sup>|1백만|1,000,000|1백만|
+|사서함 폴더당 최대 메시지 수|제한 없음<sup>1</sup>|1백만|1백만|1백만|
 |사서함 폴더당 메시지 수에 대한 경고|제한 없음|900,000|900,000|900,000|
 |복구 가능한 항목 폴더의 폴더당 최대 메시지 수|제한 없음|3백만 개|3백만 개|3백만 개|
 |기본 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중 아님)|30GB|30GB|30GB|30GB|
@@ -266,13 +266,13 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |메시지 크기 제한 - Outlook for Mac|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|
 |메시지 크기 제한 - 마이그레이션|150MB <sup>1, 4</sup>|150MB <sup>1, 4</sup>|150MB <sup>1, 4</sup>|150MB <sup>1, 4</sup>|150MB <sup>1, 4</sup>|150MB <sup>1, 4</sup>|
 |메시지 크기 제한-iOS 및 Android 용 Outlook | 33| 33| 33| 33| 33| 33|
-|암호화된 메시지의 크기 제한(새 기능에 Office 365 메시지 암호화를 사용하는 구독자)<sup>5</sup>|150MB |150MB |150MB |150MB |150MB |150MB|
+|암호화된 메시지의 크기 제한(새 기능에 Office 365 메시지 암호화를 사용하는 구독자)<sup>5</sup>|150MB|150MB|150MB|150MB|150MB|150MB|
 |암호화된 메시지의 크기 제한(Office 365 메시지 암호화 레거시 버전을 사용하는 구독자)<sup>5</sup>|25MB|25MB|25MB|25MB|25MB|25MB|
 |제목 길이 제한|255자|255자|255자|255자|255자|255자|
 |파일 첨부 제한|250개 첨부 파일|250개 첨부 파일|250개 첨부 파일|250개 첨부 파일|250개 첨부 파일|250개 첨부 파일|
-|첨부 파일 크기 제한 - Outlook|150MB |150MB |150MB |150MB |150MB |150MB|
+|첨부 파일 크기 제한 - Outlook|150MB|150MB|150MB|150MB|150MB|150MB|
 |첨부 파일 크기 제한 - OWA |112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|
-|첨부 파일 크기 제한 - Outlook for Mac|150MB|150MB |150MB |150MB |150MB |150MB|
+|첨부 파일 크기 제한 - Outlook for Mac|150MB|150MB|150MB|150MB|150MB|150MB|
 |첨부 파일 크기 제한-iOS 및 Android 용 Outlook|33 |33 |33 |33 |33 |33 |
 |여러 부분으로 구성된 메시지 제한|250개 부분|250개 부분|250개 부분|250개 부분|250개 부분|250개 부분|
 |포함 메시지 수준 제한|30개 포함 메시지|30개 포함 메시지|30개 포함 메시지|30개 포함 메시지|30개 포함 메시지|30개 포함 메시지|
@@ -293,14 +293,14 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |**기능**|**Exchange Server 2013**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |메시지 크기 제한 - Outlook|10MB<sup>4</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>2</sup>|
 |메시지 크기 제한 - OWA|10MB<sup>4</sup>|112MB<sup>1, 3</sup>|112MB<sup>1, 3</sup>|150MB<sup>1, 2</sup>|
-|메시지 크기 제한 - Outlook for Mac|10MB<sup>4</sup>|150MB |150MB||
+|메시지 크기 제한 - Outlook for Mac|10MB<sup>4</sup>|150MB|150MB||
 |메시지 크기 제한 - 마이그레이션|해당 없음|150MB <sup>5</sup>|150MB <sup>5</sup>|150MB <sup>5</sup>|
 |메시지 크기 제한-iOS 및 Android 용 Outlook |25MB |33 |33 |33 |
-|암호화된 메시지의 크기 제한(새 기능에 Office 365 메시지 암호화를 사용하는 구독자)<sup>6</sup>|150MB|150MB |150MB |150MB|
-|암호화된 메시지의 크기 제한(Office 365 메시지 암호화 레거시 버전을 사용하는 구독자)<sup>6</sup>|25MB|25MB |25MB |25MB|
+|암호화된 메시지의 크기 제한(새 기능에 Office 365 메시지 암호화를 사용하는 구독자)<sup>6</sup>|150MB|150MB|150MB|150MB|
+|암호화된 메시지의 크기 제한(Office 365 메시지 암호화 레거시 버전을 사용하는 구독자)<sup>6</sup>|25MB|25MB|25MB|25MB|
 |제목 길이 제한|255자|255자|255자|255자|
 |파일 첨부 제한|1024 attachments<sup>4</sup>|250개 첨부 파일|250개 첨부 파일|250개 첨부 파일|
-|첨부 파일 크기 제한 - Outlook|35MB<sup>4</sup>|150MB|150MB |150MB|
+|첨부 파일 크기 제한 - Outlook|35MB<sup>4</sup>|150MB|150MB|150MB|
 |첨부 파일 크기 제한 - OWA|35MB<sup>4</sup>|112 MB<sup>3</sup>|112 MB<sup>3</sup>|112 MB<sup>3</sup>|
 |첨부 파일 크기 제한 - Outlook for Mac|35MB<sup>4</sup>|150MB|150MB|35MB|
 |첨부 파일 크기 제한-iOS 및 Android 용 Outlook|25MB |33|33|33|
@@ -485,7 +485,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |최대 저널 규칙 수|300개 규칙|300개 규칙|300개 규칙|300개 규칙|300개 규칙|300개 규칙|
 |최대 전송 규칙 수|300개 규칙|300개 규칙|300개 규칙|300개 규칙|300개 규칙|300개 규칙|
 |개별 전송 규칙의 최대 크기|8KB|8KB|8KB|8KB|8KB|8KB|
-|모든 전송 규칙에서 사용되는 모든 정규식의 문자 제한|20 KB|20KB|20KB|20KB|20KB|20KB|
+|모든 전송 규칙에서 사용되는 모든 정규식의 문자 제한|20KB|20KB|20KB|20KB|20KB|20KB|
 |첨부 파일 내용 검사 제한|1MB|1MB|1MB|1MB|1MB|1MB|
 |모든 전송 규칙에 의해 메시지에 추가되는 최대 받는 사람 수|받는 사람 100명|받는 사람 100명|받는 사람 100명|받는 사람 100명|받는 사람 100명|받는 사람 100명|
 |전달받는 사람 제한|받는 사람 10명|받는 사람 10명|받는 사람 10명|받는 사람 10명|받는 사람 10명|받는 사람 10명|
@@ -495,7 +495,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |받은 편지함 규칙|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|
 
 > [!NOTE]
-> <sup>1</sup> 사서함이 Exchange Online으로 마이그레이션된 경우 받은 편지함 규칙 제한이 기본 exo 값 보다 낮은 값으로 설정 될 수 있습니다. 이 경우에는 다음을 수행 하 여 값을 늘릴 수 있습니다. 
+> <sup>1</sup> 사서함이 Exchange Online으로 마이그레이션된 경우 받은 편지함 규칙 제한이 기본 exo 값 보다 낮은 값으로 설정 될 수 있습니다. 이 경우 받은 편지함 규칙 값을 늘릴 수 있습니다. 자세한 내용은 [Exchange Online에서 받은 편지함 규칙에 사용 되는 공간 수정을](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-on-the-web/increase-the-space-used-by-inbox-rules)참조 하십시오. 
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>독립 실행형 옵션에 걸친 저널, 전송 및 받은 편지함 규칙 제한
 
@@ -508,8 +508,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |모든 전송 규칙에서 사용되는 모든 정규식의 문자 제한|제한 없음|20KB|20KB|20KB|
 |모든 전송 규칙에 의해 메시지에 추가되는 최대 받는 사람 수|제한 없음|받는 사람 100명|받는 사람 100명|받는 사람 100명|
 |전달받는 사람 제한|제한 없음|받는 사람 10명|받는 사람 10명|받는 사람 10명|
-|메시지 리디렉션 횟수|리디렉션 3회|리디렉션 1회|리디렉션 1회|리디렉션 1회|
-|전송 규칙에 의해 메시지가 리디렉션되는 횟수|제한 없음|리디렉션 1회|리디렉션 1회|리디렉션 1회|
+|메시지 리디렉션 횟수|리디렉션 3회|리디렉션 1회|리디렉션 1회|리디렉션 1회|
+|전송 규칙에 의해 메시지가 리디렉션되는 횟수|제한 없음|리디렉션 1회|리디렉션 1회|리디렉션 1회|
 
 ## <a name="moderation-limits"></a>중재 제한
 
