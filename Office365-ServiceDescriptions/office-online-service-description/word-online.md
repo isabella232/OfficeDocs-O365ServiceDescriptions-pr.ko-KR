@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word for web (이전의 Word Web App)을 사용 하면 Microsoft Word 환경을 웹 브라우저로 확장 하 여 문서가 저장 된 웹 사이트에서 직접 문서로 작업할 수 있습니다.
-ms.openlocfilehash: c08017d34dc866bc2e0cecadb62269d31c9f44dc
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: cc6a5f432cc0a89da96042b4879b32545af5dac5
+ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131302"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616914"
 ---
 # <a name="word-for-the-web"></a>웹용 Word
 
@@ -127,10 +127,6 @@ OneDrive 또는 SharePoint에서 문서를 열 때 웹의 Word가 브라우저�
 ## <a name="index"></a>인덱스
 
 인덱스는 문서에 언급된 용어 및 주제와 함께 해당 내용이 표시된 페이지를 나열합니다. 인덱스를 만들려면 문서의 기본 항목 이름과 상호 참조를 제공하여 인덱스 항목을 표시한 다음 인덱스를 작성합니다.
-  
-## <a name="ink-editor"></a>잉크 편집기
-
-잉크 편집기에서는도로를 사용 하 여 텍스트를 선택 하 고 텍스트를 삭제할 수 있는 기본 제스처를 통해 문서를 편집 하 고 서식을 지정할 수 있습니다.
   
 ## <a name="insert-online-pictures"></a>온라인 그림 삽입
 
@@ -297,4 +293,8 @@ Web 용 word에서는 문서에 있는 단어에 대해 대략적인 단어 수�
 ## <a name="feature-availability"></a>기능 가용성
 
 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Office for 웹 서비스 설명을](office-online-service-description.md)참조 하세요. 
+
+## <a name="operating-parameter-limitations-and-specifications"></a>운영 매개 변수 제한 및 사양
+
+운영 매개 변수 제한에 대 한 자세한 내용은 [Word의 운영 매개 변수 제한 및 사양을](https://docs.microsoft.com/office/troubleshoot/word/operating-parameter-limitation)참조 하십시오.
   
