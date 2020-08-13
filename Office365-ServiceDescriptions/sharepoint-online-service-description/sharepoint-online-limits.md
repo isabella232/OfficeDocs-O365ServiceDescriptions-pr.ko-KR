@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 및 독립 실행형 계획에 대 한 SharePoint 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: 1c05fb3e60a941a394a0736ca2a72442d2fe4612
-ms.sourcegitcommit: 9090cf400aa5deee337b23fcca4b90ae092a44cb
+ms.openlocfilehash: a8b42885b558d04aee0ed3743cffc203dde2f248
+ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46560083"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46649598"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -67,7 +67,7 @@ Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
 
 ### <a name="sync"></a>동기화
 
-**새 OneDrive 동기화 앱** -최적의 성능을 위해, 주문형 파일을 사용 하거나 라이브러리 내에서 동기화 할 일부 폴더만 선택 해도 동기화 된 모든 문서 라이브러리에서 파일을 30만 개 이하로 저장 하는 것이 좋습니다.
+**새 OneDrive 동기화 앱** -최적의 성능을 위해, 주문형 파일을 사용 하거나 라이브러리 내에서 동기화 할 일부 폴더만 선택 해도 동기화 된 모든 문서 라이브러리에서 사용자 당 30만 개 이하의 파일을 저장 하는 것이 좋습니다.
 
 **이전 비즈니스용 OneDrive 동기화 앱 (Groove.exe)** -동기화 된 모든 라이브러리에서 최대 2만 항목 합계를 동기화 할 수 있습니다. 여기에는 OneDrive 라이브러리, 팀 사이트 라이브러리 또는 둘 다 포함 됩니다. 전체 동기화 제한과 별도로, 각 라이브러리 유형에 대해 동기화 할 수 있는 항목 수에 제한이 있습니다.
 

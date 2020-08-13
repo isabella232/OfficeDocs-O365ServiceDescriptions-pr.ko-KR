@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 관리자는 서비스 상태를 보고 유지 관리 일정을 확인할 수 있습니다. 서비스 상태 정보는 언제 든 지 로그인 하 여 사용할 수 있습니다.
-ms.openlocfilehash: 4fa2e8a907eaae36e9185adcd4f99bd841c42ccc
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: dfa4e462d794a0f0a225f0c4e18695d9e4d2fe67
+ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131802"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46649608"
 ---
 # <a name="service-health-and-continuity"></a>서비스 상태 및 연속성
 
@@ -48,7 +48,7 @@ Microsoft 관리자는 서비스 상태를 보고 유지 관리 일정을 확인
 |**2020** <br/> ||||
 |:-----|:-----|:-----|:-----|
 | **사분기** <br/> | **2006** <br/> |**만들고** <br/> |**Q4** <br/> |
-| 99.98% <br/> | <br/> | <br/> |<br/> |
+| 99.98% <br/> | 99.99%<br/> | <br/> |<br/> |
 
 <br/>
 
