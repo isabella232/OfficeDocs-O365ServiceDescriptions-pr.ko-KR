@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: 0793d814aec8de33fea7c546652f0659dfda18a1
-ms.sourcegitcommit: 7edfd698124bec003a42e384d4b9102694f0e251
+ms.openlocfilehash: 9c8554f8f995e00058fb5c3bafe915d328ba9c53
+ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46580831"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46798394"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -197,7 +197,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |보관 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중 아님)|30GB|30GB|30GB|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|30GB|
 |보관 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중)|100 GB<sup>1</sup>|100 GB<sup>1</sup>|100 GB<sup>1</sup>|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|100 GB<sup>1</sup>|
 |복구 가능한 항목 폴더의 폴더당 메시지 수에 대한 경고|2,750,000개|2,750,000개|2,750,000개|2,750,000개|2,750,000개|2,750,000개|
-|사서함 폴더당 최대 하위 폴더 수|10,000|10,000|10,000|10,000|10,000|10,000|
+|사서함 폴더당 최대 하위 폴더 수|1만<sup>2</sup>|1만<sup>2</sup>|1만<sup>2</sup>|1만<sup>2</sup>|1만<sup>2</sup>|1만<sup>2</sup>|
 |사서함 폴더당 하위 폴더 수에 대한 경고|9000|9000|9000|9000|9000|9000|
 |최대 폴더 계층 수|300|300|300|300|300|300|
 |폴더 계층 수에 대한 경고|250|250|250|250|250|250|
@@ -207,6 +207,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 > [!NOTE]
 > <sup>1</sup> 이것은 전체 보관 사서함의 할당량이 아닌 복구 가능한 항목 폴더의 저장소 할당량입니다. Exchange Online 계획 2 라이선스 또는 Exchange Online 계획 1과 Exchange Online Archiving 라이선스를 모두 가진 사용자의 경우, 보관 사서함의 저장소 할당량이 제한되지 않습니다. 복구 가능한 항목 할당량을 늘리는 방법에 관한 정보는 [Increase the Recoverable Items quota for mailboxes on hold](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)(보류 중인 사서함에 대한 복구 가능한 항목 할당량 늘리기)를 참조하세요. <br/> <sup>2</sup> 보관 사서함에서 복구 가능한 항목 폴더에 대한 초기 저장소 할당량은 100GB입니다. 자동 확장 보관이 켜져 있는 경우 복구 가능한 항목 폴더의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Office 365 무제한 보관의 개요](https://go.microsoft.com/fwlink/?linkid=844060)를 참조하세요. 자동 확장 보관의 가용성에 대 한 자세한 내용은 [Microsoft 365 로드맵](https://go.microsoft.com/fwlink/?LinkId=509914) 를 참조 하세요.
+> <sup>2</sup> 이는 저장소 제한입니다. 사서함 셰이프 제약 조건 중 하나입니다. 지정 된 부모에 대해 직접 하위 폴더는 1만 개만 있을 수 있습니다. 이는 폴더를 만드는 마이그레이션 또는 기타 클라이언트에 관계 없이 적용 됩니다.
 
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>독립 실행형 계획별 사서함 폴더 제한
 
