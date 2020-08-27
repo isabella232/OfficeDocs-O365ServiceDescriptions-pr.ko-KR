@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Microsoft 365 및 Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다.
-ms.openlocfilehash: 63d34a19286ba5fa4719a890df89b732e9f84aeb
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: eee5117fd3279d9989796c9513e105e6003e8495
+ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132412"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "47255895"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -47,51 +47,51 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |학습 도구  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |접근성 검사  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office Lens  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|코드 작성기를 사용 하는 Minecraft 교육 에디션  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
-|테스트 앱 사용  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
-|학교 Pc 앱 설정  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
+|코드 작성기를 사용 하는 Minecraft 교육 에디션  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|테스트 앱 사용  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|학교 Pc 앱 설정  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |**음성, 비디오 및 모임** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 교육 A5**<sup>6</sup> <br/> |
-|Skype 모임 브로드캐스트  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft Bookings  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Office 365 오디오 회의  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니오  <br/> |있음  <br/> |
-|Office 365 전화 시스템  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니오  <br/> |예  <br/> |
+|Skype 모임 브로드캐스트  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Microsoft Bookings  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Office 365 오디오 회의  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
+|Office 365 전화 시스템  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |**분석** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Delve  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Power BI Pro  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니오  <br/> |있음  <br/> |
-|내 분석  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니오  <br/> |있음  <br/> |
+|Power BI Pro  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
+|내 분석  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |**Azure Active Directory**<sup>11</sup> <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Azure Active Directory Basic  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Azure Active Directory 계획 1  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|Azure Active Directory 요금제 2  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
+|Azure Active Directory 요금제 2  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |**규정 준수** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Office 365 권한 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Azure Information Protection 계획 1<sup>7</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|Azure Information Protection 계획 2<sup>7</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
+|Azure Information Protection 계획 2<sup>7</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |소송 대기  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |eDiscovery 검색  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |eDiscovery 내보내기  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Office 365 고급 eDiscovery  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니오  <br/> |예  <br/> |
+|Office 365 고급 eDiscovery  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |데이터 손실 방지  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365 메시지 암호화  <br/> |예<sup>12</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Customer Lockbox  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니오  <br/> |있음  <br/> |
-|고급 데이터 거버넌스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니오  <br/> |있음  <br/> |
+|Customer Lockbox  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
+|고급 데이터 거버넌스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |**관리 및 보안** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |학교 데이터 동기화  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|고급 보안 관리  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|교육을 위한 Intune<sup>8</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
-|Advanced Threat Analytics  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
-|Windows Defender Antivirus  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
-|Device Guard  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
+|Office 365 Cloud App Security  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|교육을 위한 Intune<sup>8</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|Advanced Threat Analytics  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|Windows Defender Antivirus  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|Device Guard  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |**고급 보안** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
-|Advanced Threat Protection  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니오  <br/> |예  <br/> |
-|위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니오  <br/> |예  <br/> |
-|Cloud App Security  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |
+|Advanced Threat Protection  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
+|위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
+|Cloud App Security  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |Microsoft Defender Advanced Threat Protection  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>13</sup>  <br/> |
 |**서버 및 CAL 관련 혜택** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Exchange<sup>9</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>10</sup> <br/> |예  <br/> |
 |SharePoint<sup>9</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>10</sup> <br/> |예  <br/> |
 |비즈니스용 Skype<sup>9</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>10</sup> <br/> |예  <br/> |
-|Windows Server CAL  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |
+|Windows Server CAL  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |Microsoft Endpoint Configuration Manager  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |System Center Endpoint Protection  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
    

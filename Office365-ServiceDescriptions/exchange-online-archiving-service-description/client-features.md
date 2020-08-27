@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Microsoft Exchange Online 보관을 통해 사용자는 다양 한 장치 및 플랫폼에서 보관 사서함에 연결할 수 있습니다. 사용자의 보관 사서함에 대 한 모든 네트워크 연결은 인터넷을 통해 수행 되며 VPN (가상 사설망) 연결은 필요 하지 않습니다. 조직은 사용자가 VPN 연결을 사용하지 않고도 외부에서 Outlook 사용 를 통해 기본 사서함에 액세스할 수 있도록 온-프레미스 클라이언트 액세스 서버를 게시할 수 있습니다. 온-프레미스 서버에 있는 사용자의 기본 사서함에 액세스하기 위해 VPN 액세스가 필요한 경우에도 이 요구 사항은 변경되지 않습니다.
-ms.openlocfilehash: b460938b4ce9e0aeb2c0eb4ab99fe7f3fa8a8ea4
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 6f29f434f5b6515460ee526450fba4a50bb6c191
+ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132062"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "47255905"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online 보관의 클라이언트 기능
 
@@ -45,8 +45,9 @@ Outlook 2007은 보관 사서함을 기본적으로 지원하지만 일부 보�
   
 |**클라이언트**|**EOA 지원**|
 |:-----|:-----|
-|Outlook 2010 이상  <br/> |Exchange Online Archiving의 최신 기능 지원<sup>1</sup> <br/> |
-|Outlook 2007  <br/> |Exchange Online Archiving과 함께 사용할 수 있도록 지원<sup>1,2</sup> <br/> |
+|Outlook 2013 이상  <br/> |Exchange Online Archiving의 최신 기능 지원<sup>1</sup> <br/> |
+|Outlook 2010  <br/> |Exchange Online 보관의 최신 기능은 2020 년 12 월 13 일까 지 지원|
+|Outlook 2007  <br/> |지원되지 않음 |
 |Outlook 2003  <br/> |지원되지 않음  <br/> |
 |Outlook for Mac 2011  <br/> |지원되지 않음  <br/> |
 |Outlook for Mac  <br/> |Exchange Online 보관에 사용할 수 있도록 지원 됩니다. <sup>3</sup> <br/> |
