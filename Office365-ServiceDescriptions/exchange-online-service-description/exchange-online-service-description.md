@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함 하는 구독의 기능 비교를 찾으십니까? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: cde2f691a010b12c42e774db7987a32efed50e1a
-ms.sourcegitcommit: fe1417a3228a5015e65a252f559e8c357d647d46
+ms.openlocfilehash: 56994c011862bde5d41ac02613a6ddd106228da2
+ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "46573976"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300522"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -79,7 +79,7 @@ Microsoft 365 Business Premium의 기능 가용성에 대 한 자세한 내용�
 |역할 그룹|예|예|예|예|예|예|예|아니요|
 |역할 할당 정책|예|예|예|예|예|예|예|아니요|
 |**[메시지 정책 및 규정 준수](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
-|Exchange Online 기반 사서함 보관| 아니요|아니요|예|예|예|예|예|아니요|
+|Exchange Online 기반 사서함 보관| 아니요|아니요|예|예<sup>9</sup>|예<sup>9</sup>|예<sup>9</sup>|예<sup>9</sup>|아니요|
 |온-프레미스 사서함의 클라우드 기반 보관|예 <sup>1</sup>|예<sup>1</sup>|아니요|아니요|예|예|예|아니요|
 |MRM (메시징 레코드 관리) |예|예|예|예|예|예|예|예|
 |수동 보존 정책, 레이블 및 태그 |아니요|아니요|아니요|아니요|예|예|예|예|
@@ -183,7 +183,7 @@ Microsoft 365 Business Premium의 기능 가용성에 대 한 자세한 내용�
 <sup>6</sup> exchange 서버 2013에는 exchange server 2010과 동일한 기본 제공 스팸 방지 기능이 대부분 포함 되어 있습니다. 온-프레미스 제품을 통한 Exchange hosted 스팸 필터링의 장점에 대 한 자세한 내용은 exchange [Server 2013을 통한 Exchange Online Protection의 스팸 방지 기능 혜택](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)을 참조 하세요. <br/>
 <sup>7</sup> EAC (Exchange 관리 센터) 관리 인터페이스에 직접 액세스 하는 방법 으로만 액세스할 수 있습니다. <br/>
 <sup>8</sup> Exchange 서버 2013은 Microsoft 맬웨어 방지 엔진도 사용 합니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다. <br/>
-<sup>9</sup> 비활성 사서함 기능이 필요한 각 사서함에 대해 eoa 구독을 별도로 구입할 수 있습니다.  <br/>
+<sup>9</sup> 비활성 사서함 또는 보관 기능을 필요로 하는 각 사서함에 대해 eoa 구독을 별도로 구입할 수 있습니다.<br/>
 <sup>10</sup> SharePoint는 온-프레미스 Exchange 조직에서 배포 되어야 합니다. <br/>
 <sup>11</sup> SharePoint Online은 구독 계획에 포함 되어야 합니다. <br/>
 <sup>12</sup> POP는 지원 되지만 IMAP는 사용할 수 없습니다. <br/>

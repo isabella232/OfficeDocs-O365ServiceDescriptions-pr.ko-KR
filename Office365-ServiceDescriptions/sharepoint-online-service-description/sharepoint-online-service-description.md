@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 사용할 수 있는 SharePoint 기능을 계획 합니다.
-ms.openlocfilehash: cc98d37abe936a7ad6ac67c22b5e8250e6326adb
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
+ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131032"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300512"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 서비스 설명
 
@@ -97,13 +97,13 @@ Microsoft Graph의 가용성에 대 한 자세한 내용은 [microsoft 365 및 O
 - [마이그레이션: SharePoint 마이그레이션 도구](/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [마이그레이션: 마이그레이션 관리자](/sharepointmigration/mm-get-started)
 - [마이그레이션: SharePoint 마이그레이션 평가 도구](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
-- [마이그레이션: Mover.io](https://mover.io/). 현재 북미 지역 고객만 사용할 수 있습니다.
+- [마이그레이션: Mover.io](https://mover.io/). 이제 전 세계에서 사용 가능 합니다.
 - [다중 지역 (데이터 상주)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365) 최소 500의 Microsoft 라이선스를 필요로 하는 추가 기능을 사용 합니다. 자세한 내용은 Microsoft 담당자에 게 문의 하세요.
 - [프로그래밍 방식 사이트 프로 비전](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [루트 사이트 교체](/sharepoint/modern-root-site)
 - [삭제된 사이트 복원](/sharepoint/restore-deleted-site-collection)
 - [SharePoint 관리 센터](/sharepoint/get-started-new-admin-center) Firstline 작업 자가 있는 조직은 관리 센터에 액세스 하려면 엔터프라이즈 사용자가 한 명 이상 필요 합니다.
-- [SharePoint modernization 스캐너](/sharepoint/dev/transform/modernize-scanner)
+- [SharePoint 최신화 스캐너](/sharepoint/dev/transform/modernize-scanner)
 - [SharePoint Online 관리 셸](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps). Firstline 작업 자가 있는 조직은 관리 센터에 액세스 하려면 엔터프라이즈 사용자가 한 명 이상 필요 합니다.
 - [사이트 거 버 넌 스](/sharepoint/governance-overview) 
 - [용어 저장소 관리 메타 데이터](/sharepoint/managed-metadata)
