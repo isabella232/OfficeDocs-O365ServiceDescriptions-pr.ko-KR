@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는 클라우드 기반 전자 메일 필터링 서비스로, 실시간으로 유해한 링크 로부터 조직을 보호 하는 기능을 포함 합니다.
-ms.openlocfilehash: 53e80f635485594f95c62dfa5452ef5352b5a4d7
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 0e9c7e76cabd9f39a13c16689a4255732617b09d
+ms.sourcegitcommit: 0f2d249dfc93432e17344f70b8317a455204f018
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132372"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47318945"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection 서비스 설명
 
@@ -32,7 +32,7 @@ Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호
 
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Office 365 ATP (Advanced Threat Protection) 가용성
 
-ATP는 Office 365 Enterprise E5, Office 365 교육 A5 및 Microsoft 365 Business Premium에 포함 되어 있습니다.
+Office 365 ATP 계획 2는 Office 365 E5, Office 365 A5 및 Microsoft 365 E5에 포함되어 있습니다. Office 365 ATP 계획 1은 Microsoft 365 Business Premium에 포함되어 있습니다.
 
 ATP를 다음 Exchange 및 Microsoft 365 구독 계획에 추가할 수 있습니다.
 
@@ -78,12 +78,13 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 
 각 기능은 아래와 같습니다. Exchange Online은 대개 Office 365 Enterprise 서비스 제품군을 지칭하는 것입니다.
 
-|**기능**|**ATP 계획 1**<br>(이전의 ATP 독립 실행형)|**ATP 계획 2**<br>(이전의 위협 인텔리전스 <br>독립| Office 365 Enterprise E5|
+|**기능**|**ATP 계획 1**<br>(이전의 ATP 독립 실행형)|**ATP 계획 2**<br>(이전의 위협 인텔리전스 <br>독립| Microsoft 365 E5/E5 보안|
 |:-----|:-----|:-----|:-----|
 |*구성, 보호 및 검색*|
 |[안전한 첨부 파일](#safe-attachments)|예|예|예|
 |팀의 안전한 첨부 파일|예|예|예|
 |[안전한 링크](#safe-links)|예|예|예|
+|[안전한 문서](#safe-documents)|아니요|아니요|예|
 |Teams의 안전한 링크|예|예|예|
 |[SharePoint, OneDrive 및 Microsoft 팀에 대 한 ATP](#atp-for-sharepoint-onedrive-and-microsoft-teams)|예|예|예|
 |[피싱 방지 정책](#anti-phishing-policies)|예|예|예|
@@ -123,13 +124,32 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 > [!NOTE]
 > 사용자에 게 ATP 라이선스가 있어야 <sup>\*</sup> 하 고, Atp 안전한 링크 정책에 포함 되어야 하며, 보호를 위해 해당 장치에 로그인 되어 있어야 합니다.
 >
-> <sup>\*</sup>조직 전반의 ATP 라이선스 (예: ATP_ENTERPRISE_FACULTY)의 경우에는 개별 사용자에 게 ATP 라이선스를 할당할 필요가 없습니다.
+> <sup>\*</sup> 조직 전반의 ATP 라이선스 (예: ATP_ENTERPRISE_FACULTY)의 경우에는 개별 사용자에 게 ATP 라이선스를 할당할 필요가 없습니다.
 >
 > ATP 안전한 링크 보호에 대 한 자세한 내용은 [How To Safe 링크가 Office 문서의 url과 함께 작동 하는 방식을](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-atp-safe-links-works#how-atp-safe-links-works-with-urls-in-office-documents)참조 하세요.
 
+### <a name="safe-documents"></a>안전한 문서
+
+[ATP 안전한 문서](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs) 기능은 [Microsoft Defender Advanced Threat Protection](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 을 사용 하 여 [제한 된 보기](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)에서 열린 문서와 파일을 검색 합니다.
+
+시작하기 전에 알아야 할 사항은 무엇인가요?
+
+- 이제 Office 버전 2004 (12730) 이상이 있는 사용자는 안전한 문서를 사용할 수 있습니다. 이 기능은 기본적으로 해제 되어 있으며 보안 관리자가 사용 하도록 설정 해야 합니다.
+
+- 이 기능은 Microsoft 365 E5 또는 Microsoft 365 E5 보안 라이선스가 있는 사용자만 사용할 수 있습니다 (Office 365 ATP 계획에 포함 되지 않음).
+
+- IOS 및 Android 장치의 Office 앱은 물론 Word, Excel, PowerPoint, Visio의 Windows
+
+- Microsoft 팀 채널 및 채팅
+
+> [!NOTE]
+> 사용자에 게 Microsoft 365 E5 또는 Microsoft 365 E5 보안에 대 한 라이선스가 있어야 <sup>\*</sup> 하 고, ATP 안전한 문서 정책에 포함 되어야 하며, 보호를 위해 장치에 로그인 되어 있어야 합니다.
+>
+> ATP 안전한 문서 보호에 대 한 자세한 내용은 [Microsoft 365 E5의 안전 문서](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs)를 참조 하세요.
+
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>SharePoint, OneDrive 및 Microsoft Teams에 대한 ATP
 
-[SharePoint, OneDrive 및 Microsoft 팀의 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) 는 팀 사이트 및 문서 라이브러리에서 악의적으로 식별 된 파일을 검색 하 고 차단 하는 데 도움이 됩니다. 또한 이제는 Microsoft 팀 채널과 채팅에서 ATP 안전한 링크 보호 기능을 사용할 수 있습니다.
+[SharePoint, OneDrive 및 Microsoft 팀의 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)  는 팀 사이트 및 문서 라이브러리에서 악의적으로 식별 된 파일을 검색 하 고 차단 하는 데 도움이 됩니다. 또한 이제는 Microsoft 팀 채널과 채팅에서 ATP 안전한 링크 보호 기능을 사용할 수 있습니다.
 
 ### <a name="anti-phishing-policies"></a>피싱 방지 정책
 
