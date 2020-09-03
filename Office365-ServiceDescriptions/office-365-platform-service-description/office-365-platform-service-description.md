@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Exchange Online 계획을 비롯 하 여 계획 간의 차이점을 확인 하는 경우이 문서에 각 기능에 포함 되는 기능이 표시 됩니다.
-ms.openlocfilehash: b011201ed43d27a0efbb14413eb11a2853906133
-ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
+ms.openlocfilehash: 20982db7e0b858d6220e79871e9a2933957dfa7f
+ms.sourcegitcommit: 0aa413228626ed0e151589c9964308aedf1ca374
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2020
-ms.locfileid: "47315359"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47337854"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 및 Office 365 플랫폼 서비스 설명
 
@@ -96,23 +96,23 @@ Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 �
 |Azure Information Protection을 사용하여 콘텐츠 보호  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |
 |**[Microsoft 365 제품군 기능](office-365-suite-features.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**비즈니스용 Microsoft 365 앱** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Microsoft Bookings  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Microsoft 브리핑 전자 메일<sup>21</sup>  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft Power Automate  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>13</sup> <br/> |
+|Microsoft 브리핑 전자 메일<sup>20</sup>  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Microsoft Power Automate  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>12</sup> <br/> |
 |Microsoft Forms  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Graph API  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft MyAnalytics<sup>19</sup>  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|Microsoft MyAnalytics<sup>18</sup>  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Microsoft Planner  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft PowerApps  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>12</sup> <br/> | 
-|Microsoft Project for web ( <sup>22</sup> ) <br/> |예 <br/> |아니요 <br/>|예 <br/> |예 <br/> |예 <br/> |예 <br/> | 예 <br/> |
+|Microsoft PowerApps  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <br/> | 
+|웹에 대 한 Microsoft Project <sup>21</sup> <br/> |예 <br/> |아니요 <br/>|예 <br/> |예 <br/> |예 <br/> |예 <br/> | 예 <br/> |
 |Microsoft StaffHub  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft Stream  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>17</sup> <br/> |
+|Microsoft Stream  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>16</sup> <br/> |
 |Microsoft Sway  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |예<sup>8</sup> <br/> |
 |Microsoft 팀<sup>10</sup> <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <br/> |
 |Office Delve  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Microsoft 365 그룹  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Office 365 비디오  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>11</sup> <br/> |
-|OneNote 수업용 전자 필기장  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>14</sup> <br/> |아니요  <br/> |
-|Microsoft Kaizala<sup>18</sup> <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <br/> |
+|OneNote 수업용 전자 필기장  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>13</sup> <br/> |아니요  <br/> |
+|Microsoft Kaizala<sup>17</sup> <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <br/> |
 |Microsoft Search|아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |
 |**[사용자 계정 관리](user-account-management.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**비즈니스용 Microsoft 365 앱** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |클라우드 ID, 페더레이션 ID 또는 다단계 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -126,7 +126,7 @@ Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 �
 |Microsoft 365에서 보안 그룹 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |사용할 수 있는 여러 관리자 역할  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |파트너가 Microsoft 365을 관리 하도록 허용  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Azure Active Directory 서비스<sup>20</sup>  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Azure Active Directory 서비스<sup>19</sup>  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[도메인](domains.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**비즈니스용 Microsoft 365 앱** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |사용자 지정 2차 수준 도메인 추가(예: fourthcoffee.com)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |사용자 지정 3차 수준 도메인 추가(예: marketing.fourthcoffee.com)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -185,8 +185,8 @@ Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 �
 |Office 365 Cloud App Security  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |Advanced Threat Protection  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |Customer Lockbox  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|고객 키<sup>15</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|고급 eDiscovery<sup>16</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
+|고객 키<sup>14</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
+|Advanced eDiscovery<sup>15</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |Microsoft 보안 점수<sup>7</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |**[규정 준수](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
@@ -216,14 +216,13 @@ Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 �
 <br/><sup>9</sup> 개의 환경이 감소 했습니다. 조직이 Internet Explorer 8 또는 Internet Explorer 9에 의존 하 여 이전 웹 앱 및 서비스에 액세스 하는 경우 internet explorer 11로 업그레이드 하 고 Internet Explorer 11 엔터프라이즈 모드를 평가 하는 것을 고려할 수 있습니다. 이 업데이트를 통해 레거시 Web Apps에 대한 이전 버전과의 호환성을 개선할 수 있습니다. 
 <br/><sup>10</sup> microsoft 팀은 Microsoft 365 business Basic, Microsoft 365 Business Standard, Office 365 Enterprise (E1, E3, E5, F3) 및 Office 365 교육용 요금제에서 사용할 수 있습니다. 
 <br/><sup>11</sup> Office 365 Enterprise F3, Office 365 비디오는 보기 전용으로 제한 됩니다 (게시 하거나 공유할 수 없음). 
-<br/><sup>12</sup> Office 365 Enterprise F3, PowerApps는 사용 전용으로 제한 됩니다 (게시 하거나 공유할 수 없음). 
-<br/><sup>13</sup> Office 365 Enterprise F3, 흐름은 소비율만을 사용 하도록 제한 되며 실행은 매달 사용자 당 750로 제한 됩니다. 
-<br/><sup>14</sup> Office 365 E5 교육을 포함 하 여 Office 365 교육용 요금제 에서만 사용할 수 있습니다. Office 365 Enterprise E5에서는 사용할 수 없습니다. 
-<br/><sup>15</sup> 자세한 내용은 [고객 키를 사용한 서비스 암호화](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요. 
-<br/><sup>16</sup> 고급 EDiscovery는 미국 및 서유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.)
-<br/><sup>17</sup> Stream의 소비만: 게시 하거나 공유할 필요가 없습니다.
-<br/><sup>18</sup> 5 월 2019 일, 기존 적격 365 Sku 및 Microsoft 365는 Kaizala Pro를 사용 하 여 backfilled 됩니다. 2019 년 6 월 1 일부 Kaizala Pro는 모든 적격 Office 365 및 Microsoft 365 Sku에 포함 됩니다.
-<br/><sup>19</sup> 자세한 내용은 [myanalytics 요금제 and 환경용](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)을 참조 하십시오.
-<br/><sup>20</sup> [azure active directory 가격](https://azure.microsoft.com/pricing/details/active-directory/) 페이지의 **Office 365 Apps** 열에 설명 된 azure active directory 기능을 포함 합니다. 프리미엄 Azure AD 기능을 얻으려면 Azure Active Directory 계획 1 또는 계획 2, 엔터프라이즈 모바일 보안 또는 Microsoft 365 E3 또는 E5를 추가 해야 합니다.<br/>
-<sup>21</sup> Exchange Online의 모든 사용자에 게 브리핑 전자 메일이 자동으로 제공 됩니다. 자세한 내용은 [브리핑 전자 메일 구성을](https://docs.microsoft.com/Briefing/be-admin)참조 하세요.<br>
-<sup>22</sup> 기능에 대 한 자세한 내용은 [Microsoft Project service description](../project-online-service-description/project-online-service-description.md)을 참조 하세요. 사용자에 게는 웹 프로젝트에 대 한 제한 된 액세스 권한이 부여 됩니다. 이러한 권한은 웹 응용 프로그램의 프로젝트와만 사용 하도록 제한 되며 프로젝트 계획 1, 프로젝트 계획 3 또는 프로젝트 계획 5 라이선스가 있는 테 넌 트에 대해서만 사용할 수 있습니다. 이러한 권한에는 전원 플랫폼 응용 프로그램 또는 기타 데이터 집합, Project Online 데스크톱 클라이언트 또는 Project Online에 대 한 액세스 권한을 부여 하지 않습니다.
+<br/><sup>12</sup> Office 365 Enterprise F3, 흐름은 소비율만을 사용 하도록 제한 되며 실행은 매달 사용자 당 750로 제한 됩니다. 
+<br/><sup>13</sup> Office 365 E5 교육을 포함 하 여 Office 365 교육용 요금제 에서만 사용할 수 있습니다. Office 365 Enterprise E5에서는 사용할 수 없습니다. 
+<br/><sup>14</sup> 자세한 내용은 [고객 키를 사용한 서비스 암호화](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요. 
+<br/><sup>15</sup> 고급 EDiscovery는 미국 및 서유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.)
+<br/><sup>16</sup> Microsoft Stream의 소비량: 게시 하거나 공유할 필요가 없습니다.
+<br/><sup>17</sup> 년 5 월 2019 일, 기존 적격 365 Sku 및 Microsoft 365는 Kaizala Pro를 사용 하 여 backfilled 됩니다. 2019 년 6 월 1 일부 Kaizala Pro는 모든 적격 Office 365 및 Microsoft 365 Sku에 포함 됩니다.
+<br/><sup>18</sup> 자세한 내용은 [myanalytics 요금제 and 환경용](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)을 참조 하십시오.
+<br/><sup>19</sup> [azure active directory 가격](https://azure.microsoft.com/pricing/details/active-directory/) 페이지의 **Office 365 Apps** 열에 설명 된 azure active directory 기능을 포함 합니다. 프리미엄 Azure AD 기능을 얻으려면 Azure Active Directory 계획 1 또는 계획 2, 엔터프라이즈 모바일 보안 또는 Microsoft 365 E3 또는 E5를 추가 해야 합니다.<br/>
+<sup>20</sup> Exchange Online의 모든 사용자에 게 브리핑 전자 메일이 자동으로 제공 됩니다. 자세한 내용은 [브리핑 전자 메일 구성을](https://docs.microsoft.com/Briefing/be-admin)참조 하세요.<br>
+<sup>21</sup> 기능에 대 한 자세한 내용은 [Microsoft Project service description](../project-online-service-description/project-online-service-description.md)을 참조 하세요. 사용자에 게는 웹 프로젝트에 대 한 제한 된 액세스 권한이 부여 됩니다. 이러한 권한은 웹 응용 프로그램의 프로젝트와만 사용 하도록 제한 되며 프로젝트 계획 1, 프로젝트 계획 3 또는 프로젝트 계획 5 라이선스가 있는 테 넌 트에 대해서만 사용할 수 있습니다. 이러한 권한에는 전원 플랫폼 응용 프로그램 또는 기타 데이터 집합, Project Online 데스크톱 클라이언트 또는 Project Online에 대 한 액세스 권한을 부여 하지 않습니다.

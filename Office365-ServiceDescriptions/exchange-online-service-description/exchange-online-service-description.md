@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함 하는 구독의 기능 비교를 찾으십니까? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: 3fde5c78c111c8a5e76442b42fc746e289ef340a
-ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
+ms.openlocfilehash: 80c25945014118c78a5b9d61aada73d470f3d7e4
+ms.sourcegitcommit: 0aa413228626ed0e151589c9964308aedf1ca374
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2020
-ms.locfileid: "47315379"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47337864"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -198,9 +198,9 @@ Microsoft 365 Business Premium의 기능 가용성에 대 한 자세한 내용�
 <sup>21</sup> 이 테이블은 클라이언트가 관련 요금제와 함께 작동 하는지 여부를 나타냅니다. 이러한 계획 구매에 클라이언트가 반드시 포함되어야 하는 것을 의미하지는 않습니다. <br/>
 <sup>22</sup> 자세한 내용은 [고객 키를 사용한 서비스 암호화](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)를 참조 하세요. <br/>
 <sup>23</sup> 고객 지원 서비스를 통한 직접 연결을 통한 타사 PBX 시스템에 대 한 EXCHANGE Online UM 지원은 4 월 2019까지 종료 됩니다. 자세한 내용은 [Exchange Online 통합 메시징의 세션 경계 컨트롤러 지원의](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) exchange 팀 블로그 중단을 참조 하십시오. <br/>
-<sup>24</sup> F3 사용자는 자신의 사서함에 대리인을 추가할 수 없지만 공유 사서함을 비롯 한 다른 사서함에 액세스 하 여 위임 된 모든 작업을 수행할 수 있습니다.
+<sup>24</sup> F3 사용자는 자신의 사서함에 대리인을 추가할 수 없지만 공유 사서함을 비롯 한 다른 사서함에 액세스 하 여 위임 된 모든 작업을 수행할 수 있습니다.<br/>
 <sup>25</sup> Microsoft 365 Enterprise 용 앱에 대 한 구독은 exchange server 2013 및 exchange server 2016에도 필요 합니다.
-  
+
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Exchange Online 독립 실행형 계획에서의 기능 가용성
 
 |**기능**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
@@ -282,6 +282,7 @@ Microsoft 365 Business Premium의 기능 가용성에 대 한 자세한 내용�
 |SMTP|예|예|예|예|예|
 |EWS 응용 프로그램 지원|예|예|예|예|아니요|
 |Outlook for Mac|예|예|예|예|아니요|
+|iOS 및 Android용 Outlook<sup>21</sup>|예<sup>25</sup>|예<sup>25</sup>|예|예|예|
 |**[음성 메시지 서비스](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |음성 사서함|예|예|아니요|예|아니요|
 |타사 음성 사서함 상호 운용성|예|예|예|예|예|
@@ -330,4 +331,5 @@ Microsoft 365 Business Premium의 기능 가용성에 대 한 자세한 내용�
 <sup>21</sup> 일부 타사 웹 파트 및 추가 기능을 사용 하지 못할 수 있습니다. <br/>
 <sup>22</sup> eDiscovery의 경우 온-프레미스 및 클라우드에 대해 별도의 쿼리가 필요 합니다. <br/>
 <sup>23</sup> Exchange Online 키오스크에서는 온-프레미스 서버와의 사용률에 대 한 액세스 권한을 제공 하지 않습니다. 규정을 준수 하려면 고객은 해당 Cal을 구매 하거나 이전에 해당 액세스 권한을 제공 하는 Enterprise SKU로 업그레이드 해야 합니다. <br/>
-<sup>24</sup> 개의 Microsoft 365 그룹을 제한 된 기능으로 사용할 수 있습니다.
+<sup>24</sup> 개의 Microsoft 365 그룹을 제한 된 기능으로 사용할 수 있습니다.<br/>
+<sup>25</sup> Microsoft 365 Enterprise 용 앱에 대 한 구독은 exchange server 2013 및 exchange server 2016에도 필요 합니다.
