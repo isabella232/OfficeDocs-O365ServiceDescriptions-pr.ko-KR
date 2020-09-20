@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Microsoft 365 및 Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다.
-ms.openlocfilehash: eee5117fd3279d9989796c9513e105e6003e8495
-ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
+ms.openlocfilehash: ab28bb301e105118ce058102f6cdda42d645f367
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "47255895"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134015"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -30,7 +30,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**서비스** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Office 365 플랫폼  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|웹에 대 한 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|웹용 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |엔터프라이즈용 Microsoft 365 앱  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange Online  <br/> |예<sup>1</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |
 |SharePoint Online  <br/> |예<sup>3</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |
@@ -80,10 +80,10 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |Office 365 Cloud App Security  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |교육을 위한 Intune<sup>8</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |Advanced Threat Analytics  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|Windows Defender Antivirus  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+|Microsoft Defender 바이러스 백신  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |Device Guard  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |**고급 보안** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
-|Advanced Threat Protection  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
+|Office 365 Advanced Threat Protection  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |Cloud App Security  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |Microsoft Defender Advanced Threat Protection  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>13</sup>  <br/> |

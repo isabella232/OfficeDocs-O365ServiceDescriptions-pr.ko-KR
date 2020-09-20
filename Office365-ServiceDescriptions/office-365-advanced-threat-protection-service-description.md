@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP)은 강력한 제로 보호를 제공 하 여 알 수 없는 맬웨어 및 바이러스 로부터 조직을 보호 하는 클라우드 기반 전자 메일 필터링 서비스로, 실시간으로 유해한 링크 로부터 조직을 보호 하는 기능을 포함 합니다.
-ms.openlocfilehash: 0e9c7e76cabd9f39a13c16689a4255732617b09d
-ms.sourcegitcommit: 0f2d249dfc93432e17344f70b8317a455204f018
+ms.openlocfilehash: 3a611a3a7158586010f877bd88d0ec21aecc78f4
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47318945"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134045"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection 서비스 설명
 
@@ -111,15 +111,15 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 
 [ATP Safe Links](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) 기능은 메시지나 Office 문서의 악의적인 url 로부터 사용자를 사전에 보호 합니다. 악의적인 링크는 동적으로 차단되지만 정상 링크에는 액세스할 수 있으므로 링크를 선택할 때마다 보호 기능이 유지됩니다.
 
-다음과 같은 앱의 Url에 대해 안전한 링크를 사용할 수 있습니다.
+다음과 같은 앱에서 URL에 대한 안전한 링크를 사용할 수 있습니다.
 
 - Windows 또는 Mac의 엔터프라이즈에 대 한 Microsoft 365 앱
 
-- 웹 (웹의 Word, 웹의 경우 Excel, 웹의 경우 PowerPoint, 웹의 OneNote)에 대 한 Office
+- 웹용 Office(웹용 Word, 웹용 Excel, 웹용 PowerPoint, 웹용 OneNote)
 
-- IOS 및 Android 장치의 Office 앱은 물론 Word, Excel, PowerPoint, Visio의 Windows
+- Windows의 Word, Excel 및 PowerPoint
 
-- Microsoft 팀 채널 및 채팅
+- Microsoft Teams 채널 및 채팅
 
 > [!NOTE]
 > 사용자에 게 ATP 라이선스가 있어야 <sup>\*</sup> 하 고, Atp 안전한 링크 정책에 포함 되어야 하며, 보호를 위해 해당 장치에 로그인 되어 있어야 합니다.
@@ -138,9 +138,9 @@ ATP는 Microsoft Exchange Server와 같은 SMTP 메일 전송 에이전트와 �
 
 - 이 기능은 Microsoft 365 E5 또는 Microsoft 365 E5 보안 라이선스가 있는 사용자만 사용할 수 있습니다 (Office 365 ATP 계획에 포함 되지 않음).
 
-- IOS 및 Android 장치의 Office 앱은 물론 Word, Excel, PowerPoint, Visio의 Windows
+- iOS 및 Android 장치의 Office 앱과 Windows의 Word, Excel, PowerPoint 및 Visio
 
-- Microsoft 팀 채널 및 채팅
+- Microsoft Teams 채널 및 채팅
 
 > [!NOTE]
 > 사용자에 게 Microsoft 365 E5 또는 Microsoft 365 E5 보안에 대 한 라이선스가 있어야 <sup>\*</sup> 하 고, ATP 안전한 문서 정책에 포함 되어야 하며, 보호를 위해 장치에 로그인 되어 있어야 합니다.

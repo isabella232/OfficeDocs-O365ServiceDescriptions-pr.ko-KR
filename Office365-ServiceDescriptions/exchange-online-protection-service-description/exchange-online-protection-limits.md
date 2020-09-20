@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 현재 Exchange Online Protection에 대 한 제한은 다음과 같습니다. 별도로 지정 되지 않은 경우 이러한 제한은 구성할 수 없습니다.
-ms.openlocfilehash: 3c5a8e0c5f9a19c9cae81b3bc1e39bb153af0137
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: baf6bc688492ca340442ee2d14f98bd9e135c43d
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45133012"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134055"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 제한
 
@@ -26,6 +26,8 @@ ms.locfileid: "45133012"
 > Exchange Online의 제한 사항에 대 한 자세한 내용은 [Exchange online 제한을](../exchange-online-service-description/exchange-online-limits.md)참조 하세요. EOP 독립 실행형 고객에게는 전송 규칙 제한도 적용됩니다. Exchange Online의 받는 사람 처리 속도 및 메시지 속도 제한은 EOP 독립 실행형 고객에게 적용되지 않습니다. 
   
 - **도메인 제한** 테넌트당 도메인을 900개까지 추가할 수 있습니다. 하위 도메인은 이 900개 제한 내에 포함되거나 보완 옵션인 하위 도메인 일치의 일부분으로 포함될 수 있습니다. 자세한 내용은 [EOP에서 허용 도메인 관리](https://go.microsoft.com/fwlink/p/?LinkId=282239)를 참조하세요.
+
+- **원격 도메인 제한** 테 넌 트 당 최대 200 개의 원격 도메인을 추가할 수 있습니다.
     
 - **메시지 크기 제한** EOP 독립 실행형 고객의 최대 메시지 크기는 첨부 파일을 포함하여 150MB입니다. 
     

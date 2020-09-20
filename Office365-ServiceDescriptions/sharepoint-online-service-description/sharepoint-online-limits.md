@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 및 독립 실행형 계획에 대 한 SharePoint 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: a8b42885b558d04aee0ed3743cffc203dde2f248
-ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
+ms.openlocfilehash: d01e2af69d566b0e44d515e762049acd3cfba864
+ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/12/2020
-ms.locfileid: "46649598"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "47962097"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -49,7 +49,7 @@ Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>목록 또는 라이브러리의 항목에 대 한 고유 권한
 
-지원 되는 제한은 5만 고유 고유한 항목 이지만 권장 되는 일반적인 제한은 5000입니다. 5000 개 보다 많은 고유한 항목을 한 번에 변경 하는 것이 더 오래 걸립니다. 큰 목록의 경우에는 가능한 한 한 가지 고유한 사용 권한을 갖도록 디자인 합니다.
+허용 되는 제한은 5만 고유 고유한 항목 이지만 권장 되는 일반적인 제한은 5000입니다. 5000 개 보다 많은 고유한 항목을 한 번에 변경 하는 것이 더 오래 걸립니다. 큰 목록의 경우에는 가능한 한 한 가지 고유한 사용 권한을 갖도록 디자인 합니다.
 
 다른 제한은 고유 고유한 수 있는 항목 별로 5000 역할 할당입니다. 
 
