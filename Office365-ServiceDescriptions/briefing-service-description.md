@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: 브리핑 전자 메일을 사용 하면 사용자가 하루를 가장 많이 만들 수 있습니다. 다양 한 요소에서의 기회를 식별 하 고 적시에 미리 알림을 제공 합니다.
-ms.openlocfilehash: 57d12fa0edd5f91184084c3c6e49e16266ff7bf4
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: 06509aafad67451fb1f75d15649351ec2101689a
+ms.sourcegitcommit: cc39932b65461bded971132ba058bd4e005b9072
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134035"
+ms.lasthandoff: 09/21/2020
+ms.locfileid: "48170533"
 ---
 # <a name="briefing-email-service-description"></a>브리핑 전자 메일 서비스 설명
 

@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 팀은 인스턴트 메시징, 파일 및 데이터 공동 작업, 오디오 및 비디오 통화, 리치 온라인 모임, 모바일 환경 및 광범위 한 웹 회의 기능을 제공 합니다.
-ms.openlocfilehash: 81dd8ad165c0a0155544b929dd8abee767fa150a
-ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
+ms.openlocfilehash: e9e537fc9c9bb54110d126d6007dcc209ebaa0e8
+ms.sourcegitcommit: e201e94eff3463c71d5c4b24db0148eee351fb1c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46531211"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48175185"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -22,11 +22,10 @@ Microsoft 팀은 Microsoft 365의 팀 작업에 대 한 허브입니다. 팀 서
 
 Microsoft는 데이터의 보안 및 서비스의 [내게 필요한 옵션](https://www.microsoft.com/trust-center/compliance/accessibility) 에 대 한 커밋된 상태를 유지 합니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조 하세요.
 
-여기에는 Microsoft 팀을 위해 사용자를 사용할 수 있도록 하는 구독에 대 한이 마스터 테이블이 포함 되어 있습니다. 자세한 계획 정보는 [비즈니스에 적합 한 Microsoft 팀을 찾으십시오](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1).를 참조 하세요. 정부 계획의 추가 Office 365에 대 한 자세한 내용은 [office 365 정부 요금제](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)를 참조 하세요. Office 365 G1 to G5에는 팀 기능에 대 한 액세스 권한이 포함 됩니다.
+여기에는 Microsoft 팀을 위해 사용자를 사용할 수 있도록 하는 구독에 대 한이 마스터 테이블이 포함 되어 있습니다. 자세한 계획 정보는 [비즈니스에 적합 한 Microsoft 팀을 찾으십시오](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1).를 참조 하세요. 정부 계획의 추가 Office 365에 대 한 자세한 내용은 [office 365 정부 요금제](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)를 참조 하세요. Office 365 G1 to G5에는 팀 기능에 대 한 액세스 권한이 포함 됩니다.<br><br>
 
-|||||||||
+| 소규모 기업 계획 | 엔터프라이즈 계획 | 교육 계획 | 개발자 계획 |
 |:-----|:-----|:-----|:-----|
-|**소규모 기업 계획** <br/> |**엔터프라이즈 계획** <br/> |**교육 계획** <br/> |**개발자 계획** <br/> |
 |Microsoft 365 Business Basic <br/> |Office 365 E1 <br/> |Office 365 A1 <br/> |Office 365 개발자 <br/> |
 |Microsoft 365 Business Standard <br/> |Office 365 E3 <br/> |Office 365 A3 <br/>|   <br/> |
 |Microsoft 365 Business Premium <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
@@ -48,26 +47,25 @@ Microsoft 팀은 독립 실행형 서비스로 사용할 수 없습니다.
 
 ## <a name="feature-category-reference"></a>기능 범주 참조 
 
-이 표에는 라이선스 계획 또는 클라우드 인스턴스에서의 Microsoft 팀 기능 사용 가능 여부가 나와 있습니다. 특정 주의 사항이 적용 됩니다. 자세한 내용은 각주를 참조 하세요. 이 표는 예 고 없이 변경 될 수 있습니다. 핵심 서비스 변경 메시지 및 [microsoft 라이선스 용어 참조 설명서](https://www.microsoft.com/licensing/product-licensing/products)에 대 한 자세한 내용은 Microsoft 365 메시지 센터 알림을 참조 하십시오.
+이 표에는 라이선스 계획 또는 클라우드 인스턴스에서의 Microsoft 팀 기능 사용 가능 여부가 나와 있습니다. 특정 주의 사항이 적용 됩니다. 자세한 내용은 각주를 참조 하세요. 이 표는 예 고 없이 변경 될 수 있습니다. 핵심 서비스 변경 메시지 및 [microsoft 라이선스 용어 참조 설명서](https://www.microsoft.com/licensing/product-licensing/products)에 대 한 자세한 내용은 Microsoft 365 메시지 센터 알림을 참조 하십시오.<br><br>
 
-|||||||
+| 기능 | 소규모 기업 | 엔터프라이즈 계획 | GCC | GCC-고가용성 | DOD | Education |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-| <br/>|**소규모 기업** <br/> |**엔터프라이즈 계획** <br/> |**GCC** <br/> |**GCC-고가용성** <br/> |**여기서** <br/> |**교육** <br/> |
 |채팅  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Teams  <br/> |예 <br/> |예 <br/> |예 <br/> |예<sup>1</sup>  <br/> |예<sup>1</sup>  <br/> |예  <br/> |
 |채널-표준  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|채널-개인  <br/> |예  <br/> |예<sup>2</sup>  <br/> |예 <br/> |아니요  <br/> |아니요 <br/> |지원  <br/> |
-|모임  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|채널-개인  <br/> |예  <br/> |예<sup>2</sup>  <br/> |예 <br/> |아니요  <br/> |아니요 <br/> |예  <br/> |
+|Meetings  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |화면 공유 PowerPoint Audio/Video Desktop <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |음성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |오디오 회의  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |앱, Bot, & 커넥터  <br/> |예  <br/> |예  <br/> |예<sup>3</sup>  <br/> |예<sup>3</sup>  <br/> |예<sup>3</sup>  <br/> |예  <br/> |
 |라이브 이벤트  <br/> |아니요  <br/> |예  <br/> |예  <br/> |<sup>4</sup> 없음  <br/> |<sup>4</sup> 없음  <br/> |예  <br/> |
 
-<sup>1</sup> 개별 팀에서 GCC-고가용성 및 DOD 지원 2500 구성원의 Microsoft 팀<br/>
-<sup>2</sup> Microsoft Planner는 현재 개인 채널에서 액세스 하는 데 사용할 수 없습니다.<br/>
-<sup>3</sup> Microsoft ONENOTE는 DOD 클라우드에서 사용할 수 없습니다. 지금은이 클라우드에서 응용 프로그램 및 응용 프로그램 게시를 사용할 수 없습니다.<br/>
-<sup>4</sup> 현재는 GCC-HIGH 또는 DOD에서 Live 이벤트를 사용할 수 없습니다.<br/>
+> <sup>1</sup>  개별 팀에서 GCC-고가용성 및 DOD 지원 2500 구성원의 Microsoft 팀<br/>
+> <sup>2</sup> Microsoft Planner는 현재 개인 채널에서 액세스 하는 데 사용할 수 없습니다.<br/>
+> <sup>3</sup> Microsoft ONENOTE는 DOD 클라우드에서 사용할 수 없습니다. 지금은이 클라우드에서 응용 프로그램 및 응용 프로그램 게시를 사용할 수 없습니다.<br/>
+> <sup>4</sup> 현재는 GCC-HIGH 또는 DOD에서 Live 이벤트를 사용할 수 없습니다.<br/>
 
 ## <a name="next-steps"></a>다음 단계
 
