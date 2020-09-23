@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: 283491c67a8000dfc7d2b46f40c21e8a51d6bd07
-ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
+ms.openlocfilehash: e146341f817672b7bc7d5a98c43ed337e48db07d
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798384"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214387"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -148,6 +148,32 @@ MCAS에서 조건부 Access 앱 제어 기능을 활용 하려면 사용자에 �
 
 관리자는 서비스에서 사용할 수 있는 범위가 지정 된 배포 기능을 사용 하 여 라이선스 사용자에 게 MCAS 배포의 범위를 지정할 수 있습니다. 자세한 내용은 범위가 지정 된 [배포](https://docs.microsoft.com/cloud-app-security/scoped-deployment)를 참조 하세요.
 
+## <a name="compliance-manager"></a>규정 관리자
+
+규정 준수를 단순화 하 고 준수 관리자의 위험을 줄입니다. 준수 관리자는 조직이 규정, 표준, 회사 정책 또는 기타 원하는 제어 프레임 워크의 요구 사항을 충족 하는 데 도움이 됩니다.
+
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+
+다음은 준수 관리자의 사용자에 게 제공 되는 혜택입니다.
+
+- 복잡 한 규정, 표준, 회사 정책 또는 기타 원하는 제어 프레임 워크를 간단한 언어로 변환 합니다.
+- 고유한 규정 준수 요구를 충족 하기 위해 기본 평가 및 사용자 지정 평가의 방대한 라이브러리에 액세스할 수 있습니다.
+- 규정 통제를 권장 되는 개선 작업에 매핑
+- 규정 요구 사항을 충족 하는 솔루션을 구현 하는 방법에 대 한 단계별 지침을 제공 합니다.
+- 각 작업에 점수를 연결 하 여 조직의 규정 준수에 가장 큰 영향을 주는 작업의 우선 순위를 사용자에 게 줍니다.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+
+Office 365 E1/A1/E3/A3 및 Microsoft 365 E3/A3 라이선스를 사용 하는 고객은 데이터 보호 기준 평가에 액세스할 수 있습니다. Office 365 E5/A5와 Microsoft 365 E5/A5 라이선스를 사용 하는 고객은 데이터 보호 기준, GDPR, NIST 800-53 및 ISO 22701 for 기본 평가에 액세스할 수 있습니다. 프리미엄 평가는 Office 365 E5/A5 및 Microsoft 365 E5/A5 고객에 게 구매할 수 있습니다.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+
+준수 관리자는 기본적으로 테 넌 트에 대해 프로 비전 됩니다. 관리자는 조직의 관리자가 아닌 사용자가 준수 관리자를 사용 하 여 시작할 수 있도록 사용자 권한을 설정 하 고 역할을 할당 합니다. 자세한 내용은 [설명서](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)를 참조 하십시오.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+
+준수 관리자에 대 한 액세스는 사용자 권한 설정 및 역할 할당에 의해 제어 됩니다. 자세한 내용은 [설명서](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles) 를 참조 하세요.
+
 ## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
 
 Microsoft Defender ATP는 위험 기반 취약성 관리 및 평가를 포함 하는 끝점 보안 솔루션입니다. 공격 표면 축소 기능 동작 기반 차세대 차세대 보호 기능 EDR (끝점 검색 및 응답); 자동 조사 및 수정 및 관리 되는 구하기 서비스 자세한 내용은 [Microsoft DEFENDER ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) 페이지를 참조 하세요.
@@ -201,7 +227,7 @@ AIP 스캐너 기능의 경우 Microsoft는 라이선스가 없는 사용자에 
 
 ## <a name="information-governance"></a>정보 거 버 넌 스
 
-정보 관리 조직은 조직에서 데이터를 검색, 분류, 레이블 지정 하 고 관리 하는 방법으로 위험을 관리할 수 있도록 지원 합니다. 정보 거 버 넌 스에서는 조직이 비즈니스 및 규정 요구 사항을 충족 하 고 Microsoft 365 및 타사 데이터에 보존 및 삭제 기능을 제공 하 여 공격 허점을 줄일 수 있습니다.
+정보 거 버 넌 스 조직은 데이터 검색, 분류, 레이블 지정 및 관리를 통해 위험을 관리할 수 있도록 지원 합니다. 정보 거 버 넌 스에서는 조직이 비즈니스 및 규정 요구 사항을 충족 하 고 Microsoft 365 및 타사 데이터에 보존 및 삭제 기능을 제공 하 여 공격 허점을 줄일 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -227,15 +253,15 @@ Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
-기본적으로 정보 관리 기능은 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다. 사용이 허가 된 사용자에 대 한 자동 레이블 및 정책을 적용 하기 위한 정보 관리 기능을 구성 하는 방법에 대 한 자세한 내용은 [Manage Information 지배](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)
+기본적으로 정보 관리 기능은 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다. 사용이 허가 된 사용자에 대 한 autolabeling 및 정책을 적용 하기 위한 정보 관리를 구성 하는 방법에 대 한 자세한 내용은 [Manage Information 거 관리](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
-정보 거 버 넌 스는 특정 위치 (팀 사이트, 그룹 사이트 등)의 사용이 허가 된 사용자에 게 적용할 수 있습니다. 사용이 허가 된 사용자에 대 한 자동 레이블 및 정책을 적용 하기 위한 정보 관리 기능을 구성 하는 방법에 대 한 자세한 내용은 [Manage Information 지배](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)
+정보 거 버 넌 스는 특정 위치 (팀 사이트, 그룹 사이트 등)의 사용이 허가 된 사용자에 게 적용할 수 있습니다. 사용이 허가 된 사용자에 대 한 autolabeling 및 정책을 적용 하기 위한 정보 관리를 구성 하는 방법에 대 한 자세한 내용은 [Manage Information 거 관리](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)
 
 ## <a name="records-management"></a>레코드 관리
 
-레코드 관리 조직에서는 Microsoft 365 및 타사 데이터에 대해 검색, 분류, 레이블 지정, 보존 및 defensible 삭제 기능을 통해 비즈니스 및 규정을 준수 하는 책임을 지 원하는 조직을 지원 합니다.
+레코드 관리는 조직이 Microsoft 365 및 타사 데이터를 통해 검색, 분류, 레이블 지정, 보존 및 defensible 삭제 기능을 통해 비즈니스 및 규정을 준수 하는 과정을 안내 합니다.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
@@ -256,6 +282,61 @@ Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
 레코드 관리 기능은 특정 위치 (팀 사이트, 그룹 사이트 등)의 사용이 허가 된 사용자에 게 적용할 수 있습니다. 라이선스가 있는 사용자에 대해 적용할 레코드 관리 구성에 대 한 자세한 내용은 [Microsoft 365의 레코드 관리](https://docs.microsoft.com/microsoft-365/compliance/records-management)를 참조 하세요.
+
+## <a name="data-connectors"></a>데이터 커넥터 
+
+Microsoft는 Microsoft 365 준수 센터에서 구성할 수 있는 타사 데이터 커넥터를 제공 합니다. Microsoft에서 제공 하는 데이터 커넥터 목록은 [타사 데이터 커넥터](https://docs.microsoft.com/microsoft-365/compliance/archiving-third-party-data) 테이블을 참조 하십시오. 또한이 표에는 Microsoft 365에서 데이터를 가져오고 보관 한 후 타사 데이터에 적용할 수 있는 준수 솔루션과 각 커넥터의 단계별 지침에 대 한 링크가 요약 되어 있습니다.
+
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+
+데이터 커넥터를 사용 하 여 Microsoft 365에서 타사 데이터를 가져오고 보관할 때의 주요 이점은 다양 한 Microsoft 365 준수 솔루션을 가져온 후에 적용할 수 있다는 것입니다. 이렇게 하면 조직에 영향을 주는 규정 및 표준을 준수 하는 조직의 타사 데이터를 확인할 수 있습니다.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+
+다음 라이선스는 사용자가 데이터 커넥터를 통해 혜택을 얻을 수 있는 권한을 제공 합니다.
+
+- Microsoft 365 E5/A5
+- Microsoft 365 E5/A5 정보 보호 & 거 버 넌 스
+- Microsoft 365 E5/A5 규정 준수
+- Microsoft 365 E5/A5 참가자 위험 관리 
+- Microsoft 365 E5/A5 eDiscovery 및 감사 
+- Office 365 E5/A5
+- Office 365 Advanced Compliance
+
+Microsoft 파트너 중 하나에서 제공 하는 M365 보안 & 준수 센터의 데이터 커넥터의 경우 해당 커넥터를 배포 하려면 먼저 조직에 파트너와의 비즈니스 관계가 필요 합니다.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+
+커넥터는 보안 & 준수 센터 및 커넥터 카탈로그를 사용 하 여 구성 됩니다.
+
+### <a name="how-can-the-service-be-applied-only---to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+
+데이터 커넥터 서비스는 테 넌 트 수준 값입니다. 이 서비스에서 혜택을 받을 모든 사용자에 게 라이선스가 있어야 합니다.
+
+## <a name="microsoft-graph-apis-for-teams-dlp"></a>팀 DLP 용 Microsoft Graph Api
+
+올해 [에는 팀의 메시지에 대 한 Microsoft Graph 변경 알림 API의 공개 미리 보기가 발표](https://developer.microsoft.com/en-us/graph/blogs/announcing-change-notifications-for-microsoft-teams-messages)되었습니다. 개발자는이 API를 사용 하 여 실시간으로 Microsoft 팀원에 게 메시지를 들을 수 있는 앱을 작성 하 고 고객 및 Isv 모두에 대해 DLP 시나리오 구현을 사용 하도록 설정 합니다. 또한 Microsoft Graph 패치 API를 사용 하 여 팀 메시지에 DLP 작업을 적용할 수 있습니다.
+
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+
+Microsoft 팀에서는 조직이 원격 작업으로 이동 했을 때 [DLP (데이터 손실 방지)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams?view=o365-worldwide) 기능을 광범위 하 게 사용 합니다. 조직에 DLP가 있는 경우에는 사용자가 Microsoft 팀 채널 또는 채팅 세션에서 중요 한 정보를 공유 하지 못하도록 하는 정책을 정의할 수 있습니다.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+
+팀 채팅에서 DLP (데이터 손실 방지) 보호 기능을 지원 하려면 다음 E5 라이선스 중 하나가 필요 합니다.
+
+- Microsoft 365 E5/A5
+- Microsoft 365 E5/A5 규정 준수
+- Microsoft 365 E5/A5 정보 보호 및 거 버 넌 스
+- Office 365 E5/A5 
+
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+
+API 액세스는 테 넌 트 수준에서 구성 됩니다.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+
+팀 DLP에 대 한 Microsoft Graph API는 테 넌 트 수준 값입니다. 이 서비스에서 혜택을 받을 모든 사용자에 게 라이선스가 있어야 합니다.
 
 ## <a name="ediscovery"></a>eDiscovery
 
@@ -533,9 +614,13 @@ Id 보호 및 조건부 액세스에 대 한 구체적인 경우 사용자를 �
 
 Microsoft 365의 고급 감사는 사용자 및 관리 작업에 대 한 감사 로그를 1 년 동안 보존 하 고, 다른 Microsoft 365 서비스에 대 한 감사 로그 보존을 관리 하기 위한 사용자 지정 감사 로그 보존 정책을 만들 수 있는 기능을 제공 합니다. 또한 Office 365 관리 활동 API에 대 한 조사 및 고대역폭 액세스에 대 한 중요 한 이벤트에 대 한 액세스를 제공 합니다. 자세한 내용은 [Microsoft 365의 고급 감사](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)를 참조 하세요.
 
+추가 기능 SKU를 사용 하 여 보존 기간을 10 년으로 설정할 수도 있습니다. 추가 기능 SKU는 초기 2021부터 시작 해야 합니다.
+
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
 
 Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Microsoft 365 eDiscovery 및 감사의 라이선스가 있는 사용자가 고급 감사를 활용할 수 있습니다.
+
+고급 감사를 포함 하는 라이선스가 있는 사용자, 10 년 감사 로그 보존 추가 기능은 10 년 간 감사 로그 보존을 활용할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
@@ -543,8 +628,10 @@ Microsoft 365 서비스의 사용자 작업과 관련 된 감사 레코드를 �
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
-기본적으로 고급 감사는 Office 365 또는 Microsoft 365 E5 구독이 있는 모든 조직에 대 한 테 넌 트 수준에서 사용 하도록 설정 되며, Azure Active Directory, Exchange 및 SharePoint에서 해당 라이선스가 있는 사용자가 수행 하는 작업에 대 한 감사 로그를 1 년 동안 자동으로 보존 합니다. 또한 조직에서는 감사 로그 보존 정책을 사용 하 여 다른 Microsoft 365 서비스의 활동에 의해 생성 된 감사 레코드의 보존 기간을 관리할 수 있습니다. 자세한 내용은 [감사 로그 보존 정책 관리](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies)를 참조하십시오.
+기본적으로 고급 감사는 Office 365 또는 Microsoft 365 E5 구독이 있는 모든 조직에 대 한 테 넌 트 수준에서 사용 하도록 설정 되며, Azure Active Directory, Exchange 및 SharePoint에서 해당 라이선스가 있는 사용자가 수행 하는 작업에 대 한 감사 로그를 1 년 동안 자동으로 보존 합니다. 또한 조직에서는 감사 로그 보존 정책을 사용 하 여 다른 Microsoft 365 서비스의 활동에 의해 생성 된 감사 레코드의 보존 기간을 관리할 수 있습니다. 또한 동일한 보존 정책을 사용 하 여 10 년 감사 로그 보존 기능을 사용할 수 있습니다. 자세한 내용은 [감사 로그 보존 정책 관리](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies)를 참조하십시오.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
 1 년의 감사 로그 보존 및 중요 한 이벤트 감사는 해당 라이선스가 있는 사용자 에게만 적용 됩니다. 또한 관리자는 감사 로그 보존 정책을 사용 하 여 특정 사용자의 감사 로그에 대해 더 짧은 보존 기간을 지정할 수 있습니다.
+
+10 년의 감사 로그 보존은 적절 한 추가 기능 라이선스가 있는 사용자 에게만 적용 됩니다. 추가 기능 SKU는 초기 2021부터 시작 해야 합니다.

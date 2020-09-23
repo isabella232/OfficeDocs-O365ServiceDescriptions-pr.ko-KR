@@ -13,19 +13,24 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: ac20cda83afbc261035ebd2307660a6e62c872ce
-ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
+ms.openlocfilehash: 17f16feff60a54d3781089a4f08c0eb6e6fb21c2
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2020
-ms.locfileid: "47315369"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214347"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
 
 > [!NOTE]
-> 작업에 대한 도움이 필요한 경우나 문제를 해결하고 있는 경우 다음 문서가 도움이 될 수 있습니다.  <br/> *  [전자 메일](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) (전자 메일 만들기 및 보내기 도움말)  <br/> *  [비즈니스용 Microsoft 365의 전자 메일-관리자 도움말](https://go.microsoft.com/fwlink/?linkid=529722) <br/>   *  [Microsoft 지원 및 복구 도우미에서 Outlook 및 Microsoft 365 문제 해결](https://diagnostics.office.com/) <br/>  *  [전자 메일 배달 못 함 보고서](https://go.microsoft.com/fwlink/?linkid=526653) <br/> *  [Exchange Online 도움말](https://go.microsoft.com/fwlink/?linkid=825607)
+> 작업에 대한 도움이 필요한 경우나 문제를 해결하고 있는 경우 다음 문서가 도움이 될 수 있습니다.
+> - [전자 메일](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) (전자 메일 만들기 및 보내기 도움말)
+>- [비즈니스용 Microsoft 365의 전자 메일-관리자 도움말](https://go.microsoft.com/fwlink/?linkid=529722)
+>- [Microsoft 지원 및 복구 도우미에서 Outlook 및 Microsoft 365 문제 해결](https://diagnostics.office.com/)
+>- [전자 메일 배달 못 함 보고서](https://go.microsoft.com/fwlink/?linkid=526653)
+>- [Exchange Online 도움말](https://go.microsoft.com/fwlink/?linkid=825607)<
 
 Microsoft Exchange Online 제한은 다음 범주 중 하나에 속합니다.
 
@@ -54,7 +59,12 @@ Microsoft Exchange Online 제한은 다음 범주 중 하나에 속합니다.
 - [Exchange ActiveSync limits](#exchange-activesync-limits)
 
 > [!IMPORTANT]
-> *  Microsoft 365 조 직에 적용 된 제한은 조직이 서비스에 등록 된 기간에 따라 다를 수 있습니다. <br/> * Microsoft 데이터 센터에서 제한이 변경 되 면 기존의 모든 고객에 게 변경 사항을 적용 하는 데 시간이 걸릴 수 있습니다. <br/> * 이러한 제한은 대부분 수정할 수 없지만 사용자와 이러한 제한을 잘 알고 있어야 합니다. <br/> * 이러한 제한은 내부 및 외부 받는 사람에 게 모두 적용 됩니다. <br/> * 기본적으로 EOP (Exchange Online Protection)는 Exchange Online 사서함을 보호 합니다. Exchange Online의 EOP 기능에 적용 되는 제한 사항은 [Exchange Online Protection 제한을](../exchange-online-protection-service-description/exchange-online-protection-limits.md)참조 하세요. <br/> * Office 365 그룹 제한에 대 한 자세한 내용은 "내 그룹을 관리 하는 방법"을 참조 하십시오. [Microsoft 365 그룹에 대해 알아봅니다](https://go.microsoft.com/fwlink/?linkid=846714).
+> - Microsoft 365 조 직에 적용 된 제한은 조직이 서비스에 등록 된 기간에 따라 다를 수 있습니다.
+> - 제한이 Microsoft 데이터 센터에서 변경된 경우 기존의 모든 고객에게 변경 사항을 적용하는 데 시간이 걸릴 수 있습니다.
+> - 이러한 제한은 대부분 수정할 수 없지만 사용자와 함께 어떠한 제한이 있는지 알고 있어야 합니다.
+> - 이들 제한은 내부 및 외부의 받는 사람에게 모두 적용됩니다.
+> - 기본적으로 EOP (Exchange Online Protection)는 Exchange Online 사서함을 보호 합니다. Exchange Online의 EOP 기능에 적용 되는 제한 사항은 [Exchange Online Protection 제한을](../exchange-online-protection-service-description/exchange-online-protection-limits.md)참조 하세요.
+> - Office 365 그룹 제한에 대 한 자세한 내용은 "내 그룹을 관리 하는 방법"을 참조 하십시오. [Microsoft 365 그룹에 대해 알아봅니다](https://go.microsoft.com/fwlink/?linkid=846714).
 
 ## <a name="address-book-limits"></a>주소록 제한
 
@@ -71,9 +81,8 @@ Microsoft Exchange Online 제한은 다음 범주 중 하나에 속합니다.
 
 ### <a name="address-book-limits"></a>주소록 제한
 
-||||||||
+| 기능 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |주소 목록 제한|1000|1000|1000|1000|1000|1000|
 |OAB(오프라인 주소록) 제한|250|250|250|250|250|250|
 |ABP(주소록 정책) 제한|250|250|250|250|250|250|
@@ -81,9 +90,8 @@ Microsoft Exchange Online 제한은 다음 범주 중 하나에 속합니다.
 
 ### <a name="address-book-limits-across-standalone-plans"></a>독립 실행형 계획의 주소록 제한
 
-||||||
+| 기능 | Exchange Server 2013 | Exchange Online 요금제 1 | Exchange Online 계획 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Exchange Server 2013**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |주소 목록 제한|1000|1000|1000|1000|
 |OAB(오프라인 주소록) 제한|250|250|250|250|
 |ABP(주소록 정책) 제한|250|250|250|250|
@@ -98,9 +106,8 @@ Microsoft Exchange Online 제한은 다음 범주 중 하나에 속합니다.
 
 ### <a name="storage-limits"></a>저장소 제한
 
-||||||||
+| 기능 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |사용자 사서함|50GB|50GB|50GB|100GB|100GB|2GB|
 |보관 사서함<sup>7, 8</sup>|50GB|50GB|50 GB|Unlimited<sup>1</sup>|Unlimited<sup>1</sup>|사용할 수 없음<sup>4</sup>|
 |공유 사서함<sup>10</sup>|50GB<sup>2</sup>|50GB<sup>2</sup>|50GB<sup>2</sup>|50/100 GB<sup>2, 9</sup>|50/100 GB<sup>2, 9</sup>|50GB<sup>2</sup>|
@@ -114,9 +121,8 @@ Microsoft Exchange Online 제한은 다음 범주 중 하나에 속합니다.
 
 ### <a name="storage-limits-across-standalone-plans"></a>독립 실행형 계획별 저장소 제한
 
-||||||
+| 기능 | Exchange Server 2013 | Exchange Online 요금제 1 | Exchange Online 계획 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Exchange Server 2013**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |사용자 사서함|2GB<sup>1</sup>|50 GB|100GB|2GB|
 |보관 사서함<sup>8, 9</sup>|100GB<sup>1</sup>|50GB|Unlimited<sup>2</sup>|사용할 수 없음<sup>5</sup>|
 |공유 사서함<sup>11</sup>|2GB<sup>1</sup>|50GB<sup>3</sup>|50GB<sup>3,10</sup>|50GB<sup>3</sup>|
@@ -139,18 +145,16 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 ### <a name="capacity-alerts"></a>용량 경고
 
-||||||||
+| 기능 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |경고|49GB|49GB|49GB|98GB|98GB|1.96GB|
 |보내기 금지|49.5GB|49.5GB|49.5GB|99GB|99GB|1.98GB|
 |보내기/받기 금지|50 GB|50GB|50GB|100GB|100GB|2GB|
 
 ### <a name="capacity-alerts-across-standalone-plans"></a>독립 실행형 계획별 용량 경고
 
-||||||
+| 기능 | Exchange Server 2013 | Exchange Online 요금제 1 | Exchange Online 계획 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Exchange Server 2013**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |경고|1.9GB<sup>1</sup>|49GB|98GB|1.96GB|
 |보내기 금지|2GB<sup>1</sup>|49.5GB|99GB|1.98GB|
 |보내기/받기 금지|2.3GB<sup>1</sup>|50GB|100GB|2GB|
@@ -186,9 +190,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 ### <a name="mailbox-folder-limits"></a>사서함 폴더 제한
 
-||||||||
+| 기능 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |사서함 폴더당 최대 메시지 수|1백만|1백만|1백만|1백만|1백만|1백만|
 |사서함 폴더당 메시지 수에 대한 경고|900,000|900,000|900,000|900,000|900,000|900,000|
 |복구 가능한 항목 폴더의 폴더당 최대 메시지 수|3백만 개|3백만 개|3백만 개|3백만 개|3백만 개|3백만 개|
@@ -211,9 +214,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>독립 실행형 계획별 사서함 폴더 제한
 
-||||||
+| 기능 | Exchange Server 2013 | Exchange Online 요금제 1 | Exchange Online 계획 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Exchange Server 2013**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |사서함 폴더당 최대 메시지 수|제한 없음<sup>1</sup>|1백만|1백만|1백만|
 |사서함 폴더당 메시지 수에 대한 경고|제한 없음|900,000|900,000|900,000|
 |복구 가능한 항목 폴더의 폴더당 최대 메시지 수|제한 없음|3백만 개|3백만 개|3백만 개|
@@ -259,9 +261,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 ### <a name="message-limits"></a>메시지 제한
 
-||||||||
+| 기능 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |메시지 크기 제한 - Outlook|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|
 |메시지 크기 제한 - OWA|112MB<sup>1, 3</sup>|112MB<sup>1, 3</sup>|112MB<sup>1, 3</sup>|112MB<sup>1, 3</sup>|112MB<sup>1, 3</sup>|112MB<sup>1, 3</sup>|
 |메시지 크기 제한 - Outlook for Mac|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|
@@ -289,9 +290,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 ### <a name="message-limits-across-standalone-options"></a>독립 실행형 옵션별 메시지 제한
 
-||||||
+| 기능 | Exchange Server 2013 | Exchange Online 요금제 1 | Exchange Online 계획 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Exchange Server 2013**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |메시지 크기 제한 - Outlook|10MB<sup>4</sup>|150MB<sup>1, 2</sup>|150MB<sup>1, 2</sup>|150MB<sup>2</sup>|
 |메시지 크기 제한 - OWA|10MB<sup>4</sup>|112MB<sup>1, 3</sup>|112MB<sup>1, 3</sup>|150MB<sup>1, 2</sup>|
 |메시지 크기 제한 - Outlook for Mac|10MB<sup>4</sup>|150MB|150MB||
@@ -323,9 +323,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 수신 제한은 사용자, 그룹 또는 공용 폴더가 시간당 받을 수 있는 메시지 수에 적용됩니다. 이는 인터넷 및 온-프레미스 서버에서 받은 메시지에 모두 적용 됩니다. 수신 제한을 초과할 경우 해당 사서함으로 전송된 모든 전자 메일은 사서함이 최대 배달 임계값을 초과했다는 배달 못 함 보고서(NDR)를 받게 됩니다. 1시간 후에 이 제한이 새로 고쳐지고 사서함은 다시 한 번 메시지를 받을 수 있게 됩니다.
 
-||||||||
+| 기능 | Microsoft 365 Business Basic | Microsoft 365 Business Standard Office | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard Office**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |메시지 수신됨|시간당 3600개 메시지|시간당 3600개 메시지|시간당 3600개 메시지|시간당 3600개 메시지|시간당 3600개 메시지|하루에 3600개 메시지|
 
 ### <a name="sending-limits"></a>전송 제한
@@ -351,9 +350,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 #### <a name="sending-limits"></a>전송 제한
 
-||||||||
+| 기능 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |받는 사람 비율 제한<sup>1</sup>|하루에 받는 사람 10,000명|하루에 받는 사람 10,000명|하루에 받는 사람 10,000명|하루에 받는 사람 10,000명|하루에 받는 사람 10,000명|하루에 받는 사람 10,000명|
 |받는 사람 제한<sup>2</sup>|최대 1000 명의 받는 사람에 대해 사용자 지정 가능|최대 1000 명의 받는 사람에 대해 사용자 지정 가능|최대 1000 명의 받는 사람에 대해 사용자 지정 가능|최대 1000 명의 받는 사람에 대해 사용자 지정 가능|최대 1000 명의 받는 사람에 대해 사용자 지정 가능|최대 1000 명의 받는 사람에 대해 사용자 지정 가능|
 |받는 사람 프록시 주소 제한|400|400|400|400|400|400|
@@ -365,9 +363,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 #### <a name="sending-limits-across-standalone-options"></a>독립 실행형 옵션별 전송 제한
 
-||||||
+| 기능 | Exchange Server 2013 | Exchange Online 요금제 1 | Exchange Online 계획 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Exchange Server 2013**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |받는 사람 처리 속도 제한|제한 없음<sup>1</sup>|1만 일 마다 받는 사람<sup>2</sup> 명|1만 일 마다 받는 사람<sup>2</sup> 명|1만 일 마다 받는 사람<sup>2</sup> 명|
 |받는 사람 제한|1000 받는 사람<sup>1</sup>|1000 받는 사람|1000 받는 사람|1000 받는 사람|
 |받는 사람 프록시 주소 제한|400|400|400|400|
@@ -396,9 +393,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 ### <a name="retention-limits"></a>보존 제한
 
-||||||||
+| 기능 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |지운 편지함 폴더 보존 기간|제한 없음<sup>1</sup>|제한 없음<sup>1</sup>|제한 없음<sup>1</sup>|제한 없음<sup>1</sup>|제한 없음<sup>1</sup>|제한 없음<sup>1</sup>|
 |지운 편지함 폴더에서 제거한 항목의 보존 기간|14일<sup>1</sup>|14일<sup>1</sup>|14일<sup>1</sup>|14일<sup>1</sup>|14일<sup>1</sup>|14일<sup>1</sup>|
 |정크 메일 폴더 보존 기간|30일|30일|30일|30일|30일|30일|
@@ -408,9 +404,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 ### <a name="retention-limits-across-standalone-options"></a>독립 실행형 옵션별 보존 제한
 
-||||||
+| 기능 | Exchange Server 2013 | Exchange Online 요금제 1 | Exchange Online 계획 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Exchange Server 2013**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |지운 편지함 폴더 보존 기간|제한 없음<sup>1</sup>|제한 없음<sup>1</sup>|제한 없음<sup>1</sup>|제한 없음<sup>1</sup>|
 |지운 편지함 폴더에서 제거한 항목의 보존 기간|14일<sup>1</sup>|14일<sup>2</sup>|14일<sup>2</sup>|14일<sup>2</sup>|
 |정크 메일 폴더 보존 기간|2년<sup>1</sup>|30일|30일|30일|
@@ -430,14 +425,13 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 ### <a name="distribution-group-limits"></a>메일 그룹 제한
 
-||||||||
+| 기능 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |최대 메일 그룹 구성원 수<sup>1</sup>|구성원 100,000명|구성원 100,000명|구성원 100,000명|구성원 100,000명|구성원 100,000명|구성원 100,000명|
 |큰 메일 그룹에 메시지 보내기 제한|구성원 5,000명 이상|구성원 5,000명 이상|구성원 5,000명 이상|구성원 5,000명 이상|구성원 5,000명 이상|구성원 5,000명 이상|
 |5,000명 ~ 99,999명의 구성원이 있는 메일 그룹에 대한 최대 메시지 크기|25MB|25MB|25MB|25MB|25MB|25MB|
 |100,000명의 구성원이 있는 큰 메일 그룹에 대한 최대 메시지 크기|5MB|5MB|5MB|5MB|5MB|5MB|
-|최대 메일 그룹 소유자 수|10  |10  |10  |10  |10  |10  |
+|최대 메일 그룹 소유자 수|10 |10 |10 |10 |10 |10 |
 |사용자가 만들 수 있는 최대 그룹 수|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -445,12 +439,11 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 ### <a name="distribution-group-limits-across-standalone-options"></a>독립 실행형 옵션별 메일 그룹 제한
 
-||||||
+| 기능 | Exchange Server 2013 | Exchange Online 요금제 1 | Exchange Online 계획 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Exchange Server 2013**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |최대 메일 그룹 구성원 수|구성원 100,000명<sup>1</sup>|구성원 100,000명|구성원 100,000명|구성원 100,000명|
 |큰 메일 그룹에 메시지 보내기 제한|구성원 5,000명 이상<sup>1</sup>|구성원 5,000명 이상|구성원 5,000명 이상|구성원 5,000명 이상|
-|최대 메일 그룹 소유자 수|10  |10  |10  |10  |
+|최대 메일 그룹 소유자 수|10 |10 |10 |10 |
 |사용자가 만들 수 있는 최대 그룹 수|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]
@@ -460,29 +453,28 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 다음 목록에는 저널 규칙, 전송 규칙 (조직 차원의 규칙이 라고도 함) 및 받은 편지함 규칙에 적용 되는 제한에 적용 되는 제한이 나와 있습니다. 받은 편지함 규칙은 개별 사용자에 의해 설정되어 개별 사용자 사서함에서 보내고 받는 메시지에 적용됩니다.
 
-- **최대 저널 규칙 수** 조직에 존재할 수 있는 최대 저널 규칙 수입니다.
+- **최대 저널 규칙 수**: 조직에 존재할 수 있는 최대 저널 규칙 수입니다.
 
-- **최대 전송 규칙 수** 조직에 존재할 수 있는 최대 규칙 수입니다.
+- **최대 전송 규칙 수**: 조직에 존재할 수 있는 최대 규칙 수입니다.
 
-- **Maximum size of an individual transport rule** The maximum number of characters that can be used in a single transport rule. The characters are used in the conditions, exceptions, and actions.
+- **개별 전송 규칙의 최대 크기**: 단일 전송 규칙에서 사용할 수 있는 최대 문자 수입니다. The characters are used in the conditions, exceptions, and actions.
 
-- **모든 전송 규칙에 사용 되는 모든 정규식의 문자 제한** 모든 전송 규칙 조건 및 조직의 예외에 모든 정규식을 포함 하는 데 사용 되는 총 문자 수입니다. 길고 복잡한 정규식을 사용하는 규칙이 몇 가지 있거나 단순한 정규식을 사용하는 규칙이 많이 있을 수 있습니다.
+- 모든 **전송 규칙에 사용 되는 모든 정규식의 문자 제한**: 모든 전송 규칙 조건 및 조직의 예외에서 모든 정규식을 포함 하 여 사용 되는 총 문자 수입니다. 길고 복잡한 정규식을 사용하는 규칙이 몇 가지 있거나 단순한 정규식을 사용하는 규칙이 많이 있을 수 있습니다.
 
-- **첨부 파일 콘텐츠의 검색 제한** 전송 규칙 조건을 사용 하면 메시지 첨부 파일의 내용을 검사할 수 있지만 첨부 파일에서 추출 된 텍스트 중 처음 1mb만 검사 됩니다. 이 1MB 제한은 첨부 파일의 파일 크기가 아닌 첨부 파일에서 추출된 텍스트를 나타냅니다. 예를 들어 2mb 파일에는 1mb 미만의 텍스트가 포함 되어 있을 수 있으므로 모든 텍스트가 검사 됩니다.
+- **첨부 파일 콘텐츠의 검색 제한**: 전송 규칙 조건을 사용 하면 메시지 첨부 파일의 내용을 검사할 수 있지만 첨부 파일에서 추출 된 텍스트 중 처음 1mb만 검사 됩니다. 이 1MB 제한은 첨부 파일의 파일 크기가 아닌 첨부 파일에서 추출된 텍스트를 나타냅니다. 예를 들어 2mb 파일에는 1mb 미만의 텍스트가 포함 되어 있을 수 있으므로 모든 텍스트가 검사 됩니다.
 
-- **모든 전송 규칙에 의해 메시지에 추가되는 받는 사람의 최대 수** 여러 전송 규칙에 의해 메시지가 처리될 때 제한된 수의 받는 사람만 메시지에 추가될 수 있습니다. 제한에 도달하면 나머지 받는 사람은 메시지가 추가되지 않습니다. 메일 그룹도 전송 규칙에 의해 메시지에 추가될 수 없습니다.
+- **모든 전송 규칙에 의해 메시지에 추가 되는 최대 받는 사람 수**: 메시지가 다른 전송 규칙에 의해 처리 되 면 메시지에 제한 된 수의 받는 사람만 추가할 수 있습니다. 제한에 도달하면 나머지 받는 사람은 메시지가 추가되지 않습니다. 메일 그룹도 전송 규칙에 의해 메시지에 추가될 수 없습니다.
 
-- **전달받는 사람 제한** 리디렉션 작업을 통해 받은 편지함 또는 전송 규칙에 대해 구성할 수 있는 최대 받는 사람 수입니다. 이 받는 사람 수보다 많은 사람에게 메시지를 리디렉션하도록 구성하는 규칙은 적용되지 않으며, 규칙 조건을 충족하는 메시지는 규칙에 나와 있는 받는 사람에게 리디렉션되지 않습니다.
+- **전달 받는 사람 limit**: 리디렉션 작업을 사용 하 여 받은 편지함 또는 전송 규칙에 대해 구성할 수 있는 최대 받는 사람 수입니다. 이 받는 사람 수보다 많은 사람에게 메시지를 리디렉션하도록 구성하는 규칙은 적용되지 않으며, 규칙 조건을 충족하는 메시지는 규칙에 나와 있는 받는 사람에게 리디렉션되지 않습니다.
     
-- **메시지가 리디렉션되는** 횟수 받은 편지함 규칙을 기반으로 메시지를 리디렉션하고 전달 하거나 자동으로 회신 하는 횟수입니다. 예를 들어, 사용자 A에게는 보낸 사람에 따라 사용자 B에게 메시지를 리디렉션하는 받은 편지함 규칙이 있고, 사용자 B에게는 제목 행의 키워드에 따라 사용자 C에게 메시지를 전달하는 받은 편지함 규칙이 있습니다. 리디렉션은 1회만 허용되므로 메시지가 이러한 조건을 모두 충족시키는 경우 사용자 B에게만 전송되며 사용자 C에게는 전송되지 않습니다. 이러한 두 조건을 충족 하는 메시지는 사용자 B로만 전송 됩니다. 리디렉션이 하나만 허용 되므로 사용자 C에 게 전달 되지 않습니다. 이 경우 사용자 B에 게 메시지를 사용자 C로 배달 하지 않았다는 NDR (배달 못 함 보고서)을 보내지 않고 메시지가 삭제 됩니다. 메시지를 리디렉션한 횟수를 결정 하는 데에는 X-MS-수신함-Rules-Loop 헤더를 사용 합니다. 이 헤더는 Exchange 조직 경계를 넘어도 유지 됩니다.
+- **메시지가 리디렉션되는**횟수: 받은 편지함 규칙을 기반으로 메시지를 리디렉션하고 전달 하거나 자동으로 회신 하는 횟수입니다. 예를 들어, 사용자 A에게는 보낸 사람에 따라 사용자 B에게 메시지를 리디렉션하는 받은 편지함 규칙이 있고, 사용자 B에게는 제목 행의 키워드에 따라 사용자 C에게 메시지를 전달하는 받은 편지함 규칙이 있습니다. 리디렉션은 1회만 허용되므로 메시지가 이러한 조건을 모두 충족시키는 경우 사용자 B에게만 전송되며 사용자 C에게는 전송되지 않습니다. 이러한 두 조건을 충족 하는 메시지는 사용자 B로만 전송 됩니다. 리디렉션이 하나만 허용 되므로 사용자 C에 게 전달 되지 않습니다. 이 경우 사용자 B에 게 메시지를 사용자 C로 배달 하지 않았다는 NDR (배달 못 함 보고서)을 보내지 않고 메시지가 삭제 됩니다. 메시지를 리디렉션한 횟수를 결정 하는 데에는 X-MS-수신함-Rules-Loop 헤더를 사용 합니다. 이 헤더는 Exchange 조직 경계를 넘어도 유지 됩니다.
 
-- **전송 규칙에 의해 메시지가 리디렉션되는 횟수** 전송 규칙에 따라 메시지가 리디렉션되는 횟수입니다. 예를 들어 Exchange 조직 Tailspin 장난감에는 Exchange 조직 Contoso에 있는 사용자 A에 게 전송 된 모든 메시지를 리디렉션하는 전송 규칙이 있습니다. Exchange 조직 Contoso에서 사용자 B에 게 전송 되는 모든 메시지를 Exchange 조직 A Datum Corporation에 있는 사용자 C로 리디렉션하도록 전송 규칙이 있습니다. 이 경우 메시지가 삭제 되 고 배달 못 함 보고서 (NDR)가 상태 코드 및 거부 메시지 *550 5.7.128 전송 됩니다. 규칙이. RejectMessage 전송 규칙 루프 카운트가 초과 되 고 거부 된 메시지가* 사용자 A에 게 전송 됩니다. Microsoft는 전송 규칙에 따라 메시지가 리디렉션되는 횟수를 결정 하기 위해 X-m-전송-규칙 루프 헤더를 사용 합니다. 이 헤더는 Exchange 조직 경계를 넘어도 유지 됩니다.
+- **전송 규칙에 따라 메시지가 리디렉션되**는 횟수: 전송 규칙을 기반으로 메시지가 리디렉션되는 횟수입니다. 예를 들어 Exchange 조직 Tailspin 장난감에는 Exchange 조직 Contoso에 있는 사용자 A에 게 전송 된 모든 메시지를 리디렉션하는 전송 규칙이 있습니다. Exchange 조직 Contoso에서 사용자 B에 게 전송 되는 모든 메시지를 Exchange 조직 A Datum Corporation에 있는 사용자 C로 리디렉션하도록 전송 규칙이 있습니다. 이 경우 메시지가 삭제 되 고 배달 못 함 보고서 (NDR)가 상태 코드 및 거부 메시지 *550 5.7.128 전송 됩니다. 규칙이. RejectMessage 전송 규칙 루프 카운트가 초과 되 고 거부 된 메시지가* 사용자 A에 게 전송 됩니다. Microsoft는 전송 규칙에 따라 메시지가 리디렉션되는 횟수를 결정 하기 위해 X-m-전송-규칙 루프 헤더를 사용 합니다. 이 헤더는 Exchange 조직 경계를 넘어도 유지 됩니다.
 
 ### <a name="journal-transport-and-inbox-rule-limits"></a>저널, 전송 및 받은 편지함 규칙 제한
 
-||||||||
+| 기능 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |최대 저널 규칙 수|300개 규칙|300개 규칙|300개 규칙|300개 규칙|300개 규칙|300개 규칙|
 |최대 전송 규칙 수|300개 규칙|300개 규칙|300개 규칙|300개 규칙|300개 규칙|300개 규칙|
 |개별 전송 규칙의 최대 크기|8KB|8KB|8KB|8KB|8KB|8KB|
@@ -500,9 +492,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>독립 실행형 옵션에 걸친 저널, 전송 및 받은 편지함 규칙 제한
 
-||||||
+| 기능 | Exchange Server 2013 | Exchange Online 요금제 1 | Exchange Online 계획 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Exchange Server 2013**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |최대 저널 규칙 수|제한 없음|50 규칙|50 규칙|50 규칙|
 |최대 전송 규칙 수|제한 없음|300개 규칙|300개 규칙|300개 규칙|
 |개별 전송 규칙의 최대 크기|40 KB|8KB|8KB|8KB|
@@ -528,9 +519,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 ### <a name="moderation-limits"></a>중재 제한
 
-||||||||
+| 기능 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |중재 사서함의 최대 크기|10GB|10GB|10GB|10GB|10GB|10GB|
 |최대 중재자 수|중재자 10명|중재자 10명|중재자 10명|중재자 10명|중재자 10명|중재자 10명|
 |중재 대기 중인 메시지의 만료|2일|2일|2일|2일|2일|2일|
@@ -538,9 +528,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 ### <a name="moderation-limits-across-standalone-options"></a>독립 실행형 옵션별 중재 제한
 
-||||||
+| 기능 | Exchange Server 2013 | Exchange Online 요금제 1 | Exchange Online 계획 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Exchange Server 2013**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |중재 사서함의 최대 크기|제한 없음<sup>1</sup>|10GB|10GB|10GB|
 |최대 중재자 수|제한 없음|중재자 10명|중재자 10명|중재자 10명|
 |중재 대기 중인 메시지의 만료|5일<sup>1</sup>|2일|2일|2일|
@@ -559,16 +548,14 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 ### <a name="exchange-activesync-limits"></a>Exchange ActiveSync 제한
 
-||||||||
+| 기능 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Exchange ActiveSync 장치 제한|100|100|100|100|100|100|
 |Exchange ActiveSync 장치 삭제 제한|20cm(8|20cm(8|20cm(8|20cm(8|20cm(8|20cm(8|
 
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>독립 실행형 옵션에서 Exchange ActiveSync 제한
 
-||||||
+| 기능 | Exchange Server 2013 | Exchange Online 요금제 1 | Exchange Online 계획 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Exchange Server 2013**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
 |Exchange ActiveSync 장치 제한|100|100|100|100|
 |Exchange ActiveSync 장치 삭제 제한|20cm(8|20cm(8|20cm(8|20cm(8|

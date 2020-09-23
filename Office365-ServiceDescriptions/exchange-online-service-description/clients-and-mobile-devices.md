@@ -10,12 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: a09609e81d9d179dcd156db886913d3124b2e16f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Exchange Online은 데스크톱 및 모바일 버전의 Outlook 및 웹용 Outlook 에서도 작동 합니다.
+ms.openlocfilehash: 32fb8ee9124a805233daaab2968158825cb46ca4
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132972"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214357"
 ---
 # <a name="clients-and-mobile-devices"></a>클라이언트 및 모바일 장치
 
@@ -23,11 +24,11 @@ ms.locfileid: "45132972"
 
 Microsoft Outlook은 일정, 연락처, 작업 및 다음 주요 기능에 대 한 지원을 포함 하는 전자 메일 프로그램입니다.
   
-- **HTTP를 통한 MAPI** HTTP를 통한 MAPI (메시징 응용 프로그램 인터페이스)를 사용 하면 Outlook 사용자가 조직의 방화벽 외부에서 인터넷을 통해 Exchange Online 사서함에 연결할 수 있습니다. HTTP를 통한 MAPI, 외부에서 Outlook 사용에 대 한 장기간 교체 이 연결 방법은 향상 된 연결 복구, 보다 안전한 로그인, 확장성 및 IT 및 지원에 대 한 향상을 제공 합니다. 자세한 내용은 Office 365 및 [MAPI OVER http](https://go.microsoft.com/fwlink/?linkid=393041) [에서 RPC over http 지원의 끝에 도달 하는 방법에 대](https://go.microsoft.com/fwlink/?linkid=863890) 한 자세한 내용을 참조 하세요.
+- Http를 통한 **mapi (http** 를 통한 mapi)를 사용 하면 Outlook 사용자가 조직의 방화벽 외부에서 인터넷을 통해 Exchange Online 사서함에 연결할 수 있습니다. HTTP를 통한 MAPI, 외부에서 Outlook 사용에 대 한 장기간 교체 이 연결 방법은 향상 된 연결 복구, 보다 안전한 로그인, 확장성 및 IT 및 지원에 대 한 향상을 제공 합니다. 자세한 내용은 Office 365 및 [MAPI OVER http](https://go.microsoft.com/fwlink/?linkid=393041) [에서 RPC over http 지원의 끝에 도달 하는 방법에 대](https://go.microsoft.com/fwlink/?linkid=863890) 한 자세한 내용을 참조 하세요.
 
-- **자동 검색** 자동 검색 서비스 기능은 자동으로 Outlook을 Exchange Online과 함께 작동하도록 구성합니다. Outlook 사용자는 처음 전자 메일 주소와 암호를 통해 로그인했을 때 Exchange Online에서 바로 필요한 프로필 설정을 받을 수 있습니다. 이러한 설정은 사용자의 프로필을 만들고 유지하는 데 필요한 정보를 가지고 Outlook 클라이언트를 자동으로 업데이트합니다. 자동 검색 서비스를 사용하려면 SSL 인증서를 필요합니다. 이 SSL 인증서는 하나의 기본 SSL 도메인으로 제한됩니다. 
+- **자동 검색** -자동 검색 서비스 기능은 Outlook에서 Exchange Online과 함께 작동 하도록 구성 합니다. Outlook 사용자는 처음 전자 메일 주소와 암호를 통해 로그인했을 때 Exchange Online에서 바로 필요한 프로필 설정을 받을 수 있습니다. 이러한 설정은 사용자의 프로필을 만들고 유지하는 데 필요한 정보를 가지고 Outlook 클라이언트를 자동으로 업데이트합니다. 자동 검색 서비스를 사용하려면 SSL 인증서를 필요합니다. 이 SSL 인증서는 하나의 기본 SSL 도메인으로 제한됩니다. 
 
-- **캐시 된 Exchange 모드** 캐시 된 Exchange 모드 기능을 사용 하면 Outlook 사용자가 인터넷에 연결 되어 있지 않을 때 Exchange Online 사서함의 로컬 복사본에 액세스할 수 있습니다. 캐시 된 Exchange 모드는 Outlook에서 사용자 Exchange 사서함의 클라이언트 쪽 복사본을 유지 하며이 복사본을 전자 메일 서버와 자동으로 동기화 합니다. Outlook은 캐시 된 Exchange 모드에서 오프 라인 액세스를 제공 하 고 클라이언트와 서버 간의 네트워크 조건이 적합 하지 않은 경우에도 응답성이 뛰어난 사용자 환경을 제공 하는 것이 좋습니다. 
+- **캐시** 된 exchange 모드-캐시 된 exchange 모드 기능을 사용 하면 Outlook 사용자가 인터넷에 연결 되어 있지 않을 때 exchange Online 사서함의 로컬 복사본에 액세스할 수 있습니다. 캐시 된 Exchange 모드는 Outlook에서 사용자 Exchange 사서함의 클라이언트 쪽 복사본을 유지 하며이 복사본을 전자 메일 서버와 자동으로 동기화 합니다. Outlook은 캐시 된 Exchange 모드에서 오프 라인 액세스를 제공 하 고 클라이언트와 서버 간의 네트워크 조건이 적합 하지 않은 경우에도 응답성이 뛰어난 사용자 환경을 제공 하는 것이 좋습니다. 
 
 기본적으로 Outlook 액세스는 모든 사용자에 대해 사용하도록 설정되어 있습니다. 관리자는 Windows Powershell을 통해 특정 사용자 또는 그룹의 액세스를 사용하지 않도록 설정할 수 있습니다. Exchange Online에 액세스하려면 최신 서비스 팩이 설치된 Outlook 최신 버전을 사용하는 것이 좋습니다. 
   
@@ -39,7 +40,12 @@ Microsoft 365는 최신 브라우저 및 Office 버전에서 작동 하도록 �
 - Microsoft는 비보안 관련 문제를 해결 하기 위한 소프트웨어 업데이트를 제공 하지 않습니다.
 
 > [!IMPORTANT]
->  Outlook은 Exchange Online 구독 가격에 포함되어 제공되지 않습니다. Microsoft 365 for enterprise (Microsoft Outlook 포함)는 일부 계획에 포함 되어 있으며 별도의 구독으로 구매할 수 있습니다. POP를 사용 하 여 Exchange Online 전자 메일 계정에 연결 하는 경우에는 > 일정 정보가 없으며, > > > > 모든 메시지가 표시 되지 않으며 모든 메시지는 클라이언트에 다운로드 되며, 여러 컴퓨터 또는 장치 간에 동기화가 수행 되지 않습니다 (예: 랩톱과 전화 간). 
+> Outlook은 Exchange Online 구독 가격에 포함되어 제공되지 않습니다. Microsoft 365 for enterprise (Microsoft Outlook 포함)는 일부 계획에 포함 되어 있으며 별도의 구독으로 구매할 수 있습니다. POP을 사용해서 Exchange Online 전자 메일 계정에 연결하면 다음 제한 사항이 표시됩니다.
+> - 일정 정보 없음
+>- 약속 있음/없음 정보 없음
+>- 전체 주소 목록 없음
+>- 전자 메일 푸시 없음
+>- POP를 통해 연결하면 모든 메시지가 클라이언트로 다운로드되며, 여러 컴퓨터 또는 장치 간에 동기화가 수행되지 않습니다(예: 랩톱과 전화 간). 
   
 ## <a name="outlook-on-the-web"></a>웹에서 Outlook
 
@@ -47,9 +53,9 @@ Microsoft 365는 최신 브라우저 및 Office 버전에서 작동 하도록 �
   
 웹상의 Outlook에는 2가지 클라이언트 버전이 있으며, 모두 Exchange Online과 함께 사용할 수 있습니다.
   
-- **웹상의 Outlook** 웹상의 Outlook 표준 버전으로 Exchange Online 사용자에게 Outlook 사용자와 가장 유사한 메시지 환경을 제공합니다. 대부분의 최신 웹 브라우저를 지원하며 데스크톱 및 랩톱 뿐만 아니라 태블릿 및 스마트폰 사용에 최적화되어 있습니다. 사용자는 메시지 읽기 및 보내기, 연락처 구성, 약속 및 모임 예약 등의 작업을 수행할 수 있습니다. 기본 작업 기반 시간 제한은 6시간으로 설정되지만 [Windows PowerShell에서 관리자가 5분에서 8시간 사이로 구성](https://go.microsoft.com/fwlink/p/?LinkId=399155)할 수 있습니다. 이 시간 제한은 단추를 선택 하거나 메시지를 선택 하는 것과 같은 웹 응용 프로그램 내의 사용자 상호 작용에 따라 달라 집니다. 또한 구성할 수 없으며 사용자 작업에 상관없이 발생하는 별도의 보안 기반 시간 제한도 있습니다. 사용자가 8시간 동안 로그인되어 있는 경우 OWA는 사용자를 자동으로 로그아웃하고 다시 인증하라는 메시지를 표시합니다. 
+- **웹용 outlook** -웹용 outlook standard 버전은 Exchange Online 사용자에 게 outlook 사용자와 가장 유사한 메시징 환경을 제공 합니다. 대부분의 최신 웹 브라우저를 지원하며 데스크톱 및 랩톱 뿐만 아니라 태블릿 및 스마트폰 사용에 최적화되어 있습니다. 사용자는 메시지 읽기 및 보내기, 연락처 구성, 약속 및 모임 예약 등의 작업을 수행할 수 있습니다. 기본 작업 기반 시간 제한은 6시간으로 설정되지만 [Windows PowerShell에서 관리자가 5분에서 8시간 사이로 구성](https://go.microsoft.com/fwlink/p/?LinkId=399155)할 수 있습니다. 이 시간 제한은 단추를 선택 하거나 메시지를 선택 하는 것과 같은 웹 응용 프로그램 내의 사용자 상호 작용에 따라 달라 집니다. 또한 구성할 수 없으며 사용자 작업에 상관없이 발생하는 별도의 보안 기반 시간 제한도 있습니다. 사용자가 8시간 동안 로그인되어 있는 경우 OWA는 사용자를 자동으로 로그아웃하고 다시 인증하라는 메시지를 표시합니다. 
 
-- **웹상의 Outlook 라이트 버전** 웹상의 Outlook 라이트 버전은 Exchange Online 사용자에게 거의 모든 웹 브라우저를 통한 사서함 액세스를 제공합니다. 사용자는 메시지 읽기 및 보내기, 연락처 구성, 약속 및 모임 예약 등의 작업을 수행할 수 있습니다. 기본 작업 기반 시간 제한은 6시간으로 설정되지만 [Windows PowerShell에서 관리자가 5분에서 8시간 사이로 구성](https://go.microsoft.com/fwlink/p/?LinkId=399155)할 수 있습니다. 이 시간 제한은 단추를 선택 하거나 메시지를 선택 하는 것과 같은 웹 응용 프로그램 내의 사용자 상호 작용에 따라 달라 집니다. 또한 구성할 수 없으며 사용자 작업에 상관없이 발생하는 별도의 보안 기반 시간 제한도 있습니다. 사용자가 8시간 동안 로그인되어 있는 경우 라이트 버전의 OWA는 사용자를 자동으로 로그아웃하고 다시 인증하라는 메시지를 표시합니다. 
+- **웹용 outlook의 라이트 버전** -웹용 outlook의 light 버전은 Exchange Online 사용자에 게 거의 모든 웹 브라우저를 사용 하 여 사서함에 대 한 액세스를 제공 합니다. 사용자는 메시지 읽기 및 보내기, 연락처 구성, 약속 및 모임 예약 등의 작업을 수행할 수 있습니다. 기본 작업 기반 시간 제한은 6시간으로 설정되지만 [Windows PowerShell에서 관리자가 5분에서 8시간 사이로 구성](https://go.microsoft.com/fwlink/p/?LinkId=399155)할 수 있습니다. 이 시간 제한은 단추를 선택 하거나 메시지를 선택 하는 것과 같은 웹 응용 프로그램 내의 사용자 상호 작용에 따라 달라 집니다. 또한 구성할 수 없으며 사용자 작업에 상관없이 발생하는 별도의 보안 기반 시간 제한도 있습니다. 사용자가 8시간 동안 로그인되어 있는 경우 라이트 버전의 OWA는 사용자를 자동으로 로그아웃하고 다시 인증하라는 메시지를 표시합니다. 
 
 웹상의 Outlook은 모바일 버전으로도 사용할 수 있습니다. 자세한 내용은 [이 페이지](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409)를 참조하세요.
   
@@ -59,11 +65,10 @@ Exchange Online은 전자 메일, 일정, 주소록, 작업 목록 및 메모 �
   
 ## <a name="outlook-for-ios-android-and-windows-phone"></a>IOS, Android 및 Windows Phone 용 Outlook
 
-Exchange Online은 iOS, Android 및 Windows Phone에 사용할 수 있는 Outlook 앱과 함께 작동 합니다. 이러한 장치에서 앱 스토어를 사용 하 여 Outlook 앱을 찾습니다. 다음은 모바일 OS에서 분석 한 사항입니다.
+Exchange Online은 iOS, Android 및 Windows Phone에 사용할 수 있는 Outlook 앱과 함께 작동 합니다. 이러한 장치에서 앱 스토어를 사용 하 여 Outlook 앱을 찾습니다. 다음은 모바일 OS에서 분석 한 사항입니다.<br><br>
   
-|||||
+| 디바이스 | Android | iOS | Windows Phone |
 |:-----|:-----|:-----|:-----|
-|디바이스  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Outlook 모바일 앱 가용성  <br/> |예  <br/> [Android 용 Outlook 받기](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |예  <br/> [IOS 용 Outlook 받기](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |기본 제공  <br/> |
 |Exchange Online과 호환 되는 기본 제공 전자 메일 앱  <br/> |Gmail 앱/Samsung Email 응용 프로그램  <br/> |iOS 메일 앱  <br/> |Outlook 메일, 일정, 연락처  <br/> |
 |추가 정보  <br/> |[Android 모바일 설정](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone 또는 iPad 설치](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone 설정](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
@@ -150,7 +155,7 @@ SMTP(Simple Mail Transfer Protocol)은 IMAP 또는 POP를 통해 Exchange Online
 > [!IMPORTANT]
 > SMTP 릴레이를 허용하려면 승인된 원본 서버에 대한 IP 주소가 필요합니다. SMTP를 사용해 전자 메일을 보낼 때는 전송 계층 보안(TLS) 암호화 및 인증이 필요합니다. 
   
-## <a name="blackberryreg-devices"></a>BlackBerry &reg; 장치
+## <a name="blackberry-devices"></a>BlackBerry 장치
 
 전자 메일은 Exchange ActiveSync를 통해 BlackBerry 장치에서 사용할 수 있습니다 &reg; . 옵션에 대 한 자세한 내용은 다음 항목을 참조 하십시오.
   

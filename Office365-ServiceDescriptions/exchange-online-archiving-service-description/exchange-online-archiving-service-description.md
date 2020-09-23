@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online 보관은 microsoft exchange Server 2019, Microsoft exchange Server 2016, microsoft exchange server 2013, microsoft exchange server 2010 (SP2 이상)을 배포 하거나 특정 Exchange Online 또는 Microsoft 365 계획을 구독 하는 조직에 대 한 Microsoft 365 클라우드 기반 엔터프라이즈 급 보관 솔루션입니다. Exchange Online Archiving은 보관, 규정 준수, 규제 및 eDiscovery 문제와 관련하여 이러한 조직을 지원하는 동시에 온-프레미스 인프라를 단순화하여 비용을 절감하고 IT 부담을 완화시켜 줍니다.
-ms.openlocfilehash: 6869fd655142eb6dd6df062fc669f5c8e9c5840f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5039ac00dca0cce5f79eb5bed743e5a4cb1e388b
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131522"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214307"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 서비스 설명
 
@@ -35,9 +35,9 @@ Exchange Online 보관을 구입 하려면 [Exchange Online 보관 서버](https
   
 ## <a name="exchange-online-archiving-plans"></a>Exchange Online Archiving 계획
 
-Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
+Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.<br><br>
   
-|**계획**|**설명**|
+| 계획 | 설명 |
 |:-----|:-----|
 |**Exchange Server용 Exchange Online Archiving** <br/> |기본 사서함이 Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 또는 Exchange 2010 (SP2 이상)에 있는 사용자를 위한 클라우드 기반 보관 파일입니다.  <br/> 클라우드 기반 보관을 온-프레미스 Exchange Server에 있는 기본 사서함에 추가하려면 하이브리드 배포를 구성해야 합니다. 하이브리드 배포에 대 한 자세한 내용은 [Exchange Server 하이브리드 배포](https://docs.microsoft.com/exchange/exchange-hybrid)를 참조 하세요.  <br/> |
 |**Exchange Server용 Exchange Online Archiving(Enterprise CAL Suite를 통해)** <br/> |기본 사서함이 Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 또는 Exchange 2010 (SP2 이상)에 있는 사용자를 위한 클라우드 기반 보관 파일입니다. 자세한 내용은 [클라이언트 액세스 라이선스 및 관리 라이선스](https://www.microsoft.com/licensing/product-licensing/client-access-license)를 참조 하세요.  <br/> |
@@ -75,9 +75,8 @@ Exchange Online Archiving 서비스에 액세스하는 각 사용자가 Exchange
   
 ## <a name="feature-availability-across-exchange-online-archiving-plans"></a>Exchange Online Archiving 계획에서의 기능 가용성
 
-||||
+| 기능 | Exchange Server용 Exchange Online Archiving<sup>1</sup> | Exchange Online용 Exchange Online Archiving<sup>2</sup> |
 |:-----|:-----|:-----|
-|**기능** <br/> |**Exchange Server용 Exchange Online Archiving<sup>1</sup>**          <br/> |**Exchange Online용 Exchange Online Archiving<sup>2</sup>** <br/> |
 |**[Exchange Online 보관의 보관 기능](archive-features.md)** <br/> |||
 |보관 사서함  <br/> |예  <br/> |예  <br/> |
 |보관 정책을 사용 하 여 메시지 이동  <br/> |예  <br/> |예  <br/> |

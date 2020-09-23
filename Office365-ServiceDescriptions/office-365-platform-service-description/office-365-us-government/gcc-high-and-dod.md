@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Office 365 상업용 환경과 비교 하 여 Office 365 GCC High 및 DoD 환경의 고유한 약정 및 차이점에 대해 알아봅니다.
-ms.openlocfilehash: 388e7c3a37e88233982cf12a73e22622a61d1cb8
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 44d66557f426ab236460affd61fbf1970c7f25e6
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131982"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214337"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High 및 DoD
 
 미국 방어 부서에 대 한 고유 하 고 진화 한 요구 사항과, DoD가 통제 되지 않은 정보를 보유 하거나 처리 하는 계약자, ITAR (무장 규정)의 국제 트래픽에 대 한 주체를 충족 하기 위해 Microsoft는 GCC High 및 DoD 환경을 제공 합니다. 볼륨 라이선스를 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재는 평가판을 사용할 수 없습니다. 
   
-계정 팀 또는 기본 설정 파트너에 참여해서 자세히 알아보거나 유효성 검사 프로세스를 시작하세요. 구입 방법에 대 한 자세한 내용은 [Microsoft 365 정부-구매 방법](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)를 참조 하세요.
+계정 팀 또는 기본 설정 파트너에 게 문의 하 여 자세히 알아보거나 유효성 검사 프로세스를 시작 합니다. 구입 방법에 대 한 자세한 내용은 [Microsoft 365 정부-구매 방법](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)를 참조 하세요.
   
 ## <a name="how-to-use-this-service-description-section"></a>이 서비스 설명 섹션을 사용 하는 방법
 
@@ -34,11 +34,11 @@ GCC High 및 DoD는 다음과 같은 인증 및 승인에 대 한 준수 요구 
     
 - 영향 수준 5(L5)까지의 정보를 제공하는 미국방부 클라우드 컴퓨팅 SRG(보안 요구 사항 가이드)의 보안 통제 및 통제 개선 사항
     
-Office 365에 대 한 방어 가입자의 부서는 DOD SRG L5를 충족 하는 DOD 전용 환경에서 제공 된 서비스를 수신 합니다. 비-방어 구독자는 L5에서 평가 되는 미국 정부 방어 환경에서 서비스를 받게 되지만 L4 조각화가 사용 됩니다.
+Office 365에 대 한 방어 가입자의 부서는 DOD SRG L5를 충족 하는 DOD 전용 환경에서 제공 된 서비스를 수신 합니다. 비-방어 구독자는 L5에서 평가 되는 미국 정부 방어 환경에서 서비스를 수신 하지만 L4 세그먼트를 사용 합니다.
   
 ## <a name="background-screening"></a>백그라운드 차단
 
-Office 365 직원은 GCC High 및 DoD 프로덕션에 대 한 액세스 권한이 없습니다. 고객 콘텐츠에 액세스할 수 있도록 임시 권한 상승을 요청한 모든 직원은 먼저 다음 배경 조사를 통과해야 합니다.
+Office 365 직원은 GCC High 및 DoD 프로덕션에 대 한 액세스 권한이 없습니다. 고객 콘텐츠에 대 한 액세스 권한을 부여 하는 임시 권한 상승을 요청한 모든 직원은 먼저 다음 배경 검사를 통과 해야 합니다.
   
 |||
 |:-----|:-----|
@@ -65,12 +65,12 @@ GCC High 및 DoD 환경의 구독에는 핵심 Exchange Online, SharePoint 및 �
   
 ### <a name="file-sharing"></a>파일 공유
 
-사용자는 SharePoint 및 OneDrive에서 파일 및 폴더를 공유 하기 위한 여러 옵션을 사용할 수 있습니다. 모든 옵션은 GCC High 및 DoD 환경에서 사용할 수 있습니다. 이러한 옵션을 관리 하는 방법에 대 한 자세한 내용은 [Manage sharing settings](/sharepoint/turn-external-sharing-on-or-off)를 참조 하십시오. 사용자가 "특정 사용자" 옵션을 사용 하 여 공유 하 고 조직 외부의 사용자를 선택 하면 일반적으로 SharePoint에서 인증 코드가 전자 메일로 전송 됩니다. 받는 사람은 공유 항목에 액세스 하기 위한 코드를 입력 해야 합니다. 이는 GCC 상위 조직의 사용자가 GCC 이외의 조직에 있는 사람들과 공유 하 고 그 반대의 경우도 마찬가지입니다. 외부 공유 환경에 대 한 자세한 내용은 [사용자가 공유할 때 수행 되는 작업](/sharepoint/external-sharing-overview#what-happens-when-users-share)을 참조 하십시오. 그러나 한 GCC 최고 조직에 있는 사용자가 다른 GCC-고가용성 조직의 사람과 공유 하는 경우 Azure AD에서 받는 사람에 대 한 게스트 계정이 만들어지고 사용자 이름 및 암호를 사용 하 여 로그인 됩니다. 
+사용자는 SharePoint 및 OneDrive에서 파일 및 폴더를 공유 하기 위한 여러 옵션을 사용할 수 있습니다. 모든 옵션은 GCC High 및 DoD 환경에서 사용할 수 있습니다. 이러한 옵션을 관리 하는 방법에 대 한 자세한 내용은 [공유 설정 관리](/sharepoint/turn-external-sharing-on-or-off)를 참조 하십시오. GCC-높음을 사용 하는 사용자는 다른 조직과 GCC-높음을 공유할 수 있습니다. 또한 사용자 프로필에 첨부 되는 비 GCC 높은 전자 메일 주소는 지원 되지 않으며 경고 전자 메일이 전송 될 수 없습니다. 예를 들어 온-프레미스 사용자 A에 Gmail 전자 메일 주소가 할당 되 고 Azure GCC High 조직과 동기화 됩니다. 사용자 A가 라이브러리를 탐색 하 고 변경 사항에 대 한 알림을 만듭니다. 이 경고는 Gmail 주소로 전송 되지 않습니다.
+
+> [!NOTE]
+> GCC 최고 사용자는 현재 GCC 이외의 조직에서 사용자와 공유할 수 없습니다.
 
 Office 365 정부에는 [파일 요청](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af) 을 사용할 수 없습니다.
-
-또한 사용자 프로필에 첨부 되는 비 GCC 높은 전자 메일 주소는 지원 되지 않으며 경고 전자 메일이 전송 될 수 없습니다. 예를 들어 온-프레미스 사용자 A에 Gmail 전자 메일 주소가 할당 되 고 Azure GCC High 조직과 동기화 됩니다. 사용자 A가 라이브러리를 탐색 하 고 변경 사항에 대 한 알림을 만듭니다. 이 경고는 Gmail 주소로 전송 되지 않습니다.
-  
 
 ### <a name="skype-for-business-online"></a>비즈니스용 Skype Online
 
