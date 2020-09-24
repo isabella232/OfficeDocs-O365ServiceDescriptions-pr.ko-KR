@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 현재 Exchange Online Protection에 대 한 제한은 다음과 같습니다. 별도로 지정 되지 않은 경우 이러한 제한은 구성할 수 없습니다.
-ms.openlocfilehash: baf6bc688492ca340442ee2d14f98bd9e135c43d
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: a2f7db904cf837f1441222d7867d2abb6fd70733
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134055"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245703"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 제한
 
@@ -47,9 +47,10 @@ ms.locfileid: "48134055"
     
 ### <a name="limits-across-eop-options"></a>EOP 옵션별 제한
 
-|**기능**|****EOP 독립 실행형****|****EOP 기능: Exchange Online****|****Exchange Enterprise CAL with Services****|
+| 기능 | EOP 독립 실행형 | Exchange Online의 EOP 기능 | Exchange Enterprise CAL with Services |
 |:-----|:-----|:-----|:-----|
 |도메인 제한  <br/> |900  <br/> |900  <br/> |900  <br/> |
+|원격 도메인 제한  <br/> |200  <br/> |200  <br/> |200  <br/> |
 |메시지 크기 제한(첨부 파일 포함)  <br/> |150MB  <br/> |150MB  <br/> |150MB  <br/> |
 |받는 사람 제한  <br/> |위의 "받는 사람 제한" 참조  <br/> |호스트된 사서함에서 보낼 경우 받는 사람 500명. 다른 시나리오의 경우 위의 "받는 사람 제한" 참조  <br/> |위의 "받는 사람 제한" 참조  <br/> |
 |수신 허용 제한  <br/> |항목 1024개  <br/> |항목 1024개  <br/> ||

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: e146341f817672b7bc7d5a98c43ed337e48db07d
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: f2da71ee9bdc8f8250d3f4a98e8f09b0a43edede
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214387"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245733"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -168,11 +168,11 @@ Office 365 E1/A1/E3/A3 및 Microsoft 365 E3/A3 라이선스를 사용 하는 고
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
-준수 관리자는 기본적으로 테 넌 트에 대해 프로 비전 됩니다. 관리자는 조직의 관리자가 아닌 사용자가 준수 관리자를 사용 하 여 시작할 수 있도록 사용자 권한을 설정 하 고 역할을 할당 합니다. 자세한 내용은 [설명서](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)를 참조 하십시오.
+준수 관리자는 기본적으로 테 넌 트에 대해 프로 비전 됩니다. 관리자는 조직의 관리자가 아닌 사용자가 준수 관리자를 사용 하 여 시작할 수 있도록 사용자 권한을 설정 하 고 역할을 할당 합니다. 자세한 내용은 [준수 관리자 시작: 사용자 권한 설정 및 역할 할당](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)을 참조 하세요.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
-준수 관리자에 대 한 액세스는 사용자 권한 설정 및 역할 할당에 의해 제어 됩니다. 자세한 내용은 [설명서](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles) 를 참조 하세요.
+준수 관리자에 대 한 액세스는 사용자 권한 설정 및 역할 할당에 의해 제어 됩니다. 자세한 내용은 [준수 관리자 시작: 사용자 권한 설정 및 역할 할당](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)을 참조 하세요.
 
 ## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
 
@@ -489,11 +489,11 @@ Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365, 정보 보호 및 관리 �
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예제:
+사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예시:<br><br>
 
 | 시나리오 | 라이선스가 필요한 사용자 |
-|:-------|:------|
-| 두 그룹 (그룹 1 및 그룹 2)은 서로 통신할 수 없으며, 그룹 1 사용자는 그룹 2 명의 사용자와 통신 하지 못하도록 제한 되며, 그룹 2 사용자는 그룹 1 명의 사용자와 통신 하는 것이 제한 됩니다. | 그룹 1 및 그룹 2의 사용자 ||
+|:------|:------|:------|
+| 두 그룹 (그룹 &nbsp; 1 및 그룹 &nbsp; 2)은 서로 통신할 수 없으며, 그룹 &nbsp; 1 사용자는 그룹 2 명의 사용자와 통신 하지 못하도록 제한 되며, &nbsp; 그룹 &nbsp; 2 사용자는 그룹 &nbsp; 1 명의 사용자와 통신 하는 것이 제한 됩니다. | 그룹 &nbsp; 1 및 그룹 2의 사용자 &nbsp; |
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 

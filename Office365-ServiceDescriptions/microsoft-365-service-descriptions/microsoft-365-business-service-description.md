@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium은 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 활용 하 여 최고의 생산성을 제공 하는 통합 솔루션입니다. 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다.
-ms.openlocfilehash: a98d98db2aaf58497f4927806bb0f859b00fbb0a
-ms.sourcegitcommit: 12c144e2706206d4e134e277767a1a6cd49102db
+ms.openlocfilehash: 644579ff120d754100fbd4b187a5499ff3368cd8
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "47947832"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245713"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 Business Premium 서비스 설명
 
@@ -22,11 +22,10 @@ Microsoft 365 Business Premium은 고급 보안 및 장치 관리를 통해 Micr
   
 ## <a name="feature-availability-across-microsoft-365-business-standard-and-microsoft-365-business-premium-plans"></a>Microsoft 365 Business Standard 및 Microsoft 365 Business Premium 요금제에서의 기능 가용성
 
-Microsoft 365 Business Premium에는 기본적으로 microsoft 365 Business Standard에서 사용할 수 있는 모든 기능과 추가 Microsoft 보안 기능이 포함 되어 있습니다.
+Microsoft 365 Business Premium에는 기본적으로 microsoft 365 Business Standard에서 사용할 수 있는 모든 기능과 추가 Microsoft 보안 기능이 포함 되어 있습니다.<br><br>
 
-||||
+| 요금제 옵션 | Microsoft 365 Business Standard | Microsoft 365 Business Premium |
 |:-----|:-----|:-----|
-|**계획 옵션** <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Office 365 플랫폼  <br/> |예  <br/> |예  <br/> |
 |Exchange Online  <br/> |예<sup>1</sup> <br/> |예<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |예  <br/> |예  <br/> |
@@ -35,7 +34,7 @@ Microsoft 365 Business Premium에는 기본적으로 microsoft 365 Business Stan
 |웹용 Office  <br/> |예  <br/> |예  <br/> |
 |[Office 응용 프로그램](../office-applications-service-description/office-applications-service-description.md)  <br/> |예  <br/> |예  <br/> |
 |Yammer Enterprise  <br/> |예  <br/> |예  <br/> |
-|Microsoft 예약  <br/> |예  <br/> |예  <br/> |
+|Microsoft Bookings  <br/> |예  <br/> |예  <br/> |
 |Microsoft Power Automate  <br/> |예  <br/> |예  <br/> |
 |Microsoft Forms  <br/> |예  <br/> |예  <br/> |
 |Microsoft Planner  <br/> |예  <br/> |예  <br/> |
@@ -86,9 +85,6 @@ Microsoft 365 Business Premium에는 기본적으로 microsoft 365 Business Stan
 |Azure AD 조인이 포함 된 Windows 10 용 엔터프라이즈 상태 로밍  <br/> |아니요  <br/> |예  <br/> |
 |셀프 서비스 BitLocker 복구  <br/> |아니요  <br/> |예  <br/> |
 |Windows Virtual Desktop <br/> |아니요 <br/> |예 <br/> |
-
-|||
-|:-----|:-----|
 |**Windows 10 Pro 관리** <br/>Windows 7 및 8.1 Professional에 사용이 허가 된 장치가 있는 경우 Microsoft 365 Business Premium은 Windows 10 Pro로의 업그레이드를 제공 합니다.<sup>9</sup> <br/>|**Microsoft 365 Business Premium** <br/> |
 |Windows AutoPilot을 사용한 간소화 된 배포  <br/> |예  <br/> |
 |구독 활성화  <br/> |예  <br/> |

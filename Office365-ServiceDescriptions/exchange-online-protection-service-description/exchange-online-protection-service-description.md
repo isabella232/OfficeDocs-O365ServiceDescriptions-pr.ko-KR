@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다. 여기에는 Exchange Online Protection을 제공 하는 계획 목록과 이러한 요금제의 기능 비교가 포함 되어 있습니다.
-ms.openlocfilehash: 74a2d3a1af3e369e51e1f9b3b4e1cf5cc981c0d8
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: d518468f738671980c1d314533b976209d7de124
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132842"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245723"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 서비스 설명
 
@@ -45,9 +45,9 @@ Exchange Online Protection을 구입하려면 [Exchange Online Protection](https
 
 ## <a name="exchange-online-protection-eop-plans"></a>EOP(Exchange Online Protection) 계획
 
-EOP는 다음의 구독 계획을 통해 사용할 수 있습니다.
+EOP는 다음의 구독 계획을 통해 사용할 수 있습니다.<br><br>
 
-|**계획**|**설명**|
+| 계획 | 설명 |
 |:-----|:-----|
 |[EOP 독립 실행형](https://products.office.com/exchange/exchange-email-security-spam-protection)|온-프레미스 전자 메일 조직을 보호 하는 별도의 클라우드 기반 서비스입니다.|
 |[Exchange Online의 EOP 기능](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|Exchange Online 클라우드 호스팅 사서함에 대 한 기본 제공 보호입니다.|
@@ -78,11 +78,10 @@ EOP의 제한에 대 한 내용은 [Exchange Online Protection 제한을](exchan
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>EOP(Exchange Online Protection) 계획에서의 기능 가용성
 
-각 기능은 아래와 같습니다. EOP 기능에 대한 자세한 내용을 보려면 표에 있는 링크를 클릭하세요. Exchange Online이 언급된 경우 대개 Office 365 Enterprise 서비스 제품군을 지칭하는 것입니다.
+각 기능은 아래와 같습니다. EOP 기능에 대한 자세한 내용을 보려면 표에 있는 링크를 클릭하세요. Exchange Online이 언급된 경우 대개 Office 365 Enterprise 서비스 제품군을 지칭하는 것입니다.<br><br>
 
-|||||
+| 기능 | EOP 독립 실행형 | Exchange Online의 EOP 기능 | Exchange Enterprise CAL with Services|
 |:-----|:-----|:-----|:-----|
-|**기능**|**EOP 독립 실행형**|**Exchange Online의 EOP 기능 <br/>**|**Exchange Enterprise <br/> CAL (서비스 포함)**|
 |[메일 받는 사람](recipient-domain-and-company-management.md#mail-recipients)|예<sup>1</sup>|예<sup>1</sup>|예|
 |[관리자 역할 그룹 권한](recipient-domain-and-company-management.md#admin-role-group-permissions)|예<sup>2</sup>|예|예|
 |[도메인 관리](recipient-domain-and-company-management.md#domain-management)|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|
@@ -90,7 +89,7 @@ EOP의 제한에 대 한 내용은 [Exchange Online Protection 제한을](exchan
 |[DBEB(디렉터리 기반 Edge 차단)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|예|예|예|
 |[메일 흐름 규칙](../exchange-online-service-description/message-policy-and-compliance.md#mail-flow-rules)|예<sup>4</sup>|예<sup>4, 6</sup>|예|
 |[감사 로깅](messaging-policy-and-compliance-servicedesc.md#audit-logging)|예<sup>5</sup>|예|예|
-|[DLP(데이터 손실 방지)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|아니요|있음|예<sup>6</sup>|
+|[DLP(데이터 손실 방지)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|아니요|예|예<sup>6</sup>|
 |[Office 365 메시지 암호화](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|예<sup>12</sup>|예|예<sup>12</sup>|
 |[스팸 방지 보호 기능](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection)(기본 제공)|예|예|예|
 |[스팸 방지 정책 사용자 지정](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies)|예<sup>7</sup>|예|예|
@@ -107,7 +106,7 @@ EOP의 제한에 대 한 내용은 [Exchange Online Protection 제한을](exchan
 |[조건부 메일 라우팅](mail-flow-eop.md#conditional-mail-routing)|예|예|예|
 |[하이브리드 메일 라우팅](mail-flow-eop.md#hybrid-mail-routing)|예|예|예|
 |[Microsoft 365 관리 센터 보고서](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |예<sup>9</sup>|예<sup>10</sup>|예 <sup>9, 10</sup>|
-|[웹 서비스를 사용하여 보고](reporting-and-message-trace.md#reporting-using-web-services)|아니요|있음|예|
+|[웹 서비스를 사용하여 보고](reporting-and-message-trace.md#reporting-using-web-services)|아니요|예|예|
 |[메시지 추적](reporting-and-message-trace.md#message-trace)|예<sup>15</sup>|예<sup>15</sup>|예|
 |[Microsoft 365 관리 센터에 대 한 액세스 권한](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)|예|예|예|
 |[Exchange 관리 센터에 대 한 액세스 권한](administration-and-management-eop.md#access-to-the-exchange-admin-center (EAC))|예|예|예|

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함 하는 구독의 기능 비교를 찾으십니까? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: 80c25945014118c78a5b9d61aada73d470f3d7e4
-ms.sourcegitcommit: 0aa413228626ed0e151589c9964308aedf1ca374
+ms.openlocfilehash: b3abce805be8cfefd9a65e72f5ec2b0f2b2ac653
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47337864"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245693"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -67,7 +67,7 @@ Exchange Online 구독 계획에서 사용 가능한 저장소 및 받는 사람
 
 Microsoft 365 Business Premium의 기능 가용성에 대 한 자세한 내용은 [microsoft 365 Business premium 서비스 설명을](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md)참조 하세요.<br/><br/>
   
-|**기능**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+| 기능 | Exchange Server 2013 | Exchange Server 2016 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[계획 및 배포](planning-and-deployment.md)**|||||||||
 |하이브리드 배포 지원|예|예|예<sup>16</sup>|예<sup>16</sup>|예|예|예|예<sup>16</sup>|
@@ -203,7 +203,7 @@ Microsoft 365 Business Premium의 기능 가용성에 대 한 자세한 내용�
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Exchange Online 독립 실행형 계획에서의 기능 가용성
 
-|**기능**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+| 기능 | Exchange Server 2013 | Exchange Server 2016 | Exchange Online 계획 &nbsp; 1 | Exchange Online 계획 &nbsp; 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**[계획 및 배포](planning-and-deployment.md)**||||||
 |하이브리드 배포 지원|예|예|예|예|예<sup>23</sup>|
@@ -214,7 +214,7 @@ Microsoft 365 Business Premium의 기능 가용성에 대 한 자세한 내용�
 |역할 기반 권한|예|예|예|예|아니요|
 |역할 그룹|예|예|예|예|아니요|
 |역할 할당 정책|예|예|예|예|아니요|
-|**[메시지 정책 및 규정 준수](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|**[메시지 정책 및 규정 준수](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 &nbsp; 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
 |Exchange Online 기반 사서함 보관|예|아니요|예|예|아니요|
 |온-프레미스 사서함의 클라우드 기반 보관|예 <sup>5</sup>|예 <sup>5</sup>|아니요|예|아니요|
 |MRM (메시징 레코드 관리) |예|예|예|예|예|
@@ -229,20 +229,20 @@ Microsoft 365 Business Premium의 기능 가용성에 대 한 자세한 내용�
 |전송 규칙|예 <sup>1</sup>|예 <sup>1</sup>|예 <sup>1</sup>|예 <sup>1</sup>|예 <sup>1</sup>|
 |데이터 손실 방지|예 <sup>10, 14</sup>|예 <sup>10, 14</sup>|아니요|예|아니요|
 |저널링|예|예|예|예|예|
-|**[스팸 방지 및 맬웨어 방지 보호](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|**[스팸 방지 및 맬웨어 방지 보호](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 &nbsp; 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
 |스팸 방지 보호 기능 내장|예 <sup>2</sup>|예 <sup>2</sup>|예|예|예|
 |Customize anti-spam policies|예. 단, PowerShell을 통해서만 가능|예. 단, PowerShell을 통해서만 가능|예|예|예 <sup>8</sup>|
 |맬웨어 방지 보호 기능 내장|예 <sup>7</sup>|예 <sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|
 |Customize anti-malware policies|예|예|예|예|예 <sup>8</sup>|
 |격리 - 관리자 관리|예|예|예|예|예 <sup>8</sup>|
 |격리 - 최종 사용자 자기 관리|아니요|아니요|예|예|예|
-|**[메일 흐름](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|**[메일 흐름](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 &nbsp; 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
 |아웃 바운드 메일의 사용자 지정 라우팅|예|예|예|예|예|
 |Secure messaging with a trusted partner|예|예|예|예|예|
 |Conditional mail routing|아니요|아니요|예|예|예|
 |인바운드 수신 허용 목록에 파트너 추가|아니요|아니요|예|예|예|
 |하이브리드 전자 메일 라우팅|예|예|예|예|예|
-|**[받는 사람](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|**[받는 사람](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 &nbsp; 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
 |용량 경고|예|예|예|예|예|
 |Clutter|아니요|아니요|예|예|예|
 |메일 설명|예|예|예|예|예|
@@ -263,18 +263,18 @@ Microsoft 365 Business Premium의 기능 가용성에 대 한 자세한 내용�
 |회의실 관리|예|예|예|예|예|
 |부재 중 회신|예|예|예|예|예|
 |일정 공유|예|예|예|예|예 <sup>18</sup>|
-|**[보고 기능 및 문제 해결 도구](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|**[보고 기능 및 문제 해결 도구](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 &nbsp; 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
 |Microsoft 365 관리 센터 보고서|아니요|아니요|예|예|예|
 |Excel 보고 통합 문서|아니요|아니요|예|예|예|
 |웹 서비스 보고서|아니요|아니요|예|예|예|
 |Message trace|아니요|예|예|예|예 <sup>8</sup>|
 |감사 보고서|예|예|예|예|예 <sup>8</sup>|
 |통합 메시징 보고서|예|예|아니요|예|아니요|
-|**[공유 및 공동 작업](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|**[공유 및 공동 작업](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 &nbsp; 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
 |페더레이션 공유|예|예|예|예|예|
 |사이트 사서함|예 <sup>3</sup>|예 <sup>3</sup>|예 <sup>4</sup>|예 <sup>4</sup>|예 <sup>4</sup>|
 |공용 폴더|예|예|예|예|아니요|
-|**[클라이언트 및 모바일 장치](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|**[클라이언트 및 모바일 장치](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 &nbsp; 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
 |Microsoft Outlook|예|예|예|예|아니요|
 |웹용 Outlook|예|예|예|예|예|
 |Exchange ActiveSync|예|예|예|예|예|
@@ -283,28 +283,28 @@ Microsoft 365 Business Premium의 기능 가용성에 대 한 자세한 내용�
 |EWS 응용 프로그램 지원|예|예|예|예|아니요|
 |Outlook for Mac|예|예|예|예|아니요|
 |iOS 및 Android용 Outlook<sup>21</sup>|예<sup>25</sup>|예<sup>25</sup>|예|예|예|
-|**[음성 메시지 서비스](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|**[음성 메시지 서비스](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 &nbsp; 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
 |음성 사서함|예|예|아니요|예|아니요|
 |타사 음성 사서함 상호 운용성|예|예|예|예|예|
 |비즈니스용 Skype 통합|예|예|예|예|예|
-|**[고가용성 및 비즈니스 연속성](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|**[고가용성 및 비즈니스 연속성](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 &nbsp; 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
 |데이터 센터에서 사서함 복제|아니요|아니요|예|예|예|
 |삭제된 사서함 복구|예|예|예|예|예|
 |삭제된 항목 복구|예|예|예|예|예|
 |단일 항목 복구|예|예|예|예|아니요|
-|**[상호 운용성, 연결 및 호환성](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|**[상호 운용성, 연결 및 호환성](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 &nbsp; 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
 |OWA 및 Outlook의 비즈니스용 Skype 현재 상태|예|예|예|예|예|
 |SharePoint 상호 운용성|예|예|예|예|예|
 |EWS 연결 지원|예|예|예|예|예|
 |SMTP 릴레이 지원|예|예|예|예|예|
-|**[Exchange Online 설치 및 관리](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|**[Exchange Online 설치 및 관리](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 &nbsp; 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
 |Microsoft Office 365 포털 액세스|아니요|아니요|예|예|예|
 |Microsoft 365 관리 센터 액세스|아니요|아니요|예|예|예|
 |Exchange 관리 센터 액세스|예|예|예|예|예 <sup>8</sup>|
 |원격 Windows PowerShell 액세스|예|예|예|예|예|
 |모바일 장치에 대 한 ActiveSync 정책|예|예|예|예|예|
 |사용 현황 보고|예|예|예|예|예|
-|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 1**|**Exchange Online 계획 2**|**Exchange Online Kiosk**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 &nbsp; 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
 |웹 웹 파트의 Outlook|예|예|예|예|예|
 |Outlook 추가 기능 및 Outlook MAPI|예|예|예<sup>21</sup>|예<sup>21</sup>|아니요|
 
