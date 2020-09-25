@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 Exchange Online 서비스 설명에 나와 있는 미국 정부 클라우드와 상업용 클라우드 간의 기능 차이에 대 한 개요를 제공 합니다.
-ms.openlocfilehash: 5081dbdb563a9047fbf6759fc7413584408d56b4
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: e13a04ea65a66435c686792cea8cae5de226e2b3
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154416"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261510"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>미국 정부 환경용 Exchange Online
 
@@ -37,20 +37,20 @@ ms.locfileid: "45154416"
 
 ## <a name="exchange-online-features"></a>Exchange Online 기능 
 
-다음 표에는 GCC, GCC High 및 DoD 환경 내에서 지정 된 Exchange Online 기능을 사용할 수 있는지에 대 한 개요가 나와 있습니다. 지원 nuances 관련 된 추가 컨텍스트 (또는 해당 없음)가 제공 됩니다.
+다음 표에는 GCC, GCC High 및 DoD 환경 내에서 지정 된 Exchange Online 기능을 사용할 수 있는지에 대 한 개요가 나와 있습니다. 지원 nuances 관련 된 (또는 부족 한) 경우에는 추가 컨텍스트가 제공 됩니다.<br><br>
 
-|**기능 영역**|**GCC**|**GCC 최고**|**여기서**|**주요 고려 사항**|
+| 기능 영역 | GCC | GCC 높음 | DoD | 주요 고려 사항 |
 |:-----|:-----|:-----|:-----|:-----|
 |**[계획 및 배포](../../exchange-online-service-description/planning-and-deployment.md)**|||||
-|하이브리드 배포 지원|예|예|예|온-프레미스 Exchange Server와의 공존을 위해 Microsoft에서는 하나 이상의 Exchange Server 2013 클라이언트 액세스 서버 (또는 Exchange Server 2016)를 설치 해야 합니다. Exchange Server 2010이 하 버전은 지원 되지 않습니다.|
+|하이브리드 배포 지원|예|예|예|Exchange Server 온-프레미스와 동시 사용을 위해 Microsoft는 Exchange Server 2013 클라이언트 액세스 서버 (또는 Exchange Server 2016)를 하나 이상 설치 해야 합니다. Exchange Server 2010이 하 버전은 지원 되지 않습니다.|
 |IMAP 마이그레이션 지원|예|예|예||
 |지원되는 단독형 마이그레이션|예|예|예||
 |미리 구성된 마이그레이션 지원|예|예|예|GSuite 마이그레이션은 GCC High 및 DoD에 대해서는 지원 되지 않습니다. 자세한 내용은 <a href="https://docs.microsoft.com/exchange/mailbox-migration/perform-g-suite-migration">GSuite 마이그레이션 수행</a>을 참조 하십시오.|
-|**[사용 권한](../../exchange-online-service-description/permissions.md)**|**GCC**|**GCC 최고**|**여기서**|**주요 고려 사항**|
+|**[사용 권한](../../exchange-online-service-description/permissions.md)**|**GCC**|**GCC 높음**|**DoD**|**주요 고려 사항**|
 |역할 기반 권한|예|예|예||
 |역할 그룹|예|예|예||
 |역할 할당 정책|예|예|예||
-|**[메시지 정책 및 규정 준수](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC 최고**|**여기서**|**주요 고려 사항**|
+|**[메시지 정책 및 규정 준수](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC 높음**|**DoD**|**주요 고려 사항**|
 |Exchange Online 기반 사서함 보관|예|예|예||
 |온-프레미스 사서함의 클라우드 기반 보관|예|예|예||
 |MRM (메시징 레코드 관리) |예|예|예||
@@ -58,7 +58,7 @@ ms.locfileid: "45154416"
 |보관된 데이터 암호화(BitLocker)|예|예|예||
 |Azure Information Protection을 사용한 IRM|예|예|예|GCC High 및 DoD의 IP 제한 사항에 대 한 자세한 내용은 <a href="https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description">Azure Information Protection Premium 정부 서비스 설명을</a>참조 하세요.<br><br>Azure Information Protection은 G1/F3에 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 Office 365 정부 G1 또는 Office 365 정부 F3에 포함 되지 않은 Office 365 ProPlus에 대 한 구독이 필요 합니다.|
 |Windows Server AD RMS를 사용한 IRM|예|예|예|Windows Server AD RMS는 지원 되는 IRM 기능을 사용 하기 위해 별도로 구입 하 여 관리 해야 하는 온-프레미스 서버입니다.|
-|Office 365 메시지 암호화|예|예|예|GCC high/DoD 및 GCC High/dod 사용자 간에 메시지를 보낼 때 Office 365 메시지 암호화를 문서화 하는 gcc high 배포의 경우 [office 365 메시지 암호화 동작 (gcc high/dod 경계를 통해](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) Office <a href="https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison?view=o365-worldwide#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">365 메시지 암호화의 특징</a>및 nuances을 참조 하십시오.|
+|Office 365 메시지 암호화|예|예|예|GCC high/DoD 및 GCC High/dod 사용자 간에 메시지를 보낼 때 Office 365 메시지 암호화를 문서화 하는 gcc high 배포의 경우 [office 365 메시지 암호화 동작 (이 문서의 Gcc high/dod 경계를 통해](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) Office <a href="https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">365 메시지 암호화의 고유한 특성</a>및 nuances을 참조 하십시오.|
 |고객 키|예|예|예|G5 서비스 계획이 필요 합니다.|
 |S/MIME|예|예|예||
 |원본 위치 유지 및 소송 보존|예|예|예|G3 또는 G5 서비스 계획이 필요 합니다.|
@@ -66,7 +66,7 @@ ms.locfileid: "45154416"
 |메일 흐름 규칙|예|예|예||
 |데이터 손실 방지|예|예|예|G3 또는 G5 서비스 계획이 필요 합니다.|
 |저널링|예|예|예||
-|**[스팸 방지 및 맬웨어 방지 보호](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC 최고**|**여기서**|**주요 고려 사항**|
+|**[스팸 방지 및 맬웨어 방지 보호](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC 높음**|**DoD**|**주요 고려 사항**|
 |스팸 방지 보호 기능 내장|예|예|예||
 |Customize anti-spam policies|예|예|예||
 |맬웨어 방지 보호 기능 내장|예|예|예||
@@ -74,13 +74,13 @@ ms.locfileid: "45154416"
 |격리 - 관리자 관리|예|예|예||
 |격리 - 최종 사용자 자기 관리|예|예|예||
 |고급 위협 방지|예|예|예|G5 서비스 계획 (또는 추가 기능 구입)이 필요 합니다.<br><br>사용자 및 도메인 가장을 위한 피싱 방지 및 스푸핑 지능은 GCC High 및 DoD에서는 아직 사용할 수 없습니다.|
-|**[메일 흐름](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC 최고**|**여기서**|**주요 고려 사항**|
+|**[메일 흐름](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC 높음**|**DoD**|**주요 고려 사항**|
 |아웃 바운드 메일의 사용자 지정 라우팅|예|예|예||
 |Secure messaging with a trusted partner|예|예|예||
 |Conditional mail routing|예|예|예||
 |인바운드 수신 허용 목록에 파트너 추가|예|예|예||
 |하이브리드 전자 메일 라우팅|예|예|예||
-|**[받는 사람](../../exchange-online-service-description/recipients.md)**|**GCC**|**GCC 최고**|**여기서**|**주요 고려 사항**|
+|**[받는 사람](../../exchange-online-service-description/recipients.md)**|**GCC**|**GCC 높음**|**DoD**|**주요 고려 사항**|
 |용량 경고|예|예|예||
 |Clutter|예|예|예||
 |메일 설명|예|예|예||
@@ -100,17 +100,17 @@ ms.locfileid: "45154416"
 |회의실 관리|예|예|예||
 |부재 중 회신|예|예|예||
 |인터넷 일정 공유|예|아니요|아니요|GCC high에서는 인터넷 일정 게시/공유가 GCC high 사용자가 공유 하는 일정에 대 한 인바운드 연결에 작동 하지만, 아웃 바운드를 GCC high users 외부에 연결 하는 경우에는 gcc high 사용자에 게 적합 하지 않습니다.<br><br>DoD-인터넷 일정 공유는 해당 환경의 인바운드/아웃 바운드 연결 허용 목록에 대 한 요구 사항으로 인해 지원 되지 않습니다.|
-|**[보고 기능 및 문제 해결 도구](../../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**GCC**|**GCC 최고**|**여기서**|**주요 고려 사항**|
+|**[보고 기능 및 문제 해결 도구](../../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**GCC**|**GCC 높음**|**DoD**|**주요 고려 사항**|
 |Microsoft 365 관리 센터 보고서|예|예|아니요|DoD에 대 한 보고서를 사용할 수 없습니다. 업데이트/현재 가용성에 대 한 Office 365 US 정부 서비스 설명의 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">플랫폼 기능</a> 섹션을 참조 하세요.|
 |웹 서비스 보고서|예|예|아니요|DoD에 대 한 보고서를 사용할 수 없습니다. 업데이트/현재 가용성에 대 한 Office 365 US 정부 서비스 설명의 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">플랫폼 기능</a> 섹션을 참조 하세요.|
 |Message trace|예|예|예||
 |감사 보고서|예|예|아니요|DoD에 대 한 보고서를 사용할 수 없습니다. 업데이트/현재 가용성에 대 한 Office 365 US 정부 서비스 설명의 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">플랫폼 기능</a> 섹션을 참조 하세요.|
 |통합 메시징 보고서|예|아니요|아니요||
-|**[공유 및 공동 작업](../../exchange-online-service-description/sharing-and-collaboration.md)**|**GCC**|**GCC 최고**|**여기서**|**주요 고려 사항**|
+|**[공유 및 공동 작업](../../exchange-online-service-description/sharing-and-collaboration.md)**|**GCC**|**GCC 높음**|**DoD**|**주요 고려 사항**|
 |페더레이션 공유 (일정 게시 포함)|예|예|예|GCC High 및 DoD에는 제한이 있습니다. 이 문서에서는 [약속 있음/없음 페더레이션](#freebusy-federation) 을 참조 하십시오.|
 |사이트 사서함|예|예|예||
 |공용 폴더|예|예|예||
-|**[클라이언트 및 모바일 장치](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC 최고**|**여기서**|**주요 고려 사항**|
+|**[클라이언트 및 모바일 장치](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC 높음**|**DoD**|**주요 고려 사항**|
 | Windows용 Outlook|예|예|예|GCC High 및 DoD 준수 요구 사항을 충족 하려면 최소 버전 1803의 Office 365 ProPlus를 실행 해야 합니다. Office 365 ProPlus는 G1 또는 F3에 포함 되지 않습니다.|
 |웹용 Outlook|예|예|예||
 |Outlook for Mac|예|예|예|GCC High 및 DoD 준수 요구 사항을 충족 하려면 최소 버전 1803의 Office 365 ProPlus를 실행 해야 합니다. Office 365 ProPlus는 G1 또는 F3에 포함 되지 않습니다.|
@@ -120,32 +120,32 @@ ms.locfileid: "45154416"
 |POP 및 IMAP|예|예|예||
 |SMTP|예|예|예||
 |EWS 응용 프로그램 지원|예|예|예||
-|**[음성 메시지 서비스](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**GCC 최고**|**여기서**|**주요 고려 사항**|
+|**[음성 메시지 서비스](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**GCC 높음**|**DoD**|**주요 고려 사항**|
 |음성 사서함|아니요|아니요|아니요|Exchange Online 통합 메시징과 함께 온-프레미스 IP PBX 시스템 통합은 지원 되지 않습니다.|
 |음성 사서함과 타사 팩스 통합|아니요|아니요|아니요|Exchange Online 통합 메시징과 함께 온-프레미스 IP PBX 시스템 통합은 지원 되지 않습니다.|
 |타사 음성 사서함 상호 운용성|아니요|아니요|아니요|Exchange Online 통합 메시징과 함께 온-프레미스 IP PBX 시스템 통합은 지원 되지 않습니다.|
 |비즈니스용 Skype 통합|예|예|예||
-|**[고가용성 및 비즈니스 연속성](../../exchange-online-service-description/high-availability-and-business-continuity.md)**|**GCC**|**GCC 최고**|**여기서**|**주요 고려 사항**|
+|**[고가용성 및 비즈니스 연속성](../../exchange-online-service-description/high-availability-and-business-continuity.md)**|**GCC**|**GCC 높음**|**DoD**|**주요 고려 사항**|
 |데이터 센터에서의 사서함 복제|예|예|예||
 |삭제된 사서함 복구|예|예|예||
 |삭제된 항목 복구|예|예|예||
 |단일 항목 복구|예|예|예||
-|**[상호 운용성, 연결 및 호환성](../../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**GCC**|**GCC 최고**|**여기서**|**주요 고려 사항**|
+|**[상호 운용성, 연결 및 호환성](../../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**GCC**|**GCC 높음**|**DoD**|**주요 고려 사항**|
 |OWA 및 Outlook의 현재 상태|예|예|예||
 |SharePoint 상호 운용성|예|예|예||
 |EWS 연결 지원|예|예|예||
 |SMTP 릴레이 지원|예|예|예||
-|**[Exchange Online 설치 및 관리](../../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**GCC**|**GCC 최고**|**여기서**|**주요 고려 사항**|
+|**[Exchange Online 설치 및 관리](../../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**GCC**|**GCC 높음**|**DoD**|**주요 고려 사항**|
 |Microsoft Office 365 포털 액세스|예|예|아니요|DoD에 대 한 보고서를 사용할 수 없습니다. 업데이트/현재 가용성에 대 한 Office 365 US 정부 서비스 설명의 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">플랫폼 기능</a> 섹션을 참조 하세요.|
 |Microsoft 365 관리 센터 액세스|예|예|아니요|DoD에 대 한 보고서를 사용할 수 없습니다. 업데이트/현재 가용성에 대 한 Office 365 US 정부 서비스 설명의 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">플랫폼 기능</a> 섹션을 참조 하세요.|
 |Exchange 관리 센터 액세스|예|예|예||
 |원격 Windows PowerShell 액세스|예|예|예||
 |모바일 장치에 대 한 ActiveSync 정책|예|예|예||
 |사용 현황 보고|예|예|아니요|DoD에 대 한 보고서를 사용할 수 없습니다. 업데이트/현재 가용성에 대 한 Office 365 US 정부 서비스 설명의 <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">플랫폼 기능</a> 섹션을 참조 하세요.|
-|**[서비스-사용자 지정, 추가 기능 및 리소스 확장](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC 최고**|**여기서**|**주요 고려 사항**|
+|**[서비스-사용자 지정, 추가 기능 및 리소스 확장](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC 높음**|**DoD**|**주요 고려 사항**|
 |Outlook 추가 기능 및 Outlook MAPI|예|예|예|일부 OWA 및 Outlook 추가 기능만 GCC High 및 DoD에서 사용할 수 있습니다. 이 문서에서 [outlook 및 Outlook Web App의 추가 기능](#add-insin-outlook-and-outlook-web-app) 을 참조 하세요.|
 
-## <a name="feature-nuances-within-gcc-high-and-dod-environment"></a>GCC High 및 DoD 환경 내의 기능 nuances
+## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>GCC High 및 DoD 환경 내의 기능 nuances
 
 ### <a name="connectivity-with-third-party-services"></a>타사 서비스와의 연결  
 
@@ -153,9 +153,9 @@ GCC High 및 DoD 환경 둘 다는 아웃 바운드 연결을 명시적으로 �
 
 이러한 제한으로 인해 다음과 같은 GCC High/DoD 환경에서 이러한 아웃 바운드 연결을 사용 하는 기능은 일반적으로 지원 되지 않습니다. 
 
-- 연결 된 계정 &mdash; 사용자는 계정 (Google, POP/IMAP 등)을 추가/동기화 할 수 없습니다. 
+- 연결 된 계정-사용자가 계정 (Google, POP/IMAP 등)을 추가/동기화 할 수 없습니다. 
 
-- 타사 파일 저장소 공급자 지원 &mdash;  *GCC High/DoD 내*에서 사용자의 비즈니스용 OneDrive 계정에는   파일 연결/공유를 위해 다양 한 Outlook 클라이언트 내에서 액세스할 수 있습니다. 타사 저장소 계정 (Dropbox, Box, Google Drive)은 추가할 수 없습니다. 
+- 타사 파일 저장소 공급자 지원-파일을 첨부/공유 하기 위해 다양 한 Outlook 클라이언트 내에서 *GCC High/DoD 내의*사용자 비즈니스용 OneDrive 계정에   액세스할 수 있습니다. 타사 저장소 계정 (Dropbox, Box, Google Drive)은 추가할 수 없습니다. 
 
 - Facebook 또는 LinkedIn과 같은 공유 네트워크와의 연결 
 
@@ -185,7 +185,7 @@ GCC High 환경에서 Office 365 메시지 암호화를 사용 하려면 받는 
     
     - 상업용 Office 365 사용자, Outlook.com 사용자 및 다른 전자 메일 공급자의 기타 사용자를 포함 하 여 GCC High/DoD를 제외한 모든 받는 사람은 래퍼 메일을 받습니다. 이 래퍼 메일은 받는 사람이 메시지를 읽고 회신할 수 있는 OME 포털에 받는 사람을 리디렉션합니다. 
 
-최신 업데이트에 대 한 자세한 내용은 [Compare VERSIONS OME](https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison?view=o365-worldwide)을 참조 하십시오.
+최신 업데이트에 대 한 자세한 내용은 [Compare VERSIONS OME](https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison)을 참조 하십시오.
 
 ### <a name="freebusy-federation"></a>약속 있음/없음 페더레이션
 

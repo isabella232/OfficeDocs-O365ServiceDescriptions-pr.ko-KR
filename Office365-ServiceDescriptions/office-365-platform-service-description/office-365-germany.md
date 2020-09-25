@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와 차별화 된 옵션입니다. 이를 통해 독일에서 업계 최고의 생산성 서비스를 제공 하는 스페인어 (유럽 연합) 및 상주 (유럽 자유 무역 협회)의 디지털 작업에 대 한 요구 사항을 해결 하는 데 도움이 되 고 독일어 데이터를 사용 하 여 독일 및 엄격한 데이터 액세스 및 제어 조치를 수행 합니다.
-ms.openlocfilehash: 3e2cb2a1f9eeebd6a3fb106f8cac9a32a4cfb5e9
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 1f2ef704626f32e78fe0f7806e5fe669c12e3c5c
+ms.sourcegitcommit: 0d192547dda1adc93616996972490f50d8068981
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132393"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48268490"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -26,18 +26,17 @@ Deutsche Telekom의 독립적인 독일 회사이자 자회사인 T-Systems Inte
 
 ## <a name="service-availability-for-each-plan"></a>각 계획의 서비스 가용성
 
-각 Office 365 Germany 계획에는 Exchange Online, SharePoint Online 등의 여러 개별 서비스가 포함됩니다. 다음 표에는 각 Office 365 계획에서 사용 가능한 서비스가 나와 있습니다.
+각 Office 365 Germany 계획에는 Exchange Online, SharePoint Online 등의 여러 개별 서비스가 포함됩니다. 다음 표에는 각 Office 365 계획에서 사용 가능한 서비스가 나와 있습니다.<br><br>
 
-||||||||||
+| 서비스 | Office 365 Germany Business Essentials | Office 365 Germany Business | Office 365 Germany Business Premium | Office 365 Germany Education A1 | Office 365 Germany Enterprise E1 | Office 365 Germany Enterprise E3 | Office 365 Germany Enterprise E4 | Office 365 Germany Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**서비스**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Office 365 플랫폼 <sup>1</sup>|예|예|예|예|예|예|예|예|
-|Exchange Online|예|아니오|있음|예|예|예|예|예|
-|SharePoint Online|예|아니오|있음|예|예|예|예|예|
+|Exchange Online|예|아니요|예|예|예|예|예|예|
+|SharePoint Online|예|아니요|예|예|예|예|예|예|
 |비즈니스용 OneDrive|예|예|예|예|예|예|예|아니요|
-|비즈니스용 Skype 온라인|예|아니오|있음|예|예|예|예|아니요|
-|웹에 대 한 Office|예|예|예|예|예|예|예|예|
-|Office 365 ProPlus <sup>2</sup>|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
+|비즈니스용 Skype 온라인|예|아니요|예|예|예|예|예|아니요|
+|웹용 Office|예|예|예|예|예|예|예|예|
+|Office 365 ProPlus <sup>2</sup>|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
 |Project Online <sup>3</sup>|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Power BI <sup>3</sup>|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Visio for 웹 <sup>4</sup>|예|예|예|예|예|예|예|예|
@@ -67,11 +66,11 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 다음 표에서는 Office 365 Germany 요금제에서 사용할 수 있는 모든 플랫폼 기능을 보여 줍니다.
 
 다양한 비즈니스에 종류에 대한 가격 책정 및 기능에 대한 구체적인 정보를 보려면 [Office 365 Germany 계획](https://go.microsoft.com/fwlink/?linkid=839016)을 참조하세요.
+<br><br>
 
-||||||||||
+| 기능 | Office 365 Germany Business Essentials | Office 365 Germany Business | Office 365 Germany Business Premium | Office 365 Germany Education A1 | Office 365 Germany Enterprise E1 | Office 365 Germany Enterprise E3 | Office 365 Germany Enterprise E4 | Office 365 Germany Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|**[Office 365 관리 기능](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)**|||||||||
+|**[Office 365 관리 기능](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-germany&preserve-view=true#admin-center-features-and-settings)**|||||||||
 |Microsoft 365 관리 센터 또는 Windows PowerShell을 사용 하 여 Office 365 관리|예|예|예|예|예|예|예|예|
 |Azure Information Protection을 사용하여 콘텐츠 보호|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|아니요|아니요|No<sup>2</sup>|
 |**[Office 365 제품군 기능](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
@@ -85,12 +84,12 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |Microsoft StaffHub|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Microsoft Sway|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Microsoft 팀|아니요|아니요|아니요|아니요|아니요<br/> |아니요|아니요|아니요|
-|Office Delve<sup></sup>|예|아니오|있음|예|예|예|예|아니요|
-|Office 365 그룹|예|아니오|있음|예|예|예|예|예|
-|Office 365 비디오|아니요|아니요|아니요|있음|예|예|예|아니요|
+|Office Delve<sup></sup>|예|아니요|예|예|예|예|예|아니요|
+|Office 365 그룹|예|아니요|예|예|예|예|예|예|
+|Office 365 비디오|아니요|아니요|아니요|예|예|예|예|아니요|
 |**[사용자 계정 관리](user-account-management.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |클라우드 id, 페더레이션 id 또는 다단계 인증|예|예|예|예|예|예|예|예|
-|Office 365 데스크톱 설정|예|아니요|있음|예|예|예|예|예|
+|Office 365 데스크톱 설정|예|아니요|예|예|예|예|예|예|
 |.Csv 파일을 사용 하 여 대량 업로드|예|예|예|예|예|예|예|예|
 |디렉터리 동기화 도구|예|예|예|예|예|예|예|예|
 |Exchange 단순(단독형) 마이그레이션|예|예|예|예|예|예|예|예|
@@ -106,7 +105,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |사용자 지정 2차 수준 도메인 추가(예: fourthcoffee.de)|예|예|예|예|예|예|예|예|
 |사용자 지정 3차 수준 도메인 추가(예: marketing.fourthcoffee.de)|예|예|예|예|예|예|예|예|
 |사용자 지정 도메인 최대 900개 추가|예|예|예|예|예|예|예|예|
-|Office 365에서 관리되는 DNS 레코드(완전 재위임)|예|예|예|예|아니오|있음|예|예|
+|Office 365에서 관리되는 DNS 레코드(완전 재위임)|예|예|예|예|아니요|예|예|예|
 |DNS 호스팅 공급자 웹 사이트에서 관리되는 DNS 레코드(부분 재위임)|예|예|예|예|예|예|예|예|
 |전자 메일 주소 및 비즈니스용 Skype Online <sup>8</sup> 에 **name.onmicrosoft.de** 도메인 또는 사용자 지정 도메인 이름 사용|예|예|예|예|예|예|예|예|
 |팀 사이트에 **name.sharepoint.de** 사용|예|예|예|예|예|예|예|예|
@@ -195,58 +194,57 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 > [!NOTE]
 > Office 365 Germany 계획에는 최종 사용자의 장치에서 설치 및 실행되는 Office 365 ProPlus, Office 2013\* 및 Office 2016과 같은 클라이언트 소프트웨어 응용 프로그램이 포함됩니다. 클라이언트 소프트웨어 응용 프로그램이 독일어 데이터 센터 에서만 독점적으로 작동 하는 것은 아니며, 최종 사용자가 [독일어 온라인 서비스가](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)아닌 온라인 서비스에 액세스할 수 있도록 합니다. Microsoft와의 계약을 위해 클라이언트 소프트웨어 응용 프로그램은 독일어 온라인 서비스가 아닙니다. 독일어 데이터 트러스티에 의한 액세스 제어 및 독일어 데이터 상주 약정은 독일어 온라인 서비스에만 적용됩니다.<br/> \*Office 365 Germany용 Office 2013을 사용하려면 [최신 인증이 사용되도록 설정되어야 합니다](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).
 
-다음 표를 사용하여 Office 365 Germany 계획 간의 기능을 비교해 볼 수 있습니다.
+다음 표를 사용하여 Office 365 Germany 계획 간의 기능을 비교해 볼 수 있습니다.<br><br>
 
-||||||||||
+| 기능 | Office 365 Germany Business | Office 365 Germany Business Essentials | Office 365 Germany Business Premium | Office 365 Germany Education A1 | Office 365 Germany Enterprise E1 | Office 365 독일 Enterprise E3<sup>9</sup> | Office 365 Germany Enterprise E4 | Office 365 Germany Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Office 365 Germany Business**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 독일 Enterprise E3<sup>9</sup>**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|**Office 응용 프로그램**<sup>1, 2</sup>|||||||||
-|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|예|아니오|예|<sup>7</sup> 없음|아니오|있음|예|아니요|
-|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|예|아니오|예|<sup>7</sup> 없음|아니오|있음|예|아니요|
-|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|예|아니오|예|<sup>7</sup> 없음|아니오|있음|예|아니요|
-|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote)|예|아니오|예|<sup>7</sup> 없음|아니오|있음|예|아니요|
-|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|예|아니오|예|<sup>7</sup> 없음|아니오|있음|예|아니요|
-|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher)|예|아니오|예|<sup>7</sup> 없음|아니오|있음|예|아니요|
-|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-publisher)|예<sup>10</sup>|아니요|예<sup>10</sup>|<sup>7</sup> 없음|아니오|있음|예|아니요|
+|**Office 응용 프로그램**<sup>1, &nbsp; 2</sup>|||||||||
+|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|예|아니요|예|<sup>7</sup> 없음|아니요|예|예|아니요|
+|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|예|아니요|예|<sup>7</sup> 없음|아니요|예|예|아니요|
+|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|예|아니요|예|<sup>7</sup> 없음|아니요|예|예|아니요|
+|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote)|예|아니요|예|<sup>7</sup> 없음|아니요|예|예|아니요|
+|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|예|아니요|예|<sup>7</sup> 없음|아니요|예|예|아니요|
+|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher)|예|아니요|예|<sup>7</sup> 없음|아니요|예|예|아니요|
+|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-publisher)|예<sup>10</sup>|아니요|예<sup>10</sup>|<sup>7</sup> 없음|아니요|예|예|아니요|
 |[비즈니스용 Skype](../office-applications-service-description/office-applications.md#skype-for-business)|예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|예|예|예<sup>6</sup>|
-|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|아니요|아니요|아니요|<sup>7</sup> 없음|아니오|있음|예|아니요|
+|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|아니요|아니요|아니요|<sup>7</sup> 없음|아니요|예|예|아니요|
 |[Windows 10 앱](../office-applications-service-description/office-applications.md#windows-10-apps)|예|예|예|예|예|예|예|아니요|
-|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|예|아니오|예|<sup>7</sup> 없음|아니오|있음|예|아니요|
-|[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|예|아니오|예|<sup>7</sup> 없음|아니오|있음|예|아니요|
-|[Android용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android)|예|아니오|예|<sup>7</sup> 없음|아니오|있음|예|아니요|
-|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|예|아니오|예|<sup>7</sup> 없음|아니오|있음|예|아니요|
-|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|예|아니오|예|<sup>7</sup> 없음|아니오|있음|예|아니요|
+|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|예|아니요|예|<sup>7</sup> 없음|아니요|예|예|아니요|
+|[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|예|아니요|예|<sup>7</sup> 없음|아니요|예|예|아니요|
+|[Android용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android)|예|아니요|예|<sup>7</sup> 없음|아니요|예|예|아니요|
+|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|예|아니요|예|<sup>7</sup> 없음|아니요|예|예|아니요|
+|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|예|아니요|예|<sup>7</sup> 없음|아니요|예|예|아니요|
 |Android 용 Outlook<sup>11</sup>|아니요|아니요|아니요|<sup>7</sup> 없음|아니요|아니요|아니요|아니요|
 |**Enterprise 값**|**Office 365 Germany Business**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|PC 또는 Mac에서 사용자당 5건의 동시 설치 지원|예<sup>8</sup>|아니오|예|<sup>7</sup> 없음|아니오|있음|예|아니요|
+|PC 또는 Mac에서 사용자당 5건의 동시 설치 지원|예<sup>8</sup>|아니요|예|<sup>7</sup> 없음|아니요|예|예|아니요|
 |사용자 계정 자동 구축|예|예|예|예|예|예|예|예|
-|다국어 사용자 인터페이스|아니요|아니요|예|아니요|아니요|있음|예|아니요|
-|클라이언트 푸시 배포|예|예|예|아니요|아니요|있음|예|아니요|
-|온-프레미스 Exchange에 대한 클라이언트 지원|예|아니오|예|아니요|아니요|있음|예|아니요|
-|온-프레미스 Sharepoint에 대한 클라이언트 지원|예|아니오|예|아니요|아니요|있음|예|아니요|
-|소프트웨어 업데이트 제어|예|아니오|예|아니요|아니요|있음|예|아니요|
-|데이터베이스 비교|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
-|데스크톱 가상화|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
-|Excel 스프레드시트 비교|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
-|Excel 스프레드시트 조회|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
-|Exchange Online 및 SharePoint Online 보관 및 규정 준수|예|아니요|예<sup>5</sup>|아니요|아니요|있음|예|아니요|
-|그룹 정책 지원|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
+|다국어 사용자 인터페이스|아니요|아니요|예|아니요|아니요|예|예|아니요|
+|클라이언트 푸시 배포|예|예|예|아니요|아니요|예|예|아니요|
+|온-프레미스 Exchange에 대한 클라이언트 지원|예|아니요|예|아니요|아니요|예|예|아니요|
+|온-프레미스 Sharepoint에 대한 클라이언트 지원|예|아니요|예|아니요|아니요|예|예|아니요|
+|소프트웨어 업데이트 제어|예|아니요|예|아니요|아니요|예|예|아니요|
+|데이터베이스 비교|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
+|데스크톱 가상화|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
+|Excel 스프레드시트 비교|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
+|Excel 스프레드시트 조회|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
+|Exchange Online 및 SharePoint Online 보관 및 규정 준수|예|아니요|예<sup>5</sup>|아니요|아니요|예|예|아니요|
+|그룹 정책 지원|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
 |Azure 정보 보호를 사용한 정보 권한 관리<sup>3</sup>|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Windows Server AD RMS<sup>4</sup> 를 사용한 정보 권한 관리|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|Office 추가 기능, ActiveX 및 BHO 지원|아니요|아니요|예|아니요|아니요|있음|예|아니요|
-|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스|예|아니오|예|아니요|아니요|있음|예|아니요|
+|Office 추가 기능, ActiveX 및 BHO 지원|아니요|아니요|예|아니요|아니요|예|예|아니요|
+|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스|예|아니요|예|아니요|아니요|예|예|아니요|
 |Office Lens|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|Office 원격 분석|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
-|클라이언트 응용 프로그램에 대한 오프라인 지원|예|예|예|아니요|아니요|있음|예|아니요|
-|최적화된 클라이언트 병렬 설치|예|예|예|아니요|아니요|있음|예|아니요|
-|Excel용 파워 맵|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
-|Power Pivot for Excel|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
-|Excel용 파워 쿼리|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
-|Power View for Excel|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
+|Office 원격 분석|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
+|클라이언트 응용 프로그램에 대한 오프라인 지원|예|예|예|아니요|아니요|예|예|아니요|
+|최적화된 클라이언트 병렬 설치|예|예|예|아니요|아니요|예|예|아니요|
+|Excel용 파워 맵|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
+|Power Pivot for Excel|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
+|Excel용 파워 쿼리|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
+|Power View for Excel|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
 |로밍 설정|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|공유 컴퓨터 활성화|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
-|클라우드 기반 파일 저장 차단 지원|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
-|버전 업그레이드|예|아니오|예|아니요|아니요|있음|예|아니요|
+|공유 컴퓨터 활성화|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
+|클라우드 기반 파일 저장 차단 지원|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
+|버전 업그레이드|예|아니요|예|아니요|아니요|예|예|아니요|
 |Volume activation (KMS/MAK)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 
 > [!NOTE]
@@ -262,9 +260,8 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 <sup>10</sup> 현재 지연 채널에 대 한 대상 지정 릴리스 또는 최신 채널에 있는 경우 Access를 사용할 수 있습니다. 지연 채널에 있는 경우 2017년 6월에 Access가 제공될 예정입니다. 자세한 내용은 [Office 365 Business 및 Business Premium의 일부로 포함된 Access](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/>
 <sup>11</sup> Office 365 독일에서는 사용할 수 없지만 곧 제공 될 예정입니다.
 
-|||||
+| 기능 | Office Professional Plus 2013 | Office Professional Plus 2016 | Office 365 ProPlus<sup>10</sup> |
 |:-----|:-----|:-----|:-----|
-|**기능**|**Office Professional Plus 2013**|**Office Professional Plus 2016**|**Office 365 ProPlus<sup>10</sup>**|
 |**Office 응용 프로그램<sup>1, 2</sup>**||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|예|예|예|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|예|예|예|
@@ -276,14 +273,14 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |[비즈니스용 Skype](../office-applications-service-description/office-applications.md#skype-for-business)|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|예|예|아니요|
 |[Windows 10 앱](../office-applications-service-description/office-applications.md#windows-10-apps)|예|예|예|
-|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|아니오|있음|예|
-|[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|아니오|있음|예|
-|[Android용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android)|아니오|있음|예|
-|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니오|있음|예|
-|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니오|있음|예|
+|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|아니요|예|예|
+|[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|아니요|예|예|
+|[Android용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android)|아니요|예|예|
+|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니요|예|예|
+|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니요|예|예|
 |Android 용 Outlook<sup>11</sup>|아니요|아니요|아니요|
 |**Enterprise 값**|**Office Professional Plus 2013**|**Office Professional Plus 2016**|**Office 365 ProPlus**|
-|PC 또는 Mac에서 사용자당 5건의 동시 설치 지원|아니오|예|예<sup>8</sup>|
+|PC 또는 Mac에서 사용자당 5건의 동시 설치 지원|아니요|예|예<sup>8</sup>|
 |사용자 계정 자동 구축|해당 없음|예|예|
 |다국어 사용자 인터페이스|예|예|예|
 |클라이언트 푸시 배포|예|예|예|
@@ -299,19 +296,19 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |Azure 정보 보호를 사용한 정보 권한 관리<sup>4</sup>|아니요|아니요|아니요|
 |Windows Server AD RMS<sup>5</sup> 를 사용한 정보 권한 관리|아니요|아니요|아니요|
 |Office 추가 기능, ActiveX 및 BHO 지원|예|예|예|
-|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스|아니오|예|예|
+|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스|아니요|예|예|
 |Office Lens|아니요|아니요|아니요|
 |Office 원격 분석|예|예|예|
 |클라이언트 응용 프로그램에 대한 오프라인 지원|예|예|예|
-|최적화된 클라이언트 병렬 설치|아니오|예|예|
+|최적화된 클라이언트 병렬 설치|아니요|예|예|
 |Excel용 파워 맵|<sup>6</sup> 없음|예|예|
 |Power Pivot for Excel|예|예|예|
 |Excel용 파워 쿼리|예|예|예|
 |Power View for Excel|예|예|예|
 |로밍 설정|예|예|예|
-|공유 컴퓨터 활성화|아니요|아니요|지원|
+|공유 컴퓨터 활성화|아니요|아니요|예|
 |클라우드 기반 파일 저장 차단 지원|예|예|예|
-|버전 업그레이드|아니오|예|예|
+|버전 업그레이드|아니요|예|예|
 |Volume activation (KMS/MAK)|예|예|<sup>10</sup>|
 
 > [!NOTE]
@@ -335,9 +332,8 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 > - Office Professional Plus, Office Standard 또는 Office 365 ProPlus 라이선스와 같은 Office 데스크톱 제품군 라이선스를 구매한 경우 Microsoft Office Web Apps 서버 2013 온-프레미스 고객은 웹 편집 라이선스로 Office를 받습니다. <br/>
 > - Office 365 독일의 특성으로 인해 일부 기능이 아직 사용 하도록 설정 되지 않았습니다. 고객은 시간에 따라 글로벌 서비스를 포함하는 전체 기능 패리티에 근접한 서비스를 확인할 수 있습니다.
 
-||||
+| 응용 프로그램 | 웹용 Office | 자세한 기능 비교 링크 |
 |:-----|:-----|:-----|
-|**응용 프로그램**|**웹에 대 한 Office**|**자세한 기능 비교 링크**|
 |Word|웹용 Word|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|웹용 Excel|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|웹용 OneNote|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -345,11 +341,10 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 
 ## <a name="exchange-online-features"></a>Exchange Online 기능 
 
-다음 표에는 Office 365 Germany 계획에서 사용할 수 있는 Exchange Online 기능이 나와 있습니다.
+다음 표에는 Office 365 Germany 계획에서 사용할 수 있는 Exchange Online 기능이 나와 있습니다.<br><br>
 
-||||||||||
+| 기능 | Office 365 Germany Business Essentials | Office 365 Germany Business | Office 365 Germany Business Premium | Office 365 Germany Education A1 | Office 365 Germany Enterprise E1 | Office 365 Germany Enterprise E3 | Office 365 Germany Enterprise E4 | Office 365 Germany Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |**[계획 및 배포](../exchange-online-service-description/planning-and-deployment.md)**|||||||||
 |하이브리드 배포 지원 됨<sup>1</sup>|예<sup>2</sup>|예|예<sup>2</sup>|예|예|예|예|예|
 |IMAP 마이그레이션 지원|예|예|예|예|예|예|예|예|
@@ -361,17 +356,17 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |역할 할당 정책|예|예|예|예|예|예|예|아니요|
 |**[메시지 정책 및 규정 준수](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Exchange Online 기반 사서함 보관|예|예|예|예|예|예|예|아니요|
-|온-프레미스 사서함의 클라우드 기반 보관|아니요|아니요|아니요|있음|예|예|예|아니요|
+|온-프레미스 사서함의 클라우드 기반 보관|아니요|아니요|아니요|예|예|예|예|아니요|
 |보존 태그 및 보존 정책|예|예|예|예|예|예|예|예|
 |보관된 데이터 암호화(BitLocker)|예|예|예|예|예|예|예|예|
 |Azure 정보 보호를 사용 하는 IRM<sup>3</sup>|<sup>4</sup> 없음|<sup>4</sup> 없음|<sup>4</sup> 없음|<sup>4</sup> 없음|<sup>4</sup> 없음|아니요|아니요|<sup>4</sup> 없음|
 |Windows Server AD RMS<sup>3</sup> 을 사용 하는 IRM|<sup>5</sup> 없음|<sup>5</sup> 없음|<sup>5</sup> 없음|<sup>5</sup> 없음|<sup>5</sup> 없음|<sup>5</sup> 없음|<sup>5</sup> 없음|<sup>5</sup> 없음|
 |Office 365 메시지 암호화|<sup>4</sup> 없음|<sup>4</sup> 없음|<sup>4</sup> 없음|<sup>4</sup> 없음|<sup>4</sup> 없음|예|예|<sup>4</sup> 없음|
 |S/MIME|예|예|예|예|예|예|예|예||
-|원본 위치 유지 및 소송 보존|아니요|--|아니요|예|아니오|있음|예|아니요|
+|원본 위치 유지 및 소송 보존|아니요|--|아니요|예|아니요|예|예|아니요|
 |원본 위치 eDiscovery|예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|예|예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|예|
 |메일 흐름 규칙|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|
-|데이터 손실 방지|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
+|데이터 손실 방지|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
 |저널링|예|예|예|예|예|예|예|예|
 |**[스팸 방지 및 맬웨어 방지 보호](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |스팸 방지 보호 기능 내장|예|예|예|예|예|예|예|예|
@@ -399,7 +394,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |주소록 정책|예|예|예|예|예|예|예|예|
 |계층 구조 주소록|예|--|예|예|예|예|예|아니요|
 |주소 목록 및 전체 주소 목록|예|예|예|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|
-|Office 365 그룹|예|아니요|있음|예|예|예|예|예|
+|Office 365 그룹|예|아니요|예|예|예|예|예|예|
 |메일 그룹|예|예|예|예|예|예|예|예|
 |외부 연락처(전체)|예|예|예|예|예|예|예|예|
 |일반 대화 상대 카드|예|예|예|예|예|예|예|예|
@@ -413,7 +408,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |웹 서비스 보고서|예|예|예|예|예|예|예|예|
 |Message trace|예|예|예|예|예|예|예|예|
 |감사 보고서|예|예|예|예|예|예|예|예 <sup>5</sup>|
-|통합 메시징 보고서|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
+|통합 메시징 보고서|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
 |**[공유 및 공동 작업](../exchange-online-service-description/sharing-and-collaboration.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |페더레이션 공유 (일정 게시 포함)<sup>13</sup>|예|예|예|예|예|예|예|예|
 |공용 폴더|예|예|예|예|예|예|예|아니요|
@@ -428,8 +423,8 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |EWS 응용 프로그램 지원|예|예|예|예|예|예|예|아니요|
 |Outlook for Mac|예|예|예|예|예|예|예| 아니요|
 |**[음성 메시지 서비스](../exchange-online-service-description/voice-message-services.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|음성 사서함|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
-|음성 사서함과 타사 팩스 통합|아니요|아니요|아니요|아니요|아니요|있음|예|아니요|
+|음성 사서함|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
+|음성 사서함과 타사 팩스 통합|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
 |타사 음성 사서함 상호 운용성|예|예|예|예|예|예|예|예|
 |비즈니스용 Skype 통합|예|예|예|예|예|예|예|예|
 |**[고가용성 및 비즈니스 연속성](../exchange-online-service-description/high-availability-and-business-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
@@ -464,27 +459,25 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 <sup>9</sup> Exchange 서버 2013은 Microsoft 맬웨어 방지 엔진도 사용 합니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다. <br/> <sup>10</sup> 연결 된 계정은 POP IMAP 계정에 대해서는 지원 &amp; 되지만 Outlook.com (Hotmail)에는 사용할 수 없습니다. <br/>
 <sup>11</sup> 비활성 사서함 기능이 필요한 각 사서함에 대해 eoa 구독을 별도로 구입할 수 있습니다. <br/>
 <sup>12</sup> cmdlet을 사용 하 여 주소 목록 및 전체 주소 목록으로 작업할 수 없습니다. <br/>
-<sup>13</sup> 다른 테 넌 트와의 공유를 지원 하기 위해 가용성 주소 공간을 사용 해야 합니다. 가용성 주소 공간을 만드는 방법에 대 한 자세한 내용은 [Add-add-availabilityaddressspace](https://docs.microsoft.com/powershell/module/exchange/sharing-and-collaboration/Add-AvailabilityAddressSpace?view=exchange-ps)를 참조 하십시오. <br/> <sup>14</sup> 테이블은 클라이언트가 관련 요금제와 함께 작동 하는지 여부를 나타냅니다. 이러한 계획 구매에 클라이언트가 반드시 포함되어야 하는 것을 의미하지는 않습니다.<br/>
+<sup>13</sup> 다른 테 넌 트와의 공유를 지원 하기 위해 가용성 주소 공간을 사용 해야 합니다. 가용성 주소 공간을 만드는 방법에 대 한 자세한 내용은 [Add-add-availabilityaddressspace](https://docs.microsoft.com/powershell/module/exchange/sharing-and-collaboration/Add-AvailabilityAddressSpace)를 참조 하십시오. <br/> <sup>14</sup> 테이블은 클라이언트가 관련 요금제와 함께 작동 하는지 여부를 나타냅니다. 이러한 계획 구매에 클라이언트가 반드시 포함되어야 하는 것을 의미하지는 않습니다.<br/>
 <sup>15</sup> POP는 지원 되지만 IMAP는 사용할 수 없습니다.<br/>
 <sup>16</sup> 일부 타사 웹 파트 및 추가 기능을 사용 하지 못할 수 있습니다.
 
 ## <a name="exchange-online-protection-features"></a>Exchange Online Protection 기능
 
-다음 표에는 Office 365 Germany 계획에서 사용할 수 있는 EOP(Exchange Online Protection) 기능이 나와 있습니다. EOP 기능에 대 한 자세한 내용을 보려면 표에서 링크를 선택 합니다. Exchange Online은 대개 Office 365 Enterprise 서비스 제품군을 지칭하는 것입니다.
+다음 표에는 Office 365 Germany 계획에서 사용할 수 있는 EOP(Exchange Online Protection) 기능이 나와 있습니다. EOP 기능에 대 한 자세한 내용을 보려면 표에서 링크를 선택 합니다. Exchange Online은 대개 Office 365 Enterprise 서비스 제품군을 지칭하는 것입니다.<br><br>
 
-|||||
+| 기능 | EOP 독립 실행형 | Exchange Online의 EOP 기능 | Exchange Enterprise CAL with Services |
 |:-----|:-----|:-----|:-----|
-|**기능**|**EOP 독립 실행형**|**Exchange Online의 EOP 기능**|**Exchange Enterprise CAL with Services**|
 |[메일 받는 사람](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#mail-recipients)|예<sup>1</sup>|예<sup>1</sup>|예|
 |[관리자 역할 그룹 권한](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#admin-role-group-permissions)|예<sup>2</sup>|예|예|
-|[도메인 관리](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#domain-management)|예<sup>3</sup>|있음|예<sup>3</sup>|
+|[도메인 관리](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#domain-management)|예<sup>3</sup>|예|예<sup>3</sup>|
 |[하위 도메인 일치](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#match-subdomains)|예|예|아니요|
 |[DBEB(디렉터리 기반 Edge 차단)](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|예|예|예|
 |[메일 흐름 규칙](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#mail-flow-rules)|예 <sup>3, 4, 14</sup>|예 <sup>3, 4, 14</sup>|예|
 |[감사 로깅](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#audit-logging)|예<sup>5</sup>|예|예|
-|[감사 로그 검색](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252farticle%252fSearch-the-audit-log-in-the-Office-365-Security-Compliance-Center-0d4d0f35-390b-4518-800e-0c7ec95e946c)
-<sup>~</sup>|아니요|있음|예|
-|[DLP(데이터 손실 방지)](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|아니요|있음|예<sup>6</sup>|
+|[감사 로그 검색](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252farticle%252fSearch-the-audit-log-in-the-Office-365-Security-Compliance-Center-0d4d0f35-390b-4518-800e-0c7ec95e946c)<sup>16</sup>|아니요|예|예|
+|[DLP(데이터 손실 방지)](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|아니요|예|예<sup>6</sup>|
 |[Office 365 메시지 암호화](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|예<sup>12</sup>|예|예<sup>12</sup>|
 |[스팸 방지 보호 기능](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection)(기본 제공)|예|예|예|
 |[스팸 방지 정책 사용자 지정](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection)|예<sup>7</sup>|예|예|
@@ -529,78 +522,75 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 
 ## <a name="exchange-online-advanced-threat-protection-features"></a>Exchange Online Advanced Threat Protection(기능)
 
-다음 표에서는 Office 365 Germany 계획에서 사용할 수 있는 Exchange Online Advanced Threat Protection 기능을 보여 줍니다. EOP 기능에 대 한 자세한 내용을 보려면 표에서 링크를 선택 합니다. Exchange Online은 대개 Office 365 Enterprise 서비스 제품군을 지칭하는 것입니다.
+다음 표에서는 Office 365 Germany 계획에서 사용할 수 있는 Exchange Online Advanced Threat Protection 기능을 보여 줍니다. EOP 기능에 대 한 자세한 내용을 보려면 표에서 링크를 선택 합니다. Exchange Online은 대개 Office 365 Enterprise 서비스 제품군을 지칭하는 것입니다.<br><br>
 
-|**기능**|**ATP 독립 실행형**|**Exchange Online의 ATP 기능**|
+| 기능 | ATP 독립 실행형 | Exchange Online의 ATP 기능 |
 |:-----|:-----|:-----|
 |안전한 링크|예|예|
 |안전한 첨부 파일|예|예|
 
 ## <a name="project-online-features"></a>Project Online 기능
 
-다음 표에서는 Office 365 Germany 계획에서 사용할 수 있는 Project Online 기능을 보여 줍니다. Project Online에 대한 자세한 내용은 [Project Online 시작](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)을 참조하세요.
+다음 표에서는 Office 365 Germany 계획에서 사용할 수 있는 Project Online 기능을 보여 줍니다. Project Online에 대한 자세한 내용은 [Project Online 시작](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)을 참조하세요.<br><br>
+<!-- Do not remove "en-us" from this URL. Since blog posts aren't localized, we need to keep "en-us" in the URL or users in non-English locales will get an error when they click the link. -->
 
-||||
+| 계획 | 설명 | 대상 사용자 |
 |:-----|:-----|:-----|
-|**계획**|**설명**|**대상 사용자**|
 |Project Online Essentials| 팀 구성원을 위한 웹 기반 인터페이스  <br/>  업데이트 작업, 문제점 및 위험  <br/>  작업표 제출  <br/>  비즈니스용 Skype 현재 상태 기능을 사용하여 문서 공유 및 공동 작업|팀 구성원|
 |Project Online Professional| 모든 Project Online Essentials 기능과 다음 기능 포함  <br/>  데스크톱 클라이언트를 통한 풍부한 사용자 인터페이스  <br/>  웹 인터페이스를 통해 언제/어디서 나 액세스 가능  <br/>  프로젝트 예약 및 비용 관리  <br/>  자원 관리  <br/>  클라우드에 프로젝트 게시  <br/>  최신 버전의 Project 데스크톱 응용 프로그램을 Windows PC에 즉시 스트리밍하도록 포함합니다.  <br/>  구독 라이선스마다 최대 5개의 동시 Project 데스크톱 응용 프로그램 설치가 허용됩니다.|프로젝트 관리자|
 |Project Online Premium| 모든 Project Online Professional 기능과 다음 기능 포함  <br/>  포트폴리오 선택 및 최적화  <br/>  제안 관리  <br/>  Enterprise 자원 관리  <br/>  기본 포트폴리오 보고서|포트폴리오 및 자원 관리자|
 
 ## <a name="sharepoint-online-features"></a>SharePoint Online 기능
 
-모든 Office 365 계획에는 SharePoint Online 서비스가 포함되지만 모든 계획에서 SharePoint 기능을 모두 지원하는 것은 아닙니다. 다음 표에서는 Office 365 Germany 계획에서 사용할 수 있는 기능을 보여 줍니다.
+모든 Office 365 계획에는 SharePoint Online 서비스가 포함되지만 모든 계획에서 SharePoint 기능을 모두 지원하는 것은 아닙니다. 다음 표에서는 Office 365 Germany 계획에서 사용할 수 있는 기능을 보여 줍니다.<br><br>
 
-****
-
-||||||||||
+| 개발자 기능 | Office 365 Germany Business Essentials | Office 365 Germany Business | Office 365 Germany Business Premium | Office 365 Germany Education A1 | Office 365 Germany Enterprise E1 | Office 365 Germany Enterprise E3 | Office 365 Germany Enterprise E4 | Office 365 Germany Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**개발자 기능**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |앱 카탈로그 (SharePoint)|예|예|예|예|예|예|예|예|
 |앱 배포: 클라우드 호스트 앱|예|예|예|예|예|예|예|예|
 |앱 배포: SharePoint 호스트 앱|예|예|예|예|예|예|예|예|
 |앱 관리 서비스|예|예|예|예|예|예|예|예|
-|BCS: 외부 목록에 대 한 경고|아니요|아니요|아니요|예|아니오|있음|예|아니요|
-|BCS: 앱 범위가 지정 된 Ect (외부 콘텐츠 형식)|아니요|아니요|아니요|예|아니오|있음|예|아니요|
-|BCS: 비즈니스 데이터 웹 파트|아니요|아니요|아니요|예|아니오|있음|예|아니요|
-|BCS: 외부 목록|아니요|아니요|아니요|예|아니오|있음|예|아니요|
-|BCS: OData connector|아니요|아니요|아니요|예|아니오|있음|예|아니요|
+|BCS: 외부 목록에 대 한 경고|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|BCS: 앱 범위가 지정 된 Ect (외부 콘텐츠 형식)|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|BCS: 비즈니스 데이터 웹 파트|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|BCS: 외부 목록|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|BCS: OData connector|아니요|아니요|아니요|예|아니요|예|예|아니요|
 |BCS: Profile Pages|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |BCS: 리치 클라이언트 통합|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|BCS: Secure Store Service|아니요|아니요|아니요|예|아니오|있음|예|아니요|
-|BCS: Tenant-level external data log|아니요|아니요|아니요|예|아니오|있음|예|아니요|
+|BCS: Secure Store Service|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|BCS: Tenant-level external data log|아니요|아니요|아니요|예|아니요|예|예|아니요|
 |Browser-based customizations|예|예|예|예|예|예|예|예|
 |Client Object Model (OM)|예|예|예|예|예|예|예|예|
 |Client-side rendering (CSR)|예|예|예|예|예|예|예|예|
 |사용자 지정 사이트 정의|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |사용자 지정 사이트 프로 비전 페이지|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|개발자 사이트|예|아니오|있음|예|예|예|예|예|
-|폼 기반 응용 프로그램|예|아니오|있음|예|예|예|예|예|
+|개발자 사이트|예|아니요|예|예|예|예|예|예|
+|폼 기반 응용 프로그램|예|아니요|예|예|예|예|예|예|
 |완전 신뢰 솔루션|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |InfoPath Forms Services|아니요|아니요|아니요|예<sup>17</sup>|아니요|예<sup>17</sup>|예<sup>17</sup>|아니요|
 |JavaScript Object Model|예|예|예|예|예|예|예|예|
 |목록 및 라이브러리 Api|예|예|예|예|예|예|예|예|
-|원격 이벤트 수신기|예|아니오|있음|예|예|예|예|예|
+|원격 이벤트 수신기|예|아니요|예|예|예|예|예|예|
 |REST Api|예|예|예|예|예|예|예|예|
-|SharePoint Design Manager|예|아니오|있음|예|예|예|예|예|
-|SharePoint Designer 2013|예|아니오|있음|예|예|예|예|예|
+|SharePoint Design Manager|예|아니요|예|예|예|예|예|예|
+|SharePoint Designer 2013|예|아니요|예|예|예|예|예|예|
 |SharePoint 스토어2|예|예|예|예|예|예|예|예|
-|SharePoint 2010 워크플로 (.NET 3.5)|예|아니오|있음|예|예|예|예|예|
-|SharePoint 2010 워크플로 (이 상자에서 제외 됨)|예|아니오|있음|예|예|예|예|예|
-|SharePoint 2013 및 SharePoint 2016 워크플로|예|아니오|예|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예|
-|Workload API: ECM APIs|예|아니오|있음|예|예|예|예|예|
-|Workload API: Search APIs|예|아니오|있음|예|예|예|예|예|
-|Workload API: Social APIs|예|아니오|있음|예|예|예|예|예|
+|SharePoint 2010 워크플로 (.NET 3.5)|예|아니요|예|예|예|예|예|예|
+|SharePoint 2010 워크플로 (이 상자에서 제외 됨)|예|아니요|예|예|예|예|예|예|
+|SharePoint 2013 및 SharePoint 2016 워크플로|예|아니요|예|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예|
+|Workload API: ECM APIs|예|아니요|예|예|예|예|예|예|
+|Workload API: Search APIs|예|아니요|예|예|예|예|예|예|
+|Workload API: Social APIs|예|아니요|예|예|예|예|예|예|
 |**IT 전문가 기능**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Active Directory 동기화|예|예|예|예|예|예|예|예|
 |AAM (대체 액세스 매핑)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|Analytics Platform|예|아니오|있음|예|예|예|예|예|
+|Analytics Platform|예|아니요|예|예|예|예|예|예|
 |Anti-malware protection|예|예|예|예|예|예|예|예|
 |클레임 기반 인증 지원|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |구성 마법사|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Data loss prevention|예|예|예|예|예|예|예|예|
 |지연된 사이트 모음 업그레이드|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|Data loss prevention|아니요|아니요|아니요|예|아니오|있음|예|아니요|
+|Data loss prevention|아니요|아니요|아니요|예|아니요|예|예|아니요|
 |Encryption at rest|예|예|예|예|예|예|예|예|
 |호스트 헤더 사이트 모음|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |향상 된 사용 권한 관리|예|예|예|예|예|예|예|예|
@@ -615,7 +605,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |요청 관리|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Request throttling|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Resource throttling|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|서비스 응용 프로그램 플랫폼|예|아니오|있음|예|예|예|예|예|
+|서비스 응용 프로그램 플랫폼|예|아니요|예|예|예|예|예|예|
 |SharePoint Health Analyzer|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |SharePoint 관리 센터 (Office 365)|예|예|예|예|예|예|예|<sup>4</sup> 없음|
 |Shredded Storage|예|예|예|예|예|예|예|예|
@@ -625,7 +615,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |Streamlined Central Administration|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |시스템 상태 알림|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |연결 되지 않은 콘텐츠 데이터베이스 복구|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|Upgrade evaluation site collections|예|아니오|있음|예|예|예|예|예|
+|Upgrade evaluation site collections|예|아니요|예|예|예|예|예|예|
 |사용 현황 보고 및 로깅|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Windows PowerShell 지원|예|예|예|예|예|예|예|예|
 |**콘텐츠 기능**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
@@ -633,8 +623,8 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |자산 라이브러리 향상/비디오 지원|예|예|예|예|예|예|예|예|
 |감사|예|예|예|예|예|예|예|예|
 |감사 &amp; 보고 (예: 문서 편집, 정책 편집, 삭제)|예|예|예|예|예|예|예|예|
-|Content Organizer|예|아니오|있음|예|예|예|예|예|
-|Design Manager|예|아니오|있음|예|예|예|예|예|
+|Content Organizer|예|아니요|예|예|예|예|예|예|
+|Design Manager|예|아니요|예|예|예|예|예|예|
 |문서 집합|예|예|예|예|예|예|예|예|
 |웹에 대 한 Word의 문서 번역|예|예|예|예|예|예|예|예|
 |eDiscovery 검색|예<sup>6</sup>|예|예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|
@@ -648,63 +638,63 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |하이브리드 분류 및 콘텐츠 형식|예|예|예|예|예|예|예|예<sup>20</sup>|
 |IRM(정보 권한 관리)|<sup>3</sup> 없음|아니요|<sup>3</sup> 없음|예|<sup>3</sup> 없음|예|예|아니요<sup>3, 4</sup>|
 |IRM(정보 권한 관리)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|Managed Metadata Service|예|아니오|있음|예|예|예|예|예|
-|메타 데이터 기반 탐색|예|아니오|있음|예|예|예|예|예|
+|Managed Metadata Service|예|아니요|예|예|예|예|예|예|
+|메타 데이터 기반 탐색|예|아니요|예|예|예|예|예|예|
 |다단계 처리|예|예|예|예|예|예|예|예|
 |웹을 위한 Office (만들기/편집)|예|예|예|예|예|예|예|예<sup>16</sup>|
 |웹에 대 한 Office (보기)|예|예|예|예|예|예|예|예|
-|Office ProPlus(Osub)|아니오|예|아니요|아니요|아니요|있음|예|아니요|
+|Office ProPlus(Osub)|아니요|예|아니요|아니요|아니요|예|예|아니요|
 |Office Web Apps Server integration|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |PowerPoint Automation Services|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|Preservation hold library|아니요|아니요|아니요|예|아니오|있음|예|아니요|
+|Preservation hold library|아니요|아니요|아니요|예|아니요|예|예|아니요|
 |Quick Edit|예|예|예|예|예|예|예|아니요|
-|Records management|예|아니오|있음|예|예|예|예|예|
+|Records management|예|아니요|예|예|예|예|예|예|
 |Recycle Bin (SharePoint admin center)|예|예|예|예|예|예|예|아니요|
 |Recycle Bin (site collection)|예|예|예|예|예|예|예|아니요|
-|관련 항목|예|아니오|예|예|예|예|예|예|
-|리치 미디어 관리|예|아니오|예|예|예|예|예|예|
+|관련 항목|예|아니요|예|예|예|예|예|예|
+|리치 미디어 관리|예|아니요|예|예|예|예|예|예|
 |공유 콘텐츠 형식|예|예|예|예|예|예|예|예|
-|SharePoint 번역 서비스|예|아니오|예|예|예|예|예|예|
+|SharePoint 번역 서비스|예|아니요|예|예|예|예|예|예|
 |설문 조사|예|예|예|예|예|예|예|예|
 |Unique Document IDs|예|예|예|예|예|예|예|예|
-|비디오 검색|아니요|아니요|아니요|예|아니오|예|예|아니요|
-|게시 분석|예|아니오|예|예|예|예|예|예|
-|카탈로그|아니요|아니요|아니요|예|아니오|예|예|아니요|
-|범주 페이지 및 카탈로그 항목 페이지|아니요|아니요|아니요|예|아니오|예|예|아니요|
-|검색 웹 파트|아니요|아니요|아니요|예|아니오|예|예|아니요|
-|교차 사이트 게시|아니요|아니요|아니요|예|아니오|예|예|아니요|
-|WCM: 디자이너 도구|예|아니오|예|예|예|예|예|예|
+|비디오 검색|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|게시 분석|예|아니요|예|예|예|예|예|예|
+|카탈로그|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|범주 페이지 및 카탈로그 항목 페이지|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|검색 웹 파트|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|교차 사이트 게시|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|WCM: 디자이너 도구|예|아니요|예|예|예|예|예|예|
 |패싯 탐색|아니요|아니요|아니요|아니요|아니요|예<sup>7</sup>|예<sup>7</sup>|아니요|
-|이미지 변환|예|아니오|예|예|예|예|예|예|
-|WCM: Managed navigation|예|아니오|예|예|예|예|예|예|
-|WCM: 모바일 및 장치 렌더링|예|아니오|예|예|예|예|예|예|
+|이미지 변환|예|아니요|예|예|예|예|예|예|
+|WCM: Managed navigation|예|아니요|예|예|예|예|예|예|
+|WCM: 모바일 및 장치 렌더링|예|아니요|예|예|예|예|예|예|
 |WCM: 여러 도메인|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|WCM: Recommendations|예|아니오|예|예|예|예|예|예|
-|WCM: SEO (검색 엔진 최적화)|예|아니오|예|예|예|예|예|예|
+|WCM: Recommendations|예|아니요|예|예|예|예|예|예|
+|WCM: SEO (검색 엔진 최적화)|예|아니요|예|예|예|예|예|예|
 |Word Automation Services|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**인사이트 기능**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Business Intelligence Center|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
-|계산 된 측정값 및 구성원|아니요|아니요|아니요|예|아니오|예|예|아니요|
-|데이터 연결 라이브러리|아니요|아니요|아니요|예|아니오|예|예|아니요|
-|Decoupled PivotTables and PivotCharts|아니요|아니요|아니요|예|아니오|예|예|아니요|
+|계산 된 측정값 및 구성원|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|데이터 연결 라이브러리|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|Decoupled PivotTables and PivotCharts|아니요|아니요|아니요|예|아니요|예|예|아니요|
 |Excel Services|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|필드 목록 및 필드 지원|아니요|아니요|아니요|예|아니오|예|예|아니요|
-|향상 된 필터|아니요|아니요|아니요|예|아니오|예|예|아니요|
-|필터 검색|아니요|아니요|아니요|예|아니오|예|예|아니요|
+|필드 목록 및 필드 지원|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|향상 된 필터|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|필터 검색|아니요|아니요|아니요|예|아니요|예|예|아니요|
 |PerformancePoint Services|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |PerformancePoint Services (PPS) Dashboard Migration|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Power BI|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|Power View for Excel in SharePoint|아니요|아니요|아니요|예|아니오|예|예|아니요|
-|SharePoint의 Excel용 Power Pivot|아니요|아니요|아니요|예|아니오|예|예|아니요|
-|Quick Explore|아니요|아니요|아니요|예|아니오|예|예|아니요|
+|Power View for Excel in SharePoint|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|SharePoint의 Excel용 Power Pivot|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|Quick Explore|아니요|아니요|아니요|예|아니요|예|예|아니요|
 |성과 기록표 & 대시보드|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |SQL Server Reporting Services (SSRS) Integrated Mode|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|시간 표시 막대 슬라이서|아니요|아니요|아니요|예|아니오|예|예|아니요|
+|시간 표시 막대 슬라이서|아니요|아니요|아니요|예|아니요|예|예|아니요|
 |데이터 모델을 포함하는 Excel 통합 문서 사용 및 상호 작용|예|예|예|예|예|예|예|예|
 |Visio for 웹<sup>18</sup>|예|예|예|예|예|예|예|예|
 |Visio Services<sup>18</sup>|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**검색 기능**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Advanced Content Processing|예|아니오|예|예|예|예|예|예|
+|Advanced Content Processing|예|아니요|예|예|예|예|예|예|
 |Continuous crawls|예|예|예|예|예|예|예|예|
 |Custom entity extraction|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Deep links|예|예|예|예|예|예|예|예|
@@ -713,14 +703,14 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |Extensible content processing|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Graphical refiners|예|예|예|예|예|예|예|예|
 |Hybrid search|예|예|예|예|예|예|예|예|
-|Manage search schema|예|아니오|예|예|예|예|예|예|
+|Manage search schema|예|아니요|예|예|예|예|예|예|
 |On-premises search index|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Phonetic name matching|예|예|예|예|예|예|예|예|
-|쿼리 규칙 - 승격된 결과 추가|예|아니오|예|예|예|예|예|예|
-|Query rules—advanced actions|아니요|아니요|아니요|예|아니오|예|예|아니요|
-|Query spelling correction|예|아니오|예|예|예|예|예|예|
-|Query suggestions|예|아니오|예|예|예|예|예|예|
-|Query throttling|예|아니오|예|예|예|예|예|예|
+|쿼리 규칙 - 승격된 결과 추가|예|아니요|예|예|예|예|예|예|
+|Query rules—advanced actions|아니요|아니요|아니요|예|아니요|예|예|아니요|
+|Query spelling correction|예|아니요|예|예|예|예|예|예|
+|Query suggestions|예|아니요|예|예|예|예|예|예|
+|Query throttling|예|아니요|예|예|예|예|예|예|
 |대화형 미리 보기|예|예|예|예|예|예|예|예|
 |Ranking models|예<sup>5</sup>|아니요|예<sup>5</sup>|예<sup>5</sup>|예<sup>5</sup>|예<sup>5</sup>|예<sup>5</sup>|예<sup>5</sup>|
 |구체화|예|예|예|예|예|예|예|예|
@@ -730,10 +720,10 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |Search results sorting|예|예|예|예|예|예|예|예|
 |검색 범주: "대화"|예|예|예|예|예|예|예|예|
 |검색 범주: "인물"|예|예|예|예|예|예|예|예|
-|검색 범주: "동영상"|아니요|아니요|아니요|예|아니오|예|예|아니요|
+|검색 범주: "동영상"|아니요|아니요|아니요|예|아니요|예|예|아니요|
 |"현재 목록" 검색|예|예|예|예|예|예|예|예|
 |**사이트 기능**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Change the look|예|아니오|예|예|예|예|예|예|
+|Change the look|예|아니요|예|예|예|예|예|예|
 |Connections to Microsoft Office Clients|예|예|예|예|예|예|예|예|
 |크로스 브라우저 지원|예|예|예|예|예|예|예|예|
 |관리 경로 사용자 지정|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -766,35 +756,35 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |Ask Me About|예|예|예|예|예|예|예|아니요|
 |개인 블로그|예<sup>13</sup>|아니요|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|
 |커뮤니티 신뢰도, 배지 획득 및 중재|예<sup>14</sup>|아니요|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|<sup>14</sup> 없음|
-|커뮤니티|예<sup>14</sup>|아니요|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|아니요|
-|회사 피드|예|아니오|예|예|예|예|예|아니요|
+|Community|예<sup>14</sup>|아니요|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|아니요|
+|회사 피드|예|아니요|예|예|예|예|예|아니요|
 |Yammer를 사용한 문서 대화|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |팔로우|예|예|예|예|예|예|예|아니요|
-|마이크로 블로그|예|아니오|있음|예|예|예|예|아니요|
-|뉴스 피드|예|아니오|있음|예|예|예|예|아니요|
+|마이크로 블로그|예|아니요|예|예|예|예|예|아니요|
+|뉴스 피드|예|아니요|예|예|예|예|예|아니요|
 |한 번 클릭으로 공유|예|예|예|예|예|예|예|아니요|
-|사용자, 사이트, 문서 권장 사항|예|아니오|있음|예|예|예|예|예|
+|사용자, 사이트, 문서 권장 사항|예|아니요|예|예|예|예|예|예|
 |개인 사이트|예|예|예|예|예|예|예|아니요|
 |사진 및 현재 상태|예|예|예|예|예|예|예|예|
 |프로필|예|예|예|예|예|예|예|예|
 |Ratings|예|예|예|예|예|예|예|예|
 |Shared with Me|예|예|예|예|예|예|예|아니요|
-|사이트 피드 (SharePoint 공유를 사용 하는 클래식 팀 사이트)|예|아니요|있음|예|예|예|예|예|
+|사이트 피드 (SharePoint 공유를 사용 하는 클래식 팀 사이트)|예|아니요|예|예|예|예|예|예|
 |비즈니스용 OneDrive|예|예|예|예|예|예|예|예<sup>2</sup>|
-|Tag profiles|예|아니요|있음|예|예|예|예|예|
+|Tag profiles|예|아니요|예|예|예|예|예|예|
 |Tasks integrated with Outlook|예|예|예|예|예|예|예|아니요|
-|인기 태그|예|아니요|있음|예|예|예|예|예|
-|Wiki|예|아니요|있음|예|예|예|예|예|
+|인기 태그|예|아니요|예|예|예|예|예|예|
+|Wiki|예|아니요|예|예|예|예|예|예|
 |Yammer|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**추가 기능**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|추가 저장소|예|아니오|있음|예|예|예|예|예|
+|추가 저장소|예|아니요|예|예|예|예|예|예|
 |Azure 프로 비전 응용 프로그램: Access services|예<sup>15</sup>|예<sup>15</sup>|예<sup>15</sup>|예<sup>15</sup>|예<sup>15</sup>|예<sup>15</sup>|예<sup>15</sup>|예<sup>15</sup>|
 |Azure 프로 비전 응용 프로그램: Azure LWR (Lightweight Web Role)의 사용자 지정 코드|예|예|예|예|예|예|예|예|
-|Duet Online|아니요|아니요|아니요|예|아니오|있음|예|아니요|
+|Duet Online|아니요|아니요|아니요|예|아니요|예|예|아니요|
 
 > [!NOTE]
 > <sup>1</sup> 폴더 동기화를 사용 하려면 office 2013 이상 (Standard 또는 Professional edition)이 있거나 office 응용 프로그램이 포함 된 구독이 있어야 합니다. Office 365 Germany Business Essentials, Office 365 Germany Enterprise E1Office 365 Germany Enterprise E1 및 Office 365 Germany Education A1 에는 Office 데스크톱 응용 프로그램에 대한 구독이 포함되지 않습니다. 그러나 Office 2013 이상이 설치되어 있고 계획 중 하나를 구독한 경우 폴더 동기화를 사용할 수 있습니다.<br/>
-<sup>2</sup> Kiosk 계정에서는 비즈니스용 OneDrive 기능이 제한됩니다. 키오스크 고객은 비즈니스용 OneDrive 폴더 동기화 클라이언트 응용 프로그램을 사용하여 팀 사이트 문서 라이브러리를 공유 컴퓨터와 동기화하고, 문서에 오프라인으로 액세스할 수 있습니다. 그러나 Kiosk 계정에는 비즈니스용 OneDrive 개인 사이트가 포함되지 않으므로 온라인 저장소 1TB가 포함된 비즈니스용 OneDrive 개인 라이브러리를 활용할 수 없습니다.<br/>
+<sup>2</sup> Kiosk 계정에서는 비즈니스용 OneDrive 기능이 제한됩니다. Kiosk 고객은 비즈니스용 OneDrive 폴더 동기화 클라이언트 응용 프로그램을 사용하여 팀 사이트 문서 라이브러리를 공유 컴퓨터와 동기화하고, 문서에 오프라인으로 액세스할 수 있습니다. 그러나 Kiosk 계정에는 비즈니스용 OneDrive 개인 사이트가 포함되지 않으므로 온라인 저장소 1TB가 포함된 비즈니스용 OneDrive 개인 라이브러리를 활용할 수 없습니다.<br/>
 <sup>3</sup> Azure Information Protection은 포함 되어 있지 않지만 지원 되는 IRM 기능을 사용 하기 위해 별도의 추가 기능으로 구입할 수 있습니다. RMS로 보호 된 콘텐츠를 만들려면 Office Professional Plus 2013, Office Professional Plus 2016, Office 365 Pro Plus 또는 Outlook Web Access를 사용 해야 합니다.<br/>
 <sup>4</sup> Kiosk 사용자는 관리자일 수 없으므로, 관리 센터에 액세스하려면 Kiosk 사용자가 있는 테넌트에 엔터프라이즈 사용자가 한 명 이상 필요합니다. <br/>
 <sup>5</sup> SharePoint Online 고객은 무료 순위 모델 조정 앱을 다운로드 하 고 설치 해야 순위 모델을 만들고 사용자 지정할 수 있습니다.<br/>
@@ -817,9 +807,8 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 > [!NOTE]
 > 이러한 표에는 Office 365 Germany 옵션별로 사용 가능한 클라이언트와 서비스가 표시되어 있습니다. 다양 한 비즈니스용 Skype 데스크톱 클라이언트, 웹 클라이언트 및 모바일 클라이언트 간에 개별 기능을 비교 하려면 [데스크톱 클라이언트 비교 테이블](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) 및 [모바일 클라이언트 비교 테이블](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables)을 참조 하세요.
 
-|||||||||
+| 기능 | Office 365 Germany Business Essentials | Office 365 Germany Business | Office 365 Germany Business Premium | Office 365 Germany Education A1 | Office 365 Germany Enterprise E3 | Office 365 Germany Enterprise E4 | Office 365 Germany Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |**[비즈니스용 Skype Online 클라이언트](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**||||||||
 |비즈니스용 Skype|예<sup>1</sup>|예<sup>1</sup>|예<sup>1</sup>|예<sup>1</sup>|예|예|아니요|
 |Lync 2013 Basic|예|예|예|예|예|예|아니요|
@@ -846,7 +835,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |비디오|예|예|예|예|예|예|아니요|
 |네트워크 QoS(서비스 품질) - DSCP(Differentiated Services Code Point)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**[페더레이션 및 공용 IM 연결](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Office Communications Server 2007 R2 및 Lync Server 2010(IM, 현재 상태, 오디오, 비디오, 회의)|예|아니오|있음|예|예|예|아니요|
+|Office Communications Server 2007 R2 및 Lync Server 2010(IM, 현재 상태, 오디오, 비디오, 회의)|예|아니요|예|예|예|예|아니요|
 |XMPP(Google Talk 등에서 사용됨) 및 Sametime 페더레이션|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Skype 페더레이션|<sup>6</sup> 없음|아니요|<sup>6</sup> 없음|<sup>6</sup> 없음|<sup>6</sup> 없음|<sup>6</sup> 없음|아니요|
 |AOL 및 Yahoo! 페더레이션|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -895,7 +884,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |자동 대기|예|예|예|예|예|예|아니요|
 |PC, Mac 및 Mobile용 클라이언트|예|예|예|예|예|예|아니요|
 |장치 전환|예|예|예|예|예|예|아니요|
-|특수 전화 벨 소리|아니요|아니요|아니요|아니요|있음|예|아니요|
+|특수 전화 벨 소리|아니요|아니요|아니요|아니요|예|예|아니요|
 |라우팅 방해 금지|예|예|예|예|예|예|아니요|
 |긴급 통화 - 고정 위치|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |긴급 통화 - 동적 위치|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -903,15 +892,15 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |내선 통화|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |그룹 통화 받기|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |헌트 그룹/통화 큐 및 처리|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|통합 다이얼 패드|아니요|아니요|아니요|아니요|있음|예|아니요|
+|통합 다이얼 패드|아니요|아니요|아니요|아니요|예|예|아니요|
 |위치 기반 라우팅|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |통화 대기음|예|예|예|예|예|예|아니요|
 |아웃바운드 DID 조작|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |전용 회선|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|정규화된 IP 일반 전화기|아니요|아니요|아니요|아니요|있음|예|아니요|
+|정규화된 IP 일반 전화기|아니요|아니요|아니요|아니요|예|예|아니요|
 |회선 공유 기능|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Skype 및 페더레이션 호출|예<sup>5</sup>|예<sup>5</sup>|예<sup>5</sup>|예<sup>5</sup>|예<sup>5</sup>|예<sup>5</sup>|아니요|
-|팀 통화|아니요|아니요|아니요|아니요|있음|예|아니요|
+|팀 통화|아니요|아니요|아니요|아니요|예|예|아니요|
 |화상 통화 모니터|예|예|예|예|예|예|아니요|
 |Voicemail|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |[통화 계획](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (국내 통화 계획, 추가 기능을 구매 해야 함)|아니요|아니요|아니요|아니요|<sup>4</sup> 없음|<sup>4</sup> 없음|아니요|
@@ -940,7 +929,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |**[비즈니스 온라인 관리 및 관리에 대 한 Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Microsoft Office 365 포털|예|예|예|예|예|예|아니요|
 |Microsoft 365 관리 센터|예|예|예|예|예|예|아니요|
-|비즈니스용 Skype Online 관리 센터|예|예<sup>3</sup>|있음|예|예|예|아니요|
+|비즈니스용 Skype Online 관리 센터|예|예<sup>3</sup>|예|예|예|예|아니요|
 |Windows PowerShell|예|예|예|예|예|예|아니요|
 |Microsoft 365 관리 센터의 비즈니스용 Skype Online 보고|예|예|예|예|예|예|아니요|
 

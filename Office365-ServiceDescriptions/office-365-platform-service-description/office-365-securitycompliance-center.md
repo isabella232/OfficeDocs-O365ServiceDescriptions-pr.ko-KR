@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 보안 및 &amp; 준수 센터는 조직에 대 한 Office 365에서 규정 준수 기능을 관리 하는 데 도움이 되도록 설계 되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: 42e9961bb956d5fc5483ef982e76d50e3e4b5d30
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: 93f1ee30103b72edd5846a4d6f58444d157ab10e
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300532"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261600"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -27,9 +27,8 @@ ms.locfileid: "47300532"
   
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>&amp;비즈니스 및 엔터프라이즈 요금제의 보안 및 준수 센터
 
-|||||||||
+| 기능 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 US 정부 G1 | Office 365 E3, Office 365 US 정부 G3 | Office 365 E5 | Office 365 F3, Office 365 US 정부 F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**  |**Microsoft 365 Business Basic**  |**Microsoft 365 Business Standard**  |**Microsoft 365 Business Premium**  |**Office 365 Enterprise E1**, **Office 365 US 정부 G1**  |**Office 365 Enterprise E3**, **Office 365 US 정부 G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise F3**  **Office 365 US 정부 F3**|
 |[보안 및 준수 센터에 대 한 액세스 &amp;](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |예   |예   |예   |예   |예   |예   |예   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |아니요   |아니요   |아니요|아니요   |아니요   |예   |
 |메일 필터링 및 맬웨어 방지와 같은 [위협 관리](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) |예   |예   |예   |예   |예   |예   |예   |
@@ -57,7 +56,6 @@ ms.locfileid: "47300532"
 |[Office 365 고급 메시지 암호화](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |아니요   |아니요   |아니요   |아니요   |아니요 |예   |아니요   |
 |[권한 있는 액세스 관리](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |아니요   |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
 |[고객 키](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |아니요   |아니요   |아니요   |아니요   |아니요   |예   |아니요   |
-|||||||||
 
 <sup>1</sup> 정보 거 버 넌 스에서는 사용자가 문서에 레이블을 만들고 게시 하 고 수동으로 적용할 수 있습니다. 드라이브 전달을 사용 하거나 네트워크를 통해 데이터를 가져옵니다. E3 및 E5에서는 이러한 기능을 사용할 수 있으며,이 기능은 E1 에서만 사용 가능 합니다. E1, E3 및 E5에서 사용할 수 있는 전체 기능 목록은 자세한 Microsoft 365 준수 라이선스 비교를 참조 하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -69,7 +67,7 @@ ms.locfileid: "47300532"
 
 <sup>5</sup> Advanced EDiscovery는 미국 및 유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.)
 
-<sup>6</sup> Advanced Threat Protection은 Office 365 enterprise e 3에서 Office 365 enterprise E1 및 Office 365 enterprise e 3의 독립 실행형 서비스로 사용할 수 있습니다.
+<sup>6</sup> Advanced Threat Protection은 Office 365 E5와 Office 365 E1 및 Office 365 E3의 독립 실행형 서비스로 제공 됩니다.
 
 <sup>7</sup> Microsoft 팀 리포지토리에 저장 된 파일을 포함 합니다.
 
@@ -87,9 +85,8 @@ ms.locfileid: "47300532"
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;독립 실행형 계획에 대 한 보안 준수 센터 가용성
 
-|||||||||
+| 기능 | Exchange Online 요금제 1 | Exchange Online 계획 2 | Exchange Online Kiosk | SharePoint Online 요금제 1 | SharePoint Online 요금제 2 | 비즈니스용 OneDrive 요금제 1 | 비즈니스용 OneDrive 요금제 2 | 비즈니스용 Skype 온라인 계획 1 | 비즈니스용 Skype Online 요금제 2|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**기능**  |**Exchange Online 계획 1**  |**Exchange Online 계획 2**  |**Exchange Online Kiosk**  |**SharePoint Online 계획 1**  |**SharePoint Online 계획 2**  |**비즈니스용 OneDrive 계획 1** |**비즈니스용 OneDrive 계획 2** |**비즈니스용 Skype Online 계획 1**  |**비즈니스용 Skype Online 계획 2**  |
 |[보안 및 준수 센터에 대 한 액세스 &amp;](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |예   |예   |예   |예   |예   |예   |예   |예   |예   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |예   |
 |메일 필터링 및 맬웨어 방지와 같은 [위협 관리](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)   |예   |예   |예   |예   |예   |예   |예   |예   |예   |
@@ -113,7 +110,6 @@ ms.locfileid: "47300532"
 |[OME(Office 365 메시지 암호화)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |아니요   |아니요   |아니요   |아니요   |예   |아니요   |아니요|아니요|아니요|
 |[Office 365 고급 메시지 암호화](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |아니요   |아니요   |아니요   |아니요   |예   |아니요   |아니요|아니요|아니요|
 |[권한 있는 액세스 관리](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |아니요   |아니요   |아니요   |아니요   |예   |아니요   |아니요|아니요|아니요|
-|||||||||
 
 <sup>1</sup> 정보 거 버 넌 스에서는 사용자가 문서에 레이블을 만들고 게시 하 고 수동으로 적용할 수 있습니다. 드라이브 전달을 사용 하거나 네트워크를 통해 데이터를 가져옵니다. E3 및 E5에서는 이러한 기능을 사용할 수 있으며,이 기능은 E1 에서만 사용 가능 합니다. E1, E3 및 E5에서 사용할 수 있는 전체 기능 목록은 자세한 Microsoft 365 준수 라이선스 비교를 참조 하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -123,7 +119,7 @@ ms.locfileid: "47300532"
 
 <sup>4</sup> Skype 대화는 사서함의 일부로 저장 됩니다.
 
-<sup>5</sup> 고급 eDiscovery에는 Office 365 Enterprise E5 또는 추가 기능 라이선스가 필요 합니다.
+<sup>5</sup> 고급 eDiscovery에는 Office 365 E5 나 추가 기능 라이선스가 필요 합니다.
 
 <sup>6</sup> Skype 보관이 사용자의 사서함 내에 있습니다.
 

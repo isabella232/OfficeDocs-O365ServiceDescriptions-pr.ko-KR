@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft는 사용자를 만들고 관리 하 고 인증 하기 위해 다음과 같은 방법을 지원 합니다.
-ms.openlocfilehash: 38d9c247e54943599554e374bc3c9905f043361b
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 967d60becc99d55cd188b4623e936b37cb04f7c7
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131662"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261550"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -29,19 +29,19 @@ Microsoft는 사용자를 만들고 관리 하 고 인증 하기 위해 다음�
   
 관리 작업을 수행 하는 데 도움이 되는 도구에 대 한 정보가 필요한 경우 [Microsoft 계정 관리 도구](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts)를 참조 하십시오. 일상적인 관리 작업을 수행 하는 방법에 대 한 자세한 내용은 [일반 관리 작업](https://docs.microsoft.com/office365/admin/manage/manage)을 참조 하십시오.
   
-## <a name="need-help-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>로그인, 설치 또는 제거, 구독 취소에 대해 도움이 필요한가요?
+## <a name="need-help-with-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>로그인, 설치 또는 제거, 구독 취소에 도움이 필요 하세요?
 
-[signing in](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [Office 설치 또는 제거](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)에서 로그인에 대 한 도움말 보기  |  [office 365 취소](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+도움말 보기: [signing in](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [office 설치 또는 제거](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)에서 로그인  |  [office 365을 취소](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a) 합니다.
   
-기타 문제점은 [Microsoft 지원 센터](https://support.microsoft.com/contactus/)를 방문 하세요. 중국의 21Vianet에서 운영하는 Office 365에 대한 지원을 받으려면 [21Vianet 지원팀](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)에 문의하세요. Office 365 Germany에 대해서는 [Office 365 Germany 지원팀](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)에 문의하세요. 
+기타 문제점은 [Microsoft 지원 센터](https://support.microsoft.com/contactus/)를 참조 하세요. 중국의 21Vianet에서 운영하는 Office 365에 대한 지원을 받으려면 [21Vianet 지원팀](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)에 문의하세요. Office 365 Germany에 대해서는 [Office 365 Germany 지원팀](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)에 문의하세요. 
   
 ## <a name="sign-in-options"></a>로그인 옵션
 
 Microsoft에는 사용자 id에 사용할 수 있는 다음과 같은 두 가지 시스템이 있습니다.
   
-- **회사 또는 학교 계정 (클라우드 id)** 사용자는 Microsoft 클라우드 서비스에 로그인 하기 위해 다른 데스크톱 또는 회사 자격 증명과는 별도로 Azure Active Directory 클라우드 자격 증명을 받습니다. 이것은 기본 ID로, 배포 복잡성을 최소화하는 데 권장됩니다. 회사 또는 학교용 암호는 Azure Active Directory [암호 정책](https://docs.microsoft.com/previous-versions/azure/jj943764(v=azure.100))을 사용합니다.
+- **회사 또는 학교 계정 (클라우드 id)** -Microsoft 클라우드 서비스에 로그인 하기 위해 사용자가 Azure Active Directory 클라우드 자격 증명 (다른 데스크톱 또는 회사 자격 증명과 구분)을 받습니다. 이것은 기본 ID로, 배포 복잡성을 최소화하는 데 권장됩니다. 회사 또는 학교용 암호는 Azure Active Directory [암호 정책](https://docs.microsoft.com/previous-versions/azure/jj943764(v=azure.100))을 사용합니다.
     
-- **페더레이션 계정 (페더레이션 id)** SSO (single sign-on)를 사용 하는 온-프레미스 Active Directory가 있는 조직의 모든 구독에 대해 사용자는 Active Directory 자격 증명을 사용 하 여 Microsoft 서비스에 로그인 할 수 있습니다. 기업 Active Directory는 암호 정책을 저장하고 제어합니다. SSO에 대한 자세한 내용은 [Single Sign-On 로드맵](https://docs.microsoft.com/previous-versions/azure/azure-services/hh967643(v=azure.100))을 참조하세요.
+- **페더레이션 계정 (페더레이션 id)** -sso (single sign-on)를 사용 하는 온-프레미스 Active Directory가 있는 조직의 모든 구독에 대해 사용자는 Active Directory 자격 증명을 사용 하 여 Microsoft 서비스에 로그인 할 수 있습니다. 기업 Active Directory는 암호 정책을 저장하고 제어합니다. SSO에 대한 자세한 내용은 [Single Sign-On 로드맵](https://docs.microsoft.com/previous-versions/azure/azure-services/hh967643(v=azure.100))을 참조하세요.
     
 ID 유형은 사용자 환경 및 사용자 계정 관리 옵션을 비롯해 하드웨어 및 소프트웨어 요구 사항과 기타 배포에 관한 고려 사항에 영향을 줍니다.
   
@@ -49,27 +49,25 @@ ID 유형은 사용자 환경 및 사용자 계정 관리 옵션을 비롯해 �
 
 새 사용자를 만들 때 사용자의 로그인 이름과 전자 메일 주소는 Microsoft 365 관리 센터에 설정 된 대로 기본 도메인에 할당 됩니다. 자세한 내용은 [사용자 및 도메인 추가](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)를 참조 하세요. 
   
-기본적으로 구독은 계정을 사용 하 여 \< _company name_\> 만든 **. onmicrosoft.com** 도메인을 사용 합니다. \* Onmicrosoft.com 도메인을 유지 하는 대신 하나 이상의 사용자 지정 도메인을 Microsoft에 추가할 수 있으며, 사용자에 게 유효성 검사 된 도메인을 사용 하 여 로그인 하도록 할당할 수 있습니다. 각 사용자의 할당된 도메인은 보내고 받은 전자 메일 메시지에 표시되는 전자 메일 주소입니다. 
+기본적으로 구독에서는 계정을 사용 하 여 만든 <*회사* > **onmicrosoft.com** 도메인을 사용 합니다. 중국의 21vianet에서 운영 하는 Office 365을 사용 하는 경우 기본 도메인은 onmsChina.cn *<됩니다* > **.** Office 365 독일를 사용 중인 경우 기본 <도메인은 onmicrosoft.de입니다 *companyname* > **.** **Onmicrosoft.com** 도메인을 유지 하는 대신 하나 이상의 사용자 지정 도메인을 Microsoft에 추가할 수 있으며, 사용자에 게 유효성 검사 된 도메인을 사용 하 여 로그인 하도록 할당할 수 있습니다. 각 사용자의 할당된 도메인은 보내고 받은 전자 메일 메시지에 표시되는 전자 메일 주소입니다. 
   
 각각 다른 네임 스페이스로 표시 되는 등록 된 인터넷 도메인을 최대 900 개까지 호스트할 수 있습니다. 
   
-Single sign-on을 사용 하는 조직의 경우 도메인의 모든 사용자가 동일한 id 시스템 (클라우드 id 또는 페더레이션 id)을 사용 해야 합니다. 예를 들어 온-프레미스 시스템에 액세스 하지 않고 Microsoft 및 온-프레미스 시스템을 사용 하는 다른 사용자 그룹에만 클라우드 id만 필요한 경우에는 한 명의 사용자 그룹을 사용할 수 있습니다. Contractors.contoso.com 및 staff.contoso.com와 같은 두 개의 도메인을 Office 365에 추가 하 고이 중 하나에 대해서만 SSO를 설정 하는 것이 좋습니다. 전체 도메인을 클라우드 id에서 페더레이션 id로 또는 페더레이션 id에서 클라우드 id로 변환할 수 있습니다.
+Single sign-on을 사용 하는 조직의 경우 도메인의 모든 사용자가 동일한 id 시스템 (클라우드 id 또는 페더레이션 id)을 사용 해야 합니다. 예를 들어 온-프레미스 시스템에 액세스 하지 않고 Microsoft 및 온-프레미스 시스템을 사용 하는 다른 사용자 그룹에만 클라우드 id만 필요한 경우에는 한 명의 사용자 그룹을 사용할 수 있습니다. **Contractors.contoso.com** 및 **staff.contoso.com**와 같은 두 개의 도메인을 Office 365에 추가 하 고이 중 하나에 대해서만 SSO를 설정 하는 것이 좋습니다. 전체 도메인을 클라우드 id에서 페더레이션 id로 또는 페더레이션 id에서 클라우드 id로 변환할 수 있습니다.
   
 Office 365의 도메인에 대한 자세한 내용은 [도메인](domains.md) 서비스 설명을 참조하십시오. 
-  
-\*중국의 21Vianet에서 운영 하는 Office 365을 사용 하는 경우 기본 도메인은 \<companyname\> **onmsChina.cn**입니다. Office 365 독일을 사용 하는 경우 기본 도메인은 \<companyname\> **onmicrosoft.de입니다.**
   
 ## <a name="authentication"></a>인증
 
 SharePoint Online을 사용 하 여 만든 익명 액세스에 대 한 인터넷 사이트를 제외 하 고 Microsoft 서비스에 액세스할 때 사용자에 게 인증을 받아야 합니다. 
   
-- **최신 인증** 최신 인증은 여러 플랫폼의 Office 클라이언트 앱에 대해 ADAL(Active Directory 인증 라이브러리) 기반 로그인을 제공합니다. 이를 통해 MFA(다단계 인증), Office 클라이언트 응용 프로그램이 있는 SAML 기반 타사 ID 공급자, 스마트 카드 및 인증서 기반 인증과 같은 로그인 기능을 사용할 수 있습니다. 또한 Microsoft Outlook이 없어도 기본 인증 프로토콜을 사용할 수 있습니다. Office 응용 프로그램 전반의 최신 인증을 사용할 때의 자세한 내용은 [office 2013 및 office 2016 클라이언트 앱에 대 한 최신 인증이 작동 하는 방법을](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016)참조 하세요.
+- **최신 인증** -최신 인증을 사용 하는 경우 Microsoft 인증 라이브러리 기반 로그인이 플랫폼 전반의 Office 클라이언트 앱에 제공 됩니다. 이를 통해 MFA(다단계 인증), Office 클라이언트 응용 프로그램이 있는 SAML 기반 타사 ID 공급자, 스마트 카드 및 인증서 기반 인증과 같은 로그인 기능을 사용할 수 있습니다. 또한 Microsoft Outlook이 없어도 기본 인증 프로토콜을 사용할 수 있습니다. Office 응용 프로그램 전반의 최신 인증을 사용할 때의 자세한 내용은 [office 2013 및 office 2016 클라이언트 앱에 대 한 최신 인증이 작동 하는 방법을](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016)참조 하세요.
     
     Exchange Online에 대 한 최신 인증은 기본적으로 설정 됩니다. 이 기능을 설정 하거나 해제 하는 방법을 알아보려면 [Exchange Online에서 최신 인증 사용](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)을 참조 하세요.
     
-- **클라우드 ID 인증** 클라우드 ID를 가진 사용자는 기존의 시도/응답을 통한 인증 과정을 거칩니다. 웹 브라우저가 Microsoft 로그인 서비스로 리디렉션되어 회사 또는 학교 계정의 사용자 이름과 암호를 입력 합니다. 로그인 서비스는 자격 증명을 인증하고 웹 브라우저가 요청된 서비스를 게시하고 사용자를 로그인하는 서비스 토큰을 생성합니다. 
+- **클라우드 id 인증** -클라우드 id가 있는 사용자는 전통적인 챌린지/응답을 사용 하 여 인증 됩니다. 웹 브라우저가 Microsoft 로그인 서비스로 리디렉션되어 회사 또는 학교 계정의 사용자 이름과 암호를 입력 합니다. 로그인 서비스는 자격 증명을 인증하고 웹 브라우저가 요청된 서비스를 게시하고 사용자를 로그인하는 서비스 토큰을 생성합니다. 
     
-- **페더레이션 ID 인증** 페더레이션 ID를 가진 사용자는 AD FS(Active Directory Federation Services) 2.0 또는 기타 보안 토큰 서비스를 통한 인증 절차를 거칩니다. 웹 브라우저가 사용자 계정 이름 (UPN; 예: isabel@contoso.com) 인 양식에 회사 ID를 입력 하는 Microsoft 로그인 서비스로 리디렉션됩니다. 로그인 서비스는 페더레이션 도메인의 일부인지를 결정하고 인증을 위한 온-프레미스 페더레이션 서버로 리디렉션합니다. 데스크톱 (도메인에 가입)에 로그온 한 경우 Kerberos 또는 NTLMv2를 사용 하 여 인증을 받은 경우 온-프레미스 보안 토큰 서비스는 웹 브라우저가 Microsoft 로그인 서비스에 게시 하는 로그온 토큰을 생성 합니다. 로그인 서비스는 로그온 토큰을 사용하여 웹 브라우저가 요청된 서비스를 게시하고 사용자를 로그인하는 서비스 토큰을 생성합니다. 사용 가능한 보안 토큰 서비스의 목록은 [Single Sign-On 로드맵](https://docs.microsoft.com/previous-versions/azure/azure-services/hh967643(v=azure.100))을 참조하세요.
+- **페더레이션 id 인증** -페더레이션 id를 가진 사용자는 AD FS (Active Directory Federation Services) 2.0 또는 기타 보안 토큰 서비스를 사용 하 여 인증 됩니다. 웹 브라우저가 사용자 계정 이름 (UPN) (예: *isabel@contoso.com*)으로 양식에 회사 ID를 입력 하는 Microsoft 로그인 서비스로 리디렉션됩니다. 로그인 서비스는 페더레이션 도메인의 일부인지를 결정하고 인증을 위한 온-프레미스 페더레이션 서버로 리디렉션합니다. 데스크톱 (도메인에 가입)에 로그온 한 경우 Kerberos 또는 NTLMv2를 사용 하 여 인증을 받은 경우 온-프레미스 보안 토큰 서비스는 웹 브라우저가 Microsoft 로그인 서비스에 게시 하는 로그온 토큰을 생성 합니다. 로그인 서비스는 로그온 토큰을 사용하여 웹 브라우저가 요청된 서비스를 게시하고 사용자를 로그인하는 서비스 토큰을 생성합니다. 사용 가능한 보안 토큰 서비스의 목록은 [Single Sign-On 로드맵](https://docs.microsoft.com/previous-versions/azure/azure-services/hh967643(v=azure.100))을 참조하세요.
     
 Microsoft는 양식 기반 인증을 사용 하며, 네트워크를 통한 인증 트래픽은 항상 포트 443를 사용 하 여 TLS/SSL로 암호화 됩니다. 인증 트래픽은 Microsoft 서비스에 대 한 대역폭을 무시할 비율입니다. 
   
@@ -81,21 +79,21 @@ Microsoft는 양식 기반 인증을 사용 하며, 네트워크를 통한 인�
 
 Microsoft Office 데스크톱 응용 프로그램과 같은 리치 클라이언트의 경우, 2가지 방법으로 인증이 수행됩니다.
   
-- **Microsoft Online Services 로그인 도우미** 데스크톱 설치 프로그램에 의해 설치 되는 로그인 도우미에는 로그인 서비스에서 서비스 토큰을 가져오고이를 리치 클라이언트에 반환 하는 클라이언트 서비스가 포함 되어 있습니다. 
+- **Microsoft Online Services 로그인 도우미** -데스크톱 설치 프로그램에 의해 설치 되는 로그인 도우미에는 로그인 서비스에서 서비스 토큰을 가져오고이를 리치 클라이언트에 반환 하는 클라이언트 서비스가 포함 되어 있습니다. 
     
   - 클라우드 id가 있는 경우 클라이언트 서비스가 인증을 받기 위해 (WS-TRUST 사용) 로그인 서비스에 보내는 자격 증명을 입력 하 라는 메시지가 표시 됩니다.
     
   - 페더레이션 id가 있는 경우 클라이언트 서비스는 먼저 AD FS 2.0 서버에 연락 하 여 자격 증명 (Kerberos 또는 NTLMv2 사용)을 인증 하 고 로그인 서비스 (WS-FEDERATION 및 WS-TRUST 사용)로 전송 되는 로그온 토큰을 가져옵니다.
     
-- **SSL을 통한 기본/프록시 인증** Outlook 클라이언트에서는 SSL을 통해 기본 인증 자격 증명을 Exchange Online으로 전달합니다. Exchange Online에서는 인증 요청을 id 플랫폼에 프록시 한 다음, SSO 용 온-프레미스 Active Directory 페더레이션 서버에 연결 합니다. 
+- **Ssl을 통한 기본/프록시 인증** -Outlook 클라이언트는 ssl을 통해 기본 인증 자격 증명을 Exchange Online으로 전달 합니다. Exchange Online에서는 인증 요청을 id 플랫폼에 프록시 한 다음, SSO 용 온-프레미스 Active Directory 페더레이션 서버에 연결 합니다. 
     
 Microsoft 서비스의 올바른 검색 및 인증을 위해 관리자는 리치 클라이언트 (예: Microsoft Office 2010)를 사용 하는 각 워크스테이션에 구성 요소와 업데이트를 적용 하 고 Office 365에 연결 해야 합니다. 데스크톱 설정은 필요한 업데이트를 사용 하 여 워크스테이션을 구성 하는 자동화 된 도구입니다. 자세한 내용은 [현재 Office 데스크톱 앱 사용](https://support.office.com/article/set-up-office-2010-desktop-programs-to-work-with-office-365-for-business-3324b8b8-dceb-45e2-ac24-c642720108f7?ocmsassetID=HA102817827&CorrelationId=8eb1b198-827a-4999-a584-05a05a92d224&ui=en-US&rs=en-US&ad=US)을 참조 하세요.
   
 ### <a name="sign-in-experience"></a>로그인 환경
 
-사용 중인 id 유형에 따라 로그인 환경이 변경 됩니다.
+사용 중인 id 유형에 따라 로그인 환경이 변경 됩니다.<br><br>
   
-||**클라우드 ID**|**페더레이션 ID**|
+| 서비스 | 클라우드 ID | 페더레이션 ID |
 |:-----|:-----|:-----|
 |Outlook 2016  <br/> |각 세션에 로그인 <sup>1</sup> <br/> |각 세션에 로그인 <sup>2</sup> <br/> |
 |Outlook 2013  <br/> |각 세션에 로그인 <sup>1</sup> <br/> |각 세션에 로그인 <sup>2</sup> <br/> |
@@ -114,11 +112,11 @@ Microsoft 서비스의 올바른 검색 및 인증을 위해 관리자는 리치
 <sup>3</sup> 모든 앱에서 로그인 하려면 사용자 이름을 입력 하거나 선택 해야 합니다. 컴퓨터가 도메인에 가입 되어 있는 경우 암호를 입력 하 라는 메시지가 표시 되지 않습니다. "로그인 **유지** "를 선택 하면 로그 아웃할 때까지 메시지가 다시 표시 되지 않습니다. <br/> 
 <sup>4</sup> 로그인 **유지** 를 선택 하면 로그 아웃할 때까지 메시지가 다시 표시 되지 않습니다. 
   
-## <a name="creating-user-accounts"></a>사용자 계정 만들기
+## <a name="create-user-accounts"></a>Create user accounts
 
 사용자를 추가 하는 방법에는 여러 가지가 있습니다. 자세한 내용은 [사용자를 개별적으로 또는 대량 관리 도움말에서 추가](https://docs.microsoft.com/office365/admin/add-users/add-users) [, Microsoft 365 관리 센터 미리 보기에서 사용자 추가, 제거 및 관리](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US)를 참조 하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 사용자 계정 만들기 또는 편집 - 관리자 도움말](https://docs.microsoft.com/office365/admin/add-users/add-users)을 참조하세요.
   
-## <a name="deleting-accounts"></a>계정 삭제
+## <a name="delete-user-accounts"></a>사용자 계정 삭제
 
 계정 삭제 방법은 디렉터리 동기화의 사용 여부에 따라 달라집니다. 
   
@@ -132,7 +130,7 @@ Microsoft 서비스의 올바른 검색 및 인증을 위해 관리자는 리치
 
 암호 관리에 대한 정책 및 절차는 ID 시스템에 따라 다릅니다.
   
- **클라우드 ID 암호 관리:**
+### <a name="cloud-identity-password-management"></a>클라우드 id 암호 관리
   
 클라우드 ID를 사용할 경우 계정을 만들면 암호가 자동으로 생성됩니다.
   
@@ -144,17 +142,17 @@ Microsoft 서비스의 올바른 검색 및 인증을 위해 관리자는 리치
     
 클라우드 ID와 함께 사용자 암호를 다시 설정할 수 있는 다양한 도구는 다음과 같습니다.
   
-- **관리자 암호 다시 설정** 사용자가 암호를 분실 하거나 잊어버린 경우 관리자는 관리자 센터에서 또는 Windows PowerShell을 사용 하 여 사용자의 암호를 다시 설정할 수 있습니다. 사용자가 기존 암호를 아는 경우에만 암호를 변경할 수 있습니다. 
+- **관리자 암호 다시 설정** -사용자가 암호를 분실 하거나 잊어버린 경우 관리자는 관리 센터에서 또는 Windows PowerShell을 사용 하 여 사용자의 암호를 다시 설정할 수 있습니다. 사용자가 기존 암호를 아는 경우에만 암호를 변경할 수 있습니다. 
     
     엔터프라이즈 요금제의 경우 관리자가 암호를 분실 하거나 잊은 경우 전역 관리자 역할이 있는 다른 관리자가 Microsoft 365 관리 센터에서 또는 Windows PowerShell을 사용 하 여 관리자의 암호를 다시 설정할 수 있습니다. 자세한 내용은 [관리자 암호 다시 설정](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)을 참조하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 암호 변경 또는 재설정](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)을 참조하세요.
     
-- **사용자가 웹에서 Outlook을 사용 하 여 암호 변경** 웹 옵션 페이지의 Outlook에는 사용자를 **암호 변경** 페이지로 리디렉션하는 암호 변경 하이퍼링크가 포함 되어 있습니다. 사용자가 이전 암호를 알고 있어야 합니다. 자세한 내용은 [암호 변경](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c)을 참조하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 암호 변경 또는 재설정](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)을 참조하세요.
+- **사용자가 웹에서 outlook으로 암호를 변경** -웹 옵션 페이지의 outlook에 사용자를 **암호 변경** 페이지로 리디렉션하는 암호 변경 하이퍼링크가 포함 되어 있습니다. 사용자가 이전 암호를 알고 있어야 합니다. 자세한 내용은 [암호 변경](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c)을 참조하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 암호 변경 또는 재설정](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)을 참조하세요.
     
-- **역할 기반 암호 초기화 권한** 엔터프라이즈 요금제의 경우 지원 센터 직원과 같은 권한이 있는 사용자는 **암호 다시 설정** 사용자 권한을 할당 받을 수 있으며, 전체 서비스 관리자가 되지 않고 미리 정의 된 또는 사용자 지정 역할을 사용 하 여 암호를 변경할 수도 있습니다. 기본적으로 Enterprise 계획에서는 전역 관리자, 암호 관리자 또는 사용자 관리 관리자 역할을 가진 사용자가 암호를 변경할 수 있습니다. 자세한 내용은 [관리 역할 지정](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)을 참조하세요.
+- **역할 기반 암호 다시 설정 권한** -엔터프라이즈 계획의 경우 지원 센터 직원과 같은 인증 된 사용자에 게 **암호 재설정** 사용자 권한을 할당 하 고 전체 서비스 관리자가 되지 않고 미리 정의 되거나 사용자 지정 역할을 사용 하 여 암호를 변경할 수 있습니다. Enterprise 요금제에서는 기본적으로 전역 관리자, 암호 관리자 또는 사용자 관리 관리자 역할이 있는 관리자가 암호를 변경할 수 있습니다. 자세한 내용은 [관리 역할 지정](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)을 참조하세요.
     
-- **Windows PowerShell을 사용한 암호 다시 설정** 서비스 관리자는 Windows PowerShell을 사용하며 암호를 재설정할 수 있습니다. 
+- **Windows powershell을 사용 하 여 암호 재설정** -서비스 관리자는 windows powershell을 사용 하 여 암호를 다시 설정할 수 있습니다. 
     
- **페더레이션 ID 암호 관리:**
+### <a name="federated-identity-password-management"></a>페더레이션 id 암호 관리
   
 페더레이션 ID를 사용할 경우 암호는 Active Directory에서 관리됩니다. 온-프레미스 보안 토큰 서비스는 사용자의 로컬 Active Directory 암호를 인터넷을 통해 Office 365에 전달 하지 않고 페더레이션 게이트웨이와 인증을 협상 합니다. 로컬 암호 정책이 사용되거나 웹 클라이언트의 경우에는 2단계 식별이 사용됩니다. 웹용 Outlook에는 암호 변경 하이퍼링크가 포함 되지 않습니다. 사용자는 표준 온-프레미스 도구 또는 데스크톱 PC 로그온 옵션을 통해 암호를 변경할 수 있습니다.
   
@@ -172,7 +170,7 @@ SharePoint Online에서는 사이트 액세스 제어를 위해 보안 그룹을
   
 ## <a name="administrator-roles"></a>관리자 역할
 
-Office 365 Enterprise는 RBAC (역할 기반 액세스 제어) 모델을 따르고 관리 역할에 의해 사용 권한 및 기능이 정의 됩니다. 조직에 대해 Office 365에 등록 하는 사람은 자동으로 전역 관리자 또는 최상위 관리자가 됩니다. 관리자 역할에는 전역 관리자, 청구 관리자, 암호 관리자, 서비스 관리자 및 사용자 관리 관리자의 다섯 가지가 있습니다. Office 365 Enterprise의 관리자 역할에 대 한 자세한 내용은 Exchange Online, SharePoint Online 및 비즈니스용 Skype Online 관리에 적용 되는 방법을 비롯 하 여 [관리자 역할 할당](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11))을 참조 하세요. 중국에서 21Vianet에서 운영 하는 Office 365을 사용 하는 경우에는 [office 365의 비즈니스용 관리자 역할 할당](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)을 참조 하세요.
+엔터프라이즈에 대 한 Office 365은 RBAC (역할 기반 액세스 제어) 모델을 따르고 관리 역할에 의해 사용 권한 및 기능이 정의 됩니다. 조직에 대해 Office 365에 등록 하는 사람은 자동으로 전역 관리자 또는 최상위 관리자가 됩니다. 관리자 역할에는 전역 관리자, 청구 관리자, 암호 관리자, 서비스 관리자 및 사용자 관리 관리자의 다섯 가지가 있습니다. Exchange Online, SharePoint Online 및 비즈니스용 Skype Online 관리에 적용 되는 방법을 비롯 하 여 엔터프라이즈에 대 한 Office 365의 관리자 역할에 대 한 자세한 내용은 [관리자 역할 할당](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11))을 참조 하십시오. 중국에서 21Vianet에서 운영 하는 Office 365을 사용 하는 경우에는 [office 365의 비즈니스용 관리자 역할 할당](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)을 참조 하세요.
   
 ## <a name="delegated-administration-and-support-for-partners"></a>위임된 관리 및 파트너에 대한 지원
 

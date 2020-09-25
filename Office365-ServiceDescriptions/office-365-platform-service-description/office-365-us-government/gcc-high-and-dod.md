@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Office 365 상업용 환경과 비교 하 여 Office 365 GCC High 및 DoD 환경의 고유한 약정 및 차이점에 대해 알아봅니다.
-ms.openlocfilehash: 44d66557f426ab236460affd61fbf1970c7f25e6
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: 549399c1cbd669413b6ea40023a4ab43a5181403
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214337"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261520"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High 및 DoD
 
@@ -22,9 +22,9 @@ ms.locfileid: "48214337"
   
 계정 팀 또는 기본 설정 파트너에 게 문의 하 여 자세히 알아보거나 유효성 검사 프로세스를 시작 합니다. 구입 방법에 대 한 자세한 내용은 [Microsoft 365 정부-구매 방법](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)를 참조 하세요.
   
-## <a name="how-to-use-this-service-description-section"></a>이 서비스 설명 섹션을 사용 하는 방법
+## <a name="how-to-use-this-service-description"></a>서비스 설명 사용 방법
 
-Office 365 US 정부 서비스 설명은 일반적인 Office 365 서비스 설명에 대 한 오버레이를 제공 하도록 설계 되었습니다. Office 365 Enterprise 제품과 비교하여 고유한 확정 및 차이점을 정의합니다.
+Office 365 US 정부 서비스 설명은 일반적인 Office 365 서비스 설명에 대 한 오버레이를 제공 하도록 설계 되었습니다. 엔터프라이즈 제품에 대 한 Office 365에 비해 고유한 약정 및 차이점을 정의 합니다.
   
 ## <a name="compliance"></a>규정 준수
 
@@ -38,11 +38,10 @@ Office 365에 대 한 방어 가입자의 부서는 DOD SRG L5를 충족 하는 
   
 ## <a name="background-screening"></a>백그라운드 차단
 
-Office 365 직원은 GCC High 및 DoD 프로덕션에 대 한 액세스 권한이 없습니다. 고객 콘텐츠에 대 한 액세스 권한을 부여 하는 임시 권한 상승을 요청한 모든 직원은 먼저 다음 배경 검사를 통과 해야 합니다.
+Office 365 직원은 GCC High 및 DoD 프로덕션에 대 한 액세스 권한이 없습니다. 고객 콘텐츠에 대 한 액세스 권한을 부여 하는 임시 권한 상승을 요청한 모든 직원은 먼저 다음 배경 검사를 통과 해야 합니다.<br><br>
   
-|||
+| Microsoft 직원 선별 및 배경 검사<sup>1</sup> | 설명 |
 |:-----|:-----|
-|**Microsoft 직원 선별 및 배경 검사**<sup>1</sup> <br/> |**설명** <br/> |
 |미국 시민권  <br/> |미국 시민권 확인  <br/> |
 |고용 기록 확인  <br/> |최근 7년의 고용 기록 확인  <br/> |
 |교육 확인  <br/> |획득한 최종 학위 확인  <br/> |
@@ -78,7 +77,7 @@ Office 365 정부에는 [파일 요청](https://support.office.com/article/f54aa
 
 ### <a name="microsoft-teams"></a>Microsoft Teams
 
-**전화 시스템 및 오디오 회의 (직접 라우팅 통해)**: GCC High 및 DoD 환경에 대 한 전화 시스템 및 오디오 회의는 직접 라우팅을 통해 제공 됩니다. 자세한 내용은 여기에서 서비스 수준 설명서를 참조 하세요.
+**전화 시스템 및 오디오 회의 (직접 라우팅 사용)** -GCC High 및 DoD 환경에 대 한 전화 시스템 및 오디오 회의는 직접 라우팅을 통해 제공 됩니다. 자세한 내용은 여기에서 서비스 수준 설명서를 참조 하세요.
 
 - [직접 라우팅를 통한 전화 시스템](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
 - [GCC High 및 DoD를 위해 직접 라우팅으로 오디오 회의](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
@@ -89,7 +88,7 @@ Office 365 정부에는 [파일 요청](https://support.office.com/article/f54aa
   
 ### <a name="yammer"></a>Yammer
 
-Yammer Enterprise는 GCC High 및 DoD 환경에서는 사용할 수 없습니다.
+엔터프라이즈 용 Yammer는 GCC High 및 DoD 환경에서는 사용할 수 없습니다.
   
 ## <a name="customer-support"></a>고객 지원
 

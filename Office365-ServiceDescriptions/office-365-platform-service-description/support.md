@@ -12,17 +12,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: 모든 Microsoft Office 365 Enterprise, Business, Education 및 Government 구독에 대해 Microsoft 고객 지원에서는 세계적인 기술, 사전 판매, 대금 청구 및 구독 지원을 제공합니다. Microsoft365 관리 센터를 통해 온라인 및 전화를 통해 유료 및 평가판 구독에 대해 지원을 받을 수 있습니다. 자세한 내용은 Microsoft 지원 옵션을 참조 하십시오.
-ms.openlocfilehash: efc4153cd928152ff614134f879533277220d331
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Microsoft Support는 엔터프라이즈, 비즈니스, 교육 및 정부 구독의 모든 Microsoft Office 365을 통해 전체적인 기술, 사전 판매, 대금 청구 및 구독 지원을 제공 합니다. Microsoft365 관리 센터를 통해 온라인 및 전화를 통해 유료 및 평가판 구독에 대해 지원을 받을 수 있습니다. 자세한 내용은 Microsoft 지원 옵션을 참조 하십시오.
+ms.openlocfilehash: b7f4a0fffc903c65a2a51e2267b420c24fdd12b0
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131492"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261570"
 ---
 # <a name="support"></a>지원
 
-모든 Microsoft Office 365 Enterprise, Business, Education 및 Government 구독에 대해 Microsoft 고객 지원에서는 세계적인 기술, 사전 판매, 대금 청구 및 구독 지원을 제공합니다. 지원은 Microsoft 365 관리 센터 및 전화로 전화 및 평가판 구독 모두에 대해 제공 됩니다. 자세한 내용은 [Microsoft 지원 옵션](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)을 참조 하십시오.
+Microsoft Support는 엔터프라이즈, 비즈니스, 교육 및 정부 구독의 모든 Microsoft Office 365을 통해 전체적인 기술, 사전 판매, 대금 청구 및 구독 지원을 제공 합니다. 지원은 Microsoft 365 관리 센터 및 전화로 전화 및 평가판 구독 모두에 대해 제공 됩니다. 자세한 내용은 [Microsoft 지원 옵션](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)을 참조 하십시오.
   
 권한 있는 관리자는 Microsoft 365 관리 센터를 사용 하 여 서비스 요청을 온라인으로 제출 하 고, access에서 지 원하는 전화 번호를 확인 하 고, 열려 있거나 최근에 닫힌 서비스 요청을 볼 수 관리 센터에서 전송 된 서비스 요청을 닫은 후 최대 14 일 동안 다시 열 수 있습니다. 자세한 내용은 [Microsoft 365 for business support](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)를 참조 하세요.
   
@@ -56,23 +56,23 @@ Microsoft 365 기술 지원 팀은 Microsoft 365 및 Office 365과 관련 된 �
 
 ## <a name="technical-support"></a>기술 지원
 
-Microsoft 365 구독에 대 한 기술 지원은 기본 설치, 설정 및 일반 기술 사용에 대 한 지원을 제공 합니다. 이러한 문제의 몇 가지 예가 다음 표에 나와 있습니다.
+Microsoft 365 구독에 대 한 기술 지원은 기본 설치, 설정 및 일반 기술 사용에 대 한 지원을 제공 합니다. 이러한 문제의 몇 가지 예가 다음 표에 나와 있습니다.<br><br>
   
-|**지원 범주**|**예**|
+| 지원 범주 | 예 |
 |:-----|:-----|
-|설치 및 설정  <br/> | Exchange Online:  <br/>  사서함 마이그레이션  <br/>  받는 사람 구성(사서함 권한, 메일 전달 구성, 공유 사서함 구성)  <br/>  자동 검색 구성  <br/>  SharePoint Online:  <br/>  사용 권한 및 사용자 그룹  <br/>  외부 사용자 구성  <br/>  비즈니스용 Skype 온라인:  <br/>  설치 및 연락처 만들기  <br/>  Microsoft Microsoft 365 Apps for enterprise: 설치 및 설정 지원  <br/> |
+|설치 및 설정  <br/> | Exchange Online:  <br/>  사서함 마이그레이션  <br/>  받는 사람 구성(사서함 권한, 메일 전달 구성, 공유 사서함 구성)  <br/>  자동 검색 구성  <br/>  SharePoint Online:  <br/>  사용 권한 및 사용자 그룹  <br/>  외부 사용자 구성  <br/>  비즈니스용 Skype 온라인:  <br/>  설치 및 연락처 만들기  <br/>  Microsoft 365 enterprise 용 앱: 설치 및 설정 지원  <br/> |
 |구성  <br/> | 서비스 구성 오류 문제  <br/>  구성 문제  <br/>  도메인 설정 및 재위임  <br/>  서비스 구성 문제  <br/>  SSO(Single Sign-On)  <br/>  Active Directory 동기화  <br/> |
 
 > [!NOTE]
 > 기술 지원 서비스에 문의 하는 방법에 [대 한 자세한 내용은 Microsoft 365 for business support](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)를 확인 하세요.
 >
-> 기술 지원 부서 타사 서비스 또는 추가 기능에 대 한 문제 해결은 포함 하지 않습니다. [Microsoft 커뮤니티](https://answers.microsoft.com)의 다른 고객 으로부터 답변을 찾는 방법에 대해 알아봅니다.
+> 기술 지원 서비스에 타사 서비스나 추가 기능의 문제 해결은 포함 되지 않습니다. [Microsoft 커뮤니티](https://answers.microsoft.com)의 다른 고객 으로부터 답변을 찾는 방법에 대해 알아봅니다.
   
 ### <a name="technical-support-case-handling"></a>기술 지원 사례 처리
 
-Microsoft에서는 문제 유형 및 고객 영향의 평가에 따라 사례가 열릴 때 사례의 심각도 수준을 지정합니다. 다음 표에는 문제 유형 및 심각도 수준의 예가 나와 있습니다.
+Microsoft에서는 문제 유형 및 고객 영향의 평가에 따라 사례가 열릴 때 사례의 심각도 수준을 지정합니다. 다음 표에는 문제 유형 및 심각도 수준의 예가 나와 있습니다.<br><br>
   
-|**심각도 수준**|**운영 및 지원 설명**|**예제**|
+| 심각도 수준 | 운영 및 지원 설명 | 예 |
 |:-----|:-----|:-----|
 |Sev A(중요)  <br/> |하나 이상의 서비스에 액세스할 수 없거나 서비스를 사용할 수 없습니다. 생산, 운영 또는 배포 마감일이 심각한 영향을 받거나 생산이나 수익성에 심각한 영향이 있을 수 있습니다. 여러 사용자나 서비스가 영향을 받습니다.  <br/> | 메일 보내기 또는 받기에 광범위한 문제가 있습니다.  <br/>  SharePoint 사이트가 다운됩니다.  <br/>  일부 사용자가 인스턴트 메시지를 보내거나 비즈니스용 Skype 회의를 참가 또는 예약하거나 비즈니스용 Skype 호출을 수행할 수 없습니다.  <br/> |
 |Sev B(높음)  <br/> |이 서비스를 사용할 수 있지만 기능이 제한적입니다. 이 상황은 비즈니스에 중간 정도의 영향을 미치며 업무 시간 중에 처리될 수 있습니다. 단일 사용자, 고객 또는 서비스가 부분적으로 영향을 받습니다.  <br/> | Outlook의 보내기 단추가 잘못 표시됩니다.  <br/>  EAC(Exchange 관리 센터)에서는 설정할 수 없지만 PowerShell에서 설정할 수 있습니다.  <br/> |
@@ -80,11 +80,10 @@ Microsoft에서는 문제 유형 및 고객 영향의 평가에 따라 사례가
 
 ### <a name="technical-support-initial-response-times"></a>기술 지원 초기 응답 시간
 
-초기 응답 시간은 위에서 설명한 심각도 수준 및 구독 유형을 기반으로 합니다. 응답 시간 목표에 대해서는 다음 표에 설명되어 있습니다.
+초기 응답 시간은 위에서 설명한 심각도 수준 및 구독 유형을 기반으로 합니다. 응답 시간 목표에 대해서는 다음 표에 설명되어 있습니다.<br><br>
   
-||||||
+| 심각도 수준 | Microsoft 365 Business Basic<sup>1</sup><br> Microsoft 365 비즈니스 에디션 앱<sup>1</sup><br> Microsoft 365 비즈니스 표준<sup>1</sup> | Office 365 E1<sup>2</sup><br> Office 365 E3<sup>2</sup><br> Office 365 정부 G2<sup>2</sup><br> Office 365 US 정부 E3<sup>2</sup><br> 교육 기관<sup>2</sup> 에 대 한 Office 365 | Office 365 F1<sup>2</sup><br> Office 365 US 정부 K1<sup>2</sup> | 상승 된 지원 옵션<sup>3</sup> |
 |:-----|:-----|:-----|:-----|:-----|
-|**심각도 수준** <br/> |**Microsoft 365 Business Basic<sup>1</sup>** <br/> **Microsoft 365 비즈니스 에디션 앱<sup>1</sup>** <br/> **Microsoft 365 비즈니스 표준<sup>1</sup>** <br/> |**Office 365 Enterprise E1<sup>2</sup>** <br/> **Office 365 Enterprise E3<sup>2</sup>** <br/> **Office 365 정부 G2<sup>2</sup>** <br/> **Office 365 US 정부 E3<sup>2</sup>** <br/> **Office 365 교육 기관<sup>2</sup>** <br/> |**Office 365 Enterprise F1<sup>2</sup>** <br/> **Office 365 US 정부 K1<sup>2</sup>** <br/> |**높은 수준의 지원 옵션<sup>3</sup>** <br/> |
 | Sev A(중요)  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 1시간  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 1시간  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 1시간  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 1시간  <br/> |
 |Sev B(높음)  <br/> |사용 가능: 업무 시간  <br/> 응답 시간: 확정 없음  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 다음 날  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 다음 날  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 2시간  <br/> |
 |Sev C(중간)  <br/> |사용 가능: 업무 시간  <br/> 응답 시간: 확정 없음  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 확정 없음  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 확정 없음  <br/> |사용 가능: 연중무휴<sup>4</sup> <br/> 응답 시간: 4시간  <br/> |
@@ -111,7 +110,7 @@ Microsoft는 자격 있는 전문가로부터 시기 적절한 기술 지원을 
 
 Microsoft 관리자 역할이 있는 사용자는 관리 센터의 **관리** 섹션에 액세스 하 고 서비스 요청에 대해 microsoft와 직접 통신 하기 위해 고객의 조직에 있는 유일한 역할입니다.
   
-Office 365 Enterprise 및 Microsoft 365 앱 계획을 사용 하 여 다양 한 기능을 제공 하는 여러 유형의 관리자를 지정할 수 있습니다. 이 서비스 설명에서는 모든 관리자 범주를 나타내기 위해 일반적인 직함인 관리자를 사용합니다. 관리자 역할 유형에 대한 자세한 내용은 [관리 역할 지정](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)을 참조하세요.
+엔터프라이즈 및 Microsoft 365 앱 계획에 Office 365을 사용 하는 경우 다른 기능을 수행 하는 여러 유형의 관리자를 지정할 수 있습니다. 이 서비스 설명에서는 모든 관리자 범주를 나타내기 위해 일반적인 직함인 관리자를 사용합니다. 관리자 역할 유형에 대한 자세한 내용은 [관리 역할 지정](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)을 참조하세요.
   
 관리자의 특징:
   
@@ -131,7 +130,7 @@ Office 365 Enterprise 및 Microsoft 365 앱 계획을 사용 하 여 다양 한 
 
 - Microsoft의 셀프 서비스 지원 리소스를 사용하여 지원 문제를 해결합니다.
 
-관리자는 고객의 사용자에 대한 초기 지원을 제공해야 합니다. 그러나 관리자가 셀프 서비스 지원 리소스를 사용하여 문제를 해결할 수 없는 경우에는 [기술 지원](support.md#technical-support)에 문의해야 합니다.
+관리자는 고객의 사용자에 대한 초기 지원을 제공해야 합니다. 그러나 관리자가 셀프 서비스 지원 리소스의 도움으로 문제를 해결할 수 없는 경우에는 [기술 지원](support.md#technical-support)서비스에 문의 해야 합니다.
   
 ### <a name="microsoft-support-role"></a>Microsoft 고객지원 역할
 
@@ -177,11 +176,11 @@ Microsoft에 포함 된 지원 서비스는 많은 고객의 요구를 충족 �
 
 ### <a name="partners"></a>파트너
 
-Microsoft 파트너를 선택하여 서비스 요청 티켓 작성 등의 관리 기능을 위임할 수 있습니다. 자세한 내용은 [파트너](partners.md) 서비스 설명 및 [구독 관리자 파트너 추가, 변경, 삭제](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide)를 참조하세요.
+Microsoft 파트너를 선택하여 서비스 요청 티켓 작성 등의 관리 기능을 위임할 수 있습니다. 자세한 내용은 [파트너](partners.md) 서비스 설명 및 [구독 관리자 파트너 추가, 변경, 삭제](https://docs.microsoft.com/office365/admin/misc/add-partner)를 참조하세요.
   
 ### <a name="developers"></a>개발자
 
-개발자는 [MSDN Microsoft 개발자 네트워크](https://developer.microsoft.com/office/docs)에서 Office 및 SharePoint 응용 프로그램을 개발 하는 방법에 대해 자세히 알아볼 수 있습니다. 개발자 지원은 개발자 커뮤니티의 온라인 블로그 및 포럼을 통해, 프리미어 또는 파트너 지원 리소스를 통해 또는 직접 Microsoft를 통해 받을 수 있습니다. 개발자 지원 옵션 링크를 보려면 [지원 리소스](https://developer.microsoft.com/office/docs)를 참조하세요.
+개발자는 [MSDN Microsoft 개발자 네트워크](https://developer.microsoft.com/office/docs)에서 Office 및 SharePoint 응용 프로그램을 개발 하는 방법에 대해 자세히 알아볼 수 있습니다. 개발자 지원은 개발자 커뮤니티의 온라인 블로그 및 포럼을 통해, 프리미어 또는 파트너 지원 리소스를 통해 또는 Microsoft를 통해 직접 확인할 수 있습니다. 개발자 지원 옵션에 대 한 링크는 [지원 리소스](https://developer.microsoft.com/office/docs)를 참조 하세요.
   
 > [!NOTE]
 > Microsoft 팀에서는 스크립트 (예: JavaScript, VBScript 등의 스크립팅 기술)가 지원 되지 않습니다. 스크립트 사용에 대해 도움이 필요하면 [Microsoft 기술 지원 서비스](https://support.microsoft.com/)에 문의하세요. Office 응용 프로그램 사용 지원에 대 한 자세한 내용은 [Microsoft office 응용 프로그램의 구독자 문제에 대 한 지원 옵션](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f)을 참조 하십시오.

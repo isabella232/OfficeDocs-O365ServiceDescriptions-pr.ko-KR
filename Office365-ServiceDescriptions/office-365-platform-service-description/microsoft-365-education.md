@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Microsoft 365 및 Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다.
-ms.openlocfilehash: ab28bb301e105118ce058102f6cdda42d645f367
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: 46a5ea8dc2f0cd4c5cec1e7e2aa91473787c09e1
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134015"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261560"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -25,75 +25,78 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 ## <a name="services-and-features"></a>서비스 및 기능
 
 각 Microsoft 365 교육 계획에는 Exchange Online, SharePoint Online 등의 여러 개별 서비스가 포함 됩니다. 다음 표에는 각 Office 365 및 Microsoft 365 계획에서 사용할 수 있는 서비스가 나와 있으며,이를 통해 사용자의 요구에 가장 적합 한 솔루션을 선택할 수 있습니다. 서비스 및 기능을 보다 자세히 검토 하려면 [Office 365 교육용](office-365-education.md) 서비스 설명을 참조 하세요.
+
+|**서비스**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 교육 A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 교육 A3 학생 사용 혜택**|**Microsoft 365 교육 A5 학생 사용 혜택**|
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+|Office 365 플랫폼|예|예|예|예|예|예|예|예|예|
+|웹용 Office|예|예|예|예|예|예|예|예|예|
+|엔터프라이즈용 Microsoft 365 앱|아니요|예|예|예|예|예|예|예|예|
+|Exchange Online|Yes1|예2|예2|예2|예2|Yes1|Yes1|Yes1|Yes1|
+|SharePoint Online|Yes3|Yes4|Yes4|Yes4|Yes4|Yes3|Yes3|Yes3|Yes3|
+|비즈니스용 OneDrive|예|예|예|예|예|예|예|예|예|
+|Microsoft Teams|예|예|예|예|예|예|예|예|예|
+|비즈니스용 Skype 온라인|예|예|예|예|예|예|예|예|예|
+|Project|No5|No5|No5|No5|No5|No5|No5|No5|No5|
+|Yammer 교육|예|예|예|예|예|예|예|예|예|
+|**교실 도구**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 교육 A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 교육 A3 학생 사용 혜택**|**Microsoft 365 교육 A5 학생 사용 혜택**|
+|Microsoft 팀의 강의실 경험|예|예|예|예|예|예|예|예|예|
+|OneNote 수업용 전자 필기장|예|예|예|예|예|예|예|예|예|
+|Microsoft Sway|예|예|예|예|예|예|예|예|예|
+|Microsoft Forms|예|예|예|예|예|예|예|예|예|
+|학습 도구|예|예|예|예|예|예|예|예|예|
+|접근성 검사|예|예|예|예|예|예|예|예|예|
+|Office Lens|예|예|예|예|예|예|예|예|예|
+|코드 작성기를 사용 하는 Minecraft 교육 에디션|아니요|아니요|아니요|예|예|아니요|아니요|예|예|
+|테스트 앱 사용|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
+|학교 Pc 앱 설정|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
+|"**음성 비디오 및 모임**"|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 교육 A5**|**Microsoft 365 Education A3**|**Microsoft 365 교육 A56**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 교육 A3 학생 사용 혜택**|**Microsoft 365 교육 A5 학생 사용 혜택**|
+|Skype 모임 브로드캐스트|아니요|예|예|예|예|아니요|아니요|아니요|아니요|
+|Microsoft Bookings|아니요|예|예|예|예|아니요|아니요|아니요|아니요|
+|Office 365 오디오 회의|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
+|Office 365 전화 시스템|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
+|**분석**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 교육 A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 교육 A3 학생 사용 혜택**|**Microsoft 365 교육 A5 학생 사용 혜택**|
+|Delve|예|예|예|예|예|예|예|예|예|
+|Power BI Pro|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
+|내 분석|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
+|**Azure Active Directory11**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 교육 A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 교육 A3 학생 사용 혜택**|**Microsoft 365 교육 A5 학생 사용 혜택**|
+|Azure Active Directory Basic|예|예|예|예|예|예|예|예|예|
+|Azure Active Directory 계획 1|아니요|아니요|아니요|예|아니요|아니요|아니요|예|예|
+|Azure Active Directory 요금제 2|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|예|
+|**규정 준수**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 교육 A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 교육 A3 학생 사용 혜택**|**Microsoft 365 교육 A5 학생 사용 혜택**|
+|Office 365 권한 관리|예|예|예|예|예|예|예|예|예|
+|Azure Information Protection 계획 17|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|아니요|
+|Azure Information Protection 계획 27|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|
+|소송 대기|예|예|예|예|예|예|예|예|예|
+|eDiscovery 검색|예|예|예|예|예|예|예|예|예|
+|eDiscovery 내보내기|예|예|예|예|예|예|예|예|예|
+|Office 365 고급 eDiscovery|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
+|Data loss prevention|예|예|예|예|예|예|예|예|예|
+|Office 365 메시지 암호화|Yes12|예|예|예|예|Yes12|Yes12|Yes12|Yes12|
+|Customer Lockbox|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
+|고급 데이터 거버넌스|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
+|**관리 및 보안**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 교육 A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 교육 A3 학생 사용 혜택**|**Microsoft 365 교육 A5 학생 사용 혜택**|
+|Office 365 Advanced Threat Protection Plan 2|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요|예|
+|학교 데이터 동기화|예|예|예|예|예|예|예|예|예|
+|고급 보안 관리|아니요|예|예|예|예|아니요|아니요|아니요|아니요|
+|Education8 용 Intune|아니요|아니요|아니요|예|예|아니요|아니요|예|예|
+|Advanced Threat Analytics|아니요|아니요|아니요|예|예|아니요|아니요|예|예|
+|Windows Defender Antivirus는|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
+|Device Guard|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
+|**고급 보안**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 교육 A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 교육 A3 학생 사용 혜택**|**Microsoft 365 교육 A5 학생 사용 혜택**|
+|Advanced Threat Protection|아니요|아니요|예|아니요|예|아니요|아니요|아니요|예|
+|위협 인텔리전스|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
+|Cloud App Security|아니요|아니요|아니요|아니요|예|예|예|예|예|
+|Microsoft Defender Advanced Threat Protection|아니요|아니요|아니요|아니요|Yes13|아니요|아니요|아니요|아니요|
+|**서버 및 CAL 관련 혜택**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 교육 A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 교육 A3 학생 사용 혜택**|**Microsoft 365 교육 A5 학생 사용 혜택**|
+|Exchange9|아니요|아니요|아니요|Yes10|예|아니요|아니요|아니요|아니요|
+|SharePoint9|아니요|아니요|아니요|Yes10|예|아니요|아니요|아니요|아니요|
+|비즈니스용 Skype Business9|아니요|아니요|아니요|Yes10|예|아니요|아니요|아니요|아니요|
+|Windows Server CAL|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
+|Microsoft Endpoint Configuration Manager|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
+|System Center Endpoint Protection|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
+
   
-|||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|**서비스** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
-|Office 365 플랫폼  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|웹용 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|엔터프라이즈용 Microsoft 365 앱  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Exchange Online  <br/> |예<sup>1</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |예<sup>2</sup> <br/> |
-|SharePoint Online  <br/> |예<sup>3</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |
-|비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft Teams  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|비즈니스용 Skype 온라인  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Project  <br/> |<sup>5</sup> 없음 <br/> |<sup>5</sup> 없음 <br/> |<sup>5</sup> 없음 <br/> |<sup>5</sup> 없음 <br/> |<sup>5</sup> 없음 <br/> |
-|Yammer 교육  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|**교실 도구** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
-|Microsoft 팀의 강의실 경험  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|OneNote 수업용 전자 필기장  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft Sway  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft Forms  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|학습 도구  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|접근성 검사  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Office Lens  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|코드 작성기를 사용 하는 Minecraft 교육 에디션  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|테스트 앱 사용  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|학교 Pc 앱 설정  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|**음성, 비디오 및 모임** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 교육 A5**<sup>6</sup> <br/> |
-|Skype 모임 브로드캐스트  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft Bookings  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Office 365 오디오 회의  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|Office 365 전화 시스템  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|**분석** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
-|Delve  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Power BI Pro  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|내 분석  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|**Azure Active Directory**<sup>11</sup> <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
-|Azure Active Directory Basic  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Azure Active Directory 계획 1  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|Azure Active Directory 요금제 2  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|**규정 준수** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
-|Office 365 권한 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Azure Information Protection 계획 1<sup>7</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|Azure Information Protection 계획 2<sup>7</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|소송 대기  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|eDiscovery 검색  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|eDiscovery 내보내기  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Office 365 고급 eDiscovery  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|데이터 손실 방지  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Office 365 메시지 암호화  <br/> |예<sup>12</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Customer Lockbox  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|고급 데이터 거버넌스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|**관리 및 보안** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
-|학교 데이터 동기화  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Office 365 Cloud App Security  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|교육을 위한 Intune<sup>8</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|Advanced Threat Analytics  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|Microsoft Defender 바이러스 백신  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|Device Guard  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|**고급 보안** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
-|Office 365 Advanced Threat Protection  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|Cloud App Security  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
-|Microsoft Defender Advanced Threat Protection  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>13</sup>  <br/> |
-|**서버 및 CAL 관련 혜택** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 교육 A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
-|Exchange<sup>9</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>10</sup> <br/> |예  <br/> |
-|SharePoint<sup>9</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>10</sup> <br/> |예  <br/> |
-|비즈니스용 Skype<sup>9</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>10</sup> <br/> |예  <br/> |
-|Windows Server CAL  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|Microsoft Endpoint Configuration Manager  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|System Center Endpoint Protection  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
+
    
 > [!NOTE]
 > <sup>1</sup> Exchange Online 계획 1과 보조 기능을 포함 합니다. <br/>

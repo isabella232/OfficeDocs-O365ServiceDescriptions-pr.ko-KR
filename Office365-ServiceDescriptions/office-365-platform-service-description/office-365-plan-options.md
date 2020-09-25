@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
-ms.openlocfilehash: 1410fec329c7d92de905a1d34df50d41c094b76f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: f90f8a029307eb7c8d240a5038c3142516320cee
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132132"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261590"
 ---
 # <a name="office-365-plan-options"></a>Office 365 계획 옵션
 
@@ -28,16 +28,16 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
   
 ## <a name="office-365-service-families-and-plans"></a>Office 365 서비스 제품군 및 계획
 
-다음 표에는 Office 365에서 사용 가능한 각 서비스 제품군 및 계획이 나와 있습니다. 기능 및 가격 정보에 대 한 간략 한 개요 또는 온라인 담당자와 채팅을 하려면 요금제 (계획) 열에서 링크 중 하나를 선택 합니다.
+다음 표에는 Office 365에서 사용 가능한 각 서비스 제품군 및 계획이 나와 있습니다. 기능 및 가격 정보에 대 한 간략 한 개요 또는 온라인 담당자와 채팅을 하려면 요금제 (계획) 열에서 링크 중 하나를 선택 합니다.<br><br>
   
-|**Office 365 서비스 제품군**|**계획**|
+| Office 365 서비스 제품군 | 요금제 |
 |:-----|:-----|
 |**Business (최대 300 명의 사용자)** <br/> |[Microsoft 365 Business Basic](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [비즈니스용 Microsoft 365 앱](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |**Enterprise (사용자 수 제한 없음)** <br/> |[Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 Enterprise F3](https://products.office.com/business/office-365-f1) <br/> |
 |**교육 (사용자 수 제한 없음)** <br/> |[Office 365 Education](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Education E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
-|**정부 (사용자 수 제한 없음)** <br/> |[모든 사용 가능한 비즈니스 계획을 참조하세요.](https://products.office.com/government/compare-office-365-government-plans) <br/> |
+|**정부 (사용자 수 제한 없음)** <br/> |[사용 가능한 모든 비즈니스 계획 참조](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**중국의 21Vianet에서 운영하는 Office 365** <br/> |[사용 가능한 모든 비즈니스 계획 참조](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
-|**Office 365 Germany** <br/> |[Office 365 독일에 대 한 자세한 정보를 참조 하세요.](https://docs.microsoft.com/microsoft-365/admin/admin-overview/learn-about-office-365-germany?view=o365-germany) <br/> |
+|**Office 365 Germany** <br/> |[Office 365 독일에 대 한 자세한 정보를 참조 하세요.](https://docs.microsoft.com/microsoft-365/admin/admin-overview/learn-about-office-365-germany) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>각 Office 365 계획 내의 서비스 사용 가능 여부
 
@@ -46,21 +46,20 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 > [!IMPORTANT]
 >  여러 Office 365 계획에서 사용 가능한 서비스도 있지만 각 계획에서 제공되는 기능은 서로 다를 수 있습니다. 각 계획에 대해 사용할 수 있는 기능에 대한 자세한 내용은 개별 서비스 설명을 참조하거나 대리점 또는 Microsoft 판매 담당자에게 문의하세요. <br/>  비즈니스용 Office 365 요금제 중 일부는 구독에 대해 구입할 수 있는 추가 기능을 제공합니다. 추가 기능은 구독에 대한 추가 기능을 제공합니다. 자세한 내용은 [비즈니스용 Office 365 추가 기능 구입 또는 편집](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6)을 참조하세요. 
   
-|||||||||
+| 서비스 | Microsoft 365 Business Basic | 비즈니스용 Microsoft 365 앱 | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3  | Office 365 Enterprise E5<sup>4,</sup><sup>16</sup> | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**서비스** <br/> |**Microsoft 365 Business Basic** <br/> |**비즈니스용 Microsoft 365 앱** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F3** <br/> |
-|Office 365 플랫폼  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Office 365 플랫폼  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange Online  <br/> |예<sup>6</sup> <br/> |아니요  <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |예<sup>9</sup> <br/> |
-|SharePoint Online  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|SharePoint Online  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>5</sup> <br/> |
 |비즈니스용 Skype Online <sup>15</sup> <br/> |예<sup>10</sup> <br/> |아니요  <br/> |예<sup>10</sup> <br/> |예<sup>10</sup> <br/> |예<sup>11</sup> <br/> |예<sup>13</sup> <br/> |예<sup>14</sup> <br/> |
-|웹에 대 한 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Office 응용 프로그램  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |있음  <br/> |예  <br/> |아니요  <br/> |
+|웹용 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Office 응용 프로그램  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Project Online  <br/> |No<sup>1</sup> <br/> |아니요  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |
 |Power BI  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|Yammer Enterprise  <br/> |예  <br/> |아니오  <br/> |있음  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Yammer Enterprise  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Azure Information Protection<sup>3</sup> <br/> |No<sup>2</sup> <br/> |아니요  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |예  <br/> |예  <br/> |No<sup>2</sup> <br/> |
-|Microsoft Kaizala<sup>17</sup> <br/> |예 <br/> |아니오  <br/> |있음 <br/> |예 <br/> |예  <br/> |예  <br/> |예 <br/> |
+|Microsoft Kaizala<sup>17</sup> <br/> |예 <br/> |아니요  <br/> |예 <br/> |예 <br/> |예  <br/> |예  <br/> |예 <br/> |
    
 <sup>1</sup> Project Online은 포함되어 있지 않지만 별도의 추가 기능으로 구매하거나 Office 365 Education 계획에 무료로 추가할 수 있습니다.<br/>
 <sup>2</sup> Azure Information Protection은 포함 되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며, 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 됩니다. 일부 Azure Information Protection 기능을 사용 하려면 microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise E1, Office 365 교육 또는 Office 365 Enterprise F3에 포함 되지 않은 Microsoft 365 for enterprise 앱을 구독 해야 합니다.<br/>
@@ -106,9 +105,9 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
   
 ## <a name="standalone-services"></a>독립 실행형 서비스
 
-독립 실행형 계획으로 단독 사용 가능한 온라인 서비스는 다음과 같습니다. 이러한 서비스는 Business 및 Enterprise 서비스 제품군 계획에 추가할 수도 있습니다(이미 포함되어 있지 않은 경우). 가격 정보 또는 온라인 담당자와 채팅을 하려면 다음 표에 나열 된 계획 중 하나를 선택 합니다.
+독립 실행형 계획으로 단독 사용 가능한 온라인 서비스는 다음과 같습니다. 이러한 서비스는 Business 및 Enterprise 서비스 제품군 계획에 추가할 수도 있습니다(이미 포함되어 있지 않은 경우). 가격 정보 또는 온라인 담당자와 채팅을 하려면 다음 표에 나열 된 계획 중 하나를 선택 합니다.<br><br>
   
-|**서비스**|**계획**|
+| 서비스 | 요금제 |
 |:-----|:-----|
 |Exchange Online  <br/> |[Exchange Online 계획 1](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online 계획 2](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) <br/> [Exchange Online Advanced Threat Protection](https://products.office.com/exchange/advance-threat-protection) <br/> [Exchange Online Archiving](https://products.office.com/exchange/microsoft-exchange-online-archiving-email) <br/> [Exchange Online Kiosk](https://products.office.com/business/office-365-f1) <br/> |
 |SharePoint Online  <br/> |[SharePoint Online 계획 1](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online 계획 2](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
