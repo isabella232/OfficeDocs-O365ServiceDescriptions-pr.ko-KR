@@ -8,13 +8,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
-description: Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Microsoft 365 및 Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다.
-ms.openlocfilehash: 46a5ea8dc2f0cd4c5cec1e7e2aa91473787c09e1
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+description: Microsoft 365 및 Office 365 교육 계획 간의 차이점에 대해 알아봅니다.
+ms.openlocfilehash: d0dfabd0269941d9bda4517cc9f22d17f8c4237f
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261560"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276736"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -24,9 +24,9 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
   
 ## <a name="services-and-features"></a>서비스 및 기능
 
-각 Microsoft 365 교육 계획에는 Exchange Online, SharePoint Online 등의 여러 개별 서비스가 포함 됩니다. 다음 표에는 각 Office 365 및 Microsoft 365 계획에서 사용할 수 있는 서비스가 나와 있으며,이를 통해 사용자의 요구에 가장 적합 한 솔루션을 선택할 수 있습니다. 서비스 및 기능을 보다 자세히 검토 하려면 [Office 365 교육용](office-365-education.md) 서비스 설명을 참조 하세요.
+각 Microsoft 365 교육 계획에는 Exchange Online, SharePoint Online 등의 여러 개별 서비스가 포함 됩니다. 다음 표에는 각 Office 365 및 Microsoft 365 계획에서 사용할 수 있는 서비스가 나와 있으며,이를 통해 사용자의 요구에 가장 적합 한 솔루션을 선택할 수 있습니다. 서비스 및 기능을 보다 자세히 검토 하려면 [Office 365 교육용](office-365-education.md) 서비스 설명을 참조 하세요.<br><br>
 
-|**서비스**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 교육 A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 교육 A3 학생 사용 혜택**|**Microsoft 365 교육 A5 학생 사용 혜택**|
+| 서비스 | Office 365 Education A1 | Office 365 Education A3 | Office 365 교육 A5 | Microsoft 365 Education A3 | Microsoft 365 Education A5 | Office 365 A3 학생 사용 혜택 | Office 365 A5 학생 사용 혜택 | Microsoft 365 교육 A3 학생 사용 혜택 | Microsoft 365 교육 A5 학생 사용 혜택 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Office 365 플랫폼|예|예|예|예|예|예|예|예|예|
 |웹용 Office|예|예|예|예|예|예|예|예|예|
@@ -49,7 +49,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |코드 작성기를 사용 하는 Minecraft 교육 에디션|아니요|아니요|아니요|예|예|아니요|아니요|예|예|
 |테스트 앱 사용|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
 |학교 Pc 앱 설정|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
-|"**음성 비디오 및 모임**"|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 교육 A5**|**Microsoft 365 Education A3**|**Microsoft 365 교육 A56**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 교육 A3 학생 사용 혜택**|**Microsoft 365 교육 A5 학생 사용 혜택**|
+|**음성 비디오 및 모임**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 교육 A5**|**Microsoft 365 Education A3**|**Microsoft 365 교육 A56**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 교육 A3 학생 사용 혜택**|**Microsoft 365 교육 A5 학생 사용 혜택**|
 |Skype 모임 브로드캐스트|아니요|예|예|예|예|아니요|아니요|아니요|아니요|
 |Microsoft Bookings|아니요|예|예|예|예|아니요|아니요|아니요|아니요|
 |Office 365 오디오 회의|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
@@ -58,14 +58,14 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |Delve|예|예|예|예|예|예|예|예|예|
 |Power BI Pro|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |내 분석|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
-|**Azure Active Directory11**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 교육 A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 교육 A3 학생 사용 혜택**|**Microsoft 365 교육 A5 학생 사용 혜택**|
+|**Azure Active Directory <sup> 11<sup>**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 교육 A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 교육 A3 학생 사용 혜택**|**Microsoft 365 교육 A5 학생 사용 혜택**|
 |Azure Active Directory Basic|예|예|예|예|예|예|예|예|예|
 |Azure Active Directory 계획 1|아니요|아니요|아니요|예|아니요|아니요|아니요|예|예|
 |Azure Active Directory 요금제 2|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|예|
 |**규정 준수**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 교육 A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 교육 A3 학생 사용 혜택**|**Microsoft 365 교육 A5 학생 사용 혜택**|
 |Office 365 권한 관리|예|예|예|예|예|예|예|예|예|
-|Azure Information Protection 계획 17|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|아니요|
-|Azure Information Protection 계획 27|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|
+|Azure Information Protection 계획 <sup> 17<sup>|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|아니요|
+|Azure Information Protection 계획 <sup> 27<sup>|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|
 |소송 대기|예|예|예|예|예|예|예|예|예|
 |eDiscovery 검색|예|예|예|예|예|예|예|예|예|
 |eDiscovery 내보내기|예|예|예|예|예|예|예|예|예|
@@ -78,7 +78,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |Office 365 Advanced Threat Protection Plan 2|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요|예|
 |학교 데이터 동기화|예|예|예|예|예|예|예|예|예|
 |고급 보안 관리|아니요|예|예|예|예|아니요|아니요|아니요|아니요|
-|Education8 용 Intune|아니요|아니요|아니요|예|예|아니요|아니요|예|예|
+|교육을 위한 Intune <sup> 8<sup>|아니요|아니요|아니요|예|예|아니요|아니요|예|예|
 |Advanced Threat Analytics|아니요|아니요|아니요|예|예|아니요|아니요|예|예|
 |Windows Defender Antivirus는|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
 |Device Guard|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
@@ -88,9 +88,9 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |Cloud App Security|아니요|아니요|아니요|아니요|예|예|예|예|예|
 |Microsoft Defender Advanced Threat Protection|아니요|아니요|아니요|아니요|Yes13|아니요|아니요|아니요|아니요|
 |**서버 및 CAL 관련 혜택**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 교육 A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 교육 A3 학생 사용 혜택**|**Microsoft 365 교육 A5 학생 사용 혜택**|
-|Exchange9|아니요|아니요|아니요|Yes10|예|아니요|아니요|아니요|아니요|
-|SharePoint9|아니요|아니요|아니요|Yes10|예|아니요|아니요|아니요|아니요|
-|비즈니스용 Skype Business9|아니요|아니요|아니요|Yes10|예|아니요|아니요|아니요|아니요|
+|Exchange <sup> 9<sup>|아니요|아니요|아니요|Yes10|예|아니요|아니요|아니요|아니요|
+|SharePoint <sup> 9<sup>|아니요|아니요|아니요|Yes10|예|아니요|아니요|아니요|아니요|
+|비즈니스용 Skype <sup> 9<sup>|아니요|아니요|아니요|Yes10|예|아니요|아니요|아니요|아니요|
 |Windows Server CAL|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
 |Microsoft Endpoint Configuration Manager|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
 |System Center Endpoint Protection|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|

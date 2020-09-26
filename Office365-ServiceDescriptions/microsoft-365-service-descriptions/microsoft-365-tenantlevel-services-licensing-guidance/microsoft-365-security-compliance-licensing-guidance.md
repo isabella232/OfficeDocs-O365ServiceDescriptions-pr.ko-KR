@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: f2da71ee9bdc8f8250d3f4a98e8f09b0a43edede
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: fc3385774a01e76b7297aa77a490acf6153b555c
+ms.sourcegitcommit: 57f06932a94f09990c0e02a2da491923ca2c1a2f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245733"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48284990"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -164,7 +164,7 @@ MCAS에서 조건부 Access 앱 제어 기능을 활용 하려면 사용자에 �
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
-Office 365 E1/A1/E3/A3 및 Microsoft 365 E3/A3 라이선스를 사용 하는 고객은 데이터 보호 기준 평가에 액세스할 수 있습니다. Office 365 E5/A5와 Microsoft 365 E5/A5 라이선스를 사용 하는 고객은 데이터 보호 기준, GDPR, NIST 800-53 및 ISO 22701 for 기본 평가에 액세스할 수 있습니다. 프리미엄 평가는 Office 365 E5/A5 및 Microsoft 365 E5/A5 고객에 게 구매할 수 있습니다.
+Office 365 E1/A1/E3/A3 및 Microsoft 365 E3/A3 라이선스를 사용 하는 고객은 데이터 보호 기준 평가에 액세스할 수 있습니다. Office 365 E5/A5와 Microsoft 365 E5/A5 라이선스를 사용 하는 고객은 데이터 보호 기준, GDPR, NIST 800-53 및 ISO 22701 out for 기본 평가에 액세스할 수 있습니다. 고객은 사용자 지정 평가 기능을 사용 하려면 적어도 하나의 Office 365 E5/A5 또는 Microsoft 365 E5/A5 라이선스가 있어야 합니다. 프리미엄 평가는 Office 365 E5/A5 및 Microsoft 365 E5/A5 고객에 게 구매할 수 있습니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
@@ -211,7 +211,7 @@ Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Se
 > [!NOTE]
 > Power BI는 Microsoft 365 E5/A5/G5에 포함 되어 있습니다. 다른 모든 계획에서 Power BI는 별도로 사용이 허가 되어야 합니다.
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, Microsoft 365 정보 보호 및 관리 방식, office 365 E5, 사무 365 고급 규정 준수, Enterprise Mobility + Security E5 및 AIP 요금제 2는 사용자가 자동 민감도 레이블을 통해 혜택을 얻을 수 있는 권한을 제공 합니다.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, Microsoft 365 정보 보호 365, Office 365 고급 규정 준수, Enterprise Mobility + Security E5 및 AIP 요금제 2는 사용자가 자동 민감도 레이블을 통해 혜택을 얻을 수 있는 권한을 제공 합니다.
 
 라이선스 별 특정 권한에 대 한 자세한 내용은 Microsoft 365 준수 라이선스 비교를 참조 하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) 기계 학습 (trainable 분류자)을 기반으로 하는 자동 분류에 대 한 권한을 포함 하지 않습니다.
 
@@ -247,7 +247,7 @@ Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/A3은 팀 보존 정책을 활용
 
 Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보호 및 관리 방식, Office 365 E5/A5, Office 365 고급 규정은 사용자가 보존 레이블 또는 정책을 자동으로 적용 하 여 혜택을 얻을 수 있는 권한을 제공 합니다. 기본 보존 레이블 또는 정책을 적용 하 고, 사용자 지정 이벤트를 기반으로 보존 레이블의 보존 기간을 시작 하 고, 기본 데이터 커넥터를 통해 타사 데이터를 가져오고, 파일 a 레코드를 선언 하 고, 레이블이 지정 된 콘텐츠를 검색 하 고, 레이블 작업을 모니터링 합니다.
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및 관리 방식에서는 trainable 분류자에 따라 보존 레이블을 자동으로 적용 하 여 혜택을 얻을 수 있는 권한을 제공 합니다.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및 관리 방식에서는 trainable 분류자에 따라 보존 레이블을 자동으로 적용 하 여 혜택을 얻을 수 있는 권한을 사용자에 게 제공 합니다.
 
 라이선스 별 특정 권한에 대 한 자세한 내용은 Microsoft 365 준수 라이선스 비교를 참조 하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -267,7 +267,7 @@ Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및
 
 Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보호 및 관리, office 365 E5/a5, Office 365 고급 규정은 사용자에 게 항목을 레코드로 선언, 자동으로 보존을 적용 하 고, 처리 검토 프로세스를 실행 (trainable 분류자를 기반으로 보존 레이블 자동 적용 제외) 하 여 레코드 관리를 활용할 수 있는 권한을 제공 합니다.
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및 관리 방식에서는 trainable 분류자에 따라 자동으로 보존을 적용 하거나 레이블을 녹음할 때 혜택을 받을 수 있는 권한을 사용자에 게 제공 합니다.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및 관리 방식에서는 trainable 분류자에 따라 자동으로 보존을 적용 하거나 레이블을 녹음할 때 이점을 얻을 수 있는 권한을 제공 합니다.
 
 라이선스 별 특정 권한에 대 한 자세한 내용은 Microsoft 365 준수 라이선스 비교를 참조 하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -489,7 +489,7 @@ Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365, 정보 보호 및 관리 �
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예시:<br><br>
+사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예를 들면 다음과 같습니다.<br><br>
 
 | 시나리오 | 라이선스가 필요한 사용자 |
 |:------|:------|:------|

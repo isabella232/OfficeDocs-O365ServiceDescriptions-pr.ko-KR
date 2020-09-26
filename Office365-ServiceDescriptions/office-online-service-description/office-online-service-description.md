@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 엽니다. Web for office를 사용 하면 거의 모든 장치에서 인터넷에 연결 하 여 어디서 나 Office 파일을 보다 쉽게 작업 하 고 공유할 수 있습니다. Microsoft 365 고객은 Word, Excel, OneNote 또는 PowerPoint를 사용 하 여 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: dec64054bf9f845e1174c216a0fc87f29437f5b2
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 374fb727c2a9e371707903540fbca10b65b954ee
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616924"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276782"
 ---
 # <a name="office-for-the-web-service-description"></a>웹용 Office 서비스 설명
 
@@ -26,7 +26,7 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>웹 계획에 대 한 Office에서의 기능 가용성
 
-조직에 가장 잘 맞는 Office 솔루션을 찾는 데 도움이 필요하십니까? 다음 표에서는 Office web feature 기능을 다양 한 기능의 Microsoft Office 데스크톱 앱과 비교 합니다. 표를 사용 하 여 웹에서 사용할 수 있는 기능을 찾은 다음 기능 이름을 선택 하 여 해당 기능의 작동 방식에 대 한 간략 한 설명을 읽습니다. 조직의 일부 사용자가 Excel 데스크톱 앱의 고급 차트 기능을 필요로 하는 반면, 다른 사용자가 웹의 Office에서 Word 문서 및 PowerPoint 프레젠테이션을 보고 가볍게 편집 하기만 하면 되는 것을 알 수 있습니다. 
+조직에 가장 잘 맞는 Office 솔루션을 파악 하는 데 도움이 필요 하세요? 다음 표에서는 Office web feature 기능을 다양 한 기능의 Microsoft Office 데스크톱 앱과 비교 합니다. 표를 사용 하 여 웹에서 사용할 수 있는 기능을 찾은 다음 기능 이름을 선택 하 여 해당 기능의 작동 방식에 대 한 간략 한 설명을 읽습니다. 조직의 일부 사용자가 Excel 데스크톱 앱의 고급 차트 기능을 필요로 하는 반면, 다른 사용자가 웹의 Office에서 Word 문서 및 PowerPoint 프레젠테이션을 보고 가볍게 편집 하기만 하면 되는 것을 알 수 있습니다. 
   
 > [!NOTE]
 >  Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. 표는 Microsoft Office 기능의 전체 목록이 아닙니다. <br/>  Microsoft Microsoft 365 Apps for enterprise는 최신 Office 데스크톱 제품군의 월별 구독 제공입니다. <br/>  Office Professional Plus, Office Standard 또는 Microsoft 365 앱 for enterprise 라이선스와 같은 office 데스크톱 제품군 라이선스를 구매한 경우 microsoft Office Online Server 온-프레미스 고객은 웹 편집 라이선스로 Office를 받습니다. 
@@ -36,9 +36,8 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
   
 ### <a name="word"></a>Word
 
-||||
+| 응용 프로그램 기능 | 웹용 Word | Word 데스크톱 앱 |
 |:-----|:-----|:-----|
-|**응용 프로그램 기능** <br/> |**웹용 Word** <br/> |**Word 데스크톱 앱** <br/> |
 |[맞춤 안내서 및 라이브 레이아웃](word-online.md#alignment-guides-and-live-layout) <br/> |아니요  <br/> |예  <br/> |
 |[스타일 적용](word-online.md#apply-styles) <br/> |예  <br/> |예  <br/> |
 |[자동 저장](word-online.md#autosave) <br/> |예  <br/> |예  <br/> |
@@ -112,9 +111,8 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
   
 ### <a name="excel"></a>Excel
 
-||||
+| 응용 프로그램 기능 | 웹용 Excel | Excel 데스크톱 앱 |
 |:-----|:-----|:-----|
-|**응용 프로그램 기능** <br/> |**웹용 Excel** <br/> |**Excel 데스크톱 앱** <br/> |
 |[접근성 검사](excel-online.md#add-hyperlinks) <br/> |예  <br/> |예  <br/> |
 |[시트 탭에 배경색 추가](excel-online.md#add-background-color-to-sheet-tabs) <br/> |예  <br/> |예  <br/> |
 |[하이퍼링크 추가](excel-online.md#add-hyperlinks) <br/> |예  <br/> |예  <br/> |
@@ -197,9 +195,8 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
   
 ### <a name="onenote"></a>OneNote
 
-||||
+| 응용 프로그램 기능 | 웹용 OneNote | OneNote 데스크톱 앱 |
 |:-----|:-----|:-----|
-|**응용 프로그램 기능** <br/> |**웹용 OneNote** <br/> |**OneNote 데스크톱 앱** <br/> |
 |[고급 공동 작업: 새 콘텐츠를 읽지 않은 상태로 표시, 현재 상태](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |아니요  <br/> |예  <br/> |
 |[태그 적용](onenote-online.md#apply-tags) <br/> |예  <br/> |예  <br/> |
 |[글머리 기호 및 번호 매기기](onenote-online.md#bullets-and-numbering) <br/> |예  <br/> |예  <br/> |
@@ -219,7 +216,7 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
 |[잉크 입력: 잉크-텍스트 및 수학, 사용자 지정 가능한 펜, 그리기 도구](onenote-online.md#inking-ink-to-text-and-math-customizable-pens-drawing-tools) <br/> |아니요  <br/> |예  <br/> |
 |[잉크 보기](onenote-online.md#ink-viewing) <br/> |예  <br/> |예  <br/> |
 |[탐색](onenote-online.md#navigation) <br/> |예  <br/> |예  <br/> |
-|[전자 필기장 관리: 교차 섹션/전자 필기장 페이지 관리, 섹션 다시 정렬, 섹션 그룹 만들기/삭제](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |예<sup>1</sup> <br/> |예  <br/> |
+|[전자 필기장 관리: 교차 섹션/전자 필기장 페이지 파일링, 섹션 다시 정렬, 섹션 그룹 만들기/삭제](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |예<sup>1</sup> <br/> |예  <br/> |
 |[Office 추가 기능](onenote-online.md#office-add-ins) <br/> |예<sup>2</sup> <br/> |예  <br/> |
 |[Outlook 통합(작업)](onenote-online.md#outlook-integration-tasks) <br/> |아니요  <br/> |예  <br/> |
 |[단락 서식](onenote-online.md#paragraph-formatting) <br/> |예  <br/> |예  <br/> |
@@ -246,9 +243,8 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
   
 ### <a name="powerpoint"></a>PowerPoint
 
-||||
+| 응용 프로그램 기능 | 웹용 PowerPoint | PowerPoint 데스크톱 앱 |
 |:-----|:-----|:-----|
-|**응용 프로그램 기능** <br/> |**웹용 PowerPoint** <br/> |**PowerPoint 데스크톱 앱** <br/> |
 |[맞춤, 글머리 기호, 번호](powerpoint-online.md#alignment-bullets-numbers) <br/> |예  <br/> |예  <br/> |
 |[기본 전환 및 애니메이션 적용](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |예<sup>1</sup> <br/> |예  <br/> |
 |[텍스트, 도형 및 그림에 다양한 서식 적용](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |아니요  <br/> |예  <br/> |
@@ -302,9 +298,8 @@ Web for office (이전 Office Web Apps)에서는 웹 브라우저에서 Word, Ex
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>웹에서 지원 되는 Office 파일 형식
 
-||||
+| Word 2.0 이상에서 만들어진 Word 문서 | 보기 모드 | 편집 모드 |
 |:-----|:-----|:-----|
-|**Word 2.0 이상에서 만들어진 Word 문서** <br/> |**보기 모드** <br/> |**편집 모드** <br/> |
 |Open XML(.docx)  <br/> |예  <br/> |예  <br/> |
 |이진(.doc)  <br/> |예  <br/> |.docx로 변환  <br/> |
 |매크로(.docm)  <br/> |예<sup>1</sup> <br/> |예<sup>1</sup> <br/> |

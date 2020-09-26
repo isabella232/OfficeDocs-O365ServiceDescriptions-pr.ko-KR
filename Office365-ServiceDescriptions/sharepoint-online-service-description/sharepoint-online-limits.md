@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 및 독립 실행형 계획에 대 한 SharePoint 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: d01e2af69d566b0e44d515e762049acd3cfba864
-ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
+ms.openlocfilehash: 5563789395bbf1113e29fb368997aeba53119bc3
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "47962097"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276723"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -22,9 +22,8 @@ Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
   
 ## <a name="limits-by-plan"></a>요금제 별 제한 
 
-|||||
+| 기능 | Microsoft 365 Business Basic, Business Standard 또는 Business Premium | Microsoft 365 E3 또는 E5, Office 365 E1, E3, 또는 E5, 또는 SharePoint 계획 1 또는 2 | Microsoft 365 F1 또는 F3, Office 365 F3 |
 |:-----|:-----|:-----|:-----|
-|**기능** <br/> |**Microsoft 365 Business Basic, Business Standard 또는 Business Premium** <br/> |**Microsoft 365 E3 또는 E5, Office 365 Enterprise E1, E3 또는 E5, 또는 SharePoint 계획 1 또는 2** <br/> | **Microsoft 365 F1 또는 F3, Office 365 Enterprise F3** <br/> |
 |조직<sup>1, 2, 6</sup> 당 총 저장소 <br/> |1TB 및 구매한 라이선스 당 10gb<sup>3</sup>  <br/> |1TB 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |1TB<sup>3</sup> <br/> |
 |사이트당 최대 저장소 (사이트 모음)<sup>4</sup><br/> |25tb <br/> |25tb <br/> |25 TB<sup>5</sup> <br/> |
 |조직 당 사이트 (사이트 모음)  <br/> |200만<sup>6</sup> <br/> |200만<sup>6</sup> <br/> |200만<br/> |
@@ -34,7 +33,7 @@ Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
 <br/><sup>2</sup> 휴지통을 모니터링 하 고 정기적으로 비우는 것이 좋습니다. 사용 하는 저장소 공간은 조직의 총 저장 용량 한도의 일부입니다. 
 <br/> <sup>3</sup> Microsoft 365 구독 및 Office 365 추가 파일 저장소 추가 기능을 사용 하는 경우 저장소 금액이 추가 됩니다. 
 <br/> <sup>4</sup> 이 값은 각 사이트에 대해 *제공 되* 는 저장 용량에 해당 하지 않고 단일 사이트 (이전에는 "사이트 모음")에 대 한 저장소 *제한* 입니다. 이 제한은 Office 365 그룹에 연결 된 팀 사이트 및 OneDrive를 포함 하 여 모든 유형의 사이트에 적용 됩니다. SharePoint 관리자가 [더 낮은 저장 제한을 수동으로 설정할](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)수 있습니다. 
-<br/> <sup>5</sup> firstline Worker는 SharePoint 사이트를 관리할 수 없습니다. 
+<br/> <sup>5</sup> Firstline Worker는 SharePoint 사이트를 관리할 수 없습니다. 
 <br/> <sup>6</sup> 사용 허가 된 각 사용자에 대해 만들어진 OneDrive를 포함 하지 않습니다. 
 <br/> <sup>7</sup> 사용자가 50만 명 이상인 경우 Microsoft 담당자에 게 문의 하세요. 
   
@@ -51,7 +50,7 @@ Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
 
 허용 되는 제한은 5만 고유 고유한 항목 이지만 권장 되는 일반적인 제한은 5000입니다. 5000 개 보다 많은 고유한 항목을 한 번에 변경 하는 것이 더 오래 걸립니다. 큰 목록의 경우에는 가능한 한 한 가지 고유한 사용 권한을 갖도록 디자인 합니다.
 
-다른 제한은 고유 고유한 수 있는 항목 별로 5000 역할 할당입니다. 
+또 다른 제한은 고유-고유한 항목 별로 할당 되는 5000 역할입니다. 
 
 ### <a name="file-size-and-file-path-length"></a>파일 크기 및 파일 경로 길이
 
