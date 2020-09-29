@@ -1,5 +1,5 @@
 ---
-title: 관리 [EOP]
+title: Exchange Online Protection의 관리 및 관리
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,33 +10,33 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
-description: 이 섹션에서는 Microsoft EOP (Exchange Online Protection) 관리자가 사용할 수 있는 관리 인터페이스에 대해 설명 합니다.
-ms.openlocfilehash: 70c1978f78d61ff09acd3360ff874e38db80250c
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 이 문서에서는 Microsoft EOP (Exchange Online Protection) 관리자가 사용할 수 있는 관리 인터페이스에 대해 설명 합니다.
+ms.openlocfilehash: 6889998aaf71243a743e1ec0cf1787a9a2fdb624
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131544"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293614"
 ---
-# <a name="administration-and-managementeop"></a><span data-ttu-id="de91e-103">관리 [EOP]</span><span class="sxs-lookup"><span data-stu-id="de91e-103">Administration and management[EOP]</span></span>
+# <a name="administration-and-management-in-exchange-online-protection"></a><span data-ttu-id="f3540-103">Exchange Online Protection의 관리 및 관리</span><span class="sxs-lookup"><span data-stu-id="f3540-103">Administration and management in Exchange Online Protection</span></span>
 
-<span data-ttu-id="de91e-104">이 섹션에서는 Microsoft EOP (Exchange Online Protection) 관리자가 사용할 수 있는 관리 인터페이스에 대해 설명 합니다.</span><span class="sxs-lookup"><span data-stu-id="de91e-104">This section describes management interfaces that are available to Microsoft Exchange Online Protection (EOP) administrators.</span></span>
+<span data-ttu-id="f3540-104">이 문서에서는 Microsoft EOP (Exchange Online Protection) 관리자가 사용할 수 있는 관리 인터페이스에 대해 설명 합니다.</span><span class="sxs-lookup"><span data-stu-id="f3540-104">This article describes management interfaces that are available to Microsoft Exchange Online Protection (EOP) administrators.</span></span>
   
-<span data-ttu-id="de91e-105">모든 EOP 기능에 대 한 정보를 찾으십니까?</span><span class="sxs-lookup"><span data-stu-id="de91e-105">Looking for information about all EOP features?</span></span> <span data-ttu-id="de91e-106">[Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="de91e-106">See the [Exchange Online Protection service description](exchange-online-protection-service-description.md).</span></span>
+<span data-ttu-id="f3540-105">모든 EOP 기능에 대 한 정보를 찾으십니까?</span><span class="sxs-lookup"><span data-stu-id="f3540-105">Looking for information about all EOP features?</span></span> <span data-ttu-id="f3540-106">[Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="f3540-106">See the [Exchange Online Protection service description](exchange-online-protection-service-description.md).</span></span>
   
-## <a name="access-to-the-microsoft-365-admin-center"></a><span data-ttu-id="de91e-107">Microsoft 365 관리 센터에 대 한 액세스 권한</span><span class="sxs-lookup"><span data-stu-id="de91e-107">Access to the Microsoft 365 admin center</span></span>
+## <a name="access-to-the-microsoft-365-admin-center"></a><span data-ttu-id="f3540-107">Microsoft 365 관리 센터에 대 한 액세스 권한</span><span class="sxs-lookup"><span data-stu-id="f3540-107">Access to the Microsoft 365 admin center</span></span>
 
-<span data-ttu-id="de91e-108">Microsoft 365 관리 센터는 각 회사의 서비스 관리자가 구독 하는 각 Microsoft 서비스에 대 한 사용자 계정 및 설정을 관리할 수 있는 웹 포털입니다.</span><span class="sxs-lookup"><span data-stu-id="de91e-108">The Microsoft 365 admin center is the web portal from which each company's service administrator can manage user accounts and settings for each of the Microsoft services to which they subscribe.</span></span> <span data-ttu-id="de91e-109">Microsoft 365 관리 센터 내에서 관리자는 EAC에 대 한 링크를 팔 로우 하 여 EOP 관련 설정을 관리할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="de91e-109">From within the Microsoft 365 admin center, administrators can follow links to the EAC, where they can manage settings specific to EOP.</span></span>
+<span data-ttu-id="f3540-108">Microsoft 365 관리 센터는 각 회사의 서비스 관리자가 구독 하는 각 Microsoft 서비스에 대 한 사용자 계정 및 설정을 관리할 수 있는 웹 포털입니다.</span><span class="sxs-lookup"><span data-stu-id="f3540-108">The Microsoft 365 admin center is the web portal from which each company's service administrator can manage user accounts and settings for each of the Microsoft services to which they subscribe.</span></span> <span data-ttu-id="f3540-109">Microsoft 365 관리 센터 내에서 관리자는 EAC에 대 한 링크를 팔 로우 하 여 EOP 관련 설정을 관리할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f3540-109">From within the Microsoft 365 admin center, administrators can follow links to the EAC, where they can manage settings specific to EOP.</span></span>
   
-## <a name="access-to-the-exchange-admin-center"></a><span data-ttu-id="de91e-110">Exchange 관리 센터 액세스</span><span class="sxs-lookup"><span data-stu-id="de91e-110">Access to the Exchange admin center</span></span>
+## <a name="access-to-the-exchange-admin-center"></a><span data-ttu-id="f3540-110">Exchange 관리 센터 액세스</span><span class="sxs-lookup"><span data-stu-id="f3540-110">Access to the Exchange admin center</span></span>
 
-<span data-ttu-id="de91e-111">EAC(Exchange 관리 센터)는 쉽게 사용할 수 있는 단일 통합형 관리 콘솔로, 모든 유형의 배포에 최적화되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="de91e-111">The Exchange admin center (EAC) is a single unified management console that allows for ease of use and is optimized for all types of deployments.</span></span> <span data-ttu-id="de91e-112">새롭게 개선된 EAC는 Forefront Online Protection for Exchange 관리 센터를 대체합니다.</span><span class="sxs-lookup"><span data-stu-id="de91e-112">The new and improved EAC replaces the Forefront Online Protection for Exchange Administration Center.</span></span> <span data-ttu-id="de91e-113">EAC는 Exchange 제품 (Microsoft Exchange Online 및 Microsoft Exchange Server 2013)에서 Microsoft 365와 일관 되 고 원활한 UI 환경에 대 한 통합을 보다 강력 하 게 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="de91e-113">EAC provides a tighter integration with Microsoft 365 and a consistent, seamless UI experience across Exchange products (Microsoft Exchange Online and Microsoft Exchange Server 2013).</span></span> <span data-ttu-id="de91e-114">EAC에 대한 자세한 내용은 [Exchange Online Protection의 Exchange 관리 센터](https://go.microsoft.com/fwlink/p/?LinkId=282381)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="de91e-114">For more information about the EAC, see [Exchange Admin Center in Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=282381).</span></span>
+<span data-ttu-id="f3540-111">EAC(Exchange 관리 센터)는 쉽게 사용할 수 있는 단일 통합형 관리 콘솔로, 모든 유형의 배포에 최적화되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f3540-111">The Exchange admin center (EAC) is a single unified management console that allows for ease of use and is optimized for all types of deployments.</span></span> <span data-ttu-id="f3540-112">새롭게 개선된 EAC는 Forefront Online Protection for Exchange 관리 센터를 대체합니다.</span><span class="sxs-lookup"><span data-stu-id="f3540-112">The new and improved EAC replaces the Forefront Online Protection for Exchange Administration Center.</span></span> <span data-ttu-id="f3540-113">EAC는 Exchange 제품 (Microsoft Exchange Online 및 Microsoft Exchange Server 2013)에서 Microsoft 365와 일관 되 고 원활한 UI 환경에 대 한 통합을 보다 강력 하 게 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="f3540-113">EAC provides a tighter integration with Microsoft 365 and a consistent, seamless UI experience across Exchange products (Microsoft Exchange Online and Microsoft Exchange Server 2013).</span></span> <span data-ttu-id="f3540-114">EAC에 대한 자세한 내용은 [Exchange Online Protection의 Exchange 관리 센터](https://go.microsoft.com/fwlink/p/?LinkId=282381)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="f3540-114">For more information about the EAC, see [Exchange Admin Center in Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=282381).</span></span>
   
-## <a name="remote-windows-powershell-access"></a><span data-ttu-id="de91e-115">원격 Windows PowerShell 액세스</span><span class="sxs-lookup"><span data-stu-id="de91e-115">Remote Windows PowerShell access</span></span>
+## <a name="remote-windows-powershell-access"></a><span data-ttu-id="f3540-115">원격 Windows PowerShell 액세스</span><span class="sxs-lookup"><span data-stu-id="f3540-115">Remote Windows PowerShell access</span></span>
 
- <span data-ttu-id="de91e-p104">관리자는 원격 Windows PowerShell을 사용하여 명령줄에서 관리 작업을 수행할 수 있습니다. 원격 Shell 세션 만들기와 각 cmdlet 설명서 관련 정보 등 Windows PowerShell의 사용 방법에 대한 자세한 내용은 [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="de91e-p104">Administrators can use Remote Windows PowerShell to perform management tasks from the command line. For more information about how to use Windows PowerShell, including information about creating a remote Shell session and documentation about each cmdlet, see [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266).</span></span>
+ <span data-ttu-id="f3540-p104">관리자는 원격 Windows PowerShell을 사용하여 명령줄에서 관리 작업을 수행할 수 있습니다. 원격 Shell 세션 만들기와 각 cmdlet 설명서 관련 정보 등 Windows PowerShell의 사용 방법에 대한 자세한 내용은 [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="f3540-p104">Administrators can use Remote Windows PowerShell to perform management tasks from the command line. For more information about how to use Windows PowerShell, including information about creating a remote Shell session and documentation about each cmdlet, see [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266).</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="de91e-118">기능 가용성</span><span class="sxs-lookup"><span data-stu-id="de91e-118">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="f3540-118">기능 가용성</span><span class="sxs-lookup"><span data-stu-id="f3540-118">Feature availability</span></span>
 
-<span data-ttu-id="de91e-119">계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="de91e-119">To view feature availability across plans, standalone options, and on-premises solutions, see [Exchange Online Protection service description](exchange-online-protection-service-description.md).</span></span>
+<span data-ttu-id="f3540-119">계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="f3540-119">To view feature availability across plans, standalone options, and on-premises solutions, see [Exchange Online Protection service description](exchange-online-protection-service-description.md).</span></span>
   
