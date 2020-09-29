@@ -1,5 +1,5 @@
 ---
-title: 메시징 정책 및 규정 준수
+title: Exchange Online Protection의 메시징 정책 및 규정 준수
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,15 +10,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: Microsoft EOP (Exchange Online Protection)에서는 전자 메일 데이터를 관리 하는 데 사용할 수 있는 메시징 정책 및 규정 준수 기능을 제공 합니다.
-ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 이 문서를 읽으면 Microsoft Exchange Online Protection (EOP)의 메시징 정책 및 규정 준수 기능에 대 한 자세한 내용을 확인할 수 있습니다.
+ms.openlocfilehash: 0609c1fe48404035907096eb047e3947a1bf7ace
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132792"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293804"
 ---
-# <a name="messaging-policy-and-compliance"></a>메시징 정책 및 규정 준수
+# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Exchange Online Protection의 메시징 정책 및 규정 준수
 
 Microsoft EOP (Exchange Online Protection)에서는 전자 메일 데이터를 관리 하는 데 사용할 수 있는 메시징 정책 및 규정 준수 기능을 제공 합니다.
 
@@ -65,11 +65,11 @@ Office 365 메시지 암호화는 Azure Information Protection의 일부로, 전
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>EOP 옵션별 메시징 정책 및 규정 준수 기능
 
-|**기능**|**EOP 독립 실행형**|**Exchange Online의 EOP 기능 <br/>**|**Exchange Enterprise <br/> CAL (서비스 포함)**|
+| 기능 | EOP 독립 실행형 | EOP 기능 <br/> Exchange Online | Exchange Enterprise <br/> 서비스가 포함 된 CAL |
 |:-----|:-----|:-----|:-----|
 |메일 흐름 규칙|예<sup>1</sup>|예<sup>1</sup>|예<sup>1, 3</sup>|
 |감사 로깅|예<sup>2</sup>|예|예|
-|DLP(데이터 손실 방지)|아니요|있음|예<sup>3</sup>|
+|DLP(데이터 손실 방지)|아니요|예|예<sup>3</sup>|
 |Office 365 메시지 암호화|예<sup>4</sup>|예|예<sup>4</sup>|
 
 > [!NOTE]

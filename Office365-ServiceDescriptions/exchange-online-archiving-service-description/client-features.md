@@ -10,13 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Microsoft Exchange Online 보관을 통해 사용자는 다양 한 장치 및 플랫폼에서 보관 사서함에 연결할 수 있습니다. 사용자의 보관 사서함에 대 한 모든 네트워크 연결은 인터넷을 통해 수행 되며 VPN (가상 사설망) 연결은 필요 하지 않습니다. 조직은 사용자가 VPN 연결을 사용하지 않고도 외부에서 Outlook 사용 를 통해 기본 사서함에 액세스할 수 있도록 온-프레미스 클라이언트 액세스 서버를 게시할 수 있습니다. 온-프레미스 서버에 있는 사용자의 기본 사서함에 액세스하기 위해 VPN 액세스가 필요한 경우에도 이 요구 사항은 변경되지 않습니다.
-ms.openlocfilehash: 6f29f434f5b6515460ee526450fba4a50bb6c191
-ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
+description: 이 문서를 읽으면 Microsoft Exchange Online 보관에서 사용할 수 있는 클라이언트 기능에 대 한 정보를 확인할 수 있습니다.
+ms.openlocfilehash: 54f066562b08eeeed90b8c9b465c4740bcc3f0df
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "47255905"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293644"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online 보관의 클라이언트 기능
 
@@ -29,8 +29,8 @@ Microsoft Exchange Online 보관을 통해 사용자는 다양 한 장치 및 �
 
 Microsoft Outlook은 일정, 연락처 및 작업을 지원하는 기능이 포함된 유용한 전자 메일 프로그램입니다. Exchange Online Archiving에서는 Outlook 2013, Outlook 2010 및 Outlook 2007을 지원합니다. 주요 기능은 다음과 같습니다.
   
-- **외부에서 Outlook** 사용 Outlook Anywhere를 사용 하면 Outlook 사용자가 VPN 연결을 사용 하지 않아도 인터넷을 통해 Exchange 서버 및 Exchange Online 보관에 연결할 수 있습니다. Outlook과 Exchange Online Archiving 간의 통신은 RPC-over-HTTP Windows 네트워킹 구성 요소를 사용하여 SSL 보안 터널을 통해 수행됩니다.    
-- **자동 검색** Exchange 자동 검색 서비스는 Exchange Online 보관용으로 작동 하도록 Outlook을 구성 합니다. 자동 검색을 사용 하면 Outlook 사용자가 전자 메일 주소 및 암호를 사용 하 여 로그인 하는 처음으로 Exchange에서 직접 필요한 프로필 설정을 받을 수 있습니다. 
+- Outlook **anywhere** -outlook anywhere를 사용 하면 outlook 사용자가 VPN 연결 없이도 인터넷을 통해 exchange Server 및 Exchange Online 보관에 연결할 수 있습니다. Outlook과 Exchange Online Archiving 간의 통신은 RPC-over-HTTP Windows 네트워킹 구성 요소를 사용하여 SSL 보안 터널을 통해 수행됩니다.    
+- **자동 검색** -Exchange 자동 검색 서비스는 Exchange Online 보관용으로 작동 하도록 Outlook을 구성 합니다. 자동 검색을 사용 하면 Outlook 사용자가 전자 메일 주소 및 암호를 사용 하 여 로그인 하는 처음으로 Exchange에서 직접 필요한 프로필 설정을 받을 수 있습니다. 
 
 Outlook 2010 이상 및 웹용 Outlook에서는 보존 및 보관 정책과 같은 관련 기능 뿐 아니라 보관 함의 모든 기능을 사용자에 게 제공 합니다.
   
@@ -41,9 +41,9 @@ Outlook 2007은 보관 사서함을 기본적으로 지원하지만 일부 보�
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Exchange Online Archiving에서 지원하는 클라이언트
 
-아래 표에는 Exchange Online Archiving에서 지원하는 클라이언트가 나와 있습니다.
+아래 표에는 Exchange Online Archiving에서 지원하는 클라이언트가 나와 있습니다.<br><br>
   
-|**클라이언트**|**EOA 지원**|
+| 클라이언트 | EOA 지원 |
 |:-----|:-----|
 |Outlook 2013 이상  <br/> |Exchange Online Archiving의 최신 기능 지원<sup>1</sup> <br/> |
 |Outlook 2010  <br/> |Exchange Online 보관의 최신 기능은 2020 년 12 월 13 일까 지 지원|

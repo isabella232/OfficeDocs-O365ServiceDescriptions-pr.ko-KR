@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: Web for PowerPoint (이전의 PowerPoint Web App)에서는 프레젠테이션이 저장 된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있는 Microsoft PowerPoint 환경을 웹 브라우저로 확장 합니다. Microsoft 365 web for Office를 사용 하는 고객은 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: 50be528559234a5d386dcd8fbfb1805961494432
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e7925e85feeb611895e5481f1d6b81917a1cfbd2
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131322"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294086"
 ---
 # <a name="powerpoint-for-the-web"></a>웹용 PowerPoint
 
@@ -28,7 +28,7 @@ PowerPoint 편집기는 사용자가 충실도를 잃지 않고 문서 작업을
   
 웹 도구 모음의 PowerPoint에서 **powerpoint에서 열기** 단추를 선택 하면 프레젠테이션이 powerpoint 데스크톱 앱에서 열립니다 (Microsoft powerpoint 2010 이상이 컴퓨터에 설치 되어 있는 경우).
   
-[PC에서 비즈니스용 Microsoft 365을 사용 하 여 Office를 다운로드 하 고 설치](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c)하는 방법에 대해 알아봅니다.
+[PC에서 비즈니스용 Microsoft 365을 사용 하 여 Office를 다운로드 하 고 설치](https://support.office.com/article/72977511-dfd1-4d8b-856f-405cfb76839c)하는 방법에 대해 알아봅니다.
   
 ## <a name="alignment-bullets-numbers"></a>맞춤, 글머리 기호, 번호
 

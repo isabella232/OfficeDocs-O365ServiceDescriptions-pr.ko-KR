@@ -10,12 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 5565085472d43230f9059e1dcac115105a2e20d5
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Exchange Online의 메시지 정책 및 규정 준수에 대해 알아봅니다.
+ms.openlocfilehash: d723d686e3e939753e8007d41b0fdaf0d0363524
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132702"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293834"
 ---
 # <a name="message-policy-and-compliance"></a>메시지 정책 및 규정 준수
 
@@ -44,7 +45,7 @@ Exchange Online은 사용자가 오래된 전자 메일 메시지를 저장할 �
 > [!IMPORTANT]
 > - 보관 목적으로 Exchange Online 사서함에 메시지를 복사하는 저널링, 전송 규칙 또는 자동 전달 규칙을 사용하는 것은 허용되지 않습니다. Microsoft는 개인 시나리오에서 또는 부적절 하 게 사용 되는 다른 경우에 사서함 보관이 사용 되지 않는 인스턴스에서 무제한 보관을 거부할 권한을 보유 합니다.
 > - Outlook 사용자의 경우 원본 위치 보관에 특정 라이선스 요구 사항이 적용됩니다. Outlook 2007 사용자의 경우 개인 보관 파일에 액세스하려면 2011년 2월 Office 2007 누적 업데이트가 필요합니다. 
-> - Exchange Online에서는 관리자가 .pst 파일을 개인 보관 함으로 가져올 때 Exchange Server 2010 서비스 팩 1 이상 버전의 _새로운 New-mailboximportrequest_ Windows PowerShell cmdlet을 지원 하지 않습니다. 사용자의 기본 사서함과 보관 사서함 모두가 Exchange Online에 있으면 관리자는 무료 도구인 PST Capture를 사용하여 사용자의 기본 사서함이나 보관 사서함으로 .pst 파일 데이터를 가져올 수 있습니다.
+> - Exchange Online에서는 관리자가 .pst 파일을 개인 보관 함으로 가져올 때 Exchange Server 2010 서비스 팩 1 이상 버전의  _새로운 New-mailboximportrequest_ Windows PowerShell cmdlet을 지원 하지 않습니다. 사용자의 기본 사서함과 보관 사서함 모두가 Exchange Online에 있으면 관리자는 무료 도구인 PST Capture를 사용하여 사용자의 기본 사서함이나 보관 사서함으로 .pst 파일 데이터를 가져올 수 있습니다.
 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>온-프레미스 사서함의 클라우드 기반 보관
 
@@ -72,7 +73,7 @@ Exchange Server 2007에서 제공했던 기존의 메시징 레코드 관리 접
   
 ## <a name="encryption-of-data-at-rest"></a>보관된 데이터 암호화
 
-Exchange Online, 비즈니스용 Skype, 비즈니스용 OneDrive 및 SharePoint Online의 BitLocker, DKM, Azure Storage Service 암호화 및 서비스 암호화를 비롯 한 여러 서비스 쪽 기술에 따라 나머지 고객 데이터 암호화가 제공 됩니다. Office 365 서비스 암호화에는 Azure 키 자격 증명 모음에 저장 되는 고객 관리 암호화 키를 사용 하기 위한 옵션이 포함 됩니다. [고객 키](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697)라고 하는이 고객 관리 키 옵션은 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 사용할 수 있습니다. 
+Exchange Online, 비즈니스용 Skype, 비즈니스용 OneDrive 및 SharePoint Online의 BitLocker, DKM, Azure Storage Service 암호화 및 서비스 암호화를 비롯 한 여러 서비스 쪽 기술에 따라 나머지 고객 데이터 암호화가 제공 됩니다. Office 365 서비스 암호화에는 Azure 키 자격 증명 모음에 저장 되는 고객 관리 암호화 키를 사용 하기 위한 옵션이 포함 됩니다. [고객 키](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)라고 하는이 고객 관리 키 옵션은 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 사용할 수 있습니다. 
   
 ### <a name="bitlocker"></a>BitLocker
 
@@ -96,7 +97,7 @@ Office 365 고급 메시지 암호화는 메시지 만료 및 해지를 허용 �
 
 S/MIME을 사용하면 조직 내에서 서명 및 암호화된 전자 메일을 보내 중요한 정보를 보호할 수 있습니다. 관리자는 PKI 인증서를 설정하고 사용자에게 발급한 후 원격 Windows PowerShell을 사용하여 S/MIME을 설정할 수 있습니다. 이러한 인증서는 온-프레미스 Active Directory 인증서 서비스에서 동기화해야 합니다. S/MIME을 사용하면 조직 내에서 서명 및 암호화된 전자 메일을 보내 중요한 정보를 보호할 수 있습니다. 관리자는 PKI 인증서를 설정하고 사용자에게 발급한 후 원격 Windows PowerShell을 사용하여 S/MIME을 설정할 수 있습니다.
   
-S/MIME은 Microsoft Edge 및 Internet Explorer 11에서 지원 됩니다. 현재 Firefox, Opera 및 Chrome에서는 S/MIME이 지원 되지 않습니다. 자세한 내용은 [S/MIME for Message Signing and Encryption](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019)을 참조하십시오.
+S/MIME은 Microsoft Edge 및 Internet Explorer 11에서 지원 됩니다. 현재 Firefox, Opera 및 Chrome에서는 S/MIME이 지원 되지 않습니다. 자세한 내용은 [S/MIME for Message Signing and Encryption](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019&preserve-view=true)을 참조하십시오.
   
 ## <a name="in-place-hold-and-litigation-hold"></a>원본 위치 유지 및 소송 보존
 
@@ -170,7 +171,7 @@ Exchange Online에서 권한 있는 사용자는 원본 위치 eDiscovery를 수
 > [!IMPORTANT]
 > 전자 메일 서버에 타사 Ifilter를 설치 해야 하는 첨부 파일 형식 (예: Adobe .pdf)은 적절 한 iFilter가 설치 될 때까지 메일 흐름 규칙을 사용 하 여 검사할 수 없습니다. 메일 흐름 규칙에서 지원 되는 파일 형식에 대 한 자세한 내용은 [메일 흐름 규칙을 사용 하 여 Office 365에서 메시지 첨부 파일 검사를](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments)참조 하십시오.
   
-메일 흐름 규칙에 대 한 자세한 내용은 [Exchange 2016의 메일 흐름 규칙](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019)을 참조 하십시오.
+메일 흐름 규칙에 대 한 자세한 내용은 [Exchange 2016의 메일 흐름 규칙](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019&preserve-view=true)을 참조 하십시오.
   
 ## <a name="data-loss-prevention"></a>데이터 손실 방지
 

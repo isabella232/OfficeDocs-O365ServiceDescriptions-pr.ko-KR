@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft는 사용자를 만들고 관리 하 고 인증 하기 위해 다음과 같은 방법을 지원 합니다.
-ms.openlocfilehash: 967d60becc99d55cd188b4623e936b37cb04f7c7
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 56bc8c2e89df4540ec5a74edf76216a4401d6666
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261550"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294214"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -33,7 +33,7 @@ Microsoft는 사용자를 만들고 관리 하 고 인증 하기 위해 다음�
 
 도움말 보기: [signing in](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [office 설치 또는 제거](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)에서 로그인  |  [office 365을 취소](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a) 합니다.
   
-기타 문제점은 [Microsoft 지원 센터](https://support.microsoft.com/contactus/)를 참조 하세요. 중국의 21Vianet에서 운영하는 Office 365에 대한 지원을 받으려면 [21Vianet 지원팀](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)에 문의하세요. Office 365 Germany에 대해서는 [Office 365 Germany 지원팀](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)에 문의하세요. 
+기타 문제점은 [Microsoft 지원 센터](https://support.microsoft.com/contactus/)를 참조 하세요. 중국의 21Vianet에서 운영하는 Office 365에 대한 지원을 받으려면 [21Vianet 지원팀](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)에 문의하세요. Office 365 Germany에 대해서는 [Office 365 Germany 지원팀](https://support.office.com/article/83ef2266-2543-48d7-a41a-1b56b403a8e9)에 문의하세요. 
   
 ## <a name="sign-in-options"></a>로그인 옵션
 
@@ -87,7 +87,7 @@ Microsoft Office 데스크톱 응용 프로그램과 같은 리치 클라이언�
     
 - **Ssl을 통한 기본/프록시 인증** -Outlook 클라이언트는 ssl을 통해 기본 인증 자격 증명을 Exchange Online으로 전달 합니다. Exchange Online에서는 인증 요청을 id 플랫폼에 프록시 한 다음, SSO 용 온-프레미스 Active Directory 페더레이션 서버에 연결 합니다. 
     
-Microsoft 서비스의 올바른 검색 및 인증을 위해 관리자는 리치 클라이언트 (예: Microsoft Office 2010)를 사용 하는 각 워크스테이션에 구성 요소와 업데이트를 적용 하 고 Office 365에 연결 해야 합니다. 데스크톱 설정은 필요한 업데이트를 사용 하 여 워크스테이션을 구성 하는 자동화 된 도구입니다. 자세한 내용은 [현재 Office 데스크톱 앱 사용](https://support.office.com/article/set-up-office-2010-desktop-programs-to-work-with-office-365-for-business-3324b8b8-dceb-45e2-ac24-c642720108f7?ocmsassetID=HA102817827&CorrelationId=8eb1b198-827a-4999-a584-05a05a92d224&ui=en-US&rs=en-US&ad=US)을 참조 하세요.
+Microsoft 서비스의 올바른 검색 및 인증을 위해 관리자는 리치 클라이언트 (예: Microsoft Office 2010)를 사용 하는 각 워크스테이션에 구성 요소와 업데이트를 적용 하 고 Office 365에 연결 해야 합니다. 데스크톱 설정은 필요한 업데이트를 사용 하 여 워크스테이션을 구성 하는 자동화 된 도구입니다. 자세한 내용은 [현재 Office 데스크톱 앱 사용](https://support.office.com/article/3324b8b8-dceb-45e2-ac24-c642720108f7)을 참조 하세요.
   
 ### <a name="sign-in-experience"></a>로그인 환경
 
@@ -114,7 +114,7 @@ Microsoft 서비스의 올바른 검색 및 인증을 위해 관리자는 리치
   
 ## <a name="create-user-accounts"></a>Create user accounts
 
-사용자를 추가 하는 방법에는 여러 가지가 있습니다. 자세한 내용은 [사용자를 개별적으로 또는 대량 관리 도움말에서 추가](https://docs.microsoft.com/office365/admin/add-users/add-users) [, Microsoft 365 관리 센터 미리 보기에서 사용자 추가, 제거 및 관리](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US)를 참조 하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 사용자 계정 만들기 또는 편집 - 관리자 도움말](https://docs.microsoft.com/office365/admin/add-users/add-users)을 참조하세요.
+사용자를 추가 하는 방법에는 여러 가지가 있습니다. 자세한 내용은 [사용자를 개별적으로 또는 대량 관리 도움말에서 추가](https://docs.microsoft.com/office365/admin/add-users/add-users) [, Microsoft 365 관리 센터 미리 보기에서 사용자 추가, 제거 및 관리](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3)를 참조 하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 사용자 계정 만들기 또는 편집 - 관리자 도움말](https://docs.microsoft.com/office365/admin/add-users/add-users)을 참조하세요.
   
 ## <a name="delete-user-accounts"></a>사용자 계정 삭제
 
@@ -181,7 +181,7 @@ SharePoint Online에서는 사이트 액세스 제어를 위해 보안 그룹을
   
 ## <a name="azure-active-directory-services"></a>Azure Active Directory 서비스
 
-Azure AD(Active Directory)는 Office 365에 포괄적인 ID 및 액세스 관리 기능을 제공합니다. 또한 디렉터리 서비스, 고급 ID 거버넌스, 응용 프로그램 액세스 관리 및 개발자를 위한 풍부한 표준 기반 플랫을 결합합니다. Office 365의 AD 기능에 대한 자세한 내용은 [로그인 페이지 브랜딩 및 클라우드 사용자 셀프 서비스 암호 재설정](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/)을 참조하세요. [Azure Active Directory Free, Basic 및 Premium 버전](https://msdn.microsoft.com/library/azure/dn532272.aspx)에 대해 자세히 알아보세요. 
+Azure AD(Active Directory)는 Office 365에 포괄적인 ID 및 액세스 관리 기능을 제공합니다. 또한 디렉터리 서비스, 고급 ID 거버넌스, 응용 프로그램 액세스 관리 및 개발자를 위한 풍부한 표준 기반 플랫을 결합합니다. Office 365의 AD 기능에 대 한 자세한 내용은 [로그인 페이지 브랜딩 및 클라우드 사용자 셀프 서비스 암호 재설정]()을 참조 하세요 https://go.microsoft.com/fwlink/?linkid=2144147 . [Azure Active Directory Free, Basic 및 Premium 버전](https://msdn.microsoft.com/library/azure/dn532272.aspx)에 대해 자세히 알아보세요. 
   
 ## <a name="feature-availability"></a>기능 가용성
 

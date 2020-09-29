@@ -1,5 +1,5 @@
 ---
-title: 관리 [EOP]
+title: Exchange Online Protection의 관리 및 관리
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
-description: 이 섹션에서는 Microsoft EOP (Exchange Online Protection) 관리자가 사용할 수 있는 관리 인터페이스에 대해 설명 합니다.
-ms.openlocfilehash: 70c1978f78d61ff09acd3360ff874e38db80250c
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 이 문서에서는 Microsoft EOP (Exchange Online Protection) 관리자가 사용할 수 있는 관리 인터페이스에 대해 설명 합니다.
+ms.openlocfilehash: 6889998aaf71243a743e1ec0cf1787a9a2fdb624
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131544"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293614"
 ---
-# <a name="administration-and-managementeop"></a>관리 [EOP]
+# <a name="administration-and-management-in-exchange-online-protection"></a>Exchange Online Protection의 관리 및 관리
 
-이 섹션에서는 Microsoft EOP (Exchange Online Protection) 관리자가 사용할 수 있는 관리 인터페이스에 대해 설명 합니다.
+이 문서에서는 Microsoft EOP (Exchange Online Protection) 관리자가 사용할 수 있는 관리 인터페이스에 대해 설명 합니다.
   
 모든 EOP 기능에 대 한 정보를 찾으십니까? [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.
   

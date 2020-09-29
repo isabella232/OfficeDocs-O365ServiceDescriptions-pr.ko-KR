@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 Microsoft 365 정부-GCC 사용이 이러한 요구 사항을 충족 하는 데 적합 한 미국 연방, 주, 로컬, 부족 또는 territorial 정부 기관 또는 기타 기관에서 Office 365의 배포를 추진 하는 IT 전문가를 위한 것입니다.
-ms.openlocfilehash: af09151b0ab1060c5a00c60d0b05bbd69c3300c0
-ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
+ms.openlocfilehash: 564c8c55b1659d80ffa18802e623634088740ba5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "47962137"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293874"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Microsoft 365 준수 계획 – GCC
 
@@ -62,9 +62,9 @@ Office 365의 기능과 기능을 함께 사용 하는 것 외에도, 조직은 
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>4단계. Microsoft 365 정부-GCC<sup>1</sup> 에서 현재 어떤 기능을 사용할 수 없거나 기본적으로 사용 하지 않도록 설정 되어 있는지 이해 합니다.
 
-정부 클라우드 고객의 요구 사항을 충족 하기 위해 Microsoft 365 정부-GCC와 기업 계획 간에는 약간의 차이가 있습니다. 사용 가능한 기능을 확인 하려면 다음 표를 참조 하세요.
+정부 클라우드 고객의 요구 사항을 충족 하기 위해 Microsoft 365 정부-GCC와 기업 계획 간에는 약간의 차이가 있습니다. 사용 가능한 기능을 확인 하려면 다음 표를 참조 하세요.<br><br>
 
-|                                         | **기능**                                     | **GCC 상태**         |
+| 영역 | 기능 | GCC 상태 |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **정보 보호**              | 통합 레이블 및 민감도 레이블         | 사용할 수 있음              |
 |                                         | Sharepoint Online, Office 그룹의 컨테이너 레이블          | 배포 중              |
@@ -106,7 +106,7 @@ Office 365의 기능과 기능을 함께 사용 하는 것 외에도, 조직은 
 |                                         | 레이블 활동 탐색기 | 엔지니어링 백로그 |
 |                                         | 교육 가능한 분류자 | 엔지니어링 백로그 |
 |                                         | 통합 레이블 및 민감도 레이블         | 엔지니어링 백로그 |
-| **내부자 위험 관리**             | 고객 Lockbox                                | 사용할 수 있음            |
+| **참가자 위험 관리**             | 고객 Lockbox                                | 사용할 수 있음            |
 |                                         | 팀, SharePoint 사이트, 전자 메일 메시지에 대 한 Office 지표                         | 배포 중 |
 |                                         | Departing 사용자의 데이터 도난                        | 배포 중 |
 |                                         | 일반 데이터 누수                                | 배포 중              |

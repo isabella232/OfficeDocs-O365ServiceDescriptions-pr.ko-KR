@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: fc3385774a01e76b7297aa77a490acf6153b555c
-ms.sourcegitcommit: 57f06932a94f09990c0e02a2da491923ca2c1a2f
+ms.openlocfilehash: b7a1793b049b1e38bc7821c94befd1eab5d7eb55
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48284990"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294164"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -315,11 +315,11 @@ Microsoft 파트너 중 하나에서 제공 하는 M365 보안 & 준수 센터�
 
 ## <a name="microsoft-graph-apis-for-teams-dlp"></a>팀 DLP 용 Microsoft Graph Api
 
-올해 [에는 팀의 메시지에 대 한 Microsoft Graph 변경 알림 API의 공개 미리 보기가 발표](https://developer.microsoft.com/en-us/graph/blogs/announcing-change-notifications-for-microsoft-teams-messages)되었습니다. 개발자는이 API를 사용 하 여 실시간으로 Microsoft 팀원에 게 메시지를 들을 수 있는 앱을 작성 하 고 고객 및 Isv 모두에 대해 DLP 시나리오 구현을 사용 하도록 설정 합니다. 또한 Microsoft Graph 패치 API를 사용 하 여 팀 메시지에 DLP 작업을 적용할 수 있습니다.
+올해 [에는 팀의 메시지에 대 한 Microsoft Graph 변경 알림 API의 공개 미리 보기가 발표](https://go.microsoft.com/fwlink/?linkid=2143888)되었습니다. 개발자는이 API를 사용 하 여 실시간으로 Microsoft 팀원에 게 메시지를 들을 수 있는 앱을 작성 하 고 고객 및 Isv 모두에 대해 DLP 시나리오 구현을 사용 하도록 설정 합니다. 또한 Microsoft Graph 패치 API를 사용 하 여 팀 메시지에 DLP 작업을 적용할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-Microsoft 팀에서는 조직이 원격 작업으로 이동 했을 때 [DLP (데이터 손실 방지)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams?view=o365-worldwide) 기능을 광범위 하 게 사용 합니다. 조직에 DLP가 있는 경우에는 사용자가 Microsoft 팀 채널 또는 채팅 세션에서 중요 한 정보를 공유 하지 못하도록 하는 정책을 정의할 수 있습니다.
+Microsoft 팀에서는 조직이 원격 작업으로 이동 했을 때 [DLP (데이터 손실 방지)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) 기능을 광범위 하 게 사용 합니다. 조직에 DLP가 있는 경우에는 사용자가 Microsoft 팀 채널 또는 채팅 세션에서 중요 한 정보를 공유 하지 못하도록 하는 정책을 정의할 수 있습니다.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
@@ -489,7 +489,7 @@ Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365, 정보 보호 및 관리 �
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예를 들면 다음과 같습니다.<br><br>
+사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예제:<br><br>
 
 | 시나리오 | 라이선스가 필요한 사용자 |
 |:------|:------|:------|

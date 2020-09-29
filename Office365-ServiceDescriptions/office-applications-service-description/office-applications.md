@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office는 자신이 가지고 있는 최고의 아이디어를 표현하고, 업무를 신속하게 처리하며 이동 중에도 사용할 수 있는 강력한 서비스입니다. Office에 로그인하기만 하면 자신에게 맞게 설정된 작업 환경을 경험하고, 신규 기능과 향상된 기능이 지속적으로 추가되는 모든 최신 Office 응용 프로그램을 사용해 볼 수 있습니다.
-ms.openlocfilehash: 3ca3f34f9c60d4e922c2f8cdcf25dc76c6ee1c1d
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: ec2373a988d66102ba2b2b50d957e659be12e5aa
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131432"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294174"
 ---
 # <a name="office-applications"></a>Office 응용 프로그램
 
@@ -64,19 +64,19 @@ Microsoft InfoPath는 전자 양식을 디자인, 배포, 완성 및 제출할 �
   
 ## <a name="windows-10-apps"></a>Windows 10 앱
 
-Excel 및 Word 같은 일부 Office 응용 프로그램에는 기본적으로 Windows 10, Windows 8 및 Windows 7의 시작 화면에 타일이 고정 되어 있습니다. [Windows에서 Office 응용 프로그램 찾기 및 시작](https://support.office.com/article/can-t-find-office-applications-in-windows-10-windows-8-or-windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6?ocmsassetID=HA103581103&CTT=1&CorrelationId=03707eae-b946-462a-b3c6-f0fc04f55611&ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Windows_8.1_or_Windows_8)에 대해 자세히 알아보세요.
+Excel 및 Word 같은 일부 Office 응용 프로그램에는 기본적으로 Windows 10, Windows 8 및 Windows 7의 시작 화면에 타일이 고정 되어 있습니다. [Windows에서 Office 응용 프로그램 찾기 및 시작](https://support.microsoft.com/office/907ce545-6ae8-459b-8d9d-de6764a635d6)에 대해 자세히 알아보세요.
   
 ## <a name="office-mobile-for-ipadiphone"></a>Office Mobile for iPad/iPhone
 
-IPad 및 iPhone 용 office Mobile에는 Word for iPad/iPhone, Excel for iPad/iPhone 및 PowerPoint for iPad/iPhone과 같은 즐겨 찾는 Office 앱이 포함 되어 있습니다. 앱은 무료로 다운로드할 수 있으며 해당 계획을 사용 하 여 iPad 또는 iPhone에서 문서를 만들고 편집할 수 있습니다. 자세한 내용은 [iOS 장치에서 Office 앱 및 전자 메일 설정을](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US)참조 하세요.
+IPad 및 iPhone 용 office Mobile에는 Word for iPad/iPhone, Excel for iPad/iPhone 및 PowerPoint for iPad/iPhone과 같은 즐겨 찾는 Office 앱이 포함 되어 있습니다. 앱은 무료로 다운로드할 수 있으며 해당 계획을 사용 하 여 iPad 또는 iPhone에서 문서를 만들고 편집할 수 있습니다. 자세한 내용은 [Set Up Office app And Outlook For iOS 장치](https://support.microsoft.com/office/0402b37e-49c4-4419-a030-f34c2013041f)를 참조 하세요.
 
 ## <a name="office-mobile-for-android"></a>Office Mobile for Android
 
-Android 용 office Mobile에는 Android 용 Word, Android 용 Excel 및 Android 용 PowerPoint와 같은 즐겨 찾는 Office 앱이 포함 되어 있습니다. 앱은 무료로 다운로드할 수 있으며 해당 계획을 사용 하 여 Android 장치에서 문서를 만들고 편집할 수 있습니다. 자세한 내용은 [Android에서 Office 앱 및 전자 메일 설정을](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US)참조 하세요.
+Android 용 office Mobile에는 Android 용 Word, Android 용 Excel 및 Android 용 PowerPoint와 같은 즐겨 찾는 Office 앱이 포함 되어 있습니다. 앱은 무료로 다운로드할 수 있으며 해당 계획을 사용 하 여 Android 장치에서 문서를 만들고 편집할 수 있습니다. 자세한 내용은 [Android에서 Office 앱 및 전자 메일 설정을](https://support.office.com/article/6ef2ebf2-fc2d-474a-be4a-5a801365c87f)참조 하세요.
 
 ## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 
-Windows phone 용 office Mobile에는 Word for Windows Phone, Excel for Windows phone, Windows Phone 용 PowerPoint와 같은 즐겨 찾는 Office 앱이 포함 됩니다. 앱은 무료로 다운로드할 수 있으며 해당 계획을 사용 하 여 Windows Phone에서 문서를 만들고 편집할 수 있습니다. 자세한 내용은 [Windows Phone에서 Office 앱 및 전자 메일 설정을](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US)참조 하세요.
+Windows phone 용 office Mobile에는 Word for Windows Phone, Excel for Windows phone, Windows Phone 용 PowerPoint와 같은 즐겨 찾는 Office 앱이 포함 됩니다. 앱은 무료로 다운로드할 수 있으며 해당 계획을 사용 하 여 Windows Phone에서 문서를 만들고 편집할 수 있습니다. 자세한 내용은 [Windows Phone에서 Office 앱 및 전자 메일 설정을](https://support.office.com/article/9bccc8b8-a321-4d0d-a45e-6e06a3438e43)참조 하세요.
 
 ## <a name="office-for-windows-10-mobile"></a>Windows 10 Mobile 용 Office
 

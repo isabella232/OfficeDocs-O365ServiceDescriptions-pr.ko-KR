@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online에서는 다음과 같은 핵심 기능 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 876de70c098ec5fda88bf48c4dba1a49f19a5920
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 81a749c6fa58f02227085bacc87e4630ca8ea310
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131272"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294044"
 ---
 # <a name="core-functionality"></a>핵심 기능
 
@@ -42,7 +42,7 @@ Project Online에서는 다음과 같은 핵심 기능 기능을 사용할 수 �
   
 ## <a name="custom-fields"></a>사용자 지정 필드
 
-Project에 포함된 필드 외에, 조직의 요구 사항에 맞도록 사용자 지정 필드를 사용할 수도 있습니다. 필드에 대한 자세한 내용은 [사용 가능한 필드 참조](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460)를 참조하세요.
+Project에 포함된 필드 외에, 조직의 요구 사항에 맞도록 사용자 지정 필드를 사용할 수도 있습니다. 필드에 대한 자세한 내용은 [사용 가능한 필드 참조](https://support.office.com/article/615a4563-1cc3-40f4-b66f-1b17e793a460)를 참조하세요.
   
 ## <a name="enhanced-copy-and-paste-across-microsoft-office-applications"></a>Microsoft Office 응용 프로그램 간에 향상된 복사 및 붙여넣기
 

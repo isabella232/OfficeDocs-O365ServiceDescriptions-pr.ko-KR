@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 사용할 수 있는 SharePoint 기능을 계획 합니다.
-ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300512"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294114"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 서비스 설명
 
@@ -90,7 +90,7 @@ Microsoft Graph의 가용성에 대 한 자세한 내용은 [microsoft 365 및 O
 - [앱 사용 현황 및 오류 모니터링](/sharepoint/monitor-apps)
 - [SharePoint](/office365/admin/activity-reports/sharepoint-activity) 및 [OneDrive](/office365/admin/activity-reports/onedrive-for-business-activity) 의 활동 및 사용 현황 보고서
 - [사이트 URL 변경](/sharepoint/change-site-address)
-- [OneDrive에 대 한 기본 저장소 및 보존 설정](/en-us/onedrive/set-default-storage-space)
+- [OneDrive에 대 한 기본 저장소 및 보존 설정](/onedrive/set-default-storage-space)
 - [SharePoint Server 용 하이브리드](/sharepoint/hybrid/hybrid) Firstline 작업자에 게 SharePoint Server에 액세스 하려면 CAL (클라이언트 액세스 라이선스)이 필요 합니다.
 - [사이트 만들기 설정 관리](/sharepoint/manage-site-creation)
 - [사이트 저장 용량 한도 관리](/sharepoint/manage-site-collection-storage-limits)
@@ -104,7 +104,7 @@ Microsoft Graph의 가용성에 대 한 자세한 내용은 [microsoft 365 및 O
 - [삭제된 사이트 복원](/sharepoint/restore-deleted-site-collection)
 - [SharePoint 관리 센터](/sharepoint/get-started-new-admin-center) Firstline 작업 자가 있는 조직은 관리 센터에 액세스 하려면 엔터프라이즈 사용자가 한 명 이상 필요 합니다.
 - [SharePoint 최신화 스캐너](/sharepoint/dev/transform/modernize-scanner)
-- [SharePoint Online 관리 셸](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps). Firstline 작업 자가 있는 조직은 관리 센터에 액세스 하려면 엔터프라이즈 사용자가 한 명 이상 필요 합니다.
+- [SharePoint Online 관리 셸](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true). Firstline 작업 자가 있는 조직은 관리 센터에 액세스 하려면 엔터프라이즈 사용자가 한 명 이상 필요 합니다.
 - [사이트 거 버 넌 스](/sharepoint/governance-overview) 
 - [용어 저장소 관리 메타 데이터](/sharepoint/managed-metadata)
 

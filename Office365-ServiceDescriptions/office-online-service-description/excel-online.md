@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Web for excel (이전의 Excel Web App)은 Microsoft Excel 환경을 웹 브라우저로 확장 하 여 통합 문서가 저장 된 웹 사이트에서 통합 문서를 직접 사용할 수 있습니다. 모든 고객은 웹에서 Office를 사용 하 여 Office 파일을 보고 가볍게 편집할 수 있습니다.
-ms.openlocfilehash: 9df8a65c438a13ed43fc8b7e50abc069a42a96e2
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: dabe7923f7feb1686c0e11af9ab9f28dbcb8447c
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131422"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294106"
 ---
 # <a name="excel-for-the-web"></a>웹용 Excel
 
@@ -161,7 +161,7 @@ Excel 통합 문서를 OneDrive.com에 저장한 경우 블로그나 웹 사이�
   
 ## <a name="formula-tools-advanced"></a>수식 도구, 고급
 
-Microsoft Excel 데스크톱 앱에서는 3D 참조 스타일과 같은 가장 고급 수식 도구를 제공 합니다. Web 용 Excel에서는 [동적 배열 수식과](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)같은 점점 더 많은 고급 Excel 수식을 지원 합니다. 자세한 내용은 [수식](https://support.office.com/article/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173?ocmsassetID=HA102748997&CTT=1&CorrelationId=1baa4c77-693e-4503-a2c5-b66a8b40dd40&ui=en-US&rs=en-US&ad=US)을 참조하세요.
+Microsoft Excel 데스크톱 앱에서는 3D 참조 스타일과 같은 가장 고급 수식 도구를 제공 합니다. Web 용 Excel에서는 [동적 배열 수식과](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)같은 점점 더 많은 고급 Excel 수식을 지원 합니다. 자세한 내용은 [수식](https://support.microsoft.com/office/ecfdc708-9162-49e8-b993-c311f47ca173)을 참조하세요.
   
 ## <a name="freeze-panes"></a>Freeze panes
 

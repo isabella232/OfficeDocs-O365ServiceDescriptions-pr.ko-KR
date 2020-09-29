@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군과 &mdash; Microsoft Exchange online, Microsoft SharePoint online, 웹을 위한 Microsoft 비즈니스용 Skype 및 공동 작업 서비스를 포함 하 여, &mdash; 사용자가 인터넷에서 거의 모든 위치에서 생산성을 유지 하는 데 도움을 주는 microsoft의 차세대 통신 및 협업 서비스가 제공 됩니다.
-ms.openlocfilehash: feb7ce1db3b904218a0a4a9df994cb8500cfd2ca
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: 51bb35c9ba93a67535bc5939dd7cb402441654e8
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214377"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293884"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -202,7 +202,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |메일 필터링 및 맬웨어 방지와 같은 [위협 관리](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |피싱 캠페인 <sup>5</sup> 용 위협 탐색기와 같은 [Advanced threat management](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti) <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |[고객 Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |아니요  <br/> |아니요  <br/> |예  <br/> |
-|[모바일 장치 관리](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |예  <br/> |예  <br/> |예  <br/> |
+|[모바일 장치 관리](https://support.office.com/article/bc44-4eb1-af00-9db5430be3cd) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[데이터 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
 |[고급 데이터 거 버 넌 스](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
@@ -426,7 +426,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
   
 > [!NOTE]
 > 작업에 대한 도움이 필요한 경우나 문제를 해결하고 있는 경우 다음 문서가 도움이 될 수 있습니다.<br/> 
-> - 전자 메일 만들기 및 보내기에 도움이 되는 [전자 메일](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US) 입니다. 
+> - 전자 메일 만들기 및 보내기에 도움이 되는 [전자 메일](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) 입니다. 
 >- [Office 365 비즈니스 에디션의 전자 메일 - 관리자 도움말](https://docs.microsoft.com/microsoft-365/admin/email/)
 >- [메시지 크기 제한](https://docs.microsoft.com/exchange/message-size-limits-exchange-2013-help)
 >- [Outlook 및 Office 365 Office 365에 대 한 Microsoft 지원 및 복구 도우미의 문제 해결](https://diagnostics.office.com/)
@@ -574,7 +574,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
   
 #### <a name="message-limits"></a>메시지 제한
 
-- **메시지 크기 제한** -대용량 메시지가 다른 메시지의 배달을 차단 하 고 모든 사용자에 대 한 서비스 성능에 영향을 주지 않도록 하려면 메시지 크기 제한이 필요 합니다. 이 제한은 첨부 파일을 포함하며 조직 전체에 대한 모든 메시지(인바운드, 아웃바운드, 내부)에 적용됩니다. 이 제한보다 큰 메시지는 배달되지 않으며, 보낸 사람에게는 배달 못 함 보고서(NDR)가 전송됩니다. 메시지 크기 제한은 더 크게, 더 작게 또는 각 사용자별로 구성할 수 있으며, 관리자는 전송 규칙을 만들어 모든 개별 첨부 파일의 최대 크기를 제한할 수도 있습니다. 자세한 내용은 [Microsoft에서 더 큰 전자 메일 메시지를 지원](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)합니다 .를 참조 하세요.
+- **메시지 크기 제한** -대용량 메시지가 다른 메시지의 배달을 차단 하 고 모든 사용자에 대 한 서비스 성능에 영향을 주지 않도록 하려면 메시지 크기 제한이 필요 합니다. 이 제한은 첨부 파일을 포함하며 조직 전체에 대한 모든 메시지(인바운드, 아웃바운드, 내부)에 적용됩니다. 이 제한보다 큰 메시지는 배달되지 않으며, 보낸 사람에게는 배달 못 함 보고서(NDR)가 전송됩니다. 메시지 크기 제한은 더 크게, 더 작게 또는 각 사용자별로 구성할 수 있으며, 관리자는 전송 규칙을 만들어 모든 개별 첨부 파일의 최대 크기를 제한할 수도 있습니다. 자세한 내용은 [Microsoft에서 더 큰 전자 메일 메시지를 지원](https://go.microsoft.com/fwlink/?linkid=2144144)합니다 .를 참조 하세요.
     
    > [!NOTE]
     > 일부 전자 메일 클라이언트의 메시지 크기 제한이 낮거나 개별 첨부 파일의 크기를 Exchange Online 메시지 크기 제한 보다 작은 값으로 제한할 수 있습니다. 
@@ -609,11 +609,11 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |포함 메시지 수준 제한  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |30개 포함 메시지  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Microsoft 관리자는 1mb에서 150 사이의 사용자 지정 제한을 지정할 수 있습니다. 그러나 보내거나 받을 수 있는 메시지의 크기는 전자 메일 클라이언트 또는 솔루션이 지원하는 크기에 따라서도 좌우됩니다. 조직의 최대 허용 메시지 크기를 사용자 지정 하는 방법에 대 한 자세한 내용은 [Microsoft에서 더 큰 전자 메일 메시지를 지원](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)합니다 .를 참조 하십시오.<br/> 
+> <sup>1</sup> Microsoft 관리자는 1mb에서 150 사이의 사용자 지정 제한을 지정할 수 있습니다. 그러나 보내거나 받을 수 있는 메시지의 크기는 전자 메일 클라이언트 또는 솔루션이 지원하는 크기에 따라서도 좌우됩니다. 조직의 최대 허용 메시지 크기를 사용자 지정 하는 방법에 대 한 자세한 내용은 [Microsoft에서 더 큰 전자 메일 메시지를 지원](https://go.microsoft.com/fwlink/?linkid=2144144)합니다 .를 참조 하십시오.<br/> 
 <sup>2</sup> 사용자 사이에 최대 150 MB의 메시지를 보내고 받을 수 있습니다 (메시지에서 Microsoft 데이터 센터에 남겨 두지 않음). Microsoft 데이터 센터 외부에서 라우팅되는 메시지는 추가 33%의 번역 인코딩 증가에 따라 최대 메시지 크기는 112 MB입니다. <br/> 
 <sup>3</sup> OWA 계정은 메시지가 33% 인코딩이 증가 하 여 전송 가능한 메시지의 크기를 최대 25% 미만으로 제한할 수 있습니다. 예를 들어 100MB의 최대 메시지 크기에 대한 설정을 사용자 지정하는 경우 75MB보다 크지 않은 메시지를 보낼 수 있습니다. <br/> 
 <sup>4</sup> exchange online으로 이동할 메시지의 크기는 exchange online에서 계산 됩니다. Exchange Server 2013 이전의 Exchange 버전에서는 좀 더 작은 항목 크기를 보고할 수 있습니다. 이 제한은 지원되는 Exchange 사서함 복제 서비스를 사용하는 이동 기반 마이그레이션에 적용됩니다. 다른 마이그레이션 방법 (예를 들어, 단계적으로, IMAP, PST) 및 기타 타사 도구는 일반적인 메시지 크기 제한에 따라 제한 됩니다. <br/> 
-<sup>5</sup> 새로운 기능이 포함 된 OME에 대 한 자세한 내용은 [Azure information Protection에 구축 된 새로운 Office 365 메시지 암호화 기능 설정](https://support.office.com/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요. 
+<sup>5</sup> 새로운 기능이 포함 된 OME에 대 한 자세한 내용은 [Azure information Protection에 구축 된 새로운 Office 365 메시지 암호화 기능 설정](https://support.office.com/article/7ff0c040-b25c-4378-9904-b1b50210d00e)를 참조 하세요. 
   
 #### <a name="receiving-and-sending-limits"></a>수신 및 전송 제한
 
@@ -691,7 +691,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |최대 메일 그룹 구성원 수<sup>1</sup> <br/> |구성원 100,000명  <br/> |구성원 100,000명  <br/> |구성원 100,000명  <br/> |
 |큰 메일 그룹에 메시지 보내기 제한  <br/> |구성원 5,000명 이상  <br/> |구성원 5,000명 이상  <br/> |구성원 5,000명 이상  <br/> |
 |큰 메일 그룹에 대한 최대 메시지 크기  <br/> |2MB  <br/> |2MB  <br/> |2MB  <br/> |
-|최대 메일 그룹 소유자 수  <br/> |10   <br/> |10   <br/> |10   <br/> |
+|최대 메일 그룹 소유자 수  <br/> |10    <br/> |10    <br/> |10    <br/> |
 |사용자가 만들 수 있는 최대 그룹 수  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]

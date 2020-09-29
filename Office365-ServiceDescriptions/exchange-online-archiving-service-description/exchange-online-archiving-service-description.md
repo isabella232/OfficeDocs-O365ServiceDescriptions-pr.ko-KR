@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
-description: Microsoft Exchange Online 보관은 microsoft exchange Server 2019, Microsoft exchange Server 2016, microsoft exchange server 2013, microsoft exchange server 2010 (SP2 이상)을 배포 하거나 특정 Exchange Online 또는 Microsoft 365 계획을 구독 하는 조직에 대 한 Microsoft 365 클라우드 기반 엔터프라이즈 급 보관 솔루션입니다. Exchange Online Archiving은 보관, 규정 준수, 규제 및 eDiscovery 문제와 관련하여 이러한 조직을 지원하는 동시에 온-프레미스 인프라를 단순화하여 비용을 절감하고 IT 부담을 완화시켜 줍니다.
-ms.openlocfilehash: 5039ac00dca0cce5f79eb5bed743e5a4cb1e388b
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+description: 이 문서를 읽으면 Microsoft Exchange Online 보관에 대해 자세히 알아볼 수 있습니다.
+ms.openlocfilehash: 4c83a11a953f29c20c6e7e743403985c465d0aad
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214307"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293640"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 서비스 설명
 

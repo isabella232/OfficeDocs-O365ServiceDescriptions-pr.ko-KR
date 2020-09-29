@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. Exchange Online 계획을 비롯 하 여 계획 간의 차이점을 확인 하는 경우이 문서에 각 기능에 포함 되는 기능이 표시 됩니다.
-ms.openlocfilehash: 047da03c7cae7ef907824bdff95a94bd6f15bfb6
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 7cf4d42f1108e4ca303e2150449d3a6767487afc
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261530"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293824"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 및 Office 365 플랫폼 서비스 설명
 
@@ -189,7 +189,7 @@ Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 �
 |Advanced eDiscovery<sup>15</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |Microsoft 보안 점수<sup>7</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|**[기기](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
+|**[규정 준수](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
 |SAS 70 / SSAE16 평가  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |ISO 27001 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |EU 모델 조항  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -218,7 +218,7 @@ Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 �
 <br/><sup>11</sup> Office 365 Enterprise F3, Office 365 비디오는 보기 전용으로 제한 됩니다 (게시 하거나 공유할 수 없음). 
 <br/><sup>12</sup> Office 365 Enterprise F3, 흐름은 소비율만을 사용 하도록 제한 되며 실행은 매달 사용자 당 750로 제한 됩니다. 
 <br/><sup>13</sup> Office 365 E5 교육을 포함 하 여 Office 365 교육용 요금제 에서만 사용할 수 있습니다. Office 365 Enterprise E5에서는 사용할 수 없습니다. 
-<br/><sup>14</sup> 자세한 내용은 [고객 키를 사용한 서비스 암호화](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요. 
+<br/><sup>14</sup> 자세한 내용은 [고객 키를 사용한 서비스 암호화](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697)를 참조 하세요. 
 <br/><sup>15</sup> 고급 EDiscovery는 미국 및 서유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.)
 <br/><sup>16</sup> Microsoft Stream의 소비량: 게시 하거나 공유할 필요가 없습니다.
 <br/><sup>17</sup> 년 5 월 2019 일, 기존 적격 365 Sku 및 Microsoft 365는 Kaizala Pro를 사용 하 여 backfilled 됩니다. 2019 년 6 월 1 일부 Kaizala Pro는 모든 적격 Office 365 및 Microsoft 365 Sku에 포함 됩니다.

@@ -1,5 +1,5 @@
 ---
-title: 받는 사람, 도메인 및 회사 관리
+title: Exchange Online Protection의 받는 사람, 도메인 및 회사 관리
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,15 +10,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
-description: Microsoft EOP (Exchange Online Protection)에서는 받는 사람, 도메인 및 회사 정보를 관리 하는 여러 가지 방법을 제공 합니다. 관리자는 EAC (Exchange 관리 센터) 내에서 특정 관리 작업을 수행 하 고 Microsoft 365 관리 센터에서 수행 된 기타 관리 작업을 확인할 수 있습니다.
-ms.openlocfilehash: 4a2d2d091a6170e0606702a4a8047a21ad57ac11
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 이 문서를 읽으면 Microsoft Exchange Online Protection (EOP)의 받는 사람, 도메인 및 회사 관리에 대해 자세히 알아볼 수 있습니다.
+ms.openlocfilehash: 7be36ecbf065eb7bc1ce2c890ac84a6fea565c68
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132772"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294124"
 ---
-# <a name="recipient-domain-and-company-management"></a>받는 사람, 도메인 및 회사 관리
+# <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Exchange Online Protection의 받는 사람, 도메인 및 회사 관리
 
 Microsoft EOP (Exchange Online Protection)에서는 받는 사람, 도메인 및 회사 정보를 관리 하는 여러 가지 방법을 제공 합니다. 관리자는 EAC (Exchange 관리 센터) 내에서 특정 관리 작업을 수행 하 고 Microsoft 365 관리 센터에서 수행 된 기타 관리 작업을 확인할 수 있습니다.
   

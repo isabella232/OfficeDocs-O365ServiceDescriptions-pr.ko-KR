@@ -1,5 +1,5 @@
 ---
-title: 메일 흐름 [EOP]
+title: Exchange Online Protection의 메일 흐름
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: Microsoft는 Office 365를 사용하는 대다수 조직의 사서함을 호스트하고 메일 흐름을 관리합니다. 가장 간단한 구성 이며 Microsoft에서 모든 사서함과 필터링을 관리 하는 것을 의미 합니다. 그러나 일부 조직에서는 모든 사서함을 온-프레미스로 유지해야 할 비즈니스적 필요성을 느낍니다. EOP (Exchange Online Protection)를 사용 하 여이 작업을 수행 하 고 클라우드에 바이러스 백신 및 스팸 방지 메일 처리를 제공할 수 있습니다.
-ms.openlocfilehash: 751551ef6b3ae710646b2fb63960eee5983d6c47
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 이 문서를 읽으면 Microsoft Exchange Online Protection (EOP)의 메일 흐름에 대해 자세히 알아볼 수 있습니다.
+ms.openlocfilehash: c6b885abe6522c3f8d1b780c8c64c621c34011c2
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132822"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293674"
 ---
-# <a name="mail-floweop"></a>메일 흐름 [EOP]
+# <a name="mail-flow-in-exchange-online-protection"></a>Exchange Online Protection의 메일 흐름
 
-Microsoft를 사용 하는 대부분의 조직에서는 사서함을 호스트 하 고 메일 흐름을 관리 합니다. 가장 간단한 구성 이며 Microsoft에서 모든 사서함과 필터링을 관리 하는 것을 의미 합니다. 그러나 일부 조직에서는 모든 사서함을 온-프레미스로 유지해야 할 비즈니스적 필요성을 느낍니다. EOP (Exchange Online Protection)를 사용 하 여이 작업을 수행 하 고 클라우드에 바이러스 백신 및 스팸 방지 메일 처리를 제공할 수 있습니다. EOP에 대한 자세한 내용과 구매 정보는 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)을 참조하세요.
+Microsoft를 사용 하는 대부분의 조직에서는 사서함을 호스트 하 고 메일 흐름을 관리 합니다. 가장 간단한 구성 이며 Microsoft에서 모든 사서함과 필터링을 관리 하는 것을 의미 합니다. 그러나 일부 조직에서는 모든 사서함을 온-프레미스로 유지해야 할 비즈니스적 필요성을 느낍니다. EOP (Exchange Online Protection)를 사용 하 여이 작업을 수행 하 고 클라우드에서 바이러스 백신 및 스팸 방지 메일 처리를 수행할 수 있습니다. EOP에 대한 자세한 내용과 구매 정보는 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)을 참조하세요.
   
 도메인 관리 또는 DBEB (디렉터리 기반 Edge 차단)에 대 한 정보를 찾으십니까? [받는 사람, 도메인 및 회사 관리](recipient-domain-and-company-management.md)를 참조 하세요. 모든 EOP 기능에 대 한 자세한 내용은 [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.
   

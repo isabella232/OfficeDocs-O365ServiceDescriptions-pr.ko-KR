@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 및 Office 365는 강력한 보안, 안정성 및 사용자 생산성에 대 한 조직의 요구 사항을 충족 하는 데 도움이 되도록 설계 된 클라우드 기반 서비스입니다.
-ms.openlocfilehash: 64c21ecc0ebe63ba973f4efafec926bddd6ba3c0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e991d402b5e6c20b95b83fbe1666f6817b383362
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131462"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294184"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 및 Office 365 서비스 설명 
 
@@ -26,7 +26,7 @@ Microsoft 365 및 Office 365는 강력한 보안, 안정성 및 사용자 생산
   
 이 라이브러리의 항목에서는 Microsoft 365 및 Office 365에서 사용할 수 있는 서비스 및 기능에 대 한 자세한 설명을 제공 합니다. 계획 간에 기능을 비교 하려면 [엔터프라이즈를 지 원하는 강력한 도구](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 또는 아래 목록의 관련 서비스 설명을 참조 하세요. 
   
-지원 문서 및 정보는 [Office 도움말 & 교육](https://support.office.com/), [관리자 및 it 전문가를 위한 office 설명서](https://docs.microsoft.com/office/), [관리자 및 it 전문가를 위한 Microsoft 365 도움말 센터](https://docs.microsoft.com/microsoft-365/?view=o365-worldwide)를 참조 하세요.
+지원 문서 및 정보는 [Office 도움말 & 교육](https://support.office.com/), [관리자 및 it 전문가를 위한 office 설명서](https://docs.microsoft.com/office/), [관리자 및 it 전문가를 위한 Microsoft 365 도움말 센터](https://docs.microsoft.com/microsoft-365/)를 참조 하세요.
   
 > [!NOTE]
 > 서비스 설명 비교 스프레드시트를 찾으려는 경우에는이를 폐기 해야 합니다. 각 서비스 설명 페이지의 제품 기능 가용성 표가 필요에 맞는 Office 365 버전을 선택 하는 데 도움이 되도록 업데이트 되었습니다. 
@@ -86,5 +86,5 @@ Microsoft는 적합 한 요금제의 적합 한 서비스에 대 한 Office 365�
   
 ## <a name="disclaimer"></a>고지 사항
 
-&copy;2018 Microsoft Corporation 모든 권리 보유. Microsoft, Office 365 및 기타 제품과 서비스 이름은 미국, 대한민국 및/또는 기타 국가에서의 등록 상표 또는 상표이거나 그러한 가능성이 있습니다. 이 내용은 오직 정보를 제공하기 위한 목적으로 작성되었고 이 문서의 최근 게시 또는 수정 날짜 시점의 Microsoft Corporation의 견해를 나타냅니다. 이 내용은 서비스 계약을 위한 것이 아니며, Microsoft 또는 고객에게 여기에 언급된 기능이나 책임을 약속하지 않습니다. Microsoft는 이 설명서의 정보에 대해 어떠한 명시적이거나 묵시적인 보증도 하지 않습니다.
+&copy; 2018 Microsoft Corporation 모든 권리 보유. Microsoft, Office 365 및 기타 제품과 서비스 이름은 미국, 대한민국 및/또는 기타 국가에서의 등록 상표 또는 상표이거나 그러한 가능성이 있습니다. 이 내용은 오직 정보를 제공하기 위한 목적으로 작성되었고 이 문서의 최근 게시 또는 수정 날짜 시점의 Microsoft Corporation의 견해를 나타냅니다. 이는 서비스 계약을 위한 것이 아니며, 여기에 언급 된 모든 기능, 기능 또는 책임에 Microsoft 또는 고객을 커밋하지 않습니다. Microsoft는 이 설명서의 정보에 대해 어떠한 명시적이거나 묵시적인 보증도 하지 않습니다.
  

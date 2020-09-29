@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 미국 정부 클라우드 고객을 위한 SharePoint 기능 가용성에 대해 알아봅니다.
-ms.openlocfilehash: c360bc7ebda3c1a4041e0dcd8c2d5cb9699b8820
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 4e09ec8fda62fb5ce7a6e886799c5f35edd32cf5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42175014"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294194"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>미국 정부 환경용 SharePoint
 
@@ -40,7 +40,7 @@ ms.locfileid: "42175014"
 - 추가 기능에 대 한 데이터 원본과 같은 외부 응용 프로그램에 대 한 연결은 정부 환경에서 지원 되는 시스템 보안 경계 내에 있는 원본으로 제한 됩니다.
 - BCS (Business Connectivity Services) 기능은 클라우드 서비스에 대 한 보안 경계 내에서 데이터 원본을 계속 사용할 수 있는 연결 시나리오에서 지원 됩니다.
 
-사이트에서 타사 응용 프로그램을 사용 하는 경우 조직에서 이러한 서비스의 적절 한 사용을 평가할 때 타사에서 제공 하는 개인 정보 및 규정 준수 문을 검토 합니다. 타사 응용 프로그램 및 서비스는 정부 클라우드 외부에 있는 타사 시스템에 조직의 고객 데이터를 저장, 전송 및 처리 하는 작업을 수행할 수 있으므로, 규정 준수 및 데이터 보호에 포함 되지 않습니다. 약정. 
+사이트에서 타사 응용 프로그램을 사용 하는 경우 조직에서 이러한 서비스의 적절 한 사용을 평가할 때 타사에서 제공 하는 개인 정보 및 규정 준수 문을 검토 합니다. 타사 응용 프로그램 및 서비스는 정부 클라우드 외부에 있는 타사 시스템에 조직의 고객 데이터를 저장, 전송 및 처리 하는 작업을 수행할 수 있으므로 준수 및 데이터 보호 약정에 포함 되지 않습니다. 
 
 ## <a name="it-admin-features"></a>IT 관리 기능
 
@@ -59,10 +59,10 @@ FastTrack 마이그레이션에 대 한 자세한 내용은 [Office 365 US 정�
 상업용 고객의 보안 및 규정 준수 기능과 정부 클라우드 고객용에 대 한 알려진 차이점은 없습니다.
 
 다음 기능에 대 한 자세한 내용은 [Office 365 US 정부 서비스 설명을](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features)참조 하세요.
-- Customer Lockbox
+- 고객 Lockbox
 - DLP(데이터 손실 방지)
 - eDiscovery (콘텐츠 검색, 보류, 내보내기)
-- Office 365 ATP (Advanced Threat Protection)
+- Office 365 Advanced Threat Protection (ATP)
 - 민감도 레이블
 
 정부용 Azure Active Directory 기능에 대 한 자세한 내용은 [Azure 정부 보안 + Identity 설명서](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)를 참조 하세요. 
@@ -95,4 +95,4 @@ FastTrack 마이그레이션에 대 한 자세한 내용은 [Office 365 US 정�
 
 Microsoft US 정부 클라우드에서 조직을 설정한 후에는 [SharePoint 채택 리소스 센터](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/)에 나와 있는 권장 배포 경로를 따르세요. 채택 및 변경 관리 champions에 참여 해야 합니다.
 [Fasttrack](https://www.microsoft.com/fasttrack) 또는 선택한 파트너와 함께 작업 하 여 사용자에 게 서비스를 롤아웃할 수도 있습니다.
-Microsoft 보안 [센터](https://www.microsoft.com/en-us/trust-center) 를 방문 하 여 조직이 고객을 지원 하도록 하는 방식에 대해 microsoft가 security, 개인정보, 규정 준수, 핵심 tenets에 접근 하는지 자세히 알아보세요.
+Microsoft 보안 [센터](https://www.microsoft.com/trust-center) 를 방문 하 여 조직이 고객을 지원 하도록 하는 방식에 대해 microsoft가 security, 개인정보, 규정 준수, 핵심 tenets에 접근 하는지 자세히 알아보세요.

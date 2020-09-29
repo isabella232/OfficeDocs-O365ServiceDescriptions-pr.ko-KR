@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Project Online에서는 다음과 같은 핵심 서비스 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 16ca29f6e05dcf6d3f4a3737961c851fa2c85e05
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5876a9f7df783a30fdc774efacf5828fdc4f64e5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131242"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294093"
 ---
 # <a name="core-services-functionality"></a>핵심 서비스 기능
 
@@ -30,9 +30,9 @@ Active Directory에서는 관리자가 사용자 자격 증명 및 권한을 관
 
 Project Online 및 Project Server 2013에서는 관리자에게 Project를 계획, 설치 및 구성, 유지 관리 및 확장하기 위한 기능이 제공됩니다. [IT 전문가를 위한 Project Server 2013의 새로운 기능](https://go.microsoft.com/fwlink/p/?LinkId=272017)을 참조하세요.
   
-## <a name="getting-started"></a>시작하기
+## <a name="getting-started"></a>TVM을 간편하게
 
-Project Online의 시작 콘텐츠를 사용할 수 있습니다. [Project Online 시작](https://support.office.com/en-us/article/Get-started-with-Project-Online-E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11?ui=en-US&amp;rs=en-US&amp;ad=US)을 참조하세요.
+Project Online의 시작 콘텐츠를 사용할 수 있습니다. [Project Online 시작](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11)을 참조하세요.
   
 ## <a name="issues-and-risk-management-for-team-members"></a>Issues and risk management(팀 구성원용)
 

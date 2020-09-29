@@ -10,18 +10,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: b03c74e0c760cf22c12e6973a544553d119471fe
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 이 문서를 읽으면 Microsoft Exchange Online 보관에서 사용할 수 있는 준수 기능에 대 한 정보를 확인할 수 있습니다.
+ms.openlocfilehash: 0826a2677dcc3d8c336ecea3901ed7486c71eda3
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132742"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293624"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online 보관의 규정 준수 및 보안 기능
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Exchange Online Archiving의 규정 준수 기능
 
-다음 섹션에서는 Microsoft Exchange Online Archiving의 규정 준수 기능을 설명합니다.
+이 문서에서는 Microsoft Exchange Online 보관의 준수 기능에 대해 설명 합니다.
   
 ### <a name="retention-policies"></a>보존 정책
 
@@ -31,7 +32,7 @@ Exchange Online Archiving은 보관과 삭제라는 두 가지 유형의 정책�
   
 Outlook 2010 이상 및 웹용 Outlook을 사용 하면 사용자가 폴더, 대화 또는 개별 메시지에 보존 정책을 적용할 수 있으며, 적용 된 보존 정책 및 메시지의 예상 삭제 날짜를 볼 수도 있습니다. 다른 전자 메일 클라이언트 사용자의 경우 관리자가 프로비전한 서버 쪽 보존 정책에 따라 전자 메일이 삭제되거나 보관되도록 할 수는 있지만 Outlook 2010 및 Outlook Web App에서와 같은 수준으로 메시지를 보거나 제어할 수는 없습니다.
   
-Exchange Online Archiving에서 제공하는 보존 정책 기능은 Exchange Server 2010 SP2(서비스 팩 2) 이상에서 제공하는 기능과 동일합니다. 관리자는 온-프레미스 Exchange Server 2010 이상 환경에서 보존 정책을 관리할 수 있습니다. Exchange 2007에 도입되었던 이전의 메시징 레코드 관리 방법인 관리 폴더는 Exchange Online Archiving에서 사용할 수 없으며 Exchange Online Archiving과 호환되지 않습니다. 자세한 내용은 [보존 태그 및 보존 정책](https://go.microsoft.com/fwlink/p/?LinkID=314153)을 참조하세요.
+Exchange Online Archiving에서 제공하는 보존 정책 기능은 Exchange Server 2010 SP2(서비스 팩 2) 이상에서 제공하는 기능과 동일합니다. 관리자는 온-프레미스 Exchange Server 2010 이상 환경에서 보존 정책을 관리할 수 있습니다. Exchange 2007에 도입되었던 이전의 메시징 레코드 관리 방법인 관리 폴더는 Exchange Online Archiving에서 사용할 수 없으며 Exchange Online Archiving과 호환되지 않습니다. Exchange Server 2007에서 제공했던 기존의 메시징 레코드 관리 접근 방식인 관리되는 폴더는 사용할 수 없습니다.
   
 ### <a name="in-place-hold-and-litigation-hold"></a>원본 위치 유지 및 소송 보존
 
@@ -67,7 +68,7 @@ Exchange Online에서는 원본 위치 유지 또는 소송 보존 기능을 사
   
 ### <a name="in-place-ediscovery"></a>원본 위치 eDiscovery
 
-Exchange Online Archiving에서는 조직의 사서함 콘텐츠 검색에 대해 원본 위치 eDiscovery를 지원합니다. 온-프레미스 Exchange 2013 서버에서 Exchange 관리 센터 또는 원격 Windows PowerShell을 사용하여 관리자나 권한 있는 Discovery 관리자는 전자 메일 메시지, 첨부 파일, 일정 약속, 작업, 연락처 등 다양한 사서함 항목을 검색할 수 있습니다. 원본 위치 eDiscovery는 기본 사서함 및 보관 사서함을 동시에 검색할 수 있습니다. KQL(Keyword Query Language) 구문과 함께, 다양한 필터링 기능에는 보낸 사람, 받는 사람, 메시지 유형, 보낸 날짜, 받은 날짜, 참조 및 숨은 참조가 있습니다. 자세한 내용은 [원본 위치 eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169)를 참조하세요.
+Exchange Online Archiving에서는 조직의 사서함 콘텐츠 검색에 대해 원본 위치 eDiscovery를 지원합니다. 온-프레미스 Exchange 2013 서버에서 Exchange 관리 센터 또는 원격 Windows PowerShell을 사용하여 관리자나 권한 있는 Discovery 관리자는 전자 메일 메시지, 첨부 파일, 일정 약속, 작업, 연락처 등 다양한 사서함 항목을 검색할 수 있습니다. 원본 위치 eDiscovery는 기본 사서함 및 보관 사서함을 동시에 검색할 수 있습니다. KQL(Keyword Query Language) 구문과 함께, 다양한 필터링 기능에는 보낸 사람, 받는 사람, 메시지 유형, 보낸 날짜, 받은 날짜, 참조 및 숨은 참조가 있습니다. 자세한 내용은 [원본 위치 eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169)를 참조하십시오.
   
 Exchange 관리 센터 및 원격 Windows PowerShell을 사용하여 원본 위치 eDiscovery 검색에서 최대 5,000개의 사서함을 한 번에 검색할 수 있습니다. 원격 Windows PowerShell을 사용하여 원본 위치 eDiscovery 검색을 실행하는 방법에 대한 자세한 내용은 [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170)를 참조하세요. 
   
@@ -119,9 +120,9 @@ Exchange Online Archiving에서 호스트 IRM(정보 권한 관리) 서비스를
 
 Exchange Online Archiving에서는 다음과 같은 두 가지 유형의 기본 제공 감사 기능을 제공합니다.
   
-- **관리자 감사 로깅** 관리자 감사 로깅을 통해 고객은 RBAC 역할이나 Exchange 정책 및 설정에 대한 변경 내용을 비롯하여 Exchange Online Archiving 환경에서 관리자가 수행한 변경 내용을 추적할 수 있습니다. 
+- **관리자 감사 로깅** -관리자 감사 로깅을 통해 고객은 RBAC 역할 또는 exchange 정책 및 설정에 대 한 변경 내용을 비롯 하 여 Exchange Online 보관 환경에서 관리자가 수행한 변경 내용을 추적할 수 있습니다. 
     
-- **사서함 감사 로깅** 사서함 감사 로깅을 통해 고객은 사서함 소유자가 아닌 다른 사용자에 의한 사서함 액세스를 추적할 수 있습니다. 
+- 사서함 **감사 로깅** -사서함 감사 로깅을 통해 고객은 사서함 소유자가 아닌 다른 사용자의 사서함 액세스를 추적할 수 있습니다. 
     
 Exchange 관리 센터에서는 관리자 역할 변경, 소송 보존, 비소유자 사서함 액세스 등 미리 정의된 여러 감사 보고서를 사용할 수 있습니다. 관리자는 날짜 및 역할별로 보고서를 필터링하고 장기 보존 또는 사용자 지정 보고를 위해 지정된 사서함에 대한 모든 감사 이벤트를 XML 형식으로 내보낼 수 있습니다.
   

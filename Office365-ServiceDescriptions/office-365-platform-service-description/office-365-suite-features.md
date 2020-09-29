@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열 된 기능은 많은 장치 및 여러 Office 365 서비스에서 안전 하 게 공동 작업 하 고 통신 하는 데 사용할 수 있는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: 058acf94ae50764616a02febfac09f2a86cf66d0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 1964e342d53589d2b180b5e5dbe6dddc9eaedd00
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131942"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293814"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 제품군 기능
 
@@ -24,9 +24,9 @@ ms.locfileid: "45131942"
   
 ## <a name="microsoft-bookings"></a>Microsoft 예약
 
-Microsoft 예약은 고객에 게 약속 단위로 서비스를 제공 하려는 비즈니스용 온라인 및 모바일 앱입니다. 이러한 기업의 예로는 헤어 미용실,, spas, 법률 기업, 금융 서비스 공급자, 컨설턴트, 의료 practitioners, 교육 기관 및 자동 상점 등이 있습니다. Microsoft 예약은 Microsoft 365 for business 구독을 보유 하 고 있는 미국 및 캐나다의 고객에 게 제공 됩니다.
+Microsoft 예약은 고객에 게 약속 단위로 서비스를 제공 하려는 비즈니스용 온라인 및 모바일 앱입니다. 이러한 기업의 예로는 머리카락 미용실,, spas, 법률 기업, 금융 서비스 공급자, 컨설턴트, 의료 practitioners, 교육 기관 및 자동 상점 등이 있습니다. Microsoft 예약은 Microsoft 365 for business 구독을 보유 하 고 있는 미국 및 캐나다의 고객에 게 제공 됩니다.
   
-Microsoft 예약에 대 한 자세한 내용은 [Microsoft 예약을 사용 하 여 비즈니스 캘린더 온라인으로 게시](https://support.office.com/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)를 방문 하세요.
+Microsoft 예약에 대 한 자세한 내용은 [Microsoft 예약을 사용 하 여 비즈니스 캘린더 온라인으로 게시](https://support.office.com/article/47403d64-a067-4754-9ae9-00157244c27d)를 방문 하세요.
 
 ## <a name="microsoft-briefing-email"></a>Microsoft 브리핑 전자 메일
 
@@ -68,7 +68,7 @@ Microsoft PowerApps은 모든 장치에서 작동하는 앱을 신속하게 작�
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
-Microsoft StaffHub는 클라우드 기반 응용 프로그램으로, 작업자 및 해당 관리자가 모바일 장치를 사용하여 일정을 관리하고 연락을 주고받을 수 있습니다. 직원은 StaffHub를 사용하여 휴가 예약을 요청하고, 근무를 교대하고 다른 직원과 대화할 수 있습니다. 직원 간에 서로 또는 전체 팀에 직접 메시지를 보낼 수도 있습니다. 관리자는 StaffHub를 사용하여 메시지를 보내고, 일정을 만들고, 팀 소식 또는 회사 공지를 보낼 수 있습니다. StaffHub에 대 한 자세한 내용을 보려면 Microsoft [StaffHub 웹 사이트](https://staffhub.office.com/) 및 [microsoft 365 팀 블로그로](https://www.microsoft.com/en-us/microsoft-365/blog/2017/01/12/microsoft-staffhub-is-here/)이동 합니다.
+Microsoft StaffHub는 클라우드 기반 응용 프로그램으로, 작업자 및 해당 관리자가 모바일 장치를 사용하여 일정을 관리하고 연락을 주고받을 수 있습니다. 직원은 StaffHub를 사용하여 휴가 예약을 요청하고, 근무를 교대하고 다른 직원과 대화할 수 있습니다. 직원 간에 서로 또는 전체 팀에 직접 메시지를 보낼 수도 있습니다. 관리자는 StaffHub를 사용하여 메시지를 보내고, 일정을 만들고, 팀 소식 또는 회사 공지를 보낼 수 있습니다. StaffHub에 대 한 자세한 내용을 보려면 Microsoft [StaffHub 웹 사이트](https://staffhub.office.com/) 및 [microsoft 365 팀 블로그로](https://go.microsoft.com/fwlink/?linkid=2143889)이동 합니다.
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -76,7 +76,7 @@ Microsoft Stream은 조직의 사용자가 안전 하 게 비디오를 업로드
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
-Microsoft Sway는 대화형 웹 기반 캔버스를 사용 하 여 의견을 표현 하는 데 도움이 되는 비즈니스를 위한 전문적인 디지털 이야기 하기 앱입니다. Microsoft Sway의 기본 제공 디자인 엔진은 다양 한 서식 또는 추가 교육을 필요로 하지 않고 전문가, 시각적으로 매력적인 보고서, 프레젠테이션을 만드는 데 도움이 됩니다. 또한 결과를 수정하여 원하는 고유한 모양과 느낌을 얻을 수 있습니다. Microsoft Sway를 사용 하면 모든 브라우저에서 모든 화면을 만들 수 있으며 단순히 링크를 전송 하 여 동료 및 고객과 공유할 수도 있습니다. Microsoft Sway를 사용 하면 앱을 벗어나지 않고 모든 종류의 콘텐츠를 찾고 가져와서 캔버스에 이미지, 텍스트, 비디오 및 차트를 바로 끌어다 놓을 수 있습니다. 자세한 내용은 [Sway](https://sway.com)를 참조하세요. [Office 365 독일](office-365-germany.md)에서는 Microsoft Sway를 아직 사용할 수 없습니다.
+Microsoft Sway는 대화형 웹 기반 캔버스를 사용 하 여 의견을 표현 하는 데 도움이 되는 비즈니스를 위한 전문적인 디지털 이야기 하기 앱입니다. Microsoft Sway의 기본 제공 디자인 엔진은 다양 한 서식 또는 추가 교육을 필요로 하지 않고 전문가, 시각적으로 매력적인 보고서, 프레젠테이션 등을 만드는 데 도움이 됩니다. 또한 결과를 수정하여 원하는 고유한 모양과 느낌을 얻을 수 있습니다. Microsoft Sway를 사용 하면 모든 브라우저에서 모든 화면을 만들 수 있으며 단순히 링크를 전송 하 여 동료 및 고객과 공유할 수도 있습니다. Microsoft Sway를 사용 하면 앱을 벗어나지 않고 모든 종류의 콘텐츠를 찾고 가져와서 캔버스에 이미지, 텍스트, 비디오 및 차트를 바로 끌어다 놓을 수 있습니다. 자세한 내용은 [Sway](https://sway.com)를 참조하세요. [Office 365 독일](office-365-germany.md)에서는 Microsoft Sway를 아직 사용할 수 없습니다.
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
@@ -92,7 +92,7 @@ Microsoft 365의 그룹은 더 많은 공동 작업을 수행 하는 데 필요�
   
 ## <a name="office-365-video"></a>Office 365 비디오
 
-Office 365 비디오는 장치 간에 비디오를 업로드, 공유 및 검색할 수 있는 안전한 회사 차원 대상으로, Microsoft Azure 미디어 서비스에서 제공합니다. Office 365 비디오를 통해 사용자는 계속해서 참여하고, 정보를 제공 받아 아이디어를 광범위하게 전달하여 조직이 다 함께 협력할 수 있도록 할 수 있습니다. 자세한 내용은 [Office 365 비디오 소개](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/)를 참조하세요.
+Office 365 비디오는 장치 전체에서 비디오를 업로드, 공유 및 검색할 수 있는 안전한 회사 전체 대상으로, Microsoft Azure 미디어 서비스를 통해 제공 됩니다. Office 365 비디오를 통해 사용자는 계속해서 참여하고, 정보를 제공 받아 아이디어를 광범위하게 전달하여 조직이 다 함께 협력할 수 있도록 할 수 있습니다. 자세한 내용은 [Office 365 비디오 소개](https://go.microsoft.com/fwlink/?linkid=2144056)를 참조하세요.
   
 ## <a name="onenote-class-notebook"></a>OneNote 수업용 전자 필기장
 
@@ -100,7 +100,7 @@ Office 365 비디오는 장치 간에 비디오를 업로드, 공유 및 검색�
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-Microsoft Kaizala는 [간단 하 고](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)안전한 모바일 작업 관리 앱으로, microsoft 365에 대 한 고유한 기능을 제공 하며, 조직 디렉터리 (예: 계약 작업자, 공급 업체, 파트너, 공급자, 고객 및 시민)의 내부와 외부에서 사용자를 연결 하 고 사용할 수 있는 기능을 제공 합니다. Kaizala의 개방형 디렉터리 모델을 사용 하면 편리한 온 보 딩을 위한 전화 번호 기반 id와 메시징 및 작업 관리에 대 한 간단한 사용자 환경이 제공 됩니다. 사용자는 Kaizala 모바일 앱을 사용 하 여 사진, 문서, 비디오, 오디오 os 등의 인스턴트 메시지와 첨부 파일을 전송 하 고 설문 조사, 설문, 작업 할당, 공지 사항, trainings 등에 대해 작업 카드를 사용할 수 있습니다. [Kaizala](https://products.office.com/en/business/microsoft-kaizala) 은 IPhone 및 Android에서 작동 합니다. 자세한 내용을 보려면 [Kaizala 웹 사이트로](https://products.office.com/en/business/microsoft-kaizala)이동 하세요.
+Microsoft Kaizala는 [간단 하 고](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)안전한 모바일 작업 관리 앱으로, microsoft 365에 대 한 고유한 기능을 제공 하며, 조직 디렉터리 (예: 계약 작업자, 공급 업체, 파트너, 공급자, 고객 및 시민)의 내부와 외부에서 사용자를 연결 하 고 사용할 수 있는 기능을 제공 합니다. Kaizala의 개방형 디렉터리 모델을 사용 하면 편리한 온 보 딩을 위한 전화 번호 기반 id와 메시징 및 작업 관리에 대 한 간단한 사용자 환경이 제공 됩니다. 사용자는 Kaizala 모바일 앱을 사용 하 여 사진, 문서, 비디오, 오디오 파일 등의 인스턴트 메시지와 첨부 파일을 전송 하 고 설문 조사, 설문, 작업 할당, 공지 사항, trainings 등에 대해 작업 카드를 사용할 수 있습니다. [Kaizala](https://products.office.com/en/business/microsoft-kaizala) 은 IPhone 및 Android에서 작동 합니다. 자세한 내용을 보려면 [Kaizala 웹 사이트로](https://products.office.com/en/business/microsoft-kaizala)이동 하세요.
   
 ## <a name="feature-availability"></a>기능 가용성
 

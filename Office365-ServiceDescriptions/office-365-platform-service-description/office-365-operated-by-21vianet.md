@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영 하는 Office 365는 중국의 안전 하 고 안정적 이며 확장 가능한 클라우드 서비스에 대 한 요구를 충족 하도록 설계 되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: 7a134e878d36539a6f51f2706dae29841282eefa
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: be7b7edc4f441544b4b61afe2f03385c7581b6c1
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261540"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294134"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -173,7 +173,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Office 365 고급 eDiscovery|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |보안 점수<sup>4</sup>|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |위협 인텔리전스|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|**[기기](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
+|**[규정 준수](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
 |SAS 70 / SSAE16 평가|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |ISO 27001 인증|예|예|예|예|예|예|예|
 |EU 모델 조항|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -229,7 +229,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[비즈니스용 Skype](../office-applications-service-description/office-applications.md#skype-for-business)|예|예|예|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예|예<sup>4</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|아니요|아니요|아니요|아니요|아니요|아니요|<sup>5</sup> 없음|아니요|아니요|아니요|
 |[Windows 10 앱](../office-applications-service-description/office-applications.md#windows-10-apps)|예|예|예|예|예|예|예|예|예|아니요|
-|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|아니요|예|아니요|아니요|아니요|예|<sup>5</sup> 없음|아니요|예|아니요|
+|[Office 365용 Office for Mac](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|아니요|예|아니요|아니요|아니요|예|<sup>5</sup> 없음|아니요|예|아니요|
 |Android 용 Microsoft Office 앱|예|예|예|예|예|예|예|예|예|예|
 |IOS 용 Microsoft Office 앱|예|예|예|예|예|예|예|예|예|예|
 |[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|예|예|예|예|예|예|예<sup>5</sup>|예|예|예|
@@ -278,7 +278,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>6</sup> Office 2011 for Mac을 설치할 수 있으나 정품 인증을 받을 수 없습니다.
 <br/><sup>7</sup> Office 365 ProPlus는 사용자 전용 VDI (가상 데스크톱 인프라)에서 지원 됩니다. Office 365 ProPlus는 볼륨 라이선스 프로그램을 통해 구입한 경우만 RDS(원격 데스크톱 서비스)를 지원합니다.
 <br/><sup>8</sup>Office 365 Enterprise E3 및 Office 365 ProPlus에 대한 볼륨 정품 인증은 RDS 역할이 설정되거나 Window To Go 설치가 있는 Windows Server 2008 R2 이상 버전의 설치로만 제한됩니다. 두 경우 모두 이러한 설치에 액세스하는 사용자는 Office 365 Enterprise E3 또는 Office 365 ProPlus의 허가된 사용자여야 합니다.
-<br/><sup>9</sup> 현재 지연 채널에 대한 대상 지정 릴리스 또는 현재 채널에 있는 경우 Access를 사용할 수 있습니다. 지연 채널에 있는 경우 2017년 6월에 Access가 제공될 예정입니다. 자세한 내용은 [Office 365 Business 및 Business Premium의 일부로 포함된 Access](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).
+<br/><sup>9</sup> 현재 지연 채널에 대한 대상 지정 릴리스 또는 현재 채널에 있는 경우 Access를 사용할 수 있습니다. 지연 채널에 있는 경우 2017년 6월에 Access가 제공될 예정입니다. 자세한 내용은 [Office 365 Business 및 Business Premium의 일부로 포함된 Access](https://support.office.com/article/f55c8362-5816-4f8b-897d-0a05e7ba0fef).
 <br/><sup>10</sup> 웹의 Visio가 현재 21vianet에서 운영 하는 Office 365의 미리 보기에 있습니다. 웹의 Visio에 대 한 자세한 내용은 [웹 서비스 설명을 위해 visio](../visio-online-service-description/visio-online-service-description.md)를 참조 하십시오.
 <br/><sup>11</sup> 21Vianet에서 운영하는 Office 365에 곧 제공될 예정입니다.
 <br/><sup>15</sup> Google 서비스 (재생 스토어 포함)는 중국 내에서 액세스할 수 없습니다. 사용자가 모바일 앱을 설치할 수 있는 주요 전화 제조업체 또는 검색 엔진 회사에서 여러 앱 저장소를 유지 관리 하 고 있습니다.

@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Project Online에서는 다음과 같은 프로젝트 관리 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 6952e801fe96d9467c7b642b002abf6f97664414
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 3a6e49d3b373646524f4f1f96e955bd4b78e1677
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131222"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294110"
 ---
 # <a name="project-management"></a>프로젝트 관리
 
@@ -44,4 +44,4 @@ Microsoft PPM 솔루션에서는 보고서를 보거나 만들고, Project Serve
 
 ## <a name="project-home"></a>프로젝트 홈
 
-프로젝트 홈은 최근에 작업을 수행한 프로젝트와 중요 한 주요 프로젝트에 빠르고 쉽게 액세스할 수 있도록 하는 시작 지점입니다. 이러한 프로젝트를 간편 하 게 사용할 수 있는 즐겨찾기로 표시 하 여 프로젝트 홈에서 두드러지게 표시할 수도 있습니다. 자세한 내용은 [Project Home 시작](https://support.office.com/article/get-started-with-project-home-a3b38418-35e7-4df4-8e4a-ba6a4fa0562a?ui=en-US&rs=en-US&ad=US)을 참조 하세요.
+프로젝트 홈은 최근에 작업을 수행한 프로젝트와 중요 한 주요 프로젝트에 빠르고 쉽게 액세스할 수 있도록 하는 시작 지점입니다. 이러한 프로젝트를 간편 하 게 사용할 수 있는 즐겨찾기로 표시 하 여 프로젝트 홈에서 두드러지게 표시할 수도 있습니다. 자세한 내용은 [Project Home 시작](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a)을 참조 하세요.

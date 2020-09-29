@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
-ms.openlocfilehash: f90f8a029307eb7c8d240a5038c3142516320cee
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 1be74377907ed36f2ef5738bb2002abf2844e603
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261590"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293954"
 ---
 # <a name="office-365-plan-options"></a>Office 365 계획 옵션
 
@@ -120,7 +120,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |비즈니스 인텔리전스 서비스  <br/> |[Power BI](https://products.office.com/business/analytics-and-intelligence/home) <br/> |
 |온라인 다이어그램 소프트웨어  <br/> |[Visio Pro for Office 365](https://products.office.com/visio/visio-online-plan-2) <br/> |
 |정보 권한 관리  <br/> |[Azure Information Protection](https://signup.microsoft.com/signup?OfferId=9DF77AF9-DAAE-4d51-8E0E-EEEADD4866B8&dl=RIGHTSMANAGEMENT&ali=1) <br/> |
-|Kaizala  <br/> |[Microsoft Kaizala Pro](https://signup.microsoft.com/Signup?OfferId=b03ad9b6-42e5-4899-9a84-f7666ded99a1&culture=en-US&ali=1) <br/> |
+|Kaizala  <br/> |[Microsoft Kaizala Pro](https://docs.microsoft.com/Office365/Kaizala/migrate-kaizala-pro) <br/> |
    
 ## <a name="feature-availability"></a>기능 가용성
 

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word for web (이전의 Word Web App)을 사용 하면 Microsoft Word 환경을 웹 브라우저로 확장 하 여 문서가 저장 된 웹 사이트에서 직접 문서로 작업할 수 있습니다.
-ms.openlocfilehash: cc6a5f432cc0a89da96042b4879b32545af5dac5
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 3f4d2950284a866fc86d05be71976a57a6a17244
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616914"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294054"
 ---
 # <a name="word-for-the-web"></a>웹용 Word
 
@@ -160,7 +160,7 @@ Web 용 Word에서 IRM (정보 권한 관리)으로 보호 되는 문서를 표�
 
 웹 용 Word에서는 여백, 용지 크기 및 페이지를 문서에서 세로 방향으로 배치할지, 가로로 정렬할지를 조정할 수 있습니다. 웹의 Word에는 눈금자와 눈금선이 표시 되지 않습니다. 자세한 내용은 [브라우저와 Word에서 문서 사용 시 차이점](https://go.microsoft.com/fwlink/p/?LinkId=271859)을 참조하세요. 
   
-[웹의 Word에서 새 페이지를 삭제](https://support.office.com/en-US/article/Delete-a-blank-page-B583020A-D26C-4661-873C-CB66FBDB03D1)하는 방법에 대해 알아봅니다.
+[웹의 Word에서 새 페이지를 삭제](https://support.office.com/article/B583020A-D26C-4661-873C-CB66FBDB03D1)하는 방법에 대해 알아봅니다.
   
 ## <a name="page-layout-tools-advanced"></a>페이지 레이아웃 도구, 고급
 
