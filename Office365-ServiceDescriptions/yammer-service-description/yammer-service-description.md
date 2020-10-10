@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 다른 Yammer 계획에서 사용할 수 있는 기능을 확인 합니다.
-ms.openlocfilehash: 5465dc6dadfd69ae365cda70cbc07b54b0bb5220
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 6a0a95ba335fc6b75c1730b101b55d052a69cd95
+ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276750"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48408254"
 ---
 # <a name="yammer-service-description"></a>Yammer 서비스 설명
 
 Yammer는 최고의, 보안 및 사설 엔터프라이즈 소셜 네트워크입니다. Yammer를 통해 직원들은 손쉽게 공동 작업을 수행하고 더욱 신속하게 의사 결정하고 비즈니스 과제를 담당하는 팀으로 자가 조직화할 수 있기 때문에 더욱 강력한 생산성을 갖추고 성과를 올릴 수 있습니다. Yammer는 비즈니스 제휴 및 민첩성을 자연스럽게 유도하면서 주기 시간을 줄이고 직원 간의 공동 작업을 진행하고 고객과 파트너와의 관계를 향상시킬 수 있는 새로운 작업 방식입니다.
   
-Yammer를 포함 하는 계획 목록은 [Microsoft 서비스 제품군 및 요금제](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)를 참조 하세요.
+Yammer를 포함 하는 계획 목록은 [Microsoft 서비스 제품군 및 요금제](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans)를 참조 하세요.
   
 계획 간에 기능을 비교 하려면 [엔터프라이즈를 지원 하기 위한 강력한 도구](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)를 참조 하세요.
   
