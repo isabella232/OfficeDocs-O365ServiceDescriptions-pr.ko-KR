@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 및 독립 실행형 계획에 대 한 SharePoint 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: 5563789395bbf1113e29fb368997aeba53119bc3
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 15acfde2ceb9a2ff62e2905c1796253a2117f7c1
+ms.sourcegitcommit: df00a1b12b1f5288fb756f1c002ec46ce6e0e5db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276723"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48447345"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -50,7 +50,7 @@ Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
 
 허용 되는 제한은 5만 고유 고유한 항목 이지만 권장 되는 일반적인 제한은 5000입니다. 5000 개 보다 많은 고유한 항목을 한 번에 변경 하는 것이 더 오래 걸립니다. 큰 목록의 경우에는 가능한 한 한 가지 고유한 사용 권한을 갖도록 디자인 합니다.
 
-또 다른 제한은 고유-고유한 항목 별로 할당 되는 5000 역할입니다. 
+다른 제한은 고유 고유한 수 있는 항목 별로 5000 역할 할당입니다. 
 
 ### <a name="file-size-and-file-path-length"></a>파일 크기 및 파일 경로 길이
 
@@ -66,9 +66,9 @@ Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
 
 ### <a name="sync"></a>동기화
 
-**새 OneDrive 동기화 앱** -최적의 성능을 위해, 주문형 파일을 사용 하거나 라이브러리 내에서 동기화 할 일부 폴더만 선택 해도 동기화 된 모든 문서 라이브러리에서 사용자 당 30만 개 이하의 파일을 저장 하는 것이 좋습니다.
+**현재 OneDrive 동기화 앱 (OneDrive.exe)** -최적의 성능을 위해, 주문형 파일을 사용 하거나 라이브러리 내에서 동기화 할 일부 폴더만 선택 해도 동기화 된 모든 문서 라이브러리에서 사용자 당 30만 개 이하의 파일을 저장 하는 것이 좋습니다.
 
-**이전 비즈니스용 OneDrive 동기화 앱 (Groove.exe)** -동기화 된 모든 라이브러리에서 최대 2만 항목 합계를 동기화 할 수 있습니다. 여기에는 OneDrive 라이브러리, 팀 사이트 라이브러리 또는 둘 다 포함 됩니다. 전체 동기화 제한과 별도로, 각 라이브러리 유형에 대해 동기화 할 수 있는 항목 수에 제한이 있습니다.
+**이전 비즈니스용 OneDrive 동기화 앱 (Groove.exe-이전 온-프레미스 SharePoint 환경에서 사용 됨)** -동기화 된 모든 라이브러리에서 최대 2만 개의 항목을 동기화 할 수 있습니다. 여기에는 OneDrive 라이브러리, 팀 사이트 라이브러리 또는 둘 다 포함 됩니다. 전체 동기화 제한과 별도로, 각 라이브러리 유형에 대해 동기화 할 수 있는 항목 수에 제한이 있습니다.
 
    - OneDrive 라이브러리에서 최대 2만 개의 항목을 동기화 할 수 있습니다. 여기에는 폴더 및 파일이 포함 됩니다. 
    - SharePoint 라이브러리에서 최대 5000 개의 항목을 동기화 할 수 있습니다. 여기에는 폴더 및 파일이 포함 됩니다. 이 라이브러리는 팀 사이트 및 커뮤니티 사이트, 다른 사용자가 만들었거나 만든 라이브러리 또는 사이트 페이지에서 만든 라이브러리가 있는 다양 한 SharePoint 사이트에서 찾을 수 있습니다. 여러 SharePoint 라이브러리를 동기화 할 수 있습니다. 동기화 하는 모든 팀 사이트는 모든 동기화 된 라이브러리의 전체 2만 항목 제한에 대해서도 계산 됩니다.
