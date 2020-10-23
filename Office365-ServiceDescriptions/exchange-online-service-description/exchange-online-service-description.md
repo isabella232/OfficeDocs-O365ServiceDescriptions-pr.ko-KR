@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함 하는 구독의 기능 비교를 찾으십니까? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: b3abce805be8cfefd9a65e72f5ec2b0f2b2ac653
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: ad4107a146ea4c4042cd9c1551110c7ec4ca0632
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245693"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661286"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -52,6 +52,9 @@ Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수
 Exchange Online 서비스에 액세스하는 각 사용자는 구독 계획을 선택해야 하며, 각 사용자 구독에는 자체 사서함이 있습니다. 이러한 사서함의 폴더와 메시지는 Microsoft 데이터 센터에서 Exchange Server를 실행하는 컴퓨터에 있습니다.
   
 회의실 및 공유 사서함에 대해서는 사용자의 구독이 필요하지 않습니다. 이러한 특수 사서함 유형은 로그인 자격 증명이 없는 대신, 위임을 통해 적절한 권한을 가진 정식 사용자가 이를 관리 및 액세스합니다.
+
+**Microsoft 365 F1 사용자 사서함 사용 권한** <br/>
+Microsoft 365 F1에는 Exchange 사서함에 대 한 권한이 포함 되어 있지 않습니다. 전체 팀 경험을 사용 하기 위해 M365 F1 라이선스는 Exchange Online K1 서비스 요금제가 사용 하도록 설정 된 상태로 제공 될 수 있습니다. Exchange Online K1 서비스 계획은 사용자를 위해 사서함을 프로 비전 하지만 M365 F1 사용자에 게는 사서함을 사용할 자격이 없습니다. [이러한 단계](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) 를 통해 웹에서 Outlook을 사용 하지 않도록 설정 하 고 다른 방법을 통해 사용자에 게 Exchange 사서함에 액세스 하지 않도록 하는 것이 좋습니다.
   
 ## <a name="system-requirements-for-exchange-online"></a>Exchange Online에 대한 시스템 요구 사항
 

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 사용할 수 있는 SharePoint 기능을 계획 합니다.
-ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: e99bfed4518c42e848e3937722d7b91eb3ec9ef1
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294114"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661266"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 서비스 설명
 
@@ -42,7 +42,7 @@ US 정부 클라우드 고객을 위한 SharePoint 기능 차이에 대 한 자�
 
 Microsoft 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양 한 계획으로 제공 됩니다. 독립 실행형 계획 옵션 및 계획 간 이동에 대 한 정보를 비롯 하 여 다양 한 계획에 대 한 자세한 내용은 [Microsoft 365 계획 옵션](../office-365-platform-service-description/office-365-plan-options.md)을 참조 하십시오.
   
-SharePoint에 액세스 하려면 조직의 사용자에 게 SharePoint를 포함 하는 라이선스를 할당 해야 합니다. Firstline 요금제는 [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1)의 일부로만 독립 실행형 제공으로 판매 되지 않습니다. 
+SharePoint에 액세스 하려면 조직의 사용자에 게 SharePoint를 포함 하는 라이선스를 할당 해야 합니다. Firstline 요금제는 [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1), [microsoft 365 F1](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) 또는 [microsoft 365 f3](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab)의 일부로 서 독립 실행형 제공으로 판매 되지 않습니다. 
   
 ## <a name="rights-of-guests"></a>게스트 권한
 
@@ -150,7 +150,7 @@ SharePoint는 Microsoft 365의 고급 보안 및 규정 준수 기능과 통합 
 
 다른 설명이 없는 한, SharePoint를 포함 하는 모든 요금제 및 모든 SharePoint 독립 실행형 계획에서 다음 기능을 사용할 수 있습니다.
 
-- [손쉬운 사용](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
+- [접근성](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
 - [Microsoft 팀을 사이트에 추가](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865)합니다. Office 365가 포함된 구독이 필요하며 사용자에게 팀 라이선스가 있어야 합니다.
 - [대상 그룹 지정](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
 - [클래식 팀 사이트를 새 Office 365 그룹에 연결](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d)합니다. Office 365이 포함 된 구독이 필요 합니다.

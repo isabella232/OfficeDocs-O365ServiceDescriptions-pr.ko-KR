@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: b7a1793b049b1e38bc7821c94befd1eab5d7eb55
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 5ee2dc81d70239f00f967ace7a8594a0d5730e38
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294164"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661296"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -164,7 +164,7 @@ MCAS에서 조건부 Access 앱 제어 기능을 활용 하려면 사용자에 �
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
-Office 365 E1/A1/E3/A3 및 Microsoft 365 E3/A3 라이선스를 사용 하는 고객은 데이터 보호 기준 평가에 액세스할 수 있습니다. Office 365 E5/A5와 Microsoft 365 E5/A5 라이선스를 사용 하는 고객은 데이터 보호 기준, GDPR, NIST 800-53 및 ISO 22701 out for 기본 평가에 액세스할 수 있습니다. 고객은 사용자 지정 평가 기능을 사용 하려면 적어도 하나의 Office 365 E5/A5 또는 Microsoft 365 E5/A5 라이선스가 있어야 합니다. 프리미엄 평가는 Office 365 E5/A5 및 Microsoft 365 E5/A5 고객에 게 구매할 수 있습니다.
+Office 365 E5/A5 및 Microsoft 365 E5/A5 라이선스를 사용 하는 고객은 사용자 지정 평가 기능을 사용할 수 있을 뿐만 아니라 데이터 보호 기준, GDPR, NIST 800-53 및 ISO 27001의 기본 평가에 액세스할 수도 있습니다. 프리미엄 평가는 Office 365 E5/A5 및 Microsoft 365 E5/A5 고객에 게 구매할 수 있습니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
 
@@ -429,7 +429,7 @@ Microsoft 365에 대 한 이중 암호화를 사용 하면 중요 한 데이터�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자는 암호화 된 데이터를 클라우드로 마이그레이션하고, 키가 사용자를 제어할 수 있는 경우 타사 액세스를 차단 하 여 이중 키 암호화의 이점을 얻게 됩니다. 최종 사용자는 다른 민감도 레이블 보호 콘텐츠와 비슷한 암호화 된 두 콘텐츠를 보호 하 고 사용할 수 있습니다.
+사용자는 암호화 된 데이터를 클라우드로 마이그레이션하고, 키가 사용자를 제어할 수 있는 한 타사 액세스를 차단 하는 방식으로 이중 암호화의 이점을 얻게 됩니다. 최종 사용자는 다른 민감도 레이블 보호 콘텐츠와 비슷한 암호화 된 두 콘텐츠를 보호 하 고 사용할 수 있습니다.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
 
