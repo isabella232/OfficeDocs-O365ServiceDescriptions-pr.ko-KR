@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 팀은 인스턴트 메시징, 파일 및 데이터 공동 작업, 오디오 및 비디오 통화, 리치 온라인 모임, 모바일 환경 및 광범위 한 웹 회의 기능을 제공 합니다.
-ms.openlocfilehash: e9e537fc9c9bb54110d126d6007dcc209ebaa0e8
-ms.sourcegitcommit: e201e94eff3463c71d5c4b24db0148eee351fb1c
+ms.openlocfilehash: bd97ba4813fb9247afb478ddf1d9469a68fef6dc
+ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48175185"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773442"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -35,11 +35,11 @@ Microsoft는 데이터의 보안 및 서비스의 [내게 필요한 옵션](http
 |  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
 |  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
 
-자세한 제품 기능 구현 지침은 [Microsoft 팀 관리 설명서](https://docs.microsoft.com/MicrosoftTeams)를 참조 하십시오. 이 서비스 설명은 다양 한 클라우드 설치에서 제공 되는 서비스 간의 주요 차이점에 대해 자세히 설명 합니다. Microsoft 팀 핵심 기능은 구독 간에 차이가 없습니다. 준수 기능의 가용성은 구독 수준에 따라 달라 집니다. 자세한 내용은 [Microsoft 팀의 보안 및 규정 준수](https://docs.microsoft.com/microsoftteams/security-compliance-overview)를 참조 하세요. 각 구독에서 사용할 수 있는 기능에 대 한 자세한 목록은 [Microsoft 365 및 Office 365 platform service description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)을 참조 하십시오.
+자세한 제품 기능 구현 지침은 [Microsoft 팀 관리 설명서](https://docs.microsoft.com/MicrosoftTeams)를 참조 하십시오. 이 서비스 설명은 다양 한 클라우드 설치에서 제공 되는 서비스 간의 주요 차이점에 대해 자세히 설명 합니다. Microsoft 팀 핵심 기능은 구독 간에 차이가 없습니다. 준수 기능의 가용성은 구독 수준에 따라 달라 집니다. 자세한 내용은 [Microsoft 팀의 보안 및 규정 준수](https://docs.microsoft.com/microsoftteams/security-compliance-overview)를 참조 하세요. 각 구독에서 사용할 수 있는 기능에 대 한 자세한 목록은 [Microsoft 365 및 Office 365 platform service description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)을 참조 하십시오.
 
-**클라우드 음성 기능**: 오디오 회의의 경우 조직에서 전화 접속 회의를 설정할 각 사용자에 게 오디오 회의 라이선스를 구입 하 여 할당 해야 합니다. 요금제를 호출 해야 하는 팀 기능의 경우 각 사용자에 게 전화 시스템과 국내 또는 국내/국제 통화 요금제가 필요 합니다. 자세한 내용은 [Microsoft 팀 추가 기능 라이선스](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)를 참조 하세요.
+**클라우드 음성 기능** : 오디오 회의의 경우 조직에서 전화 접속 회의를 설정할 각 사용자에 게 오디오 회의 라이선스를 구입 하 여 할당 해야 합니다. 요금제를 호출 해야 하는 팀 기능의 경우 각 사용자에 게 전화 시스템과 국내 또는 국내/국제 통화 요금제가 필요 합니다. 자세한 내용은 [Microsoft 팀 추가 기능 라이선스](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)를 참조 하세요.
 
-**라이브 이벤트**: Office 365의이 제공은 만료 된 Skype 모임 브로드캐스트를 대체 합니다. 라이브 이벤트 기능은 Stream service 내에 자세히 설명 된 대로 라이선스 계획에 사용할 수 있습니다. [여기에서 Microsoft Stream license details](https://docs.microsoft.com/stream/license-overview)를 검토 하세요. 라이브 이벤트 서비스는 Stream, Yammer 또는 Microsoft 팀을 통해 액세스할 수 있습니다. 라이브 이벤트 기능에 대 한 자세한 내용은 [Yammer, Microsoft 팀 및 Microsoft Stream의 microsoft 365에서 라이브 이벤트](https://docs.microsoft.com/stream/live-event-m365)를 참조 하세요.
+**라이브 이벤트** : Office 365의이 제공은 만료 된 Skype 모임 브로드캐스트를 대체 합니다. 라이브 이벤트 기능은 Stream service 내에 자세히 설명 된 대로 라이선스 계획에 사용할 수 있습니다. [여기에서 Microsoft Stream license details](https://docs.microsoft.com/stream/license-overview)를 검토 하세요. 라이브 이벤트 서비스는 Stream, Yammer 또는 Microsoft 팀을 통해 액세스할 수 있습니다. 라이브 이벤트 기능에 대 한 자세한 내용은 [Yammer, Microsoft 팀 및 Microsoft Stream의 microsoft 365에서 라이브 이벤트](https://docs.microsoft.com/stream/live-event-m365)를 참조 하세요.
 
 지원 되는 모든 구독 계획은 Microsoft 팀 웹 클라이언트, 데스크톱 클라이언트 및 모바일 앱에 대 한 액세스에 적합 합니다.
 
@@ -59,13 +59,14 @@ Microsoft 팀은 독립 실행형 서비스로 사용할 수 없습니다.
 |화면 공유 PowerPoint Audio/Video Desktop <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |음성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |오디오 회의  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|앱, Bot, & 커넥터  <br/> |예  <br/> |예  <br/> |예<sup>3</sup>  <br/> |예<sup>3</sup>  <br/> |예<sup>3</sup>  <br/> |예  <br/> |
-|라이브 이벤트  <br/> |아니요  <br/> |예  <br/> |예  <br/> |<sup>4</sup> 없음  <br/> |<sup>4</sup> 없음  <br/> |예  <br/> |
+|앱, Bot, & 커넥터  <br/> |예  <br/> |예  <br/> |예<sup>4</sup>  <br/> |예<sup>4</sup>  <br/> |예<sup>3, 4</sup>  <br/> |예  <br/> |
+|라이브 이벤트  <br/> |아니요  <br/> |예  <br/> |예  <br/> |<sup>5</sup> 없음  <br/> |<sup>5</sup> 없음  <br/> |예  <br/> |
 
-> <sup>1</sup>  개별 팀에서 GCC-고가용성 및 DOD 지원 2500 구성원의 Microsoft 팀<br/>
+> <sup>1</sup>  GCC-High의 Microsoft 팀 및 개별 팀에서 2500 구성원이 DOD를 지원 합니다.<br/>
 > <sup>2</sup> Microsoft Planner는 현재 개인 채널에서 액세스 하는 데 사용할 수 없습니다.<br/>
-> <sup>3</sup> Microsoft ONENOTE는 DOD 클라우드에서 사용할 수 없습니다. 지금은이 클라우드에서 응용 프로그램 및 응용 프로그램 게시를 사용할 수 없습니다.<br/>
-> <sup>4</sup> 현재는 GCC-HIGH 또는 DOD에서 Live 이벤트를 사용할 수 없습니다.<br/>
+> <sup>3</sup> Microsoft ONENOTE는 DOD 클라우드에서 사용할 수 없습니다.<br/>
+> <sup>4</sup> 지금은 이러한 클라우드에서 응용 프로그램 및 응용 프로그램 게시를 사용할 수 없습니다.<br/>
+> <sup>5</sup> Live 이벤트는 현재 GCC-High 또는 DOD에서 사용할 수 없습니다.<br/>
 
 ## <a name="next-steps"></a>다음 단계
 

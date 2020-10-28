@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
-ms.openlocfilehash: 213f3bef10445ac8964e356f3438b9fd3fe100cf
-ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
+ms.openlocfilehash: 5e8b187cb0148215340b1ac83bb9df4ee6b70de0
+ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48408224"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773452"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 및 Office 365 계획 옵션
 
@@ -49,7 +49,7 @@ Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 효율적으�
 | 서비스 | Microsoft 365 앱 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1  | Microsoft 365 E3/Office 365 E3 | Microsoft 365 E5/Office 365 E5<sup>3,</sup><sup>15</sup> | Microsoft 365 F3/Office 365 F3 | Microsoft 365 F1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Office 365 플랫폼  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Exchange Online  <br/> |아니요  <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>8</sup> <br/> |예<sup>16</sup> <br/> |
+|Exchange Online  <br/> |아니요  <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>8</sup> <br/> |<sup>16</sup> 없음 <br/> |
 |SharePoint Online  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>17</sup> <br/> |
 |OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |
 |비즈니스용 Skype Online <sup>14</sup> <br/> |아니요  <br/> |예<sup>9</sup> <br/> |예<sup>9</sup> <br/> |예<sup>9</sup> <br/> |예<sup>9</sup> <br/> |예<sup>10</sup> <br/> |예<sup>12</sup> <br/> |예<sup>13</sup> <br/> |예<sup>13</sup> <br/> |
@@ -76,7 +76,7 @@ Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 효율적으�
 <sup>13</sup> 비즈니스용 Skype Online 계획 1이 포함 됩니다.<br>
 <sup>14</sup> microsoft 팀은 이제 microsoft 365에서 메시징, 모임 및 통화를 위한 기본 클라이언트입니다. Oct. 1, 2018, 500을 사용 하는 신규 고객은 Microsoft 팀에 등록 비즈니스용 Skype Online에 대 한 액세스 권한이 없습니다. 이미 비즈니스용 Skype 온라인을 사용 하는 테 넌 트는 Microsoft 팀으로 전환할 때까지 계속 진행할 수 있습니다 (새 사용자 프로 비전).<br>
 <sup>15</sup> 에는 자동 분류 및 보존, 고객 키, 고급 메시지 암호화, 참가자 위험 관리, 통신 준수, 정보 장벽, 고객 Lockbox, 권한이 부여 된 액세스 관리, 고급 감사, 레코드 관리 및 고급 eDiscovery 기능이 제공 되는 Microsoft 365 E5 규정 준수가 포함 되어 있습니다. Office 365의 ATP (Advanced Threat Protection) 계획 2, Microsoft Defender ATP, Azure Active Directory 계획 2, Azure ATP, Microsoft Cloud App Security 및 안전한 문서를 포함 하는 Microsoft 365 E5 보안<br>
-<sup>16</sup> Microsoft 365 F1 사용자는 팀 달력만 사용 하도록 설정 하기 위해 Exchange Kiosk 서비스 요금제를 프로 비전 하며 사서함을 배포할 수 있는 권한은 없습니다.<br>
+<sup>16</sup> Microsoft 365 F1에는 Exchange 사서함에 대 한 권한이 포함 되어 있지 않습니다. 전체 팀 경험을 사용 하도록 설정 하기 위해 M365 F1 라이선스는 Exchange Online K1 서비스 요금제를 사용 하도록 설정 된 상태로 제공 될 수 있습니다. Exchange Online K1 서비스 계획은 사용자를 위해 사서함을 프로 비전 하지만 M365 F1 사용자에 게는 사서함을 사용할 자격이 없습니다. 고객이 [이러한 단계](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) 를 통해 웹에서 Outlook을 사용 하지 않도록 설정 하는 것이 좋으며, 다른 방법을 통해 사용자에 게 Exchange 사서함에 액세스 하지 못하도록 요청 하는 것이 좋습니다.<br>
 <sup>17</sup> SharePoint Online 키오스크가 포함 됩니다. 관리자가 될 수 없습니다. 사이트 사서함 없음 개인 사이트 없음<br>
 <sup>18</sup> Microsoft 365 F1 사용자는 Office를 사용 하 여 웹에 파일을 읽을 수 있지만 만들기/편집/저장 권한은 없습니다. 
   
