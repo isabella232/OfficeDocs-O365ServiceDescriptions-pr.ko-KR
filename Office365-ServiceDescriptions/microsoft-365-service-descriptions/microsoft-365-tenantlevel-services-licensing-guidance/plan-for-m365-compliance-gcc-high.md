@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 미국 연방 정부 엔터티 또는 정부 규정 요구 사항이 적용 되는 데이터를 처리 하는 기타 엔터티와의 Office 365 배포를 추진 하는 IT 전문가를 위한 것으로, Microsoft 365 정부의 사용은 이러한 요구 사항을 충족 하는 데 적합 합니다.
-ms.openlocfilehash: df0d78d40e91c171b2a512de4b7d8371ceb59995
-ms.sourcegitcommit: dcacd13c1cf1c60526c48fc923db5de643facc07
+ms.openlocfilehash: 3cbe9271b8e23467fc7934e5847d8433ea5a6768
+ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/20/2020
-ms.locfileid: "48626889"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48793669"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Microsoft 365 준수 계획 – GCC High
 
@@ -36,9 +36,9 @@ Microsoft 365 정부에 대 한 자세한 내용은 자격 요구 사항을 포�
 [Office 365 US 정부 서비스 설명은](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) 미국 내에서 모임 준수 요구 사항을 중심으로 하는 플랫폼의 이점을 설명 합니다.
 
 > [!TIP]
-> 서비스 설명의 정보 테이블을 Excel 통합 문서에 전송 하 고 **조직 y/n에 관련**된 두 개의 열을 추가 하   고 **조직 y/n의 요구 사항을 충족**해야 할 수 있습니다. 그런 다음 동료와 함께이 목록을 검토 하 여이 서비스가 조직의 요구를 충족 하는지 확인할 수 있습니다.
+> 서비스 설명의 정보 테이블을 Excel 통합 문서에 전송 하 고 **조직 y/n에 관련** 된 두 개의 열을 추가 하 고 **조직 y/n의 요구 사항을 충족** 해야 할 수 있습니다. 그런 다음 동료와 함께이 목록을 검토 하 여이 서비스가 조직의 요구를 충족 하는지 확인할 수 있습니다.
 
-**의사 결정 사항**:<br/>
+**의사 결정 사항** :<br/>
 - *Microsoft 365 정부-GCC-High이 조직에 적합 한지 여부를 결정 합니다.*
 - *조직이 자격 요건을 충족 하는지 확인 합니다.*
 
@@ -53,14 +53,13 @@ Microsoft 365 정부에 대 한 자세한 내용은 자격 요구 사항을 포�
 
 관리 및 보안 설정을 수정 하기 전에 주의 깊게 검토 하 고, 기본 보안 설정을 변경 하기 전에 준수에 미치는 영향을 고려 하는 것이 좋습니다.
 
-**의사 결정**사항: *기본 Microsoft 365 정부-GCC-High 보안 설정을 수정할 지 여부를 결정 하 고, 변경 내용이 미치는 영향을 먼저 이해 하도록 확인 합니다.*
+**의사 결정** 사항: *기본 Microsoft 365 정부-GCC-High 보안 설정을 수정할 지 여부를 결정 하 고, 변경 내용이 미치는 영향을 먼저 이해 하도록 확인 합니다.*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>4단계. Microsoft 365 정부에서 기본적으로 현재 사용할 수 없거나 사용 하지 않도록 설정 된 기능 확인-GCC-고가용성<sup>1</sup>
 
-정부 클라우드 고객의 요구 사항을 충족 하기 위해 Microsoft 365 정부-GCC-High 및 enterprise 요금제 간에는 약간의 차이가 있습니다. 사용 가능한 기능을 확인 하려면 다음 표를 참조 하세요.
+정부 클라우드 고객의 요구 사항을 충족 하기 위해 Microsoft 365 정부-GCC-High 및 enterprise 요금제 간에는 약간의 차이가 있습니다. 사용 가능한 기능을 확인 하려면 다음 표를 참조 하세요.<br><br>
 
-
-|                                         | 기능                                         | GCC 상태             |
+| 영역                                    | 기능                                         | GCC 상태             |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **정보 보호**              | 통합 레이블 클라이언트 및 스캐너         | 사용할 수 있음              |
 |                                         | 정확한 데이터 일치          | 사용할 수 있음              |
@@ -102,7 +101,7 @@ Microsoft 365 정부에 대 한 자세한 내용은 자격 요구 사항을 포�
 |                                         | 레코드 관리: 다중 단계 처리 검토 | 엔지니어링 백로그 |
 |                                         | 레코드 관리: 활동 탐색기 레이블 | 엔지니어링 백로그 |
 |                                         | 레코드 관리: Trainable 분류자 | 엔지니어링 백로그 |
-| **참가자 위험 관리**             | 고객 Lockbox                                | 사용할 수 있음            |
+| **내부자 위험 관리**             | 고객 Lockbox                                | 사용할 수 있음            |
 |                                         | 참가자 위험 관리: 팀, SharePoint 사이트, 전자 메일 메시지에 대 한 Office 지표                         | 개발 환경 |
 |                                         | 참가자 위험 관리: departing 사용자에의 한 데이터 도용                        | 개발 환경 |
 |                                         | 참가자 위험 관리: 일반 데이터 누수                                | 개발 환경              |
@@ -176,4 +175,4 @@ Microsoft 365 정부에 대 한 자세한 내용은 자격 요구 사항을 포�
 <sup>2</sup> 레이블 수동 응용 프로그램에는 [Aip (Azure Information Protection) 클라이언트 버전 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)이 필요 합니다. 
 
 
-**의사 결정**사항: *규정 준수 기능이 조직의 요구 사항을 충족 하는지 여부를 결정 합니다.*
+**의사 결정** 사항: *규정 준수 기능이 조직의 요구 사항을 충족 하는지 여부를 결정 합니다.*

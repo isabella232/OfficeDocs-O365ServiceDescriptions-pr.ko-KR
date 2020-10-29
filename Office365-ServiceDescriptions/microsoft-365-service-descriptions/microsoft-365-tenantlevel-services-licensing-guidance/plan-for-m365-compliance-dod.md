@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 미국 연방 정부 엔터티 또는 정부 규정 요구 사항이 적용 되는 데이터를 처리 하는 기타 엔터티와의 Office 365의 배포를 추진 하는 IT 전문가를 위한 것으로, Microsoft 365 정부-DoD를 사용 하는 것이 이러한 요구 사항을 충족 하는 데 적합 합니다.
-ms.openlocfilehash: d76e88aeeef105051d4c7c867e120fc6b300a888
-ms.sourcegitcommit: 155fab0939dde68a8e1ac24bc5d6471be159943e
+ms.openlocfilehash: aca09e0e7768228f39e942fbeffba1bae84cb77f
+ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48769980"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48793659"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 규정 준수 - DoD 배포 계획
 
@@ -59,10 +59,9 @@ Office 365의 기능을 제공 하는 것 외에도 조직은 Microsoft 365 정�
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>4단계. Microsoft 365 정부에서 기본적으로 현재 사용할 수 없거나 사용 하지 않도록 설정 된 기능 이해 (영문<sup>)</sup>
 
-정부 클라우드 고객의 요구 사항을 충족 하기 위해 Microsoft 365 정부-DoD 및 enterprise 요금제 간에는 약간의 차이가 있습니다. 사용 가능한 기능을 확인 하려면 다음 표를 참조 하세요.
+정부 클라우드 고객의 요구 사항을 충족 하기 위해 Microsoft 365 정부-DoD 및 enterprise 요금제 간에는 약간의 차이가 있습니다. 사용 가능한 기능을 확인 하려면 다음 표를 참조 하세요.<br><br>
 
-
-|                                         | 기능                                         | GCC 상태             |
+| 영역                                    | 기능                                         | GCC 상태             |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **정보 보호**              | 통합 레이블 클라이언트 및 스캐너         | 사용할 수 있음              |
 |                                         | 정확한 데이터 일치          | 사용할 수 있음               |
