@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 Microsoft 365 정부에 대 한 개요를 제공 하 고 구매 옵션에 대해 설명 합니다.
-ms.openlocfilehash: 81ee54c17a4861c44f350f394ccc61a4bd669996
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: bcdff20881d41a566f68e05ac3ae3c4b3be5a40c
+ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276767"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "48818668"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 정부-구매 방법
 
@@ -21,7 +21,7 @@ ms.locfileid: "48276767"
   
 ## <a name="whats-microsoft-365-government"></a>Microsoft 365 정부는 무엇 인가요?
 
-Microsoft 365 정부는 통제 되 고 분류 되지 않은 정보를 보유 하도록 보증 되는 미국 정부 기관 및 계약자에 맞게 조정 된 생산성, 보안 및 모바일 클라우드 소프트웨어 기능 집합입니다. 규정 준수 요구 사항을 가장 엄격 하 게 충족 하는 고유한 환경을 통해 제공 되는 Microsoft 365 정부는 Microsoft 상업용 클라우드 enterprise 제품의 기능 및 기능에 대해 최대한 유사 하 게 일치 하는 미국 정부 고객을 위한 클라우드 제공입니다. 
+Microsoft 365 정부는 통제 되 고 분류 되지 않은 정보를 보유 하도록 보증 되는 미국 정부 기관 및 계약자에 맞게 조정 된 생산성, 보안 및 모바일 클라우드 소프트웨어 기능 집합입니다. 규정 준수 요구 사항을 가장 엄격 하 게 충족 하는 고유한 환경을 통해 제공 되는 Microsoft 365 정부는 Microsoft 상업용 클라우드 enterprise 제품의 기능 및 기능에 대해 최대한 유사 하 게 일치 하는 미국 정부 고객을 위한 클라우드 제공입니다.
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Microsoft 365 정부의 가치는 무엇 인가요?
 
@@ -43,21 +43,21 @@ Microsoft 365 정부은 다음과 같은 네 가지 주요 영역에서 미국 �
 **스크린 된 직원** 조직의 고객 콘텐츠에 대 한 액세스는 사용자가 미국 내에 있는 선별 된 Microsoft 직원으로 제한 되며 배경 검사를 통과 해야 합니다.
 타사 감사 모든 인프라는 인증을 실행 하기 위해 연방 기관에서 사용 하는 증명 문자 또는 보안 평가 보고서를 제공 하는 공인 타사 감사자에 의해 감사 됩니다 (ATO). 
 
-**콘텐츠 저장소** 데이터는 준수 하는 인프라와 함께 대륙 미국 내에 저장 됩니다. 다음 표에는 Microsoft 365 for US 정부 환경 및 약정에 대 한 요약이 나와 있습니다.<br><br>
+**콘텐츠 저장소** 데이터는 준수 하는 인프라와 함께 대륙 미국 내에 저장 됩니다. 다음 표에는 정부 환경 및 약정에 대 한 Microsoft 365이 요약 되어 있습니다.<br><br>
 
 | 사항 | 약정 |
 |:----------|:----------------------------------|
-|Microsoft 365 정부 GCC  <br/> |FedRamp 보통, CJIS, IRS 1075, DISA SRG L2  <br/> |
-|Microsoft 365 정부 GCC High  <br/> |FedRamp High, ITAR, DFARS, DOD SRG L4 컨트롤 <br/> |
+|Microsoft 365 정부 GCC  <br/> |FedRamp High, CJIS, IRS 1075, DISA SRG L2 <br/> |
+|Microsoft 365 정부 GCC High  <br/> |FedRamp High, ITAR, DFARS, DISA SRG L4 컨트롤 <br/> |
 |Microsoft 365 정부 DoD  <br/> |DISA SRG L5  <br/> |
 
 Microsoft 보안 및 준수 인정에 대 한 자세한 내용은 Microsoft security [Center](https://www.microsoft.com/trustcenter/default.aspx) 를 참조 하세요.  
 
-## <a name="microsoft-365-for-us-government-eligibility-and-validation"></a>미국 정부 자격 및 정품 확인을 위한 Microsoft 365
+## <a name="microsoft-365-government-eligibility-and-validation"></a>Microsoft 365 정부 자격 및 유효성 검사
 
-제어 된 정보를 보유 하거나 처리할 수 있는 자격이 있는 정부 고객 및 비관리자 조직에 게 Microsoft 365이 제공 됩니다. 이러한 두 고객 범주에 대 한 자격 기준은 Microsoft 정부 클라우드 전체에서 동일 합니다.
+Microsoft 365 정부는 통제 된 정보를 보유 하거나 처리 해야 하는 적격 정부 고객 및 비 정부 조직에서 사용할 수 있습니다. 이러한 두 고객 범주에 대 한 자격 기준은 Microsoft 정부 클라우드 전체에서 동일 합니다.
 
-Microsoft 정부 클라우드에 적합 한 모든 고객은 GCC 및 GCC High 제품을 사용할 수 있으며, DoD 환경은 미국 방어 부서의 독점 사용을 위한 것입니다. 서비스 가용성과 가격이 서로 다르며, GCC는 FedRAMP High 또는 DoD가 통제 된 정보 (소송)를 유지 하지 않는 모든 고객에 대해 영웅의 모션을 유지 합니다.
+Microsoft 정부 클라우드에 적합 한 모든 고객은 GCC 및 GCC High 제품을 사용할 수 있으며, DoD 환경은 미국 방어 부서의 독점 사용을 위한 것입니다. 서비스 가용성과 가격이 서로 다르며 GCC는 FedRAMP High 또는 DoD가 통제 된 정보 (소송)를 유지 하지 않는 모든 고객에 대 한 영웅 제공은 그대로 유지 됩니다.
 
 적격 정부 고객은 다음 중 하나로 정의 됩니다.
 
@@ -70,7 +70,7 @@ Microsoft 정부 클라우드에 적합 한 모든 고객은 GCC 및 GCC High �
 
 다음과 같은 유형의 데이터를 보유 하 고 Microsoft 정부 클라우드 유효성 검사 프로세스에 대해 나열 된 증명을 제공할 수 있는 비 정부 조직:
 
-규정이 적용 되는 데이터가 포함 된 상업용 개인 엔터티입니다. 수락 된 정부 데이터 형식은 다음과 같습니다. 
+규정이 적용 되는 데이터가 포함 된 상업용 개인 엔터티입니다. 수락 된 정부 데이터 형식은 다음과 같습니다.
 - ITAR의 국제 트래픽
 - 제어 되는 미분류 정보 (의)
 - (DoD) 분류 되지 않은 핵 정보 (c)
@@ -113,7 +113,8 @@ Microsoft 365 정부에서 사용할 수 있는 서비스에 대 한 자세한 �
 Microsoft 365 정부 라이선스를 구매 하려면 다음 단계를 수행 합니다.
 
 1. [양식을 완성 하 고 제출](https://products.office.com/government/eligibility-validation) 하 여 조직의 자격을 확인 합니다.
-2. 주문 하려면 Microsoft 계정 팀 이나 적격 파트너와 협력 합니다. 고객은 선택 파트너를 통해서만 Microsoft 365 for US 정부 라이선스를 구입할 수 있습니다.
+2. 주문 하려면 Microsoft 계정 팀 이나 적격 파트너와 협력 합니다.
+고객은 선택 파트너를 통해서만 Microsoft 365 for US 정부 라이선스를 구입할 수 있습니다.
 
 **Lsp GCC 및 GCC High (+ 500 좌석)**
 
