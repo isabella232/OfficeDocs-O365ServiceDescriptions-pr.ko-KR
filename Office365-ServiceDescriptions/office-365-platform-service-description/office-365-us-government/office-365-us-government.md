@@ -9,14 +9,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 문서에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다.
-ms.openlocfilehash: 0bbf94b1647496a500719cec51b25b976d2129bc
-ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
+ms.openlocfilehash: 3e4b5b908196b96d56f79fd9ec487e43bb631366
+ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48367745"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48830415"
 ---
-# <a name="office-365-us-government"></a>Office 365 Government
+# <a name="office-365-government"></a>Office 365 Government
 
 > [!IMPORTANT]
 > Microsoft 팀은 coronavirus (COVID-19) pandemic 인해 온라인 통화 및 오디오/비디오 회의에 큰 스파이크를 발생 하 고 있습니다.<br/>
@@ -29,21 +29,21 @@ ms.locfileid: "48367745"
 >
 >이러한 특별 한 시간에 서비스가 사용 가능 하 고 안정적으로 유지 되도록 하기 위해 단계를 수행할 때 고객의 지원을 주셔서 감사 합니다.<br/>
 
-미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 서비스 설명은 Office 365 정부 US 환경과 관련 된 기능에 대 한 개요를 제공 합니다. 이 서비스 설명은 다른 [Microsoft 365 및 Office 365 서비스 설명과](../../office-365-service-descriptions-technet-library.md)함께 읽어 보는 것이 좋습니다.
+미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 서비스 설명은 Office 365 정부 US 환경과 관련 된 기능에 대 한 개요를 제공 합니다. 이 서비스 설명은 다른 [Microsoft 365 및 Office 365 서비스 설명과](../../office-365-service-descriptions-technet-library.md)함께 읽어 보는 것이 좋습니다.
 
 ## <a name="how-to-use-this-service-description"></a>서비스 설명 사용 방법
 
-Office 365 US 정부 서비스 설명은 일반적인 Office 365 서비스 설명에 대 한 오버레이를 제공 하도록 설계 되었습니다. Office 365 Enterprise 제품과 비교하여 고유한 확정 및 차이점을 정의합니다.
+Office 365 정부 서비스 설명은 일반적인 Office 365 서비스 설명에 대 한 오버레이를 제공 하도록 설계 되었습니다. Office 365 Enterprise 제품과 비교하여 고유한 확정 및 차이점을 정의합니다.
 
-## <a name="about-office-365-us-government-environments"></a>Office 365 US 정부 환경
+## <a name="about-office-365-government-environments"></a>Office 365 정부 환경 정보
 
-Office 365 Government 요금제는 월별 구독으로 제공되고 사용자 수에 제한 없이 사용을 허가할 수 있습니다.
+Office 365 정부 계획은 월별 구독 이며 사용자 수에 제한 없이 사용이 가능 합니다.
 
-- **Office 365 GCC** 환경은 클라우드 서비스에 대 한 연방 요구 사항 (FedRAMP 중간), 범죄 규정 및 연방 세금 정보 시스템 (CJI 및 FTI 데이터 형식)에 대 한 요구 사항 준수를 제공 합니다.
+- **Office 365 GCC** 환경은 클라우드 서비스에 대 한 연방 요구 사항 (FedRAMP High), 범죄 규정 및 연방 세금 정보 시스템 (CJI 및 FTI 데이터 형식)에 대 한 요구 사항 준수를 제공 합니다.
 
 - **Office 365 GCC High 및 DoD** 환경에서는 방어 보안 요구 사항 지침, 방어 연방 획득 규정 보완 (DFARS) 및 연방 Ar (무장 규정)의 국제 트래픽 준수를 제공 합니다.
 
-Office 365의 특징 및 기능 외에도 Office 365 Government을 사용하는 조직은 Office 365 Government에만 제공되는 다음과 같은 기능을 이용할 수 있습니다.
+Office 365 정부 365의 기능과 기능 외에도 office 365 정부에 고유한 다음과 같은 기능이 제공 됩니다.
 
 - 조직의 고객 콘텐츠는 Microsoft의 상용 Office 365 Services 고객 콘텐츠와 논리적으로 분리됩니다.
 
@@ -51,21 +51,21 @@ Office 365의 특징 및 기능 외에도 Office 365 Government을 사용하는 
 
 - 조직 고객 콘텐츠에 대한 액세스는 선별된 Microsoft 직원으로 제한됩니다.
 
-- Office 365 Government은 미국 공공 부문 고객에게 요구되는 인증 및 승인을 준수합니다.
+- Office 365 정부 기관에서는 미국 공공 부문 고객에 게 필요한 인증 및 승인을 준수 합니다.
 
 ## <a name="customer-eligibility"></a>고객 자격
 
-Office 365 US 정부 사용 가능 (1) 미국 연방, 주, 로컬, 부족 및 territorial 정부 기관 및 (2) 정부 규정 및 요구 사항에 따른 데이터를 처리 하는 다른 엔터티와 Office 365 US 정부 사용에 대 한 자세한 내용은 자격 확인에 따라 적합 합니다. Microsoft의 자격 유효성 검사에는 ITAR(International Traffic in Arms Regulations)를 준수하는 데이터 취급 확인, FBI의 CJIS(Criminal Justice Information Services) 정책을 준수하는 법률 적용 데이터 또는 기타 정부 규제 또는 관리 데이터에 대한 취급 확인이 포함됩니다. 유효성 검사를 위해서는 ITAR 데이터에 대한 미 국무부의 등록증이나 데이터 취급에 대한 특정 요구가 있는 정부 기관의 보증이 필요할 수 있습니다. Office 365 DoD-환경은 미국 연방 방어 부서를 배타적으로 사용 하기 위한 것입니다.
+Office 365 정부는 (1) 미국 연방, 주, 로컬, 부족 및 territorial 정부 기관 및 (2) 정부 규정 및 요구 사항이 적용 되는 데이터를 처리 하는 다른 엔터티와 Office 365 정부 사용에 대 한 자세한 내용은 자격 확인에 따라 적합 합니다. Microsoft의 자격 유효성 검사에는 ITAR(International Traffic in Arms Regulations)를 준수하는 데이터 취급 확인, FBI의 CJIS(Criminal Justice Information Services) 정책을 준수하는 법률 적용 데이터 또는 기타 정부 규제 또는 관리 데이터에 대한 취급 확인이 포함됩니다. 유효성 검사를 위해서는 ITAR 데이터에 대한 미 국무부의 등록증이나 데이터 취급에 대한 특정 요구가 있는 정부 기관의 보증이 필요할 수 있습니다. Office 365 DoD 환경 이란 미국 방어 부서를 배타적으로 사용 하기 위한 것입니다.
 
 자격 조건이 Office 365 정부 제품에서 일관적 이지만 Microsoft는 GCC High 환경용 DFARS 및 ITAR 계약 언어만을 받습니다.
 
-Office 365 Government 자격에 대해 질문이 있는 기관은 계정 팀에 문의해야 합니다.
+Office 365 정부에 대 한 자격에 대 한 질문이 있는 엔터티는 계정 팀에 문의 해야 합니다.
 
-Office 365 US 정부에 대 한 고객 계약 갱신 시 자격 유효성이 재검사 해야 합니다.
+Office 365 정부에 대 한 고객 계약 갱신 시 자격 유효성이 재검사 해야 합니다.
 
 ## <a name="customer-content-located-within-the-united-states"></a>미국 내의 고객 콘텐츠
 
-Office 365 Government 서비스는 미국에 실제로 있는 데이터 센터에서 제공합니다. 다음 고객 콘텐츠는 실제로 미국에 있는 데이터 센터에 계속 보관됩니다.
+Office 365 정부 서비스는 미국에 실제로 있는 데이터 센터에서 제공 됩니다. 다음 고객 콘텐츠는 실제로 미국에 있는 데이터 센터에 계속 보관됩니다.
 
 - Exchange Online 사서함 콘텐츠 (전자 메일 본문, 일정 항목 및 첨부 파일의 콘텐츠)
 
@@ -80,13 +80,13 @@ Office 365 Government 서비스는 미국에 실제로 있는 데이터 센터�
 
 사용자가 웹에 대해 Office (이전 버전에서는 Office Web Apps)를 사용 하는 동안 또는 AD FS (Active Directory Federation Services) 2.0을 사용 하 고 사용자가 single sign-on을 통해 서비스에 연결할 수 있도록 하는 정책을 설정 하는 경우에는 웹에 대 한 Office에서 일시적으로 캐시 되는 모든 고객 콘텐츠가 미국 내의에 미국 내의
 
-## <a name="office-365-us-government-and-third-party-services"></a>Office 365 Government 및 타사 서비스
+## <a name="office-365-government-and-third-party-services"></a>Office 365 정부 및 타사 서비스
 
 Office 365에서는 타사 응용 프로그램을 SharePoint Online 사이트, 비즈니스용 Skype, Microsoft 365 앱 (예: Word, Excel, PowerPoint, Outlook) 및 Outlook Web App에 포함 된 Office 응용 프로그램에 통합할 수 있는 기능을 제공 합니다. 또한 Office 365는 타사 서비스 공급자와의 통합을 지원합니다. 이러한 타사 응용 프로그램과 서비스는 Office 365 인프라 외부의 타사 시스템에서 조직의 고객 데이터를 저장, 전송 및 처리하는 작업과 관련되어 있을 수 있으므로 Office 365 규정 준수 및 데이터 보호 약정에 해당되지 않습니다. 조직에서 이러한 서비스의 적절한 사용에 대해 평가할 때는 타사에서 제공하는 개인 정보 취급 방침 및 규정 준수 조항을 검토하는 것이 좋습니다.
 
 ## <a name="restricted-data-access-by-administrators"></a>관리자에 의한 데이터 액세스 제한
 
-Office 365 US 정부 고객 콘텐츠 Microsoft 관리자의 액세스는 스크린 된 사람으로 제한 됩니다. 차단 수준에 대 한 자세한 내용은 각각의 개별 환경 (GCC 또는 GCC High 및 DoD)에 대 한 서비스 설명 페이지를 참조 하십시오.
+Office 365 정부 고객 콘텐츠에 대 한 액세스는 Microsoft 관리자가 스크린 된 사람으로 제한 됩니다. 차단 수준에 대 한 자세한 내용은 각각의 개별 환경 (GCC 또는 GCC High 및 DoD)에 대 한 서비스 설명 페이지를 참조 하십시오.
 
 ## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack 센터 온 보 딩 지원
 
