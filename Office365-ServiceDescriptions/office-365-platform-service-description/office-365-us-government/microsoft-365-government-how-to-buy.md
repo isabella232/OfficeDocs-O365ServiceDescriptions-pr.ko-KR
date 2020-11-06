@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 Microsoft 365 정부에 대 한 개요를 제공 하 고 구매 옵션에 대해 설명 합니다.
-ms.openlocfilehash: bcdff20881d41a566f68e05ac3ae3c4b3be5a40c
-ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
+ms.openlocfilehash: 2bf7910aabe9cca517392a9709e759f932a05058
+ms.sourcegitcommit: 8d0cba71c48d22bd53bc3e7b2f51e6662e1e51e8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "48818668"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "48931038"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 정부-구매 방법
 
@@ -133,13 +133,16 @@ Microsoft 365 정부 라이선스를 구매 하려면 다음 단계를 수행 �
 **AOS-G 파트너 GCC 및 GCC High (500 개 미만)**
 
 - Agile IT
-- AIS (적용 된 정보 Sciences) 
+- AIS (적용 된 정보 Sciences)
 - C3 통합 솔루션
+- Carahsoft
 - Dox 전자 제품, i c.
 - F1 Solutions, i n c.
+- 4 포인트
 - KTL 솔루션, i n c.
 - LiftOff, LLC
 - 행성 기술
+- 조용한 전문가
 - Summit 7 시스템
 
 **참고:** 앞의 목록에 있는 모든 Microsoft 라이선싱 솔루션 공급자 (Lsp)는 GCC 및 GCC 고가용성을 통해 EA (기업 계약)를 만들 수 있습니다. EA에 적합 하지 않은 조직은 나열 된 AOS-G 파트너 또는 CSP 파트너 프로그램을 통해 GCC 라이선스를 구입할 수 있습니다.
