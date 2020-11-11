@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 Exchange Online 서비스 설명에 나와 있는 미국 정부 클라우드와 상업용 클라우드 간의 기능 차이에 대 한 개요를 제공 합니다.
-ms.openlocfilehash: 2277f7d74cb893dd172bc13efcbd01d964b81736
-ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
+ms.openlocfilehash: e8e552076f7e318db9a4de17ad605d3c260b2295
+ms.sourcegitcommit: 09b52ff24e7153457c7b4f775ea809079103f6e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48793655"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48988085"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>미국 정부 환경용 Exchange Online
 
@@ -111,6 +111,7 @@ ms.locfileid: "48793655"
 |사이트 사서함|예|예|예||
 |공용 폴더|예|예|예||
 |**[클라이언트 및 모바일 장치](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC 높음**|**DoD**|**주요 고려 사항**|
+|할 일 웹|예|아니요|아니요||
 | Windows용 Outlook|예|예|예|GCC High 및 DoD 준수 요구 사항을 충족 하려면 최소 버전 1803의 Office 365 ProPlus를 실행 해야 합니다. Office 365 ProPlus는 G1 또는 F3에 포함 되지 않습니다.|
 |웹용 Outlook|예|예|예||
 |Outlook for Mac|예|예|예|GCC High 및 DoD 준수 요구 사항을 충족 하려면 최소 버전 1803의 Office 365 ProPlus를 실행 해야 합니다. Office 365 ProPlus는 G1 또는 F3에 포함 되지 않습니다.|
@@ -149,41 +150,41 @@ ms.locfileid: "48793655"
 
 ### <a name="connectivity-with-third-party-services"></a>타사 서비스와의 연결  
 
-GCC High 및 DoD 환경 둘 다는 아웃 바운드 연결을 명시적으로 승인 하 고 구성 해야 하는 제한 된 환경입니다. 또한 Microsoft는 이러한 환경에서 상업용 클라우드 서비스 (상업용 Office 365, Google GSuite, Amazon Web Services 등)로의 아웃 바운드 액세스를 허용 하기 위한 요청을 수용할 수 없습니다.     
+GCC High 및 DoD 환경 둘 다는 아웃 바운드 연결을 명시적으로 승인 하 고 구성 해야 하는 제한 된 환경입니다. 또한 Microsoft는 이러한 환경에서 상업용 클라우드 서비스 (상업용 Office 365, Google GSuite, Amazon Web Services 등)로의 아웃 바운드 액세스를 허용 하기 위한 요청을 수용할 수 없습니다.
 
-이러한 제한으로 인해 다음과 같은 GCC High/DoD 환경에서 이러한 아웃 바운드 연결을 사용 하는 기능은 일반적으로 지원 되지 않습니다. 
+이러한 제한으로 인해 다음과 같은 GCC High/DoD 환경에서 이러한 아웃 바운드 연결을 사용 하는 기능은 일반적으로 지원 되지 않습니다.
 
-- 연결 된 계정-사용자가 계정 (Google, POP/IMAP 등)을 추가/동기화 할 수 없습니다. 
+- 연결 된 계정-사용자가 계정 (Google, POP/IMAP 등)을 추가/동기화 할 수 없습니다.
 
-- 타사 파일 저장소 공급자 지원-파일을 첨부/공유 하기 위해 다양 한 Outlook 클라이언트 내에서 *GCC High/DoD 내의* 사용자 비즈니스용 OneDrive 계정에 액세스할 수 있습니다. 타사 저장소 계정 (Dropbox, Box, Google Drive)은 추가할 수 없습니다. 
+- 타사 파일 저장소 공급자 지원-파일을 첨부/공유 하기 위해 다양 한 Outlook 클라이언트 내에서 *GCC High/DoD 내의* 사용자 비즈니스용 OneDrive 계정에 액세스할 수 있습니다. 타사 저장소 계정 (Dropbox, Box, Google Drive)은 추가할 수 없습니다.
 
-- Facebook 또는 LinkedIn과 같은 공유 네트워크와의 연결 
+- Facebook 또는 LinkedIn과 같은 공유 네트워크와의 연결
 
-### <a name="azure-active-directory-b2b-collaboration"></a>Azure Active Directory B2B 공동 작업 
+### <a name="azure-active-directory-b2b-collaboration"></a>Azure Active Directory B2B 공동 작업
 
 Azure Active Directory B2B 공동 작업은 현재 Azure US 정부 클라우드 내에 있고 모두 B2B 공동 작업을 지 원하는 조직 간에만 지원 됩니다.
 
 또한 GCC High 및 DoD 환경에서는 B2B 사용자가 Office 365 그룹의 게스트로 지원 되지 않습니다. 
 
-최신 업데이트에 대 한 자세한 내용은 [Azure 정부 보안 + id](https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity)를 참조 하세요. 
+최신 업데이트에 대 한 자세한 내용은 [Azure 정부 보안 + id](https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity)를 참조 하세요.
 
-### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>GCC High/DoD 경계에 걸친 Office 365 메시지 암호화 동작 
+### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>GCC High/DoD 경계에 걸친 Office 365 메시지 암호화 동작
 
 GCC High 환경에서 Office 365 메시지 암호화를 사용 하려면 받는 사람 환경에 대 한 다음과 같은 고유한 특성을 알고 있어야 합니다.  
 
 - 동일 환경의 GCC High 또는 DoD에서 받는 사람에 게 암호화 된 전자 메일을 보낼 때:
     
-    - 보낸 사람은 Outlook for PC 및 Mac 및 웹용 Outlook에서 전자 메일을 수동으로 암호화할 수 있으며, 조직에서 Exchange 메일 흐름 규칙을 사용 하 여 전자 메일을 암호화 하는 정책을 설정할 수 있습니다. 
+    - 보낸 사람은 Outlook for PC 및 Mac 및 웹용 Outlook에서 전자 메일을 수동으로 암호화할 수 있으며, 조직에서 Exchange 메일 흐름 규칙을 사용 하 여 전자 메일을 암호화 하는 정책을 설정할 수 있습니다.
     
-    - GCC High/DoD 내부의 받는 사람은 Outlook for PC 및 Mac 및 웹용 Outlook의 다른 모든 Office 365 사용자와 동일한 인라인 읽기 환경을 수신 합니다. 
+    - GCC High/DoD 내부의 받는 사람은 Outlook for PC 및 Mac 및 웹용 Outlook의 다른 모든 Office 365 사용자와 동일한 인라인 읽기 환경을 수신 합니다.
 
 <!-- end list -->
 
 - Gcc High 또는 DoD에서 해당 환경의 외부에 있는 받는 사람에 게 암호화 된 전자 메일을 보낼 때 (GCC 및 상업용 포함) 다음을 수행 합니다.
     
-    - GCC High/DoD 내부의 보낸 사람은 GCC High/DoD 경계 외부에서 암호화 된 전자 메일을 보낼 수 있습니다. 
+    - GCC High/DoD 내부의 보낸 사람은 GCC High/DoD 경계 외부에서 암호화 된 전자 메일을 보낼 수 있습니다.
     
-    - 상업용 Office 365 사용자, Outlook.com 사용자 및 다른 전자 메일 공급자의 기타 사용자를 포함 하 여 GCC High/DoD를 제외한 모든 받는 사람은 래퍼 메일을 받습니다. 이 래퍼 메일은 받는 사람이 메시지를 읽고 회신할 수 있는 OME 포털에 받는 사람을 리디렉션합니다. 
+    - 상업용 Office 365 사용자, Outlook.com 사용자 및 다른 전자 메일 공급자의 기타 사용자를 포함 하 여 GCC High/DoD를 제외한 모든 받는 사람은 래퍼 메일을 받습니다. 이 래퍼 메일은 받는 사람이 메시지를 읽고 회신할 수 있는 OME 포털에 받는 사람을 리디렉션합니다.
 
 최신 업데이트에 대 한 자세한 내용은 [Compare VERSIONS OME](https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison)을 참조 하십시오.
 
@@ -201,12 +202,32 @@ DoD 환경에서 다음을 수행 합니다.
 
   - 페더레이션 트러스트 (약속 있음/없음 공유 포함)는 현재 DoD 환경 내의 테 넌 트 간에만 지원 됩니다. DoD 테 넌 트와 GCC 또는 상용 테 넌 트 사이에서는 지원 되지 않습니다.
 
-### <a name="client-configuration"></a>클라이언트 구성 
+### <a name="client-configuration"></a>클라이언트 구성
 
-추가 단계는 Office ProPlus (Outlook 포함)를 배포 하 고 구성 하는 데 수반 됩니다. 이러한 단계에 대 한 자세한 내용은 [GCC High 또는 DoD 환경에서 Microsoft 365 Apps for enterprise 배포에 대 한 지침 ](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-gcc-high-dod)을 참조 하십시오.
+추가 단계는 Office ProPlus (Outlook 포함)를 배포 하 고 구성 하는 데 수반 됩니다. 이러한 단계에 대 한 자세한 내용은 [GCC High 또는 DoD 환경에서 Microsoft 365 Apps for enterprise 배포에 대 한 지침](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-gcc-high-dod)을 참조 하십시오.
 
 또한 GCC High 및 DoD 환경 에서도 iOS 및 Android 용 Outlook을 사용할 수 있습니다. 이러한 환경에서의 기능 제한 및 관리에 대 한 자세한 내용은 [정부 커뮤니티 클라우드에서 iOS 및 Android 용 Outlook 사용](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)을 참조 하십시오.
 
 ### <a name="add-ins-in-outlook-and-outlook-web-app"></a>Outlook 및 Outlook Web App의 추가 기능  
 
 일부 OWA 및 Outlook 추가 기능만 GCC High 및 DoD에서 사용할 수 있습니다. 내 서식 파일 및 제안 된 모임이 사용 가능 하 고 정상적으로 작동 합니다. 다섯 개의 기본 OWA 추가 기능만 지원 됩니다. 타사 응용 프로그램과 통합 하는 것이 가능 하지만, 이러한 통합은 GCC High 또는 DoD에 대 한 Microsoft 규정 준수에 포함 되지 않습니다. 고객은 조직에 대 한 추가 기능을 구성 하기 전에 타사 데이터 처리 방법과 규정 준수를 숙지 해야 합니다.
+
+## <a name="feature-nuances-within-gcc-environments"></a>GCC 환경 내의 기능 nuances
+
+| 기능 | 설명 | PROPLUS.WW | GCC의 가용성 |
+|:-----|:-----|:-----|:-----|
+|지원 되는 플랫폼|웹, Android, iOS, Mac, Windows|모두|웹 전용|
+|M365 허브가 지 원하는 경우|Outlook, 팀, Planner 통합|모두|Outlook, Planner (팀 작업 응용 프로그램에서 사용할 수 있는 팀)|
+|Wunderlist 마이그레이션|Wunderlist 사용자가 데이터 마이그레이션을 수행할 수 있도록 허용|예|아니요|
+|푸시 알림|미리 알림을 위해 최종 사용자에 게 알림을 보냅니다.|예|아니요|
+|Helpshift 지원|Helpshift 인터페이스를 사용 하 여 지원 요청 만들기|예|아니요|
+|내 날짜|하루 계획|예|예|
+|계획 된 목록|기한이 있는 모든 작업 보기|예|예|
+|사용자 목록에 할당 됨|공유 목록, Planner 또는 WXP (미래)에서 사용자에 게 할당 된 모든 작업|예|예|
+|플래그가 지정 된 전자 메일|Outlook에서 플래그 지정 된 전자 메일을 작업으로 표시|예|예|
+|다중 계정 지원|한 창에서 home 및 office 계정 사용|예|예|
+|목록 공유|같은 조직의 동료와 목록 공유|예|예|
+|상호 테 넌 트 공유|조직 외부의 작업 목록 공유|예|아니요|
+|미리 알림 및 되풀이|작업에 대 한 미리 알림 설정 |예|예|
+
+* 언급 하지 않은 다른 모든 기능은 두 환경에서 모두 사용할 수 있습니다.
