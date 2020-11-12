@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: d83791aa46ca8c77227f3a7ce692f4439866a151
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 70de0bd1a2feac6e75f9e7c355825c23fa8d0dfd
+ms.sourcegitcommit: 0d27ffdf8f30b7300089a786338cb9723ace1a38
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830399"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "48999721"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -25,7 +25,7 @@ ms.locfileid: "48830399"
 > [!NOTE]
 > 일부 테 넌 트 서비스가 현재 특정 사용자에 대 한 혜택을 제한할 수 없습니다. 사용이 허가 된 사용자에 대 한 서비스 혜택을 제한 하기 위해 노력을 기울여야 합니다. 이렇게 하면 사용 가능한 기능을 사용할 수 있게 되 면 조직에 대 한 잠재적 서비스 중단을 방지 하기 위해 도움이 됩니다.
 
-사용자에 게 라이선스를 부여 하기 위한 옵션을 확인 하려면 2020 년 4 월 1 일부 터 Microsoft 365 준수 기능을 활용 하려면 자세한 Microsoft 365 준수 라이선스 비교를 다운로드 하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+사용자에 게 라이선스를 부여 하기 위한 옵션을 확인 하려면 2020 년 4 월 1 일부 터 Microsoft 365 준수 기능을 활용 하려면 자세한 Microsoft 365 준수 라이선스 비교를 다운로드 하세요. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102270)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102287)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory ID 보호
 
@@ -148,7 +148,7 @@ MCAS에서 조건부 Access 앱 제어 기능을 활용 하려면 사용자에 �
 
 관리자는 서비스에서 사용할 수 있는 범위가 지정 된 배포 기능을 사용 하 여 라이선스 사용자에 게 MCAS 배포의 범위를 지정할 수 있습니다. 자세한 내용은 범위가 지정 된 [배포](https://docs.microsoft.com/cloud-app-security/scoped-deployment)를 참조 하세요.
 
-## <a name="compliance-manager"></a>규정 관리자
+## <a name="compliance-manager"></a>규정 준수 관리자
 
 규정 준수를 단순화 하 고 준수 관리자의 위험을 줄입니다. 준수 관리자는 조직이 규정, 표준, 회사 정책 또는 기타 원하는 제어 프레임 워크의 요구 사항을 충족 하는 데 도움이 됩니다.
 
@@ -461,7 +461,7 @@ Microsoft 365 A1/E3/A3/Business, Office 365 E3/A3 및 Office 365 데이터 손�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
-관리자는 보안 & 준수 센터의 **데이터 손실 방지** 위치에서 위치 (작업), 포함 된 사용자 및 제외 된 사용자를 사용자 지정할 수 있습니다  >  **Locations** .
+관리자는 보안 & 준수 센터의 **데이터 손실 방지** 위치에서 위치 (작업), 포함 된 사용자 및 제외 된 사용자를 사용자 지정할 수 있습니다  >  **Locations**.
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>팀에 대 한 통신 데이터 손실 방지
 
@@ -481,7 +481,7 @@ Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365, 정보 보호 및 관리 �
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
-관리자는 보안 & 준수 센터의 **데이터 손실 방지** 위치에서 위치 (작업), 포함 된 사용자 및 제외 된 사용자를 사용자 지정할 수 있습니다  >  **Locations** .
+관리자는 보안 & 준수 센터의 **데이터 손실 방지** 위치에서 위치 (작업), 포함 된 사용자 및 제외 된 사용자를 사용자 지정할 수 있습니다  >  **Locations**.
 
 ## <a name="information-barriers"></a>정보 장벽
 
@@ -489,7 +489,7 @@ Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365, 정보 보호 및 관리 �
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예:<br><br>
+사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예를 들면 다음과 같습니다.<br><br>
 
 | 시나리오 | 라이선스가 필요한 사용자 |
 |:------|:------|:------|
