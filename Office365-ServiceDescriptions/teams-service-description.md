@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 팀은 인스턴트 메시징, 파일 및 데이터 공동 작업, 오디오 및 비디오 통화, 리치 온라인 모임, 모바일 환경 및 광범위 한 웹 회의 기능을 제공 합니다.
-ms.openlocfilehash: bd97ba4813fb9247afb478ddf1d9469a68fef6dc
-ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
+ms.openlocfilehash: e782a0f9736dc5b60b31fd6edf0cda66528944dd
+ms.sourcegitcommit: 145fce4b54b700460bcd424ffc76bfdb976d617d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48773442"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49003951"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -45,7 +45,7 @@ Microsoft는 데이터의 보안 및 서비스의 [내게 필요한 옵션](http
 
 Microsoft 팀은 독립 실행형 서비스로 사용할 수 없습니다.
 
-## <a name="feature-category-reference"></a>기능 범주 참조 
+## <a name="feature-category-reference"></a>기능 범주 참조
 
 이 표에는 라이선스 계획 또는 클라우드 인스턴스에서의 Microsoft 팀 기능 사용 가능 여부가 나와 있습니다. 특정 주의 사항이 적용 됩니다. 자세한 내용은 각주를 참조 하세요. 이 표는 예 고 없이 변경 될 수 있습니다. 핵심 서비스 변경 메시지 및 [microsoft 라이선스 용어 참조 설명서](https://www.microsoft.com/licensing/product-licensing/products)에 대 한 자세한 내용은 Microsoft 365 메시지 센터 알림을 참조 하십시오.<br><br>
 
@@ -57,16 +57,17 @@ Microsoft 팀은 독립 실행형 서비스로 사용할 수 없습니다.
 |채널-개인  <br/> |예  <br/> |예<sup>2</sup>  <br/> |예 <br/> |아니요  <br/> |아니요 <br/> |예  <br/> |
 |Meetings  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |화면 공유 PowerPoint Audio/Video Desktop <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|음성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|오디오 회의  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|앱, Bot, & 커넥터  <br/> |예  <br/> |예  <br/> |예<sup>4</sup>  <br/> |예<sup>4</sup>  <br/> |예<sup>3, 4</sup>  <br/> |예  <br/> |
-|라이브 이벤트  <br/> |아니요  <br/> |예  <br/> |예  <br/> |<sup>5</sup> 없음  <br/> |<sup>5</sup> 없음  <br/> |예  <br/> |
+|음성  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>3</sup>  <br/> |예<sup>3</sup>  <br/> |예  <br/> |
+|오디오 회의  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>3</sup>  <br/> |예<sup>3</sup>  <br/> |예  <br/> |
+|앱, Bot, & 커넥터  <br/> |예  <br/> |예  <br/> |예<sup>5</sup>  <br/> |예<sup>5</sup>  <br/> |예<sup>4, 5</sup>  <br/> |예  <br/> |
+|라이브 이벤트  <br/> |아니요  <br/> |예  <br/> |예  <br/> |<sup>6</sup> 없음  <br/> |<sup>6</sup> 없음  <br/> |예  <br/> |
 
 > <sup>1</sup>  GCC-High의 Microsoft 팀 및 개별 팀에서 2500 구성원이 DOD를 지원 합니다.<br/>
 > <sup>2</sup> Microsoft Planner는 현재 개인 채널에서 액세스 하는 데 사용할 수 없습니다.<br/>
-> <sup>3</sup> Microsoft ONENOTE는 DOD 클라우드에서 사용할 수 없습니다.<br/>
-> <sup>4</sup> 지금은 이러한 클라우드에서 응용 프로그램 및 응용 프로그램 게시를 사용할 수 없습니다.<br/>
-> <sup>5</sup> Live 이벤트는 현재 GCC-High 또는 DOD에서 사용할 수 없습니다.<br/>
+> <sup>3</sup> GCCH 및 DoD에서 Microsoft 팀 음성 및 오디오 회의가 작동 하려면 직접 라우팅이 구성 되어 있어야 합니다.<br/>
+> <sup>4</sup> DOD 클라우드에서 Microsoft OneNote를 사용할 수 없습니다.<br/>
+> <sup>5</sup> 지금까지이 클라우드에서 응용 프로그램 및 응용 프로그램 게시를 사용할 수 없습니다.<br/>
+> <sup>6</sup> 현재 GCC-High 또는 DOD에서는 Live 이벤트를 사용할 수 없습니다.<br/>
 
 ## <a name="next-steps"></a>다음 단계
 
