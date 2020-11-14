@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 미국 연방 정부 엔터티 또는 정부 규정 요구 사항이 적용 되는 데이터를 처리 하는 기타 엔터티와의 Office 365 배포를 추진 하는 IT 전문가를 위한 것으로, Microsoft 365 정부의 사용은 이러한 요구 사항을 충족 하는 데 적합 합니다.
-ms.openlocfilehash: 8101a5801b01ba3c2d6e72e28cc0ce482b17ac8b
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 93e1a9d1c7b9819b7e3cb66e18827259c3393254
+ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830359"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "49072669"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Microsoft 365 준수 계획 – GCC High
 
@@ -101,7 +101,7 @@ Microsoft 365 정부에 대 한 자세한 내용은 자격 요구 사항을 포�
 |                                         | 레코드 관리: 규정 레코드                         | 엔지니어링 백로그 |
 |                                         | 레코드 관리: 다중 단계 처리 검토 | 엔지니어링 백로그 |
 |                                         | 레코드 관리: SharePoint Syntex 분류를 사용 하 여 레코드 레이블 적용 | 엔지니어링 백로그 |
-| **참가자 위험 관리**             | 고객 Lockbox                                | 사용할 수 있음            |
+| **내부자 위험 관리**             | 고객 Lockbox                                | 사용할 수 있음            |
 |                                         | 참가자 위험 관리: 팀, SharePoint 사이트, 전자 메일 메시지에 대 한 Office 지표                         | 개발 환경 |
 |                                         | 참가자 위험 관리: departing 사용자에의 한 데이터 도용                        | 개발 환경 |
 |                                         | 참가자 위험 관리: 일반 데이터 누수                                | 개발 환경              |
@@ -181,7 +181,7 @@ Microsoft 365 정부에 대 한 자세한 내용은 자격 요구 사항을 포�
 |                                         | 고급 감사: 처리 된 감사 insights                              | 엔지니어링 백로그 |
 |                                         | 고급 감사: Exchange Online 및 SharePoint Online의 용어 이벤트 검색                              | 엔지니어링 백로그 |
 |    **준수 관리**            | Microsoft 365 보안 및 준수 센터                              | 사용할 수 있음 |
-|                                         | 규정 준수 관리자(미리 보기)                                 | 배포 중              |
+|                                         | 규정 관리자                                 | 배포 중              |
 |                                         | Microsoft Cloud App Security                                 | 사용할 수 있음              |
 |                                         | 더블 바이트 문자 지원                                 | 엔지니어링 백로그              |
 |    **환경**            | 고급 eDiscovery 용 Api 그래프                              | 개발 환경 |
