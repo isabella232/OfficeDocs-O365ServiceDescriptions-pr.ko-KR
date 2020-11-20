@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: 70de0bd1a2feac6e75f9e7c355825c23fa8d0dfd
-ms.sourcegitcommit: 0d27ffdf8f30b7300089a786338cb9723ace1a38
+ms.openlocfilehash: 71ea60a2041118a13f5ff304c0b3b8c86f089ae9
+ms.sourcegitcommit: a4afd9739559c0735e167e758d04b7f676b89190
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "48999721"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49330265"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
 
@@ -148,7 +148,7 @@ MCAS에서 조건부 Access 앱 제어 기능을 활용 하려면 사용자에 �
 
 관리자는 서비스에서 사용할 수 있는 범위가 지정 된 배포 기능을 사용 하 여 라이선스 사용자에 게 MCAS 배포의 범위를 지정할 수 있습니다. 자세한 내용은 범위가 지정 된 [배포](https://docs.microsoft.com/cloud-app-security/scoped-deployment)를 참조 하세요.
 
-## <a name="compliance-manager"></a>규정 준수 관리자
+## <a name="compliance-manager"></a>규정 관리자
 
 규정 준수를 단순화 하 고 준수 관리자의 위험을 줄입니다. 준수 관리자는 조직이 규정, 표준, 회사 정책 또는 기타 원하는 제어 프레임 워크의 요구 사항을 충족 하는 데 도움이 됩니다.
 
@@ -298,8 +298,8 @@ Microsoft는 Microsoft 365 준수 센터에서 구성할 수 있는 타사 데�
 - Microsoft 365 E5/A5
 - Microsoft 365 E5/A5 정보 보호 & 거 버 넌 스
 - Microsoft 365 E5/A5 규정 준수
-- Microsoft 365 E5/A5 참가자 위험 관리 
-- Microsoft 365 E5/A5 eDiscovery 및 감사 
+- Microsoft 365 E5/A5 참가자 위험 관리
+- Microsoft 365 E5/A5 eDiscovery 및 감사
 - Office 365 E5/A5
 - Office 365 Advanced Compliance
 
@@ -377,11 +377,7 @@ Office 365 고객 키 암호화 키를 Exchange Online 및 비즈니스용 Skype
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
 
-사용이 허가 된 사용자에 대해 Office 365 및/또는 Microsoft 365 조직 내의 데이터에 암호화 키를 할당 하려면 고객 키 암호화 키 배포 지침을 따릅니다.
-
-- SharePoint Online, 비즈니스용 OneDrive 및 팀 파일의 경우 하나 이상의 사이트에 있는 파일을 고객 키를 사용 하 여 암호화할 수 있습니다.
-
-- Exchange Online 및 비즈니스용 Skype의 경우에는 고객 키를 사용 하 여 사서함을 암호화할 수 있습니다.
+Exchange Online 및 비즈니스용 Skype의 경우에는 고객 키를 사용 하 여 사서함을 암호화할 수 있습니다. Office 365에 대해 고객 키를 사용 하려면 먼저 Azure를 설정 해야 합니다. 필수 Azure 리소스를 만들고 구성 하기 위해 수행 해야 하는 단계에 대 한 [고객 키 설정](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up?view=o365-worldwide) 및 Office 365에서 고객 키를 설정 하기 위한 단계를 참조 하세요. Azure 설치를 완료 한 후에는 조직의 사서함과 파일에 할당할 정책 및 키를 결정 합니다. 정책을 할당 하지 않을 사서함과 파일은 Microsoft에서 제어 및 관리 하는 암호화 정책을 사용 합니다. 고객 키에 대 한 자세한 내용을 보거나 일반적인 개요를 보려면 [Office 365에서 고객 키를 사용한 서비스 암호화](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview?view=o365-worldwide)를 참조 하세요.
 
 ## <a name="office-365-customer-lockbox"></a>Office 365 고객 Lockbox
 
@@ -489,7 +485,7 @@ Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365, 정보 보호 및 관리 �
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
 
-사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예를 들면 다음과 같습니다.<br><br>
+사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예시:<br><br>
 
 | 시나리오 | 라이선스가 필요한 사용자 |
 |:------|:------|:------|
