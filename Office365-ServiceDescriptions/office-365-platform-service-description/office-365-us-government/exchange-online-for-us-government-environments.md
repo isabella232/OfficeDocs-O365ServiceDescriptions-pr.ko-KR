@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 Exchange Online 서비스 설명에 나와 있는 미국 정부 클라우드와 상업용 클라우드 간의 기능 차이에 대 한 개요를 제공 합니다.
-ms.openlocfilehash: e8e552076f7e318db9a4de17ad605d3c260b2295
-ms.sourcegitcommit: 09b52ff24e7153457c7b4f775ea809079103f6e9
+ms.openlocfilehash: 9f4250e48dc26899a4d4d184ac626bdfaea953e2
+ms.sourcegitcommit: fa0434ccf1d6a43a84d354c85352d8564fc036c4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48988085"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "49376091"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>미국 정부 환경용 Exchange Online
 
@@ -111,7 +111,7 @@ ms.locfileid: "48988085"
 |사이트 사서함|예|예|예||
 |공용 폴더|예|예|예||
 |**[클라이언트 및 모바일 장치](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC 높음**|**DoD**|**주요 고려 사항**|
-|할 일 웹|예|아니요|아니요||
+|웹에서 수행할 작업|예|아니요|아니요||
 | Windows용 Outlook|예|예|예|GCC High 및 DoD 준수 요구 사항을 충족 하려면 최소 버전 1803의 Office 365 ProPlus를 실행 해야 합니다. Office 365 ProPlus는 G1 또는 F3에 포함 되지 않습니다.|
 |웹용 Outlook|예|예|예||
 |Outlook for Mac|예|예|예|GCC High 및 DoD 준수 요구 사항을 충족 하려면 최소 버전 1803의 Office 365 ProPlus를 실행 해야 합니다. Office 365 ProPlus는 G1 또는 F3에 포함 되지 않습니다.|
@@ -170,7 +170,7 @@ Azure Active Directory B2B 공동 작업은 현재 Azure US 정부 클라우드 
 
 ### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>GCC High/DoD 경계에 걸친 Office 365 메시지 암호화 동작
 
-GCC High 환경에서 Office 365 메시지 암호화를 사용 하려면 받는 사람 환경에 대 한 다음과 같은 고유한 특성을 알고 있어야 합니다.  
+GCC High 환경에서 Office 365 메시지 암호화를 사용 하려는 경우에는 받는 사람 환경에 대 한 다음과 같은 고유한 특성을 알고 있어야 합니다.  
 
 - 동일 환경의 GCC High 또는 DoD에서 받는 사람에 게 암호화 된 전자 메일을 보낼 때:
     
@@ -212,13 +212,13 @@ DoD 환경에서 다음을 수행 합니다.
 
 일부 OWA 및 Outlook 추가 기능만 GCC High 및 DoD에서 사용할 수 있습니다. 내 서식 파일 및 제안 된 모임이 사용 가능 하 고 정상적으로 작동 합니다. 다섯 개의 기본 OWA 추가 기능만 지원 됩니다. 타사 응용 프로그램과 통합 하는 것이 가능 하지만, 이러한 통합은 GCC High 또는 DoD에 대 한 Microsoft 규정 준수에 포함 되지 않습니다. 고객은 조직에 대 한 추가 기능을 구성 하기 전에 타사 데이터 처리 방법과 규정 준수를 숙지 해야 합니다.
 
-## <a name="feature-nuances-within-gcc-environments"></a>GCC 환경 내의 기능 nuances
+## <a name="feature-nuances-within-gcc-environments-for-microsoft-to-do"></a>Microsoft가 수행 해야 하는 GCC 환경 내의 기능 nuances
 
 | 기능 | 설명 | PROPLUS.WW | GCC의 가용성 |
 |:-----|:-----|:-----|:-----|
-|지원 되는 플랫폼|웹, Android, iOS, Mac, Windows|모두|웹 전용|
-|M365 허브가 지 원하는 경우|Outlook, 팀, Planner 통합|모두|Outlook, Planner (팀 작업 응용 프로그램에서 사용할 수 있는 팀)|
-|Wunderlist 마이그레이션|Wunderlist 사용자가 데이터 마이그레이션을 수행할 수 있도록 허용|예|아니요|
+|지원 되는 플랫폼|웹, Android, iOS, Mac, Windows|All|웹 전용|
+|M365 허브가 지 원하는 경우|Outlook, 팀, Planner 통합|All|Outlook, Planner (팀 작업 응용 프로그램에서 사용할 수 있는 팀)|
+|Wunderlist 마이그레이션|Wunderlist 사용자가 웹에서 데이터를 수행할 수 있도록 허용|예|아니요|
 |푸시 알림|미리 알림을 위해 최종 사용자에 게 알림을 보냅니다.|예|아니요|
 |Helpshift 지원|Helpshift 인터페이스를 사용 하 여 지원 요청 만들기|예|아니요|
 |내 날짜|하루 계획|예|예|
