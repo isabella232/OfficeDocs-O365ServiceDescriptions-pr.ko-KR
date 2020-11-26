@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영 하는 Office 365는 중국의 안전 하 고 안정적 이며 확장 가능한 클라우드 서비스에 대 한 요구를 충족 하도록 설계 되었습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: be7b7edc4f441544b4b61afe2f03385c7581b6c1
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: cf7a9d2a9f8775f655eb51d3023ac01683445965
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294134"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411657"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -1070,7 +1070,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 - "LinkedIn" & 사용자 카드의 데이터에 대 한 보고
 - 즐겨찾기
 - 내 전자 메일 재생
-- 추가 기능
+- Add-Ins
 - 스마트 회신
 - Office 피드
 - 나갈 시간
@@ -1099,7 +1099,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |[사용자 지정 필드](../project-online-service-description/core-functionality.md#custom-fields)|아니요|예|예|예|아니요|
 |[Microsoft Office 응용 프로그램 간에 향상된 복사 및 붙여넣기](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|아니요|예|예|예|아니요|
 |[Gantt 차트, 달력 및 작업 시트 보기](../project-online-service-description/core-functionality.md#gantt-chart-calendar-and-task-sheet-views)|아니요|예|예|예|아니요|
-|[Microsoft의 효율적인 사용자 인터페이스, 리본](../project-online-service-description/core-functionality.md#microsoft-fluent-user-interface-the-ribbon)|아니요|예|예|예|아니요|
+|[리본 메뉴의 사용자 인터페이스](../project-online-service-description/core-functionality.md#user-interface-the-ribbon)|아니요|예|예|예|아니요|
 |[여러 수준 실행 취소](../project-online-service-description/core-functionality.md#multiple-level-undo)|아니요|예|예|예|아니요|
 |[Network diagram view](../project-online-service-description/core-functionality.md#network-diagram-view)|아니요|예|예|예|아니요|
 |[Office 스토어](../project-online-service-description/core-functionality.md#office-store)|아니요|아니요|아니요|아니요|아니요|

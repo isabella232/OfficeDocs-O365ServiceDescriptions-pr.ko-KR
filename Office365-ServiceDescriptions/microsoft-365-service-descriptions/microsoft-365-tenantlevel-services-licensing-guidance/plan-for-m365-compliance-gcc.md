@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 Microsoft 365 정부-GCC 사용이 이러한 요구 사항을 충족 하는 데 적합 한 미국 연방, 주, 로컬, 부족 또는 territorial 정부 기관 또는 기타 기관에서 Office 365의 배포를 추진 하는 IT 전문가를 위한 것입니다.
-ms.openlocfilehash: cdffd000037a4481e420b41418ce80f4febcb013
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: 15e533e9a0484d494ee9430d057df9dcd847fffd
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072679"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411647"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Microsoft 365 준수 계획 – GCC
 
@@ -46,7 +46,7 @@ Office 365의 기능과 기능을 함께 사용 하는 것 외에도, 조직은 
 > [!NOTE]
 > Microsoft 365 정부-GCC는 미국 에서만 제공 됩니다. 미국 이외 지역의 정부 고객은 수많은 [Office 365 정부 계획](https://products.office.com/government/compare-office-365-government-plans)중에서 선택할 수 있습니다.
 
-**의사 결정 사항** : <br/>
+**의사 결정 사항**: <br/>
 - *Microsoft 365 정부-GCC가 조직에 적합 한지 여부를 결정 합니다.*
 - *조직이 자격 요건을 충족 하는지 확인 합니다.*
 
@@ -182,7 +182,7 @@ Office 365의 기능과 기능을 함께 사용 하는 것 외에도, 조직은 
 |                                         | 고급 감사: 처리 된 감사 insights                               | 엔지니어링 백로그 |
 |                                         | 고급 감사: Exchange Online 및 SharePoint Online의 용어 이벤트 검색                              | 엔지니어링 백로그 |
 |    **준수 관리**            | Microsoft 365 보안 및 준수 센터                              | 사용할 수 있음 |
-|                                         | 규정 관리자                              | 배포 중 |
+|                                         | 규정 관리자                              | 사용할 수 있음 |
 |                                         | Microsoft Cloud App Security                              | 엔지니어링 백로그 |
 |                                         | 더블 바이트 문자 지원                              | 엔지니어링 백로그 |
 |    **환경**            | 고급 eDiscovery 용 Api 그래프                              | 개발 환경 |

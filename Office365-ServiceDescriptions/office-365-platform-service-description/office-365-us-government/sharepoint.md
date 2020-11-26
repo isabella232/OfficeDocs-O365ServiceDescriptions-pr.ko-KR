@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 미국 정부 클라우드 고객을 위한 SharePoint 기능 가용성에 대해 알아봅니다.
-ms.openlocfilehash: 4e09ec8fda62fb5ce7a6e886799c5f35edd32cf5
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 310aa1589aed1156de223bed229ce99ef2f5b69a
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294194"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411607"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>미국 정부 환경용 SharePoint
 
@@ -58,16 +58,11 @@ FastTrack 마이그레이션에 대 한 자세한 내용은 [Office 365 US 정�
 
 상업용 고객의 보안 및 규정 준수 기능과 정부 클라우드 고객용에 대 한 알려진 차이점은 없습니다.
 
-다음 기능에 대 한 자세한 내용은 [Office 365 US 정부 서비스 설명을](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features)참조 하세요.
-- 고객 Lockbox
-- DLP(데이터 손실 방지)
-- eDiscovery (콘텐츠 검색, 보류, 내보내기)
-- Office 365 Advanced Threat Protection (ATP)
-- 민감도 레이블
+보안 및 규정 준수 기능에 대 한 자세한 내용은 [security & 준수 센터](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)를 참조 하십시오.
 
 정부용 Azure Active Directory 기능에 대 한 자세한 내용은 [Azure 정부 보안 + Identity 설명서](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)를 참조 하세요. 
 
-정부용 Azure Information Protection 기능에 대 한 자세한 내용은 [Azure Information Protection Premium 정부 서비스 설명](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description) 를 참조 하세요. 
+정부용 Azure Information Protection 기능에 대 한 자세한 내용은 [Azure Information Protection Premium 정부 서비스 설명을](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description)참조 하세요. 
 
 ## <a name="sites-and-content"></a>사이트 및 콘텐츠
 

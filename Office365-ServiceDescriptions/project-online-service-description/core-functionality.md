@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online에서는 다음과 같은 핵심 기능 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 81a749c6fa58f02227085bacc87e4630ca8ea310
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294044"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411587"
 ---
 # <a name="core-functionality"></a>핵심 기능
 
@@ -34,7 +34,7 @@ Project Online에서는 다음과 같은 핵심 기능 기능을 사용할 수 �
   
 ## <a name="click-to-run"></a>간편 실행
 
-인터넷, 내부 네트워크, 로컬 파일 시스템 또는 오프 라인 미디어를 통해 Project Online을 빠르게 설치 하 여 최신 버전의 Project 데스크톱 응용 프로그램을 최신 상태로 유지할 수 있습니다. 자세한 내용은 [간편 실행](https://go.microsoft.com/fwlink/p/?LinkId=271596)을 참조하세요.
+인터넷, 내부 네트워크, 로컬 파일 시스템 또는 오프 라인 미디어를 통해 Project Online을 빠르게 설치 하 여 최신 버전의 Project 데스크톱 응용 프로그램으로 최신 상태를 유지 하도록 합니다. 자세한 내용은 [간편 실행](https://go.microsoft.com/fwlink/p/?LinkId=271596)을 참조하세요.
   
 ## <a name="contextual-right-click-menus"></a>상황별 오른쪽 클릭 메뉴
 
@@ -52,13 +52,13 @@ Word와 같은 Office 응용 프로그램 간에 일정 세부 정보를 복사�
 
 Gantt 차트, 네트워크 다이어그램, 그래프, 시트, 사용 현황 및 폼 보기를 사용 하 여 프로젝트 정보를 그래픽으로 표시 합니다. [프로젝트 일정의 오른쪽 보기 선택](https://go.microsoft.com/fwlink/?LinkId=402905)을 참조하세요.
   
-## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft의 효율적인 사용자 인터페이스, 리본
+## <a name="user-interface-the-ribbon"></a>리본 메뉴의 사용자 인터페이스
 
-Project 기능과 컨트롤을 빠르게 찾아 사용할 수 있는 탭 인터페이스인 리본을 통해 생산성을 향상합니다. 자세한 내용은 [리본](https://go.microsoft.com/fwlink/p/?LinkId=271325)을 참조하세요.
-  
+Project 기능과 컨트롤을 빠르게 찾아 사용할 수 있는 탭 인터페이스인 리본을 통해 생산성을 향상합니다.
+
 ## <a name="multiple-level-undo"></a>여러 수준 실행 취소
 
-실행 취소 메뉴를 사용 하 여 여러 변경 내용을 동시에 실행 취소할 수 있습니다. 
+실행 취소 메뉴를 사용 하 여 여러 변경 내용을 동시에 실행 취소할 수 있습니다.
   
 ## <a name="network-diagram-view"></a>네트워크 다이어그램 보기
 
@@ -70,7 +70,7 @@ Project 사용에 도움이 되는 응용 프로그램이 필요하신가요? Of
   
 ## <a name="online-help"></a>온라인 도움말
 
-Project 도움말은 Office.com에서 또는 project에서 직접 시작할 때 사용할 수 있습니다 ( **파일** \> **새로 만들기**선택). [Project 2013 소개 동영상을 시청](https://go.microsoft.com/fwlink/p/?LinkId=271325)하세요.
+Project 도움말은 Office.com에서 또는 project에서 직접 시작할 때 사용할 수 있습니다 ( **파일** \> **새로 만들기** 선택). [Project 2013 소개 동영상을 시청](https://go.microsoft.com/fwlink/p/?LinkId=271325)하세요.
   
 ## <a name="pdf-and-xps-output"></a>PDF 및 XPS 출력
 
@@ -103,5 +103,3 @@ Project 2013에서는 빈 프로젝트를 여는 대신 원하는 프로젝트�
 ## <a name="feature-availability"></a>기능 가용성
 
 계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Project Online service description](project-online-service-description.md)을 참조 하세요.
-  
-

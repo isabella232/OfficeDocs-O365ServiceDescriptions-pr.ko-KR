@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 Office 365 US 정부 요금제 (또는 Office 365 정부)를 만들었습니다. 이 문서에서는 Office 365 정부 US 환경에 적용 되는 기능에 대 한 개요를 제공 합니다.
-ms.openlocfilehash: 3e4b5b908196b96d56f79fd9ec487e43bb631366
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 583d901990feca273421f6c66a5f611cd3591200
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830415"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411617"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -446,6 +446,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |공동 작성자와 상황별 채팅: 문서 내 공동 작성자와 채팅|아니요|아니요|아니요|
 |받아쓰기|No<sup>1</sup>|No<sup>1</sup>|No<sup>1</sup>|
 
+GCC/GCC High/DoD 내의 Microsoft 팀에 대 한 기능 가용성을 위해 [Microsoft 팀 서비스 설명을](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description)참조 하세요.
 > <sup>1</sup> 가용성을 곧 제공 합니다.
 <br/><sup>2</sup> 로컬 Surface Hub의 가용성 (로그인 되지 않음)
 <br/><sup>3</sup> GCC 환경에 대해 외부 공유를 사용할 수 있습니다. 자세한 내용은 조직 [에서 Microsoft 양식을 해제 하거나 설정](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) 하는 방법에 대 한 자세한 내용을 알아보세요. GCC High 및 DOD 환경에서는 외부 공유를 사용할 수 없습니다. 조직 내의 사용자는 양식을 작성 하 고, 응답을 제출 하 고, 양식을 [서식 파일로 복제 및 공유](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)하 고, 양식 [에서 공동 작업](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)을 수행 하거나, [양식 결과에 액세스](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)하는 등의 작업을 수행할 수 있습니다.
