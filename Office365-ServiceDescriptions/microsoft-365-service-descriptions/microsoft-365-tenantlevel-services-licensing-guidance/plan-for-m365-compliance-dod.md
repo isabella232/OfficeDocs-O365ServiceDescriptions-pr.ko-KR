@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 미국 연방 정부 엔터티 또는 정부 규정 요구 사항이 적용 되는 데이터를 처리 하는 기타 엔터티와의 Office 365의 배포를 추진 하는 IT 전문가를 위한 것으로, Microsoft 365 정부-DoD를 사용 하는 것이 이러한 요구 사항을 충족 하는 데 적합 합니다.
-ms.openlocfilehash: c15ca172c97c6549649e44d76dca019d866a7a4f
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 6f0a271a6d547f69dfb7d3d20ba943465eb149a6
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830419"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519049"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 규정 준수 - DoD 배포 계획
 
@@ -40,7 +40,7 @@ Office 365의 기능을 제공 하는 것 외에도 조직은 Microsoft 365 정�
 > [!TIP]
 > 서비스 설명의 정보 테이블을 Excel 통합 문서에 전송 하 고 **조직 y/n에 관련** 된 두 개의 열을 추가 하 고 **조직 y/n의 요구 사항을 충족** 해야 할 수 있습니다. 그런 다음 동료와 함께이 목록을 검토 하 여이 서비스가 조직의 요구를 충족 하는지 확인할 수 있습니다.
 
-**의사 결정 사항** :<br/>
+**의사 결정 사항**:<br/>
 - *Microsoft 365 정부-DoD가 조직에 적합 한지 여부를 결정 합니다.*
 - *조직이 자격 요건을 충족 하는지 확인 합니다.*
 
@@ -100,7 +100,7 @@ Office 365의 기능을 제공 하는 것 외에도 조직은 Microsoft 365 정�
 |                                         | 레코드 관리: 규정 레코드 | 엔지니어링 백로그 |
 |                                         | 레코드 관리: 다중 단계 처리 검토 | 엔지니어링 백로그 |
 |                                         | 레코드 관리: SharePoint Syntex 분류를 사용 하 여 레코드 레이블 적용         | 엔지니어링 백로그 |
-| **참가자 위험 관리**             | 고객 Lockbox                                | 사용할 수 있음            |
+| **내부자 위험 관리**             | 고객 Lockbox                                | 사용할 수 있음            |
 |                                         | 참가자 위험 관리: 팀, SharePoint 사이트, 전자 메일 메시지에 대 한 Office 지표                         | 엔지니어링 백로그 |
 |                                         | 참가자 위험 관리: departing 사용자에의 한 데이터 도용                        | 엔지니어링 백로그 |
 |                                         | 참가자 위험 관리: 일반 데이터 누수                                | 엔지니어링 백로그              |
@@ -109,7 +109,7 @@ Office 365의 기능을 제공 하는 것 외에도 조직은 Microsoft 365 정�
 |                                         | 참가자 위험 관리: Advanced eDiscovery에 대 한 조사 확대 |엔지니어링 백로그|
 |                                         | 참가자 위험 관리: Windows 10 빌드 1809 이상에 대 한 활동에 대 한 장치 지표 |엔지니어링 백로그|
 |                                         | 참가자 위험 관리: 보안 정책 위반에 대 한 지표 (미리 보기) |엔지니어링 백로그|
-|                                         | 참가자 위험 관리: Windows Defender ATP 경고에 대 한 지표 (미리 보기) |엔지니어링 백로그|
+|                                         | 참가자 위험 관리: 끝점 경고 용 Microsoft Defender에 대 한 지표 (미리 보기) |엔지니어링 백로그|
 |                                         | 참가자 위험 관리: 우선 순위 사용자의 데이터 누출에 대 한 정책 서식 파일 (미리 보기) | 엔지니어링 백로그 |
 |                                         | 참가자 위험 관리: 불만 사용자의 데이터 누출에 대 한 정책 템플릿 (미리 보기) | 엔지니어링 백로그 |
 |                                         | 참가자 위험 관리: 일반 보안 정책 위반에 대 한 정책 서식 파일 (미리 보기) | 엔지니어링 백로그 |

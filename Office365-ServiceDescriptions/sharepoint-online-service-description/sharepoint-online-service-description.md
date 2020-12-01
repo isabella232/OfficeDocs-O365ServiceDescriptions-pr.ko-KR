@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 사용할 수 있는 SharePoint 기능을 계획 합니다.
-ms.openlocfilehash: e99bfed4518c42e848e3937722d7b91eb3ec9ef1
-ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
+ms.openlocfilehash: 06a4f6a51e4f7bc4fa50867441f763a15291ef47
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48661266"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519159"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 서비스 설명
 
@@ -135,7 +135,7 @@ SharePoint는 Microsoft 365의 고급 보안 및 규정 준수 기능과 통합 
 - [DLP(데이터 손실 방지)](/microsoft-365/compliance/data-loss-prevention-policies) 
 - [eDiscovery](/microsoft-365/compliance/ediscovery-cases) (콘텐츠 검색, 보류, 내보내기)
 - [정보 장벽](/microsoft-365/compliance/information-barriers)
-- [Office 365 Advanced Threat Protection (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Office 365용 Microsoft Defender](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [보존 레이블 및 정책](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
 - [민감도 레이블](/microsoft-365/compliance/sensitivity-labels)
 - [통합 감사](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (SharePoint 사용자 및 관리 활동 감사)
@@ -150,7 +150,7 @@ SharePoint는 Microsoft 365의 고급 보안 및 규정 준수 기능과 통합 
 
 다른 설명이 없는 한, SharePoint를 포함 하는 모든 요금제 및 모든 SharePoint 독립 실행형 계획에서 다음 기능을 사용할 수 있습니다.
 
-- [접근성](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
+- [손쉬운 사용](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
 - [Microsoft 팀을 사이트에 추가](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865)합니다. Office 365가 포함된 구독이 필요하며 사용자에게 팀 라이선스가 있어야 합니다.
 - [대상 그룹 지정](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
 - [클래식 팀 사이트를 새 Office 365 그룹에 연결](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d)합니다. Office 365이 포함 된 구독이 필요 합니다.

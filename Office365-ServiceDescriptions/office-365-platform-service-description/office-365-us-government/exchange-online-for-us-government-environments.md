@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 Exchange Online 서비스 설명에 나와 있는 미국 정부 클라우드와 상업용 클라우드 간의 기능 차이에 대 한 개요를 제공 합니다.
-ms.openlocfilehash: 9f4250e48dc26899a4d4d184ac626bdfaea953e2
-ms.sourcegitcommit: fa0434ccf1d6a43a84d354c85352d8564fc036c4
+ms.openlocfilehash: 0a09c43b310e5c77321c6ac9cf1a9cf5989a6bef
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "49376091"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519099"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>미국 정부 환경용 Exchange Online
 
@@ -73,7 +73,7 @@ ms.locfileid: "49376091"
 |Customize anti-malware policies|예|예|예||
 |격리 - 관리자 관리|예|예|예||
 |격리 - 최종 사용자 자기 관리|예|예|예||
-|고급 위협 방지|예|예|예|G5 서비스 계획 (또는 추가 기능 구입)이 필요 합니다.<br><br>사용자 및 도메인 가장을 위한 피싱 방지 및 스푸핑 지능은 GCC High 및 DoD에서는 아직 사용할 수 없습니다.|
+|Office 365용 Microsoft Defender|예|예|예|G5 서비스 계획 (또는 추가 기능 구입)이 필요 합니다.<br><br>사용자 및 도메인 가장을 위한 피싱 방지 및 스푸핑 지능은 GCC High 및 DoD에서는 아직 사용할 수 없습니다.|
 |**[메일 흐름](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC 높음**|**DoD**|**주요 고려 사항**|
 |아웃 바운드 메일의 사용자 지정 라우팅|예|예|예||
 |Secure messaging with a trusted partner|예|예|예||

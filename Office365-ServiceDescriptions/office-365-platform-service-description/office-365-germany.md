@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와 차별화 된 옵션입니다. 이를 통해 독일에서 업계 최고의 생산성 서비스를 제공 하는 스페인어 (유럽 연합) 및 상주 (유럽 자유 무역 협회)의 디지털 작업에 대 한 요구 사항을 해결 하는 데 도움이 되 고 독일어 데이터를 사용 하 여 독일 및 엄격한 데이터 액세스 및 제어 조치를 수행 합니다.
-ms.openlocfilehash: 50e53c8bffd947ae11f9dbd97cc2a2c2533bfbfe
-ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
+ms.openlocfilehash: 798401f339d6964f551e22b29d2bf283051ed304
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48367765"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518829"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -156,7 +156,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |IPv4 및 IPv6 프로토콜|예|예|예|예|예|예|예|예|
 |**트러스트**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |**[개인 정보, 보안 및 투명성](privacy-security-and-transparency.md)**|예|예|예|예|예|예|예|예|
-|고급 위협 방지|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요|
+|Office 365용 Microsoft Defender|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |Customer Lockbox|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |Office 365 고급 eDiscovery|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |보안 점수|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -262,7 +262,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 
 | 기능 | Office Professional Plus 2013 | Office Professional Plus 2016 | Office 365 ProPlus<sup>10</sup> |
 |:-----|:-----|:-----|:-----|
-|**Office 응용 프로그램<sup>1, 2</sup>**||||
+|**Office 응용 프로그램 <sup>1, 2</sup>**||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|예|예|예|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|예|예|예|
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|예|예|예|
@@ -375,7 +375,7 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 |Customize anti-malware policies|예|예|예|예|예|예|예|예 <sup>8</sup>|
 |격리 - 관리자 관리|예|예|예|예|예|예|예|예 <sup>8</sup>|
 |격리 - 최종 사용자 자기 관리|예|예|예|예|예|예|예|예|
-|고급 위협 방지|아니요|--|아니요|아니요|아니요|아니요|예|아니요|
+|Office 365용 Microsoft Defender|아니요|--|아니요|아니요|아니요|아니요|예|아니요|
 |**[메일 흐름](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |아웃 바운드 메일의 사용자 지정 라우팅|예|예|예|예|예|예|예|예|
 |Secure messaging with a trusted partner|예|예|예|예|예|예|예|예|
@@ -520,11 +520,11 @@ Office 365 독일에서는 Office 365의 클라우드 보안 및 규정 준수 �
 <sup>17</sup> Office 365 독일 E3에서 사용 가능<br/>
 <sup>18</sup> Office 365 독일의 추가 기능으로 사용할 수 있습니다.
 
-## <a name="exchange-online-advanced-threat-protection-features"></a>Exchange Online Advanced Threat Protection(기능)
+## <a name="defender-for-office-365-features"></a>Defender for Office 365 기능
 
-다음 표에서는 Office 365 Germany 계획에서 사용할 수 있는 Exchange Online Advanced Threat Protection 기능을 보여 줍니다. EOP 기능에 대 한 자세한 내용을 보려면 표에서 링크를 선택 합니다. Exchange Online은 대개 Office 365 Enterprise 서비스 제품군을 지칭하는 것입니다.<br><br>
+다음 표에는 Office 365 독일 계획에서 사용할 수 있는 Office 365 기능에 대 한 Defender가 나와 있습니다. Exchange Online은 대개 Office 365 Enterprise 서비스 제품군을 지칭하는 것입니다.<br><br>
 
-| 기능 | ATP 독립 실행형 | Exchange Online의 ATP 기능 |
+| 기능 | Defender for Office 365 독립 실행형 | Exchange Online의 Office 365 기능에 대 한 Defender |
 |:-----|:-----|:-----|
 |안전한 링크|예|예|
 |안전한 첨부 파일|예|예|

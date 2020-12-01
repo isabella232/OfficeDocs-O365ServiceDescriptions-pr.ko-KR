@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 교육 계획 간의 차이점을 확인 하는 경우이 문서에서는 각 제품에 포함 된 기능을 보여 줍니다. Office 365에서는 익숙한 Microsoft Office 데스크톱 제품군과 &mdash; Microsoft Exchange online, Microsoft SharePoint online, 웹을 위한 Microsoft 비즈니스용 Skype 및 공동 작업 서비스를 포함 하 여, &mdash; 사용자가 인터넷에서 거의 모든 위치에서 생산성을 유지 하는 데 도움을 주는 microsoft의 차세대 통신 및 협업 서비스가 제공 됩니다.
-ms.openlocfilehash: 51bb35c9ba93a67535bc5939dd7cb402441654e8
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 63cf6859c28c612649fc30579c534f210696056a
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293884"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518879"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -153,7 +153,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |**트러스트** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[개인 정보, 보안 및 투명성](privacy-security-and-transparency.md) <br/> |예  <br/> |예  <br/> |예  <br/> |
 |고급 보안 관리  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
-|고급 위협 방지  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|Office 365용 Microsoft Defender  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |Customer Lockbox  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |Advanced eDiscovery<sup>7</sup> <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |보안 점수<sup>5</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -220,7 +220,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 <sup>2</sup> 고급 데이터 관리 기능을 사용 하면 보존 또는 삭제 정책에 따라 정보를 분류 하 여 중요 한 정보를 유지 하 고 해당 정보를 삭제할 수 있습니다. 여기에는 정책 추천 등의 지능형/자동화 작업이 포함 됩니다. 데이터에 자동으로 레이블 적용 중요 한 데이터 형식 또는 쿼리를 기준으로 레이블 적용 스마트 가져오기 필터를 사용 합니다. 또한 보안 및 규정 준수를 위해 직원 통신을 검토 하기 위한 감독 기능도 포함 되어 있습니다. <br/> 
 <sup>3</sup> 무제한 <br/> 
 <sup>4</sup> 고급 EDiscovery는 미국 및 서유럽 (네덜란드) 지역에서 지원 됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.) <br/> 
-<sup>5</sup> Advanced Threat Protection은 Office 365 A5와 Office 365 A1 및 Office 365 A3의 독립 실행형 서비스로 제공 됩니다.<br/>
+365 <sup>5</sup> Office 365 A5 및 Office 365 A3에 대 365 한 독립 실행형 서비스로 사용할 수 있습니다.<br/>
 <sup>6</sup> [Office 365 관리 활동 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 를 사용 하 여 통합 된 감사 로그에서 이벤트를 검색할 수도 있습니다. <br/>
   
 ## <a name="office-application-features"></a>Office 응용 프로그램 기능  
@@ -336,7 +336,7 @@ Office 365의 시스템 요구 사항에 대 한 자세한 내용은 [office 365
 |Customize anti-malware policies  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |격리 - 관리자 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |격리 - 최종 사용자 자기 관리  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|고급 위협 방지  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
+|Office 365용 Microsoft Defender  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |**[메일 흐름](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |아웃 바운드 메일의 사용자 지정 라우팅  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Secure messaging with a trusted partner  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -506,7 +506,7 @@ Microsoft Exchange Online의 제한은 다음 범주 중 하나에 속합니다.
 <sup>3</sup> 리소스 사서함에는 라이선스가 필요하지 않습니다.<br/> 
 <sup>4</sup> 사이트 사서함은 SharePoint Online에서 만들어지고 관리 됩니다. 자세한 내용은 Office 365에서 사이트 사서함 사용 준비를 참조하세요.<br/> 
 <sup>5</sup> 공용 폴더 사서함은 1000 개 까지만 사용할 수 있으며 모든 공용 폴더 사서함의 최대 크기는 50 TB입니다.<br/> 
-<sup>6</sup> 원본 위치 보관은 라이선스가 적용 된 단일 사용자나 엔터티의 메일을 보관 하는 경우 (예: 공유 사서함)에만 사용할 수 있습니다. 여러사용자나 엔터티의 메일을 저장하는 목적으로 원본 위치 보관함을 사용할 수는 없습니다. 예를 들어 IT 관리자는 공유 사서함을 만들 수 없고, 사용자가 명백히 보관을 목적으로 참조, 숨은 참조 필드 또는 전송 규칙을 통해 복사하도록 할 수 없습니다. 여러 사람이 사용하는 공유 사서함은 실제로 해당 개별 사용자의 전자 메일을 저장하지 않습니다. 여러 사용자에게 액세스 권한이 있으며 이러한 사용자는 공유 사서함으로 전자 메일을 보냅니다. 따라서 공유 사서함에 저장 된 전자 메일은 공유 사서함으로 전송 됩니다.<br/> 
+<sup>6</sup> In-Place 보관은 라이선스가 적용 된 단일 사용자나 엔터티의 메일을 보관 하는 경우 (예: 공유 사서함)에만 사용할 수 있습니다. 여러사용자나 엔터티의 메일을 저장하는 목적으로 원본 위치 보관함을 사용할 수는 없습니다. 예를 들어 IT 관리자는 공유 사서함을 만들 수 없고, 사용자가 명백히 보관을 목적으로 참조, 숨은 참조 필드 또는 전송 규칙을 통해 복사하도록 할 수 없습니다. 여러 사람이 사용하는 공유 사서함은 실제로 해당 개별 사용자의 전자 메일을 저장하지 않습니다. 여러 사용자에게 액세스 권한이 있으며 이러한 사용자는 공유 사서함으로 전자 메일을 보냅니다. 따라서 공유 사서함에 저장 된 전자 메일은 공유 사서함으로 전송 됩니다.<br/> 
 <sup>7</sup> Exchange Online에서 보존 정책을 만든 경우 사용자의 기본 사서함이 10mb 보다 크면 메시지가 사용자의 보관 사서함으로 자동으로 이동 됩니다. 10MB 보다 작은 사서함에 대해서는 보존 정책이 자동으로 실행되지 않습니다. 
   
 #### <a name="capacity-alerts"></a>용량 경고
@@ -691,7 +691,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |최대 메일 그룹 구성원 수<sup>1</sup> <br/> |구성원 100,000명  <br/> |구성원 100,000명  <br/> |구성원 100,000명  <br/> |
 |큰 메일 그룹에 메시지 보내기 제한  <br/> |구성원 5,000명 이상  <br/> |구성원 5,000명 이상  <br/> |구성원 5,000명 이상  <br/> |
 |큰 메일 그룹에 대한 최대 메시지 크기  <br/> |2MB  <br/> |2MB  <br/> |2MB  <br/> |
-|최대 메일 그룹 소유자 수  <br/> |10    <br/> |10    <br/> |10    <br/> |
+|최대 메일 그룹 소유자 수  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |사용자가 만들 수 있는 최대 그룹 수  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]

@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium은 비즈니스를 보호 하기 위해 고급 보안 및 장치 관리 기능을 활용 하 여 최고의 생산성을 제공 하는 통합 솔루션입니다. 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명 합니다.
-ms.openlocfilehash: 644579ff120d754100fbd4b187a5499ff3368cd8
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: dba7668a3ee06fb859210dc072011d036a5c2fdb
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245713"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519069"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 Business Premium 서비스 설명
 
@@ -55,9 +55,9 @@ Microsoft 365 Business Premium에는 기본적으로 microsoft 365 Business Stan
 |[개인 정보, 보안 및 투명성](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |스팸 방지 보호 기능 내장  <br/> |예  <br/> |예  <br/> |
 |맬웨어 방지 보호 기능 내장  <br/> |예  <br/> |예  <br/> |
-|Office 365 Advanced Threat Protection 계획 1 <br/> |아니요  <br/> |예<sup>7</sup> <br/> |
+|Office 365용 Microsoft Defender 플랜 1 <br/> |아니요  <br/> |예<sup>7</sup> <br/> |
 |보안 점수<sup>4</sup> <br/> |예  <br/> |예  <br/> |
-|Office 365 Advanced Threat Protection Plan 2 <br/> |아니요  <br/> |아니요 <br/> |
+|Office 365용 Microsoft Defender 플랜 2 <br/> |아니요  <br/> |아니요 <br/> |
 |**Azure AD Premium P1은 Microsoft 365 Business Premium 고객에 게 제공 됩니다.**<br/>|**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Azure MFA(Multi-Factor Authentication)  <br/> |아니요  <br/> |예 <br/> |예  <br/> |
 |관리 단위  <br/> |아니요  <br/> |예 <br/> |예  <br/> |
@@ -100,13 +100,13 @@ Microsoft 365 Business Premium에는 기본적으로 microsoft 365 Business Stan
 |랜섬웨어와 같은 위협으로부터 폴더 보호 <br/> |예  <br/> |
 |Bitlocker를 사용 하 여 Pc의 파일 및 폴더를 무단 액세스 로부터 보호 <br/> |예  <br/> |
 
-### <a name="notes"></a>Notes
+### <a name="notes"></a>메모들
 <sup>1</sup> Exchange Online 계획 1이 포함 됩니다.<br/>
 <sup>2</sup> aip (Azure information Protection)에서는 지원 되는 IRM (정보 권한 관리) 기능을 사용 하도록 설정 합니다. Microsoft 365 Business Premium에는 AIP 요금제 1이 포함 되어 있습니다. <br/>
 <sup>3</sup> Microsoft 365 Business Premium에는 Exchange Online 보관 구독이 포함 되어 있습니다. 각 Exchange Online Archiving 구독자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [무제한 보관 개요](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)를 참조 하세요. <br/>
 <sup>4</sup> 에서 사용 가능 [https://securescore.office.com](https://securescore.office.com) 합니다. 관리자 권한이 있어야 합니다. 자세한 내용은 [Microsoft 보안 점수](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)를 참조 하세요.<br/>
 Microsoft 365 관리 센터에 기본 제공 되는 간소화 된 Windows 10 장치 관리 <sup>5 개</sup> Intune, Android, macOS 및 기타 플랫폼 간 장치 관리 기능 (장치 관리 관리 센터에 기본 제공 됨) 또한 Microsoft 365 Business Premium에서 사용 하도록 허가 되었습니다. 타사 앱 및 WiFi 프로필 및 VPN 인증서와 같은 항목의 구성은 장치 관리 관리 센터 에서도 관리할 수 있습니다. <br/>
 <sup>6</sup> 이 계획은 비디오 포털, 음성 텍스트 기록, 심층 검색 및 얼굴 검색을 포함 하는 Microsoft Stream 요금제 2와 함께 제공 됩니다.<br/>
-<sup>7</sup> Microsoft 365에는 Office 365 Advanced Threat Protection 계획 1이 제공 됩니다. 자세한 내용은 [Microsoft 365 Business Premium 보안 및 규정 준수 기능](https://docs.microsoft.com/microsoft-365/business/security-features)을 참조 하세요.<br/>
+<sup>7</sup> microsoft 365은 microsoft Defender for Office 365 계획 1에 제공 됩니다. 자세한 내용은 [Microsoft 365 Business Premium 보안 및 규정 준수 기능](https://docs.microsoft.com/microsoft-365/business/security-features)을 참조 하세요.<br/>
 <sup>8</sup> Microsoft 365 Business Premium 구독자에는 IOS, Android, macos 및 기타 플랫폼 간 장치 관리에 대해 전체 Intune 기능을 사용할 수 있는 라이선스가 있습니다. Microsoft 365 Business Premium의 관리 센터에서 사용할 수 없는 기능은 타사 앱 관리 및 WiFi 프로필의 구성, VPN 인증서 등은 전체 Intune 콘솔에서 관리할 수 있습니다.</br>
 <sup>9</sup> windows 7 및 8.1 Professional에 사용이 허가 된 장치가 있는 경우 Microsoft 365 Business Premium을 통해 Windows 10 Pro로 업그레이드할 수 있습니다. 그러나 windows 10 Pro를 사용 하는 Windows 7.1 또는 8 Home Edition은이 라이선스에 포함 되지 않습니다. Microsoft 365 Business Premium을 사용 하면 [Windows Pro에서 사용 하도록 설정 된 Microsoft Defender 보안 기능만](https://go.microsoft.com/fwlink/p/?linkid=2089903)얻을 수 있을 뿐만 아니라, 웹 기반 위협에 대 한 네트워크 보호와 같은 프리미엄 기능에 액세스 하 고 침입 방지 규칙을 호스트 하 여 랜 섬 웨어를 완화할 수 있습니다. Microsoft 365 Business Premium 계정을 설정 하는 경우 앱 보호 및 장치 구성 설정을 선택 합니다. 이러한 설정에 따라 디바이스에서 Azure Active Directory에 참가할 때 자동으로 적용 되는 정책이 결정 됩니다.</br>

@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 Microsoft 365 정부에 대 한 개요를 제공 하 고 구매 옵션에 대해 설명 합니다.
-ms.openlocfilehash: 2bf7910aabe9cca517392a9709e759f932a05058
-ms.sourcegitcommit: 8d0cba71c48d22bd53bc3e7b2f51e6662e1e51e8
+ms.openlocfilehash: c64b60a2cf22e95d7e6158240cf505abf47451d2
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "48931038"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519139"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 정부-구매 방법
 
@@ -89,7 +89,7 @@ Microsoft 365 정부에서 사용할 수 있는 서비스에 대 한 자세한 �
 
 - [Office 365 정부 서비스 설명](office-365-us-government.md)
 - [Enterprise Mobility + US 정부 서비스 설명에 대 한 보안](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [미국 정부 GCC 최고 고객용 Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/commercial-gov)
+- [Microsoft Defender for US 정부 GCC 고성능 고객](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [정부 및 GCC 용 팀](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
 - [정부 팀-GCC 고가용성 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
 - [정부 팀-DoD 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
@@ -161,7 +161,7 @@ Microsoft 365 정부에 대 한 자세한 내용을 알아보려면 다음 리�
 
 - [Office 365 정부 서비스 설명](office-365-us-government.md)
 - [Enterprise Mobility + US 정부 서비스 설명에 대 한 보안](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [미국 정부 GCC 최고 고객용 Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/commercial-gov)
+- [Microsoft Defender for US 정부 GCC 고성능 고객](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [정부 및 GCC 용 팀](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
 - [정부 팀-GCC 고가용성 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
 - [정부 팀-DoD 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)

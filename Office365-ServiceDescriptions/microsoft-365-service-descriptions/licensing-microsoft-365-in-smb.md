@@ -8,16 +8,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium은 중소 규모의 비즈니스 고객을 위한 Microsoft 모범 사례 제품입니다. Microsoft 365 Business Premium은 Microsoft 365 생산성, 고급 보안 및 장치 관리를 함께 제공 하는 통합 솔루션입니다.
-ms.openlocfilehash: b8171b54714cfa0c4b28347ec949a849bb819f53
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 1cd0fa1c8ef351eb6a54f4d2b9cb58f2d6e400f4
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132542"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518839"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>중소기업을 위한 Microsoft 365 라이선싱
 
-Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 위한 Microsoft 모범 사례를 제공 합니다. Microsoft 365 Business Premium은 **고급 보안** 및 **장치 관리**를 통해 microsoft 365의 **생산성** 을 함께 제공 하는 통합 솔루션입니다.
+Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 위한 Microsoft 모범 사례를 제공 합니다. Microsoft 365 Business Premium은 **고급 보안** 및 **장치 관리** 를 통해 microsoft 365의 **생산성** 을 함께 제공 하는 통합 솔루션입니다.
 
 이 문서에서는 Microsoft 365 Business Premium에 대 한 특별 한 중점을 두어 Smb에 대 한 라이선스 옵션을 비교 합니다.
 
@@ -26,14 +26,14 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 |**서비스 영역** |**기능** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** |
 |--|------------ | ------------------------------- | -------------------------- |
 |**사용 가능한 라이선스** | 최대 사용자 수 | 300  | 300  |
-|**Office 앱** | 최대 5 대의 Pc/Mac에 Office 설치 (Word, Excel, PowerPoint, OneNote, Access), Office Online 및 사용자 당 스마트폰 5 대 | 비즈니스 | 비즈니스 |
+|**Office 앱** | 최대 5 대의 Pc/Mac에 Office 설치 (Word, Excel, PowerPoint, OneNote, Access), Office Online 및 사용자 당 스마트폰 5 대 | Business | Business |
 |**전자 메일 & 일정** | Outlook, Exchange Online| 50GB | 50GB |
 |**팀 작업 용 허브** | Microsoft 팀의 채팅 기반 작업 영역, 온라인 모임 등 | 예 |예 |
 |**파일 저장소** | 비즈니스용 OneDrive  | 사용자 당 1TB | 사용자 당 1TB |
 |**소셜, 비디오, 사이트** | Stream, Yammer, Planner, SharePoint Online, PowerApps, 고급 자동화 | 예 | 예 |
 |**비즈니스 앱** | 앱 예약 &ndash; 예약<sup>1</sup> | 예 | 예 |
 |   | 비즈니스 앱 &ndash; MileIQ<sup>1</sup> | 예 | 예 |
-|**위협 방지** | Office 365 Advanced Threat Protection | 아니요 | 예 |
+|**위협 방지** | Office 365용 Microsoft Defender | 아니요 | 예 |
 |   | Windows Exploit Guard 적용 | 아니요 | 예  |
 |**Id 관리** | 하이브리드 Azure Active Directory 계정에 대 한 셀프 서비스 암호 재설정 | 아니요 | 예 |
 |   | Azure Multi-factor Authentication, 조건부 액세스 정책 | 아니요 | 예 |
@@ -57,14 +57,14 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 |**서비스 영역**   | **기능**  | **Office 365 E3** | **Microsoft 365 Business Premium** |
 |---|---------------|-------------------|----------------------------|
 |**사용 가능한 라이선스** | 최대 사용자 수 | 무제한 | 300 |
-|**Office 앱** | 최대 5 대의 Pc/Mac에 Office 설치 (Word, Excel, PowerPoint, OneNote, Access), Office Online 및 사용자 당 스마트폰 5 대 | ProPlus | 비즈니스 |
+|**Office 앱** | 최대 5 대의 Pc/Mac에 Office 설치 (Word, Excel, PowerPoint, OneNote, Access), Office Online 및 사용자 당 스마트폰 5 대 | ProPlus | Business |
 |**전자 메일 & 일정** | Outlook, Exchange Online | 100GB | 50GB |
 |**팀 작업 용 허브** | Microsoft 팀의 채팅 기반 작업 영역, 온라인 모임 등 | 예 | 예 |
 |**파일 저장소** | 비즈니스용 OneDrive | 무제한 | 사용자 당 1TB |
 |**소셜, 비디오, 사이트** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, 전원 자동화<sup>1</sup> | 예 | 예 |
 |**비즈니스 앱** | 앱 예약 &ndash; 예약<sup>2</sup> | 예 | 예 |
 |   | 비즈니스 앱 &ndash; MileIQ<sup>2</sup> | 아니요 | 예 |
-|**위협 방지** | Office 365 Advanced Threat Protection | 아니요 | 예 |
+|**위협 방지** | Office 365용 Microsoft Defender | 아니요 | 예 |
 |   | Windows Exploit Guard 적용 | 아니요 | 예 |
 |**Id 관리** | 하이브리드 Azure Active Directory 계정에 대 한 셀프 서비스 암호 재설정 | 아니요 | 예 |
 |   | Azure Multi-factor Authentication, 조건부 액세스 정책 | 아니요  | 예 |
@@ -90,25 +90,25 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 |**서비스 영역**   |**기능** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Office 365 E3** |
 |---|-------------|---------------------------------|----------------------------|-------------------|
 |**사용 가능한 라이선스** | 최대 사용자 수 | 300 | 300 | 무제한 |
-|**Office 앱** | 최대 5 대의 Pc/Mac에 Office 설치 (Word, Excel, PowerPoint, OneNote, Access), Office Online 및 사용자 당 스마트폰 5 대 | 비즈니스 | 비즈니스 | ProPlus |
+|**Office 앱** | 최대 5 대의 Pc/Mac에 Office 설치 (Word, Excel, PowerPoint, OneNote, Access), Office Online 및 사용자 당 스마트폰 5 대 | Business | Business | ProPlus |
 |**전자 메일 & 일정** | Outlook, Exchange Online  | 50GB | 50GB | 100GB |
 |**팀 작업 용 허브** | Microsoft 팀의 채팅 기반 작업 영역, 온라인 모임 등 | 예 | 예 | 예 |
 |**파일 저장소** | 비즈니스용 OneDrive | 사용자 당 1TB | 사용자 당 1TB | 무제한 |
 |**소셜, 비디오, 사이트** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, 전원 자동화<sup>1</sup> | 예 | 예 | 예 |
 |**비즈니스 앱** | 앱 예약 &ndash; 예약<sup>2</sup> | 예 | 예 | 예 |
 |   | 비즈니스 앱 &ndash; MileIQ<sup>2</sup> | 예 | 예 | 아니요 |
-|**위협 방지** | Office 365 Advanced Threat Protection | 아니오 | 예 | 아니요 |
-|   | Windows Exploit Guard 적용 | 아니오 | 예 | 아니요 |
-|**Id 관리** | 하이브리드 Azure Active Directory 계정에 대 한 셀프 서비스 암호 재설정 | 아니오 | 예 | 아니요 |
-|   | Azure Multi-factor Authentication, 조건부 액세스 정책 | 아니오 | 예 | 아니요 |
-|**장치 & 앱 관리** | Microsoft Intune, Windows AutoPilot, Windows Pro 관리 | 아니오 | 예 | 아니요 |
-|   | 공유 컴퓨터 활성화 | 아니오 | 예 | 예 |
-|   | Win 7/8.1 Pro 라이선스에 대 한 Windows 10 Pro 업그레이드 권한 | 아니오 | 예 | 아니요 |
-|   | Windows Virtual Desktop | 아니오 | 예 | 아니요 |
-|**정보 보호**  | Microsoft 데이터 손실 방지 | 아니오 | 예 | 예 |
-|   | Azure Information Protection 계획 1, BitLocker 적용 | 아니오 | 예 | 아니요 |
+|**위협 방지** | Office 365용 Microsoft Defender | 아니요 | 예 | 아니요 |
+|   | Windows Exploit Guard 적용 | 아니요 | 예 | 아니요 |
+|**Id 관리** | 하이브리드 Azure Active Directory 계정에 대 한 셀프 서비스 암호 재설정 | 아니요 | 예 | 아니요 |
+|   | Azure Multi-factor Authentication, 조건부 액세스 정책 | 아니요 | 예 | 아니요 |
+|**장치 & 앱 관리** | Microsoft Intune, Windows AutoPilot, Windows Pro 관리 | 아니요 | 예 | 아니요 |
+|   | 공유 컴퓨터 활성화 | 아니요 | 예 | 예 |
+|   | Win 7/8.1 Pro 라이선스에 대 한 Windows 10 Pro 업그레이드 권한 | 아니요 | 예 | 아니요 |
+|   | Windows Virtual Desktop | 아니요 | 예 | 아니요 |
+|**정보 보호**  | Microsoft 데이터 손실 방지 | 아니요 | 예 | 예 |
+|   | Azure Information Protection 계획 1, BitLocker 적용 | 아니요 | 예 | 아니요 |
 |**온-프레미스 CAL 권한** | ECAL Suite (Exchange, SharePoint, Skype) | 아니요 | 아니요 | 예 |
-|**규정 준수** | 무제한 전자 메일 보관<sup>3</sup> | 아니오 | 예 | 예 |
+|**규정 준수** | 무제한 전자 메일 보관<sup>3</sup> | 아니요 | 예 | 예 |
 
 **참고**
 
@@ -123,7 +123,7 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 |**서비스 영역**   |**기능** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Microsoft 365 E3** | **Microsoft 365 E5** |
 |---|-------------|---------------------------------|----------------------------| ----------------- |-------------------|
 |**사용 가능한 라이선스** | 최대 사용자 수 | 300 | 300 | 무제한 | 무제한 |
-|**Office 앱** | 최대 5 대의 Pc/Mac에 Office 설치 (Word, Excel, PowerPoint, OneNote, Access), Office Online 및 사용자 당 스마트폰 5 대 | 비즈니스 | 비즈니스 | ProPlus | ProPlus |
+|**Office 앱** | 최대 5 대의 Pc/Mac에 Office 설치 (Word, Excel, PowerPoint, OneNote, Access), Office Online 및 사용자 당 스마트폰 5 대 | Business | Business | ProPlus | ProPlus |
 |**전자 메일 & 일정** | Outlook, Exchange Online | 50GB | 50GB | unlimited | unlimited |
 |**팀 작업 용 허브** | Microsoft 팀의 채팅 기반 작업 영역, 온라인 모임 등 | 예 | 예 | 예 | 예 |
 |**파일 저장소** | 비즈니스용 OneDrive | 사용자 당 1TB | 사용자 당 1TB | unlimited | unlimited |
@@ -131,20 +131,20 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 |   | Stream | | 예 | 예 | 예 |
 |**비즈니스 앱** | 앱 예약 &ndash; 예약<sup>1</sup> | 예 | 예 | 예 | 예 |
 |   | 비즈니스 앱 &ndash; MileIQ<sup>1</sup> | 예 | 예 | 아니요 | 아니요 |
-|**위협 방지** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, 엔터프라이즈 데이터 보호 | 아니요 | 아니요 | 있음 | 예 |
-|   | Office 365 Advanced Threat Protection | 아니오 | 예 | 아니오 | 예 |
-|   | Windows Defender Advanced Threat Protection | 아니요 | 아니요 | 아니요 | 예 |
+|**위협 방지** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, 엔터프라이즈 데이터 보호 | 아니요 | 아니요 | 예 | 예 |
+|   | Office 365용 Microsoft Defender | 아니요 | 예 | 아니요 | 예 |
+|   | 엔드포인트용 Microsoft Defender | 아니요 | 아니요 | 아니요 | 예 |
 |   | Office 365 위협 인텔리전스 | 아니요 | 아니요  | 아니요 | 예 |
-|**Id 관리** | 하이브리드 Azure Active Directory 계정, Azure MFA, 조건부 액세스에 대 한 셀프 서비스 암호 재설정   | 아니오 | 있음 | 예 | 예 |
+|**Id 관리** | 하이브리드 Azure Active Directory 계정, Azure MFA, 조건부 액세스에 대 한 셀프 서비스 암호 재설정   | 아니요 | 예 | 예 | 예 |
 |   | Azure AD: 클라우드 앱 검색, Azure AD Connect Health, 10 개 이상의 앱에 대 한 SSO | 예 | 예 | 예 | 예 |
 |   | Azure Active Directory 요금제 2 | 아니요 | 아니요 | 아니요 | 예 |
-|**장치 & 앱 관리** | Microsoft Intune, Windows AutoPilot | 아니오 | 있음 | 예 | 예 |
-|   | 공유 컴퓨터 활성화, Windows 가상 데스크톱 | 아니오 | 있음 | 예 | 예 |
-|   | Microsoft 데스크톱 최적화 팩, VDA | 아니요 | 아니요 | 있음 | 예 |
-| **정보 보호** | Microsoft 데이터 손실 방지, Azure Information Protection 계획 1 | 아니오 | 있음 | 예 | 예 |
+|**장치 & 앱 관리** | Microsoft Intune, Windows AutoPilot | 아니요 | 예 | 예 | 예 |
+|   | 공유 컴퓨터 활성화, Windows 가상 데스크톱 | 아니요 | 예 | 예 | 예 |
+|   | Microsoft 데스크톱 최적화 팩, VDA | 아니요 | 아니요 | 예 | 예 |
+| **정보 보호** | Microsoft 데이터 손실 방지, Azure Information Protection 계획 1 | 아니요 | 예 | 예 | 예 |
 |   | Azure Information Protection 계획 2, Microsoft Cloud App Security, Office 365 Cloud App Security | 아니요 | 아니요 | 아니요 | 예 |
-|**온-프레미스 CAL 권한** | ECAL Suite (Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Windows Rights Management) | 아니요 | 아니요 | 있음 | 예 |
-|**규정 준수** | 무제한 전자 메일 보관<sup>2</sup> | 아니오 | 예 | 예 | 예 |
+|**온-프레미스 CAL 권한** | ECAL Suite (Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Windows Rights Management) | 아니요 | 아니요 | 예 | 예 |
+|**규정 준수** | 무제한 전자 메일 보관<sup>2</sup> | 아니요 | 예 | 예 | 예 |
 |   | 고급 eDiscovery, 고객 Lockbox, 고급 데이터 거버넌스 | 아니요 | 아니요 | 아니요 | 예 |
 |**분석** | Power BI Pro, MyAnalytics | 아니요 | 아니요 | 아니요 | 예 |
 | | MyAnalytics에서의 정보 | 예 | 예 | 예 | 예 |
@@ -171,10 +171,10 @@ Microsoft 365 Business Premium은 중소 규모의 비즈니스 (SMB) 고객을 
 | Microsoft Teams  | 예                     | 예                    |
 | **프리미엄 값**                             | **비즈니스용 Microsoft 365 앱** | **Microsoft Office 365 ProPlus** |
 | 볼륨 정품 인증                             | 아니요                      | 아니요                     |
-| 그룹 정책<sup>1</sup>                      | 아니오                      | 있음                    |
+| 그룹 정책<sup>1</sup>                      | 아니요                      | 예                    |
 | 공유 컴퓨터 활성화                    | 예<sup>7</sup>        | 예                    |
-| 앱 원격 분석                                 | 아니오                      | 있음                    |
-| 업데이트 컨트롤<sup>2</sup>                   | 아니오                      | 있음                    |
+| 앱 원격 분석                                 | 아니요                      | 예                    |
+| 업데이트 컨트롤<sup>2</sup>                   | 아니요                      | 예                    |
 | 개인 보존 정책 적용<sup>3</sup> | 예                     | 예<sup>5</sup>        |
 | 사이트 사서함 액세스<sup>3</sup>             | 예                     | 예<sup>5</sup>        |
 | 원본 위치 보관 폴더<sup>3, 4</sup> 액세스  | 예                     | 예<sup>5</sup>        |
@@ -207,7 +207,7 @@ Microsoft 365 Business Premium에는 microsoft 365 for enterprise 용 Microsoft 
 
 <sup>3</sup> 제품군은 비즈니스 생산성 서버와의 다양 한 통합 수준을 제공 합니다.
 
-<sup>4</sup> Outlook에서 &mdash; 필요한 .Pst 파일을 보관 하지 않고 전자 메일을 &mdash; 자동으로 보관 하거나 삭제 하는 보존 정책을 설정 합니다. IT 관리자가 중앙에서 원본 위치 보관 함을 관리할 수 있습니다.
+<sup>4</sup> Outlook에서 &mdash; 필요한 .Pst 파일을 보관 하지 않고 전자 메일을 &mdash; 자동으로 보관 하거나 삭제 하는 보존 정책을 설정 합니다. IT 관리자는 중앙에서 In-Place 보관 함을 관리할 수 있습니다.
 
 <sup>5</sup> 추가 온라인 서비스가 필요 합니다.
 

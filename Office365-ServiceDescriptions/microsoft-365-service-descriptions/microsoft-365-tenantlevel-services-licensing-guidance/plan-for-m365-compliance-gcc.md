@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 Microsoft 365 정부-GCC 사용이 이러한 요구 사항을 충족 하는 데 적합 한 미국 연방, 주, 로컬, 부족 또는 territorial 정부 기관 또는 기타 기관에서 Office 365의 배포를 추진 하는 IT 전문가를 위한 것입니다.
-ms.openlocfilehash: 15e533e9a0484d494ee9430d057df9dcd847fffd
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+ms.openlocfilehash: aed241390a60fed9fd11afd717465f8200087062
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411647"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519039"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Microsoft 365 준수 계획 – GCC
 
@@ -115,7 +115,7 @@ Office 365의 기능과 기능을 함께 사용 하는 것 외에도, 조직은 
 |                                         | 참가자 위험 관리: Advanced eDiscovery에 대 한 조사 확대 | 개발 환경|
 |                                         | 참가자 위험 관리: Windows 10 빌드 1809 이상에 대 한 활동에 대 한 장치 지표 | 엔지니어링 백로그|
 |                                         | 참가자 위험 관리: 보안 정책 위반에 대 한 지표 (미리 보기) | 엔지니어링 백로그|
-|                                         | 참가자 위험 관리: Windows Defender ATP 경고에 대 한 지표 (미리 보기) | 엔지니어링 백로그|
+|                                         | 참가자 위험 관리: 끝점 경고 용 Microsoft Defender에 대 한 지표 (미리 보기) | 엔지니어링 백로그|
 |                                         | 참가자 위험 관리: 우선 순위 사용자의 데이터 누출에 대 한 정책 서식 파일 (미리 보기) | 엔지니어링 백로그 |
 |                                         | 참가자 위험 관리: 불만 사용자의 데이터 누출에 대 한 정책 템플릿 (미리 보기) | 엔지니어링 백로그 |
 |                                         | 참가자 위험 관리: 일반 보안 정책 위반에 대 한 정책 서식 파일 (미리 보기) | 엔지니어링 백로그 |

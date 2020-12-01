@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함 하는 구독의 기능 비교를 찾으십니까? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: ad4107a146ea4c4042cd9c1551110c7ec4ca0632
-ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
+ms.openlocfilehash: 9f800f70476914694926685fff654e379c16965a
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48661286"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518899"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -104,7 +104,7 @@ Microsoft 365 Business Premium의 기능 가용성에 대 한 자세한 내용�
 |Customize anti-malware policies|예|예|예|예|예|예|예|예 <sup>7</sup>|
 |격리 - 관리자 관리|예|예|예|예|예|예|예|예 <sup>7</sup>|
 |격리 - 최종 사용자 자기 관리|아니요|아니요|예|예|예|예|예|예|
-|고급 위협 방지|아니요|예|아니요|아니요|아니요|아니요|예|아니요|
+|Office 365용 Microsoft Defender|아니요|예|아니요|아니요|아니요|아니요|예|아니요|
 |**[메일 흐름](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |아웃 바운드 메일의 사용자 지정 라우팅|예|예|예|예|예|예|예|예|
 |Secure messaging with a trusted partner|예|예|예|예|예|예|예|예|

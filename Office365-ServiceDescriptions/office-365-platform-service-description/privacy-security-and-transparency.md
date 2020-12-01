@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft는 고객과의 파트너 관계를 소중히 여기며 고객 데이터의 보안 및 개인 정보를 보호하는 데 중점을 두고 있습니다. 자세한 내용은 Microsoft 보안 센터를 참조하세요.
-ms.openlocfilehash: c01f86eaac77e611a9566dd77b66cafeb1d03ca0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e7c34e6647b6d04be9fb83550c00f52d47917cbb
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131672"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519059"
 ---
 # <a name="privacy-security-and-transparency"></a>개인 정보, 보안 및 투명성
 
@@ -51,11 +51,10 @@ Microsoft 관리자는 고객 Lockbox를 사용 하 여 Microsoft 기술 지원 
   
 Customer Lockbox는 Office 365 Enterprise 5 계획에 포함되어 있거나 다른 Office 365 Enterprise 계획을 포함하는 별도 구독을 구입할 수 있습니다. 자세한 내용은 [Office 365 Customer Lockbox 요청](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409)을 참조하세요.
   
-## <a name="advanced-threat-protection"></a>Advanced Threat Protection
+## <a name="microsoft-defender-for-office-365"></a>Office 365용 Microsoft Defender
 
-Office 365 Advanced Threat Protection은 맬웨어 및 바이러스 로부터 조직을 보호 하는 데 도움이 됩니다. ATP에는 [안전한 링크](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [안전한 첨부 파일](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [피싱 방지](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)및 [스푸핑 인텔리전스](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) 기능이 포함 되어 있습니다. 안전한 링크는 메시지의 악의적인 하이퍼링크 로부터 사용자를 사전에 보호 하 여 링크를 선택할 때마다 보호 기능을 제공 합니다. 안전한 첨부 파일 기능은 알 수 없는 맬웨어 및 바이러스로부터 보호하고, 알려진 바이러스/맬웨어 서명이 없는 모든 메시지 및 첨부 파일을 ATP를 통해 악의적인 의도가 검색될 수 있는 특수한 환경으로 라우팅합니다. ATP에 대 한 자세한 내용은 [Office 365 Advanced Threat Protection 서비스 설명을](../office-365-advanced-threat-protection-service-description.md)참조 하세요.
+Defender for Office 365는 맬웨어 및 바이러스 로부터 조직을 보호 하는 데 도움이 됩니다. Defender for Office 365에는 [안전한 링크](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [안전한 첨부 파일](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [피싱 방지](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)및 [스푸핑 인텔리전스](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) 기능이 포함 되어 있습니다. 안전한 링크는 메시지의 악의적인 하이퍼링크 로부터 사용자를 사전에 보호 하 여 링크를 선택할 때마다 보호 기능을 제공 합니다. 안전한 첨부 파일은 알 수 없는 맬웨어 및 바이러스 로부터 보호 되며 알려진 바이러스/맬웨어 서명이 없는 모든 메시지 및 첨부 파일을 Defender for Office 365의 특정 환경에 연결 하 여 악의적인 의도를 검색할 수도 있습니다. Office 365 용 Defender에 대 한 자세한 내용은 [Microsoft defender For office 365 service description](../office-365-advanced-threat-protection-service-description.md)를 참조 하세요.
   
 ## <a name="feature-availability"></a>기능 가용성
 
 계획 간의 기능 가용성을 확인 하려면 [Microsoft 365 및 Office 365 platform service description](office-365-platform-service-description.md)을 참조 하세요.
-  

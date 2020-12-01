@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 미국 연방 정부 엔터티 또는 정부 규정 요구 사항이 적용 되는 데이터를 처리 하는 기타 엔터티와의 Office 365 배포를 추진 하는 IT 전문가를 위한 것으로, Microsoft 365 정부의 사용은 이러한 요구 사항을 충족 하는 데 적합 합니다.
-ms.openlocfilehash: 93e1a9d1c7b9819b7e3cb66e18827259c3393254
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: 52cd100938e126c9a562f021ba2046cc34e25b59
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072669"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518910"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Microsoft 365 준수 계획 – GCC High
 
@@ -38,7 +38,7 @@ Microsoft 365 정부에 대 한 자세한 내용은 자격 요구 사항을 포�
 > [!TIP]
 > 서비스 설명의 정보 테이블을 Excel 통합 문서에 전송 하 고 **조직 y/n에 관련** 된 두 개의 열을 추가 하 고 **조직 y/n의 요구 사항을 충족** 해야 할 수 있습니다. 그런 다음 동료와 함께이 목록을 검토 하 여이 서비스가 조직의 요구를 충족 하는지 확인할 수 있습니다.
 
-**의사 결정 사항** :<br/>
+**의사 결정 사항**:<br/>
 - *Microsoft 365 정부-GCC-High이 조직에 적합 한지 여부를 결정 합니다.*
 - *조직이 자격 요건을 충족 하는지 확인 합니다.*
 
@@ -110,7 +110,7 @@ Microsoft 365 정부에 대 한 자세한 내용은 자격 요구 사항을 포�
 |                                         | 참가자 위험 관리: Advanced eDiscovery에 대 한 조사 확대 | 개발 환경|
 |                                         | 참가자 위험 관리: Windows 10 빌드 1809 이상에 대 한 활동에 대 한 장치 지표 | 엔지니어링 백로그|
 |                                         | 참가자 위험 관리: 보안 정책 위반에 대 한 지표 (미리 보기) | 엔지니어링 백로그|
-|                                         | 참가자 위험 관리: Windows Defender ATP 경고에 대 한 지표 (미리 보기) | 엔지니어링 백로그|
+|                                         | 참가자 위험 관리: 끝점 경고 용 Microsoft Defender에 대 한 지표 (미리 보기) | 엔지니어링 백로그|
 |                                         | 참가자 위험 관리: 우선 순위 사용자의 데이터 누출에 대 한 정책 서식 파일 (미리 보기) | 엔지니어링 백로그 |
 |                                         | 참가자 위험 관리: 불만 사용자의 데이터 누출에 대 한 정책 템플릿 (미리 보기) | 엔지니어링 백로그 |
 |                                         | 참가자 위험 관리: 일반 보안 정책 위반에 대 한 정책 서식 파일 (미리 보기) | 엔지니어링 백로그 |
