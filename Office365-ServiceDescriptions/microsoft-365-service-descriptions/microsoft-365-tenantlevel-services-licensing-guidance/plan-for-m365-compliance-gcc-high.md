@@ -7,188 +7,188 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: 이 지침은 미국 연방 정부 엔터티 또는 정부 규정 요구 사항이 적용 되는 데이터를 처리 하는 기타 엔터티와의 Office 365 배포를 추진 하는 IT 전문가를 위한 것으로, Microsoft 365 정부의 사용은 이러한 요구 사항을 충족 하는 데 적합 합니다.
-ms.openlocfilehash: 52cd100938e126c9a562f021ba2046cc34e25b59
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+description: 이 지침은 Microsoft 365 Government - GCC High를 사용하는 것이 이러한 요구 사항을 충족하는 데 적합한 미국 연방 정부 기관 또는 정부 규정 및 요구 사항을 준수하는 데이터를 처리하는 기타 엔터티에서 Office 365의 배포를 진행하는 IT 프로를 위한 것입니다.
+ms.openlocfilehash: 5937eed535814176e99d6bfbfd9301c7b08326c3
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518910"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566650"
 ---
-# <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Microsoft 365 준수 계획 – GCC High
+# <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Microsoft 365 규정 준수 계획 - GCC High
 
-이 지침은 미국 연방 정부 엔터티 또는 정부 규정 요구 사항이 적용 되는 데이터를 처리 하는 기타 엔터티와의 Office 365 배포를 추진 하는 IT 전문가를 위한 것으로, Microsoft 365 정부의 사용은 이러한 요구 사항을 충족 하는 데 적합 합니다.
+이 지침은 Microsoft 365 Government - GCC High를 사용하는 것이 이러한 요구 사항을 충족하는 데 적합한 미국 연방 정부 기관 또는 정부 규정 및 요구 사항을 준수하는 데이터를 처리하는 기타 엔터티에서 Office 365의 배포를 진행하는 IT 프로를 위한 것입니다.
 
 > [!NOTE]
->조직이 Microsoft 365 정부-GCC 높은 자격 요건을 이미 충족 하 여 프로그램에 적용 되 고이에 동의 하는 경우 1 단계와 2 단계로 건너뛰고 3 단계로 바로 이동할 수 있습니다.
+>조직이 이미 Microsoft 365 Government - GCC 높은 자격 요구 사항을 충족하고 프로그램에 적용되어 프로그램에 수락된 경우 1단계와 2단계를 건너뛰고 3단계로 바로 이동하면 됩니다.
  
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government--gcc-high-and-meets-eligibility-requirements"></a>1단계. 조직에서 Microsoft 365 정부를 필요로 하는지 확인-GCC 고가용성 및 자격 요구 사항 충족
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government--gcc-high-and-meets-eligibility-requirements"></a>1단계. 조직에 Microsoft 365 Government가 필요한지 여부 확인 - GCC High 및 자격 요구 사항 충족
 
-Microsoft 365 정부 GCC High 환경은 클라우드 서비스에 대 한 미국 정부 요구 사항을 준수 합니다. Office 365의 기능을 사용할 수 있을 뿐만 아니라, 조직에서는 Microsoft 365 정부에 고유한 다음과 같은 기능이 제공 됩니다 (GCC High).
+Microsoft 365 Government - GCC High 환경은 클라우드 서비스에 대한 미국 정부 요구 사항을 준수합니다. 조직은 Office 365의 기능과 기능을 즐길 뿐만 아니라 Microsoft 365 Government - GCC High에 고유한 다음과 같은 기능을 사용할 수 있습니다.
 
-- 조직의 고객 콘텐츠는 Microsoft의 상용 Office 365 서비스에 있는 고객 콘텐츠와 논리적으로 분리 됩니다.
+- 조직의 고객 콘텐츠는 Microsoft에서 상용 Office 365 서비스의 고객 콘텐츠와 논리적으로 나아지게 됩니다.
 - 조직의 고객 콘텐츠는 미국에 보관됩니다.
 - 조직 고객 콘텐츠에 대한 액세스는 선별된 Microsoft 직원으로 제한됩니다.
-- Microsoft 365 정부-GCC High는 미국 공공 부문 고객에 게 필요한 인증 및 승인을 준수 합니다.
+- Microsoft 365 Government – GCC High는 미국 공공 부문 고객에게 필요한 인증 및 인증을 준수합니다.
 
-Microsoft 365 정부에 대 한 자세한 내용은 자격 요구 사항을 포함 하 여 [Office 365 정부 계획](https://products.office.com/government/compare-office-365-government-plans)에서 미국 정부 고객을 위한 GCC 최고 제공 정보를 확인할 수 있습니다.
+자격 요구 사항을 포함하여 Office 365 Government 요금제에서 Microsoft [365](https://products.office.com/government/compare-office-365-government-plans)Government - GCC High 제품(미국 정부 고객을 위한 GCC High 제품)에 대한 자세한 정보를 찾을 수 있습니다.
 
-[Office 365 US 정부 서비스 설명은](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) 미국 내에서 모임 준수 요구 사항을 중심으로 하는 플랫폼의 이점을 설명 합니다.
+[Office 365 Government](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) 서비스 설명에서는 미국 내 규정 준수 요구 사항을 충족하는 데 중심을 두는 플랫폼의 이점에 대해 설명하고 있습니다.
 
 > [!TIP]
-> 서비스 설명의 정보 테이블을 Excel 통합 문서에 전송 하 고 **조직 y/n에 관련** 된 두 개의 열을 추가 하 고 **조직 y/n의 요구 사항을 충족** 해야 할 수 있습니다. 그런 다음 동료와 함께이 목록을 검토 하 여이 서비스가 조직의 요구를 충족 하는지 확인할 수 있습니다.
+> 서비스 설명의 정보 표를 Excel 통합 문서로 전송하고 두 개의 열을 추가할 수 있습니다. 조직 **Y/N과** 관련이 있으며 조직의 **요구** 사항을 충족합니다. 그런 다음 동료와 함께 이 목록을 검토하여 이 서비스가 조직의 요구 사항을 충족하는지 확인할 수 있습니다.
 
-**의사 결정 사항**:<br/>
-- *Microsoft 365 정부-GCC-High이 조직에 적합 한지 여부를 결정 합니다.*
-- *조직이 자격 요건을 충족 하는지 확인 합니다.*
+**결정 사항:**<br/>
+- *Microsoft 365 Government – 조직에 GCC-High 적합한지 여부를 결정합니다.*
+- *조직이 자격 요구 사항을 충족하는지 확인합니다.*
 
 > [!NOTE]
-> Microsoft 365 정부-GCC High는 미국 에서만 사용할 수 있습니다. 미국 이외 지역의 정부 고객은 수많은 [Office 365 정부 계획](https://products.office.com/government/compare-office-365-government-plans)중에서 선택할 수 있습니다.
+> Microsoft 365 Government - GCC High는 미국에서만 사용할 수 있습니다. 미국 정부 이 아닌 고객은 다양한 [Office 365 Government](https://products.office.com/government/compare-office-365-government-plans)요금제에서 선택할 수 있습니다.
 
-## <a name="step-2-apply-for-microsoft-365-government--gcc-high"></a>2단계. Microsoft 365 정부에 적용-GCC-High
+## <a name="step-2-apply-for-microsoft-365-government--gcc-high"></a>2단계. Microsoft 365 Government 신청 - GCC-High
 
-이 서비스가 조직에 적합 하다 고 판단 되 면 [이 서비스에 대 한 적용](https://products.office.com/government/eligibility-validation)프로세스를 시작 합니다.
+이 서비스가 조직에 적합한 것으로 결정한 경우 이 서비스에 대한 적용 프로세스를 [시작하십시오.](https://products.office.com/government/eligibility-validation)
  
-## <a name="step-3-understand-microsoft-365-government--gcc-high-default-security-settings"></a>3단계. Microsoft 365 정부-GCC-High 기본 보안 설정 이해
+## <a name="step-3-understand-microsoft-365-government--gcc-high-default-security-settings"></a>3단계. Microsoft 365 Government - 기본 GCC-High 설정 이해
 
-관리 및 보안 설정을 수정 하기 전에 주의 깊게 검토 하 고, 기본 보안 설정을 변경 하기 전에 준수에 미치는 영향을 고려 하는 것이 좋습니다.
+관리자 및 보안 설정을 수정하기 전에 신중하게 검토하고 기본 보안 설정을 변경하기 전에 규정 준수에 미치는 영향을 고려하는 것이 좋습니다.
 
-**의사 결정** 사항: *기본 Microsoft 365 정부-GCC-High 보안 설정을 수정할 지 여부를 결정 하 고, 변경 내용이 미치는 영향을 먼저 이해 하도록 확인 합니다.*
+**의사 결정** 사항: *기본 Microsoft 365 Government* - GCC-High 설정을 수정할지 여부를 결정하여 변경 내용이 미치는 영향을 먼저 파악합니다.
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>4단계. Microsoft 365 정부에서 기본적으로 현재 사용할 수 없거나 사용 하지 않도록 설정 된 기능 확인-GCC-고가용성<sup>1</sup>
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>4단계. Microsoft 365 Government - GCC-High<sup>1에서</sup> 현재 사용할 수 없거나 사용하지 않도록 설정되어 있는 기능 이해
 
-정부 클라우드 고객의 요구 사항을 충족 하기 위해 Microsoft 365 정부-GCC-High 및 enterprise 요금제 간에는 약간의 차이가 있습니다. 사용 가능한 기능을 확인 하려면 다음 표를 참조 하세요. Microsoft 365 로드맵에 게시 된 최신 준수 제품 업데이트는 [여기](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent) 를 참조 하세요.<br><br>
+정부 클라우드 고객의 요구 사항을 충족하기 위해 Microsoft 365 Government (Microsoft 365 GovernmentGCC-High 엔터프라이즈 계획 간에는 몇 가지 차이점이 있습니다. 다음 표를 참조하여 사용 가능한 기능을 볼 수 있습니다. Microsoft [here](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent) 365 로드맵에 게시된 최신 준수 제품 업데이트는 여기를 참조하세요.<br><br>
 
 | 영역                                    | 기능                                         | GCC 상태             |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **정보 보호**              | 통합 레이블 클라이언트 및 스캐너         | 사용할 수 있음              |
 |                                         | 정확한 데이터 일치          | 사용할 수 있음              |
-|                                         | Exchange Online, SharePoint Online 및 OneDrive에 대 한 자동 분류 및 레이블                      | 배포 중              |
-|                                         | 웹, Android, iOS, Windows 및 Mac 간의 Office 앱 (Word, Excel, PowerPoint, Outlook)에 대 한 자동 분류 및 레이블            | 개발 환경 |
-|                                         | Office 클라이언트에 대 한 자동 분류 및 레이블 (모바일)                                       | 엔지니어링 백로그              |
-|                                         | 팀에 대 한 자동 분류 및 레이블 지정                            | 엔지니어링 백로그 |
+|                                         | Exchange Online, SharePoint Online 및 OneDrive에 대한 자동 분류 및 레이블 지정                      | 배포 중              |
+|                                         | 웹, Android, iOS, Windows 및 Mac에서 Office 앱(Word, Excel, PowerPoint, Outlook)에 대한 자동 분류 및 레이블 지정            | 개발 중 |
+|                                         | Office 클라이언트에 대한 자동 분류 및 레이블 지정(모바일)                                       | 엔지니어링 백로그              |
+|                                         | Teams에 대한 자동 분류 및 레이블 지정                            | 엔지니어링 백로그 |
 |                                         | 데이터 분류 분석: 개요 및 콘텐츠 탐색기                            | 엔지니어링 백로그 |
-|                                         | 분석: 서비스 쪽에서 자동 레이블 지정을 사용 하는 기계 학습 분류자                           | 엔지니어링 백로그  |
-|                                         | 분석: Office 앱/클라이언트 쪽에서 자동 레이블 지정을 사용 하는 기계 학습 분류자                           | 엔지니어링 백로그  |
-|                                         | 기본 Office 365 메시지 암호화 (E3)                            | 사용할 수 있음              |
-|                                         | 고급 Office 365 메시지 암호화 (E5)  | 사용할 수 있음              |
+|                                         | 분석: 서비스 쪽에서 자동 레이블을 지정하는 기계 학습 분류자                           | 엔지니어링 백로그  |
+|                                         | 분석: Office 앱/클라이언트 쪽에서 자동 레이블을 지정하는 기계 학습 분류자                           | 엔지니어링 백로그  |
+|                                         | 기본 Office 365 메시지 암호화(E3)                            | 사용할 수 있음              |
+|                                         | 고급 Office 365 메시지 암호화(E5)  | 사용할 수 있음              |
 |                                         | Office 365에 대한 고객 키    | 사용할 수 있음 |
-|                                         | 사용자가 관리 하는 키 프로 비전 수명 주기에 대해 사용자 키 (BYOK) 가져오기                            | 사용할 수 있음 |
-|                                         | 높은 규제 대상 시나리오 (미리 보기)에 대 한 Azure Information Protection 및 AD (Active Directory) 권한 관리 범위를 적용 하는 자체 키 (HYOK)를 포함 합니다.                         | 사용할 수 있음 |
+|                                         | 고객 관리 키 프로비전 수명 주기를 위해 BYOK(Bring Your Own Key)를 가져오기                            | 사용할 수 있음 |
+|                                         | 높은 규제 시나리오에 대한 Azure Information Protection 및 AD(Active Directory) 권한 관리에 걸쳐 있는 HYOK(Own Key)를 보유(미리 보기)                         | 사용할 수 있음 |
 |                                         | 이중 키 암호화                           | 사용할 수 있음 |
-|                                         | 암호화: WXP 웹 앱을 사용 하 여 암호화 된 문서에 공동 작성         | 엔지니어링 백로그 |
-|                                         | 파일 및 전자 메일에 대 한 DLP (데이터 손실 방지)         | 사용할 수 있음 |
-|                                         | 팀 채팅 및 채널 대화에 대 한 DLP | 엔지니어링 백로그 |
+|                                         | 암호화: WXP 웹앱을 사용하여 암호화된 문서에 대한 공동 작성         | 엔지니어링 백로그 |
+|                                         | 파일 및 전자 메일에 대한 DLP(데이터 손실 방지)         | 사용할 수 있음 |
+|                                         | Teams 채팅 및 채널 대화용 DLP | 엔지니어링 백로그 |
 |                                         | DLP 끝점 | 엔지니어링 백로그 |
-| **정보 거 버 넌 스** | 정보 거 버 넌 스: 전자 메일 보관                                       | 사용할 수 있음              |
-|                                         | 정보 거 버 넌 스: 보존 잠금          | 사용할 수 있음              |
-|                                         | 정보 거 버 넌 스 (가져오기 PST)                      | 사용할 수 있음              |
-|                                         | 정보 거 버 넌 스: 수동 비 레코드 보존 레이블            | 사용할 수 있음 |
-|                                         | 정보 거 버 넌 스: SharePoint/비즈니스용 OneDrive 라이브러리, 폴더 및 문서 집합에 대 한 기본 보존 레이블 Exchange 받은 편지함; 및 Office 365 그룹 | 사용할 수 있음              |
-|                                         | 정보 거 버 넌 스: 전체 조직에 대 한 보존 정책 특정 위치 또는 사용자 특정 조건 (예: 키워드 또는 중요 정보)을 기반으로 자동 설정 이벤트를 기반으로 합니다.                                       | 사용할 수 있음              |
-|                                         | 정보 거 버 넌 스: 팀에 대 한 보존 정책                            | 엔지니어링 백로그 |
-|                                         | 정보 거 버 넌 스: SharePoint Syntex 분류를 사용 하 여 보존 레이블                            | 엔지니어링 백로그 |
-|                                         | 정보 거 버 넌 스: trainable 분류자가 있는 보존 정책                            | 엔지니어링 백로그 |
-|                                         | 정보 거 버 넌 스: 팀 모임 녹음에 대 한 보존 정책                            | 엔지니어링 백로그 |
-|                                         | 정보 거 버 넌 스: Yammer에 대 한 보존 정책                            | 엔지니어링 백로그 |
-|                                         | 레코드 관리: 레코드 레이블에 대 한 수동 분류                           | 사용할 수 있음              |
-|                                         | 레코드 관리: SharePoint, 비즈니스용 OneDrive 라이브러리, 폴더 및 문서 집합에 대 한 기본 레코드 레이블 및 Office 365 그룹                              | 사용할 수 있음              |
-|                                         | 레코드 관리: 키워드 또는 중요 한 정보와 같은 특정 조건을 기반으로 하는 자동 레코드 정책 이벤트를 기반으로 합니다.                            | 사용할 수 있음              |
-|                                         | 레코드 관리: 처리 검토  | 사용할 수 있음              |
+| **정보 거버넌스** | 정보 거버넌스: 전자 메일 보관                                       | 사용할 수 있음              |
+|                                         | 정보 거버넌스: 보존 잠금          | 사용할 수 있음              |
+|                                         | 정보 거버넌스: PST 가져오기                      | 사용할 수 있음              |
+|                                         | 정보 거버넌스: 수동 비기록 보존 레이블            | 사용할 수 있음 |
+|                                         | 정보 거버넌스: SharePoint/비즈니스용 OneDrive 라이브러리, 폴더 및 문서 집합에 대한 기본 보존 레이블 Exchange 받은 편지함; 및 Office 365 그룹 | 사용할 수 있음              |
+|                                         | 정보 거버넌스: 전체 조직에 대한 보존 정책 특정 위치 또는 사용자 특정 조건에 따라 자동으로(예: 키워드 또는 중요한 정보) 및 이벤트 기반                                       | 사용할 수 있음              |
+|                                         | 정보 거버넌스: Teams에 대한 보존 정책                            | 엔지니어링 백로그 |
+|                                         | 정보 거버넌스: SharePoint Syntex 분류를 사용하는 보존 레이블                            | 엔지니어링 백로그 |
+|                                         | 정보 거버넌스: 학습 가능한 분류자에 대한 보존 정책                            | 엔지니어링 백로그 |
+|                                         | 정보 거버넌스: Teams 모임 녹음/녹화에 대한 보존 정책                            | 엔지니어링 백로그 |
+|                                         | 정보 거버넌스: 사용자에 대한 Yammer                            | 엔지니어링 백로그 |
+|                                         | 레코드 관리: 레코드 레이블에 대한 수동 분류                           | 사용할 수 있음              |
+|                                         | 레코드 관리: SharePoint, 비즈니스용 OneDrive 라이브러리, 폴더 및 문서 집합에 대한 기본 레코드 레이블 및 Office 365 그룹                              | 사용할 수 있음              |
+|                                         | 레코드 관리: 특정 조건(예: 키워드 또는 중요한 정보)을 기반으로 하는 자동 레코드 정책 및 이벤트 기반                            | 사용할 수 있음              |
+|                                         | 레코드 관리: 검토  | 사용할 수 있음              |
 |                                         | 레코드 관리: 파일 계획 관리자    | 사용할 수 있음 |
-|                                         | 레코드 관리: 삭제 증명                            | 사용할 수 있음 |
+|                                         | 레코드 관리: 폐기 증명                            | 사용할 수 있음 |
 |                                         | 레코드 관리: 레코드 버전 관리                         | 사용할 수 있음 |
 |                                         | 레코드 관리: 규정 레코드                         | 엔지니어링 백로그 |
-|                                         | 레코드 관리: 다중 단계 처리 검토 | 엔지니어링 백로그 |
-|                                         | 레코드 관리: SharePoint Syntex 분류를 사용 하 여 레코드 레이블 적용 | 엔지니어링 백로그 |
+|                                         | 레코드 관리: 다단계 분해 검토 | 엔지니어링 백로그 |
+|                                         | 레코드 관리: SharePoint Syntex 분류를 사용하여 레코드 레이블 적용 | 엔지니어링 백로그 |
 | **내부자 위험 관리**             | 고객 Lockbox                                | 사용할 수 있음            |
-|                                         | 참가자 위험 관리: 팀, SharePoint 사이트, 전자 메일 메시지에 대 한 Office 지표                         | 개발 환경 |
-|                                         | 참가자 위험 관리: departing 사용자에의 한 데이터 도용                        | 개발 환경 |
-|                                         | 참가자 위험 관리: 일반 데이터 누수                                | 개발 환경              |
-|                                         | 참가자 위험 관리: 참가자 위험 관리 알림 조사                                   | 개발 환경              |
-|                                         | 참가자 위험 관리: 사례 대시보드, 콘텐츠 탐색기 및 알림 서식 파일 | 개발 환경 |
-|                                         | 참가자 위험 관리: Advanced eDiscovery에 대 한 조사 확대 | 개발 환경|
-|                                         | 참가자 위험 관리: Windows 10 빌드 1809 이상에 대 한 활동에 대 한 장치 지표 | 엔지니어링 백로그|
-|                                         | 참가자 위험 관리: 보안 정책 위반에 대 한 지표 (미리 보기) | 엔지니어링 백로그|
-|                                         | 참가자 위험 관리: 끝점 경고 용 Microsoft Defender에 대 한 지표 (미리 보기) | 엔지니어링 백로그|
-|                                         | 참가자 위험 관리: 우선 순위 사용자의 데이터 누출에 대 한 정책 서식 파일 (미리 보기) | 엔지니어링 백로그 |
-|                                         | 참가자 위험 관리: 불만 사용자의 데이터 누출에 대 한 정책 템플릿 (미리 보기) | 엔지니어링 백로그 |
-|                                         | 참가자 위험 관리: 일반 보안 정책 위반에 대 한 정책 서식 파일 (미리 보기) | 엔지니어링 백로그 |
-|                                         | 참가자 위험 관리: 우선 순위 사용자, departing 사용자, 불만 사용자에의 한 보안 정책 위반에 대 한 정책 서식 파일 (미리 보기) | 엔지니어링 백로그 |
-|                                         | 참가자 위험 관리: 정책 사용자 지정 (미리 보기) | 엔지니어링 백로그 |
-|                                         | 참가자 위험 관리: 알림 내보내기 (미리 보기) | 엔지니어링 백로그 |
-|                                         | 참가자 위험 관리: 우선 순위 사용자 그룹 (미리 보기) | 엔지니어링 백로그 |
-|                                         | 통신 준수 (incl-감독 정책): 고객 정책 만들기, 3 개 미리 구성 됨  | 개발 환경 |
-|                                         | 통신 준수 (incl-감독 정책): 팀, Exchange 및 팀 제거 메시지에 대 한 지원 | 개발 환경 |
-|                                         | 통신 준수 (incl-감독 정책): 경고 액세스 참고 서식 파일 통신 정책 대시보드 | 개발 환경  |
-|                                         | 통신 준수 (incl 정책): Advanced eDiscovery에 대 한 조사를 위해 에스컬레이션 합니다. | 개발 환경 |
-|                                         | 통신 준수 (incl 정책): 성인용 콘텐츠 검색 | 개발 환경 |
-|                                         | 통신 준수 (incl 정책): 시간에 따른 반복 위반 코드를 검색 합니다. | 배포 중 |
-|                                         | 통신 준수 (incl 정책): 보다 세분화 된 사용 권한을 지원 합니다. | 배포 중 |
-|                                         | 통신 준수 (incl 정책): 온-프레미스 사서함을 사용 하는 사용자의 팀 채팅 데이터 분석 | 배포 중 |
-|                                         | 통신 준수 (incl 정책): 관심 서식 파일의 충돌 | 엔지니어링 백로그 |
-|                                         | 통신 준수 (incl 정책): 전자 메일 서명 또는 고 지 사항을 무시할 수 있습니다. | 엔지니어링 백로그 |
-|                                         | 통신 준수 (incl 정책): 위험 관리 직접 참가자 | 엔지니어링 백로그 |
-|                                         | 통신 준수 (incl 정책): 정책 상태 확인 및 정책 일시 중지 기능 | 엔지니어링 백로그 |
-|                                         | 통신 준수 (incl 정책): 조사 중에 상태 콘텐츠를 번역 합니다. | 엔지니어링 백로그 |
-|                                         | 통신 준수 (incl-감독 정책): Burnout 및 suicide 검색 | 엔지니어링 백로그 |
+|                                         | 내부자 위험 관리: Teams, SharePoint 사이트, 전자 메일 메시징에 대한 Office 표시기                         | 개발 중 |
+|                                         | 내부자 위험 관리: 사용자를 떠날 때 데이터 도용                        | 개발 중 |
+|                                         | 내부자 위험 관리: 일반 데이터 누수                                | 개발 중              |
+|                                         | 내부자 위험 관리: 내부자 위험 관리 경고 조사                                   | 개발 중              |
+|                                         | 내부자 위험 관리: 사례 대시보드, 콘텐츠 탐색기 및 알림 서식 파일 | 개발 중 |
+|                                         | 내부자 위험 관리: Advanced eDiscovery에 대한 조사 에스컬레이터 | 개발 중|
+|                                         | 내부자 위험 관리: Windows 10 빌드 1809 이상의 활동에 대한 장치 표시기 | 엔지니어링 백로그|
+|                                         | 내부자 위험 관리: 보안 정책 위반 표시기(미리 보기) | 엔지니어링 백로그|
+|                                         | 내부자 위험 관리: 끝점 경고에 대한 Microsoft Defender 표시기(미리 보기) | 엔지니어링 백로그|
+|                                         | 내부자 위험 관리: 우선 순위 사용자에 의해 데이터 누출을 위한 정책 템플릿(미리 보기) | 엔지니어링 백로그 |
+|                                         | 내부자 위험 관리: 불만이 있는 사용자에 의해 데이터 누출을 위한 정책 템플릿(미리 보기) | 엔지니어링 백로그 |
+|                                         | 내부자 위험 관리: 일반 보안 정책 위반에 대한 정책 템플릿(미리 보기) | 엔지니어링 백로그 |
+|                                         | 내부자 위험 관리: 우선 순위 사용자, 퇴사한 사용자, 불만이 있는 사용자에 대한 보안 정책 위반에 대한 정책 템플릿(미리 보기) | 엔지니어링 백로그 |
+|                                         | 내부자 위험 관리: 정책 사용자 지정(미리 보기) | 엔지니어링 백로그 |
+|                                         | 내부자 위험 관리: 경고 내보내기(미리 보기) | 엔지니어링 백로그 |
+|                                         | 내부자 위험 관리: 우선 순위 사용자 그룹(미리 보기) | 엔지니어링 백로그 |
+|                                         | 커뮤니케이션 규정 준수(감독 정책 포함): 고객 정책 만들기, 미리 구성된 3  | 개발 중 |
+|                                         | 커뮤니케이션 규정 준수(감독 정책 포함): Teams 지원, Exchange 및 Teams 메시지 제거 | 개발 중 |
+|                                         | 커뮤니케이션 규정 준수(감독 정책 포함): 알림 액세스 알림 서식 파일 통신 정책 대시보드 | 개발 중  |
+|                                         | 커뮤니케이션 규정 준수(감독 정책 포함): Advanced eDiscovery에 대한 조사를 위해 에스컬레이터 | 개발 중 |
+|                                         | 커뮤니케이션 규정 준수(감독 정책 포함): 성인용 콘텐츠 검색 | 개발 중 |
+|                                         | 커뮤니케이션 준수(감독 정책 포함): 시간이 지날 때 반복되는 행동 위반을 감지합니다. | 배포 중 |
+|                                         | 커뮤니케이션 규정 준수(감독 정책 포함): 보다 세부적인 사용 권한 지원 | 배포 중 |
+|                                         | 커뮤니케이션 준수(감독 정책 포함): 프레미스 사서함을 사용하여 사용자의 Teams 채팅 데이터 분석 | 배포 중 |
+|                                         | 커뮤니케이션 규정 준수(감독 정책 포함): 이해 상충 템플릿 | 엔지니어링 백로그 |
+|                                         | 커뮤니케이션 준수(감독 정책 포함): 전자 메일 서명 또는 고지사항을 무시하는 능력 | 엔지니어링 백로그 |
+|                                         | 커뮤니케이션 규정 준수(감독 정책 포함): 내부자 위험 관리 전달 | 엔지니어링 백로그 |
+|                                         | 통신 준수(감독 정책 포함): 정책 상태 검사 및 정책 일시 중지 능력 | 엔지니어링 백로그 |
+|                                         | 커뮤니케이션 준수(감독 정책 포함): 조사 중에 상태 콘텐츠 번역 | 엔지니어링 백로그 |
+|                                         | 커뮤니케이션 준수(감독 정책 포함): 번아웃 및 자살 감지 | 엔지니어링 백로그 |
 |                                         | 정보 장벽 | 엔지니어링 백로그 |
 |                                         | 권한이 부여된 액세스 관리                    | 엔지니어링 백로그 |
-| **응답 & 검색**                  | 코어 eDiscovery: 원본 위치 유지                            | 사용할 수 있음              |
-|                                         | 코어 eDiscovery: 사례 관리                                 | 사용할 수 있음              |
-|                                         | 코어 eDiscovery: 검색                                          | 사용할 수 있음              |
-|                                         | 코어 eDiscovery: 내보내기                                          | 사용할 수 있음              |
-|                                         | 코어 eDiscovery: RMS 암호 해독                                  | 사용할 수 있음              |
-|                                         | 코어 eDiscovery: 네이티브 내보내기                                   | 사용할 수 있음              |
-|                                         | 코어 eDiscovery: 감사                                        | 사용할 수 있음              |
-|                                         | 코어 eDiscovery: Microsoft 준수 센터에서는 SharePoint 및 비즈니스용 OneDrive 휴지통에서 항목을 검색 하 고 내보내는 기능이 확장 되었습니다.                                        | 개발 환경              |
-|                                         | 고급 eDiscovery: 고급 처리                             | 사용할 수 있음 |
-|                                         | 고급 eDiscovery: Custodian-작업에 대 한 매핑                             | 사용할 수 있음 |
-|                                         | Advanced eDiscovery: Custodian 통신                             | 사용할 수 있음 |
-|                                         | 고급 eDiscovery: 대시보드                             | 사용할 수 있음 |
-|                                         | 고급 eDiscovery: 전자 메일 스레딩                                 | 사용할 수 있음 |
-|                                         | 고급 eDiscovery: 내보내기 (다운로드, 내보내기, 다른 검토 설정에 추가)                   | 사용할 수 있음 |
-|                                         | 고급 eDiscovery: 필터링                                          | 사용할 수 있음 |
-|                                         | 고급 eDiscovery: 팀 개인 채널 메시지에 대 한 법적 보존                               | 사용할 수 있음 |
-|                                         | 고급 eDiscovery: 근접 중복 식별                 | 사용할 수 있음 |
-|                                         | Advanced eDiscovery: 비 custodial 데이터 원본                                         | 사용할 수 있음 |
-|                                         | 고급 eDiscovery: 비 Office 365 수집                                         | 사용할 수 있음 |
-|                                         | 고급 eDiscovery: 예측 코딩                                      | 사용할 수 있음 |
-|                                         | 고급 eDiscovery: 로드 파일을 사용 하 여 내보내기 처리                                       | 사용할 수 있음 |
+| **응답 & 검색**                  | Core eDiscovery: In-place preservation                            | 사용할 수 있음              |
+|                                         | Core eDiscovery: 사례 관리                                 | 사용할 수 있음              |
+|                                         | Core eDiscovery: 검색                                          | 사용할 수 있음              |
+|                                         | Core eDiscovery: Export                                          | 사용할 수 있음              |
+|                                         | Core eDiscovery: RMS 암호 해독                                  | 사용할 수 있음              |
+|                                         | Core eDiscovery: 기본 내보내기                                   | 사용할 수 있음              |
+|                                         | Core eDiscovery: 감사                                        | 사용할 수 있음              |
+|                                         | Core eDiscovery: Microsoft 규정 준수 센터가 SharePoint 및 비즈니스용 OneDrive의 항목 검색 및 내보내기 지원을 확장                                        | 개발 중              |
+|                                         | Advanced eDiscovery: 고급 처리                             | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: Custodian에서 작업으로의 매핑                             | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: Custodian communications                             | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: Dashboard                             | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: 전자 메일 스레딩                                 | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: 내보내기(다운로드, 내보내기, 다른 검토 집합에 추가)                   | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: Filtering                                          | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: Teams 비공개 채널 메시지에 대한 법적 보유                               | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: 중복에 가까운 식별                 | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: 비보조 데이터 원본                                         | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: 비 Office 365 ingestion                                         | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: 예측 코딩                                      | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: 로드 파일로 내보내기 처리                                       | 사용할 수 있음 |
 |                                         | Advanced eDiscovery: Redactions                   | 사용할 수 있음 |
-|                                         | Advanced eDiscovery: 검토 집합                        | 사용할 수 있음 |
-|                                         | Advanced eDiscovery: 데이터 검토 (쿼리 데이터, 스마트 태그, 대시보드) 및 주석 달기 (교정)                                     | 사용할 수 있음 |
-|                                         | Advanced eDiscovery: 용어 검색 보고서                             | 사용할 수 있음 |
-|                                         | 고급 eDiscovery: 단일 항목 오류 수정                        | 사용할 수 있음 |
-|                                         | 고급 eDiscovery: 지원 PST 내보내기                              | 배포 중 |
-|                                         | Advanced eDiscovery: OneDrive 및 SharePoint Online (최신 첨부 파일)에서 연결 된 콘텐츠 지원                              | 사용할 수 있음 |
-|                                         | 고급 eDiscovery: 태그 지정                              | 사용할 수 있음 |
-|                                         | 고급 eDiscovery: 테 넌 트 보고서                              | 사용할 수 있음 |
-|                                         | 고급 eDiscovery: 테마                               | 사용할 수 있음 |
-|                                         | 고급 eDiscovery: 뷰어                              | 사용할 수 있음 |
-|                                         | Advanced eDiscovery: Microsoft 준수 센터의 Yammer Advanced eDiscovery                              | 사용할 수 있음 |
-|                                         | Advanced eDiscovery: 고급 eDiscovery에 대 한 CJK/더블 바이트 지원                              | 개발 환경 |
-|                                         | 고급 eDiscovery: 지원 팀 reactions                             | 개발 환경 |
-|                                         | Advanced eDiscovery: Microsoft 준수 센터는 SharePoint 및 비즈니스용 OneDrive 휴지통에서 항목을 검색 하 고 내보내는 기능을 확장 한 지원                               | 엔지니어링 백로그 |
+|                                         | 고급 eDiscovery: 검토 집합                        | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: 데이터 검토(쿼리 데이터, 스마트 태그, 대시보드) 및 주석(변경)                                     | 사용할 수 있음 |
+|                                         | 고급 eDiscovery: 검색 용어 보고서                             | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: 단일 항목 오류 수정                        | 사용할 수 있음 |
+|                                         | 고급 eDiscovery: PST 내보내기 지원                              | 배포 중 |
+|                                         | Advanced eDiscovery: OneDrive 및 SharePoint Online의 연결된 콘텐츠 지원(최신 첨부 파일)                              | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: Tagging                              | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: 테넌트 보고서                              | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: Themes                               | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: Viewers                              | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: Yammer 준수 센터의 Advanced eDiscovery                              | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: Advanced eDiscovery에 대한 CJK/Double byte 지원                              | 개발 중 |
+|                                         | Advanced eDiscovery: Teams 반응 지원                             | 개발 중 |
+|                                         | Advanced eDiscovery: Microsoft 준수 센터에서 SharePoint 및 비즈니스용 OneDrive의 항목 검색 및 내보내기 지원 확장                               | 엔지니어링 백로그 |
 |                                         | 기본 감사                              | 사용할 수 있음 |
-|                                         | 고급 감사: 중요 한 이벤트에 대 한 액세스 (예를 들어, 액세스 한 mail항목)                              | 사용할 수 있음 |
-|                                         | 고급 감사: 관리 활동 API로의 대역폭 증가                              | 사용할 수 있음 |
-|                                         | 고급 감사: 팀 개인 채널 메시지에 대 한 법적 보존                              | 사용할 수 있음 |
-|                                         | 고급 감사: 로그 보존 (1 년)                              | 사용할 수 있음 |
+|                                         | 고급 감사: 중요한 이벤트에 대한 액세스(예: mailitemsaccessed)                              | 사용할 수 있음 |
+|                                         | 고급 감사: 관리 작업 API에 대한 대역폭 증가                              | 사용할 수 있음 |
+|                                         | 고급 감사: Teams 비공개 채널 메시지에 대한 법적 보유                              | 사용할 수 있음 |
+|                                         | 고급 감사: 로그 보존(1년)                              | 사용할 수 있음 |
 |                                         | 고급 감사: 보안 및 준수 센터 가용성                              | 사용할 수 있음 |
-|                                         | 고급 감사: 감사 로그에 대 한 용어 보존 기간 초과                              | 엔지니어링 백로그 |
+|                                         | 고급 감사: 감사 로그에 대한 장기 보존                              | 엔지니어링 백로그 |
 |                                         | 고급 감사: 메일 전달 및 메일 보내기 이벤트                              | 엔지니어링 백로그 |
-|                                         | 고급 감사: 처리 된 감사 insights                              | 엔지니어링 백로그 |
-|                                         | 고급 감사: Exchange Online 및 SharePoint Online의 용어 이벤트 검색                              | 엔지니어링 백로그 |
+|                                         | 고급 감사: 처리된 감사 인사이트                              | 엔지니어링 백로그 |
+|                                         | 고급 감사: Exchange Online 및 SharePoint Online에서 용어 이벤트 검색                              | 엔지니어링 백로그 |
 |    **준수 관리**            | Microsoft 365 보안 및 준수 센터                              | 사용할 수 있음 |
-|                                         | 규정 관리자                                 | 배포 중              |
+|                                         | 규정 관리자                                 | 사용할 수 있음              |
 |                                         | Microsoft Cloud App Security                                 | 사용할 수 있음              |
-|                                         | 더블 바이트 문자 지원                                 | 엔지니어링 백로그              |
-|    **환경**            | 고급 eDiscovery 용 Api 그래프                              | 개발 환경 |
-|                                         | 제 1 사 데이터 커넥터                                 | 엔지니어링 백로그              |
+|                                         | 더블비트 문자 지원                                 | 엔지니어링 백로그              |
+|    **에코시스템**            | Advanced eDiscovery용 그래프 API                              | 개발 중 |
+|                                         | 자체 데이터 커넥터                                 | 엔지니어링 백로그              |
 |                                         | 타사 데이터 커넥터                                 | 엔지니어링 백로그              |
-|                                         | 팀을 위한 데이터 내보내기 그래프 Api                                 | 엔지니어링 백로그              |
+|                                         | Teams 내보내기 데이터용 그래프 API                                 | 엔지니어링 백로그              |
 
-<sup>1</sup> 확인 된 상태는 프로젝트 계획 및 우선 순위를 다시 평가 하면서 변경 될 수 있습니다.<br/>
+<sup>1</sup> 프로젝트 계획 및 우선 순위가 다시 평가되면 식별된 상태가 변경될 수 있습니다.<br/>
 
-**의사 결정** 사항: *규정 준수 기능이 조직의 요구 사항을 충족 하는지 여부를 결정 합니다.*
+**결정 사항:** 규정 준수 기능이 조직의 요구 사항을 *충족하는지 여부를 결정하십시오.*

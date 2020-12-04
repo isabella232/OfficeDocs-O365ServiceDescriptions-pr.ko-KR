@@ -1,5 +1,5 @@
 ---
-title: 보안 & 준수에 대 한 Microsoft 365 라이선스 지침
+title: 보안 및 규정 준수를 위한 Microsoft 365 & 지침
 ms.author: v-trscho
 author: vtrscho
 audience: ITPro
@@ -10,624 +10,624 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: 이 문서에서는 허가 되지 않은 액세스로 인 한 잠재적인 서비스 중단을 방지 하기 위해 Microsoft 365 준수에 대 한 라이선스 지침을 제공 합니다.
-ms.openlocfilehash: 10e4a725d84cf6ad9e6503c8c6c711204bba9bde
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+description: 이 문서에서는 허가되지 않은 액세스로 인한 잠재적인 서비스 중단을 방지하기 위해 Microsoft 365 규정 준수에 대한 라이선스 지침을 제공합니다.
+ms.openlocfilehash: e2c5a7f9f7c3e5a44f48efa43f239f43590b6c2c
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518939"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566670"
 ---
-# <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 & 준수에 대 한 Microsoft 365 라이선스 지침
+# <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>보안 및 규정 준수를 위한 Microsoft 365 & 지침
 
-이 문서를 사용 하는 경우 테 넌 트 수준 서비스는 테 넌 트 &mdash; 의 모든 사용자에 대해 구매한 경우 (독립 실행형 또는 Office 365 또는 Microsoft 365 요금제의 일부로)이 테 넌 &mdash; 트의 모든 사용자에 대해 전체에서 정품 인증을 받아야 하는 온라인 서비스입니다. 일부 허가 되지 않은 사용자는 기술적으로 서비스에 액세스할 수 있지만,이 경우 서비스에서 혜택을 받으려는 모든 사용자에 게 라이선스가 필요 합니다.
+이 문서의 목적을 위해 테넌트 수준 서비스는 테넌트의 모든 사용자(독립 실행형 또는 &mdash; Office 365 또는 Microsoft 365 계획의 일부로)에 대해 구매한 경우 테넌트의 모든 사용자에 대해 부분적으로 또는 전체적으로 활성화되는 온라인 &mdash; 서비스입니다. 기술적으로는 라이선스가 없는 일부 사용자가 서비스에 액세스할 수 있을 수도 있습니다. 그러나 서비스를 이용하려는 모든 사용자에게는 라이선스가 필요합니다.
 
 > [!NOTE]
-> 일부 테 넌 트 서비스가 현재 특정 사용자에 대 한 혜택을 제한할 수 없습니다. 사용이 허가 된 사용자에 대 한 서비스 혜택을 제한 하기 위해 노력을 기울여야 합니다. 이렇게 하면 사용 가능한 기능을 사용할 수 있게 되 면 조직에 대 한 잠재적 서비스 중단을 방지 하기 위해 도움이 됩니다.
+> 일부 테넌트 서비스는 현재 특정 사용자에 대한 혜택을 제한할 수 없습니다. 사용이 허가된 사용자에 대한 서비스 혜택을 제한하기 위해 노력해야 합니다. 이렇게 하면 대상 지정 기능을 사용할 수 있는 경우 조직에 잠재적인 서비스 중단을 방지할 수 있습니다.
 
-사용자에 게 라이선스를 부여 하기 위한 옵션을 확인 하려면 2020 년 4 월 1 일부 터 Microsoft 365 준수 기능을 활용 하려면 자세한 Microsoft 365 준수 라이선스 비교를 다운로드 하세요. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102270)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102287)
+2020년 4월 1일 현재 Microsoft 365 규정 준수 기능을 이용하기 위해 사용자의 라이선스를 라이선스로 설정하는 옵션을 확인하려면 자세한 Microsoft 365 규정 준수 라이선싱 비교를 다운로드하세요. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102270)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102287)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory ID 보호
 
-Azure Active Directory Id 보호는 조직의 id에 영향을 미치는 잠재적인 취약점을 검색 하 고, 자동화 된 응답을 구성 하 여 조직의 id와 관련 된 의심 스러운 작업을 감지 하 고, 의심 스러운 문제를 조사 하 고 문제를 해결할 수 있는 적절 한 조치를 취할 수 있도록 하는 Azure Active Directory Premium P2 계획의 기능입니다.
+Azure Active Directory ID 보호는 조직의 ID에 영향을 주는 잠재적인 취약점을 감지하고, 조직의 ID와 관련된 의심스러운 작업에 대해 자동화된 응답을 구성하고, 의심스러운 인시던트 조사 및 문제 해결을 위한 적절한 조치를 취할 수 있는 Azure Active Directory Premium P2 계획의 기능입니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-SecOps 분석가 및 보안 전문가는 컴퓨터 학습 알고리즘에 따라 플래그가 지정 된 사용자 및 위험 이벤트를 통합 하 여 볼 수 있습니다. 최종 사용자는 위험 기반 조건부 액세스를 통해 제공 되는 자동 보호와 취약성에 따른 향상 된 보안 기능을 활용할 수 있습니다.
+SecOps 분석가 및 보안 전문가는 기계 학습 알고리즘을 기반으로 플래그가 지정된 사용자 및 위험 이벤트에 대한 통합 보기를 사용할 수 있습니다. 최종 사용자는 위험 기반 조건부 액세스를 통해 제공되는 자동 보호와 취약성에 대해 행동하여 제공되는 향상된 보안을 통해 혜택을 받을 수 있습니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Enterprise Mobility + Security E5/A5, Microsoft 365 E5/a5, Microsoft 365 E5/a5 보안 및 Azure Active Directory Premium 요금제 2는 Azure Active Directory Id 보호를 활용할 수 있는 권한을 사용자에 게 제공 합니다.
+E1 및 E3 라이선스가 있는 고객은 기본 데이터 보호 기준 평가에만 액세스할 수 있습니다. Office 365 E5/A5 및 Microsoft 365 E5/A5 라이선스(규정 준수, Info Protection & 거버넌스 및 eDiscovery 및 SKUS 포함)가 포함된 고객은 데이터 보호 기준, GDPR, NIST 800-53 및 ISO 27001 기본 평가에 액세스할 수 있습니다. 사용자 지정 평가 기능 및 프리미엄 평가는 Office 365 E5/A5 및 Microsoft 365 E5/A5 고객을 위해 예약되어 있습니다. 프리미엄 평가는 2021년 상반기 VL, CSP 및 WebDirect를 통해 구매할 수 있습니다. 
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-기본적으로 Azure AD Id 보호 기능은 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다. Azure AD Id 보호에 대 한 자세한 내용은 [Azure Active Directory Id 보호 란?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection) 를 참조 하세요.
+기본적으로 Azure AD ID 보호 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. Azure AD ID 보호에 대한 자세한 내용은 [Azure Active Directory ID 보호란?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-관리자는 암호 재설정에 대 한 수준을 정의 하 고 라이선스가 있는 사용자 에게만 액세스를 허용 하는 위험 정책을 할당 하 여 Azure AD Id 보호 범위를 지정할 수 있습니다. Azure AD Id 보호 배포의 범위를 설정 하는 방법에 대 한 자세한 내용은 [로그인 위험 정책 구성을](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)참조 하십시오.
+관리자는 암호 재설정 수준을 정의하는 위험 정책을 할당하고 라이선스가 있는 사용자에 한해 액세스를 허용하여 Azure AD ID 보호 범위를 지정할 수 있습니다. Azure AD ID 보호 배포의 범위를 지정하는 방법에 대한 지침은 로그인 위험 정책 [구성을 참조하세요.](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)
 
-## <a name="microsoft-defender-for-identity"></a>ID용 Microsoft Defender
+## <a name="microsoft-defender-for-identity"></a>Microsoft Defender for Identity
 
-Identity for Microsoft Defender는 여러 유형의 고급 대상 사이버 공격 및 참가자 위협 으로부터 엔터프라이즈 하이브리드 환경을 보호 하는 클라우드 서비스입니다.
+Microsoft Defender for Identity는 여러 유형의 고급 대상 사이버 공격 및 내부자 위협으로부터 엔터프라이즈 하이브리드 환경을 보호하는 클라우드 서비스입니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-SecOp 분석가 및 보안 전문가는 Id에 대 한 Microsoft Defender를 통해 advanced threat, 손상 된 id 및 악의적인 참가자 작업을 검색 하 고 조사할 수 있습니다. 최종 사용자의 입장에서는 Id를 위해 Microsoft Defender에서 데이터를 모니터링 합니다.
+SecOp 분석가 및 보안 전문가는 고급 위협, 손상된 ID 및 악의적인 내부자 작업을 감지하고 조사하는 ID용 Microsoft Defender의 기능을 통해 이점을 제공합니다. 최종 사용자는 Microsoft Defender에서 ID를 위해 데이터를 모니터링하여 혜택을 받을 수 있습니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Enterprise Mobility + Security E5/A5, Microsoft 365 E5/a5, Microsoft 365 E5/, a5 보안 및 사용자를 위한 microsoft Defender for identity for microsoft Defender에서 Id에 대 한 혜택을 얻을 수 있는 권한을 제공 합니다.
+Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security 및 사용자를 위한 Microsoft Defender for Users는 ID에 대한 Microsoft Defender의 혜택을 받을 수 있는 권한을 제공합니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-기본적으로 Microsoft Defender for Identity 기능은 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다. Id에 대 한 Microsoft Defender를 구성 하는 방법에 대 한 자세한 내용은 [identity 인스턴스에 대 한 Microsoft Defender 만들기](https://docs.microsoft.com/azure-advanced-threat-protection/install-atp-step1)를 참조 하세요.
+기본적으로 Microsoft Defender for Identity 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. ID에 대한 Microsoft Defender 구성에 대한 자세한 내용은 [Id용 Microsoft Defender 인스턴스 만들기를 참조하세요.](https://docs.microsoft.com/azure-advanced-threat-protection/install-atp-step1)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-현재 Identity services 용 Microsoft Defender에서 특정 사용자에 게 기능을 제한할 수 없습니다. 혜택을 받을 모든 사용자에 게 라이선스를 사용 하도록 허가 해야 합니다.
+Microsoft Defender for Identity Services는 현재 특정 사용자로 기능을 제한할 수 없습니다. 혜택을 제공하려는 모든 사용자에게 라이선스를 부여해야 합니다.
 
 ## <a name="microsoft-defender-for-office-365"></a>Office 365용 Microsoft Defender
 
-Defender for Office 365에서는 조직이 피싱 및 제로 일 맬웨어 등의 복잡 한 공격 으로부터 조직을 보호할 수 있습니다. Defender for Office 365에서는 또한 잠재적 위협을 해결 하는 방법에 대 한 권장 사항을 식별 하 고 우선 순위를 지정 하는 데 도움이 되도록 광범위 한 데이터의 신호를 연관 시켜 유효한 통찰력을 제공 합니다.
+Office 365용 Defender는 피싱 및 제로 데이 맬웨어와 같은 정교한 공격으로부터 조직을 보호합니다. 또한 Office 365용 Defender는 광범위한 데이터의 신호를 상호 작용하여 잠재적인 위협을 식별하고, 우선 순위를 지정하고, 잠재적인 위협을 해결하기 위한 방법에 대한 권장 사항을 제공하는 실행 가능한 인사이트를 제공합니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-Defender for Office 365는 피싱 및 제로 일 멀웨어와 같은 복잡 한 공격 으로부터 사용자를 보호 합니다. 계획 1 및 계획 2에 제공 된 서비스의 전체 목록은 [Office 365 용 Microsoft Defender](https://products.office.com/exchange/advance-threat-protection)를 참조 하세요.
+Office 365용 Defender는 피싱 및 제로 데이 맬웨어와 같은 정교한 공격으로부터 사용자를 보호합니다. 계획 1 및 계획 2에 제공된 서비스의 전체 목록은 [Office 365용 Microsoft Defender를 참조하세요.](https://products.office.com/exchange/advance-threat-protection)
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까? 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까? 
 
-Microsoft Defender for Office 365, Office 365 E5/A5/G5, Microsoft 365 E5/a5/G5, microsoft 365 E5/A5/G5 보안, microsoft 365 Business Premium 및 microsoft Defender for Office 365 계획 1 및 2는 사용자가 Office 용 Defender를 활용할 수 있도록 하는 권한을 제공 합니다.
+Office 365용 Microsoft Defender, Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 보안, Microsoft 365 Business Premium 및 Office 365 요금제 1 및 2용 Microsoft Defender는 사용자가 Office 365용 Defender의 혜택을 받을 수 있는 권한을 제공합니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-기본적으로 Microsoft Defender for Office 365 기능은 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 되어 있습니다. 라이선스가 있는 사용자에 대 한 Office 365 용 Defender 구성에 대 한 자세한 내용은 [Microsoft defender For office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-atp)를 참조 하세요.
+기본적으로 Microsoft Defender for Office 365 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 라이선스가 있는 사용자에 대해 Office 365용 Defender 정책을 구성하는 데 대한 자세한 내용은 [Office 365용 Microsoft Defender를 참조하세요.](https://docs.microsoft.com/office365/securitycompliance/office-365-atp)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-Microsoft Defender for Office 365의 범위를 적용 하려면 안전한 링크 및 안전한 첨부 파일 배포 정책을 따릅니다.
+Office 365용 Microsoft Defender의 범위를 지정하기 위해 안전한 링크 및 안전한 첨부 파일 배포 정책을 따르하세요.
 
-- 라이선스가 부여 된 사용자에 대 한 안전한 링크를 구성 하는 방법에 대 한 자세한 내용은 [Office 용 Microsoft Defender 365에서 안전한 링크 정책 설정을](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)참조 하십시오.
+- 사용이 허가된 사용자의 안전한 링크 구성에 대한 자세한 내용은 [Office 365용 Microsoft Defender에서 안전한](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)링크 설정 정책을 참조하세요.
 
-- 라이선스가 있는 사용자에 대 한 안전한 첨부 파일을 구성 하는 방법에 대 한 자세한 내용은 [Microsoft Defender For Office 365에서 안전한 첨부 파일 정책 설정을](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies)참조 하십시오.
+- 사용이 허가된 사용자에 대해 안전한 첨부 파일을 구성하는 데 대한 자세한 내용은 [Office 365용 Microsoft Defender에서 안전](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies)첨부 파일 정책 설정을 참조하세요.
 
 ## <a name="office-365-cloud-app-security"></a>Office 365 Cloud App Security
 
-Office 365 Cloud App Security (OCAS)는 Office 365로 제한 되는 기능과 타사 클라우드 앱 및 IaaS 서비스에 대 한 추가 보안을 사용 하지 않고 Microsoft Cloud App Security의 하위 집합입니다.
+Office 365 Cloud App Security(OCAS)는 Microsoft Cloud App Security의 하위 집합으로, Office 365로 제한되는 기능으로 타사 클라우드 앱 및 IaaS 서비스에 대한 추가 보안 없이도 사용할 수 있습니다.
 
-OCAS 조직이 생산성 클라우드 앱 및 서비스를 확인할 수 있도록 하 고, 사이버 위협을 식별 하 고 해결 하는 정교한 분석을 제공 하며, Office 365에서 데이터를 전송 하는 방법을 제어할 수 있습니다 &mdash; .
+OCAS를 통해 조직은 생산성 클라우드 앱 및 서비스를 볼 수 있으며, 사이버 위협을 식별하고 퇴치하기 위한 정교한 분석을 제공하며, Office 365에서 데이터가 이동하는 방법을 제어할 수 &mdash; 있습니다.
 
-기능을 비교 하려면 [Microsoft Cloud App security 및 Office 365 Cloud App security의 차이점](https://docs.microsoft.com/cloud-app-security/editions-cloud-app-security-o365)을 참조 하세요.
+기능을 비교하기 위해 [Microsoft Cloud App Security와 Office 365 Cloud App Security의 차이점을 참조하세요.](https://docs.microsoft.com/cloud-app-security/editions-cloud-app-security-o365)
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-OCAS 섀도를 검색 하 고, Office 365에서 위협 보호를 제공 하며, 데이터 액세스 권한이 있는 앱을 제어할 수 있습니다.
+OCAS는 섀도 IT를 검색하고, Office 365에서 위협 방지를 제공하며, 데이터에 액세스할 수 있는 권한이 있는 앱을 제어할 수 있습니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Office 365 E5/A5/G5 사용자가 OCAS의 혜택을 받을 수 있는 권한을 제공 합니다.
-자세한 내용은 [Microsoft Cloud App Security License Datasheet](https://www.aka.ms/mcaslicensing)를 참조 하세요.
+Office 365 E5/A5/G5는 사용자가 OCAS를 사용할 수 있는 권한을 제공합니다.
+자세한 내용은 Microsoft [Cloud App Security Licensing Datasheet을 참조하세요.](https://www.aka.ms/mcaslicensing)
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-기본적으로 OCAS 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다.
+기본적으로 OCAS 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다.
 
-서비스 구성에 대 한 자세한 내용은 [Cloud App Security에 대 한 기본 설정을](https://docs.microsoft.com/cloud-app-security/general-setup)참조 하십시오.
+서비스 구성에 대한 자세한 내용은 Cloud App Security에 대한 기본 [설치를 참조하세요.](https://docs.microsoft.com/cloud-app-security/general-setup)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-관리자는 특정 앱에 액세스 하는 방법을 적용 하 고 Office 365 Cloud App Security에서 모니터링 되는 사용자 그룹을 제한 하기 위해 OCAS 범위를 배포할 수 있습니다. 자세한 내용은 범위가 지정 된 [배포](https://docs.microsoft.com/cloud-app-security/scoped-deployment)를 참조 하세요.
+관리자는 OCAS 배포 범위를 지정하여 특정 앱에 액세스하는 방법을 적용하고 Office 365 Cloud App Security에서 모니터링하는 사용자 그룹을 제한할 수 있습니다. 자세한 내용은 [범위가 지정한 배포를 참조하십시오.](https://docs.microsoft.com/cloud-app-security/scoped-deployment)
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-Microsoft Cloud App Security (MCAS)는 조직에 클라우드 앱 및 서비스를 표시 하는 방법을 제공 하는 사이버 (Cloud Access Security Broker) 솔루션으로, 복잡 한 분석을 제공 하 여 모든 클라우드 앱에서 데이터를 전송 하는 방법을 제어할 수 있도록 &mdash; 합니다.
+MCAS(Microsoft Cloud App Security)는 조직이 클라우드 앱 및 서비스에 대한 가시성을 제공하고, 사이버 위협을 식별하고 퇴치하는 정교한 분석을 제공하는 CASB(Cloud Access Security Broker) 솔루션으로, 모든 클라우드 앱 전체에서 데이터가 이동하는 방법을 제어할 수 있도록 &mdash; 합니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-MCAS는 섀도 IT를 감지 및 평가 하 고, 첫 번째 및 타사 클라우드 앱에서의 위협 보호를 제공 하며, 첫 번째 및 타사 클라우드 앱에서 정보를 보호 합니다.
+MCAS는 섀도 IT를 검색 및 평가하고, 첫 번째 및 타사 클라우드 앱에 대한 위협 방지를 제공하며, 첫 번째 및 타사 클라우드 앱의 정보를 보호합니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-MCAS, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Security, microsoft 365 E5/a5/G5 준수, microsoft 365 Information Protection 및 관리 방식 사용자에 게 MCAS에서 혜택을 얻을 수 있는 권한을 제공 합니다.
+MCAS, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security, Microsoft 365 E5/A5/G5 Compliance 및 Microsoft 365 Information Protection and Governance는 사용자가 MCAS를 혜택을 받을 수 있는 권한을 제공합니다.
 
-Azure AD P1은 사용자에 게 MCAS의 검색 기능을 활용할 수 있는 권한을 제공 합니다.
+Azure AD P1은 사용자가 MCAS의 검색 기능을 사용할 수 있는 권한을 제공합니다.
 
-MCAS에서 조건부 Access 앱 제어 기능을 활용 하려면 사용자에 게 Enterprise Mobility + Security E3/A3/G3, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E3/A3/G3, microsoft 365 E5/a5/G5 및 Microsoft 365 E5/a5/G5 Security에 포함 된 Azure Active Directory P1에 대 한 라이선스가 있어야 합니다.
+MCAS의 조건부 액세스 앱 제어 기능을 사용하려면 사용자에게 Enterprise Mobility + Security E3/A3/G3, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E3/A3/G3, Microsoft 365 E5/A5/G5 및 Microsoft 365 E5/A5/G5 보안에 포함된 Azure Active Directory P1에 대한 라이선스도 있어야 합니다.
 
-자동 레이블 기능의 이점을 얻으려면 사용자에 게 Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 준수 및 Microsoft 365 정보 보호 및 관리 방식에 포함 된 Azure Information Protection P2에 대 한 라이선스가 있어야 합니다.
+자동 레이블 지정의 이점을 이용하려면 사용자에게 Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 Microsoft 365 정보 보호 및 거버넌스에 포함된 Azure Information Protection P2에 대한 라이선스가 있어야 합니다.
 
-자세한 내용은 [Microsoft Cloud App Security License Datasheet](https://www.aka.ms/mcaslicensing)를 참조 하세요.
+자세한 내용은 Microsoft [Cloud App Security Licensing Datasheet을 참조하세요.](https://www.aka.ms/mcaslicensing)
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-기본적으로 MCAS 기능은 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다.
+기본적으로 MCAS 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다.
 
-라이선스가 부여 된 사용자에 대 한 Microsoft Cloud App 보안 정책을 구성 하는 방법에 대 한 자세한 내용은 [Microsoft Cloud App security overview](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)를 참조 하세요.
+라이선스가 있는 사용자에 대해 Microsoft Cloud App Security 정책을 구성하는 데 대한 자세한 내용은 [Microsoft Cloud App Security 개요를 참조하세요.](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-관리자는 서비스에서 사용할 수 있는 범위가 지정 된 배포 기능을 사용 하 여 라이선스 사용자에 게 MCAS 배포의 범위를 지정할 수 있습니다. 자세한 내용은 범위가 지정 된 [배포](https://docs.microsoft.com/cloud-app-security/scoped-deployment)를 참조 하세요.
+관리자는 서비스에서 사용할 수 있는 범위가 지정한 배포 기능을 사용하여 MCAS 배포 범위를 사용이 허가된 사용자로 제한할 수 있습니다. 자세한 내용은 [범위가 지정한 배포를 참조하십시오.](https://docs.microsoft.com/cloud-app-security/scoped-deployment)
 
 ## <a name="compliance-manager"></a>규정 관리자
 
-규정 준수를 단순화 하 고 준수 관리자의 위험을 줄입니다. 준수 관리자는 조직이 규정, 표준, 회사 정책 또는 기타 원하는 제어 프레임 워크의 요구 사항을 충족 하는 데 도움이 됩니다.
+준수 관리자를 통해 규정 준수를 간소화하고 위험을 줄입니다. 규정 준수 관리자는 조직이 규정, 표준, 회사 정책 또는 기타 원하는 제어 프레임워크의 요구 사항을 충족하도록 지원합니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-다음은 준수 관리자의 사용자에 게 제공 되는 혜택입니다.
+준수 관리자 서비스의 사용자에게는 다음과 같은 이점이 있습니다.
 
-- 복잡 한 규정, 표준, 회사 정책 또는 기타 원하는 제어 프레임 워크를 간단한 언어로 변환 합니다.
-- 고유한 규정 준수 요구를 충족 하기 위해 기본 평가 및 사용자 지정 평가의 방대한 라이브러리에 액세스할 수 있습니다.
-- 규정 통제를 권장 되는 개선 작업에 매핑
-- 규정 요구 사항을 충족 하는 솔루션을 구현 하는 방법에 대 한 단계별 지침을 제공 합니다.
-- 각 작업에 점수를 연결 하 여 조직의 규정 준수에 가장 큰 영향을 주는 작업의 우선 순위를 사용자에 게 줍니다.
+- 복잡한 규정, 표준, 회사 정책 또는 기타 원하는 제어 프레임워크를 간단한 언어로 변환
+- 고유한 규정 준수 요구를 충족하기 위해 첫 사용 평가 및 사용자 지정 평가의 방대한 라이브러리에 대한 액세스를 제공합니다.
+- 규정 컨트롤을 권장 개선 작업에 매핑
+- 규정 요구 사항을 충족하기 위해 솔루션을 구현하는 방법에 대한 단계별 지침을 제공합니다.
+- 사용자가 각 작업에 점수를 연결하여 조직 규정 준수에 가장 큰 영향을 미치는 작업의 우선 순위를 지정하는 데 도움이 됩니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Office 365 E5/A5 및 Microsoft 365 E5/A5 라이선스를 사용 하는 고객은 사용자 지정 평가 기능을 사용할 수 있을 뿐만 아니라 데이터 보호 기준, GDPR, NIST 800-53 및 ISO 27001의 기본 평가에 액세스할 수도 있습니다. 프리미엄 평가는 2021의 처음 절반에 해당 하는 Office 365 E5/A5 및 Microsoft 365 E5/A5 고객에 게 구매할 수 있습니다. VL, CSP 및 WebDirect를 통해 구매할 수 있습니다.
+Office 365 E5/A5 및 Microsoft 365 E5/A5 라이선스가 있는 고객은 데이터 보호 기준, GDPR, NIST 800-53 및 ISO 27001 기본 평가에 액세스할 수 있을 뿐만 아니라 사용자 지정 평가 기능을 사용할 수 있습니다. 프리미엄 평가는 2021년 상반기 동안 Office 365 E5/A5 및 Microsoft 365 E5/A5 고객에게 구매할 수 있습니다. VL, CSP 및 WebDirect를 통해 구매할 수 있습니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-준수 관리자는 기본적으로 테 넌 트에 대해 프로 비전 됩니다. 관리자는 조직의 관리자가 아닌 사용자가 준수 관리자를 사용 하 여 시작할 수 있도록 사용자 권한을 설정 하 고 역할을 할당 합니다. 자세한 내용은 [준수 관리자 시작: 사용자 권한 설정 및 역할 할당](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)을 참조 하세요.
+준수 관리자는 테넌트에 대해 기본적으로 프로비전됩니다. 관리자는 조직의 관리자가 아닌 사용자가 준수 관리자 사용을 시작할 수 있도록 사용자 권한을 설정하고 역할을 할당합니다. 자세한 내용은 준수 관리자 시작: 사용자 권한 설정 및 [역할 할당을 참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-준수 관리자에 대 한 액세스는 사용자 권한 설정 및 역할 할당에 의해 제어 됩니다. 자세한 내용은 [준수 관리자 시작: 사용자 권한 설정 및 역할 할당](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)을 참조 하세요.
+준수 관리자에 대한 액세스는 사용자 권한을 설정하고 역할을 할당하여 제어합니다. 자세한 내용은 준수 관리자 시작: 사용자 권한 설정 및 [역할 할당을 참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)
 
-## <a name="microsoft-defender-for-endpoint"></a>엔드포인트용 Microsoft Defender
+## <a name="microsoft-defender-for-endpoint"></a>끝점용 Microsoft Defender
 
-끝점에 대 한 Microsoft Defender는 위험 기반 취약성 관리 및 평가를 포함 하는 끝점 보안 솔루션입니다. 공격 표면 축소 기능 동작 기반 차세대 차세대 보호 기능 EDR (끝점 검색 및 응답); 자동 조사 및 수정 및 관리 되는 구하기 서비스 자세한 내용은 [Microsoft Defender For Endpoint](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) page를 참조 하세요.
+끝점용 Microsoft Defender는 위험 기반 취약점 관리 및 평가를 포함하는 끝점 보안 솔루션입니다. 공격 표면 축소 기능; 동작 기반 및 클라우드 기반 차세대 보호 끝점 검색 및 응답(EDR) 자동 조사 및 수정 및 관리되는 헌팅 서비스. 자세한 [내용은 끝점용 Microsoft Defender](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) 페이지를 참조하세요.
 
-### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
+### <a name="which-users-benefit-from-the-service"></a>서비스에서 어떤 사용자에게 혜택을 제공하나요?
 
-Windows 10 Enterprise E5, Windows 10 교육 A5, microsoft 365 E5 (M365 E5)에 windows 10 Enterprise E5, Microsoft 365 E5 Security, microsoft 365 A5 (M365 A5)를 포함 하 여 microsoft Defender for Endpoint의 혜택을 받을 수 있습니다.
+Windows 10 Enterprise E5, Windows 10 Education A5, Microsoft 365 E5(M365 E5) 사용이 허가된 사용자는 Windows 10 Enterprise E5, Microsoft 365 E5 보안, Microsoft 365 A5(M365 A5)를 포함하는 Microsoft 365 E5를 통해 끝점용 Microsoft Defender를 사용할 수 있습니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-SecOps 분석가 및 보안 전문가는 끝점에 대 한 Microsoft Defender의 끝점 보안 기능을 통해 예방 기능 보호, 위반 감지, 자동 조사 및 고급 위협에 대 한 응답을 수행할 수 있습니다. 최종 사용자의 입장에서는 Microsoft Defender for Endpoint를 통해 악성 이벤트를 모니터링 하는 것이 좋습니다.
+SecOps 분석가 및 보안 전문가는 끝점용 Microsoft Defender의 끝점 보안 기능을 통해 예방적 보호, 위반 후 감지, 자동화된 조사 및 고급 위협에 대한 대응을 제공합니다. 최종 사용자는 끝점용 Microsoft Defender에서 악성 이벤트를 모니터링하여 이점을 제공합니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-기본적으로 끝점 기능에 대 한 Microsoft Defender는 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다. 배포에 대 한 자세한 내용은 [배포 가이드](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases)를 참조 하세요.
+기본적으로 Microsoft Defender for Endpoint 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 배포에 대한 자세한 내용은 배포 [가이드를 참조하십시오.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-끝점 관리자 용 Microsoft Defender는 [RBAC (역할 기반 액세스 제어)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) 를 사용 하 여 보안 운영 팀 내의 역할과 그룹을 만들어 Microsoft Defender 보안 센터에 적절 한 액세스 권한을 부여할 수 있습니다.
+끝점용 Microsoft Defender 관리자는 [RBAC(역할](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) 기반 액세스 제어)를 사용하여 보안 작업 팀 내에서 역할 및 그룹을 만들어 Microsoft Defender 보안 센터에 대한 적절한 액세스 권한을 부여할 수 있습니다.
 
 ## <a name="information-protection"></a>정보 보호
 
-정보 보호는 조직에서 중요 한 문서와 전자 메일을 검색, 분류, 레이블 지정 하 고 보호 하는 데 도움이 됩니다. 관리자는 레이블을 자동으로 적용 하는 규칙과 조건을 정의 하 고 사용자가 레이블을 적용할 때 권장 사항을 제공 하는 경우에는 레이블을 수동으로 적용 하거나 두 가지를 조합 하 여 사용할 수 있습니다.
+정보 보호는 조직에서 중요한 문서와 전자 메일을 검색, 분류, 레이블 지정 및 보호하는 데 도움이 됩니다. 관리자는 레이블을 자동으로 적용하는 규칙 및 조건을 정의하거나, 사용자가 레이블을 수동으로 적용하거나, 두 가지의 조합을 사용할 수 있습니다. 여기서 사용자에게 레이블 적용에 대한 권장 사항이 제공될 수 있습니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-사용자는 콘텐츠에 자동으로 민감도 레이블을 적용 하거나 콘텐츠를 자동적으로 분류 하 여 사용할 수 있는 이점을 제공 합니다.
+사용자는 콘텐츠에 민감도 레이블을 수동으로 적용하거나 콘텐츠를 자동으로 분류할 수 있는 기능을 통해 이점을 제공합니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Microsoft 365 E5/A5/G5/E3/A3/G3/F1/t/f e t/t/t/f o m/e m t/i m/a m/1/3, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/A5/E3/A3/F3, AIP 요금제 1
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/A5/E3/F3, AIP 계획 1 및 AIP 계획 2는 사용자가 수동 민감도 레이블 지정을 사용할 수 있는 권한을 제공합니다.
 
-Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, AIP 계획 1 및 AIP 요금제 2는 power bi에서 민감도 레이블을 적용 및 확인 하 고 Power BI에서 Excel, PowerPoint 또는 PDF로 내보낼 때 데이터를 보호 하는 데 도움이 되는 사용자의 권한을 제공 합니다. 
+Microsoft 365 E5/A5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, AIP 계획 1 및 AIP 계획 2는 Power BI에서 민감도 레이블을 적용 및 보고 Power BI에서 Excel, PowerPoint 또는 PDF로 내보낼 때 데이터를 보호할 수 있는 권한을 사용자에게 제공합니다. 
 
 > [!NOTE]
-> Power BI는 Microsoft 365 E5/A5/G5에 포함 되어 있습니다. 다른 모든 계획에서 Power BI는 별도로 사용이 허가 되어야 합니다.
+> Power BI는 Microsoft 365 E5/A5/G5에 포함되어 있습니다. 다른 모든 계획에서 Power BI는 별도로 사용이 허가되어야 합니다.
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, Microsoft 365 정보 보호 365, Office 365 고급 규정 준수, Enterprise Mobility + Security E5 및 AIP 요금제 2는 사용자가 자동 민감도 레이블을 통해 혜택을 얻을 수 있는 권한을 제공 합니다.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, Microsoft 365 정보 보호 및 거버넌스, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 및 AIP 계획 2는 사용자가 자동 민감도 레이블 지정을 사용할 수 있는 권한을 제공합니다.
 
-라이선스 별 특정 권한에 대 한 자세한 내용은 Microsoft 365 준수 라이선스 비교를 참조 하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) 기계 학습 (trainable 분류자)을 기반으로 하는 자동 분류에 대 한 권한을 포함 하지 않습니다.
+라이선스별 특정 권한은 자세한 Microsoft 365 규정 준수 라이선싱 비교를 참조합니다. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) 기계 학습(학습 가능한 분류자)에 따라 자동 분류에 대한 권한을 포함하지 않습니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-기본적으로 정보 보호 기능은 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다. 라이선스가 있는 사용자에 대 한 정책을 구성 하는 방법에 대 한 자세한 내용은 Azure 권한 관리 활성화를 참조 하십시오.
+기본적으로 정보 보호 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 라이선스가 부여된 사용자에 대한 정책 구성에 대한 자세한 내용은 Azure 권한 관리 활성화를 참조하세요.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-AIP 스캐너 기능을 사용 하는 경우를 제외 하 고, 특정 그룹 또는 사용자에 게 정책을 지정할 수 있으며, 허가 되지 않은 사용자가 분류 또는 레이블 기능을 실행 하지 못하도록 하기 위해 레지스트리를 편집할 수 있습니다. IP 배포의 범위를 결정 하는 방법에 대 한 자세한 내용은 [Azure Information Protection Policy 구성을](https://docs.microsoft.com/azure/information-protection/configure-policy)참조 하십시오.
+AIP 스캐너 기능을 사용하는 경우를 제외하고 정책을 특정 그룹 또는 사용자로 지정하여 라이선스가 없는 사용자가 분류 또는 레이블 지정 기능을 실행하지 못하도록 할 수 있습니다. AIP 배포 범위를 지정하는 방법에 대한 지침은 Azure Information Protection 정책 [구성을 참조하세요.](https://docs.microsoft.com/azure/information-protection/configure-policy)
 
-AIP 스캐너 기능의 경우 Microsoft는 라이선스가 없는 사용자에 게 파일 분류, 레이블 지정 또는 보호 기능을 제공 하기 위해 커밋하지 않습니다.
+AIP 스캐너 기능의 경우 Microsoft는 라이선스가 없는 사용자에게 파일 분류, 레이블 지정 또는 보호 기능을 제공하지 않습니다.
 
-## <a name="information-governance"></a>정보 거 버 넌 스
+## <a name="information-governance"></a>정보 거버넌스
 
-정보 거 버 넌 스 조직은 데이터 검색, 분류, 레이블 지정 및 관리를 통해 위험을 관리할 수 있도록 지원 합니다. 정보 거 버 넌 스에서는 조직이 비즈니스 및 규정 요구 사항을 충족 하 고 Microsoft 365 및 타사 데이터에 보존 및 삭제 기능을 제공 하 여 공격 허점을 줄일 수 있습니다.
+정보 거버넌스를 통해 조직은 데이터를 검색, 분류, 레이블 지정 및 관리하여 위험을 관리할 수 있습니다. 정보 거버넌스를 통해 조직은 Microsoft 365 및 타사 데이터 전체에서 보존 및 삭제 기능을 제공하여 비즈니스 및 규정 요구 사항을 충족하고 공격 표면을 줄일 수 있습니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-사용자는 보존 목적으로 데이터를 분류 하 여 아래 맞춤 특정 정책 및 규정을 활용할 수 있습니다.
+사용자는 특정 정책 및 규정을 유지하기 위해 보존을 위해 데이터를 분류할 수 있는 이점이 있습니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Microsoft 365 F3/Business Premium, Office 365 E1/A1/F3 및 독립 실행형 Exchange 계획은 사서함 데이터에 레코드가 아닌 보존 레이블을 수동으로 적용 하 여 이점을 얻을 수 있는 권한을 제공 합니다.
+Microsoft 365 F3/Business Premium, Office 365 E1/A1/F3 및 독립 실행형 Exchange 요금제는 사용자가 사서함 데이터에 기록되지 않은 보존 레이블을 수동으로 적용하여 혜택을 받을 수 있는 권한을 제공합니다.
 
-Microsoft 365 F3/F1/Business Premium, Office 365 E1/A1/F3 및 독립 실행형 SharePoint 계획은 SharePoint 또는 OneDrive의 파일에 레코드가 아닌 보존 레이블을 수동으로 적용 하 여 이점을 얻을 수 있는 권한을 제공 합니다. 
+Microsoft 365 F3/F1/Business Premium, Office 365 E1/A1/F3 및 독립 실행형 SharePoint 요금제는 사용자가 SharePoint 또는 OneDrive의 파일에 기록되지 않은 보존 레이블을 수동으로 적용할 수 있는 권한을 제공합니다. 
 
-Microsoft 365 E5/A5/E3/A3/Business Premium, Office 365 E5/A5/E3/A3, Exchange Online 보관은 사용자에 게 기본 조직 전체 또는 위치 전체 사서함 보존 정책을 통해 혜택을 얻을 수 있는 권한을 제공 하 고, 사서함 데이터에 레코드 없는 보존 레이블을 수동으로 적용 하는 데 사용 됩니다.
+Microsoft 365 E5/A5/E3/A3/Business Premium, Office 365 E5/A5/E3/A3, Exchange 계획 2 및 Exchange Online Archiving는 사용자가 기본 조직 전체 또는 위치 전체 사서함 보존 정책을 혜택을 받을 수 있는 권한을 제공하고 사서함 데이터에 기록되지 않은 보존 레이블을 수동으로 적용할 수 있는 권한을 제공합니다.
 
-Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/A3, SharePoint 계획 2는 사용자가 기본 SharePoint 또는 OneDrive 보존 정책을 통해 혜택을 얻을 수 있는 권한을 제공 하 고, SharePoint 또는 OneDrive의 파일에 레코드 없는 보존 레이블을 수동으로 적용할 수 있습니다.
+Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/A3 및 SharePoint 계획 2는 사용자가 기본 SharePoint 또는 OneDrive 보존 정책의 혜택을 받을 수 있는 권한을 제공하고 SharePoint 또는 OneDrive의 파일에 기록되지 않은 보존 레이블을 수동으로 적용할 수 있는 권한을 제공합니다.
 
-Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/A3은 팀 보존 정책을 활용할 수 있는 권한을 사용자에 게 제공 합니다.
+Microsoft 365 E5/A5/E3/A3 및 Office 365 E5/A5/E3/A3는 사용자가 Teams 보존 정책의 혜택을 받을 수 있는 권한을 제공합니다.
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보호 및 관리 방식, Office 365 E5/A5, Office 365 고급 규정은 사용자가 보존 레이블 또는 정책을 자동으로 적용 하 여 혜택을 얻을 수 있는 권한을 제공 합니다. 기본 보존 레이블 또는 정책을 적용 하 고, 사용자 지정 이벤트를 기반으로 보존 레이블의 보존 기간을 시작 하 고, 기본 데이터 커넥터를 통해 타사 데이터를 가져오고, 파일 a 레코드를 선언 하 고, 레이블이 지정 된 콘텐츠를 검색 하 고, 레이블 작업을 모니터링 합니다.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보호 및 거버넌스, Office 365 E5/A5, Office 365 고급 규정 준수는 보존 레이블 또는 정책을 자동으로 적용하고, 기본 보존 레이블 또는 정책을 적용하고, 사용자 지정 이벤트에 따라 보존 레이블의 보존 기간을 시작하고, 레이블의 보존 기간이 끝나면 수동 처리 검토를 트리거하고, 기본 데이터 커넥터를 통해 타사 데이터를 가져오고, 파일 선언, 레이블이 지정된 콘텐츠 검색 및 레이블 지정 활동 모니터링에서 혜택을 받을 수 있는 권한을 제공합니다.
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및 관리 방식에서는 trainable 분류자에 따라 보존 레이블을 자동으로 적용 하 여 혜택을 얻을 수 있는 권한을 사용자에 게 제공 합니다.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보호 및 거버넌스는 학습 가능한 분류자를 기반으로 보존 레이블을 자동으로 적용하는 이점을 사용자에게 제공합니다.
 
-라이선스 별 특정 권한에 대 한 자세한 내용은 Microsoft 365 준수 라이선스 비교를 참조 하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+라이선스별 특정 권한은 자세한 Microsoft 365 규정 준수 라이선싱 비교를 참조합니다. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-기본적으로 정보 관리 기능은 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다. 사용이 허가 된 사용자에 대 한 autolabeling 및 정책을 적용 하기 위한 정보 관리를 구성 하는 방법에 대 한 자세한 내용은 [Manage Information 거 관리](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)
+기본적으로 정보 거버넌스 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 라이선스가 있는 사용자에 대해 자동 표시 및 정책을 적용하기 위한 정보 거버넌스 구성에 대한 자세한 내용은 정보 거버넌스 [관리를 참조하십시오.](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-정보 거 버 넌 스는 특정 위치 (팀 사이트, 그룹 사이트 등)의 사용이 허가 된 사용자에 게 적용할 수 있습니다. 사용이 허가 된 사용자에 대 한 autolabeling 및 정책을 적용 하기 위한 정보 관리를 구성 하는 방법에 대 한 자세한 내용은 [Manage Information 거 관리](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)
+특정 위치(팀 사이트, 그룹 사이트 등)의 사용이 허가된 사용자에게 정보 거버넌스 기능을 적용할 수 있습니다. 라이선스가 있는 사용자에 대해 자동 표시 및 정책을 적용하기 위한 정보 거버넌스 구성에 대한 자세한 내용은 정보 거버넌스 [관리를 참조하십시오.](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)
 
 ## <a name="records-management"></a>레코드 관리
 
-레코드 관리는 조직이 Microsoft 365 및 타사 데이터를 통해 검색, 분류, 레이블 지정, 보존 및 defensible 삭제 기능을 통해 비즈니스 및 규정을 준수 하는 과정을 안내 합니다.
+레코드 관리를 통해 조직은 Microsoft 365 및 타사 데이터에서 검색, 분류, 레이블 지정, 보존 및 방어할 수 있는 삭제 기능을 통해 비즈니스 및 규정 보존 의무를 충족할 수 있습니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보호 및 관리, office 365 E5/a5, Office 365 고급 규정은 사용자에 게 항목을 레코드로 선언, 자동으로 보존을 적용 하 고, 처리 검토 프로세스를 실행 (trainable 분류자를 기반으로 보존 레이블 자동 적용 제외) 하 여 레코드 관리를 활용할 수 있는 권한을 제공 합니다.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보호 및 거버넌스, Office 365 E5/A5, Office 365 고급 준수는 기록으로 항목을 선언하고, 보존 또는 레코드 레이블을 자동으로 적용하고, 처리 검토 프로세스(학습 가능한 분류자를 기반으로 보존 레이블을 자동으로 적용하는 제외)를 포함하여 레코드 관리를 사용할 수 있는 권한을 제공합니다.
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 정보 보호 및 관리 방식에서는 trainable 분류자에 따라 자동으로 보존을 적용 하거나 레이블을 녹음할 때 이점을 얻을 수 있는 권한을 제공 합니다.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보호 및 거버넌스는 학습 가능한 분류자를 기반으로 보존 또는 기록 레이블을 자동으로 적용하는 이점을 사용자에게 제공합니다.
 
-라이선스 별 특정 권한에 대 한 자세한 내용은 Microsoft 365 준수 라이선스 비교를 참조 하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+라이선스별 특정 권한은 자세한 Microsoft 365 규정 준수 라이선싱 비교를 참조합니다. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-사용자는 콘텐츠를 레코드로 선언 하 고 defensible 삭제를 통해 정책 정의 및 선언 으로부터 전체 레코드 프로세스를 관리할 수 있습니다.
+사용자는 콘텐츠를 레코드로 선언하고 정책 정의 및 선언에서 방어할 수 있는 폐기 과정을 통해 전체 레코드 프로세스를 관리할 수 있습니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-기본적으로 레코드 관리 기능은 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다. 라이선스가 있는 사용자에 대해 적용할 레코드 관리 구성에 대 한 자세한 내용은 [Microsoft 365의 레코드 관리](https://docs.microsoft.com/microsoft-365/compliance/records-management)를 참조 하세요.
+기본적으로 레코드 관리 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 사용이 허가된 사용자에 대해 적용할 레코드 관리를 구성하는 데 대한 자세한 내용은 [Microsoft 365의](https://docs.microsoft.com/microsoft-365/compliance/records-management)레코드 관리를 참조하십시오.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-레코드 관리 기능은 특정 위치 (팀 사이트, 그룹 사이트 등)의 사용이 허가 된 사용자에 게 적용할 수 있습니다. 라이선스가 있는 사용자에 대해 적용할 레코드 관리 구성에 대 한 자세한 내용은 [Microsoft 365의 레코드 관리](https://docs.microsoft.com/microsoft-365/compliance/records-management)를 참조 하세요.
+레코드 관리 기능은 특정 위치(팀 사이트, 그룹 사이트 등)의 사용이 허가된 사용자에게 적용할 수 있습니다. 사용이 허가된 사용자에 대해 적용할 레코드 관리를 구성하는 데 대한 자세한 내용은 [Microsoft 365의](https://docs.microsoft.com/microsoft-365/compliance/records-management)레코드 관리를 참조하십시오.
 
 ## <a name="data-connectors"></a>데이터 커넥터 
 
-Microsoft는 Microsoft 365 준수 센터에서 구성할 수 있는 타사 데이터 커넥터를 제공 합니다. Microsoft에서 제공 하는 데이터 커넥터 목록은 [타사 데이터 커넥터](https://docs.microsoft.com/microsoft-365/compliance/archiving-third-party-data) 테이블을 참조 하십시오. 또한이 표에는 Microsoft 365에서 데이터를 가져오고 보관 한 후 타사 데이터에 적용할 수 있는 준수 솔루션과 각 커넥터의 단계별 지침에 대 한 링크가 요약 되어 있습니다.
+Microsoft는 Microsoft 365 규정 준수 센터에서 구성할 수 있는 타사 데이터 커넥터를 제공합니다. Microsoft에서 제공하는 데이터 커넥터 목록은 타사 데이터 커넥터 [테이블을 참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/archiving-third-party-data) 이 표에는 Microsoft 365에서 데이터를 가져와 보관한 후 타사 데이터에 적용할 수 있는 준수 솔루션과 각 커넥터에 대한 단계별 지침에 대한 링크도 요약됩니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-데이터 커넥터를 사용 하 여 Microsoft 365에서 타사 데이터를 가져오고 보관할 때의 주요 이점은 다양 한 Microsoft 365 준수 솔루션을 가져온 후에 적용할 수 있다는 것입니다. 이렇게 하면 조직에 영향을 주는 규정 및 표준을 준수 하는 조직의 타사 데이터를 확인할 수 있습니다.
+데이터 커넥터를 사용하여 Microsoft 365에서 타사 데이터를 가져오고 보관할 때의 주요 이점은 가져온 후 다양한 Microsoft 365 규정 준수 솔루션을 적용할 수 있는 것입니다. 이렇게 하면 조직의 비 Microsoft 데이터가 조직에 영향을 주는 규정 및 표준을 준수하는 데 도움이 됩니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-다음 라이선스는 사용자가 데이터 커넥터를 통해 혜택을 얻을 수 있는 권한을 제공 합니다.
+다음 라이선스는 사용자가 Data Connectors를 사용할 수 있는 권한을 제공합니다.
 
 - Microsoft 365 E5/A5
-- Microsoft 365 E5/A5 정보 보호 & 거 버 넌 스
+- Microsoft 365 E5/A5 정보 보호 & 거버넌스
 - Microsoft 365 E5/A5 규정 준수
-- Microsoft 365 E5/A5 참가자 위험 관리
+- Microsoft 365 E5/A5 내부자 위험 관리
 - Microsoft 365 E5/A5 eDiscovery 및 감사
 - Office 365 E5/A5
 - Office 365 Advanced Compliance
 
-Microsoft 파트너 중 하나에서 제공 하는 M365 보안 & 준수 센터의 데이터 커넥터의 경우 해당 커넥터를 배포 하려면 먼저 조직에 파트너와의 비즈니스 관계가 필요 합니다.
+Microsoft의 파트너 중 하나에서 제공하는 M365 보안 & 준수 센터의 데이터 커넥터의 경우 조직에서 파트너와의 비즈니스 관계가 필요한 경우 해당 커넥터를 배포할 수 있습니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-커넥터는 보안 & 준수 센터 및 커넥터 카탈로그를 사용 하 여 구성 됩니다.
+커넥터는 보안 및 준수 & 카탈로그를 사용하여 구성됩니다.
 
-### <a name="how-can-the-service-be-applied-only---to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only---to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-데이터 커넥터 서비스는 테 넌 트 수준 값입니다. 이 서비스에서 혜택을 받을 모든 사용자에 게 라이선스가 있어야 합니다.
+Data Connectors 서비스는 테넌트 수준 값입니다. 이 서비스를 이용하려는 모든 사용자는 사용이 허가되어야 합니다.
 
-## <a name="microsoft-graph-apis-for-teams-dlp"></a>팀 DLP 용 Microsoft Graph Api
+## <a name="microsoft-graph-apis-for-teams-dlp"></a>Teams DLP용 Microsoft Graph API
 
-올해 [에는 팀의 메시지에 대 한 Microsoft Graph 변경 알림 API의 공개 미리 보기가 발표](https://go.microsoft.com/fwlink/?linkid=2143888)되었습니다. 개발자는이 API를 사용 하 여 실시간으로 Microsoft 팀원에 게 메시지를 들을 수 있는 앱을 작성 하 고 고객 및 Isv 모두에 대해 DLP 시나리오 구현을 사용 하도록 설정 합니다. 또한 Microsoft Graph 패치 API를 사용 하 여 팀 메시지에 DLP 작업을 적용할 수 있습니다.
+올해 초 Teams의 메시지에 대한 Microsoft Graph 변경 알림 API의 공개 미리 [보기를 발표했습니다.](https://go.microsoft.com/fwlink/?linkid=2143888) 이 API를 통해 개발자는 거의 실시간으로 Microsoft Teams 메시지를 들을 수 있는 앱을 빌드하고 고객과 ISV 모두에 대해 DLP 시나리오 구현을 사용하도록 설정할 수 있습니다. 또한 Microsoft Graph 패치 API를 사용하면 Teams 메시지에 DLP 작업을 적용할 수 있습니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-Microsoft 팀에서는 조직이 원격 작업으로 이동 했을 때 [DLP (데이터 손실 방지)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) 기능을 광범위 하 게 사용 합니다. 조직에 DLP가 있는 경우에는 사용자가 Microsoft 팀 채널 또는 채팅 세션에서 중요 한 정보를 공유 하지 못하도록 하는 정책을 정의할 수 있습니다.
+[DLP(데이터](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) 손실 방지) 기능은 조직이 원격 작업으로 전환할 때 특히 Microsoft Teams에서 널리 사용됩니다. 조직에 DLP가 있는 경우 이제 사용자가 Microsoft Teams 채널 또는 채팅 세션에서 중요한 정보를 공유하지 못하게 하는 정책을 정의할 수 있습니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-팀 채팅에서 DLP (데이터 손실 방지) 보호 기능을 지원 하려면 다음 E5 라이선스 중 하나가 필요 합니다.
+Teams 채팅에서 DLP(데이터 손실 방지) 보호를 지원하려면 다음 E5 라이선스 중 하나가 필요합니다.
 
 - Microsoft 365 E5/A5
 - Microsoft 365 E5/A5 규정 준수
-- Microsoft 365 E5/A5 정보 보호 및 거 버 넌 스
+- Microsoft 365 E5/A5 정보 보호 및 거버넌스
 - Office 365 E5/A5 
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-API 액세스는 테 넌 트 수준에서 구성 됩니다.
+API 액세스는 테넌트 수준에서 구성됩니다.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-팀 DLP에 대 한 Microsoft Graph API는 테 넌 트 수준 값입니다. 이 서비스에서 혜택을 받을 모든 사용자에 게 라이선스가 있어야 합니다.
+Teams DLP용 Microsoft Graph API는 테넌트 수준 값입니다. 이 서비스를 이용하려는 모든 사용자는 사용이 허가되어야 합니다.
 
 ## <a name="ediscovery"></a>eDiscovery
 
-eDiscovery는 Microsoft 365 시스템에서 수출 하기 전에 조사 또는 소송에 관련 된 콘텐츠를 식별, 수집, 보존, 절감 및 검토 하기 위한 IT 및 법률 부서를 위한 조사 및 eDiscovery 솔루션을 제공 합니다.
+eDiscovery는 Microsoft 365 시스템에서 내보내기 전에 조사 또는 소송과 관련된 콘텐츠를 식별, 수집, 보존, 축소 및 검토하기 위해 회사 내의 IT 및 법률 부서에 대한 조사 및 eDiscovery 솔루션을 제공합니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-사용자가 사례에 대 한 데이터 custodian (문서 또는 전자 파일을 관리 하는 사용자가 있는 사람)로 선택 된 경우 고급 eDiscovery의 이점이 있습니다.
+사용자가 사례에 대한 데이터 관리자(문서 또는 전자 파일의 관리 제어를 갖는 사람)로 선택된 경우 Advanced eDiscovery의 이점을 누리게 됩니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Microsoft 365 E5/A5/G5/E3/A3/G3, Office 365 E5/a5/G5/E3/A3/G3 및 Office 365 Advanced 준수는 사용자에 게 핵심 eDiscovery를 활용할 수 있는 권한을 제공 합니다.
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, Microsoft 365 E5/A5 eDiscovery 및 감사, Office 365 E5/a5/G5 및 Office 365 Advanced 준수는 고급 eDiscovery에서 혜택을 받을 수 있는 권한을 사용자에 게 제공 합니다.
+Microsoft 365 E5/A5/G5/E3/G3, Office 365 E5/A5/E3/A3/G3 및 Office 365 Advanced Compliance는 사용자가 Core eDiscovery를 사용할 수 있는 권한을 제공합니다.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, Microsoft 365 E5/A5 eDiscovery 및 감사, Office 365 E5/A5/G5 및 Office 365 고급 준수는 고급 eDiscovery의 혜택을 받을 수 있는 권한을 사용자에게 제공합니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-기본적으로 고급 eDiscovery 기능은 관리자가 보안 & 준수 센터에서 eDiscovery 권한을 할당할 때 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다.
+기본적으로 Advanced eDiscovery 기능은 관리자가 보안 및 준수 센터에서 eDiscovery 권한을 할당할 때 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 & 설정됩니다.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-eDiscovery 관리자는 [고급 ediscovery에 Custodians 추가](https://docs.microsoft.com/microsoft-365/compliance/add-custodians-to-case)에 설명 된 대로 고급 ediscovery의 기본 제공 custodian 관리 도구를 사용 하 여 특정 사용자를 대/소문자를 구분 하는 데이터 custodians으로 선택할 수 있습니다.
+eDiscovery 관리자는 고급 eDiscovery 사례에 대한 관리자 추가에 설명된 바와 같이 Advanced eDiscovery의 기본 제공 관리 도구를 사용하여 특정 사용자를 사례에 대한 데이터 관리자로 선택할 수 [있습니다.](https://docs.microsoft.com/microsoft-365/compliance/add-custodians-to-case)
 
 ## <a name="office-365-customer-key"></a>Office 365 고객 키
 
-고객 키를 사용 하 여 조직의 암호화 키를 제어 하 고 Microsoft 데이터 센터의 휴지 상태에서 데이터를 암호화 하는 데 사용할 수 있도록 Office 365를 구성 합니다. 즉, 고객 키를 사용 하 여 사용자가 자신의 키를 통해 자신에 게 속하는 암호화 계층을 추가할 수 있습니다. 휴지 상태의 데이터에는 SharePoint Online 및 비즈니스용 OneDrive 내의 사서함 및 파일에 저장 된 Exchange Online 및 비즈니스용 Skype의 데이터가 포함 됩니다.
+고객 키를 사용하여 조직의 암호화 키를 제어하고 Office 365를 사용하여 Microsoft 데이터 센터의 미사용 데이터를 암호화하도록 구성할 수 있습니다. 즉, 고객 키를 사용하면 자체 키를 사용하여 자신에 속하는 암호화 계층을 추가할 수 있습니다. 미사용 데이터에는 SharePoint Online 및 비즈니스용 OneDrive 내의 사서함 및 파일에 저장된 Exchange Online 및 비즈니스용 Skype의 데이터가 포함됩니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-사용자는 자체 조직에서 제공, 제어 및 관리 되는 암호화 키를 사용 하 여 응용 프로그램 계층에서 데이터를 보관 된 상태로 유지 하 여 고객 키를 활용할 수 있습니다.
+사용자는 조직에서 제공, 제어 및 관리하는 암호화 키를 사용하여 응용 프로그램 계층에서 미사용 데이터를 암호화하여 고객 키를 활용합니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보호 및 관리 방식, Office 365 E5/A5, Office 365 고급 규정은 사용자에 게 고객 키를 활용할 수 있는 권한을 제공 합니다. 고객 키의 모든 이점을 얻으려면 Azure Key Vault 용 구독도 있어야 합니다.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보호 및 거버넌스, Office 365 E5/A5 및 Office 365 고급 규정 준수는 사용자가 고객 키를 혜택을 받을 수 있는 권한을 제공합니다. 고객 키를 모두 사용하려면 Azure Key Vault 구독도 있어야 합니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-Office 365 고객 키 암호화 키를 Exchange Online 및 비즈니스용 Skype 사서함, SharePoint Online, 비즈니스용 OneDrive 및 팀 파일에 저장 된 모든 데이터에 대해 사용 하도록 설정할 수 있습니다. 시작 하는 방법을 포함 하 여 Office 365 고객 키에 대 한 자세한 내용은 [office 365의 고객 키를 사용한 서비스 암호화](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)를 참조 하세요.
+Exchange Online 및 비즈니스용 Skype 사서함, SharePoint Online, 비즈니스용 OneDrive 및 Teams 파일에 저장된 모든 데이터에 대해 Office 365 고객 키 암호화 키를 사용할 수 있습니다. 시작하는 방법을 포함하여 Office 365 고객 키에 대한 자세한 내용은 [Office 365의 고객](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)키를 사용하여 서비스 암호화를 참조하세요.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-Exchange Online 및 비즈니스용 Skype의 경우에는 고객 키를 사용 하 여 사서함을 암호화할 수 있습니다. Office 365에 대해 고객 키를 사용 하려면 먼저 Azure를 설정 해야 합니다. 필수 Azure 리소스를 만들고 구성 하기 위해 수행 해야 하는 단계에 대 한 [고객 키 설정](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up) 및 Office 365에서 고객 키를 설정 하기 위한 단계를 참조 하세요. Azure 설치를 완료 한 후에는 조직의 사서함과 파일에 할당할 정책 및 키를 결정 합니다. 정책을 할당 하지 않을 사서함과 파일은 Microsoft에서 제어 및 관리 하는 암호화 정책을 사용 합니다. 고객 키에 대 한 자세한 내용을 보거나 일반적인 개요를 보려면 [Office 365에서 고객 키를 사용한 서비스 암호화](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)를 참조 하세요.
+Exchange Online 및 비즈니스용 Skype의 경우 고객 키를 사용하여 사서함을 암호화할 수 있습니다. Office 365에 대한 고객 키를 사용하려면 먼저 Azure를 설정해야 합니다. 필요한 [Azure](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up) 리소스를 만들고 구성하기 위해 따라야 하는 단계와 Office 365에서 고객 키를 설정하는 단계는 고객 키 설정을 참조하세요. Azure 설치를 완료한 후 조직의 사서함 및 파일에 할당할 정책과 그에 따라 어떤 키를 할당할지 결정할 수 있습니다. 정책을 할당하지 않는 사서함 및 파일은 Microsoft에서 제어 및 관리하는 암호화 정책을 사용합니다. 고객 키에 대한 자세한 내용은 [Office 365의 고객](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)키를 사용하여 서비스 암호화를 참조하세요.
 
 ## <a name="office-365-customer-lockbox"></a>Office 365 고객 Lockbox
 
-고객 Lockbox는 서비스 작업에 대 한 명시적 액세스 권한 부여를 제공 하는 기능을 고객에 게 제공 하 여 추가 제어 계층을 제공할 수 있습니다. 고객 Lockbox는 명시적 데이터 액세스 권한 부여를 위한 절차를 마련 하 여 조직이 HIPAA 및 FEDRAMP와 같은 특정 준수 의무를 충족 하는 데도 도움이 될 수 있습니다.
+고객 Lockbox는 고객에게 서비스 작업에 대한 명시적 액세스 권한을 부여하는 기능을 제공하여 추가적인 제어 계층을 제공합니다. 고객 Lockbox는 명시적 데이터 액세스 권한 부여를 위한 절차가 수락된 것 또한 조직이 HIPAA 및 FEDRAMP와 같은 특정 준수 의무를 충족하는 데 도움이 될 수 있습니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-사용자는 고객 Lockbox의 혜택을 통해 고객의 명시적 승인 없이 서비스 작업을 수행 하기 위해 Microsoft의 콘텐츠에 액세스할 수 없도록 합니다. 고객 Lockbox는 고객에 게 콘텐츠에 액세스 하기 위한 요청에 대 한 승인 워크플로를 제공 합니다. 때로는 지원 프로세스 중에 Microsoft 엔지니어가 고객이 보고 한 문제를 해결 하 고 문제를 해결 하는 데 사용 되는 경우가 있습니다. 대부분의 경우 문제는 Microsoft에서 서비스를 위해 마련 된 광범위 한 원격 분석 및 디버깅 도구를 통해 수정 됩니다. 그러나 Microsoft 엔지니어가 고객 콘텐츠에 액세스 하 여 근본적인 원인을 확인 하 고 문제를 해결 해야 하는 경우가 있을 수 있습니다. 고객 Lockbox에 게는 승인 워크플로의 최종 단계로 고객의 액세스를 요청 하는 엔지니어가 필요 합니다. 이를 통해 조직에서는 이러한 요청을 승인 하거나 거부 하는 옵션을 제공 하므로 Microsoft 엔지니어가 조직의 최종 사용자 데이터에 액세스할 수 있는지 여부를 직접 제어할 수도 있습니다.
+사용자는 고객 Lockbox를 통해 Microsoft의 어느 누구도 고객의 명시적 승인 없이도 해당 콘텐츠에 액세스하여 서비스 작업을 수행할 수 없습니다. Customer Lockbox는 고객에게 콘텐츠에 액세스하기 위한 요청에 대한 승인 워크플로를 제공합니다. 경우에 따라 Microsoft 엔지니어가 지원 프로세스 중에 관련되어 고객이 보고한 문제를 해결합니다. 대부분의 경우 문제는 Microsoft가 서비스에 대해 준비한 광범위한 원격 분석 및 디버깅 도구를 통해 해결됩니다. 그러나 Microsoft 엔지니어가 고객 콘텐츠에 액세스하여 근본 원인을 파악하고 문제를 해결해야 하는 경우도 있습니다. 고객 Lockbox를 사용하려면 엔지니어가 승인 워크플로의 최종 단계로 고객의 액세스를 요청해야 합니다. 이를 통해 조직은 Microsoft 엔지니어가 조직의 최종 사용자 데이터에 액세스할 수 있는지 여부를 직접 제어할 수 있도록 이러한 요청을 승인하거나 거부할 수 있습니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 준수, microsoft 365 참가자 위험 관리 및 Office 365 고급 규정은 사용자에 게 고객 Lockbox의 혜택을 받을 수 있는 권한을 제공 합니다.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, Microsoft 365 Insider Risk Management 및 Office 365 Advanced Compliance는 사용자가 고객 Lockbox를 혜택을 받을 수 있는 권한을 제공합니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-관리자는 Microsoft 365 관리 센터에서 고객 Lockbox 컨트롤을 켤 수 있습니다. 자세한 내용은 [Office 365의 고객 Lockbox](https://docs.microsoft.com/microsoft-365/compliance/customer-lockbox-requests)를 참조 하세요. 고객 Lockbox가 설정 된 경우 Microsoft는 해당 콘텐츠에 액세스 하기 전에 조직의 승인을 받아야 합니다.
+관리자는 Microsoft 365 관리 센터에서 고객 Lockbox 컨트롤을 켜는 데 사용할 수 있습니다. 자세한 내용은 [Office 365의 고객 Lockbox를 참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/customer-lockbox-requests) 고객 Lockbox가 켜져 있는 경우 Microsoft는 콘텐츠에 액세스하기 전에 조직의 승인을 얻어야 합니다.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-고객 Lockbox 서비스는 현재 특정 사용자로 제한 될 수 없습니다. 혜택을 받을 모든 사용자에 게 라이선스를 사용 하도록 허가 해야 합니다.
+고객 Lockbox 서비스는 현재 특정 사용자로 제한될 수 없습니다. 혜택을 제공하려는 모든 사용자에게 라이선스를 부여해야 합니다.
 
 ## <a name="privileged-access-management-in-office-365"></a>Office 365의 권한 있는 액세스 관리
 
-[PAM (권한 부여 관리)](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration) 기능은 Office 365의 권한 있는 관리 작업에 대 한 세부적인 액세스 제어를 제공 합니다. PAM을 사용 하도록 설정한 후에는 사용자가 상승 및 권한 작업을 완료 하기 위해 범위가 높고 시간이 제한 된 승인 워크플로를 통해 just-in-time 액세스를 요청 해야 합니다.
+[PAM(권한](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration) 있는 액세스 관리)은 Office 365의 권한 있는 관리 작업에 대한 세부적인 액세스 제어를 제공합니다. PAM을 사용하도록 설정한 후 사용자는 권한이 상승된 작업을 완료하기 위해 범위가 넓고 시간이 제한적인 승인 워크플로를 통해 적시 액세스를 요청해야 합니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-PAM을 사용 하도록 설정 하면 조직에서 권한이 없는 상태로 작동할 수 있습니다. 사용자는 unfettered에 대 한 액세스를 제공 하는 관리 액세스에서 발생 하는 취약성에 대해 추가 된 방어 계층을 활용할 수 있습니다.
+PAM을 사용하도록 설정하면 조직은 제로 스탬딩 권한으로 운영할 수 있습니다. 사용자는 데이터에 대한 무단 액세스를 제공하는 관리자 액세스로 인하여 증가하는 취약성에 대한 추가 방어 계층을 통해 이점을 받습니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까? 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까? 
 
-Office 365 E5/A5, Microsoft 365 E5/a5, Microsoft 365 E5/a5 준수, Microsoft 365 E5/A5 정보 보호 및 거 버 넌 사용자에 게 PAM의 혜택을 받을 수 있는 권한을 제공 합니다.
+Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수 및 Microsoft 365 E5/A5 정보 보호 및 거버넌스는 사용자가 PAM을 혜택을 받을 수 있는 권한을 제공합니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-기본적으로 PAM 기능은 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다. PAM 정책 구성에 대 한 자세한 내용은 [권한이 부여 된 액세스 관리 시작](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration)을 참조 하세요.
+기본적으로 PAM 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. PAM 정책 구성에 대한 자세한 내용은 권한 있는 액세스 관리 시작을 [참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-고객은 승인자 그룹 및 액세스 정책을 통해 사용자 단위로 PAM을 관리할 수 있으며,이는 라이선스가 있는 사용자에 게 적용할 수 있습니다. 자세한 내용은 [Office 365의 권한이 부여 된 액세스 관리](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751)를 참조 하세요.
+고객은 승인자 그룹 및 액세스 정책을 통해 사용자 기준으로 PAM을 관리할 수 있으며, 이 정책은 라이선스가 있는 사용자에게 적용할 수 있습니다. 자세한 내용은 [Office 365의 Privileged 액세스 관리를 참조하세요.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751)
 
-## <a name="double-key-encryption-for-microsoft-365"></a>Microsoft 365에 대 한 이중 키 암호화 
+## <a name="double-key-encryption-for-microsoft-365"></a>Microsoft 365용 이중 키 암호화 
 
-Microsoft 365에 대 한 이중 암호화를 사용 하면 중요 한 데이터를 보호 하 여 전문화 된 요구 사항을 충족 하 고 암호화 키에 대 한 모든 권한을 유지할 수 있습니다. 이중 키 암호화에서는 두 가지 키를 사용 하 여 컨트롤의 키와 안전 하 게 Microsoft Azure에 저장 된 두 번째 키를 사용 하 여 데이터를 보호 합니다. 데이터를 보려면 두 키에 대 한 액세스 권한이 있어야 합니다. Microsoft는 하나의 키에만 액세스할 수 있으므로 Microsoft에서는 사용자의 키 및 데이터를 사용 하지 않으므로 데이터의 개인 정보 보호 및 보안에 대 한 모든 권한이 보장 됩니다.
+Microsoft 365의 이중 키 암호화를 사용하면 특수한 요구 사항을 충족하고 암호화 키에 대한 모든 제어를 유지 관리하기 위해 매우 중요한 데이터를 보호할 수 있습니다. 이중 키 암호화는 두 개의 키를 사용하여 데이터를 보호합니다. 이 키는 컨트롤의 키 하나와 Microsoft Azure에 안전하게 저장된 두 번째 키로 보호합니다. 데이터를 보기 위해 두 키에 모두 액세스할 수 있어야 합니다. Microsoft는 하나의 키에만 액세스할 수 있으며 키와 데이터도 Microsoft에서 사용할 수 없게 하여 데이터의 개인 정보 및 보안을 완전하게 제어할 수 있습니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-사용자는 암호화 된 데이터를 클라우드로 마이그레이션하고, 키가 사용자를 제어할 수 있는 한 타사 액세스를 차단 하는 방식으로 이중 암호화의 이점을 얻게 됩니다. 최종 사용자는 다른 민감도 레이블 보호 콘텐츠와 비슷한 암호화 된 두 콘텐츠를 보호 하 고 사용할 수 있습니다.
+사용자는 암호화된 데이터를 클라우드로 마이그레이션하고 키가 사용자를 제어하는 한 타사 액세스를 방지하여 이중 키 암호화를 사용할 수 있습니다. 최종 사용자는 다른 민감도 레이블로 보호되는 콘텐츠와 유사한 이중 키 암호화 콘텐츠를 보호하고 사용할 수 있습니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보호 및 관리 방식, Office 365 E5/A5, Office 365 고급 규정은 사용자에 게 이중 키 암호화를 활용할 수 있는 권한을 제공 합니다.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보호 및 거버넌스, Office 365 E5/A5 및 Office 365 고급 규정 준수는 사용자가 이중 키 암호화를 사용할 수 있는 권한을 제공합니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-이중 키 암호화는 Windows 용 Microsoft Office의 데스크톱 버전을 지원 합니다.
+이중 키 암호화는 Windows용 데스크톱 Microsoft Office 지원됩니다.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-사용이 허가 된 사용자에 대해 Office 365 및/또는 Microsoft 365 조직 내의 데이터에 암호화 키를 할당 하려면 이중 키 암호화 배포 지침을 따릅니다.
+라이선스가 있는 사용자를 위해 Office 365 및/또는 Microsoft 365 조직 내의 데이터에 암호화 키를 할당하기 위해 이중 키 암호화 배포 지침을 따릅니다.
 
-## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 대 한 Office 365 데이터 손실 방지
+## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 대한 Office 365 데이터 손실 방지
 
-Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 대 한 Office 365 DLP (데이터 손실 방지)를 사용 하면 조직에서 전자 메일 및 파일 (Microsoft 팀 파일 리포지토리에 저장 된 파일 포함) 간의 중요 한 정보를 식별, 모니터링 및 자동으로 보호할 수 있습니다.
+Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 대한 Office 365 DLP(데이터 손실 방지)를 사용하여 조직은 전자 메일 및 파일(Microsoft Teams 파일 저장소에 저장된 파일 포함)에서 중요한 정보를 식별, 모니터링 및 자동으로 보호할 수 있습니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-사용자는 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive (조직의 DLP 정책에 구성 된 대로 중요 한 정보에 대 한 전자 메일 및 파일을 검사 하는 경우)에 대 한 DLP를 활용할 수 있습니다.
+조직의 DLP 정책에 구성된 전자 메일 및 파일이 중요한 정보를 검사할 때 사용자는 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 대한 DLP를 사용할 수 있습니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Microsoft 365 A1/E3/A3/Business, Office 365 E3/A3 및 Office 365 데이터 손실 방지는 사용자에 게 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 대 한 Office 365 DLP의 혜택을 받을 수 있는 권한을 제공 합니다.
+Microsoft 365 A1/E3/A3/Business, Office 365 E3/A3 및 Office 365 데이터 손실 방지는 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 대한 Office 365 DLP의 혜택을 받을 수 있는 권한을 사용자에게 제공합니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-기본적으로 Exchange Online 전자 메일, SharePoint 사이트 및 OneDrive 계정은 테 넌 트 내의 모든 사용자에 대 한 이러한 DLP 기능에 대해 *사용 하도록 설정 된 위치 (작업)* 입니다. DLP 정책을 사용 하는 방법에 대 한 자세한 내용은 [Overview For data 손실 방지](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)를 참조 하십시오.
+기본적으로 Exchange Online 전자 메일, SharePoint 사이트 및 OneDrive 계정은 테넌트 *내의* 모든 사용자에 대해 이러한 DLP 기능의 위치(작업)를 사용하도록 설정됩니다. DLP 정책 사용에 대한 자세한 내용은 데이터 손실 방지 [개요를 참조하십시오.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-관리자는 보안 & 준수 센터의 **데이터 손실 방지** 위치에서 위치 (작업), 포함 된 사용자 및 제외 된 사용자를 사용자 지정할 수 있습니다  >  **Locations**.
+관리자는 데이터 손실 방지 위치 아래에서 보안 & 준수 센터에서 위치(작업), 포함된 사용자 및 제외된 사용자를 사용자 지정할 **수**  >  **있습니다.**
 
-## <a name="communication-data-loss-prevention-for-teams"></a>팀에 대 한 통신 데이터 손실 방지
+## <a name="communication-data-loss-prevention-for-teams"></a>Teams에 대한 통신 데이터 손실 방지
 
-팀에 대 한 통신 DLP를 사용 하면 조직에서 금융 정보, 개인 식별 정보, 상태 관련 정보 또는 기타 기밀 정보와 같은 중요 한 정보를 포함 하는 채팅 및 채널 메시지를 차단할 수 있습니다.
+Teams용 통신 DLP를 사용하여 조직은 재무 정보, 개인 식별 정보, 상태 관련 정보 또는 기타 기밀 정보와 같은 중요한 정보를 포함하는 채팅 및 채널 메시지를 차단할 수 있습니다.
 
-### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
+### <a name="which-users-benefit-from-the-service"></a>서비스에서 어떤 사용자에게 혜택을 제공하나요?
 
-Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365, 정보 보호 및 관리 및 Office 365 Advanced 준수를 사용 하도록 허가 된 사용자는 팀에 대 한 통신 DLP를 활용할 수 있습니다.
+Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 정보 보호 및 거버넌스 및 Office 365 고급 규정 준수의 라이선스가 있는 사용자는 Teams용 통신 DLP를 사용할 수 있습니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-보내는 채팅 및 채널 메시지에 중요 한 정보가 조직의 DLP 정책에 구성 된 대로 중요 한 정보를 검사 하 여 보낸 사람 혜택을 받을 수 있습니다.
+보낸 사람이 조직의 DLP 정책에 구성된 중요한 정보를 검사하는 보내는 채팅 및 채널 메시지에 중요한 정보를 제공하면 도움이 됩니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-팀 채팅 및 채널 메시지는 기본적으로 테 넌 트 내의 모든 사용자에 대 한 이러한 DLP 기능에 대해 *사용 하도록 설정 된 위치 (작업)* 입니다. DLP 정책을 사용 하는 방법에 대 한 자세한 내용은 [Overview For data 손실 방지](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)를 참조 하십시오.
+기본적으로 Teams 채팅 및 채널 메시지는 테넌트 *내의* 모든 사용자에 대해 이러한 DLP 기능에 대해 사용하도록 설정된 위치(작업량)입니다. DLP 정책 사용에 대한 자세한 내용은 데이터 손실 방지 [개요를 참조하십시오.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-관리자는 보안 & 준수 센터의 **데이터 손실 방지** 위치에서 위치 (작업), 포함 된 사용자 및 제외 된 사용자를 사용자 지정할 수 있습니다  >  **Locations**.
+관리자는 데이터 손실 방지 위치 아래에서 보안 & 준수 센터에서 위치(작업), 포함된 사용자 및 제외된 사용자를 사용자 지정할 **수**  >  **있습니다.**
 
 ## <a name="information-barriers"></a>정보 장벽
 
-정보 장애물은 관리자가 개인 또는 그룹이 서로 통신 하지 못하도록 하기 위해 구성할 수 있는 정책입니다. 예를 들어, 한 부서가 다른 부서와 공유 하지 않아야 하는 정보를 처리 하거나, 그룹이 외부 대화 상대와 통신 하지 못하도록 해야 하는 경우에 유용 합니다. 정보 장벽 정책 역시 조회 및 검색을 방지 합니다. 즉, 통신 하지 않아야 하는 사람과 통신을 시도 하는 경우 사용자 선택에 해당 사람이 검색 되지 않습니다.
+정보 장벽은 관리자가 개인 또는 그룹이 서로 통신하지 못하도록 구성할 수 있는 정책입니다. 예를 들어 한 부서에서 다른 부서와 공유하지 말아야 하는 정보를 처리하거나 그룹이 외부 연락처와 통신하지 못하게 해야 하는 경우 유용합니다. 정보 장벽 정책은 또한 검색 및 검색을 방지합니다. 즉, 통신하지 말아야 하는 다른 사용자와 통신하려고 할 경우 사용자 선택에서 해당 사용자를 찾을 수 없습니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-사용자가 다른 사람과 통신 하지 못하도록 제한 되 면 정보 장벽에 대 한 고급 규정 준수 기능의 이점을 활용할 수 있습니다. 예를 들면 다음과 같습니다.<br><br>
+사용자는 다른 사용자와의 통신이 제한될 때 정보 장벽의 고급 규정 준수 기능을 통해 혜택을 받을 수 있습니다. 예시:<br><br>
 
 | 시나리오 | 라이선스가 필요한 사용자 |
 |:------|:------|:------|
-| 두 그룹 (그룹 &nbsp; 1 및 그룹 &nbsp; 2)은 서로 통신할 수 없으며, 그룹 &nbsp; 1 사용자는 그룹 2 명의 사용자와 통신 하지 못하도록 제한 되며, &nbsp; 그룹 &nbsp; 2 사용자는 그룹 &nbsp; 1 명의 사용자와 통신 하는 것이 제한 됩니다. | 그룹 &nbsp; 1 및 그룹 2의 사용자 &nbsp; |
+| 두 그룹(그룹 1 및 그룹 2)이 서로 통신할 수 없습니다( 즉, 그룹 1 사용자는 그룹 2 사용자와 통신할 수 없습니다. 그룹 2 사용자는 그룹 1 사용자와 통신할 수 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 없습니다. | 그룹 1 및 &nbsp; 그룹 &nbsp; 2의 사용자 |
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 참가자 위험 관리, Office 365 E5/A5 및 Office 365 고급 규정은 정보 장벽에서 혜택을 얻을 수 있는 권한을 사용자에 게 제공 합니다.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 내부자 위험 관리, Office 365 E5/A5 및 Office 365 고급 규정 준수는 사용자가 정보 장벽을 혜택을 받을 수 있는 권한을 제공합니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-관리자 보안 & 준수 센터에서 PowerShell cmdlet을 사용 하 여 정보 장벽 정책을 만들고 관리 합니다. 정보 장벽 정책을 만들려면 관리자에 게 Microsoft 365 Enterprise Global Administrator, Office 365 전역 관리자 또는 준수 관리자 역할을 할당 받아야 합니다. 기본적으로이 정책은 테 넌 트의 모든 사용자에 게 적용 됩니다. 정보 장벽에 대 한 자세한 내용은 [Microsoft 팀의 정보 장벽](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)를 참조 하세요.
+관리자는 보안 및 준수 센터에서 PowerShell cmdlet을 사용하여 정보 장벽 정책을 & 관리합니다. 정보 장벽 정책을 만들 수 있도록 관리자에게 Microsoft 365 Enterprise 전역 관리자, Office 365 전역 관리자 또는 준수 관리자 역할이 할당되어야 합니다. 기본적으로 이러한 정책은 테넌트의 모든 사용자에게 적용됩니다. 정보 장벽에 대한 자세한 내용은 Microsoft Teams의 정보 [장벽을 참조하세요.](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-관리자는 보안 & 준수 센터에서 위치 (작업), 포함 된 사용자 및 제외 된 사용자를 사용자 지정할 수 있습니다. 예를 들어 모든 사용자에 게 Office 365 E3에 대 한 라이선스가 있고 아무도 Office 365 Advanced 규정 준수/E5에 대 한 사용이 허가 되지 않은 경우 조직에 대 한 정보 장벽 정책을 만들 필요가 없습니다. 자세한 내용은 [Microsoft 팀의 정보 장벽](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)를 참조 하세요.
+관리자는 보안 및 준수 센터에서 위치(작업), 포함된 사용자 및 제외된 사용자를 & 수 있습니다. 예를 들어 모든 사용자에게 Office 365 E3 라이선스가 부여된 경우 Office 365 Advanced Compliance/E5에 대한 라이선스가 없는 경우 조직에 대한 정보 장벽 정책을 만들 필요가 없습니다. 자세한 내용은 Microsoft Teams의 정보 [장벽을 참조하세요.](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)
 
 ## <a name="office-365-message-encryption"></a>Office 365 메시지 암호화
 
 OME(Office 365 메시지 암호화)는 Azure RMS(권한 관리)를 기반으로 구축된 서비스로, 대상의 전자 메일 주소(Gmail, Yahoo! Mail, Outlook.com 등)에 상관없이 사용자 조직 내부 또는 외부 사람에게 암호화된 전자 메일을 보낼 수 있습니다.
 
-암호화된 메시지를 보려면 받는 사람이 일회용 암호를 얻어 Microsoft 계정에 로그인하거나 Office 365와 연결된 회사 또는 학교 계정을 사용하여 로그인할 수 있습니다. 받는 사람은 암호화된 회신을 보낼 수도 있습니다. 암호화 된 메시지를 보거나 암호화 된 회신을 보내기 위해 구독을 할 필요가 없습니다.
+암호화된 메시지를 보려면 받는 사람이 일회용 암호를 얻어 Microsoft 계정에 로그인하거나 Office 365와 연결된 회사 또는 학교 계정을 사용하여 로그인할 수 있습니다. 받는 사람은 암호화된 회신을 보낼 수도 있습니다. 암호화된 메시지를 보거나 암호화된 답신을 보내기 위해 구독이 필요하지 않습니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-메시지 보낸 사람이 Office 365 메시지 암호화에서 제공 하는 중요 한 전자 메일에 대 한 추가 된 제어 혜택을 받을 수 있습니다.
+메시지 보낸 사람이 Office 365 메시지 암호화에서 제공하는 중요한 전자 메일에 대한 추가 제어를 통해 혜택을 받을 수 있습니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Microsoft 365 E3/A3, Office 365 E3/A3 및 Azure Information Protection 계획 1 사용자에 게 Office 365 메시지 암호화의 혜택을 받을 수 있는 권한을 제공 합니다.
+Microsoft 365 E3/A3, Office 365 E3/A3 및 Azure Information Protection 요금제 1은 사용자가 Office 365 메시지 암호화를 사용할 수 있는 권한을 제공합니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-관리자 **메일 흐름** 규칙 아래의 Exchange 관리 센터에서 Office 365 메시지 암호화 정책을 만들고 관리  >  **Rules** 합니다. 기본적으로이 규칙은 테 넌 트의 모든 사용자에 게 적용 됩니다. 새 Office 365 메시지 암호화 기능을 설정 하는 방법에 대 한 자세한 내용은 [Set Up office 365 Message encryption capabilities](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)를 참조 하십시오.
+관리자는 메일 흐름 규칙에 따라 Exchange 관리 센터에서 Office 365 메시지 암호화 **정책을 만들고**  >  **관리합니다.** 기본적으로 이러한 규칙은 테넌트의 모든 사용자에게 적용됩니다. 새 Office 365 메시지 암호화 기능을 설정하는 자세한 내용은 [새 Office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)메시지 암호화 기능 설정을 참조하세요.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-관리자는 라이선스가 있는 사용자 에게만 Office 365 메시지 암호화에 대 한 메일 흐름 규칙을 적용 해야 합니다. 메일 흐름 규칙을 정의 하는 방법에 대 한 자세한 내용은 [Office 365에서 전자 메일 메시지를 암호화 하는 메일 흐름 규칙 정의](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)를 참조 하십시오.
+관리자는 Office 365 메시지 암호화에 대한 메일 흐름 규칙을 사용이 허가된 사용자에게만 적용해야 합니다. 메일 흐름 규칙을 정의하는 데 대한 자세한 내용은 [Office 365에서](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)전자 메일 메시지를 암호화하는 메일 흐름 규칙 정의를 참조하세요.
 
 ## <a name="office-365-advanced-message-encryption"></a>Office 365 고급 메시지 암호화
 
-Office 365 고급 메시지 암호화는 외부 받는 사람에 대 한 보다 유연한 제어 및 암호화 된 전자 메일에 대 한 액세스를 필요로 하는 규정 준수 의무를 충족 하도록 지원 합니다 고급 메시지 암호화를 사용 하면 관리자가 중요 한 정보 유형 (예: 개인 식별 정보 또는 재무/건강 Id)을 검색할 수 있는 자동 정책을 사용 하 여 조직 외부에서 공유 되는 중요 한 전자 메일을 제어 하거나, 키워드를 사용 하 여 사용자 지정 전자 메일 템플릿과 안전한 웹 포털을 통해 암호화 된 전자 프로그램에 대 한 액세스 만료를 적용 함으로써 보호 기능을 향상 또한 관리자는 언제 든 지 액세스를 해지 하 여 보안 웹 포털을 통해 외부에서 액세스 하는 암호화 된 전자 메일을 제어할 수 있습니다.
+Office 365 고급 메시지 암호화는 고객이 외부 받는 사람에 대한 보다 유연한 제어 및 암호화된 전자 메일에 대한 액세스가 필요한 준수 의무를 충족하는 데 도움이 됩니다. 관리자는 고급 메시지 암호화를 사용하여 중요한 정보 유형(예: 개인 식별 정보 또는 재무/상태 식별)을 검색할 수 있는 자동 정책을 사용하여 조직 외부에서 공유되는 중요한 전자 메일을 제어하거나, 키워드를 사용하여 보안 웹 포털을 통해 사용자 지정 전자 메일 서식 파일을 적용하고 암호화된 전자 메일에 대한 액세스 권한을 만료하여 보호를 강화할 수 있습니다. 또한 관리자는 액세스 권한을 해지하여 보안 웹 포털을 통해 외부에서 액세스하는 암호화된 전자 메일을 추가로 제어할 수 있습니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-메시지 보낸 사람은 고급 메시지 암호화에서 제공 하는 중요 한 전자 메일에 대 한 추가 된 제어를 활용할 수 있습니다.
+메시지 보낸 사람이 고급 메시지 암호화에서 제공하는 중요한 전자 메일에 대한 추가된 컨트롤을 통해 혜택을 받을 수 있습니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Office 365 E5/A5, Microsoft 365 E5/a5, Microsoft 365 E5/A5 준수, Microsoft 365 Information Protection and 거 버 넌 스 및 Office 365 고급 규정 준수 고급 메시지 암호화를 활용할 수 있는 권한을 사용자에 게 제공 합니다.
+Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수, Microsoft 365 정보 보호 및 거버넌스 및 Office 365 고급 규정 준수는 사용자가 고급 메시지 암호화를 사용할 수 있는 권한을 제공합니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-관리자 메일 흐름 규칙 아래의 Exchange 관리 센터에서 고급 메시지 암호화 정책을 만들고 관리 합니다. 기본적으로이 규칙은 테 넌 트의 모든 사용자에 게 적용 됩니다. 새 메시지 암호화 기능을 설정 하는 방법에 대 한 자세한 내용은 [Set Up Office 365 Message Encryption capabilities](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)를 참조 하십시오.
+관리자는 메일 흐름 규칙에 따라 Exchange 관리 센터에서 고급 메시지 암호화 정책을 만들고 관리합니다. 기본적으로 이러한 규칙은 테넌트의 모든 사용자에게 적용됩니다. 새 메시지 암호화 기능을 설정하는 자세한 내용은 [새 Office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)메시지 암호화 기능 설정을 참조하십시오.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-관리자는 라이선스가 있는 사용자 에게만 고급 메시지 암호화에 대 한 메일 흐름 규칙을 적용 해야 합니다. 메일 흐름 규칙을 정의 하는 방법에 대 한 자세한 내용은 [Office 365에서 전자 메일 메시지를 암호화 하는 메일 흐름 규칙 정의](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)를 참조 하십시오.
+관리자는 고급 메시지 암호화에 대한 메일 흐름 규칙을 사용이 허가된 사용자에게만 적용해야 합니다. 메일 흐름 규칙을 정의하는 데 대한 자세한 내용은 [Office 365에서](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)전자 메일 메시지를 암호화하는 메일 흐름 규칙 정의를 참조하세요.
 
 ## <a name="communication-compliance"></a>커뮤니케이션 규정 준수
 
-Microsoft 365의 통신 준수 기능은 조직의 부적절 한 메시지에 대 한 검색, 캡처 및 수정 작업 수행을 지원 하 여 통신 위험을 최소화 하는 데 도움이 됩니다. 조직의 내부 및 외부 전자 메일, Microsoft 팀 또는 타사 통신을 캡처하는 특정 정책을 정의할 수 있습니다. 검토자가 조직의 메시지 표준을 준수 하는지 확인 하기 위해 적절 한 수정 작업을 수행할 수 있습니다.
+Microsoft 365의 통신 규정 준수는 조직에서 부적절한 메시지를 검색, 캡처 및 수정하는 데 도움을 주어 통신 위험을 최소화하는 데 도움이 됩니다. 조직에서 내부 및 외부 전자 메일, Microsoft Teams 또는 타사 통신을 캡처하는 특정 정책을 정의할 수 있습니다. 검토자는 조직의 메시지 표준을 준수하는지 확인하도록 적절한 수정 조치를 취할 수 있습니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-준수 전문가는 통신 준수 정책에 따라 조직 통신을 모니터링 하는 방식으로 서비스를 활용할 수 있습니다.
+규정 준수 전문가는 커뮤니케이션 규정 준수 정책에 의해 조직 통신을 모니터링하도록 하여 이 서비스의 이점을 제공합니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 Insider it 관리에서는 사용자에 게 통신 준수를 활용할 수 있는 권한을 제공 합니다.
+Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수 및 Microsoft 365 내부자 위험 관리는 사용자가 통신 규정 준수를 혜택을 받을 수 있는 권한을 제공합니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-관리자 및 규정 준수 전문가는 Microsoft 365 준수 센터에서 통신 준수 정책을 만듭니다. 이러한 정책은 조직의 검토 대상이 되는 통신 및 사용자를 정의 하 고, 통신이 충족 해야 하는 사용자 지정 조건을 정의 하 고, 검토를 수행할 사용자를 지정 합니다.
+관리자 및 규정 준수 전문가는 Microsoft 365 규정 준수 센터에서 커뮤니케이션 규정 준수 정책을 생성합니다. 이러한 정책은 조직에서 검토할 통신 및 사용자를 정의하고, 커뮤니케이션이 충족해야 하는 사용자 지정 조건을 정의하고, 검토를 수행할 사용자를 지정합니다.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-관리자 통신 준수 정책에 포함할 특정 사용자 또는 그룹을 선택 합니다. 그룹을 선택 하는 경우에는 그룹의 특정 사용자를 통신 준수 정책에서 제외할 수도 있습니다. 통신 준수 정책에 대 한 자세한 내용은 [Microsoft 365의 통신 준수](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)를 참조 하세요.
+관리자는 통신 준수 정책에 포함할 특정 사용자 또는 그룹을 선택 합니다. 그룹을 선택할 때 그룹에서 통신 준수 정책에서 제외할 특정 사용자를 선택할 수도 있습니다. 통신 준수 정책에 대한 자세한 내용은 [Microsoft 365의](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)통신 규정 준수를 참조하세요.
 
 ## <a name="insider-risk-management"></a>내부자 위험 관리
 
-참가자 위험 관리는 조직에서 위험한 활동을 감지 하 고 조사 하며 조치를 취할 수 있도록 하 여 내부 위험을 최소화 하는 Microsoft 365의 솔루션입니다.
-사용자 지정 정책을 사용 하면 필요한 경우 Microsoft Advanced eDiscovery로 사례를 확대 하는 것을 포함 하 여 조직에서 악의적이 고 실수로 위험한 활동을 검색 하 고 작업을 수행할 수 있습니다. 조직의 위험 분석가는 사용자가 조직의 규정 준수 표준을 준수 하도록 하기 위해 적절 한 조치를 취할 수 있습니다.
+내부자 위험 관리는 조직에서 위험한 활동을 감지, 조사 및 조치를 취할 수 있도록 하여 내부 위험을 최소화하는 데 도움이 되는 Microsoft 365의 솔루션입니다.
+사용자 지정 정책을 사용하면 필요한 경우 사례를 Microsoft Advanced eDiscovery로 에스컬레이터하는 등 조직에서 악의적이고 부적당하게 위험한 활동을 감지하고 조치를 취할 수 있습니다. 조직의 위험 분석가가 신속하게 적절한 조치를 취하여 사용자가 조직의 규정 준수 표준을 준수하도록 할 수 있습니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-사용자는 위험에 대 한 활동을 모니터링 하 여 이점을 누릴 수 있습니다.
+사용자는 자신의 활동을 위험에 대해 모니터링하여 혜택을 받을 수 있습니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에 게 서비스의 혜택을 받을 수 있는 권한을 제공 하는 라이선스는 무엇입니까?
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자에게 서비스 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 준수, Microsoft 365 참가자 위험 관리를 통해 사용자에 게 참가자 위험 관리의 이점을 누릴 수 있는 권한을 제공 합니다.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 규정 준수 및 Microsoft 365 내부자 위험 관리는 사용자가 내부자 위험 관리를 혜택을 받을 수 있는 권한을 제공합니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-참가자 위험 관리 정책을 Microsoft 365 준수 센터에서 만들고 사용자에 게 할당 해야 합니다.
+내부자 위험 관리 정책은 Microsoft 365 규정 준수 센터에서 만들어 사용자에게 할당해야 합니다.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-Microsoft 365 준수 센터에서 정책을 만들 때 **사용자 및 그룹 선택** 페이지에서 **사용자 또는 그룹** 선택을 선택 하 여 허가 된 사용자만 선택 하거나, 모든 사용자에 게 라이선스가 부여 되어 있는 경우 **모든 사용자 및 메일 사용 가능 그룹** 확인란을 선택할 수 있습니다. 자세한 내용은 [참가자 위험 관리 시작 하기](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management-configure)를 참조 하세요.
+Microsoft 365 규정 준수 센터에서 정책을 만들 때 사용자 및 **Choose users or groups** 그룹 선택 페이지에서 사용자 또는 그룹 선택을 선택하여 사용이 허가된 사용자만 **All users and mail-enabled groups** 선택하거나, 모든 사용자에게 라이선스가 부여된 경우 모든 사용자 및 메일 사용이 가능한 그룹 확인란을 선택할 수 있습니다. **Choose users and groups** 자세한 내용은 내부자 위험 관리 [시작을 참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management-configure)
 
 ## <a name="conditional-access-policies"></a>조건부 액세스 정책
 
-조건부 액세스는 Azure Active Directory에서 신호를 함께 가져오고 결정을 내리고 조직 정책을 적용 하는 데 사용 되는 도구입니다. 조건부 액세스는 id 기반 제어 평면의 핵심입니다. 조건부 액세스 정책 가장 간단한 방법은 if 문으로 사용 하는 것입니다. 사용자가 리소스에 액세스 하려는 경우에는 작업을 완료 해야 합니다. 예: 급여 관리자가 급여 응용 프로그램에 액세스 하려는 경우에는 다단계 인증을 수행 하 여 액세스 하는 데 필요 합니다.
+조건부 액세스는 Azure Active Directory에서 신호를 함께 가져오고, 의사 결정을 내리고, 조직 정책을 적용하는 데 사용하는 도구입니다. 조건부 액세스는 ID 기반 제어 평면의 핵심입니다. 가장 간단한 조건부 액세스 정책은 if-then 문입니다. 사용자가 리소스에 액세스하려는 경우 작업을 완료해야 합니다. 예: 급여 관리자는 급여 응용 프로그램에 액세스하고 다단계 인증을 수행하여 액세스해야 합니다.
 
-### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
+### <a name="which-users-benefit-from-the-service"></a>서비스에서 어떤 사용자에게 혜택을 제공하나요?
 
-Enterprise Mobility + Security E3/A3, Microsoft 365 F3/E3/A3/Business Premium 및 Azure Active Directory Premium 요금제 1의 라이선스가 있는 사용자는 조건부 액세스 정책이 도움이 될 수 있습니다. Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5, Microsoft E5 Security 및 Azure Active Directory Premium 요금제 2의 라이선스가 있는 사용자는 Id 보호 (위험 기반 조건부 액세스 정책)를 활용할 수 있습니다.
+Enterprise Mobility + Security E3/A3, Microsoft 365 F3/E3/A3/Business Premium 및 Azure Active Directory Premium 요금제 1의 사용이 허가된 사용자는 조건부 액세스 정책을 사용할 수 있습니다. Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5, Microsoft E5 Security 및 Azure Active Directory Premium 요금제 2의 사용이 허가된 사용자는 ID 보호(위험 기반 조건부 액세스 정책)를 사용할 수 있습니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-보안 작업 분석가 및 보안 전문가는 회사 콘텐츠에 대 한 액세스 권한을 부여 하기 전에 특정 기준을 충족 해야 하는 조직 정책을 사용자에 게 적용할 수 있는 기능을 통해 혜택을 제공 합니다. 최종 사용자는 조직의 자산을 보호 하면서 언제 어디서 나 언제 든 지 작업에 액세스할 수 있게 됩니다.
+보안 운영 분석가 및 보안 전문가는 사용자에게 조직 정책을 적용하여 회사 콘텐츠에 대한 액세스 권한을 부여하기 전에 특정 기준을 충족하도록 요구하는 기능을 통해 이점을 제공합니다. 최종 사용자는 조직의 자산을 보호하면서 언제 어디서나 자신의 업무에 액세스할 수 있습니다.
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-기본적으로 조건부 액세스 기능은 테 넌 트 내의 모든 사용자에 대 한 테 넌 트 수준에서 사용 하도록 설정 됩니다.
+기본적으로 조건부 액세스 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-Id 보호 및 조건부 액세스에 대 한 구체적인 경우 사용자를 그룹에 포함 하거나 조건부 액세스 정책에 추가 해야 합니다. 조건부 액세스 정책에서 사용자 및 그룹 조건은 필수입니다. 정책에서 **모든 사용자** 또는 특정 사용자 및 그룹을 선택할 수 있습니다. 적절 하 게 허가 된 사용자 및 그룹만 선택 해야 합니다. 자세한 내용은 [Azure Active Directory 조건부 액세스의 조건](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions)를 참조 하세요.
+특히 ID 보호 및 조건부 액세스의 경우 사용자를 그룹에 포함하거나 조건부 액세스 정책에 추가해야 합니다. 사용자 및 그룹 조건은 조건부 액세스 정책에서 필수입니다. 정책에서 모든 사용자 또는 특정 **사용자** 및 그룹을 선택할 수 있습니다. 적절한 사용이 허가된 사용자 및 그룹만 선택해야 합니다. 자세한 내용은 [Azure Active Directory 조건부 액세스의](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions)조건은 무엇입니까? .
 
 ## <a name="advanced-audit"></a>고급 감사
 
-Microsoft 365의 고급 감사는 사용자 및 관리 작업에 대 한 감사 로그를 1 년 동안 보존 하 고, 다른 Microsoft 365 서비스에 대 한 감사 로그 보존을 관리 하기 위한 사용자 지정 감사 로그 보존 정책을 만들 수 있는 기능을 제공 합니다. 또한 Office 365 관리 활동 API에 대 한 조사 및 고대역폭 액세스에 대 한 중요 한 이벤트에 대 한 액세스를 제공 합니다. 자세한 내용은 [Microsoft 365의 고급 감사](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)를 참조 하세요.
+Microsoft 365의 고급 감사는 사용자 및 관리자 활동에 대한 감사 로그의 1년 보존을 제공하며, 사용자 지정 감사 로그 보존 정책을 만들어 다른 Microsoft 365 서비스에 대한 감사 로그 보존을 관리하는 기능을 제공합니다. 또한 조사를 위한 중요한 이벤트에 대한 액세스 및 Office 365 관리 활동 API에 대한 높은 대역폭 액세스를 제공합니다. 자세한 내용은 [Microsoft 365의 고급 감사를 참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)
 
-추가 기능 SKU를 사용 하 여 보존 기간을 10 년으로 설정할 수도 있습니다. 추가 기능 SKU는 초기 2021부터 시작 해야 합니다.
+추가 기능 SKU를 사용하여 10년의 보존 기간을 사용하도록 설정할 수 있습니다. 추가 기능 SKU는 2021년 초부터 필요합니다.
 
-### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 사용할 수 있나요?
+### <a name="which-users-benefit-from-the-service"></a>서비스에서 어떤 사용자에게 혜택을 제공하나요?
 
-Office 365 E5, microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Microsoft 365 eDiscovery 및 감사의 라이선스가 있는 사용자가 고급 감사를 활용할 수 있습니다.
+Office 365 E5, Microsoft 365 E5, Microsoft 365 E5 규정 준수 및 Microsoft 365 eDiscovery 및 감사의 사용이 허가된 사용자는 고급 감사를 통해 혜택을 받을 수 있습니다.
 
-고급 감사를 포함 하는 라이선스가 있는 사용자, 10 년 감사 로그 보존 추가 기능은 10 년 간 감사 로그 보존을 활용할 수 있습니다.
+고급 감사 및 10년 감사 로그 보존 추가 기능을 사용할 수 있는 라이선스가 있는 사용자는 10년 감사 로그 보존을 사용할 수 있습니다.
 
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 이용 하는 방법은 무엇 인가요?
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-Microsoft 365 서비스의 사용자 작업과 관련 된 감사 레코드를 최대 1 년까지 보유할 수 있으므로 고급 감사의 사용자에 게는 장점이 있습니다. 또한 높은 값 감사 이벤트는 사용자 사서함의 항목에 액세스 하거나 읽을 때와 같이 기록 됩니다. 자세한 내용은 [Microsoft 365의 고급 감사](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)를 참조 하세요.
+Microsoft 365 서비스의 사용자 활동과 관련된 감사 레코드는 최대 1년 동안 보존할 수 있기 때문에 고급 감사를 통해 사용자에게 이점을 제공합니다. 또한 사용자 사서함의 항목에 액세스하거나 읽는 경우와 같이 고가치 감사 이벤트가 기록됩니다. 자세한 내용은 [Microsoft 365의 고급 감사를 참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)
 
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 구축/배포 됩니까?
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-기본적으로 고급 감사는 Office 365 또는 Microsoft 365 E5 구독이 있는 모든 조직에 대 한 테 넌 트 수준에서 사용 하도록 설정 되며, Azure Active Directory, Exchange 및 SharePoint에서 해당 라이선스가 있는 사용자가 수행 하는 작업에 대 한 감사 로그를 1 년 동안 자동으로 보존 합니다. 또한 조직에서는 감사 로그 보존 정책을 사용 하 여 다른 Microsoft 365 서비스의 활동에 의해 생성 된 감사 레코드의 보존 기간을 관리할 수 있습니다. 또한 동일한 보존 정책을 사용 하 여 10 년 감사 로그 보존 기능을 사용할 수 있습니다. 자세한 내용은 [감사 로그 보존 정책 관리](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies)를 참조하십시오.
+기본적으로 고급 감사는 Office 365 또는 Microsoft 365 E5 구독이 있는 모든 조직에 대해 테넌트 수준에서 사용하도록 설정되며 Azure Active Directory, Exchange 및 SharePoint에서 활동에 대한 감사 로그의 1년 보존(적절한 라이선스가 있는 사용자가 수행)을 자동으로 제공합니다. 또한 조직은 감사 로그 보존 정책을 사용하여 다른 Microsoft 365 서비스의 활동으로 생성된 감사 레코드의 보존 기간을 관리할 수 있습니다. 10년 감사 로그 보존 기능은 동일한 보존 정책을 사용하여 사용하도록 설정됩니다. 자세한 내용은 [감사 로그 보존 정책 관리](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies)를 참조하십시오.
 
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대해 사용이 허가 된 테 넌 트의 사용자 에게만 서비스를 적용할 수 있는 방법은 무엇입니까?
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스를 사용이 허가된 테넌트의 사용자에게만 서비스를 적용하는 방법
 
-1 년의 감사 로그 보존 및 중요 한 이벤트 감사는 해당 라이선스가 있는 사용자 에게만 적용 됩니다. 또한 관리자는 감사 로그 보존 정책을 사용 하 여 특정 사용자의 감사 로그에 대해 더 짧은 보존 기간을 지정할 수 있습니다.
+감사 로그의 1년 보존 및 중요한 이벤트 감사는 해당 라이선스가 있는 사용자에게만 적용됩니다. 또한 관리자는 감사 로그 보존 정책을 사용하여 특정 사용자의 감사 로그에 대한 더 짧은 보존 기간을 지정할 수 있습니다.
 
-10 년의 감사 로그 보존은 적절 한 추가 기능 라이선스가 있는 사용자 에게만 적용 됩니다. 추가 기능 SKU는 초기 2021부터 시작 해야 합니다.
+감사 로그의 10년 보존은 적절한 추가 기능 라이선스가 있는 사용자에게만 적용됩니다. 추가 기능 SKU는 2021년 초부터 필요합니다.
