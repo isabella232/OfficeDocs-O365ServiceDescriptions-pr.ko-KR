@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 Microsoft 365 Government - GCC High를 사용하는 것이 이러한 요구 사항을 충족하는 데 적합한 미국 연방 정부 기관 또는 정부 규정 및 요구 사항을 준수하는 데이터를 처리하는 기타 엔터티에서 Office 365의 배포를 진행하는 IT 프로를 위한 것입니다.
-ms.openlocfilehash: 5937eed535814176e99d6bfbfd9301c7b08326c3
-ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
+ms.openlocfilehash: 9b4e4deec0ef79a124cc73679709970f01e73e4d
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49566650"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601769"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Microsoft 365 규정 준수 계획 - GCC High
 
@@ -22,18 +22,18 @@ ms.locfileid: "49566650"
 > [!NOTE]
 >조직이 이미 Microsoft 365 Government - GCC 높은 자격 요구 사항을 충족하고 프로그램에 적용되어 프로그램에 수락된 경우 1단계와 2단계를 건너뛰고 3단계로 바로 이동하면 됩니다.
  
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government--gcc-high-and-meets-eligibility-requirements"></a>1단계. 조직에 Microsoft 365 Government가 필요한지 여부 확인 - GCC High 및 자격 요구 사항 충족
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government--gcc-high-and-meets-eligibility-requirements"></a>1단계. 조직에서 Microsoft 365 Government - GCC High가 필요하며 자격 요구 사항을 충족하는지 확인
 
 Microsoft 365 Government - GCC High 환경은 클라우드 서비스에 대한 미국 정부 요구 사항을 준수합니다. 조직은 Office 365의 기능과 기능을 즐길 뿐만 아니라 Microsoft 365 Government - GCC High에 고유한 다음과 같은 기능을 사용할 수 있습니다.
 
-- 조직의 고객 콘텐츠는 Microsoft에서 상용 Office 365 서비스의 고객 콘텐츠와 논리적으로 나아지게 됩니다.
+- 조직의 고객 콘텐츠는 Microsoft의 상용 Office 365 서비스의 고객 콘텐츠와 논리적으로 나아지게 됩니다.
 - 조직의 고객 콘텐츠는 미국에 보관됩니다.
 - 조직 고객 콘텐츠에 대한 액세스는 선별된 Microsoft 직원으로 제한됩니다.
 - Microsoft 365 Government – GCC High는 미국 공공 부문 고객에게 필요한 인증 및 인증을 준수합니다.
 
 자격 요구 사항을 포함하여 Office 365 Government 요금제에서 Microsoft [365](https://products.office.com/government/compare-office-365-government-plans)Government - GCC High 제품(미국 정부 고객을 위한 GCC High 제품)에 대한 자세한 정보를 찾을 수 있습니다.
 
-[Office 365 Government](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) 서비스 설명에서는 미국 내 규정 준수 요구 사항을 충족하는 데 중심을 두는 플랫폼의 이점에 대해 설명하고 있습니다.
+[Office 365 Government](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) 서비스 설명에서는 미국 내 규정 준수 요구 사항을 충족하는 데 중심을 두는 플랫폼의 이점에 대해 설명합니다.
 
 > [!TIP]
 > 서비스 설명의 정보 표를 Excel 통합 문서로 전송하고 두 개의 열을 추가할 수 있습니다. 조직 **Y/N과** 관련이 있으며 조직의 **요구** 사항을 충족합니다. 그런 다음 동료와 함께 이 목록을 검토하여 이 서비스가 조직의 요구 사항을 충족하는지 확인할 수 있습니다.
@@ -45,7 +45,7 @@ Microsoft 365 Government - GCC High 환경은 클라우드 서비스에 대한 �
 > [!NOTE]
 > Microsoft 365 Government - GCC High는 미국에서만 사용할 수 있습니다. 미국 정부 이 아닌 고객은 다양한 [Office 365 Government](https://products.office.com/government/compare-office-365-government-plans)요금제에서 선택할 수 있습니다.
 
-## <a name="step-2-apply-for-microsoft-365-government--gcc-high"></a>2단계. Microsoft 365 Government 신청 - GCC-High
+## <a name="step-2-apply-for-microsoft-365-government--gcc-high"></a>2단계. Microsoft 365 Government에 신청 - GCC-High
 
 이 서비스가 조직에 적합한 것으로 결정한 경우 이 서비스에 대한 적용 프로세스를 [시작하십시오.](https://products.office.com/government/eligibility-validation)
  
@@ -123,7 +123,7 @@ Microsoft 365 Government - GCC High 환경은 클라우드 서비스에 대한 �
 |                                         | 커뮤니케이션 규정 준수(감독 정책 포함): 알림 액세스 알림 서식 파일 통신 정책 대시보드 | 개발 중  |
 |                                         | 커뮤니케이션 규정 준수(감독 정책 포함): Advanced eDiscovery에 대한 조사를 위해 에스컬레이터 | 개발 중 |
 |                                         | 커뮤니케이션 규정 준수(감독 정책 포함): 성인용 콘텐츠 검색 | 개발 중 |
-|                                         | 커뮤니케이션 준수(감독 정책 포함): 시간이 지날 때 반복되는 행동 위반을 감지합니다. | 배포 중 |
+|                                         | 커뮤니케이션 규정 준수(감독 정책 포함): 시간이 지날 때 반복되는 행동 위반을 감지합니다. | 배포 중 |
 |                                         | 커뮤니케이션 규정 준수(감독 정책 포함): 보다 세부적인 사용 권한 지원 | 배포 중 |
 |                                         | 커뮤니케이션 준수(감독 정책 포함): 프레미스 사서함을 사용하여 사용자의 Teams 채팅 데이터 분석 | 배포 중 |
 |                                         | 커뮤니케이션 규정 준수(감독 정책 포함): 이해 상충 템플릿 | 엔지니어링 백로그 |
@@ -148,7 +148,7 @@ Microsoft 365 Government - GCC High 환경은 클라우드 서비스에 대한 �
 |                                         | Advanced eDiscovery: Dashboard                             | 사용할 수 있음 |
 |                                         | Advanced eDiscovery: 전자 메일 스레딩                                 | 사용할 수 있음 |
 |                                         | Advanced eDiscovery: 내보내기(다운로드, 내보내기, 다른 검토 집합에 추가)                   | 사용할 수 있음 |
-|                                         | Advanced eDiscovery: Filtering                                          | 사용할 수 있음 |
+|                                         | Advanced eDiscovery: 필터링                                          | 사용할 수 있음 |
 |                                         | Advanced eDiscovery: Teams 비공개 채널 메시지에 대한 법적 보유                               | 사용할 수 있음 |
 |                                         | Advanced eDiscovery: 중복에 가까운 식별                 | 사용할 수 있음 |
 |                                         | Advanced eDiscovery: 비보조 데이터 원본                                         | 사용할 수 있음 |
@@ -169,14 +169,14 @@ Microsoft 365 Government - GCC High 환경은 클라우드 서비스에 대한 �
 |                                         | Advanced eDiscovery: Yammer 준수 센터의 Advanced eDiscovery                              | 사용할 수 있음 |
 |                                         | Advanced eDiscovery: Advanced eDiscovery에 대한 CJK/Double byte 지원                              | 개발 중 |
 |                                         | Advanced eDiscovery: Teams 반응 지원                             | 개발 중 |
-|                                         | Advanced eDiscovery: Microsoft 준수 센터에서 SharePoint 및 비즈니스용 OneDrive의 항목 검색 및 내보내기 지원 확장                               | 엔지니어링 백로그 |
+|                                         | Advanced eDiscovery: Microsoft 규정 준수 센터에서 SharePoint 및 비즈니스용 OneDrive의 항목 검색 및 내보내기 지원 확장                               | 엔지니어링 백로그 |
 |                                         | 기본 감사                              | 사용할 수 있음 |
 |                                         | 고급 감사: 중요한 이벤트에 대한 액세스(예: mailitemsaccessed)                              | 사용할 수 있음 |
 |                                         | 고급 감사: 관리 작업 API에 대한 대역폭 증가                              | 사용할 수 있음 |
 |                                         | 고급 감사: Teams 비공개 채널 메시지에 대한 법적 보유                              | 사용할 수 있음 |
-|                                         | 고급 감사: 로그 보존(1년)                              | 사용할 수 있음 |
+|                                         | 고급 감사: 로그 보존(1년)                              | 배포 중 |
 |                                         | 고급 감사: 보안 및 준수 센터 가용성                              | 사용할 수 있음 |
-|                                         | 고급 감사: 감사 로그에 대한 장기 보존                              | 엔지니어링 백로그 |
+|                                         | 고급 감사: 감사 로그에 대한 장기 보존 기간(10년)                              | 엔지니어링 백로그 |
 |                                         | 고급 감사: 메일 전달 및 메일 보내기 이벤트                              | 엔지니어링 백로그 |
 |                                         | 고급 감사: 처리된 감사 인사이트                              | 엔지니어링 백로그 |
 |                                         | 고급 감사: Exchange Online 및 SharePoint Online에서 용어 이벤트 검색                              | 엔지니어링 백로그 |
