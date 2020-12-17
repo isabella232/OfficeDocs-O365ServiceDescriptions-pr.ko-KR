@@ -110,4 +110,3 @@
 #### [Microsoft 365 규정 준수 - GCC High 계획](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc-high.md)
 #### [Microsoft 365 규정 준수 - GCC 계획](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc.md)
 ## [Microsoft Bookings 서비스 설명](microsoft-bookings-service-description.md)
-## [Microsoft Dynamics 365 서비스 설명](microsoft-dynamics-365-online-service-description.md)
