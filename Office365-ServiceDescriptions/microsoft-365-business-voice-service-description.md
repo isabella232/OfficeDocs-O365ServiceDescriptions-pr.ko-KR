@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice는 전화 통화에 Microsoft Teams를 사용할 수 있는 추가 기능 서비스입니다. 이는 전화 시스템, 국내 통화 플랜, SMS 및 오디오 회의를 결합합니다.
-ms.openlocfilehash: 2f1f25dba03016ee9da086a8819394b1eab8691c
-ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
+ms.openlocfilehash: b1b547e7b02865136774e555f33be8e5750de4d4
+ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49624549"
+ms.lasthandoff: 12/23/2020
+ms.locfileid: "49730746"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business 음성 서비스 설명
 
@@ -43,30 +43,30 @@ Microsoft 365 Business Voice는 최대 300개 라이선스가 있는 다음 구�
 ## <a name="microsoft-365-business-voice-features"></a>Microsoft 365 Business Voice 기능
 
 | 기능 | Microsoft 365 Business Voice | 통화 플랜이 없는 Microsoft 365 Business Voice |
-|--------------------------------------------------------|----------------------------------|-------------------------------------------------------|
-| 현지 번호                                          | 예                              | 예                                                   |
-| VoIP 호출                                           | 예                              | 예                                                   |
-| 자동 전화 교환                                        | 예                              | 예                                                   |
-| 통화 큐                                             | 예                              | 예                                                   |
-| 발신자 ID                                              | 예                              | 예                                                   |
-| 통화 라우팅                                           | 예                              | 예                                                   |
-| 비상 전화                                      | 예                              | 예                                                   |
-| 동적 위치가 있는 긴급 통화                | 예                              | 예                                                   |
-| 음성 사서함                                             | 예                              | 예                                                   |
-| 통화 대기                                              | 예                              | 예                                                   |
-| 착신 전환                                        | 예                              | 예                                                   |
-| 통화 위임(대리인과 전화선 공유)   | 예                              | 예                                                   |
-| 음악 보류 중                                          | 예                              | 예                                                   |
-| 통화 블록                                             | 예                              | 예                                                   |
-| 자동 전화 걸기 내선 번호 전화 걸기                       | 예                              | 예                                                   |
-| 공유 음성 메일로 자동 전화 걸기/통화 큐 전송 | 예                              | 예                                                   |
-| 다국어 IVR(대화형 음성 응답)          | 예                              | 예                                                   |
-| 통화 정책                                         | 예                              | 예                                                   |
-| 국내 통화 플랜                                  | 예                              | 예                                                    |
-| 무료 전화 걸기\*                                    | 예                              | 예                                                    |
-| 국제 통화 플랜\*                           | 예                              | 예                                                    |
-| 오디오 회의                                     | 예                              | 아니요<sup>1</sup>                                                   |
+|--------------------------------------------------------|------------------------------|---------------------------------------------------|
+| 현지 번호 | 예 | 예<sup>*</sup> |
+| VoIP 호출 | 예 | 예<sup>*</sup> |
+| 자동 전화 교환 | 예 | 예<sup>*</sup> |
+| 통화 큐 | 예 | 예<sup>*</sup> |
+| 발신자 ID | 예 | 예<sup>*</sup> |
+| 통화 라우팅 | 예 | 예<sup>*</sup> |
+| 비상 전화 | 예 | 예<sup>*</sup> |
+| 동적 위치가 있는 긴급 통화 | 예 | 예<sup>*</sup> |
+| 음성 사서함 | 예 | 예<sup>*</sup> |
+| 통화 대기 | 예 | 예<sup>*</sup> |
+| 착신 전환 | 예 | 예<sup>*</sup> |
+| 통화 위임(대리인과 전화선 공유) | 예 | 예<sup>*</sup> |
+| 음악 보류 중 | 예 | 예<sup>*</sup> |
+| 통화 블록 | 예 | 예<sup>*</sup> |
+| 자동 전화 걸기 내선 번호 전화 걸기 | 예 | 예<sup>*</sup> |
+| 공유 음성 메일로 자동 전화 걸기/통화 큐 전송 | 예 | 예<sup>*</sup> |
+| 다국어 IVR(대화형 음성 응답) | 예 | 예<sup>*</sup> |
+| 통화 정책 | 예 | 예<sup>*</sup> |
+| 국내 통화 플랜 | 예 | 타사 통화 플랜 필요 |
+| 무료 전화 걸기<sup>**</sup> | 예 | 타사 통화 플랜 필요 |
+| 국제 통화 플랜<sup>**</sup> | 예 | 타사 통화 플랜 필요 |
+| 오디오 회의 | 예 | 예 |
 
-<sup>1</sup> 타사에서 제공한 통화 플랜에서 사용할 수 있습니다.
+<sup>*</sup> 타사에서 제공한 통화 플랜에서 사용할 수 있습니다.
 
-\*무료 전화 걸기 및 국제 통화 플랜은 통신 크레딧을 사용하여 추가 비용으로 [사용할 수 있습니다.](https://docs.microsoft.com/microsoftteams/what-are-communications-credits) 자세한 내용은 무료 [](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) 전화 걸기 및 국제 전화 요금을 [참조합니다.](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)
+<sup>**</sup>무료 전화 걸기 및 국제 통화 플랜은 통신 크레딧을 사용하여 추가 비용으로 [사용할 수 있습니다.](https://docs.microsoft.com/microsoftteams/what-are-communications-credits) 자세한 내용은 무료 [](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) 전화 걸기 및 국제 전화 요금을 [참조합니다.](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)

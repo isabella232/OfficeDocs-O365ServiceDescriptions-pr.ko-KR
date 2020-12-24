@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365와 Office 365 Education 요금제의 차이점에 대해 자세히 알아보고,
-ms.openlocfilehash: cc8d225e7caa622c4fb818d5823288e05145ba7b
-ms.sourcegitcommit: 3bde58616418da0560b2089c5359b519811d21dc
+ms.openlocfilehash: 2e149dc53127046bdb813bb10ca65a857fef67d8
+ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49611260"
+ms.lasthandoff: 12/23/2020
+ms.locfileid: "49730736"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -74,7 +74,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |Office 365 고급 eDiscovery|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |전자 메일 및 파일에 대한 DLP(데이터 손실 방지)|아니요|예|예|예|예|아니요|아니요|아니요|아니요|
 |끝점 DLP|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|
-|커뮤니케이션 DLP(Teams 채팅)|아니요|예|예|예|예|아니요|아니요|아니요|아니요|
+|커뮤니케이션 DLP(Teams 채팅)|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |커뮤니케이션 규정 준수|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |고객 키|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |기본 감사|예|예|예|예|예|예|예|예|예|
