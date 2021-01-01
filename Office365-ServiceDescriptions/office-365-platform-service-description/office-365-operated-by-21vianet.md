@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영하는 Office 365는 중국의 안전하고 안정적이며 확장 가능한 클라우드 서비스에 대한 요구를 충족하도록 디자인됩니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: 4618e4ddb7bb9225f94bb1f40f33a3c41bc09ee5
-ms.sourcegitcommit: 0b4cb697845acba8db68100ea062f3aad2205b4c
+ms.openlocfilehash: ea937b095550466e604b20e4eb5f943a6897bfa9
+ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49709756"
+ms.lasthandoff: 12/31/2020
+ms.locfileid: "49740989"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -1053,7 +1053,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |Windows PowerShell|예|예|
 |Microsoft 365 관리 센터의 비즈니스용 Skype Online 보고|아니요<sup>4</sup>|아니요<sup>4</sup>|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic은 모든 고객이 사용할 수 있습니다. Lync Basic 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대한 자세한 내용은 데스크톱 클라이언트 비교 [표를 참조하세요.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 준수 기능 등의 추가 기능을 포함하는 전체 비즈니스용 Skype(Lync) 응용 프로그램이 포함되어 &amp; 있습니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대한 자세한 내용은 데스크톱 클라이언트 비교 [표를 참조하세요.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)
 <br/><sup>2</sup> A Skype for Business Online Plan 1 user may participate in a sharing session if they are invited by a Skype for Business Online Plan 2 user.
 <br/><sup>3</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
@@ -1076,7 +1076,6 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 - 스마트 회신
 - Office 피드
 - 남길 시간
-- Microsoft Information Protection 민감도 레이블 지정
 - Dropbox Storage
 - Google Drive Storage
 - Box Storage

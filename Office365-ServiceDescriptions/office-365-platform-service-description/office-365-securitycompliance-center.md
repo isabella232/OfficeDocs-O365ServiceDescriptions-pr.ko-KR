@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 보안 준수 센터는 조직의 &amp; Office 365에서 규정 준수 기능을 관리하는 데 도움이 하도록 디자인되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: 972ead8dd3cb7411355d215a3a77f597a24461b9
-ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
+ms.openlocfilehash: 4537008977f19ef947ea0bae9a4164cfbe9991d4
+ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/23/2020
-ms.locfileid: "49730726"
+ms.lasthandoff: 12/31/2020
+ms.locfileid: "49740969"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -23,28 +23,26 @@ ms.locfileid: "49730726"
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
 
-2020년 4월 1일부로 Microsoft 365 규정 준수 기능을 이용하기 위해 사용자에게 라이선스를 허가하는 옵션을 확인하려면 자세한 Microsoft 365 규정 준수 라이선싱 비교를 다운로드하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+2020년 4월 1일 현재 Microsoft 365 규정 준수 기능을 이용하기 위해 사용자의 라이선스를 라이선스로 설정하는 옵션을 확인하려면 자세한 Microsoft 365 규정 준수 라이선싱 비교를 다운로드하세요. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
   
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>비즈니스 &amp; 및 엔터프라이즈 계획에 대한 보안 준수 센터 가용성
 
 | 기능 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 US Government G1 | Office 365 E3, Office 365 US Government G3 | Office 365 E5 | Office 365 F3, Office 365 US Government F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[보안 준수 &amp; 센터에 대한 액세스](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |예   |예   |예   |예   |예   |예   |예   |
-|[Exchange Online, SharePoint Online 및 비즈니스용 OneDrive](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1, 3에</sup> 대한 데이터 손실 방지 |아니요   |예  |예   |아니요   |예   |예   |아니요   |
-|[수동 민감도 레이블](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>4</sup> | 아니요 | 아니요  |아니요   | 예 | 예 | 예 | 아니요  |
+|[Exchange Online, SharePoint Online 및 비즈니스용 OneDrive](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)<sup>2에</sup> 대한 데이터 손실 방지 | 아니요 | 아니요  |아니요   | 예 | 예 | 예 | 아니요  |
+|[수동 민감도 레이블](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>3</sup> | 아니요 | 아니요  |아니요   | 예 | 예 | 예 | 아니요  |
 |[eDiscovery 사례](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |예   |예   |예   |예   |예   |예   |예   |
 |[eDiscovery 보류(쿼리 기반 eDiscovery 보류 포함)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |아니요   |아니요   |아니요  |아니요   |예   |예   |아니요   |
 |[eDiscovery 내보내기](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |아니요   |아니요   |아니요   |아니요   |예   |예   |아니요   |
-|[기본 감사](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>2</sup> |예   |예   |예|예   |예   |예   |예   |
+|[기본 감사](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>1</sup> |예   |예   |예|예   |예   |예   |예   |
 |[OME(Office 365 메시지 암호화) 기본](https://docs.microsoft.com/microsoft-365/compliance/ome)  |아니요   |아니요   |아니요   |아니요   |예  |예   |아니요   |
 
-<sup>1</sup> Microsoft Teams 리포지토리에 저장된 파일이 포함됩니다.
+<sup>기본</sup> 감사가 포함된 모든 계획에 대한 감사 로그 1개(E5 제외)는 90일 동안 보존됩니다. E5에는 고급 감사가 포함되어 있기 때문에 감사 로그는 최대 1년 동안 보존됩니다. 또한 [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 관리 활동 API를 사용하여 통합 감사 로그에서 이벤트를 검색할 수 있습니다.
 
-<sup>기본</sup> 감사가 포함된 모든 계획에 대한 감사 로그 2개(E5 제외)는 90일 동안 보존됩니다. E5에는 고급 감사가 포함되어 있기 때문에 감사 로그는 최대 1년 동안 보존됩니다. 또한 [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 관리 활동 API를 사용하여 통합 감사 로그에서 이벤트를 검색할 수 있습니다.
+<sup>2</sup> Office 365 데이터 손실 방지 추가 기능을 필요로 합니다.
 
-<sup>3</sup> Office 365 데이터 손실 방지 추가 기능을 필요로 합니다.
-
-Azure Information Protection P1 및 P2에도 <sup>4개</sup> 민감도 레이블이 포함되어 있습니다.
+<sup>3개</sup> 민감도 레이블도 Azure Information Protection P1 및 P2에 포함되어 있습니다.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>독립 &amp; 실행형 계획에 대한 보안 준수 센터 가용성
 
