@@ -10,13 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
-description: Office 365용 Microsoft Defender는 강력한 제로 데이 보호 기능을 제공하여 알 수 없는 맬웨어 및 바이러스로부터 조직을 보호하는 클라우드 기반 전자 메일 필터링 서비스로, 유해한 링크로부터 조직을 실시간으로 보호하는 기능을 포함합니다.
-ms.openlocfilehash: 4bb1a39fd9369dd2c691a442c351f74c9f544b12
-ms.sourcegitcommit: 69bb27491ec44b1c4a01cec94a4e0f353c707593
+description: Office 365용 Microsoft Defender는 강력한 제로 데이 보호 기능을 제공하여 알 수 없는 맬웨어 및 바이러스로부터 조직을 보호하고 유해한 링크로부터 조직을 실시간으로 보호하는 기능을 포함하는 클라우드 기반 전자 메일 필터링 서비스입니다.
+ms.openlocfilehash: a049d8d1beb9f95cec02fbaf7276f305e382365c
+ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/09/2021
-ms.locfileid: "49790442"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "49794964"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Office 365용 Microsoft Defender 서비스 설명
 
@@ -72,7 +72,7 @@ Office 365용 Microsoft Defender를 구입하는 경우 [Office 365용 Microsoft
 
 ## <a name="requirements-for-microsoft-defender-for-office-365"></a>Office 365용 Microsoft Defender에 대한 요구 사항
 
-Office 365용 Defender는 Office 365와 같은 SMTP 메일 전송 에이전트와 함께 Microsoft Exchange Server. Office 365용 Defender에서 지원하는 운영 체제, 웹 브라우저 및 언어에 대한 자세한 내용은 [Exchange Online Protection의 Exchange](https://go.microsoft.com/fwlink/p/?LinkId=282381)관리 센터에서 "지원되는 브라우저" 및 "지원되는 언어" 섹션을 참조하세요.
+Office 365용 Defender는 모든 SMTP 메일 전송 에이전트와 함께 사용할 수 Microsoft Exchange Server. Office 365용 Defender에서 지원하는 운영 체제, 웹 브라우저 및 언어에 대한 자세한 내용은 [Exchange Online Protection의 Exchange](https://go.microsoft.com/fwlink/p/?LinkId=282381)관리 센터에서 "지원되는 브라우저" 및 "지원되는 언어" 섹션을 참조하세요.
 
 ## <a name="feature-availability-across-defender-for-office-365-plans"></a>Office 365 계획용 Defender의 기능 가용성
 
@@ -97,7 +97,7 @@ Office 365용 Defender는 Office 365와 같은 SMTP 메일 전송 에이전트�
 |*Microsoft [365 Defender와의 통합](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)*|아니요|예|예|
 
 > [!NOTE]
-> 테넌트에 Office 365 계획 2 평가판 라이선스 또는 Microsoft 365 E5 평가판 라이선스만 있는 경우 Microsoft 365 Defender에 대한 다른 적격 라이선스가 없는 경우 Microsoft 365 Defender에 액세스할 수 없습니다. 자세한 내용은 [Microsoft 365 Defender 요구 사항을 참조하세요.](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
+> 테넌트에 Office ATP P2 평가판 라이선스 또는 Office 365 E5 평가판 라이선스가 있는 경우 Microsoft Threat Protection에 대한 다른 적격 라이선스가 없는 경우 Microsoft Threat Protection에 액세스할 수 없습니다. MTP 라이선스에 대한 자세한 내용은 <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites> 다음을 참조합니다.
 
 ## <a name="defender-for-office-365-capabilities"></a>Office 365용 Defender 기능
 
@@ -144,7 +144,7 @@ Office 365용 Defender는 Office 365와 같은 SMTP 메일 전송 에이전트�
 - Microsoft Teams 채널 및 채팅
 
 > [!NOTE]
-> 사용자는 Microsoft 365 E5 또는 Microsoft 365 E5 보안에 대한 사용이 허가되어야 합니다. 안전 문서 정책에 포함되어야 합니다. 보호가 적용될 수 있도록 장치에 로그인해야 <sup>\*</sup> 합니다.
+> 사용자에게 Microsoft 365 E5 또는 Microsoft 365 E5 보안 라이선스가 있어야 합니다. 안전 문서 정책에 포함되어야 합니다. 보호가 적용될 수 있도록 디바이스에 로그인해야 <sup>\*</sup> 합니다.
 >
 > 안전한 문서 보호에 대한 자세한 내용은 [Microsoft 365 E5의 안전한 문서를 참조하세요.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs)
 
@@ -154,7 +154,7 @@ Office 365용 Defender는 Office 365와 같은 SMTP 메일 전송 에이전트�
 
 ### <a name="anti-phishing-policies"></a>피싱 방지 정책
 
-[피싱](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) 방지는 들어오는 메시지에서 메시지가 피싱 시도일 수 있는 표시기를 검사합니다. 사용자가 Office 365 정책(안전 첨부 파일, 안전한 링크 또는 피싱 방지)에 대한 Defender의 적용을 받는 경우 들어오는 메시지는 메시지를 분석하는 여러 기계 학습 모델에 의해 평가됩니다. 구성된 정책에 따라 적절한 작업이 수행됩니다.
+[피싱](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) 방지는 들어오는 메시지에서 메시지가 피싱 시도일 수 있는 표시기를 검사합니다. Office 365 정책(안전 첨부 파일, 안전한 링크 또는 피싱 방지)에 대한 Defender의 적용을 받는 메시지는 메시지를 분석하는 여러 기계 학습 모델을 통해 평가하며 구성된 정책에 따라 적절한 조치를 취합니다.
 
 ### <a name="real-time-reports"></a>실시간 보고서
 
@@ -174,7 +174,7 @@ Office 365용 Defender는 Office 365와 같은 SMTP 메일 전송 에이전트�
 
 실시간 검색에는 맬웨어(전자 메일 및 콘텐츠용), 제출 및 피싱과 같은 보기가 포함되어 있습니다. 실시간 검색이 탐색기와 어떻게 비교하는지 표시하려면 [이 PDF를 다운로드하세요.](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
 
-탐색기(Office 365 계획 2용 Microsoft Defender) 및 실시간 검색(Office 365 계획 1용 Microsoft Defender)에 대한 자세한 내용은 위협 탐색기(및 실시간 [검색)를](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)참조하세요.
+탐색기(Office 365 계획 2용 Microsoft Defender) 및 실시간 검색(Microsoft Defender for Office 365 계획 1의 경우)에 대한 자세한 내용은 위협 탐색기(및 실시간 [검색)를](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)참조하세요.
 
 ### <a name="threat-trackers"></a>위협 트래커
 
