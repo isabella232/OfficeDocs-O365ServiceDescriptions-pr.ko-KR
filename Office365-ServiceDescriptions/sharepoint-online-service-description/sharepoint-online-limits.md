@@ -8,115 +8,98 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
-description: Microsoft 365 및 독립 실행형 계획에 대 한 SharePoint 제한 사항에 대해 알아봅니다.
-ms.openlocfilehash: 15acfde2ceb9a2ff62e2905c1796253a2117f7c1
-ms.sourcegitcommit: df00a1b12b1f5288fb756f1c002ec46ce6e0e5db
+description: Microsoft 365 및 독립 실행형 계획에 대한 SharePoint 제한에 대해 자세히 알아보습니다.
+ms.openlocfilehash: 8e8931c77f7ceda2b1aed90d4804f98355fd6caa
+ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48447345"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49878701"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
-Microsoft 365 용 SharePoint의 서비스 제한에 대해 알아봅니다.
+Microsoft 365용 SharePoint의 서비스 제한에 대해 자세히 알아보습니다.
   
-## <a name="limits-by-plan"></a>요금제 별 제한 
+## <a name="limits-by-plan"></a>계획에 따라 제한 
 
-| 기능 | Microsoft 365 Business Basic, Business Standard 또는 Business Premium | Microsoft 365 E3 또는 E5, Office 365 E1, E3, 또는 E5, 또는 SharePoint 계획 1 또는 2 | Microsoft 365 F1 또는 F3, Office 365 F3 |
+| 기능 | Microsoft 365 Business Basic, Business Standard 또는 Business Premium | Microsoft 365 E3 또는 E5, Office 365 E1, E3 또는 E5 또는 SharePoint 요금제 1 또는 2 | Microsoft 365 F1 또는 F3, Office 365 F3 |
 |:-----|:-----|:-----|:-----|
-|조직<sup>1, 2, 6</sup> 당 총 저장소 <br/> |1TB 및 구매한 라이선스 당 10gb<sup>3</sup>  <br/> |1TB 및 구매한 라이선스 당 10gb<sup>3</sup> <br/> |1TB<sup>3</sup> <br/> |
-|사이트당 최대 저장소 (사이트 모음)<sup>4</sup><br/> |25tb <br/> |25tb <br/> |25 TB<sup>5</sup> <br/> |
-|조직 당 사이트 (사이트 모음)  <br/> |200만<sup>6</sup> <br/> |200만<sup>6</sup> <br/> |200만<br/> |
-|사용자 수  <br/> |최대 300  <br/> |1-50만<sup>7</sup> <br/> |1-50만<sup>7</sup> <br/> |
+|조직당 총 저장소<sup>수 1, 2, 6</sup> <br/> |3개 구입한 라이선스당 1<sup>TB+</sup> 10GB  <br/> |3개 구입한 라이선스당 1<sup>TB+</sup> 10GB <br/> |1 TB<sup>3</sup> <br/> |
+|사이트당 최대 저장소 수(사이트 모음)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
+|조직당 사이트(사이트 모음)  <br/> |2백만<sup>6개</sup> <br/> |2백만<sup>6개</sup> <br/> |2백만 개<br/> |
+|사용자 수  <br/> |최대 300개  <br/> |1- 500,000<sup>7</sup> <br/> |1- 500,000<sup>7</sup> <br/> |
    
-<sup>1</sup> [조직에서 사용할 수 있는 총 및 사용 가능한 저장소를 찾는 방법을 알아봅니다](/sharepoint/manage-site-collection-storage-limits). 무제한의 추가 SharePoint 저장소를 구입할 수 있습니다. [구독에 대 한 저장소 공간 변경](/office365/admin/subscriptions-and-billing/add-storage-space)를 참조 하세요. 
-<br/><sup>2</sup> 휴지통을 모니터링 하 고 정기적으로 비우는 것이 좋습니다. 사용 하는 저장소 공간은 조직의 총 저장 용량 한도의 일부입니다. 
-<br/> <sup>3</sup> Microsoft 365 구독 및 Office 365 추가 파일 저장소 추가 기능을 사용 하는 경우 저장소 금액이 추가 됩니다. 
-<br/> <sup>4</sup> 이 값은 각 사이트에 대해 *제공 되* 는 저장 용량에 해당 하지 않고 단일 사이트 (이전에는 "사이트 모음")에 대 한 저장소 *제한* 입니다. 이 제한은 Office 365 그룹에 연결 된 팀 사이트 및 OneDrive를 포함 하 여 모든 유형의 사이트에 적용 됩니다. SharePoint 관리자가 [더 낮은 저장 제한을 수동으로 설정할](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)수 있습니다. 
-<br/> <sup>5</sup> Firstline Worker는 SharePoint 사이트를 관리할 수 없습니다. 
-<br/> <sup>6</sup> 사용 허가 된 각 사용자에 대해 만들어진 OneDrive를 포함 하지 않습니다. 
-<br/> <sup>7</sup> 사용자가 50만 명 이상인 경우 Microsoft 담당자에 게 문의 하세요. 
+<sup>1</sup> 조직의 총 저장소 및 사용 가능한 저장소를 찾는 [방법에 대해 자세히 알아보습니다.](/sharepoint/manage-site-collection-storage-limits) 무제한의 추가 SharePoint 저장소를 구입할 수 있습니다. 구독의 [저장소 공간 변경을 참조하세요.](/office365/admin/subscriptions-and-billing/add-storage-space) 
+<br/><sup>2</sup> 재활용란을 모니터링하고 정기적으로 비우는 것이 좋습니다. 사용하는 저장소 공간은 조직의 총 저장소 제한에 해당합니다. 
+<br/> <sup>3</sup> Microsoft 365 구독과 Office 365 추가 파일 저장소 추가 기능을 사용할 경우 저장소 금액이 추가됩니다. 
+<br/> <sup>4</sup> 각 사이트에  대해 제공된 저장소 양이 아니라 단일 사이트(이전의 "사이트 모음")에 대한 저장소 *제한입니다.* 이 제한은 Office 365 그룹에 연결된 팀 사이트 및 OneDrive를 포함하여 모든 유형의 사이트에 적용됩니다. SharePoint 관리자는 더 낮은 저장소 [제한을 수동으로 설정할 수 있습니다.](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits) 
+<br/> <sup>5</sup> 일선 직원들이 SharePoint 사이트를 관리할 수 없습니다. 
+<br/> <sup>6</sup> 사용이 허가된 각 사용자에 대해 만든 OneDrive를 포함하지 않습니다. 
+<br/> <sup>7</sup> 사용자가 500,000명 이상인 경우 Microsoft 담당자에게 문의합니다. 
   
-## <a name="service-limits-for-all-plans"></a>모든 계획에 대 한 서비스 제한
+## <a name="service-limits-for-all-plans"></a>모든 계획에 대한 서비스 제한
 
 ### <a name="items-in-lists-and-libraries"></a>목록 및 라이브러리의 항목
 
-목록에 항목이 최대 3000만 개까지 포함 될 수 있으며 라이브러리에는 파일 및 폴더를 최대 3000만 개까지 포함할 수 있습니다. 목록, 라이브러리 또는 폴더에 포함 된 항목이 10만 개 보다 많은 경우 목록, 라이브러리 또는 폴더에서 사용 권한 상속을 중단할 수 없습니다. 또한 사용 권한을 다시 상속할 수 없습니다. 그러나 해당 목록, 라이브러리 또는 폴더 내의 개별 항목에 대 한 상속을 목록 또는 라이브러리의 최대 고유 사용 권한 수까지 계속 나눌 수 있습니다 (다음 섹션 참조). 큰 목록 보기의 다른 제한 사항에 대한 자세한 내용은 [Office 365에서 큰 목록 및 라이브러리 관리](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)를 참조하세요. 
+목록에는 최대 3,000만 개 항목이 저장될 수 있으며 라이브러리에는 최대 3,000만 개 파일 및 폴더가 저장될 수 있습니다. 목록, 라이브러리 또는 폴더에 100,000개가 넘는 항목이 포함되어 있는 경우 목록, 라이브러리 또는 폴더에 대한 사용 권한 상속을 중단할 수 없습니다. 또한 사용 권한을 다시 상속할 수 없습니다. 그러나 목록, 라이브러리 또는 폴더 내의 개별 항목에 대한 상속을 목록 또는 라이브러리의 최대 고유 권한 수까지 중단할 수 있습니다(다음 섹션 참조). 큰 목록 보기의 다른 제한 사항에 대한 자세한 내용은 [Office 365에서 큰 목록 및 라이브러리 관리](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)를 참조하세요.
 
-> [!NOTE]
-> 사이트에 포함할 수 있는 문서 라이브러리의 수에는 제한이 없습니다.
+### <a name="unique-security-scopes-per-list-or-library"></a>목록 또는 라이브러리당 고유한 보안 범위
 
-### <a name="unique-permissions-for-items-in-a-list-or-library"></a>목록 또는 라이브러리의 항목에 대 한 고유 권한
-
-허용 되는 제한은 5만 고유 고유한 항목 이지만 권장 되는 일반적인 제한은 5000입니다. 5000 개 보다 많은 고유한 항목을 한 번에 변경 하는 것이 더 오래 걸립니다. 큰 목록의 경우에는 가능한 한 한 가지 고유한 사용 권한을 갖도록 디자인 합니다.
-
-다른 제한은 고유 고유한 수 있는 항목 별로 5000 역할 할당입니다. 
+큰 목록의 경우 고유한 사용 권한을 최대한 적게 가지고 총 5,000 미만으로 유지하려면 디자인하십시오.
 
 ### <a name="file-size-and-file-path-length"></a>파일 크기 및 파일 경로 길이
 
-100 GB입니다. 목록 항목에 첨부 되는 파일의 최대 크기는 250입니다. 새 OneDrive 동기화 앱을 사용 하는 경우의 제한 사항에 대 한 자세한 내용은 [잘못 된 파일 이름 및 파일 형식](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)OneDrive.exe를 참조 하세요.
+100GB 새 OneDrive 동기화 앱(OneDrive.exe)을 사용할 때의 제한에 대한 자세한 내용은 잘못된 파일 이름 및 파일 [형식을 참조하세요.](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-### <a name="moving-and-copying-across-sites"></a>사이트 간 이동 및 복사
+### <a name="moving-and-copying-across-sites"></a>사이트 전체 이동 및 복사
 
-단일 작업에서 여러 파일을 복사/이동 하면 다음과 같은 세 가지 요구 사항이 있습니다. 
+단일 작업으로 여러 파일을 복사/이동하려면 다음 세 가지 요구 사항이 있습니다.
 
-- 총 파일 크기 100 GB 이상 
-- 3만 개 이하의 파일
-- 각 파일은 2gb 미만 이어야 합니다.
+- 총 파일 크기가 100GB를 넘지 않습니다.
+- 파일 30,000개 이상
+- 각 파일은 15GB 미만이 되어야 합니다.
 
 ### <a name="sync"></a>동기화
 
-**현재 OneDrive 동기화 앱 (OneDrive.exe)** -최적의 성능을 위해, 주문형 파일을 사용 하거나 라이브러리 내에서 동기화 할 일부 폴더만 선택 해도 동기화 된 모든 문서 라이브러리에서 사용자 당 30만 개 이하의 파일을 저장 하는 것이 좋습니다.
-
-**이전 비즈니스용 OneDrive 동기화 앱 (Groove.exe-이전 온-프레미스 SharePoint 환경에서 사용 됨)** -동기화 된 모든 라이브러리에서 최대 2만 개의 항목을 동기화 할 수 있습니다. 여기에는 OneDrive 라이브러리, 팀 사이트 라이브러리 또는 둘 다 포함 됩니다. 전체 동기화 제한과 별도로, 각 라이브러리 유형에 대해 동기화 할 수 있는 항목 수에 제한이 있습니다.
-
-   - OneDrive 라이브러리에서 최대 2만 개의 항목을 동기화 할 수 있습니다. 여기에는 폴더 및 파일이 포함 됩니다. 
-   - SharePoint 라이브러리에서 최대 5000 개의 항목을 동기화 할 수 있습니다. 여기에는 폴더 및 파일이 포함 됩니다. 이 라이브러리는 팀 사이트 및 커뮤니티 사이트, 다른 사용자가 만들었거나 만든 라이브러리 또는 사이트 페이지에서 만든 라이브러리가 있는 다양 한 SharePoint 사이트에서 찾을 수 있습니다. 여러 SharePoint 라이브러리를 동기화 할 수 있습니다. 동기화 하는 모든 팀 사이트는 모든 동기화 된 라이브러리의 전체 2만 항목 제한에 대해서도 계산 됩니다.
-
-> [!NOTE]
-> 사용자가 수백 개의 파일을 포함 하는 문서 라이브러리의 파일을 동기화 해야 하는 경우 폴더의 사용 권한 수준을 "제한 된 읽기"로 설정 하 여 동기화 앱에서 폴더를 "숨길" 수 있습니다. 
+최적의 성능을 위해 단일 OneDrive 또는 팀 사이트 라이브러리에 파일을 300,000개까지 저장하는 것이 좋습니다. SharePoint Online은 라이브러리당 3,000만 개 문서를 저장할 수 있습니다. 최적의 성능을 위해 모든 문서 라이브러리에서 파일을 300,000개까지 동기화하는 것이 좋습니다. 또한 동기화하는 모든 라이브러리에서 항목이 30만 개 이상 있는 경우 해당 라이브러리의 모든 항목을 동기화하지 않는 경우에도 동일한 성능 문제가 발생할 수 있습니다. 이전 비즈니스용 OneDrive 동기화 클라이언트(Groove.exe)를 사용하는 경우 라이브러리당 동기화 제한은 20,000개 항목(팀 사이트당 항목 5,000개 포함)입니다.
 
 ### <a name="versions"></a>버전
 
-5만 주 버전 및 511 부 버전
+주 버전 50,000개 및 부 버전 511개
 
 ### <a name="sharepoint-groups"></a>SharePoint 그룹
 
-사용자는 사이트 (사이트 모음) 당 5000 그룹에 속할 수 있으며, 각 그룹은 최대 5000 명의 사용자를 포함할 수 있습니다. 사이트 (사이트 모음) 당 최대 1만 개의 그룹을 포함할 수 있습니다.
+사용자는 사이트(사이트 모음)당 5,000개 그룹에 속할 수 있으며 각 그룹은 최대 5,000명까지 사용할 수 있습니다. 사이트당 최대 10,000개 그룹(사이트 모음)을 사용할 수 있습니다.
 
 > [!NOTE]
-> Azure AD 그룹 제한에 대 한 내용은 [AZURE ad 서비스 제한 및 제한을](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) 참조 하세요. 이러한 제한은 공용 및 개인 그룹 사이트 구성원 관리에 영향을 줄 수 있습니다. 
+> Azure AD 그룹 제한에 대한 자세한 내용은 공용 및 개인 그룹 사이트 구성원 관리에 영향을 줄 수 있는 [Azure AD](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) 서비스 제한 및 제한을 참조하세요.
 
 ### <a name="managed-metadata"></a>관리되는 메타데이터
 
-용어 저장소의 20만 용어, 1000 전역 용어 집합, 1000 그룹.
+용어 저장소의 용어 200,000개, 전역 용어 집합 1,000개, 그룹 1,000개
 
-### <a name="overall-site-metadata"></a>전체 사이트 메타 데이터
+### <a name="overall-site-metadata"></a>전체 사이트 메타데이터
 
-사이트당 1000 (메타 데이터는이 크기에 거의 도달 하지 않음)
+사이트당 1,000GB(메타데이터가 이 크기에 도달하는 경우는 거의 없습니다).
 
-### <a name="subsites"></a>하위 
+### <a name="subsites"></a>하위사이트
 
-사이트 당 2000 개 (사이트 모음) 하위 사이트를 만드는 것이 아닌 위치를 만들어 허브로 구성 하는 것이 좋습니다. 하위 사이트를 사용 하는 경우에는 해당 번호를 제한 하는 것이 좋습니다 (특히 트래픽이 더 적은 사이트가 높은 경우).
+사이트당 2,000개(사이트 모음) 사이트를 만들고 하위 사이트를 만드는 대신 허브로 구성하는 것이 좋습니다. 하위 사이트를 사용하는 경우 해당 수를 제한하는 것이 좋습니다(특히 트래픽이 많은 사이트에서).
 
-> [!NOTE] 
-> 조직은 2000 허브 사이트로 제한 됩니다. 모든 기능에 대해 허브 사이트가 필요 하지 않을 수 있으며, 허브를 만들기 전에 계획을 세우는 것이 중요 합니다. 자세한 내용은 [SharePoint 허브 사이트 계획](https://docs.microsoft.com/sharepoint/planning-hub-sites)을 참조 하세요.
+> [!NOTE]
+> 조직은 허브 사이트 2,000개로 제한됩니다. 일부 기능에는 허브 사이트가 필요하지 않을 수 있으며 허브를 만들기 전에 몇 가지 계획을 세우는 것이 중요합니다. 자세한 내용은 SharePoint 허브 사이트 [계획에 방문하세요.](https://docs.microsoft.com/sharepoint/planning-hub-sites)
 
-### <a name="sharepoint-hosted-applications"></a>SharePoint 호스팅된 응용 프로그램
+### <a name="sharepoint-hosted-applications"></a>SharePoint 호스팅 응용 프로그램
 
-조직 당 2만 인스턴스
-
-### <a name="people-editing-a-document-at-the-same-time"></a>문서를 한 번에 편집 하는 사용자
-
-99 사용자는 문서를 편집 하기 위해 동시에 열 수 있습니다. 사용자가 10 명 넘게 동시에 문서를 편집 하는 경우 편집 내용이 충돌할 가능성이 더 향상 되 고 사용자 환경이 점차적으로 저하 됩니다.
+조직당 인스턴스 20,000개
 
 ### <a name="users"></a>사용자
 
-사이트 당 200만 개 (사이트 모음)
-   
+사이트 모음당 2,000만 개
+
 > [!NOTE]
-> SharePoint 사이트에 초대할 수 있는 게스트 수에는 제한이 없습니다. 외부 공유에 대 한 자세한 내용은 [외부 공유 개요](/sharepoint/external-sharing-overview)를 참조 하세요.
+> SharePoint 사이트에 초대할 수 있는 게스트 수에는 고유한 제한이 없습니다. 외부 공유에 대한 자세한 내용은 외부 공유 [개요를 참조하십시오.](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
 ## <a name="see-also"></a>참고 항목
 
-[SharePoint에 대 한 검색 제한](/sharepoint/search-limits)
+[SharePoint에 대한 검색 제한](https://docs.microsoft.com/sharepoint/search-limits)

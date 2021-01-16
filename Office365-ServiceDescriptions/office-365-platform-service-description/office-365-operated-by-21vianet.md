@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영하는 Office 365는 중국의 안전하고 안정적이며 확장 가능한 클라우드 서비스에 대한 요구를 충족하도록 디자인됩니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: ea937b095550466e604b20e4eb5f943a6897bfa9
-ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
+ms.openlocfilehash: c1c6eba5c7778e11a13abf716bd51f3068f61696
+ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/31/2020
-ms.locfileid: "49740989"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49878711"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -54,12 +54,23 @@ Microsoft에서는 이 서비스 자체를 운영하지 않습니다. 21Vianet�
 
 <sup>1</sup> Office 365 관리, Office 365 제품군 앱, 사용자 계정 관리, 도메인, 서비스 상태 및 연속성, 보고, 서비스 업데이트, 도움말 및 교육, 네트워킹 등과 같은 기능이 포함되어 있습니다. 자세한 내용은 [플랫폼 기능](office-365-operated-by-21vianet.md#platform-features) 표를 참조하세요.
 <br/><sup>2</sup> Project Online은 포함되어 있지 않지만 별도의 추가 기능 서비스로 구매하거나 Office 365 A1 계획에 무료로 추가할 수 있습니다.
-<br/><sup>웹용</sup> Visio 3개(보기 기능)를 무료로 사용할 수 있습니다. 웹용 Visio에서 만들기 및 편집 기능을 사용하려면 라이선스가 필요합니다. 웹용 Visio에 대한 자세한 내용은 [Visio에서](../visio-online-service-description/visio-online-service-description.md)웹 서비스 설명을 참조하십시오.
+<br/><sup>3</sup> 웹 사용용 Visio(보기 기능)를 무료로 사용할 수 있습니다. 웹용 Visio를 만들고 편집하려면 라이선스가 필요합니다. 웹용 Visio에 대한 자세한 내용은 [Visio에서](../visio-online-service-description/visio-online-service-description.md)웹 서비스 설명을 참조하십시오.
 <br/><sup>4</sup> AIP(Azure Information Protection)는 21Vianet에서 운영하는 Office 365에서 부분적으로 지원됩니다. 자세한 내용은 [21Vianet에서 운영하는 Office 365용 Azure Information Protection과](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet&preserve-view=true)상업용 제품 간의 패리티를 참조하세요.
 
 ## <a name="system-requirements"></a>시스템 요구 사항
 
 Office 365에 대한 시스템 요구 사항을 보려면 [office.com](https://products.office.com/office-system-requirements/#Office365forBEG) 제품 사이트에서 [Office에 대한 시스템 요구 사항](https://www.office.com)을 참조하세요.
+
+## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
+Microsoft 365 규정 준수 센터에서는 조직의 규정 준수 요구 사항을 관리하는 데 필요한 도구에 쉽게 액세스할 수 있습니다. 21Vianet에서 운영하는 계획에 대한 준수 센터에서는 다음 솔루션을 사용할 수 있습니다.
+
+- DLP(데이터 손실 방지)
+- 보존
+- 감사
+- Office 클라이언트 및 Outlook에 대한 MIP(Microsoft Information Protection) 및 민감도 레이블
+
+> [!NOTE]
+> 현재 웹용 SharePoint Online 및 Office에 대한 민감도 레이블은 지원되지 않습니다.
 
 ## <a name="platform-features"></a>플랫폼 기능 
 
@@ -91,7 +102,7 @@ Office 365에 대한 시스템 요구 사항을 보려면 [office.com](https://p
 |Office 365 비디오|아니요|아니요|아니요|예|예|예|예<sup>2</sup>|
 |OneNote 수업용 전자 필기장|아니요|아니요|아니요|예 <sup> 15<sup>|아니요|아니요|아니요|
 |**[사용자 계정 mManagement](user-account-management.md)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영하는 Office 365 Enterprise F3**|
-|클라우드 ID, 페더티드 ID 또는 다단계 인증<sup>14</sup>|예|예|예|예|예|예|예|
+|클라우드 ID, 페더타 ID 또는 다단계 인증<sup>14</sup>|예|예|예|예|예|예|예|
 |Office 365 데스크톱 설정|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |.csv 파일을 사용하여 대량 업로드|예|예|예|예|예|예|예|
 |디렉터리 동기화 도구|예|예|예|예|예|예|예|
@@ -191,14 +202,14 @@ Office 365에 대한 시스템 요구 사항을 보려면 [office.com](https://p
 |**[서비스 수준 계약](service-level-agreement.md)**<sup>9</sup>|예|예|예|예|예|예|예|
 |**[제품 사용권](product-use-rights.md)**<sup>10</sup>|예|예|예|예|예|예|예|
 
-<sup>21Vianet에서</sup> 운영하는 1 Office 365 및 Office 365는 제조업체에서 지원하지 않는 운영 체제를 지원하지 않습니다.<br/>
+21Vianet에서 운영하는 <sup>1</sup> Office 365 및 Office 365는 제조업체에서 지원하지 않는 운영 체제를 지원하지 않습니다.<br/>
 <sup>2</sup> 21Vianet에서 운영하는 Office 365 Enterprise F3에서 Office 365 비디오는 보기 전용(게시 또는 공유 없음)으로 제한됩니다. <br/>
 <sup>3</sup> 로컬 Active Directory와 디렉터리 동기화를 사용하는 경우 Office 365 포털이 아닌 로컬 Active Directory를 사용하여 계정을 삭제하거나 암호를 변경하거나 계정을 위해 Azure Active Directory 모듈을 Windows PowerShell. <br/>
 <sup>4</sup> 21Vianet에서 운영하는 Office 365에서는 아직 사용할 수 없지만 곧 제공될 예정입니다. <br/>
 <sup>5</sup> 이전 버전의 Office 365에서 업그레이드하지 않는 한 Office 365에서 공개 웹 사이트를 하나만 사용할 수 있습니다. 업그레이드하게 되면 두 개의 공개 웹 사이트를 사용할 수 있지만, 둘 중 하나만 사용자 지정 도메인 이름으로 호스트할 수 있습니다. 비즈니스용 두 웹 사이트 구독을 사용할 수 있는 자세한 내용은 두 개의 Office 365 공개 웹 사이트 [작업(Work with your two Office 365 public websites)을 참조하세요.](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5) 다른 구독이 있는 경우 [Office 365용](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5)공개 웹 사이트 도움말에서 공개 웹 사이트에 대해 자세히 알아보면 됩니다.<br/>
 <sup>6</sup> 기간 할인을 통해 구매한 시트 수를 줄이면 조기 종료 수수료가 부과될 수 있습니다. This is not applicable for subscriptions paid on a monthly basis.<br/>
 <sup>7</sup> Office 365 Education 요금제는 Microsoft 365 관리 센터의 라이선스 사용자 수 변경을 지원하지 않습니다.<br/>
-<sup>8</sup> Microsoft Sway는 현재 특정 지리의 고객은 사용할 수 없습니다. 2015년 8월 현재 더 이상 출시되지 않는 일부 레거시 Office 365 요금제도 Microsoft Sway에 액세스할 수 없습니다. <br/>
+<sup>8</sup> Microsoft Sway는 현재 특정 지리의 고객은 사용할 수 없습니다. 2015년 8월 현재 더 이상 출시되지 않는 일부 레거시 Office 365 요금제는 Microsoft Sway에 액세스할 수 없습니다. <br/>
 <sup></sup> 21Vianet에서 운영하는 Office 365의 경우 여기에서 서비스 수준 계약을 [참조하세요.](https://www.21vbluecloud.com/office365/O365-SLA/)<br/>
 <sup>21Vianet에서</sup> 운영하는 Office 365의 경우 21Vianet의 [Office 365용 온라인](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/)서비스 표준 계약을 참조하세요.
 <br/>
@@ -208,7 +219,7 @@ Office 365에 대한 시스템 요구 사항을 보려면 [office.com](https://p
 <sup>14</sup> 다단계 인증은 현재 Outlook 모바일(iOS 및 Android)에서 지원되지 않습니다. <br/>
 <sup>15</sup> OneNote 수업용 전자 필기장은 21Vianet을 통해 사용할 수 있지만, Windows 10 앱, iPad 또는 웹용 OneNote에서는 OneNote 수업용 전자 필기장 도구 모음을 사용할 수 없습니다. <br/>
 21Vianet에서 운영하는 <sup>16</sup> Office 365는 보존 정책만 지원합니다. Yammer 및 Teams 위치에 대한 보존 레이블 또는 보존 정책은 지원되지 않습니다. 자세한 내용은 보존 정책 [시작을 참조합니다.](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-retention) <br/>
-Microsoft 365의 <sup>17</sup> 감사는 조직에 Microsoft 365의 여러 서비스에서 다양한 유형의 감사된 활동을 가시성을 제공합니다. 보안 준수 [ &amp; 센터](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 감사 로그 검색을 사용하여 조직의 사용자 및 관리자 활동을 볼 수 있습니다. [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 관리 활동 API를 사용하여 통합 감사 로그에서 이벤트를 검색할 수도 있습니다. 사용자 또는 관리자가 감사 활동을 수행하면 감사 레코드가 생성되어 고객 조직에 대한 감사 로그에 저장됩니다. 감사 레코드가 보존되는 기간(감사 로그에서 검색 가능)은 고객의 Office 365 또는 Microsoft 365 Enterprise 구독 및 특정 사용자에게 할당된 라이선스 유형에 따라 다릅니다.
+Microsoft 365의 <sup>17</sup> 감사는 조직에 Microsoft 365의 여러 서비스에서 다양한 유형의 감사 활동을 가시성을 제공합니다. 보안 준수 [ &amp; 센터](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 감사 로그 검색을 사용하여 조직의 사용자 및 관리자 활동을 볼 수 있습니다. [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 관리 활동 API를 사용하여 통합 감사 로그에서 이벤트를 검색할 수도 있습니다. 사용자 또는 관리자가 감사 활동을 수행하면 감사 레코드가 생성되어 고객 조직에 대한 감사 로그에 저장됩니다. 감사 레코드가 보존되는 기간(감사 로그에서 검색 가능)은 고객의 Office 365 또는 Microsoft 365 Enterprise 구독 및 특정 사용자에게 할당된 라이선스 유형에 따라 다릅니다.
 
 ## <a name="office-365-application-features"></a>Office 365 응용 프로그램 기능
 
@@ -232,7 +243,7 @@ Microsoft 365의 <sup>17</sup> 감사는 조직에 Microsoft 365의 여러 서�
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|아니요|아니요|아니요|아니요|아니요|아니요|아니요<sup>5</sup>|아니요|아니요|아니요|
 |[Windows 10 앱](../office-applications-service-description/office-applications.md#windows-10-apps)|예|예|예|예|예|예|예|예|예|아니요|
 |[Office 365용 Office for Mac](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|아니요|예|아니요|아니요|아니요|예|아니요<sup>5</sup>|아니요|예|아니요|
-|Microsoft Office 앱 for Android|예|예|예|예|예|예|예|예|예|예|
+|Microsoft Office 앱|예|예|예|예|예|예|예|예|예|예|
 |iOS용 Microsoft Office 앱|예|예|예|예|예|예|예|예|예|예|
 |[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|예|예|예|예|예|예|예<sup>5</sup>|예|예|예|
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|예|예|예|예|예|예|예|예|예|예|
@@ -290,7 +301,7 @@ Microsoft 365의 <sup>17</sup> 감사는 조직에 Microsoft 365의 여러 서�
 > [!NOTE]
 > 21Vianet에서 운영하는 Office 365 버전의 Office 365는 중국에 한정됩니다.
 
-다음 표에서는 웹 기능 기능에 대한 Office를 데스크톱 앱의 다양한 기능과 비교하는 Microsoft Office 제공합니다. 비교를 사용하여 웹용 Office에서 사용할 수 있는 기능을 검색한 다음 기능 이름을 선택하여 해당 기능의 작동 방식에 대한 간략한 설명을 읽어 봐야 합니다.
+다음 표에서는 다양한 기능을 제공하는 데스크톱 앱과 웹 기능 기능을 비교하는 Microsoft Office 제공합니다. 비교를 사용하여 웹용 Office에서 사용할 수 있는 기능을 검색한 다음 기능 이름을 선택하여 해당 기능의 작동 방식에 대한 간략한 설명을 읽어 봐야 합니다.
 
 > [!NOTE]
 > - Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. 이 비교표는 Microsoft Office 기능의 전체 목록이 아닙니다.
@@ -401,7 +412,7 @@ Microsoft 365의 <sup>17</sup> 감사는 조직에 Microsoft 365의 여러 서�
 |단일 항목 복구|예|예|예|예|예|예|아니요||
 |**[상호 운용성, 연결 및 호환성](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영하는 Office 365 Enterprise F3**|
 |OWA 및 Outlook의 비즈니스용 Skype 현재 상태|예|예|예|예|예|예|아니요|
-|SharePoint 상호 연동성|예|예|예|예|예|예|예|
+|SharePoint 상호 연결성|예|예|예|예|예|예|예|
 |EWS 연결 지원|예|예|예|예|예|예|예|
 |SMTP 릴레이 지원|예|예|예|예|예|예|예|
 |**[Exchange Online 설치 및 관리](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영하는 Office 365 Enterprise F3**|
@@ -421,7 +432,7 @@ Microsoft 365의 <sup>17</sup> 감사는 조직에 Microsoft 365의 여러 서�
 <br/><sup>5 Exchange Server</sup> 2013에서는 Microsoft 맬웨어 방지 엔진만 사용했습니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다.
 <br/><sup>6</sup> 비활성 사서함 기능이 필요한 각 사서함에 대해 EOA 구독을 별도로 구매할 수 있습니다.
 <br/><sup>7</sup> eDiscovery의 경우, 클라우드와의 별도 쿼리가 필요합니다.
-<br/><sup>8</sup> POP가 지원되지만 IMAP은 지원되지 않습니다.
+<br/><sup>8</sup> POP가 지원되지만 IMAP는 지원되지 않습니다.
 <br/><sup>9</sup> Office 365 Business Essentials 및 Business Premium은 Office 365 서버와의 사용에 대한 액세스 권한을 제공하지 않습니다. 규정을 준수하려면 고객은 적절한 CA를 구매하거나 이전에 구매했거나 이러한 액세스 권한을 제공하는 엔터프라이즈 SKU로 업그레이드해야 합니다.
 <br/><sup>10</sup> 하이브리드 구성 마법사를 Exchange 2013 CU5 이상 배포에 사용할 수 있습니다. 그러나 일부 하이브리드 기능에는 제한이 있습니다. 도움말 항목을 참조하세요. 자세한 내용은 [21Vianet에서 운영하는 Office 365를 참조합니다.](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet&preserve-view=true)
 <br/><sup>21Vianet에서</sup> 운영하는 Office 365의 경우 LinkedIn을 사용할 수 있지만 Facebook은 사용할 수 없습니다.
@@ -506,7 +517,7 @@ Exchange Online 한도에 대한 자세한 내용은 다음 항목을 참조하�
 <sup>EOP의 4</sup> 메일 흐름 규칙(전송 규칙)은 Exchange Online Protection의 메일 흐름 규칙(전송 규칙)에 [설명되어 있습니다.](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0) 사용 가능한 메일 흐름 규칙 조건, 예외 및 작업은 EOP와 Exchange Online 간에 약간 다릅니다. 이러한 차이점은 Exchange Online의 메일 흐름 규칙 조건 및 예외(조건자)와 [Exchange Online의](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) 메일 흐름 규칙 작업에 [있습니다.](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)<br/>
 <sup>5</sup> EOP 감사 보고서는 사서함에 대한 정보가 제외된, Exchange Online 감사 보고서의 하위 집합입니다. <br/>
 <sup>5</sup> EOP 감사 보고서는 사서함에 대한 정보가 제외된, Exchange Online 감사 보고서의 하위 집합입니다.<br/>
-<sup>6</sup> 기본 콘텐츠 필터 동작은 스팸 메시지를 받는 사람의 정크 메일 폴더로 이동하는 것입니다. 이 규칙이 On-premises Exchange 사서함에서 작동하려면 EOP에서 추가한 스팸 헤더를 검색하도록 두 전송 규칙도 구성해야 합니다. 자세한 내용은 스팸이 각 사용자의 정크 메일 폴더로 라우팅되도록 [합니다.](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)<br/>
+<sup>6</sup> 기본 콘텐츠 필터 동작은 스팸 메시지를 받는 사람의 정크 메일 폴더로 이동하는 것입니다. 이렇게 하여 Exchange 사서함에서 작동하려면 EOP에서 추가한 스팸 헤더를 검색하도록 두 개의 전송 규칙도 구성해야 합니다. 자세한 내용은 스팸이 각 사용자의 정크 메일 폴더로 라우팅되도록 [합니다.](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)<br/>
 <sup>7</sup> 이 기능은 사서함이 EOP에 의해 필터링되는 Exchange Server 2013 SP1(서비스 팩 1) 고객에게 제공되며 Exchange Online 고객에게도 곧 제공될 예정입니다. <br/>
 <sup>8</sup> EOP 보고서는 사서함에 대한 정보가 제외된, Exchange Online 보고서의 하위 집합입니다. <br/>
 <sup>9</sup> DLP 보고서가 포함됩니다. <br/>
@@ -553,7 +564,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |감사|예|예|
 
 <sup>1</sup> 사용자 사서함이 Exchange 2010 SP2 이상에 있어야 합니다. <br/>
-<sup>2</sup> 원본 위치 보관함은 라이선스가 적용된 단일 사용자나 엔터티의 메일을 보관하는 경우에만 사용할 수 있습니다. 여러 사용자나 엔터티의 메일을 저장하는 목적으로 원본 위치 보관함을 사용할 수는 없습니다. 예를 들어 IT 관리자는 공유 사서함을 만들 수 없습니다. 사용자가 명백히 보관을 목적으로Cc 또는 Bcc 필드 또는 메일 흐름 규칙을 통해 공유 사서함을 복사하게 할 수 없습니다. <br/>
+<sup>2</sup> 원본 위치 보관함은 라이선스가 적용된 단일 사용자나 엔터티의 메일을 보관하는 경우에만 사용할 수 있습니다. 여러 사용자나 엔터티의 메일을 저장하는 목적으로 원본 위치 보관함을 사용할 수는 없습니다. 예를 들어 IT 관리자는 공유 사서함을 만들 수 없는 경우 사용자가 명백히 보관을 목적으로Cc 또는 Bcc 필드 또는 메일 흐름 규칙을 통해 공유 사서함을 복사하게 할 수 없습니다. <br/>
 <sup>3</sup> 지원되는 Microsoft Outlook 버전 목록은 다음의 클라이언트 기능을 [Exchange Online Archiving.](../exchange-online-archiving-service-description/client-features.md) <br/>
 <sup>4</sup> Windows Server AD RMS는 온-프레미스 서버이며, 별도로 구입하여 지원되는 IRM 기능을 사용할 수 있습니다. <br/>
 <sup>5</sup> 사서함에 대해 원본 위치 유지 또는 소송 보존을 사용할 경우 기본 사서함과 보관 사서함 모두에 적용됩니다.
@@ -569,7 +580,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |앱 카탈로그(SharePoint)|예|예|예|예|예|예|예|
 |앱 배포: 클라우드 호스트 앱|예|예|예|예|예|예|예|
-|앱 배포: SharePoint 호스팅 앱|예|예|예|예|예|예|예|
+|앱 배포: SharePoint 호스트 앱|예|예|예|예|예|예|예|
 |앱 관리 서비스|예|예|예|예|예|예|예|
 |BCS: 외부 목록에 대한 경고|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |BCS: 앱 범위 외부 콘텐츠 형식(EC)|아니요|아니요|아니요|아니요|아니요|예|아니요|
@@ -656,7 +667,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |외부 공유: 게스트 링크|예<sup>10</sup>|예<sup>10</sup>|예<sup>10</sup>|예<sup>10</sup>|예<sup>10</sup>|예<sup>10</sup>|예<sup>10</sup>|
 |폴더 동기화|예<sup>1, 10</sup>|예|예<sup>1, 10</sup>|예<sup>1, 10</sup>|예<sup>1</sup>|예|예<sup>2, 11</sup>|
 |하이브리드 감사|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|하이브리드 종류 및 콘텐츠 형식|예|예|예|예|예|예|예<sup>15</sup>|
+|하이브리드 세분화 및 콘텐츠 형식|예|예|예|예|예|예|예<sup>15</sup>|
 |IRM(정보 권한 관리)|아니요|아니요|아니요|아니요|아니요|아니요|아니요<sup>4</sup>|
 |IRM(정보 권한 관리)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Managed Metadata Service|예|아니요|예|예|예|예|예|
@@ -815,8 +826,8 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 <br/><sup>11개</sup> 키오스크 계정은 비즈니스용 OneDrive 기능을 제한합니다. 키오스크 고객은 비즈니스용 OneDrive 폴더 동기화 클라이언트 응용 프로그램을 사용하여 팀 사이트 문서 라이브러리를 공유 컴퓨터와 동기화하고, 문서에 오프라인으로 액세스할 수 있습니다. 그러나 키오스크 계정에는 비즈니스용 OneDrive 개인 사이트가 포함되지 않으므로 온라인 저장소 1TB 또는 5TB가 포함된 비즈니스용 OneDrive 개인 라이브러리를 이용할 수 없습니다.
 <br/><sup>12</sup> 모바일 브라우저에서 문서를 볼 수 있습니다. 문서를 편집하려면 Office Mobile 앱을 설치해야 합니다. Office Mobile은 현재 Windows 휴대폰 및 태블릿, Android 휴대폰 및 태블릿, iPhone 및 iPad에서 이용할 수 있습니다.
 <br/><sup>13</sup> 도움말은 중국어 간체 및 영어로만 사용할 수 있습니다.
-<br/><sup>웹용 Visio 14개(보기</sup> 기능)를 무료로 사용할 수 있습니다. 웹용 Visio에서 만들기 및 편집 기능을 사용하려면 라이선스가 필요합니다. 웹용 Visio에 대한 자세한 내용은 [Visio에서](../visio-online-service-description/visio-online-service-description.md)웹 서비스 설명을 참조하십시오.
-<br/><sup>15</sup> K1 사용자는 하이브리드 설치에서 SharePoint Server에 액세스할 수 있지만 Office 365 K1에는 서버에 액세스할 수 있는 CAL 권한이 포함되어 있지 않습니다. 이러한 권한은 별도로 구입해야 합니다.
+<br/><sup>웹용</sup> Visio 14개(보기 기능)를 무료로 사용할 수 있습니다. 웹용 Visio를 만들고 편집하려면 라이선스가 필요합니다. 웹용 Visio에 대한 자세한 내용은 [Visio에서](../visio-online-service-description/visio-online-service-description.md)웹 서비스 설명을 참조하십시오.
+<br/><sup>15</sup> K1 사용자는 하이브리드 설치에서 SharePoint Server에 액세스할 수 있지만 Office 365 K1에는 서버에 액세스할 수 있는 CAL 권한이 포함되어 있지 않습니다. 이러한 권한은 별도로 구매해야 합니다.
 
 ## <a name="skype-for-business-online-features"></a>비즈니스용 Skype Online 기능
 
@@ -923,17 +934,17 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |화상 통화 모니터|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Voicemail|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |[통화 플랜(국내](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) 통화 요금제, 추가 기능 구매 필요)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|[통화 플랜(국제](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) 통화 플랜, 추가 기능 구매 필요)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
+|[통화 플랜(국제](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) 통화 플랜, 추가 기능을 구매해야 하는 경우)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |[통신 크레딧](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |비즈니스용 Skype 음성|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**[보안 및 보관](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영하는 Office 365 Enterprise F3**|
 |IM 및 미디어 암호화|예|예|예|예|예|예|아니요|
 |IM 및 파일 필터링|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |클라이언트 버전 제어|예|예|예|예|예|예|아니요|
-|IM 콘텐츠 보관|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요|아니요|
+|IM 콘텐츠 보관|아니요<sup>2</sup>|<sup>아니요 2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요|아니요|
 |회의 콘텐츠 보관|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요|아니요|
 |응용 프로그램 공유 및 데스크톱 공유 보관|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|사용자 수준 보관 구성|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요|아니요|
+|사용자 수준 보관 구성|<sup>아니요 2</sup>|<sup>아니요 2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요|아니요|
 |로그인 추적 파일|예|예|예|예|예|예|아니요|
 |**[Exchange 및 SharePoint 상호 운용성](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영하는 Office 365 Enterprise F3**|
 |현재 상태와 현재 상태 상호 Exchange Server|예|예|예|예|예|예|아니요|
@@ -1066,7 +1077,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 다음과 같은 모바일 기능은 지원되지 않습니다.
 
 - 비즈니스용 OneDrive(Android에서만 지원)
-- 일정 & 사람 검색
+- 다른 & 일정 검색
 - 회의실 검색 & 예약
 - Places Card
 - "LinkedIn" & "보고서" 데이터 사용자 카드

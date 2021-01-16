@@ -7,169 +7,169 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: 이 문서에서는 Microsoft 365 정부에 대 한 개요를 제공 하 고 구매 옵션에 대해 설명 합니다.
-ms.openlocfilehash: c64b60a2cf22e95d7e6158240cf505abf47451d2
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+description: 이 문서에서는 Microsoft 365 Government에 대한 개요를 제공하며 구매 옵션에 대해 설명합니다.
+ms.openlocfilehash: ced4b8a7ba23b93c821b0e74a833bf18323f5a87
+ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519139"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49878671"
 ---
-# <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 정부-구매 방법
+# <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government - 구입 방법
 
-미국 공공 부문에 대 한 고유 하 고 진화 하는 요구 사항에 따라 Microsoft는 US 공용 지역 고객용으로 특정 Microsoft 365 정부 환경을 구축 했습니다. 이 서비스 설명은 환경에 대 한 개요와 구입 방법에 대 한 자세한 정보를 제공 합니다. 다른 [Microsoft 365 및 Office 365 서비스 설명과](../../office-365-service-descriptions-technet-library.md)함께이 서비스 설명을 읽는 것이 좋습니다.
+Microsoft는 미국 공공 부문의 고유하고 진화하는 요구 사항에 부응하여 미국 공공 부문 고객을 위한 특정 Microsoft 365 정부 환경을 만들었다. 이 서비스 설명에서는 환경에 대한 개요와 구입 방법에 대한 자세한 정보를 제공합니다. 다른 [Microsoft 365 및 Office 365](../../office-365-service-descriptions-technet-library.md)서비스 설명과 함께 이 서비스 설명을 읽어보는 것이 좋습니다.
   
-## <a name="whats-microsoft-365-government"></a>Microsoft 365 정부는 무엇 인가요?
+## <a name="whats-microsoft-365-government"></a>Microsoft 365 Government란?
 
-Microsoft 365 정부는 통제 되 고 분류 되지 않은 정보를 보유 하도록 보증 되는 미국 정부 기관 및 계약자에 맞게 조정 된 생산성, 보안 및 모바일 클라우드 소프트웨어 기능 집합입니다. 규정 준수 요구 사항을 가장 엄격 하 게 충족 하는 고유한 환경을 통해 제공 되는 Microsoft 365 정부는 Microsoft 상업용 클라우드 enterprise 제품의 기능 및 기능에 대해 최대한 유사 하 게 일치 하는 미국 정부 고객을 위한 클라우드 제공입니다.
+Microsoft 365 Government는 제어되고 미분류 정보를 보유하기 위해 후원하는 미국 정부 기관 및 계약자에 맞게 조정된 생산성, 보안 및 이동성 클라우드 소프트웨어 기능 집합입니다. 가장 엄격한 규정 준수 요구 사항을 충족하는 고유한 환경을 통해 전달되는 Microsoft 365 Government는 Microsoft 상용 클라우드 엔터프라이즈 제품 기능과 최대한 일치하는 미국 정부 고객을 위한 클라우드 제품입니다.
   
-## <a name="whats-the-value-of-microsoft-365-government"></a>Microsoft 365 정부의 가치는 무엇 인가요?
+## <a name="whats-the-value-of-microsoft-365-government"></a>Microsoft 365 Government의 가치
 
-Microsoft 365 정부 자들은 정부 팀장과 직원의 생산성을 높이는 데 도움을 주며, 기관에서는 규정 준수 요구 사항을 효과적으로 관리할 수 있도록 지원 합니다. 다음 표에서는 주요 정부 역할에 대 한 예를 제공 합니다.<br><br>
+Microsoft 365 Government는 정부 기관이 규정 데이터 준수 요구 사항을 효과적으로 관리하도록 하여 모바일 생산성과 규정 준수로 안전하게 공동 작업을 지원함으로써 언제 어디서나 미국 정부 리더와 근로자가 생산성을 높이는 데 도움을 줍니다. 다음 표에서는 주요 정부 역할의 예를 제공합니다.<br><br>
  
-| 정부 리더는 다음을 수행할 수 있습니다. | 정부 직원은 다음을 수행할 수 있습니다. | 현장 담당자는 다음을 수행할 수 있습니다. |
+| 정부 리더는 다음을 할 수 있습니다. | 정부 직원은 다음을 할 수 있습니다. | 현장 직원은 다음을 할 수 있습니다. |
 |:-----|:-----|:-----|:-----|:-----|
-|향상 된 통신 및 투명성을 통한 공용 신뢰 강화  <br/> |보다 나은 공동 작업을 통한 시민 서비스 개선 <br/> | 사용자가 필요로 하는 정보에 대 한 모바일 액세스를 통한 서비스 품질 향상  |
-|정책 및 예산 결정에 도움이 될 수 있는 통찰력에 대 한 액세스 개선  <br/> |에이전시 간 통신을 향상 시킵니다.  <br/> |공동 작업 및 지식 공유를 사용 하 여 신속 하 게 문제 식별 및 해결  <br/> |
-|사무실 이나 여행 중에도 계속 해 서 직원 및 시민과 연결 된 상태를 유지 하세요.  <br/> |직원 보유 율을 개선 하기 위해 민사 servants를 통한 보다 깊이 있는 계약 만들기  <br/> | 에이전시 위치를 지 나 커뮤니티를 보다 강력 하 게 구축  <br/> |
-|비용 절감 및 민첩성 향상에 도움이 되는 미국 정부 준수 솔루션 확인  <br/> |||
+|향상된 통신 및 투명성을 통해 공개 신뢰 강화  <br/> |보다 나은 공동 작업을 통해 시민 서비스 개선 <br/> | 필요한 경우 정보 필드 담당자에 대한 모바일 액세스를 통해 서비스 품질 향상  |
+|셰이프 정책 및 예산 결정에 도움이 될 수 있는 인사이트에 대한 액세스 개선  <br/> |기관 간 통신을 향상합니다.  <br/> |공동 작업 및 지식 공유를 사용하여 문제를 신속하게 식별하고 해결  <br/> |
+|사무실 또는 도로에서 직원 및 시민과의 정보 및 연결 유지  <br/> |직원 보존률을 높이기 위해 민사 직원과의 더 깊은 참여를 유도합니다.  <br/> | 기관 위치 전반에 걸쳐 커뮤니티를 더 강력하게 구축  <br/> |
+|비용을 절감하고 민첩성을 향상시키는 데 도움이 되는 미국 정부 규정 솔루션 확인  <br/> |||
 
-## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>Microsoft 365에서 엔터프라이즈 제품에 대해 microsoft 365을 사용 하는 경우는 어떻게 하나요?
+## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>Microsoft 365 Government를 엔터프라이즈용 Microsoft 365와 어떻게 다른가요?
 
-Microsoft 365 정부은 다음과 같은 네 가지 주요 영역에서 미국 정부 기관의 준수 요구 사항을 해결 하도록 고유 하 게 설계 되었습니다.
+Microsoft 365 Government는 다음 네 가지 주요 영역에서 미국 정부 기관의 규정 준수 요구 사항을 충족하도록 고유하게 디자인되었습니다.
 
-**배타적 커뮤니티입니다.** 정부 데이터 센터는 정부 기관 또는 부서 에서만 사용할 수 있으며, 미국 정부를 대신 하 여 정보를 보유 및 처리할 수 있는 상업적 회사에만 제공 됩니다.
+**단독 커뮤니티.** 정부 데이터 센터는 정부 기관 또는 부서 또는 미국 정부를 대신하여 정보를 보유하고 처리 제어하는 권한을 부여한 상업 회사에서만 사용할 수 있습니다.
 
-**스크린 된 직원** 조직의 고객 콘텐츠에 대 한 액세스는 사용자가 미국 내에 있는 선별 된 Microsoft 직원으로 제한 되며 배경 검사를 통과 해야 합니다.
-타사 감사 모든 인프라는 인증을 실행 하기 위해 연방 기관에서 사용 하는 증명 문자 또는 보안 평가 보고서를 제공 하는 공인 타사 감사자에 의해 감사 됩니다 (ATO). 
+**선고된 직원.** 조직의 고객 콘텐츠에 대한 액세스는 미국 시민권자이자 필수 배경 검사를 통과한 선고된 Microsoft 직원으로 제한됩니다.
+타사 감사. 모든 인프라는 연방 기관이 ATO(작동 권한 부여)를 발급하는 데 사용하는 보안 평가 보고서 또는 증명 서신을 제공하는 인증된 제3자 감사자에 의해 감사됩니다. 
 
-**콘텐츠 저장소** 데이터는 준수 하는 인프라와 함께 대륙 미국 내에 저장 됩니다. 다음 표에는 정부 환경 및 약정에 대 한 Microsoft 365이 요약 되어 있습니다.<br><br>
+**콘텐츠 저장소.** 데이터는 규격 인프라를 사용하여 미국 본토 내에 저장됩니다. 다음 표에는 정부용 Microsoft 365 환경 및 약정이 요약되었습니다.<br><br>
 
-| 사항 | 약정 |
+| 제품 | 약정 |
 |:----------|:----------------------------------|
-|Microsoft 365 정부 GCC  <br/> |FedRamp High, CJIS, IRS 1075, DISA SRG L2 <br/> |
-|Microsoft 365 정부 GCC High  <br/> |FedRamp High, ITAR, DFARS, DISA SRG L4 컨트롤 <br/> |
-|Microsoft 365 정부 DoD  <br/> |DISA SRG L5  <br/> |
+|Microsoft 365 Government GCC  <br/> |FedRamp High, CJIS, IRS 1075, DISA SRG L2 <br/> |
+|Microsoft 365 Government GCC High  <br/> |FedRamp High, ITAR, DFARS, DISA SRG L4 컨트롤 <br/> |
+|Microsoft 365 Government DoD  <br/> |DISA SRG L5  <br/> |
 
-Microsoft 보안 및 준수 인정에 대 한 자세한 내용은 Microsoft security [Center](https://www.microsoft.com/trustcenter/default.aspx) 를 참조 하세요.  
+Microsoft 보안 및 규정 준수 인증에 대한 자세한 내용은 [Microsoft 보안 센터를 방문하세요. ](https://www.microsoft.com/trustcenter/default.aspx)  
 
-## <a name="microsoft-365-government-eligibility-and-validation"></a>Microsoft 365 정부 자격 및 유효성 검사
+## <a name="microsoft-365-government-eligibility-and-validation"></a>Microsoft 365 Government 자격 및 유효성 검사
 
-Microsoft 365 정부는 통제 된 정보를 보유 하거나 처리 해야 하는 적격 정부 고객 및 비 정부 조직에서 사용할 수 있습니다. 이러한 두 고객 범주에 대 한 자격 기준은 Microsoft 정부 클라우드 전체에서 동일 합니다.
+Microsoft 365 Government는 적격 정부 고객 및 제어된 정보를 보유하거나 처리하기 위해 후원하는 비정부 조직이 사용할 수 있습니다. 이러한 두 범주의 고객에 대한 자격 기준은 Microsoft 정부 클라우드에서 일관됩니다.
 
-Microsoft 정부 클라우드에 적합 한 모든 고객은 GCC 및 GCC High 제품을 사용할 수 있으며, DoD 환경은 미국 방어 부서의 독점 사용을 위한 것입니다. 서비스 가용성과 가격이 서로 다르며 GCC는 FedRAMP High 또는 DoD가 통제 된 정보 (소송)를 유지 하지 않는 모든 고객에 대 한 영웅 제공은 그대로 유지 됩니다.
+GCC 및 GCC High 제품은 Microsoft 정부 클라우드를 사용할 수 있는 모든 고객이 사용할 수 있으며, DoD 환경은 미국 국방부에서 독점적으로 사용할 수 있습니다. 서비스 가용성과 가격은 다르며, GCC는 FedRAMP High 또는 DoD CUI(제어 미분류 정보)를 보유하지 않는 모든 고객에게 영웅 제품으로 남아 있습니다.
 
-적격 정부 고객은 다음 중 하나로 정의 됩니다.
+적격 정부 고객은 다음 중 하나에 의해 정의됩니다.
 
-- 미국 정부 기관, 사무실, 에이전시, 부서 또는 기타 법인으로 정의 된 연방 에이전시
-- 다음 중 하나로 정의 된 상태/로컬 엔터티입니다.
-    - 미국의 주 또는 지방 정부 기관
-    - 모든 미국 관할지, borough, 관할지, 구/군/시, municipality, 마을, township, 특별 목적의 학구 또는 고객의 상태 법규에 의해 설정 되 고 고객의 관할지 및 지리적 경계 내에 있는 기타 유사한 정부 기관 instrumentality
-    - 콜롬비아의 학구, 푸에르토리코 연방, 괌, 미국령 사모아, 미국령 버진 아일랜드 및 북마리아나 군도
-- Federally을 인도 tribe로 인정 하거나, 알래스카에서 기본 마을 또는 알래스카 지역 기본 회사의 내부를 부족으로 하 여 자금 및 서비스를 받을 자격이 있는 부족로 정의 된 엔터티
+- 미국 정부의 국, 사무실, 기관, 부서 또는 기타 엔터티로 정의된 연방 기관
+- 다음 중 하나에 정의된 상태/로컬 엔터티입니다.
+    - 미국에 있는 주 또는 지방 정부의 모든 기관
+    - 고객의 주 관할권 및 지리적 경계 내에 있는 모든 미국의 시,자치구, 상주, 구정, 구정, 의정부, 특별 목적의 교육구 또는 기타 유사한 유형의 정부 계측이 고객의 주권 및 지리적 경계 내에 있습니다.
+    - 콜롬비아 교육구, 푸에르토리코, 괌, 미국령 사모아, 미국령 버진 아일랜드 및 북마리아나 제도
+- 미국 내무부의 자금 조달 및 서비스를 받을 자격이 있는 연방에서 인식된 부족 엔터티로 정의되는 부족 엔터티는 인도 부족 또는 알래스카 주민이나 알래스카 지역 원주민 기업의 지위를 통해 미국 내무부로부터 자금을 조달할 수 있는 자격이 있습니다.
 
-다음과 같은 유형의 데이터를 보유 하 고 Microsoft 정부 클라우드 유효성 검사 프로세스에 대해 나열 된 증명을 제공할 수 있는 비 정부 조직:
+다음과 같은 유형의 데이터를 보유하고 나열된 증명을 제공할 수 있는 정부 기관이 아닌 조직은 Microsoft 정부 클라우드 유효성 검사 프로세스에 대한 자격을 제공합니다.
 
-규정이 적용 되는 데이터가 포함 된 상업용 개인 엔터티입니다. 수락 된 정부 데이터 형식은 다음과 같습니다.
-- ITAR의 국제 트래픽
-- 제어 되는 미분류 정보 (의)
-- (DoD) 분류 되지 않은 핵 정보 (c)
-- 메일 부서 (홍길동)
-- 형사법 CJI (정보)
-- 방어 영향 수준 데이터의 부서
-- Microsoft 365 정부를 요구 하는 기타 데이터 형식
+규정이 적용된 데이터가 있는 상업적 개인 엔터티입니다. 허용되는 정부 데이터 형식은 다음과 같습니다.
+- ITAR(International Traffic in Arms)
+- CUI(제어된 미분야 정보)
+- DoD(국방부) UCNI(Unclassified Controlled Defense Information)
+- DoE(에너지부) UCNI
+- CJI(범죄 행위 정보)
+- 국방부 영향 수준 데이터
+- Microsoft 365 Government가 필요한 기타 데이터 형식
 
-조직에서 미국 자회사를 통해 서비스를 구입 해야 할 수 있지만 국제 상업적 엔터티가 우량으로 선별할 수도 있습니다.
+국제 상업 엔터티는 자격이 있을 수 있습니다. 그러나 규제 대상 데이터는 미국 자회사를 통해 서비스를 구입해야 할 수 있습니다.
 
-위에 나열 된 그룹 중 하나의 멤버 자격 증명은 Microsoft 365 정부 제품에 액세스 하는 데 필요 합니다.
+Microsoft 365 정부 제품 액세스에는 위에 나열된 그룹 중 하나의 구성원 자격 증명이 필요합니다.
 
-## <a name="what-services-and-features-are-available-in-the-microsoft-365-government-cloud-environments"></a>Microsoft 365 정부 클라우드 환경에서 사용할 수 있는 서비스와 기능은 무엇 인가요?
+## <a name="what-services-and-features-are-available-in-the-microsoft-365-government-cloud-environments"></a>Microsoft 365 Government 클라우드 환경에서 사용할 수 있는 서비스 및 기능은 무엇입니까?
 
-Microsoft 365 정부에서 사용할 수 있는 서비스에 대 한 자세한 내용은 다음 리소스를 참조 하십시오.
+Microsoft 365 Government에서 사용할 수 있는 서비스에 대한 자세한 내용은 다음 리소스를 참조합니다.
 
-- [Office 365 정부 서비스 설명](office-365-us-government.md)
-- [Enterprise Mobility + US 정부 서비스 설명에 대 한 보안](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft Defender for US 정부 GCC 고성능 고객](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [정부 및 GCC 용 팀](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
-- [정부 팀-GCC 고가용성 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [정부 팀-DoD 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
-- [정부 커뮤니티 클라우드의 iOS 및 Android 용 Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
-- [Microsoft PowerApps US 정부](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Power 자동화 US 정부](https://docs.microsoft.com/flow/us-govt)
-- [Microsoft 365 정부 제품 페이지](https://www.microsoft.com/microsoft-365/government)
+- [Office 365 Government 서비스 설명](office-365-us-government.md)
+- [Enterprise Mobility + Security for US Government 서비스 설명](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [미국 정부 고객을 위한 끝점용 Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [정부용 Teams - GCC 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
+- [정부용 Teams - GCC High 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
+- [정부용 Teams - DoD 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
+- [정부 커뮤니티 클라우드의 iOS 및 Android용 Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps US Government](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
+- [Microsoft Power Automate US Government](https://docs.microsoft.com/flow/us-govt)
+- [Microsoft 365 Government 제품 페이지](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft 365 로드맵](https://www.microsoft.com/microsoft-365/roadmap)
 
-## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>Microsoft 365 정부에 사용할 수 있는 영업 채널은 무엇입니까?
+## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>Microsoft 365 Government에 사용할 수 있는 판매 채널은 무엇입니까?
 
-다음 표에서는 각 세그먼트의 요구 사항을 수용할 수 있는 옵션을 보여 줍니다.<br><br> 
+다음 표에는 각 세그먼트의 요구를 수용할 수 있는 옵션이 표시되어 있습니다.<br><br> 
 
 | 항목 | GCC | GCC 높음 | DoD |
 |:-----|:-----|:-----|:-----|
-|**SKU** |않는 .gov 정부에 대 한 GOVCON 상업용 |GCC-High |DOD | 
-|**채널** |EA (LSP), AOS-G, MPSA, Web Direct, CSP |EA (LSP), AOS-G |INFORMATION |
+|**SKU** |정부용 Gov, 상업용 GOVCON |GCC-High |DOD | 
+|**채널** |EA(LSP), AOS-G, MPSA, 웹 다이렉트, CSP |EA(LSP), AOS-G |EA |
 
-## <a name="how-do-i-buy-microsoft-365-government"></a>Microsoft 365 정부를 구매 하려면 어떻게 해야 하나요?
+## <a name="how-do-i-buy-microsoft-365-government"></a>Microsoft 365 Government를 구입하는 방법
 
-Microsoft 365 정부 라이선스를 구매 하려면 다음 단계를 수행 합니다.
+다음 단계에 따라 Microsoft 365 Government 라이선스를 구입합니다.
 
-1. [양식을 완성 하 고 제출](https://products.office.com/government/eligibility-validation) 하 여 조직의 자격을 확인 합니다.
-2. 주문 하려면 Microsoft 계정 팀 이나 적격 파트너와 협력 합니다.
-고객은 선택 파트너를 통해서만 Microsoft 365 for US 정부 라이선스를 구입할 수 있습니다.
+1. [양식을 완성하고](https://products.office.com/government/eligibility-validation) 제출하여 조직의 자격이 유효한지 검사합니다.
+2. Microsoft 계정 팀 또는 적격 파트너와 협력하여 주문합니다.
+고객은 선택 파트너를 통해서만 미국 정부용 Microsoft 365 라이선스를 구입할 수 있습니다.
 
-**Lsp GCC 및 GCC High (+ 500 좌석)**
+**LSP GCC 및 GCC High(시트 500개 이상)**
 
 - CDW
-- 연결 (이전의 PC 연결)
+- 연결(이전의 PC 연결)
 - Dell
-- Hewlett-packard Packard
-- 눈
+- Hewlett Packard
+- 인사이트
 - Minburn 기술 그룹
-- PCM (En Pointe 기술도 소유)
+- PCM(En Pointe 기술도 소유)
 - SHI
-- \One
-- 소프트 선택
-- 영역 국제
+- SoftwareOne
+- Softchoice
+- Zones International
 
-**AOS-G 파트너 GCC 및 GCC High (500 개 미만)**
+**AOS-G 파트너 GCC 및 GCC High(500명 미만)**
 
 - Agile IT
-- AIS (적용 된 정보 Sciences)
+- AIS(적용된 정보 과학)
 - C3 통합 솔루션
 - Carahsoft
-- Dox 전자 제품, i c.
-- F1 Solutions, i n c.
-- 4 포인트
-- KTL 솔루션, i n c.
+- Dox Electronics, Inc.
+- F1 Solutions, Inc.
+- 4포인트
+- KTL 솔루션, Inc.
 - LiftOff, LLC
 - 행성 기술
-- 조용한 전문가
-- Summit 7 시스템
+- Quiet Professionals
+- 7 시스템 수리
 
-**참고:** 앞의 목록에 있는 모든 Microsoft 라이선싱 솔루션 공급자 (Lsp)는 GCC 및 GCC 고가용성을 통해 EA (기업 계약)를 만들 수 있습니다. EA에 적합 하지 않은 조직은 나열 된 AOS-G 파트너 또는 CSP 파트너 프로그램을 통해 GCC 라이선스를 구입할 수 있습니다.
+**참고:** 위의 목록에 있는 모든 Microsoft 라이선스 솔루션 공급자(LSP)는 GCC와 GCC High와 EA(기업계약)를 거래하여 CPS(고객 가격표)를 만들 수 있습니다. EA 자격이 없는 조직은 나열된 AOS-G 파트너 또는 CSP 파트너 프로그램을 통해 GCC 라이선스를 구입할 수 있습니다.
 
-**CSP 파트너와 함께 작업 하는 경우에는 연락 하거나 [csp를 찾습니다](https://www.microsoft.com/solution-providers/home).**
+**CSP 파트너와 협력하는 경우 해당 파트너에게 문의하거나 [CSP를 찾으면 됩니다.](https://www.microsoft.com/solution-providers/home)**
 
 ## <a name="what-trials-are-available"></a>어떤 평가판을 사용할 수 있나요?
 
-- [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) 고객은 EMS 페이지의 오른쪽 위 부분에 있는 지금 시도 단추를 선택 하 여 Office commerce portal의 제어 된 등록 프로세스를 통해 Azure Active Directory (AAD) 포털로 라우팅할 수 있습니다.
-- [Office 365](https://aka.ms/gcctrial) 무료 1 개월 평가판은 미국 정부 조직 에서만 사용할 수 있습니다. 이는 GCC 전용 이며 정부 계약자를 제외 하는 데 사용할 수 있습니다.  
-- Microsoft는 상업용 고객에 게 Office 365 GCC 평가판을 제공 하지 않으며, GCC High 또는 DoD의 평가판이 없습니다.
+- [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) 고객은 EMS 페이지의 오른쪽 위에 있는 지금 시도 단추를 선택하여 Office 상거래 포털에서 게이트된 등록 프로세스를 거치면 AAD(Azure Active Directory) 포털로 라우팅할 수 있습니다.
+- [Office 365.](https://aka.ms/gcctrial) 1개월 무료 평가판은 미국 정부 조직에서만 사용할 수 있습니다. 이는 GCC 전용으로, 정부 계약업체를 제외합니다.  
+- Microsoft는 상업용 고객에게 Office 365 GCC 평가판을 제공하지 않습니다. GCC High 또는 DoD 평가판은 없습니다.
 
 ## <a name="where-can-i-learn-more"></a>추가 정보 위치
 
-Microsoft 365 정부에 대 한 자세한 내용을 알아보려면 다음 리소스를 참조 하세요.
+Microsoft 365 Government에 대한 자세한 내용은 다음 리소스를 참조합니다.
 
-- [Office 365 정부 서비스 설명](office-365-us-government.md)
-- [Enterprise Mobility + US 정부 서비스 설명에 대 한 보안](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft Defender for US 정부 GCC 고성능 고객](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [정부 및 GCC 용 팀](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
-- [정부 팀-GCC 고가용성 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [정부 팀-DoD 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
-- [정부 커뮤니티 클라우드의 iOS 및 Android 용 Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
-- [Microsoft PowerApps US 정부](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Power 자동화 US 정부](https://docs.microsoft.com/flow/us-govt)
+- [Office 365 Government 서비스 설명](office-365-us-government.md)
+- [Enterprise Mobility + Security for US Government 서비스 설명](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [미국 정부 고객을 위한 끝점용 Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [정부용 Teams - GCC 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
+- [정부용 Teams - GCC High 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
+- [정부용 Teams - DoD 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
+- [정부 커뮤니티 클라우드의 iOS 및 Android용 Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps US Government](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
+- [Microsoft Power Automate US Government](https://docs.microsoft.com/flow/us-govt)
 - [Microsoft 365 로드맵](https://www.microsoft.com/microsoft-365/roadmap)
-- [Microsoft 365 정부 제품 페이지](https://www.microsoft.com/microsoft-365/government)
-- [Microsoft 정부 업계 페이지](https://www.microsoft.com/enterprise/government)
-- [Microsoft IT 기술 커뮤니티-공용 섹터](https://techcommunity.microsoft.com/t5/Public-Sector/ct-p/PublicSector)
-- [Azure 정부](https://azure.microsoft.com/global-infrastructure/government/)
+- [Microsoft 365 Government 제품 페이지](https://www.microsoft.com/microsoft-365/government)
+- [Microsoft 정부 산업 페이지](https://www.microsoft.com/enterprise/government)
+- [Microsoft IT 기술 커뮤니티 - 공공 부문](https://techcommunity.microsoft.com/t5/Public-Sector/ct-p/PublicSector)
+- [Azure Government](https://azure.microsoft.com/global-infrastructure/government/)
