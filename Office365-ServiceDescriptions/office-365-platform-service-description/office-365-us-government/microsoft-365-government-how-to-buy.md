@@ -8,16 +8,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 Microsoft 365 Government에 대한 개요를 제공하며 구매 옵션에 대해 설명합니다.
-ms.openlocfilehash: ced4b8a7ba23b93c821b0e74a833bf18323f5a87
-ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
+ms.openlocfilehash: 89612ef6ddf762060f418edb5d004baa9c49353a
+ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878671"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "49919761"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government - 구입 방법
 
-Microsoft는 미국 공공 부문의 고유하고 진화하는 요구 사항에 부응하여 미국 공공 부문 고객을 위한 특정 Microsoft 365 정부 환경을 만들었다. 이 서비스 설명에서는 환경에 대한 개요와 구입 방법에 대한 자세한 정보를 제공합니다. 다른 [Microsoft 365 및 Office 365](../../office-365-service-descriptions-technet-library.md)서비스 설명과 함께 이 서비스 설명을 읽어보는 것이 좋습니다.
+Microsoft는 미국 공공 부문의 고유하고 진화하는 요구 사항에 부응하여 미국 공공 부문 고객을 위해 특정 Microsoft 365 Government 환경을 만들었다. 이 서비스 설명에서는 환경에 대한 개요와 구입 방법에 대한 자세한 정보를 제공합니다. 다른 [Microsoft 365 및 Office 365](../../office-365-service-descriptions-technet-library.md)서비스 설명과 함께 이 서비스 설명을 읽어보는 것이 좋습니다.
   
 ## <a name="whats-microsoft-365-government"></a>Microsoft 365 Government란?
 
@@ -29,9 +29,9 @@ Microsoft 365 Government는 정부 기관이 규정 데이터 준수 요구 사�
  
 | 정부 리더는 다음을 할 수 있습니다. | 정부 직원은 다음을 할 수 있습니다. | 현장 직원은 다음을 할 수 있습니다. |
 |:-----|:-----|:-----|:-----|:-----|
-|향상된 통신 및 투명성을 통해 공개 신뢰 강화  <br/> |보다 나은 공동 작업을 통해 시민 서비스 개선 <br/> | 필요한 경우 정보 필드 담당자에 대한 모바일 액세스를 통해 서비스 품질 향상  |
+|향상된 통신 및 투명성을 통해 공개 신뢰 강화  <br/> |보다 나은 공동 작업을 통해 시민 서비스 개선 <br/> | 필요할 때 정보 필드 담당자가 필요로 하는 정보에 대한 모바일 액세스를 통해 서비스 품질을 개선합니다.  |
 |셰이프 정책 및 예산 결정에 도움이 될 수 있는 인사이트에 대한 액세스 개선  <br/> |기관 간 통신을 향상합니다.  <br/> |공동 작업 및 지식 공유를 사용하여 문제를 신속하게 식별하고 해결  <br/> |
-|사무실 또는 도로에서 직원 및 시민과의 정보 및 연결 유지  <br/> |직원 보존률을 높이기 위해 민사 직원과의 더 깊은 참여를 유도합니다.  <br/> | 기관 위치 전반에 걸쳐 커뮤니티를 더 강력하게 구축  <br/> |
+|사무실이나 도로에서 직원 및 시민과 정보를 계속하고 연결합니다.  <br/> |직원 보존률을 높이기 위해 민사 직원과의 더 깊은 참여를 유도합니다.  <br/> | 기관 위치 전반에 걸쳐 커뮤니티를 더 강력하게 구축  <br/> |
 |비용을 절감하고 민첩성을 향상시키는 데 도움이 되는 미국 정부 규정 솔루션 확인  <br/> |||
 
 ## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>Microsoft 365 Government를 엔터프라이즈용 Microsoft 365와 어떻게 다른가요?
@@ -64,7 +64,7 @@ GCC 및 GCC High 제품은 Microsoft 정부 클라우드를 사용할 수 있는
 - 미국 정부의 국, 사무실, 기관, 부서 또는 기타 엔터티로 정의된 연방 기관
 - 다음 중 하나에 정의된 상태/로컬 엔터티입니다.
     - 미국에 있는 주 또는 지방 정부의 모든 기관
-    - 고객의 주 관할권 및 지리적 경계 내에 있는 모든 미국의 시,자치구, 상주, 구정, 구정, 의정부, 특별 목적의 교육구 또는 기타 유사한 유형의 정부 계측이 고객의 주권 및 지리적 경계 내에 있습니다.
+    - 고객의 시정권 및 지리적 경계 내에 있으며 고객의 주 법률에 따라 설정되는 기타 유사한 유형의 정부 계측이 있는 미국의 구정, 자치구, 상주, 구정, 시, 시,도, 의정구 또는 기타 유사한 유형의 정부 계측
     - 콜롬비아 교육구, 푸에르토리코, 괌, 미국령 사모아, 미국령 버진 아일랜드 및 북마리아나 제도
 - 미국 내무부의 자금 조달 및 서비스를 받을 자격이 있는 연방에서 인식된 부족 엔터티로 정의되는 부족 엔터티는 인도 부족 또는 알래스카 주민이나 알래스카 지역 원주민 기업의 지위를 통해 미국 내무부로부터 자금을 조달할 수 있는 자격이 있습니다.
 
@@ -110,7 +110,7 @@ Microsoft 365 Government에서 사용할 수 있는 서비스에 대한 자세�
 
 ## <a name="how-do-i-buy-microsoft-365-government"></a>Microsoft 365 Government를 구입하는 방법
 
-다음 단계에 따라 Microsoft 365 Government 라이선스를 구입합니다.
+다음 단계에 따라 Microsoft 365 Government 라이선스를 구매합니다.
 
 1. [양식을 완성하고](https://products.office.com/government/eligibility-validation) 제출하여 조직의 자격이 유효한지 검사합니다.
 2. Microsoft 계정 팀 또는 적격 파트너와 협력하여 주문합니다.
@@ -132,22 +132,36 @@ Microsoft 365 Government에서 사용할 수 있는 서비스에 대한 자세�
 
 **AOS-G 파트너 GCC 및 GCC High(500명 미만)**
 
-- Agile IT
-- AIS(적용된 정보 과학)
+- Accenture Federal Services, LLC
+- Agile IT, Inc.
+- Applied Information Sciences, Inc.
 - C3 통합 솔루션
+- CACI
 - Carahsoft
-- Dox Electronics, Inc.
-- F1 Solutions, Inc.
-- 4포인트
+- CGI Federal Inc.
+- Dox Electronics Inc.
+- F1 Solutions Inc.
+- Four Points Technology, LLC
+- General Dynamics Information Technology, Inc.
+- Imager Software, Inc. d.b.a ISC
+- 잭파인
+- Jasper
 - KTL 솔루션, Inc.
 - LiftOff, LLC
-- 행성 기술
-- Quiet Professionals
-- 7 시스템 수리
+- Northrop
+- Novetta
+- 행성 기술, Inc.
+- Quiet Professionals, LLC
+- Red River
+- SAIC
+- Smartronix
+- 7 서비스 이용
+- TechTrend, Inc.
+- Vexcel
 
 **참고:** 위의 목록에 있는 모든 Microsoft 라이선스 솔루션 공급자(LSP)는 GCC와 GCC High와 EA(기업계약)를 거래하여 CPS(고객 가격표)를 만들 수 있습니다. EA 자격이 없는 조직은 나열된 AOS-G 파트너 또는 CSP 파트너 프로그램을 통해 GCC 라이선스를 구입할 수 있습니다.
 
-**CSP 파트너와 협력하는 경우 해당 파트너에게 문의하거나 [CSP를 찾으면 됩니다.](https://www.microsoft.com/solution-providers/home)**
+**CSP 파트너와 협력하는 경우 해당 파트너에게 문의하거나 [CSP를 찾아야 합니다.](https://www.microsoft.com/solution-providers/home)**
 
 ## <a name="what-trials-are-available"></a>어떤 평가판을 사용할 수 있나요?
 

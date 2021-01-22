@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 미국 정부 클라우드 고객을 위한 SharePoint 기능 가용성에 대해 자세히 알아보습니다.
-ms.openlocfilehash: c8297aaf0b33e55dab1d3babe307736de57e2066
-ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
+ms.openlocfilehash: b0f36ea92b856a3fa9c1bf4ddd4cb4265655d1ae
+ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49624519"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "49919751"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>미국 정부 환경용 SharePoint
 
@@ -26,12 +26,12 @@ ms.locfileid: "49624519"
 
 Office 365의 기능과 기능을 즐길 뿐만 아니라 조직은 미국 정부 클라우드 환경에 고유한 다음과 같은 기능을 활용합니다.
 
--   조직의 고객 콘텐츠는 Microsoft의 상용 Office 365 서비스의 고객 콘텐츠와 논리적으로 나아지게 됩니다.
+-   조직의 고객 콘텐츠는 Microsoft에서 상용 Office 365 서비스의 고객 콘텐츠와 논리적으로 나아지게 됩니다.
 -   조직의 고객 콘텐츠는 미국에 보관됩니다.
 -   조직 고객 콘텐츠에 대한 액세스는 선별된 Microsoft 직원으로 제한됩니다.
 -   정부 클라우드 환경은 미국 공공 부문 고객에게 필요한 인증 및 인증을 준수합니다.
 
-모든 SharePoint 상용 기능을 정부 클라우드 환경에 제공하는 것이 목표입니다. 정부 클라우드 고객의 요구 사항 때문에 일부 기능을 사용할 수 없습니다. 다른 기능은 정부 환경에 제공되지만 아직 사용할 수 없습니다. 다음 섹션을 참조하여 정부 클라우드 환경의 기능 가용성에 대해 자세히 알아보십시오.
+모든 SharePoint 상용 기능을 정부 클라우드 환경에 제공하는 것이 목표입니다. 일부 기능은 정부 클라우드 고객의 요구 사항 때문에 사용할 수 없습니다. 다른 기능은 정부 환경에 제공되지만 아직 사용할 수 없습니다. 다음 섹션에서 정부 클라우드 환경의 기능 가용성에 대해 자세히 알아보십시오.
 
 ## <a name="developer-features"></a>개발자 기능
 
@@ -58,9 +58,9 @@ FastTrack 마이그레이션에 대한 자세한 내용은 [Office 365 GOVERNMEN
 
 상업용 고객 및 정부 클라우드 고객용 보안 및 규정 준수 기능 간에는 알려진 차이점이 없습니다.
 
-보안 및 규정 준수 기능에 대한 자세한 내용은 Security [& 규정 준수 센터를 참조하세요.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)
+보안 및 규정 준수 기능에 대한 자세한 내용은 보안 및 준수 [& 참조하세요.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)
 
-정부용 Azure Active Directory 기능에 대한 자세한 내용은 Azure Government 보안 + ID [설명서를 참조하세요.](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory) 
+정부용 Azure Active Directory 기능에 대한 자세한 내용은 Azure Government 보안 + ID 설명서를 [참조하세요.](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory) 
 
 정부용 Azure Information Protection 기능에 대한 자세한 내용은 Azure Information Protection Premium 정부 서비스 [설명을 참조하세요.](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description) 
 
@@ -71,6 +71,7 @@ FastTrack 마이그레이션에 대한 자세한 내용은 [Office 365 GOVERNMEN
 - Amazon Kindle, Bing 지도, Twitter 및 YouTube 웹 파트와 같은 인터넷 서비스에 대한 연결을 사용 하는 웹 파트가 예상대로 작동하지 않습니다.
 - 조직 자산 라이브러리를 사용할 수 없습니다.
 - GCC High 및 DoD 고객은 Teams에 목록 및 페이지를 추가할 수 없습니다.
+- GCC High용 SharePoint Online의 그래프 기능은 현재 사용하지 않도록 설정되어 있습니다. Microsoft Graph에 의존하는 모든 서비스를 현재 사용할 수 없는 경우
 
 ## <a name="search-features"></a>검색 기능
 
@@ -84,7 +85,7 @@ FastTrack 마이그레이션에 대한 자세한 내용은 [Office 365 GOVERNMEN
 
 ## <a name="plan-for-governance"></a>거버넌스 계획
 
-클라우드로의 전환은 기본 제공 관리자 컨트롤을 통해 혁신적 환경을 제공합니다. 거버넌스에 대한 요구 사항과 충족 방법을 확인합니다. 자세한 내용은 [거버넌스 계획으로 이동하여 Microsoft 365로](https://resources.techcommunity.microsoft.com/teamwork-governance/) 팀워크를 변환합니다. Office 365 그룹, SharePoint, Teams 등에 대한 지침을 찾을 수 있습니다.
+클라우드로의 전환은 기본 제공 관리자 컨트롤을 사용하여 혁신적 환경을 제공합니다. 거버넌스에 대한 요구 사항과 충족 방법을 확인합니다. 자세한 내용은 [거버넌스 계획으로 이동하여 Microsoft 365로](https://resources.techcommunity.microsoft.com/teamwork-governance/) 팀워크를 변환합니다. Office 365 그룹, SharePoint, Teams 등에 대한 지침을 찾을 수 있습니다.
 
 ## <a name="deploy-sharepoint-for-collaboration"></a>공동 작업을 위해 SharePoint 배포
 
