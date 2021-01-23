@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 Microsoft 365 Government에 대한 개요를 제공하며 구매 옵션에 대해 설명합니다.
-ms.openlocfilehash: 89612ef6ddf762060f418edb5d004baa9c49353a
-ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
+ms.openlocfilehash: aa967e7f46ed5085384b408552e186dbb7c8bd30
+ms.sourcegitcommit: b410339b0174e2327259a71acab5bf9daac67d5b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49919761"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49939203"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government - 구입 방법
 
@@ -28,11 +28,11 @@ Microsoft 365 Government는 제어되고 미분류 정보를 보유하기 위해
 Microsoft 365 Government는 정부 기관이 규정 데이터 준수 요구 사항을 효과적으로 관리하도록 하여 모바일 생산성과 규정 준수로 안전하게 공동 작업을 지원함으로써 언제 어디서나 미국 정부 리더와 근로자가 생산성을 높이는 데 도움을 줍니다. 다음 표에서는 주요 정부 역할의 예를 제공합니다.<br><br>
  
 | 정부 리더는 다음을 할 수 있습니다. | 정부 직원은 다음을 할 수 있습니다. | 현장 직원은 다음을 할 수 있습니다. |
-|:-----|:-----|:-----|:-----|:-----|
+|:-----|:-----|:-----|
 |향상된 통신 및 투명성을 통해 공개 신뢰 강화  <br/> |보다 나은 공동 작업을 통해 시민 서비스 개선 <br/> | 필요할 때 정보 필드 담당자가 필요로 하는 정보에 대한 모바일 액세스를 통해 서비스 품질을 개선합니다.  |
 |셰이프 정책 및 예산 결정에 도움이 될 수 있는 인사이트에 대한 액세스 개선  <br/> |기관 간 통신을 향상합니다.  <br/> |공동 작업 및 지식 공유를 사용하여 문제를 신속하게 식별하고 해결  <br/> |
-|사무실이나 도로에서 직원 및 시민과 정보를 계속하고 연결합니다.  <br/> |직원 보존률을 높이기 위해 민사 직원과의 더 깊은 참여를 유도합니다.  <br/> | 기관 위치 전반에 걸쳐 커뮤니티를 더 강력하게 구축  <br/> |
-|비용을 절감하고 민첩성을 향상시키는 데 도움이 되는 미국 정부 규정 솔루션 확인  <br/> |||
+|사무실 또는 도로에서 직원 및 시민과의 정보 및 연결 유지  <br/> |직원 보존률을 높이기 위해 민사 직원과의 더 깊은 참여를 유도합니다.  <br/> | 기관 위치 전반에 걸쳐 커뮤니티를 더 강력하게 구축  <br/> |
+|비용을 절감하고 민첩성을 향상시키는 데 도움이 되는 미국 정부 규정을 준수하는 솔루션 확인  <br/> |||
 
 ## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>Microsoft 365 Government를 엔터프라이즈용 Microsoft 365와 어떻게 다른가요?
 
@@ -41,7 +41,7 @@ Microsoft 365 Government는 다음 네 가지 주요 영역에서 미국 정부 
 **단독 커뮤니티.** 정부 데이터 센터는 정부 기관 또는 부서 또는 미국 정부를 대신하여 정보를 보유하고 처리 제어하는 권한을 부여한 상업 회사에서만 사용할 수 있습니다.
 
 **선고된 직원.** 조직의 고객 콘텐츠에 대한 액세스는 미국 시민권자이자 필수 배경 검사를 통과한 선고된 Microsoft 직원으로 제한됩니다.
-타사 감사. 모든 인프라는 연방 기관이 ATO(작동 권한 부여)를 발급하는 데 사용하는 보안 평가 보고서 또는 증명 서신을 제공하는 인증된 제3자 감사자에 의해 감사됩니다. 
+타사 감사. 모든 인프라는 연방 기관이 ATO(작동 권한 부여)를 발급하는 데 사용하는 보안 평가 보고서 또는 증명 서신을 제공하는 인증된 제3자 감사자가 감사합니다. 
 
 **콘텐츠 저장소.** 데이터는 규격 인프라를 사용하여 미국 본토 내에 저장됩니다. 다음 표에는 정부용 Microsoft 365 환경 및 약정이 요약되었습니다.<br><br>
 
@@ -110,11 +110,10 @@ Microsoft 365 Government에서 사용할 수 있는 서비스에 대한 자세�
 
 ## <a name="how-do-i-buy-microsoft-365-government"></a>Microsoft 365 Government를 구입하는 방법
 
-다음 단계에 따라 Microsoft 365 Government 라이선스를 구매합니다.
+다음 단계에 따라 Microsoft 365 Government 라이선스를 구입합니다.
 
-1. [양식을 완성하고](https://products.office.com/government/eligibility-validation) 제출하여 조직의 자격이 유효한지 검사합니다.
-2. Microsoft 계정 팀 또는 적격 파트너와 협력하여 주문합니다.
-고객은 선택 파트너를 통해서만 미국 정부용 Microsoft 365 라이선스를 구입할 수 있습니다.
+1. GCC 또는 [GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/) 양식을 완성하고 제출하여 조직의 자격을 검사합니다. [](https://www.microsoft.com/en-us/microsoft-365/government/eligibility-validation)
+2. Microsoft 계정 팀 또는 적격 파트너와 협력하여 주문합니다. 고객은 선택 파트너를 통해서만 미국 정부용 Microsoft 365 라이선스를 구입할 수 있습니다.
 
 **LSP GCC 및 GCC High(시트 500개 이상)**
 
@@ -166,7 +165,7 @@ Microsoft 365 Government에서 사용할 수 있는 서비스에 대한 자세�
 ## <a name="what-trials-are-available"></a>어떤 평가판을 사용할 수 있나요?
 
 - [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) 고객은 EMS 페이지의 오른쪽 위에 있는 지금 시도 단추를 선택하여 Office 상거래 포털에서 게이트된 등록 프로세스를 거치면 AAD(Azure Active Directory) 포털로 라우팅할 수 있습니다.
-- [Office 365.](https://aka.ms/gcctrial) 1개월 무료 평가판은 미국 정부 조직에서만 사용할 수 있습니다. 이는 GCC 전용으로, 정부 계약업체를 제외합니다.  
+- [Office 365.](https://aka.ms/gcctrial) GCC에서만 1개월 무료 평가판을 사용할 수 있습니다.  
 - Microsoft는 상업용 고객에게 Office 365 GCC 평가판을 제공하지 않습니다. GCC High 또는 DoD 평가판은 없습니다.
 
 ## <a name="where-can-i-learn-more"></a>추가 정보 위치
