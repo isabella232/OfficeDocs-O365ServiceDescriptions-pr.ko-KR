@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 Microsoft 365 Government에 대한 개요를 제공하며 구매 옵션에 대해 설명합니다.
-ms.openlocfilehash: aa967e7f46ed5085384b408552e186dbb7c8bd30
-ms.sourcegitcommit: b410339b0174e2327259a71acab5bf9daac67d5b
+ms.openlocfilehash: b099adfdd4f392bcdf1f9aa383601a49026cb5c1
+ms.sourcegitcommit: 4cb96a615ca98bee0b0657bef77b03357e118c52
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49939203"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50031252"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government - 구입 방법
 
@@ -31,7 +31,7 @@ Microsoft 365 Government는 정부 기관이 규정 데이터 준수 요구 사�
 |:-----|:-----|:-----|
 |향상된 통신 및 투명성을 통해 공개 신뢰 강화  <br/> |보다 나은 공동 작업을 통해 시민 서비스 개선 <br/> | 필요할 때 정보 필드 담당자가 필요로 하는 정보에 대한 모바일 액세스를 통해 서비스 품질을 개선합니다.  |
 |셰이프 정책 및 예산 결정에 도움이 될 수 있는 인사이트에 대한 액세스 개선  <br/> |기관 간 통신을 향상합니다.  <br/> |공동 작업 및 지식 공유를 사용하여 문제를 신속하게 식별하고 해결  <br/> |
-|사무실 또는 도로에서 직원 및 시민과의 정보 및 연결 유지  <br/> |직원 보존률을 높이기 위해 민사 직원과의 더 깊은 참여를 유도합니다.  <br/> | 기관 위치 전반에 걸쳐 커뮤니티를 더 강력하게 구축  <br/> |
+|사무실이나 도로에서 직원 및 시민과 정보를 계속하고 연결합니다.  <br/> |직원 보존률을 높이기 위해 민사 직원과의 더 깊은 참여를 유도합니다.  <br/> | 기관 위치 전반에 걸쳐 커뮤니티를 더 강력하게 구축  <br/> |
 |비용을 절감하고 민첩성을 향상시키는 데 도움이 되는 미국 정부 규정을 준수하는 솔루션 확인  <br/> |||
 
 ## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>Microsoft 365 Government를 엔터프라이즈용 Microsoft 365와 어떻게 다른가요?
@@ -57,7 +57,7 @@ Microsoft 보안 및 규정 준수 인증에 대한 자세한 내용은 [Microso
 
 Microsoft 365 Government는 적격 정부 고객 및 제어된 정보를 보유하거나 처리하기 위해 후원하는 비정부 조직이 사용할 수 있습니다. 이러한 두 범주의 고객에 대한 자격 기준은 Microsoft 정부 클라우드에서 일관됩니다.
 
-GCC 및 GCC High 제품은 Microsoft 정부 클라우드를 사용할 수 있는 모든 고객이 사용할 수 있으며, DoD 환경은 미국 국방부에서 독점적으로 사용할 수 있습니다. 서비스 가용성과 가격은 다르며, GCC는 FedRAMP High 또는 DoD CUI(제어 미분류 정보)를 보유하지 않는 모든 고객에게 영웅 제품으로 남아 있습니다.
+GCC 및 GCC High 제품은 Microsoft 정부 클라우드를 사용할 수 있는 모든 고객이 사용할 수 있으며, DoD 환경은 미국 국방부 전용으로 사용할 수 있습니다. 서비스 가용성과 가격은 다르며, GCC는 FedRAMP High 또는 DoD CUI(제어 미분류 정보)를 보유하지 않는 모든 고객에게 영웅 제품으로 남아 있습니다.
 
 적격 정부 고객은 다음 중 하나에 의해 정의됩니다.
 
@@ -66,7 +66,7 @@ GCC 및 GCC High 제품은 Microsoft 정부 클라우드를 사용할 수 있는
     - 미국에 있는 주 또는 지방 정부의 모든 기관
     - 고객의 시정권 및 지리적 경계 내에 있으며 고객의 주 법률에 따라 설정되는 기타 유사한 유형의 정부 계측이 있는 미국의 구정, 자치구, 상주, 구정, 시, 시,도, 의정구 또는 기타 유사한 유형의 정부 계측
     - 콜롬비아 교육구, 푸에르토리코, 괌, 미국령 사모아, 미국령 버진 아일랜드 및 북마리아나 제도
-- 미국 내무부의 자금 조달 및 서비스를 받을 자격이 있는 연방에서 인식된 부족 엔터티로 정의되는 부족 엔터티는 인도 부족 또는 알래스카 주민이나 알래스카 지역 원주민 기업의 지위를 통해 미국 내무부로부터 자금을 조달할 수 있는 자격이 있습니다.
+- 미국 내무부에서 인도 부족 또는 알래스카 원주민 기업의 지위를 통해 자금 및 서비스를 받을 자격이 있는 연방에서 인식된 부족 엔터티로 정의된 부족 엔터티
 
 다음과 같은 유형의 데이터를 보유하고 나열된 증명을 제공할 수 있는 정부 기관이 아닌 조직은 Microsoft 정부 클라우드 유효성 검사 프로세스에 대한 자격을 제공합니다.
 
@@ -140,7 +140,7 @@ Microsoft 365 Government에서 사용할 수 있는 서비스에 대한 자세�
 - CGI Federal Inc.
 - Dox Electronics Inc.
 - F1 Solutions Inc.
-- Four Points Technology, LLC
+- 4포인트 기술, LLC
 - General Dynamics Information Technology, Inc.
 - Imager Software, Inc. d.b.a ISC
 - 잭파인
@@ -154,7 +154,7 @@ Microsoft 365 Government에서 사용할 수 있는 서비스에 대한 자세�
 - Red River
 - SAIC
 - Smartronix
-- 7 서비스 이용
+- 9999년 7월 7
 - TechTrend, Inc.
 - Vexcel
 
