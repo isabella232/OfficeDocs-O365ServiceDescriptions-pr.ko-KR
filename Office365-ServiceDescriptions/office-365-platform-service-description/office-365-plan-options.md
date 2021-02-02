@@ -1,5 +1,5 @@
 ---
-title: Office 365 계획 옵션
+title: Microsoft 365 및 Office 365 계획 옵션
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
-ms.openlocfilehash: 9e5b88d623052d43f361c3b6c554ff7e928d42b4
-ms.sourcegitcommit: 9b7d67927c8ed266ccd6b39950f04947e6916ede
+ms.openlocfilehash: 6bd5bacf9f3f6b65120c33bde38ea125dec80ea9
+ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605353"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50072301"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 및 Office 365 계획 옵션
 
@@ -51,6 +51,7 @@ Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 잘 충족하�
 |Office 365 플랫폼  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange Online  <br/> |아니요  <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>8</sup> <br/> |<sup>16 없음</sup> <br/> |
 |SharePoint Online  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>17</sup> <br/> |
+|SharePoint Syntex  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <br/> |
 |OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |
 |비즈니스용 Skype Online <sup>14</sup> <br/> |아니요  <br/> |예<sup>9</sup> <br/> |예<sup>9</sup> <br/> |예<sup>9</sup> <br/> |예<sup>9</sup> <br/> |예<sup>10</sup> <br/> |예<sup>12</sup> <br/> |예<sup>13</sup> <br/> |예<sup>13</sup> <br/> |
 |웹용 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |<sup>18 없음</sup> <br/> |
@@ -72,11 +73,11 @@ Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 잘 충족하�
 <sup>9</sup> 기본 클라이언트 제한 사항이 있는 비즈니스용 Skype Online 계획 2가 포함됩니다. <br/>
 <sup>10</sup> 클라이언트 제한 없이 비즈니스용 Skype Online 계획 2를 포함합니다. <br/>
 <sup>11</sup> 비즈니스용 Skype Online 계획 1과 추가 기능이 포함되어 있습니다. <br/>
-<sup>12</sup> 음성 지원과 클라이언트 제한 없이 비즈니스용 Skype Online 계획 2가 포함됩니다.  <br/>
+<sup>12</sup> 음성 지원 및 클라이언트 제한 없이 비즈니스용 Skype Online 계획 2가 포함됩니다.  <br/>
 <sup>13</sup> 비즈니스용 Skype Online 계획 1이 포함됩니다.<br>
-<sup>14</sup> Microsoft Teams는 이제 Microsoft 365에서 메시징, 모임 및 통화를 위한 기본 클라이언트입니다. 2018년 10월 1일 현재, 사용자 수가 500명 이하인 신규 고객은 Microsoft Teams에 온보더가 되거나 비즈니스용 Skype Online에 액세스할 수 없습니다. 이미 비즈니스용 Skype Online을 사용하고 있는 테넌트는 Microsoft Teams로의 전환을 완료할 때까지 이 작업을 계속할 수 있습니다(새 사용자 프로비전 포함).<br>
+<sup>14</sup> Microsoft Teams는 이제 Microsoft 365에서 메시징, 모임 및 통화를 위한 기본 클라이언트입니다. 2018년 10월 1일 현재, 사용자 수가 500명 이하인 신규 고객은 Microsoft Teams에 온보더가 되거나 비즈니스용 Skype Online에 액세스할 수 없습니다. 이미 비즈니스용 Skype Online을 사용하고 있는 테넌트는 Microsoft Teams로의 전환을 완료할 때까지 계속할 수 있습니다(새 사용자 프로비전 포함).<br>
 <sup>15에는</sup> 자동 분류 및 보존, 고객 키, 고급 메시지 암호화, 내부자 위험 관리, 커뮤니케이션 규정 준수, 정보 장벽, 고객 Lockbox, 권한이 부여된 액세스 관리, 고급 감사, 레코드 관리 및 고급 eDiscovery 기능을 제공하는 Microsoft 365 E5 규정 준수가 포함됩니다. Microsoft Defender for Office 365 계획 2, 끝점용 Microsoft Defender, Azure Active Directory 계획 2, ID용 Microsoft Defender, Microsoft Cloud App Security 및 안전한 문서를 포함하는 Microsoft 365 E5 보안<br>
-<sup>16</sup> Microsoft 365 F1은 Exchange 사서함에 대한 권한을 포함하지 않습니다. 전체 Teams 환경을 사용하려면 M365 F1 라이선스에 Exchange Online K1 서비스 플랜이 사용하도록 설정되어 있을 수 있습니다. Exchange Online K1 서비스 계획에서 사용자를 위해 사서함을 프로비전하기는 하지만 M365 F1 사용자는 사서함을 사용할 수 없습니다. 고객은 이러한 단계를 통해 웹용 [these steps](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) Outlook을 사용하지 않도록 설정하고 사용자에게 다른 방법을 통해 Exchange 사서함에 액세스하지 않도록 요청하는 것이 좋습니다.<br>
+<sup>16</sup> Microsoft 365 F1은 Exchange 사서함에 대한 권한을 포함하지 않습니다. 전체 Teams 환경을 사용하려면 M365 F1 라이선스에 Exchange Online K1 서비스 플랜이 사용하도록 설정되어 있을 수 있습니다. Exchange Online K1 서비스 계획에서 사용자를 위해 사서함을 프로비전하기는 하지만 M365 F1 사용자는 사서함을 사용할 수 없습니다. 고객은 이러한 단계를 통해 웹용 [](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) Outlook을 사용하지 않도록 설정하고 사용자에게 다른 방법을 통해 Exchange 사서함에 액세스하지 않도록 요청하는 것이 좋습니다.<br>
 <sup>17 포함</sup> SharePoint Online Kiosk. 관리자가 될 수 없습니다. 사이트 사서함이 없습니다. 개인 사이트가 없습니다.<br>
 <sup>18</sup> Microsoft 365 F1 사용자는 웹용 Office를 사용하여 파일을 읽을 수 있지만 만들기/편집/저장 권한은 없습니다. 
   
@@ -118,7 +119,7 @@ Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 잘 충족하�
 |Yammer  <br/> |[Yammer Basic](https://products.office.com/yammer/) <br/> |
 |조직 분석  <br/> |[작업 공간 분석](https://products.office.com/business/workplace-analytics) <br/> |
 |비즈니스 인텔리전스 서비스  <br/> |[Power BI](https://products.office.com/business/analytics-and-intelligence/home) <br/> |
-|온라인 다이어그램 소프트웨어  <br/> |[Visio Plan 1](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1?activetab=pivot:overviewtab) <br/> [Visio Plan 2](https://products.office.com/visio/visio-online-plan-2) <br/> |
+|온라인 다이어그램 소프트웨어  <br/> |[Visio Plan 1](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1?activetab=pivot:overviewtab) <br/> [Visio 요금제 2](https://products.office.com/visio/visio-online-plan-2) <br/> |
 |정보 권한 관리  <br/> |[Azure Information Protection](https://signup.microsoft.com/signup?OfferId=9DF77AF9-DAAE-4d51-8E0E-EEEADD4866B8&dl=RIGHTSMANAGEMENT&ali=1) <br/> |
    
 ## <a name="feature-availability"></a>기능 가용성
