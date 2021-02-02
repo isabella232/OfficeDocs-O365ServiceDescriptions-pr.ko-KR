@@ -1,0 +1,59 @@
+---
+title: SharePoint Syntex 기능
+ms.author: office365servicedesc
+author: pamelaar
+ms.audience: ITPro
+ms.topic: reference
+ms.service: o365-administration
+localization_priority: Normal
+description: 적합한 Microsoft 365, Office 365 및 SharePoint Online 계획에서 사용할 수 있는 주요 SharePoint Syntex 기능에 대해 자세히 알아보습니다.
+ms.openlocfilehash: 998443a635b7816705553374d8a029f37a669fe0
+ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50072443"
+---
+# <a name="sharepoint-syntex-features"></a><span data-ttu-id="9003a-103">SharePoint Syntex 기능</span><span class="sxs-lookup"><span data-stu-id="9003a-103">SharePoint Syntex features</span></span> 
+
+<span data-ttu-id="9003a-104">다음 섹션에서는 적합한 Microsoft 365, Office 365 및 SharePoint Online 계획에서 사용할 수 있는 주요 [SharePoint Syntex](sharepoint-syntex-service-description.md) 기능에 대해 설명합니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-104">The following sections describe the major [SharePoint Syntex](sharepoint-syntex-service-description.md) features available across eligible Microsoft 365, Office 365, and SharePoint Online plans.</span></span> <span data-ttu-id="9003a-105">사용 가능한 기능은 예고 없이 변경될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-105">The available features may change without notice.</span></span> <span data-ttu-id="9003a-106">최신의 전체 기능 목록은 [SharePoint Syntex](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)계획 및 가격 페이지를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="9003a-106">For the most up-to-date, complete list of features, see the [SharePoint Syntex plans and pricing page](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex).</span></span>
+
+## <a name="syntex-content-center"></a><span data-ttu-id="9003a-107">Syntex 콘텐츠 센터</span><span class="sxs-lookup"><span data-stu-id="9003a-107">Syntex content center</span></span>
+
+<span data-ttu-id="9003a-108">Syntex는 대규모로 콘텐츠를 관리하고, 메타데이터 및 워크플로를 통합하고, 준수 자동화를 제공하기 위한 콘텐츠 센터라는 사이트 서식 &mdash;  &mdash; 파일을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-108">Syntex provides a site template&mdash;called a *content center*&mdash;for managing content at scale, integrating metadata and workflow, and delivering compliance automation.</span></span> <span data-ttu-id="9003a-109">콘텐츠 센터는 클라우드에서 수동으로 문서를 읽고 처리하는 방법을 설명하는 기능을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-109">Content centers supply capabilities to teach the cloud how to read and process documents the same way you would manually.</span></span> <span data-ttu-id="9003a-110">Syntex는 이러한 정보를 사용하여 콘텐츠를 자동으로 인식하고, 중요한 정보를 추출하고, 메타데이터 태그를 적용합니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-110">Syntex uses those insights to automatically recognize content, extract important information, and apply metadata tags.</span></span> <span data-ttu-id="9003a-111">또한 통합 시각적 분석으로 모델의 효율성을 추적할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-111">In addition, you can track the effectiveness of your models with integrated visual analytics.</span></span>
+
+<span data-ttu-id="9003a-112">콘텐츠 센터 및 콘텐츠 센터를 만드는 방법에 대한 자세한 내용은 [SharePoint Syntex에서 콘텐츠 센터 만들기를 참조하세요.](/microsoft-365/contentunderstanding/create-a-content-center)</span><span class="sxs-lookup"><span data-stu-id="9003a-112">To learn more about content centers and how to create them, see [Create a content center in SharePoint Syntex](/microsoft-365/contentunderstanding/create-a-content-center).</span></span>
+
+## <a name="object-recognition"></a><span data-ttu-id="9003a-113">개체 인식</span><span class="sxs-lookup"><span data-stu-id="9003a-113">Object recognition</span></span>
+
+<span data-ttu-id="9003a-114">Syntex는 일반적으로 인식되는 수천 개의 개체가 있는 새 시각적 사전을 사용하여 이미지에 자동으로 태그를 지정합니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-114">Syntex can automatically tag images by using a new visual dictionary with thousands of commonly recognized objects.</span></span> <span data-ttu-id="9003a-115">또한 Syntex는 필기한 텍스트를 인식하고 검색 및 추가 처리를 위해 태그로 변환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-115">In addition, Syntex can recognize and convert handwritten text into tags for use by search and for further processing.</span></span>
+
+<span data-ttu-id="9003a-116">Syntex의 개체 인식 및 이미지 태그를 구성하는 방법에 대한 자세한 내용은 [SharePoint Syntex에서 이미지 태그 지정을 참조합니다.](/microsoft-365/contentunderstanding/image-tagging)</span><span class="sxs-lookup"><span data-stu-id="9003a-116">To learn more about object recognition in Syntex and how to configure image tagging, see [Image tagging in SharePoint Syntex](/microsoft-365/contentunderstanding/image-tagging).</span></span>
+
+## <a name="document-understanding"></a><span data-ttu-id="9003a-117">문서 이해</span><span class="sxs-lookup"><span data-stu-id="9003a-117">Document understanding</span></span>
+
+<span data-ttu-id="9003a-118">코드가 없는 인공 지능(AI) 모델을 빌드하기 위해 기계 교육을 사용하는 방식으로 Syntex에서 콘텐츠를 읽는 방법을 교육할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-118">You can teach Syntex to read your content the way you would use machine teaching to build artificial intelligence (AI) models with no code.</span></span> <span data-ttu-id="9003a-119">Syntex는 메타데이터를 자동으로 제안하거나 만들고, 사용자 지정 Power Automate 워크플로를 호출하고, 준수 레이블을 첨부하여 보존 또는 기록 관리 정책을 적용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-119">Syntex can automatically suggest or create metadata, invoke custom Power Automate workflows, and attach compliance labels to enforce retention or record management policies.</span></span>
+
+<span data-ttu-id="9003a-120">문서 이해 모델은 Azure 인지 서비스의 언어 이해 모델을 기반으로 합니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-120">Document understanding models are based on Language Understanding models in Azure Cognitive Services.</span></span> <span data-ttu-id="9003a-121">이러한 모델은 Syntex 콘텐츠 센터에서 만들어 관리하며, Syntex 전체의 모든 콘텐츠 센터에 있는 라이브러리에 모델을 게시하고 업데이트할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-121">These models are created and managed in a Syntex content center, and you can publish and update your models to any library in any content center throughout Syntex.</span></span>
+
+<span data-ttu-id="9003a-122">문서 이해에 대한 자세한 내용은 문서 이해 [개요를 참조하십시오.](/microsoft-365/contentunderstanding/document-understanding-overview)</span><span class="sxs-lookup"><span data-stu-id="9003a-122">To learn more about document understanding, see [Document understanding overview](/microsoft-365/contentunderstanding/document-understanding-overview).</span></span>
+
+## <a name="form-processing"></a><span data-ttu-id="9003a-123">양식 처리</span><span class="sxs-lookup"><span data-stu-id="9003a-123">Form processing</span></span>
+
+<span data-ttu-id="9003a-124">Syntex에는 날짜, 그림, 이름 또는 주소와 같은 반구조적 또는 구조적 문서에서 공통 값을 자동으로 인식하고 추출할 수 있도록 하는 AI 작성기 기반의 강력한 양식 처리 엔진이 포함되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-124">Syntex includes a powerful form processing engine, based on AI Builder, that lets you automatically recognize and extract common values from semi-structured or structured documents, such as dates, figures, names, or addresses.</span></span> <span data-ttu-id="9003a-125">이러한 모델은 코드 없이 만들어지며 신뢰할 수 있는 결과를 얻기 위해 몇 가지 문서만 필요하게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-125">These models are built without code and require only a few documents for reliable results.</span></span>
+
+<span data-ttu-id="9003a-126">양식 처리에 대한 자세한 내용은 양식 처리 [개요를 참조하십시오.](/microsoft-365/contentunderstanding/form-processing-overview)</span><span class="sxs-lookup"><span data-stu-id="9003a-126">To learn more about form processing, see [Form processing overview](/microsoft-365/contentunderstanding/form-processing-overview).</span></span>
+
+## <a name="microsoft-graph-content-connectors"></a><span data-ttu-id="9003a-127">Microsoft Graph 콘텐츠 커넥터</span><span class="sxs-lookup"><span data-stu-id="9003a-127">Microsoft Graph content connectors</span></span>
+
+<span data-ttu-id="9003a-128">Syntex는 Microsoft Graph 커넥터를 사용하여 파일 공유, Azure SQL 또는 Box 및 IBM FileNet과 같은 타사 소스를 Microsoft Graph에 통합하여 &mdash; Microsoft 365 전체에서 검색하고 사용할 수 있도록 &mdash; 합니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-128">Syntex uses Microsoft Graph connectors to integrate remote sources&mdash;such as file shares, Azure SQL, or third-party sources like Box and IBM FileNet&mdash;into the Microsoft Graph, making it searchable and usable throughout Microsoft 365.</span></span>
+
+<span data-ttu-id="9003a-129">Microsoft Graph 커넥터를 사용하여 고객은 Microsoft 검색 결과에 포함하기 위해 외부 리포지토리의 항목을 인덱싱할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-129">With Microsoft Graph connectors, customers can index items in external repositories for inclusion in Microsoft Search results.</span></span> <span data-ttu-id="9003a-130">Microsoft 365 E5 및 Office 365 E5에는 Microsoft Search용 Microsoft Graph 커넥터를 사용하여 최대 500개 항목을 인덱싱하는 기능을 포함합니다(A5에는 포함되지 않음).</span><span class="sxs-lookup"><span data-stu-id="9003a-130">Microsoft 365 E5 and Office 365 E5 include the ability to index up to 500 items using Microsoft Graph connectors for Microsoft Search (not included with A5).</span></span> <span data-ttu-id="9003a-131">SharePoint 또는 OneDrive 요금제가 포함된 제품군 또는 독립 실행형 라이선스가 있는 사용자는 Microsoft Search용 Microsoft Graph 커넥터의 검색 결과를 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-131">Any user with a suite or standalone license that includes a SharePoint or OneDrive plan can see search results from Microsoft Graph connectors for Microsoft Search.</span></span>
+
+<span data-ttu-id="9003a-132">현재 Microsoft 또는 파트너 중 하나에서 130개가 넘는 원본에 대한 커넥터를 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-132">Today, connectors to more than 130 sources are available from Microsoft or one of our partners.</span></span> <span data-ttu-id="9003a-133">자세한 내용은 Microsoft Graph 커넥터 [개요를 참조하세요.](https://aka.ms/iwantconnectors)</span><span class="sxs-lookup"><span data-stu-id="9003a-133">To learn more, see [Overview of Microsoft Graph connectors](https://aka.ms/iwantconnectors).</span></span>
+
+## <a name="advanced-taxonomy-services"></a><span data-ttu-id="9003a-134">고급 세분화 서비스</span><span class="sxs-lookup"><span data-stu-id="9003a-134">Advanced taxonomy services</span></span>
+
+<span data-ttu-id="9003a-135">Syntex에는 Microsoft 365 전체에서 용어 만들기 및 사용 현황을 보고 분석할 수 있는 기능이 포함되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-135">Syntex includes capabilities that let you watch and analyze term creation and usage throughout Microsoft 365.</span></span> <span data-ttu-id="9003a-136">이러한 보고서는 SharePoint 관리 센터에서 전달됩니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-136">These reports are delivered in the SharePoint admin center.</span></span>
+
+<span data-ttu-id="9003a-137">공유 콘텐츠 형식은 SharePoint 허브 사이트를 통해 SharePoint 및 Microsoft Teams에 [게시할 수 있습니다.](/sharepoint/dev/features/hub-site/hub-site-overview)</span><span class="sxs-lookup"><span data-stu-id="9003a-137">Shared content types can be published to SharePoint and Microsoft Teams through [SharePoint hub sites](/sharepoint/dev/features/hub-site/hub-site-overview).</span></span> <span data-ttu-id="9003a-138">중앙 갤러리에서 허브 사이트로 콘텐츠 형식을 게시하면 일반적으로 사용되는 콘텐츠 형식(콘텐츠 이해력 향상)을 필요한 경우 아키텍처의 광범위한 섹션에 신속하게 배포 및 업그레이드할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-138">Publishing content types from the central gallery to hub sites provides a much more flexible way to ensure that commonly used content types—enhanced with content understanding—can be rapidly deployed and upgraded across broad sections of your architecture, as needed.</span></span> <span data-ttu-id="9003a-139">허브에 연결된 사이트는 게시되고 업데이트된 콘텐츠 형식을 자동으로 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="9003a-139">Sites connected to hubs will automatically receive published and updated content types.</span></span>
