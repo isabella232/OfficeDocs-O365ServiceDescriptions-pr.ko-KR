@@ -1,7 +1,7 @@
 
 # [Microsoft 365 및 Office 365 서비스 설명](office-365-service-descriptions-technet-library.md)
 ## [Microsoft 365 및 Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md)
-### [Office 365 계획 옵션](office-365-platform-service-description/office-365-plan-options.md)
+### [Microsoft 365 및 Office 365 요금제 옵션](office-365-platform-service-description/office-365-plan-options.md)
 ### [Office 365 시스템 요구 사항](office-365-platform-service-description/office-365-system-requirements.md)
 ### [보안 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md)
 ### [Microsoft 365 제품군 기능](office-365-platform-service-description/office-365-suite-features.md)
@@ -69,6 +69,8 @@
 ## [OneDrive 서비스 설명](onedrive-for-business-service-description.md)
 ## [SharePoint 서비스 설명](sharepoint-online-service-description/sharepoint-online-service-description.md)
 ### [SharePoint 제한](sharepoint-online-service-description/sharepoint-online-limits.md)
+## [SharePoint Syntex 서비스 설명](sharepoint-syntex-service-description/sharepoint-syntex-service-description.md)
+### [SharePoint Syntex 기능](sharepoint-syntex-service-description/sharepoint-syntex-features.md)
 ## [비즈니스용 Skype Online 서비스 설명](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [비즈니스용 Skype Online 기능](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [비즈니스용 Skype Online 제한](skype-for-business-online-service-description/skype-for-business-online-limits.md)
