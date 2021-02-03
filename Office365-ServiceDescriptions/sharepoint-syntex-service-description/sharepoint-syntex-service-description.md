@@ -7,18 +7,18 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 365의 SharePoint Syntex는 고급 인공 지능(AI) 및 기계 교육을 사용하여 사람의 전문 지식을 강화하고, 콘텐츠 처리를 자동화하고, 콘텐츠를 지식으로 변환합니다.
-ms.openlocfilehash: da40dc93729e97740d7e3e3cc367ca99b9e63658
-ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
+ms.openlocfilehash: 938e00a49080885c8a15722adf368397b91dc5fb
+ms.sourcegitcommit: fa262c8ada1b545e124b91b184911028e1c50f65
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50072444"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50084731"
 ---
 # <a name="sharepoint-syntex-service-description"></a>SharePoint Syntex 서비스 설명 
 
 Microsoft 365의 SharePoint Syntex는 고급 인공 지능(AI) 및 기계 교육을 사용하여 사람의 전문 지식을 강화하고, 콘텐츠 처리를 자동화하고, 콘텐츠를 지식으로 변환합니다.
 
-Syntex는 SharePoint를 사용하여 대량의 콘텐츠 처리, 프로세스 자동화를 위한 메타데이터 추출 및 보안 및 규정 준수 개선을 위한 고급 기능을 제공합니다. 또한 Microsoft Search의 인텔리전스를 토대하고 Microsoft Graph 커넥터에 대한 [링크를 제공합니다.](/microsoftsearch/connectors-overview)
+Syntex는 SharePoint를 토대하여 대량의 콘텐츠 처리, 프로세스 자동화를 위한 메타데이터 추출 및 보안 및 규정 준수 개선을 위한 고급 기능을 제공합니다. 또한 Microsoft Search의 인텔리전스를 토대하고 Microsoft Graph 커넥터에 [대한 링크를 제공합니다.](/microsoftsearch/connectors-overview)
 
 자세한 개요 및 추가 제품 세부 정보는 [SharePoint Syntex 제품 페이지를 참조하세요.](https://aka.ms/sharepointsyntex)
 
@@ -72,9 +72,9 @@ Syntex에 대한 자세한 내용은 다음 리소스를 참조하십시오.
 
 ### <a name="licensing-terms"></a>사용 조건
 
-Syntex는 Microsoft 365 계획에 대한 사용자 기반 추가 기능으로 사용할 수 있습니다. 무료 평가판에 등록하거나 Syntex를 구입하기 위해 [SharePoint Syntex](https://aka.ms/sharepointsyntex)제품 페이지를 방문하세요.
+Syntex는 Microsoft 365 계획에 대한 사용자 기반 추가 기능으로 사용할 수 있습니다. 무료 평가판에 등록하거나 Syntex를 구입하기 위해 [SharePoint Syntex 제품 페이지를 방문하세요.](https://aka.ms/sharepointsyntex)
 
-Microsoft 상용 볼륨 라이선스 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 제품 약관 [사이트를 참조하세요.](https://www.microsoft.com/licensing/terms/)
+Microsoft 상용 볼륨 라이선스 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 제품 사용권 사이트를 [참조하세요.](https://www.microsoft.com/licensing/terms/)
 
 ### <a name="messaging"></a>메시징
 
@@ -82,4 +82,4 @@ Microsoft 상용 볼륨 라이선스 프로그램을 통해 구매한 제품 및
 
 ### <a name="accessibility"></a>내게 필요한 옵션
 
-Microsoft는 사용자의 데이터 보안과 서비스의 접근성을 위해 계속 [최선을](https://www.microsoft.com/trust-center/compliance/accessibility) 다하고 있습니다. 자세한 내용은 Microsoft [보안](https://www.microsoft.com/trust-center) 센터 및 Office 접근성 [센터를 참조하세요.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft는 사용자의 데이터 보안과 서비스의 접근성을 위해 계속 [최선을](https://www.microsoft.com/trust-center/compliance/accessibility) 다하고 있습니다. 자세한 내용은 Microsoft [보안](https://www.microsoft.com/trust-center) 센터 및 [Office 접근성 센터를 참조하세요.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
