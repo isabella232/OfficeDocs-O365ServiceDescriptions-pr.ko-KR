@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 보안 준수 센터는 조직의 &amp; Office 365에서 규정 준수 기능을 관리하는 데 도움이 하도록 디자인되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: 4537008977f19ef947ea0bae9a4164cfbe9991d4
-ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
+ms.openlocfilehash: 0116ecf3f46c2d870d88a5d1ef53e18452a53e7b
+ms.sourcegitcommit: f98239a5631ba312d63753ffce83a7413a143ee5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/31/2020
-ms.locfileid: "49740969"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50122198"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -47,7 +47,7 @@ ms.locfileid: "49740969"
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>독립 &amp; 실행형 계획에 대한 보안 준수 센터 가용성
 
 | 기능 | Exchange Online 요금제 1 | Exchange Online 계획 2 | Exchange Online Kiosk | SharePoint Online 요금제 1 | SharePoint Online 요금제 2 | 비즈니스용 OneDrive 요금제 1 | 비즈니스용 OneDrive 요금제 2 | 비즈니스용 Skype 온라인 계획 1 | 비즈니스용 Skype Online 요금제 2|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[보안 준수 &amp; 센터에 대한 액세스](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |예   |예   |예   |예   |예   |예   |예   |예   |예   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |예   |
 |[위협](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)관리(예: 메일 필터링 및 맬웨어 방지)   |예   |예   |예   |예   |예   |예   |예   |예   |예   |
@@ -68,7 +68,7 @@ ms.locfileid: "49740969"
 |[기본 감사](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup>|예|예|예|예|예|예<sup>10</sup>|예<sup>10</sup>|아니요|아니요|
 |고급 감사|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |[커뮤니케이션 규정 준수(감독 정책)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
-|[OME(Office 365 메시지 암호화)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |아니요   |아니요   |아니요   |아니요   |예   |아니요   |아니요|아니요|아니요|
+|[OME(Office 365 메시지 암호화)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |아니요   |예   |아니요   |아니요   |예   |아니요   |아니요|아니요|아니요|
 |[Office 365 고급 메시지 암호화](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |아니요   |아니요   |아니요   |아니요   |예   |아니요   |아니요|아니요|아니요|
 |[권한이 부여된 액세스 관리](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |아니요   |아니요   |아니요   |아니요   |예   |아니요   |아니요|아니요|아니요|
 
