@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365와 Office 365 Education 요금제의 차이점에 대해 자세히 알아보고,
-ms.openlocfilehash: 8cb6e167f84a1f15720a06280b97524d07b7e926
-ms.sourcegitcommit: a31d389e913409197bfb4ce0adb9a0b34ac69c7f
+ms.openlocfilehash: 44b985e54d1cdfa995ee715ab56535675cf5fd31
+ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/01/2021
-ms.locfileid: "50069273"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "50146005"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -70,11 +70,11 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |Azure Information Protection 계획 2|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|
 |소송 대기|아니요|예|예|예|예|예|예|예|예|
 |콘텐츠 검색|예|예|예|예|예|예|예|예|예|
-|핵심 eDiscovery(보류 및 내보내기 포함)|아니요|예|예|예|예|예|예|예|예|
+|Core eDiscovery(보류 및 내보내기 포함)|아니요|예|예|예|예|예|예|예|예|
 |Office 365 고급 eDiscovery|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
-|전자 메일 및 파일에 대한 DLP(데이터 손실 방지)|예|예|예|예|예|아니요|아니요|아니요|아니요|
+|전자 메일 및 파일에 대한 DLP(데이터 손실 방지)|예|예|예|예|예|예|예|예|예|
 |끝점 DLP|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|
-|커뮤니케이션 DLP(Teams 채팅)|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
+|Communications DLP(Teams 채팅)|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |커뮤니케이션 규정 준수|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |고객 키|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |기본 감사|예|예|예|예|예|예|예|예|예|
@@ -110,9 +110,9 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 > <sup>3</sup> SharePoint Online 계획 1과 추가 기능이 포함됩니다. <br/>
 > <sup>4에는</sup> SharePoint Online 계획 2가 포함됩니다. <br/>
 > <sup>5</sup> Microsoft Project는 Office 365에 포함되어 있지 않지만 별도로 취득할 수 있습니다. Project Online Essentials는 무료입니다. 학생이나 교육 기관인 경우 교육용 가격으로 Project Plan 3 및 요금제 5를 구입할 수 있습니다. <br/>
-> <sup>6에는</sup> Intune이 포함됩니다. <br/>
+> <sup>6</sup> Intune 포함 <br/>
 > Exchange, SharePoint 및 비즈니스용 Skype에는 <sup>7개</sup> 서버 및 CA가 포함되어 있습니다. <br/>
-> <sup>구입한</sup> A3 버전에 따라 ECAL 또는 Core CAL 8개(A5 포함) ECAL 권리가 포함됩니다. <br/>
+> <sup>구입한</sup> A3 버전에 따라 ECAL 또는 Core CAL 8개(A5와 함께 ECAL 권한 포함) <br/>
 > <sup>9</sup> 보호 기능을 적용하고 Outlook 데스크톱에서 보호된 전자 메일을 보내기 위해서는 Microsoft 365 앱이 필요합니다. <br/>
 > <sup>10</sup> 이전의 Office 365 Advanced Threat Protection. <br/>
 > <sup>11</sup> 이전의 Azure Advanced Threat Protection. <br/>

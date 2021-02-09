@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 미국 정부 클라우드 고객을 위한 SharePoint 기능 가용성에 대해 자세히 알아보습니다.
-ms.openlocfilehash: b0f36ea92b856a3fa9c1bf4ddd4cb4265655d1ae
-ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
+ms.openlocfilehash: 505be0509dbef718e64983377c8dc75a23adfd26
+ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49919751"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "50145985"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>미국 정부 환경용 SharePoint
 
@@ -50,13 +50,13 @@ Office 365의 기능과 기능을 즐길 뿐만 아니라 조직은 미국 정�
 - 일부 정부 클라우드 고객은 하이브리드 SharePoint Server를 사용할 수 없습니다.
 - SharePoint 마이그레이션 도구 및 마이그레이션 관리자를 사용하려면 구성을 변경해야 합니다. 자세한 내용은 [SPMT 정부 클라우드 지원을 참조하세요.](/sharepointmigration/spmt-install-issues#government-cloud-support)
 - Mover.io 지원되지 않습니다.
-- Multi-Geo는 모든 정부 클라우드 고객에게 제공되지 않습니다.
+- Multi-Geo는 모든 정부 클라우드 고객에 대해 사용할 수 없습니다.
 
-FastTrack 마이그레이션에 대한 자세한 내용은 [Office 365 GOVERNMENT 서비스 설명을 참조하세요.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#data-migrations-performed-by-fasttrack)
+FastTrack 마이그레이션에 대한 자세한 내용은 [Office 365 Government 서비스 설명을 참조하세요.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#data-migrations-performed-by-fasttrack)
 
 ## <a name="security-and-compliance-features"></a>보안 및 규정 준수 기능
 
-상업용 고객 및 정부 클라우드 고객용 보안 및 규정 준수 기능 간에는 알려진 차이점이 없습니다.
+상업용 고객용 보안 및 규정 준수 기능과 정부 클라우드 고객의 보안 및 규정 준수 기능은 알려진 차이가 없습니다.
 
 보안 및 규정 준수 기능에 대한 자세한 내용은 보안 및 준수 [& 참조하세요.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)
 
@@ -68,10 +68,11 @@ FastTrack 마이그레이션에 대한 자세한 내용은 [Office 365 GOVERNMEN
 
 다음은 상업용 고객용 사이트 및 콘텐츠 기능과 정부 클라우드 고객용 콘텐츠 기능의 차이점입니다.
 
-- Amazon Kindle, Bing 지도, Twitter 및 YouTube 웹 파트와 같은 인터넷 서비스에 대한 연결을 사용 하는 웹 파트가 예상대로 작동하지 않습니다.
+- Amazon Kindle, Bing 지도, Twitter 및 YouTube 웹 파트와 같은 인터넷 서비스에 대한 연결을 사용 하는 웹 파트는 예상대로 작동하지 않습니다.
 - 조직 자산 라이브러리를 사용할 수 없습니다.
-- GCC High 및 DoD 고객은 Teams에 목록 및 페이지를 추가할 수 없습니다.
-- GCC High용 SharePoint Online의 그래프 기능은 현재 사용하지 않도록 설정되어 있습니다. Microsoft Graph에 의존하는 모든 서비스를 현재 사용할 수 없는 경우
+- GCC High 및 DoD 고객은 Teams에 목록 및 페이지 추가를 사용할 수 없습니다.
+- GCC High용 SharePoint Online의 그래프 기능은 현재 사용하지 않도록 설정되어 있습니다. Microsoft Graph를 사용 하는 모든 서비스를 현재 사용할 수 없습니다.
+- 주식 이미지 탭과 같은 인터넷 서비스에 대한 연결을 사용 하는 기능은 예상대로 작동하지 않습니다.
 
 ## <a name="search-features"></a>검색 기능
 
@@ -81,7 +82,7 @@ FastTrack 마이그레이션에 대한 자세한 내용은 [Office 365 GOVERNMEN
 
 ## <a name="sharing-and-sync"></a>공유 및 동기화
 
-상용 클라우드와 정부 클라우드 환경 간의 기능 차이는 파일 [공유를 참조하세요.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing)
+상업용 클라우드와 정부 클라우드 환경 간의 기능 차이는 파일 [공유를 참조하세요.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing)
 
 ## <a name="plan-for-governance"></a>거버넌스 계획
 
@@ -89,6 +90,6 @@ FastTrack 마이그레이션에 대한 자세한 내용은 [Office 365 GOVERNMEN
 
 ## <a name="deploy-sharepoint-for-collaboration"></a>공동 작업을 위해 SharePoint 배포
 
-Microsoft 미국 정부 클라우드에서 조직을 설정한 후 SharePoint 채택 리소스 센터에 설명된 권장 배포 [경로를 따르게 됩니다.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) 채택 및 변경 관리 챔피언과 함께 참여해야 합니다.
+Microsoft 미국 정부 클라우드에서 조직을 설정한 후 SharePoint 채택 리소스 센터에 설명된 권장 배포 [경로를 따르는 것이 좋습니다.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) 채택 및 변경 관리 챔피언과 함께 참여해야 합니다.
 [FastTrack](https://www.microsoft.com/fasttrack) 또는 선택한 파트너와 협력하여 사용자에게 서비스를 롤아웃할 수도 있습니다.
 Microsoft 보안 센터를 방문하여 [Microsoft가](https://www.microsoft.com/trust-center) 어떻게 보안, 개인 정보 보호 및 규정 준수에 접근하는지, 조직이 고객에게 서비스를 제공하도록 지원할 수 있는 핵심 테넌트에 대해 자세히 알아보세요.
