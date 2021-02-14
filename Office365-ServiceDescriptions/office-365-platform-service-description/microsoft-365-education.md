@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365와 Office 365 Education 요금제의 차이점에 대해 자세히 알아보고,
-ms.openlocfilehash: 44b985e54d1cdfa995ee715ab56535675cf5fd31
-ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
+ms.openlocfilehash: 737f900412cdd252b3b06d56ef9281cdf09e5333
+ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "50146005"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50241044"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -51,7 +51,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |코드 작성기에서 Minecraft Education Edition|아니요|아니요|아니요|예|예|아니요|아니요|예|예|
 |시험 앱|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
 |학생 PC 설정 앱|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
-|**음성 비디오 및 모임**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A56**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 Education A3 학생 사용 혜택**|**Microsoft 365 Education A5 학생 사용 혜택**|
+|**음성 비디오 및 모임**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 Education A3 학생 사용 혜택**|**Microsoft 365 Education A5 학생 사용 혜택**|
 |Skype 모임 브로드캐스트|아니요|예|예|예|예|아니요|아니요|아니요|아니요|
 |Microsoft Bookings|아니요|예|예|예|예|아니요|아니요|아니요|아니요|
 |오디오 회의|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
@@ -74,7 +74,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |Office 365 고급 eDiscovery|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |전자 메일 및 파일에 대한 DLP(데이터 손실 방지)|예|예|예|예|예|예|예|예|예|
 |끝점 DLP|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|
-|Communications DLP(Teams 채팅)|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
+|커뮤니케이션 DLP(Teams 채팅)|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |커뮤니케이션 규정 준수|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |고객 키|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |기본 감사|예|예|예|예|예|예|예|예|예|

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: 'Microsoft 365는 이미 익숙한 최신 버전의 Office 데스크톱 응용 프로그램(예: Word, Excel 및 PowerPoint)을 제공하는 구독 서비스입니다.'
-ms.openlocfilehash: 26b3b91800dd4c06c584abc443d54fdb8af89ca1
-ms.sourcegitcommit: 188932c7600cb860db47a1046b5f7d0f6f078502
+ms.openlocfilehash: 6d59f49f1b7a275e54ee872cd0590933ef8f609e
+ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "49905161"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50241014"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 
@@ -28,13 +28,13 @@ Office는 클라우드 기반 서비스지만 Office 응용 프로그램은 클�
   
 Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다.
   
-계획에서 기능을 비교하기 위해 엔터프라이즈를 [지원하는 강력한 도구를 참조합니다.](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)
+계획에서 기능을 비교할 수 있는 강력한 도구를 [참조하여 엔터프라이즈를 지원할 수 있습니다.](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)
   
 ## <a name="feature-availability-across-plans"></a>계획에서 사용 가능한 기능
 
 다음 표를 사용하여 2013 및 Office 2016의 계획 및 볼륨 라이선스 버전에서 기능 가용성을 Microsoft Office 수 있습니다.
   
-일부 비즈니스용 Microsoft 365 요금제에는 구독에 대해 구입할 수 있는 추가 기능도 있습니다. 추가 기능은 구독에 대한 추가 기능을 제공합니다. 자세한 내용은 추가 [기능 구입 또는 편집을 참조하세요.](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)<br><br>
+일부 비즈니스용 Microsoft 365 요금제에는 구독을 위해 구입할 수 있는 추가 기능도 있습니다. 추가 기능은 구독에 대한 추가 기능을 제공합니다. 자세한 내용은 추가 기능 [구입 또는 편집을 참조하세요.](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)<br><br>
 
 | 응용 프로그램/기능 | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Professional Plus 2019 | 엔터프라이즈용 Microsoft 365 앱 | 비즈니스용 Microsoft 365 앱 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -54,6 +54,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |[Android용 Office Mobile](office-applications.md#office-mobile-for-android) <br/> |아니요  <br/> |아니요 <br/> |아니요  <br/>|예  <br/> |예  <br/> |예<sup>13</sup>  <br/> |예  <br/> |예  <br/> |예<sup>13</sup>  <br/> |예  <br/> |예  <br/> |예<sup>13</sup>  <br/> |
 |[Windows Phone용 Office Mobile](office-applications.md#office-mobile-for-windows-phone) <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |예 <br/>|예  <br/> |예  <br/> |예<sup>13</sup>  <br/> |예  <br/> |예<sup>13</sup>  <br/> |예  <br/> |예  <br/> |예<sup>13</sup>  <br/> |
 |Android용 Outlook  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|Microsoft 팀  <br/> |아니요  <br/> |아니요  <br/> |예 <br/>|예  <br/> |예  <br/> |예 <br/> |예  <br/> |예  <br/> |예 <br/> |예  <br/> |예  <br/> |예 <br/> |
 |**엔터프라이즈 값** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Microsoft Office 365 ProPlus** <br/> |**비즈니스용 Microsoft 365 앱** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
 |PC 또는 Mac에서 사용자당 5건의 동시 설치 지원  <br/> |아니요  <br/> |아니요  <br/>| 아니요  <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |아니요  <br/> |예  <br/> |예<sup>7</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> | 
 |사용자 계정 자동 구축  <br/> |해당 없음  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -68,8 +69,8 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |Excel 스프레드시트 조회  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |예<sup>1</sup> <br/> |예  <br/> |예  <br/>|예<sup>1</sup> <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |그룹 정책 지원  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Office 클라우드 정책 지원  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Azure Information Protection을 사용한 정보 권한 관리  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|아니요<sup>2</sup> <br/> |아니요<sup>2</sup> <br/> |아니요<sup>2</sup> <br/> |아니요<sup>2</sup> <br/> |예 <br/> |아니요<sup>2</sup> <br/> |예  <br/> |예  <br/> |아니요<sup>2</sup> <br/> |
+|Office 클라우드 정책 지원  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|예  <br/> |예<sup>15</sup> <br/> |예<sup>16</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>16</sup> <br/> |예  <br/> |예  <br/> |예<sup>16</sup> <br/> |
+|Azure Information Protection을 사용한 정보 권한 관리  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|<sup>아니요 2</sup> <br/> |<sup>아니요 2</sup> <br/> |<sup>아니요 2</sup> <br/> |<sup>아니요 2</sup> <br/> |예 <br/> |<sup>아니요 2</sup> <br/> |예  <br/> |예  <br/> |아니요<sup>2</sup> <br/> |
 |Windows Server AD RMS를 사용한 Information Rights Management  <br/> |예<sup>3</sup> <br/> |예  <br/> |예 <br/>| 예<sup>3</sup> <br/>|예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |
 |Office 추가 기능, ActiveX 및 BHO 지원  <br/> |예  <br/> |예  <br/> |예<sup>+++<sup> <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예 <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Microsoft 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  <br/> |예  <br/> |예  <br/> |예 <sup>++</sup> <br/> |예 <br/> |예  <br/> |아니요  <br/> |예  <br/> |예 <br/> |아니요  <br/> |예  <br/>|예  <br/> |아니요  <br/> |
@@ -98,12 +99,14 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 <sup>6</sup> 일부 학교는 Enterprise용 Microsoft 365 앱을 포함하는 Education Plus를 사용할 수 있으며, 학생, 교직원 및 직원이 최대 5대의 PC 또는 Mac 컴퓨터와 Windows 태블릿 및 iPad를 비롯한 다른 모바일 장치에 최신 버전의 Office를 설치할 수 있습니다. Enrollment for Education Solutions, Open Value Subscription Education Solutions 또는 학교 계약을 통해 교직원 및 직원에게 기관용 Office 라이선스를 허가한 학교는 Office 365 Education Plus를 이용할 수 있습니다. Access 및 Publisher는 PC에서만 사용할 수 있습니다. Mac용 OneNote는 Mac 앱 스토어에서 별도로 다운로드할 수 있습니다. <br/>
 <sup>7</sup> Office for Mac 2011을 설치할 수 있지만 정품 인증할 수 없습니다. <br/>
 <sup>엔터프라이즈용</sup> Microsoft 365 앱 8개는 사용자 전용 VDI(가상 데스크톱 인프라)에서 지원됩니다. 엔터프라이즈용 Microsoft 365 앱은 볼륨 라이선스 프로그램을 통해 구매한 경우 RDS(원격 데스크톱 서비스)만 지원됩니다.<br/>
-Office 365 E3 및 엔터프라이즈용 Microsoft 365 앱에 대한 볼륨 정품 인증 <sup>9개는</sup> RDS 역할이 사용하도록 설정된 Windows Server 2008 R2 이상 또는 Windows To Go 설치로 제한됩니다. 어느 경우든 이러한 설치에 액세스하는 사용자는 Office 365 E3 또는 엔터프라이즈용 Microsoft 365 앱의 사용이 허가된 사용자로 설정해야 합니다.<br/> 
-Office 365 F3의 <sup>10</sup> 비즈니스용 Skype 기능에는 비즈니스용 Skype 요금제 1이 포함되어 있습니다(데스크톱 공유 없음, 앱 공유 없음, 다중 모임 오디오, 비디오 또는 웹 회의를 시작할 수 없음, 모임 예약할 수 없음).<br/> 
+Office 365 E3 및 엔터프라이즈용 Microsoft 365 앱에 대한 볼륨 정품 인증 <sup>9개는</sup> RDS 역할이 사용하도록 설정되거나 Windows To Go 설치가 있는 Windows Server 2008 R2 이상에 대한 설치로 제한됩니다. 어느 경우든 이러한 설치에 액세스하는 사용자는 Office 365 E3 또는 엔터프라이즈용 Microsoft 365 앱의 사용이 허가된 사용자로 설정해야 합니다.<br/> 
+Office 365 F3의 <sup>10</sup> 비즈니스용 Skype 기능에는 비즈니스용 Skype 플랜 1이 포함되어 있습니다(데스크톱 공유 없음, 앱 공유 없음, 다중 사용자 간 오디오, 비디오 또는 웹 회의를 시작할 수 없음, 모임을 예약할 수 없음).<br/> 
 현재 채널 또는 지연 채널의 대상 릴리스에 있는 경우 <sup>11</sup> Access를 현재 사용할 수 있습니다. 지연 채널에 있는 경우 2017년 6월에 Access가 제공될 예정입니다. 자세한 내용은 [Microsoft 365 및 Office 365 구독의](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef)일부로 포함된 Access를 참조하세요.<br/> 
 <sup>12</sup> Infopath 2013은 계속 지원되어 Office Professional Plus 2016 설치에 제공되지만 Office 2016의 새 버전은 없습니다.<br/> 
 <sup>13</sup> 10.1인치 이하의 통합 화면이 있는 디바이스로 제한됩니다.<br/> 
-<sup>14</sup> 파워 쿼리는 [Excel용 Microsoft Power Query에서](https://www.microsoft.com/download/details.aspx?id=39379)다운로드할 수 있는 무료 추가 기능입니다. 사용하도록 설정하면 전원 쿼리 기능을 리본의 파워 쿼리 탭에서 사용할 수 있습니다.
+<sup>14</sup> 파워 쿼리는 Excel용 Microsoft Power Query에서 다운로드할 수 있는 무료 추가 [기능입니다.](https://www.microsoft.com/download/details.aspx?id=39379) 사용하도록 설정하면 전원 쿼리 기능을 리본의 파워 쿼리 탭에서 사용할 수 있습니다.<br/> 
+<sup>15</sup> 웹앱에 대한 정책 및 클라이언트 앱에 대한 개인 정보 취급 방침으로 제한됩니다.<br/> 
+<sup>16</sup> 웹앱에 대한 정책으로 제한됩니다.
 
 ## <a name="office-application-availability-in-office-for-mac-plans"></a>Mac용 Office 계획의 Office 응용 프로그램 가용성
 
@@ -134,7 +137,7 @@ Office 365 F3의 <sup>10</sup> 비즈니스용 Skype 기능에는 비즈니스�
 |데이터 형식 | 아니요 | 아니요 | 아니요 |
 |플래시 채우기  | 아니요 | 아니요 | 아니요 |
 |아이디어(Insight Services) | 아니요 | 아니요 | 아니요 |
-|Power BI와의 통합 개선(사용자 지정 시각적 개체, Excel에서 바로 PBI 차트 만들기) | 아니요 | 아니요 | 아니요 |
+|Power BI와의 통합 개선(사용자 지정 시각 효과, Excel에서 바로 PBI 차트 만들기) | 아니요 | 아니요 | 아니요 |
 |지능형 디지털 Ink | 아니요 | 아니요 | 아니요 |
 |Office 365 그룹 | 아니요 | 아니요 | 아니요 |
 |피벗카트에 연결된 피벗 도우미 데이터 | 아니요 | 아니요 | 아니요 |
@@ -169,7 +172,7 @@ Office 365 F3의 <sup>10</sup> 비즈니스용 Skype 기능에는 비즈니스�
 |PowerPoint에서 & 자막이 있는 라이브 캡션 | 아니요 | 아니요 | 아니요 |
 |발표자 코치 | 아니요 | 아니요 | 아니요 |
 |Shared with Me| 아니요 | 아니요 | 아니요 |
-|비즈니스용 Skype와 공유 통합| 아니요 | 아니요 | 아니요 |
+|공유와 비즈니스용 Skype 통합| 아니요 | 아니요 | 아니요 |
 |버전 기록 | 아니요 | 아니요 | 아니요 |
 |Office 365 그룹 | 아니요 | 아니요 | 아니요 |
 |실시간 공동 작업(현재 상태, 정기 공동 작성, 문서 내 채팅) | 아니요 | 아니요 | 아니요 |
@@ -198,10 +201,10 @@ Office 365 F3의 <sup>10</sup> 비즈니스용 Skype 기능에는 비즈니스�
 |지능형 디지털 Ink | 아니요 | 아니요 | 아니요 |
 |Shared with Me | 아니요 | 아니요 | 아니요 |
 |Translation | 아니요 | 아니요 | 아니요 |
-|비즈니스용 Skype와 공유 통합 | 아니요 | 아니요 | 아니요 |
+|공유와 비즈니스용 Skype 통합 | 아니요 | 아니요 | 아니요 |
 |버전 기록 | 아니요 | 아니요 | 아니요 |
 |Office 365 그룹 | 아니요 | 아니요 | 아니요 |
-|공동 작성자와의 상황에 맞는 채팅: 문서 내에서 공동 작성자와 채팅 | 아니요 | 아니요 | 아니요 |
+|공동 작성자와 상황 맞는 채팅: 문서 내에서 공동 작성자와 채팅 | 아니요 | 아니요 | 아니요 |
 |받아쓰기| 아니요<sup>1</sup> | 아니요<sup>1</sup> | 아니요<sup>1</sup> |
 
 > [!NOTE]
