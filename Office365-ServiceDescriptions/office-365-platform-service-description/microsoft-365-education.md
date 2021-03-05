@@ -8,19 +8,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
-description: Microsoft 365와 Office 365 Education 요금제의 차이점에 대해 자세히 알아보고,
-ms.openlocfilehash: 737f900412cdd252b3b06d56ef9281cdf09e5333
-ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
+description: Microsoft 365 및 Office 365 Education 계획 간의 차이점에 대해 자세히 알아보습니다.
+ms.openlocfilehash: 9205ade4bceacbbad7877076175f37f95cf5dd49
+ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50241044"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50460227"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
-Microsoft 365는 조직의 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 제공됩니다. Microsoft 365와 Office 365 Education 요금제의 차이점을 원할 경우 이 문서에서는 각 요금제에 포함된 기능을 보여 주게 됩니다.
+Microsoft 365는 조직의 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 제공됩니다. Microsoft 365 및 Office 365 Education 요금제 간의 차이점을 원할 경우 이 문서에서는 각 요금제에 포함된 기능을 보여 제공합니다.
   
-Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 비롯한 전체 시스템을 제공합니다. 다음 표에는 Office 365 for Education A1, A3 및 A5 기능이 해당 Microsoft 365 for Education A3 및 A5 기능과 함께 나열됩니다. 비즈니스 및 엔터프라이즈 계획 간 기능을 비교하기 위해 [비즈니스용 Microsoft 365](https://go.microsoft.com/fwlink/?linkid=799177)요금제 비교를 참조하거나, 기능의 자세한 목록은 [Microsoft 365 및 Office 365](../office-365-service-descriptions-technet-library.md)서비스 설명 아래에서 관련 서비스 설명을 참조하세요. 지원 문서 및 정보를 검색하기 위해 [Office 도움말 교육을 &amp; 참조하세요.](https://support.office.com/)
+Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 비롯한 전체 시스템을 제공합니다. 다음 표에는 Office 365 for Education A1, A3 및 A5 기능과 해당 Microsoft 365 for Education A3 및 A5 기능이 나열됩니다. 비즈니스 및 엔터프라이즈 계획 간 기능을 비교하기 위해 [비즈니스용 Microsoft 365](https://go.microsoft.com/fwlink/?linkid=799177)요금제 비교를 참조하거나, 기능의 자세한 목록은 [Microsoft 365 및 Office 365](../office-365-service-descriptions-technet-library.md)서비스 설명에서 관련 서비스 설명을 참조하세요. 지원 문서 및 정보를 검색하기 위해 [Office 도움말 교육을 &amp; 참조하세요.](https://support.office.com/)
   
 ## <a name="services-and-features"></a>서비스 및 기능
 
@@ -40,7 +40,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |Yammer Academic|예|예|예|예|예|예|예|예|예|
 |Microsoft Stream|예|예|예|예|예|예|예|예|예|
 |Microsoft Planner|예|예|예|예|예|예|예|예|예|
-|**교실 도구**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 Education A3 학생 사용 혜택**|**Microsoft 365 Education A5 학생 사용 혜택**|
+|**강의실 도구**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 Education A3 학생 사용 혜택**|**Microsoft 365 Education A5 학생 사용 혜택**|
 |Microsoft Teams의 교실 환경|예|예|예|예|예|예|예|예|예|
 |OneNote 수업용 전자 필기장|예|예|예|예|예|예|예|예|예|
 |Microsoft Sway|예|예|예|예|예|예|예|예|예|
@@ -49,8 +49,8 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |접근성 검사|예|예|예|예|예|예|예|예|예|
 |Office Lens|예|예|예|예|예|예|예|예|예|
 |코드 작성기에서 Minecraft Education Edition|아니요|아니요|아니요|예|예|아니요|아니요|예|예|
-|시험 앱|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
-|학생 PC 설정 앱|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
+|시험 앱 사용|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
+|학생 PC 앱 설정|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
 |**음성 비디오 및 모임**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 Education A3 학생 사용 혜택**|**Microsoft 365 Education A5 학생 사용 혜택**|
 |Skype 모임 브로드캐스트|아니요|예|예|예|예|아니요|아니요|아니요|아니요|
 |Microsoft Bookings|아니요|예|예|예|예|아니요|아니요|아니요|아니요|
@@ -70,11 +70,11 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |Azure Information Protection 계획 2|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|
 |소송 대기|아니요|예|예|예|예|예|예|예|예|
 |콘텐츠 검색|예|예|예|예|예|예|예|예|예|
-|Core eDiscovery(보류 및 내보내기 포함)|아니요|예|예|예|예|예|예|예|예|
+|핵심 eDiscovery(보류 및 내보내기 포함)|아니요|예|예|예|예|예|예|예|예|
 |Office 365 고급 eDiscovery|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |전자 메일 및 파일에 대한 DLP(데이터 손실 방지)|예|예|예|예|예|예|예|예|예|
 |끝점 DLP|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|
-|커뮤니케이션 DLP(Teams 채팅)|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
+|Communications DLP(Teams 채팅)|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |커뮤니케이션 규정 준수|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |고객 키|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |기본 감사|예|예|예|예|예|예|예|예|예|
@@ -83,18 +83,18 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |고급 Office 365 메시지 암호화|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |Customer Lockbox|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |내부자 위험 관리|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|
-|권한이 부여된 액세스 관리|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
+|권한 있는 액세스 관리|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |**관리 및 보안**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 Education A3 학생 사용 혜택**|**Microsoft 365 Education A5 학생 사용 혜택**|
-|Microsoft Defender for Office 365<sup>10</sup> 계획 2|아니요|아니요|아니요|아니요|예|아니요|예|아니요|예|
+|Microsoft Defender for Office 365<sup>10</sup> 요금제 2|아니요|아니요|아니요|아니요|예|아니요|예|아니요|예|
 |학교 데이터 동기화|예|예|예|예|예|예|예|예|예|
 |고급 보안 관리|아니요|예|예|예|예|아니요|아니요|아니요|아니요|
 |Intune for Education<sup>6</sup>|아니요|아니요|아니요|예|예|아니요|아니요|예|예|
 |Advanced Threat Analytics|아니요|아니요|아니요|예|예|아니요|아니요|예|예|
 |Microsoft Defender 바이러스 백신|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
 |Microsoft Defender Device Guard|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
-|Id<sup>11용</sup> Microsoft Defender|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|예|
+|Microsoft Defender for Identity<sup>11</sup>|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|예|
 |Office 365 Cloud App Security|아니요|아니요|아니요|아니요|예|예|예|예|예|
-|Microsoft 365 Cloud App Security|아니요|아니요|아니요|아니요|아니요|아니요|아니요|예|예|
+|Microsoft 365 Cloud App Security|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|예|
 |끝점<sup>12용</sup> Microsoft Defender|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|
 |**서버 및 CAL 이점**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 Education A3 학생 사용 혜택**|**Microsoft 365 Education A5 학생 사용 혜택**|
 |Exchange<sup>7</sup>|아니요|아니요|아니요|예<sup>8</sup>|예|아니요|아니요|아니요|아니요|
@@ -105,14 +105,14 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |System Center Endpoint Protection|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
 
 > [!NOTE]
-> <sup>1</sup> Exchange Online 계획 1과 추가 기능이 포함되어 있습니다. <br/>
+> <sup>1</sup> Exchange Online 계획 1과 추가 기능이 포함됩니다. <br/>
 > <sup>2</sup> Exchange Online 계획 2가 포함됩니다. <br/>
 > <sup>3</sup> SharePoint Online 계획 1과 추가 기능이 포함됩니다. <br/>
-> <sup>4에는</sup> SharePoint Online 계획 2가 포함됩니다. <br/>
-> <sup>5</sup> Microsoft Project는 Office 365에 포함되어 있지 않지만 별도로 취득할 수 있습니다. Project Online Essentials는 무료입니다. 학생이나 교육 기관인 경우 교육용 가격으로 Project Plan 3 및 요금제 5를 구입할 수 있습니다. <br/>
-> <sup>6</sup> Intune 포함 <br/>
-> Exchange, SharePoint 및 비즈니스용 Skype에는 <sup>7개</sup> 서버 및 CA가 포함되어 있습니다. <br/>
-> <sup>구입한</sup> A3 버전에 따라 ECAL 또는 Core CAL 8개(A5와 함께 ECAL 권한 포함) <br/>
+> <sup>4</sup> SharePoint Online 계획 2가 포함됩니다. <br/>
+> <sup>5</sup> Microsoft Project는 Office 365에 포함되지 않지만 별도로 취득할 수 있습니다. Project Online Essentials는 무료입니다. 학생 또는 교육 기관인 경우 Project Plan 3 및 Plan 5를 교육 가격으로 구입할 수 있습니다. <br/>
+> <sup>6</sup> Intune을 포함합니다. <br/>
+> <sup>7</sup> Exchange, SharePoint 및 비즈니스용 Skype에 대한 서버 및 CA가 포함되어 있습니다. <br/>
+> <sup>8</sup> ECAL 또는 Core CAL( 구입한 A3 버전에 따라 A5 포함) ECAL 권리가 포함됩니다. <br/>
 > <sup>9</sup> 보호 기능을 적용하고 Outlook 데스크톱에서 보호된 전자 메일을 보내기 위해서는 Microsoft 365 앱이 필요합니다. <br/>
 > <sup>10</sup> 이전의 Office 365 Advanced Threat Protection. <br/>
 > <sup>11</sup> 이전의 Azure Advanced Threat Protection. <br/>
