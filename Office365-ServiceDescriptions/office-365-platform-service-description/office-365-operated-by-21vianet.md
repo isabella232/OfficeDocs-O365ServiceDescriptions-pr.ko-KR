@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영하는 Office 365는 중국의 안전하고 안정적이며 확장 가능한 클라우드 서비스에 대한 요구를 충족하도록 디자인됩니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: 68f57eef2133d6993d269489b883ea1d62a745d0
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 46b4ab887cee6d01733814a88e874b968b7c35ae
+ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460307"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50572744"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -163,7 +163,7 @@ Microsoft 365 규정 준수 센터는 조직의 규정 준수 요구를 관리�
 |**[서비스 업데이트](service-updates.md)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영하는 Office 365 Enterprise F3**|
 |모든 고객에게 제공되는 정규 업데이트|예|예|예|예|예|예|예|
 |작업이 필요하거나, 문제가 해결되거나, 기능이 배포되거나, 서비스가 변경될 때 메시지 센터로 전송되는 알림|예|예|예|예|예|예|예|
-|[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) 업데이트에 대한 업데이트|아니요|--|아니요|아니요|아니요|아니요|아니요|
+|[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) 업데이트에 대한 업데이트|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |대상 지정 릴리스를 설정하는 옵션|아니요|--|아니요|아니요|예|예|예|
 |**[도움말 및 학습](help-and-training.md)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영하는 Office 365 Enterprise F3**|
 |온라인 도움말|예|예|예|예|예|예|예|

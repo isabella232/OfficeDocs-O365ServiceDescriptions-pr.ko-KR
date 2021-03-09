@@ -2,7 +2,6 @@
 title: 보안 및 규정 준수를 위한 Microsoft 365 & 지침
 ms.author: office365servicedesc
 author: pamelaar
-manager: gailw
 ms.reviewer: v-trscho
 audience: ITPro
 ms.topic: reference
@@ -12,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가되지 않은 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 Microsoft 365 규정 준수에 대한 라이선스 지침을 제공합니다.
-ms.openlocfilehash: f21b4f5651a79e4cc890090406694ffea4d03e2f
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 68bbb37734f1fc708e0b05ef3b152cf878757b48
+ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460257"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50572724"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>보안 준수를 위한 Microsoft 365 라이선싱 &amp; 지침
 
