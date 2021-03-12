@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함 하는 구독의 기능 비교를 찾고 있습니까? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: 43ee44473f69fd2d5183be8b481a58329d0bf23d
-ms.sourcegitcommit: a31d389e913409197bfb4ce0adb9a0b34ac69c7f
+ms.openlocfilehash: 7fccd99b34860b0f07604e2dc7b079e932625fc4
+ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/01/2021
-ms.locfileid: "50069263"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726753"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -34,12 +34,12 @@ Exchange Online을 포함 하는 구독의 기능 비교를 찾고 있습니까?
   
 Microsoft Exchange Online은 Microsoft Exchange Server의 기능을 클라우드 기반 서비스로 전달하는 호스트 메시징 솔루션입니다. 이 솔루션은 PC, 웹, 모바일 장치로부터 전자 메일, 일정, 연락처 및 작업에 액세스할 수 있도록 하며, Active Directory와 완전히 통합되어 관리자가 그룹 정책과 다른 관리 도구를 통해 환경 전반에서 Exchange Online 기능을 관리할 수 있도록 합니다.
   
-Exchange Online을 구독한 조직은 사용자에게 제공하는 메시징 서비스에 대한 제어 권한은 유지하면서도 온-프레미스 서버 소프트웨어에 대한 작업 부담을 덜 수 있습니다. 이 문서에서 설명한 Exchange Online 호스트 계획을 사용하여, 다중 고객을 동시에 지원하는 서버에서 전자 메일이 호스트됩니다. 이러한 서버는 Microsoft 데이터 센터에 있으며 회사 네트워크 내부 또는 인터넷을 통해 다양한 디바이스의 사용자가 액세스할 수 있습니다.
+Exchange Online을 구독한 조직은 사용자에게 제공하는 메시징 서비스에 대한 제어 권한은 유지하면서도 온-프레미스 서버 소프트웨어에 대한 작업 부담을 덜 수 있습니다. 이 문서에서 설명한 Exchange Online 호스트 계획을 사용하여, 다중 고객을 동시에 지원하는 서버에서 전자 메일이 호스트됩니다. 이러한 서버는 Microsoft 데이터 센터에 있으며 회사 네트워크 내부 또는 인터넷을 통해 광범위한 디바이스의 사용자가 액세스할 수 있습니다.
   
-계획에서 기능을 비교할 수 있는 강력한 도구를 [참조하여 엔터프라이즈를 지원할 수 있습니다.](https://products.office.com/business/compare-more-office-365-for-business-plans) Office 365 Germany의 요금제를 비교하려면 [Office 365 Germany 구독 요금제](https://go.microsoft.com/fwlink/?linkid=839016)를 참조하세요.
+계획에서 기능을 비교하는 데 필요한 강력한 도구는 [엔터프라이즈를 지원하기 위한 강력한 도구를 참조합니다.](https://products.office.com/business/compare-more-office-365-for-business-plans) Office 365 Germany의 요금제를 비교하려면 [Office 365 Germany 구독 요금제](https://go.microsoft.com/fwlink/?linkid=839016)를 참조하세요.
   
 > [!TIP]
-> Microsoft 서비스 설명에서 페이지를 내보내고 저장하고 인쇄할 수 있습니다. 콘텐츠 검색 결과를 [내보내는 방법을 자세히 알아보겠습니다.](https://docs.microsoft.com/office365/securitycompliance/export-search-results) 
+> Microsoft 서비스 설명에서 페이지를 내보내고 저장하고 인쇄할 수 있습니다. 콘텐츠 검색 결과를 [내보내는 방법에 대해 자세히 알아보겠습니다.](https://docs.microsoft.com/office365/securitycompliance/export-search-results) 
   
 ## <a name="whats-new-in-exchange-admin-center"></a>Exchange 관리 센터의 새로운 기능
 
@@ -47,7 +47,7 @@ Exchange 관리 센터의 새로운 기능에 대한 자세한 내용은 Exchang
   
 ## <a name="plans-for-exchange-online"></a>Exchange Online 계획
 
-Microsoft 365는 조직의 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 제공됩니다. 독립 실행형 계획 옵션 및 계획에서 다른 요금제로의 이동에 대한 정보는 [Office 365](../office-365-platform-service-description/office-365-plan-options.md)계획 옵션을 참조하세요.
+Microsoft 365는 조직의 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 제공됩니다. 사용자가 Exchange Online을 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
 Exchange Online 서비스에 액세스하는 각 사용자는 구독 계획을 선택해야 하며, 각 사용자 구독에는 자체 사서함이 있습니다. 이러한 사서함의 폴더와 메시지는 Microsoft 데이터 센터에서 Exchange Server를 실행하는 컴퓨터에 있습니다.
   
@@ -58,7 +58,7 @@ Microsoft 365 F1에는 Exchange 사서함에 대한 권한은 포함되어 있�
   
 ## <a name="system-requirements-for-exchange-online"></a>Exchange Online에 대한 시스템 요구 사항
 
-시스템 요구 사항, 비즈니스, 교육 및 정부 조직에 사용할 수 있는 월별 구독 기반 서비스는 [Microsoft 365 및 Office 리소스를 참조하세요.](https://products.office.com/office-system-requirements/#Office365forBEG)
+시스템 요구 사항, 비즈니스, 교육 및 정부 조직에서 사용할 수 있는 월별 구독 기반 서비스는 [Microsoft 365 및 Office 리소스를 참조하세요.](https://products.office.com/office-system-requirements/#Office365forBEG)
   
 ## <a name="storage-and-recipient-limits-for-exchange-online"></a>Exchange Online의 저장소 및 받는 사람 제한
 
@@ -66,7 +66,7 @@ Exchange Online 구독 계획에서 사용할 수 있는 저장소 및 받는 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-조직에 현재 Office 365 Small Business, Office 365 Small Business Premium 또는 Office 365 Midsize Business 구독이 있는 경우 Microsoft 365 관리 센터의 메시지 센터를 방문하거나 공급자에게 문의하여 새 Microsoft 365 앱 계획이 미치는 영향에 대한 자세한 내용을 문의하세요. 새 Microsoft 365 앱 요금제 패밀리에 대한 자세한 내용은 중소기업용 새 요금제를 [참조하세요.](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)
+조직에 현재 Office 365 Small Business, Office 365 Small Business Premium 또는 Office 365 Midsize Business 구독이 있는 경우 Microsoft 365 관리 센터의 메시지 센터를 방문하거나 공급자에게 문의하여 새 Microsoft 365 앱 계획이 미치는 영향에 대한 자세한 내용을 확인하십시오. 새 Microsoft 365 앱 요금제 패밀리에 대한 자세한 내용은 중소기업을 위한 새 요금제 [를 참조하세요.](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)
 
 Microsoft 365 Business Premium의 기능 가용성은 [Microsoft 365 Business Premium 서비스 설명을 참조하세요.](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md)<br/><br/>
   
@@ -87,9 +87,9 @@ Microsoft 365 Business Premium의 기능 가용성은 [Microsoft 365 Business Pr
 |MRM(메시징 레코드 관리) |예|예|예|예|예|예|예|예|
 |수동 보존 정책, 레이블 및 태그 |아니요|아니요|아니요|아니요|예|예|예|예|
 |보관된 데이터 암호화(BitLocker)|예<sup>15</sup>|예<sup>15</sup>|예|예|예|예|예|예|
-|Azure Information Protection을 사용한 IRM|아니요|예|<sup>아니요 2</sup>|<sup>아니요 2</sup>|<sup>아니요 2</sup>|예|예|<sup>아니요 2</sup>|
+|Azure Information Protection을 사용한 IRM|아니요|예|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|예|예|아니요<sup>2</sup>|
 |Windows Server AD RMS를 사용한 IRM|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|
-|Office 365 메시지 암호화|예<sup>13</sup>|예<sup>13</sup>|<sup>아니요 2</sup>|<sup>아니요 2</sup>|<sup>아니요 2</sup>|예|예|<sup>아니요 2</sup>|
+|Office 365 메시지 암호화|예<sup>13</sup>|예<sup>13</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|예|예|아니요<sup>2</sup>|
 |고객 키<sup>22</sup>|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요||
 |S/MIME|예<sup>15</sup>|예<sup>15</sup>|예|예|예|예|예|예||
 |원본 위치 유지 및 소송 보존|예|예|아니요|아니요|아니요|예|예|아니요|
@@ -118,7 +118,7 @@ Microsoft 365 Business Premium의 기능 가용성은 [Microsoft 365 Business Pr
 |위임 액세스|예|예|예|예|예|예|예|<sup>24 없음</sup>|
 |받은 편지함 규칙|예|예|예|예|예|예|예|예|
 |연결된 계정|예|예|예|예|예<sup>17</sup>|예<sup>17</sup>|예<sup>17</sup>|예<sup>17</sup>|
-|비활성 사서함|아니요|아니요|<sup>아니요 9</sup>|<sup>아니요 9</sup>|<sup>아니요 9</sup>|예|예|아니요 <sup>9</sup>|
+|비활성 사서함|아니요|아니요|아니요<sup>9</sup>|아니요<sup>9</sup>|아니요<sup>9</sup>|예|예|아니요 <sup>9</sup>|
 |오프라인 주소록|예|예|예|예|예|예|예|예|
 |주소록 정책|예|예|예|예|예|예|예|예|
 |계층적 주소부|예|예|예|예|예|예|예|아니요|
@@ -149,7 +149,7 @@ Microsoft 365 Business Premium의 기능 가용성은 [Microsoft 365 Business Pr
 |Outlook for Mac<sup>21</sup>|예|예|예|예|예|예|예| 아니요|
 |iOS 및 Android용 Outlook<sup>21</sup>|예<sup>25</sup>|예<sup>25</sup>|예|예|예|예|예|예|
 |Exchange ActiveSync|예|예|예|예|예|예|예|예|
-|Microsoft 365의 기본 이동성 및 보안|아니요|아니요|예|예|예|예|예|예|
+|Microsoft 365의 기본 모바일 및 보안|아니요|아니요|예|예|예|예|예|예|
 |POP 및 IMAP|예|예|예|예|예|예|예|예 <sup>12</sup>|
 |SMTP|예|예|예|예|예|예|예|예|
 |EWS 응용 프로그램 지원|예|예|예|예|예|예|예|아니요|
@@ -165,7 +165,7 @@ Microsoft 365 Business Premium의 기능 가용성은 [Microsoft 365 Business Pr
 |단일 항목 복구|예|예|예|예|예|예|예|아니요||
 |**[상호 운용성, 연결 및 호환성](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |OWA 및 Outlook의 비즈니스용 Skype 현재 상태|예|예|예|예|예|예|예|예|
-|SharePoint 상호 연결성|예|예|예|예|예|예|예|예|
+|SharePoint 상호 연동성|예|예|예|예|예|예|예|예|
 |EWS 연결 지원<sup>26</sup>|예|예|예|예|예|예|예|예|
 |SMTP 릴레이 지원|예|예|예|예|예|예|예|예|
 |**[Exchange Online 설치 및 관리](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
@@ -179,31 +179,31 @@ Microsoft 365 Business Premium의 기능 가용성은 [Microsoft 365 Business Pr
 |Outlook 추가 기능 및 Outlook MAPI|예<sup>19</sup>|예|예<sup>19</sup>|예<sup>19</sup>|예<sup>19</sup>|예<sup>19</sup>|예<sup>19</sup>|아니요|
 
 <sup>1</sup> 클라우드 Exchange Online Archiving 보관 사서함이 있는 각 사서함 사용자에 대해 사용자 구독이 필요합니다. <br/>
-<sup>2</sup> Azure Information Protection은 포함되어 있지 않지만 별도의 추가 기능으로 구매할 수 있으며 지원되는 IRM(정보 권한 관리) 기능을 사용하도록 설정할 수 있습니다. 일부 Azure Information Protection 기능을 사용하려면 Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F3에 포함되지 않은 엔터프라이즈용 Microsoft 365 앱을 구독해야 합니다. <br/>
+<sup>2</sup> Azure Information Protection은 포함되어 있지 않지만 별도의 추가 기능으로 구매할 수 있으며 지원되는 IRM(정보 권한 관리) 기능을 사용하도록 설정할 수 있습니다. 일부 Azure Information Protection 기능을 사용하려면 Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F3에 포함되어 있지 않은 엔터프라이즈용 Microsoft 365 앱을 구독해야 합니다. <br/>
 <sup>3</sup> Windows Server AD RMS는 지원되는 IRM 기능을 사용하기 위해 별도로 구입하여 관리해야 하는 온-프레미스 서버입니다. <br/>
-<sup>4</sup> 전송 규칙은 조건을 정의하고 예외를 정의하고 조건을 기반으로 수행할 작업을 정의할 수 있는 유연한 조건으로 구성됩니다. Exchange Online과 2013에 따라 사용 가능한 기준과 Microsoft Exchange Server 다릅니다. 사용 가능한 조건 및 작업 목록은 각 제품에 대한 해당 조건 및 작업 항목을 참조하세요. <br/>
+<sup>4</sup> 전송 규칙은 유연한 기준으로 구성됩니다. 이 조건을 기반으로 조건 및 예외 및 수행할 작업을 정의할 수 있습니다. Exchange Online과 2013의 경우 사용 가능한 기준과 Microsoft Exchange Server 다릅니다. 사용 가능한 기준 및 작업 목록은 각 제품에 대한 해당 조건 및 작업 항목을 참조하세요. <br/>
 <sup>5</sup> Exchange 2013의 경우 DLP에는 Exchange Enterprise CAL(클라이언트 액세스 라이선스)이 필요합니다. CA 및 서버 라이선스에 대한 자세한 내용은 Exchange 라이선스 [FAQ를 참조하세요.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business) <br/>
-<sup>6</sup> Exchange Server 2013에는 2010과 동일한 기본 제공 스팸 방지 기능이 Exchange Server 있습니다. Exchange가 호스팅하는 스팸 필터링의 이점에 대한 자세한 내용은 Exchange Online Protection Over Exchange Server [2013의](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)스팸 방지 기능의 이점을 참조하세요. <br/>
+<sup>6</sup> Exchange Server 2013에는 대부분의 기본 제공 스팸 방지 기능이 2010과 Exchange Server 있습니다. Exchange에서 호스팅되는 스팸 필터링의 이점에 대한 자세한 내용은 Benefits [of Anti-Spam Features in Exchange Online Protection Over Exchange Server 2013을 참조하세요.](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help) <br/>
 <sup>7</sup> EAC(Exchange 관리 센터) 관리 인터페이스에 대한 직접 액세스를 통해서만 액세스할 수 있습니다. <br/>
-<sup>8</sup> Exchange Server 2013에서는 Microsoft 맬웨어 방지 엔진만 사용했습니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다. <br/>
+<sup>8</sup> Exchange Server 2013에서는 Microsoft 맬웨어 방지 엔진만 사용 합니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다. <br/>
 <sup>9</sup> 비활성 사서함 또는 보관 기능이 필요한 각 사서함에 대해 EOA 구독을 별도로 구매할 수 있습니다.<br/>
-<sup>10</sup> SharePoint는 프레미스 Exchange 조직에 배포해야 합니다. <br/>
+<sup>10</sup> SharePoint는 사내 Exchange 조직에 배포해야 합니다. <br/>
 <sup>11</sup> SharePoint Online이 구독 계획에 포함되어야 합니다. <br/>
 <sup>12</sup> POP가 지원되지만 IMAP는 지원되지 않습니다. <br/>
-<sup>13</sup> Azure Information Protection을 구입한 Exchange Server 2013의 프레미스 고객에게 지원됩니다. Office 365 메시지 암호화를 사용하려면 Exchange Online Protection을 사용하여 전자 메일 필터링을 수행하거나 하이브리드 메일 흐름을 설정하여 Exchange Online을 통해 전자 메일을 라우팅해야 합니다. <br/>
-<sup>14</sup> Exchange Server 2013 고객은 OWA 및 장치용 OWA의 문서 지문 및 정책 팁에 액세스하려면 SP1을 다운로드하고 설치해야 합니다. <br/>
+<sup>13</sup> Azure Information Protection을 Exchange Server 2013의 프레미스 고객에게 지원됩니다. Office 365 메시지 암호화를 사용하려면 전자 메일 필터링에 Exchange Online Protection을 사용하거나 하이브리드 메일 흐름을 설정하여 Exchange Online을 통해 전자 메일을 라우팅해야 합니다. <br/>
+<sup>14</sup> Exchange Server 2013 고객은 OWA 및 장치용 OWA의 문서 지문 및 정책 팁에 액세스하려면 SP1을 다운로드하여 설치해야 합니다. <br/>
 <sup>15</sup> BitLocker 드라이브 암호화는 Exchange Server 2013에서 지원되지만 관리자는 이 기능을 사용하도록 설정해야 합니다. <br/>
-<sup>16</sup> Microsoft 365 Business Basic, Microsoft 365 Business Standard 및 Office 365 Enterprise F3은 Office 프레미스 서버 사용에 대한 액세스 권한을 제공하지 않습니다. 규정을 준수하려면 고객은 적절한 CA를 구매하거나 이전에 구매했거나 이러한 액세스 권한을 제공하는 엔터프라이즈 SKU로 업그레이드해야 합니다. <br/>
-<sup>연결된 계정 17개는</sup> POP IMAP 계정에 대해 지원되지만 &amp; Hotmail(Hotmail)에서는 Outlook.com 사용하지 않도록 설정됩니다. <br/>
+<sup>16</sup> Microsoft 365 Business Basic, Microsoft 365 Business Standard 및 Office 365 Enterprise F3는 Office 프레미스 서버와의 사용에 대한 액세스 권한을 제공하지 않습니다. 규정을 준수하려면 고객은 적절한 CA를 구매했거나 이전에 이러한 액세스 권한을 제공하는 엔터프라이즈 SKU로 업그레이드해야 합니다. <br/>
+<sup>17</sup> 연결된 계정은 POP IMAP 계정에 대해 &amp; 지원되지만 Hotmail(Hotmail)에는 Outlook.com 사용할 수 없습니다. <br/>
 <sup>18</sup> Exchange Online PowerShell에서 cmdlet을 사용하여 기본 주소 목록 및 기본 GAL(전체 주소 목록)을 사용자 지정하는 것은 지원되지 않습니다. <br/>
-<sup>19</sup> 일부 타사 웹 파트 및 추가 기능을 사용할 수 없는 경우도 있습니다. <br/>
+<sup>19</sup> 일부 타사 웹 파트 및 추가 기능을 사용할 수 없습니다. <br/>
 <sup>20</sup> eDiscovery의 경우, 클라우드와의 별도 쿼리가 필요합니다. <br/>
-<sup>21</sup> 이 표에는 클라이언트가 연결된 계획에서 작동하는지 여부가 표시됩니다. 이러한 계획 구매에 클라이언트가 반드시 포함되어야 하는 것을 의미하지는 않습니다. <br/>
-<sup>22</sup> 자세한 내용은 고객 키를 [사용하여 서비스 암호화를 참조하세요.](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) <br/>
-고객 운영 SBC의 직접 연결을 통해 타사 PBX 시스템에 대한 <sup>23개</sup> Exchange Online UM 지원은 2019년 4월에 종료됩니다. 자세한 내용은 Exchange Online 통합 메시징에서 세션 경계 컨트롤러에 대한 지원 중단을 Exchange 팀 [블로그를 참조하세요.](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) <br/>
+<sup>21</sup> 이 표는 클라이언트가 연결된 계획에서 작동하는지 여부를 나타냅니다. 이러한 계획 구매에 클라이언트가 반드시 포함되어야 하는 것을 의미하지는 않습니다. <br/>
+<sup>22</sup> 자세한 내용은 고객 키를 사용하여 [서비스 암호화를 참조하세요.](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) <br/>
+<sup>23</sup> 고객이 운영하는 SBC에서 직접 연결을 통해 타사 PBX 시스템에 대한 Exchange Online UM 지원은 2019년 4월에 종료됩니다. 자세한 내용은 Exchange 팀 블로그 Exchange Online 통합 메시징에서 세션 경계 컨트롤러에 대한 지원 [중단을 참조하세요.](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) <br/>
 <sup>24</sup> F3 사용자는 자신의 사서함에 대리인을 추가할 수 없지만 다른 사서함(공유 사서함 포함)에 액세스하여 위임된 작업을 수행할 수 있습니다.<br/>
-<sup>25</sup> 엔터프라이즈용 Microsoft 365 앱 구독은 Exchange Server 2013 및 Exchange Server 2016에 필요합니다.<br/>
-EWS 응용 프로그램 가장에 적용된 <sup>26</sup> EWS 응용 프로그램 지원
+<sup>25</sup> 엔터프라이즈용 Microsoft 365 앱 구독은 Exchange Server 2013 및 Exchange Server 필요합니다.<br/>
+<sup>EWS</sup> 응용 프로그램 가장에 적용되는 26 EWS 응용 프로그램 지원
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Exchange Online 독립 실행형 계획에서의 기능 가용성
 
@@ -224,11 +224,11 @@ EWS 응용 프로그램 가장에 적용된 <sup>26</sup> EWS 응용 프로그�
 |MRM(메시징 레코드 관리) |예|예|예|예|예|
 |수동 보존 정책, 레이블 및 태그|아니요|아니요|예|예|예|
 |보관된 데이터 암호화(BitLocker)|예<sup>16</sup>|예<sup>16</sup>|예|예|예|
-|Azure Information Protection을 사용한 IRM|아니요|예|<sup>11 없음</sup>|<sup>11 없음</sup>|<sup>11 없음</sup>|
+|Azure Information Protection을 사용한 IRM|아니요|예|아니요<sup>11</sup>|아니요<sup>11</sup>|아니요<sup>11</sup>|
 |Windows Server AD RMS를 사용한 IRM|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|
-|Office 365 메시지 암호화|예<sup>13</sup>|예<sup>13</sup>|<sup>11 없음</sup>|<sup>11 없음</sup>|<sup>11 없음</sup>|
+|Office 365 메시지 암호화|예<sup>13</sup>|예<sup>13</sup>|아니요<sup>11</sup>|아니요<sup>11</sup>|아니요<sup>11</sup>|
 |S/MIME|예<sup>15</sup>|예<sup>15</sup>|예|예|예|
-|원본 위치 유지 및 소송 보존|예|예|<sup>17 없음</sup>|예|아니요|
+|원본 위치 유지 및 소송 보존|예|예|<sup>아니요 17</sup>|예|아니요|
 |원본 위치 eDiscovery|예<sup>22</sup>|예<sup>22</sup>|예<sup>22</sup>|예<sup>22</sup>|예<sup>22</sup>|
 |전송 규칙|예 <sup>1</sup>|예 <sup>1</sup>|예 <sup>1</sup>|예 <sup>1</sup>|예 <sup>1</sup>|
 |데이터 손실 방지|예 <sup>10, 14</sup>|예 <sup>10, 14</sup>|아니요|예|아니요|
@@ -298,7 +298,7 @@ EWS 응용 프로그램 가장에 적용된 <sup>26</sup> EWS 응용 프로그�
 |단일 항목 복구|예|예|예|예|아니요|
 |**[상호 운용성, 연결 및 호환성](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 &nbsp; 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
 |OWA 및 Outlook의 비즈니스용 Skype 현재 상태|예|예|예|예|예|
-|SharePoint 상호 연결성|예|예|예|예|예|
+|SharePoint 상호 연동성|예|예|예|예|예|
 |EWS 연결 지원<sup>26</sup>|예|예|예|예|예|
 |SMTP 릴레이 지원|예|예|예|예|예|
 |**[Exchange Online 설치 및 관리](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 &nbsp; 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
@@ -312,29 +312,29 @@ EWS 응용 프로그램 가장에 적용된 <sup>26</sup> EWS 응용 프로그�
 |웹용 Outlook 웹 파트|예|예|예|예|예|
 |Outlook 추가 기능 및 Outlook MAPI|예|예|예<sup>21</sup>|예<sup>21</sup>|아니요|
 
-<sup>1</sup> 전송 규칙은 조건을 정의할 수 있는 유연한 조건과 예외 및 기준에 따라 수행할 작업을 정의할 수 있는 유연한 조건으로 구성됩니다. Exchange Online과 2013에 따라 사용 가능한 기준과 Microsoft Exchange Server 다릅니다. 사용 가능한 조건 및 작업 목록은 각 제품에 대한 해당 조건 및 작업 항목을 참조하세요. <br/>
-<sup>2</sup> Exchange에서 호스팅되는 스팸 필터링의 이점에 대한 자세한 내용은 [2013년](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)10월 2013년 Exchange Online Protection에서 제공하는 스팸 방지 기능의 이점을 Exchange Server 참조하세요. <br/>
-<sup>3</sup> SharePoint는 프레미스 Exchange 조직에 배포해야 합니다. <br/>
+<sup>1</sup> 전송 규칙은 유연한 기준으로 구성됩니다. 이 조건을 기반으로 조건 및 예외 및 수행할 작업을 정의할 수 있습니다. Exchange Online과 2013의 경우 사용 가능한 기준과 Microsoft Exchange Server 다릅니다. 사용 가능한 기준 및 작업 목록은 각 제품에 대한 해당 조건 및 작업 항목을 참조하세요. <br/>
+<sup>2</sup> Exchange에서 호스팅되는 스팸 필터링의 이점에 대한 자세한 내용은 [Benefits of Anti-Spam Features in Exchange Online Protection Over Exchange Server 2013을](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)참조하세요. <br/>
+<sup>3</sup> SharePoint는 사내 Exchange 조직에 배포해야 합니다. <br/>
 <sup>4</sup> SharePoint Online이 구독 계획에 포함되어야 합니다. <br/>
-<sup>5</sup> 클라우드 Exchange Online Archiving 보관 사서함이 있는 각 사서함 사용자에 대해 사용자 구독이 필요합니다. <br/>
-<sup>6</sup> 비활성 Exchange Online Archiving 기능이 필요한 각 사서함에 대해 별도 구독을 구입할 수 있습니다. <br/>
+<sup>5</sup> 클라우드 Exchange Online Archiving 보관 사서함이 있는 각 사서함 사용자에 대해 Exchange Online Archiving 구독이 필요합니다. <br/>
+<sup>6</sup> Exchange Online Archiving 사서함 기능이 필요한 각 사서함에 대해 별도 구독을 구입할 수 있습니다. <br/>
 <sup>7</sup> Exchange Server 2013에서는 Microsoft 맬웨어 방지 엔진만 사용했습니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다. <br/>
-<sup>8</sup> EAC(Exchange 관리 센터) 관리 인터페이스에 직접 액세스하여만 액세스할 수 있습니다. <br/>
+<sup>8</sup> EAC(Exchange 관리 센터) 관리 인터페이스에 대한 직접 액세스를 통해서만 액세스할 수 있습니다. <br/>
 <sup>9</sup> IMAP는 지원되지 않습니다. <br/>
 <sup>10</sup> Exchange 2013 이상에서는 DLP에 Exchange Enterprise CAL(클라이언트 액세스 라이선스)이 필요합니다. CA 및 서버 라이선스에 대한 자세한 내용은 Exchange 라이선스 [FAQ를 참조하세요.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business) <br/>
-<sup>11</sup> Azure Information Protection은 포함되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며 지원되는 IRM(정보 권한 관리) 기능을 사용할 수 있습니다. 일부 Azure Information Protection 기능을 사용하려면 Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F3에 포함되지 않은 엔터프라이즈용 Microsoft 365 앱을 구독해야 합니다. Office 365 메시지 암호화는 Azure Information Protection에 따라 달라 습니다. <br/>
-<sup>12</sup> Windows Server AD RMS는 지원되는 IRM 기능을 사용하도록 설정하기 위해 별도로 구입하고 관리해야 하는 프레미스 서버입니다. <br/>
-<sup>13</sup> Azure Information Protection을 Exchange Server 2013 이상을 실행하는 고객에게 지원됩니다. Office 365 메시지 암호화를 사용하려면 Exchange Online Protection을 사용하여 전자 메일 필터링을 수행하거나 하이브리드 메일 흐름을 설정하여 Exchange Online을 통해 전자 메일을 라우팅해야 합니다. <br/>
+<sup>11</sup> Azure Information Protection은 포함되어 있지 않지만 별도의 추가 기능으로 구매할 수 있으며 지원되는 IRM(정보 권한 관리) 기능을 사용하도록 설정할 수 있습니다. 일부 Azure Information Protection 기능을 사용하려면 Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F3에 포함되어 있지 않은 엔터프라이즈용 Microsoft 365 앱을 구독해야 합니다. Office 365 메시지 암호화는 Azure Information Protection에 따라 달라 습니다. <br/>
+<sup>12</sup> Windows Server AD RMS는 지원되는 IRM 기능을 사용하려면 별도로 구입하고 관리해야 하는 사내 서버입니다. <br/>
+<sup>13</sup> Azure Information Protection을 Exchange Server 2013 이상을 실행하는 고객에게 지원됩니다. Office 365 메시지 암호화를 사용하려면 전자 메일 필터링에 Exchange Online Protection을 사용하거나 하이브리드 메일 흐름을 설정하여 Exchange Online을 통해 전자 메일을 라우팅해야 합니다. <br/>
 <sup>14</sup> Exchange Server 2013 이상을 실행하는 고객은 OWA 및 장치용 OWA의 문서 지문 및 정책 팁에 액세스하려면 최신 CU(누적 업데이트) 또는 바로 이전 CU를 다운로드하여 설치해야 합니다. <br/>
-<sup>15 2013</sup> 이상을 실행하는 Exchange Server 사용할 수 있습니다. <br/>
+<sup>15</sup> 2013 이상을 Exchange Server 고객이 사용할 수 있습니다. <br/>
 <sup>16</sup> BitLocker 드라이브 암호화는 Exchange Server 2013에서 지원되지만 관리자는 이 기능을 사용하도록 설정해야 합니다. <br/>
-<sup>17</sup> Exchange Online 계획 1의 사서함 및 보관 [사서함에 대한 크기 제한이 있습니다.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits) Exchange Online Archiving Exchange Online 추가 기능의 경우 무제한 클라우드 기반 보관함 및 [In-Place Hold가 추가됩니다.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold) <br/>
-<sup>18개</sup> Exchange Online Kiosk OWA를 통해서만 일정에 액세스하거나 공유할 수 있습니다. <br/>
-<sup>연결된 계정 19개는</sup> POP IMAP 계정에 대해 지원되지만 &amp; Hotmail(Hotmail)에서는 Outlook.com 사용하지 않도록 설정됩니다. <br/>
-<sup>20</sup> Exchange Online PowerShell에서 cmdlet을 사용하여 기본 주소 목록을 사용자 지정하고 기본 GAL(전체 주소 목록)은 지원되지 않습니다. <br/>
-<sup>21</sup> 일부 타사 웹 파트 및 추가 기능을 사용할 수 없는 경우도 있습니다. <br/>
-<sup>22</sup> eDiscovery의 경우, 클라우드와의 별도 쿼리가 필요합니다. <br/>
-<sup>23</sup> Exchange Online Kiosk 프레미스 서버 사용에 대한 액세스 권한을 제공하지 않습니다. 규정을 준수하려면 고객은 적절한 CA를 구매하거나 이전에 구매했거나 이러한 액세스 권한을 제공하는 엔터프라이즈 SKU로 업그레이드해야 합니다. <br/>
-<sup>24개</sup> Microsoft 365 그룹을 사용할 수 있는 기능은 축소되어 있습니다.<br/>
-<sup>25</sup> 엔터프라이즈용 Microsoft 365 앱 구독은 Exchange Server 2013 및 Exchange Server 2016에 필요합니다.<br/>
-EWS 응용 프로그램 가장에 적용된 <sup>26</sup> EWS 응용 프로그램 지원
+<sup>17</sup> Exchange Online 계획 1의 사서함 및 보관에 대한 크기 [제한이 있습니다.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits) Exchange Online Archiving Exchange Online 추가 기능의 경우 무제한 클라우드 기반 보관 및 [In-Place Hold가 추가됩니다.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold) <br/>
+<sup>18</sup> Exchange Online Kiosk OWA를 통해서만 일정에 액세스하거나 공유할 수 있습니다. <br/>
+<sup>19</sup> 연결된 계정은 POP IMAP 계정에 대해 &amp; 지원되지만 Hotmail(Hotmail)에 Outlook.com 사용하지 않도록 설정됩니다. <br/>
+<sup>20</sup> Exchange Online PowerShell에서 cmdlet을 사용하여 기본 주소 목록 및 기본 GAL(전체 주소 목록)을 사용자 지정하는 것은 지원되지 않습니다. <br/>
+<sup>21</sup> 일부 타사 웹 파트 및 추가 기능을 사용할 수 없습니다. <br/>
+<sup>22</sup> eDiscovery의 경우, 사내 및 클라우드에 대한 별도의 쿼리가 필요합니다. <br/>
+<sup>23</sup> Exchange Online Kiosk 프레미스 서버와의 사용에 대한 액세스 권한을 제공하지 않습니다. 규정을 준수하려면 고객은 적절한 CA를 구매했거나 이전에 이러한 액세스 권한을 제공하는 엔터프라이즈 SKU로 업그레이드해야 합니다. <br/>
+<sup>24</sup> Microsoft 365 그룹을 사용할 수 있는 기능 제한이 있습니다.<br/>
+<sup>25</sup> 엔터프라이즈용 Microsoft 365 앱 구독은 Exchange Server 2013 및 Exchange Server 필요합니다.<br/>
+<sup>EWS</sup> 응용 프로그램 가장에 적용되는 26 EWS 응용 프로그램 지원

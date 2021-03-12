@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365는 강력한 제로 데이 보호 기능을 제공하여 알 수 없는 맬웨어 및 바이러스로부터 조직을 보호하는 클라우드 기반 전자 메일 필터링 서비스로, 유해한 링크로부터 실시간으로 조직을 보호하는 기능을 포함합니다.
-ms.openlocfilehash: 6116ffdce71686575258c19c7d70159bcefa2134
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: cc8d16f4a0a1058799ee3f5b0873ed6e9bf7f182
+ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460247"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726743"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Office 365용 Microsoft Defender 서비스 설명
 
@@ -60,7 +60,7 @@ Office 365 요금제 2용 Microsoft Defender는 여기에 지정된 Office 365 E
 
 Office 365용 Microsoft Defender를 구입하는 경우 [Office 365용 Microsoft Defender를 참조합니다.](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)
 
-계획에서 기능을 비교하기 위해 [엔터프라이즈를](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 지원하기 위한 강력한 도구 및 [Microsoft 365로 엔터프라이즈 변환을 참조합니다.](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)
+사용자가 Office 365용 Microsoft Defender를 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 표를 [참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 ## <a name="whats-new-in-microsoft-defender-for-office-365"></a>Office 365용 Microsoft Defender의 새로운
 
@@ -133,7 +133,7 @@ Office 365용 Defender는 모든 SMTP 메일 전송 에이전트와 함께 사�
 
 안전한 [문서 기능은](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs) [끝점용 Microsoft Defender를](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 사용하여 보호된 보기에서 연 문서 및 파일을 [검사합니다.](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
 
-시작하기 전에 알아야 할 내용은 무엇인가요?
+시작하기 전에 알아야 할 사항은 무엇인가요?
 
 - 이제 Office 버전 2004(12730.x) 이상을 사용할 수 있는 안전한 문서를 일반적으로 사용할 수 있습니다. 이 기능은 기본적으로 해제되어 있으며 보안 관리자가 사용하도록 설정해야 합니다.
 
