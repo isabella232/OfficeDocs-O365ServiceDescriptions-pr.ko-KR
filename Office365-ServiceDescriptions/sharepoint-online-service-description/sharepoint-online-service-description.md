@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 계획에서 사용할 수 있는 SharePoint 기능을 참조합니다.
-ms.openlocfilehash: 32a6b46925cc0a224d69199644dd67b44df8569d
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 287c00e207c0821486ec325668ee9efccc8e6e32
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726703"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901938"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 서비스 설명
 
@@ -30,7 +30,7 @@ Microsoft 365의 SharePoint는 조직에서 콘텐츠, 지식 및 응용 프로�
 
 간략한 개요는 [SharePoint란?을 참조하세요.](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-SharePoint, 엔터프라이즈를 지원하는 강력한 도구가 포함된 계획을 [확인 합니다.](https://products.office.com/business/compare-more-office-365-for-business-plans) Microsoft 365 시스템 요구 사항에 대한 자세한 내용은 [Microsoft 365 및 Office 리소스를 참조하세요.](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4) 
+사용자가 SharePoint를 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) Microsoft 365 시스템 요구 사항에 대한 자세한 내용은 [Microsoft 365 및 Office 리소스를 참조하세요.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
 
 미국 정부 클라우드 고객의 SharePoint 기능 차이점에 대한 자세한 내용은 미국 정부 [환경용 SharePoint를 참조하세요.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)
   

@@ -7,46 +7,50 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
-description: MyAnalytics 기능, 배포판, 개인 정보 및 필수 구성 요소
-ms.openlocfilehash: dc92292e5211324a761714544abe381e48c05418
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+description: MyAnalytics 기능, 배포, 개인 정보 및 선행 준비
+ms.openlocfilehash: 204c16b82ce93a0660259c64bf5e283ba4837005
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134025"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902053"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics 서비스 설명
 
-MyAnalytics는 작업 시간을 지출 하는 방법을 요약 한 다음, 보다 효율적으로 작동 하는 방법을 제안 합니다. MyAnalytics에서는 Microsoft Outlook 또는 웹 브라우저를 통해 액세스할 수 있는 [요소](#elements) 를 통해 이러한 정보를 제공 합니다.
+MyAnalytics는 직장에서 시간을 보내는 방법을 요약한 다음 더 스마트하게 작업하는 방법을 제안합니다. MyAnalytics는 Microsoft Outlook [](#elements) 또는 웹 브라우저를 통해 액세스할 수 있는 요소를 통해 이러한 정보를 제공합니다.
 
-일부 MyAnalytics 요소 중 일부는 다양 한 Office 365 계획의 사용자에 게 자동으로 제공 됩니다. Office 365 및 Microsoft 365 계획에 포함 된 요소에 대 한 자세한 내용은 [Myanalytics 요금제 and 환경용](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)을 참조 하십시오.  
+MyAnalytics의 일부 요소는 다양한 Office 365 요금제의 사용자에게 자동으로 제공됩니다. Office 365 및 Microsoft 365 계획에 포함된 요소에 대한 자세한 내용은 [MyAnalytics 계획 및 환경을 참조하세요.](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)  
 
-MyAnalytics는 직원 개인 정보를 보호 하는 방식으로 정보를 처리 합니다. 자세한 내용은 [데이터 개인 정보 보호](#data-privacy)를 참조 하세요.
+MyAnalytics는 직원 개인 정보를 보호하는 방식으로 정보를 처리합니다. 자세한 내용은 데이터 개인 정보 [를 참조하세요.](#data-privacy)
+
+## <a name="available-plans"></a>사용 가능한 계획
+
+사용자가 MyAnalytics를 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
 
 ## <a name="elements"></a>요소
 
-MyAnalytics는 다음 요소로 구성 되어 있습니다.
+MyAnalytics는 다음 요소로 구성됩니다.
 
-* [대시보드](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2): 중요 한 작업, 모임 및 전자 메일 관행 및 네트워킹에 대 한 시간과 같은 작업 패턴을 반영할 수 있도록 도와줍니다.
-* [Outlook 추가 기능](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in): 작업을 계속 해 서 수행 하는 데 도움이 되는 outlook의 진행 가능한 정보를 제공 합니다.
-* [전자 메일 다이제스트](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest-2): 주간 전자 메일에서 작업 패턴에 대 한 주요 요점을 제공 합니다.
-* [인라인 추천](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications): 전자 메일 또는 모임 초대를 읽거나 작성할 때 이러한 간단한 데이터 및 AI 기반 제안이 Outlook에 표시 됩니다.
+* [대시보드:](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2)집중된 작업 시간, 모임 및 전자 메일 사례, 네트워킹 등의 작업 패턴을 반영하는 데 도움이 됩니다.
+* [Outlook 추가 기능:](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in)작업을 파악하고 더 많은 작업을 수행하는 데 도움이 되는 실행 가능한 인사이트를 Outlook에서 제공합니다.
+* [전자 메일 다이제스트:](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest-2)주간 전자 메일의 작업 패턴에 대한 주요 강조를 제공합니다.
+* [인라인 제안:](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications)전자 메일이나 모임 초대를 읽거나 작성하는 동안 Outlook에 이러한 간단한 데이터 및 AI 기반 제안이 표시됩니다.
 
 ## <a name="data-privacy"></a>데이터 개인 정보
 
-다음 지침에 따라 MyAnalytics은 지역 규정 준수를 지원 하 고 직원의 개인 정보를 보호 합니다.
+MyAnalytics는 다음 지침을 준수하여 직원 개인 정보를 보호하고 현지 규정 준수를 지원합니다.
 
 * MyAnalytics는 직원 평가, 추적, 자동화된 의사 결정, 프로파일링 또는 모니터링을 사용하도록 설계되지 않았습니다.
-* MyAnalytics에서는 직원에 게 다른 동료의 개인 식별이 가능한 새 정보에 대 한 액세스 권한을 부여 하지 않습니다.
+* MyAnalytics는 직원이 다른 동료의 새 개인 식별 정보에 액세스할 수 없습니다.
 * 직원의 Exchange Online 사서함에서 MyAnalytics 데이터가 처리되고 저장됩니다.
 * MyAnalytics는 GDPR(일반 데이터 보호 규정) 준수를 지원합니다.
 * MyAnalytics를 구성하여 사용자가 목절에 맞게 참여하도록 할 수 있습니다.
-* MyAnalytics 및 Delve는 상호 종속성이 없는 별도의 응용 프로그램입니다.
+* MyAnalytics 및 Delve는 상호 독립적인 응용 프로그램이 없는 별도의 응용 프로그램입니다.
 * MyAnalytics는 사람들에게 데이터가 비공개이고 안전한지를 알립니다.
 
-자세한 내용은 [Myanalytics 개인 정보 가이드](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide)를 참조 하십시오.
+자세한 내용은 [MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide)개인 정보 보호 가이드를 참조하세요.
 
-자세한 내용은 [MyAnalytics를 사용 하 여 작업을 보다 효율적으로 수행 하는 방법을](https://products.office.com/business/myanalytics-personal-analytics)참조 하세요.
+[MyAnalytics가 더](https://products.office.com/business/myanalytics-personal-analytics)스마트하게 작업하는 데 도움이 되는 방법에 대해 자세히 알아보고.
 
 ## <a name="prerequisites"></a>필수 구성 요소
 

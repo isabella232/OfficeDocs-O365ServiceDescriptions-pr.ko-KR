@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영하는 Office 365는 중국의 안전하고 안정적이며 확장 가능한 클라우드 서비스에 대한 요구를 충족하도록 디자인됩니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: 46b4ab887cee6d01733814a88e874b968b7c35ae
-ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
+ms.openlocfilehash: b03d6844943ed72aa56e4fe1d740dda9c11a66a2
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50572744"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902063"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -275,7 +275,7 @@ Microsoft 365 규정 준수 센터는 조직의 규정 준수 요구를 관리�
 |Office 원격 분석|예|예|예|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |클라이언트 응용 프로그램에 대한 오프라인 지원|예|예|예|예|예|예|아니요|아니요|예|아니요|
 |최적화된 클라이언트 병렬 설치|아니요|예|예|예|예|예|아니요|아니요|예|아니요|
-|Excel용 파워 맵|아니요<sup>3</sup>|아니요|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요|
+|Excel용 파워 맵|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Power Pivot for Excel|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |Excel용 파워 쿼리|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요|
 |Power View for Excel|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요|

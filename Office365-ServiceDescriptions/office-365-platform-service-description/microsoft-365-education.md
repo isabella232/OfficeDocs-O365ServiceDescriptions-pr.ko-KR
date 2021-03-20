@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 및 Office 365 Education 계획 간의 차이점에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 9205ade4bceacbbad7877076175f37f95cf5dd49
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 42a0aa59d6c3ac3f413f5debfdeb74148a7b7221
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460227"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902047"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -36,7 +36,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |비즈니스용 OneDrive|예|예|예|예|예|예|예|예|예|
 |Microsoft Teams|예|예|예|예|예|예|예|예|예|
 |비즈니스용 Skype 온라인|예|예|예|예|예|예|예|예|예|
-|Project|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|
+|프로젝트|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|
 |Yammer Academic|예|예|예|예|예|예|예|예|예|
 |Microsoft Stream|예|예|예|예|예|예|예|예|예|
 |Microsoft Planner|예|예|예|예|예|예|예|예|예|
@@ -93,8 +93,8 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |Microsoft Defender 바이러스 백신|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
 |Microsoft Defender Device Guard|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
 |Microsoft Defender for Identity<sup>11</sup>|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|예|
-|Office 365 Cloud App Security|아니요|아니요|아니요|아니요|예|예|예|예|예|
-|Microsoft 365 Cloud App Security|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|예|
+|Office 365 Cloud App Security|아니요|아니요|아니요|예|예|예|예|예|예|
+|Microsoft 365 Cloud App Security|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|예|
 |끝점<sup>12용</sup> Microsoft Defender|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|
 |**서버 및 CAL 이점**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 A3 학생 사용 혜택**|**Office 365 A5 학생 사용 혜택**|**Microsoft 365 Education A3 학생 사용 혜택**|**Microsoft 365 Education A5 학생 사용 혜택**|
 |Exchange<sup>7</sup>|아니요|아니요|아니요|예<sup>8</sup>|예|아니요|아니요|아니요|아니요|
