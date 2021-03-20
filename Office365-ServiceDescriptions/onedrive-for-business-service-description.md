@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 어떤 계획에서 어떤 OneDrive 기능을 사용할 수 있는지 확인합니다.
-ms.openlocfilehash: 523d3effdcaede87ebe3d69bdb43681d8ce4bad4
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154406"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901953"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 서비스 설명
 
@@ -26,7 +26,7 @@ ms.locfileid: "45154406"
   
 OneDrive는 Microsoft 365 및 Office 365 요금제에서 SharePoint 요금제에 포함되고 독립 실행형 요금제로 구매할 수도 있습니다. 
     
-플랜을 비교하려면 [기업을 지원하기 위한 강력한 도구](https://go.microsoft.com/fwlink/?linkid=799177) 및 [비즈니스용 OneDrive 플랜 비교](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans)를 참조하세요. 
+사용자가 OneDrive를 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 [전체 구독 비교 표에서](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) 및 [비즈니스용 OneDrive 플랜 비교](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?rtc=1&activetab=tab:primaryr2)를 참조하세요.
   
 > [!NOTE]
 > 비즈니스용 OneDrive 독립 실행형 요금제에는 웹용 Office가 포함됩니다. 
@@ -133,7 +133,7 @@ IT 부서에서 분명하게 사용하지 않도록 설정한 경우가 아니�
 달리 명시하지 않는 한 OneDrive 및 모든 OneDrive 독립 실행형 계획을 포함하는 모든 계획에서 다음 기능을 사용할 수 있습니다.
 
 - [액세스 요청](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
-- ["모든 사용자" 링크](/Office365/Enterprise/best-practices-anonymous-sharing) (만료를 요구하도록 설정할 수 있음) 
+- ["모든 사용자" 링크](/Office365/Enterprise/best-practices-anonymous-sharing) (만료를 요구하도록 설정할 수 있음) 
 - [댓글의 @멘션](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows). 웹용 Office 365 또는 Office 365 데스크톱 앱을 포함하는 계획이 필요합니다.
 - [파일 요청](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - 기본 공유 링크 관리([ 조직 수준에서](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) 및 [사이트당](/sharepoint/change-default-sharing-link))
