@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 제공됩니다. Exchange Online 요금제와 계획 간의 차이점을 원할 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다.
-ms.openlocfilehash: 52c443bec7620caaf77c722f485ddc435d728c48
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: f94076fc71861bc797b9b67bfd9dca670db1f22f
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901923"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174013"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 및 Office 365 플랫폼 서비스 설명
 
@@ -26,7 +26,7 @@ Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 잘 충족하�
   
 Microsoft 365 및 Office 365는 기업에 모든 크기의 클라우드 생산성을 제공하여 시간과 비용을 절약하고 가치 있는 리소스를 확보할 수 있도록 합니다. Microsoft 365 및 Office 365 요금제는 익숙한 Microsoft Office 데스크톱 제품군과 클라우드 기반 버전의 Microsoft 차세대 통신 및 공동 작업 서비스(Microsoft Exchange Online, Microsoft SharePoint Online, 웹용 Office 및 Microsoft 비즈니스용 Skype Online)를 결합하여 사용자가 인터넷을 통해 거의 모든 곳에서 생산성을 향상할 수 있도록 합니다.
   
-사용자가 Microsoft 365 및 Office 365 플랫폼을 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 표를 [참조하세요.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) 기능의 자세한 목록은 [Microsoft 365 및 Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)서비스 설명 아래에서 관련 서비스 설명을 참조하세요.
+사용자가 Microsoft 365 및 Office 365 플랫폼을 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 표를 [참조하세요.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) 기능의 자세한 목록은 [Microsoft 365 및 Office 365](../office-365-service-descriptions-technet-library.md)서비스 설명 아래에서 관련 서비스 설명을 참조하세요.
   
 - Office 365 Education 요금제에 대한 내용은 [Office 365 Education](office-365-education.md) 페이지부터 확인하세요. 
     
@@ -52,7 +52,7 @@ Microsoft 365 및 비영리 조직에 대한 Office 365 요금제의 자격이 �
   
 ## <a name="service-level-agreement"></a>서비스 수준 계약
 
-서비스 수준 계약에 대한 내용은 [서비스 수준 계약](https://go.microsoft.com/fwlink/?linkid=843153)을 참조하세요. Office 365의 최근 업타임에 대한 자세한 내용은 서비스 상태 [및 연속성을 참조하세요.](https://go.microsoft.com/fwlink/?linkid=848695)
+서비스 수준 계약에 대한 내용은 [서비스 수준 계약](./service-level-agreement.md)을 참조하세요. Office 365의 최근 업타임에 대한 자세한 내용은 서비스 상태 [및 연속성을 참조하세요.](./service-health-and-continuity.md)
   
 ## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -60,7 +60,7 @@ Microsoft 365 및 비영리 조직에 대한 Office 365 요금제의 자격이 �
   
 ## <a name="data-storage-location"></a>데이터 저장소 위치
 
-데이터가 저장되는 위치에 대한 자세한 내용은 고객 데이터가 [저장되는 위치를 참조합니다.](https://docs.microsoft.com/office365/enterprise/o365-data-locations) 
+데이터가 저장되는 위치에 대한 자세한 내용은 고객 데이터가 [저장되는 위치를 참조합니다.](/office365/enterprise/o365-data-locations) 
   
 ## <a name="multi-geo-capabilities"></a>Multi-Geo 기능 
 
@@ -86,12 +86,12 @@ Multi-Geo를 사용하면 단일 조직이 여러 Office 365 데이터 센터 �
 
 - Office 365 Germany: [Office 365 Germany 계획](https://go.microsoft.com/fwlink/?linkid=839016)
     
-일부 비즈니스용 Microsoft 365 요금제에는 구독에 대해 구입할 수 있는 추가 기능도 있습니다. 추가 기능은 구독에 대한 추가 기능을 제공합니다. 자세한 내용은 추가 기능 구입 또는 [관리를 참조하세요.](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)
+일부 비즈니스용 Microsoft 365 요금제에는 구독에 대해 구입할 수 있는 추가 기능도 있습니다. 추가 기능은 구독에 대한 추가 기능을 제공합니다. 자세한 내용은 추가 기능 구입 또는 [관리를 참조하세요.](/microsoft-365/commerce/buy-or-edit-an-add-on)
 <br><br>
   
 | 기능 | Microsoft 365 Business Basic | 비즈니스용 Microsoft 365 앱 | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**[Microsoft 365 관리](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** <br/> ||||||||
+|**[Microsoft 365 관리](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** <br/> ||||||||
 |Microsoft 365 관리 센터를 사용하여 Office 365 관리 Windows PowerShell  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Azure Information Protection을 사용하여 콘텐츠 보호  <br/> |아니요<sup>2</sup> <br/> |아니요<sup>2</sup> <br/> |아니요<sup>2</sup> <br/> |아니요<sup>2</sup> <br/> |예  <br/> |예  <br/> |아니요<sup>2</sup> <br/> |
 |**[Microsoft 365 제품군 기능](office-365-suite-features.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**비즈니스용 Microsoft 365 앱** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
@@ -192,7 +192,7 @@ Multi-Geo를 사용하면 단일 조직이 여러 Office 365 데이터 센터 �
 |고급 감사<sup>22</sup> <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |Microsoft 보안<sup>점수 7</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |위협 인텔리전스  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|**[규정 준수](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
+|**[규정 준수](/microsoft-365/compliance/offering-home)** <br/> ||||||||
 |SAS 70 / SSAE16 평가  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |ISO 27001 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |EU 모델 조항  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -212,9 +212,9 @@ Multi-Geo를 사용하면 단일 조직이 여러 Office 365 데이터 센터 �
 > <sup>1</sup> Microsoft 365 및 Office 365는 제조업체에서 지원하지 않는 운영 체제를 지원하지 않습니다. 
 <br/><sup>2</sup> Azure Information Protection은 포함되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며 지원되는 IRM(정보 권한 관리) 기능을 사용하도록 설정할 수 있습니다. 일부 Azure Information Protection 기능을 사용하려면 Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise E1, Office 365 Education 또는 Office 365 Enterprise F3에 포함되어 있지 않은 엔터프라이즈용 Microsoft 365 앱을 구독해야 합니다. 비즈니스용 Microsoft 365 앱과 함께 제공된 Office 클라이언트 앱은 전체 Azure Information Protection(계획 1) 기능도 지원됩니다.
 <br/><sup>3</sup> 로컬 Active Directory와 디렉터리 동기화를 사용하는 경우 Microsoft 365 포털이 아닌 로컬 Active Directory를 사용하여 계정을 삭제하거나 암호를 변경해야 Windows PowerShell. 
-<br/><sup>4</sup> 사용자에 대한 셀프 서비스 암호 관리 정책을 설정하는 방법에 대한 자세한 내용은 보안 정보를 사용하여 직장 또는 학교 암호 다시 설정을 [참조하세요.](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/) 
+<br/><sup>4</sup> 사용자에 대한 셀프 서비스 암호 관리 정책을 설정하는 방법에 대한 자세한 내용은 보안 정보를 사용하여 직장 또는 학교 암호 다시 설정을 [참조하세요.](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password) 
 <br/><sup>6</sup> 기간 할인을 통해 구매한 시트 수를 줄이면 조기 종료 수수료가 부과될 수 있습니다. This is not applicable for subscriptions paid on a monthly basis. 
-<br/><sup>7</sup> Microsoft [보안](https://securescore.office.com) 점수 보안 페이지에서 사용할 수 있습니다. 관리자 권한이 있어야 합니다. 자세한 내용은 Microsoft 보안 점수를 [참조하세요.](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score) 
+<br/><sup>7</sup> Microsoft [보안](https://securescore.office.com) 점수 보안 페이지에서 사용할 수 있습니다. 관리자 권한이 있어야 합니다. 자세한 내용은 Microsoft 보안 점수를 [참조하세요.](/microsoft-365/security/mtp/microsoft-secure-score) 
 <br/><sup>8</sup> Microsoft Sway는 현재 특정 지리의 고객이 사용할 수 없습니다. 2015년 8월 현재 출시되지 않은 일부 레거시 Office 365 요금제도 Microsoft Sway에 액세스할 수 없습니다. 
 <br/><sup>9</sup> 환경이 희미해진 경우. 조직에서 Internet Explorer 8 또는 Internet Explorer 9 웹앱 및 서비스에 액세스하는 데 종속된 경우 Internet Explorer 11로 업그레이드하고 Internet Explorer 11에 대한 엔터프라이즈 모드를 평가할 수 있습니다. 이 업데이트를 통해 레거시 Web Apps에 대한 이전 버전과의 호환성을 개선할 수 있습니다. 
 <br/><sup>10</sup> Microsoft Teams는 Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise(E1, E3, E5, F3) 및 Office 365 Education 계획에서 사용할 수 있습니다. 
@@ -225,8 +225,8 @@ Multi-Geo를 사용하면 단일 조직이 여러 Office 365 데이터 센터 �
 <br/><sup>15</sup> Advanced eDiscovery는 미국 및 서유럽(네덜란드) 지역에서 지원됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.)
 <br/><sup>16</sup> Microsoft Stream에만 사용: 게시 또는 공유가 없습니다.
 <br/><sup>17</sup> 2019년 5월부터 Office 365 및 Microsoft 365의 기존 적격 SKUS가 Kaizala Pro로 백업됩니다. 2019년 6월 1일부터 Kaizala Pro가 모든 적합한 Office 365 및 Microsoft 365 S CO에 포함됩니다.
-<br/><sup>18</sup> 자세한 내용은 [MyAnalytics 계획 및 환경을 참조하세요.](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)
+<br/><sup>18</sup> 자세한 내용은 [MyAnalytics 계획 및 환경을 참조하세요.](/workplace-analytics/myanalytics/overview/plans-environments)
 <br/><sup>19</sup> Azure Active Directory 가격 페이지의 **Office 365 앱** 열에 설명된 [Azure Active Directory 기능을 포함합니다.](https://azure.microsoft.com/pricing/details/active-directory/) 프리미엄 Azure AD 기능을 사용하려면 Azure Active Directory 계획 1 또는 계획 2, Enterprise Mobile Security 또는 Microsoft 365 E3 또는 E5를 추가해야 합니다.<br/>
-<sup>20</sup> 브리핑 전자 메일은 Exchange Online의 모든 사용자에게 자동으로 제공됩니다. 자세한 내용은 [Configure Briefing email을 참조하세요.](https://docs.microsoft.com/Briefing/be-admin)<br>
+<sup>20</sup> 브리핑 전자 메일은 Exchange Online의 모든 사용자에게 자동으로 제공됩니다. 자세한 내용은 [Configure Briefing email을 참조하세요.](/Briefing/be-admin)<br>
 <sup>21</sup> 사용자에게 웹용 Project에 대한 보기 전용 액세스 권한이 제공됩니다. 이러한 권한은 웹용 Project 응용 프로그램과 Project 계획 1, 프로젝트 계획 3 또는 Project Plan 5 라이선스가 있는 테넌트에만 사용할 수 있습니다. 이러한 권한은 Power Platform 응용 프로그램 또는 기타 데이터 집합, Project Online 데스크톱 클라이언트 또는 Project Online에 대한 액세스 권한을 부여하지 않습니다. 기능 세부 정보는 Microsoft Project 서비스 설명 [을 참조하세요.](../project-online-service-description/project-online-service-description.md)<br/>
-<sup>22</sup> Microsoft 365의 감사는 조직이 Microsoft 365의 여러 서비스에서 다양한 유형의 감사 활동을 가시성을 제공합니다. 보안 및 [준수 &amp; 센터](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 감사 로그 검색을 사용하여 조직의 사용자 및 관리자 활동을 볼 수 있습니다. [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 관리 활동 API를 사용하여 통합 감사 로그에서 이벤트를 검색할 수도 있습니다. 사용자 또는 관리자가 감사 활동을 수행하면 감사 레코드가 생성되어 고객 조직에 대한 감사 로그에 저장됩니다. 감사 레코드가 보존되는 기간(감사 로그에서 검색 가능)은 고객의 Office 365 또는 Microsoft 365 Enterprise 구독과 특정 사용자에게 할당된 라이선스 유형에 따라 다릅니다.
+<sup>22</sup> Microsoft 365의 감사는 조직이 Microsoft 365의 여러 서비스에서 다양한 유형의 감사 활동을 가시성을 제공합니다. 보안 및 [준수 &amp; 센터](./office-365-securitycompliance-center.md) 감사 로그 검색을 사용하여 조직의 사용자 및 관리자 활동을 볼 수 있습니다. [Office 365](/office/office-365-management-api/office-365-management-activity-api-reference) 관리 활동 API를 사용하여 통합 감사 로그에서 이벤트를 검색할 수도 있습니다. 사용자 또는 관리자가 감사 활동을 수행하면 감사 레코드가 생성되어 고객 조직에 대한 감사 로그에 저장됩니다. 감사 레코드가 보존되는 기간(감사 로그에서 검색 가능)은 고객의 Office 365 또는 Microsoft 365 Enterprise 구독과 특정 사용자에게 할당된 라이선스 유형에 따라 다릅니다.

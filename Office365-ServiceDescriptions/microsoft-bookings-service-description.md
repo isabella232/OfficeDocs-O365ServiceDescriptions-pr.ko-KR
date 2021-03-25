@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Bookings에서 사용할 수 있는 계획 옵션 및 기능에 대해 자세히 알아보십시오.
-ms.openlocfilehash: 70ae22991cc017acc65f47805d3361365906b982
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 6a1fea2506a59e87ad74dd520ec59bc4310ab595
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460237"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173033"
 ---
 # <a name="microsoft-bookings-service-description"></a>Microsoft Bookings 서비스 설명
 
@@ -26,7 +26,7 @@ Microsoft Bookings는 약속 예약 및 관리 프로세스를 간소화합니�
 
 다음 표에는 계획 전체에서 사용할 수 있는 주요 Microsoft Bookings 기능이 나열됩니다. 특정 주의가 적용됩니다. 자세한 내용은 각주를 참조하세요. 이 표는 예고 없이 변경될 수 있습니다.
 
-| 주요 기능 | Small Business | Enterprise 계획 | GCC | GCC-High | DOD | Education |
+| 주요 기능 | Small Business | Enterprise 계획 | GCC | GCC-High | DOD | 교육 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 웹 기반 예약 페이지(예약 페이지) | 예 | 예 | 예 | 아니요 | 아니요 | 예 |
 | 예약 페이지 액세스 제어(테넌트 전용) | 예 | 예 | 예 | 아니요 | 아니요 | 예 |
@@ -46,8 +46,8 @@ Microsoft Bookings는 약속 예약 및 관리 프로세스를 간소화합니�
 
 Microsoft Bookings에 대한 기술 정보는 다음 리소스를 참조하십시오.
 
-- [Microsoft Docs의 Microsoft Bookings 설명서](https://docs.microsoft.com/microsoft-365/bookings/bookings-overview?view=o365-worldwide)
-- [Microsoft Graph의 Microsoft Bookings API](https://docs.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-beta)
+- [Microsoft Docs의 Microsoft Bookings 설명서](/microsoft-365/bookings/bookings-overview?view=o365-worldwide)
+- [Microsoft Graph의 Microsoft Bookings API](/graph/api/resources/booking-api-overview?view=graph-rest-beta)
 - [Bookings 제품 페이지](https://www.microsoft.com/microsoft-365/business/scheduling-and-booking-app)
 - [Microsoft 기술 커뮤니티의 예약 블로그](https://techcommunity.microsoft.com/t5/microsoft-bookings-blog/bg-p/Office365BusinessAppsBlog)
 
@@ -57,7 +57,7 @@ Microsoft 상업용 볼륨 라이선스 프로그램을 통해 구매한 제품 
 
 ### <a name="messaging"></a>메시징
 
-새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용을 추적하기 위해 메시지 센터를 방문합니다. 자세한 내용은 메시지 센터 [를 참조하세요.](https://docs.microsoft.com/microsoft-365/admin/manage/message-center)
+새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용을 추적하기 위해 메시지 센터를 방문합니다. 자세한 내용은 메시지 센터 [를 참조하세요.](/microsoft-365/admin/manage/message-center)
 
 ### <a name="accessibility"></a>내게 필요한 옵션
 

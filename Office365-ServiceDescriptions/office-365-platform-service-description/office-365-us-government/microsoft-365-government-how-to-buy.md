@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 Microsoft 365 Government에 대한 개요를 소개하고 구매 옵션에 대해 설명합니다.
-ms.openlocfilehash: 46a53119dd93d49699c2f8f2292d1947a4c034c9
-ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
+ms.openlocfilehash: e3b859ce2b89af936fcd466e2285bb316942e187
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50572714"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173003"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government - 구입 방법
 
@@ -88,14 +88,14 @@ Microsoft 365 정부 제품 액세스에는 위에 나열된 그룹 중 하나�
 Microsoft 365 Government에서 사용할 수 있는 서비스에 대한 자세한 내용은 다음 리소스를 참조합니다.
 
 - [Office 365 Government 서비스 설명](office-365-us-government.md)
-- [Enterprise Mobility + Security for US Government 서비스 설명](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [미국 정부 고객을 위한 끝점용 Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [정부용 Teams - GCC 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
-- [정부용 Teams - GCC High 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [정부용 Teams - DoD 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
-- [정부 커뮤니티 클라우드의 iOS 및 Android용 Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
-- [Microsoft PowerApps 미국 정부](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Power Automate US Government](https://docs.microsoft.com/flow/us-govt)
+- [Enterprise Mobility + Security for US Government 서비스 설명](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [미국 정부 고객을 위한 끝점용 Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [정부용 Teams - GCC 배포](/MicrosoftTeams/plan-for-government-gcc)
+- [정부용 Teams - GCC High 배포](/MicrosoftTeams/plan-for-government-gcc-high)
+- [정부용 Teams - DoD 배포](/MicrosoftTeams/plan-for-government-dod)
+- [정부 커뮤니티 클라우드의 iOS 및 Android용 Outlook](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps 미국 정부](/power-platform/admin/powerapps-us-government)
+- [Microsoft Power Automate US Government](/flow/us-govt)
 - [Microsoft 365 Government 제품 페이지](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft 365 로드맵](https://www.microsoft.com/microsoft-365/roadmap)
 
@@ -173,14 +173,14 @@ Microsoft 365 Government에서 사용할 수 있는 서비스에 대한 자세�
 Microsoft 365 Government에 대한 자세한 내용은 다음 리소스를 참조합니다.
 
 - [Office 365 Government 서비스 설명](office-365-us-government.md)
-- [Enterprise Mobility + Security for US Government 서비스 설명](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [미국 정부 고객을 위한 끝점용 Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [정부용 Teams - GCC 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
-- [정부용 Teams - GCC High 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [정부용 Teams - DoD 배포](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
-- [정부 커뮤니티 클라우드의 iOS 및 Android용 Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
-- [Microsoft PowerApps 미국 정부](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Power Automate US Government](https://docs.microsoft.com/flow/us-govt)
+- [Enterprise Mobility + Security for US Government 서비스 설명](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [미국 정부 고객을 위한 끝점용 Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [정부용 Teams - GCC 배포](/MicrosoftTeams/plan-for-government-gcc)
+- [정부용 Teams - GCC High 배포](/MicrosoftTeams/plan-for-government-gcc-high)
+- [정부용 Teams - DoD 배포](/MicrosoftTeams/plan-for-government-dod)
+- [정부 커뮤니티 클라우드의 iOS 및 Android용 Outlook](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps 미국 정부](/power-platform/admin/powerapps-us-government)
+- [Microsoft Power Automate US Government](/flow/us-govt)
 - [Microsoft 365 로드맵](https://www.microsoft.com/microsoft-365/roadmap)
 - [Microsoft 365 Government 제품 페이지](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft Government Industry 페이지](https://www.microsoft.com/enterprise/government)

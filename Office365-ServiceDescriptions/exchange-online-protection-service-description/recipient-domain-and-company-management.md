@@ -10,42 +10,42 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
-description: 이 문서를 읽으면 Microsoft Exchange Online Protection (EOP)의 받는 사람, 도메인 및 회사 관리에 대해 자세히 알아볼 수 있습니다.
-ms.openlocfilehash: 7be36ecbf065eb7bc1ce2c890ac84a6fea565c68
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: 이 문서를 읽고 EOP(Microsoft Exchange Online 보호)의 받는 사람, 도메인 및 회사 관리에 대해 자세히 알아보습니다.
+ms.openlocfilehash: a01d572ce239e7d1a6c0c57814fb7494a6670f84
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294124"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173723"
 ---
 # <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Exchange Online Protection의 받는 사람, 도메인 및 회사 관리
 
-Microsoft EOP (Exchange Online Protection)에서는 받는 사람, 도메인 및 회사 정보를 관리 하는 여러 가지 방법을 제공 합니다. 관리자는 EAC (Exchange 관리 센터) 내에서 특정 관리 작업을 수행 하 고 Microsoft 365 관리 센터에서 수행 된 기타 관리 작업을 확인할 수 있습니다.
+Microsoft Exchange Online 보호(EOP)는 받는 사람, 도메인 및 회사 정보를 관리하는 여러 가지 방법을 제공합니다. 관리자는 EAC(Exchange 관리 센터) 내에서 특정 관리 작업을 수행하고 Microsoft 365 관리 센터에서 수행되는 다른 관리 작업을 확인할 수 있습니다.
   
-모든 EOP 기능에 대 한 정보를 찾으십니까? [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.
+모든 EOP 기능에 대한 정보를 찾고 있나요? Exchange [Online Protection 서비스 설명을 참조하세요.](exchange-online-protection-service-description.md)
   
 ## <a name="mail-recipients"></a>Mail recipients
 
-메일 받는 사람은 메일 사용자 또는 그룹으로 분류되며 디렉터리 동기화를 통해하거나 EAC에서 직접 또는 원격 Windows PowerShell을 통해 관리할 수 있습니다. 온-프레미스에서 받는 사람을 관리하는 경우 EAC에 메일 받는 사람이 반영되도록 디렉터리 동기화를 실행해야 합니다. Microsoft 365 관리 센터 에서만 관리 되는 사용자는 EAC에서 볼 수 없지만 EAC에서 관리자 역할 그룹의 구성원 자격에 게 추가 되거나 제거 될 수도 있습니다. EOP의 받는 사람에 대한 자세한 내용은 [EOP의 받는 사람](https://go.microsoft.com/fwlink/p/?LinkId=280011)을 참조하세요.
+메일 받는 사람은 메일 사용자 또는 그룹으로 분류되며 디렉터리 동기화를 통해하거나 EAC에서 직접 또는 원격 Windows PowerShell을 통해 관리할 수 있습니다. 온-프레미스에서 받는 사람을 관리하는 경우 EAC에 메일 받는 사람이 반영되도록 디렉터리 동기화를 실행해야 합니다. Microsoft 365 관리 센터에서만 관리되는 사용자는 EAC에서 볼 수 없지만 EAC의 관리자 역할 그룹의 구성원 자격에 추가하거나 제거할 수 있습니다. EOP의 받는 사람에 대한 자세한 내용은 [EOP의 받는 사람](/microsoft-365/security/office-365-security/manage-recipients-in-eop)을 참조하세요.
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 
-EOP에서는 관리자 역할만 구성할 수 있습니다. EAC에서 직접 사용자를 기본 관리자 역할 그룹에 추가하거나 그룹에서 제거할 수 있습니다. RBAC는 사용자 지정할 수 없습니다. 자세한 내용은 [EOP에서 관리자 역할 그룹 권한 관리](https://go.microsoft.com/fwlink/p/?LinkId=282238)를 참조하세요.
+EOP에서는 관리자 역할만 구성할 수 있습니다. EAC에서 직접 사용자를 기본 관리자 역할 그룹에 추가하거나 그룹에서 제거할 수 있습니다. RBAC는 사용자 지정할 수 없습니다. 자세한 내용은 [EOP에서 관리자 역할 그룹 권한 관리](/microsoft-365/security/office-365-security/manage-admin-role-group-permissions-in-eop)를 참조하세요.
   
 ## <a name="domain-management"></a>도메인 관리
 
-관리되는 도메인은 EOP의 보호를 받는 도메인입니다. EAC에서는 관리되는 도메인을 볼 수 있고 도메인 유형을 편집할 수 있습니다. 도메인 프로 비전 및 관리는 Microsoft 365 관리 센터에서 수행 되며 변경 내용은 EAC에 반영 됩니다. 자세한 내용은 [EOP에서 관리되는 도메인 보기 또는 편집](https://go.microsoft.com/fwlink/p/?LinkId=282239)을 참조하세요.
+관리되는 도메인은 EOP의 보호를 받는 도메인입니다. EAC에서는 관리되는 도메인을 볼 수 있고 도메인 유형을 편집할 수 있습니다. 도메인 프로비전 및 관리는 Microsoft 365 관리 센터에서 발생하며 변경 내용은 EAC에 반영됩니다. 자세한 내용은 [EOP에서 관리되는 도메인 보기 또는 편집](/microsoft-365/security/office-365-security/exchange-online-protection-overview)을 참조하세요.
   
 ## <a name="match-subdomains"></a>하위 도메인 일치
 
-EOP에서는 관리되는 도메인의 하위 도메인에 대한 메일 흐름을 사용하도록 설정할 수 있습니다. 자세한 내용은 [EOP에서 하위 도메인에 대해 전자 메일 흐름 사용](https://go.microsoft.com/fwlink/p/?LinkId=397213)을 참조하세요. 
+EOP에서는 관리되는 도메인의 하위 도메인에 대한 메일 흐름을 사용하도록 설정할 수 있습니다. 자세한 내용은 [EOP에서 하위 도메인에 대해 전자 메일 흐름 사용](/microsoft-365/security/office-365-security/mail-flow-in-eop)을 참조하세요. 
   
 ## <a name="directory-based-edge-blocking-dbeb"></a>DBEB(디렉터리 기반 Edge 차단)
 
-디렉터리 기반 Edge 차단 기능을 사용하면 서비스 네트워크 경계에서 잘못된 받는 사람의 메시지를 거부할 수 있습니다. DBEB를 사용 하면 관리자가 메일 사용이 가능한 받는 사람을 Microsoft에 추가 하 고 Microsoft에 제공 되지 않은 전자 메일 주소로 전송 된 모든 메시지를 차단할 수 있습니다. Microsoft에 있는 유효한 전자 메일 주소로 메시지가 전송 되는 경우 해당 메시지는 나머지 서비스 필터링 계층 (맬웨어 방지, 스팸 방지, 전송 규칙)을 통해 계속 진행 됩니다. 주소가 없는 경우 필터링이 이루어지기 전에 서비스에서 메시지가 차단되고, 메시지가 배달되지 않았음을 알리는 NDR(배달 못 함 보고서)이 보낸 사람에게 보냅니다. 
+디렉터리 기반 Edge 차단 기능을 사용하면 서비스 네트워크 경계에서 잘못된 받는 사람의 메시지를 거부할 수 있습니다. DBEB를 사용하면 관리자가 메일 사용이 가능한 받는 사람을 Microsoft에 추가하고 Microsoft에 없는 전자 메일 주소로 전송된 모든 메시지를 차단할 수 있습니다. 메시지가 Microsoft에 있는 유효한 전자 메일 주소로 전송되는 경우 메시지는 나머지 서비스 필터링 계층(맬웨어 방지, 스팸 방지, 전송 규칙)을 통해 계속됩니다. 주소가 없는 경우 필터링이 이루어지기 전에 서비스에서 메시지가 차단되고, 메시지가 배달되지 않았음을 알리는 NDR(배달 못 함 보고서)이 보낸 사람에게 보냅니다. 
   
-DBEB를 사용하려면 일부 사용자 및 도메인 구성이 필요합니다. 자세한 내용은 [디렉터리 기반 Edge 차단을 사용하여 잘못된 받는 사람에게 전송된 메시지 거부](https://go.microsoft.com/fwlink/p/?LinkId=390676)를 참조하세요.
+DBEB를 사용하려면 일부 사용자 및 도메인 구성이 필요합니다. 자세한 내용은 [디렉터리 기반 Edge 차단을 사용하여 잘못된 받는 사람에게 전송된 메시지 거부](/exchange/mail-flow-best-practices/use-directory-based-edge-blocking)를 참조하세요.
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.
+계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 Exchange Online Protection 서비스 [설명을 참조하세요.](exchange-online-protection-service-description.md)

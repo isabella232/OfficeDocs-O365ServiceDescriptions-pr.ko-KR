@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 및 독립 실행형 계획에 대한 SharePoint 제한에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 12baba7f9da374e88825b97aef30182f9b2014f5
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 60a9fc63c60952ef8a71706d79ddac055fecc887
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726763"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172613"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -72,7 +72,7 @@ Microsoft 365용 SharePoint의 서비스 제한에 대해 자세히 알아보습
 사용자는 사이트당 5,000개 그룹(사이트 모음)에 속할 수 있으며 각 그룹은 최대 5,000명까지 사용할 수 있습니다. 사이트당 최대 10,000개 그룹(사이트 모음)을 사용할 수 있습니다.
 
 > [!NOTE]
-> Azure AD 그룹 제한에 대한 자세한 내용은 [Azure AD](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) 서비스 제한 및 제한을 참조하세요. 이러한 제한은 공용 및 개인 그룹 사이트 구성원 관리에 영향을 줄 수 있습니다.
+> Azure AD 그룹 제한에 대한 자세한 내용은 [Azure AD](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) 서비스 제한 및 제한을 참조하세요. 이러한 제한은 공용 및 개인 그룹 사이트 구성원 관리에 영향을 줄 수 있습니다.
 
 ### <a name="managed-metadata"></a>관리되는 메타데이터
 
@@ -87,7 +87,7 @@ Microsoft 365용 SharePoint의 서비스 제한에 대해 자세히 알아보습
 사이트당 2,000개(사이트 모음) 사이트를 만들고 하위 사이트를 만드는 대신 허브로 구성하는 것이 좋습니다. 하위 사이트를 사용하는 경우 해당 수를 제한하는 것이 좋습니다(특히 트래픽이 많은 사이트에서).
 
 > [!NOTE]
-> 조직은 2,000개 허브 사이트로 제한됩니다. 일부 기능에는 허브 사이트가 필요하지 않을 수 있으며 허브를 만들기 전에 몇 가지 계획을 세우는 것이 중요합니다. 자세한 내용은 SharePoint 허브 사이트 계획을 [방문하세요.](https://docs.microsoft.com/sharepoint/planning-hub-sites)
+> 조직은 2,000개 허브 사이트로 제한됩니다. 일부 기능에는 허브 사이트가 필요하지 않을 수 있으며 허브를 만들기 전에 몇 가지 계획을 세우는 것이 중요합니다. 자세한 내용은 SharePoint 허브 사이트 계획을 [방문하세요.](/sharepoint/planning-hub-sites)
 
 ### <a name="sharepoint-hosted-applications"></a>SharePoint 호스팅 응용 프로그램
 
@@ -98,8 +98,8 @@ Microsoft 365용 SharePoint의 서비스 제한에 대해 자세히 알아보습
 사이트 모음당 2,000만 개
 
 > [!NOTE]
-> SharePoint 사이트에 초대할 수 있는 게스트 수에는 고유한 제한이 없습니다. 외부 공유에 대한 자세한 내용은 외부 공유 [개요 를 참조하세요.](https://docs.microsoft.com/sharepoint/external-sharing-overview)
+> SharePoint 사이트에 초대할 수 있는 게스트 수에는 고유한 제한이 없습니다. 외부 공유에 대한 자세한 내용은 외부 공유 [개요 를 참조하세요.](/sharepoint/external-sharing-overview)
 
 ## <a name="see-also"></a>참고 항목
 
-[SharePoint의 검색 제한](https://docs.microsoft.com/sharepoint/search-limits)
+[SharePoint의 검색 제한](/sharepoint/search-limits)

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 계획에서 사용할 수 있는 SharePoint 기능을 참조합니다.
-ms.openlocfilehash: 287c00e207c0821486ec325668ee9efccc8e6e32
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 0bf7d9ba57c215465af6400067db17621814b190
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901938"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174103"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 서비스 설명
 
@@ -32,7 +32,7 @@ Microsoft 365의 SharePoint는 조직에서 콘텐츠, 지식 및 응용 프로�
   
 사용자가 SharePoint를 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) Microsoft 365 시스템 요구 사항에 대한 자세한 내용은 [Microsoft 365 및 Office 리소스를 참조하세요.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
 
-미국 정부 클라우드 고객의 SharePoint 기능 차이점에 대한 자세한 내용은 미국 정부 [환경용 SharePoint를 참조하세요.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)
+미국 정부 클라우드 고객의 SharePoint 기능 차이점에 대한 자세한 내용은 미국 정부 [환경용 SharePoint를 참조하세요.](../office-365-platform-service-description/office-365-us-government/sharepoint.md)
   
 ## <a name="whats-new"></a>새로운 기능
 
@@ -54,7 +54,7 @@ Microsoft 365의 OneDrive는 조직 내의 개별 사용자를 위한 온라인 
 
 ## <a name="apps"></a>앱
 
-컴퓨터에서 SharePoint 파일을 동기화하기 위해 사용자는 Windows 또는 Mac용 [OneDrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) 동기화 앱을 사용할 수 있습니다. 동기화 앱의 기능 가용성에 대한 자세한 내용은 [OneDrive 서비스 설명 을 참조하세요.](/office365/servicedescriptions/onedrive-for-business-service-description) 
+컴퓨터에서 SharePoint 파일을 동기화하기 위해 사용자는 Windows 또는 Mac용 [OneDrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) 동기화 앱을 사용할 수 있습니다. 동기화 앱의 기능 가용성에 대한 자세한 내용은 [OneDrive 서비스 설명 을 참조하세요.](../onedrive-for-business-service-description.md) 
 
 모바일 장치에서 SharePoint 사이트를 사용하려면 [iOS, Android 또는 Windows용 SharePoint](https://products.office.com/sharepoint/mobile-app)모바일 앱을 설치할 수 있습니다. 
   
@@ -81,7 +81,7 @@ Microsoft 365의 OneDrive는 조직 내의 개별 사용자를 위한 온라인 
 
 Microsoft Power Apps 및 Power Automate의 가용성에 대한 자세한 내용은 [Power Apps 및 Power Automate 라이선싱 FAQ를 참조하세요.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-Microsoft Graph의 가용성에 대한 자세한 내용은 [Microsoft 365 및 Office 365 플랫폼 서비스 설명을 참조하세요.](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)
+Microsoft Graph의 가용성에 대한 자세한 내용은 [Microsoft 365 및 Office 365 플랫폼 서비스 설명을 참조하세요.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-office-365-plans)
 
 ## <a name="it-admin-features"></a>IT 관리자 기능
 
@@ -110,7 +110,7 @@ Microsoft Graph의 가용성에 대한 자세한 내용은 [Microsoft 365 및 Of
 
 FastTrack 마이그레이션 서비스의 가용성에 대한 자세한 내용은 적합한 서비스 및 계획을 [참조하세요.](/fasttrack/m365-eligible-services-and-plans) 
 
-공유와 관련된 기능에 대한 자세한 내용은 [OneDrive 서비스 설명 을 참조하세요.](/office365/servicedescriptions/onedrive-for-business-service-description)
+공유와 관련된 기능에 대한 자세한 내용은 [OneDrive 서비스 설명 을 참조하세요.](../onedrive-for-business-service-description.md)
 
 SharePoint에 대한 관리자 도움말은 [SharePoint Online 관리자 를 참조하세요.](/sharepoint/sharepoint-online)
 
@@ -127,9 +127,9 @@ SharePoint에 대한 관리자 도움말은 [SharePoint Online 관리자 를 참
 - [문서 라이브러리를 이전 시점으로 복원](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [바이러스 검사](/office365/securitycompliance/virus-detection-in-spo)
 
-공유와 관련된 기능에 대한 자세한 내용은 [OneDrive 서비스 설명 을 참조하세요.](/office365/servicedescriptions/onedrive-for-business-service-description)
+공유와 관련된 기능에 대한 자세한 내용은 [OneDrive 서비스 설명 을 참조하세요.](../onedrive-for-business-service-description.md)
 
-SharePoint는 Microsoft 365의 고급 보안 및 규정 준수 기능과 통합됩니다. 다음 기능의 가용성에 대한 자세한 내용은 보안 및 준수 & [설명을 참조하세요.](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)
+SharePoint는 Microsoft 365의 고급 보안 및 규정 준수 기능과 통합됩니다. 다음 기능의 가용성에 대한 자세한 내용은 보안 및 준수 & [설명을 참조하세요.](../office-365-platform-service-description/office-365-securitycompliance-center.md)
 
 - [고객 Lockbox](/microsoft-365/compliance/customer-lockbox-requests)
 - [DLP(데이터 손실 방지)](/microsoft-365/compliance/data-loss-prevention-policies) 
@@ -188,7 +188,7 @@ SharePoint는 Microsoft 365의 고급 보안 및 규정 준수 기능과 통합�
 
 Microsoft Power Apps 및 Power Automate의 가용성에 대한 자세한 내용은 [Power Apps 및 Power Automate 라이선싱 FAQ를 참조하세요.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-공유와 관련된 기능에 대한 자세한 내용은 [OneDrive 서비스 설명 을 참조하세요.](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features)
+공유와 관련된 기능에 대한 자세한 내용은 [OneDrive 서비스 설명 을 참조하세요.](../onedrive-for-business-service-description.md#sharing-and-collaboration-features)
 
 ## <a name="search-features"></a>검색 기능
 
@@ -202,6 +202,4 @@ Microsoft Power Apps 및 Power Automate의 가용성에 대한 자세한 내용�
 - [검색 센터(클래식 검색)](/sharepoint/manage-search-center)
 - [검색 스마(클래식 및 최신 검색)](/sharepoint/manage-search-schema)
 
-Delve에 대한 자세한 내용은 [Microsoft 365 및 Office 365 플랫폼 서비스 설명을 참조하세요.](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description) 
-
-
+Delve에 대한 자세한 내용은 [Microsoft 365 및 Office 365 플랫폼 서비스 설명을 참조하세요.](../office-365-platform-service-description/office-365-platform-service-description.md)

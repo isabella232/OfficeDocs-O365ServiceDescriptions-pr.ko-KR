@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: 'Microsoft 365는 이미 익숙한 최신 버전의 Office 데스크톱 응용 프로그램(예: Word, Excel 및 PowerPoint)을 제공하는 구독 서비스입니다.'
-ms.openlocfilehash: 87834f6e48300839d6fdaaf74c50bd79dc74a4fe
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 405308fe734be548bcbb8fb98204467c5e50fcf7
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902039"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173903"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 
@@ -95,7 +95,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 <sup>2</sup> Azure Information Protection은 포함되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며 지원되는 IRM(정보 권한 관리) 기능을 사용하도록 설정할 수 있습니다. 일부 Azure Information Protection 기능을 사용하려면 Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 E1, Office 365 Education 또는 Office 365 F3에 포함되어 있지 않은 엔터프라이즈용 Microsoft 365 앱을 구독해야 합니다.<br/>
 <sup>3</sup> Windows Server AD RMS는 지원되는 IRM 기능을 사용하기 위해 별도로 구입하여 관리해야 하는 온-프레미스 서버입니다.<br/>
 <sup>4</sup> Office 2013 Professional Plus 또는 독립 실행형 버전의 Excel 2013이 있는 경우 지원되지 않는 추가 기능인 Excel 2013용 Power Map Preview를 사용할 수 있습니다. 이전 버전의 Power Map Preview가 만료되고 Excel 버전에서는 작동하지 않습니다. 이전 버전을 설치한 경우 제어판에서 제거한 다음 현재 버전의 Power Map Preview를 다운로드하여 설치합니다. 이 버전은 Microsoft 365 SP1과 함께 릴리스된 Power Map 버전과 동일한 기능을 제공합니다.<br/> 
-<sup>5</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype Online이 포함된 계획에 대한 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치된 응용 프로그램입니다. 엔터프라이즈용 Microsoft 365 앱 및 Office 365 E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능을 비롯한 추가 기능을 포함하는 전체 Skype 응용 프로그램이 포함되어 있습니다. A Skype for Business Online license must be assigned for each user. 기능과 기능을 비교한 내용은 [Desktop client comparison tables for Lync Server 2013을 참조합니다.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
+<sup>5</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype Online이 포함된 계획에 대한 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치된 응용 프로그램입니다. 엔터프라이즈용 Microsoft 365 앱 및 Office 365 E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능을 비롯한 추가 기능을 포함하는 전체 Skype 응용 프로그램이 포함되어 있습니다. A Skype for Business Online license must be assigned for each user. 기능과 기능을 비교한 내용은 [Desktop client comparison tables for Lync Server 2013을 참조합니다.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
 <sup>6</sup> 일부 학교는 엔터프라이즈용 Microsoft 365 앱을 포함하는 Education Plus를 사용할 수 있으며, 학생, 교직원 및 직원이 최대 5대의 PC 또는 Mac 컴퓨터와 Windows 태블릿 및 iPad를 비롯한 기타 모바일 장치에 최신 버전의 Office를 설치할 수 있습니다. Enrollment for Education Solutions, Open Value Subscription Education Solutions 또는 학교 계약을 통해 교직원 및 직원에게 기관용 Office 라이선스를 허가한 학교는 Office 365 Education Plus를 이용할 수 있습니다. Access 및 Publisher는 PC에서만 사용할 수 있습니다. Mac용 OneNote는 Mac 앱 스토어에서 별도로 다운로드할 수 있습니다. <br/>
 <sup>7</sup> Office for Mac 2011을 설치할 수 있지만 정품 인증할 수 없습니다. <br/>
 <sup>8</sup> 엔터프라이즈용 Microsoft 365 앱은 사용자 전용 VDI(가상 데스크톱 인프라)에서 지원됩니다. 엔터프라이즈용 Microsoft 365 앱은 볼륨 라이선스 프로그램을 통해 구매한 경우 RDS(원격 데스크톱 서비스)만 지원됩니다.<br/>

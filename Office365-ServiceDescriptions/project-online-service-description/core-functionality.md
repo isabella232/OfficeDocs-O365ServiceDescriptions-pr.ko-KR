@@ -10,19 +10,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: Project Online에서는 다음과 같은 핵심 기능 기능을 사용할 수 있습니다.
-ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+description: Project Online에서는 다음과 같은 핵심 기능을 사용할 수 있습니다.
+ms.openlocfilehash: cdcb5354790f228e0f1601aab0f7d476c761442c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411587"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172713"
 ---
 # <a name="core-functionality"></a>핵심 기능
 
-Project Online에서는 다음과 같은 핵심 기능 기능을 사용할 수 있습니다.
+Project Online에서는 다음과 같은 핵심 기능을 사용할 수 있습니다.
   
-모든 Project Online 기능에 대한 정보를 원하십니까? [Project Online 서비스 설명을](project-online-service-description.md)참조 하세요.
+모든 Project Online 기능에 대한 정보를 원하십니까? Project [Online 서비스 설명을 참조하세요.](project-online-service-description.md)
   
 ## <a name="add-columns"></a>열 추가
 
@@ -30,11 +30,11 @@ Project Online에서는 다음과 같은 핵심 기능 기능을 사용할 수 �
   
 ## <a name="backstage"></a>Backstage
 
-프로젝트 파일을 관리할 수 있는 Backstage의 기능을 사용할 **파일** 을 선택 합니다. 숨겨진 메타데이터 또는 개인 정보의 생성, 저장, 조사 및 옵션 설정에 이르기까지 프로젝트 파일에서 수행하는 작업이 아니라 프로젝트 파일에 대해 수행하는 모든 작업에 Backstage를 사용할 수 있습니다. 
+프로젝트 **파일** 및 해당 파일에 대한 데이터를 관리할 수 있는 Backstage에서 기능을 사용하려면 파일을 선택합니다. 숨겨진 메타데이터 또는 개인 정보의 생성, 저장, 조사 및 옵션 설정에 이르기까지 프로젝트 파일에서 수행하는 작업이 아니라 프로젝트 파일에 대해 수행하는 모든 작업에 Backstage를 사용할 수 있습니다. 
   
 ## <a name="click-to-run"></a>간편 실행
 
-인터넷, 내부 네트워크, 로컬 파일 시스템 또는 오프 라인 미디어를 통해 Project Online을 빠르게 설치 하 여 최신 버전의 Project 데스크톱 응용 프로그램으로 최신 상태를 유지 하도록 합니다. 자세한 내용은 [간편 실행](https://go.microsoft.com/fwlink/p/?LinkId=271596)을 참조하세요.
+인터넷, 내부 네트워크, 로컬 파일 시스템 또는 오프라인 미디어를 통해 신속하게 Project Online을 설치하여 최신 버전의 Project 데스크톱 응용 프로그램을 사용할 수 있도록 합니다. 자세한 내용은 [간편 실행](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15))을 참조하세요.
   
 ## <a name="contextual-right-click-menus"></a>상황별 오른쪽 클릭 메뉴
 
@@ -50,15 +50,15 @@ Word와 같은 Office 응용 프로그램 간에 일정 세부 정보를 복사�
   
 ## <a name="gantt-chart-calendar-and-task-sheet-views"></a>Gantt 차트, 달력 및 작업 시트 보기
 
-Gantt 차트, 네트워크 다이어그램, 그래프, 시트, 사용 현황 및 폼 보기를 사용 하 여 프로젝트 정보를 그래픽으로 표시 합니다. [프로젝트 일정의 오른쪽 보기 선택](https://go.microsoft.com/fwlink/?LinkId=402905)을 참조하세요.
+Gantt 차트, 네트워크 다이어그램, 그래프, 시트, 사용 현황 및 양식 보기를 사용하여 프로젝트 정보를 그래픽으로 제공합니다. [프로젝트 일정의 오른쪽 보기 선택](https://go.microsoft.com/fwlink/?LinkId=402905)을 참조하세요.
   
-## <a name="user-interface-the-ribbon"></a>리본 메뉴의 사용자 인터페이스
+## <a name="user-interface-the-ribbon"></a>사용자 인터페이스, 리본 메뉴
 
 Project 기능과 컨트롤을 빠르게 찾아 사용할 수 있는 탭 인터페이스인 리본을 통해 생산성을 향상합니다.
 
 ## <a name="multiple-level-undo"></a>여러 수준 실행 취소
 
-실행 취소 메뉴를 사용 하 여 여러 변경 내용을 동시에 실행 취소할 수 있습니다.
+동시에 취소 메뉴를 사용하여 여러 변경 내용을 취소할 수 있습니다.
   
 ## <a name="network-diagram-view"></a>네트워크 다이어그램 보기
 
@@ -66,15 +66,15 @@ Project 기능과 컨트롤을 빠르게 찾아 사용할 수 있는 탭 인터�
   
 ## <a name="office-store"></a>Office 스토어
 
-Project 사용에 도움이 되는 응용 프로그램이 필요하신가요? Office 스토어에서 Project 용 새 응용 프로그램을 찾습니다. [Project용 추가 기능](https://go.microsoft.com/fwlink/?LinkId=273883)을 참조하세요.
+Project 사용에 도움이 되는 응용 프로그램이 필요하신가요? Office 스토어에서 Project용 새 응용 프로그램을 찾아야 합니다. [Project용 추가 기능](https://go.microsoft.com/fwlink/?LinkId=273883)을 참조하세요.
   
 ## <a name="online-help"></a>온라인 도움말
 
-Project 도움말은 Office.com에서 또는 project에서 직접 시작할 때 사용할 수 있습니다 ( **파일** \> **새로 만들기** 선택). [Project 2013 소개 동영상을 시청](https://go.microsoft.com/fwlink/p/?LinkId=271325)하세요.
+프로젝트 도움말은 프로젝트의 Office.com 또는 프로젝트에서 직접 시작 가이드에서 사용할 **수** 있습니다(새로 파일 \> **선택).** [Project 2013 소개 동영상을 시청](https://go.microsoft.com/fwlink/p/?LinkId=271325)하세요.
   
 ## <a name="pdf-and-xps-output"></a>PDF 및 XPS 출력
 
-프로젝트 파일을 PDF 또는 XPS 파일로 저장 합니다. [프로젝트 파일을 PDF로 저장](https://go.microsoft.com/fwlink/p/?LinkId=271350)을 참조하세요.
+프로젝트 파일을 PDF 또는 XPS 파일로 저장합니다. [프로젝트 파일을 PDF로 저장](https://go.microsoft.com/fwlink/p/?LinkId=271350)을 참조하세요.
   
 ## <a name="placeholder-text-in-project-fields"></a>프로젝트 필드의 자리 표시자 텍스트
 
@@ -102,4 +102,4 @@ Project 2013에서는 빈 프로젝트를 여는 대신 원하는 프로젝트�
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Project Online service description](project-online-service-description.md)을 참조 하세요.
+계획, 독립 실행형 옵션 및 사내 솔루션에 대한 기능 가용성을 확인하면 Project Online 서비스 [설명을 참조하세요.](project-online-service-description.md)

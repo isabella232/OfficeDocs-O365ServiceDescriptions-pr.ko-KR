@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함 하는 구독의 기능 비교를 찾고 있습니까? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: 7fccd99b34860b0f07604e2dc7b079e932625fc4
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: dc3dd3828e31bd6f3e146a63aafc750197f4b927
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726753"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173663"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -27,10 +27,10 @@ Exchange Online을 포함 하는 구독의 기능 비교를 찾고 있습니까?
 > [!NOTE]
 > 작업에 대한 도움이 필요하거나 문제를 해결하는 경우 다음 리소스가 도움이 될 수 있습니다. <br/>
 [전자](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed) 메일을 만들고 보내는 데 도움이 되는 전자 메일입니다. <br/> 
-[전자 메일 및 일정 관리](https://docs.microsoft.com/office365/admin/email/email)<br/> 
+[전자 메일 및 일정 관리](/office365/admin/email/email)<br/> 
 [Microsoft 지원 및 복구 도우미](https://diagnostics.office.com/)<br/> 
-[Exchange Online의 전자 메일 배달되지 않은 보고서](https://docs.microsoft.com/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
-[Exchange Online 도움말](https://docs.microsoft.com/exchange/exchange-online)
+[Exchange Online의 전자 메일 배달되지 않은 보고서](/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
+[Exchange Online 도움말](/exchange/exchange-online)
   
 Microsoft Exchange Online은 Microsoft Exchange Server의 기능을 클라우드 기반 서비스로 전달하는 호스트 메시징 솔루션입니다. 이 솔루션은 PC, 웹, 모바일 장치로부터 전자 메일, 일정, 연락처 및 작업에 액세스할 수 있도록 하며, Active Directory와 완전히 통합되어 관리자가 그룹 정책과 다른 관리 도구를 통해 환경 전반에서 Exchange Online 기능을 관리할 수 있도록 합니다.
   
@@ -39,11 +39,11 @@ Exchange Online을 구독한 조직은 사용자에게 제공하는 메시징 �
 계획에서 기능을 비교하는 데 필요한 강력한 도구는 [엔터프라이즈를 지원하기 위한 강력한 도구를 참조합니다.](https://products.office.com/business/compare-more-office-365-for-business-plans) Office 365 Germany의 요금제를 비교하려면 [Office 365 Germany 구독 요금제](https://go.microsoft.com/fwlink/?linkid=839016)를 참조하세요.
   
 > [!TIP]
-> Microsoft 서비스 설명에서 페이지를 내보내고 저장하고 인쇄할 수 있습니다. 콘텐츠 검색 결과를 [내보내는 방법에 대해 자세히 알아보겠습니다.](https://docs.microsoft.com/office365/securitycompliance/export-search-results) 
+> Microsoft 서비스 설명에서 페이지를 내보내고 저장하고 인쇄할 수 있습니다. 콘텐츠 검색 결과를 [내보내는 방법에 대해 자세히 알아보겠습니다.](/office365/securitycompliance/export-search-results) 
   
 ## <a name="whats-new-in-exchange-admin-center"></a>Exchange 관리 센터의 새로운 기능
 
-Exchange 관리 센터의 새로운 기능에 대한 자세한 내용은 Exchange 관리 센터의 새로운 [기능을 참조하세요.](https://docs.microsoft.com/exchange/whats-new)
+Exchange 관리 센터의 새로운 기능에 대한 자세한 내용은 Exchange 관리 센터의 새로운 [기능을 참조하세요.](/exchange/whats-new)
   
 ## <a name="plans-for-exchange-online"></a>Exchange Online 계획
 
@@ -54,7 +54,7 @@ Exchange Online 서비스에 액세스하는 각 사용자는 구독 계획을 �
 회의실 및 공유 사서함에 대해서는 사용자의 구독이 필요하지 않습니다. 이러한 특수 사서함 유형은 로그인 자격 증명이 없는 대신, 위임을 통해 적절한 권한을 가진 정식 사용자가 이를 관리 및 액세스합니다.
 
 **Microsoft 365 F1 사용자 사서함 사용 권한** <br/>
-Microsoft 365 F1에는 Exchange 사서함에 대한 권한은 포함되어 있지 않습니다. 전체 Teams 환경을 사용하도록 설정하기 위해 M365 F1 라이선스에 Exchange Online K1 서비스 플랜이 사용하도록 설정되어 있을 수 있습니다. Exchange Online K1 서비스 계획에서 사용자를 위해 사서함을 프로비전하기는 하지만 M365 F1 사용자는 사서함을 사용할 수 없습니다. 이러한 단계를 통해 웹용 Outlook을 사용하지 않도록 설정하고 사용자에게 다른 방법을 통해 Exchange 사서함에 액세스하지 않도록 요청하는 것이 좋습니다. [](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app)
+Microsoft 365 F1에는 Exchange 사서함에 대한 권한은 포함되어 있지 않습니다. 전체 Teams 환경을 사용하도록 설정하기 위해 M365 F1 라이선스에 Exchange Online K1 서비스 플랜이 사용하도록 설정되어 있을 수 있습니다. Exchange Online K1 서비스 계획에서 사용자를 위해 사서함을 프로비전하기는 하지만 M365 F1 사용자는 사서함을 사용할 수 없습니다. 이러한 단계를 통해 웹용 Outlook을 사용하지 않도록 설정하고 사용자에게 다른 방법을 통해 Exchange 사서함에 액세스하지 않도록 요청하는 것이 좋습니다. [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app)
   
 ## <a name="system-requirements-for-exchange-online"></a>Exchange Online에 대한 시스템 요구 사항
 
@@ -183,7 +183,7 @@ Microsoft 365 Business Premium의 기능 가용성은 [Microsoft 365 Business Pr
 <sup>3</sup> Windows Server AD RMS는 지원되는 IRM 기능을 사용하기 위해 별도로 구입하여 관리해야 하는 온-프레미스 서버입니다. <br/>
 <sup>4</sup> 전송 규칙은 유연한 기준으로 구성됩니다. 이 조건을 기반으로 조건 및 예외 및 수행할 작업을 정의할 수 있습니다. Exchange Online과 2013의 경우 사용 가능한 기준과 Microsoft Exchange Server 다릅니다. 사용 가능한 기준 및 작업 목록은 각 제품에 대한 해당 조건 및 작업 항목을 참조하세요. <br/>
 <sup>5</sup> Exchange 2013의 경우 DLP에는 Exchange Enterprise CAL(클라이언트 액세스 라이선스)이 필요합니다. CA 및 서버 라이선스에 대한 자세한 내용은 Exchange 라이선스 [FAQ를 참조하세요.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business) <br/>
-<sup>6</sup> Exchange Server 2013에는 대부분의 기본 제공 스팸 방지 기능이 2010과 Exchange Server 있습니다. Exchange에서 호스팅되는 스팸 필터링의 이점에 대한 자세한 내용은 Benefits [of Anti-Spam Features in Exchange Online Protection Over Exchange Server 2013을 참조하세요.](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help) <br/>
+<sup>6</sup> Exchange Server 2013에는 대부분의 기본 제공 스팸 방지 기능이 2010과 Exchange Server 있습니다. Exchange에서 호스팅되는 스팸 필터링의 이점에 대한 자세한 내용은 Benefits [of Anti-Spam Features in Exchange Online Protection Over Exchange Server 2013을 참조하세요.](/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help) <br/>
 <sup>7</sup> EAC(Exchange 관리 센터) 관리 인터페이스에 대한 직접 액세스를 통해서만 액세스할 수 있습니다. <br/>
 <sup>8</sup> Exchange Server 2013에서는 Microsoft 맬웨어 방지 엔진만 사용 합니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다. <br/>
 <sup>9</sup> 비활성 사서함 또는 보관 기능이 필요한 각 사서함에 대해 EOA 구독을 별도로 구매할 수 있습니다.<br/>
@@ -199,7 +199,7 @@ Microsoft 365 Business Premium의 기능 가용성은 [Microsoft 365 Business Pr
 <sup>19</sup> 일부 타사 웹 파트 및 추가 기능을 사용할 수 없습니다. <br/>
 <sup>20</sup> eDiscovery의 경우, 클라우드와의 별도 쿼리가 필요합니다. <br/>
 <sup>21</sup> 이 표는 클라이언트가 연결된 계획에서 작동하는지 여부를 나타냅니다. 이러한 계획 구매에 클라이언트가 반드시 포함되어야 하는 것을 의미하지는 않습니다. <br/>
-<sup>22</sup> 자세한 내용은 고객 키를 사용하여 [서비스 암호화를 참조하세요.](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) <br/>
+<sup>22</sup> 자세한 내용은 고객 키를 사용하여 [서비스 암호화를 참조하세요.](/office365/securitycompliance/controlling-your-data-using-customer-key) <br/>
 <sup>23</sup> 고객이 운영하는 SBC에서 직접 연결을 통해 타사 PBX 시스템에 대한 Exchange Online UM 지원은 2019년 4월에 종료됩니다. 자세한 내용은 Exchange 팀 블로그 Exchange Online 통합 메시징에서 세션 경계 컨트롤러에 대한 지원 [중단을 참조하세요.](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) <br/>
 <sup>24</sup> F3 사용자는 자신의 사서함에 대리인을 추가할 수 없지만 다른 사서함(공유 사서함 포함)에 액세스하여 위임된 작업을 수행할 수 있습니다.<br/>
 <sup>25</sup> 엔터프라이즈용 Microsoft 365 앱 구독은 Exchange Server 2013 및 Exchange Server 필요합니다.<br/>
@@ -313,7 +313,7 @@ Microsoft 365 Business Premium의 기능 가용성은 [Microsoft 365 Business Pr
 |Outlook 추가 기능 및 Outlook MAPI|예|예|예<sup>21</sup>|예<sup>21</sup>|아니요|
 
 <sup>1</sup> 전송 규칙은 유연한 기준으로 구성됩니다. 이 조건을 기반으로 조건 및 예외 및 수행할 작업을 정의할 수 있습니다. Exchange Online과 2013의 경우 사용 가능한 기준과 Microsoft Exchange Server 다릅니다. 사용 가능한 기준 및 작업 목록은 각 제품에 대한 해당 조건 및 작업 항목을 참조하세요. <br/>
-<sup>2</sup> Exchange에서 호스팅되는 스팸 필터링의 이점에 대한 자세한 내용은 [Benefits of Anti-Spam Features in Exchange Online Protection Over Exchange Server 2013을](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)참조하세요. <br/>
+<sup>2</sup> Exchange에서 호스팅되는 스팸 필터링의 이점에 대한 자세한 내용은 [Benefits of Anti-Spam Features in Exchange Online Protection Over Exchange Server 2013을](/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)참조하세요. <br/>
 <sup>3</sup> SharePoint는 사내 Exchange 조직에 배포해야 합니다. <br/>
 <sup>4</sup> SharePoint Online이 구독 계획에 포함되어야 합니다. <br/>
 <sup>5</sup> 클라우드 Exchange Online Archiving 보관 사서함이 있는 각 사서함 사용자에 대해 Exchange Online Archiving 구독이 필요합니다. <br/>
@@ -328,7 +328,7 @@ Microsoft 365 Business Premium의 기능 가용성은 [Microsoft 365 Business Pr
 <sup>14</sup> Exchange Server 2013 이상을 실행하는 고객은 OWA 및 장치용 OWA의 문서 지문 및 정책 팁에 액세스하려면 최신 CU(누적 업데이트) 또는 바로 이전 CU를 다운로드하여 설치해야 합니다. <br/>
 <sup>15</sup> 2013 이상을 Exchange Server 고객이 사용할 수 있습니다. <br/>
 <sup>16</sup> BitLocker 드라이브 암호화는 Exchange Server 2013에서 지원되지만 관리자는 이 기능을 사용하도록 설정해야 합니다. <br/>
-<sup>17</sup> Exchange Online 계획 1의 사서함 및 보관에 대한 크기 [제한이 있습니다.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits) Exchange Online Archiving Exchange Online 추가 기능의 경우 무제한 클라우드 기반 보관 및 [In-Place Hold가 추가됩니다.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold) <br/>
+<sup>17</sup> Exchange Online 계획 1의 사서함 및 보관에 대한 크기 [제한이 있습니다.](./exchange-online-limits.md) Exchange Online Archiving Exchange Online 추가 기능의 경우 무제한 클라우드 기반 보관 및 [In-Place Hold가 추가됩니다.](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold) <br/>
 <sup>18</sup> Exchange Online Kiosk OWA를 통해서만 일정에 액세스하거나 공유할 수 있습니다. <br/>
 <sup>19</sup> 연결된 계정은 POP IMAP 계정에 대해 &amp; 지원되지만 Hotmail(Hotmail)에 Outlook.com 사용하지 않도록 설정됩니다. <br/>
 <sup>20</sup> Exchange Online PowerShell에서 cmdlet을 사용하여 기본 주소 목록 및 기본 GAL(전체 주소 목록)을 사용자 지정하는 것은 지원되지 않습니다. <br/>

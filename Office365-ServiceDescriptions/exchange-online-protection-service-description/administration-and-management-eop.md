@@ -1,5 +1,5 @@
 ---
-title: Exchange Online Protection의 관리 및 관리
+title: Exchange Online Protection의 관리
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,33 +10,32 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
-description: 이 문서에서는 Microsoft EOP (Exchange Online Protection) 관리자가 사용할 수 있는 관리 인터페이스에 대해 설명 합니다.
-ms.openlocfilehash: 6889998aaf71243a743e1ec0cf1787a9a2fdb624
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: 이 문서에서는 EOP(Microsoft Exchange Online 보호) 관리자가 사용할 수 있는 관리 인터페이스에 대해 설명합니다.
+ms.openlocfilehash: 997a3446a2420815b860a1ed58c4d9c5be9c04d1
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293614"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173353"
 ---
-# <a name="administration-and-management-in-exchange-online-protection"></a>Exchange Online Protection의 관리 및 관리
+# <a name="administration-and-management-in-exchange-online-protection"></a>Exchange Online Protection의 관리
 
-이 문서에서는 Microsoft EOP (Exchange Online Protection) 관리자가 사용할 수 있는 관리 인터페이스에 대해 설명 합니다.
+이 문서에서는 EOP(Microsoft Exchange Online 보호) 관리자가 사용할 수 있는 관리 인터페이스에 대해 설명합니다.
   
-모든 EOP 기능에 대 한 정보를 찾으십니까? [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.
+모든 EOP 기능에 대한 정보를 찾고 있나요? Exchange [Online Protection 서비스 설명을 참조하세요.](exchange-online-protection-service-description.md)
   
-## <a name="access-to-the-microsoft-365-admin-center"></a>Microsoft 365 관리 센터에 대 한 액세스 권한
+## <a name="access-to-the-microsoft-365-admin-center"></a>Microsoft 365 관리 센터에 액세스
 
-Microsoft 365 관리 센터는 각 회사의 서비스 관리자가 구독 하는 각 Microsoft 서비스에 대 한 사용자 계정 및 설정을 관리할 수 있는 웹 포털입니다. Microsoft 365 관리 센터 내에서 관리자는 EAC에 대 한 링크를 팔 로우 하 여 EOP 관련 설정을 관리할 수 있습니다.
+Microsoft 365 관리 센터는 각 회사의 서비스 관리자가 구독하는 각 Microsoft 서비스의 사용자 계정 및 설정을 관리할 수 있는 웹 포털입니다. Microsoft 365 관리 센터 내에서 관리자는 EAC 링크를 따라 이동하여 EOP 관련 설정을 관리할 수 있습니다.
   
 ## <a name="access-to-the-exchange-admin-center"></a>Exchange 관리 센터 액세스
 
-EAC(Exchange 관리 센터)는 쉽게 사용할 수 있는 단일 통합형 관리 콘솔로, 모든 유형의 배포에 최적화되어 있습니다. 새롭게 개선된 EAC는 Forefront Online Protection for Exchange 관리 센터를 대체합니다. EAC는 Exchange 제품 (Microsoft Exchange Online 및 Microsoft Exchange Server 2013)에서 Microsoft 365와 일관 되 고 원활한 UI 환경에 대 한 통합을 보다 강력 하 게 제공 합니다. EAC에 대한 자세한 내용은 [Exchange Online Protection의 Exchange 관리 센터](https://go.microsoft.com/fwlink/p/?LinkId=282381)를 참조하세요.
+EAC(Exchange 관리 센터)는 쉽게 사용할 수 있는 단일 통합형 관리 콘솔로, 모든 유형의 배포에 최적화되어 있습니다. 새롭게 개선된 EAC는 Forefront Online Protection for Exchange 관리 센터를 대체합니다. EAC는 Microsoft 365와 더 긴밀하게 통합되고 Exchange 제품(Microsoft Exchange Online 및 Microsoft Exchange Server 2013)에서 일관되고 원활한 UI 환경을 제공합니다. EAC에 대한 자세한 내용은 [Exchange Online Protection의 Exchange 관리 센터](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop)를 참조하세요.
   
 ## <a name="remote-windows-powershell-access"></a>원격 Windows PowerShell 액세스
 
- 관리자는 원격 Windows PowerShell을 사용하여 명령줄에서 관리 작업을 수행할 수 있습니다. 원격 Shell 세션 만들기와 각 cmdlet 설명서 관련 정보 등 Windows PowerShell의 사용 방법에 대한 자세한 내용은 [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266)을 참조하세요.
+ 관리자는 원격 Windows PowerShell을 사용하여 명령줄에서 관리 작업을 수행할 수 있습니다. 원격 Shell 세션 만들기와 각 cmdlet 설명서 관련 정보 등 Windows PowerShell의 사용 방법에 대한 자세한 내용은 [Exchange Online PowerShell](/powershell/exchange/exchange-online-powershell)을 참조하세요.
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online Protection 서비스 설명을](exchange-online-protection-service-description.md)참조 하세요.
-  
+계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 Exchange Online Protection 서비스 [설명을 참조하세요.](exchange-online-protection-service-description.md)

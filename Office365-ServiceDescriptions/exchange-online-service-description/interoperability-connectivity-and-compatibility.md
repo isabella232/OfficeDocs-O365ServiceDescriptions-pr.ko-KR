@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 5308770ff7fc6ab6c44f27293ff89ebbffa6e72f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 21df7d4747ae0b92f21a9da56c0d4bc9ff96ccaf
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132752"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173323"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>상호 운용성, 연결 및 호환성
 
@@ -27,15 +27,15 @@ Microsoft Lync Server 2010, Lync Server 2013 또는 Microsoft Office Communicati
   
 온-프레미스 Lync Server 2010 및 Lync Server 2013은 그 외에도 다음 두 가지 방법으로 Exchange Online과 상호 운용될 수 있습니다.
   
-- 웹용 Outlook의 IM 및 현재 상태 상호 운용성
+- 웹에서 Outlook의 IM 및 현재 상태 상호 연동성
     
 - 음성 메일 상호 운용성
     
-비즈니스용 Skype 서버 2015와 Exchange Online을 함께 구성하는 방법에 대한 자세한 내용은 [Exchange Online과 온-프레미스 비즈니스용 Skype Server 2015의 통합 구성](https://go.microsoft.com/fwlink/p/?LinkId=271804)을 참조하세요. 하이브리드 구성은 [지원되는 비즈니스용 Skype Server 2015 하이브리드 구성](https://go.microsoft.com/fwlink/?LinkID=513084)을 참조하세요.
+비즈니스용 Skype 서버 2015와 Exchange Online을 함께 구성하는 방법에 대한 자세한 내용은 [Exchange Online과 온-프레미스 비즈니스용 Skype Server 2015의 통합 구성](/skypeforbusiness/deploy/integrate-with-exchange-server/outlook-web-app)을 참조하세요. 하이브리드 구성은 [지원되는 비즈니스용 Skype Server 2015 하이브리드 구성](/skypeforbusiness/skype-for-business-hybrid-solutions/integration-with-exchange-and-sharepoint)을 참조하세요.
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-구독 계획의 일부로 Microsoft SharePoint Server 또는 SharePoint Online을 배포한 고객의 경우 SharePoint는 통합 서비스용 Exchange Online에 연결할 수 있습니다.
+구독 계획의 일부로 Microsoft SharePoint Server 또는 SharePoint Online을 배포한 고객의 경우 SharePoint는 Exchange Online에 연결하여 통합 서비스를 사용할 수 있습니다.
   
 SharePoint를 Exchange Online에 연결하는 데 대한 자세한 내용은 [사용자 지정 도메인의 SharePoint Online을 다른 서비스와 함께 사용](https://go.microsoft.com/fwlink/?LinkId=271805)을 참조하세요.
   
@@ -49,7 +49,7 @@ Exchange Online에서는 외부 응용 프로그램과 장치에 연결하기 �
     
 ### <a name="exchange-web-services"></a>Exchange Web Services
 
-EWS(Exchange Web Services)는 Exchange Server 및 Exchange Online을 위한 개발 API로 적합합니다. 관리자는 EWS 또는 EWS Managed API를 사용하여 온-프레미스, Azure 또는 기타 호스트되는 서비스에서 실행되는 응용 프로그램에서 Exchange Online에 저장된 데이터에 액세스할 수 있습니다. EWS는 관리자가 사서함의 콘텐츠 쿼리, 일정 이벤트 게시, 작업 만들기 또는 전자 메일 메시지의 내용에 따라 특정 작업을 트리거하는 등의 특수 한 작업을 수행할 수 있도록 합니다. Exchange Online에서는 고객 계정에 응용 프로그램 권한을 부여하는 방법으로 EWS 기능이 사용 가능하게 설정됩니다. 이러한 권한이 있으면 고객 응용 프로그램이 응용 프로그램 사서함에 액세스하고 콘텐츠를 추가할 수 있습니다. Exchange 가장 기능은 응용 프로그램 권한을 부여하는 데 사용되는 한 가지 방법입니다. Exchange Online에서 Exchange Web Services를 사용하는 방법에 대한 자세한 내용을 보려면 Exchange Online 개발자 센터에서 제공되는 기술 문서를 참조하십시오.
+EWS(Exchange Web Services)는 Exchange Server 및 Exchange Online을 위한 개발 API로 적합합니다. 관리자는 EWS 또는 EWS Managed API를 사용하여 온-프레미스, Azure 또는 기타 호스트되는 서비스에서 실행되는 응용 프로그램에서 Exchange Online에 저장된 데이터에 액세스할 수 있습니다. 관리자는 EWS를 사용하여 사서함의 콘텐츠 쿼리, 일정 이벤트 게시, 작업 만들기 또는 전자 메일 메시지 내용에 따라 특정 작업을 트리거하는 등의 특수한 작업을 수행할 수 있습니다. Exchange Online에서는 고객 계정에 응용 프로그램 권한을 부여하는 방법으로 EWS 기능이 사용 가능하게 설정됩니다. 이러한 권한이 있으면 고객 응용 프로그램이 응용 프로그램 사서함에 액세스하고 콘텐츠를 추가할 수 있습니다. Exchange 가장 기능은 응용 프로그램 권한을 부여하는 데 사용되는 한 가지 방법입니다. Exchange Online에서 Exchange Web Services를 사용하는 방법에 대한 자세한 내용을 보려면 Exchange Online 개발자 센터에서 제공되는 기술 문서를 참조하십시오.
   
 ### <a name="smtp-relay"></a>SMTP 릴레이
 
@@ -57,6 +57,4 @@ Exchange Online을 SMTP 배달 서비스로 사용하여 팩스 게이트웨이,
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 서비스 설명을](exchange-online-service-description.md)참조 하세요.
-  
-
+계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 Exchange Online 서비스 [설명을 참조하세요.](exchange-online-service-description.md)

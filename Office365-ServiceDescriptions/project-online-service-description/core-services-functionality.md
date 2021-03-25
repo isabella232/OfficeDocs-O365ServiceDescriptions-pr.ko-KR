@@ -9,34 +9,34 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Project Online에서는 다음과 같은 핵심 서비스 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 5876a9f7df783a30fdc774efacf5828fdc4f64e5
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 4816f9e21cfe44f4a75b9366b347bfd820303fc2
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294093"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174133"
 ---
 # <a name="core-services-functionality"></a>핵심 서비스 기능
 
 Project Online에서는 다음과 같은 핵심 서비스 기능을 사용할 수 있습니다.
   
-모든 Project Online 기능에 대한 정보를 원하십니까? [Project Online 서비스 설명을](project-online-service-description.md)참조 하세요.
+모든 Project Online 기능에 대한 정보를 원하십니까? Project [Online 서비스 설명을 참조하세요.](project-online-service-description.md)
   
 ## <a name="active-directory-integration"></a>Active Directory integration
 
-Active Directory에서는 관리자가 사용자 자격 증명 및 권한을 관리하기 위한 중앙 위치가 제공됩니다. Active Directory와 Project의 통합은 Active Directory의 사용자 및 그룹이 Project Online 또는 Project Server 2013과 동기화됨을 의미합니다. [Project Server 2013에서 Active Directory와의 보안 그룹 동기화 관리](https://go.microsoft.com/fwlink/p/?LinkId=402631)를 참조하세요.
+Active Directory에서는 관리자가 사용자 자격 증명 및 권한을 관리하기 위한 중앙 위치가 제공됩니다. Active Directory와 Project의 통합은 Active Directory의 사용자 및 그룹이 Project Online 또는 Project Server 2013과 동기화됨을 의미합니다. [Project Server 2013에서 Active Directory와의 보안 그룹 동기화 관리](/project/manage-security-group-synchronization-with-active-directory-in-project-server)를 참조하세요.
   
-## <a name="administration-deployment-and-extensibility"></a>관리, 배포 및 확장성
+## <a name="administration-deployment-and-extensibility"></a>관리, 배포 및 extensibility
 
-Project Online 및 Project Server 2013에서는 관리자에게 Project를 계획, 설치 및 구성, 유지 관리 및 확장하기 위한 기능이 제공됩니다. [IT 전문가를 위한 Project Server 2013의 새로운 기능](https://go.microsoft.com/fwlink/p/?LinkId=272017)을 참조하세요.
+Project Online 및 Project Server 2013에서는 관리자에게 Project를 계획, 설치 및 구성, 유지 관리 및 확장하기 위한 기능이 제공됩니다. [IT 전문가를 위한 Project Server 2013의 새로운 기능](/project/what-s-new-for-it-pros-in-project-server-2016)을 참조하세요.
   
-## <a name="getting-started"></a>TVM을 간편하게
+## <a name="getting-started"></a>시작하기
 
-Project Online의 시작 콘텐츠를 사용할 수 있습니다. [Project Online 시작](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11)을 참조하세요.
+시작 콘텐츠는 Project Online에서 사용할 수 있습니다. [Project Online 시작](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11)을 참조하세요.
   
 ## <a name="issues-and-risk-management-for-team-members"></a>Issues and risk management(팀 구성원용)
 
-Project Online 및 Project Server 2013에는 잠재적인 비즈니스 또는 프로젝트 관련 위험 및 문제를 방지, 식별 및 최소화하기 위한 기능이 포함되어 있습니다. 자세한 내용은 [Project Web App의 문제점, 위험 및 문서 관리](https://go.microsoft.com/fwlink/?LinkId=402634)를 참조하세요.
+Project Online 및 Project Server 2013에는 잠재적인 비즈니스 또는 프로젝트 관련 위험 및 문제를 방지, 식별 및 최소화하기 위한 기능이 포함되어 있습니다. 자세한 내용은 [Project Web App의 문제점, 위험 및 문서 관리](/previous-versions/office/project-server-2010/hh767484(v=office.14))를 참조하세요.
   
 ## <a name="office-365-trust-center"></a>Office 365 보안 센터
 
@@ -48,17 +48,16 @@ Microsoft PPM 솔루션은 PPM 역량을 획득하여 전 세계 80여 국가에
   
 ## <a name="service-reliability"></a>Service reliability
 
-우리는 업계 최고의 재무 보증을 통해 99.9%의 가동 시간을 보장 합니다. [서비스 연속성](https://go.microsoft.com/fwlink/?LinkId=402653)을 참조하세요.
+당사는 업계 최고의 금융 보증을 통해 99.9%의 UPTIME 약속을 지키고 있습니다. [서비스 연속성](https://go.microsoft.com/fwlink/?LinkId=402653)을 참조하세요.
   
 ## <a name="service-updates"></a>서비스 업데이트
 
-Microsoft 서비스는 정기적으로 새로운 기능을 사용 하 여 업데이트 합니다. [서비스 업데이트](../office-365-platform-service-description/service-updates.md)를 참조 하세요.
+Microsoft 서비스는 정기적으로 새로운 기능으로 업데이트됩니다. 서비스 [업데이트를 참조하세요.](../office-365-platform-service-description/service-updates.md)
   
 ## <a name="team-member-collaboration"></a>Team member collaboration
 
-팀 공동 작업은 전반적인 프로젝트 성공 및 효율성을 지원하고 주도합니다. Project Server 2013에서 조직에서 프로젝트를 공동 작업 하는 방법에 대 한 자세한 내용은 [비디오: 팀과 공동 작업](https://go.microsoft.com/fwlink/?LinkId=402628)을 참조 하십시오.
+팀 공동 작업은 전반적인 프로젝트 성공 및 효율성을 지원하고 주도합니다. 조직에서 Project Server 2013을 사용하여 프로젝트에서 공동 작업을 하는 방법을 확인한 자세한 내용은 비디오: 팀과 공동 작업을 [참조합니다.](https://go.microsoft.com/fwlink/?LinkId=402628)
   
 ## <a name="time-and-task-management-for-team-members"></a>Time and task management(팀 구성원용)
 
 시간 보고 및 작업 관리에 대한 일반적인 중앙 접근 방식을 사용합니다. 급여, 인보이스 및 기타 비즈니스 용도에 맞게 작업 시간과 비작업 시간을 캡처합니다. 프로젝트나 일상 업무의 상황, 작업의 최대 사용 및 최저 사용 시간 또는 진행 상황을 알아보기 위해 ad-hoc 요청에 대한 상황을 효과적으로 전달하여 계획한 노동력, 비용 및 기간의 효과를 예측하는 데 도움을 얻습니다. 자세한 내용은 [시간 및 작업 진행 상황 추적](https://go.microsoft.com/fwlink/p/?LinkId=271321)을 참조하세요.
-  

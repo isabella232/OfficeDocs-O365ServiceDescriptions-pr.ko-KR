@@ -9,18 +9,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 미국 정부 클라우드 고객의 SharePoint 기능 가용성에 대해 자세히 알아보습니다.
-ms.openlocfilehash: fc782a01c99165fbf19156250e09220656d46ba3
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 7dab05ddfbc8666e79707691eaf03e69f8d98f01
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902028"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172933"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>미국 정부 환경용 SharePoint
 
-이 문서에서는 SharePoint 서비스 설명 에 나열된 미국 정부 클라우드와 상업용 클라우드 간의 기능 차이에 [대한 개요를 제공합니다.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description) SharePoint는 GCC(정부 커뮤니티 클라우드), GCC High 및 DoD 환경에서 사용할 수 있습니다. 
+이 문서에서는 SharePoint 서비스 설명 에 나열된 미국 정부 클라우드와 상업용 클라우드 간의 기능 차이에 [대한 개요를 제공합니다.](../../sharepoint-online-service-description/sharepoint-online-service-description.md) SharePoint는 GCC(정부 커뮤니티 클라우드), GCC High 및 DoD 환경에서 사용할 수 있습니다. 
 
-자격 및 구매를 포함하여 정부 클라우드에 대한 자세한 내용은 [Microsoft 365 Government - 구입 방법을 참조하세요.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy) Office 365 Government 요금제 비교는 [Office 365 Government 요금제 를 참조합니다.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
+자격 및 구매를 포함하여 정부 클라우드에 대한 자세한 내용은 [Microsoft 365 Government - 구입 방법을 참조하세요.](./microsoft-365-government-how-to-buy.md) Office 365 Government 요금제 비교는 [Office 365 Government 요금제 를 참조합니다.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
 
 네트워크 연결을 관리할 때 필요한 끝점에 대한 자세한 내용은 [Office 365 U.S. Government GCC High endpoints](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) or [Office 365 U.S. Government DoD endpoints](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)를 참조합니다.
 
@@ -52,13 +52,13 @@ ms.locfileid: "50902028"
 - Mover.io 지원되지 않습니다.
 - 일부 정부 클라우드 고객은 Multi-Geo를 사용할 수 없습니다.
 
-FastTrack 마이그레이션에 대한 자세한 내용은 [Office 365 US Government 서비스 설명을 참조하세요.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#data-migrations-performed-by-fasttrack)
+FastTrack 마이그레이션에 대한 자세한 내용은 [Office 365 US Government 서비스 설명을 참조하세요.](./office-365-us-government.md#data-migrations-performed-by-fasttrack)
 
 ## <a name="security-and-compliance-features"></a>보안 및 규정 준수 기능
 
 상업적 고객을 위한 보안 및 규정 준수 기능과 정부 클라우드 고객에 대한 규정 준수 기능은 알려진 차이가 없습니다.
 
-보안 및 규정 준수 기능에 대한 자세한 내용은 보안 및 준수 [& 참조하세요.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)
+보안 및 규정 준수 기능에 대한 자세한 내용은 보안 및 준수 [& 참조하세요.](../office-365-securitycompliance-center.md)
 
 정부용 Azure Active Directory 기능에 대한 자세한 내용은 [Azure Government Security + Identity 설명서를 참조하세요.](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory) 
 
@@ -83,7 +83,7 @@ FastTrack 마이그레이션에 대한 자세한 내용은 [Office 365 US Govern
 
 ## <a name="sharing-and-sync"></a>공유 및 동기화
 
-상업용 클라우드와 정부 클라우드 환경 간의 기능 차이에 대한 자세한 내용은 파일 [공유를 참조하세요.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing)
+상업용 클라우드와 정부 클라우드 환경 간의 기능 차이에 대한 자세한 내용은 파일 [공유를 참조하세요.](./gcc-high-and-dod.md#file-sharing)
 
 ## <a name="plan-for-governance"></a>거버넌스 계획
 

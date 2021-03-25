@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 다른 Microsoft 365 및 Office 365 계획 내에서 사용할 수 있는 비즈니스용 Skype Online 기능을 참조하세요.
-ms.openlocfilehash: 861521c0a99fefe0b4709ea540fb659ba845debd
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 86ccb740ec0b9ffc8e83c88636df98ebefaf9e2c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726721"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172663"
 ---
 # <a name="skype-for-business-online-service-description"></a>비즈니스용 Skype Online 서비스 설명
 
@@ -28,7 +28,7 @@ ms.locfileid: "50726721"
 > [!NOTE]
 > 비즈니스용 Skype Online 계획 2는 2019년 7월 1일 판매가 중지됩니다. 즉, 더 이상 인스턴트 메시징, 현재 상태, 모임 및 피어 투 피어 음성 및 비디오에 대해 비즈니스용 Skype Online 계획 2를 취득할 수 없습니다. 이러한 기능은 Office 365 제품군을 포함하여 Teams를 포함한 모든 계획에서 계속 지원됩니다. 현재 기간이 끝나면 계획이 만료되면 이러한 기능에 계속 액세스하기 위해 다른 요금제로 전환해야 합니다. 현재 비즈니스용 Skype Online 계획 2가 할당된 사용자를 위해 Microsoft 365 Business Basic, Business Premium 또는 기타 Office 제품군을 평가하는 것이 좋습니다. 
 
- **특정 비즈니스용 Skype 기능을 구입하기 위해 구입해야 하는 라이선스를 알고 싶나요? 비즈니스용 [Skype 추가 기능 라이선스를 참조하세요.](https://go.microsoft.com/fwlink/?LinkID=799524)**
+ **특정 비즈니스용 Skype 기능을 구입하기 위해 구입해야 하는 라이선스를 알고 싶나요? 비즈니스용 [Skype 추가 기능 라이선스를 참조하세요.](/SkypeForBusiness/skype-for-business-and-microsoft-teams-add-on-licensing/skype-for-business-and-microsoft-teams-add-on-licensing)**
   
 비즈니스용 Skype Online은 언제 어디서나 모임 및 대화를 위해 사람들을 연결하는 통신 서비스입니다. 이를 통해 사용자는 현재 상태에 대한 정보에 액세스하고 인스턴트 메시징, 오디오 및 비디오 통화, 다양한 온라인 회의 및 대규모 웹 회의 기능을 사용할 수 있습니다. 
   
@@ -42,9 +42,9 @@ ms.locfileid: "50726721"
 
 간단한 비교 페이지를 사용하여 비즈니스용 Skype 온라인 버전을 선택하는 것이 좋습니다. 비즈니스에 [적합한 Microsoft Teams 찾기를 참조합니다.](https://go.microsoft.com/fwlink/?linkid=798291) 더 자세한 비교를 원하시면 아래의 기능 테이블을 참조하세요. 이에 대한 추가 지원이 필요한 경우, [지원](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support)에 전화하시기 바랍니다. 드롭다운 목록에서 지역을 선택하여 지역 번호를 가져올 수 있습니다.
   
-사용자가 비즈니스용 Skype Online을 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145) 비교에 대한 자세한 내용은 [Microsoft 365 계획 옵션을 참조하세요.](https://go.microsoft.com/fwlink/?linkid=846972)
+사용자가 비즈니스용 Skype Online을 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145) 비교에 대한 자세한 내용은 [Microsoft 365 계획 옵션을 참조하세요.](../office-365-platform-service-description/office-365-plan-options.md)
   
- 비즈니스용 Skype 데스크톱 및 웹 클라이언트의 개별 기능을 비교하기 위해 비즈니스용 [Skype 서버 2015에](https://go.microsoft.com/fwlink/?linkid=829754)대한 데스크톱 클라이언트 기능 비교를 참조하세요. 비즈니스용 Skype 모바일 클라이언트에 대한 자세한 비교는 비즈니스용 Skype의 모바일 클라이언트 기능 [비교를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=846932)
+ 비즈니스용 Skype 데스크톱 및 웹 클라이언트의 개별 기능을 비교하기 위해 비즈니스용 [Skype 서버 2015에](/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison)대한 데스크톱 클라이언트 기능 비교를 참조하세요. 비즈니스용 Skype 모바일 클라이언트에 대한 자세한 비교는 비즈니스용 Skype의 모바일 클라이언트 기능 [비교를 참조하세요.](/skypeforbusiness/plan-your-deployment/clients-and-devices/mobile-feature-comparison)
   
 비교에 대한 자세한 내용은 다음 테이블을 참조하세요.<br><br>
   
@@ -148,7 +148,7 @@ ms.locfileid: "50726721"
 |Voicemail  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |[통화 플랜(추가](skype-for-business-online-features.md#calling-plans) 기능을 구매해야 하는 국내 통화 플랜)  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예  <br/> |아니요  <br/> |
 |[통화 플랜(국제](skype-for-business-online-features.md#calling-plans) 통화 플랜, 추가 기능 구매 필요)  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예  <br/> |아니요  <br/> |
-|[통신 크레딧](https://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |아니요  <br/> |아니요  <br/> |아니요<sup>6</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[통신 크레딧](/microsoftteams/what-are-communications-credits?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json) <br/> |아니요  <br/> |아니요  <br/> |아니요<sup>6</sup> <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |비즈니스용 Skype 음성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |**[보안 및 보관](skype-for-business-online-features.md#security-and-archiving)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
 |IM 및 미디어 암호화  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -177,21 +177,21 @@ ms.locfileid: "50726721"
 |Windows PowerShell  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft 365 관리 센터의 비즈니스용 Skype Online 보고  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Lync Basic 데스크톱 클라이언트는 비즈니스용 Skype Online이 포함된 계획에 대한 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치된 응용 프로그램입니다. 엔터프라이즈용 Microsoft 365 앱 및 Office 365 E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능과 같은 추가 기능을 포함하는 전체 비즈니스용 Skype(Lync) 응용 프로그램이 포함되어 있습니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대한 자세한 내용은 [Desktop client comparison tables for Lync Server 2013을 참조하십시오.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Lync Basic 데스크톱 클라이언트는 비즈니스용 Skype Online이 포함된 계획에 대한 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치된 응용 프로그램입니다. 엔터프라이즈용 Microsoft 365 앱 및 Office 365 E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능과 같은 추가 기능을 포함하는 전체 비즈니스용 Skype(Lync) 응용 프로그램이 포함되어 있습니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대한 자세한 내용은 [Desktop client comparison tables for Lync Server 2013을 참조하십시오.](/lyncserver/lync-server-2013-desktop-client-comparison-tables) 
 <br/> <sup>2</sup>비즈니스용 Skype 온라인에 대한 보관은 이 계획에 포함되지 않은 Exchange 원본 위치 유지 기능에 따라 다릅니다. 
 <br/><sup>3</sup> 음성 메일을 사용하려는 Exchange Online(계획 2) 요금제에 할당해야 합니다. Exchange Online(요금제) &nbsp; 요금제는 음성 메일에 사용할 수 없습니다. 
 <br/><sup>4</sup> Office 365 F3 사용자는 비즈니스용 Skype Online 계획 2 또는 엔터프라이즈 계획 사용자가 초대한 경우 공유 세션에 참가할 수 있습니다. 
 <br/> <sup>5</sup> 오디오 회의를 Microsoft 365 Business Standard, Office 365 E1 및 Office 365 E3 구독 계획에 추가 기능으로 추가할 수 있습니다. 
 <br/> <sup>6</sup> 통신 크레딧은 오디오 회의만 지원하기 위한 추가 기능으로 Microsoft 365 Business Standard 구독 계획에 추가할 수 있습니다. 
 <br/><sup>7</sup> Mac 및 모바일 클라이언트에는 긴급 통화를 사용할 수 없습니다. 
-<br/> <sup>8</sup> 고객 키를 사용하면 조직의 암호화 키를 제어한 다음 Microsoft 데이터 센터의 미사용 데이터를 암호화하는 데 사용하도록 Microsoft를 구성할 수 있습니다. 미사용 데이터에는 SharePoint Online 및 비즈니스용 OneDrive에 저장되어 있는 사서함과 파일에 저장된 Exchange Online 및 비즈니스용 Skype의 데이터를 포함합니다. 고객 키는 Microsoft가 데이터 암호를 해독하는 데 사용하는 암호화 키를 제어하기 때문에 규정 준수 의무를 충족하는 데 도움이 됩니다. 자세한 내용은 고객 키를 [사용하여 서비스 암호화를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=862702) 
+<br/> <sup>8</sup> 고객 키를 사용하면 조직의 암호화 키를 제어한 다음 Microsoft 데이터 센터의 미사용 데이터를 암호화하는 데 사용하도록 Microsoft를 구성할 수 있습니다. 미사용 데이터에는 SharePoint Online 및 비즈니스용 OneDrive에 저장되어 있는 사서함과 파일에 저장된 Exchange Online 및 비즈니스용 Skype의 데이터를 포함합니다. 고객 키는 Microsoft가 데이터 암호를 해독하는 데 사용하는 암호화 키를 제어하기 때문에 규정 준수 의무를 충족하는 데 도움이 됩니다. 자세한 내용은 고객 키를 [사용하여 서비스 암호화를 참조하세요.](/microsoft-365/compliance/customer-key-overview) 
   
 ## <a name="feature-availability-across-skype-for-business-online-standalone-plans"></a>비즈니스용 Skype 온라인 독립 실행형 계획에서의 기능 가용성
 
 다음 표에는 비즈니스용 Skype 온라인 기능이 독립 실행형 계획별로 나와 있습니다. 이러한 기능에 대한 설명은 [비즈니스용 Skype Online 기능](skype-for-business-online-features.md)에서 확인할 수 있습니다.
   
 > [!NOTE]
-> 비즈니스용 Skype 온라인 독립 실행형 계획 2의 허가된 사용자는 비즈니스용 Skype Basic 클라이언트를 얻게 되지만 전체 비즈니스용 Skype 클라이언트를 얻지는 않습니다. 사용자가 비즈니스용 Skype 클라이언트를 사용할 수 있게 하려면 엔터프라이즈 기반 라이선스 등이 포함된 라이선스로 업그레이드해야 합니다. 사용자에게 비즈니스용 Skype 클라이언트를 배포하는 경우 [Microsoft 365 또는 Office 365에서](https://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409)비즈니스용 Skype 클라이언트 배포를 참조하세요. 
+> 비즈니스용 Skype 온라인 독립 실행형 계획 2의 허가된 사용자는 비즈니스용 Skype Basic 클라이언트를 얻게 되지만 전체 비즈니스용 Skype 클라이언트를 얻지는 않습니다. 사용자가 비즈니스용 Skype 클라이언트를 사용할 수 있게 하려면 엔터프라이즈 기반 라이선스 등이 포함된 라이선스로 업그레이드해야 합니다. 사용자에게 비즈니스용 Skype 클라이언트를 배포하는 경우 [Microsoft 365 또는 Office 365에서](/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365)비즈니스용 Skype 클라이언트 배포를 참조하세요. 
   
 | 기능 | Business Server 2015용 Skype | 비즈니스용 Skype Online 독립 실행형 계획 &nbsp; 1 | 비즈니스용 Skype Online 독립 실행형 계획 &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
@@ -281,7 +281,7 @@ ms.locfileid: "50726721"
 |Windows PowerShell  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft 365 관리 센터의 비즈니스용 Skype Online 보고  <br/> |아니요  <br/> |아니요<sup>4</sup> <br/> |아니요<sup>4</sup> <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Lync Basic 데스크톱 클라이언트는 비즈니스용 Skype Online이 포함된 계획에 대한 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치된 응용 프로그램입니다. 엔터프라이즈용 Microsoft 365 앱 및 Office 365 E3에는 고급 전화 통신 지원, 보관 준수 기능 등의 추가 기능이 포함된 전체 비즈니스용 Skype(Lync) 응용 프로그램이 &amp; 포함되어 있습니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대한 자세한 내용은 [Desktop client comparison tables for Lync Server 2013을 참조하십시오.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Lync Basic 데스크톱 클라이언트는 비즈니스용 Skype Online이 포함된 계획에 대한 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치된 응용 프로그램입니다. 엔터프라이즈용 Microsoft 365 앱 및 Office 365 E3에는 고급 전화 통신 지원, 보관 준수 기능 등의 추가 기능이 포함된 전체 비즈니스용 Skype(Lync) 응용 프로그램이 &amp; 포함되어 있습니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대한 자세한 내용은 [Desktop client comparison tables for Lync Server 2013을 참조하십시오.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)
 <br/><sup>2</sup> A Skype for Business Online Plan 1 user may participate in a sharing session if the user is invited by a Skype for Business Online Plan 2 user. 
 <br/> <sup>3</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan. 
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 

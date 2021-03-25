@@ -9,22 +9,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Project Online에서는 다음과 같은 포트폴리오 관리 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 50b8ec7e0cd8a0a8366ee2842a767d68c591ad4e
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: ef0f670e890a364ac4e85cc6cf79ff979e8a52db
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131232"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172693"
 ---
 # <a name="portfolio-management"></a>포트폴리오 관리
 
 Project Online에서는 다음과 같은 포트폴리오 관리 기능을 사용할 수 있습니다.
   
-모든 Project Online 기능에 대한 정보를 원하십니까? [Project Online 서비스 설명을](project-online-service-description.md)참조 하세요.
+모든 Project Online 기능에 대한 정보를 원하십니까? Project [Online 서비스 설명을 참조하세요.](project-online-service-description.md)
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>Analyze projects and optimize portfolio
 
-프로젝트 분석을 통해 예산 및 자원에 대 한 투자 수익률을 확인할 수 있습니다. 이 프로세스를 포트폴리오 분석이라고 합니다. 자세한 내용은 [포트폴리오 분석 분산형 차트 사용](https://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409)을 참조하세요.
+프로젝트를 분석하여 예산과 자원에 대한 최고의 투자 수익을 줄 프로젝트를 결정할 수 있습니다. 이 프로세스를 포트폴리오 분석이라고 합니다. 자세한 내용은 [포트폴리오 분석 분산형 차트 사용](https://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409)을 참조하세요.
   
 ## <a name="create-and-edit-projects"></a>프로젝트 만들기 및 편집
 
@@ -32,11 +32,11 @@ Project Online에서는 다음과 같은 포트폴리오 관리 기능을 사용
   
 ## <a name="enterprise-resource-management"></a>Enterprise 자원 관리
 
-자원은 프로젝트를 완료 하는 데 필요한 사람, 재료 또는 비용입니다. Microsoft PPM 솔루션을 사용 하면 자원 관리자가 자원 풀을 관리 하 고, 자원 작업 시간을 계획 하 고, 들어오는 자원 계약 요청을 승인, 거부 및 수정할 수도 있습니다. 자세한 내용은 [Project Web App에 리소스 추가](https://go.microsoft.com/fwlink/p/?LinkId=271320)를 참조 하세요.
+자원은 프로젝트를 완료하는 데 필요한 사람, 재료 또는 비용입니다. Microsoft PPM 솔루션을 통해 리소스 관리자는 리소스 풀을 관리하고, 리소스 용량을 계획하고, 들어오는 리소스 참여 요청을 승인, 거부 및 수정할 수 있습니다. 자세한 내용은 에 리소스 추가를 [Project Web App.](https://go.microsoft.com/fwlink/p/?LinkId=271320)
   
 ## <a name="financial-management"></a>Financial management
 
-재무 관리 프로세스를 채택하여 예상 비용 및 혜택을 향상시킵니다. 비용 대비 성능을 효과적으로 추적하여 각 프로젝트가 예산 내에서 인도되도록 하고 포트폴리오가 예측한 결과를 달성하도록 합니다. 자세한 내용은 [프로젝트 포트폴리오 관리 솔루션 가이드(백서)](https://go.microsoft.com/fwlink/p/?LinkId=402633)를 참조하세요.
+재무 관리 프로세스를 채택하여 예상 비용 및 혜택을 향상시킵니다. 비용 대비 성능을 효과적으로 추적하여 각 프로젝트가 예산 내에서 인도되도록 하고 포트폴리오가 예측한 결과를 달성하도록 합니다. 자세한 내용은 [프로젝트 포트폴리오 관리 솔루션 가이드(백서)](/project/project-server-2013-and-2016)를 참조하세요.
   
 ## <a name="participate-in-workflow"></a>워크플로에 참여
 
@@ -44,13 +44,12 @@ Project Online에서는 다음과 같은 포트폴리오 관리 기능을 사용
   
 ## <a name="portfolio-analytics-and-selection"></a>포트폴리오 분석 및 선택
 
-조직의 비즈니스 전략에 맞추고 ROI(투자 수익)를 최대화하는 프로젝트 포트폴리오를 효과적으로 식별, 선택 및 전달합니다. 자세한 내용은 [프로젝트 포트폴리오 관리 솔루션 가이드(백서)](https://go.microsoft.com/fwlink/p/?LinkId=402633)를 참조하세요.
+조직의 비즈니스 전략에 맞추고 ROI(투자 수익)를 최대화하는 프로젝트 포트폴리오를 효과적으로 식별, 선택 및 전달합니다. 자세한 내용은 [프로젝트 포트폴리오 관리 솔루션 가이드(백서)](/project/project-server-2013-and-2016)를 참조하세요.
   
 ## <a name="program-management"></a>Program management
 
-프로젝트 관리에서 각 프로젝트는 서로 결합될 경우 전체 프로그램의 예측 이익을 제공하는 고유한 목적을 저마다 가지고 있습니다. 자세한 내용은 [프로젝트 포트폴리오 관리 솔루션 가이드(백서)](https://go.microsoft.com/fwlink/p/?LinkId=402633)를 참조하세요.
+프로젝트 관리에서 각 프로젝트는 서로 결합될 경우 전체 프로그램의 예측 이익을 제공하는 고유한 목적을 저마다 가지고 있습니다. 자세한 내용은 [프로젝트 포트폴리오 관리 솔루션 가이드(백서)](/project/project-server-2013-and-2016)를 참조하세요.
   
 ## <a name="roadmap"></a>로드맵
 
-로드맵에서는 여러 폭포 및 agile 프로젝트의 정보를 결합 하 여 고도로 시각적인 집계 된 시간 표시 막대 보기를 제공 합니다. 자세한 내용은 [로드맵 시작](https://support.office.com/article/video-welcome-to-roadmap-57764149-51b8-468f-a50d-9ea6a4fd835a)을 참조 하십시오.
-
+로드맵은 여러 워터Fall 및 Agile 프로젝트의 정보를 결합하여 시각적으로 집계된 시간 표시 막대 보기를 제공합니다. 자세한 내용은 [Welcome to Roadmap을 참조합니다.](https://support.office.com/article/video-welcome-to-roadmap-57764149-51b8-468f-a50d-9ea6a4fd835a)

@@ -12,21 +12,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: 이 문서에서는 Exchange Online 설정을 사용자 지정 하 고 조직의 Exchange Online 환경을 최신, 실행 및 최신 상태로 유지 하는 데 사용할 수 있는 관리 제어 및 지원에 대해 설명 합니다. 내용에는 Microsoft 관리 책임 및 성능 약정, 서비스 및 제품 업그레이드와 같이 조직에서 사용할 수 있는 셀프 서비스 관리 도구 및 기능에 대한 정보가 포함되어 있습니다.
-ms.openlocfilehash: 19ec50b3f502ee111de05e1a115d17f16fec3569
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 이 문서에서는 Exchange Online 설정을 사용자 지정하고 조직의 Exchange Online 환경을 최신으로 유지하는 데 사용할 수 있는 관리 제어 및 지원에 대해 설명하고 있습니다. 내용에는 Microsoft 관리 책임 및 성능 약정, 서비스 및 제품 업그레이드와 같이 조직에서 사용할 수 있는 셀프 서비스 관리 도구 및 기능에 대한 정보가 포함되어 있습니다.
+ms.openlocfilehash: 169752df12564131e4b5fb0f95b94f62273cd5ff
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45133003"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173673"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 설치 및 관리
 
-이 문서에서는 Exchange Online 설정을 사용자 지정 하 고 조직의 Exchange Online 환경을 최신, 실행 및 최신 상태로 유지 하는 데 사용할 수 있는 관리 제어 및 지원에 대해 설명 합니다. 내용에는 Microsoft 관리 책임 및 성능 약정, 서비스 및 제품 업그레이드와 같이 조직에서 사용할 수 있는 셀프 서비스 관리 도구 및 기능에 대한 정보가 포함되어 있습니다.
+이 문서에서는 Exchange Online 설정을 사용자 지정하고 조직의 Exchange Online 환경을 최신으로 유지하는 데 사용할 수 있는 관리 제어 및 지원에 대해 설명하고 있습니다. 내용에는 Microsoft 관리 책임 및 성능 약정, 서비스 및 제품 업그레이드와 같이 조직에서 사용할 수 있는 셀프 서비스 관리 도구 및 기능에 대한 정보가 포함되어 있습니다.
   
 ## <a name="self-service-administration-tools"></a>셀프 서비스 관리 도구
 
-Microsoft는 모든 Exchange Online 데이터 센터를 직접 제어 하 고 전반적인 시스템 성능을 담당 하지만 전체 사용자 환경을 제공 하기 위해 결합 되는 요소의 일부만 제어할 수 있습니다. 조직은 데이터 센터, 고객의 WAN (광역 네트워크) 및 고객 Lan (local area networks)에 대 한 네트워크 연결을 담당 합니다. 또한 사용자 장치 및 해당 구성에 대 한 비용이 청구 됩니다.또한 사용자가 기능에 액세스 해야 하는 경우에는 이러한 기능을 관리 하는 기능을 비롯 하 여 원하는 기능에 대해 사용자 당 필요한 라이선스를 유지 관리 해야 합니다.
+Microsoft는 모든 Exchange Online 데이터 센터를 직접 제어하고 전체 시스템 성능을 담당하기는 하지만 결합된 요소의 일부만 제어하여 사용자에게 전체 환경을 제공할 수 있습니다. 조직 자체는 데이터 센터, 고객의 WAN(Wide Area Network) 및 고객의 WAN(Local Area Network)에 대한 네트워크 연결을 담당합니다. 또한 사용자 장치 및 구성을 담당합니다.또한 사용자가 기능에 액세스해야 하는 한 이러한 기능을 관리하는 기능을 포함하지만 이에 국한되지는 않는 원하는 기능에 대해 사용자당 필수 라이선스를 유지 관리할 책임이 있습니다.
   
 따라서 Exchange Online은 고객 관리자에게 다양한 메시징 관련 작업을 관리할 수 있는 다음 도구를 제공합니다.
   
@@ -44,19 +44,19 @@ Microsoft는 모든 Exchange Online 데이터 센터를 직접 제어 하 고 �
   
 ### <a name="microsoft-365-admin-center"></a>Microsoft 365 관리 센터
 
-Microsoft 365 관리 센터는 각 회사의 서비스 관리자가 구독 하는 각 Microsoft 서비스에 대 한 사용자 계정 및 설정을 관리할 수 있는 웹 포털입니다. Microsoft 365 관리 센터에서 관리자는 EAC (Exchange 관리 센터)에 대 한 링크를 팔 로우 하 여 Exchange Online과 관련 된 설정을 관리할 수 있습니다. Microsoft 365 관리 센터를 사용 하 여 작업을 수행 하 고 실행 하는 방법에 대 한 자세한 내용은 [Office 365 Enterprise 소개](https://go.microsoft.com/fwlink/p/?LinkId=271806)비디오를 참조 하세요.
+Microsoft 365 관리 센터는 각 회사의 서비스 관리자가 구독하는 각 Microsoft 서비스의 사용자 계정 및 설정을 관리할 수 있는 웹 포털입니다. Microsoft 365 관리 센터 내에서 관리자는 Exchange Online 관련 설정을 관리할 수 있는 EAC(Exchange 관리 센터)에 대한 링크를 팔로우할 수 있습니다. Microsoft 365 관리 센터를 사용하여 시작 및 실행하는 데 대한 자세한 내용은 [Office 365 Enterprise 소개 비디오를 참조하세요.](https://go.microsoft.com/fwlink/p/?LinkId=271806)
   
 ### <a name="exchange-admin-center"></a>Exchange 관리 센터
 
 Exchange Online은 온-프레미스, 온라인 또는 하이브리드 배포의 관리에 최적화된 편리한 단일 통합 관리 콘솔을 제공합니다. EAC(Exchange 관리 센터)를 통해 관리자는 Exchange 관련 설정을 관리할 수 있습니다.
   
-EAC를 사용하여 Exchange Online을 관리하는 방법에 대한 자세한 내용은 [Exchange 관리 센터](https://go.microsoft.com/fwlink/p/?LinkId=271807)를 참조하세요.
+EAC를 사용하여 Exchange Online을 관리하는 방법에 대한 자세한 내용은 [Exchange 관리 센터](/exchange/exchange-admin-center)를 참조하세요.
   
 ### <a name="remote-windows-powershell-for-exchange-online"></a>Exchange Online용 원격 Windows PowerShell
 
-원격 Windows PowerShell을 사용하면 관리자는 Exchange Online에 연결하여 EAC에서는 사용할 수 없거나 타당하지 않은 관리 작업을 수행할 수 없습니다. 여기에는 반복 작업 자동화, 사용자 지정 보고서용 데이터 추출, 정책 사용자 지정 및 기존 인프라와 프로세스에 Exchange Online 연결 기능이 포함됩니다. 자세한 내용은 [원격 PowerShell을 사용하여 Exchange Online에 연결](https://go.microsoft.com/fwlink/p/?LinkId=308994)을 참조하세요.
+원격 Windows PowerShell을 사용하면 관리자는 Exchange Online에 연결하여 EAC에서는 사용할 수 없거나 타당하지 않은 관리 작업을 수행할 수 없습니다. 여기에는 반복 작업 자동화, 사용자 지정 보고서용 데이터 추출, 정책 사용자 지정 및 기존 인프라와 프로세스에 Exchange Online 연결 기능이 포함됩니다. 자세한 내용은 [원격 PowerShell을 사용하여 Exchange Online에 연결](/powershell/exchange/connect-to-exchange-online-powershell)을 참조하세요.
   
-Exchange Online에서는 Exchange Server 2013과 동일한 Windows PowerShell cmdlet을 사용합니다. 그러나 Exchange Online에 적용되지 않는 특정 명령과 매개 변수는 사용할 수 없습니다. Exchange Online에서 사용할 수 있는 cmdlet 목록은 [Exchange Online cmdlet](https://go.microsoft.com/fwlink/p/?LinkId=271808)을 참조하세요.
+Exchange Online에서는 Exchange Server 2013과 동일한 Windows PowerShell cmdlet을 사용합니다. 그러나 Exchange Online에 적용되지 않는 특정 명령과 매개 변수는 사용할 수 없습니다. Exchange Online에서 사용할 수 있는 cmdlet 목록은 [Exchange Online cmdlet](/powershell/exchange/exchange-online-powershell)을 참조하세요.
   
 원격 Windows PowerShell을 사용하기 위해 관리자가 Exchange Server 관리 또는 마이그레이션 도구를 설치할 필요가 없습니다. 그러나 관리자의 컴퓨터는 Windows PowerShell v3 및 WinRM 3.0, Windows .NET Framework 4.5가 포함된 Windows Management Framework 3.0을 실행 중이어야 합니다. 이러한 구성 요소는 Windows 8 또는 Windows Server 2012를 실행 중인 컴퓨터에 이미 설치되어 있습니다. Windows 7 또는 Windows Server 2008 R2를 실행 중인 컴퓨터에 대해서는 관리자가 이러한 구성 요소를 수동으로 다운로드할 수 있습니다.
   
@@ -73,7 +73,7 @@ Exchange Online에서는 모바일 장치에 대해 Exchange Server 2013과 동�
   
 ### <a name="message-tracking-for-exchange-online"></a>Exchange Online에 대한 메시지 추적
 
-배달 보고서 기능을 통한 메시지 추적은 [보고 기능 및 문제 해결 도구](reporting-features-and-troubleshooting-tools.md)항목에 설명 되어 있습니다.
+배달 보고서 기능을 통한 메시지 추적은 보고 기능 및 문제 해결 도구 에서 [설명됩니다.](reporting-features-and-troubleshooting-tools.md)
   
 ### <a name="usage-reporting-for-exchange-online"></a>Exchange Online에 대한 사용 현황 보고
 
@@ -87,11 +87,11 @@ Exchange Online에서는 모바일 장치에 대해 Exchange Server 2013과 동�
     
 "get-"으로 시작하는 원격 Windows PowerShell cmdlet은 Exchange Online 시스템에서 데이터를 가져올 수 있습니다. 관리자는 고급 분석 또는 보고를 위해 Windows PowerShell에서 이 정보를 .csv 형식으로 내보낼 수 있습니다.
   
-Exchange Online에서 사용할 수 있는 Windows PowerShell cmdlet에 대한 자세한 내용은 [Exchange Online cmdlet](https://go.microsoft.com/fwlink/p/?LinkId=271808)을 참조하세요.
+Exchange Online에서 사용할 수 있는 Windows PowerShell cmdlet에 대한 자세한 내용은 [Exchange Online cmdlet](/powershell/exchange/exchange-online-powershell)을 참조하세요.
   
 ### <a name="auditing-for-exchange-online"></a>Exchange Online에 대한 감사
 
-감사 로깅 기능은 [보고 기능 및 문제 해결 도구](reporting-features-and-troubleshooting-tools.md)항목에 설명 되어 있습니다.
+감사 로깅 기능에 대한 설명은 보고 기능 및 문제 [해결 도구 에 설명되어 있습니다.](reporting-features-and-troubleshooting-tools.md)
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Exchange Online에 대한 서비스 및 제품 업그레이드
 
@@ -101,5 +101,4 @@ Exchange Online 고객은 Exchange Server의 새 릴리스를 비롯하여 최�
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Exchange Online 서비스 설명을](exchange-online-service-description.md)참조 하세요.
-  
+계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 Exchange Online 서비스 [설명을 참조하세요.](exchange-online-service-description.md)

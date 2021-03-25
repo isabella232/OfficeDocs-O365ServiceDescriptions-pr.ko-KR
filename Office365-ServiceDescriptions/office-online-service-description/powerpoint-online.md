@@ -12,67 +12,67 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: Web for PowerPoint (이전의 PowerPoint Web App)에서는 프레젠테이션이 저장 된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있는 Microsoft PowerPoint 환경을 웹 브라우저로 확장 합니다. Microsoft 365 web for Office를 사용 하는 고객은 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
-ms.openlocfilehash: e7925e85feeb611895e5481f1d6b81917a1cfbd2
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: 웹용 PowerPoint(이전의 PowerPoint Web App)는 Microsoft PowerPoint 환경을 웹 브라우저로 확장하여 프레젠테이션이 저장된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있습니다. 웹용 Office를 사용할 수 있는 Microsoft 365 고객은 이동 중 파일을 보고 만들고 편집할 수 있습니다.
+ms.openlocfilehash: 32ebb9f1ef3a9c68d5bc01314721f197a7f80cee
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294086"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172743"
 ---
 # <a name="powerpoint-for-the-web"></a>웹용 PowerPoint
 
-Web for PowerPoint (이전의 PowerPoint Web App)에서는 프레젠테이션이 저장 된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있는 Microsoft PowerPoint 환경을 웹 브라우저로 확장 합니다. Microsoft 365 web for Office를 사용 하는 고객은 이동 중에 파일을 보고, 만들고, 편집할 수 있습니다.
+웹용 PowerPoint(이전의 PowerPoint Web App)는 Microsoft PowerPoint 환경을 웹 브라우저로 확장하여 프레젠테이션이 저장된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있습니다. 웹용 Office를 사용할 수 있는 Microsoft 365 고객은 이동 중 파일을 보고 만들고 편집할 수 있습니다.
   
-PowerPoint 편집기는 사용자가 충실도를 잃지 않고 문서 작업을 수행할 수 있도록 하는 브라우저 기반 편집 화면을 만드는 웹 프런트 엔드 구성 요소입니다.
+PowerPoint Editor는 브라우저 기반 편집 표면을 만드는 웹 프런트 엔드 구성 요소로, 사용자가 고화능을 잃지 않고 문서 작업을 할 수 있도록 합니다.
   
-웹 도구 모음의 PowerPoint에서 **powerpoint에서 열기** 단추를 선택 하면 프레젠테이션이 powerpoint 데스크톱 앱에서 열립니다 (Microsoft powerpoint 2010 이상이 컴퓨터에 설치 되어 있는 경우).
+웹 도구 모음의 **PowerPoint에서** 열기 단추를 선택하면 PowerPoint 데스크톱 앱에서 프레젠테이션이 열립니다(컴퓨터에 Microsoft PowerPoint 2010 이상이 설치되어 있는 경우).
   
-[PC에서 비즈니스용 Microsoft 365을 사용 하 여 Office를 다운로드 하 고 설치](https://support.office.com/article/72977511-dfd1-4d8b-856f-405cfb76839c)하는 방법에 대해 알아봅니다.
+PC에서 비즈니스용 [Microsoft 365를](https://support.office.com/article/72977511-dfd1-4d8b-856f-405cfb76839c)사용하여 Office를 다운로드하고 설치하는 방법을 학습합니다.
   
 ## <a name="alignment-bullets-numbers"></a>맞춤, 글머리 기호, 번호
 
-웹 용 PowerPoint를 사용 하 여 단락 맞춤을 변경 하 고 글머리 기호나 번호 매기기를 적용 하 고 글머리 기호 또는 번호 매기기 텍스트의 수준을 변경할 수 있습니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
+웹용 PowerPoint를 사용하면 단락 맞춤을 변경하고 글머리 기호 또는 번호 매기기 및 글머리 기호 또는 번호 매기기 텍스트 수준을 변경할 수 있습니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
   
 ## <a name="apply-basic-transitions-and-animations"></a>기본 전환 및 애니메이션 적용
 
-애니메이션 및 전환 효과를 갤러리에서 선택합니다. 웹 용 PowerPoint에서는 8 개의 전환 및 37 애니메이션을 지원 합니다. 웹에서 PowerPoint가 지원 하지 않는 추가 애니메이션과 전환은 프레젠테이션에 유지 되 고 슬라이드 쇼에 표시 되지만, 해당 웹의 PowerPoint에서 수정할 수는 없습니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
+애니메이션 및 전환 효과를 갤러리에서 선택합니다. 웹용 PowerPoint에서는 8개의 전환과 37개의 애니메이션을 지원합니다. 웹용 PowerPoint에서 지원되지 않는 추가 애니메이션 및 전환은 프레젠테이션에 유지되고 슬라이드 쇼에 표시되지만 웹용 PowerPoint에서 수정할 수는 없습니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
   
 ## <a name="apply-rich-formatting-to-text-shapes-and-pictures"></a>텍스트, 도형 및 그림에 다양한 서식 적용
 
-이 웹의 PowerPoint에서는 사용할 수 없습니다. 추가적인 색상, 그라데이션, 스포이트, 효과 및 스타일 같은 고급 서식 기능은 PowerPoint 데스크톱 앱에서 사용할 수 있습니다. 웹 용 PowerPoint를 사용 하 여 텍스트 상자를 추가 하거나, 도형 갤러리에서 선택 하 고 채우기, 윤곽선 및 그림자 효과를 정의 하는 스타일을 적용할 수 있습니다. 
+웹용 PowerPoint에서는 사용할 수 없습니다. 추가적인 색상, 그라데이션, 스포이트, 효과 및 스타일 같은 고급 서식 기능은 PowerPoint 데스크톱 앱에서 사용할 수 있습니다. 웹용 PowerPoint에서는 텍스트 상자를 추가하거나 도형 갤러리에서 선택하고 채우기, 윤곽선 및 그림자 효과를 정의하는 스타일을 적용할 수 있습니다. 
   
 ## <a name="apply-themes-and-theme-variants"></a>테마 및 테마 변형 적용
 
-새 슬라이드를 프레젠테이션에 추가할 때 기본 제공 테마 및 변형을 갤러리에서 선택합니다. 웹에서 PowerPoint가 지원 하지 않는 테마는 프레젠테이션에 유지 되지만, 웹의 PowerPoint에서는 테마를 수정할 수 없습니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
+새 슬라이드를 프레젠테이션에 추가할 때 기본 제공 테마 및 변형을 갤러리에서 선택합니다. 웹용 PowerPoint에서 지원되지 않는 테마는 프레젠테이션에 유지되지만 웹용 PowerPoint에서는 테마를 수정할 수 없습니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
   
 ## <a name="office-add-ins"></a>Office 추가 기능
 
-Web 용 PowerPoint에서는 Office 용 콘텐츠 추가 기능만 지원 됩니다. 콘텐츠 추가 기능은 웹 기반 기능을 프레젠테이션과 일치하게 표시될 수 있는 콘텐츠로 통합합니다. 자세한 내용은 [Office용 추가 기능 유형](https://go.microsoft.com/fwlink/p/?LinkId=282310)을 참조하세요.
+웹용 PowerPoint에서는 Office용 콘텐츠 추가 기능만 지원됩니다. 콘텐츠 추가 기능은 웹 기반 기능을 프레젠테이션과 일치하게 표시될 수 있는 콘텐츠로 통합합니다. 자세한 내용은 [Office용 추가 기능 유형](/previous-versions/office/office-2013-resource-kit/jj219429(v=office.15))을 참조하세요.
   
 ## <a name="arrange-objects"></a>개체 정렬
 
-웹에서 PowerPoint의 셰이프 및 텍스트 상자를 이동 하거나, 크기를 조정 하거나, 회전 하거나, 순서를 조정할 수 있습니다. 도형을 개별적으로 작동하도록 그룹 해제합니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
+웹용 PowerPoint에서 레이어의 도형과 텍스트 상자를 이동, 크기 변경, 회전 또는 순서대로 지정합니다. 도형을 개별적으로 작동하도록 그룹 해제합니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
   
 ## <a name="broadcast-slide-show"></a>슬라이드 쇼 브로드캐스트
 
-PowerPoint 데스크톱 앱은 PowerPoint를 통해 웹을 통해 슬라이드 쇼를 원격 대상 그룹에 브로드캐스트하는 데 필요 합니다. 보는 사람은 powerpoint 데스크톱 앱이 설치 되어 있는지 여부에 관계 없이 웹의 PowerPoint를 통해 생활 프레젠테이션을 시청할 수 있습니다. 자세한 내용은 [슬라이드 쇼 브로드캐스트](https://go.microsoft.com/fwlink/?LinkId=272765)를 참조하세요.
+웹용 PowerPoint를 통해 슬라이드 쇼를 원격 대상에게 브로드캐스트하려면 PowerPoint 데스크톱 앱이 필요합니다. 뷰어는 PowerPoint 데스크톱 앱이 설치되어 있는지 여부에 관계없이 웹용 PowerPoint를 통해 프레젠테이션을 볼 수 있습니다. 자세한 내용은 [슬라이드 쇼 브로드캐스트](https://go.microsoft.com/fwlink/?LinkId=272765)를 참조하세요.
   
 ## <a name="clipboard"></a>클립보드
 
-웹 용 PowerPoint를 사용 하 여 프레젠테이션의 콘텐츠를 잘라내고 복사 하 고 붙여넣을 수 있습니다. 사용자는 웹 프로그램에 대 한 office와 컴퓨터에 있는 Microsoft Office 데스크톱 앱 간에 텍스트를 복사 하 여 붙여 넣을 수 있습니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
+웹용 PowerPoint를 사용하면 프레젠테이션의 콘텐츠를 잘라 내고 복사하고 붙여넣을 수 있습니다. 사용자는 웹용 Office 프로그램 간에 텍스트를 복사하여 붙여넣을 수 있으며, 웹용 Office와 컴퓨터의 Microsoft Office 앱 간에도 텍스트를 복사하여 붙여넣을 수 있습니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
   
 ## <a name="create-and-manage-slides"></a>슬라이드 만들기 및 관리
 
-웹에 대 한 PowerPoint에서 슬라이드를 추가, 재정렬, 복제, 숨기기 및 삭제 합니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
+웹용 PowerPoint에서 슬라이드를 추가, 다시 조정, 복제, 숨기기 및 삭제합니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
   
 ## <a name="create-custom-animation"></a>사용자 지정 애니메이션 만들기
 
-웹 용 PowerPoint에는 애니메이션 효과 갤러리가 포함 되어 있습니다. 웹에 대 한 PowerPoint에서 지원 하지 않는 애니메이션은 프레젠테이션에 유지 되 고 슬라이드 쇼에 표시 되지만, 해당 웹의 PowerPoint에서 수정할 수는 없습니다. 사용자 지정 애니메이션을 만들려면 PowerPoint 데스크톱 앱이 컴퓨터에 설치되어 있어야 합니다. 자세한 내용은 [PowerPoint 2013 데스크톱 앱으로 사용자 지정 애니메이션 만들기](https://go.microsoft.com/fwlink/p/?LinkId=282348)를 참조하세요.
+웹용 PowerPoint에는 애니메이션 효과 갤러리가 포함되어 있습니다. 웹용 PowerPoint에서 지원되지 않는 애니메이션은 프레젠테이션에 유지되고 슬라이드 쇼에 표시되지만 웹용 PowerPoint에서 수정할 수는 없습니다. 사용자 지정 애니메이션을 만들려면 PowerPoint 데스크톱 앱이 컴퓨터에 설치되어 있어야 합니다. 자세한 내용은 [PowerPoint 2013 데스크톱 앱으로 사용자 지정 애니메이션 만들기](https://go.microsoft.com/fwlink/p/?LinkId=282348)를 참조하세요.
   
 ## <a name="design-tools-advanced"></a>디자인 도구, 고급
 
-이 웹의 PowerPoint에서는 사용할 수 없습니다. 슬라이드 마스터 만들기 및 레이아웃 수정 같은 고급 디자인 기능은 PowerPoint 데스크톱 앱에서만 사용할 수 있습니다. 웹을 사용 하는 경우에는 자신만의 서식 파일을 사용 하 여 새 파일을 만들거나 미리 정의 된 테마 목록에서 선택할 수 있습니다.
+웹용 PowerPoint에서는 사용할 수 없습니다. 슬라이드 마스터 만들기 및 레이아웃 수정 같은 고급 디자인 기능은 PowerPoint 데스크톱 앱에서만 사용할 수 있습니다. 웹용 PowerPoint를 사용하면 자체 템플릿 파일을 사용하여 새 파일을 만들거나 미리 정의한 테마 목록에서 선택할 수 있습니다.
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -80,47 +80,47 @@ Dropbox는 클라우드 저장소, 파일 동기화, 개인 클라우드 및 클
   
 ## <a name="embed-presentation-on-web-or-blog-page"></a>웹 또는 블로그 페이지에 프레젠테이션 포함
 
-웹 용 PowerPoint를 사용 하 여 Microsoft PowerPoint 데스크톱 앱이 없는 경우에도 누구나 정보를 볼 수 있도록 프레젠테이션이나 블로그에 프레젠테이션을 포함할 수 있습니다. 포함된 뷰어에는 애니메이션, 전환 및 오디오/비디오가 고화질 읽기용 보기와 동일하게 표시됩니다. 자세한 내용은 [웹 또는 블로그 페이지에 프레젠테이션 포함](https://go.microsoft.com/fwlink/?LinkId=272766)을 참조하세요.
+웹용 PowerPoint를 사용하면 Microsoft PowerPoint 데스크톱 앱이 없는 경우에도 누구나 정보를 볼 수 있도록 웹 사이트 또는 블로그에 프레젠테이션을 함께 사용할 수 있습니다. 포함된 뷰어에는 애니메이션, 전환 및 오디오/비디오가 고화질 읽기용 보기와 동일하게 표시됩니다. 자세한 내용은 [웹 또는 블로그 페이지에 프레젠테이션 포함](https://go.microsoft.com/fwlink/?LinkId=272766)을 참조하세요.
   
 ## <a name="font-formatting"></a>글꼴 서식
 
-웹을 위한 PowerPoint를 사용 하 여 텍스트에 굵게, 기울임꼴, 밑줄, 글꼴, 크기 및 색을 적용할 수 있습니다. 또한 서식 복사를 사용하여 전체 도형의 서식을 복사를 사용할 수 있습니다.
+웹용 PowerPoint를 사용하면 굵게, Italics, 밑라인, 글꼴, 크기 및 색을 텍스트에 적용할 수 있습니다. 또한 서식 복사를 사용하여 전체 도형의 서식을 복사를 사용할 수 있습니다.
   
 ## <a name="full-fidelity-reading-view"></a>고화질 읽기용 보기
 
-&mdash;애니메이션, 전환 및 오디오/비디오를 보여 주는 것 처럼 프레젠테이션을 봅니다.
+애니메이션, 전환 및 오디오/비디오를 보여 주며 &mdash; 프레젠테이션을 볼 수 있습니다.
   
 ## <a name="full-ink-support"></a>전체 잉크 지원
 
-PowerPoint에서 웹을 위한 잉크를 삽입할 수는 없지만, 웹의 PowerPoint에는 제대로 표시 됩니다.
+웹용 PowerPoint에는 Ink를 삽입할 수 없지만 웹용 PowerPoint에는 예상대로 표시됩니다.
   
 ## <a name="full-selection-of-animations-and-transitions"></a>애니메이션 및 전환의 전체 선택
 
-웹 용 PowerPoint에서는 8 개의 전환 및 37 애니메이션을 지원 합니다. 더 큰 범위를 선택하려면 PowerPoint 데스크톱 앱을 사용하세요. 
+웹용 PowerPoint에서는 8개의 전환과 37개의 애니메이션을 지원합니다. 더 큰 범위를 선택하려면 PowerPoint 데스크톱 앱을 사용하세요. 
   
 ## <a name="headers-and-footers"></a>머리글 및 바닥글
 
-웹의 PowerPoint에서는 날짜 및 슬라이드 번호를 비롯 한 머리글과 바닥글을 삽입, 편집 또는 삭제할 수 없지만, 웹의 PowerPoint에는 예상 대로 표시 됩니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
+웹용 PowerPoint에서 날짜 및 슬라이드 번호를 비롯한 머리더와 머리어를 삽입, 편집 또는 삭제할 수는 없지만 웹용 PowerPoint에서는 예상대로 표시됩니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
   
 ## <a name="hyperlinks"></a>하이퍼링크
 
-하이퍼링크를 삽입, 편집하고 하이퍼링크로 이동합니다. 책갈피 링크는 사용할 수 있으 나 PowerPoint에서 웹에 대 한 연결을 편집할 수도 없습니다.
+하이퍼링크를 삽입, 편집하고 하이퍼링크로 이동합니다. 책갈피 링크는 작동하지만 웹용 PowerPoint에서 편집할 수 없습니다.
   
 ## <a name="insert-online-video"></a>온라인 비디오 삽입
 
-비디오 및 오디오 콘텐츠는 읽기용 보기 및 슬라이드 쇼에서 재생되며 파일 크기를 100MB로 제한합니다. 온라인 비디오를 YouTube에서 삽입할 수 있으며, 미디어 컨트롤은 해당 웹의 PowerPoint에서 크기를 조정 하 고 이동 하 고 삭제할 수 있습니다. 그러나 YouTube 이외의 오디오 및 비디오를 삽입하려면 Microsoft PowerPoint 데스크톱 앱이 필요합니다.
+비디오 및 오디오 콘텐츠는 읽기용 보기 및 슬라이드 쇼에서 재생되며 파일 크기를 100MB로 제한합니다. 온라인 비디오는 YouTube에서 삽입할 수 있으며, 웹용 PowerPoint에서 미디어 컨트롤의 재배치, 이동 및 삭제할 수 있습니다. 그러나 YouTube 이외의 오디오 및 비디오를 삽입하려면 Microsoft PowerPoint 데스크톱 앱이 필요합니다.
   
 ## <a name="integration-with-excel-for-charts"></a>차트용 Excel과의 통합
 
-이 웹의 PowerPoint에서는 사용할 수 없습니다. 웹용 PowerPoint를 사용 하 여 기존 프레젠테이션에서 Excel 차트를 볼 수는 있지만 프레젠테이션에 PowerPoint를 사용 하 여 Excel 차트를 만들거나 편집할 수는 없습니다. 자세한 내용은 [PowerPoint에 Excel 차트 복사](https://go.microsoft.com/fwlink/?LinkId=272773)를 참조하세요.
+웹용 PowerPoint에서는 사용할 수 없습니다. 웹용 PowerPoint를 사용하면 기존 프레젠테이션에서 Excel 차트를 볼 수 있지만 웹용 PowerPoint를 사용하여 프레젠테이션에 Excel 차트를 편집하거나 삽입할 수 없습니다. 자세한 내용은 [PowerPoint에 Excel 차트 복사](https://go.microsoft.com/fwlink/?LinkId=272773)를 참조하세요.
   
-## <a name="navigation---slide-sorter"></a>탐색-슬라이드 보기
+## <a name="navigation---slide-sorter"></a>탐색 - 슬라이드 분류기
 
-슬라이드 정렬 보기를 사용 하 여 슬라이드를 축소판 그림 형태로 볼 수 있으며, 슬라이드를 쉽게 정렬할 수 있습니다. 여러 슬라이드 보기를 사용 하 여 슬라이드를 구성 하 고, 구역을 추가 하 고, 슬라이드를 다른 범주로 정렬할 수 있습니다.
+슬라이드 보기를 미리 보기 형태로 제공하는 여러 슬라이드 보기를 사용하면 슬라이드를 쉽게 정렬하고 구성할 수 있습니다. 여러 슬라이드 보기를 사용하여 슬라이드를 구성하고, 섹션을 추가하고, 슬라이드를 다른 범주로 정렬할 수 있습니다.
   
 ## <a name="offline-viewing-and-authoring"></a>오프라인으로 보기 및 작성
 
-웹에 대 한 PowerPoint가 웹 브라우저에서 시작 되 고 인터넷에 연결 됩니다. 오프라인으로 프레젠테이션에 액세스하려면 Microsoft PowerPoint 데스크톱 앱을 컴퓨터에 설치하고 이를 사용하여 슬라이드를 보고 편집해야 합니다.
+웹용 PowerPoint는 웹 브라우저에서 시작하며 인터넷 연결을 사용합니다. 오프라인으로 프레젠테이션에 액세스하려면 Microsoft PowerPoint 데스크톱 앱을 컴퓨터에 설치하고 이를 사용하여 슬라이드를 보고 편집해야 합니다.
   
 ## <a name="picture-cropping"></a>그림 자르기
 
@@ -128,47 +128,47 @@ PowerPoint에서 웹을 위한 잉크를 삽입할 수는 없지만, 웹의 Powe
   
 ## <a name="pictures"></a>그림
 
-웹 용 PowerPoint를 사용 하 여 컴퓨터에 저장 된 그림을 삽입 하거나 Bing 이미지의 그림을 삽입할 수 있습니다. 그림을 이동하거나, 크기를 조정하고 자를 수 있으며 여러 그림 스타일을 적용할 수 있습니다. 효과를 적용 하는 등의 그림 작업을 위한 보다 복잡 한 기능은 웹에서 PowerPoint에서 사용할 수 없습니다. 웹의 PowerPoint에서는 스크린샷을 만들 수 없지만 프레젠테이션에 있는 스크린샷은 PowerPoint에서 웹에 대 한 그림으로 표시 됩니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
+웹용 PowerPoint를 사용하면 컴퓨터에 저장된 그림을 삽입하거나 Bing 이미지의 그림을 삽입할 수 있습니다. 그림을 이동하거나, 크기를 조정하고 자를 수 있으며 여러 그림 스타일을 적용할 수 있습니다. 효과를 적용하는 등 그림 작업을 위한 더 정교한 기능은 웹용 PowerPoint에서 사용할 수 없습니다. 웹용 PowerPoint에서는 스크린샷을 만들 수 없지만 프레젠테이션에 있는 스크린샷은 웹용 PowerPoint에 그림으로 표시됩니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
   
 ## <a name="present-online-through-skype-for-business-or-the-office-presentation-service"></a>비즈니스용 Skype 또는 Office Presentation Service를 통해 온라인으로 프레젠테이션
 
-이 웹의 PowerPoint에서는 사용할 수 없습니다. Microsoft PowerPoint 데스크톱 앱을 사용 하면 다른 사용자가 웹 브라우저에서 팔 로우 할 수 있도록 하는 무료 공용 서비스인 Office Presentation Service를 통해 프레젠테이션을 배달할 수 있습니다. 자세한 내용은 [Office Presentation Service](https://go.microsoft.com/fwlink/?LinkId=272774)를 참조하세요.
+웹용 PowerPoint에서는 사용할 수 없습니다. Microsoft PowerPoint 데스크톱 앱을 사용하면 다른 사용자가 웹 브라우저에서 따라다니는 무료 공용 서비스인 Office Presentation Service를 사용하여 프레젠테이션을 전달할 수 있습니다. 자세한 내용은 [Office Presentation Service](https://go.microsoft.com/fwlink/?LinkId=272774)를 참조하세요.
   
 ## <a name="presenter-view"></a>발표자 보기
 
-이 웹의 PowerPoint에서는 사용할 수 없습니다. Microsoft PowerPoint 데스크톱 앱에서만 발표자가 백그라운드에서 프레젠테이션 흐름, 메모, 주석 및 확대/축소 도수를 제어할 수 있습니다. Web 용 PowerPoint에서는 이러한 기능을 지원 하지 않습니다.
+웹용 PowerPoint에서는 사용할 수 없습니다. Microsoft PowerPoint 데스크톱 앱에서만 발표자가 백그라운드에서 프레젠테이션 흐름, 메모, 주석 및 확대/축소 도수를 제어할 수 있습니다. 웹용 PowerPoint에서는 이러한 기능을 지원하지 않습니다.
   
 ## <a name="print-to-pdf"></a>PDF로 인쇄
 
-웹 용 PowerPoint를 사용 하 여 슬라이드의 모든 레이아웃과 서식이 원하는 대로 인쇄 되는 PDF 독자에 게 프레젠테이션을 인쇄할 수 있습니다. [웹에서 PowerPoint를 사용 하 여 수행할 수 있는 기본 작업](https://go.microsoft.com/fwlink/?LinkId=272775)에 대해 자세히 알아보세요.
+웹용 PowerPoint를 사용하면 프레젠테이션을 PDF 판독기로 인쇄할 수 있으며, 슬라이드의 모든 레이아웃과 서식이 예상한 방식으로 인쇄됩니다. 웹용 PowerPoint 를 사용하여 수행할 수 있는 기본 [작업에 대해 자세히 알아보면 됩니다.](https://go.microsoft.com/fwlink/?LinkId=272775)
   
 ## <a name="proofing-tools"></a>교정 도구
 
-웹에서 사용할 PowerPoint와 함께 기본 제공 사전을 사용 하 여 맞춤법을 검사 하 고 교정 언어를 설정할 수 있습니다. 그러나 web for PowerPoint는 사용자 지정 사전을 사용 하지 않으며 번역 이나 동의어 사전을 포함 하지 않습니다.
+웹용 PowerPoint의 기본 제공 사전을 사용하여 맞춤법을 검사하고 교정 언어를 설정할 수 있습니다. 그러나 웹용 PowerPoint에서는 사용자 지정 사전을 사용하지 않습니다. 번역이나 사전은 포함하지 않습니다.
   
 ## <a name="real-time-co-authoring"></a>실시간 공동 작성
 
-Web 및 PowerPoint 2016의 PowerPoint에서는 여러 작성자가 동시에 작업할 수 있습니다. 편집 시 충돌을 방지하고 변경 내용을 즉시 확인할 수 있도록 실시간 현재 상태를 통해 공동 작성자들이 프레젠테이션에서 작업 중인 위치를 확인할 수 있습니다. PowerPoint 2013에서는 동시 편집을 지원하지만 현재 상태가 표시되지 않으며 문서를 저장해야 여러 작성자가 변경 내용을 확인할 수 있습니다. PowerPoint의 실시간 공동 작성 기능에 대한 자세한 내용은 [PowerPoint 프레젠테이션에서 공동 작업](https://go.microsoft.com/fwlink/?linkid=844014)을 참조하세요.
+여러 작성자가 웹용 PowerPoint 및 PowerPoint 2016에서 동시에 작업할 수 있습니다. 편집 시 충돌을 방지하고 변경 내용을 즉시 확인할 수 있도록 실시간 현재 상태를 통해 공동 작성자들이 프레젠테이션에서 작업 중인 위치를 확인할 수 있습니다. PowerPoint 2013에서는 동시 편집을 지원하지만 현재 상태가 표시되지 않으며 문서를 저장해야 여러 작성자가 변경 내용을 확인할 수 있습니다. PowerPoint의 실시간 공동 작성 기능에 대한 자세한 내용은 [PowerPoint 프레젠테이션에서 공동 작업](https://go.microsoft.com/fwlink/?linkid=844014)을 참조하세요.
   
 ## <a name="reviewer-tools-advanced"></a>검토자 도구, 고급
 
-이 웹의 PowerPoint에서는 사용할 수 없습니다. 충돌 병합 및 프레젠테이션 비교 같은 고급 검토자 기능은 PowerPoint 데스크톱 앱에서만 사용할 수 있습니다. 웹 용 PowerPoint를 사용 하 여 설명을 보거나 추가, 편집 또는 삭제할 수 있습니다.
+웹용 PowerPoint에서는 사용할 수 없습니다. 충돌 병합 및 프레젠테이션 비교 같은 고급 검토자 기능은 PowerPoint 데스크톱 앱에서만 사용할 수 있습니다. 웹용 PowerPoint를 사용하여 설명을 보거나 추가, 편집 또는 삭제할 수 있습니다.
   
 ## <a name="rights-management-apply-and-consume-irm-and-password-protection"></a>권한 관리: IRM 및 암호 보호 적용 및 사용
 
-이 웹의 PowerPoint에서는 사용할 수 없습니다. Web 용 PowerPoint에는 IRM (정보 권한 관리)으로 보호 되는 프레젠테이션이 표시 됩니다. 그러나 이러한 프레젠테이션은 브라우저에서 편집할 수 없으며, 웹의 PowerPoint에서 IRM으로 보호 된 프레젠테이션을 만들 수 없습니다. Web for PowerPoint에서 디지털 서명 되거나 암호로 암호화 된 프레젠테이션을 열 수 없습니다. 
+웹용 PowerPoint에서는 사용할 수 없습니다. 웹용 PowerPoint에는 IRM(정보 권한 관리)으로 보호되는 프레젠테이션이 표시됩니다. 그러나 이러한 프레젠테이션은 브라우저에서 편집할 수 없습니다. 웹용 PowerPoint에서는 IRM으로 보호된 프레젠테이션을 만들 수 없습니다. 웹용 PowerPoint에서는 디지털 서명되거나 암호로 암호화된 프레젠테이션을 열 수 없습니다. 
   
 ## <a name="run-slide-show"></a>슬라이드 쇼 실행
 
-웹 용 PowerPoint를 사용 하면 웹 브라우저와 인터넷 연결 만으로 프레젠테이션을 실행할 수 있습니다. [웹에서 PowerPoint를 사용 하 여 수행할 수 있는 기본 작업](https://go.microsoft.com/fwlink/?LinkId=272775)에 대해 자세히 알아보세요.
+웹용 PowerPoint를 사용하면 웹 브라우저와 인터넷 연결로 프레젠테이션을 실행할 수 있습니다. 웹용 PowerPoint 를 사용하여 수행할 수 있는 기본 [작업에 대해 자세히 알아보면 됩니다.](https://go.microsoft.com/fwlink/?LinkId=272775)
   
-## <a name="save-as-or-download-a-copy"></a>복사본 다른 이름으로 저장 또는 다운로드
+## <a name="save-as-or-download-a-copy"></a>다른 복사본으로 저장 또는 복사본 다운로드
 
-웹의 PowerPoint에서는 변경할 때마다 작업을 저장 합니다. **저장** 명령을 사용할 수 없습니다. 복사본을 다운로드할 수 있지만 로컬 복사본을 편집하려면 Microsoft PowerPoint 데스크톱 앱이 있어야 합니다.
+웹용 PowerPoint는 변경할 때마다 작업을 저장합니다. 저장 **명령이** 없습니다. 복사본을 다운로드할 수 있지만 로컬 복사본을 편집하려면 Microsoft PowerPoint 데스크톱 앱이 있어야 합니다.
   
 ## <a name="shapes"></a>도형
 
-Word 아트 및 차트를 웹용 PowerPoint에 삽입할 수 없지만 웹용 PowerPoint에는 제대로 표시 됩니다. 편집용 보기에서 텍스트를 보고 편집하고 서식을 지정합니다. Word Art에 텍스트 효과를 적용 하려면 Microsoft PowerPoint 데스크톱 앱이 필요 합니다.
+웹용 PowerPoint에는 Word Art 및 차트를 삽입할 수 없지만 웹용 PowerPoint에는 예상대로 표시됩니다. 편집용 보기에서 텍스트를 보고 편집하고 서식을 지정합니다. Word Art에 텍스트 효과를 적용하려면 Microsoft PowerPoint 데스크톱 앱이 필요합니다.
   
 ## <a name="share"></a>공유
 
@@ -176,33 +176,33 @@ Word 아트 및 차트를 웹용 PowerPoint에 삽입할 수 없지만 웹용 Po
   
 ## <a name="slide-show"></a>슬라이드 쇼
 
-Web for PowerPoint에서 슬라이드 쇼를 전체 화면 창으로 재생 합니다. 스페이스바를 눌러서 슬라이드를 진행합니다. 슬라이드 애니메이션이 재생되지만 슬라이드 간에 페이드 및 닦아내기 전환만 지원됩니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
+웹용 PowerPoint는 전체 화면 창에서 슬라이드 쇼를 재생합니다. 스페이스바를 눌러서 슬라이드를 진행합니다. 슬라이드 애니메이션이 재생되지만 슬라이드 간에 페이드 및 닦아내기 전환만 지원됩니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
   
-## <a name="smartart"></a>빠른
+## <a name="smartart"></a>SmartArt
 
-SmartArt를 삽입 하 고, 다른 레이아웃이 나 색 구성표로 전환 하며, SmartArt 스타일을 적용 하 고, 텍스트를 웹으로 편집할 수 있습니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
+SmartArt를 삽입하고, 다른 레이아웃 또는 색 구성표로 전환하고, SmartArt 스타일을 적용하고, 웹용 PowerPoint를 사용하여 텍스트를 편집할 수 있습니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
   
-## <a name="table-creation-editing-and-formatting"></a>테이블 만들기, 편집 및 서식 지정
+## <a name="table-creation-editing-and-formatting"></a>표 만들기, 편집 및 서식 지정
 
-웹의 PowerPoint에서 테이블을 만들고 편집할 수 있으며, 웹의 PowerPoint에서 대부분의 테이블 기능을 지원 합니다. 셀 병합 및 분할와 같은 고급 기능은 PowerPoint 데스크톱 앱을 사용합니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
+웹용 PowerPoint에서 테이블을 만들어 편집할 수 있으며, 웹용 PowerPoint에서는 대부분의 테이블 기능을 지원합니다. 셀 병합 및 분할와 같은 고급 기능은 PowerPoint 데스크톱 앱을 사용합니다. 자세한 내용은 [브라우저와 PowerPoint 데스크톱 앱 간의 프레젠테이션 사용 차이점](https://go.microsoft.com/fwlink/?LinkId=272763)을 참조하세요.
   
 ## <a name="tell-me"></a>표시
 
-웹을 위해 PowerPoint에서 작업을 수행 해야 하지만 방법을 모르는 경우에는 알림 검색 기능을 사용 하 여 원하는 내용을 빠르게 찾을 수 있습니다. 표시 기능을 사용하면 수행하려는 작업을 파악하고 제안 사항을 활용하여 작업 시간을 단축할 수 있습니다.
+웹용 PowerPoint에서 작업을 해야 하지만 방법을 모르는 경우 표시 검색 기능을 사용하여 원하는 정보를 빠르게 찾을 수 있습니다. 표시 기능을 사용하면 수행하려는 작업을 파악하고 제안 사항을 활용하여 작업 시간을 단축할 수 있습니다.
   
 ## <a name="undo-and-redo"></a>실행 취소 및 다시 실행
 
-활성 프레젠테이션에서 현재 편집 세션 중에 최근 작업을 개수 제한 없이 실행 취소(Ctrl + Z) 및 다시 실행(Ctrl + Y)합니다. 편집 세션 시간이 초과되거나 읽기용 보기로 30초 넘게 전환하면 실행 취소 기록이 원래대로 설정됩니다. 자세한 내용은 [PowerPoint에서 웹에 대 한 바로 가기 키를](https://go.microsoft.com/fwlink/?LinkId=272950)참고 하세요.
+활성 프레젠테이션에서 현재 편집 세션 중에 최근 작업을 개수 제한 없이 실행 취소(Ctrl + Z) 및 다시 실행(Ctrl + Y)합니다. 편집 세션 시간이 초과되거나 읽기용 보기로 30초 넘게 전환하면 실행 취소 기록이 원래대로 설정됩니다. 웹용 [PowerPoint의 바로 가기 키에 대해 자세히 알아보면 됩니다.](https://go.microsoft.com/fwlink/?LinkId=272950)
   
 ## <a name="view-and-add-comments"></a>설명 보기 및 추가
 
-파일이 SharePoint Online 또는 비즈니스용 OneDrive에 저장 되어 있는 경우 설명을 추가, 편집 또는 삭제할 수 있습니다. 
+파일이 SharePoint Online 또는 비즈니스용 OneDrive에 저장된 경우 설명을 추가, 편집 또는 삭제할 수 있습니다. 
   
-파일이 OneDrive에 저장 된 경우 편집 보기에 있는 동안 설명을 추가, 편집 또는 삭제할 수 있으며, 읽기용 보기에서 설명을 보고 업데이트할 수 있습니다.
+파일이 OneDrive에 저장된 경우 편집 보기에서 설명을 추가, 편집 또는 삭제할 수 있으며 읽기 보기에서 설명을 보고 업데이트할 수 있습니다.
   
 ## <a name="view-and-edit-slide-notes"></a>슬라이드 메모 보기 및 편집
 
-웹 용 PowerPoint를 사용 하 여 각 슬라이드에 대 한 메모를 표시 하거나 숨길 수 있습니다. 편집 모드에서 메모를 추가할 수도 있습니다.
+웹용 PowerPoint에서는 각 슬라이드에 대한 메모를 표시하거나 숨길 수 있습니다. 편집 모드에서 메모를 추가할 수도 있습니다.
   
 ## <a name="wysiwyg-viewing"></a>WYSIWYG 보기
 
@@ -210,4 +210,4 @@ SmartArt를 삽입 하 고, 다른 레이아웃이 나 색 구성표로 전환 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Office for 웹 서비스 설명을](office-online-service-description.md)참조 하세요. 
+계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 웹 서비스 [설명은 Office를 참조하세요.](office-online-service-description.md)

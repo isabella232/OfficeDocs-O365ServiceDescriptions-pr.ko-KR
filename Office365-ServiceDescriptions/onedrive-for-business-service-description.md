@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 어떤 계획에서 어떤 OneDrive 기능을 사용할 수 있는지 확인합니다.
-ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: ab36eac2f24e8e7c213dfd8be1739d22c81727fb
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901953"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172733"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 서비스 설명
 
@@ -85,7 +85,7 @@ OneDrive 동기화 앱 및 모바일 앱에 대한 요구 사항을 검토하려
 > [!NOTE]
 > 기본 OneDrive 저장소 공간을 늘리려면 먼저 사용자에게 하나 이상의 라이선스를 할당해야 합니다. 
   
-개별 사용자에 대해 초기 5TB를 초과하는 저장소 공간이 필요한 경우, 관리자가 [Microsoft 기술 지원을 통해 사례 열어](https://go.microsoft.com/fwlink/?linkid=869559) 이를 요청할 수 있습니다. 추가 클라우드 저장소는 다음과 같이 부여됩니다. 
+개별 사용자에 대해 초기 5TB를 초과하는 저장소 공간이 필요한 경우, 관리자가 [Microsoft 기술 지원을 통해 사례 열어](/microsoft-365/admin/contact-support-for-business-products) 이를 요청할 수 있습니다. 추가 클라우드 저장소는 다음과 같이 부여됩니다. 
   
 - 사용자가 5TB의 OneDrive 저장소 용량을 90% 이상 채운 경우 Microsoft에서 OneDrive의 기본 저장소 공간을 사용자당 최대 25TB로 늘립니다(관리자는 원할 경우 사용자당 제한을 더 낮게 설정할 수 있음). 
     
@@ -101,7 +101,7 @@ OneDrive 저장소는 사용자별로 프로비저닝되며, 개별 사용자의
   
 ## <a name="onedrive-limits"></a>OneDrive 제한 사항
 
-파일 및 동기화 제한 사항에 대해 알아보려면 [SharePoint 제한 사항](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) 및 [잘못된 파일 이름 및 파일 형식](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)을 참조하세요.
+파일 및 동기화 제한 사항에 대해 알아보려면 [SharePoint 제한 사항](./sharepoint-online-service-description/sharepoint-online-limits.md) 및 [잘못된 파일 이름 및 파일 형식](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)을 참조하세요.
   
 개별 사용자에 대해 무제한 클라우드 저장소를 포함하는 요금제의 경우, 저장소 이외 기능에 제한이 적용될 수도 있습니다. 
 
@@ -185,5 +185,4 @@ IT 부서에서 분명하게 사용하지 않도록 설정한 경우가 아니�
 
 ## <a name="it-admin-security-and-compliance-features"></a>IT 관리자, 보안 및 규정 준수 기능
 
-이러한 기능에 대한 자세한 내용은 [SharePoint 서비스 설명](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description#security-and-compliance-features)을 참조하십시오.
-
+이러한 기능에 대한 자세한 내용은 [SharePoint 서비스 설명](./sharepoint-online-service-description/sharepoint-online-service-description.md#security-and-compliance-features)을 참조하십시오.

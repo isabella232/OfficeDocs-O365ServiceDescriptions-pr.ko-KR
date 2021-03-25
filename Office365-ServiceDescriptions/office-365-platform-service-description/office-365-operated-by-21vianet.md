@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영하는 Office 365는 중국의 안전하고 안정적이며 확장 가능한 클라우드 서비스에 대한 요구를 충족하도록 디자인됩니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: b03d6844943ed72aa56e4fe1d740dda9c11a66a2
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 7fe18fd929dbfa5410eed49ff8a4c6df72ae5b6a
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902063"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174063"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -23,12 +23,12 @@ ms.locfileid: "50902063"
 > [!NOTE]
 > 21Vianet에서 운영하는 Office 365 버전의 Office 365는 중국에 한정됩니다.
 
-Microsoft에서는 이 서비스 자체를 운영하지 않습니다. 21Vianet은 이 서비스의 배달을 운영, 제공 및 관리합니다. 21Vianet은 중국에서 가장 큰 이동 통신 사업자 중립적인 인터넷 데이터 센터 서비스 공급자로, 호스팅, 관리되는 네트워크 서비스 및 클라우드 컴퓨팅 인프라 서비스를 제공합니다. Microsoft 기술 라이선스를 통해 21Vianet은 중국 내에서 데이터를 유지하면서 Office 365 서비스를 사용할 수 있는 기능을 제공하기 위해 로컬 Office 365 데이터 센터를 운영합니다. 또한 21Vianet에서는 [구독 및 대금 청구 서비스뿐만 아니라 지원도 제공합니다](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products?view=o365-21vianet&tabs=phone&preserve-view=true).
+Microsoft에서는 이 서비스 자체를 운영하지 않습니다. 21Vianet은 이 서비스의 배달을 운영, 제공 및 관리합니다. 21Vianet은 중국에서 가장 큰 이동 통신 사업자 중립적인 인터넷 데이터 센터 서비스 공급자로, 호스팅, 관리되는 네트워크 서비스 및 클라우드 컴퓨팅 인프라 서비스를 제공합니다. Microsoft 기술 라이선스를 통해 21Vianet은 중국 내에서 데이터를 유지하면서 Office 365 서비스를 사용할 수 있는 기능을 제공하기 위해 로컬 Office 365 데이터 센터를 운영합니다. 또한 21Vianet에서는 [구독 및 대금 청구 서비스뿐만 아니라 지원도 제공합니다](/Office365/Admin/contact-support-for-business-products?preserve-view=true&tabs=phone&view=o365-21vianet).
 
 > [!NOTE]
 > 이러한 서비스는 중국 법을 따릅니다.
 
-중국 서비스의 고유한 특성(중국 내 데이터 센터의 파트너가 운영)으로 인해 아직 활성화되지 않은 일부 기능이 있습니다. 고객은 시간에 따라 전체 기능 패리티에 근접한 서비스를 확인할 수 있습니다. 차이점에 대해 알아보려면 서비스 설명 각주를 참조하세요. 차이점에 대한 자세한 설명은 [21Vianet에서 운영하는 Office 365에 대한 자세한 내용](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china)을 참조하세요.
+중국 서비스의 고유한 특성(중국 내 데이터 센터의 파트너가 운영)으로 인해 아직 활성화되지 않은 일부 기능이 있습니다. 고객은 시간에 따라 전체 기능 패리티에 근접한 서비스를 확인할 수 있습니다. 차이점에 대해 알아보려면 서비스 설명 각주를 참조하세요. 차이점에 대한 자세한 설명은 [21Vianet에서 운영하는 Office 365에 대한 자세한 내용](/office365/admin/services-in-china/services-in-china)을 참조하세요.
 
 ## <a name="service-availability-within-each-plan"></a>각 계획 내의 서비스 사용 가능 여부
 
@@ -55,7 +55,7 @@ Microsoft에서는 이 서비스 자체를 운영하지 않습니다. 21Vianet�
 <sup>1</sup> Office 365 관리, Office 365 제품군 앱, 사용자 계정 관리, 도메인, 서비스 상태 및 연속성, 보고, 서비스 업데이트, 도움말 및 교육, 네트워킹 등과 같은 기능이 포함되어 있습니다. 자세한 내용은 [플랫폼 기능](office-365-operated-by-21vianet.md#platform-features) 표를 참조하세요.
 <br/><sup>2</sup> Project Online은 포함되어 있지 않지만 별도의 추가 기능 서비스로 구매하거나 Office 365 A1 계획에 무료로 추가할 수 있습니다.
 <br/><sup>3</sup> 웹 사용용 Visio(보기 기능)를 무료로 사용할 수 있습니다. 웹용 Visio 만들기 및 편집 기능에는 라이선스가 필요합니다. 웹용 Visio에 대한 자세한 내용은 웹 서비스 설명에 [대한 Visio를 참조하세요.](../visio-online-service-description/visio-online-service-description.md)
-<br/><sup>4</sup> AIP는 21Vianet에서 운영하는 Office 365에서 부분적으로 지원됩니다. 자세한 내용은 [21Vianet에서 운영하는 Office 365용 Azure Information Protection](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet&preserve-view=true)및 상업용 제품 간의 패리티를 참조하세요.
+<br/><sup>4</sup> AIP는 21Vianet에서 운영하는 Office 365에서 부분적으로 지원됩니다. 자세한 내용은 [21Vianet에서 운영하는 Office 365용 Azure Information Protection](/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?preserve-view=true&view=o365-21vianet)및 상업용 제품 간의 패리티를 참조하세요.
 
 ## <a name="system-requirements"></a>시스템 요구 사항
 
@@ -83,7 +83,7 @@ Microsoft 365 규정 준수 센터는 조직의 규정 준수 요구를 관리�
 
 | 기능 | 21Vianet에서 운영하는 Office 365 Business Essentials | 21Vianet에서 운영하는 Office 365 Business | 21Vianet에서 운영하는 Office 365 Business Premium | 21Vianet에서 운영하는 Office 365 A1 | 21Vianet에서 운영하는 Office 365 Enterprise E1 | 21Vianet에서 운영하는 Office 365 Enterprise E3 | 21Vianet에서 운영하는 Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**[Office 365 관리 기능](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-21vianet&preserve-view=true#admin-center-features-and-settings)**||||||||
+|**[Office 365 관리 기능](/office365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-21vianet#admin-center-features-and-settings)**||||||||
 |Microsoft 365 관리 센터를 사용하여 Office 365 관리 Windows PowerShell|예|예|예|예|예|예|예|
 |AIP를 사용하여 콘텐츠 보호|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |기계 번역을 통해 메시지 센터 게시물 수동 번역|예|예|예|예|예|예|예|
@@ -186,7 +186,7 @@ Microsoft 365 규정 준수 센터는 조직의 규정 준수 요구를 관리�
 |위협 인텔리전스|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |정보 거버넌스 – 보존 정책|예<sup>16</sup>|예<sup>16</sup>|예<sup>16</sup>|아니요|예<sup>16</sup>|예<sup>16</sup>|예|
 |정보 거버넌스(보존 정책 제외)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|**[규정 준수](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
+|**[규정 준수](/microsoft-365/compliance/offering-home)**||||||||
 |SAS 70 / SSAE16 평가|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |ISO 27001 인증|예|예|예|예|예|예|예|
 |EU 모델 조항|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -220,8 +220,8 @@ Microsoft 365 규정 준수 센터는 조직의 규정 준수 요구를 관리�
 <sup>13</sup> 환경이 희미해진 경우. 조직에서 Internet Explorer 8 또는 Internet Explorer 9 웹앱 및 서비스에 액세스하는 데 종속된 경우 Internet Explorer 11로 업그레이드하고 Internet Explorer 11에 대한 엔터프라이즈 모드를 평가할 수 있습니다. 이 업데이트를 통해 레거시 Web Apps에 대한 이전 버전과의 호환성을 개선할 수 있습니다. <br/>
 <sup>14</sup> 다단계 인증은 현재 Outlook 모바일(iOS 및 Android)에서 지원되지 않습니다. <br/>
 <sup>15</sup> OneNote 수업용 전자 필기장은 21Vianet을 통해 사용할 수 있지만 웹용 Windows 10 앱, iPad 또는 OneNote에서는 OneNote 수업용 전자 필기장 도구 모음을 사용할 수 없습니다. <br/>
-<sup>16</sup> 21Vianet에서 운영하는 Office 365는 보존 정책만 지원합니다. Yammer Teams 위치에 대한 보존 레이블 또는 보존 정책은 지원되지 않습니다. 자세한 내용은 보존 정책 [시작을 참조합니다.](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-retention) <br/>
-<sup>17</sup> Microsoft 365의 감사는 조직이 Microsoft 365의 여러 서비스에서 다양한 유형의 감사 활동을 가시성을 제공합니다. 보안 및 [준수 &amp; 센터](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 감사 로그 검색을 사용하여 조직의 사용자 및 관리자 활동을 볼 수 있습니다. [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 관리 활동 API를 사용하여 통합 감사 로그에서 이벤트를 검색할 수도 있습니다. 사용자 또는 관리자가 감사 활동을 수행하면 감사 레코드가 생성되어 고객 조직에 대한 감사 로그에 저장됩니다. 감사 레코드가 보존되는 기간(감사 로그에서 검색 가능)은 고객의 Office 365 또는 Microsoft 365 Enterprise 구독과 특정 사용자에게 할당된 라이선스 유형에 따라 다릅니다.
+<sup>16</sup> 21Vianet에서 운영하는 Office 365는 보존 정책만 지원합니다. Yammer Teams 위치에 대한 보존 레이블 또는 보존 정책은 지원되지 않습니다. 자세한 내용은 보존 정책 [시작을 참조합니다.](/microsoft-365/compliance/get-started-with-retention) <br/>
+<sup>17</sup> Microsoft 365의 감사는 조직이 Microsoft 365의 여러 서비스에서 다양한 유형의 감사 활동을 가시성을 제공합니다. 보안 및 [준수 &amp; 센터](./office-365-securitycompliance-center.md) 감사 로그 검색을 사용하여 조직의 사용자 및 관리자 활동을 볼 수 있습니다. [Office 365](/office/office-365-management-api/office-365-management-activity-api-reference) 관리 활동 API를 사용하여 통합 감사 로그에서 이벤트를 검색할 수도 있습니다. 사용자 또는 관리자가 감사 활동을 수행하면 감사 레코드가 생성되어 고객 조직에 대한 감사 로그에 저장됩니다. 감사 레코드가 보존되는 기간(감사 로그에서 검색 가능)은 고객의 Office 365 또는 Microsoft 365 Enterprise 구독과 특정 사용자에게 할당된 라이선스 유형에 따라 다릅니다.
 
 ## <a name="office-365-application-features"></a>Office 365 응용 프로그램 기능
 
@@ -288,7 +288,7 @@ Microsoft 365 규정 준수 센터는 조직의 규정 준수 요구를 관리�
 <sup>1</sup> 보관 및 규정 준수 기능은 이 Office 버전에서 지원되지만 Exchange Online 및 SharePoint Online 계획은 포함되어 있지 않으므로 별도 구입하거나 지원 가능한 온-프레미스 서버 동급의 제품과 함께 사용해야 합니다.
 <br/><sup>2</sup> Windows Server AD RMS는 온-프레미스 서버이며, 별도로 구입하여 지원되는 IRM 기능을 사용할 수 있습니다.
 <br/><sup>3</sup>Office Professional Plus 2013 또는 독립 실행형 버전의 Excel 2013이 있는 경우 [Excel 2013용 파워 맵 미리 보기](https://www.microsoft.com/download/details.aspx?id=38395&amp;clcid=0x409)를 다운로드하여 지원되지 않는 추가 기능으로 사용할 수 있습니다.
-<br/><sup>4</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 Skype 응용 프로그램이 포함됩니다. 비즈니스용 Skype 온라인 라이선스가 각 사용자에게 할당되어 있어야 합니다. Lync Basic 기능에 대한 자세한 내용은 데스크톱 클라이언트 비교 테이블 [을 참조하세요.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)
+<br/><sup>4</sup> 비즈니스용 Skype Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 Skype 응용 프로그램이 포함됩니다. 비즈니스용 Skype 온라인 라이선스가 각 사용자에게 할당되어 있어야 합니다. Lync Basic 기능에 대한 자세한 내용은 데스크톱 클라이언트 비교 테이블 [을 참조하세요.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)
 <br/><sup>5</sup> 일부 학교는 Office 365 ProPlus를 포함하는 Education Plus를 사용할 수 있으며 학생, 교직원 및 직원이 최대 5대의 PC 또는 Mac 컴퓨터와 Windows 태블릿 및 iPad를 비롯한 기타 모바일 장치에 최신 버전의 Office를 설치할 수 있습니다. Enrollment for Education Solutions, Open Value Subscription Education Solutions 또는 학교 계약을 통해 교직원 및 직원에게 기관용 Office 라이선스를 허가한 학교는 Office 365 Education Plus를 이용할 수 있습니다. Access 및 Publisher는 PC에서만 사용할 수 있습니다. Mac용 OneNote는 Mac 앱 스토어에서 별도로 다운로드할 수 있습니다.
 <br/><sup>6</sup> Office 2011 for Mac을 설치할 수 있으나 정품 인증을 받을 수 없습니다.
 <br/><sup>7</sup> Office 365 ProPlus는 사용자 전용 VDI(가상 데스크톱 인프라)에서 지원됩니다. Office 365 ProPlus는 볼륨 라이선스 프로그램을 통해 구입한 경우만 RDS(원격 데스크톱 서비스)를 지원합니다.
@@ -424,7 +424,7 @@ Microsoft 365 규정 준수 센터는 조직의 규정 준수 요구를 관리�
 |원격 Windows PowerShell 액세스|예|예|예|예|예|예|예|
 |모바일 장치에 대한 ActiveSync 정책|예|예|예|예|예|예|예|
 |사용 현황 보고|예|예|예|예|예|예|예|
-|**[서비스 확장 - 사용자 지정, 추가 기능 및 리소스](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영하는 Office 365 Enterprise F3**|
+|**[서비스 확장 - 사용자 지정, 추가 기능 및 리소스](../exchange-online-service-description/exchange-online-service-description.md)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영하는 Office 365 Enterprise F3**|
 |Outlook 추가 기능 및 Outlook MAPI|예<sup>1</sup>|예<sup>1</sup>|예<sup>1</sup>|예<sup>1</sup>|예<sup>1</sup>|예<sup>1</sup>|아니요|
 
 <sup>1</sup> 일부 타사 웹 파트 및 추가 기능을 사용할 수 없습니다.
@@ -436,12 +436,12 @@ Microsoft 365 규정 준수 센터는 조직의 규정 준수 요구를 관리�
 <br/><sup>7</sup> eDiscovery의 경우, 클라우드와의 별도 쿼리가 필요합니다.
 <br/><sup>8</sup> POP는 지원되지만 IMAP는 지원되지 않습니다.
 <br/><sup>9</sup> Office 365 Business Essentials 및 Business Premium은 사내 서버와의 사용에 대한 액세스 권한을 제공하지 않습니다. 규정을 준수하려면 고객은 적절한 CA를 구매했거나 이전에 이러한 액세스 권한을 제공하는 엔터프라이즈 SKU로 업그레이드해야 합니다.
-<br/><sup>10</sup> 하이브리드 구성 마법사를 Exchange 2013 CU5 이상 배포에 사용할 수 있습니다. 그러나 일부 하이브리드 기능에는 제한이 있습니다. 도움말 항목을 참조하세요. 자세한 내용은 [21Vianet에서 운영하는 Office 365를 참조합니다.](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet&preserve-view=true)
+<br/><sup>10</sup> 하이브리드 구성 마법사를 Exchange 2013 CU5 이상 배포에 사용할 수 있습니다. 그러나 일부 하이브리드 기능에는 제한이 있습니다. 도움말 항목을 참조하세요. 자세한 내용은 [21Vianet에서 운영하는 Office 365를 참조합니다.](/office365/admin/services-in-china/services-in-china?preserve-view=true&view=o365-21vianet)
 <br/><sup>11</sup> 21Vianet에서 운영하는 Office 365의 경우 LinkedIn을 사용할 수 있지만 Facebook은 사용할 수 없습니다.
-<br/><sup>12</sup> 하이브리드 배포 설정은 Exchange 2013 CU5에 대한 하이브리드 구성 마법사를 통해 사용할 수 있습니다. 또는 Exchange 2013 SP1이 있는 경우 수동으로 설정할 수 있습니다. 도움말 항목을 참조하세요. 자세한 내용은 [21Vianet에서 운영하는 Office 365를 참조하세요.](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet&preserve-view=true)
+<br/><sup>12</sup> 하이브리드 배포 설정은 Exchange 2013 CU5에 대한 하이브리드 구성 마법사를 통해 사용할 수 있습니다. 또는 Exchange 2013 SP1이 있는 경우 수동으로 설정할 수 있습니다. 도움말 항목을 참조하세요. 자세한 내용은 [21Vianet에서 운영하는 Office 365를 참조하세요.](/office365/admin/services-in-china/services-in-china?preserve-view=true&view=o365-21vianet)
 <br/><sup>13</sup> 연결된 계정은 POP IMAP 계정에 대해 &amp; 지원되지만 Hotmail(Hotmail)에 Outlook.com 사용하지 않도록 설정됩니다.
 <br/><sup>14</sup> cmdlet을 사용하여 주소 목록 및 전체 주소 목록으로 작업할 수 없습니다.
-<br/><sup>15</sup> 현재 Office 365 메시지 암호화(OME) 기능은 현재 IRM(정보 권한 관리) 및 이전 OME 솔루션의 발전된 기능입니다. OME에 대한 자세한 내용은 [Office 365 메시지 암호화 FAQ 를 참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/ome-faq)
+<br/><sup>15</sup> 현재 Office 365 메시지 암호화(OME) 기능은 현재 IRM(정보 권한 관리) 및 이전 OME 솔루션의 발전된 기능입니다. OME에 대한 자세한 내용은 [Office 365 메시지 암호화 FAQ 를 참조하세요.](/microsoft-365/compliance/ome-faq)
 
 ### <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -470,10 +470,10 @@ Exchange Online 한도에 대한 자세한 내용은 다음 항목을 참조하�
 - [Exchange ActiveSync 제한](../exchange-online-service-description/exchange-online-limits.md#exchange-activesync-limits)
 
 > [!IMPORTANT]
-> - Microsoft 365 조직에 적용되는 제한은 조직이 서비스에 등록된 기간에 따라 다를 수 있습니다. 제한이 Microsoft 데이터 센터에서 변경된 경우 기존의 모든 고객에게 변경 사항을 적용하는 데 시간이 걸릴 수 있습니다.
+> - Microsoft 365 조직에 적용된 제한은 조직이 서비스에 등록된 기간에 따라 다를 수 있습니다.  제한이 Microsoft 데이터 센터에서 변경된 경우 기존의 모든 고객에게 변경 사항을 적용하는 데 시간이 걸릴 수 있습니다.
 > - 이러한 제한은 대부분 수정할 수 없지만 사용자와 함께 어떠한 제한이 있는지 알고 있어야 합니다.
 > - 이들 제한은 내부 및 외부의 받는 사람에게 모두 적용됩니다.
-> - 기본적으로 EOP(Exchange Online Protection)는 Exchange Online 사서함을 보호합니다. Exchange Online의 EOP 기능에 적용되는 제한은 [Exchange Online Protection 제한을 참조하세요.](../exchange-online-protection-service-description/exchange-online-protection-limits.md)
+> - 기본적으로 EOP(Exchange Online Protection)는 Exchange Online 사서함을 보호합니다. Exchange Online의 EOP 기능에 적용되는 제한 사항은 [Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md)를 참조하세요.
 
 ## <a name="exchange-online-protection-features"></a>Exchange Online Protection 기능
 
@@ -499,8 +499,8 @@ Exchange Online 한도에 대한 자세한 내용은 다음 항목을 참조하�
 |[맬웨어 방지 정책 사용자 지정](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|예|예|
 |[격리](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): 관리자 관리|예|예|
 |[격리](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): 최종 사용자 자기 관리|예|예|
-|[Outlook용 보고서 메시지 추가 기능](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|예|예|
-|[웹에서 Outlook의 정크 메일 보고](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|아니요<sup>7</sup>|아니요<sup>7</sup>|
+|[Outlook용 보고서 메시지 추가 기능](/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|예|예|
+|[웹에서 Outlook의 정크 메일 보고](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|아니요<sup>7</sup>|아니요<sup>7</sup>|
 |[Microsoft와 자체 전자 메일 서버 간의 전자 메일 라우팅](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|예|예|
 |[신뢰할 수 있는 파트너와의 보안 메시징](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|예|예|
 |[수신 허용 목록에 파트너의 IP 주소 추가](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|예|예|
@@ -516,17 +516,17 @@ Exchange Online 한도에 대한 자세한 내용은 다음 항목을 참조하�
 <sup>1</sup> 메일 사용자는 "사서함"으로 정의되며 외부 메일 연락처와 마찬가지로 EAC(Exchange 관리 센터)에서 직접 추가, 제거 및 관리할 수 있습니다. <br/>
 <sup>2</sup> RBAC 사용자 지정은 해당하지 않습니다. 관리자 역할만 해당합니다. <br/>
 <sup>3</sup> EAC에서 관리되는 도메인을 볼 수 있으며 도메인 유형을 편집할 수 있습니다. 다른 모든 도메인 관리는 Microsoft 365 관리 센터에서 완료해야 합니다. <br/>
-<sup>4</sup> EOP의 메일 흐름 규칙(전송 규칙)은 Exchange Online Protection의 메일 흐름 규칙(전송 규칙)에 [설명되어 있습니다.](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0) 사용 가능한 메일 흐름 규칙 조건, 예외 및 작업은 EOP와 Exchange Online 간에 약간 다릅니다. 이러한 차이점은 Exchange Online의 메일 흐름 규칙 조건 및 예외(조건자)와 [Exchange Online의](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) 메일 흐름 규칙 작업에 [있습니다.](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)<br/>
+<sup>4</sup> EOP의 메일 흐름 규칙(전송 규칙)은 Exchange Online Protection의 메일 흐름 규칙(전송 규칙)에 [설명되어 있습니다.](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0) 사용 가능한 메일 흐름 규칙 조건, 예외 및 작업은 EOP와 Exchange Online 간에 약간 다릅니다. 이러한 차이점은 Exchange Online의 메일 흐름 규칙 조건 및 예외(조건자)와 [Exchange Online의](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) 메일 흐름 규칙 작업에 [있습니다.](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)<br/>
 <sup>5</sup> EOP 감사 보고서는 사서함에 대한 정보가 제외된, Exchange Online 감사 보고서의 하위 집합입니다. <br/>
 <sup>5</sup> EOP 감사 보고서는 사서함에 대한 정보가 제외된, Exchange Online 감사 보고서의 하위 집합입니다.<br/>
-<sup>6</sup> 기본 콘텐츠 필터 동작은 스팸 메시지를 받는 사람의 정크 메일 폴더로 이동하는 것입니다. 이 규칙이 Exchange 사서함에서 작동하려면 EOP에서 추가한 스팸 헤더를 검색하도록 프레미스 Exchange 조직에서 두 전송 규칙도 구성해야 합니다. 자세한 내용은 스팸이 각 사용자의 정크 메일 폴더로 라우팅되도록 [확인을 참조하세요.](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)<br/>
+<sup>6</sup> 기본 콘텐츠 필터 동작은 스팸 메시지를 받는 사람의 정크 메일 폴더로 이동하는 것입니다. 이 규칙이 Exchange 사서함에서 작동하려면 EOP에서 추가한 스팸 헤더를 검색하도록 프레미스 Exchange 조직에서 두 전송 규칙도 구성해야 합니다. 자세한 내용은 스팸이 각 사용자의 정크 메일 폴더로 라우팅되도록 [확인을 참조하세요.](/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)<br/>
 <sup>7</sup> 이 기능은 사서함이 EOP에 의해 필터링되는 Exchange Server 2013 SP1(서비스 팩 1) 고객에게 제공되며 Exchange Online 고객에게도 곧 제공될 예정입니다. <br/>
 <sup>8</sup> EOP 보고서는 사서함에 대한 정보가 제외된, Exchange Online 보고서의 하위 집합입니다. <br/>
 <sup>9</sup> DLP 보고서가 포함됩니다. <br/>
 <sup>10</sup> 인바운드 및 아웃바운드 메시지는 검사하지만 조직의 보낸 사람이 조직의 받는 사람에게 보낸 내부 메시지는 검사하지 않습니다. <br/>
 <sup>11</sup> EOP와 Exchange Online의 사용 가능한 조건자 및 동작은 서로 다릅니다. <br/>
 <sup>12</sup> 하이브리드 설치는 하이브리드 마법사를 통해 사용할 수 없지만 Exchange SP1이 있는 경우에는 수동으로 설정할 수 있습니다.
-<br/><sup>13</sup> 현재 Office 365 메시지 암호화(OME) 기능은 현재 IRM(정보 권한 관리) 및 이전 OME 솔루션의 발전된 기능입니다. OME에 대한 자세한 내용은 [Office 365 메시지 암호화 FAQ 를 참조하세요.](https://docs.microsoft.com/microsoft-365/compliance/ome-faq)
+<br/><sup>13</sup> 현재 Office 365 메시지 암호화(OME) 기능은 현재 IRM(정보 권한 관리) 및 이전 OME 솔루션의 발전된 기능입니다. OME에 대한 자세한 내용은 [Office 365 메시지 암호화 FAQ 를 참조하세요.](/microsoft-365/compliance/ome-faq)
 
 ## <a name="exchange-online-archiving-features"></a>Exchange Online Archiving 기능
 
@@ -537,8 +537,8 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 
 | 계획 | 설명 |
 |:-----|:-----|
-|**21Vianet에서 운영하는 Office 365용 Exchange Server의 Exchange Online Archiving**|기본 사서함이 Exchange Server 2013 또는 Exchange 2010(SP2 이상)에 있는 사용자를 위한 클라우드 기반 보관 사서함입니다.  <br/> 클라우드 기반 보관을 온-프레미스 Exchange Server에 있는 기본 사서함에 추가하려면 하이브리드 배포를 구성해야 합니다. 하이브리드 배포에 대한 자세한 내용은 [Exchange Server 하이브리드 배포](https://docs.microsoft.com/exchange/exchange-hybrid)를 참조하세요.|
-|**21Vianet에서 운영하는 Office 365용 Exchange Online의 Exchange Online Archiving**| 다음 계획에는 보관 기능이 이미 포함되어 있으므로 Exchange Online Archiving이 추가 기능으로 필요하지 않습니다.  <br/>  21Vianet에서 운영하는 Office 365 A1  <br/>  21Vianet에서 운영하는 Office 365 Enterprise E3  <br/>  21Vianet에서 운영하는 Office 365용 Exchange Online 계획 2  <br/>  Exchange Online 사서함의 보관 기능에 대한 자세한 내용은 [Exchange Online의 보관 사서함](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview)을 참조하세요.|
+|**21Vianet에서 운영하는 Office 365용 Exchange Server의 Exchange Online Archiving**|기본 사서함이 Exchange Server 2013 또는 Exchange 2010(SP2 이상)에 있는 사용자를 위한 클라우드 기반 보관 사서함입니다.  <br/> 클라우드 기반 보관을 온-프레미스 Exchange Server에 있는 기본 사서함에 추가하려면 하이브리드 배포를 구성해야 합니다. 하이브리드 배포에 대한 자세한 내용은 [Exchange Server 하이브리드 배포](/exchange/exchange-hybrid)를 참조하세요.|
+|**21Vianet에서 운영하는 Office 365용 Exchange Online의 Exchange Online Archiving**| 다음 계획에는 보관 기능이 이미 포함되어 있으므로 Exchange Online Archiving이 추가 기능으로 필요하지 않습니다.  <br/>  21Vianet에서 운영하는 Office 365 A1  <br/>  21Vianet에서 운영하는 Office 365 Enterprise E3  <br/>  21Vianet에서 운영하는 Office 365용 Exchange Online 계획 2  <br/>  Exchange Online 사서함의 보관 기능에 대한 자세한 내용은 [Exchange Online의 보관 사서함](/office365/securitycompliance/eop/exchange-online-protection-overview)을 참조하세요.|
 
 다음 표에서는 21Vianet에서 운영하는 Office 365에서 사용할 수 있는 Exchange Online Archiving 기능을 보여 줍니다.<br><br>
 
@@ -836,7 +836,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 다음 표에서는 21Vianet에서 운영하는 Office 365에서 사용할 수 있는 비즈니스용 Skype 온라인 기능을 보여 줍니다.
 
 > [!NOTE]
-> - 이러한 표에는 Office 365 옵션별로 사용 가능한 클라이언트와 서비스가 표시되어 있습니다. 다양한 비즈니스용 Skype 데스크톱 클라이언트, 웹 클라이언트 및 모바일 클라이언트의 개별 기능을 비교하려는 경우 [데스크톱](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) 클라이언트 비교 테이블 및 모바일 클라이언트 비교 표를 [참조하세요.](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables)
+> - 이러한 표에는 Office 365 옵션별로 사용 가능한 클라이언트와 서비스가 표시되어 있습니다. 다양한 비즈니스용 Skype 데스크톱 클라이언트, 웹 클라이언트 및 모바일 클라이언트의 개별 기능을 비교하려는 경우 [데스크톱](/lyncserver/lync-server-2013-desktop-client-comparison-tables) 클라이언트 비교 테이블 및 모바일 클라이언트 비교 표를 [참조하세요.](/lyncserver/lync-server-2013-mobile-client-comparison-tables)
 > - 21Vianet에서 운영하는 Office 365 버전의 Office 365는 중국에 한정됩니다.
 
 | 기능 | 21Vianet에서 운영하는 Office 365 Business Essentials | 21Vianet에서 운영하는 Office 365 Business | 21Vianet에서 운영하는 Office 365 Business Premium | 21Vianet에서 운영하는 Office 365 A1 | 21Vianet에서 운영하는 Office 365 Enterprise E1 | 21Vianet에서 운영하는 Office 365 Enterprise E3 | 21Vianet에서 운영하는 Office 365 Enterprise F3 |
@@ -937,7 +937,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |Voicemail|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |[통화 플랜(추가](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) 기능을 구매해야 하는 국내 통화 플랜)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |[통화 플랜(국제](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) 통화 플랜, 추가 기능 구매 필요)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|[통신 크레딧](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
+|[통신 크레딧](/microsoftteams/what-are-communications-credits)|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |비즈니스용 Skype 음성|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**[보안 및 보관](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**21Vianet에서 운영하는 Office 365 Business Essentials**|**21Vianet에서 운영하는 Office 365 Business**|**21Vianet에서 운영하는 Office 365 Business Premium**|**21Vianet에서 운영하는 Office 365 A1**|**21Vianet에서 운영하는 Office 365 Enterprise E1**|**21Vianet에서 운영하는 Office 365 Enterprise E3**|**21Vianet에서 운영하는 Office 365 Enterprise F3**|
 |IM 및 미디어 암호화|예|예|예|예|예|예|아니요|
@@ -965,7 +965,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |Windows PowerShell|예|예|예|예|예|예|아니요|
 |Microsoft 365 관리 센터의 비즈니스용 Skype Online 보고|예|예|예|예|예|예|아니요|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic은 모든 고객이 사용할 수 있습니다. Lync Basic 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 비즈니스용 Skype(Lync) 응용 프로그램이 포함됩니다. 비즈니스용 Skype 온라인 라이선스가 각 사용자에게 할당되어 있어야 합니다. Lync Basic 기능에 대한 자세한 내용은 데스크톱 클라이언트 비교 테이블 [을 참조하세요.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic은 모든 고객이 사용할 수 있습니다. Lync Basic 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능 등의 추가 기능을 비롯한 전체 비즈니스용 Skype(Lync) 응용 프로그램이 포함됩니다. 비즈니스용 Skype 온라인 라이선스가 각 사용자에게 할당되어 있어야 합니다. Lync Basic 기능에 대한 자세한 내용은 데스크톱 클라이언트 비교 테이블 [을 참조하세요.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)
 <br/><sup>2</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>3</sup> 비즈니스용 Skype 관리 센터 인터페이스를 통해서만 액세스할 수 있습니다.
 <br/><sup>4</sup> In Office 365 operated by 21Vianet, the Skype for Business client is supported for use with these subscription options, but it is not included. To access multiparty video (gallery view), OneNote meeting notes, recording, and calendar delegation features, users must have rights to the full Skype for Business client. You can obtain the full Skype for Business client by purchasing Office 2013 Professional Plus.
@@ -977,7 +977,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 
 > [!NOTE]
 > - 21Vianet에서 운영하는 Office 365 버전의 Office 365는 중국에 한정됩니다.
-> - 비즈니스용 Skype 온라인 독립 실행형 계획 2의 허가된 사용자는 비즈니스용 Skype Basic 클라이언트를 얻게 되지만 전체 비즈니스용 Skype 클라이언트를 얻지는 않습니다. 사용자가 비즈니스용 Skype 클라이언트를 사용할 수 있게 하려면 엔터프라이즈 기반 라이선스 등이 포함된 라이선스로 업그레이드해야 합니다. 사용자에게 비즈니스용 Skype 클라이언트를 배포하려면 [Office 365에서 비즈니스용 Skype 클라이언트 배포](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365)를 참조하세요.
+> - 비즈니스용 Skype 온라인 독립 실행형 계획 2의 허가된 사용자는 비즈니스용 Skype Basic 클라이언트를 얻게 되지만 전체 비즈니스용 Skype 클라이언트를 얻지는 않습니다. 사용자가 비즈니스용 Skype 클라이언트를 사용할 수 있게 하려면 엔터프라이즈 기반 라이선스 등이 포함된 라이선스로 업그레이드해야 합니다. 사용자에게 비즈니스용 Skype 클라이언트를 배포하려면 [Office 365에서 비즈니스용 Skype 클라이언트 배포](/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365)를 참조하세요.
 
 | 기능 | 21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 1 | 21Vianet에서 운영하는 Office 365용 비즈니스용 Skype 온라인 독립 실행형 계획 2 |
 |:-----|:-----|:-----|
@@ -1066,7 +1066,7 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
 |Windows PowerShell|예|예|
 |Microsoft 365 관리 센터의 비즈니스용 Skype Online 보고|아니요<sup>4</sup>|아니요<sup>4</sup>|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 준수 기능 등의 추가 기능을 포함하는 전체 비즈니스용 Skype(Lync) 응용 프로그램이 &amp; 포함되어 있습니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대한 자세한 내용은 데스크톱 클라이언트 비교 테이블 [을 참조하세요.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 준수 기능 등의 추가 기능을 포함하는 전체 비즈니스용 Skype(Lync) 응용 프로그램이 &amp; 포함되어 있습니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대한 자세한 내용은 데스크톱 클라이언트 비교 테이블 [을 참조하세요.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)
 <br/><sup>2</sup> A Skype for Business Online Plan 1 user may participate in a sharing session if they are invited by a Skype for Business Online Plan 2 user.
 <br/><sup>3</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
