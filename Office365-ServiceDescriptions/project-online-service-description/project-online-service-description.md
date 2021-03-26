@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online은 PPM(프로젝트 포트폴리오 관리) 및 일상 업무를 위한 유연한 온라인 솔루션입니다. Office 365를 통해 제공된 Project Online은 거의 모든 디바이스의 거의 모든 곳에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획, 우선 순위 지정 및 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: 448ca9c170e1969f0bdf430064e5df1d8e5b45c3
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: e5b893190a0cdd0335962b3a7bd9109f9fd393cc
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172683"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215811"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 서비스 설명
 
@@ -57,7 +57,7 @@ Project Online Essentials 또는 Project Plan 1 구독이 있는 팀 구성원�
 - 작업표 제출
 - Microsoft Teams 또는 비즈니스용 Skype 사용자와 문서 공유 및 공동 작업
 
-Project Online Essentials에는 웹용 Project가 포함되어 있지 않습니다. Project Plan 1에는 웹용 Project가 포함되어 있습니다.
+Project Online Essentials에는 웹용 Project가 포함되어 있지 않습니다. Project Plan 1에는 웹용 Project와 Project Online Essentials가 모두 포함되어 있습니다.
 
 ### <a name="project-online-desktop-client"></a>Project Online 데스크톱 클라이언트
 
@@ -128,7 +128,7 @@ Microsoft Project는 조직의 요구 사항을 가장 잘 충족하기 위해 �
 
 ### <a name="project-online-features"></a>Project Online 기능
 
-이 섹션에 나열된 기능은 Project Online SharePoint 데이터 저장소의 데이터와만 상호 작용합니다.<br><br>
+이 섹션에 나열된 기능은 Project Online SharePoint 데이터 저장소의 데이터와만 상호 작용합니다. Project Online Essentials 또는 Project Plan 1 구독이 있는 팀 구성원은 일부 Project Online 기능을 수행할 수 있습니다. 자세한 내용은 [Microsoft Project 서비스 설명 - 서비스 설명 | Microsoft Docs.](https://docs.microsoft.com/office365/servicedescriptions/project-online-service-description/project-online-service-description#project-online)<br><br>
 
 |기능 | 설명 | 프로젝트 계획 3 | 프로젝트 계획 5 |
 |--------|-------------|-----------------------------|------------------------|

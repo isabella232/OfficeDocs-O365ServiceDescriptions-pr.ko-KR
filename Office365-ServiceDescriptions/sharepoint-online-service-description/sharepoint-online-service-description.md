@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 계획에서 사용할 수 있는 SharePoint 기능을 참조합니다.
-ms.openlocfilehash: 0bf7d9ba57c215465af6400067db17621814b190
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: a109b6f0eb83757b703dbe934301c55d1a3096e6
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174103"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215741"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 서비스 설명
 
@@ -30,7 +30,7 @@ Microsoft 365의 SharePoint는 조직에서 콘텐츠, 지식 및 응용 프로�
 
 간략한 개요는 [SharePoint란?을 참조하세요.](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-사용자가 SharePoint를 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) Microsoft 365 시스템 요구 사항에 대한 자세한 내용은 [Microsoft 365 및 Office 리소스를 참조하세요.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
+사용자가 SharePoint를 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145) Microsoft 365 시스템 요구 사항에 대한 자세한 내용은 [Microsoft 365 및 Office 리소스를 참조하세요.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
 
 미국 정부 클라우드 고객의 SharePoint 기능 차이점에 대한 자세한 내용은 미국 정부 [환경용 SharePoint를 참조하세요.](../office-365-platform-service-description/office-365-us-government/sharepoint.md)
   
@@ -81,7 +81,7 @@ Microsoft 365의 OneDrive는 조직 내의 개별 사용자를 위한 온라인 
 
 Microsoft Power Apps 및 Power Automate의 가용성에 대한 자세한 내용은 [Power Apps 및 Power Automate 라이선싱 FAQ를 참조하세요.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-Microsoft Graph의 가용성에 대한 자세한 내용은 [Microsoft 365 및 Office 365 플랫폼 서비스 설명을 참조하세요.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-office-365-plans)
+Microsoft Graph의 가용성에 대한 자세한 내용은 [Microsoft 365 및 Office 365 플랫폼 서비스 설명을 참조하세요.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)
 
 ## <a name="it-admin-features"></a>IT 관리자 기능
 

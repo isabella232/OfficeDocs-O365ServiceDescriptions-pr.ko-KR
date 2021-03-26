@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 제공됩니다. Exchange Online 요금제와 계획 간의 차이점을 원할 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다.
-ms.openlocfilehash: f94076fc71861bc797b9b67bfd9dca670db1f22f
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 219bda9792a2b3c0fd8941b6ed4949f84a514ff9
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174013"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215857"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 및 Office 365 플랫폼 서비스 설명
 
@@ -26,7 +26,7 @@ Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 잘 충족하�
   
 Microsoft 365 및 Office 365는 기업에 모든 크기의 클라우드 생산성을 제공하여 시간과 비용을 절약하고 가치 있는 리소스를 확보할 수 있도록 합니다. Microsoft 365 및 Office 365 요금제는 익숙한 Microsoft Office 데스크톱 제품군과 클라우드 기반 버전의 Microsoft 차세대 통신 및 공동 작업 서비스(Microsoft Exchange Online, Microsoft SharePoint Online, 웹용 Office 및 Microsoft 비즈니스용 Skype Online)를 결합하여 사용자가 인터넷을 통해 거의 모든 곳에서 생산성을 향상할 수 있도록 합니다.
   
-사용자가 Microsoft 365 및 Office 365 플랫폼을 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 표를 [참조하세요.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) 기능의 자세한 목록은 [Microsoft 365 및 Office 365](../office-365-service-descriptions-technet-library.md)서비스 설명 아래에서 관련 서비스 설명을 참조하세요.
+사용자가 Microsoft 365 및 Office 365 플랫폼을 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 표를 [참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145) 기능의 자세한 목록은 [Microsoft 365 및 Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)서비스 설명 아래에서 관련 서비스 설명을 참조하세요.
   
 - Office 365 Education 요금제에 대한 내용은 [Office 365 Education](office-365-education.md) 페이지부터 확인하세요. 
     

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: 보관에 대한 자세한 내용은 이 Microsoft Exchange Online 읽어 보아야 합니다.
-ms.openlocfilehash: 0b0a3baed41ba416f80933181a8aedbd22847b95
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 374076fa79ca021d75ebd2375511579be5ae49dc
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173373"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215771"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 서비스 설명
 
@@ -30,7 +30,7 @@ Microsoft 온라인 Exchange Online Archiving 강력한 보안, 안정성 및 �
   
 ## <a name="available-plans"></a>사용 가능한 계획
 
-사용자가 구독을 사용하도록 설정하는 구독에 대한 자세한 계획 Exchange Online Archiving 전체 구독 비교 표를 [참조하세요.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
+사용자가 구독을 사용하도록 설정하는 구독에 대한 자세한 계획 Exchange Online Archiving 전체 구독 비교 표를 [참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
 > [!TIP]
 > 서비스 설명에서 페이지를 내보내고 저장하고 인쇄할 수 있습니다. 콘텐츠 검색 결과를 [내보내는 방법에 대해 자세히 알아보겠습니다.](/office365/securitycompliance/export-search-results) 

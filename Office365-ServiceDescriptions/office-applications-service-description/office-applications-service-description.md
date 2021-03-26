@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: 'Microsoft 365는 이미 익숙한 최신 버전의 Office 데스크톱 응용 프로그램(예: Word, Excel 및 PowerPoint)을 제공하는 구독 서비스입니다.'
-ms.openlocfilehash: 405308fe734be548bcbb8fb98204467c5e50fcf7
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 8f2898ac3668f9ec1868d3c99d5ef04567d7c6f5
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173903"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215761"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 
@@ -28,7 +28,7 @@ Office는 클라우드 기반 서비스지만 Office 응용 프로그램은 클�
   
 Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다.
   
-사용자가 Office 응용 프로그램 서비스 설명을 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
+사용자가 Office 응용 프로그램 서비스 설명을 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
 ## <a name="feature-availability-across-plans"></a>계획에서 사용 가능한 기능
 

@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics 기능, 배포, 개인 정보 및 선행 준비
-ms.openlocfilehash: 9b19dfd5eb40ab136f8491fc87fab02434b88d98
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 3b573c4e675830bb2c7b5d9101c9793b493c4d11
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173493"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215867"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics 서비스 설명
 
@@ -25,7 +25,7 @@ MyAnalytics는 직원 개인 정보를 보호하는 방식으로 정보를 처�
 
 ## <a name="available-plans"></a>사용 가능한 계획
 
-사용자가 MyAnalytics를 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
+사용자가 MyAnalytics를 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 ## <a name="elements"></a>요소
 
