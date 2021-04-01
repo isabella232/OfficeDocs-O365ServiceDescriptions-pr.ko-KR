@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 365 및 Office 365 계획의 Microsoft Teams 서비스 및 기능 가용성에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 59eaee9a36eaff8dd79d5ff9690bf04e966f3dfe
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: d745ba704d190415b480207880dde18400852c05
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215731"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484861"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -50,15 +50,14 @@ Microsoft 365 및 Office 365 계획의 Teams 기능 전체를 최신으로 전�
 |화면 공유 PowerPoint 오디오/비디오 데스크톱 <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |음성  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>3</sup>  <br/> |예<sup>3</sup>  <br/> |예  <br/> |
 |오디오 회의  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>3</sup>  <br/> |예<sup>3</sup>  <br/> |예  <br/> |
-|앱, 봇, & 커넥터  <br/> |예  <br/> |예  <br/> |예<sup>5</sup>  <br/> |예<sup>5</sup>  <br/> |예<sup>4,5</sup>  <br/> |예  <br/> |
-|라이브 이벤트  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요<sup>6</sup>  <br/> |아니요<sup>6</sup>  <br/> |예  <br/> |
+|앱, 봇, & 커넥터  <br/> |예  <br/> |예  <br/> |예<sup>4</sup>  <br/> |예<sup>4</sup>  <br/> |예<sup>4</sup>  <br/> |예  <br/> |
+|라이브 이벤트  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요<sup>5</sup>  <br/> |아니요<sup>5</sup>  <br/> |예  <br/> |
 
 <sup>1</sup> GCC-High 및 DOD의 Microsoft Teams는 개별 팀에서 2,500명 구성원을 지원합니다.<br/>
 <sup>2</sup> Microsoft Planner는 현재 비공개 채널에서 액세스할 수 없습니다.<br/>
 <sup>3</sup> Microsoft Teams 음성 및 오디오 회의가 GCCH 및 DoD에서 작동하도록 직접 라우팅을 구성해야 합니다.<br/>
-<sup>4</sup> DoD 클라우드에서는 Microsoft OneNote를 사용할 수 없습니다.<br/>
-<sup>5</sup> 현재 이러한 클라우드에서는 타사 응용 프로그램 및 응용 프로그램 게시를 사용할 수 없습니다.<br/>
-<sup>6</sup> 라이브 이벤트는 현재 GCC-High DOD에서 사용할 수 없습니다.<br/>
+<sup>4</sup> 현재 이러한 클라우드에서는 타사 응용 프로그램 및 응용 프로그램 게시를 사용할 수 없습니다.<br/>
+<sup>5</sup> 라이브 이벤트는 현재 GCC-High DOD에서 사용할 수 없습니다.<br/>
 
 ### <a name="cloud-voice-features"></a>클라우드 음성 기능
 

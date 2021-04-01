@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 및 독립 실행형 계획에 대한 SharePoint 제한에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 60a9fc63c60952ef8a71706d79ddac055fecc887
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 4b544803132d212dc3db01c6b0fbf18193f9fb3d
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172613"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484781"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -29,7 +29,7 @@ Microsoft 365용 SharePoint의 서비스 제한에 대해 자세히 알아보습
 |조직당 사이트(사이트 모음)  <br/> |2백만<sup>개 6</sup> <br/> |2백만<sup>개 6</sup> <br/> |200만 개<br/> |
 |사용자 수  <br/> |최대 300개  <br/> |1- 500,000<sup>7</sup> <br/> |1- 500,000<sup>7</sup> <br/> |
    
-<sup>1</sup> 조직에 대한 총 저장소 및 사용 가능한 저장소를 [찾는 방법에 대해 자세히 알아보습니다.](/sharepoint/manage-site-collection-storage-limits) 무제한으로 추가 SharePoint 저장소를 구입할 수 있습니다. 구독의 [저장소 공간 변경을 참조하세요.](/office365/admin/subscriptions-and-billing/add-storage-space) 
+<sup>1</sup> 조직에 대한 총 저장소 및 사용 가능한 저장소를 [찾는 방법에 대해 자세히 알아보습니다.](/sharepoint/manage-site-collection-storage-limits) 무제한으로 추가 SharePoint 저장소를 구입할 수 있습니다. 구독에 [대한 저장소 공간 추가를 참조하세요.](/office365/admin/subscriptions-and-billing/add-storage-space) 
 <br/><sup>2</sup> 재활용란을 모니터링하고 정기적으로 비우는 것이 좋습니다. 사용하는 저장소 공간은 조직의 총 저장소 제한에 해당합니다. 
 <br/> <sup>3</sup> Microsoft 365 구독 및 Office 365 추가 파일 저장소 추가 기능을 사용할 경우 저장소 금액이 추가됩니다. 
 <br/> <sup>4</sup> 단일 사이트(이전의 "사이트 모음")에 대한 저장소 제한으로, 각 사이트에 대해 제공된 저장소 양이 아니라 저장 용량입니다.   이 제한은 Office 365 그룹에 연결된 팀 사이트 및 OneDrive를 포함하여 모든 유형의 사이트에 적용됩니다. SharePoint 관리자는 더 낮은 저장소 제한을 [수동으로 설정할 수 있습니다.](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits) 

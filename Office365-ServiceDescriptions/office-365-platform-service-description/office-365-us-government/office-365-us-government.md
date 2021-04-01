@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문의 고유하고 진화하는 요구 사항에 부응하여 Microsoft는 Office 365 Government 요금제(또는 Office 365 Government)를 만들었다. 이 문서에서는 Office 365 Government US 환경과 관련한 기능에 대한 개요를 제공합니다.
-ms.openlocfilehash: a2568a77406954a2d3461a0e33f7ca5f3e9160d8
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 27943ddbb1f590f06c74b335c89844afe11a7b02
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172963"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484831"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -348,7 +348,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |Office 원격 분석|아니요|예<sup>4</sup>|예<sup>4</sup>|아니요|
 |클라이언트 응용 프로그램에 대한 오프라인 지원|아니요|예|예|아니요|
 |최적화된 클라이언트 병렬 설치|아니요|예|예|아니요|
-|Excel용 파워 맵|아니요|예<sup>4</sup>|예<sup>4</sup>|아니요|
+|Excel용 파워 맵|아니요|아니요|아니요|아니요|
 |Power Pivot for Excel|아니요|예<sup>4</sup>|예<sup>4</sup>|아니요|
 |Excel용 파워 쿼리|아니요|예<sup>4</sup>|예<sup>4</sup>|아니요|
 |Power View for Excel|아니요|예<sup>4</sup>|예<sup>4</sup>|아니요|
