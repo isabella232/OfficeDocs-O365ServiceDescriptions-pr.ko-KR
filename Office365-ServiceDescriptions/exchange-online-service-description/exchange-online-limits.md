@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: 06017db419d1f62c907e5bd5004d8d2eef2f54c1
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 47f56be9b431b6f2b5e0340291ea6e3d156674d8
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173713"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484841"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -321,7 +321,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 ### <a name="receiving-limits"></a>수신 제한
 
-수신 제한은 사용자, 그룹 또는 공용 폴더가 시간당 받을 수 있는 메시지 수에 적용됩니다. 이 제한은 인터넷에서 받은 메시지와 온-프레미스 서버에서 받은 메시지 둘 다에 적용됩니다. 수신 제한을 초과할 경우 해당 사서함으로 전송된 모든 전자 메일은 사서함이 최대 배달 임계값을 초과했다는 배달 못 함 보고서(NDR)를 받게 됩니다. 1시간 후에 이 제한이 새로 고쳐지고 사서함은 다시 한 번 메시지를 받을 수 있게 됩니다.
+수신 제한은 사용자, 그룹 또는 공용 폴더가 시간당 *모든 원본에서* 받을 수 있는 메시지 수에 적용됩니다. 여기에는 내부 발신자가 보내는 메시지, 인터넷에서 발송되는 메시지, 온-프레미스 서버에서 발송되는 메시지가 모두 포함됩니다. 사서함의 수신 제한이 초과될 경우 사서함에 발송된 메시지는 사서함의 전송 임계치가 초과되었다는 내용을 담은 배달 못 함 보고서(NDR 또는 반송 메시지라고도 함)와 함께 보낸 사람에게 다시 반송됩니다. 1시간 후에 이 제한이 새로 고쳐지고 사서함은 다시 한 번 메시지를 받을 수 있게 됩니다.
 
 | 기능 | Microsoft 365 Business Basic | Microsoft 365 Business Standard Office | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -369,7 +369,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |받는 사람 처리 속도 제한|제한 없음<sup>1</sup>|하루당 수신자 10,000명<sup>2</sup>|하루당 수신자 10,000명<sup>2</sup>|하루당 수신자 10,000명<sup>2</sup>|
 |수신자 제한|수신자 1000명<sup>1</sup>|수신자 1000명|수신자 1000명|수신자 1000명|
 |받는 사람 프록시 주소 제한|400|400|400|400|
-|메시지 속도 제한|분당 30개 메시지|분당 30개 메시지|분당 30개 메시지|분당 30개 메시지|
+|메시지 속도 제한|제한 없음|분당 30개 메시지|분당 30개 메시지|분당 30개 메시지|
 
 > [!NOTE]
 > <sup>1</sup>Exchange Server 2013 조직의 기본 제한입니다. 관리자는 자신의 조직에 대한 이 값을 변경할 수 있습니다.<br/>
