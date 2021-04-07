@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열된 기능은 많은 장치와 여러 Office 365 서비스에서 안전하게 공동 작업하고 통신하는 데 도움이 되는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: fa139fe6a774979a37d6327198ebd6ceec11afdb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: c74505833ab40d29612c710360d3073ea9313cb1
+ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173983"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51599050"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 제품군 기능
 
@@ -25,12 +25,6 @@ ms.locfileid: "51173983"
 ## <a name="delve"></a>Delve
 
 Delve를 사용하면 개인화된 인사이트를 기반으로 Microsoft 365에서 콘텐츠를 검색하고 검색할 수 있습니다. Delve는 Office Graph를 기반으로 하는 최초의 작업 환경입니다. Delve에 대한 자세한 내용은 [Delve란?으로 이동하세요.](https://go.microsoft.com/fwlink/?LinkId=511463)
-
-## <a name="microsoft-bookings"></a>Microsoft Bookings
-
-Microsoft Bookings는 약속에 따라 고객에게 서비스를 제공하려는 비즈니스용 온라인 및 모바일 앱입니다. 이러한 비즈니스의 예로는 미용실, 치과, 스파, 법률 회사, 금융 서비스 공급자, 컨설턴트, 의료 실무자, 교육 기관 및 자동 상점이 있습니다. Microsoft Bookings는 비즈니스용 Microsoft 365 구독이 있는 미국 및 캐나다의 고객이 사용할 수 있습니다.
-  
-Microsoft Bookings에 대한 자세한 내용은 Microsoft Bookings를 통해 온라인으로 비즈니스 [일정 게시를 참조하십시오.](https://support.office.com/article/47403d64-a067-4754-9ae9-00157244c27d)
 
 ## <a name="microsoft-briefing-email"></a>Microsoft 브리핑 전자 메일
 
@@ -69,7 +63,7 @@ Microsoft Planner는 사용자에게 팀 작업을 구성하는 시각적인 방
   
 ## <a name="microsoft-power-apps"></a>Microsoft Power Apps
 
-Microsoft Power Apps는 모든 장치에서 작동되는 앱을 빠르게 빌드, 통합 및 공유할 수 있도록 하는 엔터프라이즈 서비스입니다. Power Apps를 사용하면 기본 제공 연결 또는 회사에서 구축한 연결을 사용하여 Microsoft 365 및 Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, Oracle 데이터베이스 등을 비롯한 클라우드 및 사내 서비스에 앱을 연결할 수 있습니다. 전자 메일 주소를 입력하기만 하여 동료와 Power Apps를 쉽게 공유할 수 있습니다. 자세한 내용은 Microsoft Power Apps 웹 [사이트로 이동하세요.](https://powerapps.microsoft.com/)
+Microsoft Power Apps는 모든 장치에서 작동되는 앱을 빠르게 빌드, 통합 및 공유할 수 있도록 하는 엔터프라이즈 서비스입니다. Power Apps를 사용하면 기본 제공 연결 또는 회사에서 구축한 연결을 사용하여 Microsoft 365 및 Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, Oracle 데이터베이스 등을 비롯한 클라우드 및 사내 서비스에 앱을 연결할 수 있습니다. 전자 메일 주소를 입력하여 동료와 Power Apps를 쉽게 공유할 수 있습니다. 자세한 내용은 Microsoft Power Apps 웹 [사이트로 이동하세요.](https://powerapps.microsoft.com/)
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -77,7 +71,7 @@ Microsoft Stream은 조직의 사용자들이 비디오를 안전하게 업로�
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
-Microsoft Sway는 사용자와 동료가 대화형 웹 기반 캔버스를 사용하여 아이디어를 표현하는 데 도움이 되는 비즈니스용 전문 디지털 스토리텔링 앱입니다. Microsoft Sway의 기본 제공 디자인 엔진을 사용하면 광범위한 서식이나 추가 교육 없이도 전문적인 보고서, 프레젠테이션 등 다양한 기능을 만들 수 있습니다. 또한 결과를 수정하여 원하는 고유한 모양과 느낌을 얻을 수 있습니다. Microsoft Sway는 모든 화면의 모든 브라우저에서 생성이 보기 처럼 보이게 만들며, 링크를 보내서 동료 및 고객과 공유할 수 있습니다. Microsoft Sway를 사용하면 앱을 종료하지 않고도 모든 종류의 콘텐츠를 찾아서 끌어서 캔버스에 바로 끌어 놓을 수 있습니다. 자세한 내용은 [Sway](https://sway.com)를 참조하세요. Microsoft Sway는 Office [365 Germany에서](office-365-germany.md)아직 사용할 수 없습니다.
+Microsoft Sway는 사용자와 동료가 대화형 웹 기반 캔버스를 사용하여 아이디어를 표현하는 데 도움이 되는 비즈니스용 전문 디지털 스토리텔링 앱입니다. Microsoft Sway의 기본 제공 디자인 엔진을 사용하면 광범위한 서식이나 추가 교육 없이도 전문적인 보고서, 프레젠테이션 등 다양한 기능을 만들 수 있습니다. 또한 결과를 수정하여 원하는 고유한 모양과 느낌을 얻을 수 있습니다. Microsoft Sway는 모든 화면의 모든 브라우저에서 생성이 보기 처럼 보이게 만들며 링크를 보내 동료 및 고객과 공유할 수 있습니다. Microsoft Sway를 사용하면 앱을 종료하지 않고도 모든 종류의 콘텐츠를 찾아서 끌어서 캔버스에 바로 끌어 놓을 수 있습니다. 자세한 내용은 [Sway](https://sway.com)를 참조하세요. Microsoft Sway는 Office [365 Germany에서](office-365-germany.md)아직 사용할 수 없습니다.
   
 ## <a name="microsoft-365-apps-for-enterprise"></a>엔터프라이즈용 Microsoft 365 앱
 

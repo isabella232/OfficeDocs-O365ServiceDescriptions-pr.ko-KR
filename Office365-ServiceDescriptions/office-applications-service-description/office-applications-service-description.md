@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: 'Microsoft 365는 이미 익숙한 최신 버전의 Office 데스크톱 응용 프로그램(예: Word, Excel 및 PowerPoint)을 제공하는 구독 서비스입니다.'
-ms.openlocfilehash: 8f2898ac3668f9ec1868d3c99d5ef04567d7c6f5
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 55674c3844f074d5462c91c2b2b422b2abb05e30
+ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215761"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51599060"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 
@@ -81,7 +81,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |Excel용 파워 쿼리  <br/> |<sup>아니요 14</sup>  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Power View for Excel  <br/> |예  <br/> |예  <br/>|예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |로밍 설정  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
-|공유 컴퓨터 활성화  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예 <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[공유 컴퓨터 활성화](/DeployOffice/overview-shared-computer-activation)  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예 <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |클라우드 기반 파일 저장 차단 지원  <br/> |예  <br/> |예  <br/>|예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |예 <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |
 |콘텐츠를 찾고 재사용하려면 탭하십시오.  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요 <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |버전 업그레이드  <br/> |아니요  <br/> |아니요  <br/>|아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예 <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
