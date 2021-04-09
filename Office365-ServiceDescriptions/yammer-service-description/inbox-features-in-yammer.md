@@ -2,6 +2,7 @@
 title: Yammer의 받은 편지함 기능
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,27 +12,27 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: Yammer에서는 다음과 같은 받은 편지함 기능을 사용할 수 있습니다.
-ms.openlocfilehash: e8cf9c963a00166910bc34e2f2cfc0e19d6575d1
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 2060f2debe7deae4f0297f71e227b7e3a17419c2
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45133052"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653530"
 ---
-# <a name="inbox-features-in-yammer"></a><span data-ttu-id="67100-103">Yammer의 받은 편지함 기능</span><span class="sxs-lookup"><span data-stu-id="67100-103">Inbox features in Yammer</span></span>
+# <a name="inbox-features-in-yammer"></a><span data-ttu-id="68671-103">Yammer의 받은 편지함 기능</span><span class="sxs-lookup"><span data-stu-id="68671-103">Inbox features in Yammer</span></span>
 
-<span data-ttu-id="67100-104">Yammer에서는 다음과 같은 받은 편지함 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="67100-104">The following inbox features are available in Yammer.</span></span>
+<span data-ttu-id="68671-104">Yammer에서는 다음과 같은 받은 편지함 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="68671-104">The following inbox features are available in Yammer.</span></span>
   
-## <a name="inbox"></a><span data-ttu-id="67100-105">받은 편지함</span><span class="sxs-lookup"><span data-stu-id="67100-105">Inbox</span></span>
+## <a name="inbox"></a><span data-ttu-id="68671-105">받은 편지함</span><span class="sxs-lookup"><span data-stu-id="68671-105">Inbox</span></span>
 
-<span data-ttu-id="67100-106">받은 편지함은 응답의 우선 순위를 쉽게 지정할 수 있도록 @mentions, 그룹 공지 사항, 대화 및 개인 메시지를 자동으로 집계 합니다.</span><span class="sxs-lookup"><span data-stu-id="67100-106">Inbox automatically aggregates your @mentions, group announcements, conversations, and private messages so you can easily prioritize responses.</span></span>
+<span data-ttu-id="68671-106">받은 편지함은 응답의 우선 순위를 @mentions, 그룹 공지, 대화 및 개인 메시지를 자동으로 집계합니다.</span><span class="sxs-lookup"><span data-stu-id="68671-106">Inbox automatically aggregates your @mentions, group announcements, conversations, and private messages so you can easily prioritize responses.</span></span>
   
-## <a name="inbox-search"></a><span data-ttu-id="67100-107">받은 편지함 검색</span><span class="sxs-lookup"><span data-stu-id="67100-107">Inbox search</span></span>
+## <a name="inbox-search"></a><span data-ttu-id="68671-107">받은 편지함 검색</span><span class="sxs-lookup"><span data-stu-id="68671-107">Inbox search</span></span>
 
-<span data-ttu-id="67100-108">전체 받은 편지함에서 검색 하 여 대화, 개인 메시지 및 알림을 신속 하 게 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="67100-108">Search across your entire inbox to quickly find conversations, private messages, and announcements.</span></span>
+<span data-ttu-id="68671-108">전체 받은 편지함에서 검색하여 대화, 개인 메시지 및 공지 사항을 빠르게 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="68671-108">Search across your entire inbox to quickly find conversations, private messages, and announcements.</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="67100-109">기능 가용성</span><span class="sxs-lookup"><span data-stu-id="67100-109">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="68671-109">기능 가용성</span><span class="sxs-lookup"><span data-stu-id="68671-109">Feature availability</span></span>
 
-<span data-ttu-id="67100-110">계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Yammer 서비스 설명을](yammer-service-description.md)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="67100-110">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
+<span data-ttu-id="68671-110">계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 서비스 [Yammer 참조하세요.](yammer-service-description.md)</span><span class="sxs-lookup"><span data-stu-id="68671-110">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
   
 

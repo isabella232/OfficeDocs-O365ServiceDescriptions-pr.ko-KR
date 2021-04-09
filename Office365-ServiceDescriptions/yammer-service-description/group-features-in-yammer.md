@@ -2,6 +2,7 @@
 title: Yammer의 그룹 기능
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,30 +12,30 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: Yammer에서는 다음과 같은 그룹 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 28600b37cab0d1ceb106b0628bad8c6b3b7b097c
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: c4ac4005f21bd5ce06b8babec0163c367e9a9d4f
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132072"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653020"
 ---
-# <a name="group-features-in-yammer"></a><span data-ttu-id="3b5c2-103">Yammer의 그룹 기능</span><span class="sxs-lookup"><span data-stu-id="3b5c2-103">Group features in Yammer</span></span>
+# <a name="group-features-in-yammer"></a><span data-ttu-id="7c982-103">Yammer의 그룹 기능</span><span class="sxs-lookup"><span data-stu-id="7c982-103">Group features in Yammer</span></span>
 
-<span data-ttu-id="3b5c2-104">Yammer에서는 다음과 같은 그룹 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3b5c2-104">The following group features are available in Yammer.</span></span>
+<span data-ttu-id="7c982-104">Yammer에서는 다음과 같은 그룹 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7c982-104">The following group features are available in Yammer.</span></span>
   
-## <a name="announcements"></a><span data-ttu-id="3b5c2-105">공지 사항</span><span class="sxs-lookup"><span data-stu-id="3b5c2-105">Announcements</span></span>
+## <a name="announcements"></a><span data-ttu-id="7c982-105">공지 사항</span><span class="sxs-lookup"><span data-stu-id="7c982-105">Announcements</span></span>
 
-<span data-ttu-id="3b5c2-106">중요 업데이트를 구성원에게 즉시 알리기 위해 알림을 그룹과 공유합니다.</span><span class="sxs-lookup"><span data-stu-id="3b5c2-106">Share an announcement with a group to instantly notify members of important updates.</span></span> <span data-ttu-id="3b5c2-107">관리자는 쉬운 검색을 위해 그룹에 알림을 고정할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3b5c2-107">Administrators can pin announcements to a group for easy discovery.</span></span>
+<span data-ttu-id="7c982-106">중요 업데이트를 구성원에게 즉시 알리기 위해 알림을 그룹과 공유합니다.</span><span class="sxs-lookup"><span data-stu-id="7c982-106">Share an announcement with a group to instantly notify members of important updates.</span></span> <span data-ttu-id="7c982-107">관리자는 쉽게 검색할 수 있도록 그룹에 공지 사항을 고정할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7c982-107">Administrators can pin announcements to a group for easy discovery.</span></span>
   
-## <a name="groups"></a><span data-ttu-id="3b5c2-108">그룹</span><span class="sxs-lookup"><span data-stu-id="3b5c2-108">Groups</span></span>
+## <a name="groups"></a><span data-ttu-id="7c982-108">그룹</span><span class="sxs-lookup"><span data-stu-id="7c982-108">Groups</span></span>
 
-<span data-ttu-id="3b5c2-109">다음 캠페인 시작 또는 조직 이벤트에 대 한 부서별 통신에서 모든 팀, 프로젝트 또는 취미에 대 한 그룹을 초 단위로 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="3b5c2-109">From departmental communications to your next campaign launch or organization event, set up a group in seconds for any team, project, or interest.</span></span>
+<span data-ttu-id="7c982-109">부서의 커뮤니케이션에서 다음 캠페인 시작 또는 조직 이벤트에 대한 팀, 프로젝트 또는 관심사에 대한 그룹을 몇 초 만에 설정하세요.</span><span class="sxs-lookup"><span data-stu-id="7c982-109">From departmental communications to your next campaign launch or organization event, set up a group in seconds for any team, project, or interest.</span></span>
   
-## <a name="related-groups"></a><span data-ttu-id="3b5c2-110">관련 그룹</span><span class="sxs-lookup"><span data-stu-id="3b5c2-110">Related groups</span></span>
+## <a name="related-groups"></a><span data-ttu-id="7c982-110">관련 그룹</span><span class="sxs-lookup"><span data-stu-id="7c982-110">Related groups</span></span>
 
-<span data-ttu-id="3b5c2-111">동료 들이 보다 관련성이 높은 사람, 콘텐츠 및 대화를 검색할 수 있도록 이미 가입한 그룹과 관련 된 그룹을 추가 하 고 우선 순위를 지정 합니다.</span><span class="sxs-lookup"><span data-stu-id="3b5c2-111">Add and prioritize groups related to the ones you've already joined so coworkers can discover even more relevant people, content, and conversations.</span></span>
+<span data-ttu-id="7c982-111">이미 가입한 그룹과 관련된 그룹을 추가하고 우선 순위를 지정하여 동료가 보다 관련성 높은 사람, 콘텐츠 및 대화를 검색할 수 있도록 합니다.</span><span class="sxs-lookup"><span data-stu-id="7c982-111">Add and prioritize groups related to the ones you've already joined so coworkers can discover even more relevant people, content, and conversations.</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="3b5c2-112">기능 가용성</span><span class="sxs-lookup"><span data-stu-id="3b5c2-112">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="7c982-112">기능 가용성</span><span class="sxs-lookup"><span data-stu-id="7c982-112">Feature availability</span></span>
 
-<span data-ttu-id="3b5c2-113">계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Yammer 서비스 설명을](yammer-service-description.md)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="3b5c2-113">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
+<span data-ttu-id="7c982-113">계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 서비스 [Yammer 참조하세요.](yammer-service-description.md)</span><span class="sxs-lookup"><span data-stu-id="7c982-113">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
   

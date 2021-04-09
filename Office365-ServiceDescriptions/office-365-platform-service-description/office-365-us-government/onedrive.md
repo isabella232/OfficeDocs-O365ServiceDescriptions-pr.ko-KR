@@ -2,6 +2,7 @@
 title: 미국 정부 환경용 OneDrive
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.reviewer: ankirti
 audience: ITPro
 ms.topic: reference
@@ -9,53 +10,53 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 미국 정부 클라우드 고객을 위한 OneDrive 기능 가용성에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 66e3e45ccd15d0486370c2f4049648fdbb0e01c5
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 61d7e178c1b3940ad8a3ba487b803c7e4cc0e197
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172943"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653440"
 ---
-# <a name="onedrive-for-us-government-environments"></a><span data-ttu-id="da674-103">미국 정부 환경용 OneDrive</span><span class="sxs-lookup"><span data-stu-id="da674-103">OneDrive for US government environments</span></span>
+# <a name="onedrive-for-us-government-environments"></a><span data-ttu-id="dbdc1-103">미국 정부 환경용 OneDrive</span><span class="sxs-lookup"><span data-stu-id="dbdc1-103">OneDrive for US government environments</span></span>
 
-<span data-ttu-id="da674-104">이 문서에서는 OneDrive 서비스 설명 에 나열된 미국 정부 클라우드와 상업용 클라우드 간의 기능 [차이에 대한 개요를 제공합니다.](../../onedrive-for-business-service-description.md)</span><span class="sxs-lookup"><span data-stu-id="da674-104">This article provides an overview of feature differences between the US government cloud and the commercial cloud as listed in the [OneDrive service description](../../onedrive-for-business-service-description.md).</span></span> <span data-ttu-id="da674-105">OneDrive는 GCC(정부 커뮤니티 클라우드), GCC High 및 DoD 환경에 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="da674-105">OneDrive is available for the Government Community Cloud (GCC), GCC High, and DoD environments.</span></span> 
+<span data-ttu-id="dbdc1-104">이 문서에서는 OneDrive 서비스 설명 에 나열된 미국 정부 클라우드와 상업용 클라우드 간의 기능 [차이에 대한 개요를 제공합니다.](../../onedrive-for-business-service-description.md)</span><span class="sxs-lookup"><span data-stu-id="dbdc1-104">This article provides an overview of feature differences between the US government cloud and the commercial cloud as listed in the [OneDrive service description](../../onedrive-for-business-service-description.md).</span></span> <span data-ttu-id="dbdc1-105">OneDrive는 GCC(정부 커뮤니티 클라우드), GCC High 및 DoD 환경에 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-105">OneDrive is available for the Government Community Cloud (GCC), GCC High, and DoD environments.</span></span> 
 
-<span data-ttu-id="da674-106">자격 및 구매를 포함하여 정부 클라우드에 대한 자세한 내용은 [Microsoft 365 Government - 구입 방법을 참조하세요.](./microsoft-365-government-how-to-buy.md)</span><span class="sxs-lookup"><span data-stu-id="da674-106">For more info about the government cloud, including eligibility and purchasing, see [Microsoft 365 Government - how to buy](./microsoft-365-government-how-to-buy.md).</span></span> <span data-ttu-id="da674-107">Office 365 Government 요금제 비교는 [Office 365 Government 요금제 를 참조합니다.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)</span><span class="sxs-lookup"><span data-stu-id="da674-107">To compare Office 365 Government plans, see [Office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).</span></span>
+<span data-ttu-id="dbdc1-106">자격 및 구매를 포함하여 정부 클라우드에 대한 자세한 내용은 [Microsoft 365 Government - 구입 방법을 참조하세요.](./microsoft-365-government-how-to-buy.md)</span><span class="sxs-lookup"><span data-stu-id="dbdc1-106">For more info about the government cloud, including eligibility and purchasing, see [Microsoft 365 Government - how to buy](./microsoft-365-government-how-to-buy.md).</span></span> <span data-ttu-id="dbdc1-107">Office 365 Government 요금제 비교는 [Office 365 Government 요금제 를 참조합니다.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)</span><span class="sxs-lookup"><span data-stu-id="dbdc1-107">To compare Office 365 Government plans, see [Office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).</span></span>
 
-<span data-ttu-id="da674-108">네트워크 연결을 관리할 때 필요한 끝점에 대한 자세한 내용은 [Office 365 U.S. Government GCC High endpoints](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) or [Office 365 U.S. Government DoD endpoints](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)를 참조합니다.</span><span class="sxs-lookup"><span data-stu-id="da674-108">To learn about required endpoints when managing network connectivity, see the [Office 365 U.S. Government GCC High endpoints](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) or [Office 365 U.S. Government DoD endpoints](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).</span></span>
+<span data-ttu-id="dbdc1-108">네트워크 연결을 관리할 때 필요한 끝점에 대한 자세한 내용은 [Office 365 U.S. Government GCC High endpoints](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) or [Office 365 U.S. Government DoD endpoints](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)를 참조합니다.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-108">To learn about required endpoints when managing network connectivity, see the [Office 365 U.S. Government GCC High endpoints](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) or [Office 365 U.S. Government DoD endpoints](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).</span></span>
 
-<span data-ttu-id="da674-109">조직은 Office 365의 기능과 기능을 즐길 뿐만 아니라 미국 정부 클라우드 환경에 고유한 다음과 같은 기능을 활용합니다.</span><span class="sxs-lookup"><span data-stu-id="da674-109">In addition to enjoying the features and capabilities of Office 365, organizations benefit from the following features that are unique to the US government cloud environments:</span></span>
+<span data-ttu-id="dbdc1-109">조직은 Office 365의 기능과 기능을 즐길 뿐만 아니라 미국 정부 클라우드 환경에 고유한 다음과 같은 기능을 활용합니다.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-109">In addition to enjoying the features and capabilities of Office 365, organizations benefit from the following features that are unique to the US government cloud environments:</span></span>
 
--   <span data-ttu-id="da674-110">조직의 고객 콘텐츠는 Microsoft에서 상용 Office 365 서비스의 고객 콘텐츠와 논리적으로 은(는) 분판됩니다.</span><span class="sxs-lookup"><span data-stu-id="da674-110">Your organization’s customer content is logically segregated from customer content in the commercial Office 365 services from Microsoft.</span></span>
--   <span data-ttu-id="da674-111">조직의 고객 콘텐츠는 미국에 보관됩니다.</span><span class="sxs-lookup"><span data-stu-id="da674-111">Your organization’s customer content is stored within the United States.</span></span>
--   <span data-ttu-id="da674-112">조직 고객 콘텐츠에 대한 액세스는 선별된 Microsoft 직원으로 제한됩니다.</span><span class="sxs-lookup"><span data-stu-id="da674-112">Access to your organization’s customer content is restricted to screened Microsoft personnel.</span></span>
--   <span data-ttu-id="da674-113">정부 클라우드 환경은 미국 공공 부문 고객에게 필요한 인증 및 인증을 준수합니다.</span><span class="sxs-lookup"><span data-stu-id="da674-113">The government cloud environments comply with certifications and accreditations that are required for US Public Sector customers.</span></span>
+-   <span data-ttu-id="dbdc1-110">조직의 고객 콘텐츠는 Microsoft에서 상용 Office 365 서비스의 고객 콘텐츠와 논리적으로 은(는) 분판됩니다.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-110">Your organization’s customer content is logically segregated from customer content in the commercial Office 365 services from Microsoft.</span></span>
+-   <span data-ttu-id="dbdc1-111">조직의 고객 콘텐츠는 미국에 보관됩니다.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-111">Your organization’s customer content is stored within the United States.</span></span>
+-   <span data-ttu-id="dbdc1-112">조직 고객 콘텐츠에 대한 액세스는 선별된 Microsoft 직원으로 제한됩니다.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-112">Access to your organization’s customer content is restricted to screened Microsoft personnel.</span></span>
+-   <span data-ttu-id="dbdc1-113">정부 클라우드 환경은 미국 공공 부문 고객에게 필요한 인증 및 인증을 준수합니다.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-113">The government cloud environments comply with certifications and accreditations that are required for US Public Sector customers.</span></span>
 
-<span data-ttu-id="da674-114">모든 OneDrive 상업용 기능을 정부 클라우드 환경에 제공하는 것이 목표입니다.</span><span class="sxs-lookup"><span data-stu-id="da674-114">It's our goal to deliver all OneDrive commercial features and functionality to the government cloud environments.</span></span> <span data-ttu-id="da674-115">정부 클라우드 고객의 요구 사항 때문에 일부 기능을 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="da674-115">Some features aren't available because of the requirements of government cloud customers.</span></span> <span data-ttu-id="da674-116">다른 기능은 정부 환경에 제공될 예정이지만 아직 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="da674-116">Other features are coming to the government environments, but not yet available.</span></span> <span data-ttu-id="da674-117">다음 섹션을 참조하여 정부 클라우드 환경의 기능 가용성에 대해 자세히 알아보십시오.</span><span class="sxs-lookup"><span data-stu-id="da674-117">Refer to the following sections to learn about feature availability in the government cloud environments.</span></span>
+<span data-ttu-id="dbdc1-114">모든 OneDrive 상업용 기능을 정부 클라우드 환경에 제공하는 것이 목표입니다.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-114">It's our goal to deliver all OneDrive commercial features and functionality to the government cloud environments.</span></span> <span data-ttu-id="dbdc1-115">정부 클라우드 고객의 요구 사항 때문에 일부 기능을 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-115">Some features aren't available because of the requirements of government cloud customers.</span></span> <span data-ttu-id="dbdc1-116">다른 기능은 정부 환경에 제공될 예정이지만 아직 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-116">Other features are coming to the government environments, but not yet available.</span></span> <span data-ttu-id="dbdc1-117">다음 섹션을 참조하여 정부 클라우드 환경의 기능 가용성에 대해 자세히 알아보십시오.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-117">Refer to the following sections to learn about feature availability in the government cloud environments.</span></span>
 
-## <a name="sharing-features"></a><span data-ttu-id="da674-118">공유 기능</span><span class="sxs-lookup"><span data-stu-id="da674-118">Sharing features</span></span>
+## <a name="sharing-features"></a><span data-ttu-id="dbdc1-118">공유 기능</span><span class="sxs-lookup"><span data-stu-id="dbdc1-118">Sharing features</span></span>
 
-<span data-ttu-id="da674-119">상업용 클라우드와 정부 클라우드 환경 간의 기능 차이에 대한 자세한 내용은 파일 [공유를 참조하세요.](./gcc-high-and-dod.md#file-sharing)</span><span class="sxs-lookup"><span data-stu-id="da674-119">For feature differences between the commercial cloud and the government cloud environments, see [File sharing](./gcc-high-and-dod.md#file-sharing).</span></span>
+<span data-ttu-id="dbdc1-119">상업용 클라우드와 정부 클라우드 환경 간의 기능 차이에 대한 자세한 내용은 파일 [공유를 참조하세요.](./gcc-high-and-dod.md#file-sharing)</span><span class="sxs-lookup"><span data-stu-id="dbdc1-119">For feature differences between the commercial cloud and the government cloud environments, see [File sharing](./gcc-high-and-dod.md#file-sharing).</span></span>
 
-## <a name="web-features"></a><span data-ttu-id="da674-120">웹 기능</span><span class="sxs-lookup"><span data-stu-id="da674-120">Web features</span></span>
+## <a name="web-features"></a><span data-ttu-id="dbdc1-120">웹 기능</span><span class="sxs-lookup"><span data-stu-id="dbdc1-120">Web features</span></span>
 
-<span data-ttu-id="da674-121">다음은 상업적 고객을 위한 웹 기능과 정부 클라우드 고객을 위한 웹 기능의 차이점입니다.</span><span class="sxs-lookup"><span data-stu-id="da674-121">Here are the differences between the web features for commercial customers and those for government cloud customers:</span></span>
+<span data-ttu-id="dbdc1-121">다음은 상업적 고객을 위한 웹 기능과 정부 클라우드 고객을 위한 웹 기능의 차이점입니다.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-121">Here are the differences between the web features for commercial customers and those for government cloud customers:</span></span>
 
-- <span data-ttu-id="da674-122">GCC High 및 DoD 환경에서는 파일 카드를 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="da674-122">File cards are not available in the GCC High and DoD environments</span></span>
-- <span data-ttu-id="da674-123">GCC High 및 DoD 환경에서는 SharePoint 라이브러리 액세스(탐색 창의 "공유 라이브러리")를 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="da674-123">SharePoint library access ("Shared libraries" in the navigation pane) is not available in the GCC High and DoD environments</span></span>
+- <span data-ttu-id="dbdc1-122">GCC High 및 DoD 환경에서는 파일 카드를 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-122">File cards are not available in the GCC High and DoD environments</span></span>
+- <span data-ttu-id="dbdc1-123">GCC High 및 DoD 환경에서는 SharePoint 라이브러리 액세스(탐색 창의 "공유 라이브러리")를 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-123">SharePoint library access ("Shared libraries" in the navigation pane) is not available in the GCC High and DoD environments</span></span>
 
-## <a name="mobile-features"></a><span data-ttu-id="da674-124">모바일 기능</span><span class="sxs-lookup"><span data-stu-id="da674-124">Mobile features</span></span>
+## <a name="mobile-features"></a><span data-ttu-id="dbdc1-124">모바일 기능</span><span class="sxs-lookup"><span data-stu-id="dbdc1-124">Mobile features</span></span>
 
-<span data-ttu-id="da674-125">다음은 상업적 고객을 위한 모바일 기능과 정부 클라우드 고객의 모바일 기능 간 차이점입니다.</span><span class="sxs-lookup"><span data-stu-id="da674-125">Here are the differences between the mobile features for commercial customers and those for government cloud customers:</span></span>
+<span data-ttu-id="dbdc1-125">다음은 상업적 고객을 위한 모바일 기능과 정부 클라우드 고객의 모바일 기능 간 차이점입니다.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-125">Here are the differences between the mobile features for commercial customers and those for government cloud customers:</span></span>
 
-- <span data-ttu-id="da674-126">XBox One, HoloLens, Surface Hub 및 태블릿용 Windows 10 앱은 정부 환경(GCC, GCC High 및 DoD)에서는 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="da674-126">The Windows 10 app for XBox One, HoloLens, Surface Hub, and tablets is not available for the government environments (GCC, GCC High, and DoD).</span></span>
+- <span data-ttu-id="dbdc1-126">XBox One, HoloLens, Surface Hub 및 태블릿용 Windows 10 앱은 정부 환경(GCC, GCC High 및 DoD)에서는 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-126">The Windows 10 app for XBox One, HoloLens, Surface Hub, and tablets is not available for the government environments (GCC, GCC High, and DoD).</span></span>
 
-## <a name="sync-features"></a><span data-ttu-id="da674-127">동기화 기능</span><span class="sxs-lookup"><span data-stu-id="da674-127">Sync features</span></span>
+## <a name="sync-features"></a><span data-ttu-id="dbdc1-127">동기화 기능</span><span class="sxs-lookup"><span data-stu-id="dbdc1-127">Sync features</span></span>
 
-<span data-ttu-id="da674-128">다음은 상업 고객의 동기화 기능과 정부 클라우드 고객을 위한 동기화 기능의 차이점입니다.</span><span class="sxs-lookup"><span data-stu-id="da674-128">Here are the differences between the sync features for commercial customers and those for government cloud customers:</span></span>
+<span data-ttu-id="dbdc1-128">다음은 상업 고객의 동기화 기능과 정부 클라우드 고객을 위한 동기화 기능의 차이점입니다.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-128">Here are the differences between the sync features for commercial customers and those for government cloud customers:</span></span>
 
-- <span data-ttu-id="da674-129">B2B 동기화를 사용하는 경우 다른 환경의 조직에서 파일을 동기화하지 않을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="da674-129">If you use B2B Sync, you might not be able to sync files from an organization in a different environment.</span></span>
+- <span data-ttu-id="dbdc1-129">B2B 동기화를 사용하는 경우 다른 환경의 조직에서 파일을 동기화하지 않을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dbdc1-129">If you use B2B Sync, you might not be able to sync files from an organization in a different environment.</span></span>
 
-## <a name="security-compliance-and-administration-features"></a><span data-ttu-id="da674-130">보안, 규정 준수 및 관리 기능</span><span class="sxs-lookup"><span data-stu-id="da674-130">Security, compliance, and administration features</span></span>
+## <a name="security-compliance-and-administration-features"></a><span data-ttu-id="dbdc1-130">보안, 규정 준수 및 관리 기능</span><span class="sxs-lookup"><span data-stu-id="dbdc1-130">Security, compliance, and administration features</span></span>
 
-<span data-ttu-id="da674-131">상업용 클라우드와 정부 클라우드 환경 간의 기능 차이에 대한 자세한 내용은 미국 정부 [환경용 SharePoint를 참조하세요.](sharepoint.md)</span><span class="sxs-lookup"><span data-stu-id="da674-131">For feature differences between the commercial cloud and the government cloud environments, see [SharePoint for US government environments](sharepoint.md)</span></span>
+<span data-ttu-id="dbdc1-131">상업용 클라우드와 정부 클라우드 환경 간의 기능 차이에 대한 자세한 내용은 미국 정부 [환경용 SharePoint를 참조하세요.](sharepoint.md)</span><span class="sxs-lookup"><span data-stu-id="dbdc1-131">For feature differences between the commercial cloud and the government cloud environments, see [SharePoint for US government environments](sharepoint.md)</span></span>
