@@ -2,6 +2,7 @@
 title: 프로젝트 게시
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,19 +11,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
-description: Project Online에서는 다음과 같은 SharePoint 및 비즈니스용 Skype 상호 운용성 기능을 사용할 수 있습니다.
-ms.openlocfilehash: da4b75c49ab270a6fff3f6bc4ef5b6285a2972a8
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Project Online에서는 다음과 같은 SharePoint 및 비즈니스용 Skype 상호 관리 기능을 사용할 수 있습니다.
+ms.openlocfilehash: 6c3538a2829d1367713763391ffb4fd960792412
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131152"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651191"
 ---
 # <a name="project-publishing"></a>프로젝트 게시
 
-Project Online에서는 다음과 같은 SharePoint 및 비즈니스용 Skype 상호 운용성 기능을 사용할 수 있습니다.
+Project Online에서는 다음과 같은 SharePoint 및 비즈니스용 Skype 상호 관리 기능을 사용할 수 있습니다.
   
-모든 Project Online 기능에 대한 정보를 원하십니까? [Project Online 서비스 설명을](project-online-service-description.md)참조 하세요.
+모든 Project Online 기능에 대한 정보를 원하십니까? Project [Online 서비스 설명을 참조하세요.](project-online-service-description.md)
   
 ## <a name="create-a-project-site"></a>프로젝트 사이트 만들기
 
@@ -40,9 +41,9 @@ Project Web App를 사용 중인 경우 SharePoint에서 새 프로젝트 사이
 
 Project Web App을 사용하여 프로젝트를 게시합니다. 자세한 내용은 [Project Web App에 프로젝트 저장 및 게시](https://go.microsoft.com/fwlink/p/?LinkId=271354)를 참조하세요.
   
-## <a name="save-a-project-mpp-file-on-sharepoint"></a>SharePoint에 프로젝트 MPP 파일 저장
+## <a name="save-a-project-mpp-file-on-sharepoint"></a>SharePoint에 Project MPP 파일 저장
 
-Project Server가 없는 팀 구성원과 공유할 프로젝트를 SharePoint 문서 라이브러리에 저장 합니다. 자세한 내용은 [SharePoint 작업 목록과 동기화](https://go.microsoft.com/fwlink/p/?LinkId=271353)를 참조하세요.
+SharePoint 문서 라이브러리에 프로젝트를 저장하여 Project Server가 없는 팀 구성원과 공유할 수 있습니다. 자세한 내용은 [SharePoint 작업 목록과 동기화](https://go.microsoft.com/fwlink/p/?LinkId=271353)를 참조하세요.
   
 ## <a name="task-list-sync-to-sharepoint"></a>SharePoint와 작업 목록 동기화
 
@@ -50,6 +51,6 @@ Project Server가 없는 팀 구성원과 공유할 프로젝트를 SharePoint �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Project Online service description](project-online-service-description.md)을 참조 하세요.
+계획, 독립 실행형 옵션 및 사내 솔루션에 대한 기능 가용성을 확인하면 Project Online 서비스 [설명을 참조하세요.](project-online-service-description.md)
   
 

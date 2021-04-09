@@ -2,6 +2,7 @@
 title: Office 응용 프로그램
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office는 자신이 가지고 있는 최고의 아이디어를 표현하고, 업무를 신속하게 처리하며 이동 중에도 사용할 수 있는 강력한 서비스입니다. Office에 로그인하기만 하면 자신에게 맞게 설정된 작업 환경을 경험하고, 신규 기능과 향상된 기능이 지속적으로 추가되는 모든 최신 Office 응용 프로그램을 사용해 볼 수 있습니다.
-ms.openlocfilehash: 860241d88cb986ff427b9b75b57bb09d7a4f8a6e
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 5d23343c076244d3a326ed447d2fbf4ff88ffa0c
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172763"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652382"
 ---
 # <a name="office-applications"></a>Office 응용 프로그램
 

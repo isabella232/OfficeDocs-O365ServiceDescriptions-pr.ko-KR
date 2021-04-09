@@ -2,6 +2,7 @@
 title: Office 365 Education
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. Office 365 Education 요금제 간의 차이점을 원할 경우 이 문서에서는 각 요금제에 포함된 기능을 보여 주게 됩니다. Office 365는 익숙한 Microsoft Office 데스크톱 제품군을 Microsoft Exchange Online, Microsoft SharePoint Online, 웹용 Office 및 Microsoft 비즈니스용 Skype Online을 비롯한 Microsoft 차세대 통신 및 공동 작업 서비스의 클라우드 기반 버전과 결합하여 사용자가 인터넷을 통해 거의 모든 곳에서 생산성을 향상할 수 있도록 &mdash; &mdash; 합니다.
-ms.openlocfilehash: 62f8c255d7e86f597140765b0ab0909ec45f3871
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 259f6823fd414230d3653051f94f8982661417c3
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173853"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653220"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 

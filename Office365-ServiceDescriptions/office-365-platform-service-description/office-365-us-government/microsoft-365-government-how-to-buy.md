@@ -2,18 +2,19 @@
 title: Microsoft 365 정부용 구입 방법
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 Microsoft 365 Government에 대한 개요를 소개하고 구매 옵션에 대해 설명합니다.
-ms.openlocfilehash: e3b859ce2b89af936fcd466e2285bb316942e187
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: b76e77cf4471c8e3ca36af38cec0368e380a6962
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173003"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653450"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government - 구입 방법
 
@@ -89,7 +90,7 @@ Microsoft 365 Government에서 사용할 수 있는 서비스에 대한 자세�
 
 - [Office 365 Government 서비스 설명](office-365-us-government.md)
 - [Enterprise Mobility + Security for US Government 서비스 설명](/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [미국 정부 고객을 위한 끝점용 Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [엔드포인트용 Microsoft Defender(미국 정부 고객용)](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [정부용 Teams - GCC 배포](/MicrosoftTeams/plan-for-government-gcc)
 - [정부용 Teams - GCC High 배포](/MicrosoftTeams/plan-for-government-gcc-high)
 - [정부용 Teams - DoD 배포](/MicrosoftTeams/plan-for-government-dod)
@@ -174,7 +175,7 @@ Microsoft 365 Government에 대한 자세한 내용은 다음 리소스를 참�
 
 - [Office 365 Government 서비스 설명](office-365-us-government.md)
 - [Enterprise Mobility + Security for US Government 서비스 설명](/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [미국 정부 고객을 위한 끝점용 Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [엔드포인트용 Microsoft Defender(미국 정부 고객용)](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [정부용 Teams - GCC 배포](/MicrosoftTeams/plan-for-government-gcc)
 - [정부용 Teams - GCC High 배포](/MicrosoftTeams/plan-for-government-gcc-high)
 - [정부용 Teams - DoD 배포](/MicrosoftTeams/plan-for-government-dod)

@@ -2,6 +2,7 @@
 title: 비즈니스용 Skype Online 서비스 설명
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 다른 Microsoft 365 및 Office 365 계획 내에서 사용할 수 있는 비즈니스용 Skype Online 기능을 참조하세요.
-ms.openlocfilehash: 86ccb740ec0b9ffc8e83c88636df98ebefaf9e2c
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 385bca5d7f8a3a138b4047a82e648b887de02821
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172663"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653580"
 ---
 # <a name="skype-for-business-online-service-description"></a>비즈니스용 Skype Online 서비스 설명
 

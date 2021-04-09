@@ -2,6 +2,7 @@
 title: 도메인
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: 도메인을 추가할 때 단계별 마법사를 사용하면 사용자를 추가하고 전자 메일 주소 및 기타 서비스를 비즈니스 이름으로 변환할 수 있습니다. 마법사를 완료하면 비즈니스 전자 메일이 현재 전자 메일 공급자로 전송되는 대신 Microsoft로 전송됩니다. 자세한 내용은 Microsoft에 사용자 및 도메인 추가를 참조합니다. 21Vianet에서 운영하는 Office 365를 사용하는 경우 도메인 확인을 참조하세요.
-ms.openlocfilehash: 57df3e7fb22e8a576099432b8cdc7c84a8462bad
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 72ea4e88d659d7a6004888c45bb233832978fd34
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172993"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652572"
 ---
 # <a name="domains"></a>도메인
 

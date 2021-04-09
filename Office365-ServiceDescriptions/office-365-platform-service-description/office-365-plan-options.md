@@ -2,6 +2,7 @@
 title: Microsoft 365 및 Office 365 요금제 옵션
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
-ms.openlocfilehash: 9ef5b54b96e9c75e76f3327b6b8f511a71818c97
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 1adcb5aaf9584889299e38943cc0355c0a82caed
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174023"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653490"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 및 Office 365 요금제 옵션
 
@@ -30,7 +31,7 @@ Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 잘 충족하�
 
 다음 표에는 Microsoft 365 및 Office 365에서 사용할 수 있는 다양한 서비스 패밀리 및 계획이 나열됩니다. 기능 및 가격 정보에 대한 간략한 개요를 확인하거나 온라인 담당자와 채팅하려면 계획 열의 링크를 선택합니다.<br><br>
   
-| Office 365 서비스 제품군 | 계획 |
+| Office 365 서비스 제품군 | 요금제 |
 |:-----|:-----|
 |**비즈니스(최대 300명)** <br/>     |[Microsoft 365 Business](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) Basic(이전의 Office 365 Business Essentials) <br/> [Microsoft 365 Business](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) Standard(이전의 Office 365 Business Premium) <br/> [Microsoft 365 Business](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-premium?activetab=pivot%3aoverviewtab) Premium(이전의 Microsoft 365 Business) <br/> [비즈니스용 Microsoft 365 앱(이전](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) Office 365 Business) <br/> |
 |**Enterprise(사용자 수 제한 없이)** <br/> |[Office 365 E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 F3](https://products.office.com/business/office-365-f1) <br/> [Microsoft 365 F1](https://www.microsoft.com/en-us/microsoft-365/enterprise/f1?activetab=pivot%3aoverviewtab) <br/> [Microsoft 365 F3(Office 365 F3 포함)](https://www.microsoft.com/en-us/microsoft-365/enterprise/f3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E3(Office 365 E3 포함)](https://www.microsoft.com/en-us/microsoft-365/enterprise/E3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E5(Office 365 E5 포함)](https://www.microsoft.com/en-us/microsoft-365/enterprise/E5?activetab=pivot:overviewtab) <br/> [엔터프라이즈용 Microsoft 365 앱(이전](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-apps-for-enterprise?rtc=1&activetab=pivot%3aoverviewtab) Office 365 ProPlus) <br/> |
@@ -109,7 +110,7 @@ Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 잘 충족하�
 
 독립 실행형 계획으로 단독 사용 가능한 온라인 서비스는 다음과 같습니다. 이러한 서비스는 Business 및 Enterprise 서비스 제품군 계획에 추가할 수도 있습니다(이미 포함되어 있지 않은 경우). 가격 정보를 보거나 온라인 담당자와 채팅하려면 다음 표에 나열된 계획을 선택합니다.<br><br>
   
-| 서비스 | 계획 |
+| 서비스 | 요금제 |
 |:-----|:-----|
 |Exchange Online  <br/> |[Exchange Online 계획 1](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online 계획 2](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) <br/> [Office 365용 Microsoft Defender](https://www.microsoft.com/microsoft-365/security/office-365-defender) <br/> [Exchange Online Archiving](https://products.office.com/exchange/microsoft-exchange-online-archiving-email) <br/> [Exchange Online Kiosk](https://products.office.com/business/office-365-f1) <br/> |
 |SharePoint Online  <br/> |[SharePoint Online 계획 1](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online 계획 2](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |

@@ -2,6 +2,7 @@
 title: 핵심 기능
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online에서는 다음과 같은 핵심 기능을 사용할 수 있습니다.
-ms.openlocfilehash: cdcb5354790f228e0f1601aab0f7d476c761442c
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: bb379be082439793fcfba0a24cc4728181537ed8
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172713"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652302"
 ---
 # <a name="core-functionality"></a>핵심 기능
 

@@ -2,6 +2,7 @@
 title: 보안 및 규정 준수를 위한 Microsoft 365 & 지침
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.reviewer: v-trscho
 audience: ITPro
 ms.topic: reference
@@ -11,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가되지 않은 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 Microsoft 365 규정 준수에 대한 라이선스 지침을 제공합니다.
-ms.openlocfilehash: 87eeaf51e18b74150416bdfc51bc6f97e94cd2db
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 755fc9701a270f7c1f5651643f01c5b1937bf5dc
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173402"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652662"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>보안 준수를 위한 Microsoft 365 라이선싱 &amp; 지침
 
@@ -197,7 +198,7 @@ E1 및 E3/G3 라이선스가 있는 고객은 기본 데이터 보호 기준 평
 
 준수 관리자는 테넌트에 대해 기본적으로 프로비전됩니다. 관리자는 조직의 관리자가 아닌 사용자가 준수 관리자 사용을 시작할 수 있도록 사용자 권한을 설정하고 역할을 할당합니다. 자세한 내용은 준수 관리자 시작: 사용자 권한 설정 및 역할 [할당을 참조하세요.](/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)
 
-## <a name="microsoft-defender-for-endpoint"></a>엔드포인트용 Microsoft Defender
+## <a name="microsoft-defender-for-endpoint"></a>끝점용 Microsoft Defender
 
 끝점용 Microsoft Defender(이전의 Microsoft Defender ATP)는 위험 기반 취약성 관리 및 평가를 포함하는 끝점 보안 솔루션입니다. 공격 표면 감소 기능 동작 기반 및 클라우드 기반 차세대 보호 끝점 검색 및 응답(EDR) 자동 조사 및 수정 및 관리되는 헌팅 서비스. 자세한 [내용은 끝점용 Microsoft Defender 페이지를](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 참조하세요.
 
@@ -438,7 +439,7 @@ Exchange Online 및 비즈니스용 Skype의 경우 고객 키를 사용하여 �
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-Customer Lockbox는 Microsoft의 어느 누구도 고객의 명시적 승인 없이도 고객 콘텐츠에 액세스하여 서비스 작업을 수행할 수 있도록 합니다. Customer Lockbox는 고객에게 콘텐츠에 액세스하기 위한 요청에 대한 승인 워크플로로 고객을 유치합니다. 경우에 따라 Microsoft 엔지니어가 지원 프로세스 중에 관련되어 고객이 보고한 문제를 해결합니다. 대부분의 경우 문제는 Microsoft가 서비스에 대해 준비한 광범위한 원격 분석 및 디버깅 도구를 통해 해결됩니다. 그러나 Microsoft 엔지니어가 고객 콘텐츠에 액세스하여 근본 원인을 파악하고 문제를 해결해야 하는 경우도 있을 수 있습니다. 고객 Lockbox를 사용하려면 엔지니어가 승인 워크플로의 최종 단계로 고객의 액세스를 요청해야 합니다. 이를 통해 조직은 Microsoft 엔지니어가 조직의 최종 사용자 데이터에 액세스할 수 있는지 여부를 직접 제어할 수 있도록 이러한 요청을 승인하거나 거부할 수 있습니다.
+Customer Lockbox는 Microsoft의 어느 누구도 고객의 명시적 승인 없이도 고객 콘텐츠에 액세스하여 서비스 작업을 수행할 수 있도록 합니다. Customer Lockbox는 고객에게 콘텐츠에 액세스하기 위한 요청에 대한 승인 워크플로로 고객을 유치합니다. 경우에 따라 Microsoft 엔지니어가 지원 프로세스 중에 관련되어 고객이 보고한 문제를 해결합니다. 대부분의 경우 문제는 Microsoft가 서비스에 대해 준비한 광범위한 원격 분석 및 디버깅 도구를 통해 해결됩니다. 그러나 Microsoft 엔지니어가 고객 콘텐츠에 액세스하여 근본 원인을 파악하고 문제를 해결해야 하는 경우도 있을 수 있습니다. 고객 Lockbox를 사용하려면 엔지니어가 승인 워크플로의 마지막 단계로 고객의 액세스를 요청해야 합니다. 이를 통해 조직은 Microsoft 엔지니어가 조직의 최종 사용자 데이터에 액세스할 수 있는지 여부를 직접 제어할 수 있도록 이러한 요청을 승인하거나 거부할 수 있습니다.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
@@ -554,7 +555,7 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, Microsoft 365 E5/A
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 사용이 허가된 테넌트의 사용자에게만 서비스를 적용할 수 있는 방법
 
-관리자는 보안 및 준수 센터에서 위치(작업), 포함된 사용자 및 제외된 사용자를 사용자 지정할 &amp; 수 있습니다. 예를 들어 모든 사용자에게 Office 365 E3 라이선스가 부여된 경우 Office 365 Advanced Compliance/E5에 대한 라이선스가 없는 경우 조직에 대한 정보 장벽 정책을 만들 필요가 없습니다. 자세한 내용은 [Microsoft Teams의 정보 장벽을 참조하세요.](/MicrosoftTeams/information-barriers-in-teams)
+관리자는 보안 및 준수 센터에서 위치(작업), 포함된 사용자 및 제외된 사용자를 사용자 지정할 &amp; 수 있습니다. 예를 들어 모든 사용자에게 Office 365 E3 라이선스가 부여된 경우 Office 365 Advanced Compliance/E5에 대한 라이선스가 없는 경우 조직에 대한 정보 장벽 정책을 만들 필요가 없습니다. 자세한 내용은 [Microsoft Teams의 정보 장벽](/MicrosoftTeams/information-barriers-in-teams)을 참조하세요.
 
 ## <a name="office-365-message-encryption"></a>Office 365 메시지 암호화
 

@@ -2,6 +2,7 @@
 title: 클라이언트 및 모바일 장치
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
 description: Exchange Online은 데스크톱 및 모바일 버전의 Outlook과 웹용 Outlook에서 작동합니다.
-ms.openlocfilehash: 4f72bb4f598a0c274b352163142f72b562fa2518
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 3aa0c2bbdf9b55b6a3544919143fd9d5e5cfed24
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173693"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653120"
 ---
 # <a name="clients-and-mobile-devices"></a>클라이언트 및 모바일 장치
 
@@ -67,7 +68,7 @@ Exchange Online에서는 전자 메일, 일정, 주소 기록표, 작업 목록 
 
 Exchange Online은 iOS, Android 및 Windows Phone에서 사용할 수 있는 Outlook 앱과 함께 작동합니다. 이러한 장치에서 앱 스토어를 사용하여 Outlook 앱을 검색합니다. 다음은 모바일 OS에 대한 분석입니다.<br><br>
   
-| 장치 | Android | iOS | Windows Phone |
+| 디바이스 | Android | iOS | Windows Phone |
 |:-----|:-----|:-----|:-----|
 |Outlook 모바일 앱 가용성  <br/> |예  <br/> [Android용 Outlook 다운로드](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |예  <br/> [iOS용 Outlook 사용](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |기본 제공  <br/> |
 |Exchange Online과 호환되는 기본 제공 전자 메일 앱  <br/> |Gmail 앱/Samsung 전자 메일 앱  <br/> |iOS 메일 앱  <br/> |Outlook 메일, 일정, 연락처  <br/> |

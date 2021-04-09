@@ -2,6 +2,7 @@
 title: Office 365 GCC
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 미국 정부를 대신하여 데이터를 보유하거나 처리하는 계약자뿐만 아니라 미국 연방, 주, 지방 및 자치 정부의 고유하고 진화된 요구 사항을 충족하기 위해 Microsoft는 Office 365 US GCC(Government Community) 서비스를 제공합니다. 볼륨 라이선스를 비롯한 여러 채널을 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재 평가판은 미국 정부 기관에만 제공됩니다.
-ms.openlocfilehash: 0c283631baa613e83619efff4423609ae8a3a59f
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: ec2ae92fb334acb56b94c35e5e0651396e959260
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173043"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653170"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 

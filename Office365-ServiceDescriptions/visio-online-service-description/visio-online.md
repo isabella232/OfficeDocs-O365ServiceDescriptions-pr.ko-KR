@@ -2,6 +2,7 @@
 title: 웹용 Visio
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: 웹용 Visio는 Microsoft Visio 환경을 브라우저로 확장하여 클라우드에 저장된 다이어그램을 만들고 편집할 수 있습니다. Microsoft 365 고객은 다이어그램을 보고 인쇄하고 공유할 수 있으며 이동 중 설명을 삽입할 수 있습니다.
-ms.openlocfilehash: 70e738a853a5550cf58a481c8cf1fca318539722
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 936b08c6b00532d85b6e0426ae11e29d45a78cda
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172493"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653640"
 ---
 # <a name="visio-for-the-web"></a>웹용 Visio
 

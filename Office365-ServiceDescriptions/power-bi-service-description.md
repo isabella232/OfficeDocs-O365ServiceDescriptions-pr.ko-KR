@@ -2,6 +2,7 @@
 title: Power BI 서비스 설명
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI는 더 빠른 속도, 효율성 및 이해를 통해 누구나 연결하고, 시각화하고, 데이터를 분석할 수 있는 클라우드 기반 비즈니스 분석 도구 모음입니다. 사용자를 사용하기 쉬운 대시보드를 통해 다양한 범위의 라이브 데이터와 연결하고, 대화형 보고서를 제공하며 데이터에 생동감을 주는 뛰어난 시각화를 전달합니다.
-ms.openlocfilehash: 5b676088256645db856a6bff70e11c6c2a256a82
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 1f66fd645c7075278c7f8c13e8694f5797f8550a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215877"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652312"
 ---
 # <a name="power-bi-service-description"></a>Power BI 서비스 설명
 

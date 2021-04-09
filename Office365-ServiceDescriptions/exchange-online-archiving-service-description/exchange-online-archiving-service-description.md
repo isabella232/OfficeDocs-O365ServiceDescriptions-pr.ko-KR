@@ -2,6 +2,7 @@
 title: Exchange Online Archiving 서비스 설명
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: 보관에 대한 자세한 내용은 이 Microsoft Exchange Online 읽어 보아야 합니다.
-ms.openlocfilehash: 374076fa79ca021d75ebd2375511579be5ae49dc
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 1dcd594017f4699bbccdd29c109269bc9dea7875
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215771"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653080"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 서비스 설명
 

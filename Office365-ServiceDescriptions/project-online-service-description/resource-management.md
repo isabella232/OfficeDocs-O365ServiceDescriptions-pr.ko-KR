@@ -2,23 +2,24 @@
 title: 자원 관리
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a16d95d3-61af-4481-9bd2-f20cd02275a9
-description: Project Online에서는 다음과 같은 리소스 관리 기능을 사용할 수 있습니다.
-ms.openlocfilehash: fdf0e282c6511e34b426f656b2d4512b90cc8ae9
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Project Online에서는 다음과 같은 자원 관리 기능을 사용할 수 있습니다.
+ms.openlocfilehash: 62b64e672dc9acb1e86415d47cad9c8ead053330
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131142"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651090"
 ---
 # <a name="resource-management"></a>자원 관리
 
-Project Online에서는 다음과 같은 리소스 관리 기능을 사용할 수 있습니다.
+Project Online에서는 다음과 같은 자원 관리 기능을 사용할 수 있습니다.
   
 ## <a name="approverejectmodify-incoming-resource-engagement-requests"></a>Approve/reject/modify incoming resource engagement requests
 

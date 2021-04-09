@@ -2,6 +2,7 @@
 title: 보고 기능 및 문제 해결 도구
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online EAC(Exchange 관리 센터)의 안과 밖으로 다양한 보고 기능을 제공합니다.
-ms.openlocfilehash: 45eab90643f2abcbed7a2a791845284aa599e044
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: fa80cd6c7d8e9e5f0527c478474cffe17e9204af
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173363"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652692"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>보고 기능 및 문제 해결 도구
 

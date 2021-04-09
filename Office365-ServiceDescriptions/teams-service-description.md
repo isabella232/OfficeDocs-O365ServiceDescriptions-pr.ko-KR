@@ -2,17 +2,18 @@
 title: Microsoft Teams 서비스 설명
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 365 및 Office 365 계획의 Microsoft Teams 서비스 및 기능 가용성에 대해 자세히 알아보습니다.
-ms.openlocfilehash: d745ba704d190415b480207880dde18400852c05
-ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
+ms.openlocfilehash: 5a57288f068d877ab7dd646be3444cba35957a01
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51484861"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653570"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -71,7 +72,7 @@ Office 365의 이 제품은 사용 중지된 Skype 모임 브로드캐스트를 
 
 Teams에 대한 자세한 내용은 다음 리소스를 참조하십시오.
  
-- [Microsoft Teams 관리자 설명서](/MicrosoftTeams)
+- [Microsoft Teams 관리 문서](/MicrosoftTeams)
 - [Microsoft Teams 기술 커뮤니티](https://techcommunity.microsoft.com/t5/microsoft-teams/ct-p/MicrosoftTeams)
 - [Microsoft Teams 블로그](https://aka.ms/TeamsBlog)
 

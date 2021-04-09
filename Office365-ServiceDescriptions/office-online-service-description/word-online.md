@@ -2,6 +2,7 @@
 title: 웹용 Word
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: 웹용 Word(이전의 Word Web App)는 Microsoft Word 환경을 웹 브라우저로 확장하여 문서가 저장된 웹 사이트에서 직접 문서로 작업할 수 있습니다.
-ms.openlocfilehash: 50d1e7ceeff9e6b117e127a0d62b208e9b1b325c
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 31be8622ae5c3b072eea0a660bc75afc962315e5
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174153"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652332"
 ---
 # <a name="word-for-the-web"></a>웹용 Word
 

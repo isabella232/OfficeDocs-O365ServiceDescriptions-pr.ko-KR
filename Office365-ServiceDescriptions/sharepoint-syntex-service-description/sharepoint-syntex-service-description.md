@@ -2,17 +2,18 @@
 title: SharePoint Syntex 서비스 설명
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 365의 SharePoint Syntex는 고급 인공 지능(AI) 및 기계 교육을 사용하여 사람의 전문 지식을 강화하고, 콘텐츠 처리를 자동화하고, 콘텐츠를 지식으로 변환합니다.
-ms.openlocfilehash: 76da52c2a7021ca0bc48272f8983401da39b4136
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 5606fec3e825fbb09d2a19a686bec5df61754b46
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174093"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653400"
 ---
 # <a name="sharepoint-syntex-service-description"></a>SharePoint Syntex 서비스 설명 
 

@@ -2,6 +2,7 @@
 title: 비즈니스용 Skype Online 기능
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 관리자인 경우 비즈니스용 Skype Online 설정에서 비즈니스용 Skype Online 기능 설정에 대한 자세한 지침을 찾을 수 있습니다.
-ms.openlocfilehash: 079a4c24ee2abcb9af96cac0cd3336d3110eaa52
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: aa460f5338a74c65cc90212b91bcbd1ae2f8f947
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172673"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651023"
 ---
 # <a name="skype-for-business-online-features"></a>비즈니스용 Skype Online 기능
 
@@ -120,7 +121,7 @@ Microsoft는 모든 비즈니스용 Skype Online 데이터 센터를 직접 제�
   
 ## <a name="calling-plans"></a>통화 플랜
 
-비즈니스용 Skype에는 PSTN(Public Switched Telephone Network)에 있는 통화 기능이 포함되어 있습니다. 통화 플랜은 전화 시스템을 통해 [](#phone-system-in-office-365) 조직의 사용자에게 전화 번호를 검색, 취득 및 할당할 수 있는 추가 기능으로, Office 365에서 직접 조직 내부 및 외부의 사용자와 전화를 걸고 받을 수 있습니다. 전화 번호가 할당된 사용자는 VoIP 전화, PC 및 모바일 장치를 비롯한 모든 비즈니스용 Skype 장치에서 음성 통화를 할 수 있습니다. 또한 음소거/음소거 해제, 대기/다시 시작, 통화 전송 및 착신 전환 기능을 통해 통화를 제어할 수 있으며 필요한 경우 응급 통화를 할 수 있습니다. 
+비즈니스용 Skype에는 PSTN(Public Switched Telephone Network)에 있는 통화 기능이 포함되어 있습니다. 통화 플랜은 전화 시스템을 통해 [](#phone-system) 조직의 사용자에게 전화 번호를 검색, 취득 및 할당할 수 있는 추가 기능으로, Office 365에서 직접 조직 내부 및 외부의 사용자와 전화를 걸고 받을 수 있습니다. 전화 번호가 할당된 사용자는 VoIP 전화, PC 및 모바일 장치를 비롯한 모든 비즈니스용 Skype 장치에서 음성 통화를 할 수 있습니다. 또한 음소거/음소거 해제, 대기/다시 시작, 통화 전송 및 착신 전환 기능을 통해 통화를 제어할 수 있으며 필요한 경우 응급 통화를 할 수 있습니다. 
   
 사용 가능한 통화 플랜에 대한 자세한 내용은 [Office 365용 통화 플랜으로 이동하세요.](https://products.office.com/skype-for-business/pstn-calling-plans) 자세한 내용은 어떤 통화 플랜이 [적합한가요?를 참조하세요.](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   

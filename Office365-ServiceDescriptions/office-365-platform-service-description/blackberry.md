@@ -2,6 +2,7 @@
 title: BlackBerry
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,17 +12,17 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: BlackBerry® 스마트폰에서 Office 365의 전자 메일과 문서에 액세스할 수 있습니다.
-ms.openlocfilehash: df7c477a64da2d2460f869f8a45e5a9697b41a0d
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 4c76e00364351b601a7566446b040ac5bd461535
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132365"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653390"
 ---
 # <a name="blackberry"></a>BlackBerry
 
 > [!NOTE]
-> 21Vianet에서 운영 하는 Office 365을 사용 하는 경우 Microsoft Exchange ActiveSync 장치를 사용 하거나, 이동 시에는 (테두리, BlackBerry 무선 전자 메일 솔루션) BES (Blackberry Enterprise Server)를 실행할 수 있습니다. 
+> 21Vianet에서 운영하는 Office 365를 사용하는 경우 MICROSOFT Exchange ActiveSync 장치 또는 RIM(Research in Motion, BlackBerry 무선 전자 메일 솔루션)의 제품을 사용하여 BES(Blackberry Enterprise Server)를 실행할 수 있습니다. 
   
 BlackBerry® 스마트폰에서 Office 365의 전자 메일과 문서에 액세스할 수 있습니다.
   
@@ -29,13 +30,13 @@ BlackBerry® 스마트폰에서 Office 365의 전자 메일과 문서에 액세�
 
 BlackBerry 10 스마트폰에서 Microsoft Exchange ActiveSync를 사용하여 Exchange Online에 직접 연결할 수 있습니다.
   
-자세한 내용은 [BlackBerry에서 전자 메일 설정을](https://go.microsoft.com/fwlink/?linkid=863394)참조 하십시오.
+자세한 내용은 [Set up email on a BlackBerry을 참조하세요.](https://go.microsoft.com/fwlink/?linkid=863394)
   
 ## <a name="blackberry-7-and-earlier-smartphones-with-microsoft-exchange-online"></a>Microsoft Exchange Online을 지원하는 BlackBerry® 7 이하 버전의 스마트폰
 
-BlackBerry® 인터넷 서비스 (BIS)를 사용 하 여 BlackBerry 7 및 이전 스마트폰를 Exchange Online에 연결할 수 있습니다. BIS를 통해 BlackBerry 사용자는 IMAP 또는 POP를 통해 인터넷을 통해 전자 메일 계정에 액세스할 수 있습니다.
+BLACKBerry® 인터넷 서비스(BIS)를 사용하여 BlackBerry 7 이전 버전의 스마트폰을 Exchange Online에 연결할 수 있습니다. BIS를 사용하면 BlackBerry 사용자가 IMAP 또는 POP를 통해 인터넷을 통해 전자 메일 계정에 액세스할 수 있습니다.
   
-대부분의 모바일 운영자에 게는 BIS 설정이 있습니다. 최종 사용자는 다음 기술 자료 문서의 지침을 사용 하 여 전자 메일, 일정 및 연락처 동기화를 구성 해야 합니다.
+대부분의 통신사에는 BIS가 설정되어 있습니다. 최종 사용자는 다음 기술 자료 문서의 지침을 사용하여 전자 메일, 일정 및 연락처 동기화를 구성해야 합니다.
   
 - [KB31310 - BlackBerry 인터넷 서비스 및 Microsoft Office 365 서비스](https://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
     
@@ -44,13 +45,13 @@ BlackBerry® 인터넷 서비스 (BIS)를 사용 하 여 BlackBerry 7 및 이전
 - [KB22430 - BlackBerry 인터넷 서비스와의 무선 연락처 동기화를 사용하거나 사용하지 않도록 설정하는 방법](https://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
     
 > [!NOTE]
-> IMAP 또는 POP 연결을 사용 하 여 계정에 연결 하는 사용자는 무선 연결을 통해서만 전자 메일을 동기화 할 수 있습니다. BIS 사용자가 유선 연결을 사용 하 여 BlackBerry 스마트폰 및 해당 계정 간에 연락처 및 일정을 동기화 하는 방법에 대 한 자세한 내용은 BlackBerry 지원에 문의 하세요. 
+> IMAP 또는 POP 연결을 사용하여 계정에 연결하는 사용자는 무선 연결을 사용하여만 전자 메일을 동기화할 수 있습니다. BIS 사용자가 유선 연결을 사용하여 BlackBerry 스마트폰과 계정 간에 연락처와 일정을 동기화하는 방법에 대한 자세한 내용은 BlackBerry 지원에 문의하세요. 
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>SharePoint Online을 지원하는 BlackBerry 스마트폰
 
-Microsoft SharePoint Online 액세스 시 BlackBerry 사용자는 BlackBerry 스마트폰의 기본 브라우저를 사용하여 SharePoint Online 사이트에 액세스할 수 있습니다. BlackBerry 사용자는 모바일 브라우저에서 웹 렌더링을 위해 Office를 사용 하 여 Word, Excel 및 PowerPoint 문서를 볼 수 있습니다.
+Microsoft SharePoint Online 액세스 시 BlackBerry 사용자는 BlackBerry 스마트폰의 기본 브라우저를 사용하여 SharePoint Online 사이트에 액세스할 수 있습니다. BlackBerry 사용자는 모바일 브라우저에서 웹 렌더링을 위해 Office를 사용하여 Word, Excel 및 PowerPoint 문서를 볼 수 있습니다.
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획 간의 기능 가용성을 확인 하려면 [Microsoft 365 및 Office 365 platform service description](office-365-platform-service-description.md)을 참조 하세요.
+Office 365 계획에서 기능 가용성을 확인하면 [Microsoft 365 및 Office 365 플랫폼 서비스 설명을 참조하세요.](office-365-platform-service-description.md)
   

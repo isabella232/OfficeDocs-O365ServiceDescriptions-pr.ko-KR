@@ -2,6 +2,7 @@
 title: Microsoft 365 Business Premium 서비스 설명
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium은 동급 최고의 생산성과 고급 보안 및 장치 관리 기능을 통합한 통합 솔루션으로, 비즈니스를 보호합니다. 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명합니다.
-ms.openlocfilehash: bbd797a777ca6126ad74be3386ca0897fc882e6f
-ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
+ms.openlocfilehash: 2822f93ce488c180b1cdb0bf6fefefb061138f5b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51484821"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652672"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 Business Premium 서비스 설명
 
@@ -100,7 +101,7 @@ Microsoft 365 Business Premium에는 기본적으로 Microsoft 365 Business Stan
 |랜섬웨어와 같은 위협으로부터 폴더 보호 <br/> |예  <br/> |
 |Bitlocker를 통해 PC의 파일 및 폴더를 무단 액세스로부터 보호 <br/> |예  <br/> |
 
-### <a name="notes"></a>참고 사항
+### <a name="notes"></a>참고
 <sup>1</sup> Exchange Online 계획 1이 포함됩니다.<br/>
 <sup>2</sup> AIP(Azure Information Protection)를 사용하면 지원되는 IRM(정보 권한 관리) 기능을 사용할 수 있습니다. AIP 계획 1은 Microsoft 365 Business Premium에 포함되어 있습니다. <br/>
 <sup>3</sup> Microsoft 365 Business Premium에는 구독이 Exchange Online Archiving 포함됩니다. 각 Exchange Online Archiving 구독자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Microsoft 365 무제한 보관 개요](/office365/securitycompliance/unlimited-archiving)를 참조하세요. <br/>

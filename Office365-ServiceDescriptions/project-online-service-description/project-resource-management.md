@@ -2,6 +2,7 @@
 title: 프로젝트 자원 관리
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,19 +11,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
-description: Project Online에서는 다음과 같은 리소스 관리 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 47f415ca77410d5a8420c6a4fabc9274743a516d
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Project Online에서는 다음과 같은 자원 관리 기능을 사용할 수 있습니다.
+ms.openlocfilehash: e78321691bae498db92dda3c76343f17a3e0ea1f
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131112"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651208"
 ---
 # <a name="project-resource-management"></a>프로젝트 자원 관리
 
-Project Online에서는 다음과 같은 리소스 관리 기능을 사용할 수 있습니다.
+Project Online에서는 다음과 같은 자원 관리 기능을 사용할 수 있습니다.
   
-모든 Project Online 기능에 대한 정보를 원하십니까? [Project Online 서비스 설명을](project-online-service-description.md)참조 하세요.
+모든 Project Online 기능에 대한 정보를 원하십니까? Project [Online 서비스 설명을 참조하세요.](project-online-service-description.md)
   
 ## <a name="cost-resources"></a>비용 자원
 
@@ -54,6 +55,6 @@ Project Online에서는 다음과 같은 리소스 관리 기능을 사용할 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Project Online service description](project-online-service-description.md)을 참조 하세요.
+계획, 독립 실행형 옵션 및 사내 솔루션에 대한 기능 가용성을 확인하면 Project Online 서비스 [설명을 참조하세요.](project-online-service-description.md)
   
 

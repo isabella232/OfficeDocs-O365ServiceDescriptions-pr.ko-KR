@@ -2,6 +2,7 @@
 title: Microsoft Project 서비스 설명
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: End User
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online은 PPM(프로젝트 포트폴리오 관리) 및 일상 업무를 위한 유연한 온라인 솔루션입니다. Office 365를 통해 제공된 Project Online은 거의 모든 디바이스의 거의 모든 곳에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획, 우선 순위 지정 및 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: e5b893190a0cdd0335962b3a7bd9109f9fd393cc
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 992da5d280066914e1744ec31cd8d1ca341a98dd
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215811"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652262"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 서비스 설명
 
@@ -190,7 +191,7 @@ Microsoft Project는 조직의 요구 사항을 가장 잘 충족하기 위해 �
 |사용자 관리 | 프로젝트, 팀 및 조직 수준에서 사용자 및 그룹 역할 및 사용 권한을 관리합니다. | 아니요 | 예 |
 |서비스 관리 | Office 365<sup>1</sup> 환경의 일부로 Microsoft Project 환경을 계획, 설치 및 구성, 유지 관리 및 확장합니다. | 아니요 | 예 |
 
-#### <a name="notes"></a>메모들
+#### <a name="notes"></a>참고
 
 <sup>1</sup> Office 또는 Microsoft 365 상업용 구독이 필요합니다.</br>
 <sup>2</sup> 별도로 구입한 Azure 보드.</br>
@@ -242,7 +243,7 @@ Microsoft Project는 조직의 요구 사항을 가장 잘 충족하기 위해 �
 |정렬 및 그룹화 | 사용자 지정 정렬 및 그룹을 사용하여 프로젝트, 작업 및 자원에 대한 포커스 보기를 얻을 수 있습니다.|
 |**사용자 지정 및 통합**||
 |사용자 지정 필드 | 프로젝트, 작업 및 자원 수준에서 사용자 정의 필드를 추가하여 조직 및 프로젝트에 중요한 데이터를 추적합니다. |
-|양식 | 사용자 지정 양식을 만들고 배포하여 중요한 프로젝트 데이터를 캡처합니다. |
+|Forms | 사용자 지정 양식을 만들고 배포하여 중요한 프로젝트 데이터를 캡처합니다. |
 |수식 | 여러 작업 및 프로젝트에서 수식을 사용하여 중요한 데이터를 계산하고 캡처합니다. |
 |템플릿 | 프로젝트 계획, 팀 및 배정을 비롯한 일반적인 프로젝트에 대한 서식 파일을 만듭니다. |
 |.mpp 가져오기/내보내기 | 기존 .mpp 파일에서 새 프로젝트를 만들거나 기존 프로젝트의 .mpp 파일을 만들 수 있습니다. |

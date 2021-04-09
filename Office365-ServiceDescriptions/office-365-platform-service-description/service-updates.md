@@ -2,6 +2,7 @@
 title: 서비스 업데이트
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 방금 출시되거나 출시될 예정인 Office 365 기능에 대해 확인한 다음 Microsoft 365 로드맵을 확인해 보아야 합니다.
-ms.openlocfilehash: 4bb9dadf3d0c233b847721eb28778fa07a7d8fa0
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: d15ed4485127bab5735aa9748cb2f5693ae272e3
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172803"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652422"
 ---
 # <a name="service-updates"></a>서비스 업데이트
 

@@ -2,6 +2,7 @@
 title: SharePoint 제한
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 및 독립 실행형 계획에 대한 SharePoint 제한에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 4b544803132d212dc3db01c6b0fbf18193f9fb3d
-ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
+ms.openlocfilehash: 08d0f2f69e1f1b096b2dcd2f66cf083fa239a52e
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51484781"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653410"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 

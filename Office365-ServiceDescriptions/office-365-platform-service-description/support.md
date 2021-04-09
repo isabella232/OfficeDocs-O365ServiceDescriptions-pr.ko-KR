@@ -2,6 +2,7 @@
 title: 지원
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: 모든 Microsoft Office, 비즈니스, 교육 및 정부 구독을 위한 365를 통해 Microsoft 지원은 글로벌 기술, 사전 판매, 대금 청구 및 구독 지원을 제공합니다. 지원은 Microsoft365 관리 센터를 통해 온라인으로, 유료 및 평가판 구독에 대해 전화로 제공됩니다. 자세한 내용은 Microsoft 지원 옵션을 참조하세요.
-ms.openlocfilehash: f2279db8689f30d6906f33d6c2531ddfb4223784
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: c43658f47d2dc2644228d3b4cb87396757137428
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172793"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652432"
 ---
 # <a name="support"></a>지원
 

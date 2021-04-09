@@ -2,6 +2,7 @@
 title: 받는 사람
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 이 항목에서는 Microsoft Exchange Online에 포함된 받는 사람 관련 기능에 대해 설명합니다. 설명에는 전자 메일, 연락처, 메일 그룹 및 달력/예약 기능이 포함됩니다.
-ms.openlocfilehash: 5ede65581fc1962a55e565c54509998b9e05b9d0
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 5771fd11a51ecfb8bff2b1be8a86dd3d87a51f81
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173563"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653310"
 ---
 # <a name="recipients"></a>받는 사람
 

@@ -2,6 +2,7 @@
 title: Yammer의 문서 공동 작업 기능
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: Yammer에서는 다음과 같은 문서 공동 작업 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 3eb187a72179c108516b86934388ff6460324191
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 69864fe18e83dd84f20869d2b454c7fc07d73e50
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132092"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653540"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Yammer의 문서 공동 작업 기능
 
@@ -34,13 +35,13 @@ Yammer에서는 다음과 같은 문서 공동 작업 기능을 사용할 수 �
 
 ## <a name="files"></a>파일
 
-팀 간에 Microsoft Office 문서, Pdf, 이미지 및 동영상을 공유 하 고 바로 의견을 받습니다. 새 버전을 업로드 하 여 모든 사용자가 최신 초안을 확인 하 고 언제 든 지 이전 버전에 액세스할 수 있도록 합니다.
+팀 Microsoft Office 문서, PC, 이미지 및 비디오를 공유하고 바로 피드백을 받을 수 있습니다. 항상 모든 사용자가 최신 초안을 보고 이전 버전에 액세스하도록 새 버전을 업로드합니다.
   
 ## <a name="official-content"></a>공식 콘텐츠
 
-파일을 공식 및 읽기 전용으로 표시 합니다. 공식 콘텐츠는 쉽게 액세스할 수 있도록 검색 결과 및 콘텐츠 디렉터리에서 더 위쪽에 표시 됩니다.
+파일을 공식 및 읽기 전용으로 표시 공식 콘텐츠는 쉽게 액세스할 수 있도록 검색 결과 및 콘텐츠디렉터에서 더 높게 표시됩니다.
 
 ## <a name="recent-changes"></a>최근 변경 내용
 
-**최근 변경 내용** 창에서 각 협력자 별로 문서에 대해 수행한 모든 편집 내용을 한눈에 확인 합니다. 언제든지 이전 버전으로 되돌릴 수 있습니다.
+최근 변경 내용 창에서 각 공동 작업자가 문서에 적용한 모든 편집 내용을 한눈에 **볼** 수 있습니다. 언제든지 이전 버전으로 되돌릴 수 있습니다.
   

@@ -2,6 +2,7 @@
 title: 파트너
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: 공인 Microsoft 파트너로서 Microsoft Office 365는 고객층을 확대하고 고객과의 지속적인 관계를 형성하기 위한 기회를 제공합니다. 월 단위 또는 연 단위로 비용을 지불하는 고객은 데이터 백업, 서버 하드웨어 및 서버 업데이트를 관리할 필요가 없는 클라우드 기반 서비스를 사용할 수 있습니다. 사용할 수 있는 서비스는 제공하도록 권한이 부여된 서비스 유형에 따라 다릅니다.
-ms.openlocfilehash: e9de8e6b3aadc5c1dcc7ef9d3949439336220f32
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: adb7e7d8587ffa6ffc6e0e6d39023bae554b095a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131692"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653430"
 ---
 # <a name="partners"></a>파트너
 
@@ -40,7 +41,7 @@ ms.locfileid: "45131692"
   
 고객의 계정을 관리할 수 있으려면 위임된 관리자로서 승인을 받아야 합니다. 고객 승인을 받으려면 위임된 관리를 위한 제안을 고객에게 보냅니다. 이때 평가판 초대나 구매 제안을 포함할 수 있습니다. 고객이 파트너의 초대 전자 메일에 응답하면 위임된 관리 파트너로 승인하는 것입니다.
   
-각 고객은 위임 된 관리 파트너를 하나만 가질 수 있습니다. 이 파트너는 또한 고객의 POR(공식 파트너)이 될 수도 있으나 필수 사항은 아닙니다. POR 및 위임된 관리 파트너의 역할은 구분되며, 고객은 이들 파트너를 별도로 지정합니다. 이 체계에 따라 고객은 구매 제안을 위한 파트너와 구현 및 관리 서비스를 위한 파트너를 따로 선택할 수 있습니다. 또한 파트너는 전문성에 따라 이러한 역할 중 하나 또는 둘 모두에 대한 비즈니스 추진 여부를 선택할 수 있습니다.
+각 고객은 하나의 위임된 관리 파트너를 가지게 할 수 있습니다. 이 파트너는 또한 고객의 POR(공식 파트너)이 될 수도 있으나 필수 사항은 아닙니다. POR 및 위임된 관리 파트너의 역할은 구분되며, 고객은 이들 파트너를 별도로 지정합니다. 이 체계에 따라 고객은 구매 제안을 위한 파트너와 구현 및 관리 서비스를 위한 파트너를 따로 선택할 수 있습니다. 또한 파트너는 전문성에 따라 이러한 역할 중 하나 또는 둘 모두에 대한 비즈니스 추진 여부를 선택할 수 있습니다.
   
 고객은 파트너에게 자신을 대신하여 관리 작업을 수행하도록 승인했더라도 Microsoft 지원 센터에 직접 연락하여 서비스 요청을 제출할 수 있습니다.
   
@@ -52,5 +53,5 @@ Microsoft 파트너 네트워크는 파트너의 요구 사항을 처리하기 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Microsoft 365 및 Office 365 계획 간의 기능 가용성을 확인 하려면 [microsoft 365 및 office 365 platform service description](office-365-platform-service-description.md)을 참조 하세요.
+Microsoft 365 및 Office 365 계획에서 기능 가용성을 확인하면 [Microsoft 365 및 Office 365](office-365-platform-service-description.md)플랫폼 서비스 설명을 참조하세요.
   

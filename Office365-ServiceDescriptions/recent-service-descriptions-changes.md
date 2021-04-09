@@ -2,6 +2,7 @@
 title: 최근 서비스 설명 변경 사항
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: 다음 표에서는 최근에 서비스 설명 콘텐츠에 적용된 변경 내용을 나열합니다.
-ms.openlocfilehash: c4f8635af11b41bcd9e12e147d5fe04b394dbe12
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: cafd18087588922fa561cc432625dbcbd3e65d6d
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174113"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651043"
 ---
 # <a name="recent-service-descriptions-changes"></a>최근 서비스 설명 변경 사항
 

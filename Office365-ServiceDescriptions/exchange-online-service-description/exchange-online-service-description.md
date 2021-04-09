@@ -2,6 +2,7 @@
 title: Exchange Online 서비스 설명
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Exchange Online을 포함 하는 구독의 기능 비교를 찾고 있습니까? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: dc3dd3828e31bd6f3e146a63aafc750197f4b927
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 15e991d261fe81edcfb1abba4caf376e54b23fb9
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173663"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653360"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 

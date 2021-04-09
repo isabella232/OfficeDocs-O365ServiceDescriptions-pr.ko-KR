@@ -2,6 +2,7 @@
 title: 작업 관리
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: Project Online에서는 다음과 같은 작업 관리 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 803721cda7498c7acf876471ebc679bab5b5a577
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 7fbe93f48d02eb35ab3606d6252d106dedaa8cd6
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131072"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651063"
 ---
 # <a name="task-management"></a>작업 관리
 
 Project Online에서는 다음과 같은 작업 관리 기능을 사용할 수 있습니다.
   
-모든 Project Online 기능에 대한 정보를 원하십니까? [Project Online 서비스 설명을](project-online-service-description.md)참조 하세요.
+모든 Project Online 기능에 대한 정보를 원하십니까? Project [Online 서비스 설명을 참조하세요.](project-online-service-description.md)
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
@@ -66,5 +67,5 @@ Project Online에서는 다음과 같은 작업 관리 기능을 사용할 수 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Project Online service description](project-online-service-description.md)을 참조 하세요.
+계획, 독립 실행형 옵션 및 사내 솔루션에 대한 기능 가용성을 확인하면 Project Online 서비스 [설명을 참조하세요.](project-online-service-description.md)
   

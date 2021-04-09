@@ -2,6 +2,7 @@
 title: Office 365용 Microsoft Defender 서비스 설명
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365는 강력한 제로 데이 보호 기능을 제공하여 알 수 없는 맬웨어 및 바이러스로부터 조직을 보호하는 클라우드 기반 전자 메일 필터링 서비스로, 유해한 링크로부터 실시간으로 조직을 보호하는 기능을 포함합니다.
-ms.openlocfilehash: c736ac7c107c91c720737c569a3e41fe5bb0c98f
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 16d9b5ac54513493c0438009ff772df3073d0dd0
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173013"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653420"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Office 365용 Microsoft Defender 서비스 설명
 
@@ -133,7 +134,7 @@ Office 365용 Defender는 모든 SMTP 메일 전송 에이전트와 함께 사�
 
 안전한 [문서 기능은](/microsoft-365/security/office-365-security/safe-docs) [끝점용 Microsoft Defender를](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 사용하여 보호된 보기에서 연 문서 및 파일을 [검사합니다.](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
 
-시작하기 전에 알아야 할 내용
+시작하기 전에 알아야 할 사항은 무엇인가요?
 
 - 이제 Office 버전 2004(12730.x) 이상을 사용할 수 있는 안전한 문서를 일반적으로 사용할 수 있습니다. 이 기능은 기본적으로 해제되어 있으며 보안 관리자가 사용하도록 설정해야 합니다.
 

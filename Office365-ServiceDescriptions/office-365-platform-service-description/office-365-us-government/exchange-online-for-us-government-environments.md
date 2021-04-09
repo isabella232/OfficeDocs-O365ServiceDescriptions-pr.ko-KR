@@ -2,18 +2,19 @@
 title: 미국 정부 환경용 Exchange Online
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 Exchange Online 서비스 설명에 나열된 미국 정부 클라우드와 상업용 클라우드 간의 기능 차이에 대한 개요를 제공합니다.
-ms.openlocfilehash: 2ecef2aeaa9c216e715f1084be022c5c4d0cce32
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: cf1b995f8497ff2249504b195ecaf1b2f7c6f62c
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173973"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653290"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>미국 정부 환경용 Exchange Online
 

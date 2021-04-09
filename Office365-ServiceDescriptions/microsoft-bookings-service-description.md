@@ -2,17 +2,18 @@
 title: Microsoft Bookings 서비스 설명
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Bookings에서 사용할 수 있는 계획 옵션 및 기능에 대해 자세히 알아보십시오.
-ms.openlocfilehash: 6a1fea2506a59e87ad74dd520ec59bc4310ab595
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: f0382a575714d73a915b8ada2b832516326b5348
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173033"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653380"
 ---
 # <a name="microsoft-bookings-service-description"></a>Microsoft Bookings 서비스 설명
 

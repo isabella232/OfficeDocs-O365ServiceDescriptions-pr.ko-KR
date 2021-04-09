@@ -2,6 +2,7 @@
 title: 웹용 Office 서비스 설명
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: 웹용 Office(이전의 Office Web Apps)는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 열 수 있습니다. 웹용 Office를 사용하면 거의 모든 장치에서 인터넷에 연결하여 어디서나 Office 파일을 쉽게 작업하고 공유할 수 있습니다. Word, Excel, OneNote 또는 PowerPoint를 사용 하는 Microsoft 365 고객은 이동 중 파일을 보고 만들고 편집할 수 있습니다.
-ms.openlocfilehash: 199568d34f9d30d507ee9635b6f30b29f463baf4
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 224a5621b88761134e6ec85952fdcfd8129f122f
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726693"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652372"
 ---
 # <a name="office-for-the-web-service-description"></a>웹용 Office 서비스 설명
 

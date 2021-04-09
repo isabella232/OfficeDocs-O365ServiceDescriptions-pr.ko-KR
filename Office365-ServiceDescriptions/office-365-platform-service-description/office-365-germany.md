@@ -2,6 +2,7 @@
 title: Office 365 Germany
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany는 유럽에서 이미 사용 가능한 Office 365 서비스와는 다른 옵션입니다. 독일, 유럽 연합(EU) 및 EFTA(유럽 자유 무역 연합)에서 독일 데이터 센터의 데이터 상주와 독일 법률에 따라 제어되는 고유한 데이터 수탁자 모델을 통해 엄격한 데이터 액세스 및 제어 조치를 통해 업계 최고의 디지털 작업을 위한 생산성 서비스를 제공하여 가장 규제가 많은 고객의 요구를 충족하는 데 도움이 됩니다.
-ms.openlocfilehash: 00e2861130283c6917d307e6793beb9dfa09c058
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 9ef9b295840bcbf7f2a216dd07c16b44c955d74b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173863"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653500"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 

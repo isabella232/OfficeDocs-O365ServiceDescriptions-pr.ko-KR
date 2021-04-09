@@ -2,18 +2,19 @@
 title: Microsoft 365 규정 준수 - GCC High 계획
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 Microsoft 365 Government - GCC High를 사용하는 것이 이러한 요구 사항을 충족하는 데 적합한 미국 연방 정부 기관 또는 정부 규정 및 요구 사항을 준수하는 데이터를 처리하는 기타 엔터티에서 Office 365 배포를 진행하는 IT 프로를 위한 것입니다.
-ms.openlocfilehash: 14c92229fa5ec147ff995d0cebe991cfdce0de70
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 016b3596829337cffb2c5a14813c5927f010e432
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173083"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652612"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Microsoft 365 규정 준수 계획 - GCC High
 
@@ -101,7 +102,7 @@ Microsoft 365 Government - GCC High 환경은 클라우드 서비스에 대한 �
 |                                         | 레코드 관리: 규정 레코드                         | 백로그 엔지니어링 |
 |                                         | 레코드 관리: 다단계 분해 검토 | 백로그 엔지니어링 |
 |                                         | 레코드 관리: SharePoint Syntex 분류를 사용하여 레코드 레이블 적용 | 백로그 엔지니어링 |
-| **내부 위험 관리**             | 고객 Lockbox                                | 사용할 수 있음            |
+| **내부자 위험 관리**             | 고객 Lockbox                                | 사용할 수 있음            |
 |                                         | 내부자 위험 관리: Teams, SharePoint 사이트, 전자 메일 메시징에 대한 Office 표시기                         | 개발 중 |
 |                                         | 내부자 위험 관리: 떠날 사용자의 데이터 도용                        | 개발 중 |
 |                                         | 내부자 위험 관리: 일반 데이터 누수                                | 개발 중              |

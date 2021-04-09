@@ -2,6 +2,7 @@
 title: 프로젝트 계획
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: Project Online에서는 다음과 같은 프로젝트 계획 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 8016984662d42935249e024550296b68479756c2
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e4bc924484bbebf48f5308c2ed406b65f6fc9887
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131102"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651053"
 ---
 # <a name="project-planning"></a>프로젝트 계획
 
 Project Online에서는 다음과 같은 프로젝트 계획 기능을 사용할 수 있습니다.
   
-모든 Project Online 기능에 대한 정보를 원하십니까? [Project Online 서비스 설명을](project-online-service-description.md)참조 하세요.
+모든 Project Online 기능에 대한 정보를 원하십니까? Project [Online 서비스 설명을 참조하세요.](project-online-service-description.md)
   
 ## <a name="baseline-rollup"></a>초기 계획 롤업
 
@@ -54,7 +55,7 @@ Project Online에서는 다음과 같은 프로젝트 계획 기능을 사용할
   
 ## <a name="reports"></a>보고서
 
-Project 2016에서는 데이터를 다른 프로그램으로 내보낼 필요 없이 산뜻하고 화려한 색감의 전문적인 보고서를 만들 수 있습니다. &mdash;이해 관계자 및 팀 구성원과 프로젝트 상태 정보를 명확 하 고 효율적으로 공유 하기 위해 필요한 모든 정보를 그림, 차트, 애니메이션, 링크 등으로 추가 합니다. 자세한 내용은 [프로젝트 보고서 만들기](https://go.microsoft.com/fwlink/p/?LinkId=271349)를 참조하세요.
+Project 2016에서는 데이터를 다른 프로그램으로 내보낼 필요 없이 산뜻하고 화려한 색감의 전문적인 보고서를 만들 수 있습니다. 그림, 차트, 애니메이션, 링크 및 관련자 및 팀 구성원과 프로젝트 상태 정보를 명확하고 효과적으로 공유하는 데 필요한 모든 것을 &mdash; 추가합니다. 자세한 내용은 [프로젝트 보고서 만들기](https://go.microsoft.com/fwlink/p/?LinkId=271349)를 참조하세요.
   
 ## <a name="team-planner"></a>팀 플래너
 
@@ -62,5 +63,5 @@ Project 2016에서는 데이터를 다른 프로그램으로 내보낼 필요 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및 온-프레미스 솔루션 별로 기능 가용성을 확인 하려면 [Project Online service description](project-online-service-description.md)을 참조 하세요.
+계획, 독립 실행형 옵션 및 사내 솔루션에 대한 기능 가용성을 확인하면 Project Online 서비스 [설명을 참조하세요.](project-online-service-description.md)
   

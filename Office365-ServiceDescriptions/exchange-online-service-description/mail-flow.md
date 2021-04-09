@@ -2,6 +2,7 @@
 title: 메일 흐름
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 대부분의 조직에서는 사서함을 호스트하고 메일 흐름을 관리합니다. 가장 간단한 구성으로, Microsoft가 모든 사서함 및 필터링을 관리합니다. 그러나 일부 조직에는 특정 규정 또는 비즈니스적 필요성을 따르는지 확인하기 위하여 좀 더 복잡한 메일 흐름 설정이 필요합니다. 이러한 옵션은 여기에서 확인할 수 있습니다.
-ms.openlocfilehash: cc00cd942f3b5b6ad5e919b981879ca44c48cec9
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 0fe7cf2f0e8619bce911457ba634bee41ee4e113
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173653"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653330"
 ---
 # <a name="mail-flow"></a>메일 흐름
 
