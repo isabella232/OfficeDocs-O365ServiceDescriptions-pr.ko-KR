@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문의 고유하고 진화하는 요구 사항에 부응하여 Microsoft는 Office 365 Government 요금제(또는 Office 365 Government)를 만들었다. 이 문서에서는 Office 365 Government US 환경과 관련한 기능에 대한 개요를 제공합니다.
-ms.openlocfilehash: c16d4d48788ae4e1fa579f3aa030a1f45bfc2f4a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 9ba94e64ab8c4be1c3fc7987cb01230b833819f4
+ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653160"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767488"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -255,7 +255,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**트러스트**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |**[개인 정보, 보안 및 투명성](../../office-365-platform-service-description/privacy-security-and-transparency.md)**|||||
 |고급 데이터 거버넌스|<sup>아니요 12</sup>|<sup>아니요 12</sup>|예|<sup>아니요 12</sup>|
-|클라우드 앱 보안|<sup>12, 15, 19 없음</sup>|<sup>12, 15, 19 없음</sup>|예<sup>15, 19</sup>|<sup>12, 15, 19 없음</sup>|
+|클라우드 앱 보안|<sup>12, 19 없음</sup>|<sup>12, 19 없음</sup>|예<sup>19</sup>|<sup>12, 19 없음</sup>|
 |Office 365용 Microsoft Defender|<sup>12, 18 없음</sup>|<sup>12, 18 없음</sup>|예<sup>18</sup>|<sup>12, 18 없음</sup>|
 |고객 Lockbox|<sup>아니요 12</sup>|<sup>아니요 12</sup>|예|<sup>아니요 12</sup>|
 |Advanced eDiscovery|<sup>아니요 12</sup>|<sup>아니요 12</sup>|예|<sup>아니요 12</sup>|

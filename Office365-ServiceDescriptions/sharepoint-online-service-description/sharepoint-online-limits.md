@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 및 독립 실행형 계획에 대한 SharePoint 제한에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 08d0f2f69e1f1b096b2dcd2f66cf083fa239a52e
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: e48ce75a9656ca173ef74ddb32df619509629e27
+ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653410"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767478"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -77,7 +77,7 @@ Microsoft 365용 SharePoint의 서비스 제한에 대해 자세히 알아보습
 
 ### <a name="managed-metadata"></a>관리되는 메타데이터
 
-용어 저장소의 용어 200,000개, 전역 용어 집합 1,000개, 그룹 1,000개
+총 용어 수가 1백만 개로, 용어 레이블이 총 200만 개와 용어 속성이 1백만 개 있습니다(이러한 제한은 사이트 수준 용어의 전역 & 수임). 전역 용어 집합 1,000개와 전역 그룹 1,000개
 
 ### <a name="overall-site-metadata"></a>전체 사이트 메타데이터
 

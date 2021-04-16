@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 365 및 Office 365 계획의 Microsoft Teams 서비스 및 기능 가용성에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 5a57288f068d877ab7dd646be3444cba35957a01
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 8828199a8af848dcd2bf6945b111e0fd082c7a95
+ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653570"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767458"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -22,6 +22,8 @@ Microsoft Teams는 Microsoft 365의 팀워크를 위한 허브입니다. Teams �
 비즈니스용 Skype Online은 2019년 7월 30일 발표된 2021년 7월 31에 사용 중지됩니다. [](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) Microsoft Teams는 Azure 및 Microsoft의 기타 서비스 혁신을 활용하여 클라우드를 위해 구축된 완전히 새로운 서비스입니다. Microsoft Teams는 Microsoft 365 그룹, Microsoft Graph를 사용하여 Office 365의 나머지와 동일한 엔터프라이즈 수준의 보안, 규정 준수 및 관리 기능을 제공합니다. Teams는 Azure AD(Azure Active Directory)에 저장된 ID를 활용합니다. 이러한 서비스는 Microsoft 데이터 센터에서 제공될 수 있으며 회사 네트워크 내부 또는 인터넷을 통해 광범위한 디바이스의 사용자가 액세스할 수 있습니다. 자세한 내용은 Microsoft Teams IT 아키텍처 및 전화 [통신 솔루션 포스터 를 참조하세요.](/microsoftteams/teams-architecture-solutions-posters)
 
 이 서비스 설명에서는 다양한 클라우드 설치에서 제공되는 서비스 간의 주요 차이점을 자세히 설명합니다. Microsoft Teams 핵심 기능은 구독마다 다르지 않습니다. 규정 준수 기능의 가용성은 구독 수준에 따라 달라집니다. Teams 보안 및 규정 준수에 대한 자세한 내용은 [Microsoft Teams의 보안 및 규정 준수를 참조합니다.](/microsoftteams/security-compliance-overview)
+
+사용자가 완전히 온라인으로 마이그레이션된 경우 비즈니스용 Skype Online이 사용되지 않는 경우에도 전체 Teams 기능을 사용하려면 팀과 비즈니스용 Skype Online 라이선스가 모두 있어야 합니다.
 
 ## <a name="available-plans"></a>사용 가능한 계획
 
