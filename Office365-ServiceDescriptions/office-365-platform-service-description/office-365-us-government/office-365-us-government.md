@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 미국 공공 부문의 고유하고 진화하는 요구 사항에 부응하여 Microsoft는 Office 365 Government 요금제(또는 Office 365 Government)를 만들었다. 이 문서에서는 Office 365 Government US 환경과 관련한 기능에 대한 개요를 제공합니다.
-ms.openlocfilehash: 9ba94e64ab8c4be1c3fc7987cb01230b833819f4
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: d72294f222850b5b3d2705302f578d9a67f6075d
+ms.sourcegitcommit: c64da86e181eb61e622c2f29e1ab994b5de6894a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767488"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51857828"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -401,11 +401,11 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |[**Microsoft OneNote는**](../../office-applications-service-description/office-applications.md#microsoft-onenote) 현재 사용할 수 없는 다음 기능을  제외하고 정부 클라우드에서 완전히 사용할 수 있습니다.|**GCC**|**GCC 높음**|**DOD**|
 |리서치 도구|아니요|아니요|아니요|
 |지능형 디지털 Ink|아니요|아니요|아니요|
-|[**Microsoft Outlook은**](../../office-applications-service-description/office-applications.md#microsoft-outlook) 현재 사용할 수 없는 다음 기능을  제외하고 정부 클라우드에서 완전히 사용할 수 있습니다.|**GCC**|**GCC 높음**|**DOD**|
+|[**아래 표에**](../../office-applications-service-description/office-applications.md#microsoft-outlook) 표시된 일부 정부 클라우드에서는 사용할 수 없는 다음 기능을 제외하고는 정부 클라우드에서 Microsoft Outlook을 완전히 사용할 수 있습니다.|**GCC**|**GCC 높음**|**DOD**|
 |Office 소리(일부)|아니요|아니요|아니요|
 |DDE(동적 데이터 교환)는 기본적으로 사용하지 않도록 설정됩니다.|아니요|아니요|아니요|
-|받아쓰기|아니요<sup>1</sup>|아니요<sup>1</sup>|아니요<sup>1</sup>|
-|[**Microsoft PowerPoint는**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) 현재 사용할 수 없는 다음 기능을  제외하고 정부 클라우드에서 완전히 사용할 수 있습니다.|**GCC**|**GCC 높음**|**DOD**|
+|받아쓰기|예|예|아니요<sup>1</sup>|
+|[**Microsoft PowerPoint는**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) 아래 표에 표시된 일부 정부 클라우드에서는 사용할 수 없는 다음 기능을 제외하고 정부 클라우드에서 완전히 사용할 수 있습니다.|**GCC**|**GCC 높음**|**DOD**|
 |스마트 조회|아니요|아니요|아니요|
 |Office 소리(일부)|아니요|아니요|아니요|
 |3D 모델 및 3D 포함 애니메이션|아니요|아니요|아니요|
@@ -418,7 +418,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |버전 기록|아니요|아니요|아니요|
 |Office 365 그룹|아니요|아니요|아니요|
 |실시간 공동 작업(현재 상태, 정기 공동 작성, 문서 내 채팅)|아니요|아니요|아니요|
-|받아쓰기|아니요<sup>1</sup>|아니요<sup>1</sup>|아니요<sup>1</sup>|
+|받아쓰기|예|예|아니요<sup>1</sup>|
 |슬라이드 다시 사용|아니요|아니요|아니요|
 |**정부 클라우드의 Microsoft Whiteboard는** 현재 데스크톱이 아닌 허브 클라이언트에서만 사용할 수 있습니다.|**GCC**<sup>2</sup>|**GCC High**<sup>2</sup>|**DOD**<sup>2</sup>|
 |스티커 메모, 텍스트 및 이미지 삽입|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|
@@ -431,7 +431,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |실시간 현재 상태|아니요|아니요|아니요|
 |콘텐츠에 대한 반응|아니요|아니요|아니요|
 |사용자와 공유하는 화이트보드의 보드 갤러리|아니요|아니요|아니요|
-|[**Microsoft Word는**](../../office-applications-service-description/office-applications.md#microsoft-word) 현재 사용할 수 없는 다음 기능을  제외하고 정부 클라우드에서 완전히 사용할 수 있습니다.|**GCC**|**GCC 높음**|**DOD**|
+|[**아래 표에**](../../office-applications-service-description/office-applications.md#microsoft-word) 표시된 일부 정부 클라우드에서는 사용할 수 없는 다음 기능을 제외하고는 정부 클라우드에서 Microsoft Word를 완전히 사용할 수 있습니다.|**GCC**|**GCC 높음**|**DOD**|
 |스마트 조회|아니요|아니요|아니요|
 |리서치 도구|아니요|아니요|아니요|
 |Office 소리|아니요|아니요|아니요|
@@ -447,7 +447,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |버전 기록|아니요|아니요|아니요|
 |Office 365 그룹|아니요|아니요|아니요|
 |공동 작성자와 상황적 채팅: 문서 내에서 공동 작성자와 채팅|아니요|아니요|아니요|
-|받아쓰기|아니요<sup>1</sup>|아니요<sup>1</sup>|아니요<sup>1</sup>|
+|받아쓰기|예|예|아니요<sup>1</sup>|
 
 GCC/GCC High/DoD 내의 Microsoft Teams에 대한 기능 가용성은 Microsoft Teams 서비스 [설명을 참조하세요.](../../teams-service-description.md)
 > <sup>1</sup> 예정된 가용성.
