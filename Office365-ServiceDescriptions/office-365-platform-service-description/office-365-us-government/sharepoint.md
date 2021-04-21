@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 미국 정부 클라우드 고객의 SharePoint 기능 가용성에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 8688c80ee2214ad77f4c27fa79dd38dca3c6cbb9
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: cec996804ab0d402d2bcccd89b8bbfb5e7f70905
+ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653150"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900778"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>미국 정부 환경용 SharePoint
 
@@ -75,6 +75,7 @@ FastTrack 마이그레이션에 대한 자세한 내용은 [Office 365 US Govern
 - GCC High용 SharePoint Online의 그래프 기능은 현재 사용하지 않도록 설정되어 있습니다. Microsoft Graph에 의존하는 모든 서비스를 현재 사용할 수 없는 경우
 - 스톡 이미지 탭과 같은 인터넷 서비스에 대한 연결을 사용 하는 기능이 예상대로 작동하지 않습니다.
 - 파일 및 사이트 활동에 대한 알림을 사용할 수 없습니다.
+- 뉴스 웹 파트는 현재 사이트에서 뉴스만 끌어오게 됩니다. GCC High 및 DoD 고객은 연결된 사이트의 허브 뉴스 롤업 또는 선택한 사이트의 뉴스 롤업을 사용할 수 없습니다.
 
 ## <a name="search-features"></a>검색 기능
 

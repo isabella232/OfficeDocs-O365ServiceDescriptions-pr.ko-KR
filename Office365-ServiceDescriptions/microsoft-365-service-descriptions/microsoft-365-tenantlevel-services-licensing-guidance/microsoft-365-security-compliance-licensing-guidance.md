@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가되지 않은 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 Microsoft 365 규정 준수에 대한 라이선스 지침을 제공합니다.
-ms.openlocfilehash: 755fc9701a270f7c1f5651643f01c5b1937bf5dc
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ed78acd8cf94b03b36fbc42b13526ac78a759d0d
+ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652662"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900768"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>보안 준수를 위한 Microsoft 365 라이선싱 &amp; 지침
 
@@ -26,7 +26,7 @@ ms.locfileid: "51652662"
 > [!NOTE]
 > 일부 테넌트 서비스는 현재 특정 사용자로 혜택을 제한할 수 없습니다. 사용이 허가된 사용자에 대한 서비스 혜택을 제한하기 위해 노력해야 합니다. 이렇게 하면 대상 지정 기능을 사용할 수 있는 경우 조직에 대한 잠재적인 서비스 중단을 방지할 수 있습니다.
 
-2020년 4월 1일부로 Microsoft 365 규정 준수 기능을 사용할 수 있도록 사용자에게 라이선스를 허가하는 옵션을 확인하려면 자세한 Microsoft 365 규정 준수 라이선싱 비교를 다운로드하세요. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102403)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102427)
+Microsoft 365 규정 준수 기능을 사용할 수 있도록 사용자에게 라이선스를 설정하는 옵션을 확인하려면 자세한 Microsoft 365 규정 준수 라이선싱 비교를 다운로드하세요. [(PDF)](https://www.microsoft.com/download/details.aspx?id=103010)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=103006)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory ID 보호
 
@@ -198,7 +198,7 @@ E1 및 E3/G3 라이선스가 있는 고객은 기본 데이터 보호 기준 평
 
 준수 관리자는 테넌트에 대해 기본적으로 프로비전됩니다. 관리자는 조직의 관리자가 아닌 사용자가 준수 관리자 사용을 시작할 수 있도록 사용자 권한을 설정하고 역할을 할당합니다. 자세한 내용은 준수 관리자 시작: 사용자 권한 설정 및 역할 [할당을 참조하세요.](/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)
 
-## <a name="microsoft-defender-for-endpoint"></a>끝점용 Microsoft Defender
+## <a name="microsoft-defender-for-endpoint"></a>엔드포인트용 Microsoft Defender
 
 끝점용 Microsoft Defender(이전의 Microsoft Defender ATP)는 위험 기반 취약성 관리 및 평가를 포함하는 끝점 보안 솔루션입니다. 공격 표면 감소 기능 동작 기반 및 클라우드 기반 차세대 보호 끝점 검색 및 응답(EDR) 자동 조사 및 수정 및 관리되는 헌팅 서비스. 자세한 [내용은 끝점용 Microsoft Defender 페이지를](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 참조하세요.
 
@@ -218,7 +218,7 @@ SecOps 분석가 및 보안 전문가는 끝점용 Microsoft Defender의 끝점 
 
 끝점용 Microsoft Defender 관리자는 RBAC(역할 기반 액세스 제어)를 사용하여 보안 운영 팀 내에서 역할 및 그룹을 만들어 Microsoft Defender 보안 센터에 적절한 액세스 권한을 부여할 수 있습니다. 자세한 내용은 역할 기반 액세스 제어를 사용하여 포털 액세스 [관리를 참조하세요.](/windows/security/threat-protection/microsoft-defender-atp/rbac)
 
-## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Microsoft 365 데이터 분류 분석: 콘텐츠 &amp; 활동 탐색기 개요  
+## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Microsoft 365 데이터 분류 분석: 콘텐츠 &amp; 활동 탐색기 개요
 
 데이터 분류 분석 기능은 Microsoft 365 규정 준수 센터 환경 내에서 사용할 수 있습니다. 개요는 디지털 콘텐츠의 위치와 가장 일반적인 중요한 정보 유형 및 레이블이 있는 위치를 보여줍니다. 콘텐츠 탐색기를 사용하면 중요한 데이터의 양과 유형을 볼 수 있으며 사용자가 레이블 또는 민감도 유형별로 필터링하여 중요한 데이터가 저장된 위치를 자세히 볼 수 있습니다. 활동 탐색기에는 콘텐츠를 위험에 노출할 수 있는 레이블 다운그레드 또는 외부 공유와 같은 중요한 데이터 및 레이블과 관련된 활동이 표시됩니다.
 

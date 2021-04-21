@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
-ms.openlocfilehash: 1adcb5aaf9584889299e38943cc0355c0a82caed
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 0d8d155e451ba2ef912b8ca0d265b175d01ecc64
+ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653490"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900758"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 및 Office 365 요금제 옵션
 
@@ -52,7 +52,6 @@ Microsoft 365 및 Office 365는 조직의 요구 사항을 가장 잘 충족하�
 |Office 365 플랫폼  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange Online  <br/> |아니요  <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>6</sup> <br/> |예<sup>6</sup> <br/> |예<sup>8</sup> <br/> |<sup>아니요 16</sup> <br/> |
 |SharePoint Online  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>17</sup> <br/> |
-|SharePoint Syntex  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <br/> |
 |OneDrive  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>4</sup> <br/> |예<sup>4</sup> <br/> |
 |비즈니스용 Skype Online <sup>14</sup> <br/> |아니요  <br/> |예<sup>9</sup> <br/> |예<sup>9</sup> <br/> |예<sup>9</sup> <br/> |예<sup>9</sup> <br/> |예<sup>10</sup> <br/> |예<sup>12</sup> <br/> |예<sup>13</sup> <br/> |예<sup>13</sup> <br/> |
 |웹용 Office  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요<sup>18</sup> <br/> |
