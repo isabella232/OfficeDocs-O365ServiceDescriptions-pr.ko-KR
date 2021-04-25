@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 21Vianet에서 운영하는 Office 365는 중국의 안전하고 안정적이며 확장 가능한 클라우드 서비스에 대한 요구를 충족하도록 디자인됩니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: d08e68877caa6281a050c39a67755f626919cb67
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: be29bc918e8db388e51d44e39dab88018706bbda
+ms.sourcegitcommit: 1bdc4b442c34cfd291872760d5b7a01b207cd716
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653210"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52001794"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -67,7 +67,7 @@ Microsoft 365 규정 준수 센터는 조직의 규정 준수 요구를 관리�
 
 - DLP(데이터 손실 방지)
 - 보존
-- 감사
+- Azure Active Directory 및 Exchange의 데이터를 사용하여 감사
 - AIP 통합 레이블 클라이언트를 사용하는 Office 클라이언트 및 Outlook의 MIP(Microsoft Information Protection) 및 민감도 레이블
 
 > [!NOTE]
