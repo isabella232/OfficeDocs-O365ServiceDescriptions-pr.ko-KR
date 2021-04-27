@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열된 기능은 많은 장치와 여러 Office 365 서비스에서 안전하게 공동 작업하고 통신하는 데 도움이 되는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: f304c2ae023296bad80080034cda88589c23d803
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 21506d9eb46ced4a5d55300374a872cff28fd0e0
+ms.sourcegitcommit: 683fe4d94cf244651c5716c3fb760b3190843a94
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653180"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "52023573"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 제품군 기능
 
@@ -111,6 +111,18 @@ Microsoft To Do를 사용하여 고객은 다음을 할 수 있습니다.
 * 동료, 친구 및 가족과 목록을 공유하고 작업을 할당합니다.
 
 자세한 내용은 [다음을 참조합니다.](https://to-do.microsoft.com/)
+
+## <a name="windows-update-for-business-deployment"></a>비즈니스용 Windows 업데이트 배포  
+
+비즈니스용 Windows 업데이트 배포 서비스는 Windows 업데이트에서 제공하는 콘텐츠의 승인, 계획 및 보호를 제어할 수 있습니다. 개별 업데이트에 대한 풍부한 제어를 제공하기 위해 기존 비즈니스용 Windows 업데이트 정책과 함께 작동하도록 디자인되었습니다. 배포 서비스에서 제공하는 기능은 다음과 같습니다.
+
+* 특정 날짜에 시작하도록 기능 업데이트 배포 예약
+* 풍부한 식을 사용하여 며칠 또는 몇 주에 대한 배포 단계 지정
+* 조직 전체에 보안 업데이트를 즉시 배포하기 위해 미리 구성된 비즈니스용 Windows 업데이트 정책 무시
+* 고유한 장치 인구에 맞게 조정된 배포를 통해 조직의 하드웨어 및 소프트웨어 적용 범위 확인
+* 디바이스에 대한 배포를 자동으로 식별하고 일시 중지합니다. 보호 조치의 영향을 줄 [수 있습니다.](/windows/deployment/update/safeguard-holds)
+
+이러한 기능은 Microsoft Graph API 및 Microsoft Endpoint Manager와의 통합을 통해 제공됩니다. 자세한 내용은 [비즈니스용 Windows 업데이트 배포 서비스 개요 를 참조하세요.](https://aka.ms/wufb/deployment-service)
 
 ## <a name="whiteboard"></a>Whiteboard
 
