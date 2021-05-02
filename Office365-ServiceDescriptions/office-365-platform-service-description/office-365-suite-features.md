@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열된 기능은 많은 장치와 여러 Office 365 서비스에서 안전하게 공동 작업하고 통신하는 데 도움이 되는 웹 기반 도구 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: 21506d9eb46ced4a5d55300374a872cff28fd0e0
-ms.sourcegitcommit: 683fe4d94cf244651c5716c3fb760b3190843a94
+ms.openlocfilehash: 99c744f92cc7c100f6889c927fc340512d9b40d8
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52023573"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074479"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 제품군 기능
 
@@ -112,7 +112,7 @@ Microsoft To Do를 사용하여 고객은 다음을 할 수 있습니다.
 
 자세한 내용은 [다음을 참조합니다.](https://to-do.microsoft.com/)
 
-## <a name="windows-update-for-business-deployment"></a>비즈니스용 Windows 업데이트 배포  
+## <a name="windows-update-for-business-deployment-service"></a>비즈니스용 Windows 업데이트 배포 서비스 
 
 비즈니스용 Windows 업데이트 배포 서비스는 Windows 업데이트에서 제공하는 콘텐츠의 승인, 계획 및 보호를 제어할 수 있습니다. 개별 업데이트에 대한 풍부한 제어를 제공하기 위해 기존 비즈니스용 Windows 업데이트 정책과 함께 작동하도록 디자인되었습니다. 배포 서비스에서 제공하는 기능은 다음과 같습니다.
 

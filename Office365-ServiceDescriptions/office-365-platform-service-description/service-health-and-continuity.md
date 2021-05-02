@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 관리자는 서비스 상태를 보고 유지 관리 일정을 확인할 수 있습니다. 서비스 상태 정보는 로그인하여 무료로 사용할 수 있습니다.
-ms.openlocfilehash: 6b4d854eebe4a3f07d1aac9dc3751dcaa6b62937
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ec8e03d31a300755ab741723b81651d6d6969b37
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652452"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074499"
 ---
 # <a name="service-health-and-continuity"></a>서비스 상태 및 연속성
 
@@ -43,6 +43,14 @@ Microsoft 관리자는 서비스 상태를 보고 유지 관리 일정을 확인
 ### <a name="recent-worldwide-uptimes"></a>최근 전 세계 업타임
 
 클라우드 서비스로 전환한다고 해서 진행상을 알 수 있는 능력이 잃어선 안 됩니다. Office 365에서는 작동하지 않습니다. 서비스 상태를 모니터링하고, 문제를 추적하고, 가용성에 대한 기록 보기를 사용할 수 있도록 운영에서 투명성을 목표로 합니다. 다음 표에는 최근 전 세계 사용 시간 데이터가 표시됩니다.
+
+**2021**
+
+| Q1 | Q2 | Q3 | Q4 |
+|:-----|:-----|:-----|:-----|
+| 99.97% <br/> | | | |
+
+<br>
 
 **2020**
 

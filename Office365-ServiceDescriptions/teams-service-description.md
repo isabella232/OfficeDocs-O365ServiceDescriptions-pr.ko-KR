@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 365 및 Office 365 계획의 Microsoft Teams 서비스 및 기능 가용성에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 8828199a8af848dcd2bf6945b111e0fd082c7a95
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: 721c4bd99fd8f81e471ea79e6725c2d6c53d1791
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767458"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074489"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -59,7 +59,7 @@ Microsoft 365 및 Office 365 계획의 Teams 기능 전체를 최신으로 전�
 <sup>1</sup> GCC-High 및 DOD의 Microsoft Teams는 개별 팀에서 2,500명 구성원을 지원합니다.<br/>
 <sup>2</sup> Microsoft Planner는 현재 비공개 채널에서 액세스할 수 없습니다.<br/>
 <sup>3</sup> Microsoft Teams 음성 및 오디오 회의가 GCCH 및 DoD에서 작동하도록 직접 라우팅을 구성해야 합니다.<br/>
-<sup>4</sup> 현재 이러한 클라우드에서는 타사 응용 프로그램 및 응용 프로그램 게시를 사용할 수 없습니다.<br/>
+<sup>4</sup> 현재 이러한 클라우드에서는 타사 응용 프로그램 및 응용 프로그램 게시를 사용할 수 없습니다. 커넥터는 GCCH 및 DOD에서 지원되지 않습니다.<br/>
 <sup>5</sup> 라이브 이벤트는 현재 GCC-High DOD에서 사용할 수 없습니다.<br/>
 
 ### <a name="cloud-voice-features"></a>클라우드 음성 기능
@@ -68,7 +68,7 @@ Microsoft 365 및 Office 365 계획의 Teams 기능 전체를 최신으로 전�
 
 ### <a name="live-events"></a>라이브 이벤트
 
-Office 365의 이 제품은 사용 중지된 Skype 모임 브로드캐스트를 대체합니다. 라이브 이벤트 기능은 Stream 서비스에서 자세히 설명한 라이선스 계획에 사용할 수 있습니다. 자세한 내용은 Microsoft Stream 라이선스 개요 [를 참조하세요.](/stream/license-overview) 라이브 이벤트 서비스는 Stream, Yammer 또는 Microsoft Teams를 통해 액세스할 수 있습니다. 라이브 이벤트 기능에 대한 자세한 내용은 Microsoft [365,](/stream/live-event-m365)Microsoft Teams 및 Microsoft Stream에서 Microsoft 365 Yammer 이벤트를 참조하세요.
+Office 365의 이 제품은 사용 중지된 Skype 모임 브로드캐스트를 대체합니다. 라이브 이벤트 기능은 Stream 서비스에서 자세히 설명한 라이선스 계획에 사용할 수 있습니다. 자세한 내용은 Microsoft Stream 라이선스 개요 [를 참조하세요.](/stream/license-overview) 라이브 이벤트 서비스는 Stream, Yammer 또는 Microsoft Teams를 통해 액세스할 수 있습니다. 라이브 이벤트 기능에 대한 자세한 내용은 Microsoft [365,](/stream/live-event-m365)Microsoft Teams 및 Microsoft Stream에서 Microsoft 365 Yammer 이벤트를 참조하세요. 라이선스 요구 사항을 포함하여 라이브 이벤트를 계획하는 데 대한 자세한 내용은 Microsoft Teams에서 라이브 이벤트 계획을 [참조하세요.](/microsoftteams/teams-live-events/plan-for-teams-live-events)
 
 ## <a name="learn-more"></a>자세히 알아보기
 
