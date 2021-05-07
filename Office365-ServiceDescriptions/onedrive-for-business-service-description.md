@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 어떤 계획에서 어떤 OneDrive 기능을 사용할 수 있는지 확인합니다.
-ms.openlocfilehash: e4c83a4a8310375940737957381c2cf5fca2c3fd
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: f6433dce28ab4f33bd072a40a1c83ad0decc9795
+ms.sourcegitcommit: 453d8175e2f05146bcf5d1f124a4c8eb1c2bf7c2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652322"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52264796"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 서비스 설명
 
@@ -50,6 +50,7 @@ OneDrive 동기화 앱 및 모바일 앱에 대한 요구 사항을 검토하려
 - 비즈니스용 Microsoft 365 앱
 - Microsoft 365 Business Standard
 - 엔터프라이즈용 Microsoft 365 앱
+- Office 365 A1
 - Office 365 Enterprise E1
 - Office 365 Government G1
 - Microsoft 365 Business Basic(비영리)
@@ -65,7 +66,6 @@ OneDrive 동기화 앱 및 모바일 앱에 대한 요구 사항을 검토하려
 
 - Office 365 Enterprise E3
 - Office 365 Enterprise E5
-- Office 365 A1
 - Office 365 A3
 - Office 365 A5
 - Office 365 US Government G3
@@ -98,7 +98,7 @@ OneDrive 동기화 앱 및 모바일 앱에 대한 요구 사항을 검토하려
 
 OneDrive 저장소는 사용자별로 프로비저닝되며, 개별 사용자의 요구를 해결하도록 고안되었습니다.
   
-각 개인의 작업 파일 이외의 데이터(시스템 백업 및 부서/조직 수준 데이터 포함)를 저장하는 것은 지원되지 않으며, 사용자 기준 라이선스를 봇, 부서 또는 기타 인간이 아닌 엔터티에 할당하는 것도 지원되지 않습니다. SharePoint는 팀이나 조직 내의 파일, 커뮤니케이션 및 인트라넷 사이트 저장 및 관리를 포함하여 좀 더 높은 수준의 콘텐츠 관리 및 공동 작업을 위한 최상의 솔루션입니다.
+개별 사용자의 작업 파일 이외의 데이터(시스템 백업 및 부서/조직 수준 데이터 포함)를 저장하는 것은 지원되지 않으며, 사용자 기준 라이선스를 봇, 부서 또는 기타 인간이 아닌 엔터티에 할당하는 것도 지원되지 않습니다. SharePoint는 팀이나 조직 내의 파일, 커뮤니케이션 및 인트라넷 사이트 저장 및 관리를 포함하여 좀 더 높은 수준의 콘텐츠 관리 및 공동 작업을 위한 최상의 솔루션입니다.
   
 ## <a name="onedrive-limits"></a>OneDrive 제한 사항
 
