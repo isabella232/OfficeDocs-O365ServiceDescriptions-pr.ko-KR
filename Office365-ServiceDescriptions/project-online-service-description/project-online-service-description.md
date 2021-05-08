@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 프로젝트 포트폴리오 관리(프로젝트 포트폴리오 관리) 및 일상 업무를 PPM 유연한 온라인 솔루션입니다. Office 365 통해 Project Online 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획, 우선 순위 지정 및 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: cd38d462c714191576328f50e38b6fe7812cdbba
-ms.sourcegitcommit: a64ecf7fa2c27e8e8d2670ef6f10812dd2b0c2b1
+ms.openlocfilehash: 7758e35acee798463fba6168624c9b0d7e730f99
+ms.sourcegitcommit: 073ce0a092023eb4727274f22ceb8ca2b806df58
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52247976"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52266368"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 서비스 설명
 
@@ -122,6 +122,10 @@ Microsoft Project 조직의 요구 사항을 가장 잘 충족하기 위해 세 
 |보기 및 양식 <sup>사용자 지정 4</sup> | 첫 실행 응용 프로그램에서 보기 및 양식만 Project 사용자 지정합니다. | 보기만 | 예 | 예 | 예 |
 |사용자 지정 열 사용 | 테이블에 추가된 열의 데이터를 보거나 추가, 업데이트 또는 삭제합니다. | 보기만 | 보기만 | 예 | 예 |
 |사용자 지정 표 <sup>5 사용</sup> | 프로젝트, 포트폴리오 등에 필요한 추가 데이터를 저장하는 사용자 지정 테이블을 만들고 정의합니다. | 아니요 | 보기만 | 예 | 예 |
+|**Power Automate 워크플로 및 비즈니스 프로세스 흐름** <sup>7</sup> ||||||
+| | 사용자 지정 테이블 Power Automate 열을 포함하여 Project 클라우드 흐름을 정의하고 사용합니다. | 아니요 | 예 | 예 | 예 |
+| | 사용자 Power Automate 열을 포함하여 Project 데이터를 활용하는 비즈니스 프로세스 흐름을 정의합니다. | 아니요 | 아니요 | 예 | 예 |
+| | 데이터 Power Automate 활용하는 비즈니스 프로세스 Project 사용 | 아니요 | 예 | 예 | 예 |
 |**보안 및 사용자 관리**||||||
 |Office 최신 그룹 | 프로젝트 팀을 구성하여 팀 구성원이 공유할 리소스 모음을 쉽게 설정할 수 있습니다. | 예 | 예 | 예 | 예 |
 |**타사 앱**||||||
@@ -199,7 +203,14 @@ Microsoft Project 조직의 요구 사항을 가장 잘 충족하기 위해 세 
 <sup>4</sup> 웹 또는 Power Apps 데이터에 액세스하는 첫 실행 Project 응용 프로그램을 Project 응용 프로그램을 Project Online 별도의 Power Apps 구독해야 합니다.</br>
 <sup>5</sup> 사용자 지정 테이블 5개로 제한됩니다.</br>
 <sup>6</sup> Project Online 사용자에 대한 라이선스는 내부 사용자에 대한 정책과 동일한 정책을 따르게 됩니다. 사이트와 상호 작용을 Project Online 사용하려면 Project 플랜 3 Project 플랜 5 합니다.</br>
-<sup>7</sup> 비즈니스 프로세스를 웹 데이터에 대한 Power Automate Project 프로세스를 자동화하고 통합하려면 Power Automate 구독 및 Project 플랜 3 또는 Project 플랜 5 구독이 필요합니다.</br>
+<sup>7</sup> Power Automate 응용 Project 응용 프로그램의 컨텍스트로 Project 제한됩니다. 즉, 트리거와 작업 모두에 대해 다음과 같은 작업에 포함된 흐름 권리 Project.
+
+- 커넥트 응용 프로그램의 사용 권한 내에서 모든 데이터 원본에 Project 합니다.
+  - 표준 커넥터를 통해 사용할 수 있는 데이터 원본
+  - Project Microsoft Dataverse 커넥터를 통해 데이터 전송
+- 기본 제공 트리거/Project 응용 프로그램 내에서 직접 트리거
+
+흐름이 격리되어 있으며 앱 응용 프로그램과 아무 Project 없는 경우 플랫폼 라이선스를 구입해야 합니다.</br>
 <sup>8</sup> 사용자 또는 Project 플랜 3 Project 플랜 5 리소스 계약 요청을 제출할 수 있습니다. 리소스 계약 요청을 검토, 이행 또는 승인할 수 없습니다.</br>
 <sup>9</sup> 구독이 Project 플랜 5 리소스 계약 요청을 검토, 이행 및 승인할 수 있습니다.</br>
 <sup>10</sup> Active Directory를 사용하려면 별도의 구독이 필요합니다. </br>
