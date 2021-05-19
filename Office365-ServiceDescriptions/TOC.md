@@ -66,6 +66,7 @@
 ### [규정 준수 및 보안 기능](exchange-online-archiving-service-description/compliance-and-security-features.md)
 ## [Office 365용 Microsoft Defender 서비스 설명](office-365-advanced-threat-protection-service-description.md)
 ## [Microsoft Teams 서비스 설명](teams-service-description.md)
+### [Microsoft 365 Business Voice 설명](microsoft-365-business-voice-service-description.md)
 ## [OneDrive 서비스 설명](onedrive-for-business-service-description.md)
 ## [SharePoint 서비스 설명](sharepoint-online-service-description/sharepoint-online-service-description.md)
 ### [SharePoint 제한](sharepoint-online-service-description/sharepoint-online-limits.md)
@@ -103,7 +104,6 @@
 ### [Yammer의 관리 및 보안 기능](yammer-service-description/administration-and-security-features-in-yammer.md)
 ### [Yammer의 지원 기능](yammer-service-description/support-features-in-yammer.md)
 ## Microsoft 365 서비스 설명
-### [Microsoft 365 Business 음성 서비스 설명](microsoft-365-business-voice-service-description.md)
 ### [Microsoft 365 Business Premium 서비스 설명](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 ### [중소기업을 위한 Microsoft 365 라이선싱](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
