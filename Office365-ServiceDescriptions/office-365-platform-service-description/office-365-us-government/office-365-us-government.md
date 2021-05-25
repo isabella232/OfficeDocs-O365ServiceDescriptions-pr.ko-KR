@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 미국 공공 부문의 고유하고 진화하는 요구 사항에 대응하여 Office 365 미국 정부 플랜(또는 Office 365 Government)를 Office 365 Government. 이 문서에서는 미국 환경의 특정 기능에 Office 365 Government 제공합니다.
-ms.openlocfilehash: a1c5ed6e166ec3a893c716e5de18e9bc81a3865f
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 415c3c76c7362c12b2da7ec33c88db1a930be405
+ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545942"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625645"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -413,7 +413,9 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |3D 모델 및 3D 포함 애니메이션|아니요|아니요|아니요|
 |차트: maps|아니요|아니요|아니요|
 |지능형 디지털 Ink|아니요|아니요|아니요|
-|라이브 캡션 및 PowerPoint|아니요|아니요|아니요|
+|라이브 캡션 및 PowerPoint|예|예|아니요|
+|라이브 프레젠테이션|아니요|아니요|아니요|
+|몰입형 리더|아니요|아니요|아니요|
 |발표자 코치|아니요|아니요|아니요|
 |Shared with Me|아니요|아니요|아니요|
 |비즈니스용 Skype 통합|아니요|아니요|아니요|

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 어떤 계획에서 어떤 OneDrive 기능을 사용할 수 있는지 확인합니다.
-ms.openlocfilehash: f6433dce28ab4f33bd072a40a1c83ad0decc9795
-ms.sourcegitcommit: 453d8175e2f05146bcf5d1f124a4c8eb1c2bf7c2
+ms.openlocfilehash: 5668b79696d94c18d90cba41d3f3a68b8cbe392c
+ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52264796"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625625"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 서비스 설명
 
@@ -50,7 +50,6 @@ OneDrive 동기화 앱 및 모바일 앱에 대한 요구 사항을 검토하려
 - 비즈니스용 Microsoft 365 앱
 - Microsoft 365 Business Standard
 - 엔터프라이즈용 Microsoft 365 앱
-- Office 365 A1
 - Office 365 Enterprise E1
 - Office 365 Government G1
 - Microsoft 365 Business Basic(비영리)
@@ -66,6 +65,7 @@ OneDrive 동기화 앱 및 모바일 앱에 대한 요구 사항을 검토하려
 
 - Office 365 Enterprise E3
 - Office 365 Enterprise E5
+- Office 365 A1
 - Office 365 A3
 - Office 365 A5
 - Office 365 US Government G3
@@ -86,11 +86,11 @@ OneDrive 동기화 앱 및 모바일 앱에 대한 요구 사항을 검토하려
 > [!NOTE]
 > 기본 OneDrive 저장소 공간을 늘리려면 먼저 사용자에게 하나 이상의 라이선스를 할당해야 합니다. 
   
-개별 사용자에 대해 초기 5TB를 초과하는 저장소 공간이 필요한 경우, 관리자가 [Microsoft 기술 지원을 통해 사례 열어](/microsoft-365/admin/contact-support-for-business-products) 이를 요청할 수 있습니다. 추가 클라우드 저장소는 다음과 같이 부여됩니다. 
+초기의 5TB보다 큰 클라우드 저장소 용량이 필요할 경우, 관리자는 [Microsoft 기술 지원 서비스에서 사례를 열어](/microsoft-365/admin/contact-support-for-business-products) 요청할 수 있습니다. 추가 클라우드 저장소는 다음과 같이 부여됩니다. 
   
 - 사용자가 5TB의 OneDrive 저장소 용량을 90% 이상 채운 경우 Microsoft에서 OneDrive의 기본 저장소 공간을 사용자당 최대 25TB로 늘립니다(관리자는 원할 경우 사용자당 제한을 더 낮게 설정할 수 있음). 
     
-- 25TB OneDrive 저장소 용량의 90% 이상에 도달한 사용자에게는 25TB SharePoint 팀 사이트로 개별 사용자에게 추가 클라우드 저장소가 제공됩니다. 정보나 지원이 필요한 경우에는 Microsoft 기술 지원팀에 문의하세요.
+- 25TB OneDrive 저장소 용량의 90% 이상에 도달한 사용자에게는 25TB SharePoint 팀 사이트로 개별 사용자에게 추가 클라우드 저장소가 제공됩니다. 정보 및 지원은 Microsoft 기술 지원에 문의하세요.
     
 개별 사용자의 저장소 공간 및 사용 현황을 보려면 OneDrive 동기화 앱에서 [저장소 관리](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68)로 이동합니다. 조직의 사용자가 사용하는 저장소 용량을 보려면 Microsoft 365 관리 센터에서 [OneDrive 사용 현황 보고서](/office365/admin/activity-reports/onedrive-for-business-usage)로 이동합니다. 
    
@@ -135,13 +135,13 @@ IT 부서에서 분명하게 사용하지 않도록 설정한 경우가 아니�
 
 - [액세스 요청](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
 - ["모든 사용자" 링크](/Office365/Enterprise/best-practices-anonymous-sharing) (만료를 요구하도록 설정할 수 있음) 
-- [댓글의 @멘션](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows). 웹용 Office 365 또는 Office 365 데스크톱 앱을 포함하는 계획이 필요합니다.
+- [메모의 멘션에서](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows). 웹용 Office 365 또는 Office 365 데스크톱 앱이 포함된 플랜이 필요합니다.
 - [파일 요청](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - 기본 공유 링크 관리([ 조직 수준에서](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) 및 [사이트당](/sharepoint/change-default-sharing-link))
 - 외부 공유 관리([ 조직 수준에서](/sharepoint/turn-external-sharing-on-or-off) 및 [사이트당](/sharepoint/change-external-sharing-site) 또는 [OneDrive](/onedrive/user-external-sharing-settings))
 - [공유 항목에 대한 권한 관리](https://support.office.com/article/0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 - 채팅으로 전송된 파일에 대한 [Microsoft Teams 통합](/MicrosoftTeams/sharepoint-onedrive-interact). Office 365가 포함된 구독이 필요하며 사용자에게 팀 라이선스가 있어야 합니다.
-- [최신 첨부 파일](https://support.office.com/article/BDFAFEF5-792A-42B1-9A7B-84512D7DE7FC). 웹에서 Outlook 또는 Outlook 데스크톱 앱을 포함하는 계획이 필요합니다.
+- [최신 첨부](https://support.office.com/article/BDFAFEF5-792A-42B1-9A7B-84512D7DE7FC). 웹용 Outlook 또는 Outlook 데스크톱 앱을 포함하는 플랜이 필요합니다.
 - 조직 또는 사이트 수준에서 [도메인별 공유 제한](/sharepoint/restricted-domains-sharing)
 - [보고서 공유](/sharepoint/sharing-reports)
 - [확인 코드](/sharepoint/external-sharing-overview#what-happens-when-users-share)
