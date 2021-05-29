@@ -11,31 +11,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: 웹용 Office(이전의 Office Web Apps)는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 열 수 있습니다. 웹용 Office를 사용하면 거의 모든 장치에서 인터넷에 연결하여 어디서나 Office 파일을 쉽게 작업하고 공유할 수 있습니다. Word, Excel, OneNote 또는 PowerPoint를 사용 하는 Microsoft 365 고객은 이동 중 파일을 보고 만들고 편집할 수 있습니다.
-ms.openlocfilehash: 224a5621b88761134e6ec85952fdcfd8129f122f
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: 웹용 Office(Office Web Apps)는 웹 브라우저에서 Word, Excel, OneNote PowerPoint 열립니다. 웹용 Office 사용하면 거의 모든 장치에서 인터넷에 연결하여 어디서나 Office 파일을 보다 쉽게 작업하고 공유할 수 있습니다. Microsoft 365 Word, Excel, OneNote 또는 PowerPoint 사용하여 이동 중 파일을 보고 만들고 편집할 수 있습니다.
+ms.openlocfilehash: c4eaf4b2c482504ffa3e53f0177c1215b8c36da6
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652372"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699114"
 ---
 # <a name="office-for-the-web-service-description"></a>웹용 Office 서비스 설명
 
-웹용 Office(이전의 Office Web Apps)는 웹 브라우저에서 Word, Excel, OneNote 및 PowerPoint 문서를 열 수 있습니다. 웹용 Office를 사용하면 거의 모든 장치에서 인터넷에 연결하여 어디서나 Office 파일을 쉽게 작업하고 공유할 수 있습니다. Word, Excel, OneNote 또는 PowerPoint를 사용 하는 Microsoft 365 고객은 이동 중 파일을 보고 만들고 편집할 수 있습니다. 
+웹용 Office(Office Web Apps)는 웹 브라우저에서 Word, Excel, OneNote PowerPoint 열립니다. 웹용 Office 사용하면 거의 모든 장치에서 인터넷에 연결하여 어디서나 Office 파일을 보다 쉽게 작업하고 공유할 수 있습니다. Microsoft 365 Word, Excel, OneNote 또는 PowerPoint 사용하여 이동 중 파일을 보고 만들고 편집할 수 있습니다. 
   
 ## <a name="available-plans"></a>사용 가능한 계획
 
-사용자가 웹용 Office를 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
+사용자가 웹용 구독을 사용할 수 있도록 하는 Office 계획에 대한 자세한 내용은 전체 구독 비교 표를 [참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
-## <a name="feature-availability-across-office-for-the-web-plans"></a>웹 계획에 대한 Office의 기능 가용성
+## <a name="feature-availability-across-office-for-the-web-plans"></a>여러 계획 웹용 Office 기능 가용성
 
-조직에 가장 적합한 Office 솔루션을 확인하려면 도움이 필요하세요? 다음 표에서는 Office에서 웹 기능의 기능을 다양한 기능과 데스크톱 앱의 Microsoft Office 비교합니다. 표를 사용하여 웹용 Office에서 사용할 수 있는 기능을 검색한 다음 기능 이름을 선택하여 해당 기능의 작동 방식에 대한 간략한 설명을 읽습니다. 조직의 일부 사람들은 Excel 데스크톱 앱의 고급 차트 기능이 필요한 반면 다른 조직에서는 웹용 Office를 사용하여 Word 문서 및 PowerPoint 프레젠테이션을 보고 밝게 편집하기만 하면 됩니다. 
+조직에 가장 적합한 솔루션을 Office 도움이 필요하세요? 다음 표에서는 다양한 웹용 Office 기능과 데스크톱 앱의 다양한 기능을 Microsoft Office 비교합니다. 표를 사용하여 각 기능에서 사용할 수 있는 기능을 웹용 Office 기능 이름을 선택하여 해당 기능의 작동 방식에 대한 간략한 설명을 읽습니다. 조직의 일부 사람들은 Excel 데스크톱 앱의 고급 차트 기능이 필요한 반면 다른 조직에서는 Word 문서 및 프레젠테이션을 보고 PowerPoint 편집만 해야 웹용 Office. 
   
 > [!NOTE]
->  Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. 표에는 전체 목록이 Microsoft Office 않습니다. <br/>  엔터프라이즈용 Microsoft 365 앱은 최신 Office 데스크톱 제품군의 월별 구독 제품입니다. <br/>  Microsoft Office Online Server의 모든 고객은 Office 데스크톱 제품군 라이선스(예: Office Professional Plus, Office Standard 또는 엔터프라이즈용 Microsoft 365 앱 라이선스)를 구매한 경우 웹 편집용 Office 라이선스를 얻게 됩니다. 
+>  Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. 표에는 전체 목록이 Microsoft Office 않습니다. <br/>  Microsoft 엔터프라이즈용 Microsoft 365 앱 데스크톱 제품군의 월별 구독 Office 제품입니다. <br/>  Microsoft Office 온라인 서버 웹용 Office 데스크톱 제품군 라이선스(예: Office Professional Plus, Office Standard 또는 엔터프라이즈용 Microsoft 365 앱 라이선스)를 구매한 경우 Office 편집 라이선스를 얻게 됩니다. 
   
 > [!NOTE]
-> Office 문서를 Outlook 전자 메일 첨부 파일로 열거나 SharePoint 문서 라이브러리에서 열면 해당 문서가 웹용 Office에서 실행되어 읽기 전용이 됩니다. 웹용 Office에서 문서를 편집(편집 모드)하려면 Office 365 Enterprise E1과 같은 제품군 라이선스가 필요합니다. 데스크톱 앱에서 문서를 편집하려면 엔터프라이즈용 Microsoft 365 앱 구독 또는 설치된 버전의 Office Professional Plus 2010과 같은 Office 데스크톱 제품군 라이선스가 필요합니다. 
+> Office 전자 메일 첨부 파일 또는 SharePoint Outlook 라이브러리에서 Office 문서를 열면 문서가 웹용 Office 실행되어 읽기 전용이 됩니다. 편집 모드에서 웹용 Office 편집하려면 E1과 같은 제품군 라이선스가 Office 365 Enterprise 있습니다. 데스크톱 앱에서 문서를 편집하려면 Office 구독 또는 엔터프라이즈용 Microsoft 365 앱 버전의 Office Professional Plus 같은 데스크톱 제품군 라이선스가 필요합니다. 
   
 ### <a name="word"></a>Word
 
@@ -109,8 +109,8 @@ ms.locfileid: "51652372"
 |[확대/축소](word-online.md#zoom) <br/> |예  <br/> |예  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 뷰어에서 렌더링되지만 웹용 Office에서 만들거나 편집할 수는 없습니다. <br/>
-> <sup>2</sup> Office 추가 기능을 일부만 사용할 수 있습니다. <br/>
+> <sup>1</sup> 뷰어에서 렌더링되지만 뷰어에서 만들거나 편집할 수는 웹용 Office. <br/>
+> <sup>2</sup> 추가 기능을 사용할 Office 일부만 사용할 수 있습니다. <br/>
   
 ### <a name="excel"></a>Excel
 
@@ -137,7 +137,7 @@ ms.locfileid: "51652372"
 |[셀 끌어서 놓기](excel-online.md#drag-and-drop-cells) <br/> |예  <br/> |예  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |예  <br/> |예  <br/>|
 |[중복(복사) 워크시트](excel-online.md#duplicate-copy-worksheets) <br/> |예  <br/> |예  <br/>|
-|[웹 또는 블로그 페이지에 통합 문서 추가(OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |예  <br/> |아니요  <br/> |
+|[웹 또는 블로그 페이지에 통합 문서 OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |예  <br/> |아니요  <br/> |
 |[외부 참조](excel-online.md#external-references-links) <br/> |아니요<sup>4</sup> <br/> |예  <br/> |
 |[채우기 핸들](excel-online.md#fill-handle) <br/> |예  <br/> |예  <br/> |
 |[찾기](excel-online.md#find) <br/> |예  <br/> |예  <br/> |
@@ -167,7 +167,7 @@ ms.locfileid: "51652372"
 |[인쇄](excel-online.md#print) <br/> |예  <br/> |예  <br/> |
 |[실시간 공동 작성](excel-online.md#real-time-co-authoring) <br/> |예  <br/> |예  <br/> |
 |[서식 제어를 사용한 권장된 차트 만들기 및 편집](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |아니요  <br/> |예  <br/> |
-|[기본 데이터 연결 새로 고침](excel-online.md#refresh-existing-data-connections) <br/> |예  <br/> |예  <br/> |
+|Refresh existing data connections <br/> |아니요  <br/> |예  <br/> |
 |[중복 값 제거](excel-online.md#remove-duplicate-values) <br/> |예  <br/> |예  <br/> |
 |[시트 이름 바꾸기 및 추가](excel-online.md#rename-and-add-sheets) <br/> |예  <br/> |예  <br/> |
 |[통합 문서가 열려 있는 동안 파일 이름 바꾸기](excel-online.md#rename-file-while-workbook-is-open) <br/> |예  <br/> |아니요  <br/> |
@@ -191,9 +191,9 @@ ms.locfileid: "51652372"
 
 > [!NOTE] 
 > <sup>1</sup> 피벗Arts를 만들 수 없습니다. 보기 전용입니다.
- <br/><sup>2</sup> 환경의 구성 방식에 따라 웹용 Excel에 표시되는 통합 문서에 대해 일부 종류의 데이터 연결이 지원됩니다. 자세한 내용은 브라우저 창에서 통합 문서의 데이터 새로 고침을 참조하세요. 
- <br/><sup>3</sup> 웹용 Excel에서 VBA를 사용하여 매크로를 만들거나 실행할 수는 없지만 파일에 포함된 VBA를 제거하거나 손상하지 않고도 VBA 사용 스프레드시트를 열고 편집할 수 있습니다.
- <br/><sup>4</sup> 웹용 Excel에서 마지막으로 알려진 참조 값이 브라우저 창에 표시됩니다. 그러나 Excel 데스크톱 앱을 사용하여 업데이트해야 합니다. 
+ <br/><sup>2</sup> 환경의 구성 방식에 따라 일부 종류의 데이터 연결은 통합 문서에 표시되는 통합 문서에 대해 웹용 Excel. 자세한 내용은 브라우저 창에서 통합 문서의 데이터 새로 고침을 참조하세요. 
+ <br/><sup>3</sup> VBA를 사용하여 매크로를 만들거나 실행할 수는 웹용 Excel 파일에 포함된 VBA를 제거하거나 손상하지 않고도 VBA 사용 스프레드시트를 열고 편집할 수 있습니다.
+ <br/><sup>4</sup> 웹용 Excel 브라우저 창에 마지막으로 알려진 참조 값이 표시됩니다. 그러나 데스크톱 앱을 사용하여 업데이트해야 Excel 합니다. 
  <br/><sup>5</sup> 모두는 아니지만 일부 Office 추가 기능을 사용할 수 있습니다. 
   
 ### <a name="onenote"></a>OneNote
@@ -239,8 +239,8 @@ ms.locfileid: "51652372"
 |[이전 페이지 버전 보기](onenote-online.md#view-previous-page-versions) <br/> |예  <br/> |예  <br/> |
 
 > [!NOTE]
-> <sup>1</sup> 웹용 OneNote에서는 전자 필기장 내에서 섹션을 이동하고 한 섹션에서 다른 섹션으로 페이지를 복사하여 붙여넣을 수 있습니다. 
- <br/> <sup>2</sup> Office 추가 기능을 일부만 사용할 수 있습니다. 
+> <sup>1</sup> 웹용 OneNote 전자 필기장 내에서 섹션을 이동하고 한 섹션에서 다른 섹션으로 페이지를 복사하여 붙여넣을 수 있습니다. 
+ <br/> <sup>2</sup> 추가 기능을 사용할 Office 일부만 사용할 수 있습니다. 
  <br/><sup>3</sup> 페이지 또는 섹션에서 검색할 수 있지만 전체 전자 필기장이나 전자 필기장은 검색할 수 없습니다(데스크톱 버전에서와 같은 경우).
  <br/><sup>4</sup> 데스크톱 버전에는 "다운로드" 옵션이 없지만 다른 위치로 저장할 수 있습니다. 
   
@@ -293,13 +293,13 @@ ms.locfileid: "51652372"
 |[WYSIWYG 보기](powerpoint-online.md#wysiwyg-viewing) <br/> |예  <br/> |예  <br/> |
 
 > [!NOTE]
-><sup>1</sup> 웹용 PowerPoint에서는 8개의 전환 및 37개의 애니메이션 갤러리가 지원됩니다. 더 큰 선택을 원하거나 사용자 지정 애니메이션을 만들 수 있는 경우 PowerPoint 데스크톱 앱을 사용하세요. 
+><sup>1</sup> 웹용 PowerPoint 8개의 전환 및 37개의 애니메이션 갤러리를 지원합니다. 더 큰 선택을 하거나 사용자 지정 애니메이션을 만들 경우 데스크톱 PowerPoint 사용하세요. 
  <br/>
 <sup>2</sup> 작업하는 디바이스가 Ink를 지원해야 합니다. <br/> 
-<sup>3</sup> 일부 Office 추가 기능을 사용할 수 있지만 일부만 사용할 수 있습니다. <br/>
+<sup>3</sup> 추가 기능을 사용할 Office 일부만 사용할 수 있습니다. <br/>
 <sup>4</sup> 피벗차트 또는 피벗Tables는 만들 수 없지만 뷰어에서 볼 수 있습니다. 
   
-## <a name="supported-file-types-for-office-for-the-web"></a>웹용 Office에 대해 지원되는 파일 형식
+## <a name="supported-file-types-for-office-for-the-web"></a>지원되는 파일 웹용 Office
 
 | Word 2.0 이상에서 만들어진 Word 문서 | 보기 모드 | 편집 모드 |
 |:-----|:-----|:-----|
