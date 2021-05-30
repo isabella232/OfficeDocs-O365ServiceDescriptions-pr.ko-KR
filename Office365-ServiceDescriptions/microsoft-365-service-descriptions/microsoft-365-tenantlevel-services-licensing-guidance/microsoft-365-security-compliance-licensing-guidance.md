@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 허가되지 않은 액세스로 Microsoft 365 서비스 중단을 방지하는 데 도움이 되는 규정 준수를 위한 라이선스 지침을 제공합니다.
-ms.openlocfilehash: d4ddb9c492cccef13c86e450c64a2eb6efe61eaa
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: d1bbf0d60d78d12d0d48ce909dba72ef2478a0c0
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52546015"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699064"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 라이선스 &amp; 지침
 
@@ -26,7 +26,7 @@ ms.locfileid: "52546015"
 > [!NOTE]
 > 일부 테넌트 서비스는 현재 특정 사용자로 혜택을 제한할 수 없습니다. 사용이 허가된 사용자에 대한 서비스 혜택을 제한하기 위해 노력해야 합니다. 이렇게 하면 대상 지정 기능을 사용할 수 있는 경우 조직에 대한 잠재적인 서비스 중단을 방지할 수 있습니다.
 
-사용자 라이선스를 사용자에게 라이선스를 설정하여 규정 준수 기능을 Microsoft 365 옵션을 확인하려면 자세한 Microsoft 365 라이선스 비교를 다운로드하세요. [(PDF)](https://www.microsoft.com/download/details.aspx?id=103010)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=103006)
+사용자 라이선스를 사용자에게 라이선스를 설정하여 규정 준수 기능을 Microsoft 365 옵션을 확인하려면 Microsoft 365 [비교 표를 다운로드하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory ID 보호
 
@@ -267,7 +267,7 @@ Microsoft 365 E5/A5/G5/E3/A3/F1/F3/Business Premium, Enterprise Mobility + Secur
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, Microsoft 365 E5/A5/G5 정보 보호 및 거버넌스, Office 365 E5, Enterprise Mobility + Security E5/A5/G5 및 AIP 계획 2는 사용자가 자동 민감도 레이블 지정을 사용할 수 있는 권한을 제공합니다.
 
-라이선스별 특정 권한은 규정 준수 라이선싱 Microsoft 365 참조합니다. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) 학습 가능한 분류자)를 기반으로 한 자동 분류 Machine Learning 포함하지 않습니다.
+정보 보호에는 정보 보호 기능(교육 가능한 분류자)에 기반한 Machine Learning 권리가 포함되어 있지 않습니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 

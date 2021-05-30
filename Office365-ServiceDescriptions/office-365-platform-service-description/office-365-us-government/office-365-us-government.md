@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 미국 공공 부문의 고유하고 진화하는 요구 사항에 대응하여 Office 365 미국 정부 플랜(또는 Office 365 Government)를 Office 365 Government. 이 문서에서는 미국 환경의 특정 기능에 Office 365 Government 제공합니다.
-ms.openlocfilehash: 415c3c76c7362c12b2da7ec33c88db1a930be405
-ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
+ms.openlocfilehash: 1a69b6a2366a8855970775b6ca3af7b8f507a6d8
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625645"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699084"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -105,7 +105,7 @@ Office 365<sup>1에</sup>대한 FastTrack 센터 혜택을 사용하면 FastTrac
 
 FastTrack 센터 프로세스에 대한 특정 정보는 에서 찾을 수 [있습니다.](/FastTrack/us-gov-appendix-overview) 참여 역할 및 책임의 분석은 [FastTrack 책임](/FastTrack/us-gov-appendix-fasttrack-responsibilities) 및 [사용자 책임 을 검토하세요.](/FastTrack/us-gov-appendix-your-responsibilities)
 
-> <sup>1</sup> FastTrack 서비스를 받으기 위해 적합한 계획 [](/fasttrack/eligibility) 목록에서 라이선스를 50개 이상 구입해야 합니다.
+> <sup>1</sup> FastTrack 서비스를 받으기 위해 적합한 계획 [](/fasttrack/eligibility) 목록에서 라이선스를 150개 이상 구입해야 합니다.
 <br/><sup>2</sup> 500개 이상의 라이선스를 Office 365 테넌트에서 데이터 마이그레이션 서비스를 사용할 수 있습니다.
 
 ## <a name="data-migrations-performed-by-fasttrack"></a>FastTrack에서 수행한 데이터 마이그레이션
@@ -453,7 +453,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |공동 작성자와 상황적 채팅: 문서 내에서 공동 작성자와 채팅|아니요|아니요|아니요|
 |받아쓰기|예|예|아니요<sup>1</sup>|
 
-Microsoft Teams/GCC/DoD 내의 GCC GCC 가용성을 확인한 Microsoft Teams [서비스 설명을 참조하세요.](../../teams-service-description.md)
+Microsoft Teams/high/DoD 내에서 GCC/GCC 기능 사용 가능 여부는 Microsoft Teams [서비스 설명을 참조하세요.](../../teams-service-description.md)
 > <sup>1</sup> 예정된 가용성.
 <br/><sup>2</sup> 로컬 서비스에서 Surface Hub(로그인 안 함).
 <br/><sup>3</sup> 외부 공유는 GCC 있습니다. 조직에서 Microsoft [Forms를 끄거나](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) 설정하는 방법에 대해 자세히 알아보습니다. High 및 DOD 환경에서는 GCC 공유를 사용할 수 없습니다. 조직 내의 사용자는 양식을 작성하고 응답을 전송하고, [](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)양식을 서식 파일로 복제 및 [공유하고,](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)양식에서 공동 [](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)작성 또는 공동 작업하고, 양식 결과에 액세스합니다.
