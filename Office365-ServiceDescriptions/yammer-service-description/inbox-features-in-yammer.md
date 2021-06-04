@@ -19,20 +19,20 @@ ms.contentlocale: ko-KR
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653530"
 ---
-# <a name="inbox-features-in-yammer"></a><span data-ttu-id="68671-103">Yammer의 받은 편지함 기능</span><span class="sxs-lookup"><span data-stu-id="68671-103">Inbox features in Yammer</span></span>
+# <a name="inbox-features-in-yammer"></a><span data-ttu-id="31caf-103">Yammer의 받은 편지함 기능</span><span class="sxs-lookup"><span data-stu-id="31caf-103">Inbox features in Yammer</span></span>
 
-<span data-ttu-id="68671-104">Yammer에서는 다음과 같은 받은 편지함 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="68671-104">The following inbox features are available in Yammer.</span></span>
+<span data-ttu-id="31caf-104">Yammer에서는 다음과 같은 받은 편지함 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="31caf-104">The following inbox features are available in Yammer.</span></span>
   
-## <a name="inbox"></a><span data-ttu-id="68671-105">받은 편지함</span><span class="sxs-lookup"><span data-stu-id="68671-105">Inbox</span></span>
+## <a name="inbox"></a><span data-ttu-id="31caf-105">받은 편지함</span><span class="sxs-lookup"><span data-stu-id="31caf-105">Inbox</span></span>
 
-<span data-ttu-id="68671-106">받은 편지함은 응답의 우선 순위를 @mentions, 그룹 공지, 대화 및 개인 메시지를 자동으로 집계합니다.</span><span class="sxs-lookup"><span data-stu-id="68671-106">Inbox automatically aggregates your @mentions, group announcements, conversations, and private messages so you can easily prioritize responses.</span></span>
+<span data-ttu-id="31caf-106">받은 편지함은 응답의 우선 순위를 @mentions, 그룹 공지, 대화 및 개인 메시지를 자동으로 집계합니다.</span><span class="sxs-lookup"><span data-stu-id="31caf-106">Inbox automatically aggregates your @mentions, group announcements, conversations, and private messages so you can easily prioritize responses.</span></span>
   
-## <a name="inbox-search"></a><span data-ttu-id="68671-107">받은 편지함 검색</span><span class="sxs-lookup"><span data-stu-id="68671-107">Inbox search</span></span>
+## <a name="inbox-search"></a><span data-ttu-id="31caf-107">받은 편지함 검색</span><span class="sxs-lookup"><span data-stu-id="31caf-107">Inbox search</span></span>
 
-<span data-ttu-id="68671-108">전체 받은 편지함에서 검색하여 대화, 개인 메시지 및 공지 사항을 빠르게 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="68671-108">Search across your entire inbox to quickly find conversations, private messages, and announcements.</span></span>
+<span data-ttu-id="31caf-108">전체 받은 편지함에서 검색하여 대화, 개인 메시지 및 공지 사항을 빠르게 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="31caf-108">Search across your entire inbox to quickly find conversations, private messages, and announcements.</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="68671-109">기능 가용성</span><span class="sxs-lookup"><span data-stu-id="68671-109">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="31caf-109">기능 가용성</span><span class="sxs-lookup"><span data-stu-id="31caf-109">Feature availability</span></span>
 
-<span data-ttu-id="68671-110">계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 서비스 [Yammer 참조하세요.](yammer-service-description.md)</span><span class="sxs-lookup"><span data-stu-id="68671-110">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
+<span data-ttu-id="31caf-110">계획, 독립 실행형 옵션 및온-프레미스 솔루션에 대한 기능 가용성을 확인 내용은 Yammer [설명을 참조하세요.](yammer-service-description.md)</span><span class="sxs-lookup"><span data-stu-id="31caf-110">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
   
 
