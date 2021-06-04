@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
-description: Project Online에서는 다음과 같은 포트폴리오 관리 기능을 사용할 수 있습니다.
+description: 다음 포트폴리오 관리 기능은 다음과 같은 포트폴리오 관리 Project Online.
 ms.openlocfilehash: 1554659494a6ad6afbeb35690deee61346bf6e55
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,15 +19,15 @@ ms.locfileid: "51652282"
 ---
 # <a name="portfolio-management"></a>포트폴리오 관리
 
-Project Online에서는 다음과 같은 포트폴리오 관리 기능을 사용할 수 있습니다.
+다음 포트폴리오 관리 기능은 다음과 같은 포트폴리오 관리 Project Online.
   
-모든 Project Online 기능에 대한 정보를 원하십니까? Project [Online 서비스 설명을 참조하세요.](project-online-service-description.md)
+모든 Project Online 기능에 대한 정보를 원하십니까? 자세한 [내용은 Project Online 설명을 참조하세요.](project-online-service-description.md)
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>Analyze projects and optimize portfolio
 
 프로젝트를 분석하여 예산과 자원에 대한 최고의 투자 수익을 줄 프로젝트를 결정할 수 있습니다. 이 프로세스를 포트폴리오 분석이라고 합니다. 자세한 내용은 [포트폴리오 분석 분산형 차트 사용](https://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409)을 참조하세요.
   
-## <a name="create-and-edit-projects"></a>프로젝트 만들기 및 편집
+## <a name="create-and-edit-projects"></a>Create and edit projects
 
 여러 가지 방법으로 프로젝트를 만듭니다. 자세한 내용은 [Project Web App으로 프로젝트 만들기](https://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409)를 참조하세요.
   

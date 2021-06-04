@@ -53,5 +53,5 @@ Microsoft 파트너 네트워크는 파트너의 요구 사항을 처리하기 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Microsoft 365 및 Office 365 계획에서 기능 가용성을 확인하면 [Microsoft 365 및 Office 365](office-365-platform-service-description.md)플랫폼 서비스 설명을 참조하세요.
+여러 Microsoft 365 계획 및 Office 365 가용성을 확인 Microsoft 365 플랫폼 Office 365 [설명을 참조하세요.](office-365-platform-service-description.md)
   

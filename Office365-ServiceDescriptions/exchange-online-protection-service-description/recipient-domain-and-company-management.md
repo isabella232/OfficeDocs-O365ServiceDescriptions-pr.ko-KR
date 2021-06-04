@@ -1,5 +1,5 @@
 ---
-title: Exchange Online Protection의 받는 사람, 도메인 및 회사 관리
+title: 사용자 계정의 받는 사람, 도메인 및 Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -19,15 +19,15 @@ ms.contentlocale: ko-KR
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653000"
 ---
-# <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Exchange Online Protection의 받는 사람, 도메인 및 회사 관리
+# <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>사용자 계정의 받는 사람, 도메인 및 Exchange Online Protection
 
-Microsoft Exchange Online 보호(EOP)는 받는 사람, 도메인 및 회사 정보를 관리하는 여러 가지 방법을 제공합니다. 관리자는 EAC(Exchange 관리 센터) 내에서 특정 관리 작업을 수행하고 Microsoft 365 관리 센터에서 수행되는 다른 관리 작업을 확인할 수 있습니다.
+Microsoft Exchange Online EOP(보호)는 받는 사람, 도메인 및 회사 정보를 관리하는 여러 가지 방법을 제공합니다. 관리자는 EAC(Exchange 관리 센터) 내에서 특정 관리 작업을 수행하고 Microsoft 365 관리 센터에서 수행되는 기타 관리 작업을 확인할 수 있습니다.
   
-모든 EOP 기능에 대한 정보를 찾고 있나요? Exchange [Online Protection 서비스 설명을 참조하세요.](exchange-online-protection-service-description.md)
+모든 EOP 기능에 대한 정보를 찾고 있나요? 자세한 [내용은 Exchange Online Protection 설명을 참조하세요.](exchange-online-protection-service-description.md)
   
 ## <a name="mail-recipients"></a>Mail recipients
 
-메일 받는 사람은 메일 사용자 또는 그룹으로 분류되며 디렉터리 동기화를 통해하거나 EAC에서 직접 또는 원격 Windows PowerShell을 통해 관리할 수 있습니다. 온-프레미스에서 받는 사람을 관리하는 경우 EAC에 메일 받는 사람이 반영되도록 디렉터리 동기화를 실행해야 합니다. Microsoft 365 관리 센터에서만 관리되는 사용자는 EAC에서 볼 수 없지만 EAC의 관리자 역할 그룹의 구성원 자격에 추가하거나 제거할 수 있습니다. EOP의 받는 사람에 대한 자세한 내용은 [EOP의 받는 사람](/microsoft-365/security/office-365-security/manage-recipients-in-eop)을 참조하세요.
+메일 받는 사람은 메일 사용자 또는 그룹으로 분류되며 디렉터리 동기화를 통해하거나 EAC에서 직접 또는 원격 Windows PowerShell을 통해 관리할 수 있습니다. 온-프레미스에서 받는 사람을 관리하는 경우 EAC에 메일 받는 사람이 반영되도록 디렉터리 동기화를 실행해야 합니다. Microsoft 365 관리 센터에서만 관리되는 사용자는 EAC에서 볼 수 없지만 EAC의 관리자 역할 그룹의 구성원 자격에 추가되거나 제거될 수 있습니다. EOP의 받는 사람에 대한 자세한 내용은 [EOP의 받는 사람](/microsoft-365/security/office-365-security/manage-recipients-in-eop)을 참조하세요.
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 
@@ -49,4 +49,4 @@ DBEB를 사용하려면 일부 사용자 및 도메인 구성이 필요합니다
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 Exchange Online Protection 서비스 [설명을 참조하세요.](exchange-online-protection-service-description.md)
+계획, 독립 실행형 옵션 및온-프레미스 솔루션에 대한 기능 가용성을 확인 내용은 Exchange Online Protection [설명을 참조하세요.](exchange-online-protection-service-description.md)

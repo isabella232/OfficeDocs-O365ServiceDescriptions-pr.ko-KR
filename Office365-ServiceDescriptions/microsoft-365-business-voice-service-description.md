@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business 음성 서비스 설명
+title: Microsoft 365 Business Voice 설명
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -17,7 +17,7 @@ ms.contentlocale: ko-KR
 ms.lasthandoff: 05/07/2021
 ms.locfileid: "52266358"
 ---
-# <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business 음성 서비스 설명
+# <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business Voice 설명
 
 Microsoft 365 Business Voice 통화 대기, 통화 전달Microsoft Teams 자동 전화 회의, 통화 큐, 오디오 회의 및 통화 계획과 같은 전화 시스템 기능을 제공하는 클라우드 기반 전화 통신 솔루션입니다. Business Voice는 라이선스가 포함된 Office 365 Microsoft 365 구독에 추가할 Microsoft Teams 수 있습니다(최대 300개 라이선스). Business Voice 서비스에 대한 자세한 내용은 [Microsoft 365 Business Voice.](/MicrosoftTeams/business-voice/whats-business-voice)
 

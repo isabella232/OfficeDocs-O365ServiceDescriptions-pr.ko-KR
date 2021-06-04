@@ -24,7 +24,7 @@ ms.locfileid: "51653520"
 Yammer에서는 다음과 같은 지원 기능을 사용할 수 있습니다.
   
 > [!IMPORTANT]
-> Yammer 네트워크 관리자가 실수로 삭제한 콘텐츠를 포함하여 외부 네트워크, 사용자, 메시지, 그룹 및 파일과 같은 삭제된 콘텐츠의 복구를 지원하지 &mdash; &mdash; 않습니다.
+> Yammer 네트워크 관리자가 실수로 삭제한 콘텐츠를 포함하여 외부 네트워크, 사용자, 메시지, 그룹 및 파일과 같은 삭제된 콘텐츠의 복구는 &mdash; &mdash; 지원하지 않습니다.
 >
 > Microsoft는 Yammer에서 사용할 수 있는 분석 기능 이외의 사용자 지정 또는 임시 보고서를 제공하지 않습니다. 경우에 따라 Microsoft는 지원 요청 과정에서 사용자 지정 보고서를 제공할 수 있지만 대부분의 경우 데이터에 대한 직접 요청을 수용할 수 없습니다.
 
@@ -38,7 +38,7 @@ Yammer Enterprise 관리자는 계정 유지 관리를 담당하며, Microsoft �
    
 ## <a name="fasttrack-center"></a>FastTrack 센터
 
-Microsoft FastTrack 서비스는 모든 단계에서 도움을 제공하여 조직이 Microsoft 클라우드로 전환하는 데 도움을 줄 수 있습니다. FastTrack을 사용하면 전략적으로 롤아웃을 계획하고, 새 서비스를 빠르게 시작하고, 새 사용자를 온보드할 수 있습니다. 자세한 내용은 [FastTrack 센터](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)를 참조하세요. 문서 및 Yammer 사전 실행, 시작 및 지원 등 사용자 네트워크 만들기에 대한 자세한 내용은 [구상:](https://fasttrack.microsoft.com/office/envision/identify-scenarios) 시나리오 식별 페이지로 이동한 다음 조직을 함께 가져오기 를 **선택합니다.**
+Microsoft FastTrack 서비스는 모든 단계에서 도움을 제공하여 조직이 Microsoft 클라우드로 전환하는 데 도움을 줄 수 있습니다. FastTrack을 사용하면 전략적으로 롤아웃을 계획하고, 새 서비스를 빠르게 시작하고, 새 사용자를 온보드할 수 있습니다. 자세한 내용은 [FastTrack 센터](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)를 참조하세요. 문서 및 활동을 사전 실행, Yammer 지원 등 사용자 네트워크 만들기에 대한 자세한 내용은 [구상:](https://fasttrack.microsoft.com/office/envision/identify-scenarios) 시나리오 식별 페이지로 이동한 다음 조직을 함께 가져오기 를 **선택합니다.**
 
 ## <a name="support-features-across-yammer-plans"></a>Yammer 계획별 지원 기능
 

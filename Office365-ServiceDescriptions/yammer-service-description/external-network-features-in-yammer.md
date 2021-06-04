@@ -25,7 +25,7 @@ Yammer에서는 다음과 같은 외부 네트워크 기능을 사용할 수 있
   
 ## <a name="external-networks"></a>외부 네트워크
 
-조직 외부의 비즈니스 연락처와 공동 작업을 할 수 있는 전용 온라인 작업 Yammer.
+조직의 조직 네트워크 외부에 있는 비즈니스 연락처와 공동 작업을 할 수 있는 전용 온라인 작업 Yammer 합니다.
   
 ## <a name="fast-network-switching"></a>빠른 네트워크 전환
 
@@ -33,4 +33,4 @@ Yammer에서는 다음과 같은 외부 네트워크 기능을 사용할 수 있
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 서비스 [Yammer 참조하세요.](yammer-service-description.md)
+계획, 독립 실행형 옵션 및온-프레미스 솔루션에 대한 기능 가용성을 확인 내용은 Yammer [설명을 참조하세요.](yammer-service-description.md)

@@ -27,11 +27,11 @@ ms.locfileid: "51653090"
   
 ### <a name="retention-policies"></a>보존 정책
 
-Exchange Online Archiving은 전자 메일 및 기타 통신과 관련한 조직의 부담을 줄이는 데 도움을 주는 보존 정책을 제공합니다. 이러한 정책을 사용하면 관리자가 사용자 사서함의 특정 폴더에 보존 설정을 적용할 수 있습니다. 관리자는 사용자에게 보존 정책 메뉴를 제공하고 Outlook 2010 이상 또는 웹용 Outlook을 사용하여 특정 항목, 대화 또는 폴더에 정책을 적용하도록 할 수도 있습니다. Exchange Online Archiving에서 관리자는 온-프레미스 인프라의 보존 정책을 관리합니다.
+Exchange Online Archiving은 전자 메일 및 기타 통신과 관련한 조직의 부담을 줄이는 데 도움을 주는 보존 정책을 제공합니다. 이러한 정책을 사용하면 관리자가 사용자 사서함의 특정 폴더에 보존 설정을 적용할 수 있습니다. 관리자는 또한 사용자에게 보존 정책 메뉴를 제공하고 웹에서 Outlook 2010 이상 또는 Outlook 사용하여 특정 항목, 대화 또는 폴더에 정책을 적용하도록 할 수 있습니다. Exchange Online Archiving에서 관리자는 온-프레미스 인프라의 보존 정책을 관리합니다.
   
 Exchange Online Archiving은 보관과 삭제라는 두 가지 유형의 정책을 제공합니다. 이 두 가지 유형을 동일한 항목이나 폴더에 적용할 수 있습니다. 예를 들어, 사용자가 지정한 기간(일)이 지나면 자동으로 전자 메일 메시지가 보관 사서함으로 이동되고 또 다른 지정한 기간(일)이 지나면 삭제되도록 전자 메일 메시지에 태그를 지정할 수 있습니다.
   
-Outlook 2010 이상 및 웹용 Outlook을 사용하여 사용자는 폴더, 대화 또는 개별 메시지에 보존 정책을 적용할 수 있으며 적용된 보존 정책 및 메시지의 예상 삭제 날짜도 볼 수 있습니다. 다른 전자 메일 클라이언트 사용자의 경우 관리자가 프로비전한 서버 쪽 보존 정책에 따라 전자 메일이 삭제되거나 보관되도록 할 수는 있지만 Outlook 2010 및 Outlook Web App에서와 같은 수준으로 메시지를 보거나 제어할 수는 없습니다.
+웹에서 Outlook 2010 이상 및 Outlook 사용하여 사용자는 폴더, 대화 또는 개별 메시지에 보존 정책을 적용할 수 있으며 적용된 보존 정책 및 메시지의 예상 삭제 날짜를 볼 수도 있습니다. 다른 전자 메일 클라이언트 사용자의 경우 관리자가 프로비전한 서버 쪽 보존 정책에 따라 전자 메일이 삭제되거나 보관되도록 할 수는 있지만 Outlook 2010 및 Outlook Web App에서와 같은 수준으로 메시지를 보거나 제어할 수는 없습니다.
   
 Exchange Online Archiving에서 제공하는 보존 정책 기능은 Exchange Server 2010 SP2(서비스 팩 2) 이상에서 제공하는 기능과 동일합니다. 관리자는 온-프레미스 Exchange Server 2010 이상 환경에서 보존 정책을 관리할 수 있습니다. Exchange 2007에 도입되었던 이전의 메시징 레코드 관리 방법인 관리 폴더는 Exchange Online Archiving에서 사용할 수 없으며 Exchange Online Archiving과 호환되지 않습니다. Exchange Server 2007에서 제공했던 기존의 메시징 레코드 관리 접근 방식인 관리되는 폴더는 사용할 수 없습니다.
   
@@ -95,7 +95,7 @@ Exchange 관리 센터 및 원격 Windows PowerShell을 사용하여 원본 위�
 
 보안 향상을 위해 Exchange Online Archiving에 대한 클라이언트 연결에는 다음과 같은 암호화 방법이 사용됩니다.
   
-- SSL은 TCP 포트 443을 사용하여 Outlook, 웹용 Outlook 및 Exchange 웹 서비스 트래픽을 보안하는 데 사용됩니다.
+- SSL은 TCP 포트 443을 Outlook, 웹 Outlook 및 Exchange 웹 서비스 트래픽을 보안하는 데 사용됩니다.
     
 - Exchange Online Archiving이 도입된다고 해서 온-프레미스 서버에 대한 클라이언트 연결이 변경되지는 않습니다.
     
@@ -109,19 +109,19 @@ Exchange Online Archiving에서는 S/MIME(Secure/Multipurpose Internet Mail Exte
 
 Exchange Online Archiving에서 호스트 IRM(정보 권한 관리) 서비스를 제공하지는 않지만 관리자는 온-프레미스 AD RMS(Active Directory Rights Management Services)를 사용할 수 있습니다. AD RMS 서버가 배포되면 Outlook은 해당 서버와 직접 통신할 수 있으며, 사용자는 IRM으로 보호된 메시지를 작성하고 읽을 수 있습니다. AD RMS 서버와 온-프레미스 Exchange 환경 간의 상호 운용성이 구성된 경우 사용자는 IRM으로 보호된 메시지를 작성하고 읽을 수 있습니다.
   
-#### <a name="support-for-irm-in-outlook-on-the-web"></a>웹용 Outlook의 IRM 지원
+#### <a name="support-for-irm-in-outlook-on-the-web"></a>웹용 응용 Outlook IRM 지원
 
-사용자는 Outlook에서와 같은 웹용 Outlook에서 IRM으로 보호된 메시지를 기본적으로 읽고 만들 수 있습니다. 웹용 Outlook에서 IRM으로 보호된 메시지는 플러그 인이 필요하지 Internet Explorer, Firefox, Safari 및 Chrome을 통해 액세스할 수 있습니다. 메시지에는 전체 텍스트 검색, 대화 보기 및 미리 보기 창이 포함됩니다. 이 기능이 가능하도록 Active Directory Rights Management Services 서버와 온-프레미스 Exchange 환경 간의 상호 운용성이 구성되어야 합니다.
+사용자는 웹에서 기본적으로 IRM으로 보호된 메시지를 읽고 만들 수 Outlook 있는 경우와 Outlook. 웹용 응용 Outlook IRM으로 보호된 메시지는 플러그 인이 필요하지 Internet Explorer, Firefox, Safari 및 Chrome을 통해 액세스할 수 있습니다. 메시지에는 전체 텍스트 검색, 대화 보기 및 미리 보기 창이 포함됩니다. 이 기능이 가능하도록 Active Directory Rights Management Services 서버와 온-프레미스 Exchange 환경 간의 상호 운용성이 구성되어야 합니다.
   
 #### <a name="irm-search"></a>IRM 검색
 
-헤더, 제목, 본문 및 첨부 파일을 비롯하여 IRM으로 보호된 메시지는 인덱싱되며 검색 가능합니다. 사용자는 Outlook 및 웹용 Outlook에서 IRM으로 보호된 항목을 검색할 수 있으며 관리자는 eDiscovery 또는 **Search-Mailbox** cmdlet을 사용하여 IRM으로 In-Place 항목을 검색할 수 있습니다.
+헤더, 제목, 본문 및 첨부 파일을 비롯하여 IRM으로 보호된 메시지는 인덱싱되며 검색 가능합니다. 사용자는 웹에서 Outlook 및 Outlook IRM으로 보호된 항목을 검색할 수 있으며 관리자는 In-Place eDiscovery 또는 **Search-Mailbox** cmdlet을 사용하여 IRM으로 보호된 항목을 검색할 수 있습니다.
   
 ### <a name="auditing"></a>감사
 
 Exchange Online Archiving에서는 다음과 같은 두 가지 유형의 기본 제공 감사 기능을 제공합니다.
   
-- **관리자 감사 로깅** - 관리자 감사 로깅을 사용하면 고객이 RBAC 역할 또는 Exchange 정책 및 설정에 대한 변경 내용을 포함하여 Exchange Online Archiving 환경에서 관리자가 변경한 내용을 추적할 수 있습니다. 
+- **관리자 감사 로깅** - 관리자 감사 로깅을 사용하면 고객이 RBAC 역할이나 정책 및 설정에 대한 변경 내용을 포함하여 Exchange Online Archiving 관리자가 변경한 내용을 추적할 Exchange 있습니다. 
     
 - **사서함 감사 로깅** - 사서함 감사 로깅을 사용하면 고객이 사서함 소유자가 아는 사용자의 사서함 액세스를 추적할 수 있습니다. 
     
@@ -131,4 +131,4 @@ Exchange 관리 센터에서는 관리자 역할 변경, 소송 보존, 비소�
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 Exchange Online Archiving [설명을 참조하세요.](exchange-online-archiving-service-description.md)
+계획, 독립 실행형 옵션 및 사내 솔루션에서 기능 가용성을 확인한 경우 서비스 [Exchange Online Archiving 참조하세요.](exchange-online-archiving-service-description.md)

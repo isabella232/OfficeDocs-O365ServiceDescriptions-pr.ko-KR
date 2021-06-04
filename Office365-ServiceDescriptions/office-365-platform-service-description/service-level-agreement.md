@@ -35,4 +35,4 @@ Microsoft에서는 각 서비스의 서비스 수준을 확보하고 유지 관�
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획 간 기능 가용성을 확인 내용은 [Microsoft 365 및 Office 365 플랫폼 서비스 설명을 참조하세요.](office-365-platform-service-description.md)
+계획 간 기능 가용성을 확인하면 플랫폼 [Microsoft 365 Office 365 설명을 참조하세요.](office-365-platform-service-description.md)

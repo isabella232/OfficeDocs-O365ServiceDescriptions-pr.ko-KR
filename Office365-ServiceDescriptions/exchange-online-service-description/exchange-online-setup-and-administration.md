@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: 이 문서에서는 Exchange Online 설정을 사용자 지정하고 조직의 Exchange Online 환경을 최신으로 유지하는 데 사용할 수 있는 관리 제어 및 지원에 대해 설명하고 있습니다. 내용에는 Microsoft 관리 책임 및 성능 약정, 서비스 및 제품 업그레이드와 같이 조직에서 사용할 수 있는 셀프 서비스 관리 도구 및 기능에 대한 정보가 포함되어 있습니다.
+description: 이 문서에서는 관리 설정을 사용자 지정하고 조직의 Exchange Online, 실행 및 최신 환경을 Exchange Online 관리 제어 및 지원에 대해 설명합니다. 내용에는 Microsoft 관리 책임 및 성능 약정, 서비스 및 제품 업그레이드와 같이 조직에서 사용할 수 있는 셀프 서비스 관리 도구 및 기능에 대한 정보가 포함되어 있습니다.
 ms.openlocfilehash: 56d7dbc7e5e6300172d120bbf1464fd2bbf0daf0
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,7 +23,7 @@ ms.locfileid: "51652732"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 설치 및 관리
 
-이 문서에서는 Exchange Online 설정을 사용자 지정하고 조직의 Exchange Online 환경을 최신으로 유지하는 데 사용할 수 있는 관리 제어 및 지원에 대해 설명하고 있습니다. 내용에는 Microsoft 관리 책임 및 성능 약정, 서비스 및 제품 업그레이드와 같이 조직에서 사용할 수 있는 셀프 서비스 관리 도구 및 기능에 대한 정보가 포함되어 있습니다.
+이 문서에서는 관리 설정을 사용자 지정하고 조직의 Exchange Online, 실행 및 최신 환경을 Exchange Online 관리 제어 및 지원에 대해 설명합니다. 내용에는 Microsoft 관리 책임 및 성능 약정, 서비스 및 제품 업그레이드와 같이 조직에서 사용할 수 있는 셀프 서비스 관리 도구 및 기능에 대한 정보가 포함되어 있습니다.
   
 ## <a name="self-service-administration-tools"></a>셀프 서비스 관리 도구
 
@@ -45,7 +45,7 @@ Microsoft는 모든 Exchange Online 데이터 센터를 직접 제어하고 전�
   
 ### <a name="microsoft-365-admin-center"></a>Microsoft 365 관리 센터
 
-Microsoft 365 관리 센터는 각 회사의 서비스 관리자가 구독하는 각 Microsoft 서비스의 사용자 계정 및 설정을 관리할 수 있는 웹 포털입니다. Microsoft 365 관리 센터 내에서 관리자는 Exchange Online 관련 설정을 관리할 수 있는 EAC(Exchange 관리 센터)에 대한 링크를 팔로우할 수 있습니다. Microsoft 365 관리 센터를 사용하여 시작 및 실행하는 데 대한 자세한 내용은 [Office 365 Enterprise 소개 비디오를 참조하세요.](https://go.microsoft.com/fwlink/p/?LinkId=271806)
+Microsoft 365 관리 센터는 각 회사의 서비스 관리자가 구독하는 각 조직의 사용자 계정 및 설정을 관리할 Microsoft 서비스 웹 포털입니다. 관리자는 Microsoft 365 관리 센터 내에서 EAC(Exchange 관리 센터)에 대한 링크를 따라 이동하여 사용자와 관련한 설정을 관리할 수 Exchange Online. Microsoft 365 관리 센터를 사용하여 시작 및 실행에 대한 자세한 내용은 다음 비디오를 [Office 365 Enterprise.](https://go.microsoft.com/fwlink/p/?LinkId=271806)
   
 ### <a name="exchange-admin-center"></a>Exchange 관리 센터
 
@@ -102,4 +102,4 @@ Exchange Online 고객은 Exchange Server의 새 릴리스를 비롯하여 최�
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 Exchange Online 서비스 [설명을 참조하세요.](exchange-online-service-description.md)
+계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인한 경우 서비스 [Exchange Online 참조하세요.](exchange-online-service-description.md)

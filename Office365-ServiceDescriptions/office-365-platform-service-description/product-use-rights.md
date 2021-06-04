@@ -24,7 +24,7 @@ ms.locfileid: "51652522"
 
 Microsoft Online 구독 계약을 준수하는 경우 [Microsoft Online Services 사용권](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true)에 명시적으로 허용된 온라인 서비스와 관련 소프트웨어를 사용할 수 있습니다.
   
-## <a name="office-365-operated-by-21vianet-use-rights"></a>21Vianet에서 운영하는 Office 365 사용 권한
+## <a name="office-365-operated-by-21vianet-use-rights"></a>Office 365 21Vianet에서 운영하는 서비스 사용 권한
 
 [온라인 서비스 표준 계약](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/) 및 [사용 약관](https://www.21vbluecloud.com/office365/O365-TOU/)을 참조하세요.
   
@@ -34,6 +34,6 @@ Microsoft Online 구독 계약을 준수하는 경우 [Microsoft Online Services
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획 간 기능 가용성을 확인 내용은 [Microsoft 365 및 Office 365 플랫폼 서비스 설명을 참조하세요.](office-365-platform-service-description.md)
+계획 간 기능 가용성을 확인하면 플랫폼 [Microsoft 365 Office 365 설명을 참조하세요.](office-365-platform-service-description.md)
   
 

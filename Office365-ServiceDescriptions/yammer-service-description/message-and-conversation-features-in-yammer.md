@@ -29,11 +29,11 @@ Yammer에서는 다음과 같은 메시지 및 대화 기능을 사용할 수 �
 
 ## <a name="events"></a>Events
 
-모임 및 이벤트를 구성하고 동료와 공유하고 참석을 추적합니다. Outlook, Google, Yahoo!, iCal 일정에 이벤트를 추가할 수 있습니다.
+모임 및 이벤트를 구성하고 동료와 공유하고 참석을 추적합니다. Google, Yahoo!Outlook iCal 일정에 이벤트를 추가할 수 있습니다.
   
 ## <a name="office-for-the-web-support"></a>웹용 Office 지원
 
-With Office for the web support in Yammer, documents uploaded to Yammer can be viewed and edited with Office for the web, directly in Yammer. 이렇게 하면 문서를 웹용 Office로 렌더링할 수 있으며, 여러 사용자가 동시에 공동으로 공동 작성을 할 수 있으며, 브라우저에서 바로 관련 Yammer 대화를 표시할 수 있습니다.
+웹용 Office 지원이 Yammer 사용하여 Yammer 업로드한 문서를 웹용 Office 보고 편집할 수 Yammer. 이렇게 하면 문서가 웹용 Office 렌더링될 수 있으며, 여러 사용자가 동시에 공동으로 작성하고, Yammer 대화를 브라우저에 바로 표시하도록 할 수 있습니다.
 
 ## <a name="online-now"></a>온라인 시작
 
@@ -47,7 +47,7 @@ With Office for the web support in Yammer, documents uploaded to Yammer can be v
 
 한 명 이상의 동료와 개인 대화를 시작합니다. 언제든지 참가자를 추가할 수 있습니다.
 
-## <a name="publisher"></a>게시자
+## <a name="publisher"></a>Publisher
 
 게시자를 사용하여 업데이트를 공유하거나, 문서를 추가하거나, 설문 조사를 게시하거나, 다른 사람을 칭찬하거나, 이벤트를 게시할 수 있습니다.
     
@@ -57,5 +57,5 @@ With Office for the web support in Yammer, documents uploaded to Yammer can be v
   
 ## <a name="feature-availability"></a>기능 가용성
 
-기능 가용성 계획, 독립 실행형 옵션 및온-프레미스 솔루션을 확인하면 Yammer [설명을 참조하세요.](yammer-service-description.md)
+기능 가용성 계획, 독립 실행형 옵션 및온-프레미스 솔루션을 확인 내용은 Yammer [설명을 참조하세요.](yammer-service-description.md)
   

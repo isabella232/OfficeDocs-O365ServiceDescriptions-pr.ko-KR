@@ -28,7 +28,7 @@ Microsoft Lync Server 2010, Lync Server 2013 또는 Microsoft Office Communicati
   
 온-프레미스 Lync Server 2010 및 Lync Server 2013은 그 외에도 다음 두 가지 방법으로 Exchange Online과 상호 운용될 수 있습니다.
   
-- 웹에서 Outlook의 IM 및 현재 상태 상호 연동성
+- 웹용 웹 응용 Outlook IM 및 현재 상태 상호 연동성
     
 - 음성 메일 상호 운용성
     
@@ -36,7 +36,7 @@ Microsoft Lync Server 2010, Lync Server 2013 또는 Microsoft Office Communicati
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-구독 계획의 일부로 Microsoft SharePoint Server 또는 SharePoint Online을 배포한 고객의 경우 SharePoint는 Exchange Online에 연결하여 통합 서비스를 사용할 수 있습니다.
+구독 계획의 일부로 Microsoft SharePoint Server 또는 SharePoint Online을 배포한 고객의 경우 SharePoint 통합 서비스에 Exchange Online 연결할 수 있습니다.
   
 SharePoint를 Exchange Online에 연결하는 데 대한 자세한 내용은 [사용자 지정 도메인의 SharePoint Online을 다른 서비스와 함께 사용](https://go.microsoft.com/fwlink/?LinkId=271805)을 참조하세요.
   
@@ -58,4 +58,4 @@ Exchange Online을 SMTP 배달 서비스로 사용하여 팩스 게이트웨이,
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 Exchange Online 서비스 [설명을 참조하세요.](exchange-online-service-description.md)
+계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인한 경우 서비스 [Exchange Online 참조하세요.](exchange-online-service-description.md)

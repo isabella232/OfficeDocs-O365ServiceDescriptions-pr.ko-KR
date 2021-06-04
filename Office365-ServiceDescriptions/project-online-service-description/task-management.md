@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
-description: Project Online에서는 다음과 같은 작업 관리 기능을 사용할 수 있습니다.
+description: 다음 작업 관리 기능은 다음 작업 관리 Project Online.
 ms.openlocfilehash: 7fbe93f48d02eb35ab3606d6252d106dedaa8cd6
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51651063"
 ---
 # <a name="task-management"></a>작업 관리
 
-Project Online에서는 다음과 같은 작업 관리 기능을 사용할 수 있습니다.
+다음 작업 관리 기능은 다음 작업 관리 Project Online.
   
-모든 Project Online 기능에 대한 정보를 원하십니까? Project [Online 서비스 설명을 참조하세요.](project-online-service-description.md)
+모든 Project Online 기능에 대한 정보를 원하십니까? 자세한 [내용은 Project Online 설명을 참조하세요.](project-online-service-description.md)
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
@@ -53,7 +53,7 @@ Project Online에서는 다음과 같은 작업 관리 기능을 사용할 수 �
 
 프로젝트 전체에서 작업 경로를 강조 표시하여 한 작업이 다른 작업에 연결되는 방식을 확인합니다. 자세한 내용은 [작업과 다른 작업의 연결 상태 강조 표시](https://go.microsoft.com/fwlink/p/?LinkId=271345)를 참조하세요.
   
-## <a name="top-down-summary-tasks"></a>하향식 요약 작업
+## <a name="top-down-summary-tasks"></a>Top-down summary tasks
 
 요약 작업에 리소스 배정을 만듭니다. 자세한 내용은 [하향식 계획](https://go.microsoft.com/fwlink/p/?LinkId=271333)을 참조하세요.
   
@@ -67,5 +67,5 @@ Project Online에서는 다음과 같은 작업 관리 기능을 사용할 수 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및 사내 솔루션에 대한 기능 가용성을 확인하면 Project Online 서비스 [설명을 참조하세요.](project-online-service-description.md)
+계획, 독립 실행형 옵션 및 사내 솔루션에서 기능 가용성을 확인한 경우 서비스 [Project Online 참조하세요.](project-online-service-description.md)
   

@@ -17,7 +17,7 @@ ms.locfileid: "51653380"
 ---
 # <a name="microsoft-bookings-service-description"></a>Microsoft Bookings 서비스 설명
 
-Microsoft Bookings는 약속 예약 및 관리 프로세스를 간소화합니다. Bookings에는 웹 기반 예약 일정이 포함되어 있으며 Outlook과 동기화되어 가용성을 최적화하고 고객 및 최종 사용자에게 가장 적합한 시간을 예약할 수 있는 유연성을 제공합니다. 자동화된 알림 전자 메일 및 미리 알림은 no-shows를 줄이고 고객 만족도를 높이며 조직은 반복적인 관리 작업을 줄여 시간을 절약합니다. Bookings는 Microsoft Teams와 통합하여 온라인 모임을 통해 가상 약속을 지원하고, Teams의 Bookings 앱을 통해 Bookings 일정 관리를 지원합니다.
+Microsoft Bookings는 약속 예약 및 관리 프로세스를 간소화합니다. 예약에는 웹 기반 예약 일정이 포함되어 Outlook 동기화하여 가용성을 최적화하고 고객 및 최종 사용자에게 가장 적합한 시간을 예약할 수 있는 유연성을 제공합니다. 자동화된 알림 전자 메일 및 미리 알림은 no-shows를 줄이고 고객 만족도를 높이며 조직은 반복적인 관리 작업을 줄여 시간을 절약합니다. Bookings는 온라인 모임을 Microsoft Teams 가상 약속을 지원하기 위해 예약과 통합하고, Bookings 일정 관리는 Teams.
 
 ## <a name="available-plans"></a>사용 가능한 계획
 
@@ -37,20 +37,20 @@ Microsoft Bookings는 약속 예약 및 관리 프로세스를 간소화합니�
 | 약속 알림 SMS | 예<sup>2</sup> <br/> | 예<sup>2</sup> <br/> | 예<sup>2</sup> <br/> | 아니요 | 아니요 | 예 |
 | 직원/서비스 관리 | 예 | 예 | 예 | 아니요 | 아니요 | 예 |
 | 사용자 데이터 수집의 사용자 정의 필드 | 예 | 예 | 예 | 아니요 | 아니요 | 예 |
-| Microsoft Graph의 Bookings API | 예 | 예 | 아니요 | 아니요 | 아니요 | 예 |
-| Teams의 Bookings 앱 | 예 | 예 | 아니요 | 아니요 | 아니요 | 예 |
+| Microsoft Graph | 예 | 예 | 아니요 | 아니요 | 아니요 | 예 |
+| Teams | 예 | 예 | 아니요 | 아니요 | 아니요 | 예 |
 
-<sup>1</sup> 온라인 모임을 사용하려면 예약된 직원 구성원에게 모임을 만들 수 있는 Microsoft Teams 또는 비즈니스용 Skype 라이선스가 필요합니다.
-<br/><sup>2</sup> SMS 알림은 현재 베타로 제공 중이며 북미에서만 사용할 수 있습니다.
+<sup>1</sup> 온라인 모임을 사용하려면 예약된 직원 구성원에게 모임을 만들 수 있는 Microsoft Teams 비즈니스용 Skype 라이선스가 필요합니다.
+<br/><sup>2</sup> SMS 알림은 현재 베타로 제공되어 있으며 북미에서만 사용할 수 있습니다.
 
 ## <a name="learn-more"></a>자세히 알아보기
 
 Microsoft Bookings에 대한 기술 정보는 다음 리소스를 참조하십시오.
 
 - [Microsoft Docs의 Microsoft Bookings 설명서](/microsoft-365/bookings/bookings-overview?view=o365-worldwide)
-- [Microsoft Graph의 Microsoft Bookings API](/graph/api/resources/booking-api-overview?view=graph-rest-beta)
+- [Microsoft Bookings API in Microsoft Graph](/graph/api/resources/booking-api-overview?view=graph-rest-beta)
 - [Bookings 제품 페이지](https://www.microsoft.com/microsoft-365/business/scheduling-and-booking-app)
-- [Microsoft 기술 커뮤니티의 예약 블로그](https://techcommunity.microsoft.com/t5/microsoft-bookings-blog/bg-p/Office365BusinessAppsBlog)
+- [Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-bookings-blog/bg-p/Office365BusinessAppsBlog)
 
 ### <a name="licensing-terms"></a>사용 조건
 
@@ -62,4 +62,4 @@ Microsoft 상업용 볼륨 라이선스 프로그램을 통해 구매한 제품 
 
 ### <a name="accessibility"></a>내게 필요한 옵션
 
-Microsoft는 사용자의 데이터 보안 및 서비스의 접근성을 위해 계속 최선을 [다하고](https://www.microsoft.com/trust-center/compliance/accessibility) 있습니다. 자세한 내용은 Microsoft [보안](https://www.microsoft.com/trust-center) 센터 및 [Office 접근성 센터를 참조하세요.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft는 사용자의 데이터 보안 및 서비스의 접근성을 위해 계속 최선을 [다하고](https://www.microsoft.com/trust-center/compliance/accessibility) 있습니다. 자세한 내용은 Microsoft [보안](https://www.microsoft.com/trust-center) 센터 및 Office [접근성 센터를 참조하세요.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)

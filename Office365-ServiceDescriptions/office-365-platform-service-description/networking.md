@@ -25,7 +25,7 @@ Microsoft는 다음과 같은 네트워킹 기능을 지원합니다.
   
 ## <a name="ports-protocols-and-ip-addresses"></a>포트, 프로토콜 및 IP 주소
 
-Microsoft는 IPv4 및 IPv6 주소를 사용합니다. Office 365에서 IPv6 주소는 연결 시 선택 사항이며 반드시 사용해야 하는 것은 아닙니다. 일부 Microsoft 365 기능은 IPv6을 사용하여 완전히 사용하도록 설정되지는 않습니다. Ipv6 지원에 대한 자세한 내용은 Microsoft 서비스의 [IPv6 지원을 참조하세요.](/office365/enterprise/ipv6-support)
+Microsoft는 IPv4 및 IPv6 주소를 사용합니다. Office 365에서 IPv6 주소는 연결 시 선택 사항이며 반드시 사용해야 하는 것은 아닙니다. 일부 Microsoft 365 IPv6을 사용하여 완전히 사용하도록 설정되지는 않습니다. Ipv6 지원에 대한 자세한 내용은 에서 [IPv6](/office365/enterprise/ipv6-support)지원을 Microsoft 서비스.
   
 Microsoft는 Microsoft 도움말에서 허용된 IP 주소 목록을 유지 관리합니다. 자세한 내용은 URL 및 [IP 주소 범위를 참조하세요.](/office365/enterprise/urls-and-ip-address-ranges) 21Vianet에서 운영하는 Office 365의 경우 [21Vianet에서 운영하는 Office 365용 URL 및 IP 주소](/office365/enterprise/managing-office-365-endpoints)를 참조하세요. Office 365 Germany의 경우 [Office 365 Germany 끝점](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8)을 참조하세요.
   
@@ -64,4 +64,4 @@ Microsoft 네트워킹 인프라는 서비스의 전역 배포를 제공하기 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획 간 기능 가용성을 확인 내용은 [Microsoft 365 및 Office 365 플랫폼 서비스 설명을 참조하세요.](office-365-platform-service-description.md)
+계획 간 기능 가용성을 확인하면 플랫폼 [Microsoft 365 Office 365 설명을 참조하세요.](office-365-platform-service-description.md)

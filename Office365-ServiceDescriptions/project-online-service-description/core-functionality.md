@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: Project Online에서는 다음과 같은 핵심 기능을 사용할 수 있습니다.
+description: 다음과 같은 핵심 기능 기능은 다음 Project Online.
 ms.openlocfilehash: bb379be082439793fcfba0a24cc4728181537ed8
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51652302"
 ---
 # <a name="core-functionality"></a>핵심 기능
 
-Project Online에서는 다음과 같은 핵심 기능을 사용할 수 있습니다.
+다음과 같은 핵심 기능 기능은 다음 Project Online.
   
-모든 Project Online 기능에 대한 정보를 원하십니까? Project [Online 서비스 설명을 참조하세요.](project-online-service-description.md)
+모든 Project Online 기능에 대한 정보를 원하십니까? 자세한 [내용은 Project Online 설명을 참조하세요.](project-online-service-description.md)
   
 ## <a name="add-columns"></a>열 추가
 
@@ -35,7 +35,7 @@ Project Online에서는 다음과 같은 핵심 기능을 사용할 수 있습�
   
 ## <a name="click-to-run"></a>간편 실행
 
-인터넷, 내부 네트워크, 로컬 파일 시스템 또는 오프라인 미디어를 통해 신속하게 Project Online을 설치하여 최신 버전의 Project 데스크톱 응용 프로그램을 사용할 수 있도록 합니다. 자세한 내용은 [간편 실행](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15))을 참조하세요.
+인터넷Project Online 내부 네트워크, 로컬 파일 시스템 또는 오프라인 미디어를 통해 빠르게 설치하여 최신 버전의 Project 데스크톱 응용 프로그램을 사용할 수 있도록 합니다. 자세한 내용은 [간편 실행](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15))을 참조하세요.
   
 ## <a name="contextual-right-click-menus"></a>상황별 오른쪽 클릭 메뉴
 
@@ -65,17 +65,17 @@ Project 기능과 컨트롤을 빠르게 찾아 사용할 수 있는 탭 인터�
 
 네트워크 다이어그램 보기에서 프로젝트의 작업, 종속성 및 요주의 경로를 확인할 수 있습니다. [네트워크 다이어그램 만들기](https://go.microsoft.com/fwlink/p/?LinkId=271338)를 참조하세요.
   
-## <a name="office-store"></a>Office 스토어
+## <a name="office-store"></a>Office 저장소
 
-Project 사용에 도움이 되는 응용 프로그램이 필요하신가요? Office 스토어에서 Project용 새 응용 프로그램을 찾아야 합니다. [Project용 추가 기능](https://go.microsoft.com/fwlink/?LinkId=273883)을 참조하세요.
+Project 사용에 도움이 되는 응용 프로그램이 필요하신가요? Project 저장소에서 새 응용 Office 찾아야 합니다. [Project용 추가 기능](https://go.microsoft.com/fwlink/?LinkId=273883)을 참조하세요.
   
 ## <a name="online-help"></a>온라인 도움말
 
-프로젝트 도움말은 프로젝트의 Office.com 또는 프로젝트에서 직접 시작 가이드에서 사용할 **수** 있습니다(새로 파일 \> **선택).** [Project 2013 소개 동영상을 시청](https://go.microsoft.com/fwlink/p/?LinkId=271325)하세요.
+Project 도움말은 Office.com 또는 시작 가이드에서 직접 Project 있습니다(새로 추가  \> 선택). [Project 2013 소개 동영상을 시청](https://go.microsoft.com/fwlink/p/?LinkId=271325)하세요.
   
 ## <a name="pdf-and-xps-output"></a>PDF 및 XPS 출력
 
-프로젝트 파일을 PDF 또는 XPS 파일로 저장합니다. [프로젝트 파일을 PDF로 저장](https://go.microsoft.com/fwlink/p/?LinkId=271350)을 참조하세요.
+파일 Project PDF 또는 XPS 파일로 저장합니다. [프로젝트 파일을 PDF로 저장](https://go.microsoft.com/fwlink/p/?LinkId=271350)을 참조하세요.
   
 ## <a name="placeholder-text-in-project-fields"></a>프로젝트 필드의 자리 표시자 텍스트
 
@@ -103,4 +103,4 @@ Project 2013에서는 빈 프로젝트를 여는 대신 원하는 프로젝트�
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및 사내 솔루션에 대한 기능 가용성을 확인하면 Project Online 서비스 [설명을 참조하세요.](project-online-service-description.md)
+계획, 독립 실행형 옵션 및 사내 솔루션에서 기능 가용성을 확인한 경우 서비스 [Project Online 참조하세요.](project-online-service-description.md)

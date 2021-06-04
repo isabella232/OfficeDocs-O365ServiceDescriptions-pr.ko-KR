@@ -1,5 +1,5 @@
 ---
-title: Exchange Online Protection의 메일 흐름
+title: 메일 흐름의 Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -19,15 +19,15 @@ ms.contentlocale: ko-KR
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653140"
 ---
-# <a name="mail-flow-in-exchange-online-protection"></a>Exchange Online Protection의 메일 흐름
+# <a name="mail-flow-in-exchange-online-protection"></a>메일 흐름의 Exchange Online Protection
 
-Microsoft를 사용하는 대부분의 조직에서는 사서함을 호스트하고 메일 흐름을 관리합니다. 가장 간단한 구성으로, Microsoft가 모든 사서함 및 필터링을 관리합니다. 그러나 일부 조직에서는 모든 사서함을 온-프레미스로 유지해야 할 비즈니스적 필요성을 느낍니다. EOP(Exchange Online Protection)를 사용하면 이 작업을 할 수 있으며 클라우드에서 바이러스 백신 및 스팸 방지 메일 처리를 제공합니다. EOP에 대한 자세한 내용과 구매 정보는 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)을 참조하세요.
+Microsoft를 사용하는 대부분의 조직에서는 사서함을 호스트하고 메일 흐름을 관리합니다. 가장 간단한 구성으로, Microsoft가 모든 사서함 및 필터링을 관리합니다. 그러나 일부 조직에서는 모든 사서함을 온-프레미스로 유지해야 할 비즈니스적 필요성을 느낍니다. Exchange Online Protection(EOP)를 사용하면 이 작업을 할 수 있으며 클라우드에서 바이러스 백신 및 스팸 방지 메일 처리를 제공합니다. EOP에 대한 자세한 내용과 구매 정보는 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)을 참조하세요.
   
-도메인 관리 또는 DBEB(디렉터리 기반 Edge 차단)에 대한 정보를 찾고 있나요? 받는 [사람, 도메인 및 회사 관리를 참조합니다.](recipient-domain-and-company-management.md) 모든 EOP 기능에 대한 자세한 내용은 [Exchange Online Protection 서비스 설명 을 참조하세요.](exchange-online-protection-service-description.md)
+도메인 관리 또는 DBEB(디렉터리 기반 Edge 차단)에 대한 정보를 찾고 있나요? 받는 [사람, 도메인 및 회사 관리를 참조합니다.](recipient-domain-and-company-management.md) 모든 EOP 기능에 대한 자세한 내용은 Exchange Online Protection [설명을 참조하세요.](exchange-online-protection-service-description.md)
   
 ## <a name="routing-email-between-microsoft-and-your-own-email-servers"></a>Microsoft와 자체 전자 메일 서버 간의 전자 메일 라우팅
 
-Microsoft(Exchange Online 또는 EOP 포함)와 Exchange와 같은 SMTP 기반 전자 메일 서버 간의 메일 흐름을 사용하도록 커넥터를 구성할 수 있습니다. 이에 대한 자세한 정보는 [Do I need a connector](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)? 또한 [커넥터를 설정하여 Microsoft와](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)자체 전자 메일 서버 간에 메일을 라우팅합니다.
+Microsoft(Exchange Online 또는 EOP 포함)와 SMTP 기반 전자 메일 서버(예: Exchange) 간의 메일 흐름을 사용하도록 커넥터를 구성할 수 Exchange. 이에 대한 자세한 정보는 [Do I need a connector](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)? 또한 [커넥터를 설정하여 Microsoft와](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)자체 전자 메일 서버 간에 메일을 라우팅합니다.
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>신뢰할 수 있는 파트너와의 보안 메시징
 
@@ -53,4 +53,4 @@ EOP 고객은 Microsoft 커넥터를 사용하여 신뢰할 수 있는 파트너
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 Exchange Online Protection 서비스 [설명을 참조하세요.](exchange-online-protection-service-description.md)
+계획, 독립 실행형 옵션 및온-프레미스 솔루션에 대한 기능 가용성을 확인 내용은 Exchange Online Protection [설명을 참조하세요.](exchange-online-protection-service-description.md)

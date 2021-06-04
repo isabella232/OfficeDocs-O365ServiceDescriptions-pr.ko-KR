@@ -22,7 +22,7 @@ ms.locfileid: "51653390"
 # <a name="blackberry"></a>BlackBerry
 
 > [!NOTE]
-> 21Vianet에서 운영하는 Office 365를 사용하는 경우 MICROSOFT Exchange ActiveSync 장치 또는 RIM(Research in Motion, BlackBerry 무선 전자 메일 솔루션)의 제품을 사용하여 BES(Blackberry Enterprise Server)를 실행할 수 있습니다. 
+> 21Vianet에서 Office 365 사용하는 경우 Microsoft Exchange ActiveSync 장치 또는 RIM(Research in Motion, BlackBerry 무선 전자 메일 솔루션)의 제품을 사용하여 BES(Blackberry Enterprise Server)를 실행할 수 있습니다. 
   
 BlackBerry® 스마트폰에서 Office 365의 전자 메일과 문서에 액세스할 수 있습니다.
   
@@ -34,7 +34,7 @@ BlackBerry 10 스마트폰에서 Microsoft Exchange ActiveSync를 사용하여 E
   
 ## <a name="blackberry-7-and-earlier-smartphones-with-microsoft-exchange-online"></a>Microsoft Exchange Online을 지원하는 BlackBerry® 7 이하 버전의 스마트폰
 
-BLACKBerry® 인터넷 서비스(BIS)를 사용하여 BlackBerry 7 이전 버전의 스마트폰을 Exchange Online에 연결할 수 있습니다. BIS를 사용하면 BlackBerry 사용자가 IMAP 또는 POP를 통해 인터넷을 통해 전자 메일 계정에 액세스할 수 있습니다.
+BIS(BlackBerry® Internet Service)를 사용하여 BlackBerry 7 및 이전 버전의 스마트폰을 컴퓨터에 연결할 수 Exchange Online. BIS를 사용하면 BlackBerry 사용자가 IMAP 또는 POP를 통해 인터넷을 통해 전자 메일 계정에 액세스할 수 있습니다.
   
 대부분의 통신사에는 BIS가 설정되어 있습니다. 최종 사용자는 다음 기술 자료 문서의 지침을 사용하여 전자 메일, 일정 및 연락처 동기화를 구성해야 합니다.
   
@@ -49,9 +49,9 @@ BLACKBerry® 인터넷 서비스(BIS)를 사용하여 BlackBerry 7 이전 버전
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>SharePoint Online을 지원하는 BlackBerry 스마트폰
 
-Microsoft SharePoint Online 액세스 시 BlackBerry 사용자는 BlackBerry 스마트폰의 기본 브라우저를 사용하여 SharePoint Online 사이트에 액세스할 수 있습니다. BlackBerry 사용자는 모바일 브라우저에서 웹 렌더링을 위해 Office를 사용하여 Word, Excel 및 PowerPoint 문서를 볼 수 있습니다.
+Microsoft SharePoint Online 액세스 시 BlackBerry 사용자는 BlackBerry 스마트폰의 기본 브라우저를 사용하여 SharePoint Online 사이트에 액세스할 수 있습니다. BlackBerry 사용자는 모바일 브라우저에서 Excel 렌더링을 PowerPoint 웹용 Office Word, PowerPoint 및 문서를 볼 수 있습니다.
   
 ## <a name="feature-availability"></a>기능 가용성
 
-Office 365 계획에서 기능 가용성을 확인하면 [Microsoft 365 및 Office 365 플랫폼 서비스 설명을 참조하세요.](office-365-platform-service-description.md)
+여러 계획에서 기능 가용성을 Office 365 플랫폼 서비스 [Microsoft 365 Office 365 참조하세요.](office-365-platform-service-description.md)
   

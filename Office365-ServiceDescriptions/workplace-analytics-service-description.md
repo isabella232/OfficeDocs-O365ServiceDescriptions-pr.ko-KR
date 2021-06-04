@@ -35,7 +35,7 @@ Microsoft Workplace Analytics는 조직의 커뮤니케이션 및 공동 작업 
 
 ## <a name="gain-objective-actionable-insights"></a>목표에 대한 실행 가능한 인사이트 얻기
 
-조직이 Office 365에서 전례 없는 인사이트를 통해 내부 및 외부적으로 시간을 소비하고 공동 작업하는 방법을 파악합니다. Workplace Analytics는 비즈니스 리더가 시간 및 네트워크에 대한 실행 가능한 수십 가지 행동 메트릭을 제공하여 팀 모델, 리소스 할당 및 작업 영역 계획을 비롯한 다양한 전략적 결정을 알릴 수 있습니다.
+조직에서 전례 없는 인사이트를 통해 내부 및 외부적으로 시간을 소비하고 공동 작업하는 Office 365. Workplace Analytics는 비즈니스 리더가 시간 및 네트워크에 대한 실행 가능한 수십 가지 행동 메트릭을 제공하여 팀 모델, 리소스 할당 및 작업 영역 계획을 비롯한 다양한 전략적 결정을 알릴 수 있습니다.
 
 ## <a name="drive-organizational-change-with-data"></a>데이터로 조직 변경 주도
 
@@ -47,6 +47,6 @@ Workplace Analytics는 데이터 보호를 위해 요구 및 규정 준수를 �
 
 자세한 내용은 [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492)를 참조하세요. Workplace Analytics 사용 방법에 대한 자세한 내용은 [Workplace Analytics 설명서를 참조하세요.](/workplace-analytics/)
   
-## <a name="licensing-requirements"></a>라이선스 요구 사항
+## <a name="licensing-requirements"></a>라이선스 요구사항
 
-Exchange Online 계획 1 또는 계획 2가 선행해야 합니다.
+Exchange Online 플랜 1 또는 계획 2가 선행해야 합니다.

@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-description: 2013의 계획 및 배포에 대해 Microsoft Exchange Online.
+description: 배포 계획 및 배포에 대해 Microsoft Exchange Online.
 ms.openlocfilehash: eabef8014f64295058b4f41ccd9835a8dea473d8
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -27,9 +27,9 @@ ms.locfileid: "51652702"
   
 ## <a name="deployment-options"></a>배포 옵션
 
-- **클라우드 전용 배포** - 조직에 Exchange Online에 호스트된 모든 사용자 사서함이 있습니다. 
+- **클라우드 전용 배포** - 조직에 모든 사용자 사서함이 Exchange Online. 
     
-- **Exchange 하이브리드 배포** - 조직에 일부 사용자 사서함이 Exchange Online에서 호스트되는 일부 사용자 사서함과 일부 사용자 사서함이 있습니다. 
+- **Exchange** 배포 - 조직에 일부 사용자 사서함이 Exchange 조직에 호스트된 사용자 사서함이 있으며 일부 사용자 사서함은 Exchange Online. 
     
 ### <a name="cloud-only"></a>클라우드 전용
 
@@ -48,13 +48,13 @@ Microsoft Exchange 2003, Exchange 2007, Exchange 2010 및 Exchange 2013 온-프�
 
 조직은 원본 전자 메일 시스템, 원하는 종료 상태(완전 호스트 또는 부분 호스트), 마이그레이션할 사용자 수, 종료 상태까지 얼마나 빠르게 도달할 수 있는지를 바탕으로 마이그레이션 옵션을 선택해야 합니다. 가능한 마이그레이션 옵션은 다음과 같습니다.
   
-- **IMAP 마이그레이션** - 사서함 데이터를 IMAP 기반 전자 메일 시스템에서 Exchange Online으로 마이그레이션합니다. 
+- **IMAP 마이그레이션** - 사서함 데이터를 IMAP 기반 전자 메일 시스템에서 사서함으로 Exchange Online. 
     
-- 단독형 **Exchange** 마이그레이션 - 단일 단독형 마이그레이션을 통해 Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 및 Hosted Exchange 시스템에서 Exchange Online으로 사서함을 마이그레이션합니다. 
+- 단독형 Exchange 마이그레이션 **-** Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 및 Hosted Exchange 시스템에서 단일 단독형 마이그레이션으로 Exchange Online 마이그레이션합니다. 
     
-- **단계적 Exchange** 마이그레이션 - 단계적 마이그레이션을 수행하여 웹 기반 마이그레이션 도구를 사용하여 Exchange Server 2003 또는 Exchange Server 2007에서 사서함을 마이그레이션하고, 최소한의 변경 내용을 통해 사서함을 마이그레이션합니다. 
+- **단계적** Exchange 마이그레이션 - 단계적 마이그레이션을 수행하여 웹 기반 마이그레이션 도구를 사용하여 Exchange Server 2003 또는 Exchange Server 2007에서 사서함을 마이그레이션하고, 최소한의 변경을 통해 사서함을 마이그레이션합니다. 
     
-- **원격 이동 마이그레이션** - Exchange 하이브리드 배포에서 Exchange Online으로 Exchange 사서함을 마이그레이션합니다. 원격 이동 마이그레이션을 사용하려면 Exchange 하이브리드 배포 환경에 있어야 합니다. 
+- **원격 이동 마이그레이션** - Exchange 하이브리드 배포에서 Exchange Online 사서함을 Exchange 마이그레이션합니다. 원격 이동 마이그레이션을 사용하려면 Exchange 하이브리드 배포 환경에 있어야 합니다. 
     
 Exchange Online으로의 전자 메일 및 사서함 마이그레이션에 대한 자세한 내용은 [Exchange Online으로의 사서함 마이그레이션](https://support.office.com/article/-a3e3bddb-582e-4133-8670-e61b9f58627e)을 참조하세요.
   
@@ -87,7 +87,7 @@ Exchange Online은 온-프레미스 Exchange Server 2003, Exchange Server 2007 �
     
 4. 초기 마이그레이션이 완료되면 관리자가 마이그레이션 일괄 처리를 중지하거나 삭제할 때까지 모든 변경 내용이 24시간마다 클라우드로 동기화됩니다.
     
-사용자를 클라우드 사서함으로 전환하기 위해 관리자는 MX 레코드가 Microsoft를 지점하고 Outlook에서 사용자의 프로필을 다시 구성하도록 구성합니다. 사용자가 클라우드 사서함으로 전환하며 사용자의 로컬 오프라인 폴더(.ost 파일)이 다시 동기화되고, 클라이언트 워크스테이션에 마이그레이션된 전자 메일이 다운로드됩니다. 사용자는 마이그레이션이 완료되면 사서함의 기존 메시지를 회신할 수 있습니다.
+사용자를 클라우드 사서함으로 전환하기 위해 관리자는 Microsoft를 지점으로 하여 MX 레코드를 구성하고 사용자의 프로필을 클라우드 사서함에서 Outlook. 사용자가 클라우드 사서함으로 전환하며 사용자의 로컬 오프라인 폴더(.ost 파일)이 다시 동기화되고, 클라이언트 워크스테이션에 마이그레이션된 전자 메일이 다운로드됩니다. 사용자는 마이그레이션이 완료되면 사서함의 기존 메시지를 회신할 수 있습니다.
   
 단독형 Exchange 마이그레이션에 대한 자세한 내용은 [Office 365로 단독형 전자 메일 마이그레이션에 대해 알아야 할 사항](https://support.office.com/article/365-961978ef-f434-472d-a811-1801733869da)을 참조하세요.
   
@@ -109,7 +109,7 @@ Exchange Online은 온-프레미스 Exchange Server 2003, Exchange Server 2007 �
 
 Microsoft는 기존 전자 메일 환경에서 Exchange Online으로 마이그레이션하는 데 도움이 되는 다양한 도구를 제공하고 있습니다. 조직의 현재 환경 및 배포 목표에 따라 적합한 도구를 사용하는 것이 좋습니다.
   
-- **마이그레이션 대시보드** - 관리자는 Exchange 관리 센터의 마이그레이션 대시보드를 사용하여 Exchange Online으로의 사서함 마이그레이션을 관리할 수 있습니다. 관리자는 대시보드를 사용하여 온-프레미스 IMAP 서버 사용자 사서함의 콘텐츠를 기존 Exchange Online 사서함으로 마이그레이션할 수도 있습니다. 관리자는 대시보드를 통해 다음 기능을 사용할 수 있습니다. 
+- **마이그레이션 대시보드** - 관리자는 Exchange 관리 센터의 마이그레이션 대시보드를 사용하여 사서함 마이그레이션을 관리하여 Exchange Online 또는 단계적 마이그레이션에서 마이그레이션을 Exchange 있습니다. 관리자는 대시보드를 사용하여 온-프레미스 IMAP 서버 사용자 사서함의 콘텐츠를 기존 Exchange Online 사서함으로 마이그레이션할 수도 있습니다. 관리자는 대시보드를 통해 다음 기능을 사용할 수 있습니다. 
     
   - **여러 마이그레이션 일괄** 처리 만들기 및 시작 - 관리자는 최대 100개 마이그레이션 일괄 처리를 만들고 대기할 수 있습니다. 한 번에 하나의 마이그레이션 일괄 처리만 실행되지만, 관리자는 여러 일괄 처리를 대기시켜 하나의 마이그레이션 일괄 처리 실행이 완료되면 큐에 있는 다음 일괄 처리가 시작되게 할 수 있습니다. 
     
@@ -119,13 +119,13 @@ Microsoft는 기존 전자 메일 환경에서 Exchange Online으로 마이그�
     
   - **마이그레이션 보고서 열기** - 관리자는 대시보드에서 바로 마이그레이션 일괄 처리에 대한 마이그레이션 통계 또는 마이그레이션 오류 보고서를 열 수 있습니다. 
     
-  - **마이그레이션 일괄** 처리 편집 - 단계적 Exchange 마이그레이션 또는 IMAP 마이그레이션에 대한 마이그레이션 일괄 처리가 마이그레이션 큐에 있지만 현재 실행되고 있지 않은 경우 관리자는 마이그레이션 일괄 처리를 편집할 수 있습니다. 
+  - **마이그레이션 일괄** 처리 편집 - 준비된 Exchange 마이그레이션 또는 IMAP 마이그레이션에 대한 마이그레이션 일괄 처리가 마이그레이션 큐에 있지만 현재 실행되고 있지 않은 경우 관리자는 마이그레이션 일괄 처리를 편집할 수 있습니다. 
     
-- **Azure Active Directory 동기화 도구** - Azure Active Directory 동기화 도구는 Exchange Online 및 하이브리드 전자 메일 시나리오를 모두 활용하는 하이브리드 전자 메일 시나리오로 마이그레이션하는 데 중요한 역할을 Exchange Server. 이 도구는 온-프레미스 Active Directory에서 Exchange Online으로 단방향 동기화를 수행합니다. 마이그레이션이 완료된 후 관리자는 Exchange Online만 사용하면 Active Directory 사용자 및 그룹을 관리할 수 있습니다. 또한 이 도구는 온라인 환경이 지속적으로 온-프레미스 환경과 동기화되는 통합 전체 주소 목록을 사용자에게 제공합니다. 
+- **Azure Active Directory 동기화 도구** - Azure Active Directory 동기화 도구는 하이브리드 전자 메일 시나리오와 Exchange Online 모두를 활용하는 하이브리드 전자 메일 시나리오로 마이그레이션하는 데 중요한 역할을 Exchange Server. 이 도구는 온-프레미스 Active Directory에서 Exchange Online으로 단방향 동기화를 수행합니다. 마이그레이션이 완료된 후 관리자는 Exchange Online만 사용하면 Active Directory 사용자 및 그룹을 관리할 수 있습니다. 또한 이 도구는 온라인 환경이 지속적으로 온-프레미스 환경과 동기화되는 통합 전체 주소 목록을 사용자에게 제공합니다. 
     
     Azure Active Directory 동기화 도구에 대한 자세한 내용은 [디렉터리 동기화 로드맵](/azure/active-directory/hybrid/whatis-hybrid-identity)을 참조하세요.
     
-- **하이브리드 구성 마법사** - 하이브리드 구성 마법사는 기능 및 서비스의 Exchange Online 구성을 간소화하여 하이브리드 배포 프로세스를 간소화합니다. Exchange Server 2010 서비스 팩 2의 일부로 소개된 하이브리드 구성 마법사는 온-프레미스 조직에서만 실행되며, 다음 구성 요소를 포함하고 있습니다. 
+- **하이브리드 구성 마법사** - 하이브리드 구성 마법사는 기능 및 서비스의 구성을 구성할 수 있는 Exchange Online 하이브리드 배포 프로세스를 간소화합니다. Exchange Server 2010 서비스 팩 2의 일부로 소개된 하이브리드 구성 마법사는 온-프레미스 조직에서만 실행되며, 다음 구성 요소를 포함하고 있습니다. 
     
   - EAC(Exchange 관리 센터) 마법사가 관리자를 하이브리드 배포 구성을 위한 종단 간 프로세스로 안내합니다.
     
@@ -137,4 +137,4 @@ Microsoft는 기존 전자 메일 환경에서 Exchange Online으로 마이그�
     
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 Exchange Online 서비스 [설명을 참조하세요.](exchange-online-service-description.md)
+계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인한 경우 서비스 [Exchange Online 참조하세요.](exchange-online-service-description.md)

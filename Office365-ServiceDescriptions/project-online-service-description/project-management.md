@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
-description: Project Online에서는 다음과 같은 프로젝트 관리 기능을 사용할 수 있습니다.
+description: 다음 프로젝트 관리 기능은 다음 프로젝트 관리 Project Online.
 ms.openlocfilehash: 77f5e4e0478f20eabe89f4b3c3a578733f3d93f8
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652272"
 ---
 # <a name="project-management"></a>프로젝트 관리
 
-Project Online에서는 다음과 같은 프로젝트 관리 기능을 사용할 수 있습니다.
+다음 프로젝트 관리 기능은 다음 프로젝트 관리 Project Online.
   
-모든 Project Online 기능에 대한 정보를 원하십니까? Project [Online 서비스 설명을 참조하세요.](project-online-service-description.md)
+모든 Project Online 기능에 대한 정보를 원하십니까? 자세한 [내용은 Project Online 설명을 참조하세요.](project-online-service-description.md)
   
 ## <a name="issues-and-risk-management"></a>Issues and risk management
 
@@ -43,6 +43,6 @@ Microsoft PPM 솔루션에서는 보고서를 보거나 만들고, Project Serve
 
 시간 보고 및 작업 관리에 대한 일반적인 중앙 접근 방식을 사용합니다. 급여, 인보이스 및 기타 비즈니스 용도에 맞게 작업 시간과 비작업 시간을 캡처합니다. 프로젝트나 일상 업무의 상황, 작업의 최대 사용 및 최저 사용 시간 또는 진행 상황을 알아보기 위해 ad-hoc 요청에 대한 상황을 효과적으로 전달하여 계획한 노동력, 비용 및 기간의 효과를 예측하는 데 도움을 얻습니다. 자세한 내용은 [시간 및 작업 진행 상황 추적](https://go.microsoft.com/fwlink/p/?LinkId=271321)을 참조하세요.
 
-## <a name="project-home"></a>Project Home
+## <a name="project-home"></a>Project 홈
 
-Project Home은 최근에 작업한 프로젝트와 중요 프로젝트를 빠르고 쉽게 액세스할 수 있는 시작 지점입니다. 이러한 프로젝트를 사용하기 쉬운 컨트롤로 즐겨찾기로 표시하여 Project Home에서 두드러진 표시를 할 수 있습니다. 자세한 내용은 [Project Home 시작을 참조합니다.](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a)
+Project 홈은 최근에 작업한 프로젝트와 중요 프로젝트를 빠르고 쉽게 액세스할 수 있는 시작 지점입니다. 이러한 프로젝트를 사용하기 쉬운 컨트롤로 즐겨찾기로 표시하여 홈에서 Project 있습니다. 자세한 내용은 [홈 시작을 Project 참조합니다.](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a)

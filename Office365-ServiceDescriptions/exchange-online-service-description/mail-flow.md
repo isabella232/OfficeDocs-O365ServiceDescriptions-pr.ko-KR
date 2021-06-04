@@ -27,16 +27,16 @@ ms.locfileid: "51653330"
   
 ## <a name="custom-routing-of-outbound-email"></a>아웃바운드 전자 메일의 사용자 지정 라우팅
 
-Microsoft Exchange Online 서버 또는 호스팅된 서비스를 통해 조직에서 흐르는 메일을 라우팅할 수 있습니다("스마트 호스팅"이라고도 합니다). 이를 통해 조직은 DLP(데이터 손실 방지) 어플라이언스를 사용하며, 전자 메일의 사용자 지정 사후 처리를 수행하고, 개인 네트워크를 통해 비즈니스 파트너에게 전자 메일을 전달할 수 있습니다. 또한 Exchange Online에서는 주소를 수정하는 사내 게이트웨이를 통해 발신 전자 메일을 라우팅하는 주소 다시 필기도 지원됩니다. 이 기능을 사용하면 하위 도메인을 숨기거나, 다중 도메인 조직의 전자 메일을 단일 도메인으로 표시하거나, 파트너 릴레이 전자 메일이 조직 내부에서 보낸 것으로 표시될 수 있습니다. 관리자는 EAC(Exchange 관리 센터) 내에서 사용자 지정 전자 메일 라우팅을 구성합니다.
+Microsoft Exchange Online 서버 또는 호스팅된 서비스를 통해 조직에서 흐르는 메일을 라우팅할 수 있습니다("스마트 호스팅"이라고도 합니다). 이를 통해 조직은 DLP(데이터 손실 방지) 어플라이언스를 사용하며, 전자 메일의 사용자 지정 사후 처리를 수행하고, 개인 네트워크를 통해 비즈니스 파트너에게 전자 메일을 전달할 수 있습니다. Exchange Online 주소를 수정하는 사내 게이트웨이를 통해 발신 전자 메일을 라우팅하는 주소 다시 필기도 지원됩니다. 이 기능을 사용하면 하위 도메인을 숨기거나, 다중 도메인 조직의 전자 메일을 단일 도메인으로 표시하거나, 파트너 릴레이 전자 메일이 조직 내부에서 보낸 것으로 표시될 수 있습니다. 관리자는 EAC(Exchange 관리 센터) 내에서 사용자 지정 전자 메일 라우팅을 구성합니다.
   
 자세한 내용은 [Set up connectors to route mail between Microsoft and your own email servers을 참조하세요.](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)
   
 > [!IMPORTANT]
-> Exchange Online은 메일 흐름을 조직 내외부로 전달할 수 있습니다. 받는 사람 도메인이 Exchange Online Protection을 지정하는 DNS MX 레코드를 사용하여 Exchange Online에서 호스팅된 경우 테넌트에서 받는 사람으로의 메일 흐름이 인터넷을 통해 이동하지 않습니다.
+> Exchange Online은 메일 흐름을 조직 내외부로 전달할 수 있습니다. 받는 사람 도메인이 Exchange Online DNS MX 레코드가 Exchange Online Protection 있는 경우 테넌트에서 받는 사람으로의 메일 흐름이 인터넷을 통해 이동하지 않습니다.
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>신뢰할 수 있는 파트너와의 보안 메시징
 
-Exchange Online 고객은 Microsoft 커넥터를 사용하여 신뢰할 수 있는 파트너와의 보안 메일 흐름을 설정할 수 있습니다. Microsoft는 TLS(전송 계층 보안)를 통한 보안 통신을 지원하며 TLS를 통해 암호화를 적용하는 커넥터를 만들 수 있습니다. [TLS는](/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) 인터넷을 통해 통신하는 데 보안을 제공하는 암호화 프로토콜입니다. 커넥터를 사용하면 자체 서명된 인증서 또는 CA(인증 기관) 확인 인증서를 통해 강제로 받거나 보내는 TLS를 모두 구성할 수 있습니다. 도메인 이름 또는 파트너 조직에서 메일을 보내는 IP 주소 범위를 지정하는 것과 같은 기타 보안 제한을 적용할 수도 있습니다. 
+고객 Exchange Online Microsoft 커넥터를 사용하여 신뢰할 수 있는 파트너와의 보안 메일 흐름을 설정할 수 있습니다. Microsoft는 TLS(전송 계층 보안)를 통한 보안 통신을 지원하며 TLS를 통해 암호화를 적용하는 커넥터를 만들 수 있습니다. [TLS는](/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) 인터넷을 통해 통신하는 데 보안을 제공하는 암호화 프로토콜입니다. 커넥터를 사용하면 자체 서명된 인증서 또는 CA(인증 기관) 확인 인증서를 통해 강제로 받거나 보내는 TLS를 모두 구성할 수 있습니다. 도메인 이름 또는 파트너 조직에서 메일을 보내는 IP 주소 범위를 지정하는 것과 같은 기타 보안 제한을 적용할 수도 있습니다. 
   
 자세한 내용은 [Set up connectors for secure mail flow with a partner organization](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner)을 참조하세요.
   
@@ -65,7 +65,7 @@ Exchange Online 고객은 Microsoft 커넥터를 사용하여 신뢰할 수 있�
   
 ### <a name="shared-address-space-with-on-premises-routing-control-mx-points-to-on-premises"></a>온-프레미스 라우팅 제어를 사용하는 공유 주소 공간(MX가 온-프레미스를 가리킴)
 
-MX가 On-Premises Routing Control을 사용하여 공유 주소 공간(MX가 On-Premises를 연결함)은 사서함이 Exchange Online에서 부분적으로 호스트되고, 들어오는 인터넷 메일 흐름과 들어오는 인터넷 메일 흐름이 사내 Exchange 조직을 통해 라우팅되는 하이브리드 배포 메일 라우팅 시나리오입니다. 이 시나리오는 중앙 집중식 메일 전송이라고도 합니다. 이 시나리오에서는 Exchange Online이 EOP를 통해 프로비전되고 받는 인터넷 메일이 EOP로 라우팅되기 전에, 그리고 마지막으로 Exchange Online에서 호스트되는 사서함으로 라우팅됩니다. 또한 Exchange Online 사서함에서 보내는 메일의 경우 외부의 받는 사람에게 보내는 메시지는 온-프레미스 Exchange 조직을 통해 라우팅됩니다. 이 구성을 사용하면 온-프레미스 Exchange 조직과 Exchange Online 조직의 모든 사서함에 대해 단일 SMTP 도메인 네임스페이스를 사용할 수 있습니다. 
+MX가 On-Premises를 지점으로 하는 공유 주소 공간은 사서함이 Exchange Online 부분적으로 호스트되고 들어오는 인터넷 메일 흐름과 들어오는 인터넷 메일 흐름이 Exchange 조직을 통해 라우팅되는 하이브리드 배포 메일 라우팅 시나리오입니다. 이 시나리오는 중앙 집중식 메일 전송이라고도 합니다. 이 시나리오에서는 Exchange Online EOP를 통해 프로비전되고 들어오는 인터넷 메일이 EOP로 라우팅되기 전에 해당 전자 메일 서버로 라우팅되고 마지막으로 EOP에 호스트된 사서함으로 Exchange Online. 또한 Exchange Online 사서함에서 보내는 메일의 경우 외부의 받는 사람에게 보내는 메시지는 온-프레미스 Exchange 조직을 통해 라우팅됩니다. 이 구성을 사용하면 온-프레미스 Exchange 조직과 Exchange Online 조직의 모든 사서함에 대해 단일 SMTP 도메인 네임스페이스를 사용할 수 있습니다. 
   
 하이브리드 배포의 전송 옵션에 대한 자세한 내용은 [Exchange 하이브리드 배포에서의 전송 옵션](/exchange/transport-options)을 참조하세요.
   
@@ -96,4 +96,4 @@ MX가 On-Premises Routing Control을 사용하여 공유 주소 공간(MX가 On-
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인 내용은 Exchange Online 서비스 [설명 을 참조하세요.](exchange-online-service-description.md)
+계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인한 다음 서비스 Exchange Online [설명을 참조하세요.](exchange-online-service-description.md)

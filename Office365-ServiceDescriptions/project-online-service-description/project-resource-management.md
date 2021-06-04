@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
-description: Project Online에서는 다음과 같은 자원 관리 기능을 사용할 수 있습니다.
+description: 다음 리소스 관리 기능은 다음 리소스 관리 Project Online.
 ms.openlocfilehash: e78321691bae498db92dda3c76343f17a3e0ea1f
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51651208"
 ---
 # <a name="project-resource-management"></a>프로젝트 자원 관리
 
-Project Online에서는 다음과 같은 자원 관리 기능을 사용할 수 있습니다.
+다음 리소스 관리 기능은 다음 리소스 관리 Project Online.
   
-모든 Project Online 기능에 대한 정보를 원하십니까? Project [Online 서비스 설명을 참조하세요.](project-online-service-description.md)
+모든 Project Online 기능에 대한 정보를 원하십니까? 자세한 [내용은 Project Online 설명을 참조하세요.](project-online-service-description.md)
   
 ## <a name="cost-resources"></a>비용 자원
 
@@ -37,11 +37,11 @@ Project Online에서는 다음과 같은 자원 관리 기능을 사용할 수 �
 
 프로젝트에 배정된 사람들이 동시에 너무 많은 업무를 처리하는 경우 배정을 자동으로 조정할 수 있습니다. 이것을 리소스 평준화라고 합니다. [리소스 배정 평준화](https://go.microsoft.com/fwlink/p/?LinkId=271348)를 참조하세요.
   
-## <a name="resource-sheet-and-usage-views"></a>리소스 시트 및 배정 현황 보기
+## <a name="resource-sheet-and-usage-views"></a>Resource sheet and usage views
 
 리소스 사용량, 시트, 그래프 및 양식 보기를 사용하여 리소스 정보를 그래픽으로 나타냅니다. [올바른 보고서 선택](https://go.microsoft.com/fwlink/?LinkId=402920)을 참조하세요.
   
-## <a name="resource-substitution"></a>자원 대체
+## <a name="resource-substitution"></a>Resource substitution
 
 목수 같은 일반 리소스를 실제 사람으로 대체합니다. [리소스 풀 만들기 및 공유](https://go.microsoft.com/fwlink/?LinkId=402921)를 참조하세요.
   
@@ -55,6 +55,6 @@ Project Online에서는 다음과 같은 자원 관리 기능을 사용할 수 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및 사내 솔루션에 대한 기능 가용성을 확인하면 Project Online 서비스 [설명을 참조하세요.](project-online-service-description.md)
+계획, 독립 실행형 옵션 및 사내 솔루션에서 기능 가용성을 확인한 경우 서비스 [Project Online 참조하세요.](project-online-service-description.md)
   
 

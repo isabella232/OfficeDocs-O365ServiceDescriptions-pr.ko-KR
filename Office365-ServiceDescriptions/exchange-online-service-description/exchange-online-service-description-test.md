@@ -7,7 +7,7 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
-description: Microsoft 365 Microsoft Exchange Online Office 365 계획의 서비스 및 기능 가용성에 대해 자세히 알아보습니다.
+description: 서비스 및 Microsoft Exchange Online 계획의 가용성을 Microsoft 365 Office 365 대해 자세히 알아보습니다.
 ms.openlocfilehash: b24bd70ce81b68a895cf70bc04d3f8dc0bd3f332
 ms.sourcegitcommit: 2cdaef22baa43ba09300fdafa99b3918f2d8cf8f
 ms.translationtype: MT
@@ -19,13 +19,13 @@ ms.locfileid: "51414888"
 
 Microsoft Exchange Online은 Microsoft Exchange Server의 기능을 클라우드 기반 서비스로 전달하는 호스트 메시징 솔루션입니다. 이 솔루션은 PC, 웹, 모바일 장치로부터 전자 메일, 일정, 연락처 및 작업에 액세스할 수 있도록 하며, Active Directory와 완전히 통합되어 관리자가 그룹 정책과 다른 관리 도구를 통해 환경 전반에서 Exchange Online 기능을 관리할 수 있도록 합니다.
   
-Exchange Online을 구독하는 조직은 사용자에게 제공하는 메시징 서비스에 대한 제어를 유지하지만, 사내 서버 소프트웨어의 운영 부담은 없습니다. 이 서비스 설명에 설명된 Exchange Online 호스팅 계획을 사용하여 전자 메일은 여러 고객을 동시에 지원하는 서버에서 호스팅됩니다. 이러한 서버는 Microsoft 데이터 센터에 있으며 회사 네트워크 내부 또는 인터넷을 통해 광범위한 디바이스의 사용자가 액세스할 수 있습니다.
+조직을 구독하는 Exchange Online 사용자에게 제공하는 메시징 서비스에 대한 제어는 유지되지만, 이러한 조직은 사내 서버 소프트웨어의 운영 부담을 덜 수 있습니다. 이 Exchange Online 설명에 설명된 호스팅된 계획을 사용하여 전자 메일은 여러 고객을 동시에 지원하는 서버에서 호스팅됩니다. 이러한 서버는 Microsoft 데이터 센터에 있으며 회사 네트워크 내부 또는 인터넷을 통해 광범위한 디바이스의 사용자가 액세스할 수 있습니다.
 
 이 서비스 설명에서는 다양한 클라우드 설치에서 제공되는 서비스 간의 주요 차이점을 자세히 설명합니다. Exchange Online 핵심 기능은 구독마다 다르지 않습니다. 규정 준수 기능의 가용성은 구독 수준에 따라 달라집니다.
   
 ## <a name="available-plans"></a>사용 가능한 계획
 
-사용자가 Exchange Online을 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 Microsoft 솔루션 비교 표 [를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
+사용자가 구독을 사용할 수 있도록 하는 구독에 대한 자세한 Exchange Online Microsoft 솔루션 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 Exchange Online 서비스에 액세스하는 각 사용자는 구독 계획을 선택해야 하며, 각 사용자 구독에는 자체 사서함이 있습니다. 이러한 사서함의 폴더 및 메시지는 Microsoft 데이터 센터에서 Exchange Server 실행 중인 컴퓨터에 있습니다.
   
@@ -33,7 +33,7 @@ Exchange Online 서비스에 액세스하는 각 사용자는 구독 계획을 �
 
 ## <a name="feature-availability"></a>기능 가용성
 
-다음 표에는 계획에서 사용할 수 있는 주요 Exchange Online 기능이 나열됩니다. 특정 주의가 적용됩니다*. 이 표는 예고 없이 변경될 수 있습니다. 계획에 대한 Exchange Online 기능의 전체 최신 목록은 Exchange Online 계획 [비교를 참조하세요.](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)<br><br>
+다음 표에는 계획에서 사용할 Exchange Online 주요 기능 목록이 나열되어 있습니다. 특정 주의가 적용됩니다*. 이 표는 예고 없이 변경될 수 있습니다. 계획에 대한 최신의 전체 Exchange Online 목록은 [계획 비교를 Exchange Online 참조하세요.](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)<br><br>
   
 | 기능 | 소규모 기업 요금제 | Enterprise 계획 | 교육 계획 | GCC | GCC-High | DOD | 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -54,10 +54,10 @@ Exchange Online 서비스에 액세스하는 각 사용자는 구독 계획을 �
 
 ## <a name="learn-more"></a>자세히 알아보기
 
-Exchange Online에 대한 자세한 내용은 다음 리소스를 참조하십시오.
+자세한 내용은 Exchange Online 리소스를 참조하십시오.
 
-- [Exchange Online 관리자 설명서](/exchange/exchange-online)
-- [Exchange Online 저장소 및 받는 사람 제한](exchange-online-limits.md)
+- [Exchange Online 관리 설명서](/exchange/exchange-online)
+- [Exchange Online 및 받는 사람 제한](exchange-online-limits.md)
 - [Exchange 관리 센터의 새로운 기능](/exchange/whats-new)
 
 ### <a name="licensing-terms"></a>사용 조건
@@ -70,4 +70,4 @@ Microsoft 상업용 볼륨 라이선스 프로그램을 통해 구매한 제품 
 
 ### <a name="accessibility"></a>내게 필요한 옵션
 
-Microsoft는 사용자의 데이터 보안 및 서비스의 접근성을 위해 계속 최선을 다하고 있습니다. 자세한 내용은 Microsoft [보안](https://www.microsoft.com/trust-center) 센터 및 [Office 접근성 센터를 참조하세요.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft는 사용자의 데이터 보안 및 서비스의 접근성을 위해 계속 최선을 다하고 있습니다. 자세한 내용은 Microsoft [보안](https://www.microsoft.com/trust-center) 센터 및 Office [접근성 센터를 참조하세요.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)

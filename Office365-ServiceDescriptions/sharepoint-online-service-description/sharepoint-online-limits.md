@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
-description: Microsoft 365 및 독립 실행형 계획에 대한 SharePoint 제한에 대해 자세히 알아보습니다.
+description: 독립 실행형 SharePoint 및 Microsoft 365 제한에 대해 자세히 알아보습니다.
 ms.openlocfilehash: e48ce75a9656ca173ef74ddb32df619509629e27
 ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
 ms.translationtype: MT
@@ -19,23 +19,23 @@ ms.locfileid: "51767478"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
-Microsoft 365용 SharePoint의 서비스 제한에 대해 자세히 알아보습니다.
+자세한 내용은 SharePoint 서비스 제한을 Microsoft 365.
   
 ## <a name="limits-by-plan"></a>계획에 따라 제한 
 
-| 기능 | Microsoft 365 Business Basic, Business Standard 또는 Business Premium | Microsoft 365 E3 또는 E5, Office 365 E1, E3 또는 E5 또는 SharePoint 요금제 1 또는 2 | Microsoft 365 F1 또는 F3, Office 365 F3 |
+| 기능 | Microsoft 365 Business Basic, Business Standard 또는 Business Premium | Microsoft 365 E3 또는 E5, Office 365 E1, E3 또는 E5 또는 SharePoint 플랜 1 또는 2 | Microsoft 365 F1 또는 F3, Office 365 F3 |
 |:-----|:-----|:-----|:-----|
 |조직당 총 저장소<sup>수 1, 2, 6</sup> <br/> |구매한 라이선스당 1 TB 및<sup>10GB 추가 3개</sup>  <br/> |구매한 라이선스당 1 TB 및<sup>10GB 추가 3개</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |사이트당 최대 저장소(사이트 모음)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |조직당 사이트(사이트 모음)  <br/> |2백만<sup>개 6</sup> <br/> |2백만<sup>개 6</sup> <br/> |200만 개<br/> |
 |사용자 수  <br/> |최대 300개  <br/> |1- 500,000<sup>7</sup> <br/> |1- 500,000<sup>7</sup> <br/> |
    
-<sup>1</sup> 조직에 대한 총 저장소 및 사용 가능한 저장소를 [찾는 방법에 대해 자세히 알아보습니다.](/sharepoint/manage-site-collection-storage-limits) 무제한으로 추가 SharePoint 저장소를 구입할 수 있습니다. 구독에 [대한 저장소 공간 추가를 참조하세요.](/office365/admin/subscriptions-and-billing/add-storage-space) 
+<sup>1</sup> 조직에 대한 총 저장소 및 사용 가능한 저장소를 [찾는 방법에 대해 자세히 알아보습니다.](/sharepoint/manage-site-collection-storage-limits) 무제한으로 추가 저장소를 구입할 SharePoint 있습니다. 구독에 [대한 저장소 공간 추가를 참조하세요.](/office365/admin/subscriptions-and-billing/add-storage-space) 
 <br/><sup>2</sup> 재활용란을 모니터링하고 정기적으로 비우는 것이 좋습니다. 사용하는 저장소 공간은 조직의 총 저장소 제한에 해당합니다. 
-<br/> <sup>3</sup> Microsoft 365 구독 및 Office 365 추가 파일 저장소 추가 기능을 사용할 경우 저장소 금액이 추가됩니다. 
-<br/> <sup>4</sup> 단일 사이트(이전의 "사이트 모음")에 대한 저장소 제한으로, 각 사이트에 대해 제공된 저장소 양이 아니라 저장 용량입니다.   이 제한은 Office 365 그룹에 연결된 팀 사이트 및 OneDrive를 포함하여 모든 유형의 사이트에 적용됩니다. SharePoint 관리자는 더 낮은 저장소 제한을 [수동으로 설정할 수 있습니다.](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits) 
-<br/> <sup>5</sup> 일선 직원들은 SharePoint 사이트를 관리할 수 없습니다. 
-<br/> <sup>6</sup> 사용이 허가된 각 사용자에 대해 만들어진 OneDrive를 포함하지 않습니다. 
+<br/> <sup>3</sup> 구독이 Microsoft 365 추가 Office 365 Extra File Storage 저장소 금액이 추가됩니다. 
+<br/> <sup>4</sup> 단일 사이트(이전의 "사이트 모음")에 대한 저장소 제한으로, 각 사이트에 대해 제공된 저장소 양이 아니라 저장 용량입니다.   이 제한은 그룹에 연결된 팀 사이트 및 Office 365 사이트를 포함하여 모든 유형의 사이트에 OneDrive. SharePoint 관리자가 더 낮은 저장소 제한을 [수동으로 설정할 수 있습니다.](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits) 
+<br/> <sup>5</sup> 일선 직원들은 사이트 내 사이트를 관리할 SharePoint 없습니다. 
+<br/> <sup>6</sup> 사용이 허가된 OneDrive 대해 만든 정보를 포함하지 않습니다. 
 <br/> <sup>7</sup> 사용자가 50만 명 이상인 경우 Microsoft 담당자에게 문의합니다. 
   
 ## <a name="service-limits-for-all-plans"></a>모든 계획에 대한 서비스 제한
@@ -62,7 +62,7 @@ Microsoft 365용 SharePoint의 서비스 제한에 대해 자세히 알아보습
 
 ### <a name="sync"></a>동기화
 
-최적의 성능을 유지하려면 단일 OneDrive 또는 팀 사이트 라이브러리에 300,000개 이상의 파일을 저장하는 것이 좋습니다. SharePoint Online에서는 라이브러리당 3,000만 개 문서를 저장할 수 있습니다. 최적의 성능을 위해 모든 문서 라이브러리에서 300,000개 파일을 동기화하는 것이 좋습니다. 또한 동기화하는 모든 라이브러리에 항목이 30만 개 이상 있는 경우 해당 라이브러리의 모든 항목을 동기화하지 않는 경우에도 동일한 성능 문제가 발생할 수 있습니다. 이전 비즈니스용 OneDrive 동기화 클라이언트(Groove.exe)를 사용하는 경우 라이브러리당 동기화 제한은 20,000개 항목(팀 사이트당 항목 5,000개 포함)입니다.
+최적의 성능을 유지하려면 단일 사이트 또는 팀 사이트 라이브러리에 300,000개 OneDrive 저장하는 것이 좋습니다. SharePoint Online에서는 라이브러리당 3,000만 개 문서를 저장할 수 있습니다. 최적의 성능을 위해 모든 문서 라이브러리에서 300,000개 파일을 동기화하는 것이 좋습니다. 또한 동기화하는 모든 라이브러리에 항목이 30만 개 이상 있는 경우 해당 라이브러리의 모든 항목을 동기화하지 않는 경우에도 동일한 성능 문제가 발생할 수 있습니다. 이전 비즈니스용 OneDrive 동기화 클라이언트(Groove.exe)를 사용하는 경우 라이브러리당 동기화 제한은 20,000개 항목(팀 사이트당 항목 5,000개 포함)입니다.
 
 ### <a name="versions"></a>버전
 
@@ -88,9 +88,9 @@ Microsoft 365용 SharePoint의 서비스 제한에 대해 자세히 알아보습
 사이트당 2,000개(사이트 모음) 사이트를 만들고 하위 사이트를 만드는 대신 허브로 구성하는 것이 좋습니다. 하위 사이트를 사용하는 경우 해당 수를 제한하는 것이 좋습니다(특히 트래픽이 많은 사이트에서).
 
 > [!NOTE]
-> 조직은 2,000개 허브 사이트로 제한됩니다. 일부 기능에는 허브 사이트가 필요하지 않을 수 있으며 허브를 만들기 전에 몇 가지 계획을 세우는 것이 중요합니다. 자세한 내용은 SharePoint 허브 사이트 계획을 [방문하세요.](/sharepoint/planning-hub-sites)
+> 조직은 2,000개 허브 사이트로 제한됩니다. 일부 기능에는 허브 사이트가 필요하지 않을 수 있으며 허브를 만들기 전에 몇 가지 계획을 세우는 것이 중요합니다. 자세한 내용은 SharePoint [허브 사이트 계획을 방문하세요.](/sharepoint/planning-hub-sites)
 
-### <a name="sharepoint-hosted-applications"></a>SharePoint 호스팅 응용 프로그램
+### <a name="sharepoint-hosted-applications"></a>SharePoint 응용 프로그램 관리
 
 조직당 인스턴스 수가 20,000개입니다.
 
@@ -99,8 +99,8 @@ Microsoft 365용 SharePoint의 서비스 제한에 대해 자세히 알아보습
 사이트 모음당 2,000만 개
 
 > [!NOTE]
-> SharePoint 사이트에 초대할 수 있는 게스트 수에는 고유한 제한이 없습니다. 외부 공유에 대한 자세한 내용은 외부 공유 [개요 를 참조하세요.](/sharepoint/external-sharing-overview)
+> 사이트에 초대할 수 있는 게스트 수에는 고유한 제한이 SharePoint 없습니다. 외부 공유에 대한 자세한 내용은 외부 공유 [개요 를 참조하세요.](/sharepoint/external-sharing-overview)
 
 ## <a name="see-also"></a>참고 항목
 
-[SharePoint의 검색 제한](/sharepoint/search-limits)
+[검색에 대한 SharePoint](/sharepoint/search-limits)

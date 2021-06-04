@@ -7,7 +7,7 @@ ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
-description: Microsoft 365 클라우드 인쇄 서비스인 유니버설 인쇄는 사내 인쇄 서버의 필요성을 제거합니다.
+description: 클라우드 인쇄 서비스인 Microsoft 365 유니버설 인쇄는 사내 인쇄 서버의 필요성을 제거합니다.
 ms.openlocfilehash: 4c716c706dd2383ed64fa867399ca88ee459d912
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -17,7 +17,7 @@ ms.locfileid: "51653610"
 ---
 # <a name="universal-print-service-description"></a>유니버셜 인쇄 서비스 설명
 
-[Microsoft](https://www.microsoft.com/microsoft-365/windows/universal-print)365 클라우드 인쇄 서비스인 유니버설 인쇄는 사내 인쇄 서버의 필요성을 제거합니다. 이 서비스를 사용하면 회사에 가입된 Windows 10 끝점이 다른 클라이언트 소프트웨어를 설치하지 않고도 Azure AD 등록 프린터를 선택하고 인쇄할 수 있습니다.
+[클라우드 인쇄](https://www.microsoft.com/microsoft-365/windows/universal-print)Microsoft 365 유니버설 인쇄는 사내 인쇄 서버의 필요성을 제거합니다. 이 서비스를 사용하면 회사에 가입된 Windows 10 끝점에서 다른 클라이언트 소프트웨어를 설치하지 않고도 Azure AD 등록 프린터를 선택하고 인쇄할 수 있습니다.
 
 사용자는 드라이버 없는 인쇄, 간소화된 위치 기반 프린터 검색 및 장치의 기존 인쇄 흐름을 활용하는 학습 곡선이 없는 직관적인 인쇄 환경을 활용할 수 있습니다.
 
@@ -52,7 +52,7 @@ ms.locfileid: "51653610"
 
 - [유니버설 인쇄 파트너 통합](/universal-print/fundamentals/universal-print-partner-integrations)
 - [유니버설 인쇄 API 참조](/graph/universal-print-concept-overview)
-- [유니버설 인쇄 기술 커뮤니티](https://techcommunity.microsoft.com/t5/universal-print/ct-p/UniversalPrint)
+- [유니버설 인쇄 기술 Community](https://techcommunity.microsoft.com/t5/universal-print/ct-p/UniversalPrint)
 
 ### <a name="licensing-terms"></a>사용 조건
 
@@ -64,4 +64,4 @@ Microsoft 상업용 볼륨 라이선스 프로그램을 통해 구매한 제품 
 
 ### <a name="accessibility"></a>내게 필요한 옵션
 
-Microsoft는 사용자의 데이터 보안 및 서비스의 접근성을 위해 계속 최선을 [다하고](https://www.microsoft.com/trust-center/compliance/accessibility) 있습니다. 자세한 내용은 Microsoft [보안](https://www.microsoft.com/trust-center) 센터 및 [Office 접근성 센터를 참조하세요.](https://support.microsoft.com/topic/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft는 사용자의 데이터 보안 및 서비스의 접근성을 위해 계속 최선을 [다하고](https://www.microsoft.com/trust-center/compliance/accessibility) 있습니다. 자세한 내용은 Microsoft [보안](https://www.microsoft.com/trust-center) 센터 및 Office [접근성 센터를 참조하세요.](https://support.microsoft.com/topic/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)

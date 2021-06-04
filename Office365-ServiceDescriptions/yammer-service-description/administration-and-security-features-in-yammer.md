@@ -23,7 +23,7 @@ ms.locfileid: "51653560"
 
 Yammer에서는 다음과 같은 관리 및 보안 기능을 사용할 수 있습니다.
   
-자세한 설명 및 절차는 관리자 Yammer [참조하세요.](/yammer/)
+자세한 설명 및 절차는 관리자 도움말 [Yammer 참조하세요.](/yammer/)
 
 ## <a name="admin-private-content-mode"></a>관리자 개인 콘텐츠 모드
 
@@ -74,7 +74,7 @@ Yammer 네트워크의 확인된 관리자는 전체 네트워크에서 개인 �
 
 ## <a name="single-identity"></a>단일 ID
 
-조직의 기본 Yammer 환경으로 선택하면 직원이 기존 Yammer 계정으로 매핑됩니다. 그러므로 Office 365에서 Yammer로 이동할 때 다시 로그인하지 않아도 됩니다. 직원이 office 365에서 Yammer 또는 Yammer 모바일 앱을 통해 액세스하거나 Yammer.com 조직 자격 증명을 기반으로 자동으로 &mdash; &mdash; 로그인됩니다.
+조직의 기본 Yammer 환경으로 선택하면 직원이 기존 Yammer 계정으로 매핑됩니다. 그러므로 Office 365에서 Yammer로 이동할 때 다시 로그인하지 않아도 됩니다. 직원이 Yammer 또는 Office 365 모바일 Yammer 또는 Yammer.com으로 이동하여 액세스하는 경우 기존 조직 자격 증명에 따라 자동으로 &mdash; &mdash; 로그인됩니다.
 
 ## <a name="usage-policy"></a>사용 정책
 
@@ -82,8 +82,8 @@ Yammer 네트워크의 확인된 관리자는 전체 네트워크에서 개인 �
 
 ## <a name="user-management"></a>사용자 관리
 
-조직의 네트워크에 대한 액세스를 쉽게 관리합니다. Yammer 사용하여 이미 사용 중이신 경우와 동기화하고, 사용자를 개별적으로 또는 대량으로 추가 또는 제거하고, 네트워크에 게스트를 초대하고, 다른 관리자를 추가할 수 있습니다.
+조직의 네트워크에 대한 액세스를 쉽게 관리합니다. Yammer 사용하여 이미 사용 중이신 감독과 동기화하고, 사용자를 개별적으로 또는 대량으로 추가 또는 제거하고, 네트워크에 게스트를 초대하고, 다른 관리자를 추가할 수 있습니다.
 
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 서비스 [Yammer 참조하세요.](yammer-service-description.md)
+계획, 독립 실행형 옵션 및온-프레미스 솔루션에 대한 기능 가용성을 확인 내용은 Yammer [설명을 참조하세요.](yammer-service-description.md)

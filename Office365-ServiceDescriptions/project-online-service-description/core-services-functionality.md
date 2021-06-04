@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
-description: Project Online에서는 다음과 같은 핵심 서비스 기능을 사용할 수 있습니다.
+description: 다음 핵심 서비스 기능은 다음의 주요 서비스 Project Online.
 ms.openlocfilehash: 685c14a18af853c206bb9db0aaa294b7f96b1dfe
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652292"
 ---
 # <a name="core-services-functionality"></a>핵심 서비스 기능
 
-Project Online에서는 다음과 같은 핵심 서비스 기능을 사용할 수 있습니다.
+다음 핵심 서비스 기능은 다음의 주요 서비스 Project Online.
   
-모든 Project Online 기능에 대한 정보를 원하십니까? Project [Online 서비스 설명을 참조하세요.](project-online-service-description.md)
+모든 Project Online 기능에 대한 정보를 원하십니까? 자세한 [내용은 Project Online 설명을 참조하세요.](project-online-service-description.md)
   
 ## <a name="active-directory-integration"></a>Active Directory integration
 
@@ -33,13 +33,13 @@ Project Online 및 Project Server 2013에서는 관리자에게 Project를 계�
   
 ## <a name="getting-started"></a>시작하기
 
-시작 콘텐츠는 Project Online에서 사용할 수 있습니다. [Project Online 시작](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11)을 참조하세요.
+시작 콘텐츠는 해당 웹 Project Online. [Project Online 시작](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11)을 참조하세요.
   
 ## <a name="issues-and-risk-management-for-team-members"></a>Issues and risk management(팀 구성원용)
 
 Project Online 및 Project Server 2013에는 잠재적인 비즈니스 또는 프로젝트 관련 위험 및 문제를 방지, 식별 및 최소화하기 위한 기능이 포함되어 있습니다. 자세한 내용은 [Project Web App의 문제점, 위험 및 문서 관리](/previous-versions/office/project-server-2010/hh767484(v=office.14))를 참조하세요.
   
-## <a name="office-365-trust-center"></a>Office 365 보안 센터
+## <a name="office-365-trust-center"></a>Office 365 Trust Center
 
 고객의 데이터는 고객의 소유입니다. Microsoft는 고객의 데이터와 개인 정보를 안전하게 보호합니다. [Office 365 보안 센터](https://go.microsoft.com/fwlink/?LinkId=402637)를 참조하세요.
   
@@ -53,11 +53,11 @@ Microsoft PPM 솔루션은 PPM 역량을 획득하여 전 세계 80여 국가에
   
 ## <a name="service-updates"></a>서비스 업데이트
 
-Microsoft 서비스는 정기적으로 새로운 기능으로 업데이트됩니다. 서비스 [업데이트를 참조하세요.](../office-365-platform-service-description/service-updates.md)
+새로운 기능으로 Microsoft 서비스 업데이트합니다. 서비스 [업데이트를 참조하세요.](../office-365-platform-service-description/service-updates.md)
   
 ## <a name="team-member-collaboration"></a>Team member collaboration
 
-팀 공동 작업은 전반적인 프로젝트 성공 및 효율성을 지원하고 주도합니다. 조직에서 Project Server 2013을 사용하여 프로젝트에서 공동 작업을 하는 방법을 확인한 자세한 내용은 비디오: 팀과 공동 작업을 [참조합니다.](https://go.microsoft.com/fwlink/?LinkId=402628)
+팀 공동 작업은 전반적인 프로젝트 성공 및 효율성을 지원하고 주도합니다. 조직에서 Project Server 2013을 사용하여 공동 작업을 하는 방법을 확인하면 비디오: 팀과 공동 작업을 [참조합니다.](https://go.microsoft.com/fwlink/?LinkId=402628)
   
 ## <a name="time-and-task-management-for-team-members"></a>Time and task management(팀 구성원용)
 

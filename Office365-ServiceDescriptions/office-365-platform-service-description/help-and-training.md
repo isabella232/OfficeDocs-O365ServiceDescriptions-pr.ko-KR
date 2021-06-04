@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
-description: Microsoft Office 365는 다음과 같은 도움말 및 교육 리소스를 제공합니다.
+description: Microsoft Office 365 도움말 및 교육 리소스를 제공합니다.
 ms.openlocfilehash: 380986f2cc6f962245ea8ae5be12b7c43b9bf2bb
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,11 +21,11 @@ ms.locfileid: "51653240"
 ---
 # <a name="help-and-training"></a>Help and training
 
-Microsoft Office 365는 다음과 같은 도움말 및 교육 리소스를 제공합니다.
+Microsoft Office 365 도움말 및 교육 리소스를 제공합니다.
   
 ## <a name="online-help"></a>온라인 도움말
 
-도움말 문서 및 비디오는 Office 365 포털 및 Microsoft 365 관리 센터의 위쪽 탐색 모음에 있는 도움말 아이콘을 포함하여 서비스의 모든 인라인 도움말 링크에서 사용할 수 있습니다. 모든 Office 365 도움말은 [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)에서도 검색할 수 있습니다. 
+도움말 문서 및 비디오는 Office 365 및 관리 센터의 위쪽 탐색 모음에 있는 도움말 아이콘을 포함하여 서비스의 모든 인라인 도움말 링크에서 Microsoft 365 있습니다. 모든 Office 365 도움말은 [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)에서도 검색할 수 있습니다. 
   
 ## <a name="training"></a>교육
 
@@ -90,15 +90,15 @@ Office 365 커뮤니티 홈 페이지에서는 다음과 같은 리소스에 액
     
 자세한 내용을 보려면 [Office 365 커뮤니티](https://techcommunity.microsoft.com/)를 방문하세요.
   
-## <a name="manage-office-365-guidance"></a>Office 365 지침 관리
+## <a name="manage-office-365-guidance"></a>관리 Office 365 지침
 
-대규모 조직의 IT 전문가는 Office 365 관리 설명서 홈 페이지를 방문할 수 있습니다. 이 페이지에서는 대규모 조직을 위한 복잡한 배포 지침에 대한 링크를 제공합니다.
+대규모 조직의 IT 전문가는 Manage Office 365 홈 페이지를 방문할 수 있습니다. 이 페이지에서는 대규모 조직을 위한 복잡한 배포 지침에 대한 링크를 제공합니다.
   
-자세한 내용은 [Office 365 관리를 방문하세요.](/Office365/)
+자세한 내용은 Manage [Office 365.](/Office365/)
   
 ## <a name="other-self-help-resources"></a>기타 자가 진단 리소스
 
-Office 365에는 Office 365 커뮤니티 및 온라인 도움말 외에도 다음과 같은 자가 도움말 리소스가 포함되어 있습니다.
+자가 Office 365 Community 도움말 외에 Office 365 자가 지원 리소스도 포함되어 있습니다.
   
 - **Office 365용 문제 해결 도구** 고객 자신이 겪고 있는 문제에 대한 몇 가지 짧은 질문에 응답하면 Office 365용 문제 해결 도구는 이 답변을 바탕으로 유용한 도구와 정보를 제안합니다. 도구를 사용하려면 Office 365 커뮤니티의 [Office 365 문제 해결 도구](https://go.microsoft.com/fwlink/?LinkId=272113) 페이지로 이동하세요. 
     
@@ -149,4 +149,4 @@ Office 365에는 Office 365 커뮤니티 및 온라인 도움말 외에도 다�
    
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및 사내 솔루션에서 기능 가용성을 확인하면 [Microsoft 365 및 Office 365](office-365-platform-service-description.md)플랫폼 서비스 설명을 참조하세요.
+계획, 독립 실행형 옵션 및 사내 솔루션에서 기능 가용성을 확인한 경우 Microsoft 365 및 Office 365 [서비스 설명을 참조하세요.](office-365-platform-service-description.md)

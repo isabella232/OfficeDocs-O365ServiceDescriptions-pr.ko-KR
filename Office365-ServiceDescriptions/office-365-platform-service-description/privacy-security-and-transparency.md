@@ -32,7 +32,7 @@ Microsoft Office 365에서 데이터의 개인 정보를 보호하는 방법을 
   
 Enterprise, Business, Government 및 Education 관리자가 Office 365 개인 정보 설정을 구성하기 위해 수행할 수 있는 특정 단계에 대해서는 [관리자에 대한 고급 개인 정보 옵션](https://go.microsoft.com/fwlink/p/?LinkID=285202)을 참조하세요.
   
-엔터프라이즈용 Microsoft 365 앱을 비롯한 다른 Microsoft 서비스의 보안 및 개인 정보 보호에 대한 자세한 내용은 보안 센터가 적용되는 온라인 서비스를 [참조하세요.](https://www.microsoft.com/trustcenter/default.aspx)
+보안 및 개인 정보 보호를 비롯한 다른 Microsoft 서비스 개인 엔터프라이즈용 Microsoft 365 앱 보안 센터가 적용되는 온라인 서비스를 [참조하세요.](https://www.microsoft.com/trustcenter/default.aspx)
   
 ## <a name="security"></a>보안
 
@@ -44,7 +44,7 @@ Microsoft에서 Office 365 서비스를 안전하고 안정적으로 전달하�
   
 ## <a name="advanced-ediscovery"></a>Advanced eDiscovery
 
-전자 검색 또는 eDiscovery는 법률 소송에서 증거로 사용할 수 있는 전자 정보를 식별하고 전달하는 프로세스입니다. Advanced eDiscovery는 Office 365의 기존 eDiscovery 기능 집합을 토대하여 구조화되지 않은 대규모 데이터 집합을 분석하고 법률 사례와 관련된 데이터의 양을 줄일 수 있도록 합니다. Office 365 준수 센터의 검색 기능을 사용하여 조직의 모든 콘텐츠 원본의 초기 검색을 수행함으로써 특정 법률 소송과 관련이 있을 수 있는 데이터를 식별하고 수집할 수 있습니다. 그런 후 고급 eDiscovery의 텍스트 분석, 기계 학습 및 관련성/예측 코딩 기능을 적용하여 해당 데이터를 분석할 수 있습니다. 자세한 내용은 [Advanced eDiscovery 를 참조하세요.](/microsoft-365/compliance/overview-ediscovery-20)
+전자 검색 또는 eDiscovery는 법률 소송에서 증거로 사용할 수 있는 전자 정보를 식별하고 전달하는 프로세스입니다. Advanced eDiscovery 기존 eDiscovery 기능 집합을 Office 365 사용하여 구조화되지 않은 대규모 데이터 집합을 분석하고 법률 사례와 관련된 데이터의 양을 줄일 수 있습니다. Office 365 준수 센터의 검색 기능을 사용하여 조직의 모든 콘텐츠 원본의 초기 검색을 수행함으로써 특정 법률 소송과 관련이 있을 수 있는 데이터를 식별하고 수집할 수 있습니다. 그런 후 고급 eDiscovery의 텍스트 분석, 기계 학습 및 관련성/예측 코딩 기능을 적용하여 해당 데이터를 분석할 수 있습니다. 자세한 내용은 [를](/microsoft-365/compliance/overview-ediscovery-20)Advanced eDiscovery.
   
 ## <a name="customer-lockbox"></a>고객 Lockbox
 
@@ -54,8 +54,8 @@ Customer Lockbox는 Office 365 Enterprise 5 계획에 포함되어 있거나 다
   
 ## <a name="microsoft-defender-for-office-365"></a>Office 365용 Microsoft Defender
 
-Office 365용 Defender는 맬웨어 및 바이러스로부터 조직을 보호하는 데 도움이 됩니다. Office 365용 Defender에는 [안전한](/office365/securitycompliance/atp-safe-links)링크, [안전한](/office365/securitycompliance/atp-safe-attachments)첨부 [파일,](/office365/securitycompliance/atp-anti-phishing)피싱 방지 및 스푸핑 인텔리전스 [기능이 포함되어](/office365/securitycompliance/learn-about-spoof-intelligence) 있습니다. 안전한 링크는 메시지의 악의적인 하이퍼링크로부터 사용자를 사전 보호하여 링크를 선택할 때마다 보호 기능을 제공합니다. 안전한 첨부 파일은 알 수 없는 맬웨어 및 바이러스로부터 보호하며, 알려진 바이러스/맬웨어 서명이 없는 모든 메시지와 첨부 파일을 Office 365용 Defender가 악의적인 의도를 감지할 수 있는 특수한 환경으로 라우팅합니다. Office 365용 Defender에 대한 자세한 내용은 [Microsoft Defender for Office 365 서비스 설명을 참조하세요.](../office-365-advanced-threat-protection-service-description.md)
+Defender for Office 365 맬웨어 및 바이러스로부터 조직을 보호하는 데 도움이 됩니다. Defender for Office 365 [안전한](/office365/securitycompliance/atp-safe-links) [링크,](/office365/securitycompliance/atp-safe-attachments)안전한 첨부 [파일,](/office365/securitycompliance/atp-anti-phishing)피싱 방지 및 스푸핑 인텔리전스 [기능이](/office365/securitycompliance/learn-about-spoof-intelligence) 포함되어 있습니다. 안전한 링크는 메시지의 악의적인 하이퍼링크로부터 사용자를 사전 보호하여 링크를 선택할 때마다 보호 기능을 제공합니다. 안전한 첨부 파일은 알 수 없는 맬웨어 및 바이러스로부터 보호하며, 알려진 바이러스/맬웨어 서명이 없는 모든 메시지와 첨부 파일을 특수한 환경으로 라우팅합니다. 이러한 특수한 환경으로 라우팅하여 Office 365 의도를 감지할 수 있습니다. Defender for Office 365 자세한 내용은 Microsoft [Defender for Office 365 설명을 참조하세요.](../office-365-advanced-threat-protection-service-description.md)
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획 간 기능 가용성을 확인 내용은 [Microsoft 365 및 Office 365 플랫폼 서비스 설명을 참조하세요.](office-365-platform-service-description.md)
+계획 간 기능 가용성을 확인하면 플랫폼 [Microsoft 365 Office 365 설명을 참조하세요.](office-365-platform-service-description.md)

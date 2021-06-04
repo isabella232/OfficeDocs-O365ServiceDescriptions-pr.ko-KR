@@ -37,5 +37,5 @@ Yammer에서는 다음과 같은 그룹 기능을 사용할 수 있습니다.
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 서비스 [Yammer 참조하세요.](yammer-service-description.md)
+계획, 독립 실행형 옵션 및온-프레미스 솔루션에 대한 기능 가용성을 확인 내용은 Yammer [설명을 참조하세요.](yammer-service-description.md)
   

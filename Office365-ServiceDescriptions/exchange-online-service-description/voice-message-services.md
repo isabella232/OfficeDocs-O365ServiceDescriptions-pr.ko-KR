@@ -46,7 +46,7 @@ Microsoft Exchange Online에서는 호스트된 음성 메일 서비스를 제�
     
 - 전화 응답 규칙(자세한 내용은 음성 메일 사용자가 통화를 전달할 수 [있도록 허용](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-voice-mail-users-to-forward-calls) 참조)
     
-- Exchange Online의 보호된 음성 메일(자세한 내용은 [Exchange Online에서](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail) 음성 메일 보호 참조).
+- 보안 서버의 보호된 음성 [Exchange Online(자세한](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail) 내용은 Exchange Online 음성 메일 보호 참조).
     
 - 음성 메일 미리 [보기(지원되는](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-users-to-see-a-voice-mail-transcript) 언어 목록은 사용자가 음성 메일 설명을 볼 수 있도록 허용 참조).
     
@@ -56,16 +56,16 @@ Microsoft Exchange Online에서는 호스트된 음성 메일 서비스를 제�
     
 - Outlook Voice Access 또는 자동 전화 교환을 통한 디렉터리 검색.
     
-음성 메일 기능에 대한 자세한 내용은 [Exchange Online의 음성 메일을 참조하세요.](/exchange/voice-mail-unified-messaging/voice-mail-unified-messaging)
+음성 메일 기능에 대한 자세한 내용은 에서 [음성 메일을 Exchange Online.](/exchange/voice-mail-unified-messaging/voice-mail-unified-messaging)
   
 > [!IMPORTANT]
 > The Automatic Speech Recognition (ASR) feature isn't available in menu navigation or directory search for Outlook Voice Access users or auto attendant callers using voice commands. 
 >
-> 고객은 VoIP 게이트웨이와 PBX, IP PBX 또는 비즈니스용 Skype 서버 2015를 사용하여 PSTN(Public Switched Telephone Network)에서 전화 통신 연결을 제공해야 합니다. 
+> 고객은 VoIP 게이트웨이와 PBX, IP PBX 또는 2015를 사용하여 PSTN(공용 전화망)에서 전화 통신 연결을 비즈니스용 Skype 서버 합니다. 
 >
 > 고객은 온-프레미스 SBC 하드웨어 장치를 제공하고 이 SBC가 온라인 음성 메일 서비스에 연결하도록 올바르게 구성되어 있는지 확인해야 합니다. 여기에는 인증서와 공용 및 개인 IP 인터페이스를 사용하고 온-프레미스 방화벽을 통해 올바른 TCP 포트를 사용하여 적절한 보안 수준을 구성하는 것이 포함됩니다. 
 >
-> 호스팅된 음성 메일은 Exchange Online 계획 2 및 Office 365 Enterprise E3 구독자만 사용할 수 있습니다. 
+> 호스팅된 음성 메일은 요금제 2 및 Exchange Online E3 구독자만 Office 365 Enterprise 사용할 수 있습니다. 
   
 ## <a name="third-party-voice-mail-interoperability"></a>타사 음성 사서함 상호 운용성
 
@@ -76,8 +76,8 @@ Microsoft Exchange Online에서는 호스트된 음성 메일 서비스를 제�
   
 ## <a name="skype-for-business-integration"></a>비즈니스용 Skype 통합
 
-조직에서는 비즈니스용 Skype Online을 독립 실행형 서비스로 또는 Microsoft Office 365의 일부분으로 구입할 수 있습니다. 비즈니스용 Skype 2015 사내도 지원됩니다. 비즈니스용 Skype Online에 대한 자세한 내용은 비즈니스용 Skype Online 서비스 [설명을 참조하세요.](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)
+조직에서는 비즈니스용 Skype Online을 독립 실행형 서비스로 또는 Microsoft Office 365의 일부분으로 구입할 수 있습니다. 비즈니스용 Skype 2015 On-premises도 지원됩니다. 온라인 비즈니스용 Skype 자세한 내용은 비즈니스용 Skype [서비스 설명을 참조하세요.](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 Exchange Online 서비스 [설명을 참조하세요.](exchange-online-service-description.md)
+계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인한 경우 서비스 [Exchange Online 참조하세요.](exchange-online-service-description.md)

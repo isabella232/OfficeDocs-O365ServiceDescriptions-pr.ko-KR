@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: 이 문서에서는 비즈니스용 Skype Online에 적용된 제한에 대해 설명합니다.
+description: 이 문서에서는 온라인에서 적용된 제한에 대해 비즈니스용 Skype 설명하고 있습니다.
 ms.openlocfilehash: cd21b8b1feb3547c529c4bcdaa73832e2e48e3f8
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -34,13 +34,13 @@ ms.locfileid: "51653370"
 - [분 한도](skype-for-business-online-limits.md#minute-limits)
     
 > [!NOTE]
-> Microsoft 365 조직에 적용되는 제한은 조직이 서비스에 등록된 기간에 따라 다를 수 있습니다. 제한이 Microsoft 데이터 센터에서 변경된 경우 기존의 모든 고객에게 변경 사항을 적용하는 데 시간이 걸릴 수 있습니다. 
+> 조직에 적용되는 제한은 Microsoft 365 조직이 서비스에 등록된 기간에 따라 다를 수 있습니다. 제한이 Microsoft 데이터 센터에서 변경된 경우 기존의 모든 고객에게 변경 사항을 적용하는 데 시간이 걸릴 수 있습니다. 
   
 ## <a name="peer-to-peer-limits"></a>피어-투-피어 제한
 
-- **파일 전송 제한** - 비즈니스용 Skype Online IM 대화에서 전송할 수 있는 파일의 최대 크기입니다. 파일 전송이 차단된 파일 형식을 확인하려면 [비즈니스용 Skype Online에서 파일 또는 첨부 파일 보내고 받기](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments)에 대한 Microsoft 지원 문서를 참조하세요.
+- **파일 전송 제한** - 온라인 IM 대화에서 전송할 수 있는 비즈니스용 Skype 크기입니다. 파일 전송이 차단된 파일 형식을 확인하려면 [비즈니스용 Skype Online에서 파일 또는 첨부 파일 보내고 받기](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments)에 대한 Microsoft 지원 문서를 참조하세요.
     
-- **탭 대화** 열기 제한 - 비즈니스용 Skype 사용자가 한 번 열 수 있는 최대 대화 탭 수입니다. 
+- **탭 대화** 열기 제한 - 한 비즈니스용 Skype 수 있는 최대 대화 탭 수입니다. 
     
 ### <a name="peer-to-peer-limits"></a>피어-투-피어 제한 
 
@@ -51,30 +51,30 @@ ms.locfileid: "51653370"
 |대화 탭 열기 제한  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |해당 없음  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 클라이언트는 그룹을 수동으로 추가하거나 그룹 또는 메일 그룹의 상황에 맞는 메뉴에서 인스턴트 메시지를 보내 최대 99명 사용자와 채팅을 시작할 수 있습니다. 비즈니스용 Skype Online의 인스턴트 메시징에 대한 자세한 내용은 비즈니스용 [Skype에서 메신저 보내기 를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=533412) 
+> <sup>1</sup> 클라이언트는 그룹을 수동으로 추가하거나 그룹 또는 메일 그룹의 상황에 맞는 메뉴에서 인스턴트 메시지를 보내 최대 99명 사용자와 채팅을 시작할 수 있습니다. 비즈니스용 Skype Online의 인스턴트 메시징에 대한 자세한 내용은 [비즈니스용 Skype.](https://go.microsoft.com/fwlink/?linkid=533412) 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>독립 실행형 옵션별 피어-투-피어 제한
 
-| 기능 | Business Server 2015용 Skype | 비즈니스용 Skype Online 독립 실행형 계획 &nbsp; 1 | 비즈니스용 Skype Online 독립 실행형 계획 &nbsp; 2 |
+| 기능 | Business Server 2015용 Skype | 비즈니스용 Skype 온라인 독립 실행형 계획 &nbsp; 1 | 비즈니스용 Skype 온라인 독립 실행형 계획 &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |파일 전송 제한  <br/> |제한 없음  <br/> |제한 없음  <br/> |제한 없음  <br/> |
 |대화 제한<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
 |대화 탭 열기 제한  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 클라이언트는 그룹을 수동으로 추가하거나 그룹 또는 메일 그룹의 상황에 맞는 메뉴에서 인스턴트 메시지를 보내 최대 99명 사용자와 채팅을 시작할 수 있습니다. 비즈니스용 Skype Online의 인스턴트 메시징에 대한 자세한 내용은 비즈니스용 [Skype에서 메신저 보내기 를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=533412) 
+> <sup>1</sup> 클라이언트는 그룹을 수동으로 추가하거나 그룹 또는 메일 그룹의 상황에 맞는 메뉴에서 인스턴트 메시지를 보내 최대 99명 사용자와 채팅을 시작할 수 있습니다. 비즈니스용 Skype Online의 인스턴트 메시징에 대한 자세한 내용은 [비즈니스용 Skype.](https://go.microsoft.com/fwlink/?linkid=533412) 
   
 ## <a name="meeting-limits"></a>모임 제한
 
-- **파일 업로드 제한** - 유인 파일 및 PowerPoint 프레젠테이션을 포함하여 비즈니스용 Skype 모임에 업로드할 수 있는 파일의 최대 크기입니다. 
+- **파일 업로드 제한** - 유인 파일 및 프레젠테이션을 포함하여 비즈니스용 Skype 모임에 업로드할 수 있는 파일의 최대 PowerPoint. 
     
-- **비즈니스용 Skype** 모임의 참가자 - 단일 비즈니스용 Skype 모임에 참가할 수 있는 최대 참가자 수(발표자 포함)입니다. 
+- **비즈니스용 Skype** 모임의 참가자 - 단일 모임에 참가할 수 있는 최대 참가자 수(발표자 포함)비즈니스용 Skype. 
     
-- **비즈니스용 Skype** 모임의 발표자 - 단일 비즈니스용 Skype 모임의 최대 발표자 수입니다. 
+- **비즈니스용 Skype** 모임의 발표자 - 단일 모임의 최대 발표자 비즈니스용 Skype. 
     
-- **비즈니스용 Skype 웹앱 모임** 참가자 - 모임에 참가할 수 있는 최대 비즈니스용 Skype 웹 앱 모임 참가자 수입니다. 
+- **비즈니스용 Skype 웹앱** 모임 참가자 - 모임에 참가할 비즈니스용 Skype 웹앱 모임 참가자의 최대 수입니다. 
     
-- **비즈니스용 Skype 웹** 앱 익명 참가자 - 익명으로 모임에 참가할 수 있는 최대 비즈니스용 Skype 웹 앱 모임 참가자 수입니다. 
+- **비즈니스용 Skype 웹앱 익명** 참가자 - 익명으로 모임에 참가할 비즈니스용 Skype 웹앱 모임 참가자의 최대 수입니다. 
     
 - **전화로 참가하는 게스트** - 모임에 전화를 걸 수 있는 최대 게스트 수입니다. 
     
@@ -95,7 +95,7 @@ ms.locfileid: "51653370"
   
 ### <a name="meeting-limits-across-standalone-options"></a>독립 실행형 옵션별 모임 제한
 
-| 기능 | Business Server 2015용 Skype | 비즈니스용 Skype Online 독립 실행형 계획 &nbsp; 1 | 비즈니스용 Skype Online 독립 실행형 계획 &nbsp; 2 |
+| 기능 | Business Server 2015용 Skype | 비즈니스용 Skype 온라인 독립 실행형 계획 &nbsp; 1 | 비즈니스용 Skype 온라인 독립 실행형 계획 &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |파일 업로드 제한  <br/> |500MB  <br/> |해당 없음  <br/> |500MB  <br/> |
 |비즈니스용 Skype 모임의 참가자  <br/> |250  <br/> |해당 없음  <br/> |250  <br/> |
@@ -107,7 +107,7 @@ ms.locfileid: "51653370"
    
 ## <a name="meeting-retention-limits"></a>모임 보존 제한
 
-- **모임 콘텐츠** 보존 기간 - 마지막 사람이 모임을 떠나 업로드된 모임 콘텐츠가 영구적으로 삭제되기 전에 비즈니스용 Skype에서 보존되는 시간입니다. 
+- **모임 콘텐츠** 보존 기간 - 마지막 사람이 모임을 떠나 업로드된 모임 콘텐츠가 영구적으로 삭제되기 비즈니스용 Skype 보존되는 시간입니다. 
     
 - **모임 만료 기간** - 모임이 종료된 후 사용자가 모임에 액세스할 수 있는 시간입니다. 
     

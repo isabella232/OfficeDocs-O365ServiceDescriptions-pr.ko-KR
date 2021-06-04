@@ -23,30 +23,30 @@ ms.locfileid: "51653510"
 
 Yammer 최고의 보안 및 개인 엔터프라이즈 소셜 네트워크입니다. Yammer를 통해 직원들은 손쉽게 공동 작업을 수행하고 더욱 신속하게 의사 결정하고 비즈니스 과제를 담당하는 팀으로 자가 조직화할 수 있기 때문에 더욱 강력한 생산성을 갖추고 성과를 올릴 수 있습니다. Yammer는 비즈니스 제휴 및 민첩성을 자연스럽게 유도하면서 주기 시간을 줄이고 직원 간의 공동 작업을 진행하고 고객과 파트너와의 관계를 향상시킬 수 있는 새로운 작업 방식입니다.
   
-이 목록에 포함된 계획 목록은 Yammer 서비스 패밀리 및 계획을 [참조하세요.](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans)
+이 목록에 포함된 계획 목록은 Yammer [요금제 를 참조하세요.](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans)
   
 사용자가 구독을 사용하도록 설정하는 구독에 대한 자세한 Yammer 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
 ## <a name="system-requirements"></a>시스템 요구 사항
 
-비즈니스, 교육 및 정부 조직에서 사용할 수 있는 월별 구독 기반 서비스인 Office 365에 대한 시스템 요구 사항은 [Microsoft 365 및 Office 리소스를 참조하세요.](https://products.office.com/office-system-requirements/#Office365forBEG)
+비즈니스, 교육 Office 365 조직에서 사용할 수 있는 월별 구독 기반 서비스인 조직의 시스템 요구 사항에 대한 자세한 내용은 Microsoft 365 및 Office [리소스를 참조하세요.](https://products.office.com/office-system-requirements/#Office365forBEG)
   
 ## <a name="yammer-plans"></a>Yammer 계획
 
 Yammer는 다음 계획을 통해 사용할 수 있습니다.<br><br>
   
-| 계획 | 설명 |
+| 플랜 | 설명 |
 |:-----|:-----|
 |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |언제 어디서든 사용 가능한 기업용 소셜 네트워킹입니다.  <br/> |
-|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |고급 보안, 관리 및 통합이 있는 엔터프라이즈 소셜 네트워킹.  <br/> |
+|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |Enterprise, 관리 및 통합을 통해 소셜 네트워킹을 구축할 수 있습니다.  <br/> |
    
 > [!NOTE]
-> [Microsoft 365 및 Office 365](../office-365-platform-service-description/office-365-platform-service-description.md) 플랫폼 서비스 설명에 설명된 기능 및 정책은 Yammer 서비스에 적용되지 않습니다. 
+> Microsoft 365 및 Office 365 [](../office-365-platform-service-description/office-365-platform-service-description.md) 플랫폼 서비스 설명에 설명된 기능과 정책은 Yammer 서비스에 적용되지 않습니다. 
   
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer 서비스 통신 정책
 <a name="YammerCommsPolicy"> </a>
 
-Yammer [Microsoft 365](https://aka.ms/ManageChange)변경 관리 정책을 준수하지만 대상 지정 릴리스를 사용하여 업데이트를 배포하지는 않습니다. 
+Yammer 변경 관리 Microsoft 365 [](https://aka.ms/ManageChange)준수하지만 대상이 지정한 릴리스를 사용하여 업데이트를 배포하지는 않습니다. 
   
 모든 Yammer 사용자는 A/B 기능 테스트의 대상입니다. 이를 통해 Microsoft는 많은 환경 및 장치에서 안정성, 성능 및 환경 개선을 위한 기능을 테스트할 수 있습니다. 같은 네트워크 내의 사용자라도 테스트로 인해 환경이 달라질 수 있습니다. 고객은 A/B 테스트를 거부할 수 없습니다.
   
@@ -56,7 +56,7 @@ Yammer [Microsoft 365](https://aka.ms/ManageChange)변경 관리 정책을 준�
   
 | 변경 유형 | 통신 채널 |
 |:-----|:-----|
-|**작업이 필요한 변경 내용(변경 계획)** <br/>서비스를 계속 실행하기 위해 변경해야 하는 관리자, 조직의 규정 준수에 영향을 줄 수 있는 업데이트  <br/> |- 확인된 관리자에게 직접 Office 365 Yammer 전자 메일 <br/>- Microsoft 365 로드맵<br/>- Yammer 업데이트<br/>- 외부 그룹<br/>대상 사용자 집합에 영향을 주는 변경 내용을 통해 해당 사용자에게 직접 알릴 수도 있습니다. |
+|**작업이 필요한 변경 내용(변경 계획)** <br/>서비스를 계속 실행하기 위해 변경해야 하는 관리자, 조직의 규정 준수에 영향을 줄 수 있는 업데이트  <br/> |- Office 365 확인된 관리자에게 직접 Yammer 메시지 센터 전자 메일 <br/>- Microsoft 365 로드맵<br/>- Yammer 업데이트<br/>- 외부 그룹<br/>대상 사용자 집합에 영향을 주는 변경 내용을 통해 해당 사용자에게 직접 알릴 수도 있습니다. |
 |**인식이 필요한 변경 내용(최신 정보 유지)**<br/>관리자 작업이 필요하지 않은 변경 내용, 시각적 디자인 변경  <br/> |- Office 365 메시지 센터<br/>- Microsoft 365 로드맵<br/>- Yammer 업데이트<br/>- 외부 그룹<br/>대상 사용자 집합에 영향을 주는 변경 내용을 통해 해당 사용자에게 직접 알릴 수도 있습니다. |
 |**중요하지 않은 경우** <br/>중요하지 않은 변경 내용으로, 일부 사용자가 관찰할 수 있는 경우에도 작업이나 인식이 필요하지 않습니다.  <br/> |광범위하게 통신되지 않음 |
    

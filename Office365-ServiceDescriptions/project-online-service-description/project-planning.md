@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
-description: Project Online에서는 다음과 같은 프로젝트 계획 기능을 사용할 수 있습니다.
+description: 다음 프로젝트 계획 기능은 다음 프로젝트 계획 Project Online.
 ms.openlocfilehash: e4bc924484bbebf48f5308c2ed406b65f6fc9887
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,11 +21,11 @@ ms.locfileid: "51651053"
 ---
 # <a name="project-planning"></a>프로젝트 계획
 
-Project Online에서는 다음과 같은 프로젝트 계획 기능을 사용할 수 있습니다.
+다음 프로젝트 계획 기능은 다음 프로젝트 계획 Project Online.
   
-모든 Project Online 기능에 대한 정보를 원하십니까? Project [Online 서비스 설명을 참조하세요.](project-online-service-description.md)
+모든 Project Online 기능에 대한 정보를 원하십니까? 자세한 [내용은 Project Online 설명을 참조하세요.](project-online-service-description.md)
   
-## <a name="baseline-rollup"></a>초기 계획 롤업
+## <a name="baseline-rollup"></a>Baseline rollup
 
 초기 계획 데이터를 롤업하거나 요약 행에 요약할 수 있습니다. 자세한 내용은 [초기 계획 설정 및 저장](https://go.microsoft.com/fwlink/p/?LinkId=271346)을 참조하세요.
   
@@ -45,7 +45,7 @@ Project Online에서는 다음과 같은 프로젝트 계획 기능을 사용할
 
 계획에서 임의의 값을 기준으로 프로젝트 계획을 필터링합니다. 자세한 내용은 [사용자 지정 필터 만들기](https://go.microsoft.com/fwlink/p/?LinkId=271341)를 참조하세요.
   
-## <a name="formulas-and-graphical-indicators"></a>수식 및 그래픽 표시기
+## <a name="formulas-and-graphical-indicators"></a>Formulas and graphical indicators
 
 열에 그림을 추가하여 일정 진행률을 표시합니다. 자세한 내용은 [표시기 추가](https://go.microsoft.com/fwlink/p/?LinkId=271340)를 참조하세요.
   
@@ -63,5 +63,5 @@ Project 2016에서는 데이터를 다른 프로그램으로 내보낼 필요 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및 사내 솔루션에 대한 기능 가용성을 확인하면 Project Online 서비스 [설명을 참조하세요.](project-online-service-description.md)
+계획, 독립 실행형 옵션 및 사내 솔루션에서 기능 가용성을 확인한 경우 서비스 [Project Online 참조하세요.](project-online-service-description.md)
   
