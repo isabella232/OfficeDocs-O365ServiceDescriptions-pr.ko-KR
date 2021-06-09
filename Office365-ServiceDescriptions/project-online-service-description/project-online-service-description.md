@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 프로젝트 포트폴리오 관리(프로젝트 포트폴리오 관리) 및 일상 업무를 PPM 유연한 온라인 솔루션입니다. Office 365 통해 Project Online 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획, 우선 순위 지정 및 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: 3b8748a07bee29e12552d096e56eae84cfdc4c04
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 6fce6aca852f0c8bac6572b130a6f7da1b89ef79
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545925"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798484"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 서비스 설명
 
@@ -127,7 +127,7 @@ Microsoft Project 조직의 요구 사항을 가장 잘 충족하기 위해 세 
 |**보안 및 사용자 관리**||||||
 |Office 최신 그룹 | 프로젝트 팀을 구성하여 팀 구성원이 공유할 리소스 모음을 쉽게 설정할 수 있습니다. | 예 | 예 | 예 | 예 |
 |**타사 앱**||||||
-|커넥트 *Project* <sup>4를</sup> 사용하여 웹용 웹을 사용할 수 있습니다. | 사용자 지정 또는 타사 응용 프로그램을 사용하여 모든 기본 Project 테이블의 데이터를 보거나, 만들거나, 업데이트하거나 Project 있습니다. | 아니요 | 예 | 예 | 예 |
+|커넥트 *Project* <sup>4를</sup> 사용하여 웹용 웹을 사용할 수 있습니다. | 사용자 지정 또는 타사 응용 프로그램을 사용하여 모든 기본 Project 테이블의 데이터를 보거나, 만들거나, 업데이트하거나 Project 있습니다. | 보기만<sup>11</sup> | 예 | 예 | 예 |
 
 ### <a name="project-online-features"></a>Project Online 기능
 
@@ -212,6 +212,7 @@ Microsoft Project 조직의 요구 사항을 가장 잘 충족하기 위해 세 
 <sup>8</sup> 사용자 또는 Project 플랜 3 Project 플랜 5 리소스 계약 요청을 제출할 수 있습니다. 리소스 계약 요청을 검토, 이행 또는 승인할 수 없습니다.</br>
 <sup>9</sup> 구독이 Project 플랜 5 리소스 계약 요청을 검토, 이행 및 승인할 수 있습니다.</br>
 <sup>10</sup> Active Directory를 사용하려면 별도의 구독이 필요합니다. </br>
+<sup>11</sup> 보기 권한만 Power App 내에서만 부여됩니다. </br>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online 데스크톱 클라이언트 기능
 

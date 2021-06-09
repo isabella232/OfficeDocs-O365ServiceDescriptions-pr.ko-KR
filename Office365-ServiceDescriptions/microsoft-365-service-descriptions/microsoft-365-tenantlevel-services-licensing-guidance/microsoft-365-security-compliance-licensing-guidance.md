@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 허가되지 않은 액세스로 Microsoft 365 서비스 중단을 방지하는 데 도움이 되는 규정 준수를 위한 라이선스 지침을 제공합니다.
-ms.openlocfilehash: d1bbf0d60d78d12d0d48ce909dba72ef2478a0c0
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 76b85a49f9a1dd5c48db471d7be3a21559d93d77
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699064"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798474"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 라이선스 &amp; 지침
 
@@ -198,7 +198,7 @@ E1 및 E3/G3 라이선스가 있는 고객은 기본 데이터 보호 기준 평
 
 준수 관리자는 테넌트에 대해 기본적으로 프로비전됩니다. 관리자는 조직의 관리자가 아닌 사용자가 준수 관리자 사용을 시작할 수 있도록 사용자 권한을 설정하고 역할을 할당합니다. 자세한 내용은 준수 관리자 시작: 사용자 권한 설정 및 역할 [할당을 참조하세요.](/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)
 
-## <a name="microsoft-defender-for-endpoint"></a>끝점용 Microsoft Defender
+## <a name="microsoft-defender-for-endpoint"></a>엔드포인트용 Microsoft Defender
 
 끝점용 Microsoft Defender(이전의 Microsoft Defender ATP)는 위험 기반 보안 솔루션으로, 위험 기반 취약성 관리 솔루션입니다. 공격 표면 감소 기능 동작 기반 및 클라우드 기반 차세대 보호 끝점 검색 및 응답(EDR); 자동 조사 및 수정 및 관리되는 헌팅 서비스. 자세한 [내용은 끝점용 Microsoft Defender 페이지를](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 참조하세요.
 
@@ -303,8 +303,6 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 준수, Microsoft 365 정보 보�
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, Microsoft 365 E5/A5/G5 정보 보호 및 거버넌스에서는 학습 가능한 분류자에 따라 보존 레이블을 자동으로 적용하여 혜택을 받을 수 있는 권한을 사용자에게 제공합니다.
 
-라이선스별 특정 권한은 규정 준수 라이선싱 Microsoft 365 참조합니다. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
 기본적으로 정보 거버넌스 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 라이선스가 있는 사용자에 대해 자동레이블 및 정책을 적용하기 위해 정보 거버넌스를 구성하는 데 대한 자세한 내용은 에서 [Microsoft 정보 거버넌스를 Microsoft 365.](/microsoft-365/compliance/manage-information-governance)
@@ -322,8 +320,6 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, Microsoft 365 E5/A
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, Microsoft 365 Information Protection 및 거버넌스 E5/A5/G5 및 Office 365 E5/A5/G5는 항목을 레코드 또는 규정 레코드로 선언하고 보존 또는 레코드 레이블을 자동으로 적용하고 처리 검토 프로세스 실행(학습 가능한 분류자를 기반으로 보존 레이블 자동 적용 제외)을 비롯한 레코드 관리를 사용할 수 있는 권한을 제공합니다.
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 Microsoft 365 정보 보호 및 거버넌스를 통해 학습 가능한 분류자를 기반으로 보존 또는 기록 레이블을 자동으로 적용하여 혜택을 받을 수 있는 권한을 사용자에게 제공합니다.
-
-라이선스별 특정 권한은 규정 준수 라이선싱 Microsoft 365 참조합니다. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 는 강력한 제로 데이 보호를 제공하여 알 수 없는 맬웨어 및 바이러스로부터 조직을 보호하는 클라우드 기반 전자 메일 필터링 서비스로, 유해한 링크로부터 조직을 실시간으로 보호하는 기능을 포함합니다.
-ms.openlocfilehash: 76b4d2e53c8a2942d4b974c5289c9ae4c8854b72
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 2f93551be9df45e6108d81da9d7a50bba53be549
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545975"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798454"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Office 365용 Microsoft Defender 서비스 설명
 
@@ -69,7 +69,7 @@ We are continuing to add new features to Defender for Office 365. Office 365 (�
 
 - [Microsoft 365 로드맵](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
 
-- [Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
+- [Microsoft Defender for Office 365 - Office 365 | Microsoft Docs](/microsoft-365/security/office-365-security/whats-new-in-defender-for-office-365)
 
 ## <a name="requirements-for-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 보안 및 준수 센터는 조직 전체에서 규정 &amp; Office 365 수 있도록 디자인되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: 9f4c644905f606d00e6a40d23ded56744e397c50
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 8fc8c0a6d127dd1565a954a5368b56fc37bcc47d
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699104"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798464"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -116,7 +116,7 @@ ms.locfileid: "52699104"
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365 보안 및 준수 센터 &amp; 가용성
 
-규정 준수 센터는 21Vianet에서 운영하는 Office 365 E3 계획에서 사용할 수 있습니다.
+규정 준수 센터는 [21Vianet에서](/office365/servicedescriptions/office-365-platform-service-description/office-365-operated-by-21vianet)운영하는 Office 365 E3 계획에서 사용할 수 있습니다.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>독일에서 &amp; 보안 Office 365 가용성
 
