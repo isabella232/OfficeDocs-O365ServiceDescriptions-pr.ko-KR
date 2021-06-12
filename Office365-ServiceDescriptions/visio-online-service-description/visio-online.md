@@ -1,5 +1,5 @@
 ---
-title: 웹용 Visio
+title: Visio 기능 세부 정보
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio 위해 Microsoft Visio 환경을 브라우저로 확장하여 클라우드에 저장된 다이어그램을 만들고 편집할 수 있습니다. Microsoft 365, 인쇄 및 공유하고 이동 중 주석을 삽입할 수 있습니다.
-ms.openlocfilehash: 936b08c6b00532d85b6e0426ae11e29d45a78cda
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: e8e395c91d0bb7c018dd4451a6491c2b209ec4f2
+ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653640"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52906764"
 ---
-# <a name="visio-for-the-web"></a>웹용 Visio
+# <a name="visio-features-detail"></a>Visio 기능 세부 정보
 
 Visio 위해 Microsoft Visio 환경을 브라우저로 확장하여 클라우드에 저장된 다이어그램을 만들고 편집할 수 있습니다. Microsoft 365, 인쇄 및 공유하고 이동 중 주석을 삽입할 수 있습니다. 구독이 Visio 경우 다음 섹션에 설명된 기능과 같은 추가 기능을 사용할 수 있습니다.
   
