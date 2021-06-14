@@ -91,7 +91,7 @@
 ### [보고 및 비즈니스 인텔리전스](project-online-service-description/reporting-and-business-intelligence.md)
 ### [자원 관리](project-online-service-description/resource-management.md)
 ## [웹용 Visio 서비스 설명](visio-online-service-description/visio-online-service-description.md)
-### [웹용 Visio](visio-online-service-description/visio-online.md)
+### [Visio 기능 세부 정보](visio-online-service-description/visio-online.md)
 ## [Yammer 서비스 설명](yammer-service-description/yammer-service-description.md)
 ### [Yammer의 그룹 기능](yammer-service-description/group-features-in-yammer.md)
 ### [Yammer의 프로필 기능](yammer-service-description/profile-features-in-yammer.md)
