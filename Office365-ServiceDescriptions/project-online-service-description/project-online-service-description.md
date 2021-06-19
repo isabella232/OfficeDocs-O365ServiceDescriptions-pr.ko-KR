@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 프로젝트 포트폴리오 관리(프로젝트 포트폴리오 관리) 및 일상 업무를 PPM 유연한 온라인 솔루션입니다. Office 365 통해 Project Online 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획, 우선 순위 지정 및 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: 6fce6aca852f0c8bac6572b130a6f7da1b89ef79
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: fde1441db90bd24316c5b5d3ba9316f8717ac650
+ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798484"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53022001"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 서비스 설명
 
@@ -278,11 +278,11 @@ Project Online 작업의 일부로 프로비전된 SharePoint Online을 Project 
 
 ### <a name="project-roadmap-and-power-automate"></a>Project 로드맵 및 Power Automate
 
-Project 로드맵을 사용하려면 Power Automate 구독의 일부로 프로비전되는 Project 필요합니다. Power Automate 권한은 Power Automate 로드맵에 필요한 Project 기능으로 제한됩니다. Power Automate 로드맵에 필요한 Project 기능은 Project 관리 센터의  앱 섹션에서 Flow 서비스 계획에 대한  데이터 Microsoft 365 표시됩니다.
+Project 로드맵을 사용하려면 Power Automate 구독의 일부로 프로비전되는 Project 필요합니다. Power Automate 권한은 Power Automate 로드맵에 필요한 Project 기능으로 제한됩니다. Power Automate 로드맵에 필요한 Project 기능은 Project 앱 섹션의  Flow 서비스 계획에 대한 데이터 통합으로 Microsoft 365 관리 센터. 
 
 ### <a name="project-for-the-web-and-microsoft-dataverse"></a>Project 및 Microsoft Dataverse에 대한 추가 정보
 
-Project 위해 Microsoft Dataverse를 사용하여 해당 데이터를 저장해야 합니다. Microsoft Dataverse 데이터베이스는 사용자 구독의 일부로 Project 프로비전됩니다. Microsoft Dataverse 기능에 대한 권한은 웹용 데이터를 지원하기 위해 데이터를 저장하고 액세스하는 Project 제한됩니다. Project 필요한 Microsoft Dataverse 기능은 Project 관리  센터의 앱 섹션에서 Project 서비스  계획에 대한 일반 데이터 Microsoft 365 표시됩니다.
+Project 위해 Microsoft Dataverse를 사용하여 해당 데이터를 저장해야 합니다. Microsoft Dataverse 데이터베이스는 사용자 구독의 일부로 Project 프로비전됩니다. Microsoft Dataverse 기능에 대한 권한은 웹용 데이터를 지원하기 위해 데이터를 저장하고 액세스하는 Project 제한됩니다. Project 필요한 Microsoft Dataverse 기능은 Project 앱  섹션에 Project 서비스 요금제로 Microsoft 365 관리 센터. 
 
 Project 5명 이상의 웹 라이선스를 Project 고객의 경우 웹 Project 플랫폼 프로덕션 및 샌드박스 환경에 배포할 수 있습니다.
 
@@ -297,6 +297,11 @@ Project 5명 이상의 웹 라이선스를 Project 고객의 경우 웹 Project 
 ### <a name="data-backup-and-retention"></a>데이터 백업 및 보존
 
 Project 및 Project Online 데이터 백업 및 보존 정책이 Office 365. 자세한 내용은 에서 데이터 보존, 삭제 및 [폐기 Office 365.](/office365/Enterprise/office-365-data-retention-deletion-and-destruction-overview)
+
+### <a name="data-encryption"></a>데이터 암호화
+
+- Project Online 데이터 암호화에 대한 자세한 내용은 비즈니스용 OneDrive and SharePoint Online - Microsoft 365 [Compliance | Microsoft Docs](/microsoft-365/compliance/data-encryption-in-odb-and-spo)
+- 웹용 웹 응용 Project 암호화에 대한 자세한 내용은 [Microsoft Dynamics 365의 암호화 - 준수 Microsoft 365 참조하세요| Microsoft Docs](/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)
 
 ### <a name="project-for-the-web-boundaries-and-limitations"></a>Project 경계 및 제한에 대한 자세한 사항
 

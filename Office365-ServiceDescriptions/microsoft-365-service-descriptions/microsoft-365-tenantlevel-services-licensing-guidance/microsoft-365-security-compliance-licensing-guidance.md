@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 허가되지 않은 액세스로 Microsoft 365 서비스 중단을 방지하는 데 도움이 되는 규정 준수를 위한 라이선스 지침을 제공합니다.
-ms.openlocfilehash: dc52a66990114f9c74ca815c9525f34175e7995b
-ms.sourcegitcommit: 0bf671ec5b5ba16bcdc730b88e2607d85a3d4497
+ms.openlocfilehash: 00124a252a0e14a4ac78854385817a6c949e9f67
+ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52950167"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53021971"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 라이선스 &amp; 지침
 
@@ -260,7 +260,9 @@ Microsoft 365 E3/A3/G3 및 Office 365 E3/A3/G3를 사용하면 사용자가 콘�
 
 Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/A5/E3/A3/F3, AIP 계획 1 및 AIP 계획 2는 사용자가 수동 민감도 레이블 지정을 사용할 수 있는 권한을 제공합니다.
 
-Microsoft 365 E5/A5/E3/E3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, AIP 계획 1 및 AIP 계획 2는 Power BI에서 민감도 레이블을 적용 및 보고 Power BI에서 Excel, PowerPoint 또는 PDF로 내보낼 때 데이터를 보호할 수 있는 권한을 사용자에게 제공합니다. 
+Microsoft 365 E5/A5/E3/E3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, AIP 계획 1 및 AIP 계획 2는 Power BI에서 민감도 레이블을 적용 및 보고 Power BI에서 Excel, PowerPoint 또는 PDF로 내보낼 때 데이터를 보호할 수 있는 권한을 사용자에게 제공합니다.
+
+Microsoft 365 Business Premium 및 Enterprise Mobility은 [AIPService](/powershell/azure/aip/overview#aipservice) PowerShell 모듈을 사용하여 Azure Information Protection에 대한 Azure 권한 관리 보호 서비스를 관리할 수 있는 권한을 제공합니다.
 
 > [!NOTE]
 > Power BI는 Microsoft 365 E5/A5/G5에 포함되어 있습니다. 다른 모든 계획에서 Power BI는 별도로 사용이 허가되어야 합니다.
@@ -275,9 +277,11 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수, Microsoft 365 E5/A
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 사용이 허가된 테넌트의 사용자에게만 서비스를 적용할 수 있는 방법
 
-AIP 스캐너 기능을 사용하는 경우를 제외하고 정책의 범위를 특정 그룹 또는 사용자로 지정하거나 레지스트리를 편집하여 라이선스가 없는 사용자가 분류 또는 레이블 지정 기능을 실행하지 못하도록 할 수 있습니다. AIP 배포 범위를 지정하는 방법에 대한 지침은 Azure Information Protection 정책 [구성을 참조하세요.](/azure/information-protection/configure-policy)
+AIP 스캐너 기능을 사용하는 경우를 제외하고 정책의 범위를 특정 그룹 또는 사용자로 지정하거나 레지스트리를 편집하여 라이선스가 없는 사용자가 분류 또는 레이블 지정 기능을 실행하지 못하도록 할 수 있습니다.
 
 AIP 스캐너 기능의 경우 Microsoft는 라이선스가 없는 사용자에게 파일 분류, 레이블 지정 또는 보호 기능을 제공하지 않습니다.
+
+자세한 내용은 [민감도](/microsoft-365/compliance/create-sensitivity-labels#publish-sensitivity-labels-by-creating-a-label-policy) 레이블 만들기 및 게시 및 Azure Information Protection 통합 레이블 지정 스캐너 [이해를 참조하세요.](/azure/information-protection/deploy-aip-scanner)
 
 ## <a name="information-governance"></a>정보 거버넌스
 
