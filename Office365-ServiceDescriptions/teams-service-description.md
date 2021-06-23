@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams 계획 및 Microsoft 365 서비스 및 기능 가용성에 대해 Office 365 대해 자세히 알아보습니다.
-ms.openlocfilehash: 12aaf9320b3cb1fe62b784b8900f6cafcccb4025
-ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
+ms.openlocfilehash: b2028fb4e2d2e74a56230a570a709a6731a0628c
+ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52906774"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077522"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -29,16 +29,17 @@ Microsoft Teams 팀워크의 허브는 Microsoft 365. Teams 서비스에서는 �
 
 | 기능 | 소규모 기업 | Enterprise 계획 | GCC | GCC - 높음 | DOD | 교육 기관 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|채팅  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Teams  <br/> |예 <br/> |예 <br/> |예 <br/> |예<sup>1</sup>  <br/> |예<sup>1</sup>  <br/> |예  <br/> |
-|채널 - 표준  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|채널 - 비공개  <br/> |예  <br/> |예<sup>2</sup>  <br/> |예 <br/> |아니요  <br/> |아니요 <br/> |예  <br/> |
-|모임  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|오디오/PowerPoint 데스크톱 화면 공유 <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|음성  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>3</sup>  <br/> |예<sup>3</sup>  <br/> |예  <br/> |
-|오디오 회의  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>3</sup>  <br/> |예<sup>3</sup>  <br/> |예  <br/> |
-|앱, 봇, & 커넥터  <br/> |예  <br/> |예  <br/> |예<sup>5</sup>  <br/> |예<sup>5</sup>  <br/> |예<sup>4,5</sup>  <br/> |예  <br/> |
-|라이브 이벤트  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요<sup>6</sup>  <br/> |아니요<sup>6</sup>  <br/> |예  <br/> |
+|채팅 |예 |예 |예 |예 |예 |예 |
+|Teams |예|예|예|예<sup>1</sup> |예<sup>1</sup> |예 |
+|채널 - 표준 |예 |예 |예 |예 |예 |예 |
+|채널 - 비공개 |예 |예<sup>2</sup> |예|아니요 |아니요|예 |
+|모임 |예 |예 |예 |예 |예 |예 |
+|Webinars |예 |예 |아니요 |아니요 |아니요 |예 |
+|오디오/PowerPoint 데스크톱 화면 공유|예 |예 |예 |예 |예 |예 |
+|음성 |예 |예 |예 |예<sup>3</sup> |예<sup>3</sup> |예 |
+|오디오 회의 |예 |예 |예 |예<sup>3</sup> |예<sup>3</sup> |예 |
+|앱, 봇, & 커넥터 |예 |예 |예<sup>5</sup> |예<sup>5</sup> |예<sup>4,5</sup> |예 |
+|라이브 이벤트 |아니요 |예 |예 |아니요<sup>6</sup> |아니요<sup>6</sup> |예 |
 
 <sup>1</sup> Microsoft Teams GCC-High 및 DOD는 개별 팀의 구성원 2500명을 지원합니다.<br/>
 <sup>2</sup> Microsoft Planner는 현재 비공개 채널에서 액세스할 수 없습니다.<br/>
@@ -47,7 +48,7 @@ Microsoft Teams 팀워크의 허브는 Microsoft 365. Teams 서비스에서는 �
 <sup>5</sup> 현재 이러한 클라우드에서는 타사 응용 프로그램 및 응용 프로그램 게시를 사용할 수 없습니다.<br/>
 <sup>6</sup> 라이브 이벤트는 현재 GCC-High DOD에서 사용할 수 없습니다.<br/>
 
-## <a name="learn-more"></a>자세한 정보
+## <a name="learn-more"></a>자세히 알아보기
 
 비즈니스용 Skype 온라인은 2019년 7월 30일 [](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) 발표된 2021년 7월 31일에 사용 중지됩니다. Microsoft Teams Azure 및 Microsoft의 기타 서비스 혁신을 활용하여 클라우드를 위해 구축된 완전히 새로운 서비스입니다. Microsoft Teams 그룹, Microsoft Microsoft 365, microsoft Graph 나머지 그룹과 동일한 엔터프라이즈 수준의 보안, 규정 준수 및 관리 Office 365. Teams Azure AD(Azure AD)에 저장된 Azure Active Directory 활용합니다. 이러한 서비스는 Microsoft 데이터 센터에서 제공될 수 있으며 회사 네트워크 내부 또는 인터넷을 통해 광범위한 디바이스의 사용자가 액세스할 수 있습니다. 자세한 내용은 IT 아키텍처 및 Microsoft Teams 포스터를 [참조하세요.](/microsoftteams/teams-architecture-solutions-posters)
 
