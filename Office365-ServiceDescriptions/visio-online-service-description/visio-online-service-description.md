@@ -64,7 +64,7 @@ ms.locfileid: "53095562"
 <br/><sup>4</sup> 웹 뷰어의 Visio 사용할 수 없습니다.
 <br/><sup>5</sup> 웹 편집기에서 Visio 사용할 수 있습니다.
 
-## <a name="learn-more"></a>자세한 정보
+## <a name="learn-more"></a>자세히 알아보기
 
 ### <a name="supported-file-types-in-visio-for-the-web"></a>웹용 Visio 지원되는 파일 형식
 
