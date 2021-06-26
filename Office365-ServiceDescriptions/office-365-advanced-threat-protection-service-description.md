@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 는 강력한 제로 데이 보호를 제공하여 알 수 없는 맬웨어 및 바이러스로부터 조직을 보호하는 클라우드 기반 전자 메일 필터링 서비스로, 유해한 링크로부터 조직을 실시간으로 보호하는 기능을 포함합니다.
-ms.openlocfilehash: 2f93551be9df45e6108d81da9d7a50bba53be549
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: a4a83e8be24d0afd07f453a5e0fafd3c19aaa6ba
+ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798454"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53140820"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Office 365용 Microsoft Defender 서비스 설명
 
@@ -33,7 +33,7 @@ Microsoft Defender for Office 365 는 강력한 제로 데이 보호를 제공�
 
 ## <a name="microsoft-defender-for-office-365-availability"></a>Microsoft Defender for Office 365 가용성
 
-Microsoft Defender for Office 365 Plan 2는 에 Office 365 E5, Office 365 A5, Microsoft 365 E5 Security 및 Microsoft 365 E5 포함되어 [https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp](/microsoft-365/security/office-365-security/office-365-atp) 있습니다. . Office 365 요금제 1에 대한 Defender가 Microsoft 365 Business Premium.
+Office 365 계획 2용 Microsoft Defender는 에 Office 365 E5, Office 365 A5, Microsoft 365 E5 Security 및 Microsoft 365 E5 포함되어 [https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp](/microsoft-365/security/office-365-security/office-365-atp) 있습니다. Office 365 요금제 1에 대한 Defender가 Microsoft 365 Business Premium.
 
 다음 구독 계획 및 Office 365 계획에 Defender를 Exchange Microsoft 365 있습니다.
 
@@ -75,6 +75,25 @@ We are continuing to add new features to Defender for Office 365. Office 365 (�
 
 Defender for Office 365 SMTP 메일 전송 에이전트와 함께 사용할 수 Microsoft Exchange Server. Office 365 Defender에서 지원하는 운영 체제, 웹 브라우저 및 언어에 대한 자세한 내용은 Exchange 관리 센터의 "지원되는 브라우저" 및 "지원되는 언어" [섹션을 Exchange Online Protection.](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop)
 
+## <a name="which-users-or-mailboxes-need-to-be-licensed"></a>라이선스를 부여해야 하는 사용자 또는 사서함은 무엇입니까?
+
+Microsoft Defender for Office 365 계획 1 테넌트의 경우 다음 시나리오 중 하나 이상에 속하는 사용자 또는 사서함에 대해 라이선스를 취득해야 합니다.
+
+- 사용자 보호를 위해 Defender의 혜택을 받는 사서함에 액세스하는 Office 365.
+- 보안 보호를 위해 Defender의 이점을 Office 365 사서함입니다.
+- 금고 SharePoint, 비즈니스용 OneDrive 또는 Teams 대한 첨부 파일 보호가 설정되어 있는 경우 SharePoint, 비즈니스용 OneDrive 또는 Teams.
+- 링크 보호를 사용할 Microsoft 365 앱 Teams 금고 사용하는 모든 사용자입니다.
+
+Microsoft Defender for Office 365 계획 2 테넌트의 경우 다음 시나리오 중 하나 이상에 속하는 사용자 또는 사서함에 대해 라이선스를 취득해야 합니다.
+
+- 테넌트 Exchange Online 모든 사용자 계획 2 기능은 테넌트의 모든 사용자를 보호하기 때문에입니다.
+- 테넌트의 모든 공유 사서함
+- 금고 SharePoint, 비즈니스용 OneDrive 또는 Teams 대한 첨부 파일 보호가 설정되어 있는 경우 SharePoint, 비즈니스용 OneDrive 또는 Teams.
+- 링크 보호를 사용할 Microsoft 365 앱 Teams 금고 사용하는 모든 사용자입니다.
+
+> [!NOTE]
+> Office 365 E5, Microsoft 365 E5 Security 및 Microsoft 365 E5 P2용 Microsoft Defender Office 포함하며 Microsoft 365 Business Premium P1용 Microsoft Defender가 Office 365 포함됩니다.
+
 ## <a name="feature-availability-across-defender-for-office-365-plans"></a>계획용 Defender의 Office 365 가용성
 
 각 기능은 아래와 같습니다. Exchange Online은 대개 Office 365 Enterprise 서비스 제품군을 지칭하는 것입니다.<br><br>
@@ -83,7 +102,7 @@ Defender for Office 365 SMTP 메일 전송 에이전트와 함께 사용할 수 
 |:-----|:-----|:-----|:-----|
 |*구성, 보호 및 검색*|
 |[안전한 첨부 파일](#safe-attachments)|예|예|예|
-|안전 첨부 파일 Teams|예|예|예|
+|금고 Teams|예|예|예|
 |[안전한 링크](#safe-links)|예|예|예|
 |[안전한 문서](#safe-documents)|아니요|아니요|예|
 |Teams의 안전한 링크|예|예|예|
@@ -95,23 +114,23 @@ Defender for Office 365 SMTP 메일 전송 에이전트와 함께 사용할 수 
 |위협 조사(고급 위협 조사)|[실시간 탐지](#real-time-detections)|[탐색기](#explorer)|[탐색기](#explorer)|
 |[자동화된 인시던트 대응](#automated-incident-response)|아니요|예|예|
 |[공격 시뮬레이션 교육](#attack-simulation-training)|아니요|예|예|
-|*Microsoft 365 [Defender와의 통합](/microsoft-365/security/mtp/microsoft-threat-protection)*|아니요|예|예|
+|*통합 [Microsoft 365 Defender](/microsoft-365/security/mtp/microsoft-threat-protection)*|아니요|예|예|
 
 > [!NOTE]
-> 테넌트에 Office P2 평가판 라이선스 또는 Office 365 E5 평가판 라이선스를 위한 Microsoft Defender만 있는 경우 Microsoft 365 Defender에 대한 다른 적격 라이선스가 없는 경우 Microsoft 365 Defender에 액세스할 수 없습니다. MTP 라이선스에 대한 자세한 내용은 Defender 요구 [Microsoft 365 참조하세요.](/microsoft-365/security/mtp/prerequisites)
+> 테넌트에 Office P2 평가판 라이선스 또는 Office 365 E5 평가판 라이선스에 대한 Microsoft Defender만 있는 경우 Microsoft 365 Defender 라이선스가 없는 경우 Microsoft 365 Defender. MTP 라이선스에 대한 자세한 내용은 요구 [사항 Microsoft 365 Defender 참조하세요.](/microsoft-365/security/mtp/prerequisites)
 
 ## <a name="defender-for-office-365-capabilities"></a>Office 365 기능용 Defender
 
 ### <a name="safe-attachments"></a>안전한 첨부 파일
 
-[안전한 첨부 파일은](/microsoft-365/security/office-365-security/atp-safe-attachments) 알 수 없는 맬웨어 및 바이러스로부터 보호하고 제로 데이 보호 기능을 제공하여 메시징 시스템을 보호합니다. 알려진 바이러스/맬웨어 서명이 없는 모든 메시지와 첨부 파일은 맬웨어에 대한 Defender가 Office 365 기계 학습 및 분석 기술을 사용하여 악의적인 의도를 감지하는 특수한 환경으로 라우팅됩니다. 의심스러운 활동이 감지되지 않으면 메시지가 사서함 배달을 위해 릴리스됩니다.
+[금고 첨부 파일은](/microsoft-365/security/office-365-security/atp-safe-attachments) 알 수 없는 맬웨어 및 바이러스로부터 보호하고 제로 데이 보호 기능을 통해 메시징 시스템을 보호합니다. 알려진 바이러스/맬웨어 서명이 없는 모든 메시지와 첨부 파일은 맬웨어에 대한 Defender가 Office 365 기계 학습 및 분석 기술을 사용하여 악의적인 의도를 감지하는 특수한 환경으로 라우팅됩니다. 의심스러운 활동이 감지되지 않으면 메시지가 사서함 배달을 위해 릴리스됩니다.
 
 > [!NOTE]
-> 안전한 첨부 파일 검색은 안전 첨부 파일이 있는 Office 365 지역에서 진행됩니다. 데이터 센터 지리에 대한 자세한 내용은 데이터가 어디에 [있나요?를 참조하세요.](https://products.office.com/where-is-your-data-located?geo=All)
+> 금고 첨부 파일 검색은 첨부 파일 데이터가 Office 365 지역에서 진행됩니다. 데이터 센터 지리에 대한 자세한 내용은 데이터가 어디에 [있나요?를 참조하세요.](https://products.office.com/where-is-your-data-located?geo=All)
 
 ### <a name="safe-links"></a>안전한 링크
 
-안전한 [링크 기능은](/microsoft-365/security/office-365-security/atp-safe-links) 메시지나 문서의 악의적인 URL로부터 사용자를 Office 합니다. 악의적인 링크는 동적으로 차단되지만 정상 링크에는 액세스할 수 있으므로 링크를 선택할 때마다 보호 기능이 유지됩니다.
+금고 [링크](/microsoft-365/security/office-365-security/atp-safe-links) 기능은 메시지 또는 문서의 악의적인 URL로부터 사용자를 Office 합니다. 악의적인 링크는 동적으로 차단되지만 정상 링크에는 액세스할 수 있으므로 링크를 선택할 때마다 보호 기능이 유지됩니다.
 
 다음과 같은 앱에서 URL에 대한 안전한 링크를 사용할 수 있습니다.
 
@@ -124,19 +143,19 @@ Defender for Office 365 SMTP 메일 전송 에이전트와 함께 사용할 수 
 - Microsoft Teams 채널 및 채팅
 
 > [!NOTE]
-> 사용자에 대한 Defender 사용이 허가되어야 Office 365 안전한 링크 정책에 포함되어야 합니다. 보호가 적용될 수 있도록 장치에 로그인해야 <sup>\*</sup> 합니다.
+> 사용자는 Office 365 대한 Defender 라이선스가 있어야 금고 링크 정책에 포함되어야 합니다. 보호가 적용될 수 있도록 장치에 로그인해야 <sup>\*</sup> 합니다.
 >
 > <sup>\*</sup>조직 전체의 Office 365 라이선스(예: ATP_ENTERPRISE_FACULTY)의 경우 개별 사용자에게 Office 365 대한 Defender를 할당할 필요가 없습니다.
 >
-> 안전한 링크 보호에 대한 자세한 내용은 Microsoft [Defender for Office 365.](/microsoft-365/security/office-365-security/atp-safe-links)
+> 링크 보호에 금고 대한 자세한 내용은 microsoft [Defender에서](/microsoft-365/security/office-365-security/atp-safe-links)금고 링크를 Office 365.
 
 ### <a name="safe-documents"></a>안전한 문서
 
-안전한 [문서 기능은](/microsoft-365/security/office-365-security/safe-docs) [끝점용 Microsoft Defender를](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 사용하여 보호된 보기에서 연 문서 및 파일을 [검사합니다.](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+금고 [문서](/microsoft-365/security/office-365-security/safe-docs) 기능은 [끝점용 Microsoft Defender를](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 사용하여 보호된 보기에서 연 문서 및 파일을 [검사합니다.](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
 
 시작하기 전에 알아야 할 내용은 무엇인가요?
 
-- 이제 안전한 문서는 현재 버전 2004(Office 12730.x) 이상의 사용자가 사용할 수 있습니다! 이 기능은 기본적으로 해제되어 있으며 보안 관리자가 사용하도록 설정해야 합니다.
+- 금고 이제 버전 2004(Office 12730.x) 이상의 사용자가 문서를 일반적으로 사용할 수 있습니다! 이 기능은 기본적으로 해제되어 있으며 보안 관리자가 사용하도록 설정해야 합니다.
 
 - 이 기능은 Microsoft 365 E5 또는 Microsoft 365 E5 Security 라이선스가 있는 사용자만 사용할 Office 365 있습니다.
 
@@ -145,17 +164,17 @@ Defender for Office 365 SMTP 메일 전송 에이전트와 함께 사용할 수 
 - Microsoft Teams 채널 및 채팅
 
 > [!NOTE]
-> 사용자는 안전한 문서 정책에 Microsoft 365 E5 또는 Microsoft 365 E5 Security 라이선스가 있어야 합니다. 보호가 적용될 수 있도록 장치에 로그인해야 <sup>\*</sup> 합니다.
+> 사용자에게 Microsoft 365 E5 또는 Microsoft 365 E5 Security 라이선스가 있어야 금고 문서 정책에 포함되어야 합니다. 보호가 적용될 수 있도록 장치에 로그인해야 <sup>\*</sup> 합니다.
 >
-> 안전한 문서 보호에 대한 자세한 내용은 에서 [Safe Documents in Microsoft 365 E5.](/microsoft-365/security/office-365-security/safe-docs)
+> 문서 보호를 금고 대한 자세한 내용은 금고 [문서를 Microsoft 365 E5.](/microsoft-365/security/office-365-security/safe-docs)
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>SharePoint, OneDrive 및 Microsoft Teams에 대한 ATP
 
-SharePoint, OneDrive 및 Microsoft Teams [ATP는](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) 팀 사이트 및 문서 라이브러리에서 악성으로 식별된 파일을 검색하고 차단하는 데 도움이 됩니다. 또한 이제 모든 채널 및 채팅에서 안전한 링크 Microsoft Teams 사용할 수 있습니다.
+SharePoint, OneDrive 및 Microsoft Teams [ATP는](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) 팀 사이트 및 문서 라이브러리에서 악성으로 식별된 파일을 검색하고 차단하는 데 도움이 됩니다. 또한 이제 금고 및 채팅에서 링크 Microsoft Teams 사용할 수 있습니다.
 
 ### <a name="anti-phishing-policies"></a>피싱 방지 정책
 
-[피싱 방지는](/microsoft-365/security/office-365-security/atp-anti-phishing) 들어오는 메시지에서 메시지가 피싱 시도일 수 있는 표시기를 검사합니다. 사용자가 Office 365 정책(안전한 첨부 파일, 안전한 링크 또는 피싱 방지)에 대해 Defender의 적용을 받는 경우 들어오는 메시지는 메시지를 분석하는 여러 기계 학습 모델을 통해 평가하며 구성된 정책에 따라 적절한 조치를 취합니다.
+[피싱 방지는](/microsoft-365/security/office-365-security/atp-anti-phishing) 들어오는 메시지에서 메시지가 피싱 시도일 수 있는 표시기를 검사합니다. 사용자가 Office 365 정책(금고 첨부 파일, 금고 링크 또는 피싱 방지)에 대한 보호를 받는 경우 들어오는 메시지는 메시지를 분석하는 여러 기계 학습 모델을 통해 평가하며 구성된 정책에 따라 적절한 조치를 취합니다.
 
 ### <a name="real-time-reports"></a>실시간 보고서
 
@@ -192,5 +211,5 @@ SharePoint, OneDrive 및 Microsoft Teams [ATP는](/microsoft-365/security/office
 - 공격 시뮬레이션 교육은 이제 WW 및 GCC 있습니다(6월 21일 GCC 예정임).
 - 시작 방법에 대한 자세한 내용은 공격 시뮬레이션 교육 사용 [시작을 참조하세요.](/microsoft-365/security/office-365-security/attack-simulation-training-get-started)
 - 피싱 시뮬레이션과 관련이 있도록 실제 공격자 동작을 복제하는 다국어 피싱 페이로드를 적용하는 다양한 공격 기술을 사용할 수 있습니다.
-- 이 서비스는 Microsoft 365 E5, Office 365 E5 또는 [Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2) 라이선스가 있는 조직에서 사용할 수 있습니다. E3 고객에게는 평가판 기능의 하위 집합이 제공됩니다.
+- 이 서비스는 Microsoft 365 E5, Office 365 E5 또는 [Microsoft Defender for](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2) Office 365 라이선스가 있는 조직에서 사용할 수 있습니다. E3 고객에게는 평가판 기능의 하위 집합이 제공됩니다.
 - 자세한 내용을 알아보고 시뮬레이션을 시도해보시고 피싱 공격 [시뮬레이션을 참조합니다.](/microsoft-365/security/office-365-security/attack-simulation-training)
