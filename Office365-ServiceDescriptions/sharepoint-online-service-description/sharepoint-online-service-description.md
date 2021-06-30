@@ -13,125 +13,125 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
-description: 계획에서 사용할 수 있는 SharePoint 기능을 참조합니다.
-ms.openlocfilehash: 3455c7d29697dc8cef1f99fa271f71defeb55bf2
-ms.sourcegitcommit: 3e9f333093f62467dabe9d2282121769406ebf53
+description: 어떤 계획에서 SharePoint 사용할 수 있는지 참조합니다.
+ms.openlocfilehash: a158debc41e35c07895d1d8e805994796c0e8a63
+ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52955640"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53204855"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 서비스 설명
 
-Microsoft 365의 SharePoint는 조직에서 콘텐츠, 지식 및 응용 프로그램을 공유하고 다음을 관리하는 데 도움이 됩니다.
+SharePoint Microsoft 365, 지식 및 응용 프로그램을 공유하고 관리하는 데 도움이 되는 정보를 제공합니다.
 
 - 팀워크 강화
 - 신속하게 정보 찾기
 - 조직 전체에서 원활하게 공동 작업
 
-간략한 개요는 [SharePoint란?을 참조하세요.](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
+간략한 개요는 What [is SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-사용자가 SharePoint를 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145) Microsoft 365 시스템 요구 사항에 대한 자세한 내용은 [Microsoft 365 및 Office 리소스를 참조하세요.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
+사용자가 구독을 사용하도록 설정하는 구독에 대한 자세한 계획 SharePoint 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145) 시스템 Microsoft 365 대한 자세한 내용은 Microsoft 365 [및 Office 리소스를 참조하세요.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
 
-미국 정부 클라우드 고객의 SharePoint 기능 차이점에 대한 자세한 내용은 미국 정부 [환경용 SharePoint를 참조하세요.](../office-365-platform-service-description/office-365-us-government/sharepoint.md)
+미국 정부 클라우드 SharePoint 기능의 차이점에 대한 자세한 내용은 미국 정부 SharePoint [대한 정보를 참조하세요.](../office-365-platform-service-description/office-365-us-government/sharepoint.md)
   
 ## <a name="whats-new"></a>새로운 기능
 
-릴리스되는 최신 기능에 대한 자세한 내용은 [SharePoint의 새로운 기능을 참조하세요.](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)
+릴리스되는 최신 기능에 대한 자세한 내용은 에서 새로운 기능을 [SharePoint.](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)
   
 ## <a name="subscription-options"></a>구독 옵션
 
-Microsoft 365는 조직의 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 제공됩니다. 사용자가 SharePoint를 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Microsoft 365 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 사용할 수 있습니다. 사용자가 구독을 사용하도록 설정하는 구독에 대한 자세한 계획 SharePoint 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
-SharePoint에 액세스하려면 조직의 사용자에게 SharePoint가 포함된 라이선스를 할당해야 합니다. 일선 요금제는 [Office 365 F3, Microsoft 365 F1](https://www.microsoft.com/microsoft-365/business/office-365-f1)또는 Microsoft [365](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) F3의 일부로만 독립 실행형 제품으로 [판매되지 않습니다.](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab) 
+조직 SharePoint 액세스하려면 조직의 사용자에게 라이선스가 포함된 라이선스를 할당해야 SharePoint. 일선 요금제는 독립 실행형 제품으로 판매되지 않습니다. [f3,](https://www.microsoft.com/microsoft-365/business/office-365-f1)Office 365, Microsoft 365 F1 또는 [](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) [Microsoft 365 F3.](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab) 
   
 ## <a name="rights-of-guests"></a>게스트의 권한
 
-계획을 구매하고 엔터프라이즈 기능을 사용하는 사이트를 만드는 경우 초대한 게스트에게 초대한 사이트 내의 엔터프라이즈 기능을 사용 및/또는 볼 수 있는 권한이 부여됩니다. 게스트를 초대하여 사이트에서 모든 작업을 수행하도록 초대할 수 있는 반면, 조직 내에서 라이선스가 부여된 사용자와 동일한 기능을 가지지 못합니다. 예를 들어 요금제에 데스크톱 버전의 Office 응용 프로그램이 포함되어 있는 경우 게스트는 라이선스를 할당하지 않는 한 자신의 컴퓨터에 설치할 수 없습니다.
+계획을 구매하고 엔터프라이즈 기능을 사용하는 사이트를 만드는 경우 초대한 게스트에게 초대한 사이트 내의 엔터프라이즈 기능을 사용 및/또는 볼 수 있는 권한이 부여됩니다. 게스트를 초대하여 사이트에서 모든 작업을 수행하도록 초대할 수 있는 반면, 조직 내에서 라이선스가 부여된 사용자와 동일한 기능을 가지지 못합니다. 예를 들어 계획에 데스크톱 버전의 Office 응용 프로그램이 포함되어 있는 경우 게스트는 라이선스를 할당하지 않는 한 자신의 컴퓨터에 설치할 수 없습니다.
 
 ## <a name="onedrive"></a>OneDrive
 
-Microsoft 365의 OneDrive는 조직 내의 개별 사용자를 위한 온라인 저장소입니다. 사용자가 간편한 보안으로 여러 장치에서 작업 파일을 저장, 동기화 및 공유할 수 있는 장소입니다. OneDrive는 SharePoint에 포함되어 있으며 독립 실행형 계획으로 구매할 수도 있습니다. 각 계획에 제공된 OneDrive 저장소의 수에 대한 자세한 내용은 [OneDrive 서비스 설명 을 참조하세요.](../onedrive-for-business-service-description.md)
+OneDrive Microsoft 365 조직의 개별 사용자를 위한 온라인 저장소입니다. 사용자가 간편한 보안으로 여러 장치에서 작업 파일을 저장, 동기화 및 공유할 수 있는 장소입니다. OneDrive 포함된 SharePoint 독립 실행형 계획으로 구매할 수도 있습니다. 각 계획에 OneDrive 저장소의 용량에 대한 자세한 내용은 OneDrive [서비스 설명을 참조하세요.](../onedrive-for-business-service-description.md)
 
 ## <a name="apps"></a>앱
 
-컴퓨터에서 SharePoint 파일을 동기화하기 위해 사용자는 Windows 또는 Mac용 [OneDrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) 동기화 앱을 사용할 수 있습니다. 동기화 앱의 기능 가용성에 대한 자세한 내용은 [OneDrive 서비스 설명 을 참조하세요.](../onedrive-for-business-service-description.md) 
+컴퓨터에서 SharePoint 동기화하기 위해 사용자는 OneDrive 동기화 또는 [](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) Mac용 Windows 사용할 수 있습니다. 동기화 앱의 기능 가용성에 대한 자세한 내용은 OneDrive [설명을 참조하세요.](../onedrive-for-business-service-description.md) 
 
-모바일 장치에서 SharePoint 사이트를 사용하려면 [iOS, Android 또는 Windows용 SharePoint](https://products.office.com/sharepoint/mobile-app)모바일 앱을 설치할 수 있습니다. 
+모바일 장치에서 SharePoint 사용하려면 [iOS, Android](https://products.office.com/sharepoint/mobile-app)또는 SharePoint 모바일 앱을 설치할 수 Windows. 
   
   
 ## <a name="developer-features"></a>개발자 기능
 
-다른 설명이 없는 한 SharePoint 및 모든 SharePoint 독립 실행형 계획을 포함 하는 모든 계획에서 다음 기능을 사용할 수 있습니다.
+다른 설명이 없는 한 다음 기능은 독립 실행형 계획을 SharePoint 모든 계획에서 사용할 SharePoint 있습니다.
 
-- [추가 기능 호스팅: 파트너 호스팅 및 SharePoint 호스팅](/sharepoint/dev/sp-add-ins/choose-patterns-for-developing-and-hosting-your-sharepoint-add-in)
+- [추가 기능 호스팅: 파트너 호스팅 및 SharePoint 호스트](/sharepoint/dev/sp-add-ins/choose-patterns-for-developing-and-hosting-your-sharepoint-add-in)
 - [앱 배포: 앱 카탈로그](/sharepoint/use-app-catalog)
 - [앱 배포: AppSource](https://appsource.microsoft.com/marketplace/apps?page=1&src=office&product=office%3Bsharepoint)
-- [Business Connectivity Services(BCS) .](/sharepoint/manage-business-connectivity-service-applications) SharePoint 계획 2, Office 365 Enterprise E3 또는 Office 365 Enterprise E5 필요
+- [Business Connectivity 서비스(BCS)](/sharepoint/manage-business-connectivity-service-applications). E3 SharePoint 계획 2, Office 365 Enterprise 또는 E5를 Office 365 Enterprise 필요
 - [관리 코드용 클라이언트 개체 모델](/sharepoint/dev/general-development/choose-the-right-api-set-in-sharepoint#client-object-models-for-managed-code)
 - [개발자 사이트](/sharepoint/dev/sp-add-ins/create-a-developer-site-on-an-existing-office-365-subscription)
-- [InfoPath Forms Services](/office/client-developer/infopath/infopath-home). SharePoint 계획 2, Office 365 Enterprise E3 또는 Office 365 Enterprise E5 필요
+- [InfoPath Forms Services.](/office/client-developer/infopath/infopath-home) E3 SharePoint 계획 2, Office 365 Enterprise 또는 E5를 Office 365 Enterprise 필요
 - [OAuth](/sharepoint/dev/sp-add-ins/creating-sharepoint-add-ins-that-use-low-trust-authorization). 일부 공급자가 사용자 국가/지역에서 차단될 수 있습니다.
 - [REST 서비스 및 OData 쿼리](/sharepoint/dev/sp-add-ins/get-to-know-the-sharepoint-rest-service)
-- [SharePoint Designer 2013(클래식 사이트용)](https://support.office.com/article/66bf58fe-daeb-4fa6-ae84-fd600e0005c1). 일선 작업자는 사용할 수 없습니다.
-- [SharePoint Framework(SPFx)](/sharepoint/dev/spfx/sharepoint-framework-overview)
+- [SharePoint Designer 2013(클래식 사이트용)입니다.](https://support.office.com/article/66bf58fe-daeb-4fa6-ae84-fd600e0005c1) 일선 작업자는 사용할 수 없습니다.
+- [SharePoint 프레임워크(SPFx)](/sharepoint/dev/spfx/sharepoint-framework-overview)
 - [사이트 디자인 및 사이트 스크립트](/sharepoint/dev/declarative-customization/site-design-overview)
 - [사이트 theming](/sharepoint/dev/declarative-customization/site-theming/sharepoint-site-theming-overview)
 
-사용자 지정 옵션에 대한 개요는 [Customizing SharePoint 을 참조하세요.](/sharepoint/extend-and-develop)
+사용자 지정 옵션에 대한 개요는 사용자 지정을 [SharePoint.](/sharepoint/extend-and-develop)
 
-Microsoft Power Apps 및 Power Automate의 가용성에 대한 자세한 내용은 [Power Apps 및 Power Automate 라이선싱 FAQ를 참조하세요.](/power-platform/admin/powerapps-flow-licensing-faq)
+Microsoft Power Apps 및 Power Automate 가용성에 대한 자세한 내용은 Power Apps 및 Power Automate [FAQ를 참조합니다.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-Microsoft Graph의 가용성에 대한 자세한 내용은 [Microsoft 365 및 Office 365 플랫폼 서비스 설명을 참조하세요.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)
+Microsoft 서비스 가용성에 대한 자세한 내용은 Graph 플랫폼 서비스 [Microsoft 365 Office 365 참조하세요.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)
 
 
 ## <a name="it-admin-features"></a>IT 관리자 기능
 
-다른 설명이 없는 한 SharePoint 및 모든 SharePoint 독립 실행형 계획을 포함 하는 모든 계획에서 다음 기능을 사용할 수 있습니다.
+다른 설명이 없는 한 다음 기능은 독립 실행형 계획을 SharePoint 모든 계획에서 사용할 SharePoint 있습니다.
 
 - [앱 사용 및 오류 모니터링](/sharepoint/monitor-apps)
-- [SharePoint](/office365/admin/activity-reports/sharepoint-activity) 및 [OneDrive에](/office365/admin/activity-reports/onedrive-for-business-activity) 대한 활동 및 사용 현황 보고서
+- SharePoint 및 사용자에 [대한](/office365/admin/activity-reports/sharepoint-activity) 활동 [OneDrive](/office365/admin/activity-reports/onedrive-for-business-activity)
 - [사이트 URL 변경](/sharepoint/change-site-address)
-- [OneDrive의 기본 저장소 및 보존 설정](/onedrive/set-default-storage-space)
-- [SharePoint Server용 하이브리드.](/sharepoint/hybrid/hybrid) 일선 작업자는 SharePoint Server에 액세스하려면 CAL(클라이언트 액세스 라이선스)이 필요합니다.
+- [기본 저장소 및 보존 OneDrive](/onedrive/set-default-storage-space)
+- [하이브리드 서버 SharePoint.](/sharepoint/hybrid/hybrid) 일선 작업자는 클라이언트 액세스 라이선스(CAL)가 SharePoint 합니다.
 - [사이트 만들기 설정 관리](/sharepoint/manage-site-creation)
 - [사이트 저장 용량 제한 관리](/sharepoint/manage-site-collection-storage-limits)
 - [마이그레이션: SharePoint 마이그레이션 도구](/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [마이그레이션: 마이그레이션 관리자](/sharepointmigration/mm-get-started)
-- [마이그레이션: SharePoint 마이그레이션 평가 도구](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
+- [마이그레이션: SharePoint 평가 도구](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
 - [마이그레이션: Mover.io.](https://mover.io/) 이제 전 세계에 사용할 수 있습니다.
 - [Multi-geo (data residency)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365). 최소 500개 이상의 Microsoft 라이선스가 필요한 추가 기능을 사용할 수 있습니다. 자세한 내용은 Microsoft 담당자에게 문의하십시오.
 - [프로그래밍형 사이트 프로비전](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [루트 사이트 대체](/sharepoint/modern-root-site)
 - [삭제된 사이트 복원](/sharepoint/restore-deleted-site-collection)
-- [SharePoint 관리 센터](/sharepoint/get-started-new-admin-center). 일선 직원을 가진 조직은 관리 센터에 액세스하려면 엔터프라이즈 사용자가 하나 이상 필요합니다.
+- [SharePoint 관리 센터](/sharepoint/get-started-new-admin-center). 일선 직원을 가진 조직은 관리 센터에 액세스하기 Enterprise 사용자 한 명 이상이 필요합니다.
 - [SharePoint 최신화 스캐너](/sharepoint/dev/transform/modernize-scanner)
-- [SharePoint Online 관리 셸](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true). 일선 직원을 가진 조직은 관리 센터에 액세스하려면 엔터프라이즈 사용자가 하나 이상 필요합니다.
+- [SharePoint 관리 셸을 제공합니다.](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true) 일선 직원을 가진 조직은 관리 센터에 액세스하기 Enterprise 사용자 한 명 이상이 필요합니다.
 - [사이트 거버넌스](/sharepoint/governance-overview) 
 - [용어 저장소 - 관리되는 메타데이터](/sharepoint/managed-metadata)
 
 FastTrack 마이그레이션 서비스의 가용성에 대한 자세한 내용은 적합한 서비스 및 계획을 [참조하세요.](/fasttrack/m365-eligible-services-and-plans) 
 
-공유와 관련된 기능에 대한 자세한 내용은 [OneDrive 서비스 설명 을 참조하세요.](../onedrive-for-business-service-description.md)
+공유와 관련된 기능에 대한 자세한 내용은 OneDrive [설명을 참조하세요.](../onedrive-for-business-service-description.md)
 
-SharePoint에 대한 관리자 도움말은 [SharePoint Online 관리자 를 참조하세요.](/sharepoint/sharepoint-online)
+사용자에 대한 관리자 SharePoint 온라인 관리자 [SharePoint 참조하세요.](/sharepoint/sharepoint-online)
 
 ## <a name="security-and-compliance-features"></a>보안 및 규정 준수 기능
 
-다른 설명이 없는 한 SharePoint 및 모든 SharePoint 독립 실행형 계획을 포함 하는 모든 계획에서 다음 기능을 사용할 수 있습니다.
+다른 설명이 없는 한 다음 기능은 독립 실행형 계획을 SharePoint 모든 계획에서 사용할 SharePoint 있습니다.
 
 - [액세스 제어: 네트워크 위치](/sharepoint/control-access-based-on-network-location)
-- [액세스 제어: 관리되지 않는 장치](/sharepoint/control-access-from-unmanaged-devices). Azure AD Premium P1이 필요합니다.
+- [액세스 제어: 관리되지 않는 장치](/sharepoint/control-access-from-unmanaged-devices). 필요한 Azure AD Premium P1.
 - [전송 중 및 미사용 암호화](/office365/securitycompliance/data-encryption-in-odb-and-spo)
 - [유휴 세션 로그인](/sharepoint/sign-out-inactive-users)
 - [정보 관리 정책](https://support.office.com/article/EB501FE9-2EF6-4150-945A-65A6451EE9E9)
-- [IRM(정보 권한 관리)](/office365/securitycompliance/set-up-irm-in-sp-admin-center). Azure Information Protection 독립 실행형 또는 제품군의 일부로 필요합니다. 일부 Azure Information Protection 기능을 사용하려면 엔터프라이즈용 Microsoft 365 앱을 구독해야 합니다.
+- [IRM(정보 권한 관리)](/office365/securitycompliance/set-up-irm-in-sp-admin-center). Azure Information Protection 독립 실행형 또는 제품군의 일부로 필요합니다. 일부 Azure Information Protection 기능을 사용하려면 구독이 엔터프라이즈용 Microsoft 365 앱.
 - [문서 라이브러리를 이전 시점으로 복원](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [바이러스 검사](/office365/securitycompliance/virus-detection-in-spo)
 
-공유와 관련된 기능에 대한 자세한 내용은 [OneDrive 서비스 설명 을 참조하세요.](../onedrive-for-business-service-description.md)
+공유와 관련된 기능에 대한 자세한 내용은 OneDrive [설명을 참조하세요.](../onedrive-for-business-service-description.md)
 
-SharePoint는 Microsoft 365의 고급 보안 및 규정 준수 기능과 통합됩니다. 다음 기능의 가용성에 대한 자세한 내용은 보안 및 준수 & [설명을 참조하세요.](../office-365-platform-service-description/office-365-securitycompliance-center.md)
+SharePoint 보안 및 규정 준수 기능과 통합되는 Microsoft 365. 다음 기능의 가용성에 대한 자세한 내용은 보안 및 준수 & [설명을 참조하세요.](../office-365-platform-service-description/office-365-securitycompliance-center.md)
 
 - [고객 Lockbox](/microsoft-365/compliance/customer-lockbox-requests)
 - [DLP(데이터 손실 방지)](/microsoft-365/compliance/data-loss-prevention-policies) 
@@ -190,7 +190,7 @@ SharePoint는 Microsoft 365의 고급 보안 및 규정 준수 기능과 통합�
 
 Microsoft Power Apps 및 Power Automate 가용성에 대한 자세한 내용은 Power Apps 및 Power Automate [FAQ를 참조합니다.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-공유와 관련된 기능에 대한 자세한 내용은 OneDrive [설명을 참조하세요.](../onedrive-for-business-service-description.md#sharing-and-collaboration-features)
+공유와 관련된 기능에 대한 자세한 내용은 OneDrive [설명을 참조하세요.](../onedrive-for-business-service-description.md)
 
 ## <a name="search-features"></a>검색 기능
 
