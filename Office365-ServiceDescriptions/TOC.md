@@ -65,6 +65,7 @@
 ### [클라이언트 기능](exchange-online-archiving-service-description/client-features.md)
 ### [규정 준수 및 보안 기능](exchange-online-archiving-service-description/compliance-and-security-features.md)
 ## [Office 365용 Microsoft Defender 서비스 설명](office-365-advanced-threat-protection-service-description.md)
+### [Office 365용 Microsoft Defender 기능 서비스 설명](microsoft-defender-for-office-365-features.md)
 ## [Azure Active Directory 서비스 설명](azure-active-directory.md)
 ## [Microsoft Teams 서비스 설명](teams-service-description.md)
 ### [Microsoft 365 Business Voice 설명](microsoft-365-business-voice-service-description.md)
