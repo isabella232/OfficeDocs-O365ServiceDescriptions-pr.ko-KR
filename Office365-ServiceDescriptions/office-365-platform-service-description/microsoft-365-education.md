@@ -9,31 +9,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
-description: Microsoft 365 및 Office 365 Education 계획 간의 차이점에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 0fb0f1ccd686329010612b18107c6f5e5d2cb77c
-ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
+description: 계획과 계획 간의 Microsoft 365 Office 365 Education 대해 자세히 알아보습니다.
+ms.openlocfilehash: 89e5eedf56e0f2240c2e5de05f6e60e167b2b453
+ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53021981"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53290848"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
-Microsoft 365는 조직의 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 제공됩니다. Microsoft 365 및 Office 365 Education 요금제 간의 차이점을 원할 경우 이 문서에서는 각 요금제에 포함된 기능을 보여 제공합니다.
+Microsoft 365 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 사용할 수 있습니다. 계획과 Microsoft 365 Office 365 Education 차이점을 원할 경우 이 문서에서는 각 계획에 포함된 기능을 보여 제공합니다.
   
-Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 비롯한 전체 시스템을 제공합니다. 다음 표에는 Office 365 for Education A1, A3 및 A5 기능과 해당 Microsoft 365 for Education A3 및 A5 기능이 나열됩니다. 비즈니스 및 엔터프라이즈 계획 간 기능을 비교하기 위해 [비즈니스용 Microsoft 365](https://go.microsoft.com/fwlink/?linkid=799177)요금제 비교를 참조하거나, 기능의 자세한 목록은 [Microsoft 365 및 Office 365](../office-365-service-descriptions-technet-library.md)서비스 설명에서 관련 서비스 설명을 참조하세요. 지원 문서 및 정보를 검색하기 위해 [Office 도움말 교육을 &amp; 참조하세요.](https://support.office.com/)
+Microsoft 365 이동성 및 보안에 대한 Office 365, Windows 10 및 Enterprise 시스템을 제공합니다. 다음 표에는 교육용 Office 365 A1, A3 및 A5 기능에 대한 Microsoft 365 A3 및 A5 기능이 나열되어 있습니다. 비즈니스 계획과 엔터프라이즈 계획의 [](https://go.microsoft.com/fwlink/?linkid=799177)기능을 비교하기 위해 비즈니스 계획에 대한 Microsoft 365 비교를 참조하거나, 기능의 자세한 목록은 Microsoft 365 및 Office 365 서비스 설명을 참조하세요. [](../office-365-service-descriptions-technet-library.md) 지원 문서 및 정보를 검색하기 위해 도움말 [Office &amp; 참조하세요.](https://support.office.com/)
   
 ## <a name="services-and-features"></a>서비스 및 기능
 
-각 Microsoft 365 Education 계획에는 Exchange Online 및 SharePoint Online과 같은 여러 개별 서비스가 포함되어 있습니다. 다음 표에는 요구에 가장 적합한 솔루션을 선택할 수 있도록 각 Office 365 및 Microsoft 365 계획에서 사용할 수 있는 서비스가 표시됩니다. 서비스 및 기능을 자세히 검토하기 위해 [Office 365 Education](office-365-education.md) 서비스 설명을 참조하세요.<br></br>
+각 Microsoft 365 Education 계획에는 Exchange Online Online과 같은 여러 개별 SharePoint 포함되어 있습니다. 다음 표에는 요구에 가장 적합한 솔루션을 선택할 수 있도록 각 Office 365 Microsoft 365 계획에서 사용할 수 있는 서비스가 표시됩니다. 서비스 및 기능을 보다 자세히 검토하기 위해 서비스 Office 365 Education [참조하세요.](office-365-education.md)<br></br>
 
 | 서비스 | Office 365 Education A1 | Office 365 Education A3 | Office 365 Education A5 | Microsoft 365 Education A3 | Microsoft 365 Education A5 | Office 365 A3 학생 사용 혜택 | Office 365 A5 학생 사용 혜택 | Microsoft 365 Education A3 학생 사용 혜택 | Microsoft 365 Education A5 학생 사용 혜택 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Office 365 플랫폼|예|예|예|예|예|예|예|예|예|
 |웹용 Office|예|예|예|예|예|예|예|예|예|
 |엔터프라이즈용 Microsoft 365 앱|아니요|예|예|예|예|예|예|예|예|
-|Exchange Online|예<sup>1</sup>|예<sup>2</sup>|예<sup>2</sup>|예<sup>2</sup>|예<sup>2</sup>|예<sup>1</sup>|예<sup>1</sup>|예<sup>1</sup>|예<sup>1</sup>|
-|SharePoint Online|예<sup>3</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|
+|Exchange Online|예<sup>1</sup>|예<sup>2</sup>|예<sup>2</sup>|예<sup>2</sup>|예<sup>2</sup>|예<sup>2</sup>|예<sup>2</sup>|예<sup>2</sup>|예<sup>2</sup>|
+|SharePoint Online|예<sup>3</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|
 |비즈니스용 OneDrive|예|예|예|예|예|예|예|예|예|
 |Microsoft Teams|예|예|예|예|예|예|예|예|예|
 |비즈니스용 Skype 온라인|예|예|예|예|예|예|예|예|예|
@@ -76,7 +76,7 @@ Microsoft 365는 Office 365, Windows 10 및 Enterprise Mobility and Security를 
 |Office 365 고급 eDiscovery|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |전자 메일 및 파일에 대한 DLP(데이터 손실 방지)|예|예|예|예|예|예|예|예|예|
 |끝점 DLP|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|
-|Communications DLP(Teams 채팅)|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
+|통신 DLP(Teams 채팅)|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |커뮤니케이션 규정 준수|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |고객 키|아니요|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
 |기본 감사|예|예|예|예|예|예|예|예|예|

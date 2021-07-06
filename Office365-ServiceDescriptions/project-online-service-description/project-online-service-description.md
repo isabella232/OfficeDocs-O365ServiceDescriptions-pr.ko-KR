@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 프로젝트 포트폴리오 관리(프로젝트 포트폴리오 관리) 및 일상 업무를 PPM 유연한 온라인 솔루션입니다. Office 365 통해 Project Online 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획, 우선 순위 지정 및 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: 1b8e8cf52636e9499281cf7944a84b420a2297a6
-ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
+ms.openlocfilehash: 0c2d1d68767a6b4dedd6b75fd77ca36ba38d6baf
+ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53140830"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53290858"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 서비스 설명
 
@@ -108,6 +108,10 @@ Microsoft Project 조직의 요구 사항을 가장 잘 충족하기 위해 세 
 |Microsoft Teams 통합 | 프로젝트에서 공동 작업을 Microsoft Teams. <sup>1</sup> | 예 | 예 | 예 | 예 |
 |**리소스 및 프로그램 관리** ||||||
 |Project 팀 설정 | 구성원을 추가 및 제거하고 작업 일정을 설정하여 프로젝트 팀을 관리합니다. | 아니요 | 예 | 예 | 예 |
+|리소스 요청 만들기<sup>12</sup> |  | 보기만 | 보기만 | 예 | 예 |
+|예약 제안<sup>수락 12</sup> |  | 보기만 | 보기만 | 예 | 예 |
+|리소스 요청을 이행하기 위해 예약 만들기 및<sup>업데이트 12</sup> |  | 보기만 | 보기만 | 보기만 | 예 |
+|자원에 대한 기술/습득력 관리 |  | 보기만 | 보기만 | 예 | 예 |
 |로드맵 | 프로젝트 전체에서 시각적인 대화형 로드맵을 Microsoft Project Online, 웹용 Microsoft Project 프로젝트 및 Azure Boards 로드맵을 작성합니다. <sup>2</sup> Project 플랜 1 로드맵에 대한 읽기 전용 액세스 권한을 얻습니다. 이 Project 플랜 3 Project 플랜 5 로드맵을 만들 수도 있습니다. | 보기 전용 | 보기 전용 | 예 | 예 |
 |**보고**<sup>3</sup> ||||||
 |웹 데이터에 Project *보고서* 읽기 | 프로젝트, 프로그램, 포트폴리오 및 자원 데이터를 이해하기 위해 첫 실행 보고서 또는 사용자 지정 보고서 및 대시보드를 볼 수 있습니다. | 예 | 예 | 예 | 예 |
@@ -193,14 +197,14 @@ Microsoft Project 조직의 요구 사항을 가장 잘 충족하기 위해 세 
 |사용자 관리 | 프로젝트, 팀 및 조직 수준에서 사용자 및 그룹 역할 및 사용 권한을 관리합니다. | 아니요 | 예 |
 |서비스 관리 | Office 365 환경의 일부로 Microsoft Project 환경을<sup>계획,</sup> 설치 및 구성, 유지 관리 및 확장합니다. | 아니요 | 예 |
 
-#### <a name="notes"></a>메모
+#### <a name="notes"></a>참고
 
-<sup>1</sup> 상업용 Office Microsoft 365 필요합니다.</br>
-<sup>2 Azure Boards</sup> 별도로 취득됩니다.</br>
-<sup>3</sup> 웹 Project 웹 및 Project Online 보고하려면 Power BI 라이선스가 Power BI 필요합니다.</br>
-<sup>4</sup> 웹 또는 Power Apps 데이터에 액세스하는 첫 실행 Project 응용 프로그램을 Project 응용 프로그램을 Project Online 별도의 Power Apps 구독해야 합니다.</br>
-<sup>5</sup> 사용자 지정 테이블 5개로 제한됩니다.</br>
-<sup>6</sup> Project Online 사용자에 대한 라이선스는 내부 사용자에 대한 정책과 동일한 정책을 따르게 됩니다. 사이트와 상호 작용을 Project Online 사용하려면 Project 플랜 3 Project 플랜 5 합니다.</br>
+<sup>1</sup> 상업용 Office Microsoft 365 필요합니다.<br/>
+<sup>2 Azure Boards</sup> 별도로 취득됩니다.<br/>
+<sup>3</sup> 웹 Project 웹 및 Project Online 보고하려면 Power BI 라이선스가 Power BI 필요합니다.<br/>
+<sup>4</sup> 웹 또는 Power Apps 데이터에 액세스하는 첫 실행 Project 응용 프로그램을 Project 응용 프로그램을 Project Online 별도의 Power Apps 구독해야 합니다.<br/>
+<sup>5</sup> 사용자 지정 테이블 5개로 제한됩니다.<br/>
+<sup>6</sup> Project Online 사용자에 대한 라이선스는 내부 사용자에 대한 정책과 동일한 정책을 따르게 됩니다. 사이트와 상호 작용을 Project Online 사용하려면 Project 플랜 3 Project 플랜 5 합니다.<br/>
 <sup>7</sup> Power Automate 응용 Project 응용 프로그램의 컨텍스트로 Project 제한됩니다. 즉, 트리거와 작업 모두에 대해 다음과 같은 작업에 포함된 흐름 권리 Project.
 
 - 커넥트 응용 프로그램의 사용 권한 내에서 모든 데이터 원본에 Project 합니다.
@@ -208,11 +212,12 @@ Microsoft Project 조직의 요구 사항을 가장 잘 충족하기 위해 세 
   - Project Microsoft Dataverse 커넥터를 통해 데이터 전송
 - 기본 제공 트리거/Project 응용 프로그램 내에서 직접 트리거
 
-흐름이 격리되어 있으며 앱 응용 프로그램과 아무 Project 없는 경우 플랫폼 라이선스를 구입해야 합니다.</br>
-<sup>8</sup> 사용자 또는 Project 플랜 3 Project 플랜 5 리소스 계약 요청을 제출할 수 있습니다. 리소스 계약 요청을 검토, 이행 또는 승인할 수 없습니다.</br>
-<sup>9</sup> 구독이 Project 플랜 5 리소스 계약 요청을 검토, 이행 및 승인할 수 있습니다.</br>
-<sup>10</sup> Active Directory를 사용하려면 별도의 구독이 필요합니다. </br>
-<sup>11</sup> 보기 권한만 Power App 내에서만 부여됩니다. </br>
+흐름이 격리되어 있으며 앱 응용 프로그램과 아무 Project 없는 경우 플랫폼 라이선스를 구입해야 합니다.<br/>
+<sup>8</sup> 사용자 또는 Project 플랜 3 Project 플랜 5 리소스 계약 요청을 제출할 수 있습니다. 리소스 계약 요청을 검토, 이행 또는 승인할 수 없습니다.<br/>
+<sup>9</sup> 구독이 Project 플랜 5 리소스 계약 요청을 검토, 이행 및 승인할 수 있습니다.<br/>
+<sup>10</sup> Active Directory를 사용하려면 별도의 구독이 필요합니다. <br/>
+<sup>11</sup> 보기 권한만 Power App 내에서만 부여됩니다. <br/>
+<sup>12</sup> Microsoft Project 계획 3/5 라이선스가 있는 고객은 유니버설 리소스 예약을 사용하여 프로젝트 컨텍스트 내에서 Project 테이블 및 작업 테이블을 예약할 수만 있습니다. <br/>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online 데스크톱 클라이언트 기능
 

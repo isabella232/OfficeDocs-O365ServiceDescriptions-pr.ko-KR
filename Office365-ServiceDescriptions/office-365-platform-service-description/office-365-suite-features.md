@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열된 기능은 여러 장치 및 여러 서비스에서 안전하게 공동 작업하고 통신하는 데 도움이 되는 웹 기반 Office 365 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: 99c744f92cc7c100f6889c927fc340512d9b40d8
-ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
+ms.openlocfilehash: e1218f35d26b44a88bfbe35dd80cf3003f28a529
+ms.sourcegitcommit: 5eaf3ca8db0aac7f5882f1e242018a94a359fe27
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52074479"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53275607"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 제품군 기능
 
@@ -91,13 +91,9 @@ Microsoft Sway는 사용자와 동료가 대화형 웹 기반 캔버스를 사�
 
 Microsoft Kaizala 간편하고 안전한 모바일 작업 관리 앱으로, 대규모의 유연한 그룹 유형을 사용하여 Microsoft 365, 공급업체, 파트너, 공급 업체, 고객 및 시민을 비롯한 조직의 디렉터리 내부 및 외부에 있는 사람들을 연결하고 참여할 수 있는 고유한 기능을 [제공합니다.](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710) Kaizala 디렉터리 모델을 사용하면 전화 번호 기반 ID를 사용하여 쉽게 온보드할 수 있으며 메시징 및 작업 관리를 위한 간단한 사용자 환경을 사용할 수 있습니다. Kaizala 모바일 앱을 사용하면 사진, 문서, 비디오, 오디오 파일 등의 인스턴트 메시지와 첨부 파일을 보낼 수 있으며 설문 조사, 설문 조사, 작업 배정, 공지사항, 교육 등의 작업 카드를 사용할 수 있습니다. [Kaizala](https://products.office.com/en/business/microsoft-kaizala) 및 Android에서 iPhone 작동합니다. 자세한 내용은 웹 사이트 [Kaizala 로 이동하세요.](https://products.office.com/en/business/microsoft-kaizala)
 
-## <a name="office-365-video"></a>Office 365 비디오
-
-Office 365 비디오는 장치 전체에서 비디오를 업로드, 공유 및 검색할 수 있는 안전한 회사 전체의 대상입니다Microsoft Azure Media Services. Office 365 비디오를 통해 사용자는 계속해서 참여하고, 정보를 제공 받아 아이디어를 광범위하게 전달하여 조직이 다 함께 협력할 수 있도록 할 수 있습니다. 자세한 내용은 [Office 365 비디오 소개](https://go.microsoft.com/fwlink/?linkid=2144056)를 참조하세요.
-
 ## <a name="onenote-class-notebook"></a>OneNote 수업용 전자 필기장
 
-수업용 전자 필기장은 OneNote E5 Education 및 Office 365 Education Office 365 있습니다. 각 전자 필기장에는 교사가 과정 콘텐츠를 공유할 수 있는 콘텐츠 라이브러리, 교사와 학생이 함께 작업할 수 있는 공동 작업 공간 및 각 학생을 위한 개인 전자 필기장이 포함되어 있습니다. 수업용 전자 필기장을 만든 후 교사와 학생은 OneNote 앱을 사용하여 모든 장치에서 액세스할 수 있습니다.
+수업용 전자 필기장은 OneNote 교육용 전자 필기장의 일부로 Office 365 Education Office 365 E5 있습니다. 각 전자 필기장에는 교사가 과정 콘텐츠를 공유할 수 있는 콘텐츠 라이브러리, 교사와 학생이 함께 작업할 수 있는 공동 작업 공간 및 각 학생을 위한 개인 전자 필기장이 포함되어 있습니다. 수업용 전자 필기장을 만든 후 교사와 학생은 OneNote 앱을 사용하여 모든 장치에서 액세스할 수 있습니다.
 
 ## <a name="to-do"></a>To Do
 
