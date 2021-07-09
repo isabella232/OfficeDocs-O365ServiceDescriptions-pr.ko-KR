@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 독립 실행형 SharePoint 및 Microsoft 365 제한에 대해 자세히 알아보습니다.
-ms.openlocfilehash: e48ce75a9656ca173ef74ddb32df619509629e27
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: 44571cedf74b2a094231173b87731916d9e26975
+ms.sourcegitcommit: 10699cc17ddfed6af78ce1466f478b2bd67ba26a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767478"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53338341"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -50,7 +50,11 @@ ms.locfileid: "51767478"
 
 ### <a name="file-size-and-file-path-length"></a>파일 크기 및 파일 경로 길이
 
-250GB 새 OneDrive 동기화 앱(OneDrive.exe)을 사용할 때의 제한에 대한 자세한 내용은 잘못된 파일 이름 및 파일 형식을 [참조하세요.](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- **250GB - 파일 업로드 제한.** Microsoft Teams 파일 탭, SharePoint 라이브러리, OneDrive 폴더 및 Yammer 개별 파일에 적용됩니다.
+
+- **250MB - 목록 항목에 첨부된 파일입니다.** Microsoft 목록 및 SharePoint 목록에 적용됩니다. 둘 다 동일한 목록 플랫폼을 기반으로 합니다.
+
+새 OneDrive 동기화 앱(OneDrive.exe)을 사용할 때의 제한에 대한 자세한 내용은 잘못된 파일 이름 및 파일 형식을 [참조하세요.](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
 ### <a name="moving-and-copying-across-sites"></a>사이트 전체 이동 및 복사
 
