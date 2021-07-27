@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 정부 및 Microsoft 365 옵션에 대해 간략하게 소개합니다.
-ms.openlocfilehash: f2519466b8037a7ab3871fe924c65fbd84b1ebb1
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 546416b4b8222af55b5b774fa4bff66fd8429035
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545943"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537244"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 정부 - 구입 방법
 
@@ -136,24 +136,34 @@ Microsoft GCC 및 GCC 높은 서비스를 모두 Microsoft 정부 클라우드�
 - Accenture Federal Services, LLC
 - Agile IT, Inc.
 - Applied Information Sciences, Inc.
+- Booz Allen Hamilton, Inc.
 - C3 통합 솔루션
 - CACI
 - 카라소프트
+- CyberSheath Services International, LLC
 - CGI Federal Inc.
 - 정복 사이버
 - Dox Electronics Inc.
+- IT 컨설팅( LLC) 지원
 - F1 Solutions Inc.
 - 4포인트 기술, LLC
 - General Dynamics Information Technology, Inc.
 - Imager Software, Inc. d.b.a ISC
+- Hypori, Inc.
 - 잭파인
 - Jasper
+- Johnson Technology Systems, Inc.
+- Kamind IT, Inc.
 - KTL 솔루션, Inc.
 - LiftOff, LLC
+- ManTech Advanced Systems International, Inc.
+- NIMBUS 논리, LLC
 - Northrop
 - Novetta
+- Perspecta Enterprise SOLUTIONS LLC
 - Planet Technologies, Inc.
 - Quiet Professionals, LLC
+- R3, LLC
 - Red River
 - SAIC
 - Smartronix
@@ -171,7 +181,7 @@ Microsoft GCC 및 GCC 높은 서비스를 모두 Microsoft 정부 클라우드�
 - [Office 365.](https://aka.ms/gcctrial) 1개월 무료 평가판은 GCC 있습니다.  
 - Microsoft는 상업적 고객에게 Office 365 GCC 평가판을 제공하지 않습니다. High 또는 DoD에는 GCC 평가판이 없습니다.
 
-## <a name="where-can-i-learn-more"></a>추가 정보 위치
+## <a name="where-can-i-learn-more"></a>자세한 정보는 어디에 있나요?
 
 정부에 대한 자세한 내용은 다음 리소스를 Microsoft 365 참조합니다.
 

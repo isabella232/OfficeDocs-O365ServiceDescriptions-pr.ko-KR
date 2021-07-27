@@ -10,19 +10,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 보안 및 준수 센터는 조직 전체에서 규정 &amp; Office 365 수 있도록 디자인되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: 8fc8c0a6d127dd1565a954a5368b56fc37bcc47d
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: f0bb01722e2540e3a895c9c220f97c3e8b703fd1
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798464"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537214"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-보안 [및 &amp; 준수 센터는](https://protection.office.com/) 조직 전체에서 규정 Office 365 수 있도록 디자인되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-  
-> [!NOTE]
-> Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
+접근성 및 사용 편의성을 염두에 두어 디자인된 Microsoft 365 보안 [](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx) [센터,](https://sip.security.microsoft.com/homepage)Microsoft 365 규정 준수 센터 및 Exchange 관리 센터에는 Microsoft 365 서비스 전반에 걸쳐 통합 보안, 규정 준수 및 메일 흐름 관리를 위한 새로운 기능과 향상된 환경이 포함되어 있습니다. [](https://sip.compliance.microsoft.com/homepage) 이러한 새 센터는 보안 및 준수 센터(Office 365)를 &amp; 점진적으로 protection.office.com. 이제 보안 센터 또는 규정 [](https://sip.security.microsoft.com/homepage) 준수 센터에서 자동 리디렉션을 끄면 조직의 관리자가 Office 365 보안 및 준수 센터의 기능에서 새 센터의 해당 기능으로 즉시 [](https://sip.compliance.microsoft.com/homepage) &amp; 리디렉션됩니다.
 
 사용자 라이선스를 사용자에게 라이선스를 설정하여 규정 준수 기능을 Microsoft 365 옵션을 확인하려면 Microsoft 365 [비교 표를 다운로드하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
@@ -100,7 +97,7 @@ ms.locfileid: "52798464"
 
 <sup>4</sup> Skype 사서함의 일부로 저장됩니다.
 
-<sup>5</sup> Advanced eDiscovery E5 Office 365 추가 기능 라이선스가 필요합니다.
+<sup>5</sup> Advanced eDiscovery 추가 Office 365 E5 라이선스가 필요합니다.
 
 <sup>6</sup> Skype 보관이 사용자 사서함 내에 있습니다.
 

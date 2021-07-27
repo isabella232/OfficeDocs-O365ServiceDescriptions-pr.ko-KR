@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 프로젝트 포트폴리오 관리(프로젝트 포트폴리오 관리) 및 일상 업무를 PPM 유연한 온라인 솔루션입니다. Office 365 통해 Project Online 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획, 우선 순위 지정 및 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: 0c2d1d68767a6b4dedd6b75fd77ca36ba38d6baf
-ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
+ms.openlocfilehash: 3717ff4d908d61e27bbb42af6fbc6615b5dbc548
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2021
-ms.locfileid: "53290858"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537264"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 서비스 설명
 
@@ -197,7 +197,7 @@ Microsoft Project 조직의 요구 사항을 가장 잘 충족하기 위해 세 
 |사용자 관리 | 프로젝트, 팀 및 조직 수준에서 사용자 및 그룹 역할 및 사용 권한을 관리합니다. | 아니요 | 예 |
 |서비스 관리 | Office 365 환경의 일부로 Microsoft Project 환경을<sup>계획,</sup> 설치 및 구성, 유지 관리 및 확장합니다. | 아니요 | 예 |
 
-#### <a name="notes"></a>참고
+#### <a name="notes"></a>메모
 
 <sup>1</sup> 상업용 Office Microsoft 365 필요합니다.<br/>
 <sup>2 Azure Boards</sup> 별도로 취득됩니다.<br/>
@@ -298,6 +298,8 @@ Project 5명 이상의 웹 라이선스를 Project 고객의 경우 웹 Project 
 | Dataverse 로그: 포함/테넌트                                     | 2GB        | 2GB        | 2GB        |
 | Dataverse 파일: 포함/테넌트                                    | 20GB       | 20GB       | 20GB       |
 | Dataverse 파일: Accrued/USL                                        | 400MB      | 2GB        | 2GB        |
+
+Dataverse 저장소 용량을 Project 추가 Microsoft 구독이 있습니다. 다른 Dataverse 저장소 용량 권리에 대한 자세한 내용은 [Dynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409) 라이선스 가이드 및 [Power Apps, Power Automate Power Virtual Agents](https://go.microsoft.com/fwlink/?LinkId=2085130&clcid=0x409) 라이선스 가이드를 참조하세요.
 
 ### <a name="data-backup-and-retention"></a>데이터 백업 및 보존
 
