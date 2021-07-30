@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 정부 및 Microsoft 365 옵션에 대해 간략하게 소개합니다.
-ms.openlocfilehash: 546416b4b8222af55b5b774fa4bff66fd8429035
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: 3dae61b362f63126b8d93589e88ccba9cb57502f
+ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537244"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53661636"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 정부 - 구입 방법
 
@@ -140,16 +140,16 @@ Microsoft GCC 및 GCC 높은 서비스를 모두 Microsoft 정부 클라우드�
 - C3 통합 솔루션
 - CACI
 - 카라소프트
-- CyberSheath Services International, LLC
 - CGI Federal Inc.
 - 정복 사이버
+- CyberSheath Services International, LLC
 - Dox Electronics Inc.
 - IT 컨설팅( LLC) 지원
 - F1 Solutions Inc.
 - 4포인트 기술, LLC
 - General Dynamics Information Technology, Inc.
-- Imager Software, Inc. d.b.a ISC
 - Hypori, Inc.
+- Imager Software, Inc. d.b.a ISC
 - 잭파인
 - Jasper
 - Johnson Technology Systems, Inc.

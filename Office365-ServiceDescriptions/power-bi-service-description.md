@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI 클라우드 기반 비즈니스 분석 도구 모음으로, 누구나 더 빠른 속도, 효율성 및 이해를 통해 데이터에 연결하고, 시각화하고, 분석할 수 있습니다. 사용자를 사용하기 쉬운 대시보드를 통해 다양한 범위의 라이브 데이터와 연결하고, 대화형 보고서를 제공하며 데이터에 생동감을 주는 뛰어난 시각화를 전달합니다.
-ms.openlocfilehash: addac672ec7cb12537d41041c85752ee3690e544
-ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
+ms.openlocfilehash: c3ef96972ed31585a5fe58e04bb20d96c5ad19cb
+ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52906744"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53661616"
 ---
 # <a name="power-bi-service-description"></a>Power BI 서비스 설명
 
@@ -33,7 +33,7 @@ Power BI는 현재 Office 365 Enterprise E5 버전의 일부로 사용할 수 �
 
 ## <a name="feature-availability"></a>기능 가용성
 
-다음 표에는 계획에서 사용할 Power BI 주요 기능 목록이 나열되어 있습니다. 특정 주의가 적용됩니다. 자세한 내용은 각주를 참조하세요. 이 표는 예고 없이 변경될 수 있습니다. 최신의 전체 기능 목록은 Power BI [참조하세요.](https://powerbi.microsoft.com/pricing/)
+다음 표에는 계획에서 사용할 Power BI 주요 기능 목록이 나열되어 있습니다. 특정 경고가 적용됩니다. 자세한 내용은 각주를 참조하세요. 이 표는 통지 없이 변경될 수 있습니다. 최신의 전체 기능 목록은 Power BI [참조하세요.](https://powerbi.microsoft.com/pricing/)
 
 | 기능 | Power BI Pro | 사용자별 Power BI Premium | Power BI Premium당 수 |
 |---------|--------------|---------------------------|-------------------------------|
@@ -57,7 +57,7 @@ Power BI는 현재 Office 365 Enterprise E5 버전의 일부로 사용할 수 �
 | **거버넌스 및 관리** | | | |
 | 데이터 보안 및 암호화 | 예 | 예 | 예 |
 | 콘텐츠 만들기, 사용 및 게시에 대한 메트릭 | 예 | 예 | 예 |
-| 응용 프로그램 수명 주기 관리 | 아니요 | 아니요 | 예 |
+| 응용 프로그램 수명 주기 관리를 위한 배포 파이프라인 | 아니요 | 아니요 | 예 |
 | Multi-Geo 배포 관리 | 아니요 | 아니요 | 예 |
 | BYOK(Bring Your Own Key) | 아니요 | 아니요 | 예 |
 | 추가 기능 가용성 자동 조정(미리 보기) | 아니요 | 아니요 | 예 |
@@ -77,12 +77,12 @@ Power BI는 현재 Office 365 Enterprise E5 버전의 일부로 사용할 수 �
 
 ### <a name="licensing-terms"></a>사용 조건
 
-Microsoft 상업용 볼륨 라이선스 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 제품 사용 조건 [사이트를 참조하세요.](https://www.microsoft.com/licensing/terms/) 
+Microsoft 상업용 볼륨 라이선싱 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 [제품 조건 사이트](https://www.microsoft.com/licensing/terms/)를 참조하세요. 
 
-### <a name="messaging"></a>메시징
+### <a name="messaging"></a>메시지
 
-새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용을 추적하기 위해 메시지 센터를 방문합니다. 자세한 내용은 메시지 센터 [를 참조하세요.](/microsoft-365/admin/manage/message-center)
+새로운 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용을 추적하려면 메시지 센터를 방문하세요. 자세한 내용은 [메시지 센터](/microsoft-365/admin/manage/message-center)를 참조하세요.
 
-### <a name="accessibility"></a>내게 필요한 옵션
+### <a name="accessibility"></a>접근성
 
-Microsoft는 사용자의 데이터 보안 및 서비스의 접근성을 위해 계속 최선을 [다하고](https://www.microsoft.com/trust-center/compliance/accessibility) 있습니다. 자세한 내용은 Microsoft [보안](https://www.microsoft.com/trust-center) 센터 및 Office [접근성 센터를 참조하세요.](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft는 데이터의 보안과 서비스의 [접근성](https://www.microsoft.com/trust-center/compliance/accessibility)에 최선을 다하고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조하세요.
