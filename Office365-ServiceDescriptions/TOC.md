@@ -96,6 +96,7 @@
 ## [웹용 Visio 서비스 설명](visio-online-service-description/visio-online-service-description.md)
 ### [Visio 기능 세부 정보](visio-online-service-description/visio-features.md)
 ## [Yammer 서비스 설명](yammer-service-description/yammer-service-description.md)
+### [Yammer에서의 제한](yammer-service-description/yammer-limits.md)
 ### [Yammer의 그룹 기능](yammer-service-description/group-features-in-yammer.md)
 ### [Yammer의 프로필 기능](yammer-service-description/profile-features-in-yammer.md)
 ### [Yammer의 메시지 및 대화 기능](yammer-service-description/message-and-conversation-features-in-yammer.md)
