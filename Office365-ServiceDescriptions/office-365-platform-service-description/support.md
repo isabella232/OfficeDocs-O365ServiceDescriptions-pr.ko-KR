@@ -13,19 +13,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: 엔터프라이즈, Microsoft Office 365, 교육 및 정부 구독에 대한 모든 구독을 통해 Microsoft 지원은 글로벌 기술, 사전 판매, 대금 청구 및 구독 지원을 제공합니다. 지원은 Microsoft 365 관리 센터를 통해 온라인으로, 유료 및 평가판 구독에 대해 전화로 제공됩니다. 자세한 내용은 Microsoft 지원 옵션을 참조하세요.
-ms.openlocfilehash: aee2ff37c2fb531e506a2cb18a5e92a6528785c7
-ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
+description: 엔터프라이즈, Microsoft Office 365, 교육 및 정부 구독에 대한 모든 구독을 통해 Microsoft 지원은 글로벌 기술, 사전 판매, 대금 청구 및 구독 지원을 제공합니다. 지원은 유료 및 평가판 Microsoft 365 관리 센터 전화로 온라인에서 사용할 수 있습니다. 자세한 내용은 Microsoft 지원 옵션을 참조하세요.
+ms.openlocfilehash: 55c947fde5004c876f2dfcb95ad2e9f47fe71e31da8026d91a2ab541e1aac566
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721202"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701657"
 ---
 # <a name="support"></a>지원
 
-엔터프라이즈Microsoft 365, Office 365, 교육 및 정부에 대한 모든 사용자 및 서비스 구독을 통해 Microsoft 지원은 글로벌 기술, 사전 판매, 대금 청구 및 구독 지원을 제공합니다. 지원은 Microsoft 365 관리 센터를 통해 온라인으로, 유료 및 평가판 구독에 대해 전화로 제공됩니다. 자세한 내용은 Microsoft 지원 [옵션을 참조하세요.](/Office365/Admin/contact-support-for-business-products)
+엔터프라이즈Microsoft 365, Office 365, 교육 및 정부에 대한 모든 사용자 및 서비스 구독을 통해 Microsoft 지원은 글로벌 기술, 사전 판매, 대금 청구 및 구독 지원을 제공합니다. 지원은 유료 및 평가판 Microsoft 365 관리 센터 전화로 온라인에서 사용할 수 있습니다. 자세한 내용은 Microsoft 지원 [옵션을 참조하세요.](/Office365/Admin/contact-support-for-business-products)
 
-권한 있는 관리자는 Microsoft 365 관리 센터를 사용하여 온라인으로 서비스 요청을 제출하고, 지원 전화 번호에 액세스하고, 열려 있는 모든 서비스 요청과 최근에 닫힌 서비스 요청을 볼 수 있습니다. 관리 센터에서 제출된 서비스 요청은 요청이 닫힌 후 최대 14일 동안 다시 열 수 있습니다. 자세한 내용은 [비즈니스용 Microsoft 365 문의를 참조하세요.](/Office365/Admin/contact-support-for-business-products)
+권한 있는 관리자는 이 서비스를 사용하여 Microsoft 365 관리 센터 제출하고, 지원 전화 번호에 액세스하고, 열려 있는 모든 서비스 요청과 최근에 닫힌 서비스 요청을 볼 수 있습니다. 관리 센터에서 제출된 서비스 요청은 요청이 닫힌 후 최대 14일 동안 다시 열 수 있습니다. 자세한 내용은 [비즈니스용 Microsoft 365 문의를 참조하세요.](/Office365/Admin/contact-support-for-business-products)
   
 기술 Microsoft 365 지원 팀에서는 해당 문제와 관련된 문제만 Microsoft 365 Office 365. 고객 네트워크에서 시작되는 문제는 지원 범위 밖에 있으며, 이러한 경우 고객은 네트워킹 팀과 함께 일하거나 [Microsoft](https://support.microsoft.com/gp/contactus81?Audience=Commercial) 네트워킹 팀에 지원을 요청해야 합니다.
   

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: 도메인을 추가할 때 단계별 마법사를 사용하면 사용자를 추가하고 전자 메일 주소 및 기타 서비스를 비즈니스 이름으로 변환할 수 있습니다. 마법사를 완료하면 비즈니스 전자 메일이 현재 전자 메일 공급자로 전송되는 대신 Microsoft로 전송됩니다. 자세한 내용은 Microsoft에 사용자 및 도메인 추가를 참조합니다. 21Vianet에서 운영하는 Office 365를 사용하는 경우 도메인 확인을 참조하세요.
-ms.openlocfilehash: 72ea4e88d659d7a6004888c45bb233832978fd34
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 591364950fda2ebc070255a010435a74c4f2e6c41882236a1e35b987ba54c605
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652572"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54662991"
 ---
 # <a name="domains"></a>도메인
 
@@ -43,17 +43,17 @@ Microsoft에서 도메인의 DNS 레코드를 관리하는 경우 먼저 Microso
   
 DNS 레코드가 호스팅되는 위치와 상관없이 Microsoft에서 호스팅되는 공개 웹 사이트 또는 다른 호스팅 공급자와 함께 URL에 도메인을 사용하기 위해 DNS 레코드를 설정할 수 있습니다. 
   
-Microsoft는 DNS 레코드를 사전적으로 확인하여 DNS 문제를 찾고 해결하는 데 도움을 제공합니다. DNS 레코드가 예상과 일치하지 않는 경우 Microsoft 365 관리 센터에서 알림과 함께 식별된 가능한 문제를 해결하는 방법을 알려 주게 됩니다.
+Microsoft는 DNS 레코드를 사전적으로 확인하여 DNS 문제를 찾고 해결하는 데 도움을 제공합니다. DNS 레코드가 예상한 레코드와 일치하지 않는 경우 확인된 가능한 문제를 해결하는 방법을 알려 Microsoft 365 관리 센터 DNS 레코드에 알림이 표시됩니다.
   
 자세한 내용은 [Microsoft에서 DNS](/office365/admin/setup/domains-faq) 레코드를 관리하는 방법을 참조하거나 21Vianet에서 Office 365 운영하는 Office 365 DNS 레코드 만들기를 [참조하세요.](/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records)
   
 ## <a name="sharing-a-domain"></a>도메인 공유
 
-Microsoft의 도메인에 대한 일부 전자 메일 주소와 이전 전자 메일 공급자의 전자 메일 주소를 파일럿할 수 있습니다. 이 설정은 추가 설정 단계가 필요하고 파일럿 작업의 경우 몇 가지 제한이 있기 때문에 파일럿 동안에만 Microsoft 서비스. 자세한 내용은 다음을 참조하세요.
+Microsoft의 도메인에 대한 일부 전자 메일 주소와 이전 전자 메일 공급자의 전자 메일 주소를 파일럿할 수 있습니다. 이 설정은 추가 설정 단계가 필요하고 파일럿 작업의 경우 몇 가지 제한이 있기 때문에 파일럿 동안에만 Microsoft 서비스. 자세한 내용은 다음 항목을 참조하세요.
   
 - [중소 Microsoft 365 파일럿 테스트](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     
-- [대기업용 파일럿 Microsoft 365 파일럿(FastTrack 사용)](https://fasttrack.office.com/onboard)
+- [대기업용 Microsoft 365 파일럿 FastTrack)](https://fasttrack.office.com/onboard)
     
 ## <a name="feature-availability"></a>기능 가용성
 

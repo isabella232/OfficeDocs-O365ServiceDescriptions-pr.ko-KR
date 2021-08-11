@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft는 고객과의 파트너 관계를 소중히 여기며 고객 데이터의 보안 및 개인 정보를 보호하는 데 중점을 두고 있습니다. 자세한 내용은 Microsoft 보안 센터를 참조하세요.
-ms.openlocfilehash: d3a9552d30bc947da36306b1a37fd53fc9d28319
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 06ca7c3afa81aa31b559c115972d9c2c02b2b06757032282672e536f78d0dd1a
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652532"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701837"
 ---
 # <a name="privacy-security-and-transparency"></a>개인 정보, 보안 및 투명성
 
@@ -54,7 +54,7 @@ Customer Lockbox는 Office 365 Enterprise 5 계획에 포함되어 있거나 다
   
 ## <a name="microsoft-defender-for-office-365"></a>Office 365용 Microsoft Defender
 
-Defender for Office 365 맬웨어 및 바이러스로부터 조직을 보호하는 데 도움이 됩니다. Defender for Office 365 [안전한](/office365/securitycompliance/atp-safe-links) [링크,](/office365/securitycompliance/atp-safe-attachments)안전한 첨부 [파일,](/office365/securitycompliance/atp-anti-phishing)피싱 방지 및 스푸핑 인텔리전스 [기능이](/office365/securitycompliance/learn-about-spoof-intelligence) 포함되어 있습니다. 안전한 링크는 메시지의 악의적인 하이퍼링크로부터 사용자를 사전 보호하여 링크를 선택할 때마다 보호 기능을 제공합니다. 안전한 첨부 파일은 알 수 없는 맬웨어 및 바이러스로부터 보호하며, 알려진 바이러스/맬웨어 서명이 없는 모든 메시지와 첨부 파일을 특수한 환경으로 라우팅합니다. 이러한 특수한 환경으로 라우팅하여 Office 365 의도를 감지할 수 있습니다. Defender for Office 365 자세한 내용은 Microsoft [Defender for Office 365 설명을 참조하세요.](../office-365-advanced-threat-protection-service-description.md)
+Defender for Office 365 맬웨어 및 바이러스로부터 조직을 보호하는 데 도움이 됩니다. Defender for Office 365 링크, 금고 첨부 [](/office365/securitycompliance/atp-anti-phishing) [파일금고](/office365/securitycompliance/atp-safe-attachments)피싱 방지 및 스푸핑 [인텔리전스](/office365/securitycompliance/learn-about-spoof-intelligence) 기능이 포함되어 있습니다. [](/office365/securitycompliance/atp-safe-links) 금고 링크는 메시지의 악의적인 하이퍼링크로부터 사용자를 보호하여 링크를 선택할 때마다 보호 기능을 제공합니다. 금고 첨부 파일은 알 수 없는 맬웨어 및 바이러스로부터 보호하며, 알려진 바이러스/맬웨어 서명이 없는 모든 메시지와 첨부 파일을 특수한 환경으로 라우팅합니다. 이 환경은 이러한 Office 365 검색할 수 있습니다. Defender for Office 365 자세한 내용은 Microsoft [Defender for Office 365 설명을 참조하세요.](../office-365-advanced-threat-protection-service-description.md)
   
 ## <a name="feature-availability"></a>기능 가용성
 

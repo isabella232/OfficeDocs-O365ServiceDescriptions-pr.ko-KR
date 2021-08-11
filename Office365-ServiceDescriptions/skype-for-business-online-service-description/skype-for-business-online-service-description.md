@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 여러 비즈니스용 Skype 계획 내에서 사용할 수 있는 Microsoft 365 온라인 기능을 Office 365 참조하세요.
-ms.openlocfilehash: 385bca5d7f8a3a138b4047a82e648b887de02821
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: a340fb2eb2cc1bf82d5d572120f2b7b52d030552779652ae34c90a49b350dd1e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653580"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702447"
 ---
 # <a name="skype-for-business-online-service-description"></a>비즈니스용 Skype Online 서비스 설명
 
@@ -108,7 +108,7 @@ ms.locfileid: "51653580"
 |비즈니스용 Skype 모임 예약 Outlook  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |다른 비즈니스용 Skype 대신 Outlook 모임 예약(위임)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |웹 비즈니스용 Skype 모임 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|웹에서 Outlook 온라인 모임 예약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|2016년 8월에 온라인 모임 웹용 Outlook  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Outlook 위한 위임  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Outlook에서 정적 모임 ID로 공개 모임 만들기  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |**음성 통화** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
@@ -166,7 +166,7 @@ ms.locfileid: "51653580"
 |현재 상태와 상호 Exchange Online  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Exchange Server와의 통합 메시징 상호 운용성  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
 |Exchange Online과의 통합 메시징 상호 운용성  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|Outlook 웹 상의 연결  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|웹용 Outlook 상호 연산  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Exchange Server와의 보관 상호 운용성  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |
 |Exchange Online과의 보관 상호 운용성  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |SharePoint 서버의 기술 검색  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
@@ -176,13 +176,13 @@ ms.locfileid: "51653580"
 |Microsoft 365 관리 센터  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 Skype 관리 센터  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Windows PowerShell  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|비즈니스용 Skype Microsoft 365 관리 센터의 온라인 보고  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|비즈니스용 Skype 온라인 보고 Microsoft 365 관리 센터  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Lync Basic 데스크톱 클라이언트는 로컬로 설치된 응용 프로그램으로, 온라인을 사용하는 계획에 대해 현재 상태, 인스턴트 메시징 및 회의 기능을 비즈니스용 Skype 있습니다. 엔터프라이즈용 Microsoft 365 앱 및 Office 365 E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능과 같은 추가 기능을 포함하는 전체 비즈니스용 Skype(Lync) 응용 프로그램이 포함되어 있습니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대한 자세한 내용은 [Desktop client comparison tables for Lync Server 2013을 참조하십시오.](/lyncserver/lync-server-2013-desktop-client-comparison-tables) 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Lync Basic 데스크톱 클라이언트는 로컬로 설치된 응용 프로그램으로, 온라인을 사용하는 계획에 대해 현재 상태, 인스턴트 메시징 및 회의 기능을 비즈니스용 Skype 있습니다. 엔터프라이즈용 Microsoft 365 앱 및 Office 365 E3 고급 전화 통신 지원, 보관 및 규정 준수 기능과 같은 추가 기능을 포함하는 전체 비즈니스용 Skype(Lync) 응용 프로그램이 포함됩니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대한 자세한 내용은 [Desktop client comparison tables for Lync Server 2013을 참조하십시오.](/lyncserver/lync-server-2013-desktop-client-comparison-tables) 
 <br/> <sup>2</sup>비즈니스용 Skype 온라인에 대한 보관은 이 계획에 포함되지 않은 Exchange 원본 위치 유지 기능에 따라 다릅니다. 
 <br/><sup>3</sup> 음성 메일을 Exchange Online(계획 2) 사용자에게 Exchange Online(계획 2) 계획을 할당해야 합니다. 음성 Exchange Online 요금제는 사용할 &nbsp; 수 없습니다. 
 <br/><sup>4</sup> Office 365 F3 사용자가 온라인 계획 2 또는 엔터프라이즈 계획 사용자의 초대를 비즈니스용 Skype 공유 세션에 참가할 수 있습니다. 
-<br/> <sup>5</sup> 오디오 회의를 추가 기능으로 Microsoft 365 Business Standard, Office 365 E1 및 Office 365 E3 구독 계획에 추가할 수 있습니다. 
+<br/> <sup>5</sup> 오디오 회의를 추가 기능으로 Microsoft 365 Business Standard, Office 365 E1 및 Office 365 E3 요금제에 추가할 수 있습니다. 
 <br/> <sup>6</sup> 통신 크레딧은 오디오 회의만 Microsoft 365 Business Standard 추가 기능으로 구독 계획에 추가할 수 있습니다. 
 <br/><sup>7</sup> Mac 및 모바일 클라이언트에는 긴급 통화를 사용할 수 없습니다. 
 <br/> <sup>8</sup> 고객 키를 사용하면 조직의 암호화 키를 제어한 다음 Microsoft 데이터 센터의 미사용 데이터를 암호화하는 데 사용하도록 Microsoft를 구성할 수 있습니다. 미사용 데이터에는 SharePoint Online 및 비즈니스용 OneDrive에 저장되어 있는 사서함과 파일에 저장된 Exchange Online 및 비즈니스용 Skype의 데이터를 포함합니다. 고객 키는 Microsoft가 데이터 암호를 해독하는 데 사용하는 암호화 키를 제어하기 때문에 규정 준수 의무를 충족하는 데 도움이 됩니다. 자세한 내용은 고객 키를 [사용하여 서비스 암호화를 참조하세요.](/microsoft-365/compliance/customer-key-overview) 
@@ -253,7 +253,7 @@ ms.locfileid: "51653580"
 |비즈니스용 Skype 모임 예약 Outlook  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |다른 비즈니스용 Skype 대신 Outlook 모임 예약(위임)  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |웹 비즈니스용 Skype 모임 예약  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
-|웹에서 Outlook 온라인 모임 예약  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
+|2016년 8월에 온라인 모임 웹용 Outlook  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |Outlook 위한 위임  <br/> |예  <br/> |아니요  <br/> |예  <br/> |
 |Outlook에서 정적 모임 ID로 공개 모임 만들기  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
 |**[보안 및 보관](skype-for-business-online-features.md#security-and-archiving)** <br/> |**비즈니스용 Skype 서버 2015** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 1** <br/> |**비즈니스용 Skype 온라인 독립 실행형 계획 2** <br/> |
@@ -270,7 +270,7 @@ ms.locfileid: "51653580"
 |현재 상태와 상호 Exchange Online  <br/> |예  <br/> |예<sup>5</sup> <br/> |예  <br/> |
 |Exchange Server와의 통합 메시징 상호 운용성  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
 |Exchange Online과의 통합 메시징 상호 운용성  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
-|Outlook 웹 상의 연결  <br/> |예  <br/> |예<sup>5</sup> <br/> |예  <br/> |
+|웹용 Outlook 상호 연산  <br/> |예  <br/> |예<sup>5</sup> <br/> |예  <br/> |
 |Exchange Server와의 보관 상호 운용성  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
 |Exchange Online과의 보관 상호 운용성  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |SharePoint 서버의 기술 검색  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |
@@ -280,9 +280,9 @@ ms.locfileid: "51653580"
 |Microsoft 365 관리 센터  <br/> |아니요  <br/> |예  <br/> |예  <br/> |
 |비즈니스용 Skype 관리 센터  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Windows PowerShell  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|비즈니스용 Skype Microsoft 365 관리 센터의 온라인 보고  <br/> |아니요  <br/> |아니요<sup>4</sup> <br/> |아니요<sup>4</sup> <br/> |
+|비즈니스용 Skype 온라인 보고 Microsoft 365 관리 센터  <br/> |아니요  <br/> |아니요<sup>4</sup> <br/> |아니요<sup>4</sup> <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Lync Basic 데스크톱 클라이언트는 로컬로 설치된 응용 프로그램으로, 비즈니스용 Skype Online이 포함된 계획에 대한 현재 상태, 인스턴트 메시징 및 회의 기능을 제공합니다. 엔터프라이즈용 Microsoft 365 앱 및 Office 365 E3에는 고급 전화 통신 지원비즈니스용 Skype 보관 준수 기능을 비롯한 추가 기능이 포함된 전체 Lync(비즈니스용 Skype) 응용 프로그램이 &amp; 포함되어 있습니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대한 자세한 내용은 [Desktop client comparison tables for Lync Server 2013을 참조하십시오.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Lync Basic 데스크톱 클라이언트는 로컬로 설치된 응용 프로그램으로, 비즈니스용 Skype Online이 포함된 계획에 대한 현재 상태, 인스턴트 메시징 및 회의 기능을 제공합니다. 엔터프라이즈용 Microsoft 365 앱 및 Office 365 E3 포함된 전체 비즈니스용 Skype(Lync) 응용 프로그램에는 고급 전화 통신 지원, 보관 준수 기능 등의 추가 기능이 &amp; 포함됩니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대한 자세한 내용은 [Desktop client comparison tables for Lync Server 2013을 참조하십시오.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)
 <br/><sup>2</sup> 비즈니스용 Skype Online 계획 1 사용자가 비즈니스용 Skype 온라인 계획 2 사용자가 공유 세션에 참가할 수 있습니다. 
 <br/> <sup>3</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan. 
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 
@@ -299,5 +299,5 @@ ms.locfileid: "51653580"
 |Microsoft 365 Business Standard  <br/> | Skype 모임 브로드캐스트:  <br/>  이끌이, 제작자, 이벤트 팀 구성원 및 인증된 참석자의 경우 라이선스가 필요합니다.  <br/>  익명 참석자는 라이선스가 필요하지 않습니다.  <br/>  오디오 회의(사용 가능한 국가).  <br/> |
 |Office 365 E1  <br/> |비즈니스용 Skype 온라인 독립 실행형 계획 2(포함된 기능은 위의 비즈니스용 Skype 온라인 독립 실행형 계획 2 참조).  <br/> |
 |Office 365 E3  <br/> |비즈니스용 Skype 온라인 독립 실행형 계획 2(포함된 기능은 위의 비즈니스용 Skype 온라인 독립 실행형 계획 2 참조).  <br/> |
-|Office 365 E5(오디오 회의 사용)  <br/> | 비즈니스용 Skype 온라인 독립 실행형 계획 2가 포함됩니다(포함된 기능은 위의 비즈니스용 Skype 온라인 독립형 계획 2 참조).  <br/>  오디오 회의가 포함됩니다.  <br/>  전화 시스템이 포함됩니다.  <br/>**참고**  통화 플랜 없이 자체적으로 구매한 경우 하이브리드 전화 시스템 기능만 사용할 수 있습니다. 기존 PSTN 서비스 공급자를 이용하여 PSTN 통화를 사용하도록 설정하려면 하이브리드 음성에 온-프레미스 고객 하이브리드 음성 배포가 필요합니다. 다음 전화 시스템 추가 기능에서는 PSTN 서비스 공급자로 Microsoft를 이용하여 인바운드/아웃바운드 PSTN 통화를 사용하도록 설정할 수 있습니다. <br/> - 국내 통화 플랜(제한된 국가에서 사용 가능) <br/> - 국제 통화 플랜(제한된 국가에서 사용 가능)           |
-|Office 365 오디오 회의가 없는 E5  <br/> | 비즈니스용 Skype 온라인 독립 실행형 계획 2가 포함됩니다(포함된 기능은 위의 비즈니스용 Skype 온라인 독립형 계획 2 참조).  <br/>  전화 시스템이 포함됩니다. <br/>**참고**  통화 플랜 없이 자체적으로 구매한 경우 하이브리드 전화 시스템 기능만 사용할 수 있습니다. 기존 PSTN 서비스 공급자를 이용하여 PSTN 통화를 사용하도록 설정하려면 하이브리드 음성에 온-프레미스 고객 하이브리드 음성 배포가 필요합니다. 다음 전화 시스템 추가 기능에서는 PSTN 서비스 공급자로 Microsoft를 이용하여 인바운드/아웃바운드 PSTN 통화를 사용하도록 설정할 수 있습니다. <br/> - 국내 통화 플랜(제한된 국가에서 사용 가능). <br/> - 국제 통화 플랜(제한된 국가에서 사용 가능).           |
+|Office 365 E5 회의 사용  <br/> | 비즈니스용 Skype 온라인 독립 실행형 계획 2가 포함됩니다(포함된 기능은 위의 비즈니스용 Skype 온라인 독립형 계획 2 참조).  <br/>  오디오 회의가 포함됩니다.  <br/>  전화 시스템이 포함됩니다.  <br/>**참고**  통화 플랜 없이 자체적으로 구매한 경우 하이브리드 전화 시스템 기능만 사용할 수 있습니다. 기존 PSTN 서비스 공급자를 이용하여 PSTN 통화를 사용하도록 설정하려면 하이브리드 음성에 온-프레미스 고객 하이브리드 음성 배포가 필요합니다. 다음 전화 시스템 추가 기능에서는 PSTN 서비스 공급자로 Microsoft를 이용하여 인바운드/아웃바운드 PSTN 통화를 사용하도록 설정할 수 있습니다. <br/> - 국내 통화 플랜(제한된 국가에서 사용 가능) <br/> - 국제 통화 플랜(제한된 국가에서 사용 가능)           |
+|Office 365 E5 회의가 없는 경우  <br/> | 비즈니스용 Skype 온라인 독립 실행형 계획 2가 포함됩니다(포함된 기능은 위의 비즈니스용 Skype 온라인 독립형 계획 2 참조).  <br/>  전화 시스템이 포함됩니다. <br/>**참고**  통화 플랜 없이 자체적으로 구매한 경우 하이브리드 전화 시스템 기능만 사용할 수 있습니다. 기존 PSTN 서비스 공급자를 이용하여 PSTN 통화를 사용하도록 설정하려면 하이브리드 음성에 온-프레미스 고객 하이브리드 음성 배포가 필요합니다. 다음 전화 시스템 추가 기능에서는 PSTN 서비스 공급자로 Microsoft를 이용하여 인바운드/아웃바운드 PSTN 통화를 사용하도록 설정할 수 있습니다. <br/> - 국내 통화 플랜(제한된 국가에서 사용 가능). <br/> - 국제 통화 플랜(제한된 국가에서 사용 가능).           |

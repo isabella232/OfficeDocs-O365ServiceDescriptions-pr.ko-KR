@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online 조직의 전자 메일 인프라에 대한 광범위한 보존 및 복구 지원을 제공합니다. 여기에는 데이터 센터에서의 사서함 복제와 삭제된 사서함 및 삭제된 항목의 복원 기능이 포함됩니다.
-ms.openlocfilehash: 5415499e85d0e6fb0334e2e23abc435d0df9d2ab
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: eaeb8f7d17cfa08d3f7a0883d918e0049956fdb6a1dfc4a5bcf15ed5011190fa
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653340"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663931"
 ---
 # <a name="high-availability-and-business-continuity"></a>고가용성 및 비즈니스 연속성
 
@@ -31,13 +31,13 @@ Microsoft의 데이터 보호 방식에 대한 자세한 내용은 [Office 365 �
   
 ## <a name="deleted-mailbox-recovery"></a>삭제된 사서함 복구
 
-Exchange Online 관리자는 Microsoft 365 관리 센터를 사용하여 해당 사용자 계정을 삭제하거나 Exchange Online 라이선스를 제거하거나 원격 사서함에서 **Remove-Mailbox** cmdlet을 사용하여 Windows PowerShell. 사서함이 삭제되면 Exchange Online 사서함 및 해당 콘텐츠는 기본적으로 30일 동안 보존됩니다. 30일이 지난 후 사서함을 복구할 수 없습니다. 복구된 사서함에는 삭제 당시에 저장된 모든 데이터가 포함되어 있습니다. 관리자는 사서함 관리 센터를 사용하여 보존 기간 내에 삭제된 사서함을 Microsoft 365 있습니다. 삭제된 사서함을 복구하려면 관리자는 해당 사용자 계정을 복원하거나 사용자 계정에 Exchange Online 라이선스를 다시 배정해야 합니다. 자세한 내용은 [Delete or Restore User Mailboxes in Exchange Online.](/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)
+관리자는 Exchange Online 사서함을 삭제하거나 Microsoft 365 관리 센터 사용자 계정을 삭제하거나 Exchange Online 라이선스를 제거하거나 원격 사서함에서 **Remove-Mailbox** cmdlet을 사용하여 사서함을 삭제할 수 Windows PowerShell. 사서함이 삭제되면 Exchange Online 사서함 및 해당 콘텐츠는 기본적으로 30일 동안 보존됩니다. 30일이 지난 후 사서함을 복구할 수 없습니다. 복구된 사서함에는 삭제 당시에 저장된 모든 데이터가 포함되어 있습니다. 관리자는 보존 기간 내에 삭제된 사서함을 복구할 수 Microsoft 365 관리 센터. 삭제된 사서함을 복구하려면 관리자는 해당 사용자 계정을 복원하거나 사용자 계정에 Exchange Online 라이선스를 다시 배정해야 합니다. 자세한 내용은 [Delete or Restore User Mailboxes in Exchange Online.](/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)
   
 ## <a name="deleted-item-recovery"></a>삭제된 항목 복구
 
 Exchange Online 폴더를 포함하여 모든 전자 메일 폴더에서 삭제한 항목을 복원할 수 있습니다. 항목이 삭제되면 사용자의 지우기 항목 폴더에 보관됩니다. 사용자가 수동으로 제거하거나 보존 정책에 의해 자동으로 제거될 때까지 이 상태로 남아 있습니다. 관리자는 EAC에서 또는 원격 전자 메일 관리자를 사용하여 보존 정책을 사용자 지정할 Windows PowerShell.
   
-지운 편지함 폴더에서 제거된 항목은 휴지통 폴더에서 14일 동안 보관되었다가 영구적으로 제거되지만 관리자는 원격 Windows PowerShell을 사용하여 이 기간을 최대 30일까지 연장할 수 있습니다. 사용자는 이 기간 동안 웹 또는 웹에서 지우기 항목 복구 기능을 사용하여 Outlook 복구할 수 Outlook. [삭제된 항목 보존 기간 변경](/exchange/recipients-in-exchange-online/manage-user-mailboxes/change-deleted-item-retention) 방법을 알아보세요.
+지운 편지함 폴더에서 제거된 항목은 휴지통 폴더에서 14일 동안 보관되었다가 영구적으로 제거되지만 관리자는 원격 Windows PowerShell을 사용하여 이 기간을 최대 30일까지 연장할 수 있습니다. 사용자는 이 기간 동안 항목의 삭제된 항목 복구 기능을 사용하여 복구할 수 웹용 Outlook Outlook. [삭제된 항목 보존 기간 변경](/exchange/recipients-in-exchange-online/manage-user-mailboxes/change-deleted-item-retention) 방법을 알아보세요.
   
 사용자가 휴지통 폴더에서 항목을 수동으로 제거한 경우 관리자는 원격 Windows PowerShell을 사용하는 단일 항목 복구 기능을 통해 그와 동일한 기간 내에 항목을 복구할 수 있습니다. 기본적으로 사서함을 만들 때 단일 항목 복구는 사용하도록 설정됩니다. 자세한 내용은 [사서함에 대해 단일 항목 복구를 사용하거나 사용하지 않도록 설정](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-single-item-recovery)을 참조하세요.
   

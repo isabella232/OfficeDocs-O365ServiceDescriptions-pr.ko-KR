@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: 웹용 OneNote(OneNote Web App)를 사용하여 어디서나 추가하고 다른 사용자와 쉽게 공유할 수 있는 OneNote 전자 필기장에서 온라인으로 메모를 작성합니다. 모든 고객은 이 파일을 사용하여 Office 보고 웹용 Office.
-ms.openlocfilehash: 96d240e7911991a605303ec2f62c0444cbb7ed9b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 4bde15a3b2c291c07aa2d4322826f710db7fc4ac1a51278cabac5e909c152f29
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652352"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702037"
 ---
 # <a name="onenote-for-the-web"></a>웹용 OneNote
 
@@ -97,7 +97,7 @@ Dropbox는 클라우드 저장소, 파일 동기화, 개인 클라우드 및 클
 
 메모를 파일에 연결하는 기능을 사용할 수 웹용 OneNote 파일에 대한 링크는 숨겨져 있습니다. 그러나 이 링크는 OneNote 데스크톱 앱에서 열 수 있도록 메모에서 유지됩니다. 
   
-## <a name="navigation"></a>탐색
+## <a name="navigation"></a>네비게이션
 
 이 웹용 OneNote 빠른 실행 도구 모음의 뒤로 및 앞으로 브라우저 스타일 단추를 사용하여 페이지 사이를 빠르게 점프할 수 있습니다.
   

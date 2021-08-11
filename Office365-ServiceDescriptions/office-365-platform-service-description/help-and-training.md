@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 도움말 및 교육 리소스를 제공합니다.
-ms.openlocfilehash: 380986f2cc6f962245ea8ae5be12b7c43b9bf2bb
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: d2cf7dfda21fe01cd6d9197a9f5e760bf007311edc8d356e15e91e832b44735f
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653240"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663011"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -25,7 +25,7 @@ Microsoft Office 365 도움말 및 교육 리소스를 제공합니다.
   
 ## <a name="online-help"></a>온라인 도움말
 
-도움말 문서 및 비디오는 Office 365 및 관리 센터의 위쪽 탐색 모음에 있는 도움말 아이콘을 포함하여 서비스의 모든 인라인 도움말 링크에서 Microsoft 365 있습니다. 모든 Office 365 도움말은 [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)에서도 검색할 수 있습니다. 
+도움말 문서 및 비디오는 포털 및 웹 사이트 모음의 위쪽 탐색 모음에 있는 도움말 아이콘을 포함하여 서비스의 모든 인라인 도움말 Office 365 사용할 Microsoft 365 관리 센터. 모든 Office 365 도움말은 [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)에서도 검색할 수 있습니다. 
   
 ## <a name="training"></a>교육
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: 이 문서를 읽고 보관에서 사용할 수 있는 클라이언트 기능에 대해 Microsoft Exchange Online 있습니다.
-ms.openlocfilehash: 54f066562b08eeeed90b8c9b465c4740bcc3f0df
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: df71da18d5eb2304496bc72ac2556bb3cc325e50e49cccb14ba6b5191cc95b1d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293644"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664671"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>클라이언트의 Exchange Online Archiving
 
@@ -32,7 +32,7 @@ Microsoft Outlook은 일정, 연락처 및 작업을 지원하는 기능이 포�
 - **Outlook anywhere** - Outlook Anywhere를 사용하면 Outlook VPN 연결 없이 Exchange Server Exchange Online Archiving 인터넷을 통해 연결할 수 있습니다. Outlook과 Exchange Online Archiving 간의 통신은 RPC-over-HTTP Windows 네트워킹 구성 요소를 사용하여 SSL 보안 터널을 통해 수행됩니다.    
 - **자동 Exchange** - Exchange 자동 Outlook 자동으로 구성 Exchange Online Archiving합니다. 자동 검색을 Outlook 사용자가 전자 메일 주소와 암호로 Exchange 고정 간격으로 사용자가 필요한 프로필 설정을 직접 받을 수 있습니다. 
 
-Outlook 2010 이상 및 Outlook 및 웹에서 제공하는 기능은 사용자에게 보관함의 전체 기능과 보존 및 보관 정책과 같은 관련 기능을 제공합니다.
+Outlook 2010 이상 웹용 Outlook 보관함의 전체 기능과 보존 및 보관 정책과 같은 관련 기능을 사용자에게 제공합니다.
   
 Outlook 2007은 보관 사서함을 기본적으로 지원하지만 일부 보관 및 규정 준수 기능은 Outlook 2007에서 사용할 수 없습니다. 예를 들어 Outlook 2007에서는 사용자가 사서함의 항목에 보존 또는 보관 정책을 적용할 수 없습니다. 그 대신에 관리자가 프로비저닝한 정책을 사용해야 합니다. Outlook 2007 사용자의 경우 보관 사서함에 액세스하려면 2011년 2월 Office 2007 누적 업데이트가 필요합니다.
   
@@ -62,9 +62,9 @@ Outlook 2007은 보관 사서함을 기본적으로 지원하지만 일부 보�
 
 ## <a name="outlook-on-the-web"></a>웹에서 Outlook
 
-웹상의 Outlook은 웹 기반 버전의 Outlook 전자 메일 프로그램으로 Exchange Online과 함께 사용됩니다. 사용자가 집, 사무실 또는 출장 중 인터넷에 연결되어 있는 모든 위치는 웹에서 인터넷을 통해 Outlook &mdash; &mdash; 액세스할 수 있습니다.
+웹상의 Outlook은 웹 기반 버전의 Outlook 전자 메일 프로그램으로 Exchange Online과 함께 사용됩니다. 사용자가 집, 사무실 또는 출장 중 인터넷에 연결되어 있는 모든 사용자는 인터넷을 통해 전자 메일에 액세스할 &mdash; &mdash; 수 웹용 Outlook.
   
-사용자는 동일한 URL을 사용하여 웹 Outlook 로그인하여 보관함에 액세스할 수 있습니다. 보관 사서함은 웹용 사서함의 Outlook 함께 표시됩니다. 웹에서 보관함의 저장소에 직접 액세스하는 명시적인 Outlook 없습니다.
+사용자는 동일한 URL을 사용하여 웹용 Outlook 로그인하여 보관함에 액세스할 수 있습니다. 보관 사서함이 기본 사서함과 함께 웹용 Outlook. 보관함에서 직접 보관에 액세스하는 명시적인 방법은 웹용 Outlook.
   
 ## <a name="feature-availability"></a>기능 가용성
 

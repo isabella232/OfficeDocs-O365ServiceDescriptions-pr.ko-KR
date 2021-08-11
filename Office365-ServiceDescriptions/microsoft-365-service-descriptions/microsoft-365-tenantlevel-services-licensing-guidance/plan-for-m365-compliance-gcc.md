@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 미국 연방, 주Office 365 주, 지방, 부족 또는 영토적 정부 기관 또는 정부 규정 및 요구 사항을 준수하는 데이터를 처리하는 기타 기관에서 Microsoft 365 정부 - GCC 배포를 주도하는 IT 프로를 위한 것입니다.
-ms.openlocfilehash: d3be49d3171e07cfc11e6d6924a8b5ec2395d920
-ms.sourcegitcommit: f7874215059c1e5a9d383da0539f87b6f85a57e6
+ms.openlocfilehash: 44dd4a10560fb5bd0d1c0f36f3290b621798d03d390573d789b99d62047bad1e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52001904"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663271"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Microsoft 365 준수 계획 - GCC
 
@@ -115,7 +115,7 @@ Microsoft 365 - GCC 환경은 FedRAMP Moderate을 비롯한 클라우드 서비�
 | 레코드 관리                     | 폐기 증명                            | 사용할 수 있음 |
 | 레코드 관리                     | 레코드 버전 관리                            | 사용할 수 있음 |
 | 레코드 관리                     | 규정 레코드                         | 사용할 수 있음 |
-| 레코드 관리                     | Syntex SharePoint 사용하여 레코드 레이블 적용 | 백로그 엔지니어링 |
+| 레코드 관리                     | 레코드 SharePoint Syntex 분류를 사용하여 레코드 레이블 적용 | 백로그 엔지니어링 |
 | **내부자 위험 관리**             | 고객 Lockbox                                | 사용할 수 있음            |
 | 커뮤니케이션 규정 준수                | 전자 메일 서명 또는 고지 조항을 무시하는 능력                         | 개발 중 |
 | 커뮤니케이션 규정 준수                | 통신 준수 정책에 대한 보존 기간을 설정하는 능력                         | 개발 중 |

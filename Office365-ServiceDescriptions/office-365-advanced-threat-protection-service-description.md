@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 는 강력한 제로 데이 보호를 제공하여 알 수 없는 맬웨어 및 바이러스로부터 조직을 보호하는 클라우드 기반 전자 메일 필터링 서비스로, 유해한 링크로부터 조직을 실시간으로 보호하는 기능을 포함합니다.
-ms.openlocfilehash: 5781f34419eb697cb97634c55fa486fd141d76dd
-ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
+ms.openlocfilehash: 823527f1ef0fbd0284fb1b703d3c6e9f7dfdad440138b6d724077ad5badb9bca
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204845"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663101"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Office 365용 Microsoft Defender 서비스 설명
 
@@ -37,7 +37,7 @@ Microsoft Defender for Office 365 구독에 대한 자세한 계획 정보는 �
 
 ## <a name="feature-availability"></a>기능 가용성
 
-다음 표에는 계획에서 사용할 수 있는 Office 365 Microsoft Defender의 주요 기능이 나열되어 있습니다. 특정 주의가 적용됩니다. 자세한 내용은 각주를 참조하세요. 이 표는 예고 없이 변경될 수 있습니다. 계획 전반에 걸쳐 다양한 기능에 대한 Microsoft Defender의 전체 최신 Office 365 내용은 [Microsoft Defender for Office 365 Features service description을 참조하세요.](microsoft-defender-for-office-365-features.md)
+다음 표에는 계획에서 사용할 수 있는 Office 365 Microsoft Defender의 주요 기능이 나열되어 있습니다. 특정 경고가 적용됩니다. 자세한 내용은 각주를 참조하세요. 이 표는 통지 없이 변경될 수 있습니다. 계획 전반에 걸쳐 다양한 기능에 대한 Microsoft Defender의 전체 최신 Office 365 내용은 [Microsoft Defender for Office 365 Features service description을 참조하세요.](microsoft-defender-for-office-365-features.md)
 
 | 기능 | Office 365용 Defender 플랜 1 | Office 365용 Defender 플랜 2 | Microsoft 365 E5 / A5 보안 |
 |---------|--------------------------------|--------------------------------|--------------------------------|
@@ -75,12 +75,12 @@ Microsoft Defender for Office 365 자세한 내용은 다음 리소스를 참조
 
 ### <a name="licensing-terms"></a>사용 조건
 
-Microsoft 상업용 볼륨 라이선스 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 제품 사용 조건 [사이트를 참조하세요.](https://www.microsoft.com/licensing/terms/)
+Microsoft 상업용 볼륨 라이선싱 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 [제품 조건 사이트](https://www.microsoft.com/licensing/terms/)를 참조하세요.
 
-### <a name="messaging"></a>메시징
+### <a name="messaging"></a>메시지
 
-새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용에 대한 정보를 확인하기 위해 메시지 센터를 방문합니다. 자세한 내용은 메시지 센터 [를 참조하세요.](/microsoft-365/admin/manage/message-center)
+새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용에 대한 정보를 확인하기 위해 메시지 센터를 방문합니다. 자세한 내용은 [메시지 센터](/microsoft-365/admin/manage/message-center)를 참조하세요.
 
-### <a name="accessibility"></a>내게 필요한 옵션
+### <a name="accessibility"></a>접근성
 
-Microsoft는 사용자의 데이터 보안 및 서비스의 접근성을 위해 계속 최선을 [다하고](https://www.microsoft.com/trust-center/compliance/accessibility) 있습니다. 자세한 내용은 Microsoft [보안](https://www.microsoft.com/trust-center) 센터 및 Office [접근성 센터를 참조하세요.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft는 데이터의 보안과 서비스의 [접근성](https://www.microsoft.com/trust-center/compliance/accessibility)에 최선을 다하고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조하세요.

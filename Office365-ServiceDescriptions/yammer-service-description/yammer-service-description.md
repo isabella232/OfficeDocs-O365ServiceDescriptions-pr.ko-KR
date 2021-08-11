@@ -12,106 +12,81 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 각 계획에서 사용할 수 있는 기능을 Yammer 참조합니다.
-ms.openlocfilehash: 1224a348663b8a0244e599f28e617255f71b870a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 5d958904838db6374a607bd3f68e42e8969d73f01f6f9656060c56621fbc903a
+ms.sourcegitcommit: 10f6531cffef9d395e7215f554eab7a7c0e15397
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653510"
+ms.lasthandoff: 08/10/2021
+ms.locfileid: "57823639"
 ---
 # <a name="yammer-service-description"></a>Yammer 서비스 설명
 
-Yammer 최고의 보안 및 개인 엔터프라이즈 소셜 네트워크입니다. Yammer를 통해 직원들은 손쉽게 공동 작업을 수행하고 더욱 신속하게 의사 결정하고 비즈니스 과제를 담당하는 팀으로 자가 조직화할 수 있기 때문에 더욱 강력한 생산성을 갖추고 성과를 올릴 수 있습니다. Yammer는 비즈니스 제휴 및 민첩성을 자연스럽게 유도하면서 주기 시간을 줄이고 직원 간의 공동 작업을 진행하고 고객과 파트너와의 관계를 향상시킬 수 있는 새로운 작업 방식입니다.
+사용자 참여는 그 전보다 더 중요합니다. Yammer, 커뮤니케이션자 및 직원을 연결하여 커뮤니티를 구축하고, 지식을 공유하고, 모든 사람을 참여합니다. Yammer 통해 조직 전체에 연결하고 참여할 수 있으므로 아이디어를 논의하고, 업데이트를 공유하고, 다른 사용자와 네트워크를 공유할 수 있습니다.
   
-이 목록에 포함된 계획 목록은 Yammer [요금제 를 참조하세요.](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans)
+## <a name="available-plans"></a>사용 가능한 플랜
   
-사용자가 구독을 사용하도록 설정하는 구독에 대한 자세한 Yammer 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
+사용자가 구독에 대한 계획 정보를 포함 하는 계획의 전체 목록은 Yammer 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
+## <a name="feature-availability"></a>기능 가용성
+
+다음 표에는 사용 가능한 주요 Yammer 나열되어 있습니다. 이 표는 예고 없이 변경될 수 있습니다(특정 주의가 적용).
+
+| 기능  | Small Business | 엔터프라이즈 | 교육 기관 |
+|---------|---------|---------|---------|
+|[Yammer 피드](https://support.microsoft.com/office/what-s-in-the-yammer-home-and-discovery-feeds-faaadbe1-4e57-4f17-89f1-e546509fba47) | 예     | 예     | 예     |
+|[커뮤니티](https://support.microsoft.com/office/manage-communities-33f252f7-6241-40e1-8f42-ce1b635176fb) | 예     | 예     | 예     |
+|[Community Insights](https://support.microsoft.com/office/view-community-insights-in-yammer-48bc648e-b567-49d7-b2b5-5fea23777c46) | 예     | 예     | 예     |
+|[토론, 설문 조사, 칭찬하기, 공지 및 질문](https://support.microsoft.com/office/create-polls-praise-announcements-and-questions-in-yammer-4b30c7e0-f915-4c69-9582-ccbbd09a516b) | 예     | 예     | 예     |
+|[항목 및 해시태그](https://support.microsoft.com/office/use-topics-and-hashtags-in-yammer-98c0a0bb-aad0-45d3-88f1-4f6d12bb1772) | 예     | 예     | 예     |
+|[질문에 대한 최상의 답변 표시](https://support.microsoft.com/office/use-questions-and-answers-in-a-yammer-community-a4f1b722-d1bf-42be-a592-7288c7c0b895) | 예     | 예     | 예     |
+|[파일](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-conversation-8d2d17f7-8f37-4535-961e-518d751be7e8) | 예     | 예     | 예     |
+|[라이브 이벤트](https://support.microsoft.com/office/organize-a-live-event-in-yammer-8853cbd0-d3e2-4888-b8c3-6f3df288dec9) | 예     | 예     | 예     |
+|[받은 편지함](https://support.microsoft.com/office/manage-your-yammer-inbox-f1656c47-7043-40f5-970c-3e66ed7a70f1) | 예     | 예     | 예     |
+|[외부 네트워크 & 게스트](/yammer/work-with-external-users/collaborate-guests-external-yammer-community) | 예     | 예     | 예     |
+|[Yammer 플랫폼](https://developer.microsoft.com/yammer) | 예     | 예     | 예     |
+|[관리자 기능](/yammer/) | 예     | 예     | 예     |
+
+## <a name="messaging"></a>메시지
+
+새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용에 대한 정보를 확인하기 위해 메시지 센터를 방문합니다. 자세한 내용은 [메시지 센터](/microsoft-365/admin/manage/message-center)를 참조하세요.
+
+## <a name="yammer-enterprise-service-communications-policy"></a>Yammer 서비스 통신 정책
+
+Yammer 변경 관리 Microsoft 365 [](https://aka.ms/ManageChange)준수하지만 대상 지정 릴리스를 사용하여 일부 Microsoft 365 배포합니다. Yammer A/B 기능 테스트 또는 플라이트가 수행됩니다. 이를 통해 Microsoft는 많은 환경 및 장치에서 안정성, 성능 및 환경 개선을 위한 기능을 테스트할 수 있습니다. 같은 네트워크 내의 사용자라도 테스트로 인해 환경이 달라질 수 있습니다. 고객은 A/B 테스트를 거부할 수 없습니다.
+
+## <a name="licensing-terms"></a>사용 조건
+
+Microsoft 상업용 볼륨 라이선싱 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 [제품 조건 사이트](https://www.microsoft.com/licensing/terms/)를 참조하세요.
+
+## <a name="accessibility"></a>접근성
+
+Microsoft는 데이터의 보안과 서비스의 [접근성](https://www.microsoft.com/trust-center/compliance/accessibility)에 최선을 다하고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조하세요.
+
+## <a name="learn-more"></a>자세한 정보
+
+자세한 내용은 Yammer 리소스를 참조하십시오.
+
+- [Yammer에서의 제한](/office365/servicedescriptions/yammer-service-description/yammer-limits)
+- [Yammer 채택](https://adoption.microsoft.com/yammer/)
+- [Yammer 학습 & 도움말 - Microsoft 지원](https://support.microsoft.com/yammer)
+- [Yammer 비디오 교육 - Office 지원(microsoft.com)](https://support.microsoft.com/office/yammer-video-training-2c0ce4c6-0a99-466f-bf1b-cbe7ffa9779a)
+- [Yammer 블로그(microsoft.com)](https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog)
+
 ## <a name="system-requirements"></a>시스템 요구 사항
 
 비즈니스, 교육 Office 365 조직에서 사용할 수 있는 월별 구독 기반 서비스인 조직의 시스템 요구 사항에 대한 자세한 내용은 Microsoft 365 및 Office [리소스를 참조하세요.](https://products.office.com/office-system-requirements/#Office365forBEG)
-  
-## <a name="yammer-plans"></a>Yammer 계획
 
-Yammer는 다음 계획을 통해 사용할 수 있습니다.<br><br>
-  
-| 플랜 | 설명 |
-|:-----|:-----|
-|[Yammer Basic](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |언제 어디서든 사용 가능한 기업용 소셜 네트워킹입니다.  <br/> |
-|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |Enterprise, 관리 및 통합을 통해 소셜 네트워킹을 구축할 수 있습니다.  <br/> |
-   
-> [!NOTE]
-> Microsoft 365 및 Office 365 [](../office-365-platform-service-description/office-365-platform-service-description.md) 플랫폼 서비스 설명에 설명된 기능과 정책은 Yammer 서비스에 적용되지 않습니다. 
-  
-## <a name="yammer-enterprise-service-communications-policy"></a>Yammer 서비스 통신 정책
-<a name="YammerCommsPolicy"> </a>
+## <a name="supported-clients-and-integrations"></a>지원되는 클라이언트 및 통합
 
-Yammer 변경 관리 Microsoft 365 [](https://aka.ms/ManageChange)준수하지만 대상이 지정한 릴리스를 사용하여 업데이트를 배포하지는 않습니다. 
-  
-모든 Yammer 사용자는 A/B 기능 테스트의 대상입니다. 이를 통해 Microsoft는 많은 환경 및 장치에서 안정성, 성능 및 환경 개선을 위한 기능을 테스트할 수 있습니다. 같은 네트워크 내의 사용자라도 테스트로 인해 환경이 달라질 수 있습니다. 고객은 A/B 테스트를 거부할 수 없습니다.
-  
-고객 작업이 필요하거나 고객에게 상당한 영향을 줄 것으로 예상되는 모든 변경 내용(A/B 테스트, 새 기능, 사용 중단 기능, 규정 준수 경계, 워크플로 변경)은 사전에 통신합니다. Yammer가 제한된 일부 사용자에게 영향을 주는 변경을 수행한다는 것이 확인되었습니다. 이러한 변경의 예는 Yammer Chrome Extension과 같이 참여는 낮지만 소수의 사용자가 사용하도록 설정한 기능을 변경하거나 제거하는 경우입니다. 이러한 경우 위 정책에 나열된 확인된 관리자로의 일반적인 통신 채널 외에 이러한 사용자에 대한 직접 통신이 변경의 영향을 받는 일부 사용자에게 적절한 사용자 환경을 제공할 것이라고 생각됩니다. 대상 사용자 집합에만 영향을 주는 "작업이 필요한 변경 내용(변경 계획)" 또는 "인식이 필요한 변경 내용(최신 정보 얻기)"으로 분류된 변경 내용의 경우 해당 사용자에게 직접 알릴 수 있습니다. 다음 표는 이러한 변경 내용을 반영하도록 업데이트되었습니다. 
-  
-통신에 사용되는 채널은 영향에 따라 달라집니다.<br><br>
-  
-| 변경 유형 | 통신 채널 |
-|:-----|:-----|
-|**작업이 필요한 변경 내용(변경 계획)** <br/>서비스를 계속 실행하기 위해 변경해야 하는 관리자, 조직의 규정 준수에 영향을 줄 수 있는 업데이트  <br/> |- Office 365 확인된 관리자에게 직접 Yammer 메시지 센터 전자 메일 <br/>- Microsoft 365 로드맵<br/>- Yammer 업데이트<br/>- 외부 그룹<br/>대상 사용자 집합에 영향을 주는 변경 내용을 통해 해당 사용자에게 직접 알릴 수도 있습니다. |
-|**인식이 필요한 변경 내용(최신 정보 유지)**<br/>관리자 작업이 필요하지 않은 변경 내용, 시각적 디자인 변경  <br/> |- Office 365 메시지 센터<br/>- Microsoft 365 로드맵<br/>- Yammer 업데이트<br/>- 외부 그룹<br/>대상 사용자 집합에 영향을 주는 변경 내용을 통해 해당 사용자에게 직접 알릴 수도 있습니다. |
-|**중요하지 않은 경우** <br/>중요하지 않은 변경 내용으로, 일부 사용자가 관찰할 수 있는 경우에도 작업이나 인식이 필요하지 않습니다.  <br/> |광범위하게 통신되지 않음 |
-   
-## <a name="feature-availability-across-yammer-plans"></a>Yammer 계획에서의 기능 가용성
+다음은 현재 일반적으로 사용할 수 있습니다.
 
-조직의 요구 사항에 가장 잘 맞는 Yammer 계획을 찾는 데 도움이 필요하십니까? 다음 표를 참조하여 각 계획에서 사용 가능한 기능을 확인할 수 있습니다. 기능 이름을 선택하여 기능의 작동 방식에 대한 간소한 요약을 Yammer.<br><br>
-  
-| 기능 | Yammer Basic | Yammer Enterprise |
-|:-----|:-----|:-----|
-|[그룹](group-features-in-yammer.md#groups) <br/> | 예  <br/> |예  <br/> |
-|[관련 그룹](group-features-in-yammer.md#related-groups) <br/> |예  <br/> |예  <br/> |
-|[알림](group-features-in-yammer.md#announcements) <br/> |아니요  <br/> |예  <br/> |
-|[사용자 프로필](profile-features-in-yammer.md#user-profiles) <br/> |예  <br/> |예  <br/> |
-|[전문 지식](profile-features-in-yammer.md#expertise) <br/> |예  <br/> |예  <br/> |
-|[구성원 디렉터리](profile-features-in-yammer.md#member-directory) <br/> |예  <br/> |예  <br/> |
-|[Org chart](profile-features-in-yammer.md#org-chart) <br/> |예  <br/> |예  <br/> |
-|[칭찬](profile-features-in-yammer.md#praise) <br/> |예  <br/> |예  <br/> |
-|[리더보드](profile-features-in-yammer.md#leaderboards) <br/> |예  <br/> |예  <br/> |
-|[게시자](message-and-conversation-features-in-yammer.md#publisher) <br/> |예  <br/> |예  <br/> |
-|[@멘션](message-and-conversation-features-in-yammer.md#section) <br/> |예  <br/> |예  <br/> |
-|[온라인 시작](message-and-conversation-features-in-yammer.md#online-now) <br/> |예  <br/> |예  <br/> |
-|[개인 메시지](message-and-conversation-features-in-yammer.md#private-messages) <br/> |예  <br/> |예  <br/> |
-|[대화 공유](message-and-conversation-features-in-yammer.md#share-conversations) <br/> |예  <br/> |예  <br/> |
-|[이벤트](message-and-conversation-features-in-yammer.md#events) <br/> |예  <br/> |예  <br/> |
-|[설문 조사](message-and-conversation-features-in-yammer.md#polls) <br/> |예  <br/> |예  <br/> |
-|[파일](document-collaboration-features-in-yammer.md#files) <br/> |예  <br/> |예  <br/> |
-|[최근 변경 내용](document-collaboration-features-in-yammer.md#recent-changes) <br/> |예  <br/> |예  <br/> |
-|[공식 콘텐츠](document-collaboration-features-in-yammer.md#official-content) <br/> |아니요  <br/> |예  <br/> |
-|[받은 편지함](inbox-features-in-yammer.md#inbox) <br/> |예  <br/> |예  <br/> |
-|[받은 편지함 검색](inbox-features-in-yammer.md#inbox-search) <br/> |예  <br/> |예  <br/> |
-|[피드](discovery-features-in-yammer.md#feeds) <br/> |예  <br/> |예  <br/> |
-|[티커](discovery-features-in-yammer.md#ticker) <br/> |예  <br/> |예  <br/> |
-|[항목](discovery-features-in-yammer.md#topics) <br/> |예  <br/> |예  <br/> |
-|[유니버설 검색](discovery-features-in-yammer.md#universal-search) <br/> |아니요  <br/> |예  <br/> |
-|[즉각적 입력 미리 진행](discovery-features-in-yammer.md#instant-type-ahead) <br/> |예  <br/> |예  <br/> |
-|[외부 네트워크](external-network-features-in-yammer.md#external-networks) <br/> |예  <br/> |예  <br/> |
-|[빠른 네트워크 전환](external-network-features-in-yammer.md#fast-network-switching) <br/> |예  <br/> |예  <br/> |
-|[Yammer 로그인 연결](yammer-platform-features.md#yammer-connect-login) <br/> |예  <br/> |예  <br/> |
-|[Embeddable feeds](yammer-platform-features.md#embeddable-feeds) <br/> |예  <br/> |예  <br/> |
-|[Like 및 Follow 단추](yammer-platform-features.md#like-and-follow-buttons) <br/> |예  <br/> |예  <br/> |
-|[브라우저 확장](yammer-platform-features.md#browser-extension) <br/> |예  <br/> |예  <br/> |
-|[작업 스트림 API](yammer-platform-features.md#activity-stream-api) <br/> |예  <br/> |예  <br/> |
-|[사용자 지정 네트워크 브랜징](administration-and-security-features-in-yammer.md#custom-network-branding) <br/> |아니요  <br/> |예  <br/> |
-|[사용자 관리](administration-and-security-features-in-yammer.md#user-management) <br/> |아니요  <br/> |예  <br/> |
-|[단일 ID](administration-and-security-features-in-yammer.md#single-identity) <br/> |예  <br/> |예  <br/> |
-|[디렉터리 동기화](administration-and-security-features-in-yammer.md#directory-synchronization) <br/> |아니요  <br/> |예  <br/> |
-|[데이터 내보내기](administration-and-security-features-in-yammer.md#data-export) <br/> |아니요  <br/> |예  <br/> |
-|[키워드 모니터링](administration-and-security-features-in-yammer.md#keyword-monitoring) <br/> |아니요  <br/> |예  <br/> |
-|[분석](administration-and-security-features-in-yammer.md#analytics) <br/> |아니요  <br/> |예  <br/> |
-|[조직 리소스](administration-and-security-features-in-yammer.md#organization-resources) <br/> |예  <br/> |예  <br/> |
-|[암호 정책](administration-and-security-features-in-yammer.md#password-policies) <br/> |아니요  <br/> |예  <br/> |
-|[세션 관리](administration-and-security-features-in-yammer.md#session-management) <br/> |아니요  <br/> |예  <br/> |
-|[논리적 방화벽](administration-and-security-features-in-yammer.md#logical-firewall) <br/> |아니요  <br/> |예  <br/> |
-|[사용 정책](administration-and-security-features-in-yammer.md#usage-policy) <br/> |아니요  <br/> |예  <br/> |
-|[FastTrack 센터](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |아니요  <br/> |예  <br/> |
-|[고객 지원](support-features-in-yammer.md#customer-support) <br/> |예  <br/> |예  <br/> |
-|[관리자 지원](support-features-in-yammer.md#administrator-support) <br/> |아니요  <br/> |예  <br/> |
-|[관리자 개인 콘텐츠 모드](administration-and-security-features-in-yammer.md#admin-private-content-mode) <br/> |아니요  <br/> |예  <br/> |
+- [새 Yammer](https://support.microsoft.com/office/welcome-to-new-yammer-8c749c30-2d17-4153-a3cc-37a70f254681)
+- [클래식 Yammer](https://support.microsoft.com/office/welcome-to-classic-yammer-02ac514e-cf1d-4060-9cde-6038ca812ede)
+- [앱용](https://support.microsoft.com/office/use-the-yammer-communities-app-for-microsoft-teams-930c86f1-e1e2-4e45-a66a-ce8faca71a21) 커뮤니티 Microsoft Teams
+- 새로운 Yammer [데스크톱 앱](https://support.microsoft.com/office/install-the-new-yammer-desktop-app-66ccb412-ca1d-4e43-872c-9705abf11b1b)
+- [SharePoint 강조 표시 및 대화 웹 파트](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)
+- [Yammer Embed(신규 및 클래식 Yammer)](https://developer.yammer.com/docs/new-embed-feed)
+- [전자 메일의 대화형 Outlook](https://support.microsoft.com/office/work-with-yammer-from-outlook-fd695485-225b-410f-b24a-17f971b46b25)
+- [Yammer, iPhone 및 Android에서 iPad 앱을 설치합니다.](https://support.microsoft.com/office/set-up-new-yammer-on-your-mobile-phone-e52e65ad-14fa-4db9-b8f7-80fe3f6e25a7)
+
+클래식 Yammer 데스크톱 앱은 2021년 7월 31일로 사용되지 않습니다.

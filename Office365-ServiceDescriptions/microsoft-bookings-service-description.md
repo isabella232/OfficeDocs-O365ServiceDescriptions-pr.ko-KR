@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Bookings에서 사용할 수 있는 계획 옵션 및 기능에 대해 자세히 알아보십시오.
-ms.openlocfilehash: f0382a575714d73a915b8ada2b832516326b5348
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: b2125c2c2b0eb163cfcefce472c2eb299cb87e090bd507baa0f857b5ababdbaf
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653380"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663251"
 ---
 # <a name="microsoft-bookings-service-description"></a>Microsoft Bookings 서비스 설명
 
@@ -25,7 +25,7 @@ Microsoft Bookings는 약속 예약 및 관리 프로세스를 간소화합니�
 
 ## <a name="feature-availability"></a>기능 가용성
 
-다음 표에는 계획 전체에서 사용할 수 있는 주요 Microsoft Bookings 기능이 나열됩니다. 특정 주의가 적용됩니다. 자세한 내용은 각주를 참조하세요. 이 표는 예고 없이 변경될 수 있습니다.
+다음 표에는 계획 전체에서 사용할 수 있는 주요 Microsoft Bookings 기능이 나열됩니다. 특정 경고가 적용됩니다. 자세한 내용은 각주를 참조하세요. 이 표는 통지 없이 변경될 수 있습니다.
 
 | 주요 기능 | Small Business | Enterprise 계획 | GCC | GCC-High | DOD | 교육 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -41,9 +41,9 @@ Microsoft Bookings는 약속 예약 및 관리 프로세스를 간소화합니�
 | Teams | 예 | 예 | 아니요 | 아니요 | 아니요 | 예 |
 
 <sup>1</sup> 온라인 모임을 사용하려면 예약된 직원 구성원에게 모임을 만들 수 있는 Microsoft Teams 비즈니스용 Skype 라이선스가 필요합니다.
-<br/><sup>2</sup> SMS 알림은 현재 베타로 제공되어 있으며 북미에서만 사용할 수 있습니다.
+<br/><sup>2</sup> SMS 알림은 현재 베타로 제공 중이며 북미에서만 사용할 수 있습니다.
 
-## <a name="learn-more"></a>자세히 알아보기
+## <a name="learn-more"></a>자세한 정보
 
 Microsoft Bookings에 대한 기술 정보는 다음 리소스를 참조하십시오.
 
@@ -54,12 +54,12 @@ Microsoft Bookings에 대한 기술 정보는 다음 리소스를 참조하십�
 
 ### <a name="licensing-terms"></a>사용 조건
 
-Microsoft 상업용 볼륨 라이선스 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 제품 사용 조건 [사이트를 참조하세요.](https://www.microsoft.com/microsoft-365)
+Microsoft 상업용 볼륨 라이선싱 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 [제품 조건 사이트](https://www.microsoft.com/microsoft-365)를 참조하세요.
 
-### <a name="messaging"></a>메시징
+### <a name="messaging"></a>메시지
 
-새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용을 추적하기 위해 메시지 센터를 방문합니다. 자세한 내용은 메시지 센터 [를 참조하세요.](/microsoft-365/admin/manage/message-center)
+새로운 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용을 추적하려면 메시지 센터를 방문하세요. 자세한 내용은 [메시지 센터](/microsoft-365/admin/manage/message-center)를 참조하세요.
 
-### <a name="accessibility"></a>내게 필요한 옵션
+### <a name="accessibility"></a>접근성
 
-Microsoft는 사용자의 데이터 보안 및 서비스의 접근성을 위해 계속 최선을 [다하고](https://www.microsoft.com/trust-center/compliance/accessibility) 있습니다. 자세한 내용은 Microsoft [보안](https://www.microsoft.com/trust-center) 센터 및 Office [접근성 센터를 참조하세요.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft는 데이터의 보안과 서비스의 [접근성](https://www.microsoft.com/trust-center/compliance/accessibility)에 최선을 다하고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조하세요.

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 구독이 포함된 기능 비교를 Exchange Online? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: 003d86033382e8ed15895c85cc36e5b15c19083a
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 596d0663c91a7ed3c2e423301a90fddaee7908b5d1da04e4d04f860c0c31ae14
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699094"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663991"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -55,7 +55,7 @@ Exchange Online 서비스에 액세스하는 각 사용자는 구독 계획을 �
 회의실 및 공유 사서함에 대해서는 사용자의 구독이 필요하지 않습니다. 이러한 특수 사서함 유형은 로그인 자격 증명이 없는 대신, 위임을 통해 적절한 권한을 가진 정식 사용자가 이를 관리 및 액세스합니다.
 
 **Microsoft 365 F1 사용자 사서함 사용 권한** <br/>
-Microsoft 365 F1 사서함에 대한 권한을 포함하지 Exchange 않습니다. 전체 Teams 사용하려면 M365 F1 라이선스에 K1 서비스 Exchange Online 사용할 수 있습니다. Exchange Online K1 서비스 계획에서 사용자를 위해 사서함을 프로비전하기는 하지만 M365 F1 사용자는 사서함을 사용할 수 없습니다. 이러한 단계를 통해 웹에서 Outlook 사용하지 [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) 않도록 설정하고 사용자에게 다른 방법을 통해 Exchange 사서함에 액세스하지 않도록 요청하는 것이 좋습니다.
+Microsoft 365 F1 사서함에 대한 권한을 포함하지 Exchange 않습니다. 전체 Teams 사용하려면 M365 F1 라이선스에 K1 서비스 Exchange Online 사용할 수 있습니다. Exchange Online K1 서비스 계획에서 사용자를 위해 사서함을 프로비전하기는 하지만 M365 F1 사용자는 사서함을 사용할 수 없습니다. 이러한 단계를 통해 웹용 Outlook 사용하지 [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) 않도록 설정하고 사용자에게 다른 방법을 통해 Exchange 사서함에 액세스하지 않도록 요청하는 것이 좋습니다.
   
 ## <a name="system-requirements-for-exchange-online"></a>Exchange Online에 대한 시스템 요구 사항
 
@@ -67,7 +67,7 @@ Exchange Online 구독 계획에서 사용할 수 있는 저장소 및 받는 �
   
 ## <a name="feature-availability"></a>기능 가용성
 
-조직에 현재 Office 365 Small Business, Office 365 Small Business Premium 또는 Office 365 Midsize Business 구독이 있는 경우 Microsoft 365 관리 센터의 메시지 센터를 방문하거나 공급자에게 문의하여 새 Microsoft 365 앱 계획이 미치는 영향에 대한 자세한 내용을 확인하십시오. 새로운 계획 패밀리에 대한 Microsoft 365 앱 자세한 내용은 중소기업을 위한 새 [요금제 를 참조합니다.](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)
+조직에 현재 Office 365 Small Business, Office 365 Small Business Premium 또는 Office 365 Midsize Business 구독이 있는 경우 Microsoft 365 관리 센터 메시지 센터를 방문하거나 공급자에게 문의하여 새 Microsoft 365 앱 계획이 미치는 영향에 대한 자세한 내용을 확인하십시오. 새로운 계획 패밀리에 대한 Microsoft 365 앱 자세한 내용은 중소기업을 위한 새 [요금제 를 참조합니다.](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)
 
 서비스 가용성에 대한 자세한 Microsoft 365 Business Premium 서비스 [Microsoft 365 Business Premium 참조하세요.](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md)<br/><br/>
   
@@ -171,7 +171,7 @@ Exchange Online 구독 계획에서 사용할 수 있는 저장소 및 받는 �
 |SMTP 릴레이 지원|예|예|예|예|예|예|예|예|
 |**[Exchange Online 설치 및 관리](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Microsoft Office 365 포털 액세스|아니요|아니요|예|예|예|예|예|예|
-|Microsoft 365 센터 액세스|아니요|아니요|예|예|예|예|예|예|
+|Microsoft 365 관리 센터 액세스|아니요|아니요|예|예|예|예|예|예|
 |Exchange 관리 센터 액세스|예|예|예|예|예|예|예|예|
 |원격 Windows PowerShell 액세스|예|예|예|예|예|예|예|예|
 |모바일 장치에 대한 ActiveSync 정책|예|예|예|예|예|예|예|예|
@@ -303,13 +303,13 @@ Exchange Online 구독 계획에서 사용할 수 있는 저장소 및 받는 �
 |SMTP 릴레이 지원|예|예|예|예|예|
 |**[Exchange Online 설치 및 관리](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 &nbsp; 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
 |Microsoft Office 365 포털 액세스|아니요|아니요|예|예|예|
-|Microsoft 365 센터 액세스|아니요|아니요|예|예|예|
+|Microsoft 365 관리 센터 액세스|아니요|아니요|예|예|예|
 |Exchange 관리 센터 액세스|예|예|예|예|예 <sup>8</sup>|
 |원격 Windows PowerShell 액세스|예|예|예|예|예|
 |모바일 장치에 대한 ActiveSync 정책|예|예|예|예|예|
 |사용 현황 보고|예|예|예|예|예|
 |**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 계획 &nbsp; 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
-|Outlook 웹 응용 웹 파트|예|예|예|예|예|
+|웹용 Outlook 웹 파트|예|예|예|예|예|
 |Outlook 추가 기능 및 MAPI Outlook 추가 기능|예|예|예<sup>21</sup>|예<sup>21</sup>|아니요|
 
 <sup>1</sup> 전송 규칙은 유연한 기준으로 구성됩니다. 이 조건을 기반으로 조건 및 예외 및 수행할 작업을 정의할 수 있습니다. 사용 가능한 조건 및 작업은 2013과 Exchange Online Microsoft Exchange Server 다릅니다. 사용 가능한 기준 및 작업 목록은 각 제품에 대한 해당 조건 및 작업 항목을 참조하세요. <br/>
@@ -323,11 +323,11 @@ Exchange Online 구독 계획에서 사용할 수 있는 저장소 및 받는 �
 <sup>9</sup> IMAP는 지원되지 않습니다. <br/>
 <sup>10</sup> Exchange 2013 이상에서는 DLP에 EXCHANGE ENTERPRISE CAL(클라이언트 액세스 라이선스)이 필요합니다. CA 및 서버 라이선스에 대한 자세한 내용은 라이선스 [EXCHANGE FAQ를 참조하세요.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business) <br/>
 <sup>11</sup> Azure Information Protection은 포함되어 있지 않지만 별도의 추가 기능으로 구매할 수 있으며 지원되는 IRM(정보 권한 관리) 기능을 사용하도록 설정할 수 있습니다. 일부 Azure Information Protection 기능을 사용하려면 엔터프라이즈용 Microsoft 365 앱 구독이 필요합니다. Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise E1, Office 365 Education 또는 F3에 Office 365 Enterprise 포함되어 있지 않습니다. Office 365 메시지 암호화 Azure Information Protection에 따라 다를 수 있습니다. <br/>
-<sup>12</sup> Windows 서버 AD RMS는 지원되는 IRM 기능을 사용하려면 별도로 구입하고 관리해야 하는 사내 서버입니다. <br/>
+<sup>12</sup> Windows Server AD RMS는 지원되는 IRM 기능을 사용하려면 별도로 구입하고 관리해야 하는 사내 서버입니다. <br/>
 <sup>13</sup> Azure Information Protection을 Exchange Server 2013 이상을 실행하는 고객에게 지원됩니다. Office 365 메시지 암호화 전자 메일 필터링을 위해 Exchange Online 또는 하이브리드 메일 흐름을 설정하여 Exchange Online Protection 전자 메일을 라우팅해야 합니다. <br/>
 <sup>14</sup> Exchange Server 2013 이상을 실행하는 고객은 OWA 및 장치용 OWA의 문서 지문 및 정책 팁 액세스하려면 최신 CU(누적 업데이트) 또는 바로 이전 CU를 다운로드하여 설치해야 합니다. <br/>
 <sup>15</sup> 2013 이상을 Exchange Server 고객이 사용할 수 있습니다. <br/>
-<sup>16</sup> BitLocker 드라이브 암호화는 Exchange Server 지원되지만 관리자가 이 기능을 사용하도록 설정해야 합니다. <br/>
+<sup>16</sup> BitLocker 드라이브 암호화는 Exchange Server 2013에서 지원되지만 관리자는 이 기능을 사용하도록 설정해야 합니다. <br/>
 <sup>17</sup> Exchange Online 계획 1의 사서함 및 보관에 대한 크기 [제한이 있습니다.](./exchange-online-limits.md) Exchange Online용 Exchange Online Archiving 추가 기능에서는 무제한 클라우드 기반 보관 및 [In-Place Hold를 추가합니다.](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold) <br/>
 <sup>18</sup> Exchange Online Kiosk OWA를 통해서만 일정에 액세스하거나 공유할 수 있습니다. <br/>
 <sup>19</sup> 연결된 계정은 POP IMAP 계정에 대해 &amp; 지원되지만 Outlook.com(Hotmail)에는 사용하지 않도록 설정됩니다. <br/>

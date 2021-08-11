@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 정부 및 Microsoft 365 옵션에 대해 간략하게 소개합니다.
-ms.openlocfilehash: 3dae61b362f63126b8d93589e88ccba9cb57502f
-ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
+ms.openlocfilehash: 29138c4cd9f572c1281ccb338ee034812365909ffd861c66609de03ea3a2b8f4
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "53661636"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701907"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 정부 - 구입 방법
 

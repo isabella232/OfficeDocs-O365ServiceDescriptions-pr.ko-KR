@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 및 독립 실행형 계획에 대한 SharePoint 제한에 대해 알아보세요.
-ms.openlocfilehash: 44571cedf74b2a094231173b87731916d9e26975
-ms.sourcegitcommit: 10699cc17ddfed6af78ce1466f478b2bd67ba26a
+ms.openlocfilehash: 5dd9a0d414c5b5ddaac1d92254b73660fab0ac4725dbe656868df8889faa674d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "53338341"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702607"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -34,7 +34,7 @@ Microsoft 365 SharePoint의 서비스 제한에 대해 알아보세요.
 <br/><sup>2</sup> 휴지통을 모니터링하며 정기적으로 비우는 것이 좋습니다. 휴지통에서 사용하는 저장소 공간은 조직이 사용하는 총 저장소 한도의 일부입니다. 
 <br/> <sup>3</sup> Microsoft 365 구독 및 Office 365 Extra File Storage 추가 기능이 있는 경우 저장소 용량이 추가됩니다. 
 <br/> <sup>4</sup> 이것은 각 사이트에 *제공되는* 저장소 양이 아니라 단일 사이트(이전의 "사이트 모음")에 대한 저장소 *제한* 입니다. 이 제한은 Office 365 그룹에 연결된 팀 사이트 및 OneDrive를 비롯한 모든 유형의 사이트에 적용됩니다. SharePoint 관리자는 [더 낮은 저장소 제한](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)을 수동으로 설정할 수 있습니다. 
-<br/> <sup>5</sup> 일선 작업자는 SharePoint 사이트를 관리할 수 없습니다. 
+<br/> <sup>5</sup> 일선 직원들은 사이트와 같은 사이트를 관리할 SharePoint 없습니다. 
 <br/> <sup>6</sup> 사용이 허가된 각 사용자에 대해 만든 OneDrive를 포함하지 않습니다. 
 <br/> <sup>7</sup> 사용자가 500,000명 이상인 경우 Microsoft 담당자에게 문의하세요. 
   

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 어떤 계획에서 SharePoint 사용할 수 있는지 참조합니다.
-ms.openlocfilehash: a158debc41e35c07895d1d8e805994796c0e8a63
-ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
+ms.openlocfilehash: e5dca0f6e5ef5b7c621ac5944b7358bd8c2afaa3c2397080cd0fde19dc4348a6
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204855"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702587"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 서비스 설명
 
@@ -110,7 +110,7 @@ Microsoft 서비스 가용성에 대한 자세한 내용은 Graph 플랫폼 서�
 - [사이트 거버넌스](/sharepoint/governance-overview) 
 - [용어 저장소 - 관리되는 메타데이터](/sharepoint/managed-metadata)
 
-FastTrack 마이그레이션 서비스의 가용성에 대한 자세한 내용은 적합한 서비스 및 계획을 [참조하세요.](/fasttrack/m365-eligible-services-and-plans) 
+마이그레이션 서비스의 가용성에 대한 FastTrack 적합한 서비스 및 계획을 [참조하세요.](/fasttrack/m365-eligible-services-and-plans) 
 
 공유와 관련된 기능에 대한 자세한 내용은 OneDrive [설명을 참조하세요.](../onedrive-for-business-service-description.md)
 

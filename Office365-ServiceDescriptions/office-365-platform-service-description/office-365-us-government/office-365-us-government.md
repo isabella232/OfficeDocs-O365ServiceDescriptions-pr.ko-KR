@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 미국 공공 부문의 고유하고 진화하는 요구 사항에 대응하여 Office 365 미국 정부 플랜(또는 Office 365 Government)를 Office 365 Government. 이 문서에서는 미국 환경의 특정 기능에 Office 365 Government 제공합니다.
-ms.openlocfilehash: d958835f906fa256ff5bfce3435f8c6d36458407
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: e9d0b23037cb3b033e55fe143c98830707efb45a29b4fc25d6f6f2a4e727bc4f
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537234"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701896"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -91,9 +91,9 @@ Office 365 타사 응용 프로그램을 SharePoint Online 사이트, 비즈니�
 
 Microsoft Office 365 Government 고객 콘텐츠에 대한 액세스는 선고된 직원으로 제한됩니다. 화면 수준 세부 정보는 각 환경(높음 및 DoD)에 대한 서비스 설명 페이지를 GCC GCC 참조하세요.
 
-## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack 센터 온보더링 지원
+## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack 온보더링 지원 센터
 
-Office 365<sup>1에</sup>대한 FastTrack 센터 혜택을 사용하면 FastTrack Specialists와 원격으로 작업하여 Office 365 환경을 사용할 수 있도록 준비하고 조직 내에서 롤아웃 및 사용을 계획할 수 있습니다. FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합니다. 
+FastTrack Center Benefit for Office 365<sup>1을</sup>사용하면 FastTrack Specialists와 원격으로 작업하여 Office 365 환경을 사용할 수 있도록 준비하고 조직 내에서 롤아웃 및 사용을 계획할 수 있습니다. FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합니다. 
 
 온보딩은 다음으로 구성되어 있습니다.
 
@@ -103,14 +103,14 @@ Office 365<sup>1에</sup>대한 FastTrack 센터 혜택을 사용하면 FastTrac
 
 사용자 채택 서비스는 사용자가 적합한 서비스를 인식하고 비즈니스 가치를 높이는 데 사용할 수 있는 지침을 제공하는 작업으로 구성됩니다. 이 지원은 온보딩 활동과 동시에 이루어집니다.
 
-FastTrack 센터 프로세스에 대한 특정 정보는 에서 찾을 수 [있습니다.](/FastTrack/us-gov-appendix-overview) 참여 역할 및 책임의 분석은 [FastTrack 책임](/FastTrack/us-gov-appendix-fasttrack-responsibilities) 및 [사용자 책임 을 검토하세요.](/FastTrack/us-gov-appendix-your-responsibilities)
+FastTrack 센터 프로세스에 대한 특정 정보는 에서 찾을 수 [있습니다.](/FastTrack/us-gov-appendix-overview) 참여 역할 및 책임 분석에 대한 [](/FastTrack/us-gov-appendix-fasttrack-responsibilities) 자세한 FastTrack 책임 및 책임 [을 검토하세요.](/FastTrack/us-gov-appendix-your-responsibilities)
 
-> <sup>1</sup> FastTrack 서비스를 받으기 위해 적합한 계획 [](/fasttrack/eligibility) 목록에서 라이선스를 150개 이상 구입해야 합니다.
+> <sup>1</sup> 자격이 있는 계획 목록에서 라이선스를 150개 이상 구입해야 FastTrack 있습니다. [](/fasttrack/eligibility)
 <br/><sup>2</sup> 500개 이상의 라이선스를 Office 365 테넌트에서 데이터 마이그레이션 서비스를 사용할 수 있습니다.
 
-## <a name="data-migrations-performed-by-fasttrack"></a>FastTrack에서 수행한 데이터 마이그레이션
+## <a name="data-migrations-performed-by-fasttrack"></a>데이터 마이그레이션이 FastTrack
 
-[FastTrack](https://fasttrack.microsoft.com/) 마이그레이션 혜택을 선택하는 고객은 데이터 마이그레이션을 관리하는 팀에 대한 액세스 권한을 부여해야 합니다. 이러한 직원은 미국 시민권자이고 미국 정부 서비스의 고객에 대해 마이그레이션을 수행하기 전에 Office 365 검사를 합니다.<br><br>
+마이그레이션 FastTrack [](https://fasttrack.microsoft.com/) 선택한 고객은 데이터 마이그레이션을 관리하는 팀에 대한 액세스 권한을 부여해야 합니다. 이러한 직원은 미국 시민권자이고 미국 정부 서비스의 고객에 대해 마이그레이션을 수행하기 전에 Office 365 검사를 합니다.<br><br>
 
 |배경 화면|GCC|GCC High 및 DoD|
 |---|---|---|

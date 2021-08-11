@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Microsoft Workplace Analytics는 조직의 커뮤니케이션 및 공동 작업 추세에 대한 풍부한 실행 가능한 인사이트를 제공하여 보다 효과적인 비즈니스 의사 결정을 내리는 데 도움이 됩니다.
-ms.openlocfilehash: f87ebeebda4747f78fc9c7b1212e5f2723160e9a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 47f2713b83cf159115ff52a11dae893f4a9dda6b18ecc4efa8e468c7f3dcfe58
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653030"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702417"
 ---
 # <a name="workplace-analytics-service-description"></a>Workplace Analytics 서비스 설명
 

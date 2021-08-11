@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 미국 정부를 대신하여 데이터를 보유하거나 처리하는 계약자뿐만 아니라 미국 연방, 주, 지방 및 자치 정부의 고유하고 진화된 요구 사항을 충족하기 위해 Microsoft는 Office 365 미국 정부 Community(GCC) 서비스를 제공합니다. 볼륨 라이선스를 비롯한 여러 채널을 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재 평가판은 미국 정부 기관에만 제공됩니다.
-ms.openlocfilehash: ec2ae92fb334acb56b94c35e5e0651396e959260
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 83c96657bf45e68578f8bf85da257104bcb1412178bcf7f145e335dd80d47165
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653170"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701888"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -41,7 +41,7 @@ Office 365 직원은 사용자 환경에서 호스팅되는 고객 콘텐츠에 
 |고용 기록 검사  <br/> |최근 7년의 고용 기록 확인  <br/> |
 |교육 확인  <br/> |획득한 최종 학위 확인  <br/> |
 |SSN(사회 보장 번호) 검색  <br/> |제공된 SSN이 올바른지 확인  <br/> |
-|범죄 기록 검사  <br/> |최근 7년의 주, 카운티, 지방 및 연방 차원에서의 중범죄 및 경범죄 위반에 대한 범죄 기록 확인  <br/> |
+|범죄 기록 확인  <br/> |최근 7년의 주, 카운티, 지방 및 연방 차원에서의 중범죄 및 경범죄 위반에 대한 범죄 기록 확인  <br/> |
 |OFAC(외화 자산 통제국) 목록  <br/> |재무부에 무역이나 금융 거래가 허용되지 않는 사람들의 그룹 목록 확인  <br/> |
 |BIS(산업 안보국) 목록  <br/> |상무부에 수출 활동이 허용되지 않는 개인 및 기관의 목록 확인  <br/> |
 |DDTC(국방 무역 통제국)에서 금지한 개인 목록  <br/> |국무부에 국방 산업과 관련된 수출 활동이 허용되지 않는 개인 및 기관의 목록 확인  <br/> |

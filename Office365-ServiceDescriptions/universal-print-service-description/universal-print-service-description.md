@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 클라우드 인쇄 서비스인 Microsoft 365 유니버설 인쇄는 사내 인쇄 서버의 필요성을 제거합니다.
-ms.openlocfilehash: 4c716c706dd2383ed64fa867399ca88ee459d912
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 1262952b582df8ec6d3ddd97f9cf15916adaa31f65f721e1a3da2c0582c97c2c
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653610"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702437"
 ---
 # <a name="universal-print-service-description"></a>유니버셜 인쇄 서비스 설명
 
@@ -46,7 +46,7 @@ ms.locfileid: "51653610"
 | [유니버설 인쇄 커넥터 소프트웨어](/universal-print/fundamentals/universal-print-connector-overview)   | 예                  | 예              | 예             |
 | [유니버설 인쇄 PowerShell 스크립팅](/universal-print/fundamentals/universal-print-powershell) | 예                  | 예              | 예             |
 
-## <a name="learn-more"></a>자세히 알아보기
+## <a name="learn-more"></a>자세한 정보
 
 유니버설 인쇄에 대한 자세한 내용은 다음 리소스를 참조하십시오.
 
@@ -56,12 +56,12 @@ ms.locfileid: "51653610"
 
 ### <a name="licensing-terms"></a>사용 조건
 
-Microsoft 상업용 볼륨 라이선스 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 제품 사용 조건 [사이트를 참조하세요.](https://www.microsoft.com/licensing/terms/) 
+Microsoft 상업용 볼륨 라이선싱 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 [제품 조건 사이트](https://www.microsoft.com/licensing/terms/)를 참조하세요. 
 
 ### <a name="service-updates"></a>서비스 업데이트
 
 새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 비롯한 예정된 변경 내용을 추적하기 위해 메시지 센터를 [방문하십시오.](/microsoft-365/admin/manage/message-center)
 
-### <a name="accessibility"></a>내게 필요한 옵션
+### <a name="accessibility"></a>접근성
 
-Microsoft는 사용자의 데이터 보안 및 서비스의 접근성을 위해 계속 최선을 [다하고](https://www.microsoft.com/trust-center/compliance/accessibility) 있습니다. 자세한 내용은 Microsoft [보안](https://www.microsoft.com/trust-center) 센터 및 Office [접근성 센터를 참조하세요.](https://support.microsoft.com/topic/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft는 데이터의 보안과 서비스의 [접근성](https://www.microsoft.com/trust-center/compliance/accessibility)에 최선을 다하고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.microsoft.com/topic/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조하세요.

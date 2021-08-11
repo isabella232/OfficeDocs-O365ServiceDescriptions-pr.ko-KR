@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 운영하는 21Vianet은 중국의 안전하고 안정적이며 확장 가능한 클라우드 서비스에 대한 요구를 충족하도록 디자인되어 있습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: 78d6b6a448c1602bad52739aafa26512d5a90816
-ms.sourcegitcommit: 74fda292066b57169e19c846f0a315221f1a8334
+ms.openlocfilehash: 4d3f9ff8f649a748668c3f3156166cb913612acd6a72811a9870604de4d560d2
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/26/2021
-ms.locfileid: "53590132"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701645"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 

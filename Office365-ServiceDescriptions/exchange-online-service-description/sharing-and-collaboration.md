@@ -11,18 +11,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 1afee4f2868a8bf0f0a1662e2d70bd8de3f2043a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 25df0c4b4ff71ce8b3543cf7810bb0a4dd3c45fbe1037e1fd8bad4e586dd6292
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653300"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663641"
 ---
 # <a name="sharing-and-collaboration"></a>공유 및 공동 작업
 
 ## <a name="federated-sharing"></a>페더레이션 공유
 
-페더링은 페더링 공유를 지원하는 기본 트러스트 인프라인 Microsoft Exchange Online 사용자가 다른 외부 페더링 조직의 받는 사람 또는 인터넷에 액세스할 수 있는 사용자와 약속이 있는 일정 데이터 및 연락처 정보를 공유할 수 있는 방법입니다. 여기에는 Exchange Online에서도 호스트되는 조직, 외부 Microsoft Exchange Server 2010 또는 Exchange Server 2013 조직이 포함됩니다. 조직 관계 및 공유 정책을 사용하여 Exchange Online 관리자가 사용자가 웹 또는 Outlook Microsoft 2013 이상에서 일정 공유 초대를 보낼 수 Microsoft Outlook 2010 있습니다.
+페더링은 페더링 공유를 지원하는 기본 트러스트 인프라인 Microsoft Exchange Online 사용자가 다른 외부 페더링 조직의 받는 사람 또는 인터넷에 액세스할 수 있는 사용자와 약속이 있는 일정 데이터 및 연락처 정보를 공유할 수 있는 방법입니다. 여기에는 Exchange Online에서도 호스트되는 조직, 외부 Microsoft Exchange Server 2010 또는 Exchange Server 2013 조직이 포함됩니다. 조직 관계 및 공유 정책을 사용하여 Exchange Online 관리자가 Microsoft 웹용 Outlook 이상에서 일정 공유 초대를 보낼 수 Microsoft Outlook 2010 있습니다.
   
 > [!IMPORTANT]
 >  외부 Exchange 2010 및 Exchange 2013 조직은 페더레이션 공유 구성의 일부로 Microsoft 페더레이션 게이트웨이와의 페더레이션 트러스트를 구성해야 합니다. Exchange Online 조직이 페더전 트러스트 구성을 구성할 Microsoft Federation Gateway 조직이 만들어지면 Microsoft Federation Gateway 트러스트가 Microsoft 365 생성됩니다. 

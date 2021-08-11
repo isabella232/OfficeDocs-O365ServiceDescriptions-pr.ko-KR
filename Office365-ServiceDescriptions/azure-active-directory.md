@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Azure Active Directory 는 직원과 게스트 사용자가 안전하게 로그인하고 리소스에 액세스하는 데 도움이 되는 Microsoft의 클라우드 기반 ID 및 액세스 관리 솔루션입니다.
-ms.openlocfilehash: f637c202b4023584a88e9cb5688278309743efe2
-ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
+ms.openlocfilehash: 9620f98fd241016748908d74b6644b3208e3418064fb6b296c433836bc8c31d0
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53077539"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701617"
 ---
 # <a name="azure-active-directory-service-description"></a>Azure Active Directory 서비스 설명
 
@@ -28,19 +28,19 @@ Azure Active Directory Microsoft의 클라우드 기반 ID 및 액세스 관리 
 
 Azure Active Directory 기능은 항상 진화하고 확장되고 있습니다. 최신 기능 [목록은](https://www.microsoft.com/security/business/identity-access-management/azure-ad-pricing) 공식 가격 페이지를 참조하세요.
 
-## <a name="messaging"></a>메시징
+## <a name="messaging"></a>메시지
 
-새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용에 대한 정보를 확인하기 위해 메시지 센터를 방문합니다. 자세한 내용은 메시지 센터 [를 참조하세요.](/microsoft-365/admin/manage/message-center)
+새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용에 대한 정보를 확인하기 위해 메시지 센터를 방문합니다. 자세한 내용은 [메시지 센터](/microsoft-365/admin/manage/message-center)를 참조하세요.
 
 ## <a name="licensing-terms"></a>사용 조건
 
-Microsoft 상업용 볼륨 라이선스 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 제품 사용 조건 [사이트를 참조하세요.](https://www.microsoft.com/licensing/terms/)
+Microsoft 상업용 볼륨 라이선싱 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 [제품 조건 사이트](https://www.microsoft.com/licensing/terms/)를 참조하세요.
 
-## <a name="accessibility"></a>내게 필요한 옵션
+## <a name="accessibility"></a>접근성
 
-Microsoft는 사용자의 데이터 보안 및 서비스의 접근성을 위해 계속 최선을 [다하고](https://www.microsoft.com/trust-center/compliance/accessibility) 있습니다. 자세한 내용은 Microsoft [보안](https://www.microsoft.com/trust-center) 센터 및 Office [접근성 센터를 참조하세요.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft는 데이터의 보안과 서비스의 [접근성](https://www.microsoft.com/trust-center/compliance/accessibility)에 최선을 다하고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조하세요.
 
-## <a name="learn-more"></a>자세히 알아보기
+## <a name="learn-more"></a>자세한 정보
 
 자세한 내용은 Azure Active Directory 리소스를 참조하십시오.
 

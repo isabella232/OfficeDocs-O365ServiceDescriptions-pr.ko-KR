@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft는 사용자를 만들고, 관리하고, 인증하는 다음과 같은 방법을 지원하고 있습니다.
-ms.openlocfilehash: 16c12692107e789692b28351eed7dae5b32b18d9
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 5a4b242046503df691587919284454a670f817821eab1b3a6692f542bdcefadb
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652412"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702047"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -48,7 +48,7 @@ ID 유형은 사용자 환경 및 사용자 계정 관리 옵션을 비롯해 �
   
 ### <a name="custom-domains-and-identity-options"></a>사용자 지정 도메인 및 ID 옵션
 
-새 사용자를 만들면 사용자의 로그인 이름 및 전자 메일 주소가 Microsoft 365 관리 센터에 설정된 기본 도메인에 할당됩니다. 자세한 내용은 사용자 및 [도메인 추가를 참조합니다.](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611) 
+새 사용자를 만들면 사용자의 로그인 이름과 전자 메일 주소가 기본 도메인에 Microsoft 365 관리 센터. 자세한 내용은 사용자 및 [도메인 추가를 참조합니다.](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611) 
   
 기본적으로 구독은 계정으로 만든 < > **.onmicrosoft.com** 도메인을 사용하게 됩니다. 중국의 21Vianet에서 Office 365 사용하는 경우 기본 도메인은 < > **.onmsChina.cn.** Germany에서 Office 365 기본 도메인은 *companyname* > **.<.onmicrosoft.de.** 사용자 지정 도메인을 보존하는 대신 Microsoft에 하나  이상의 사용자 지정 도메인을 onmicrosoft.com 수 있으며 사용자에게 유효성이 검사된 도메인으로 로그인할 수 있도록 할당할 수 있습니다. 각 사용자의 할당된 도메인은 보내고 받은 전자 메일 메시지에 표시되는 전자 메일 주소입니다. 
   
@@ -74,7 +74,7 @@ Microsoft는 양식 기반 인증을 사용하며 네트워크를 통해 인증 
   
 ### <a name="multi-factor-authentication"></a>다단계 인증
 
-다단계 인증을 사용하는 경우 사용자는 암호를 올바르게 입력한 후 스마트폰에서 전화 통화, 문자 메시지 또는 앱 알림을 확인해야 합니다. 이 두 번째 인증 과정을 거쳐야만 로그인 할 수 있습니다. Microsoft 관리자는 Microsoft 365 관리 센터에서 사용자를 등록할 수 있습니다. 다단계 [인증에 대해 자세히 알아보시다.](/office365/admin/security-and-compliance/set-up-multi-factor-authentication)
+다단계 인증을 사용하는 경우 사용자는 암호를 올바르게 입력한 후 스마트폰에서 전화 통화, 문자 메시지 또는 앱 알림을 확인해야 합니다. 이 두 번째 인증 과정을 거쳐야만 로그인 할 수 있습니다. Microsoft 관리자는 2단계에서 다단계 인증을 위해 사용자를 등록할 Microsoft 365 관리 센터. 다단계 [인증에 대해 자세히 알아보시다.](/office365/admin/security-and-compliance/set-up-multi-factor-authentication)
   
 ### <a name="rich-client-authentication"></a>리치 클라이언트 인증
 
@@ -102,7 +102,7 @@ Microsoft 서비스 검색 및 인증을 제대로 Microsoft 서비스 관리자
 |Windows Vista의 Outlook 2010 또는 Office Outlook 2007  <br/> |각 세션에 로그인 <sup>1</sup> <br/> |각 세션에 로그인 <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |각 세션에 로그인 <sup>1</sup> <br/> |각 세션에 로그인 <sup>2</sup> <br/> |
 |POP, IMAP, Outlook for Mac  <br/> |각 세션에 로그인 <sup>1</sup> <br/> |각 세션에 로그인 <sup>2</sup> <br/> |
-|웹 환경: Microsoft 365 관리 센터/Outlook/ SharePoint 온라인/웹용 Office  <br/> |각 브라우저 세션에 로그인<sup>4</sup> <br/> |각 세션에 로그인 <sup>3</sup> <br/> |
+|웹 환경: Microsoft 365 관리 센터/웹용 Outlook/SharePoint/웹용 Office  <br/> |각 브라우저 세션에 로그인<sup>4</sup> <br/> |각 세션에 로그인 <sup>3</sup> <br/> |
 |SharePoint Online을 사용한 Office 2010 또는 Office 2007  <br/> |각 SharePoint Online 세션에 로그인 <sup>4</sup> <br/> |각 SharePoint Online 세션에 로그인<sup>3</sup> <br/> |
 |비즈니스용 Skype 온라인  <br/> |각 세션에 로그인 <sup>1</sup> <br/> |표시되지 않음  <br/> |
 |Outlook for Mac  <br/> |각 세션에 로그인 <sup>1</sup> <br/> |각 세션에 로그인 <sup>2</sup> <br/> |
@@ -115,7 +115,7 @@ Microsoft 서비스 검색 및 인증을 제대로 Microsoft 서비스 관리자
   
 ## <a name="create-user-accounts"></a>Create user accounts
 
-여러 가지 방법으로 사용자를 추가할 수 있습니다. 자세한 내용은 [Add users individual or in bulk ( Admin Help](/office365/admin/add-users/add-users) and [Add, remove, and manage users in Microsoft 365 Preview)를 참조하세요.](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3) 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 사용자 계정 만들기 또는 편집 - 관리자 도움말](/office365/admin/add-users/add-users)을 참조하세요.
+여러 가지 방법으로 사용자를 추가할 수 있습니다. 자세한 내용은 [Add users individual or in bulk - Admin Help](/office365/admin/add-users/add-users) and [Add, remove, and manage users in Microsoft 365 관리 센터 Preview를 참조하세요.](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3) 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 사용자 계정 만들기 또는 편집 - 관리자 도움말](/office365/admin/add-users/add-users)을 참조하세요.
   
 ## <a name="delete-user-accounts"></a>사용자 계정 삭제
 
@@ -137,7 +137,7 @@ Microsoft 서비스 검색 및 인증을 제대로 Microsoft 서비스 관리자
   
 - 클라우드 ID 암호 보안 강도 요구 사항에 대한 자세한 내용은 [암호 정책](/previous-versions/azure/jj943764(v=azure.100))을 참조하세요.
     
-- 보안을 강화하려면 사용자가 암호를 처음 액세스할 때 암호를 변경해야 Microsoft 서비스. 따라서 사용자가 Microsoft 서비스 액세스하려면 먼저 Microsoft 365 관리 센터에 로그인하여 암호를 변경하라는 메시지가 표시됩니다.
+- 보안을 강화하려면 사용자가 암호를 처음 액세스할 때 암호를 변경해야 Microsoft 서비스. 따라서 사용자가 액세스하기 전에 Microsoft 서비스 암호를 변경하라는 메시지가 Microsoft 365 관리 센터 로그인해야 합니다.
     
 - 관리자가 암호 만료 정책을 설정할 수 있습니다. 자세한 내용은 [Set a user's password expiration policy 을 참조하십시오.](/office365/admin/manage/set-password-expiration-policy)
     
@@ -145,9 +145,9 @@ Microsoft 서비스 검색 및 인증을 제대로 Microsoft 서비스 관리자
   
 - **관리자가 암호** 다시 설정 - 사용자가 암호를 분실하거나 잊어버렸다면 관리자는 관리 센터에서 또는 암호를 사용하여 사용자 암호를 다시 설정할 Windows PowerShell. 사용자가 기존 암호를 아는 경우에만 암호를 변경할 수 있습니다. 
     
-    엔터프라이즈 계획의 경우 관리자가 암호를 분실하거나 잊어버렸다면 전역 관리자 역할이 있는 다른 관리자가 Microsoft 365 관리 센터에서 또는 관리자 암호를 사용하여 관리자 암호를 다시 설정할 Windows PowerShell. 자세한 내용은 [관리자 암호 다시 설정](/office365/admin/add-users/reset-passwords)을 참조하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 암호 변경 또는 재설정](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)을 참조하세요.
+    엔터프라이즈 계획의 경우 관리자가 암호를 분실하거나 잊어버렸다면 전역 관리자 역할이 있는 다른 관리자가 전역 관리자 역할이 있는 다른 관리자가 관리자의 암호를 Microsoft 365 관리 센터 또는 관리자 암호를 다시 설정할 Windows PowerShell. 자세한 내용은 [관리자 암호 다시 설정](/office365/admin/add-users/reset-passwords)을 참조하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 암호 변경 또는 재설정](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)을 참조하세요.
     
-- **사용자가 웹에서** Outlook 암호 변경 - Outlook 페이지에 있는 웹 옵션 페이지에는 사용자가 암호 변경 페이지로 리디렉션하는 암호 변경 하이퍼링크가 **포함되어** 있습니다. 사용자가 이전 암호를 알고 있어야 합니다. 자세한 내용은 [암호 변경](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c)을 참조하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 암호 변경 또는 재설정](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)을 참조하세요.
+- **사용자가 웹용 Outlook 암호** 변경 - 웹용 Outlook 옵션 페이지에는 사용자를 암호 변경 페이지로 리디렉션하는 암호 변경 하이퍼링크가 **포함되어** 있습니다. 사용자가 이전 암호를 알고 있어야 합니다. 자세한 내용은 [암호 변경](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c)을 참조하세요. 중국의 21Vianet에서 운영하는 Office 365를 사용하는 경우 [21Vianet에서 운영하는 Office 365에서 암호 변경 또는 재설정](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)을 참조하세요.
     
 - **역할 기반** 재설정 암호 권한 - 엔터프라이즈 계획의 경우 헬프데스크  직원과 같은 권한 있는 사용자에게 암호 다시 설정 사용자 권한을 할당하고, 전체 서비스 관리자가 되기 전 미리 정의한 역할 또는 사용자 지정 역할을 사용하여 암호를 변경할 수 있는 권한을 할당할 수 있습니다. 기본적으로 엔터프라이즈 계획에서는 전역 관리자, 암호 관리자 또는 사용자 관리 관리자 역할이 있는 관리자가 암호를 변경할 수 있습니다. 자세한 내용은 [관리 역할 지정](/office365/admin/add-users/assign-admin-roles)을 참조하세요.
     
@@ -155,7 +155,7 @@ Microsoft 서비스 검색 및 인증을 제대로 Microsoft 서비스 관리자
     
 ### <a name="federated-identity-password-management"></a>페더임 ID 암호 관리
   
-페더레이션 ID를 사용할 경우 암호는 Active Directory에서 관리됩니다. On-premises Security Token Service는 인터넷을 통해 사용자의 로컬 Active Directory 암호를 페더링 게이트웨이로 전달하지 않고 페더링 게이트웨이를 사용하여 인증을 Office 365. 로컬 암호 정책이 사용되거나 웹 클라이언트의 경우에는 2단계 식별이 사용됩니다. Outlook 암호 변경 하이퍼링크가 포함되어 있지 않습니다. 사용자는 표준 온-프레미스 도구 또는 데스크톱 PC 로그온 옵션을 통해 암호를 변경할 수 있습니다.
+페더레이션 ID를 사용할 경우 암호는 Active Directory에서 관리됩니다. On-premises Security Token Service는 인터넷을 통해 사용자의 로컬 Active Directory 암호를 페더링 게이트웨이로 전달하지 않고 페더링 게이트웨이를 사용하여 인증을 Office 365. 로컬 암호 정책이 사용되거나 웹 클라이언트의 경우에는 2단계 식별이 사용됩니다. 웹용 Outlook 암호 변경 하이퍼링크가 포함되어 있지 않습니다. 사용자는 표준 온-프레미스 도구 또는 데스크톱 PC 로그온 옵션을 통해 암호를 변경할 수 있습니다.
   
 조직 환경에서 [SSO(Single Sign-On)를](/previous-versions/azure/azure-services/dn441213(v=azure.100)) 사용하여 디렉터리 동기화를 사용하도록 설정한 경우 페더임 ID 공급자에 영향을 미치는 정전이 있는 경우 페더러티 로그인에 대한 암호 동기화 백업을 통해 도메인을 수동으로 암호 동기화로 전환할 수 있습니다. 암호 동기화를 사용하면 정전이 해결되는 동안 사용자가 액세스할 수 있습니다. Single [Sign-On 암호 동기화로 전환하는 방법을 학습합니다.](https://go.microsoft.com/fwlink/p/?LinkId=509832)
   
@@ -167,7 +167,7 @@ Microsoft 청구 관리자는 사용자 라이선스 수 및 회사에서 사용
   
 ## <a name="group-management"></a>그룹 관리
 
-SharePoint Online에서는 사이트 액세스 제어를 위해 보안 그룹을 사용합니다. 보안 그룹은 관리 센터에서 Microsoft 365 수 있습니다. 보안 그룹에 대한 자세한 내용은 [보안 그룹 만들기, 편집 또는 삭제](/office365/admin/email/create-edit-or-delete-a-security-group)를 참조하세요.
+SharePoint Online에서는 사이트 액세스 제어를 위해 보안 그룹을 사용합니다. 보안 그룹은 보안 그룹에서 만들 수 Microsoft 365 관리 센터. 보안 그룹에 대한 자세한 내용은 [보안 그룹 만들기, 편집 또는 삭제](/office365/admin/email/create-edit-or-delete-a-security-group)를 참조하세요.
   
 ## <a name="administrator-roles"></a>관리자 역할
 

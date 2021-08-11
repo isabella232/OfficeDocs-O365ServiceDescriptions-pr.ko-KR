@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다. 포함된 계획 목록은 Exchange Online Protection 계획의 기능 비교를 제공합니다.
-ms.openlocfilehash: fbfbe39931e6037b358bb76c124937904a408783
-ms.sourcegitcommit: 427dbb27426a12e8c5dba7d8b4cbaf2bedb3aaba
+ms.openlocfilehash: 2a7f5bd6c2750d4ce5d348e7fc8438a335533a46466fccc16318a133e1639e4e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53222485"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664231"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 서비스 설명
 
@@ -33,7 +33,7 @@ Microsoft Exchange Online EOP(보호)는 스팸 및 맬웨어로부터 조직을
 
 - **하이브리드 배포에서:** EOP를 구성하여 메시징 환경을 보호하고, 전자 메일 라우팅을 제어할 수 있습니다(사내 사서함과 클라우드 사서함이 혼합된 경우).
 
-## <a name="available-plans"></a>사용 가능한 플랜
+## <a name="available-plans"></a>사용 가능한 계획
 
 다음 표에는 조직의 요구에 가장 Exchange Online Protection 솔루션을 선택할 수 있도록 이러한 계획에 대한 설명이 포함되어 있습니다. 자세한 계획 정보는 [를](https://products.office.com/exchange/exchange-email-security-spam-protection)Exchange Online Protection.
 
@@ -131,7 +131,7 @@ EOP의 제한은 제한 [Exchange Online Protection 참조합니다.](exchange-o
 <sup>9</sup> Azure Information Protection을 추가 기능 구독으로 구매하고 EOP를 통해 인터넷으로 전자 메일을 라우팅하도록 OME를 구성하는 경우 OME를 사용할 수 있습니다. <br/>
 <sup>10</sup> 이 기능을 사용하려면 Exchange Online 필요합니다. <br/>
 
-## <a name="learn-more"></a>자세히 알아보기
+## <a name="learn-more"></a>자세한 정보
 
 사용에 대한 기술 Exchange Online Protection 다음 리소스를 참조하십시오.
 

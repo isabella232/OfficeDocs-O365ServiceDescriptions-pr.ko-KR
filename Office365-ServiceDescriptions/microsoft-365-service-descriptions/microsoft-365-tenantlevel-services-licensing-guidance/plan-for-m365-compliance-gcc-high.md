@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 미국 연방 정부 기관 또는 정부 규정 및 요구 사항을 준수하는 데이터를 처리하는 기타 엔터티에서 Office 365 배포를 주도하는 IT 프로를 위한 것입니다. 이러한 요구 사항을 충족하는 데 Microsoft 365 Government – GCC High를 사용하는 것이 적절합니다.
-ms.openlocfilehash: 357cf30350ff2a3b21d7d9326e91c2c01d119b21
-ms.sourcegitcommit: f7874215059c1e5a9d383da0539f87b6f85a57e6
+ms.openlocfilehash: ba60ebf026ed3985ead28abba1c426bd8de53e7ba1acf51501b63c1d4c6d1d27
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52001914"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663291"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Microsoft 365 준수 계획 - GCC 높음
 
@@ -109,7 +109,7 @@ Microsoft 365 - GCC 높은 환경은 클라우드 서비스에 대한 미국 정
 | 레코드 관리 | 클라우드 첨부 파일 보존 및 자동 레이블 지정 | 백로그 엔지니어링 |
 | 레코드 관리 | 레코드 버전 관리 | 사용할 수 있음 |
 | 레코드 관리 | 규정 레코드 | 사용할 수 있음 |
-| 레코드 관리 | Syntex SharePoint 사용하여 레코드 레이블 적용 | 백로그 엔지니어링 |
+| 레코드 관리 | 레코드 SharePoint Syntex 분류를 사용하여 레코드 레이블 적용 | 백로그 엔지니어링 |
 | **내부자 위험 관리** | 고객 Lockbox | 사용할 수 있음 |
 | 커뮤니케이션 규정 준수 | 전자 메일 서명 또는 고지 조항을 무시하는 능력 | 개발 중 |
 | 커뮤니케이션 규정 준수 | 통신 준수 정책에 대한 보존 기간을 설정하는 능력 | 개발 중 |

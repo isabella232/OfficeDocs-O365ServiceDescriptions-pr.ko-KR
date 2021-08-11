@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: 이 문서를 읽고 EOP(Microsoft Exchange Online 보호)의 메시징 정책 및 규정 준수 기능에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 81228b13036e831df630cca6f27b4ad285705f29
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: fa2e4cfc9345a2dfc7d0ebf2d12a31c5aeb1da532a889a815a0ec3d6d5880c2b
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653350"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664111"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>메시징 정책 및 준수 Exchange Online Protection
 
@@ -51,7 +51,7 @@ EAC에서 DLP 정책을 구성하면 다음과 같은 작업이 가능합니다.
 
 - 문서 지문을 사용하여 중요한 양식 데이터를 감지합니다. 문서 지문을 사용하면 메일 흐름 규칙 및 DLP 정책을 정의하는 데 사용할 수 있는 텍스트 기반 양식을 기반으로 사용자 지정 중요한 정보 유형을 쉽게 만들 수 있습니다.
 
-- 팁 2013, Outlook 2013, 웹용 Outlook 및 장치용 OWA 사용자에게 공지를 표시하여 데이터 손실을 줄이는 데 도움이 될 수 있으며 가음성 보고를 허용하여 정책의 효율성을 향상시킬 수도 있습니다.
+- 장치 Outlook 팁 2013, 웹용 Outlook 및 장치용 OWA 사용자에게 공지를 표시하여 데이터 손실을 줄일 수 있으며 가음성 보고를 허용하여 정책의 효율성을 향상시킬 수 있는 정책 정책을 추가합니다.
 
 - DLP 보고서의 문제 데이터를 검토하거나, 문제 보고서 생성 작업을 사용하여 자체 보고서를 추가합니다.
 

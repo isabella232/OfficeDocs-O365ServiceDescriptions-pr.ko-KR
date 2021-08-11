@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 description: 서비스 및 Microsoft Exchange Online 계획의 가용성을 Microsoft 365 Office 365 대해 자세히 알아보습니다.
-ms.openlocfilehash: b24bd70ce81b68a895cf70bc04d3f8dc0bd3f332
-ms.sourcegitcommit: 2cdaef22baa43ba09300fdafa99b3918f2d8cf8f
+ms.openlocfilehash: 6e7629dd01b05ef06bda492127c3b6d04733e340a042b5f465a4a79097197cc3
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51414888"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664011"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -33,7 +33,7 @@ Exchange Online 서비스에 액세스하는 각 사용자는 구독 계획을 �
 
 ## <a name="feature-availability"></a>기능 가용성
 
-다음 표에는 계획에서 사용할 Exchange Online 주요 기능 목록이 나열되어 있습니다. 특정 주의가 적용됩니다*. 이 표는 예고 없이 변경될 수 있습니다. 계획에 대한 최신의 전체 Exchange Online 목록은 [계획 비교를 Exchange Online 참조하세요.](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)<br><br>
+다음 표에는 계획에서 사용할 Exchange Online 주요 기능 목록이 나열되어 있습니다. 특정 주의가 적용됩니다*. 이 표는 통지 없이 변경될 수 있습니다. 계획에 대한 최신의 전체 Exchange Online 목록은 [계획 비교를 Exchange Online 참조하세요.](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)<br><br>
   
 | 기능 | 소규모 기업 요금제 | Enterprise 계획 | 교육 계획 | GCC | GCC-High | DOD | 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -52,7 +52,7 @@ Exchange Online 서비스에 액세스하는 각 사용자는 구독 계획을 �
 |[Exchange Online 설치 및 관리](exchange-online-setup-and-administration.md)|예*|예|예|예|예|예*|
 |서비스 확장 - 사용자 지정, 추가 기능 및 리소스|예|예|예|예|예|예|
 
-## <a name="learn-more"></a>자세히 알아보기
+## <a name="learn-more"></a>자세한 정보
 
 자세한 내용은 Exchange Online 리소스를 참조하십시오.
 
@@ -62,12 +62,12 @@ Exchange Online 서비스에 액세스하는 각 사용자는 구독 계획을 �
 
 ### <a name="licensing-terms"></a>사용 조건
 
-Microsoft 상업용 볼륨 라이선스 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 제품 사용 조건 [사이트를 참조하세요.](https://www.microsoft.com/licensing/terms/) 
+Microsoft 상업용 볼륨 라이선싱 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 [제품 조건 사이트](https://www.microsoft.com/licensing/terms/)를 참조하세요. 
 
-### <a name="messaging"></a>메시징
+### <a name="messaging"></a>메시지
 
-새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용에 대한 정보를 확인하기 위해 메시지 센터를 방문합니다. 자세한 내용은 메시지 센터 [를 참조하세요.](/microsoft-365/admin/manage/message-center)
+새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용에 대한 정보를 확인하기 위해 메시지 센터를 방문합니다. 자세한 내용은 [메시지 센터](/microsoft-365/admin/manage/message-center)를 참조하세요.
 
-### <a name="accessibility"></a>내게 필요한 옵션
+### <a name="accessibility"></a>접근성
 
-Microsoft는 사용자의 데이터 보안 및 서비스의 접근성을 위해 계속 최선을 다하고 있습니다. 자세한 내용은 Microsoft [보안](https://www.microsoft.com/trust-center) 센터 및 Office [접근성 센터를 참조하세요.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft는 데이터의 보안과 서비스의 접근성에 최선을 다하고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조하세요.

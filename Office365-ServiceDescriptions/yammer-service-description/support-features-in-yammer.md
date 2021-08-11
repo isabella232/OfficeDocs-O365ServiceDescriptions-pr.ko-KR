@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Yammer에서는 다음과 같은 지원 기능을 사용할 수 있습니다.
-ms.openlocfilehash: fe95a1f768e4ac12dd9c4dcd72c684784e21b45b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 22def2d6dd1eccbff98503703fbd6e44878ad1092769efd80795c0705196ac05
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653520"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702177"
 ---
 # <a name="support-features-in-yammer"></a>Yammer의 지원 기능
 
@@ -38,7 +38,7 @@ Yammer Enterprise 관리자는 계정 유지 관리를 담당하며, Microsoft �
    
 ## <a name="fasttrack-center"></a>FastTrack 센터
 
-Microsoft FastTrack 서비스는 모든 단계에서 도움을 제공하여 조직이 Microsoft 클라우드로 전환하는 데 도움을 줄 수 있습니다. FastTrack을 사용하면 전략적으로 롤아웃을 계획하고, 새 서비스를 빠르게 시작하고, 새 사용자를 온보드할 수 있습니다. 자세한 내용은 [FastTrack 센터](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)를 참조하세요. 문서 및 활동을 사전 실행, Yammer 지원 등 사용자 네트워크 만들기에 대한 자세한 내용은 [구상:](https://fasttrack.microsoft.com/office/envision/identify-scenarios) 시나리오 식별 페이지로 이동한 다음 조직을 함께 가져오기 를 **선택합니다.**
+Microsoft FastTrack 서비스는 모든 단계에서 도움을 제공하여 조직이 Microsoft 클라우드로 전환하는 데 도움을 줄 수 있습니다. FastTrack 사용하여 전략적으로 롤아웃을 계획하고, 새 서비스를 빠르게 시작하고, 새 사용자를 온보드할 수 있습니다. 자세한 내용은 [FastTrack 센터](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409)를 참조하세요. 문서 및 활동을 사전 실행, Yammer 지원 등 사용자 네트워크 만들기에 대한 자세한 내용은 [구상:](https://fasttrack.microsoft.com/office/envision/identify-scenarios) 시나리오 식별 페이지로 이동한 다음 조직을 함께 가져오기 를 **선택합니다.**
 
 ## <a name="support-features-across-yammer-plans"></a>Yammer 계획별 지원 기능
 

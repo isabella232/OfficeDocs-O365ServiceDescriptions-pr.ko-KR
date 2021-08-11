@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 미국 연방 정부 기관 또는 정부 규정 및 요구 사항을 준수하는 데이터를 처리하는 기타 엔터티에서 Office 365 배포를 주도하는 IT 프로를 위한 것입니다. 이러한 요구 사항을 충족하는 데 Microsoft 365 Government – DoD를 사용하는 것이 적절합니다.
-ms.openlocfilehash: bc6d69c32db6801763e47984c0513da9c16ba0f8
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 039fef8da2de151828cf9aa3c2cb7e39efb4789012f70666811a8a2ae5d24238
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52546005"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663331"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 규정 준수 - DoD 배포 계획
 
@@ -108,7 +108,7 @@ Microsoft 365 - DoD 환경은 클라우드 서비스에 대한 미국 정부 요
 | | 레코드 관리: 폐기 증명 | 사용할 수 있음 |
 | | 레코드 관리: 레코드 버전 관리 | 사용할 수 있음 |
 | | 레코드 관리: 규정 레코드 | 사용할 수 있음 |
-| | 레코드 관리: SharePoint 분류를 사용하여 레코드 레이블 적용 | 백로그 엔지니어링 |
+| | 레코드 관리: SharePoint Syntex 분류를 사용하여 레코드 레이블 적용 | 백로그 엔지니어링 |
 | **내부자 위험 관리** | 고객 Lockbox | 사용할 수 있음 |
 | | 내부자 위험 관리: 사례 대시보드, 콘텐츠 탐색기 및 알림 서식 파일 | 배포 중 |
 | | 내부자 위험 관리: 내부자 위험 관리에 대한 조사 Advanced eDiscovery | 배포 중 |

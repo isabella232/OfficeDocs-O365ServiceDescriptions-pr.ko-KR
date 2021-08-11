@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: Yammer에서는 다음과 같은 문서 공동 작업 기능을 사용할 수 있습니다.
-ms.openlocfilehash: 69864fe18e83dd84f20869d2b454c7fc07d73e50
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: d88aa8a43369b6aaee59f871f2ac92ea8d2b2815a2e79ad853e6adc04d6d7242
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653540"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702227"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Yammer의 문서 공동 작업 기능
 

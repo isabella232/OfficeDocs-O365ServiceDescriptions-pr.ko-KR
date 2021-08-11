@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와는 다른 옵션입니다. 독일, 유럽 연합(EU) 및 EFTA(유럽 자유 무역 연합)에서 독일 데이터 센터의 데이터 상주와 독일 법률에 따라 제어되는 고유한 데이터 수탁자 모델을 통해 엄격한 데이터 액세스 및 제어 조치를 통해 업계 최고의 디지털 작업을 위한 생산성 서비스를 제공하여 가장 규제가 많은 고객의 요구를 충족하는 데 도움이 됩니다.
-ms.openlocfilehash: 9ef9b295840bcbf7f2a216dd07c16b44c955d74b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: d2e3e06483ca0a09cfe4f5f9e6028948dc8f03983281420786c535f5f1479d48
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653500"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701677"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -45,7 +45,7 @@ Deutsche Telekom의 독립적인 독일 회사이자 자회사인 T-Systems Inte
 |Azure Information Protection|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 
 > [!NOTE]
-> <sup>1</sup> 사용자 및 도메인을 설정할 수 있는 Microsoft 365 센터를 비롯한 관련 기능이 있는 클라우드 기반 구독 서비스 <br/>
+> <sup>1</sup> 사용자 및 도메인을 설정할 수 있는 Microsoft 365 관리 센터 기능을 비롯한 관련 기능이 있는 클라우드 기반 구독 서비스 <br/>
 <sup>2</sup>Office 365 ProPlus 계획을 별도로 구매할 수 있으며 Office 365 ProPlus는 Office 365 Germany Enterprise E3 및 Office 365 Germany Enterprise E4에 포함되어 있습니다. 최신 인증을 Office 365 Germany에서 사용하도록 설정해야 합니다. [독일에서](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) 최신 인증을 사용하도록 설정해야 Office 365. <br/>
 <sup>3</sup> Project Online Power BI 포함되어 있지는 않지만 별도의 추가 기능 서비스로 구입하거나 독일 Education A1 요금제에 무료로 Office 365 수 있습니다. <br/>
 <sup>4</sup> Visio(보기 기능)를 무료로 사용할 수 있습니다. Visio 만들기 및 편집 기능을 사용하려면 라이선스가 필요합니다. 웹용 Visio 대한 자세한 내용은 웹 서비스 Visio [대한 자세한 정보를 참조하세요.](../visio-online-service-description/visio-online-service-description.md)
@@ -72,7 +72,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 | 기능 | Office 365 Germany Business Essentials | Office 365 Germany Business | Office 365 Germany Business Premium | Office 365 Germany Education A1 | Office 365 Germany Enterprise E1 | Office 365 Germany Enterprise E3 | Office 365 Germany Enterprise E4 | Office 365 Germany Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Office 365 관리 기능](/office365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-germany#admin-center-features-and-settings)**|||||||||
-|Office 365 관리 센터 또는 Microsoft 365 사용하여 관리 Windows PowerShell|예|예|예|예|예|예|예|예|
+|Office 365 또는 Microsoft 365 관리 센터 사용하여 Windows PowerShell|예|예|예|예|예|예|예|예|
 |Azure Information Protection을 사용하여 콘텐츠 보호|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요|아니요|아니요<sup>2</sup>|
 |**[Office 365 제품군 기능](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Microsoft Bookings|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -117,7 +117,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |Go Daddy를 통해 구입한 도메인에 대해 자동화된 도메인 구입 및 도메인 확인 사용 가능|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**[서비스 상태 및 연속성](service-health-and-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |**서비스 상태** 또는 **서비스 상태** 페이지에서 상태 정보를 사용할 수 있음|예|예|예|예|예|예|예|예|
-|Microsoft 365 센터 대시보드에서 사용할 수 있는 개별 알림의 상태|예|예|예|예|예|예|예|예|
+|대시보드에서 사용할 수 있는 개별 Microsoft 365 관리 센터 상태|예|예|예|예|예|예|예|예|
 |**서비스 상태** RSS 피드|예|예|예|예|예|예|예|예|
 |**[보고서](reports.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |사서함 활성 및 비활성|예|예|예|예|예|예|예|예|
@@ -185,7 +185,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 <sup>3</sup> If using directory synchronization with a local Active Directory, you must delete accounts or change passwords by using the local Active Directory, rather than the Office 365 portal or by using the Azure Active Directory module for Windows PowerShell.<br/>
 <sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password).<br/>
 <sup>5</sup> Reducing seats that were purchased with a term discount may be subject to an early termination fee. 이는 월별 유료 구독에는 적용되지 않습니다.<br/>
-<sup>6</sup> Office 365 Education A1 요금제는 Microsoft 365 센터에서 라이선스 사용자 수 변경을 지원하지 않습니다.<br/>
+<sup>6</sup> Office 365 Germany Education A1 요금제는 라이선스 사용자 수 변경을 지원하지 Microsoft 365 관리 센터.<br/>
 <sup>7</sup> Office 365 ProPlus Office 2016 및 Office 2013과 같은 클라이언트 소프트웨어 응용 프로그램을 사용할 수 있는 Office 365 독일 계획에 포함되어 있습니다. Client software applications run on an end user's device rather than in data centers in Germany. For purposes of your agreement with Microsoft, client software applications are not [German Online Services](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). 클라이언트 소프트웨어 응용 프로그램은 독일어 온라인 서비스가 아닌 최종 사용자 액세스 온라인 서비스에도 유의할 수 있습니다. German data residency commitments and access control by the German data trustee apply only to the German Online Services.<br/>
 <sup>8</sup> [독일에서](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) 최신 인증을 사용하도록 설정해야 Office 365.<br/>
 <sup>9</sup> Office 365 독일은 독일의 클라우드 보안 및 규정 준수 표준을 Office 365. Office 365 offers a comprehensive set of certifications, independently assessed by accredited auditors as part of SOC, ISO and audits. The certifications include ISO 27001/27002, 27017, 27018 and SOC 1 &amp; 2 certification. The additional data trustee controls in Office 365 Germany will be evaluated by independent assessors as part of our annual ISO and SOC audits.
@@ -231,7 +231,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |Exchange Online 및 SharePoint 보관 및 규정 준수|예|아니요|예<sup>5</sup>|아니요|아니요|예|예|아니요|
 |그룹 정책 지원|아니요|아니요|아니요|아니요|아니요|예|예|아니요|
 |Azure Information Protection<sup>3을</sup> 사용한 정보 권한 관리|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
-|Windows 서버 AD RMS<sup>4를</sup> 사용한 정보 권한 관리|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
+|RMS<sup>4를</sup> 사용하여 Windows Server AD 권한 관리|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Office 추가 기능, ActiveX 및 BHO 지원|아니요|아니요|예|아니요|아니요|예|예|아니요|
 |SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스|예|아니요|예|아니요|아니요|예|예|아니요|
 |Office Lens|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -295,7 +295,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |Exchange Online 및 SharePoint Online 보관 및 규정 준수|예<sup>3</sup>|예|예<sup>3</sup>|
 |그룹 정책 지원|예|예|예|
 |Azure Information Protection을 사용한 정보 권한<sup>관리 4</sup>|아니요|아니요|아니요|
-|Windows 서버 AD RMS<sup>5를</sup> 사용한 정보 권한 관리|아니요|아니요|아니요|
+|RMS<sup>5를</sup> Windows Server AD 권한 관리|아니요|아니요|아니요|
 |Office 추가 기능, ActiveX 및 BHO 지원|예|예|예|
 |SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스|아니요|예|예|
 |Office Lens|아니요|아니요|아니요|
@@ -361,7 +361,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |보존 태그 및 보존 정책|예|예|예|예|예|예|예|예|
 |보관된 데이터 암호화(BitLocker)|예|예|예|예|예|예|예|예|
 |Azure Information Protection<sup>3을</sup> 사용하는 IRM|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요|아니요|아니요<sup>4</sup>|
-|Windows Server AD RMS<sup>3을</sup> 사용하는 IRM|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|
+|RMS<sup>3을</sup> Windows Server AD IRM|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|
 |Office 365 암호화|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요<sup>4</sup>|예|예|아니요<sup>4</sup>|
 |S/MIME|예|예|예|예|예|예|예|예||
 |원본 위치 유지 및 소송 보존|아니요|--|아니요|예|아니요|예|예|아니요|
@@ -415,7 +415,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |공용 폴더|예|예|예|예|예|예|예|아니요|
 |**[클라이언트 및 모바일 장치](../exchange-online-service-description/clients-and-mobile-devices.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Outlook<sup>14에</sup> Windows 수 있습니다.|예|예|예|예|예|예|예| 아니요 <sup>11</sup>|
-|Outlook<sup>14</sup>|예|예|예|예|예|예|예|예|
+|웹용 Outlook<sup>14</sup>|예|예|예|예|예|예|예|예|
 |Outlook For Mac<sup>14</sup>|예|예|예|예|예|예|예|예|
 |Outlook 및 Android<sup>14용</sup> 앱|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Exchange ActiveSync|예|예|예|예|예|예|예|예|
@@ -440,7 +440,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |SMTP 릴레이 지원|예|예|예|예|예|예|예|예|
 |**[Exchange Online 설치 및 관리](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Microsoft Office 365 포털 액세스|예|예|예|예|예|예|예|예|
-|Microsoft 365 센터 액세스|예|예|예|예|예|예|예|예|
+|Microsoft 365 관리 센터 액세스|예|예|예|예|예|예|예|예|
 |Exchange 관리 센터 액세스|예|예|예|예|예|예|예|예|
 |원격 Windows PowerShell 액세스|예|예|예|예|예|예|예|예|
 |모바일 장치에 대한 ActiveSync 정책|예|예|예|예|예|예|예|예|
@@ -488,7 +488,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |[격리](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): 최종 사용자 자기 관리|예|예|예|
 |[고급 데이터 거버넌스](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|아니요|예|예|
 |[Office 365 위협 인텔리전스](/microsoft-365/security/office-365-security/office-365-ti)<sup>18</sup>|아니요|예|예|
-|[웹용 Outlook 정크 메일 보고](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|예<sup>8</sup>|아니요<sup>8</sup>|아니요<sup>8</sup>|
+|[메일의 정크 메일 웹용 Outlook](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|예<sup>8</sup>|아니요<sup>8</sup>|아니요<sup>8</sup>|
 |[Microsoft와 자체 전자 메일 서버 간의 전자 메일 라우팅](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|예|예|예|
 |[신뢰할 수 있는 파트너와의 보안 메시징](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|예|예|예|
 |[수신 허용 목록에 파트너의 IP 주소 추가](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|예|예|예|
@@ -497,14 +497,14 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |[Microsoft 365 관리 센터 보고서](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |예<sup>9</sup>|예<sup>10</sup>|예 <sup>9, 10</sup>|
 |[웹 서비스를 사용하여 보고](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services)|아니요|예|예|
 |[메시지 추적](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace)|예<sup>15</sup>|예<sup>15</sup>|예|
-|[Microsoft 365 관리 센터에 액세스](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |예|예|예|
+|[액세스 Microsoft 365 관리 센터](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |예|예|예|
 |[Exchange 관리 센터 액세스](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center)(EAC)|예|예|예|
 |[원격 Windows PowerShell 액세스](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access)|예<sup>2</sup>|예|예|
 
 > [!NOTE]
 > <sup>1</sup> 메일 사용자는 "사서함"으로 정의되며 외부 메일 연락처와 마찬가지로 EAC(Exchange 관리 센터)에서 직접 추가, 제거 및 관리할 수 있습니다.<br/>
 <sup>2</sup> RBAC 사용자 지정은 해당하지 않습니다. 관리자 역할만 해당합니다.<br/>
-<sup>3</sup> EAC에서 관리되는 도메인을 볼 수 있으며 도메인 유형을 편집할 수 있습니다. 다른 모든 도메인 관리는 Microsoft 365 관리 센터에서 완료해야 합니다.<br/>
+<sup>3</sup> EAC에서 관리되는 도메인을 볼 수 있으며 도메인 유형을 편집할 수 있습니다. 다른 모든 도메인 관리는 도메인 관리에서 Microsoft 365 관리 센터.<br/>
 <sup>4</sup> EOP의 메일 흐름 규칙(전송 규칙)은 의 메일 흐름 규칙(전송 [규칙)에 Exchange Online Protection.](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0) 사용 가능한 메일 흐름 규칙 조건, 예외 및 작업은 EOP와 EOP 간에 약간 Exchange Online. 이러한 차이점은 Exchange Online 및 메일 흐름 규칙 작업의 메일 흐름 규칙 조건 및 예외(조건자)에 [Exchange Online.](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions) [](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)<br/>
 <sup>5</sup> EOP 감사 보고서는 사서함에 대한 정보가 제외된, Exchange Online 감사 보고서의 하위 집합입니다.<br/>
 <sup>6</sup> Exchange Enterprise CAL with Services 고객은 DLP 정책 팁을 사용할 수 없습니다.<br/>
@@ -865,7 +865,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |비즈니스용 Skype 모임 예약 Outlook|예|예|예|예|예|예|아니요|
 |다른 비즈니스용 Skype 대신 Outlook 모임 예약(위임)|예|예|예|예|예|예|아니요|
 |웹 비즈니스용 Skype 모임 예약|아니요<sup>6</sup>|아니요<sup>6</sup>|아니요<sup>6</sup>|아니요<sup>6</sup>|아니요<sup>6</sup>|아니요<sup>6</sup>|아니요|
-|웹에서 Outlook 온라인 모임 예약|예|예|예|예|예|예|아니요|
+|2016년 8월에 온라인 모임 웹용 Outlook|예|예|예|예|예|예|아니요|
 |Outlook 위한 위임|예|예|예|예|예|예|아니요|
 |Outlook에서 정적 모임 ID로 공개 모임 만들기|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |**음성 통화**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
@@ -921,7 +921,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |현재 상태와 상호 Exchange Online|예|예|예|예|예|예|아니요|
 |Exchange Server와의 통합 메시징 상호 운용성|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Exchange Online과의 통합 메시징 상호 운용성|아니요|아니요|아니요|아니요|아니요| 아니요|아니요|
-|Outlook 웹 상의 연결|예|예|예|예|예|예|아니요|
+|웹용 Outlook 상호 연산|예|예|예|예|예|예|아니요|
 |Exchange Server와의 보관 상호 운용성|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Exchange Online과의 보관 상호 운용성|예|예|예|예|예|예|아니요|
 |SharePoint 서버의 기술 검색|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
@@ -931,7 +931,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |Microsoft 365 관리 센터|예|예|예|예|예|예|아니요|
 |비즈니스용 Skype Online 관리 센터|예|예<sup>3</sup>|예|예|예|예|아니요|
 |Windows PowerShell|예|예|예|예|예|예|아니요|
-|비즈니스용 Skype Microsoft 365 관리 센터의 온라인 보고|예|예|예|예|예|예|아니요|
+|비즈니스용 Skype 온라인 보고 Microsoft 365 관리 센터|예|예|예|예|예|예|아니요|
 
 > [!NOTE]
 > <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic은 모든 고객이 사용할 수 있습니다. Lync Basic 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하는 로컬로 설치되는 응용 프로그램입니다. Office 365 ProPlus 및 Office 365 Enterprise E3에는 고급 전화 통신 지원, 보관 및 규정 준수 기능을 비롯한 추가 기능을 포함하는 전체 비즈니스용 Skype(Lync) 응용 프로그램이 포함됩니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대한 자세한 내용은 데스크톱 클라이언트 비교 테이블 [을 참조하세요.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/>

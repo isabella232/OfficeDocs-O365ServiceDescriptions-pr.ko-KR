@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: 웹용 Excel(이전의 Excel Web App)는 통합 문서가 저장된 웹 사이트에서 직접 통합 문서로 작업할 수 있는 Microsoft Excel 환경을 웹 브라우저로 확장합니다. 모든 고객은 이 파일을 사용하여 Office 보고 웹용 Office.
-ms.openlocfilehash: 208ae8703441a2544eeac4549f52597ced1e4259
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: fcb8211f8f37a6ce5b96ba2788ac72ebbd74c82b7dd857e58611547342670779
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699074"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702017"
 ---
 # <a name="excel-for-the-web"></a>웹용 Excel
 

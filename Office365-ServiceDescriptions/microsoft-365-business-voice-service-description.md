@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice 호출에 사용할 수 있는 추가 Microsoft Teams 서비스입니다. 전화 시스템, 국내 통화 플랜, SMS 및 오디오 회의가 결합됩니다.
-ms.openlocfilehash: 3a273090dc87d516c0ac84c182ceaa9aef2fd986
-ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
+ms.openlocfilehash: 90563ef54d57b823b675907868fc067adbe39b091f7955bb8814b55c910406cd
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53021961"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663581"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business Voice 설명
 
@@ -25,7 +25,7 @@ Microsoft 365 Business Voice 통화 대기, 통화 전달Microsoft Teams 자동 
 
 다음 표에는 조직의 요구에 가장 적합한 솔루션을 선택할 수 있도록 Microsoft 365 Business Voice 추가 기능을 사용할 수 있는 계획이 표시됩니다. 자세한 계획 정보는 [를](/MicrosoftTeams/business-voice/whats-business-voice)Microsoft 365 Business Voice. <br><br>
 
-| 소규모 기업 요금제 | Enterprise 계획 | 정부 기관 | 교육 기관 | 프런트라인 |
+| 소규모 기업 요금제 | Enterprise 계획 | 정부 기관 | 교육 | 프런트라인 |
 |----------------------|------------------|------------|-----------|-----------|
 | Microsoft 365 Business Basic | Microsoft 365 Enterprise E1 | Microsoft 365 Office 365 Government G1 | Microsoft 365 Office 365 Education A1 | Microsoft 365 F1 |
 | Microsoft 365 Business Standard | Microsoft 365 Enterprise E3 | Microsoft 365 Office 365 Government G3 | Microsoft 365 및 Office 365 Education A3 | Microsoft 365 F3 |
@@ -35,7 +35,7 @@ Microsoft 365 Business Voice 통화 대기, 통화 전달Microsoft Teams 자동 
 
 ## <a name="feature-availability"></a>기능 가용성
 
-다음 표에는 계획에서 사용할 수 Microsoft 365 Business Voice 주요 기능 목록이 나열되어 있습니다. 특정 주의가 적용됩니다. 자세한 내용은 각주를 참조하십시오. 이 표는 예고 없이 변경될 수 있습니다. 최신의 전체 기능 목록은 음성 및 화상 [통화를 참조하세요.](https://www.microsoft.com/en-us/microsoft-teams/voice-calling)
+다음 표에는 계획에서 사용할 수 Microsoft 365 Business Voice 주요 기능 목록이 나열되어 있습니다. 특정 경고가 적용됩니다. 자세한 내용은 각주를 참조하십시오. 이 표는 통지 없이 변경될 수 있습니다. 최신의 전체 기능 목록은 음성 및 화상 [통화를 참조하세요.](https://www.microsoft.com/en-us/microsoft-teams/voice-calling)
 
 | 기능 | Microsoft 365 Business Voice | Microsoft 365 Business Voice 통화 플랜이 없는 경우 |
 |---------|------------------------------|---------------------------------------------------|
@@ -76,12 +76,12 @@ Microsoft 365 Business Voice 통화 대기, 통화 전달Microsoft Teams 자동 
 
 ### <a name="licensing-terms"></a>사용 조건
 
-Microsoft 상업용 볼륨 라이선스 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 제품 사용 조건 [사이트를 참조하세요.](https://www.microsoft.com/licensing/terms/)
+Microsoft 상업용 볼륨 라이선싱 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 [제품 조건 사이트](https://www.microsoft.com/licensing/terms/)를 참조하세요.
 
-### <a name="messaging"></a>메시징
+### <a name="messaging"></a>메시지
 
-새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용을 추적하기 위해 메시지 센터를 방문합니다. 자세한 내용은 메시지 센터 [를 참조하세요.](/microsoft-365/admin/manage/message-center)
+새로운 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용을 추적하려면 메시지 센터를 방문하세요. 자세한 내용은 [메시지 센터](/microsoft-365/admin/manage/message-center)를 참조하세요.
 
-### <a name="accessibility"></a>내게 필요한 옵션
+### <a name="accessibility"></a>접근성
 
-Microsoft는 사용자의 데이터 보안 및 서비스의 접근성을 위해 계속 최선을 [다하고](https://www.microsoft.com/trust-center/compliance/accessibility) 있습니다. 자세한 내용은 Microsoft [보안](https://www.microsoft.com/trust-center) 센터 및 Office [접근성 센터를 참조하세요.](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft는 데이터의 보안과 서비스의 [접근성](https://www.microsoft.com/trust-center/compliance/accessibility)에 최선을 다하고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조하세요.

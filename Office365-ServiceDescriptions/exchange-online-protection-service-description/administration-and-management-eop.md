@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: 이 문서에서는 EOP(Microsoft Exchange Online 보호) 관리자가 사용할 수 있는 관리 인터페이스에 대해 설명합니다.
-ms.openlocfilehash: f4b1aa1e9345740528763ff45a3fc99858fbd71a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 19c0c535e642d6f5d83d9ae69b04ee364c6f7716facbedd18677f3c3702c1554
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653070"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664571"
 ---
 # <a name="administration-and-management-in-exchange-online-protection"></a>관리 및 관리 Exchange Online Protection
 
@@ -25,9 +25,9 @@ ms.locfileid: "51653070"
   
 모든 EOP 기능에 대한 정보를 찾고 있나요? 자세한 [내용은 Exchange Online Protection 설명을 참조하세요.](exchange-online-protection-service-description.md)
   
-## <a name="access-to-the-microsoft-365-admin-center"></a>Microsoft 365 관리 센터에 액세스
+## <a name="access-to-the-microsoft-365-admin-center"></a>액세스 Microsoft 365 관리 센터
 
-Microsoft 365 관리 센터는 각 회사의 서비스 관리자가 구독하는 각 조직의 사용자 계정 및 설정을 관리할 Microsoft 서비스 웹 포털입니다. 관리자는 Microsoft 365 관리 센터 내에서 EAC에 대한 링크를 따라 이동하여 EOP 관련 설정을 관리할 수 있습니다.
+이 Microsoft 365 관리 센터 웹 포털에서는 각 회사의 서비스 관리자가 구독하는 각 서비스 관리자의 사용자 계정 및 설정을 Microsoft 서비스 수 있습니다. 관리자는 Microsoft 365 관리 센터 EAC에 대한 링크를 따라 이동하여 EOP 관련 설정을 관리할 수 있습니다.
   
 ## <a name="access-to-the-exchange-admin-center"></a>Exchange 관리 센터 액세스
 

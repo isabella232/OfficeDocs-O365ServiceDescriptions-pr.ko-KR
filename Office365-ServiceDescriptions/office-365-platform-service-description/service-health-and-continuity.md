@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 관리자는 서비스 상태를 보고 유지 관리 일정을 확인할 수 있습니다. 서비스 상태 정보는 로그인하여 무료로 사용할 수 있습니다.
-ms.openlocfilehash: 2d48b04dc59567c18d8f8326b23d60499321791b
-ms.sourcegitcommit: ef3ef6370ae5b118f7100bf83894634d02ce6e23
+ms.openlocfilehash: 1bfe01361cb2968b51ff49f2f04ec814f0c59d68d7f4f392c97d60c48f50f14f
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53679695"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701817"
 ---
 # <a name="service-health-and-continuity"></a>서비스 상태 및 연속성
 

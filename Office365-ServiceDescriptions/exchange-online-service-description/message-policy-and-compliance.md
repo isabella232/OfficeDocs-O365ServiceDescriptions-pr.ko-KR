@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 description: 메시지 정책 및 규정 준수에 대해 Exchange Online.
-ms.openlocfilehash: 22de08fb350785b63db97da7271182eb62980cae
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 135a928aef14695e5dd4d459c3ac60f24ea81a0b91585a3017f6e50591b03226
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652712"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663771"
 ---
 # <a name="message-policy-and-compliance"></a>메시지 정책 및 규정 준수
 
@@ -25,9 +25,9 @@ ms.locfileid: "51652712"
 
 Exchange Online 사서함은 클라우드에 있으며, 이를 보관하려면 고유한 호스트 환경이 필요합니다. 경우에 따라 Exchange Online은 클라우드에 온-프레미스 사서함을 보관하는 데 사용되기도 합니다. Exchange Online을 사용한 보관 옵션을 이 섹션에서 설명합니다.
   
-Exchange Online은 사용자가 오래된 전자 메일 메시지를 저장할 수 있는 편리한 위치를 제공하는 원본 위치 보관을 비롯하여 클라우드 기반 사서함에 대한 보관 기능을 기본 제공합니다. In-Place 보관 사서함은 사용자의 기본 사서함 폴더와 함께 웹에서 Outlook Outlook 사서함입니다. 사용자는 기본 사서함에 액세스하고 검색할 때와 동일한 방식으로 보관 사서함에 액세스하고 검색할 수 있습니다. 사용 가능한 기능은 사용 중인 클라이언트에 따라 다릅니다.
+Exchange Online은 사용자가 오래된 전자 메일 메시지를 저장할 수 있는 편리한 위치를 제공하는 원본 위치 보관을 비롯하여 클라우드 기반 사서함에 대한 보관 기능을 기본 제공합니다. In-Place 보관 사서함은 사용자 기본 사서함 폴더와 함께 나타나는 특수한 유형의 사서함으로 Outlook 웹용 Outlook. 사용자는 기본 사서함에 액세스하고 검색할 때와 동일한 방식으로 보관 사서함에 액세스하고 검색할 수 있습니다. 사용 가능한 기능은 사용 중인 클라이언트에 따라 다릅니다.
   
-- **Outlook 2016, Outlook 2013, Outlook 2010** 및 Outlook 웹에서 사용자는 보관함의 전체 기능과 보존 및 보관 정책 제어와 같은 관련 규정 준수 기능에 액세스할 수 있습니다. 
+- **Outlook 2016, Outlook 2013, Outlook 2010** 및 웹용 Outlook 사용자는 보관함의 전체 기능과 보존 및 보관 정책 제어와 같은 관련 규정 준수 기능에 액세스할 수 있습니다. 
     
 - **Outlook 2007** 사용자는 원본 위치 보관에 대해 기본 지원을 제공받지만 일부 보관 및 준수 기능은 사용할 수 없습니다. 예를 들면, 사용자는 사서함 항목에 대해 보존 및 보관 정책을 적용할 수 없으며 관리자 프로비저닝 정책을 대신 사용해야 합니다 Outlook 2007 사용자는 원본 위치 보관에 대해 기본 지원을 제공받지만 일부 보관 및 준수 기능은 사용할 수 없습니다. 
     
@@ -57,13 +57,13 @@ Exchange Online은 사용자가 오래된 전자 메일 메시지를 저장할 �
   
 ## <a name="retention-tags-and-retention-policies"></a>보존 태그 및 보존 정책
 
-Exchange Online은 전자 메일 및 다른 통신과 관련한 조직의 부담을 줄이는 데 도움을 주는 보존 정책을 제공합니다. 이러한 정책을 사용하면 관리자가 사용자 사서함의 특정 폴더에 보존 설정을 적용할 수 있습니다. 관리자는 또한 사용자에게 보존 정책 메뉴를 제공하고 웹에서 Outlook 2010 이상 또는 Outlook 사용하여 특정 항목, 대화 또는 폴더에 정책을 적용하도록 할 수 있습니다.
+Exchange Online은 전자 메일 및 다른 통신과 관련한 조직의 부담을 줄이는 데 도움을 주는 보존 정책을 제공합니다. 이러한 정책을 사용하면 관리자가 사용자 사서함의 특정 폴더에 보존 설정을 적용할 수 있습니다. 관리자는 또한 사용자에게 보존 정책 메뉴를 제공하고 2010 이상 또는 2010 이상을 사용하여 특정 항목, 대화 또는 폴더에 정책을 Outlook 수 웹용 Outlook.
   
 또한 관리자는 Outlook 2010 이상 또는 Outlook Web App를 통해 사용자에게 보존 정책 메뉴를 제공하고 이를 특정 항목, 대화 또는 폴더에 적용하도록 할 수 있습니다.
   
 Exchange Online은 보관 정책 및 삭제 정책이라는 두 가지 유형의 정책을 제공합니다. 이 두 가지 유형을 동일한 항목이나 폴더에 함께 적용할 수 있습니다. 예를 들어, 사용자는 특정 기간 후 전자 메일 메시지가 자동으로 원본 위치 보관으로 이동되고 그로부터 며칠이 지나면 삭제되도록 태그를 설정할 수 있습니다. Exchange Online은 보관 정책 및 삭제 정책이라는 두 가지 유형의 정책을 제공합니다. 이 두 가지 유형을 동일한 항목이나 폴더에 함께 적용할 수 있습니다.
   
-웹 Outlook 2010 이상 Outlook 폴더, 대화 또는 개별 메시지에 보존 정책을 적용할 수 있습니다. 또한 적용되는 보존 정책 및 메시지의 예상 삭제 날짜를 직접 확인할 수 있습니다. 그러나 다른 전자 메일 클라이언트 사용자는 관리자가 설정한 서버 쪽 보존 정책을 기반으로 전자 메일을 삭제하거나 보관할 수만 있습니다.
+Outlook 2010 이상을 웹용 Outlook 폴더, 대화 또는 개별 메시지에 보존 정책을 적용할 수 있습니다. 또한 적용되는 보존 정책 및 메시지의 예상 삭제 날짜를 직접 확인할 수 있습니다. 그러나 다른 전자 메일 클라이언트 사용자는 관리자가 설정한 서버 쪽 보존 정책을 기반으로 전자 메일을 삭제하거나 보관할 수만 있습니다.
   
 Exchange Online에서 제공하는 보존 정책 기능은 Exchange Server 2010 SP2 RU4에서 제공하는 기능과 동일합니다. 관리자는 원격 Windows PowerShell을 사용하여 온-프레미스 Exchange Server 2010 이상 환경에서 Exchange Online으로 보존 정책을 마이그레이션할 수 있습니다. Exchange Online에서 제공하는 보존 정책 기능은 Exchange Server 2010 SP2 RU4에서 제공하는 기능과 동일합니다.
   
@@ -74,15 +74,15 @@ Exchange Server 2007에서 제공했던 기존의 메시징 레코드 관리 접
   
 ## <a name="encryption-of-data-at-rest"></a>보관된 데이터 암호화
 
-미사용 고객 데이터 암호화는 BitLocker, DKM, Azure Storage 서비스 암호화 및 Exchange Online, 비즈니스용 Skype, 비즈니스용 OneDrive 및 SharePoint Online의 서비스 암호화를 비롯한 여러 서비스 쪽 기술을 통해 제공됩니다. Office 365 서비스 암호화에는 Azure Key Vault에 저장된 고객 관리 암호화 키를 사용하는 옵션이 포함되어 있습니다. 고객 키라고 하는 이 [](/microsoft-365/compliance/customer-key-overview)고객 관리 키 옵션은 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive. 
+미사용 고객 데이터 암호화는 BitLocker, DKM, Azure Storage Service Encryption 및 Exchange Online, 비즈니스용 Skype, 비즈니스용 OneDrive 및 SharePoint Online의 서비스 암호화를 비롯한 여러 서비스 쪽 기술을 통해 제공됩니다. Office 365 서비스 암호화에는 Azure Key Vault에 저장된 고객 관리 암호화 키를 사용하는 옵션이 포함되어 있습니다. 고객 키라고 하는 이 [](/microsoft-365/compliance/customer-key-overview)고객 관리 키 옵션은 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive. 
   
 ### <a name="bitlocker"></a>BitLocker
 
-Microsoft 서버는 BitLocker 볼륨 수준에서 고객 데이터가 포함된 디스크 드라이브를 암호화합니다. BitLocker 암호화는 기본 제공되는 데이터 보호 Windows. BitLocker 다른 프로세스 또는 제어(예: 하드웨어의 액세스 제어 또는 재생)에서 누군가가 고객 데이터를 포함하는 디스크에 물리적으로 액세스할 수 있는 경우 위협을 차단하는 데 사용되는 기술 중 하나입니다. 이 경우 BitLocker 컴퓨터 및 디스크를 분실, 도난 또는 부적절하게 해제하여 데이터 도난 또는 노출 가능성을 제거합니다. 
+Microsoft 서버는 BitLocker를 사용하여 볼륨 수준에서 미사용 고객 데이터가 포함된 디스크 드라이브를 암호화합니다. BitLocker 암호화는 기본 제공되는 데이터 보호 기능으로, Windows. BitLocker는 다른 프로세스 또는 컨트롤(예: 하드웨어의 액세스 제어 또는 재생)에 경과하여 고객 데이터가 포함된 디스크에 물리적으로 액세스할 수 있는 경우 위협을 보호하는 데 사용되는 기술 중 하나입니다. 이 경우 BitLocker는 분실, 도난 또는 부적절하게 해제된 컴퓨터 및 디스크로 데이터 도난 또는 노출 가능성을 제거합니다. 
   
 ### <a name="distributed-key-manager"></a>분산 키 관리자
 
-이 외에도 BitLocker DKM(분산 키 관리자)이라는 기술을 사용했습니다. DKM은 비밀 키 집합을 사용하여 정보를 암호화하고 암호 해독하는 클라이언트 쪽 기능입니다. Active Directory 도메인 서비스의 특정 보안 그룹의 구성원만 해당 키에 액세스하여 DKM으로 암호화된 데이터의 암호를 해독할 수 있습니다. Exchange Online에서는 Exchange 프로세스가 실행되는 특정 서비스 계정만 해당 보안 그룹에 속합니다. 데이터 센터의 표준 운영 절차의 일부로, 이 보안 그룹에 속하는 사용자에게 자격 증명이 제공되지 않으므로 이러한 암호를 해독할 수 있는 키에 액세스할 수 없습니다.
+BitLocker 외에도 DKM(분산 키 관리자)이라는 기술을 사용했습니다. DKM은 비밀 키 집합을 사용하여 정보를 암호화하고 암호 해독하는 클라이언트 쪽 기능입니다. Active Directory 도메인 서비스의 특정 보안 그룹의 구성원만 해당 키에 액세스하여 DKM으로 암호화된 데이터의 암호를 해독할 수 있습니다. Exchange Online에서는 Exchange 프로세스가 실행되는 특정 서비스 계정만 해당 보안 그룹에 속합니다. 데이터 센터의 표준 운영 절차의 일부로, 이 보안 그룹에 속하는 사용자에게 자격 증명이 제공되지 않으므로 이러한 암호를 해독할 수 있는 키에 액세스할 수 없습니다.
   
 ## <a name="customer-key"></a>고객 키
 
@@ -192,7 +192,7 @@ EAC(Exchange 관리 센터) 관리 인터페이스에서 DLP 정책을 구성하
     
 - 문서 지문을 사용하여 중요한 양식 데이터를 감지합니다. 문서 지문을 사용하면 전송 규칙 및 DLP 정책을 정의하는 데 사용할 수 있는 텍스트 기반 양식의 중요한 사용자 지정 정보 유형을 손쉽게 만들 수 있습니다.
     
-- 팁, Outlook 2016, Outlook 2013, 웹용 Outlook 및 장치용 OWA 사용자에게 공지를 표시하여 데이터 손실을 줄이는 데 도움이 되는 정책 정책을 추가하고 가음성 보고를 허용하여 정책의 효율성을 향상시킬 수도 있습니다. 
+- 장치용 팁, Outlook 2016, Outlook 2013, 웹용 Outlook 및 장치용 OWA에 대한 공지를 표시하여 데이터 손실을 줄이는 데 도움이 되므로 정책 정책을 추가하고 가음성 보고를 허용하여 정책의 효율성을 향상시킬 수 있습니다. 
     
 - DLP 보고서의 문제 데이터를 검토하거나, 문제 보고서 생성 작업을 사용하여 자체 보고서를 추가합니다.
     

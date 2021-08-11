@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: 이 문서를 읽고 EOP(Microsoft Exchange Online 보호)의 보고 및 메시지 추적에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 383c222563e76d4a5613c9faac5b68417fa64b8a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 8b593faea343d742c2f57ce430457e1803ba75b5a135d46f338eaed0e76d2ca6
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653130"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664091"
 ---
 # <a name="reporting-and-message-trace-in-exchange-online-protection"></a>Exchange Online Protection의 보고 및 메시지 추적
 
-Microsoft EOP(Exchange Online Protection)에서는 조직의 전체 상태를 확인할 수 있는 다양한 보고서를 제공합니다. 일부 보고서는 Microsoft 365 관리 센터에서 사용할 수 있는 반면 다른 보고서는 EAC(Exchange 관리 센터)에서 사용할 수 있습니다.
+Microsoft EOP(Exchange Online Protection)에서는 조직의 전체 상태를 확인할 수 있는 다양한 보고서를 제공합니다. 일부 보고서는 EAC(Microsoft 365 관리 센터 관리 센터)에서 사용할 Exchange 있습니다.
 
 모든 EOP 기능에 대한 정보를 찾고 있나요? 자세한 [내용은 Exchange Online Protection 설명을 참조하세요.](exchange-online-protection-service-description.md)
 
 ## <a name="microsoft-365-admin-center-reports"></a>Microsoft 365 관리 센터 보고서
 
-Microsoft 365 관리 센터의 보고서 페이지에는 메시지 트래픽, 스팸 및 맬웨어 검색, 메일 흐름 규칙(전송 규칙) 또는 DLP(데이터 손실 방지) 정책의 영향을 받는 메시지에 대한 정보가 표시됩니다. 보호, 규칙 및 DLP에 대한 향상된 보고서에서는 EOP 관리자에게 대화형 보고 환경이 제공됩니다. 이러한 보고서에서는 개별 메시지에 대한 세부 정보로 드릴다운할 수 있는 기능과 함께 요약 데이터가 제공됩니다.
+보고서 페이지의 Microsoft 365 관리 센터 메시지 트래픽, 스팸 및 맬웨어 검색, 메일 흐름 규칙(전송 규칙) 또는 DLP(데이터 손실 방지) 정책의 영향을 받는 메시지에 대한 정보를 제공합니다. 보호, 규칙 및 DLP에 대한 향상된 보고서에서는 EOP 관리자에게 대화형 보고 환경이 제공됩니다. 이러한 보고서에서는 개별 메시지에 대한 세부 정보로 드릴다운할 수 있는 기능과 함께 요약 데이터가 제공됩니다.
 
 이러한 보고서에 대한 자세한 내용은 메일 보호 보고서를 사용하여 맬웨어, 스팸 및 규칙 검색에 대한 데이터 [보기를 참조하세요.](/exchange/monitoring/use-mail-protection-reports)
 

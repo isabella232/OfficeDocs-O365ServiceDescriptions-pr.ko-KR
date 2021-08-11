@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: 보관에 대한 자세한 내용은 이 Microsoft Exchange Online 읽어 보아야 합니다.
-ms.openlocfilehash: 1dcd594017f4699bbccdd29c109269bc9dea7875
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 2d37cc6c7cd4f75ae9a4ffb3da994e5b942f294d2d12fde869910d5506c69738
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653080"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664581"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 서비스 설명
 

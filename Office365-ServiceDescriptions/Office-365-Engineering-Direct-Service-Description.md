@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 Engineering Direct Microsoft 프리미어 지원 계약에 대한 엔터프라이즈 수준 지원 서비스 추가입니다. 서비스 Office 365 Engineering Direct 설명에는 제공되는 기능과 구현 요구 사항에 대한 추가 정보가 포함되어 있습니다.
-ms.openlocfilehash: 7e4c6cbc16dc44ced66e1b6c79889de038079da0
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: d4568d6f328de9d41e002a39eba2ff00fb6ab8ff2d4a694f4bff43d2f2537943
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653110"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701597"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Office 365 Engineering Direct 서비스 설명
 

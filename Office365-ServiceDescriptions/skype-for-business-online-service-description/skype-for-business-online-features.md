@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 관리자인 경우 Set up 비즈니스용 Skype Online features을 설정하는 자세한 지침을 비즈니스용 Skype 있습니다.
-ms.openlocfilehash: aa460f5338a74c65cc90212b91bcbd1ae2f8f947
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 4ce4e1e35f4a091677f5ee53b2073d1a702065fc91fcb4c6deed05d35d9aa38d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651023"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702467"
 ---
 # <a name="skype-for-business-online-features"></a>비즈니스용 Skype Online 기능
 
@@ -87,9 +87,9 @@ Microsoft 트래픽(신호 및 미디어 트래픽 모두)은 TLS(전송 계층 
   
 특정 구독 계획에서는 비즈니스용 Skype UM(통합 메시징)Exchange Online 통합하여 다음을 할 수 있습니다.
   
-- 음성 메시징 및 전자 메일 메시징을 클라이언트에서 사용할 수 있는 단일 메시징 인프라에 비즈니스용 Skype 합니다. Exchange UM 및 비즈니스용 Skype 함께 작동하여 전화 응답, Outlook Voice Access 및 자동 전화 Outlook Voice Access 서비스를 제공합니다.
+- 음성 메시징 및 전자 메일 메시징을 클라이언트에서 사용할 수 있는 단일 메시징 인프라에 비즈니스용 Skype 합니다. Exchange UM 및 비즈니스용 Skype 함께 작동하여 전화 응답, 음성 Outlook 및 자동 전화 Outlook 서비스를 제공합니다.
     
-- 웹 Outlook 일정 정보를 기반으로 IM, 현재 상태, 상태 업데이트를 제공하고 Exchange 일정 정보를 비즈니스용 Skype 사용하도록 설정할 수 있습니다.
+- 사용자가 웹용 Outlook 일정 정보 및 모임 일정에 따라 IM, 현재 Exchange 업데이트를 제공할 비즈니스용 Skype 사용하도록 설정할 수 있습니다.
     
 비즈니스용 Skype 사이트 내 현재 상태 및 클릭 간 통신을 Microsoft SharePoint Server 위해 SharePoint 상호 SharePoint 합니다. 이러한 상호 운영성을 위해서는 사용자 비즈니스용 Skype 클라이언트를 실행해야 합니다. 
   

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office는 자신이 가지고 있는 최고의 아이디어를 표현하고, 업무를 신속하게 처리하며 이동 중에도 사용할 수 있는 강력한 서비스입니다. Office에 로그인하기만 하면 자신에게 맞게 설정된 작업 환경을 경험하고, 신규 기능과 향상된 기능이 지속적으로 추가되는 모든 최신 Office 응용 프로그램을 사용해 볼 수 있습니다.
-ms.openlocfilehash: ba9da48b79d6b5350182caa347c8d0ce9d6873df
-ms.sourcegitcommit: f1adb57081ea5234e09de4890e756e17e09a2696
+ms.openlocfilehash: 8d52eb1950b9a1c3cc49a98ffaeb156357c65ccf8b56275c6e11b608aaafc246
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53069249"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702057"
 ---
 # <a name="office-applications"></a>Office 응용 프로그램
 

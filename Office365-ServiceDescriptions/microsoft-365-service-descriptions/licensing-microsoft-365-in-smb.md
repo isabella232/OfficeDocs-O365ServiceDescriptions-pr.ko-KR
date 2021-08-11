@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium 중소기업 고객을 위한 Microsoft 동급 최고의 제품입니다. Microsoft 365 Business Premium 통합 솔루션은 생산성, Microsoft 365 및 장치 관리를 통합하는 통합 솔루션입니다.
-ms.openlocfilehash: 5b3c1b69135801699ba53b020f0461ed83d7bd90
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 96a826ef61c283ad2aa402f5ef3c93bb96e519da4a8937944d9e5dc0c99e9983
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653280"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663571"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>중소기업을 위한 Microsoft 365 라이선싱
 
@@ -53,7 +53,7 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 
 <sup>2</sup> 자동 확장이 켜져 있는 경우 무제한 보관
 
-## <a name="feature-comparison-microsoft-365-business-premium-and-office-365-e3"></a>기능 비교: Microsoft 365 Business Premium 및 Office 365 E3
+## <a name="feature-comparison-microsoft-365-business-premium-and-office-365-e3"></a>기능 비교: Microsoft 365 Business Premium Office 365 E3
 
 |**서비스 영역**   | **기능**  | **Office 365 E3** | **Microsoft 365 Business Premium** |
 |---|---------------|-------------------|----------------------------|
@@ -80,7 +80,7 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 
 **참고**
 
-<sup>1</sup> Microsoft 365 Business Standard 계획 1의 기능이 있으며 E3에 계획 2가 Office 365 나타냅니다.
+<sup>1</sup> Microsoft 365 Business Standard 계획 1이 있으며 계획 2가 Office 365 E3 나타냅니다.
 
 <sup>2</sup> 미국, 영국, 캐나다에서 사용할 수 있습니다.
 
@@ -113,7 +113,7 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 
 **참고**
 
-<sup>1</sup> Microsoft 365 Business Standard 계획 1의 기능이 있으며 E3에 계획 2가 Office 365 나타냅니다.
+<sup>1</sup> Microsoft 365 Business Standard 계획 1이 있으며 계획 2가 Office 365 E3 나타냅니다.
 
 <sup>2</sup> 미국, 영국, 캐나다에서 사용할 수 있습니다.
 
@@ -134,7 +134,7 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 |   | 비즈니스 앱 &ndash; MileIQ<sup>1</sup> | 예 | 예 | 아니요 | 아니요 |
 |**위협 방지** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, Enterprise 보호 | 아니요 | 아니요 | 예 | 예 |
 |   | Office 365용 Microsoft Defender | 아니요 | 예 | 아니요 | 예 |
-|   | 끝점용 Microsoft Defender | 아니요 | 아니요 | 아니요 | 예 |
+|   | 엔드포인트용 Microsoft Defender | 아니요 | 아니요 | 아니요 | 예 |
 |   | Office 365 위협 인텔리전스 | 아니요 | 아니요  | 아니요 | 예 |
 |**ID 관리** | 하이브리드 Azure Active Directory, Azure MFA, 조건부 액세스에 대한 셀프 서비스 암호 재설정   | 아니요 | 예 | 예 | 예 |
 |   | Azure AD: Cloud App Discovery, Azure AD 커넥트 Health, 10개 이상의 앱에 대한 SSO | 예 | 예 | 예 | 예 |
@@ -148,7 +148,7 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 |**규정 준수** | 무제한 전자 메일 보관<sup>2</sup> | 아니요 | 예 | 예 | 예 |
 |   | 고급 eDiscovery, 고객 Lockbox, 고급 데이터 거버넌스 | 아니요 | 아니요 | 아니요 | 예 |
 |**분석** | Power BI Pro, MyAnalytics | 아니요 | 아니요 | 아니요 | 예 |
-| | MyAnalytics의 인사이트 | 예 | 예 | 예 | 예 |
+| | Insights By MyAnalytics | 예 | 예 | 예 | 예 |
 |**지원** | 브리핑 전자 메일 | 예 | 예 | 예 | 예 |
 |**음성** | PSTN 회의, 클라우드 PBX | 아니요 | 아니요 | 아니요 | 예 |
 
@@ -160,14 +160,14 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 
 ## <a name="office-client-commercial-plans"></a>Office 클라이언트 상업용 계획
 
-| **애플리케이션** | **비즈니스용 Microsoft 365 앱** | **Microsoft Office 365 ProPlus** |
+| **응용 프로그램** | **비즈니스용 Microsoft 365 앱** | **Microsoft Office 365 ProPlus** |
 |------------------|-------------------------|------------------------|
 | Word             | 예                     | 예                    |
 | Excel            | 예                     | 예                    |
 | PowerPoint       | 예                     | 예                    |
 | OneNote          | 예                     | 예                    |
 | Outlook          | 예                     | 예                    |
-| Publisher        | 예                     | 예                    |
+| 게시자        | 예                     | 예                    |
 | Access           | 예                     | 예                    |
 | Microsoft Teams  | 예                     | 예                    |
 | **Premium 값**                             | **비즈니스용 Microsoft 365 앱** | **Microsoft Office 365 ProPlus** |

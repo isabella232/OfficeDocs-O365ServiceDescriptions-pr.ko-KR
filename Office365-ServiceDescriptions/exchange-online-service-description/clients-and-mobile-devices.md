@@ -11,13 +11,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-description: Exchange Online 데스크톱 및 모바일 버전의 Outlook 웹 Outlook 사용할 수 있습니다.
-ms.openlocfilehash: 3aa0c2bbdf9b55b6a3544919143fd9d5e5cfed24
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Exchange Online 데스크톱 및 모바일 버전의 Outlook 사용할 수 있으며, 웹용 Outlook.
+ms.openlocfilehash: 3e612d9f157cb4109dfc2bef9bfa462445674dd9d19954ca9fe6ac32004ad515
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653120"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664051"
 ---
 # <a name="clients-and-mobile-devices"></a>클라이언트 및 모바일 장치
 
@@ -54,9 +54,9 @@ Microsoft 365 최신 브라우저 및 버전의 웹 사이트와 함께 작동�
   
 웹상의 Outlook에는 2가지 클라이언트 버전이 있으며, 모두 Exchange Online과 함께 사용할 수 있습니다.
   
-- **Outlook -** 웹용 Outlook 표준 버전은 Exchange Online 사용자와 가장 유사한 메시징 환경을 Outlook 제공합니다. 대부분의 최신 웹 브라우저를 지원하며 데스크톱 및 랩톱 뿐만 아니라 태블릿 및 스마트폰 사용에 최적화되어 있습니다. 사용자는 메시지 읽기 및 보내기, 연락처 구성, 약속 및 모임 예약 등의 작업을 수행할 수 있습니다. 기본 작업 기반 시간 제한은 6시간으로 설정되지만 [Windows PowerShell에서 관리자가 5분에서 8시간 사이로 구성](/powershell/module/exchange/set-organizationconfig)할 수 있습니다. 이 시간 아웃은 단추 선택 또는 메시지 선택과 같은 웹 앱 내의 사용자 상호 작용에 따라 달라 습니다. 또한 구성할 수 없으며 사용자 작업에 상관없이 발생하는 별도의 보안 기반 시간 제한도 있습니다. 사용자가 8시간 동안 로그인되어 있는 경우 OWA는 사용자를 자동으로 로그아웃하고 다시 인증하라는 메시지를 표시합니다. 
+- **웹용 Outlook** - 표준 버전의 웹용 Outlook Exchange Online 사용자와 가장 유사한 메시징 환경을 Outlook 제공합니다. 대부분의 최신 웹 브라우저를 지원하며 데스크톱 및 랩톱 뿐만 아니라 태블릿 및 스마트폰 사용에 최적화되어 있습니다. 사용자는 메시지 읽기 및 보내기, 연락처 구성, 약속 및 모임 예약 등의 작업을 수행할 수 있습니다. 기본 작업 기반 시간 제한은 6시간으로 설정되지만 [Windows PowerShell에서 관리자가 5분에서 8시간 사이로 구성](/powershell/module/exchange/set-organizationconfig)할 수 있습니다. 이 시간 아웃은 단추 선택 또는 메시지 선택과 같은 웹 앱 내의 사용자 상호 작용에 따라 달라 습니다. 또한 구성할 수 없으며 사용자 작업에 상관없이 발생하는 별도의 보안 기반 시간 제한도 있습니다. 사용자가 8시간 동안 로그인되어 있는 경우 OWA는 사용자를 자동으로 로그아웃하고 다시 인증하라는 메시지를 표시합니다. 
 
-- **웹용** Outlook 라이트 버전 - 웹용 Outlook 라이트 버전은 사용자가 거의 Exchange Online 브라우저를 사용하여 사서함에 액세스할 수 있도록 합니다. 사용자는 메시지 읽기 및 보내기, 연락처 구성, 약속 및 모임 예약 등의 작업을 수행할 수 있습니다. 기본 작업 기반 시간 제한은 6시간으로 설정되지만 [Windows PowerShell에서 관리자가 5분에서 8시간 사이로 구성](/powershell/module/exchange/set-organizationconfig)할 수 있습니다. 이 시간 아웃은 단추 선택 또는 메시지 선택과 같은 웹 앱 내의 사용자 상호 작용에 따라 달라 습니다. 또한 구성할 수 없으며 사용자 작업에 상관없이 발생하는 별도의 보안 기반 시간 제한도 있습니다. 사용자가 8시간 동안 로그인되어 있는 경우 라이트 버전의 OWA는 사용자를 자동으로 로그아웃하고 다시 인증하라는 메시지를 표시합니다. 
+- **light version of 웹용 Outlook** - light version of 웹용 Outlook Exchange Online 사용자가 거의 모든 웹 브라우저를 사용하여 사서함에 액세스할 수 있도록 합니다. 사용자는 메시지 읽기 및 보내기, 연락처 구성, 약속 및 모임 예약 등의 작업을 수행할 수 있습니다. 기본 작업 기반 시간 제한은 6시간으로 설정되지만 [Windows PowerShell에서 관리자가 5분에서 8시간 사이로 구성](/powershell/module/exchange/set-organizationconfig)할 수 있습니다. 이 시간 아웃은 단추 선택 또는 메시지 선택과 같은 웹 앱 내의 사용자 상호 작용에 따라 달라 습니다. 또한 구성할 수 없으며 사용자 작업에 상관없이 발생하는 별도의 보안 기반 시간 제한도 있습니다. 사용자가 8시간 동안 로그인되어 있는 경우 라이트 버전의 OWA는 사용자를 자동으로 로그아웃하고 다시 인증하라는 메시지를 표시합니다. 
 
 웹상의 Outlook은 모바일 버전으로도 사용할 수 있습니다. 자세한 내용은 [이 페이지](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409)를 참조하세요.
   
@@ -68,7 +68,7 @@ Exchange Online, 일정Outlook 작업 목록 및 메모 목록을 제공하는 M
 
 Exchange Online iOS, Android 및 Outlook 사용할 수 있는 앱과 함께 Windows Phone. 이러한 디바이스에서 앱 스토어를 사용하여 앱 Outlook 있습니다. 다음은 모바일 OS에 대한 분석입니다.<br><br>
   
-| 디바이스 | Android | iOS | Windows Phone |
+| 장치 | Android | iOS | Windows Phone |
 |:-----|:-----|:-----|:-----|
 |Outlook 앱 가용성 확인  <br/> |예  <br/> [Android용 Outlook 다운로드](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |예  <br/> [iOS용 Outlook 사용](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |기본 제공  <br/> |
 |사용자와 호환되는 기본 제공 전자 메일 Exchange Online  <br/> |Gmail 앱/Samsung 전자 메일 앱  <br/> |iOS 메일 앱  <br/> |Outlook 메일, 일정, 연락처  <br/> |
@@ -126,7 +126,7 @@ iOS용 Outlook, android용 Outlook 또는 Outlook Windows Phone 수 있습니다
 
 Exchange Online은 모바일 장치와 Exchange Online 간에 사서함 데이터를 동기화하는 Microsoft Exchange ActiveSync 프로토콜을 지원합니다. 따라서 사용자는 자신의 전자 메일, 연락처 및 작업을 이동 중에도 액세스할 수 있습니다.
   
-Exchange ActiveSync는 Microsoft Windows Phone, Apple iPhone 및 iPad, Android 휴대폰 및 태블릿 등을 비롯한 매우 다양한 유형의 모바일 장치에서 작동합니다. 휴대폰 및 장치 외에도 Windows Phone 메일 응용 프로그램은 Exchange ActiveSync 사용하여 Exchange Online. 현재 Exchange ActiveSync 라이선스 실시권자 전체 목록은 Exchange ActiveSync 라이선싱 사이트에서 확인할 수 있습니다.
+Exchange ActiveSync는 Microsoft Windows Phone, Apple iPhone 및 iPad, Android 휴대폰 및 태블릿 등을 비롯한 매우 다양한 유형의 모바일 장치에서 작동합니다. 휴대폰 및 장치 외에도 Windows Phone의 메일 응용 프로그램은 Exchange Online에 Exchange ActiveSync 응용 프로그램을 사용하여 연결합니다. 현재 Exchange ActiveSync 라이선스 실시권자 전체 목록은 Exchange ActiveSync 라이선싱 사이트에서 확인할 수 있습니다.
   
 자세한 내용은 Exchange ActiveSync 을 [Exchange ActiveSync.](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)
   
@@ -158,7 +158,7 @@ SMTP(Simple Mail Transfer Protocol)은 IMAP 또는 POP를 통해 Exchange Online
   
 ## <a name="blackberry-devices"></a>BlackBerry 장치
 
-Email is available on BlackBerry &reg; devices via Exchange ActiveSync. 옵션에 대한 자세한 내용은 다음 항목을 참조하세요.
+전자 메일은 BlackBerry 장치에서 사용할 &reg; 수 Exchange ActiveSync. 옵션에 대한 자세한 내용은 다음 항목을 참조하세요.
   
 - [BlackBerry 장치에서 전자 메일 설정](https://go.microsoft.com/fwlink/?linkid=863394)
 
@@ -171,4 +171,4 @@ Email is available on BlackBerry &reg; devices via Exchange ActiveSync. 옵션�
   
 ## <a name="feature-availability"></a>기능 가용성
 
-계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인한 경우 서비스 [Exchange Online 참조하세요.](exchange-online-service-description.md)
+계획, 독립 실행형 옵션 및온-프레미스 솔루션에서 기능 가용성을 확인하면 Exchange Online 서비스 [설명을 참조하세요.](exchange-online-service-description.md)

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: 웹용 앱의 Visio 데스크톱 앱과 Visio 비교합니다.
-ms.openlocfilehash: 85d46d55c1de4509330db78cb63d7352eb26376f
-ms.sourcegitcommit: b6c8ebe962cbabb93faab459e79b3f2d94191a9f
+ms.openlocfilehash: 2eac005bd71e86f708b197b782e614ee0755c1319df35b8cc6133280802fb58d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53095562"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702427"
 ---
 # <a name="visio-service-description"></a>Visio 서비스 설명
 
@@ -29,7 +29,7 @@ ms.locfileid: "53095562"
   
 ## <a name="feature-availability"></a>기능 가용성
 
-다음 표에는 웹 및 데스크톱 Visio 사용할 수 있는 주요 주요 기능 목록이 나열되어 있습니다. 특정 주의가 적용됩니다. 자세한 내용은 각주를 참조하세요. 이 표는 예고 없이 변경될 수 있습니다. 계획에 대한 최신의 전체 Visio 목록은 [옵션 비교를 Visio 참조하세요.](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)<br><br> 
+다음 표에는 웹 및 데스크톱 Visio 사용할 수 있는 주요 주요 기능 목록이 나열되어 있습니다. 특정 경고가 적용됩니다. 자세한 내용은 각주를 참조하세요. 이 표는 통지 없이 변경될 수 있습니다. 계획에 대한 최신의 전체 Visio 목록은 [옵션 비교를 Visio 참조하세요.](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)<br><br> 
 
 | 응용 프로그램 기능 | 웹용 Visio | Visio 데스크톱 응용 프로그램 |
 |:-----|:-----|:-----|
@@ -64,7 +64,7 @@ ms.locfileid: "53095562"
 <br/><sup>4</sup> 웹 뷰어의 Visio 사용할 수 없습니다.
 <br/><sup>5</sup> 웹 편집기에서 Visio 사용할 수 있습니다.
 
-## <a name="learn-more"></a>자세히 알아보기
+## <a name="learn-more"></a>자세한 정보
 
 ### <a name="supported-file-types-in-visio-for-the-web"></a>웹용 Visio 지원되는 파일 형식
 
@@ -84,12 +84,12 @@ ms.locfileid: "53095562"
 
 ### <a name="licensing-terms"></a>사용 조건
 
-Microsoft 상업용 볼륨 라이선스 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 제품 사용 조건 [사이트를 참조하세요.](https://www.microsoft.com/licensing/terms/)
+Microsoft 상업용 볼륨 라이선싱 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 [제품 조건 사이트](https://www.microsoft.com/licensing/terms/)를 참조하세요.
 
-### <a name="messaging"></a>메시징
+### <a name="messaging"></a>메시지
 
-새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용에 대한 정보를 확인하기 위해 메시지 센터를 방문합니다. 자세한 내용은 메시지 센터 [를 참조하세요.](/microsoft-365/admin/manage/message-center)
+새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용에 대한 정보를 확인하기 위해 메시지 센터를 방문합니다. 자세한 내용은 [메시지 센터](/microsoft-365/admin/manage/message-center)를 참조하세요.
 
-### <a name="accessibility"></a>내게 필요한 옵션
+### <a name="accessibility"></a>접근성
 
-Microsoft는 사용자의 데이터 보안 및 서비스의 접근성을 위해 계속 최선을 [다하고](https://www.microsoft.com/trust-center/compliance/accessibility) 있습니다. 자세한 내용은 Microsoft [보안](https://www.microsoft.com/trust-center) 센터 및 Office [접근성 센터를 참조하세요.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft는 데이터의 보안과 서비스의 [접근성](https://www.microsoft.com/trust-center/compliance/accessibility)에 최선을 다하고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조하세요.

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 보안 및 준수 센터는 조직 전체에서 규정 &amp; Office 365 수 있도록 디자인되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: f0bb01722e2540e3a895c9c220f97c3e8b703fd1
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: a04ba0cb7c9160bc929c02475edd68146cc9a1de11648b75ea5d50df9cc8b974
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537214"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701627"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 

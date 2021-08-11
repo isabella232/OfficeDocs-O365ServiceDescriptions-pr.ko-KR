@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 미국 정부 클라우드 고객의 SharePoint 기능 가용성에 대해 자세히 알아보습니다.
-ms.openlocfilehash: cec996804ab0d402d2bcccd89b8bbfb5e7f70905
-ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
+ms.openlocfilehash: ed8c3581411a99631b328e6aceca50bcb7c6e446227266824a0f66916fa62216
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "51900778"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701827"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint 환경용 데이터
 
@@ -39,7 +39,7 @@ ms.locfileid: "51900778"
 상업적 고객을 위한 개발자 기능과 정부 클라우드 고객에 대한 개발자 기능 간에는 알려진 차이가 없습니다.
 
 - 추가 기능의 데이터 원본과 같은 외부 응용 프로그램에 대한 연결은 정부 환경에서 지원하는 시스템 보안 경계 내에 있는 원본으로 제한됩니다.
-- Business Connectivity Services (BCS) 기능은 데이터 원본이 클라우드 서비스에 대한 보안 경계 내에서 연결 가능한 상태로 유지되는 연결 시나리오에 지원됩니다.
+- Business Connectivity 서비스(BCS) 기능은 데이터 원본이 클라우드 서비스에 대한 보안 경계 내에서 연결 가능한 상태로 유지되는 연결 시나리오에 지원됩니다.
 
 사이트에서 타사 응용 프로그램을 사용하는 경우 조직에 이러한 서비스의 적절한 사용을 평가할 때 타사에서 제공하는 개인 정보 보호 및 규정 준수 설명을 검토합니다. 타사 응용 프로그램 및 서비스는 정부 클라우드 외부에 있으므로 규정 준수 및 데이터 보호 약정이 적용되지 않는 타사 시스템에서 조직의 고객 데이터를 저장, 전송 및 처리해야 할 수 있습니다. 
 
@@ -53,7 +53,7 @@ ms.locfileid: "51900778"
 - Mover.io 지원되지 않습니다.
 - 일부 정부 클라우드 고객은 Multi-Geo를 사용할 수 없습니다.
 
-FastTrack 마이그레이션에 대한 자세한 내용은 미국 Office 365 [설명을 참조하세요.](./office-365-us-government.md#data-migrations-performed-by-fasttrack)
+마이그레이션에 FastTrack 대한 자세한 내용은 Office 365 Us Government 서비스 설명을 [참조하세요.](./office-365-us-government.md#data-migrations-performed-by-fasttrack)
 
 ## <a name="security-and-compliance-features"></a>보안 및 규정 준수 기능
 
@@ -81,7 +81,7 @@ FastTrack 마이그레이션에 대한 자세한 내용은 미국 Office 365 [�
 
 다음은 상업적 고객에 대한 검색 기능과 정부 클라우드 고객을 위한 검색 기능의 차이점입니다.
 
-- Microsoft Search는 Microsoft Search에서 사용할 수 GCC.
+- Microsoft Search 사용할 수 GCC.
 
 ## <a name="sharing-and-sync"></a>공유 및 동기화
 
@@ -94,5 +94,5 @@ FastTrack 마이그레이션에 대한 자세한 내용은 미국 Office 365 [�
 ## <a name="deploy-sharepoint-for-collaboration"></a>공동 SharePoint 배포
 
 Microsoft 미국 정부 클라우드에서 조직을 설정한 후 SharePoint 리소스 센터에 [설명된 권장 배포 경로를 따르고 있습니다.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) 채택 및 변경 관리 챔피언에 참여해야 합니다.
-[FastTrack](https://www.microsoft.com/fasttrack) 또는 선택한 파트너와 협력하여 사용자에게 서비스를 롤아웃할 수도 있습니다.
+또는 선택한 파트너와 함께 FastTrack 서비스를 사용자에게 롤아웃할 수도 있습니다. [](https://www.microsoft.com/fasttrack)
 Microsoft [보안 센터를](https://www.microsoft.com/trust-center) 방문하여 Microsoft가 어떻게 보안, 개인 정보 보호 및 규정 준수에 접근하는지, 조직이 고객에게 서비스를 제공하도록 하는 방법에 대한 핵심 테넌트에 대해 자세히 알아보세요.

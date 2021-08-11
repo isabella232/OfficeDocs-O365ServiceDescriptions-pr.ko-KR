@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics 기능, 배포, 개인 정보 및 선행 준비
-ms.openlocfilehash: a63528b3cf3da8328380bbfd309675e49f099fab
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: eaf1d962afd24b92eecb952f4d5e58204d981c691ffce7170d71527936591245
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652602"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663091"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics 서비스 설명
 
@@ -42,7 +42,7 @@ MyAnalytics는 다음 요소로 구성됩니다.
 MyAnalytics는 다음 지침을 준수하여 직원 개인 정보를 보호하고 현지 규정 준수를 지원합니다.
 
 * MyAnalytics는 직원 평가, 추적, 자동화된 의사 결정, 프로파일링 또는 모니터링을 사용하도록 설계되지 않았습니다.
-* MyAnalytics는 직원이 다른 동료의 새 개인 식별 정보에 액세스할 수 없습니다.
+* MyAnalytics는 직원이 다른 동료의 새로운 개인 식별 정보에 액세스할 수 있는 권한을 제공하지 않습니다.
 * 직원의 Exchange Online 사서함에서 MyAnalytics 데이터가 처리되고 저장됩니다.
 * MyAnalytics는 GDPR(일반 데이터 보호 규정) 준수를 지원합니다.
 * MyAnalytics를 구성하여 사용자가 목절에 맞게 참여하도록 할 수 있습니다.
@@ -53,6 +53,6 @@ MyAnalytics는 다음 지침을 준수하여 직원 개인 정보를 보호하�
 
 [MyAnalytics가 더](https://products.office.com/business/myanalytics-personal-analytics)스마트하게 작업하는 데 도움이 되는 방법에 대해 자세히 알아보고.
 
-## <a name="prerequisites"></a>필수 구성 요소
+## <a name="prerequisites"></a>필수 조건
 
 * [Microsoft Exchange Online](./exchange-online-service-description/exchange-online-service-description.md)

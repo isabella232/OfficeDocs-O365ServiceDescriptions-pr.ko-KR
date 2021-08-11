@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열된 기능은 여러 장치 및 여러 서비스에서 안전하게 공동 작업하고 통신하는 데 도움이 되는 웹 기반 Office 365 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: e1218f35d26b44a88bfbe35dd80cf3003f28a529
-ms.sourcegitcommit: 5eaf3ca8db0aac7f5882f1e242018a94a359fe27
+ms.openlocfilehash: c12977bc68ea8871779a3615b1f3f121541b01658b273c42736d67da4894d20e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275607"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664492"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 제품군 기능
 
@@ -51,11 +51,11 @@ Microsoft Graph API를 사용하여 단일 끝점을 통해 다양한 리소스,
   
 ## <a name="microsoft-lists"></a>Microsoft Lists
 
-Microsoft Lists는 정보를 Microsoft 365 구성하는 데 도움이 되는 앱입니다. 목록은 단순하고 똑똑하며 유연하기 때문에 팀에 가장 중요한 정보를 계속 찾을 수 있습니다. 사용자 지정 가능한 보기 및 스마트 규칙을 사용하여 문제, 자산, 루틴, 연락처, 인벤토리를 추적하여 모든 사람이 알림을되고 동기화된 것으로 유지합니다. 준비된 템플릿을 사용하면 온라인, 새 모바일 앱 또는 웹 응용 프로그램 내에서 빠르게 목록을 시작할 수 Microsoft Teams. 이 정책의 일부로 Microsoft 365 엔터프라이즈 준비 보안 및 규정 준수를 사용할 수 있습니다.
+Microsoft Lists 정보를 추적하고 Microsoft 365 구성하는 데 도움이 되는 앱입니다. 목록은 단순하고 똑똑하며 유연하기 때문에 팀에 가장 중요한 정보를 계속 찾을 수 있습니다. 사용자 지정 가능한 보기 및 스마트 규칙을 사용하여 문제, 자산, 루틴, 연락처, 인벤토리를 추적하여 모든 사람이 알림을되고 동기화된 것으로 유지합니다. 준비된 템플릿을 사용하면 온라인, 새 모바일 앱 또는 웹 응용 프로그램 내에서 빠르게 목록을 시작할 수 Microsoft Teams. 이 정책의 일부로 Microsoft 365 엔터프라이즈 준비 보안 및 규정 준수를 사용할 수 있습니다.
 
-자세한 내용은 다음을 참조하세요.
+자세한 내용은 다음 항목을 참조하세요.
 
-* [공용 **Microsoft 목록 리소스 센터**](https://aka.ms/MSLists)
+* [공용 **Microsoft Lists 리소스 센터**](https://aka.ms/MSLists)
 * [공용 **Microsoft Lists 채택 센터**](https://aka.ms/ListsAdoption)
 
 ## <a name="microsoft-planner"></a>Microsoft Planner
@@ -78,7 +78,7 @@ Microsoft Sway는 사용자와 동료가 대화형 웹 기반 캔버스를 사�
 
 엔터프라이즈용 Microsoft 365 앱 구독으로 사용할 수 있는 Word, PowerPoint, Excel, Outlook, Teams 등 이미 알고 있는 데스크톱 앱의 최신 제품군입니다. 엔터프라이즈용 Microsoft 365 앱 , Word의 리서치 Excel, 실시간 [](https://go.microsoft.com/fwlink/p/?linkid=2109916)공동 작업, [](https://go.microsoft.com/fwlink/p/?linkid=2109917)팀워크의 허브로 사용할 수 있는 Teams 고급 보안 기능과 같은 독점적인 지능형 기능이 포함되어 있습니다. [](https://go.microsoft.com/fwlink/p/?linkid=2109915) 사용자 기반 라이선스로 최대 Office PC 또는 Mac, 태블릿 5대, 모바일 장치 5대에 배포할 수 있습니다. 1 TB의 OneDrive 클라우드 저장소를 사용하면 어디서나 파일에 액세스하고 공동 작업할 수 있습니다.
 
-자세한 내용은 다음을 참조하세요.
+자세한 내용은 다음 항목을 참조하세요.
 
 * [개요 페이지](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise)
 * [제품 페이지(구매할 페이지)](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise-product)

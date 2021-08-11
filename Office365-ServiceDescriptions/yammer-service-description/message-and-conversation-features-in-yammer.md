@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Yammer에서는 다음과 같은 메시지 및 대화 기능을 사용할 수 있습니다.
-ms.openlocfilehash: e2ed250a6cd112a0fe8e8ca18da8b3565b8a32d4
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 5d0b9859bb2486f300354c4c21fb883db5428d0e67913bdd9d78d1043d63e7ed
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653600"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702197"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer의 메시지 및 대화 기능
 
@@ -47,7 +47,7 @@ Yammer에서는 다음과 같은 메시지 및 대화 기능을 사용할 수 �
 
 한 명 이상의 동료와 개인 대화를 시작합니다. 언제든지 참가자를 추가할 수 있습니다.
 
-## <a name="publisher"></a>Publisher
+## <a name="publisher"></a>게시자
 
 게시자를 사용하여 업데이트를 공유하거나, 문서를 추가하거나, 설문 조사를 게시하거나, 다른 사람을 칭찬하거나, 이벤트를 게시할 수 있습니다.
     

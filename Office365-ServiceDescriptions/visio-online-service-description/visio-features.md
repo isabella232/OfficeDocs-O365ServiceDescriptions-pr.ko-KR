@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio 위해 Microsoft Visio 환경을 브라우저로 확장하여 클라우드에 저장된 다이어그램을 만들고 편집할 수 있습니다. Microsoft 365, 인쇄 및 공유하고 이동 중 주석을 삽입할 수 있습니다.
-ms.openlocfilehash: 329909219647b4edc61495fd7deb70945d184af7
-ms.sourcegitcommit: b6c8ebe962cbabb93faab459e79b3f2d94191a9f
+ms.openlocfilehash: c4980675f64f02abae6d0f8e5ef2250a3d2327ab8b016a65cac30137d25558bd
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53096349"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702237"
 ---
 # <a name="visio-features"></a>Visio 기능
 
@@ -65,7 +65,7 @@ Visio 다이어그램을 변경하는 데 사용할 수 있는 다양한 편집 
 
 웹 Visio 셰이프를 선택하여 하이퍼링크에 직접 액세스할 수 있습니다.
 
-## <a name="navigation"></a>탐색
+## <a name="navigation"></a>네비게이션
 
 웹 Visio 왼쪽 아래에서 탭을 선택하여 다른 페이지로 이동하면 됩니다.
 
