@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: 다음 표에서는 최근에 서비스 설명 콘텐츠에 적용된 변경 내용을 나열합니다.
-ms.openlocfilehash: cafd18087588922fa561cc432625dbcbd3e65d6d
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 343ea3ddeb84451bad4c6e152a920b4cc9689cdf1c357b1c02aeadee8de28f99
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651043"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702897"
 ---
 # <a name="recent-service-descriptions-changes"></a>최근 서비스 설명 변경 사항
 
@@ -41,7 +41,7 @@ ms.locfileid: "51651043"
 |:-----|:-----|:-----|
 |**서비스 설명** <br/> |**항목** <br/> |**변경** <br/> |
 |Office 365 플랫폼  <br/> |[Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |높은 GCC DoD 공유 기능이 설명되어 있습니다.  <br/> |
-||[Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |항목에 FastTrack 섹션이 GCC 추가되었습니다.  <br/> |
+||[Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |이 FastTrack 섹션이 GCC 추가되었습니다.  <br/> |
    
 ## <a name="april-2018"></a>2018년 4월
 
@@ -49,7 +49,7 @@ ms.locfileid: "51651043"
 |:-----|:-----|:-----|
 |**서비스 설명** <br/> |**항목** <br/> |**변경** <br/> |
 |Office 365 플랫폼  <br/> |[Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |플랫폼 서비스 설명에 다중 위치 정보가 추가되었습니다.  <br/> |
-||[Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |추가된 Microsoft 365 Business.  <br/> |
+||[Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Business Microsoft 365 추가되었습니다.  <br/> |
 ||[보안 &amp; 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |보관 제한 항목의 변경된 보관 제한 항목의 Microsoft 365 Business Basic"Microsoft 365 Business Standard.  <br/> |
 ||[보안 &amp; 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |"고급 보안 관리"가 "보안 관리"로 Office 365 Cloud App Security.  <br/> |
 |웹용 Office  <br/> |[웹용 Excel](office-online-service-description/excel-online.md) <br/> |항목의 첫 번째 메모가 "30MB를 초과하는 통합 문서는 MB 내에서 볼 수 웹용 Excel 없습니다."로 Microsoft Office SharePoint Online. 이전에는 메모에 10MB가 기록된 바 있습니다.  <br/> |
@@ -100,7 +100,7 @@ ms.locfileid: "51651043"
 ||[서비스 업데이트](office-365-platform-service-description/service-updates.md) <br/> |"첫 번째 릴리스"는 이제 "대상 지정 릴리스"입니다. 릴리스 프로그램 Office 365 링크가 업데이트되었습니다.  <br/> |
 |Exchange Online  <br/> |[Exchange Online 서비스 설명](exchange-online-service-description/exchange-online-service-description.md) <br/> |F1 및 F1 및 Office 365 Enterprise 하이브리드 배포에 대한 지원이 Exchange Online Kiosk 수 있습니다.  <br/> |
 |비즈니스용 OneDrive  <br/> |[비즈니스용 OneDrive 서비스 설명](onedrive-for-business-service-description.md) <br/> |비즈니스용 OneDrive F1에 Office 365 Enterprise 가용성이 추가되었습니다(이러한 사용자는 2GB의 OneDrive 있습니다).  <br/> |
-|SharePoint Online  <br/> |[SharePoint Online 서비스 설명](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |변경된 BCS: SharePoint Server 2013 Standard CAL에서 SharePoint 계획의 Business Data Webparts 가용성을 "예"에서 "아니요"로 변경했습니다.  <br/> |
+|SharePoint Online  <br/> |[SharePoint Online 서비스 설명](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |변경된 BCS: SharePoint Server 2013 Standard CAL의 비즈니스 데이터 웹 SharePoint 계획의 가용성을 "예"에서 "아니요"로 변경했습니다.  <br/> |
    
 ## <a name="november-2017"></a>2017년 11월
 
@@ -126,7 +126,7 @@ ms.locfileid: "51651043"
 |:-----|:-----|:-----|
 |**서비스 설명** <br/> |**항목** <br/> |**변경** <br/> |
 |Office 365 플랫폼  <br/> |[보안 &amp; 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |고급 거버넌스 세부 정보가 추가되었습니다.  <br/> |
-||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |FastTrack 테이블에서 수행한 데이터 마이그레이션이 추가되었습니다.  <br/> |
+||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |테이블 에서 수행한 데이터 FastTrack 추가되었습니다.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |페더링 공유를 사용하려면 가용성 주소 공간을 사용하여 다른 테넌트와의 공유를 지원해야 합니다.  <br/> |
 |Exchange Online  <br/> |[Exchange Online 제한](exchange-online-service-description/exchange-online-limits.md) <br/> |OME(Office 365 메시지 암호화) 레거시 버전 및 OME(Office 365 메시지 암호화)에 대한 제한이 추가되었습니다.  <br/> |
 |비즈니스용 Skype  <br/> |[비즈니스용 Skype Online 서비스 설명](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |오디오 회의는 추가 기능으로 Microsoft 365 Business Standard, Office 365 Enterprise E1 및 Office 365 Enterprise 구독 계획에 추가할 수 있습니다.  <br/> |
@@ -178,7 +178,7 @@ ms.locfileid: "51651043"
 ||[보안 &amp; 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |가용성에 대한 각 Advanced eDiscovery 추가되었습니다.  <br/> |
 ||[21Vianet에서 운영하는 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Microsoft Forms 설명이 추가되었습니다.  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |미국 Office 365 정보가 추가되었습니다.  <br/> |
-||[21Vianet에서 운영하는 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |서버 AD RMS를 사용하여 IRM(Windows 권한 관리)이 업데이트되었습니다.  <br/> |
+||[21Vianet에서 운영하는 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |RMS를 사용하여 IRM(정보 권한 Windows Server AD 업데이트되었습니다.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |"사용자 계정 관리" 아래에 "앱 암호 만들기" 행이 추가되었습니다.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |보안 및 준수 센터 기능 설명에 &amp; 포인터가 추가되었습니다. (보안 &amp; 규정 준수 센터는 독일에서 Office 365 있습니다.)  <br/> |
 |웹용 Office  <br/> |[웹용 Office 서비스 설명](office-online-service-description/office-online-service-description.md) <br/> |추가된 Visio.  <br/> |

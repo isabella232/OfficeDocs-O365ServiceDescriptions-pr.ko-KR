@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: 웹용 Word(이전의 Word Web App)는 Microsoft Word 브라우저로 확장하여 문서가 저장된 웹 사이트에서 직접 문서로 작업할 수 있습니다.
-ms.openlocfilehash: 31be8622ae5c3b072eea0a660bc75afc962315e5
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 181135b0bfcb1ea2cf8492e3853e4914d8efb2d1f214b4747dae00de6d287b05
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652332"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702887"
 ---
 # <a name="word-for-the-web"></a>웹용 Word
 
@@ -139,7 +139,7 @@ Word 데스크톱 앱과 Word 데스크톱 앱의 웹용 Word 머리 웹용 Word
   
 ## <a name="learning-tools"></a>학습 도구
 
-학습 도구는 단어를 올바르게 발음하고, 빠르고 정확하게 읽고, 읽는 내용을 이해하는 능력을 향상하여 읽기 기술을 개선할 수 있도록 디자인되었습니다. 
+Learning 도구는 단어를 올바르게 발음하고, 빠르고 정확하게 읽고, 읽는 내용을 이해하는 능력을 향상하여 읽기 기술을 개선할 수 있도록 디자인되었습니다. 
   
 ## <a name="lists"></a>목록
 

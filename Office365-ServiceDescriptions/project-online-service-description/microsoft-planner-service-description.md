@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: ''
 description: Microsoft Planner는 사용자가 작업 기반 이니셔티브를 계획, 관리 및 완료할 수 있는 직관적인 공동 작업 관리 도구입니다.
-ms.openlocfilehash: e8f8433e00e7d659d267af8eb897b71ae4659d1e
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: 7b98ca5fc471bc309f26fe888cb103f027b321ce10b606c25e55ede64b0939d0
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537281"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702837"
 ---
 # <a name="microsoft-planner-service-description"></a>Microsoft Planner 서비스 설명
 

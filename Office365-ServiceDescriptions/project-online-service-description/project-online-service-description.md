@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 프로젝트 포트폴리오 관리(프로젝트 포트폴리오 관리) 및 일상 업무를 PPM 유연한 온라인 솔루션입니다. Office 365 통해 Project Online 거의 모든 장치에서 프로젝트 및 프로젝트 포트폴리오 투자를 계획, 우선 순위 지정 및 관리하기 위한 강력한 프로젝트 관리 기능을 제공합니다. Project Online은 관리자, 포트폴리오 관리자 및 열람자, 프로젝트 및 리소스 관리자, 팀 책임자 및 팀원들이 사용할 수 있습니다.
-ms.openlocfilehash: 3717ff4d908d61e27bbb42af6fbc6615b5dbc548
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: a6c4e9b5602f32d9751fab3cd40a580d9465fc472f41f317cd1a635a48eb3793
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537264"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702805"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project 서비스 설명
 
@@ -161,7 +161,7 @@ Microsoft Project 조직의 요구 사항을 가장 잘 충족하기 위해 세 
 |Timesheet approvals | 팀 구성원은 승인을 위해 배정표를 제출할 수 있습니다. 자원 관리자 및 감독자는 제출된 작업 시트를 검토, 승인 및 거절할 수 있습니다. | 예 | 예 |
 |비 작업 시간 설정 | 휴가, 휴일, 병가 및 기타 휴무 시간을 프로젝트 일정에 추가합니다. | 아니요 | 예 |
 |**공동 작업** ||||
-|첨부 파일 | 팀, 프로젝트 또는 작업 수준에서 문서, 이미지 및 기타 파일을 첨부합니다. 팀 또는 프로젝트 수준에서 중앙 라이브러리에서 이러한 첨부 파일을 관리합니다. | 예 | 예 |
+|첨부 | 팀, 프로젝트 또는 작업 수준에서 문서, 이미지 및 기타 파일을 첨부합니다. 팀 또는 프로젝트 수준에서 중앙 라이브러리에서 이러한 첨부 파일을 관리합니다. | 예 | 예 |
 |외부 팀 구성원 |프로젝트, 작업 및 문서를 보고 상호 작용할 수 있는 권한을 부여하여 조직 외부의 사용자와 공동 작업을 수행합니다. <sup>6</sup> | 예 | 예 |
 |Project 사이트 | 프로젝트의 공동 작업 및 문서를 위한 허브를 만들고 사용자 지정합니다. | 예 | 예 |
 |Microsoft Teams 통합 | 프로젝트에서 공동 작업을 Microsoft Teams. <sup>1</sup> | 예 | 예 |
@@ -197,7 +197,7 @@ Microsoft Project 조직의 요구 사항을 가장 잘 충족하기 위해 세 
 |사용자 관리 | 프로젝트, 팀 및 조직 수준에서 사용자 및 그룹 역할 및 사용 권한을 관리합니다. | 아니요 | 예 |
 |서비스 관리 | Office 365 환경의 일부로 Microsoft Project 환경을<sup>계획,</sup> 설치 및 구성, 유지 관리 및 확장합니다. | 아니요 | 예 |
 
-#### <a name="notes"></a>메모
+#### <a name="notes"></a>참고
 
 <sup>1</sup> 상업용 Office Microsoft 365 필요합니다.<br/>
 <sup>2 Azure Boards</sup> 별도로 취득됩니다.<br/>

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: 보관에 대한 자세한 내용은 이 Microsoft Exchange Online 읽어 보아야 합니다.
-ms.openlocfilehash: 2d37cc6c7cd4f75ae9a4ffb3da994e5b942f294d2d12fde869910d5506c69738
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 249f8583cac9ca5d2df61be3e6b436306d590374fe0c02b506f2b48d63781b47
+ms.sourcegitcommit: 10f6531cffef9d395e7215f554eab7a7c0e15397
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664581"
+ms.lasthandoff: 08/10/2021
+ms.locfileid: "57823649"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 서비스 설명
 
@@ -29,7 +29,7 @@ ExchangeOnlineArchiving은 Microsoft 온라인 서비스로서 강력한 보안,
   
 자세한 Exchange Online Archiving 서버의 Exchange Online Archiving [참조합니다.](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)
   
-## <a name="available-plans"></a>사용 가능한 계획
+## <a name="available-plans"></a>사용 가능한 플랜
 
 사용자가 구독을 사용하도록 설정하는 구독에 대한 자세한 Exchange Online Archiving 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
@@ -42,15 +42,16 @@ Exchange Online Archiving은 다음 계획을 통해 사용할 수 있습니다.
   
 | 플랜 | 설명 |
 |:-----|:-----|
-|**Exchange Server용 Exchange Online Archiving** <br/> |Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 또는 Exchange 2010(SP2 이상)에 기본 사서함이 있는 사용자를 위한 클라우드 기반 보관 사서함입니다.  <br/> 클라우드 기반 보관을 온-프레미스 Exchange Server에 있는 기본 사서함에 추가하려면 하이브리드 배포를 구성해야 합니다. 하이브리드 배포에 대한 자세한 내용은 하이브리드 [Exchange Server 참조하세요.](/exchange/exchange-hybrid)  <br/> |
-|**Exchange Server용 Exchange Online Archiving(Enterprise CAL Suite를 통해)** <br/> |Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 또는 Exchange 2010(SP2 이상)에 기본 사서함이 있는 사용자를 위한 클라우드 기반 보관 사서함입니다. 자세한 내용은 [Client Access Licenses and Management Licenses을 참조합니다.](https://www.microsoft.com/licensing/product-licensing/client-access-license)  <br/> |
-|**Exchange Online용 Exchange Online Archiving** <br/> | 다음 계획<sup>1, 2에</sup>대한 추가 기능으로 클라우드 기반 보관 및 현재 저장<br/>  Exchange Online 요금제 1  <br/>  Exchange Online Kiosk  <br/>  Microsoft 365 Business Basic  <br/>  Microsoft 365 Business Standard  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F3  <br/> Microsoft 365 Enterprise F3<br/> <b>참고:</b> 다음 계획에는 보관이 이미 포함되어 있으며 추가 Exchange Online Archiving 필요하지 않습니다.<br/>Office 365 Education A1 <br/>Office 365 Education A3 <br/>  Office 365 Education A5 <br/>  Office 365 Enterprise E3 <br/>  Office 365 Enterprise E5 <br/>  Exchange Online 계획 2 <br/> Microsoft 365 Business Premium <br/>Microsoft 365 Enterprise E3 <br/> Microsoft 365 Enterprise E5 <br/>사서함의 보관 기능에 대한 자세한 내용은 Exchange Online 사서함의 보관 기능을 [Exchange Online Archiving.](./archive-features.md)           |
-   
->[!NOTE]
-><sup>1</sup> 온-프레미스 Exchange Server에 사서함이 없는 클라우드 전용 조직에는 하이브리드 배포가 필요하지 않습니다. 그러나 온-프레미스 사서함이 존재하는 경우 다음 하이브리드 배포는 꼭 필요합니다.
+|**Exchange Server용 Exchange Online Archiving** <br/> |Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 또는 Exchange 2010(SP2 이상)에 기본 사서함이 있는 사용자를 위한 클라우드 기반 보관 사서함입니다. <br/> 클라우드 기반 보관을 온-프레미스 Exchange Server에 있는 기본 사서함에 추가하려면 하이브리드 배포를 구성해야 합니다. 하이브리드 배포에 대한 자세한 내용은 하이브리드 [Exchange Server 참조하세요.](/exchange/exchange-hybrid) <br/> |
+|**Exchange Server용 Exchange Online Archiving(Enterprise CAL Suite를 통해)** <br/> |Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 또는 Exchange 2010(SP2 이상)에 기본 사서함이 있는 사용자를 위한 클라우드 기반 보관 사서함입니다. 자세한 내용은 [Client Access Licenses and Management Licenses을 참조합니다.](https://www.microsoft.com/licensing/product-licensing/client-access-license) <br/> |
+|**Exchange Online용 Exchange Online Archiving** <br/> | 다음 계획<sup>1,2,3에</sup>대한 추가 기능으로 클라우드 기반 보관 및 현재 저장<br/> Exchange Online 요금제 1 <br/> Exchange Online Kiosk <br/> Microsoft 365 Business Basic <br/> Microsoft 365 Business Standard <br/> Microsoft 365 Business Premium <br/> Office 365 E1 <br/> Office 365 A1 <br/> Office 365 G1 <br/> Office 365 F3 <br/> Microsoft 365 F3<br/> <b>참고:</b> 다음 계획에는 보관이 이미 포함되어 있으며 추가 Exchange Online Archiving 필요하지 않습니다.<br/>Office 365 A3 <br/> Office 365 A5 <br/> Office 365 E3 <br/> Office 365 E5 <br/> Exchange Online 계획 2 <br/>Microsoft 365 E3 <br/> Microsoft 365 E5 <br/>사서함의 보관 기능에 대한 자세한 내용은 Exchange Online 사서함의 보관 기능을 [Exchange Online Archiving.](./archive-features.md)|
+
+<sup>1</sup> 온-프레미스 Exchange Server에 사서함이 없는 클라우드 전용 조직에는 하이브리드 배포가 필요하지 않습니다. 그러나 온-프레미스 사서함이 존재하는 경우 다음 하이브리드 배포는 꼭 필요합니다.
 <br/>
-<sup>2</sup> Exchange Online 계획 1 및 Microsoft 365 앱 사서함 및 보관에 대한 크기 제한이 있습니다. 자세한 내용은 제한 [Exchange Online 참조하세요.](../exchange-online-service-description/exchange-online-limits.md) Exchange Online용 Exchange Online Archiving 추가 기능을 통해 클라우드 기반의 무제한 보관 사서함 및 [원본 위치 유지 및 소송 보존](compliance-and-security-features.md#in-place-hold-and-litigation-hold) 기능이 추가 제공됩니다.
-  
+<sup>2</sup> Exchange Online 계획 1, Office 365 E1/A1/G1 및 Microsoft 365 Business Basic/표준/Premium 사서함 및 보관에 대한 크기 제한이 있습니다. 자세한 내용은 제한 [Exchange Online 참조하세요.](../exchange-online-service-description/exchange-online-limits.md) Exchange Online용 Exchange Online Archiving 추가 기능을 통해 클라우드 기반의 무제한 보관 사서함 및 [원본 위치 유지 및 소송 보존](compliance-and-security-features.md#in-place-hold-and-litigation-hold) 기능이 추가 제공됩니다.
+<br/>
+<sup>3</sup> 미국 GCC, GCC, DoD 요금제가 포함됩니다.
+
 모든 계획에 대한 Microsoft 365 찾고 있나요? Microsoft 365 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 사용할 수 있습니다. 독립 실행형 계획 옵션 및 계획에서 다른 요금제로 이동하는 정보를 비롯한 다양한 계획에 대한 자세한 내용은 Office 365 [계획 옵션을 참조하세요.](../office-365-platform-service-description/office-365-plan-options.md)
   
 ## <a name="requirements"></a>요구 사항
