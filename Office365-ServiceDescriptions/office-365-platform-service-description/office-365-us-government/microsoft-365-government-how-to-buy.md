@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 정부 및 Microsoft 365 옵션에 대해 간략하게 소개합니다.
-ms.openlocfilehash: 29138c4cd9f572c1281ccb338ee034812365909ffd861c66609de03ea3a2b8f4
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 405bdf813387e78c8480634a463bb86518e04b3a
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701907"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363585"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 정부 - 구입 방법
 
@@ -134,41 +134,50 @@ Microsoft GCC 및 GCC 높은 서비스를 모두 Microsoft 정부 클라우드�
 **AOS-G 파트너 GCC GCC 높음(500명 미만)**
 
 - Accenture Federal Services, LLC
-- Agile IT, Inc.
+- Agile IT, Inc
+- American Technology Services, Inc.
 - Applied Information Sciences, Inc.
-- Booz Allen Hamilton, Inc.
+- Arctic Information Technology, Inc.
+- BAH
 - C3 통합 솔루션
 - CACI
 - 카라소프트
+- Catapult Systems, Inc.
 - CGI Federal Inc.
-- 정복 사이버
-- CyberSheath Services International, LLC
+- UDT(정복 사이버)
+- CyberSheath
+- Daymark Solutions, Inc.
 - Dox Electronics Inc.
-- IT 컨설팅( LLC) 지원
+- Enlighten
 - F1 Solutions Inc.
 - 4포인트 기술, LLC
-- General Dynamics Information Technology, Inc.
+- GDIT
+- 골든 5 LLC
 - Hypori, Inc.
 - Imager Software, Inc. d.b.a ISC
 - 잭파인
 - Jasper
 - Johnson Technology Systems, Inc.
-- Kamind IT, Inc.
+- KAMIND IT, Inc.
 - KTL 솔루션, Inc.
 - LiftOff, LLC
-- ManTech Advanced Systems International, Inc.
-- NIMBUS 논리, LLC
+- ManTech
+- MicroTechnologies, Inc.
+- Nimbus Logic LLC
 - Northrop
 - Novetta
-- Perspecta Enterprise SOLUTIONS LLC
+- Permuta Technologies, Inc.
+- Perspecta
 - Planet Technologies, Inc.
 - Quiet Professionals, LLC
 - R3, LLC
 - Red River
 - SAIC
 - Smartronix
-- 회선 7
+- 회신 7 시스템
 - TechTrend, Inc.
+- Valcom 솔트레이크시티, LC dba VCLM
+- VC3, INC
 - Vexcel
 
 **참고:** 위의 목록에 있는 모든 Microsoft LSP(라이선스 솔루션 공급자)는 CPS(고객 가격표)를 만들기 위해 GCC 및 GCC High -기업계약(High-to 기업계약)를 거래할 수 있습니다. EA 자격이 없는 조직은 나열된 AOS-G 파트너 GCC CSP 파트너 프로그램을 통해 라이선스를 구입할 수 있습니다.

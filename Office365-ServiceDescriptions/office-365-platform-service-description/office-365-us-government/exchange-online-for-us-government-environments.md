@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 서비스 설명에 나열된 미국 정부 클라우드와 상업용 클라우드 간의 기능 Exchange Online 제공합니다.
-ms.openlocfilehash: 238ef71762c5a6cb3c6a08a515a5bf611535547c7c2e7f69ba8a53eaa56be2c3
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 1c0b3c415b388f1c84c49e09aae0ed243e436b6f
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664461"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363614"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online 미국 정부 환경용 데이터
 
