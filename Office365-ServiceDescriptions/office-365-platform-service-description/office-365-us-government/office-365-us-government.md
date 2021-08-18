@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 미국 공공 부문의 고유하고 진화하는 요구 사항에 대응하여 Office 365 미국 정부 플랜(또는 Office 365 Government)를 Office 365 Government. 이 문서에서는 미국 환경의 특정 기능에 Office 365 Government 제공합니다.
-ms.openlocfilehash: e9d0b23037cb3b033e55fe143c98830707efb45a29b4fc25d6f6f2a4e727bc4f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: efcef9de537f1d3750a0b282a40d1f015c8bb82c
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701896"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371785"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -142,16 +142,17 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 
 |Office 365 서비스|Office 365 Government G1|Office 365 Government G3|Office 365 Government G5|Office 365 Government F3|
 |---|---|---|---|---|
-|웹용 Office|예|예|예|예|
-|엔터프라이즈용 Microsoft 365 앱|아니요|예|예|아니요|
 |Exchange Online|예|예|예|예|
 |Exchange Online Protection|예|예|예|예|
-|SharePoint Online|예|예|예|예|
+|엔터프라이즈용 Microsoft 365 앱|아니오|예|예|아니요|
+|웹용 Office|예|예|예|예|
 |비즈니스용 OneDrive|예|예|예|예|
-|Skype for Business (Instant Messaging &amp; Presence)|예<sup>1</sup>|예|예|예<sup>1</sup>|
-|음성 - 전화 시스템, 오디오 회의|아니요<sup>2</sup>|아니요<sup>2</sup>|예<sup>5</sup>|아니요|
 |Power BI Pro|아니요<sup>2</sup>|아니요<sup>2</sup>|예|아니요<sup>2</sup>|
 |Project Online|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|
+|SharePoint Online|예|예|예|예|
+|SharePoint Syntex|예|예|예|예|
+|Skype for Business (Instant Messaging &amp; Presence)|예<sup>1</sup>|예|예|예<sup>1</sup>|
+|음성 - 전화 시스템, 오디오 회의|아니요<sup>2</sup>|아니요<sup>2</sup>|예<sup>5</sup>|아니요|
 |웹용 Visio|아니요<sup>6</sup>|아니요<sup>6</sup>|아니요<sup>6</sup>|아니요<sup>6</sup>|
 |Yammer Enterprise|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요<sup>4</sup>|
 
@@ -260,7 +261,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |고객 Lockbox|<sup>아니요 12</sup>|<sup>아니요 12</sup>|예|<sup>아니요 12</sup>|
 |Advanced eDiscovery|<sup>아니요 12</sup>|<sup>아니요 12</sup>|예|<sup>아니요 12</sup>|
 |보안 점수<sup>14</sup>|예<sup>9, 15</sup>|예<sup>9</sup>|예<sup>9, 15</sup>|예<sup>9, 15</sup>|
-|Office 메시지 암호화|아니요|예|예|아니요|
+|Office 메시지 암호화|아니오|예|예|아니요|
 |위협 인텔리전스|<sup>아니요 12</sup>|<sup>아니요 12</sup>|예|<sup>아니요 12</sup>|
 |**[규정 준수](/microsoft-365/compliance/offering-home)**|||||
 |SAS 70 / SSAE16 평가|예|예|예|예|
@@ -311,17 +312,17 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |응용 프로그램/기능|Office 365 Government G1|Office 365 Government G3|Office 365 Government G5|Office 365 Government F3|
 |---|---|---|---|---|
 |**Office 응용 프로그램**|||||
-|[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word)<sup>7</sup>|아니요|예|예|아니요|
-|[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel)<sup>7</sup>|아니요|예|예|아니요|
-|[Microsoft PowerPoint](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)<sup>7</sup>|아니요|예|예|아니요|
+|[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word)<sup>7</sup>|아니오|예|예|아니요|
+|[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel)<sup>7</sup>|아니오|예|예|아니요|
+|[Microsoft PowerPoint](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)<sup>7</sup>|아니오|예|예|아니요|
 |[Microsoft OneNote](../../office-applications-service-description/office-applications.md#microsoft-onenote)<sup>7</sup>|아니요|예|예|아니요|
-|[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook)<sup>7</sup>|아니요|예|예|아니요|
+|[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook)<sup>7</sup>|아니오|예|예|아니요|
 |Microsoft Forms<sup>7</sup>|예|예 <br/>|예|아니요|
 |Microsoft Whiteboard<sup>7</sup>|아니요|예|예|아니요|
 |[Microsoft Publisher](../../office-applications-service-description/office-applications.md#microsoft-publisher)|아니요|예|예|아니요|
-|[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access)|아니요|예|예|아니요|
+|[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access)|아니오|예|예|아니요|
 |[비즈니스용 Skype](../../office-applications-service-description/office-applications.md#skype-for-business)|예<sup>3</sup>|예|예|예<sup>3</sup>|
-|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57)|아니요|예|예|아니요|
+|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57)|아니오|예|예|아니요|
 |[iPad/iPhone용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|예|예<sup></sup>|예<sup></sup>|예|
 |[Android용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-android)|예|예<sup></sup>|예<sup></sup>|예|
 |[Windows Phone용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|예|예<sup>4</sup>|예<sup>4</sup>|예|
@@ -330,21 +331,21 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**Enterprise 값**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |PC 또는 Mac에서 사용자당 5건의 동시 설치 지원|아니요|예|예|아니요|
 |사용자 계정 자동 구축|예|예|예|예|
-|다국어 사용자 인터페이스|아니요|예|예|아니요|
+|다국어 사용자 인터페이스|아니오|예|예|아니요|
 |클라이언트 푸시 배포|아니요|예<sup>4</sup>|예<sup>4</sup>|아니요|
-|온-프레미스 Exchange에 대한 클라이언트 지원|아니요|예|예|아니요|
-|온-프레미스 Sharepoint에 대한 클라이언트 지원|아니요|예|예|아니요|
+|온-프레미스 Exchange에 대한 클라이언트 지원|아니오|예|예|아니요|
+|온-프레미스 Sharepoint에 대한 클라이언트 지원|아니오|예|예|아니요|
 |소프트웨어 업데이트 제어|아니요|예|예|아니요|
-|데이터베이스 비교|아니요|예|예|아니요|
-|데스크톱 가상화|아니요|예|예|아니요|
+|데이터베이스 비교|아니오|예|예|아니요|
+|데스크톱 가상화|아니오|예|예|아니요|
 |Excel 스프레드시트 비교|아니요|예|예|아니요|
 |Excel 스프레드시트 조회|아니요|예|예|아니요|
-|Exchange Online 및 SharePoint Online 보관 및 규정 준수|아니요|예|예|아니요|
-|그룹 정책 지원|아니요|예|예|아니요|
+|Exchange Online 및 SharePoint Online 보관 및 규정 준수|아니오|예|예|아니요|
+|그룹 정책 지원|아니오|예|예|아니요|
 |Azure Information Protection을 사용한 정보 권한 관리|아니요<sup>1</sup>|예<sup>6</sup>|예<sup>6</sup>|아니요<sup>1</sup>|
 |Windows Server AD RMS를 사용한 정보 권한 관리|예<sup>2</sup>|예<sup>2</sup>|예<sup>2</sup>|예<sup>2</sup>|
-|Office 추가 기능, ActiveX 및 BHO 지원|아니요|예|예|아니요|
-|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스|아니요|예|예|아니요|
+|Office 추가 기능, ActiveX 및 BHO 지원|아니오|예|예|아니요|
+|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스|아니오|예|예|아니요|
 |Office Lens|아니요|아니요|아니요|아니요|
 |Office 원격 분석|아니요|예<sup>4</sup>|예<sup>4</sup>|아니요|
 |클라이언트 응용 프로그램에 대한 오프라인 지원|아니요|예|예|아니요|
@@ -354,7 +355,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |Excel용 파워 쿼리|아니요|예<sup>4</sup>|예<sup>4</sup>|아니요|
 |Power View for Excel|아니요|예<sup>4</sup>|예<sup>4</sup>|아니요|
 |로밍 설정|아니요|예<sup></sup>|예<sup></sup>|아니요|
-|공유 컴퓨터 활성화|아니요|예|예|아니요|
+|공유 컴퓨터 활성화|아니오|예|예|아니요|
 |클라우드 기반 파일 저장 차단 지원|아니요|예|예|아니요|
 |버전 업그레이드|아니요|예<sup>4</sup>|예<sup>4</sup>|아니요|
 |Volume activation (KMS/MAK)|아니요|아니요|아니요|아니요|

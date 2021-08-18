@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: SharePoint Syntex Microsoft 365 인공 지능(AI) 및 기계 교육을 사용하여 인간 전문 지식을 강화하고, 콘텐츠 처리를 자동화하고, 콘텐츠를 지식으로 변환합니다.
-ms.openlocfilehash: 79d145aa9efac09db8b6982ff8a11cf0282c1b66301b170b31cd3680c431af3b
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e746b3189513ea4c5f594382b6ce6392d648a334
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702486"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371755"
 ---
 # <a name="sharepoint-syntex-service-description"></a>SharePoint Syntex 서비스 설명 
 
@@ -23,7 +23,7 @@ Syntex는 SharePoint 콘텐츠 처리, 프로세스 자동화를 위한 메타�
 
 자세한 개요 및 추가 제품 세부 정보는 SharePoint Syntex [페이지를 참조하세요.](https://aka.ms/sharepointsyntex)
 
-## <a name="available-plans"></a>사용 가능한 계획
+## <a name="available-plans"></a>사용 가능한 플랜
 
 Syntex는 조직의 요구 사항을 가장 잘 충족하기 위해 여러 구독 계획을 통해 사용할 수 있습니다. 각 계획은 동일한 기능 집합을 제공합니다.
 
@@ -34,32 +34,32 @@ MICROSOFT POWERAPPS AI 작성기 양식 처리를 위해 Syntex의 라이선스�
 다음 표에서는 Syntex를 추가할 수 있는 계획을 보여줍니다. 추가 계획 세부 정보는 Microsoft 365 [및 Office 365 옵션을 참조하세요.](../office-365-platform-service-description/office-365-plan-options.md)<br><br>
 
 
-| 소규모 기업 요금제            | Enterprise 계획         | 교육 계획     |
-| ------------------------------- | ------------------------ | ------------------- |
-| Microsoft 365 Business Basic    | Office 365 E1            | Office 365 A1       |
-| Microsoft 365 Business Standard | Office 365 E3            | Office 365 A3       |
-| Microsoft 365 Business Premium  | Office 365 E5            | Office 365 A5       |
-|                                 | Office 365 F3            |                     |
-|                                 | Microsoft 365 F1         |                     |
-|                                 | Microsoft 365 F3         |                     |
-|                                 | Microsoft 365 E3         |                     |
-|                                 | Microsoft 365 E5         |                     |
-|                                 | SharePoint Online 요금제 1 |                     |
-|                                 | SharePoint Online 요금제 2 |                     |
-|                                 | SharePoint Online Kiosk  |                     |
+| 소규모 기업 요금제            | Enterprise 계획         | 교육 계획     | 정부 계획         |
+| ------------------------------- | ------------------------ | ------------------- | ------------------------ |
+| Microsoft 365 Business Basic    | Office 365 E1            | Office 365 A1       | Office 365 Government G1 |
+| Microsoft 365 Business Standard | Office 365 E3            | Office 365 A3       | Office 365 Government G3 |
+| Microsoft 365 Business Premium  | Office 365 E5            | Office 365 A5       | Office 365 Government G5 |
+|                                 | Office 365 F3            |                     | Office 365 Government F3 |
+|                                 | Microsoft 365 F1         |                     |                          |
+|                                 | Microsoft 365 F3         |                     |                          |
+|                                 | Microsoft 365 E3         |                     |                          |
+|                                 | Microsoft 365 E5         |                     |                          |
+|                                 | SharePoint Online 요금제 1 |                     |                          |
+|                                 | SharePoint Online 요금제 2 |                     |                          |
+|                                 | SharePoint Online Kiosk  |                     |                          |
 
 ## <a name="feature-availability"></a>기능 가용성
 
 다음 표에는 계획 전체에서 사용할 수 있는 주요 Syntex 기능이 나열됩니다. 특정 경고가 적용됩니다. 이 표는 통지 없이 변경될 수 있습니다. 최신의 전체 기능 목록은 SharePoint Syntex 가격 페이지를 [참조하세요.](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)<br><br>
 
-| 기능 | 소규모 기업 요금제 | Enterprise 계획 | 교육 계획 |
-|--|--|--|--|
-| [Syntex 콘텐츠 센터](sharepoint-syntex-features.md#syntex-content-center) | 예 | 예 | 예 |
-| [개체 인식](sharepoint-syntex-features.md#object-recognition) | 예 | 예 | 예 |
-| [문서 이해](sharepoint-syntex-features.md#document-understanding) | 예 | 예 | 예 |
-| [양식 처리](sharepoint-syntex-features.md#form-processing) | 예 | 예 | 예 |
-| [Microsoft Graph 커넥터](sharepoint-syntex-features.md#microsoft-graph-content-connectors) | 예 | 예 | 예 |
-| [고급 세분화 서비스](sharepoint-syntex-features.md#advanced-taxonomy-services) | 예 | 예 | 예 |
+| 기능 | 소규모 기업 요금제 | Enterprise 계획 | 교육 계획 | 정부 계획 |
+|--|--|--|--|--|
+| [Syntex 콘텐츠 센터](sharepoint-syntex-features.md#syntex-content-center) | 예 | 예 | 예 | 예 |
+| [개체 인식](sharepoint-syntex-features.md#object-recognition) | 예 | 예 | 예 | 예 |
+| [문서 이해](sharepoint-syntex-features.md#document-understanding) | 예 | 예 | 예 | 예 |
+| [양식 처리](sharepoint-syntex-features.md#form-processing) | 예 | 예 | 예 | 예 |
+| [Microsoft Graph 커넥터](sharepoint-syntex-features.md#microsoft-graph-content-connectors) | 예 | 예 | 예 | 예 |
+| [고급 세분화 서비스](sharepoint-syntex-features.md#advanced-taxonomy-services) | 예 | 예 | 예 | 예 |
 
 ## <a name="learn-more"></a>자세한 정보
 

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 미국 정부 클라우드 고객의 SharePoint 기능 가용성에 대해 자세히 알아보습니다.
-ms.openlocfilehash: ed8c3581411a99631b328e6aceca50bcb7c6e446227266824a0f66916fa62216
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 77b72801b5c1eb0f80fa94aded406000e339d98c
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701827"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371774"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint 환경용 데이터
 
@@ -64,6 +64,8 @@ ms.locfileid: "54701827"
 정부용 Azure Active Directory 기능에 대한 자세한 내용은 [Azure Government Security + Identity 설명서를 참조하세요.](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory) 
 
 정부용 Azure Information Protection 기능에 대한 자세한 내용은 Azure Information Protection Premium [Government 서비스 설명을 참조하세요.](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description) 
+
+SharePoint Syntex 대한 자세한 내용은 SharePoint Syntex [기능 서비스 설명을 참조하세요.](/office365/servicedescriptions/sharepoint-syntex-service-description/sharepoint-syntex-features)
 
 ## <a name="sites-and-content"></a>사이트 및 콘텐츠
 

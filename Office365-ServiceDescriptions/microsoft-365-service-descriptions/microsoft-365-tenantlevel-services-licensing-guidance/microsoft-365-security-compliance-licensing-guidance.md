@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 허가되지 않은 액세스로 Microsoft 365 서비스 중단을 방지하는 데 도움이 되는 규정 준수를 위한 라이선스 지침을 제공합니다.
-ms.openlocfilehash: e6182db877f5d1202a30d5425deec89ad6cbdb0f563f43990a51b47ec9bba033
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 9126cfa8d055fe9a800a6c498e79ebf540b378d2
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663341"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371766"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 라이선스 &amp; 지침
 
@@ -216,7 +216,7 @@ Microsoft Exchange Online 라이선스가 포함된 구독이 있는 모든 고�
 |<ul><li>Microsoft 365 또는 Office 365 A1/E1/F1/G1</li><li>Microsoft 365 또는 Office 365 A3/E3/F3/G3</li></ul>|<ul><li>데이터 보호 기준</li></ul>|
 |<ul><li>Microsoft 365 또는 Office 365 A5/E5/G5</li><li>Microsoft 365 A5/E5/F5/G5 규정 준수</li><li>Microsoft 365 A5/E5/F5/G5 eDiscovery 및 감사</li><li>Microsoft 365 A5/E5/F5/G5 내부자 위험 관리</li><li>Microsoft 365 A5/E5/F5/G5 정보 보호 및 거버넌스</li></ul>|<ul><li>데이터 보호 기준</li><li>EU GDPR</li><li>NIST 800-53</li><li>ISO 27001</li><li>고객 평가</li><li>CMMC 수준 1-5(G5에만 사용 가능)</li></ul>|
 
-## <a name="microsoft-defender-for-endpoint"></a>엔드포인트용 Microsoft Defender
+## <a name="microsoft-defender-for-endpoint"></a>끝점용 Microsoft Defender
 
 끝점용 Microsoft Defender(이전의 Microsoft Defender ATP)는 위험 기반 보안 솔루션으로, 위험 기반 취약성 관리 솔루션입니다. 공격 표면 감소 기능 동작 기반 및 클라우드 기반 차세대 보호 끝점 검색 및 응답(EDR); 자동 조사 및 수정 및 관리되는 헌팅 서비스. 자세한 [내용은 끝점용 Microsoft Defender 페이지를](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 참조하세요.
 
@@ -407,9 +407,10 @@ Microsoft 파트너가 제공하는 Microsoft 365 보안 및 준수 센터의 �
 채팅에서 DLP 보호를 지원하려면 다음 라이선스 중 Teams 있습니다.
 
 - Microsoft 365 E5/A5/G5
-- Microsoft 365 E5/A5/G5 규정 준수
+- Microsoft 365 E5/A5/G5/F5 규정 준수
+- Microsoft 365 F5 보안 & 규정 준수
 - Microsoft 365 E5/A5/G5 정보 보호 및 거버넌스
-- Office 365 E5/A5/G5 
+- Office 365 E5/A5/G5
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
@@ -547,7 +548,7 @@ Microsoft 365 E3/A3/Business Premium, Office 365 E3/A3 및 Office 365 데이터 
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 혜택을 받을 수 있나요?
 
-Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5 및 Microsoft 365 E5/A5/G5 정보 보호 및 거버넌스 사용이 허가된 사용자는 Teams.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 준수, Microsoft 365 F5 보안 + 규정 준수 및 Microsoft 365 E5/A5/G5 정보 보호 및 거버넌스 사용이 허가된 사용자는 Teams.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
@@ -697,7 +698,7 @@ Microsoft 365 감사는 사용자 및 관리자 활동에 대한 감사 로그�
 
 ### <a name="which-users-benefit-from-the-service"></a>어떤 사용자가 서비스를 혜택을 받을 수 있나요?
 
-Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 Microsoft 365 E5/A5/G5 eDiscovery 및 감사의 사용이 허가된 사용자는 고급 감사를 통해 혜택을 받을 수 있습니다.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 준수, Microsoft 365 F5 보안 + 규정 준수 및 Microsoft 365 E5/A5/G5 eDiscovery 및 감사의 사용이 허가된 사용자는 고급 감사를 통해 혜택을 받을 수 있습니다.
 
 고급 감사 및 10년 감사 로그 보존 추가 기능을 사용이 허가된 사용자는 10년 감사 로그 보존을 통해 혜택을 받을 수 있습니다.
 
