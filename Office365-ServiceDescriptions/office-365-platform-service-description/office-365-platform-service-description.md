@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 Office 365 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 사용할 수 있습니다. 계획 간 차이점(Exchange Online 계획 포함)을 찾고 있는 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다.
-ms.openlocfilehash: 801bc4baf71897360b6ed9753f541268f09785ab8c2f7f42417bb824f5bc609a
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 81734f31224024ecb0f54c4c33fe4071cffae438
+ms.sourcegitcommit: 40a8e3be736d1177d046da50639a5685aca18707
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701687"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "58402772"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 및 Office 365 플랫폼 서비스 설명
 
@@ -116,7 +116,7 @@ Multi-Geo를 사용하면 단일 조직이 여러 Office 365 데이터 센터 �
 |Microsoft Search|아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |
 |**[사용자 계정 관리](user-account-management.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**비즈니스용 Microsoft 365 앱** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |클라우드 ID, 페더레이션 ID 또는 다단계 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Office 365 데스크톱 설정  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
+|Office 365 데스크톱 설정  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |.csv 파일을 사용하여 대량 업로드  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |디렉터리 동기화 도구  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Exchange 단순(단독형) 마이그레이션  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
