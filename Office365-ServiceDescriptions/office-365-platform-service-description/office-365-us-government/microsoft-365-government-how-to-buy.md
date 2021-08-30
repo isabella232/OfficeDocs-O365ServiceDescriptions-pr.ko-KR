@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 정부 및 Microsoft 365 옵션에 대해 간략하게 소개합니다.
-ms.openlocfilehash: 405bdf813387e78c8480634a463bb86518e04b3a
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: 228ad94d00c9e9fea33202e1c746d45bc43560c7
+ms.sourcegitcommit: 99b2b3c7f1437693ff2b361b44c840a09ed35642
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363585"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58523768"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 정부 - 구입 방법
 
@@ -133,6 +133,7 @@ Microsoft GCC 및 GCC 높은 서비스를 모두 Microsoft 정부 클라우드�
 
 **AOS-G 파트너 GCC GCC 높음(500명 미만)**
 
+- 12:34 MicroTechnologies, Inc.
 - Accenture Federal Services, LLC
 - Agile IT, Inc
 - American Technology Services, Inc.
@@ -162,7 +163,6 @@ Microsoft GCC 및 GCC 높은 서비스를 모두 Microsoft 정부 클라우드�
 - KTL 솔루션, Inc.
 - LiftOff, LLC
 - ManTech
-- MicroTechnologies, Inc.
 - Nimbus Logic LLC
 - Northrop
 - Novetta
