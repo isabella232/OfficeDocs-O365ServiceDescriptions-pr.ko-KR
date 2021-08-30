@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 서비스 설명에 나열된 미국 정부 클라우드와 상업용 클라우드 간의 기능 Exchange Online 제공합니다.
-ms.openlocfilehash: 1c0b3c415b388f1c84c49e09aae0ed243e436b6f
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: caae2f98eb21bc640be33044448ce94746b3a449
+ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363614"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58702310"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online 미국 정부 환경용 데이터
 
@@ -183,11 +183,10 @@ Azure Active Directory B2B 공동 작업은 현재 Azure 미국 정부 클라우
 
 <!-- end list -->
 
-- 사용자 환경 외부의 받는 사람에게 GCC 또는 DoD에서 암호화된 전자 메일을 보내는 경우(GCC 및 상업용 포함):
-    
-    - High/DoD GCC 보낸 사람이 암호화된 전자 메일을 높은/DoD 경계 외부로 GCC 수 있습니다.
-    
-    - 상용 GCC 사용자, Outlook.com 사용자 및 기타 전자 메일 공급자의 기타 사용자를 포함하여 High/Do Office 365 D 외부의 모든 받는 사람은 래퍼 메일을 받게 됩니다. 이 래퍼 메일은 받는 사람이 메시지를 읽고 회신할 수 있는 OME 포털로 받는 사람을 리디렉션합니다.
+- DoD, GCC 및 Commercial을 포함하여 암호화된 전자 메일을 이 환경 외부의 받는 사람에게 GCC 경우:
+
+    - High 내부의 GCC 높은 경계 외부로 암호화된 전자 메일을 GCC 수 있습니다.
+    - DoD GCC 상용 Office 365 사용자, Outlook.com 사용자 및 기타 전자 메일 공급자의 기타 사용자를 비롯한 높음 외부의 모든 받는 사람은 래퍼 메일을 받게 됩니다. 이 래퍼 메일은 받는 사람이 메시지를 읽고 회신할 수 있는 OME 포털로 받는 사람을 리디렉션합니다.
 
 자세한 내용은 OME 버전 [비교를 참조하세요.](/microsoft-365/compliance/ome-version-comparison)
 
