@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Exchange Online Protection의 기능 및 요구 사항에 대해 알아봅니다. 포함된 계획 목록은 Exchange Online Protection 계획의 기능 비교를 제공합니다.
-ms.openlocfilehash: 2a7f5bd6c2750d4ce5d348e7fc8438a335533a46466fccc16318a133e1639e4e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: a82468c95f8d674bb2e4b27abc668074f222b419
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664231"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670718"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 서비스 설명
 
@@ -33,7 +33,7 @@ Microsoft Exchange Online EOP(보호)는 스팸 및 맬웨어로부터 조직을
 
 - **하이브리드 배포에서:** EOP를 구성하여 메시징 환경을 보호하고, 전자 메일 라우팅을 제어할 수 있습니다(사내 사서함과 클라우드 사서함이 혼합된 경우).
 
-## <a name="available-plans"></a>사용 가능한 계획
+## <a name="available-plans"></a>사용 가능한 플랜
 
 다음 표에는 조직의 요구에 가장 Exchange Online Protection 솔루션을 선택할 수 있도록 이러한 계획에 대한 설명이 포함되어 있습니다. 자세한 계획 정보는 [를](https://products.office.com/exchange/exchange-email-security-spam-protection)Exchange Online Protection.
 

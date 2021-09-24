@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: 다음 포트폴리오 관리 기능은 다음과 같은 포트폴리오 관리 Project Online.
-ms.openlocfilehash: e0e5958a3faa640c45367c018b44e2ce270ba9d4d83ae4f569fa5b301724605c
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 65a4a962f2bf78b02f982bf1a28768750f99f259
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702827"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669582"
 ---
 # <a name="portfolio-management"></a>포트폴리오 관리
 

@@ -6,15 +6,15 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium 중소기업 고객을 위한 Microsoft 동급 최고의 제품입니다. Microsoft 365 Business Premium 통합 솔루션은 생산성, Microsoft 365 및 장치 관리를 통합하는 통합 솔루션입니다.
-ms.openlocfilehash: 96a826ef61c283ad2aa402f5ef3c93bb96e519da4a8937944d9e5dc0c99e9983
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 66832d3ae1a74f5551bbb689eb7ac07d197b1e2b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663571"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670465"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>중소기업을 위한 Microsoft 365 라이선싱
 
@@ -28,12 +28,11 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 |--|------------ | ------------------------------- | -------------------------- |
 |**사용 가능한 라이선스** | 최대 사용자 수 | 300  | 300  |
 |**Office 앱** | 최대 Office 5대의 PC/Macs + 5대의 태블릿 + 사용자당 스마트폰 5대(Word, Excel, PowerPoint, OneNote, Access)에 Office Online 설치 | Business | Business |
-|**전자 메일 & 일정** | Outlook, Exchange Online| 50GB | 50GB |
+|**전자 메일 & 일정** | Outlook, Exchange Online| 50 GB | 50GB |
 |**팀워크를 위한 허브** | 채팅 기반 작업 영역, 온라인 모임 등 Microsoft Teams | 예 |예 |
 |**파일 저장소** | 비즈니스용 OneDrive  | 사용자당 1 TB | 사용자당 1 TB |
 |**소셜, 비디오, 사이트** | Stream, Yammer, Planner, SharePoint Online, PowerApps, Power Automate | 예 | 예 |
 |**비즈니스 앱** | 예약 앱 &ndash; Bookings<sup>1</sup> | 예 | 예 |
-|   | 비즈니스 앱 &ndash; MileIQ<sup>1</sup> | 예 | 예 |
 |**위협 방지** | Office 365용 Microsoft Defender | 아니요 | 예 |
 |   | Windows Exploit Guard 적용 | 아니요 | 예  |
 |**ID 관리** | 하이브리드 계정의 셀프 서비스 암호 Azure Active Directory 재설정 | 아니요 | 예 |
@@ -64,7 +63,6 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 |**파일 저장소** | 비즈니스용 OneDrive | 무제한 | 사용자당 1 TB |
 |**소셜, 비디오, 사이트** | Stream, Yammer, Planner, SharePoint Online<sup>1,</sup>PowerApps<sup>1,</sup>Power Automate<sup>1</sup> | 예 | 예 |
 |**비즈니스 앱** | 예약 앱 &ndash; Bookings<sup>2</sup> | 예 | 예 |
-|   | 비즈니스 앱 &ndash; MileIQ<sup>2</sup> | 아니요 | 예 |
 |**위협 방지** | Office 365용 Microsoft Defender | 아니요 | 예 |
 |   | Windows Exploit Guard 적용 | 아니요 | 예 |
 |**ID 관리** | 하이브리드 계정의 셀프 서비스 암호 Azure Active Directory 재설정 | 아니요 | 예 |
@@ -92,12 +90,11 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 |---|-------------|---------------------------------|----------------------------|-------------------|
 |**사용 가능한 라이선스** | 최대 사용자 수 | 300 | 300 | 무제한 |
 |**Office 앱** | 최대 Office 5대의 PC/Macs + 5대의 태블릿 + 사용자당 스마트폰 5대(Word, Excel, PowerPoint, OneNote, Access)에 Office Online 설치 | Business | Business | ProPlus |
-|**전자 메일 & 일정** | Outlook, Exchange Online  | 50GB | 50GB | 100GB |
+|**전자 메일 & 일정** | Outlook, Exchange Online  | 50 GB | 50GB | 100GB |
 |**팀워크를 위한 허브** | 채팅 기반 작업 영역, 온라인 모임 등 Microsoft Teams | 예 | 예 | 예 |
 |**파일 저장소** | 비즈니스용 OneDrive | 사용자당 1 TB | 사용자당 1 TB | 무제한 |
 |**소셜, 비디오, 사이트** | Stream, Yammer, Planner, SharePoint Online<sup>1,</sup>PowerApps<sup>1,</sup>Power Automate<sup>1</sup> | 예 | 예 | 예 |
 |**비즈니스 앱** | 예약 앱 &ndash; Bookings<sup>2</sup> | 예 | 예 | 예 |
-|   | 비즈니스 앱 &ndash; MileIQ<sup>2</sup> | 예 | 예 | 아니요 |
 |**위협 방지** | Office 365용 Microsoft Defender | 아니요 | 예 | 아니요 |
 |   | Windows Exploit Guard 적용 | 아니요 | 예 | 아니요 |
 |**ID 관리** | 하이브리드 계정의 셀프 서비스 암호 Azure Active Directory 재설정 | 아니요 | 예 | 아니요 |
@@ -125,16 +122,15 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 |---|-------------|---------------------------------|----------------------------| ----------------- |-------------------|
 |**사용 가능한 라이선스** | 최대 사용자 수 | 300 | 300 | 무제한 | 무제한 |
 |**Office 앱** | 최대 Office 5대의 PC/Macs + 5대의 태블릿 + 사용자당 스마트폰 5대(Word, Excel, PowerPoint, OneNote, Access)에 Office Online 설치 | Business | Business | ProPlus | ProPlus |
-|**전자 메일 & 일정** | Outlook, Exchange Online | 50GB | 50GB | unlimited | unlimited |
+|**전자 메일 & 일정** | Outlook, Exchange Online | 50GB | 50 GB | unlimited | unlimited |
 |**팀워크를 위한 허브** | 채팅 기반 작업 영역, 온라인 모임 등 Microsoft Teams | 예 | 예 | 예 | 예 |
 |**파일 저장소** | 비즈니스용 OneDrive | 사용자당 1 TB | 사용자당 1 TB | unlimited | unlimited |
 |**소셜, 비디오, 사이트** | Yammer, SharePoint Online, Planner | 예 | 예 | 예 | 예 |
-|   | Stream | | 예 | 예 | 예 |
+|   | 스트림 | | 예 | 예 | 예 |
 |**비즈니스 앱** | 예약 앱 &ndash; Bookings<sup>1</sup> | 예 | 예 | 예 | 예 |
-|   | 비즈니스 앱 &ndash; MileIQ<sup>1</sup> | 예 | 예 | 아니요 | 아니요 |
 |**위협 방지** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, Enterprise 보호 | 아니요 | 아니요 | 예 | 예 |
 |   | Office 365용 Microsoft Defender | 아니요 | 예 | 아니요 | 예 |
-|   | 엔드포인트용 Microsoft Defender | 아니요 | 아니요 | 아니요 | 예 |
+|   | 끝점용 Microsoft Defender | 아니요 | 아니요 | 아니요 | 예 |
 |   | Office 365 위협 인텔리전스 | 아니요 | 아니요  | 아니요 | 예 |
 |**ID 관리** | 하이브리드 Azure Active Directory, Azure MFA, 조건부 액세스에 대한 셀프 서비스 암호 재설정   | 아니요 | 예 | 예 | 예 |
 |   | Azure AD: Cloud App Discovery, Azure AD 커넥트 Health, 10개 이상의 앱에 대한 SSO | 예 | 예 | 예 | 예 |
@@ -191,9 +187,9 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 | **라이선스**                                   | **비즈니스용 Microsoft 365 앱** | **Microsoft Office 365 ProPlus** |
 | 라이선싱 모델                                 | 사용자당                | 사용자당               |
 | 라이선스 유형                                    | 구독            | 구독           |
-| PC/Mac 설치<sup>6</sup>                     | 5                        | 5                       |
-| iOS/Android 스마트폰 설치<sup>6</sup>     | 5                        | 5                       |
-| 태블릿 설치<sup>6</sup>                     | 5                        | 5                       |
+| PC/Mac 설치<sup>6</sup>                     | 5                       | 5                      |
+| iOS/Android 스마트폰 설치<sup>6</sup>     | 5                       | 5                      |
+| 태블릿 설치<sup>6</sup>                     | 5                       | 5                      |
 | Office RT 상업권                     | 예                     | 예                    |
 | Office 온라인/웹 앱                          | 예                     | 예                    |
 | 상업용 사용권                           | 예                     | 예                    |

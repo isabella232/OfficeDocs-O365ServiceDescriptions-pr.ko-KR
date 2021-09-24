@@ -8,24 +8,24 @@ ms.topic: reference
 f1_keywords:
 - project-online-service-description
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: ''
 description: Microsoft Planner는 사용자가 작업 기반 이니셔티브를 계획, 관리 및 완료할 수 있는 직관적인 공동 작업 관리 도구입니다.
-ms.openlocfilehash: 7b98ca5fc471bc309f26fe888cb103f027b321ce10b606c25e55ede64b0939d0
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: ee07c27be65b49b6f2bd89005c8a07a54021bff0
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702837"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669835"
 ---
 # <a name="microsoft-planner-service-description"></a>Microsoft Planner 서비스 설명
 
 Microsoft Planner는 사용자가 작업 기반 이니셔티브를 계획, 관리 및 완료할 수 있는 직관적인 공동 작업 관리 도구입니다. 사용자는 작업 카드를 사용하여 Kanban 보드에서 작업을 할당하고 관리하며, 기한, 상태, 검사 목록, 레이블 및 첨부 파일과 같은 다양한 중요한 계획 정보로 채우는 데 사용할 수 있습니다. Planner는 여러 Microsoft 솔루션과 통합되어 Microsoft Teams. 웹 기반 도구인 Planner는 어디서나 액세스할 수 있으며 iOS 및 Android용 모바일 앱으로 사용할 수 있습니다.
 
-## <a name="available-plans"></a>사용 가능한 계획
+## <a name="available-plans"></a>사용 가능한 플랜
 
 사용자가 Microsoft Planner를 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 최신 작업 계획 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
 

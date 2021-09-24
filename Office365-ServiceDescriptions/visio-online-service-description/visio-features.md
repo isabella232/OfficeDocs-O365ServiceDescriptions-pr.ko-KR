@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - visio-online-service-descriptoin
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio 위해 Microsoft Visio 환경을 브라우저로 확장하여 클라우드에 저장된 다이어그램을 만들고 편집할 수 있습니다. Microsoft 365, 인쇄 및 공유하고 이동 중 주석을 삽입할 수 있습니다.
-ms.openlocfilehash: c4980675f64f02abae6d0f8e5ef2250a3d2327ab8b016a65cac30137d25558bd
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 35c801c4753676b9a1e0674972ce0c5a6c222b2c
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702237"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670646"
 ---
 # <a name="visio-features"></a>Visio 기능
 

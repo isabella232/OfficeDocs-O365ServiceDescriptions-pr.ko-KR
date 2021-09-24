@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-protection-limits
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 현재 다음과 같은 제한이 Exchange Online Protection. 이러한 제한은 달리 지정하지 않는 한 구성할 수 없습니다.
-ms.openlocfilehash: f573f73bf69944ecb400347978140e45a4c8700f74ac214572228ae83fc3c7fb
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 93afb5b4c3ab44703f8f77e3bb61d1d822feba9f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664500"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670694"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 제한
 

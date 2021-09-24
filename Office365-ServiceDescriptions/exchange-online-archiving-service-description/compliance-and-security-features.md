@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - compliance-and-security-features-in-exchange-online-archiving
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
 description: 이 문서를 읽고 보관에서 사용할 수 있는 준수 기능에 대해 Microsoft Exchange Online 있습니다.
-ms.openlocfilehash: a85ac5ec69905ca30b00871fa72110df87720588d2599e8afdf9da00f1044dc9
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e3dbf6db56830186324470714d76a05fc38c111f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664591"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670737"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>2013의 규정 준수 및 보안 Exchange Online Archiving
 
