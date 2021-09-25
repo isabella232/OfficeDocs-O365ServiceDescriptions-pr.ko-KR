@@ -6,14 +6,14 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: SharePoint Syntex Microsoft 365 인공 지능(AI) 및 기계 교육을 사용하여 인간 전문 지식을 강화하고, 콘텐츠 처리를 자동화하고, 콘텐츠를 지식으로 변환합니다.
-ms.openlocfilehash: e746b3189513ea4c5f594382b6ce6392d648a334
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: a29e191b6200317c280601e66a01c64a6ec91ee3
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371755"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672401"
 ---
 # <a name="sharepoint-syntex-service-description"></a>SharePoint Syntex 서비스 설명 
 

@@ -6,15 +6,15 @@ manager: gailw
 ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics 기능, 배포, 개인 정보 및 선행 준비
-ms.openlocfilehash: eaf1d962afd24b92eecb952f4d5e58204d981c691ffce7170d71527936591245
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 9f4987f7a941fe4174b8096c1a36ed86dbee56aa
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663091"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670360"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics 서비스 설명
 
@@ -24,7 +24,7 @@ MyAnalytics의 일부 요소는 다양한 계획의 사용자에게 Office 365 �
 
 MyAnalytics는 직원 개인 정보를 보호하는 방식으로 정보를 처리합니다. 자세한 내용은 데이터 개인 정보 [를 참조하세요.](#data-privacy)
 
-## <a name="available-plans"></a>사용 가능한 계획
+## <a name="available-plans"></a>사용 가능한 플랜
 
 사용자가 MyAnalytics를 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
@@ -53,6 +53,6 @@ MyAnalytics는 다음 지침을 준수하여 직원 개인 정보를 보호하�
 
 [MyAnalytics가 더](https://products.office.com/business/myanalytics-personal-analytics)스마트하게 작업하는 데 도움이 되는 방법에 대해 자세히 알아보고.
 
-## <a name="prerequisites"></a>필수 조건
+## <a name="prerequisites"></a>필수 구성 요소
 
 * [Microsoft Exchange Online](./exchange-online-service-description/exchange-online-service-description.md)

@@ -7,15 +7,15 @@ ms.reviewer: mkashman
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 미국 정부 클라우드 고객의 SharePoint 기능 가용성에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 77b72801b5c1eb0f80fa94aded406000e339d98c
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: 1c584c3bfd62b7573f4c9bcc0c0fb5402b2d9bef
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371774"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673006"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint 환경용 데이터
 
@@ -36,7 +36,7 @@ ms.locfileid: "58371774"
 
 ## <a name="developer-features"></a>개발자 기능
 
-상업적 고객을 위한 개발자 기능과 정부 클라우드 고객에 대한 개발자 기능 간에는 알려진 차이가 없습니다.
+상업적 고객을 위한 개발자 기능과 정부 클라우드 고객용 개발자 기능 간에는 알려진 차이가 없습니다.
 
 - 추가 기능의 데이터 원본과 같은 외부 응용 프로그램에 대한 연결은 정부 환경에서 지원하는 시스템 보안 경계 내에 있는 원본으로 제한됩니다.
 - Business Connectivity 서비스(BCS) 기능은 데이터 원본이 클라우드 서비스에 대한 보안 경계 내에서 연결 가능한 상태로 유지되는 연결 시나리오에 지원됩니다.
@@ -48,7 +48,6 @@ ms.locfileid: "58371774"
 다음은 상업적 고객을 위한 IT 관리자 기능과 정부 클라우드 고객을 위한 IT 관리자 기능의 차이점입니다.
 
 - 고가의 고객은 사이트 주소를 GCC 수 없습니다.
-- 하이브리드 SharePoint 서버는 모든 정부 클라우드 고객에게 제공되지 않습니다.
 - 마이그레이션 SharePoint 마이그레이션 관리자를 사용하려면 구성을 변경해야 합니다. 자세한 내용은 [SPMT 정부 클라우드 지원을 참조하세요.](/sharepointmigration/spmt-install-issues#government-cloud-support)
 - Mover.io 지원되지 않습니다.
 - 일부 정부 클라우드 고객은 Multi-Geo를 사용할 수 없습니다.
@@ -57,7 +56,7 @@ ms.locfileid: "58371774"
 
 ## <a name="security-and-compliance-features"></a>보안 및 규정 준수 기능
 
-상업적 고객을 위한 보안 및 규정 준수 기능과 정부 클라우드 고객에 대한 규정 준수 기능은 알려진 차이가 없습니다.
+상업적 고객을 위한 보안 및 규정 준수 기능과 정부 클라우드 고객의 보안 및 규정 준수 기능 간에는 알려진 차이가 없습니다.
 
 보안 및 규정 준수 기능에 대한 자세한 내용은 보안 및 준수 [& 참조하세요.](../office-365-securitycompliance-center.md)
 
@@ -69,7 +68,7 @@ SharePoint Syntex 대한 자세한 내용은 SharePoint Syntex [기능 서비스
 
 ## <a name="sites-and-content"></a>사이트 및 콘텐츠
 
-다음은 상업적 고객을 위한 사이트 및 콘텐츠 기능과 정부 클라우드 고객을 위한 콘텐츠 기능의 차이점입니다.
+다음은 상업적 고객을 위한 사이트 및 콘텐츠 기능과 정부 클라우드 고객을 위한 사이트 및 콘텐츠 기능의 차이점입니다.
 
 - Amazon Kindle, Bing 지도, Twitter 및 YouTube 웹 파트와 같은 인터넷 서비스에 대한 연결을 사용 하는 웹 파트는 예상대로 작동하지 않습니다.
 - 조직 자산 라이브러리를 사용할 수 없습니다.
@@ -81,7 +80,7 @@ SharePoint Syntex 대한 자세한 내용은 SharePoint Syntex [기능 서비스
 
 ## <a name="search-features"></a>검색 기능
 
-다음은 상업적 고객에 대한 검색 기능과 정부 클라우드 고객을 위한 검색 기능의 차이점입니다.
+다음은 상업적 고객을 위한 검색 기능과 정부 클라우드 고객을 위한 검색 기능의 차이점입니다.
 
 - Microsoft Search 사용할 수 GCC.
 
@@ -98,3 +97,41 @@ SharePoint Syntex 대한 자세한 내용은 SharePoint Syntex [기능 서비스
 Microsoft 미국 정부 클라우드에서 조직을 설정한 후 SharePoint 리소스 센터에 [설명된 권장 배포 경로를 따르고 있습니다.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) 채택 및 변경 관리 챔피언에 참여해야 합니다.
 또는 선택한 파트너와 함께 FastTrack 서비스를 사용자에게 롤아웃할 수도 있습니다. [](https://www.microsoft.com/fasttrack)
 Microsoft [보안 센터를](https://www.microsoft.com/trust-center) 방문하여 Microsoft가 어떻게 보안, 개인 정보 보호 및 규정 준수에 접근하는지, 조직이 고객에게 서비스를 제공하도록 하는 방법에 대한 핵심 테넌트에 대해 자세히 알아보세요.
+
+## <a name="configuring-sharepoint-hybrid-configuration-wizard-support-for-all-government-cloud-customers"></a>모든 정부 SharePoint 하이브리드 구성 마법사 지원 구성
+
+하이브리드 SharePoint 마법사에는 특수 SPO 환경을 SharePoint 하이브리드 기능에 대한 지원이 포함되어 있습니다.
+
+해당 환경에서 하이브리드 기능을 사용할 수 있도록 .config환경 관련 매개 변수의 값을 SharePoint 합니다. 구성 [파일 편집을 참조합니다.](#editing-configuration-file)
+
+> [!NOTE]
+> 하이브리드 기능이 지원을 제공하는 특수 SPO SharePoint 자세한 내용은 [지원되는 환경을 참조하세요.](#supported-environments)
+
+## <a name="editing-configuration-file"></a>구성 파일 편집
+
+1. 하이브리드 구성 마법사를 SharePoint 업데이트합니다.
+2. 하이브리드 구성 마법사가 설치된 SharePoint 이동합니다. 예를 들어 `%LOCALAPPDATA%\Apps\HybridSP\HybridSP`
+3. 파일 **microsoft.online.cse.hybridsp.common.dll.config** 같은 텍스트 편집기에서 메모장.
+이 파일의 콘텐츠는 다음 스크린샷에 나와 있습니다.
+
+:::image type="content" source="../../media/content.png" alt-text="구성 파일의 콘텐츠":::
+
+4. 매개 변수의 값을 `SPOEnvironmentType` 수정합니다.
+5. 변경 내용을 파일로 **microsoft.online.cse.hybridsp.common.dll.config** 저장합니다.
+6. 하이브리드 구성 SharePoint 다시 실행합니다.
+   설정이 적용되고 구성된 SharePoint SPO 환경에서 하이브리드 기능을 사용할 수 있습니다.
+
+## <a name="supported-environments"></a>지원되는 환경
+
+SharePoint 하이브리드 기능은 다음과 같은 SPO 환경을 지원합니다.
+
+- Public
+- PPE
+- GCC
+- GccHigh
+- DoD
+- 사용자 지정
+
+고객이 값을 Custom, , , 및 키로 설정하면 해당 사용자 지정 SPO 환경에 대한 끝점을 `SPOEnvironmentType`  `AuthorityEndPoint` `AADGraphEndPoint` `MSGraphEndPoint` 설정하는 데 사용됩니다.
+
+값이 Custom, , , 키가 없는 값으로 설정하면 키가 무시되고 SharePoint 하이브리드 구성 마법사에서 해당 SPO 환경 유형에 적합한 `SPOEnvironmentType`  `AuthorityEndPoint` 하드코드된 값을 `AADGraphEndPoint` `MSGraphEndPoint` 사용합니다.

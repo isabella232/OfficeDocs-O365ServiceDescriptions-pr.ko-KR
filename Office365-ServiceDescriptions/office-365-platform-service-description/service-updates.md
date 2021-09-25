@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-service-updates
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 방금 릴리스되거나 출시될 예정인 Office 365 기능에 대한 자세한 정보를 확인한 다음 Microsoft 365 로드맵을 확인해 보아야 합니다.
-ms.openlocfilehash: 2ead1c43f81842924a8d0f63ae167721515545fab52fed760d21396e9fe9472c
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 12d584da92350d5139bd2acdd8eb423e6f5b5131
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701787"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672864"
 ---
 # <a name="service-updates"></a>서비스 업데이트
 

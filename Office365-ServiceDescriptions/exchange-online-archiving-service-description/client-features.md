@@ -7,16 +7,16 @@ ms.topic: reference
 f1_keywords:
 - clients-and-devices-in-exchange-online-archiving
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: 이 문서를 읽고 보관에서 사용할 수 있는 클라이언트 기능에 대해 Microsoft Exchange Online 있습니다.
-ms.openlocfilehash: df71da18d5eb2304496bc72ac2556bb3cc325e50e49cccb14ba6b5191cc95b1d
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 5cb9e43ecf20aeca4bcec1c6c76c7ef56bb6e557
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664671"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670840"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>클라이언트의 Exchange Online Archiving
 

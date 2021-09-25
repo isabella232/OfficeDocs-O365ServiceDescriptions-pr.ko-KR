@@ -7,15 +7,15 @@ ms.reviewer: ankirti
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 미국 정부 클라우드 OneDrive 가용성에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 2c53de0cbf02090dda7b29468dc1ffa302cd4e4cd7dda5c3c99af6774880623a
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: a2fc0aaa86f84a6a30bc09fec9ffa71ddcb441be
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701977"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670163"
 ---
 # <a name="onedrive-for-us-government-environments"></a>OneDrive 미국 정부 환경용 데이터
 

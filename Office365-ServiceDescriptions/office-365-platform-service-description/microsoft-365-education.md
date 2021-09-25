@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: 계획과 계획 간의 Microsoft 365 Office 365 Education 대해 자세히 알아보습니다.
-ms.openlocfilehash: c5bd3717da582fa2483f423b6519c72641143ad0a320c3e5697aed0c5eb1dbc8
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8db32ff04ffc142cc5be32f6ea41831eaf596288
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663001"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670313"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -92,7 +92,7 @@ Microsoft 365 이동성 및 보안에 대한 Office 365, Windows 10 및 Enterpri
 |고급 보안 관리|아니요|예|예|예|예|아니요|아니요|아니요|아니요|
 |Intune for Education<sup>6</sup>|아니요|아니요|아니요|예|예|아니요|아니요|예|예|
 |Advanced Threat Analytics|아니요|아니요|아니요|예|예|아니요|아니요|예|예|
-|Windows Defender 바이러스 백신|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
+|Microsoft Defender 바이러스 백신|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
 |Microsoft Defender Device Guard|아니요|아니요|아니요|예|예|아니요|아니요|아니요|아니요|
 |Microsoft Defender for Identity<sup>11</sup>|아니요|아니요|아니요|아니요|예|아니요|아니요|아니요|예|
 |Office 365 Cloud App Security|아니요|아니요|아니요|예|예|예|예|예|예|

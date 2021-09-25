@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-365-support
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: 엔터프라이즈, Microsoft Office 365, 교육 및 정부 구독에 대한 모든 구독을 통해 Microsoft 지원은 글로벌 기술, 사전 판매, 대금 청구 및 구독 지원을 제공합니다. 지원은 유료 및 평가판 Microsoft 365 관리 센터 전화로 온라인에서 사용할 수 있습니다. 자세한 내용은 Microsoft 지원 옵션을 참조하세요.
-ms.openlocfilehash: 55c947fde5004c876f2dfcb95ad2e9f47fe71e31da8026d91a2ab541e1aac566
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 3ade3daebeaf3986ef0bcb6b40189a09204858e0
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701657"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670033"
 ---
 # <a name="support"></a>지원
 

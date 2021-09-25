@@ -6,15 +6,15 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 서비스 설명에 나열된 미국 정부 클라우드와 상업용 클라우드 간의 기능 Exchange Online 제공합니다.
-ms.openlocfilehash: caae2f98eb21bc640be33044448ce94746b3a449
-ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
+ms.openlocfilehash: 674d2e50b11624f206797cfef97883e9fda87df5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58702310"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671077"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online 미국 정부 환경용 데이터
 
@@ -59,7 +59,7 @@ ms.locfileid: "58702310"
 |보관된 데이터 암호화(BitLocker)|예|예|예||
 |Azure Information Protection을 사용한 IRM|예|예|예|High 및 DoD의 AIP 제한에 대한 자세한 GCC Azure Information Protection Premium Government 서비스 설명을 <a href="/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description">참조하세요.</a><br><br>Azure Information Protection은 G1/F3에 포함되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며 지원되는 IRM(정보 권한 관리) 기능을 사용하도록 설정할 수 있습니다. 일부 Azure Information Protection 기능을 사용하려면 F3 또는 Office 365 ProPlus 포함되어 있지 않은 구독이 Office 365 Government G1 Office 365 Government 있습니다.|
 |Windows Server AD RMS를 사용한 IRM|예|예|예|Windows Server AD RMS는 지원되는 IRM 기능을 사용하려면 별도로 구입 및 관리해야 하는 사내 서버입니다.|
-|Office 365 메시지 암호화|예|예|예|이 문서의 Office 365 메시지 암호화 [High/DoD](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) 경계에 대한 Office 365 메시지 암호화 GCC 동작 및 Office 365 메시지 암호화 GCC High/Do GCC D 사용자 간에 메시지를 보낼 때 Office 365 메시지 암호화 동작의 미미를 문서화하는 Office 365 메시지 암호화 <a href="/microsoft-365/compliance/ome-version-comparison#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">GCC</a>High/DoD의 고유한 특성을 참조하세요.|
+|Office 365 메시지 암호화|예|예|예|이 문서의 Office 365 메시지 암호화 [High/DoD](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) 경계에 대한 GCC 동작 <a href="/microsoft-365/compliance/ome-version-comparison#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment"></a>및 Office 365 메시지 암호화 높은 배포에서 GCC 고유의 특징을 참조하세요. 이 문서에서는 메시지를 보낼 때 Office 365 메시지 암호화 동작의 미미를 문서화합니다. High/DoD GCC High/DoD GCC High/DoD 사용자 간의 관계입니다.|
 |고객 키|예|예|예|G5 서비스 계획이 필요합니다.|
 |S/MIME|예|예|예||
 |원본 위치 유지 및 소송 보존|예|예|예|G3 또는 G5 서비스 플랜이 필요합니다.|

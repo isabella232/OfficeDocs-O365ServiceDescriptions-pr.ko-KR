@@ -6,14 +6,14 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: 클라우드 인쇄 서비스인 Microsoft 365 유니버설 인쇄는 사내 인쇄 서버의 필요성을 제거합니다.
-ms.openlocfilehash: 1262952b582df8ec6d3ddd97f9cf15916adaa31f65f721e1a3da2c0582c97c2c
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 85a388f811d149be6ae436c3f94421dbc1ec9284
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702437"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673129"
 ---
 # <a name="universal-print-service-description"></a>유니버셜 인쇄 서비스 설명
 

@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 관리자인 경우 Set up 비즈니스용 Skype Online features을 설정하는 자세한 지침을 비즈니스용 Skype 있습니다.
-ms.openlocfilehash: 4ce4e1e35f4a091677f5ee53b2073d1a702065fc91fcb4c6deed05d35d9aa38d
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 483b16473d13dbd517ba91eb83ea0f03aea59414
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702467"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672329"
 ---
 # <a name="skype-for-business-online-features"></a>비즈니스용 Skype Online 기능
 
@@ -50,7 +50,7 @@ ms.locfileid: "54702467"
   
 ## <a name="skype-to-skype-audio-video-and-media"></a>Skype-Skype 오디오, 비디오 및 미디어
 
-비즈니스용 Skype 온라인 사용자는 PC 및 웹 카메라를 사용하여 다른 비즈니스용 Skype 컴퓨터 기반 오디오 및 화상 통화를 할 수 있습니다. 비즈니스용 Skype Online 사용자는 동일한 비즈니스용 Skype Online 조직(회사 방화벽 내부 또는 외부)에 있는 다른 사용자와의 Skype-Skype 오디오 및 비디오 통화를 시작하거나, 두 개의 비즈니스용 Skype 도메인이 올바르게 구성, 지원 및 허용된 경우 비즈니스용 Skype 페더러드 도메인의 다른 비즈니스용 Skype 사용자와 함께 오디오 및 비디오 통화를 시작할 수 있습니다.
+비즈니스용 Skype 온라인 사용자는 PC 및 웹 카메라를 사용하여 다른 비즈니스용 Skype 컴퓨터 기반 오디오 및 화상 통화를 할 수 있습니다. 비즈니스용 Skype Online 사용자는 동일한 비즈니스용 Skype Online 조직의 다른 사용자(회사 방화벽 내부 또는 외부)에 있는 다른 사용자와의 Skype-Skype 오디오 및 비디오 통화를 시작하거나 비즈니스용 Skype 페더러인 도메인의 다른 비즈니스용 Skype 사용자와 함께 오디오 및 화상 통화를 시작할 수 있습니다. 두 비즈니스용 Skype 도메인이 올바르게 구성, 지원 및 허용됩니다.
   
 오디오 디바이스 옵션을 설정하는 비즈니스용 Skype 자세한 내용은 Set [audio device options in 비즈니스용 Skype.](https://support.office.com/article/2533d929-9814-4349-8ae4-fca29246e2ff) 
   

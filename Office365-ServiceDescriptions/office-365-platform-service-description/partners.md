@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-partners
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: 공인 Microsoft 파트너로서 Microsoft Office 365는 고객층을 확대하고 고객과의 지속적인 관계를 형성하기 위한 기회를 제공합니다. 월 단위 또는 연 단위로 비용을 지불하는 고객은 데이터 백업, 서버 하드웨어 및 서버 업데이트를 관리할 필요가 없는 클라우드 기반 서비스를 사용할 수 있습니다. 사용할 수 있는 서비스는 제공하도록 권한이 부여된 서비스 유형에 따라 다릅니다.
-ms.openlocfilehash: 4a46a7b49573520574d904bb4891f4091b12e6b7810a345c3aa7227be4907c57
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b4a0e551de714883aa5b30c248f0987d66f78f71
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701857"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670023"
 ---
 # <a name="partners"></a>파트너
 

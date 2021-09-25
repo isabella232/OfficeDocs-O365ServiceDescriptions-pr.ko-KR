@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-applications-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 Word, Office 및 응용 프로그램과 같이 이미 익숙한 최신 버전의 Office 데스크톱 응용 프로그램을 제공하는 구독 Excel PowerPoint.
-ms.openlocfilehash: 83ccebfd18bc95694f641d02b4eb56c4bcf34e3859d408ef9550881f2b2fe873
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 6947786fcc848195fbb90afb120966c73cb4dd5f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702027"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672779"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 
@@ -93,7 +93,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 ><sup>++</sup>OneNote Server, SharePoint Online, SharePoint 및 비즈니스용 OneDrive 전자 필기장에 대한 Office 365. <br/>
 ><sup>+++</sup> BHO 지원은 BHO를 위한 확장 Internet Explorer. <br/>
 ><sup>1</sup> 보관 및 규정 준수 기능은 이 Office 버전에서 지원되지만 Exchange Online 및 SharePoint Online 계획은 포함되어 있지 않으므로 별도 구입하거나 지원 가능한 온-프레미스 서버 동급의 제품과 함께 사용해야 합니다.<br/>
-<sup>2</sup> Azure Information Protection은 포함되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며 지원되는 IRM(정보 권한 관리) 기능을 사용하도록 설정할 수 있습니다. 일부 Azure Information Protection 기능을 사용하려면 엔터프라이즈용 Microsoft 365 앱 구독해야 합니다. Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 E1, Office 365 Education 또는 F3에는 Office 365 포함되어 있지 않습니다.<br/>
+<sup>2</sup> Azure Information Protection은 포함되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며 지원되는 IRM(정보 권한 관리) 기능을 사용하도록 설정할 수 있습니다. 일부 Azure Information Protection 기능을 사용하려면 엔터프라이즈용 Microsoft 365 앱, Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 E1, Office 365 Education 또는 F3 Office 365.<br/>
 <sup>3</sup> Windows Server AD RMS는 지원되는 IRM 기능을 사용하기 위해 별도로 구입하여 관리해야 하는 온-프레미스 서버입니다.<br/>
 <sup>4</sup> Office 2013 Professional Plus 또는 독립 실행형 버전의 Excel 2013이 있는 경우 지원되지 않는 추가 기능인 Excel 2013용 Power Map Preview를 사용할 수 있습니다. 이전 버전의 Power Map Preview가 만료되어 모든 버전의 Power Map Preview는 Excel. 이전 버전을 설치한 경우 제어판에서 제거한 다음 현재 버전의 Power Map Preview를 다운로드하여 설치합니다. 이 버전은 Microsoft 365 SP1과 함께 릴리스된 Power Map 버전과 동일한 기능을 제공합니다.<br/> 
 <sup>5 비즈니스용 Skype</sup> Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 로컬로 설치된 응용 프로그램으로, 비즈니스용 Skype Online이 포함된 계획에 대한 현재 상태, 인스턴트 메시징 및 회의 기능을 제공합니다. 엔터프라이즈용 Microsoft 365 앱 및 Office 365 E3 포함된 전체 Skype 응용 프로그램에는 고급 전화 통신 지원, 보관 및 규정 준수 기능을 비롯한 추가 기능이 포함됩니다. A Skype for Business Online license must be assigned for each user. 기능과 기능을 비교한 내용은 [Desktop client comparison tables for Lync Server 2013을 참조합니다.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 

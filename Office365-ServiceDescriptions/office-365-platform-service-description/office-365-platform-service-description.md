@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-365-platform-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 Office 365 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 사용할 수 있습니다. 계획 간 차이점(Exchange Online 계획 포함)을 찾고 있는 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다.
-ms.openlocfilehash: 81734f31224024ecb0f54c4c33fe4071cffae438
-ms.sourcegitcommit: 40a8e3be736d1177d046da50639a5685aca18707
+ms.openlocfilehash: d516d9dedc812c8dee10f8eb302ddaff64ac5334
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58402772"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671340"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 및 Office 365 플랫폼 서비스 설명
 
@@ -98,12 +98,12 @@ Multi-Geo를 사용하면 단일 조직이 여러 Office 365 데이터 센터 �
 |**[Microsoft 365 제품군 기능](office-365-suite-features.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**비즈니스용 Microsoft 365 앱** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Microsoft Bookings  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Microsoft 브리핑 전자 메일<sup>19</sup>  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft Power Automate  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>12</sup> <br/> |
+|[Microsoft Power Automate](/power-automate/us-govt)  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>12</sup> <br/> |
 |Microsoft Forms  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Graph API  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft MyAnalytics<sup>17</sup>  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Microsoft Planner  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
-|Microsoft PowerApps  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <br/> | 
+|[Microsoft PowerApps](/power-platform/admin/powerapps-us-government)  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <br/> | 
 |Microsoft Project <sup>20용 웹 서버</sup> <br/> |예 <br/> |아니요 <br/>|예 <br/> |예 <br/> |예 <br/> |예 <br/> | 예 <br/> |
 |Microsoft StaffHub  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft Stream  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예<sup>11</sup> <br/> |
@@ -112,7 +112,7 @@ Multi-Geo를 사용하면 단일 조직이 여러 Office 365 데이터 센터 �
 |Microsoft Delve  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Microsoft 365 그룹  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |OneNote 수업용 전자 필기장  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |예<sup>13</sup> <br/> |아니요  <br/> |
-|Microsoft Kaizala<sup>16</sup> <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <br/> |
+|[Microsoft Kaizala](https://products.office.com/business/microsoft-kaizala)<sup>16</sup> <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <br/> |
 |Microsoft Search|아니요  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |
 |**[사용자 계정 관리](user-account-management.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**비즈니스용 Microsoft 365 앱** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |클라우드 ID, 페더레이션 ID 또는 다단계 인증  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
@@ -222,7 +222,7 @@ Multi-Geo를 사용하면 단일 조직이 여러 Office 365 데이터 센터 �
 <br/><sup>13</sup> Office 365 Education Education을 포함하여 Office 365 E5 있습니다. E5에서는 사용할 Office 365 Enterprise 없습니다. 
 <br/><sup>14</sup> 자세한 내용은 고객 키를 사용하여 [서비스 암호화를 참조하세요.](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697) 
 <br/><sup>15</sup> Advanced eDiscovery 미국 및 서유럽(네덜란드) 지역에서 지원됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.)
-<br/><sup>16</sup> 2019년 5월부터 2019년 5월부터 Office 365 및 Microsoft 365 SKUS가 Kaizala Pro. 2019년 6월 1일부터 Kaizala Pro SKUS 및 Office 365 SK에 Microsoft 365 포함됩니다.
+<br/><sup>16</sup> 2019년 5월부터 2019년 5월부터 Office 365 및 Microsoft 365 SKUS가 Kaizala Pro. 2019년 6월 1일부터 Kaizala Pro SKUS 및 Office 365 SK에 Microsoft 365 포함됩니다. 자세한 내용은 Microsoft Kaizala 을 [Microsoft Kaizala.](https://products.office.com/business/microsoft-kaizala)
 <br/><sup>17</sup> 자세한 내용은 [MyAnalytics](/workplace-analytics/myanalytics/overview/plans-environments)계획 및 환경을 참조하세요.
 <br/><sup>18</sup> Azure Active Directory 페이지의 Office 365 **앱** 열에 설명된 Azure Active Directory [기능을](https://azure.microsoft.com/pricing/details/active-directory/) 포함합니다. 프리미엄 Azure AD 기능을 사용하려면 Azure Active Directory 요금제 1, Enterprise 또는 Microsoft 365 E3 또는 E5를 추가해야 합니다.<br/>
 <sup>19</sup> 브리핑 전자 메일은 사용자의 모든 사용자에게 Exchange Online. 자세한 내용은 [Configure Briefing email을 참조하세요.](/Briefing/be-admin)<br>

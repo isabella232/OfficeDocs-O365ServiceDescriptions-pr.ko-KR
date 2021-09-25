@@ -6,20 +6,20 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: Microsoft Bookings에서 사용할 수 있는 계획 옵션 및 기능에 대해 자세히 알아보십시오.
-ms.openlocfilehash: b2125c2c2b0eb163cfcefce472c2eb299cb87e090bd507baa0f857b5ababdbaf
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 77454f65643fee7892a0c0d7fd9b8c4750e87bd7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663251"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670370"
 ---
 # <a name="microsoft-bookings-service-description"></a>Microsoft Bookings 서비스 설명
 
 Microsoft Bookings는 약속 예약 및 관리 프로세스를 간소화합니다. 예약에는 웹 기반 예약 일정이 포함되어 Outlook 동기화하여 가용성을 최적화하고 고객 및 최종 사용자에게 가장 적합한 시간을 예약할 수 있는 유연성을 제공합니다. 자동화된 알림 전자 메일 및 미리 알림은 no-shows를 줄이고 고객 만족도를 높이며 조직은 반복적인 관리 작업을 줄여 시간을 절약합니다. Bookings는 온라인 모임을 Microsoft Teams 가상 약속을 지원하기 위해 예약과 통합하고, Bookings 일정 관리는 Teams.
 
-## <a name="available-plans"></a>사용 가능한 계획
+## <a name="available-plans"></a>사용 가능한 플랜
 
 사용자가 Microsoft Bookings를 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
 

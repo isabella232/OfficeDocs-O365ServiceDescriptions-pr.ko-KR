@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 미국 정부를 대신하여 데이터를 보유하거나 처리하는 계약자뿐만 아니라 미국 연방, 주, 지방 및 자치 정부의 고유하고 진화된 요구 사항을 충족하기 위해 Microsoft는 Office 365 미국 정부 Community(GCC) 서비스를 제공합니다. 볼륨 라이선스를 비롯한 여러 채널을 통해 제공되는 관심 있는 조직은 환경을 설정하기 전에 자격을 확인하기 위해 유효성 검사 프로세스를 거치게 됩니다. 현재 평가판은 미국 정부 기관에만 제공됩니다.
-ms.openlocfilehash: 83c96657bf45e68578f8bf85da257104bcb1412178bcf7f145e335dd80d47165
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: fedaed2bc6f0e4aea2d4cc1d92584b7e7c2f3c48
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701888"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671067"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -56,7 +56,7 @@ Yammer 엔터프라이즈용 Office 365 Government 구성 요소는 아니며, O
   
 현재 Yammer는 응용 프로그램 계층에서 고객 데이터를 논리적으로 분리할 수 있도록 합니다. 그러나 Yammer 데이터 위치 및 데이터 액세스 기능을 Office 365 Government FedRAMP 인증을 지원하지는 못하며, Office 365 서비스와 다른 계약 조건이 적용될 수 있습니다. 조직에 적합한 서비스 [](../../yammer-service-description/yammer-service-description.md) Yammer 평가할 때 Yammer 서비스 설명 및 개인 정보 취급 방침을 검토하는 것이 좋습니다. 에 포함된 Office 365 Government 계획에 Yammer 자세한 내용은 [Office 365 Government.](office-365-us-government.md)
   
-Yammer 구독의 일부로 조직에 Yammer Office 365 Government 사용이 적절하고 Yammer가 포함된 위에서 언급한 계획 중 하나를 구입한 경우 Enterprise 등록에서 엔터프라이즈 구독에 대해 Yammer 수 있도록 수정을 요청할 수 있습니다.
+Yammer 구독의 일부로 조직에 Yammer Office 365 Government 사용이 적절하고 Yammer가 포함된 위에서 언급한 계획 중 하나를 구입한 경우 Enterprise 등록에서 엔터프라이즈 구독에 대해 Yammer 수정을 요청할 수 있습니다. .
   
 ## <a name="office-365-government-gcc-customer-support"></a>Office 365 Government GCC 고객 지원
 

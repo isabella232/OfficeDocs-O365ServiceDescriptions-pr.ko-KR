@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - reporting-and-message-trace-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: 이 문서를 읽고 EOP(Microsoft Exchange Online 보호)의 보고 및 메시지 추적에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 8b593faea343d742c2f57ce430457e1803ba75b5a135d46f338eaed0e76d2ca6
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 2a920ba65c98a612d4343b893458b5bb34a4959e
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664091"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672207"
 ---
 # <a name="reporting-and-message-trace-in-exchange-online-protection"></a>Exchange Online Protection의 보고 및 메시지 추적
 
@@ -38,7 +38,7 @@ Microsoft EOP(Exchange Online Protection)에서는 조직의 전체 상태를 �
 
 EOP 독립 실행형 고객에게는 제공되지 않습니다. REST/OData 테넌트 보고 웹 서비스를 사용하여 메시징 데이터에 대한 요약 및 세부 보고서를 프로그래밍식으로 수집할 수 있으며, 사용자 지정 웹 관리 포털에서 웹 페이지에 데이터를 표시할 수 있습니다.
 
-## <a name="message-trace"></a>Message trace
+## <a name="message-trace"></a>메시지 추적
 
 EAC의 메시지 추적 기능을 사용하면 관리자로서 EOP를 통과하는 전자 메일 메시지를 따를 수 있습니다. 서비스에서 대상 전자 메일 메시지를 수신, 거부, 지연 또는 배달할지 여부를 결정하는 데 도움이 됩니다. 또한 메시지가 최종 상태에 도달하기 전 메시지에 수행된 작업을 확인할 수 있습니다. 특정 메시지에 대한 자세한 정보를 파악하면 사용자 질문에 효과적으로 대답하고, 메일 흐름 문제를 해결하며, 정책 변경 사항의 유효성을 검사할 수 있을 뿐만 아니라 기술 지원 서비스에 지원을 문의해야 하는 수고를 덜 수 있습니다. 자세한 내용은 [Run a message trace and view the results in the Exchange 참조하세요.](/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results)
 

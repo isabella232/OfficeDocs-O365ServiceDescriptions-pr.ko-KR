@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - yammer-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 각 계획에서 사용할 수 있는 기능을 Yammer 참조합니다.
-ms.openlocfilehash: 3b899a5f17ef501305d5057268053e843ad4c383
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: 16393c4ef8accf9a6786a241d19b438d416389dc
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363565"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673099"
 ---
 # <a name="yammer-service-description"></a>Yammer 서비스 설명
 
@@ -62,7 +62,7 @@ Microsoft 상업용 볼륨 라이선싱 프로그램을 통해 구매한 제품 
 
 Microsoft는 데이터의 보안과 서비스의 [접근성](https://www.microsoft.com/trust-center/compliance/accessibility)에 최선을 다하고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조하세요.
 
-## <a name="learn-more"></a>자세히 알아보기
+## <a name="learn-more"></a>자세한 정보
 
 자세한 내용은 Yammer 리소스를 참조하십시오.
 

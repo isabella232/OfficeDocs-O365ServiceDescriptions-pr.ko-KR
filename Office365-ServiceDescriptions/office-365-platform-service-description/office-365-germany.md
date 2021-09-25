@@ -6,16 +6,16 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와는 다른 옵션입니다. 독일, 유럽 연합(EU) 및 EFTA(유럽 자유 무역 연합)에서 독일 데이터 센터의 데이터 상주와 독일 법률에 따라 제어되는 고유한 데이터 수탁자 모델을 통해 엄격한 데이터 액세스 및 제어 조치를 통해 업계 최고의 디지털 작업을 위한 생산성 서비스를 제공하여 가장 규제가 많은 고객의 요구를 충족하는 데 도움이 됩니다.
-ms.openlocfilehash: d2e3e06483ca0a09cfe4f5f9e6028948dc8f03983281420786c535f5f1479d48
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: a028550d0ffcef647535934962d50e0fcd931485
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701677"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671377"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -756,7 +756,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |Ask Me About|예|예|예|예|예|예|예|아니요|
 |개인 블로그|예<sup>13</sup>|아니요|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|
 |커뮤니티 신뢰도, 배지 및 중재|예<sup>14</sup>|아니요|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|<sup>아니요 14</sup>|
-|커뮤니티|예<sup>14</sup>|아니요|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|아니요|
+|Community|예<sup>14</sup>|아니요|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|예<sup>14</sup>|아니요|
 |회사 피드|예|아니요|예|예|예|예|예|아니요|
 |문서화 대화 Yammer|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |팔로우|예|예|예|예|예|예|예|아니요|

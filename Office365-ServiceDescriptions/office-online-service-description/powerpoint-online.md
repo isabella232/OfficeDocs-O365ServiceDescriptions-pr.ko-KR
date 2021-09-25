@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - powerpoint-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: 웹용 PowerPoint(이전의 PowerPoint Web App)는 Microsoft PowerPoint 환경을 웹 브라우저로 확장하여 프레젠테이션이 저장된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있습니다. Microsoft 365 있는 웹용 Office 이동 중 파일을 보고 만들고 편집할 수 있습니다.
-ms.openlocfilehash: b497765f3112043f81a604ff2f8eb6715ff24a66a248f9d3756393ae0d90c0c2
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 33805c6937c073be6c7d08f9dca2e56c915a8085
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702257"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669973"
 ---
 # <a name="powerpoint-for-the-web"></a>웹용 PowerPoint
 

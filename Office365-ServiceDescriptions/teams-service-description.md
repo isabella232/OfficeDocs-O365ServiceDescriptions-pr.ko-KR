@@ -6,20 +6,20 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: Microsoft Teams 계획 및 Microsoft 365 서비스 및 기능 가용성에 대해 Office 365 대해 자세히 알아보습니다.
-ms.openlocfilehash: 0c1a7e833e257f9dff2f4123cc5142b99a85cf9799bc2e526d8d6e4d9e90f8ed
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: f4c410e68150187d0f9a28234260ac4be3c29852
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702907"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673191"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
 Microsoft Teams 팀워크의 허브는 Microsoft 365. Teams 서비스에서는 인스턴트 메시징, 오디오 및 비디오 통화, 다양한 온라인 모임, 모바일 환경 및 광범위한 웹 회의 기능을 사용할 수 있습니다. 또한 Teams 및 데이터 공동 작업 및 extensibility 기능을 제공하며 Microsoft 365 Microsoft 및 파트너 앱과 통합됩니다.
 
-## <a name="available-plans"></a>사용 가능한 계획
+## <a name="available-plans"></a>사용 가능한 플랜
 
 사용자가 Microsoft Stream을 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
 

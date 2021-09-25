@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-advanced-threat-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 는 강력한 제로 데이 보호를 제공하여 알 수 없는 맬웨어 및 바이러스로부터 조직을 보호하는 클라우드 기반 전자 메일 필터링 서비스로, 유해한 링크로부터 조직을 실시간으로 보호하는 기능을 포함합니다.
-ms.openlocfilehash: 823527f1ef0fbd0284fb1b703d3c6e9f7dfdad440138b6d724077ad5badb9bca
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 41f726ad322050821871f286aac9c4862e33f7a7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663101"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670343"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Office 365용 Microsoft Defender 서비스 설명
 
@@ -31,7 +31,7 @@ Microsoft Defender for Office 365 피싱, 비즈니스 전자 메일 손상 및 
 
 - 하이브리드 배포에서는 인바운드 전자 메일 필터링에 Office 365 사서함과 클라우드 사서함이 혼합된 경우 메시징 환경을 보호하고 메일 라우팅을 Exchange Online Protection Defender for Exchange Online Protection 수 있습니다.
 
-## <a name="available-plans"></a>사용 가능한 계획
+## <a name="available-plans"></a>사용 가능한 플랜
 
 Microsoft Defender for Office 365 구독에 대한 자세한 계획 정보는 전체 구독 비교 표를 [참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
@@ -43,9 +43,9 @@ Microsoft Defender for Office 365 구독에 대한 자세한 계획 정보는 �
 |---------|--------------------------------|--------------------------------|--------------------------------|
 | *구성, 보호 및 검색* | | | |
 | 보안 정책 및 구성 분석기 미리 설정 | 예 | 예 | 예 |
-| [안전한 첨부 파일](microsoft-defender-for-office-365-features.md#safe-attachments) | 예 | 예 | 예 |
+| [안전 첨부 파일](microsoft-defender-for-office-365-features.md#safe-attachments) | 예 | 예 | 예 |
 | 금고 Teams | 예 | 예 | 예 |
-| [안전한 링크](microsoft-defender-for-office-365-features.md#safe-links) | 예 | 예 | 예 |
+| [안전 링크](microsoft-defender-for-office-365-features.md#safe-links) | 예 | 예 | 예 |
 | [안전한 문서](microsoft-defender-for-office-365-features.md#safe-documents) | 아니요 | 아니요 | 예 |
 | Teams의 안전한 링크 | 예 | 예 | 예 |
 | 보고서 메시지 Add-In | 예 | 예 | 예 |

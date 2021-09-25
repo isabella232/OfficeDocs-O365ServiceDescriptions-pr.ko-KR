@@ -8,22 +8,22 @@ ms.topic: reference
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: 웹용 Office(Office Web Apps)는 웹 브라우저에서 Word, Excel, OneNote PowerPoint 열립니다. 웹용 Office 사용하면 거의 모든 장치에서 인터넷에 연결하여 어디서나 Office 파일을 보다 쉽게 작업하고 공유할 수 있습니다. Microsoft 365 Word, Excel, OneNote 또는 PowerPoint 사용하여 이동 중 파일을 보고 만들고 편집할 수 있습니다.
-ms.openlocfilehash: 6cc468d2d40b54a7f8a6b1bb4e8ba77bb917950142796e6976d3135c856297b2
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e40f65fb3271720bd2cd6ea5d275a3f1e32cb639
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702097"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670020"
 ---
 # <a name="office-for-the-web-service-description"></a>웹용 Office 서비스 설명
 
 웹용 Office(Office Web Apps)는 웹 브라우저에서 Word, Excel, OneNote PowerPoint 열립니다. 웹용 Office 사용하면 거의 모든 장치에서 인터넷에 연결하여 어디서나 Office 파일을 보다 쉽게 작업하고 공유할 수 있습니다. Microsoft 365 Word, Excel, OneNote 또는 PowerPoint 사용하여 이동 중 파일을 보고 만들고 편집할 수 있습니다. 
   
-## <a name="available-plans"></a>사용 가능한 계획
+## <a name="available-plans"></a>사용 가능한 플랜
 
 사용자가 웹용 구독을 사용할 수 있도록 하는 Office 계획에 대한 자세한 내용은 전체 구독 비교 표를 [참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
   

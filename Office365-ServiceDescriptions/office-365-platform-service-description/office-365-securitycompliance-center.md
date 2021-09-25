@@ -6,20 +6,20 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 보안 및 준수 센터는 조직 전체에서 규정 &amp; Office 365 수 있도록 디자인되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: 53b1c2c0f9f2af8fd287a2466d33b076ae4ba039
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: e703a630cd2300bff85d465be89ce865c572d6a4
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363605"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671292"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-접근성 및 사용 편의성을 염두에 두어 디자인된 Microsoft 365 보안 [](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx) [센터,](https://sip.security.microsoft.com/homepage)Microsoft 365 규정 준수 센터 및 Exchange 관리 센터에는 Microsoft 365 서비스 전반에 걸쳐 통합 보안, 규정 준수 및 메일 흐름 관리를 위한 새로운 기능과 향상된 환경이 포함되어 있습니다. [](https://sip.compliance.microsoft.com/homepage) 이러한 새 센터는 보안 및 준수 센터(Office 365)를 &amp; 점진적으로 protection.office.com. 이제 보안 센터 또는 규정 [](https://sip.security.microsoft.com/homepage) 준수 센터에서 자동 리디렉션을 끄면 조직의 관리자가 Office 365 보안 및 준수 센터의 기능에서 새 센터의 해당 기능으로 즉시 [](https://sip.compliance.microsoft.com/homepage) &amp; 리디렉션됩니다.
+접근성과 사용 편의성을 염두에 두어 설계된 Microsoft 365 보안 [센터,](https://sip.compliance.microsoft.com/homepage) [](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx) Microsoft 365 규정 준수 센터 및 Exchange 관리 센터에는 여러 보안 센터의 통합 [보안,](https://sip.security.microsoft.com/homepage)규정 준수 및 메일 흐름 관리를 위한 새로운 기능과 향상된 환경이 Microsoft 365 서비스. 이러한 새 센터는 보안 및 준수 센터(Office 365)를 &amp; 점진적으로 protection.office.com. 이제 보안 센터 또는 규정 [](https://sip.security.microsoft.com/homepage) 준수 센터에서 자동 리디렉션을 끄면 조직의 관리자가 Office 365 보안 및 준수 센터의 기능에서 새 센터의 해당 기능으로 즉시 [](https://sip.compliance.microsoft.com/homepage) &amp; 리디렉션됩니다.
 
 사용자 라이선스를 사용자에게 라이선스를 설정하여 규정 준수 기능을 Microsoft 365 옵션을 확인하려면 Microsoft 365 [비교 표를 다운로드하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
@@ -33,7 +33,7 @@ ms.locfileid: "58363605"
 |[고급 위협 관리(예:](/microsoft-365/security/office-365-security/office-365-ti)피싱 캠페인에 대한 위협 탐색기<sup>6)</sup> | 아니요 | 아니요 |아니요 | 아니요 | 아니요 | 예 | 예 | 아니요 |
 |[고객 Lockbox](/microsoft-365/compliance/customer-lockbox-requests) | 아니요 | 아니요 | 아니요 | 아니요 | 아니요 | 예 | 예  | 아니요  |
 |[모바일 장치 관리](/microsoft-365/admin/basic-mobility-security/set-up) | 예 | 예 | 예 | 예 | 예 | 예 | 예 | 예 |
-|[Exchange Online, SharePoint Online](/microsoft-365/compliance/data-loss-prevention-policies)및 비즈니스용 OneDrive<sup>7,9에</sup> 대한 데이터 손실 방지 | 아니오 | 예 | 예 | 아니요 | 예 | 예 | 아니요 | 아니요 |
+|[Exchange Online, SharePoint Online](/microsoft-365/compliance/data-loss-prevention-policies)및 비즈니스용 OneDrive<sup>7,9에</sup> 대한 데이터 손실 방지 | 아니요 | 예 | 예 | 아니요 | 예 | 예 | 아니요 | 아니요 |
 |[통신 데이터 손실 방지를 Microsoft Teams](/microsoft-365/compliance/dlp-microsoft-teams) | 아니요 | 아니요 | 아니요 | 아니요 | 아니요 | 예 | 아니요 |  |
 |[수동 민감도 레이블](/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | 아니요 | 아니요 | 예 | 예 | 예 | 예 | 예 | 아니요 |
 |자동 민감도 레이블 | 아니요 | 아니요 |아니요 | 아니요 | 아니요 | 예 | 예 | 아니요 |
@@ -71,7 +71,7 @@ ms.locfileid: "58363605"
 |[고급 위협 관리](/office365/securitycompliance/office-365-ti)( 예: 피싱 캠페인에 대한 위협 탐색기)   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요  |
 |[고객 Lockbox](/office365/securitycompliance/customer-lockbox-requests)  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
 |[모바일 장치 관리](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |예   |예   |예   |예   |예   |예   |예   |예   |예   |
-|[Exchange Online, SharePoint Online](/office365/securitycompliance/data-loss-prevention-policies)및 비즈니스용 OneDrive<sup>9에</sup> 대한 데이터 손실 방지  |아니오   |예   |아니요   |아니요   |예 <sup>7<sup>  |아니요  |예<sup>10</sup> |아니오   |예   |
+|[Exchange Online, SharePoint Online](/office365/securitycompliance/data-loss-prevention-policies)및 비즈니스용 OneDrive<sup>9에</sup> 대한 데이터 손실 방지  |아니요   |예   |아니요   |아니요   |예 <sup>7<sup>  |아니요  |예<sup>10</sup> |아니요   |예   |
 |[통신 데이터 손실 방지를 Microsoft Teams](/microsoft-365/compliance/dlp-microsoft-teams)  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
 |[정보 장벽](/office365/securitycompliance/information-barriers)  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
 |[정보 거버넌스](/office365/securitycompliance/retention-policies)<sup>1</sup>  |예<sup>2</sup>  |예   |예   |예   |예   |예<sup>10</sup>  |예<sup>10</sup>  |예   |예   |

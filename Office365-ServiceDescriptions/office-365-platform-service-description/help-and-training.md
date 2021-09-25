@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-help-and-training
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 도움말 및 교육 리소스를 제공합니다.
-ms.openlocfilehash: d2cf7dfda21fe01cd6d9197a9f5e760bf007311edc8d356e15e91e832b44735f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e1d88e1bbebd899ffffe7ccee8824107346d1336
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663011"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671401"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -43,7 +43,7 @@ Microsoft Office 365 도움말 및 교육 리소스를 제공합니다.
     
 - [Office 365 관리자 지원 기술: 핵심 개념](https://www.microsoftvirtualacademy.com/training-courses/office-365-admin-support-skills-core-concepts?Prid=fusion-www)
     
-## <a name="community"></a>커뮤니티
+## <a name="community"></a>Community
 
 > [!NOTE]
 > 커뮤니티 리소스는 전 세계 버전의 Office 365에 적용됩니다. 21Vianet에서 운영하는 Office 365를 사용 중인 경우 WeChat을 사용할 수 있습니다. [21Vianet에서 운영하는 Office 365에 대한 기술, 결제 및 구독 지원 받기](/microsoft-365/admin/contact-support-for-business-products)를 참조하고 페이지 아래로 스크롤하여 QR 코드를 찾으세요. 

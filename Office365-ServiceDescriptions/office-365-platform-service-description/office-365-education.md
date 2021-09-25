@@ -6,20 +6,20 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 교육용 Office 365 차이점을 찾고 있는 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다. Office 365 익숙한 Microsoft Office 데스크톱 제품군을 Microsoft Exchange Online, Microsoft Office SharePoint Online, 웹용 Office 및 Microsoft 비즈니스용 Skype Online을 비롯한 Microsoft 차세대 통신 및 공동 작업 서비스의 클라우드 기반 버전과 결합하여 인터넷을 통해 거의 모든 곳에서 사용자의 생산성을 향상할 수 있도록 &mdash; &mdash; 합니다.
-ms.openlocfilehash: 7955cf1d3d2aa2d9599d5b43cfa103a68f3b15f4f94545c8c8aff08790074853
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 교육용 Office 365 차이점을 찾고 있는 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다. Office 365 익숙한 Microsoft Office 데스크톱 제품군과 클라우드 기반 버전의 Microsoft, Microsoft Exchange Online 및 공동 작업 서비스를 &mdash; Microsoft Office SharePoint Online. 웹용 Office Microsoft 비즈니스용 Skype Online을 사용하면 인터넷을 통해 거의 모든 곳에서 생산성을 향상할 &mdash; 수 있습니다.
+ms.openlocfilehash: 55e285a62f2e4a955e88a416f40c800ad1489ff7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663021"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671414"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
-Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 교육용 Office 365 차이점을 찾고 있는 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다. Office 365 익숙한 Microsoft Office 데스크톱 제품군을 Microsoft Exchange Online, Microsoft Office SharePoint Online, 웹용 Office 및 Microsoft 비즈니스용 Skype Online을 비롯한 Microsoft 차세대 통신 및 공동 작업 서비스의 클라우드 기반 버전과 결합하여 인터넷을 통해 거의 모든 곳에서 사용자의 생산성을 향상할 수 있도록 &mdash; &mdash; 합니다.
+Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 교육용 Office 365 차이점을 찾고 있는 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다. Office 365 익숙한 Microsoft Office 데스크톱 제품군과 클라우드 기반 버전의 Microsoft, Microsoft Exchange Online 및 공동 작업 서비스를 &mdash; Microsoft Office SharePoint Online. 웹용 Office Microsoft 비즈니스용 Skype Online을 사용하면 인터넷을 통해 거의 모든 곳에서 생산성을 향상할 &mdash; 수 있습니다.
   
 이 문서에서는 Office 365 Education 요금제(A1, A3 및 A5)에 대한 기능을 나열합니다. 비즈니스 및 엔터프라이즈 계획 간 [](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) 기능을 비교하기 위해 비즈니스용 Office 365 요금제 비교를 참조하거나, 기능의 자세한 목록은 Microsoft 365 및 Office 365 서비스 설명을 [참조하세요.](../office-365-service-descriptions-technet-library.md)
   
@@ -497,9 +497,9 @@ Microsoft Exchange Online의 제한은 다음 범주 중 하나에 속합니다.
 |보관 사서함<sup>6, 7</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |공유 사서함  <br/> |50GB<sup>2</sup> <br/> |50GB<sup>2</sup> <br/> |50GB<sup>2</sup> <br/> |
 |리소스 사서함  <br/> |50GB<sup>3</sup> <br/> |50GB<sup>3</sup> <br/> |50GB<sup>3</sup> <br/> |
-|사이트 사서함<sup>4</sup> <br/> |50GB  <br/> |50GB  <br/> |50GB  <br/> |
+|사이트 사서함<sup>4</sup> <br/> |50 GB  <br/> |50GB  <br/> |50 GB  <br/> |
 |공용 폴더 사서함  <br/> |50GB<sup>5</sup> <br/> |100GB<sup>5</sup> <br/> |100GB<sup>5</sup> <br/> |
-|그룹 사서함  <br/> |50GB  <br/> |50GB  <br/> |50GB  <br/> |
+|그룹 사서함  <br/> |50GB  <br/> |50 GB  <br/> |50GB  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> 각 사용자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 Office 365 무제한 보관의 개요를 참조하세요. 가용성에 대한 자세한 내용은 Office 365 로드맵을 참조하세요. <br/> 
@@ -626,7 +626,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
   
 | 기능 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|메시지 수신됨  <br/> |시간당 3600개 메시지  <br/> |하루에 3600개 메시지  <br/> |하루에 3600개 메시지  <br/> |
+|메시지 수신됨  <br/> |시간당 3600개 메시지  <br/> |시간당 3600개 메시지  <br/> |하루에 3600개 메시지  <br/> |
    
 #### <a name="sending-limits"></a>전송 제한
 

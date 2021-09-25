@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-advanced-threat-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ''
 description: Microsoft Defender for Office 365.
-ms.openlocfilehash: a4f7fe00162dc15d7f01be831842066ef448546ad36197fb0551d85dbfba73ef
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 591236d6028d57025d2dd7a9cfc5ef80d3617176
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663051"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671458"
 ---
 # <a name="microsoft-defender-for-office-365-features-service-description"></a>Office 365용 Microsoft Defender 기능 서비스 설명
 
@@ -59,11 +59,11 @@ We are continuing to add new features to Defender for Office 365. Office 365 (�
 >
 > 링크 보호에 금고 대한 자세한 내용은 microsoft [Defender에서](/microsoft-365/security/office-365-security/atp-safe-links)금고 링크를 Office 365.
 
-### <a name="safe-documents"></a>안전한 문서
+### <a name="safe-documents"></a>안전 문서
 
 금고 [문서](/microsoft-365/security/office-365-security/safe-docs) 기능은 [끝점용 Microsoft Defender를](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 사용하여 보호된 보기에서 연 문서 및 파일을 [검사합니다.](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
 
-시작하기 전에 알아야 할 내용
+시작하기 전에 알아야 할 내용은 무엇인가요?
 
 - 금고 이제 버전 2004(Office 12730.x) 이상의 사용자가 문서를 일반적으로 사용할 수 있습니다! 이 기능은 기본적으로 해제되어 있으며 보안 관리자가 사용하도록 설정해야 합니다.
 

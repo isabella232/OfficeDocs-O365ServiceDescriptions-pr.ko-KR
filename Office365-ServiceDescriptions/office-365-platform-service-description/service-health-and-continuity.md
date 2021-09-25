@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-service-health
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 관리자는 서비스 상태를 보고 유지 관리 일정을 확인할 수 있습니다. 서비스 상태 정보는 로그인하여 무료로 사용할 수 있습니다.
-ms.openlocfilehash: 1bfe01361cb2968b51ff49f2f04ec814f0c59d68d7f4f392c97d60c48f50f14f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 497568f54fc5a761278902eb26e92bc52789c9b5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701817"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672969"
 ---
 # <a name="service-health-and-continuity"></a>서비스 상태 및 연속성
 

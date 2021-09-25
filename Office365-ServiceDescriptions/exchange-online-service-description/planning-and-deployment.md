@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-planning-and-deployment
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
 description: 배포 계획 및 배포에 대해 Microsoft Exchange Online.
-ms.openlocfilehash: 60edd1a35112f7344eaf4e0badf8a49f04c0daa99d7b11b94220ed9973b6faf6
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8407f95e9a0d9cb721134fdf8cab46003339f197
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663671"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671792"
 ---
 # <a name="planning-and-deployment"></a>계획 및 배포
 
@@ -50,7 +50,7 @@ Microsoft Exchange 2003, Exchange 2007, Exchange 2010 및 Exchange 2013 온-프�
   
 - **IMAP 마이그레이션** - 사서함 데이터를 IMAP 기반 전자 메일 시스템에서 사서함으로 Exchange Online. 
     
-- 단독형 Exchange 마이그레이션 **-** Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 및 Hosted Exchange 시스템에서 단일 단독형 마이그레이션으로 Exchange Online 마이그레이션합니다. 
+- **컷오버** Exchange 마이그레이션 - Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 및 Hosted Exchange 시스템에서 Exchange Online 단일 단독 마이그레이션에서 사용할 수 있습니다. 
     
 - **단계적** Exchange 마이그레이션 - 단계적 마이그레이션을 수행하여 웹 기반 마이그레이션 도구를 사용하여 Exchange Server 2003 또는 Exchange Server 2007에서 사서함을 마이그레이션하고, 최소한의 변경을 통해 사서함을 마이그레이션합니다. 
     

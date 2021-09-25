@@ -7,21 +7,21 @@ ms.reviewer: dstrome
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice 호출에 사용할 수 있는 추가 Microsoft Teams 서비스입니다. 전화 시스템, 국내 통화 플랜, SMS 및 오디오 회의가 결합됩니다.
-ms.openlocfilehash: 90563ef54d57b823b675907868fc067adbe39b091f7955bb8814b55c910406cd
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: cf759b14c6e3b1903a52206b8a97745105f5360c
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663581"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671697"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business Voice 설명
 
 Microsoft 365 Business Voice 통화 대기, 통화 전달Microsoft Teams 자동 전화 회의, 통화 큐, 오디오 회의 및 통화 계획과 같은 전화 시스템 기능을 제공하는 클라우드 기반 전화 통신 솔루션입니다. Business Voice는 라이선스가 포함된 Office 365 Microsoft 365 구독에 추가할 Microsoft Teams 수 있습니다(최대 300개 라이선스). Business Voice 서비스에 대한 자세한 내용은 Microsoft 365 Business Voice.
 
-## <a name="available-plans"></a>사용 가능한 계획
+## <a name="available-plans"></a>사용 가능한 플랜
 
 다음 표에는 조직의 요구에 가장 적합한 솔루션을 선택할 수 있도록 Microsoft 365 Business Voice 추가 기능을 사용할 수 있는 계획이 표시됩니다. 자세한 계획 정보는 [를](/MicrosoftTeams/business-voice/whats-business-voice)Microsoft 365 Business Voice. <br><br>
 
@@ -51,7 +51,7 @@ Microsoft 365 Business Voice 통화 대기, 통화 전달Microsoft Teams 자동 
 | 통화 대기 | 예 | 예<sup>*</sup> |
 | 착신통화전환 | 예 | 예<sup>*</sup> |
 | 통화 위임(대리인과 전화선 공유) | 예 | 예<sup>*</sup> |
-| 음악 보류 중 | 예 | 예<sup>*</sup> |
+| 통화 대기음 | 예 | 예<sup>*</sup> |
 | 통화 블록 | 예 | 예<sup>*</sup> |
 | 자동 전화 걸기 내선 번호 걸기 | 예 | 예<sup>*</sup> |
 | 공유 음성 메일로 자동 전화 걸기/통화 큐 전송 | 예 | 예<sup>*</sup> |

@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - mail-flow-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: 이 문서를 읽고 EOP(Microsoft Exchange Online 보호)의 메일 흐름에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 1391f5dcbc47bf9fa3ea6c7be84d97bd107a4c3bbde958694b182d2f32ee523e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 4cc64692eb9cfb338e4fa9ab1ad7d7b4f889e280
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664181"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672339"
 ---
 # <a name="mail-flow-in-exchange-online-protection"></a>메일 흐름의 Exchange Online Protection
 

@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - recipient-domain-and-company-management-features-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: 이 문서를 읽고 EOP(Microsoft Exchange Online 보호)의 받는 사람, 도메인 및 회사 관리에 대해 자세히 알아보습니다.
-ms.openlocfilehash: fc2b9f6fbd797e8e765758c11c486ce6afaba5a5855602e79f5418c1e80bb1ea
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 928f94153f91c5067bc5e7ea80525a36cc8e7de3
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664061"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672231"
 ---
 # <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>사용자 계정의 받는 사람, 도메인 및 Exchange Online Protection
 

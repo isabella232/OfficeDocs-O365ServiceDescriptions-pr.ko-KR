@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: 다음 핵심 서비스 기능은 다음의 주요 서비스 Project Online.
-ms.openlocfilehash: 026f33890716fd22f7d7b8c402e97244b0a7b851bef0702bc1eb82273c26d15b
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: c4722336b394a61fe2613dcfb15f3b71b501d46b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702847"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672649"
 ---
 # <a name="core-services-functionality"></a>핵심 서비스 기능
 
@@ -31,7 +31,7 @@ Active Directory에서는 관리자가 사용자 자격 증명 및 권한을 관
 
 Project Online 및 Project Server 2013에서는 관리자에게 Project를 계획, 설치 및 구성, 유지 관리 및 확장하기 위한 기능이 제공됩니다. [IT 전문가를 위한 Project Server 2013의 새로운 기능](/project/what-s-new-for-it-pros-in-project-server-2016)을 참조하세요.
   
-## <a name="getting-started"></a>시작하기
+## <a name="getting-started"></a>시작
 
 시작 콘텐츠는 해당 웹 Project Online. [Project Online 시작](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11)을 참조하세요.
   
