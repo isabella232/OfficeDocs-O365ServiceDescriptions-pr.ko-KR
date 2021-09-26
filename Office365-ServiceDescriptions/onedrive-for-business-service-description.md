@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 어떤 계획에서 어떤 OneDrive 기능을 사용할 수 있는지 확인합니다.
-ms.openlocfilehash: f69eecbffac6b8c444209b338c96478422a4ef03ffcb7f33fe4193ee53330cfd
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 4d35862b6cb6d27f866537e535b4001159d3e853
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702727"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669970"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 서비스 설명
 
@@ -37,12 +37,14 @@ OneDrive는 Microsoft 365 및 Office 365 플랜의 SharePoint 플랜에 포함�
 
 | 기능 | 독립 실행형 플랜 | 소규모 기업 | 엔터프라이즈 | 교육 기관 | 정부 기관 | 비영리 조직  |
 |---------|-------------------|----------------|------------|-----------|------------|-------------|
-| 저장소 | 예 | 예 | 예 | 예 | 예 | 예 |
+| 스토리지<sup>1</sup> | 예 | 예 | 예 | 예 | 예 | 예 |
 | 동기화 기능 | 예 | 예 | 예 | 예 | 예 | 예 |
 | 공유 및 공동 작업 기능 | 예 | 예 | 예 | 예 | 예 | 예 |
 | 웹 기능 | 예 | 예 | 예 | 예 | 예 | 예 |
 | 모바일 기능 | 예 | 예 | 예 | 예 | 예 | 예 |
 | IT 관리자, 보안 및 규정 준수 기능 | 예 | 예 | 예 | 예 | 예 | 예 |
+
+<sup>1</sup> 사용자당 OneDrive 저장소에 대한 자세한 내용은 OneDrive [최신 작업 비교](https://go.microsoft.com/fwlink/?linkid=2139145)에서 확인하세요.
 
 ## <a name="learn-more"></a>자세한 정보
 
@@ -50,6 +52,7 @@ OneDrive는 Microsoft 365 및 Office 365 플랜의 SharePoint 플랜에 포함�
 
 - [OneDrive](/onedrive/onedrive)
 - [Microsoft OneDrive 블로그](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/bg-p/OneDriveBlog)
+- 대부분의 구독 플랜에서 각 사용자의 OneDrive에 제공되는 기본 저장소 공간은 1TB입니다. 계획 및 사용이 허가된 사용자 수에 따라 이 스토리지를 최대 5TB까지 늘릴 수 있습니다. 자세한 내용은 [OneDrive 클라우드 저장소 가격 및 요금제 비교](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2)에서 **핵심 기능** 을 참조하세요.
 
 ### <a name="licensing-terms"></a>사용 조건
 
