@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 각 계획에서 사용할 수 있는 기능을 Yammer 참조합니다.
-ms.openlocfilehash: 16393c4ef8accf9a6786a241d19b438d416389dc
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: be90cc37e288d3aa4d0de8400546d153b97845f9
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59673099"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986144"
 ---
 # <a name="yammer-service-description"></a>Yammer 서비스 설명
 
@@ -46,9 +46,23 @@ ms.locfileid: "59673099"
 |[Yammer 플랫폼](https://developer.microsoft.com/yammer) | 예     | 예     | 예     |
 |[관리자 기능](/yammer/) | 예     | 예     | 예     |
 
-## <a name="messaging"></a>메시징
+## <a name="messaging"></a>메시지
 
 새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용에 대한 정보를 확인하기 위해 메시지 센터를 방문합니다. 자세한 내용은 [메시지 센터](/microsoft-365/admin/manage/message-center)를 참조하세요.
+
+## <a name="communication-channels"></a>커뮤니케이션 채널
+
+통신에 사용되는 채널은 영향에 따라 달라 하게 됩니다.
+
+
+| 변경 유형 | Office 365 메시지 [센터](/microsoft-365/admin/manage/message-center) | Microsoft 365 로드맵 | Yammer 기술 Community 블로그(예: 월별 왕복) | 외부 커뮤니티, Twitter |
+|---------|---------|---------|---------|---------|
+|**작업이 필요한 변경 사항(변경 계획)** - 서비스를 계속 실행하기 위한 관리자 조치가 필요한 변경 내용, 조직의 규정 준수에 영향을 줄 수 있는 업데이트 | 예 | 예 | 예 | 예 |
+| **인식이 필요한 변경 사항(정보를** 계속 주시) - 관리자 작업이 필요하지 않은 변경 내용, 시각적 디자인 변경 | 예 | 예 | 예 | 예 |
+
+> [!NOTE]
+> 대상 사용자 집합에 영향을 주는 변경 내용을 통해 해당 사용자에게 직접 알릴 수 있습니다.</br>
+> 중요하지 않은 변경 내용이나 작업이나 인식이 필요하지 않은 변경 내용은 광범위하게 전달되지 않습니다(일부 사용자가 관찰할 수 있는 경우에도).
 
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer 서비스 통신 정책
 

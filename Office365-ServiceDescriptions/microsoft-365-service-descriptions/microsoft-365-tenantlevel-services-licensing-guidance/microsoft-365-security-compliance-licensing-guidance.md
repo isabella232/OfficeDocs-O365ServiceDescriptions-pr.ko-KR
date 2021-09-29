@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 Microsoft 365 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: 8ba78ae1343a5038901d1bd66b2b7bcfffceb70e
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 59e7714ec09b56a0e9bfb22d87d9419d991f8ee6
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670397"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986164"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 &amp; 지침
 
@@ -159,11 +159,11 @@ Microsoft Exchange Online 라이선스가 포함된 모든 고객은 준수 관�
 |<ul><li>Microsoft 365 또는 Office 365 A1/E1/F1/G1</li><li>Microsoft 365 또는 Office 365 A3/E3/F3/G3</li></ul>|<ul><li>데이터 보호 기준</li></ul>|
 |<ul><li>Microsoft 365 또는 Office 365 A5/E5/G5</li><li>Microsoft 365 A5/E5/F5/G5 규정 준수</li><li>Microsoft 365 A5/E5/F5/G5 eDiscovery 및 감사</li><li>Microsoft 365 A5/E5/F5/G5 내부자 위험 관리</li><li>Microsoft 365 A5/E5/F5/G5 정보 보호 및 거버넌스</li></ul>|<ul><li>데이터 보호 기준</li><li>EU GDPR</li><li>NIST 800-53</li><li>ISO 27001</li><li>CMMC 수준 1-5(G5에만 사용 가능)</li><li>사용자 지정 평가</li></ul>|
 
-## <a name="what-are-custom-assessments"></a>사용자 지정 평가란?
+### <a name="what-are-custom-assessments"></a>사용자 지정 평가란?
 
 사용자 지정 평가는 새 템플릿을 만들거나 컨트롤 및 개선 작업을 추가하거나 업데이트하는 등의 기존 평가 템플릿을 사용자 지정할 수 있는 기능을 제공하는 준수 관리자 기능입니다.
 
-## <a name="who-can-access-custom-assessments"></a>Who 평가에 액세스할 수 있나요?
+### <a name="who-can-access-custom-assessments"></a>Who 평가에 액세스할 수 있나요?
 
 아래 나열된 E5 구독이 있는 고객은 사용자 지정 평가 기능을 사용할 수 있습니다.
 

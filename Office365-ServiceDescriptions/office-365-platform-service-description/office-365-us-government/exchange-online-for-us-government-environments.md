@@ -9,12 +9,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 서비스 설명에 나열된 미국 정부 클라우드와 상업용 클라우드 간의 기능 Exchange Online 제공합니다.
-ms.openlocfilehash: 674d2e50b11624f206797cfef97883e9fda87df5
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 2845e26e40552f364d2f8f6a0ec2746d35e13330
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671077"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986134"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online 미국 정부 환경용 데이터
 
@@ -121,7 +121,7 @@ ms.locfileid: "59671077"
 |기본 모바일 및 보안 for Microsoft 365|예|아니요|아니요||
 |POP 및 IMAP|예|예|예||
 |SMTP|예|예|예||
-|EWS 응용 프로그램 지원|예|예|예||
+|EWS 응용 프로그램 지원<sup>2</sup>|예|예|예||
 |**[음성 메시지 서비스](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**GCC High**|**DoD**|**주요 고려 사항**|
 |음성 사서함|아니요|아니요|아니요|통합 메시징과의 Exchange Online IP-PBX 시스템 통합은 지원되지 않습니다.|
 |음성 메일과 타사 팩스 간의 통합|아니요|아니요|아니요|통합 메시징과의 Exchange Online IP-PBX 시스템 통합은 지원되지 않습니다.|
@@ -147,7 +147,8 @@ ms.locfileid: "59671077"
 |**[서비스 확장 - 사용자 지정, 추가 기능 및 리소스](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC High**|**DoD**|**주요 고려 사항**|
 |Outlook 추가 기능 및 MAPI Outlook 추가 기능|예|예|예|일부 OWA 및 Outlook 추가 기능만 High 및 DoD에서 GCC 있습니다. 이 [문서의 추가](#add-insin-outlook-and-outlook-web-app) Outlook Outlook Web App 참조하세요.|
 
-<sup>1</sup> Outlook 경계 제한(높음/비영구)으로 인해 Outlook Windows IRM으로 보호된 메시지를 표시할 수 없는 시나리오에서는 웹에서 사용할 수 있습니다(GCC 높음/비이용성 GCC).
+<sup>1</sup> Outlook 경계 제한(높음/비영구)으로 인해 Outlook Windows IRM으로 보호된 메시지를 표시할 수 없는 시나리오에서는 웹에서 사용할 수 있습니다(GCC 높음/비이용성 GCC).</br>
+<sup>2</sup> 고객이 소유하고 있는 특정 주소 공간으로만 들어갈 수 있으므로 모바일 장치에서 사용하는 타사 서비스와 광범위한 IP 범위를 제외합니다.
 
 ## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>High 및 DoD 환경 GCC 기능의 미정
 
