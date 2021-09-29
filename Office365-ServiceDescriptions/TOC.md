@@ -75,6 +75,7 @@
 ## [SharePoint Syntex 서비스 설명](sharepoint-syntex-service-description/sharepoint-syntex-service-description.md)
 ### [SharePoint Syntex 기능](sharepoint-syntex-service-description/sharepoint-syntex-features.md)
 ## [유니버셜 인쇄 서비스 설명](universal-print-service-description/universal-print-service-description.md)
+## [Windows 365 서비스 설명](windows-365-service-description/windows-365-service-description.md)
 ## [비즈니스용 Skype Online 서비스 설명](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [비즈니스용 Skype Online 기능](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [비즈니스용 Skype Online 제한](skype-for-business-online-service-description/skype-for-business-online-limits.md)
@@ -98,6 +99,7 @@
 ### [자원 관리](project-online-service-description/resource-management.md)
 ## [웹용 Visio 서비스 설명](visio-online-service-description/visio-online-service-description.md)
 ### [Visio 기능 세부 정보](visio-online-service-description/visio-features.md)
+## [Microsoft Viva 서비스 설명](microsoft-viva-service-description.md)
 ## [Yammer 서비스 설명](yammer-service-description/yammer-service-description.md)
 ### [Yammer에서의 제한](yammer-service-description/yammer-limits.md)
 ## Microsoft 365 서비스 설명
