@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 구독이 포함된 기능 비교를 Exchange Online? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: c4daf506b60198d9bf3abeaec010dc5dc3b03888
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: c0682932646cfd43781e460ceba02fdfb72c0102
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672071"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015702"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -328,7 +328,7 @@ Exchange Online 구독 계획에서 사용할 수 있는 저장소 및 받는 �
 <sup>14</sup> Exchange Server 2013 이상을 실행하는 고객은 OWA 및 장치용 OWA의 문서 지문 및 정책 팁 액세스하려면 최신 CU(누적 업데이트) 또는 바로 이전 CU를 다운로드하여 설치해야 합니다. <br/>
 <sup>15</sup> 2013 이상을 Exchange Server 고객이 사용할 수 있습니다. <br/>
 <sup>16</sup> BitLocker 드라이브 암호화는 Exchange Server 2013에서 지원되지만 관리자는 이 기능을 사용하도록 설정해야 합니다. <br/>
-<sup>17</sup> Exchange Online 계획 1의 사서함 및 보관에 대한 크기 [제한이 있습니다.](./exchange-online-limits.md) Exchange Online용 Exchange Online Archiving 추가 기능에서는 무제한 클라우드 기반 보관 및 [In-Place Hold를 추가합니다.](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold) <br/>
+<sup>17</sup> Exchange Online 계획 1의 사서함 및 보관에 대한 크기 [제한이 있습니다.](./exchange-online-limits.md) Exchange Online용 Exchange Online Archiving 추가 기능에서는 최대 1.5 TB의 클라우드 기반 보관함 및 [In-Place Hold가 추가됩니다.](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold) <br/>
 <sup>18</sup> Exchange Online Kiosk OWA를 통해서만 일정에 액세스하거나 공유할 수 있습니다. <br/>
 <sup>19</sup> 연결된 계정은 POP IMAP 계정에 대해 &amp; 지원되지만 Outlook.com(Hotmail)에는 사용하지 않도록 설정됩니다. <br/>
 <sup>20</sup> Exchange Online PowerShell에서 cmdlet을 사용하여 기본 주소 목록을 사용자 지정하고 기본 GAL(전체 주소 목록)은 지원되지 않습니다. <br/>

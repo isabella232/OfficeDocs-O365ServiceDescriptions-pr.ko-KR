@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 보관에서 사용할 수 있는 보관 기능에 Microsoft Exchange Online 대해 자세히 알아보습니다.
-ms.openlocfilehash: 6f342899722b3d411c9eb0f45ef40237ca05bc9f
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 1271018444f001e98fde5f628a4ef0a8c3abe782
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670870"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015692"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>보관 기능의 Exchange Online Archiving
 
@@ -32,8 +32,9 @@ Exchange Online Archiving에서는 보관 사서함 기능과 함께 고급 보�
 관리자는 EAC(Exchange 관리 센터)나 원격 Windows PowerShell을 통해 특정 사용자가 보관 기능을 사용하도록 설정할 수 있습니다. 자세한 내용은 [Exchange Online의 보관 사서함을 사용하거나 사용하지 않도록 설정](/office365/securitycompliance/enable-archive-mailboxes)을 참조하세요.
   
 > [!IMPORTANT]
->  보관 목적으로 저널링, 전송 규칙 또는 자동 전달 규칙을 사용하여 Exchange Online Archiving에 메시지를 복사할 수는 없습니다.<br/>
->  사용자의 보관 사서함은 해당 사용자만을 위한 것입니다. Microsoft는 사용자의 보관 사서함이 다른 사용자의 보관 데이터를 저장하는 데 사용되는 경우 또는 부적절한 사용이 있는 경우 무제한 보관을 거부할 권리가 있습니다.
+>  보관 목적으로 저널링, 전송 규칙 또는 자동 전달 규칙을 사용하여 Exchange Online Archiving에 메시지를 복사할 수는 없습니다.
+>
+>  사용자의 보관 사서함은 해당 사용자만을 위한 것입니다. Microsoft는 사용자의 보관 사서함이 다른 사용자의 보관 데이터를 저장하는 데 사용되거나 부적절한 사용의 경우 추가 보관 저장소 공간을 거부할 수 있는 권리가 있습니다.
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Exchange Online Archiving으로 메시지 이동
 
@@ -63,7 +64,8 @@ Exchange Online Archiving에서는 보관 사서함 기능과 함께 고급 보�
 사용자가 복구 가능한 항목 폴더에서 항목을 수동으로 제거한 경우 관리자는 단일 항목 복구라는 기능을 사용하여 같은 기간(14일) 내에 항목을 복구할 수 있습니다. 관리자는 이 기능을 통해 여러 사서함 검색을 수행하여 제거된 항목을 찾은 다음  `Search-Mailbox` Windows PowerShell cmdlet을 사용해 검색 사서함에서 사용자 사서함으로 항목을 이동할 수 있습니다. 자세한 내용은 [사서함에 대한 단일 항목을 사용하거나 사용하지 않도록 설정](/office365/securitycompliance/use-network-upload-to-import-pst-files)을 참조하세요.
   
 > [!NOTE]
->  단일 항목 복구 기간은 기본적으로 14일이지만 경우에 따라 사용자가 지정할 수 있습니다.<br/>
+>  단일 항목 복구 기간은 기본적으로 14일이지만 경우에 따라 사용자가 지정할 수 있습니다.
+>
 >  관리자가 사용자의 사서함을 In-Place 보존 또는 소송 보존으로 설정한 경우 제거된 항목은 무기한 보존되고 14일 기간이 적용되지 않습니다. 
   
 ## <a name="deleted-mailbox-recovery"></a>삭제된 사서함 복구

@@ -9,12 +9,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium 중소기업 고객을 위한 Microsoft 동급 최고의 제품입니다. Microsoft 365 Business Premium 통합 솔루션은 생산성, Microsoft 365 및 장치 관리를 통합하는 통합 솔루션입니다.
-ms.openlocfilehash: 66832d3ae1a74f5551bbb689eb7ac07d197b1e2b
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: e4062493a2508b17704c48770d5e991915674426
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670465"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015654"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>중소기업을 위한 Microsoft 365 라이선싱
 
@@ -44,13 +44,13 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 |   | Windows Virtual Desktop | 아니요 | 예 |
 |**정보 보호** | Microsoft 데이터 손실 방지 | 아니요 | 예 |
 |   | Azure Information Protection 계획 1, BitLocker 적용 | 아니요 | 예 |
-|**규정 준수** | 무제한 전자 메일 보관<sup>2</sup> | 아니요 | 예 |
+|**규정 준수** | 자동 확장 보관<sup>2</sup> | 아니요 | 예 |
 
 **참고**
 
 <sup>1</sup> 미국, 영국, 캐나다에서 사용할 수 있습니다.
 
-<sup>2</sup> 자동 확장이 켜져 있는 경우 무제한 보관
+<sup>2</sup> 자동 확장 보관이 켜져 있는 경우 사용자의 보관 저장소 용량은 최대 1.5 TB입니다.
 
 ## <a name="feature-comparison-microsoft-365-business-premium-and-office-365-e3"></a>기능 비교: Microsoft 365 Business Premium Office 365 E3
 
@@ -74,7 +74,7 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 |**정보 보호** | Microsoft 데이터 손실 방지 | 예 | 예 |
 |   | Azure Information Protection 계획 1, BitLocker 적용 | 아니요 | 예 |
 |**On-premises CAL rights** | ECAL 제품군(Exchange, SharePoint, Skype) | 예 | 아니요 |
-|**규정 준수** | 무제한 전자 메일 보관<sup>3</sup> | 예 | 예 |
+|**규정 준수** | 자동 확장 보관<sup>3</sup> | 예 | 예 |
 
 **참고**
 
@@ -82,7 +82,7 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 
 <sup>2</sup> 미국, 영국, 캐나다에서 사용할 수 있습니다.
 
-<sup>3</sup> 자동 확장이 켜져 있는 경우 무제한 보관
+<sup>3</sup> 자동 확장 보관이 켜져 있는 경우 사용자의 보관 저장소 용량은 최대 1.5 TB입니다.
 
 ## <a name="feature-comparison-microsoft-365-business-standard-microsoft-365-business-premium-and-office-365-e3"></a>기능 비교: Microsoft 365 Business Standard, Microsoft 365 Business Premium 및 Office 365 E3
 
@@ -106,7 +106,7 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 |**정보 보호**  | Microsoft 데이터 손실 방지 | 아니요 | 예 | 예 |
 |   | Azure Information Protection 계획 1, BitLocker 적용 | 아니요 | 예 | 아니요 |
 |**On-premises CAL rights** | ECAL 제품군(Exchange, SharePoint, Skype) | 아니요 | 아니요 | 예 |
-|**규정 준수** | 무제한 전자 메일 보관<sup>3</sup> | 아니요 | 예 | 예 |
+|**규정 준수** | 자동 확장 보관<sup>3</sup> | 아니요 | 예 | 예 |
 
 **참고**
 
@@ -114,7 +114,7 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 
 <sup>2</sup> 미국, 영국, 캐나다에서 사용할 수 있습니다.
 
-<sup>3</sup> 자동 확장이 켜져 있는 경우 무제한 보관
+<sup>3</sup> 자동 확장 보관이 켜져 있는 경우 사용자의 보관 저장소 용량은 최대 1.5 TB입니다.
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>기능 비교: Microsoft 365 Business Standard 계획 Microsoft 365 계획 비교
 
@@ -126,11 +126,11 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 |**팀워크를 위한 허브** | 채팅 기반 작업 영역, 온라인 모임 등 Microsoft Teams | 예 | 예 | 예 | 예 |
 |**파일 저장소** | 비즈니스용 OneDrive | 사용자당 1 TB | 사용자당 1 TB | unlimited | unlimited |
 |**소셜, 비디오, 사이트** | Yammer, SharePoint Online, Planner | 예 | 예 | 예 | 예 |
-|   | 스트림 | | 예 | 예 | 예 |
+|   | Stream | | 예 | 예 | 예 |
 |**비즈니스 앱** | 예약 앱 &ndash; Bookings<sup>1</sup> | 예 | 예 | 예 | 예 |
 |**위협 방지** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, Enterprise 보호 | 아니요 | 아니요 | 예 | 예 |
 |   | Office 365용 Microsoft Defender | 아니요 | 예 | 아니요 | 예 |
-|   | 끝점용 Microsoft Defender | 아니요 | 아니요 | 아니요 | 예 |
+|   | 엔드포인트용 Microsoft Defender | 아니요 | 아니요 | 아니요 | 예 |
 |   | Office 365 위협 인텔리전스 | 아니요 | 아니요  | 아니요 | 예 |
 |**ID 관리** | 하이브리드 Azure Active Directory, Azure MFA, 조건부 액세스에 대한 셀프 서비스 암호 재설정   | 아니요 | 예 | 예 | 예 |
 |   | Azure AD: Cloud App Discovery, Azure AD 커넥트 Health, 10개 이상의 앱에 대한 SSO | 예 | 예 | 예 | 예 |
@@ -141,7 +141,7 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 | **정보 보호** | Microsoft 데이터 손실 방지, Azure Information Protection 계획 1 | 아니요 | 예 | 예 | 예 |
 |   | Azure Information Protection 계획 2, Microsoft Cloud App Security Office 365 Cloud App Security | 아니요 | 아니요 | 아니요 | 예 |
 |**On-premises CAL rights** | ECAL 제품군(Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Windows Rights Management) | 아니요 | 아니요 | 예 | 예 |
-|**규정 준수** | 무제한 전자 메일 보관<sup>2</sup> | 아니요 | 예 | 예 | 예 |
+|**규정 준수** | 자동 확장 보관<sup>2</sup> | 아니요 | 예 | 예 | 예 |
 |   | 고급 eDiscovery, 고객 Lockbox, 고급 데이터 거버넌스 | 아니요 | 아니요 | 아니요 | 예 |
 |**분석** | Power BI Pro, MyAnalytics | 아니요 | 아니요 | 아니요 | 예 |
 | | Insights By MyAnalytics | 예 | 예 | 예 | 예 |
@@ -152,7 +152,7 @@ Microsoft 365 Business Premium 중소기업(SMB) 고객을 위한 Microsoft 동�
 
 <sup>1</sup> 미국, 영국, 캐나다에서 사용할 수 있습니다.
 
-<sup>2</sup> 자동 확장이 켜져 있는 경우 무제한 보관
+<sup>2</sup> 자동 확장 보관이 켜져 있는 경우 사용자의 보관 저장소 용량은 최대 1.5 TB입니다.
 
 ## <a name="office-client-commercial-plans"></a>Office 클라이언트 상업용 계획
 
