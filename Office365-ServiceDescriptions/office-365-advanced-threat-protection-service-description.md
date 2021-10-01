@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 는 강력한 제로 데이 보호를 제공하여 알 수 없는 맬웨어 및 바이러스로부터 조직을 보호하는 클라우드 기반 전자 메일 필터링 서비스로, 유해한 링크로부터 조직을 실시간으로 보호하는 기능을 포함합니다.
-ms.openlocfilehash: 41f726ad322050821871f286aac9c4862e33f7a7
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 1d06d2780efa1e0303ae3b6f155ec5ad0ecf56dd
+ms.sourcegitcommit: 2ef11e882b734751bceffbbcad920b765c47fc92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670343"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60040954"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Office 365용 Microsoft Defender 서비스 설명
 
@@ -76,6 +76,23 @@ Microsoft Defender for Office 365 자세한 내용은 다음 리소스를 참조
 ### <a name="licensing-terms"></a>사용 조건
 
 Microsoft 상업용 볼륨 라이선싱 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 [제품 조건 사이트](https://www.microsoft.com/licensing/terms/)를 참조하세요.
+
+Microsoft Defender for Office 365 계획 1 테넌트의 경우 다음 시나리오 중 하나 이상에 속하는 사용자 또는 사서함에 대해 라이선스를 취득해야 합니다.
+
+- 사용자 보호를 위해 Defender의 혜택을 받는 사서함에 액세스하는 Office 365.
+- 보안 보호를 위해 Defender의 이점을 Office 365 사서함입니다.
+- 금고 SharePoint, 비즈니스용 OneDrive 또는 Teams 대한 첨부 파일 보호가 설정되어 있는 경우 SharePoint, 비즈니스용 OneDrive 또는 Teams.
+- 링크 보호를 사용할 Microsoft 365 앱 Teams 금고 사용하는 모든 사용자입니다.
+
+Microsoft Defender for Office 365 계획 2 테넌트의 경우 다음 시나리오 중 하나 이상에 속하는 사용자 또는 사서함에 대해 라이선스를 취득해야 합니다.
+
+- 테넌트 Exchange Online 모든 사용자 계획 2 기능은 테넌트의 모든 사용자를 보호하기 때문에입니다.
+- 테넌트의 모든 공유 사서함
+- 금고 SharePoint, 비즈니스용 OneDrive 또는 Teams 대한 첨부 파일 보호가 설정되어 있는 경우 SharePoint, 비즈니스용 OneDrive 또는 Teams.
+- 링크 보호를 사용할 Microsoft 365 앱 Teams 금고 사용하는 모든 사용자입니다.
+
+> [!NOTE]
+> Office 365 E5, Microsoft 365 E5 Security 및 Microsoft 365 E5 P2용 Microsoft Defender Office 포함하며 Microsoft 365 Business Premium P1용 Microsoft Defender가 Office 365 포함됩니다.
 
 ### <a name="messaging"></a>메시지
 
