@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 Microsoft 365 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: 59e7714ec09b56a0e9bfb22d87d9419d991f8ee6
-ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
+ms.openlocfilehash: e889cdbfe23bbea76fcaf66596dad202be4918fd
+ms.sourcegitcommit: 0107453467d2f1b4971118273631248432d0aa28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59986164"
+ms.lasthandoff: 10/02/2021
+ms.locfileid: "60082858"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 &amp; 지침
 
@@ -538,7 +538,7 @@ MCAS의 조건부 액세스 앱 제어 기능을 사용하려면 Enterprise Mobi
 
 관리자는 서비스에서 사용할 수 있는 범위가 지정한 배포 기능을 사용하여 사용이 허가된 사용자로 MCAS 배포 범위를 지정합니다. 자세한 내용은 [범위가 지정한 배포를 참조하세요.](/cloud-app-security/scoped-deployment)
 
-## <a name="microsoft-defender-for-endpoint"></a>엔드포인트용 Microsoft Defender
+## <a name="microsoft-defender-for-endpoint"></a>끝점용 Microsoft Defender
 
 끝점용 Microsoft Defender(이전의 Microsoft Defender ATP)는 위험 기반 보안 솔루션으로, 위험 기반 취약성 관리 솔루션입니다. 공격 표면 감소 기능 동작 기반 및 클라우드 기반 차세대 보호 끝점 검색 및 응답(EDR); 자동 조사 및 수정 및 관리되는 헌팅 서비스. 자세한 [내용은 끝점용 Microsoft Defender 페이지를](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 참조하세요.
 
@@ -558,21 +558,15 @@ SecOps 분석가 및 보안 전문가는 끝점용 Microsoft Defender의 끝점 
 
 끝점용 Microsoft Defender 관리자는 RBAC(역할 기반 액세스 제어)를 사용하여 보안 운영 팀 내에서 역할 및 그룹을 만들어 해당 역할에 적절한 액세스 권한을 부여할 수 Microsoft Defender 보안 센터. 자세한 내용은 역할 기반 액세스 제어를 사용하여 포털 액세스 [관리를 참조하세요.](/windows/security/threat-protection/microsoft-defender-atp/rbac)
 
-## <a name="microsoft-graph-apis-for-teams-data-loss-prevention-dlp"></a>Microsoft Graph DLP(데이터 Teams 방지) API
+## <a name="microsoft-graph-apis-for-teams-data-loss-prevention-dlp-and-for-teams-export"></a>Microsoft Graph DLP(Teams 손실 방지) 및 데이터 내보내기용 TEAMS API
 
-이 API를 통해 개발자는 거의 실시간으로 메시지를 Microsoft Teams 수 있는 앱을 빌드하고 고객과 ISV 모두에 대해 DLP 시나리오 구현을 사용하도록 설정할 수 있습니다. 또한 Microsoft Graph 패치 API를 사용하면 메시지에 DLP Teams 적용할 수 있습니다.
+이러한 API를 통해 개발자는 거의 실시간으로 메시지를 듣거나 1:1/group 채팅 또는 Teams 채널에서 팀 메시지를 내보낼 Microsoft Teams 보안 및 규정 준수 앱을 빌드할 수 있습니다. 이러한 API를 통해 고객과 ISV 모두에 대해 DLP 및 기타 정보 보호 및 거버넌스 시나리오를 사용할 수 있습니다. 또한 Microsoft Graph 패치 API를 사용하면 메시지에 DLP Teams 적용할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
 [DLP(데이터 손실 방지)](/microsoft-365/compliance/dlp-microsoft-teams) 기능은 특히 조직이 원격 작업으로 Microsoft Teams 조직에서 널리 사용됩니다. 조직에 DLP가 있는 경우 이제 사용자가 특정 채널 또는 채팅 세션에서 중요한 정보를 공유하지 못하게 하는 Microsoft Teams 수 있습니다.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
-
-- Microsoft 365 E5/A5/G5
-- Microsoft 365 E5/A5/G5/F5 규정 준수
-- Microsoft 365 F5 보안 & 규정 준수
-- Microsoft 365 E5/A5/G5 정보 보호 및 거버넌스
-- Office 365 E5/A5/G5
+정보 보호 및 거버넌스 기능은 특히 조직이 원격 작업으로 Microsoft Teams 조직에서 널리 사용됩니다. 내보내기 [Teams](/microsoftteams/export-teams-content)사용하여 데이터를 타사 eDiscovery 또는 준수 보관 응용 프로그램으로 내보내 규정 준수 사례를 충족할 수 있습니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
@@ -580,7 +574,9 @@ API 액세스는 테넌트 수준에서 구성됩니다.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 사용이 허가된 테넌트의 사용자에게만 서비스를 적용할 수 있는 방법
 
-Microsoft Graph DLP에 Teams API는 테넌트 수준 값입니다. 이 서비스를 이용하려는 모든 사용자는 사용이 허가되어야 합니다.
+Microsoft Graph DLP Teams 및 Teams 내보내기용 API는 테넌트 수준 값을 제공합니다. 이 서비스를 이용하려는 모든 사용자는 사용이 허가되어야 합니다. 추가 가치로, 라이선스가 있는 사용자당 시드 용량, 월별 계산 및 테넌트 수준에서 집계되는 시드 용량을 추가합니다. 시드된 용량을 초과하는 사용량의 경우 앱 소유자에게 API 사용에 대한 대금이 청구됩니다.
+
+시드된 용량 및 소비 요금에 대한 자세한 내용은 채팅 메시지 액세스에 Graph 요구 [사항을 참조하세요.](/graph/teams-licenses)
 
 ## <a name="office-365-advanced-message-encryption"></a>Office 365 고급 메시지 암호화
 
