@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 Microsoft 365 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: e889cdbfe23bbea76fcaf66596dad202be4918fd
-ms.sourcegitcommit: 0107453467d2f1b4971118273631248432d0aa28
+ms.openlocfilehash: 7da0766c19169e54c7377bfd7f97d34407a03658
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/02/2021
-ms.locfileid: "60082858"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088501"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 &amp; 지침
 
@@ -568,6 +568,13 @@ SecOps 분석가 및 보안 전문가는 끝점용 Microsoft Defender의 끝점 
 
 정보 보호 및 거버넌스 기능은 특히 조직이 원격 작업으로 Microsoft Teams 조직에서 널리 사용됩니다. 내보내기 [Teams](/microsoftteams/export-teams-content)사용하여 데이터를 타사 eDiscovery 또는 준수 보관 응용 프로그램으로 내보내 규정 준수 사례를 충족할 수 있습니다.
 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
+
+- Microsoft 365 E5/A5
+- Microsoft 365 E5/A5 규정 준수
+- E5/A5 보안 Microsoft 365
+- Microsoft 365 E5/A5 Information Protection 및 거버넌스
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
 API 액세스는 테넌트 수준에서 구성됩니다.
@@ -576,7 +583,7 @@ API 액세스는 테넌트 수준에서 구성됩니다.
 
 Microsoft Graph DLP Teams 및 Teams 내보내기용 API는 테넌트 수준 값을 제공합니다. 이 서비스를 이용하려는 모든 사용자는 사용이 허가되어야 합니다. 추가 가치로, 라이선스가 있는 사용자당 시드 용량, 월별 계산 및 테넌트 수준에서 집계되는 시드 용량을 추가합니다. 시드된 용량을 초과하는 사용량의 경우 앱 소유자에게 API 사용에 대한 대금이 청구됩니다.
 
-시드된 용량 및 소비 요금에 대한 자세한 내용은 채팅 메시지 액세스에 Graph 요구 [사항을 참조하세요.](/graph/teams-licenses)
+시드 용량 및 사용 요금에 대한 자세한 내용은 채팅 메시지 액세스에 Graph 요구 [사항을 참조하세요.](/graph/teams-licenses)
 
 ## <a name="office-365-advanced-message-encryption"></a>Office 365 고급 메시지 암호화
 

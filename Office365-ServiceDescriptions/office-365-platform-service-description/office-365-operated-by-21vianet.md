@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 운영하는 21Vianet은 중국의 안전하고 안정적이며 확장 가능한 클라우드 서비스에 대한 요구를 충족하도록 디자인되어 있습니다. 이 서비스는 Microsoft가 21Vianet에 허가한 기술을 기반으로 합니다.
-ms.openlocfilehash: 6de0cee34692cca6106dc854060fc11b1b219cd5
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: a3c61c6d2938fe5e4f0554e82db10d719d9ee792
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671360"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088521"
 ---
 # <a name="office-365-operated-by-21vianet"></a>21Vianet에서 운영하는 Office 365
 
@@ -70,17 +70,17 @@ Microsoft 365 준수 센터에서는 조직의 규정 준수 요구 사항을 �
 | 보관 | 예 | 해당 없음 | 예 | 예 | 예 | 아니요 |
 | 알림 정책 | 아니요 | 해당 없음 | 아니요 | 아니요<sup>1</sup> | 아니요<sup>1</sup> | 아니요<sup>1</sup> |
 |기본 감사<sup>2</sup> | 예 | 해당 없음 | 예 | 예 | 예 | 예 |
-|콘텐츠 검색 | 아니요 | 해당 없음 | 아니요 | 아니요<sup>1</sup> | 아니요<sup>1</sup> | 아니요<sup>1</sup> |
+|콘텐츠 검색 | 아니요 | 해당 없음 | 아니요 | 예 | 예 | 예 |
 |Exchange Online, SharePoint Online 및 비즈니스용 OneDrive | 아니요 | 해당 없음 | 예 | 아니요 | 예 | 아니요 |
-|eDiscovery 사례 | 아니요 | 해당 없음 | 아니요 | 아니요<sup>1</sup> | 아니요<sup>1</sup> | 아니요<sup>1</sup> |
-|eDiscovery 내보내기 | 아니요 | 해당 없음 | 아니요 | 아니요 | 아니요<sup>1</sup> | 아니요 |
+|eDiscovery 사례 | 아니요 | 해당 없음 | 아니요 | 예 | 예 | 예 |
+|eDiscovery 내보내기 | 아니요 | 해당 없음 | 아니요 | 아니요 | 예 | 아니요 |
 |eDiscovery 보류(쿼리 기반 eDiscovery 보류 포함) | 아니요 | 해당 없음 | 아니요 | 아니요 | 아니요<sup>1</sup> | 아니요 |
-|정보 거버넌스<sup>1</sup> | 예 | 해당 없음 | 예 | 예 | 예 | 예 |
+|정보 거버넌스 | 예 | 해당 없음 | 예 | 예 | 예 | 예 |
 |수동 민감도 레이블 | 아니요 | 해당 없음 | 아니요 | 예 | 예 | 아니요 |
 |Office 365 메시지 암호화(OME) 기본 | 아니요 | 해당 없음 | 아니요 | 아니요 | 예 | 아니요 |
 
 <sup>1</sup> 예정된 가용성.</br>
-<sup>2</sup> 감사 및 Azure Active Directory 데이터로 Exchange.
+<sup>2</sup> Azure Active Directory, Exchange, DLP 및 SharePoint.
 
 > [!NOTE]
 >

@@ -10,12 +10,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 미국 정부 클라우드 고객의 SharePoint 기능 가용성에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 1c584c3bfd62b7573f4c9bcc0c0fb5402b2d9bef
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 3d0660316b53d9aaef8adf514c8835950150abd8
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59673006"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088511"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint 환경용 데이터
 
@@ -72,7 +72,6 @@ SharePoint Syntex 대한 자세한 내용은 SharePoint Syntex [기능 서비스
 
 - Amazon Kindle, Bing 지도, Twitter 및 YouTube 웹 파트와 같은 인터넷 서비스에 대한 연결을 사용 하는 웹 파트는 예상대로 작동하지 않습니다.
 - 조직 자산 라이브러리를 사용할 수 없습니다.
-- 고급 및 DoD 고객에게는 Teams 페이지 추가를 GCC 수 없습니다.
 - Graph Online에서 SharePoint 기능을 GCC 현재 사용하지 않도록 설정되어 있습니다. Microsoft Graph 서비스를 현재 사용할 수 없는 경우
 - 스톡 이미지 탭과 같은 인터넷 서비스에 대한 연결을 사용 하는 기능이 예상대로 작동하지 않습니다.
 - 파일 및 사이트 활동에 대한 알림을 사용할 수 없습니다.
