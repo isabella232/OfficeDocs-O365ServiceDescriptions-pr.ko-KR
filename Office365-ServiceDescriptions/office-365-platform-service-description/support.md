@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: 엔터프라이즈, Microsoft Office 365, 교육 및 정부 구독에 대한 모든 구독을 통해 Microsoft 지원은 글로벌 기술, 사전 판매, 대금 청구 및 구독 지원을 제공합니다. 지원은 유료 및 평가판 Microsoft 365 관리 센터 전화로 온라인에서 사용할 수 있습니다. 자세한 내용은 Microsoft 지원 옵션을 참조하세요.
-ms.openlocfilehash: 3ade3daebeaf3986ef0bcb6b40189a09204858e0
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 69057c5b8a8fedb4b6cde712e1d4da8e3f6ab4a9
+ms.sourcegitcommit: 2464903b4632fd8ad2554f37c2646f124b3dd8c4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670033"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "60149390"
 ---
 # <a name="support"></a>지원
 
@@ -102,6 +102,10 @@ Microsoft에서는 문제 유형 및 고객 영향의 평가에 따라 사례가
 ### <a name="technical-support-languages"></a>기술 지원 언어
 
 위치와 언어에 따라 다르지만 대부분의 지역 영업 시간 중에, 많은 경우에 24시간 동안 지원 엔지니어를 이용할 수 있습니다. 자세한 내용은 국제 전화 [및](/Office365/Admin/contact-support-for-business-products) Microsoft 지원 [옵션을 참조하세요.](https://products.office.com/business/office-365-for-business-support-options) 추가적인 번역 지원이 필요한 경우 지원 엔지니어가 계속 통화를 하면서 번역사가 통화에 참여하도록 할 수 있습니다.
+
+## <a name="business-assist-for-microsoft-365"></a>Microsoft 365용 비즈니스 도우미
+
+Microsoft 365용 Business Assist는 온보딩에서 일상적인 사용에 이르기까지 비즈니스 성장에 따라 귀하와 직원이 24시간 내내 중소기업 전문가에게 액세스할 수 있도록 중소기업을 위해 설계되었습니다. 자세한 내용은 [Business Assist for Microsoft 365.](/microsoft-365/admin/misc/business-assist)
   
 ## <a name="shared-support-responsibilities"></a>공유 지원 책임
 
