@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium 통합 솔루션으로, 동급 최고의 생산성과 고급 보안 및 장치 관리 기능을 통합하여 비즈니스를 보호합니다. 이 서비스 설명에서는 계획 옵션 및 기능에 대해 설명합니다.
-ms.openlocfilehash: 0699b9a6841f1972e141bb52642c10e25dd141a2
-ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
+ms.openlocfilehash: c5e8bdb70fba8c2eb043ac7e6864874a5154491c
+ms.sourcegitcommit: 35fc15ee2aa0a893567420254e13db9eb97b2e01
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59986154"
+ms.lasthandoff: 10/11/2021
+ms.locfileid: "60268242"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 Business Premium 서비스 설명
 
@@ -104,7 +104,7 @@ Microsoft 365 Business Premium Microsoft 보안 기능과 함께 기본적으로
 ### <a name="notes"></a>참고
 <sup>1</sup> 계획 Exchange Online 포함됩니다.<br/>
 <sup>2</sup> AIP(Azure Information Protection)를 사용하면 지원되는 IRM(정보 권한 관리) 기능을 사용할 수 있습니다. AIP 계획 1은 Microsoft 365 Business Premium. <br/>
-<sup>3</sup> Microsoft 365 Business Premium 계획 Exchange 포함하며 Exchange Online Archiving 계획 2(E3/E5)에만 Exchange 포함됩니다. 클라우드 기반 보관함 및 현재 장소 보류는 추가 기능으로 구매할 수 있습니다. 각 Exchange Online Archiving 구독자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [Microsoft 365 무제한 보관 개요](/office365/securitycompliance/unlimited-archiving)를 참조하세요. <br/>
+<sup>3</sup> Microsoft 365 Business Premium Exchange 계획 2(E3/E5)에 포함된 Exchange Online Archiving. 각 Exchange Online Archiving 구독자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 최대 저장소 용량 1.5B에 도달할 때까지 추가 저장소가 자동으로 추가됩니다. 자세한 내용은 [자동 확장 보관 개요](/microsoft-365/compliance/autoexpanding-archiving)를 참조하세요. <br/>
 <sup>4 에서</sup> 사용할 수 [https://securescore.office.com](https://securescore.office.com) 있습니다. 관리자 권한이 있어야 합니다. 자세한 내용은 Microsoft 보안 점수를 [참조하세요.](/office365/securitycompliance/microsoft-secure-score)<br/>
 <sup>5</sup> Windows 10 기본 제공되는 간소화된 Microsoft 365 관리 센터. 장치 관리 관리 센터에 기본 제공되는 iOS, Android, macOS 및 기타 플랫폼 간 디바이스 관리의 Intune 관리 기능도 Microsoft 365 Business Premium. 타사 앱 및 WiFi 프로필 및 VPN 인증서와 같은 구성도 장치 관리 관리 센터에서 관리할 수 있습니다. <br/>
 <sup>6</sup> 이 요금제는 비디오 포털, 음성-텍스트 기록, 심층 검색 및 얼굴 감지를 포함하는 Microsoft Stream 계획 2와 함께 제공합니다.<br/>

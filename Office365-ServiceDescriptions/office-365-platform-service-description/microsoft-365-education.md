@@ -10,18 +10,18 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: 계획과 계획 간의 Microsoft 365 Office 365 Education 대해 자세히 알아보습니다.
-ms.openlocfilehash: 8db32ff04ffc142cc5be32f6ea41831eaf596288
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 3ecf7e918c0b96945c061a13b2928ecc008a2c71
+ms.sourcegitcommit: 35fc15ee2aa0a893567420254e13db9eb97b2e01
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670313"
+ms.lasthandoff: 10/11/2021
+ms.locfileid: "60268272"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
 Microsoft 365 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 사용할 수 있습니다. 계획과 Microsoft 365 Office 365 Education 차이점을 원할 경우 이 문서에서는 각 계획에 포함된 기능을 보여 제공합니다.
   
-Microsoft 365 이동성 및 보안에 대한 Office 365, Windows 10 및 Enterprise 시스템을 제공합니다. 다음 표에는 교육용 Office 365 A1, A3 및 A5 기능에 대한 Microsoft 365 A3 및 A5 기능이 나열되어 있습니다. 비즈니스 계획과 엔터프라이즈 계획의 [](https://go.microsoft.com/fwlink/?linkid=799177)기능을 비교하기 위해 비즈니스 계획에 대한 Microsoft 365 비교를 참조하거나, 기능의 자세한 목록은 Microsoft 365 및 Office 365 서비스 설명을 참조하세요. [](../office-365-service-descriptions-technet-library.md) 지원 문서 및 정보를 검색하기 위해 도움말 [Office &amp; 참조하세요.](https://support.office.com/)
+Microsoft 365 이동성 및 보안에 대한 Office 365, Windows 10 및 Enterprise 시스템을 제공합니다. 다음 표에는 교육용 Office 365 A1, A3 및 A5 기능에 대한 Microsoft 365 A3 및 A5 기능이 나열되어 있습니다. 가격 책정 및 기능에 대한 자세한 내용은 Office 365 Education [참조하세요.](https://aka.ms/EDU-Plan-Comparison) 비즈니스 계획과 엔터프라이즈 계획의 [](https://go.microsoft.com/fwlink/?linkid=799177)기능을 비교하기 위해 비즈니스 계획에 대한 Microsoft 365 비교를 참조하거나, 기능의 자세한 목록은 Microsoft 365 및 Office 365 서비스 설명을 참조하세요. [](../office-365-service-descriptions-technet-library.md) 지원 문서 및 정보를 검색하기 위해 도움말 [Office &amp; 참조하세요.](https://support.office.com/)
   
 ## <a name="services-and-features"></a>서비스 및 기능
 

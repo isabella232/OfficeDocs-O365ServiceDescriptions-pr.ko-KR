@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: Microsoft Teams 계획 및 Microsoft 365 서비스 및 기능 가용성에 대해 Office 365 대해 자세히 알아보습니다.
-ms.openlocfilehash: f4c410e68150187d0f9a28234260ac4be3c29852
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 849c6fcdebfad9208ee281eacabdea7b3fbe2535
+ms.sourcegitcommit: 35fc15ee2aa0a893567420254e13db9eb97b2e01
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59673191"
+ms.lasthandoff: 10/11/2021
+ms.locfileid: "60268232"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -28,29 +28,31 @@ Microsoft Teams 팀워크의 허브는 Microsoft 365. Teams 서비스에서는 �
 다음 표에는 계획에서 사용할 Microsoft Teams 주요 기능 목록이 나열되어 있습니다. 특정 경고가 적용됩니다. 자세한 내용은 각주를 참조하세요. 이 표는 통지 없이 변경될 수 있습니다. 핵심 Microsoft 365 변경 메시징에 대한 메시지 센터 알림 및 Microsoft 사용 조건 참조 설명서를 [참조하세요.](https://www.microsoft.com/licensing/product-licensing/products)<br><br>
 
 | 기능 | 소규모 기업 | Enterprise 계획 | GCC | GCC - 높음 | DOD | 교육 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|채팅 |예 |예 |예 |예 |예 |예 |
-|Teams |예|예|예|예<sup>1</sup> |예<sup>1</sup> |예 |
-|채널 - 표준 |예 |예 |예 |예 |예 |예 |
-|채널 - 비공개 |예 |예<sup>2</sup> |예|아니요 |아니요|예 |
-|모임 |예 |예 |예 |예 |예 |예 |
-|Webinars |예 |예 |아니요 |아니요 |아니요 |예 |
-|오디오/PowerPoint 데스크톱 화면 공유|예 |예 |예 |예 |예 |예 |
-|음성 |예 |예 |예 |예<sup>3</sup> |예<sup>3</sup> |예 |
-|오디오 회의 |예 |예 |예 |예<sup>3</sup> |예<sup>3</sup> |예 |
-|앱, 봇, & 커넥터 |예 |예 |예<sup>5</sup> |예<sup>5</sup> |예<sup>4,5</sup> |예 |
-|라이브 이벤트 |아니요 |예 |예 |아니요<sup>6</sup> |아니요<sup>6</sup> |예 |
+| :----- | :----- | :----- | :----- | :----- | :----- | :----- |
+| 앱, 봇, & 커넥터 | 예 | 예 | 예<sup>1</sup> | 예<sup>1</sup> | 예<sup>1</sup> | 예 |
+| 오디오 회의 | 예 | 예 | 예 | 예<sup>2</sup> | 예<sup>2</sup> | 예 |
+| 채널 - 표준 | 예 | 예 | 예 | 예 | 예 | 예 |
+| 채널 - 비공개 | 예 | 예<sup>3</sup> | 예 | 예 | 예 | 예 |
+| 채팅 | 예 | 예 | 예 | 예 | 예 | 예 |
+| 라이브 이벤트 | 아니요 | 예 | 예 | 예 | 예 | 예 |
+| 모임 | 예 | 예 | 예 | 예 | 예 | 예 |
+| 오디오/PowerPoint 데스크톱 화면 공유 | 예 | 예 | 예 | 예 | 예 | 예 |
+| Teams | 예 | 예 | 예 | 예<sup>4</sup> | 예<sup>4</sup> | 예 |
+| 음성 | 예 | 예 | 예 | 예<sup>2</sup> | 예<sup>2</sup> | 예 |
+| Webinars | 예 | 예 | 아니요 | 아니요 | 아니요 | 예 |
 
-<sup>1</sup> Microsoft Teams GCC-High 및 DOD는 개별 팀의 구성원 2500명을 지원합니다.<br/>
-<sup>2</sup> Microsoft Planner는 현재 비공개 채널에서 액세스할 수 없습니다.<br/>
-<sup>3</sup> 음성 및 오디오 Microsoft Teams GCCH 및 DoD에서 작동하도록 직접 라우팅을 구성해야 합니다.<br/>
-<sup>4 Microsoft OneNote</sup> DOD 클라우드에서는 사용할 수 없습니다.<br/>
-<sup>5</sup> 현재 이러한 클라우드에서는 타사 응용 프로그램 및 응용 프로그램 게시를 사용할 수 없습니다.<br/>
-<sup>6</sup> 라이브 이벤트는 현재 GCC-High DOD에서 사용할 수 없습니다.<br/>
+<sup>1</sup> 현재 이러한 클라우드에서는 타사 응용 프로그램 및 응용 프로그램 게시를 사용할 수 없습니다. <br/>
+<sup>2</sup> GCCH 및 DoD에서 Microsoft Teams 음성 및 오디오 회의가 작동하도록 직접 라우팅을 구성해야 합니다. <br/>
+<sup>3</sup> Microsoft Planner는 현재 비공개 채널에서 액세스할 수 없습니다. <br/>
+<sup>4</sup> Microsoft Teams GCC-High 및 DOD는 개별 팀의 구성원 2500명을 지원합니다.
 
 ## <a name="learn-more"></a>자세한 정보
 
-비즈니스용 Skype 온라인은 2019년 7월 30일 [](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) 발표된 2021년 7월 31일에 사용 중지됩니다. Microsoft Teams Azure 및 Microsoft의 기타 서비스 혁신을 활용하여 클라우드를 위해 구축된 완전히 새로운 서비스입니다. Microsoft Teams 그룹, Microsoft Microsoft 365, microsoft Graph 나머지 그룹과 동일한 엔터프라이즈 수준의 보안, 규정 준수 및 관리 Office 365. Teams Azure AD(Azure AD)에 저장된 Azure Active Directory 활용합니다. 이러한 서비스는 Microsoft 데이터 센터에서 제공될 수 있으며 회사 네트워크 내부 또는 인터넷을 통해 광범위한 디바이스의 사용자가 액세스할 수 있습니다. 자세한 내용은 IT 아키텍처 및 Microsoft Teams 포스터를 [참조하세요.](/microsoftteams/teams-architecture-solutions-posters)
+비즈니스용 Skype 온라인 서비스가 사용 중지했습니다. 2021년 7월 31일 Teams Microsoft 지원 업그레이드가 시작됩니다. 2021년 7월 31일 이후에 보조 업그레이드를 예약한 조직은 업그레이드가 완료될 때까지 비즈니스용 Skype Online을 사용할 수 있습니다. 자세한 내용은 [비즈니스용 Skype Online 서비스가 사용 중지 를 참조하세요.](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/the-skype-for-business-online-service-has-retired/ba-p/2596601)
+
+Microsoft Teams Azure 및 Microsoft의 기타 서비스 혁신을 활용하여 클라우드를 위해 구축된 완전히 새로운 서비스입니다.
+
+Microsoft Teams 그룹, Microsoft Microsoft 365, microsoft Graph 나머지 그룹과 동일한 엔터프라이즈 수준의 보안, 규정 준수 및 관리 Office 365. Teams Azure AD(Azure AD)에 저장된 Azure Active Directory 활용합니다. 이러한 서비스는 Microsoft 데이터 센터에서 제공될 수 있으며 회사 네트워크 내부 또는 인터넷을 통해 광범위한 디바이스의 사용자가 액세스할 수 있습니다. 자세한 내용은 IT 아키텍처 및 Microsoft Teams 포스터를 [참조하세요.](/microsoftteams/teams-architecture-solutions-posters)
 
 Microsoft는 데이터의 보안과 서비스의 [접근성](https://www.microsoft.com/trust-center/compliance/accessibility)에 최선을 다하고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조하세요.
 

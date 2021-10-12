@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 교육용 Office 365 차이점을 찾고 있는 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다. Office 365 익숙한 Microsoft Office 데스크톱 제품군과 클라우드 기반 버전의 Microsoft, Microsoft Exchange Online 및 공동 작업 서비스를 &mdash; Microsoft Office SharePoint Online. 웹용 Office Microsoft 비즈니스용 Skype Online을 사용하면 인터넷을 통해 거의 모든 곳에서 생산성을 향상할 &mdash; 수 있습니다.
-ms.openlocfilehash: 15bce797a898f3db0260842850a9d54c5c08ec21
-ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
+ms.openlocfilehash: b6e8accf567b648bf0aefe01314f39b54e62e8d2
+ms.sourcegitcommit: 35fc15ee2aa0a893567420254e13db9eb97b2e01
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/30/2021
-ms.locfileid: "60015661"
+ms.lasthandoff: 10/11/2021
+ms.locfileid: "60268262"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -60,8 +60,8 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
   
 ## <a name="platform-features"></a>플랫폼 기능 
 
-다음 표에는 교육용 계획에서 사용할 수 있는 모든 플랫폼 Office 365 나열되어 있습니다. 요금제의 가격 책정 및 기능에 대한 자세한 내용은 Office 365 Education [참조하세요.](https://products.office.com/en/academic/compare-office-365-education-plans)<br><br>
-  
+다음 표에는 교육용 계획에서 사용할 수 있는 모든 플랫폼 Office 365 나열되어 있습니다. 요금제의 가격 책정 및 기능에 대한 자세한 내용은 Office 365 Education [참조하세요.](https://aka.ms/EDU-Plan-Comparison)</br>
+
 | 기능 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
 |**[Office 365 관리 기능](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** ||||
@@ -490,20 +490,20 @@ Microsoft Exchange Online의 제한은 다음 범주 중 하나에 속합니다.
 사용할 수 있는 사서함 저장소의 크기는 사서함 유형 및 사용자의 구독 라이선스에 따라 결정됩니다. 관리자는 각 사용자별 사서함 크기 또는 모든 사용자의 사서함 크기를 줄일 수 있습니다.
   
 > [!NOTE]
-> 보관 목적으로 Exchange Online 사서함에 메시지를 복사하는 저널링, 전송 규칙 또는 자동 전달 규칙을 사용하는 것은 허용되지 않습니다. 사용자의 보관 사서함은 해당 사용자만을 위한 것입니다. Microsoft는 사용자의 보관 사서함이 다른 사용자의 보관 데이터를 저장하는 데 사용되거나 부적절한 사용의 경우 추가 보관 저장소 공간을 거부할 수 있는 권리가 있습니다.
+> 보관 목적으로 Exchange Online 사서함에 메시지를 복사하는 저널링, 전송 규칙 또는 자동 전달 규칙을 사용하는 것은 허용되지 않습니다. 사용자의 보관 사서함은 해당 사용자만을 위한 것입니다. Microsoft는 사용자의 보관 사서함이 다른 사용자의 보관 데이터를 저장하는 데 사용되는 경우 또는 부적절한 다른 경우에 추가 보관 저장 공간을 거부할 권한을 보유합니다.
   
 | 기능 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
 |사용자 사서함  |50GB  |100GB  |100GB  |
-|보관 사서함<sup>6, 7</sup> |1.5 TB<sup>1</sup> |1.5 TB<sup>1</sup> |1.5 TB<sup>1</sup> |
+|보관 사서함<sup>6, 7</sup> |1.5TB<sup>1</sup> |1.5TB<sup>1</sup> |1.5TB<sup>1</sup> |
 |공유 사서함  |50GB<sup>2</sup> |50GB<sup>2</sup> |50GB<sup>2</sup> |
 |리소스 사서함  |50GB<sup>3</sup> |50GB<sup>3</sup> |50GB<sup>3</sup> |
 |사이트 사서함<sup>4</sup> |50GB  |50 GB  |50GB  |
 |공용 폴더 사서함  |50GB<sup>5</sup> |100GB<sup>5</sup> |100GB<sup>5</sup> |
-|그룹 사서함  |50GB  |50 GB  |50GB  |
+|그룹 사서함  |50GB  |50GB  |50GB  |
    
 > [!NOTE]
-> <sup>1</sup> 각 사용자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 보관 저장소 용량이 1.5 TB에 도달할 때까지 추가 저장소 공간이 증분적으로 추가됩니다. 자세한 내용은 자동 확장 보관 개요를 [참조하세요.](/microsoft-365/compliance/autoexpanding-archiving) 가용성에 대한 자세한 내용은 Office 365 로드맵을 참조하세요. <br/> 
+> <sup>1</sup> 각 사용자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 보관 스토리지 용량이 1.5TB에 도달할 때까지 추가 저장 공간이 증분 방식으로 추가됩니다. 자세한 내용은 [자동 확장 보관 개요](/microsoft-365/compliance/autoexpanding-archiving)를 참조하세요. 가용성에 대한 자세한 내용은 Office 365 로드맵을 참조하세요. <br/> 
 <sup>2</sup> 공유 사서함에 액세스하려면 사용자에게 Exchange Online 라이선스가 있어야 합니다. 공유 사서함에는 별도의 라이선스가 필요하지 않습니다. 그러나 원본 위치 보관 기능을 사용하도록 설정하거나 공유 사서함에 원본 위치 유지 또는 소송 보존을 넣으려면 Exchange Online Archiving을 사용하는 Exchange Online 계획 2 라이선스 또는 Exchange Online 계획 1 라이선스가 필요합니다. 공유 사서함에 대한 원본 위치 보관 기능과 자동 확장 보관을 사용하도록 설정하는 경우 보관 사서함이 100GB의 저장소 용량에 도달하면 추가 저장소가 자동으로 추가됩니다. <br/> 
 <sup>3</sup> 리소스 사서함에는 라이선스가 필요하지 않습니다.<br/> 
 <sup>4</sup> 사이트 사서함은 온라인에서 SharePoint 관리됩니다. 자세한 내용은 Office 365에서 사이트 사서함 사용 준비를 참조하세요.<br/> 
@@ -560,8 +560,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |복구 가능한 항목 폴더의 폴더당 최대 메시지 수  |3백만 개  |3백만 개  |3백만 개  |
 |기본 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중 아님)  |30GB  |30GB  |30GB  |
 |기본 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중)  |100GB  |100GB  |100GB  |
-|보관 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중 아님)  |1.5 TB<sup>1</sup> |1.5 TB<sup>1</sup> |1.5 TB<sup>1</sup> |
-|보관 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중)  |1.5 TB<sup>1</sup> |1.5 TB<sup>1</sup> |1.5 TB<sup>1</sup> |
+|보관 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중 아님)  |1.5TB<sup>1</sup> |1.5TB<sup>1</sup> |1.5TB<sup>1</sup> |
+|보관 사서함에서 복구 가능한 항목 폴더에 대한 저장소 할당량(보류 중)  |1.5TB<sup>1</sup> |1.5TB<sup>1</sup> |1.5TB<sup>1</sup> |
 |복구 가능한 항목 폴더의 폴더당 메시지 수에 대한 경고  |2,750,000개  |2,750,000개  |2,750,000개  |
 |사서함 폴더당 최대 하위 폴더 수  |10,000  |10,000  |10,000  |
 |사서함 폴더당 하위 폴더 수에 대한 경고  |9000  |9000  |9000  |

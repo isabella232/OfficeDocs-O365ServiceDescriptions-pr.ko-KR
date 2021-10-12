@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 Office 365 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 사용할 수 있습니다. 계획 간 차이점(Exchange Online 계획 포함)을 찾고 있는 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다.
-ms.openlocfilehash: d516d9dedc812c8dee10f8eb302ddaff64ac5334
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 33470e2deb2c0e5972e7d422bf445856519aaef2
+ms.sourcegitcommit: 35fc15ee2aa0a893567420254e13db9eb97b2e01
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671340"
+ms.lasthandoff: 10/11/2021
+ms.locfileid: "60268222"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 및 Office 365 플랫폼 서비스 설명
 
@@ -29,8 +29,8 @@ Microsoft 365 및 Office 365 클라우드 생산성을 기업에 제공하면 �
   
 사용자가 Microsoft 365 및 Office 365 플랫폼을 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 표를 [참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145) 기능의 자세한 목록은 Microsoft 365 및 서비스 설명 [Office 365 참조하세요.](/office365/servicedescriptions/office-365-service-descriptions-technet-library)
   
-- Office 365 Education 요금제에 대한 내용은 [Office 365 Education](office-365-education.md) 페이지부터 확인하세요. 
-    
+- 계획에 Office 365 Education 대한 자세한 내용은 Office 365 Education [페이지로](https://aka.ms/EDU-Plan-Comparison) 시작하세요.
+
 - Office 365 US Government 요금제에 대한 내용은 [Office 365 Government](office-365-us-government/office-365-us-government.md) 페이지부터 확인하세요. 
     
 - 21Vianet에서 운영하는 Office 365에 대한 내용은 [21Vianet에서 운영하는 Office 365](office-365-operated-by-21vianet.md) 페이지부터 확인하세요. 
@@ -79,7 +79,7 @@ Multi-Geo를 사용하면 단일 조직이 여러 Office 365 데이터 센터 �
   
 - 비즈니스: [Microsoft 365 요금제 및 가격 책정에 대한 자세한 설명](https://go.microsoft.com/fwlink/?LinkID=827896)
     
-- 교육: [Office 365 Education 요금제 및 가격](https://go.microsoft.com/fwlink/?LinkID=827897)
+- 교육: [Office 365 Education 요금제 및 가격](https://aka.ms/EDU-Plan-Comparison)
     
 - 미국 정보: [Office 365 U.S. Government 요금제](https://go.microsoft.com/fwlink/?LinkID=827898)
     
