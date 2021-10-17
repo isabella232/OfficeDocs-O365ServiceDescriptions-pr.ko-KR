@@ -11,14 +11,16 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Microsoft Workplace Analytics는 조직의 커뮤니케이션 및 공동 작업 추세에 대한 풍부한 실행 가능한 인사이트를 제공하여 보다 효과적인 비즈니스 의사 결정을 내리는 데 도움이 됩니다.
-ms.openlocfilehash: 794497c89d6f80fb9616e19fd254e6001605e7a6
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 17e82af4ee5f90cb632ec91462d4a8c512237518
+ms.sourcegitcommit: 74ced160b4f2371b8f6b12b3e9babd2626f33e63
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59673153"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60417141"
 ---
 # <a name="workplace-analytics-service-description"></a>Workplace Analytics 서비스 설명
+
+[![Viva 알림.](media/viva-banner-2.png)](https://www.microsoft.com/microsoft-viva/insights)
 
 Microsoft Workplace Analytics는 조직의 커뮤니케이션 및 공동 작업 추세에 대한 풍부한 실행 가능한 인사이트를 제공하여 보다 효과적인 비즈니스 의사 결정을 내리는 데 도움이 됩니다.
 

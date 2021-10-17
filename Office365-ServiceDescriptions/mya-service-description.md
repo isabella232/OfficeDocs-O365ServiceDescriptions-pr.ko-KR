@@ -9,14 +9,16 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics 기능, 배포, 개인 정보 및 선행 준비
-ms.openlocfilehash: 9f4987f7a941fe4174b8096c1a36ed86dbee56aa
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 1c3fdf0cab9d774bee39b26861f0c1678ea97a36
+ms.sourcegitcommit: 74ced160b4f2371b8f6b12b3e9babd2626f33e63
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670360"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60417127"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics 서비스 설명
+
+[![Viva 알림.](media/viva-banner-mya.png)](https://www.microsoft.com/microsoft-viva/insights)
 
 MyAnalytics는 직장에서 시간을 보내는 방법을 요약한 다음 더 스마트하게 작업하는 방법을 제안합니다. MyAnalytics는 Microsoft Outlook [](#elements) 또는 웹 브라우저에서 액세스할 수 있는 요소를 통해 이러한 정보를 제공합니다.
 
