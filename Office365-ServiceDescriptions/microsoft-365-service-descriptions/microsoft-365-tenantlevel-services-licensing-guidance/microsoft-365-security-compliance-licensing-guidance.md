@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 Microsoft 365 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: 7da0766c19169e54c7377bfd7f97d34407a03658
-ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
+ms.openlocfilehash: 23347668f4a065a55e0a556fe7b18aab75d69000
+ms.sourcegitcommit: dd0ac3657e87c9149ea92318dc8ed0a1e94905e0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/04/2021
-ms.locfileid: "60088501"
+ms.lasthandoff: 10/19/2021
+ms.locfileid: "60478056"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 &amp; 지침
 
@@ -505,7 +505,7 @@ Microsoft Defender에서 Office 365 범위 지정을 금고 첨부 파일 배포
 
 - 라이선스가 있는 사용자에 대해 금고 첨부 파일을 구성하는 금고 [Microsoft Defender의](/microsoft-365/security/office-365-security/atp-safe-attachments)첨부 파일을 Office 365.
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
+## <a name="microsoft-cloud-app-security"></a>Microsoft 클라우드 앱 보안
 
 Microsoft Cloud App Security(MCAS)는 조직이 클라우드 앱 및 서비스를 볼 수 있도록 해주며 사이버 위협을 식별하고 퇴치하기 위한 정교한 분석을 제공하는 CASB(Cloud Access Security Broker) 솔루션으로, 모든 클라우드 앱을 통해 데이터가 이동하는 방법을 제어할 수 있도록 &mdash; 합니다.
 
@@ -538,7 +538,7 @@ MCAS의 조건부 액세스 앱 제어 기능을 사용하려면 Enterprise Mobi
 
 관리자는 서비스에서 사용할 수 있는 범위가 지정한 배포 기능을 사용하여 사용이 허가된 사용자로 MCAS 배포 범위를 지정합니다. 자세한 내용은 [범위가 지정한 배포를 참조하세요.](/cloud-app-security/scoped-deployment)
 
-## <a name="microsoft-defender-for-endpoint"></a>끝점용 Microsoft Defender
+## <a name="microsoft-defender-for-endpoint"></a>엔드포인트용 Microsoft Defender
 
 끝점용 Microsoft Defender(이전의 Microsoft Defender ATP)는 위험 기반 보안 솔루션으로, 위험 기반 취약성 관리 솔루션입니다. 공격 표면 감소 기능 동작 기반 및 클라우드 기반 차세대 보호 끝점 검색 및 응답(EDR); 자동 조사 및 수정 및 관리되는 헌팅 서비스. 자세한 [내용은 끝점용 Microsoft Defender 페이지를](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 참조하세요.
 
@@ -673,6 +673,45 @@ Microsoft 365 E3/A3/G3, Office 365 E3/A3/G3 및 Azure Information Protection 요
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 사용이 허가된 테넌트의 사용자에게만 서비스를 적용할 수 있는 방법
 
 관리자는 사용이 허가된 사용자에게만 Office 365 메시지 암호화 메일 흐름 규칙을 적용해야 합니다. 메일 흐름 규칙을 정의하는 데 대한 자세한 내용은 [Define mail flow rules to encrypt email messages를 참조하십시오.](/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)
+
+## <a name="privacy-management"></a>개인 정보 관리
+
+[개인 정보 Microsoft 365](https://aka.ms/privacymanagementdocs) 관리는 개인 정보 관리 소프트웨어 공간에서 Microsoft의 첫 번째 솔루션입니다. 개인 정보 보호 관리는 회사가 데이터 수리, 데이터 전송 및 데이터 공유와 같은 개인 정보 위험을 사전 예방적으로 식별하고 보호하여 정보 근로자가 스마트한 데이터 처리 결정을 내릴 수 있도록 지원하고 주체 요청을 대규모로 자동화 및 관리하여 개인 데이터를 보호하고 개인 정보 보호를 강화하는 데 도움이 됩니다.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
+
+개인 정보 관리는 Office 365 A1/E1/A3/E3/A5/E5 및 Microsoft 365 A3/E3/A5/E5 구독이 있는 조직에 추가하여 사용할 수 있습니다.
+
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
+
+사용자는 조직이 자신의 환경에서 개인 데이터를 파악하고, 개인 정보 위험을 능동적으로 식별 및 보호하고, 주체 권한 요청(일반적으로 '데이터 주체 요청')을 대규모로 관리할 수 있는 기능을 통해 혜택을 얻습니다.
+
+### <a name="how-can-customers-access-the-service"></a>고객이 서비스에 액세스하는 방법
+
+개인 정보 관리는 [](https://compliance.microsoft.com/homepage) 기본 제공 Microsoft 365 규정 준수 센터 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 서비스로 혜택을 받을 수 있도록 보호하려는 모든 사용자에 대해 라이선스를 취득하는 것이 좋습니다.
+
+고객은 조직의 필요에 따라 다음 라이선스를 구입할 수 있습니다.
+
+**개인 정보 관리 –risk를 통해** 조직은
+
+- Microsoft 365 환경의 개인 데이터(Microsoft Exchange Online, SharePoint, OneDrive 비즈니스 및 Teams)에 대한 가시성을 확보합니다.
+- 데이터 최소화, 데이터 과부하, 데이터 전송을 비롯한 기본 개인 정보 취급 방침 템플릿을 활용하거나 고유한 조직 요구에 맞게 사용자 지정합니다.
+- 개인 정보 위험을 완화하기 위해 권장되는 수정 제어를 수신합니다.
+- 생산성 제품군 내에서 정보 근로자의 참여를 유도하고 행동 변경을 주도합니다.
+
+**개인 정보 관리 – 주체 권한** 요청을 통해 조직은
+
+- 주체 권한 요청에 대한 응답을 자동화하고 대규모로 관리합니다.
+- 기존 비즈니스 Power Automate Microsoft Power Automate 템플릿을 사용합니다.
+- API에 프로그래밍된 액세스를 활용합니다.
+- Microsoft Teams 통합을 통해 다른 이해 관계자와 안전하게 공동 작업을 할 수 있습니다(사용하려면 적절한 라이선스가 Microsoft Teams).</br>
+    고객은 1,10 또는 100 블록으로 주체 권한 요청을 구입할 수 있습니다.
+
+개인 정보 보호 관리 위험 및 개인 정보 관리 주체 권한 요청은 서로 독립적으로 구매할 수 있으며 에서 사용할 [수 Microsoft 365 관리 센터.](https://admin.microsoft.com/)
+
+개인 [정보](https://www.microsoft.com/licensing/terms/productoffering/Microsoft365/EAEAS) 보호 관리 – 위험 및 개인 정보 보호 관리 – 주체 권한 요청을 획득하는 데 필요한 라이선스 선행 조건에 대한 제품 약관을 참조합니다.
+
+개인 정보 관리 무료 평가판에 대한 자세한 내용은 여기를 [클릭하세요.](https://aka.ms/privacymgmt/TrialDocs)
 
 ## <a name="privileged-access-management-in-office-365"></a>Office 365의 권한 있는 액세스 관리
 
