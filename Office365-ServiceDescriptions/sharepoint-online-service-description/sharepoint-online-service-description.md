@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 어떤 계획에서 SharePoint 사용할 수 있는지 참조합니다.
-ms.openlocfilehash: 8aad0fd841a6a129264be710e5d62cd84202d0aa
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: c4e8d140dff2cdaa5ed65c459e99a593d6b51dbe
+ms.sourcegitcommit: 404a22ed6c18a1d548b1f1aaaada4cbc5118392e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672411"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60462139"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 서비스 설명
 
@@ -142,7 +142,7 @@ SharePoint 보안 및 규정 준수 기능과 통합되는 Microsoft 365. 다음
 - [민감도 레이블](/microsoft-365/compliance/sensitivity-labels)
 - [통합 감사(사용자](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) 및 SharePoint 감사)
 
-[Azure Information Protection에 대한 자세한 내용은 Azure Information](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection)Protection에 대한 요구 사항을 [참조하세요.](/azure/information-protection/requirements)
+[Azure Information Protection에 대한 자세한 내용은 Azure Information](/microsoft-365/solutions/configure-teams-three-tiers-protection)Protection에 대한 요구 사항을 [참조하세요.](/azure/information-protection/requirements)
 
 고객 키의 가용성에 대한 자세한 내용은 고객 키를 사용하여 [서비스 암호화를 참조하세요.](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed) 
 
@@ -155,7 +155,7 @@ SharePoint 보안 및 규정 준수 기능과 통합되는 Microsoft 365. 다음
 - [손쉬운 사용](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
 - [사이트에 Microsoft Teams 추가합니다.](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865) Office 365가 포함된 구독이 필요하며 사용자에게 팀 라이선스가 있어야 합니다.
 - [대상 그룹 지정](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
-- 커넥트 팀 사이트를 새 Office 365 [사이트로 추가합니다.](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d) 구독이 포함된 구독이 Office 365.
+- 커넥트 팀 사이트를 새 Microsoft 365 [그룹에 추가합니다.](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d) 구독이 포함된 구독이 Office 365.
 - [계획 만들기(Planner 통합)](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb) 사용자가 플래너를 Office 365 구독이 필요하며, 사용자에게 Planner 라이선스가 필요합니다.
 - [문서 라이브러리](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)
 - [문서 집합](https://support.office.com/article/3DBCD93E-0BED-46B7-B1BA-B31DE2BCD234)
@@ -174,6 +174,7 @@ SharePoint 보안 및 규정 준수 기능과 통합되는 Microsoft 365. 다음
 - [휴지통](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [SharePoint 앱](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
 - [SharePoint 페이지 시작](https://support.office.com/article/5ffd35a6-9fd8-47a4-900d-c548208d092e)
+- [사이트 및 허브 분석](https://support.microsoft.com/office/view-usage-data-for-your-sharepoint-site-2fa8ddc2-c4b3-4268-8d26-a772dc55779e)
 - [사이트 디자인](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
 - [사이트 사용 현황 보고서](https://support.office.com/article/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)
 - [사이트: 클래식 사이트](https://support.office.com/article/449eccec-ff99-4cf3-b62e-dcfee37e8da4)

@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: Microsoft Teams 계획 및 Microsoft 365 서비스 및 기능 가용성에 대해 Office 365 대해 자세히 알아보습니다.
-ms.openlocfilehash: 849c6fcdebfad9208ee281eacabdea7b3fbe2535
-ms.sourcegitcommit: 35fc15ee2aa0a893567420254e13db9eb97b2e01
+ms.openlocfilehash: 285a64217505b58be4a476bc837365b697ad27fc
+ms.sourcegitcommit: 404a22ed6c18a1d548b1f1aaaada4cbc5118392e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/11/2021
-ms.locfileid: "60268232"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60462159"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -21,7 +21,7 @@ Microsoft Teams 팀워크의 허브는 Microsoft 365. Teams 서비스에서는 �
 
 ## <a name="available-plans"></a>사용 가능한 플랜
 
-사용자가 Microsoft Stream을 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 [표를 참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
+사용자가 구독을 사용하도록 설정하는 구독에 대한 자세한 계획 Microsoft Teams 전체 구독 비교 표를 [참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 ## <a name="feature-availability"></a>기능 가용성
 
@@ -46,7 +46,7 @@ Microsoft Teams 팀워크의 허브는 Microsoft 365. Teams 서비스에서는 �
 <sup>3</sup> Microsoft Planner는 현재 비공개 채널에서 액세스할 수 없습니다. <br/>
 <sup>4</sup> Microsoft Teams GCC-High 및 DOD는 개별 팀의 구성원 2500명을 지원합니다.
 
-## <a name="learn-more"></a>자세한 정보
+## <a name="learn-more"></a>자세히 알아보기
 
 비즈니스용 Skype 온라인 서비스가 사용 중지했습니다. 2021년 7월 31일 Teams Microsoft 지원 업그레이드가 시작됩니다. 2021년 7월 31일 이후에 보조 업그레이드를 예약한 조직은 업그레이드가 완료될 때까지 비즈니스용 Skype Online을 사용할 수 있습니다. 자세한 내용은 [비즈니스용 Skype Online 서비스가 사용 중지 를 참조하세요.](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/the-skype-for-business-online-service-has-retired/ba-p/2596601)
 

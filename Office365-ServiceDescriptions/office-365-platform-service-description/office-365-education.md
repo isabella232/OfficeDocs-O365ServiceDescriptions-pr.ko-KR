@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 교육용 Office 365 차이점을 찾고 있는 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다. Office 365 익숙한 Microsoft Office 데스크톱 제품군과 클라우드 기반 버전의 Microsoft, Microsoft Exchange Online 및 공동 작업 서비스를 &mdash; Microsoft Office SharePoint Online. 웹용 Office Microsoft 비즈니스용 Skype Online을 사용하면 인터넷을 통해 거의 모든 곳에서 생산성을 향상할 &mdash; 수 있습니다.
-ms.openlocfilehash: b6e8accf567b648bf0aefe01314f39b54e62e8d2
-ms.sourcegitcommit: 35fc15ee2aa0a893567420254e13db9eb97b2e01
+ms.openlocfilehash: 90e619b0272f68840f06eb43664b4555718bf947
+ms.sourcegitcommit: 404a22ed6c18a1d548b1f1aaaada4cbc5118392e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/11/2021
-ms.locfileid: "60268262"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60462149"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -37,7 +37,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |비즈니스용 OneDrive  |예  |예  |예  |
 |비즈니스용 Skype Online  |예<sup>7</sup> |예<sup>6</sup> |예<sup>6</sup> |
 |웹용 Office  |예  |예  |예  |
-|Office 응용 프로그램  |아니요  |예  |예  |
+|Office 응용 프로그램  |아니오  |예  |예  |
 |Project  |아니요<sup>1</sup> |아니요<sup>1</sup> |아니요<sup>1</sup> |
 |Power BI  |아니요  |아니요  |예  |
 |Yammer Academic  |예  |예  |예  |
@@ -68,12 +68,12 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |Office 365 또는 Microsoft 365 관리 센터 사용하여 Windows PowerShell  |예  |예  |예  |
 |Azure Information Protection을 사용하여 콘텐츠 보호  |예  |예  |예  |
 |**[Office 365 제품군 기능](office-365-suite-features.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
-|Microsoft Bookings  |아니요  |예  |예  |
+|Microsoft Bookings  |아니오  |예  |예  |
 |Microsoft 브리핑 전자 메일<sup>10</sup> |예  |예  |예  |
 |Microsoft Power Automate  |예  |예  |예  |
 |Microsoft Forms  |예  |예  |예  |
 |Microsoft Graph API  |예  |예  |예  |
-|Microsoft MyAnalytics<sup>9</sup>  |아니요  |예  |예  |
+|Microsoft MyAnalytics<sup>9</sup>  |아니오  |예  |예  |
 |Microsoft Planner  |예  |예  |예  |
 |Microsoft PowerApps  |예  |예  |예  |
 |Microsoft StaffHub  |예  |예  |예  |
@@ -82,7 +82,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |Microsoft Teams  |예  |예  |예  |
 |Office Delve  |예  |예  |예  |
 |Office 365 그룹  |예  |예  |예  |
-|Office 365 비디오  |예  |예  |예  |
+|Office 365 [비디오(사용 중지)](/stream/migrate-from-office-365)  |예  |예  |예  |
 |OneNote 수업용 전자 필기장  |예  |예  |예  |
 |**[사용자 계정 관리](user-account-management.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |클라우드 ID, 페더레이션 ID 또는 다단계 인증  |예  |예  |예  |
@@ -153,7 +153,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |IPv4 및 IPv6 프로토콜  |예  |예  |예  |
 |**트러스트** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |[개인 정보, 보안 및 투명성](privacy-security-and-transparency.md) |예  |예  |예  |
-|고급 보안 관리  |아니요  |예  |예  |
+|고급 보안 관리  |아니오  |예  |예  |
 |Office 365용 Microsoft Defender  |아니요  |아니요  |예  |
 |Customer Lockbox  |아니요  |아니요  |예  |
 |Advanced eDiscovery<sup>7</sup> |아니요  |아니요  |예  |
@@ -199,7 +199,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 | 기능 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
 |[보안 및 준수 &amp; 센터에 대한 액세스](/office365/securitycompliance/go-to-the-securitycompliance-center) |예  |예  |예  |
-|[고급 보안 관리](/cloud-app-security/what-is-cloud-app-security) |아니요  |예  |예  |
+|[고급 보안 관리](/cloud-app-security/what-is-cloud-app-security) |아니오  |예  |예  |
 |[메일 필터링](/office365/securitycompliance/protect-against-threats)및 맬웨어 방지와 같은 위협 관리  |예  |예  |예  |
 |[고급 위협 관리](/microsoft-365/security/office-365-security/office-365-ti), 피싱 캠페인에 대한 위협 <sup>탐색기 5</sup> |아니요  |아니요  |예  |
 |[고객 Lockbox](/office365/securitycompliance/customer-lockbox-requests) |아니요  |아니요  |예  |
@@ -249,32 +249,32 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |**Enterprise 값** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |PC 또는 Mac에서 사용자당 5건의 동시 설치 지원  |아니요<sup>3</sup> |예  |예  |
 |사용자 계정 자동 구축  |예  |예  |예  |
-|다국어 사용자 인터페이스  |아니요  |예  |예  |
-|클라이언트 푸시 배포  |아니요  |예  |예  |
-|온-프레미스 Exchange에 대한 클라이언트 지원  |아니요  |예  |예  |
-|온-프레미스 Sharepoint에 대한 클라이언트 지원  |아니요  |예  |예  |
-|소프트웨어 업데이트 제어  |아니요  |예  |예  |
-|데이터베이스 비교  |아니요  |예  |예  |
-|데스크톱 가상화  |아니요  |예  |예  |
-|Excel 스프레드시트 비교  |아니요  |예  |예  |
-|Excel 스프레드시트 조회  |아니요  |예  |예  |
+|다국어 사용자 인터페이스  |아니오  |예  |예  |
+|클라이언트 푸시 배포  |아니오  |예  |예  |
+|온-프레미스 Exchange에 대한 클라이언트 지원  |아니오  |예  |예  |
+|온-프레미스 Sharepoint에 대한 클라이언트 지원  |아니오  |예  |예  |
+|소프트웨어 업데이트 제어  |아니오  |예  |예  |
+|데이터베이스 비교  |아니오  |예  |예  |
+|데스크톱 가상화  |아니오  |예  |예  |
+|Excel 스프레드시트 비교  |아니오  |예  |예  |
+|Excel 스프레드시트 조회  |아니오  |예  |예  |
 |Exchange Online 및 SharePoint Online 보관 및 규정 준수  |예  |예  |예  |
-|그룹 정책 지원  |아니요  |예  |예  |
+|그룹 정책 지원  |아니오  |예  |예  |
 |Azure Information Protection을 사용한 정보 권한 관리  |예  |예  |예  |
 |Windows Server AD RMS를 사용한 Information Rights Management  |예<sup>1</sup> |예<sup>1</sup> |예<sup>1</sup> |
-|Office 추가 기능, ActiveX 및 BHO 지원  |아니요  |예  |예  |
-|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  |아니요  |예  |예  |
-|Office 원격 분석  |아니요  |예  |예  |
-|클라이언트 응용 프로그램에 대한 오프라인 지원  |아니요  |예  |예  |
-|Excel용 파워 맵  |아니요  |예  |예  |
-|Power Pivot for Excel  |아니요  |예  |예  |
-|Excel용 파워 쿼리  |아니요  |예  |예  |
-|Power View for Excel  |아니요  |예  |예  |
-|로밍 설정  |아니요  |예  |예  |
-|공유 컴퓨터 활성화  |아니요  |예  |예  |
-|클라우드 기반 파일 저장 차단 지원  |아니요  |예  |예  |
-|콘텐츠를 찾고 재사용하려면 탭하십시오.  |아니요  |예  |예  |
-|버전 업그레이드  |아니요  |예  |예  |
+|Office 추가 기능, ActiveX 및 BHO 지원  |아니오  |예  |예  |
+|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스  |아니오  |예  |예  |
+|Office 원격 분석  |아니오  |예  |예  |
+|클라이언트 응용 프로그램에 대한 오프라인 지원  |아니오  |예  |예  |
+|Excel용 파워 맵  |아니오  |예  |예  |
+|Power Pivot for Excel  |아니오  |예  |예  |
+|Excel용 파워 쿼리  |아니오  |예  |예  |
+|Power View for Excel  |아니오  |예  |예  |
+|로밍 설정  |아니오  |예  |예  |
+|공유 컴퓨터 활성화  |아니오  |예  |예  |
+|클라우드 기반 파일 저장 차단 지원  |아니오  |예  |예  |
+|콘텐츠를 찾고 재사용하려면 탭하십시오.  |아니오  |예  |예  |
+|버전 업그레이드  |아니오  |예  |예  |
 |Volume activation (KMS/MAK)  |아니요  |아니요  |아니요  |
    
 > [!NOTE]
@@ -371,7 +371,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |웹 서비스 보고서  |예  |예  |예  |
 |Message trace  |예  |예  |예  |
 |감사 보고서  |예  |예  |예  |
-|통합 메시징 보고서  |아니요  |예  |예  |
+|통합 메시징 보고서  |아니오  |예  |예  |
 |**[공유 및 공동 작업](../exchange-online-service-description/sharing-and-collaboration.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |페더링 공유(일정 게시 포함)  |예  |예  |예  |
 |사이트 사서함  |예<sup>4</sup> |예<sup>4</sup> |예<sup>4</sup> |
@@ -387,8 +387,8 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |SMTP  |예  |예  |예  |
 |EWS 응용 프로그램 지원  |예  |예  |예  |
 |**[음성 메시지 서비스](../exchange-online-service-description/voice-message-services.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
-|음성 사서함  |아니요  |예  |예  |
-|음성 메일과 타사 팩스 간의 통합  |아니요  |예  |예  |
+|음성 사서함  |아니오  |예  |예  |
+|음성 메일과 타사 팩스 간의 통합  |아니오  |예  |예  |
 |타사 음성 사서함 상호 운용성  |예  |예  |예  |
 |비즈니스용 Skype 통합  |예  |예  |예  |
 |**[고가용성 및 비즈니스 연속성](../exchange-online-service-description/high-availability-and-business-continuity.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
@@ -498,9 +498,9 @@ Microsoft Exchange Online의 제한은 다음 범주 중 하나에 속합니다.
 |보관 사서함<sup>6, 7</sup> |1.5TB<sup>1</sup> |1.5TB<sup>1</sup> |1.5TB<sup>1</sup> |
 |공유 사서함  |50GB<sup>2</sup> |50GB<sup>2</sup> |50GB<sup>2</sup> |
 |리소스 사서함  |50GB<sup>3</sup> |50GB<sup>3</sup> |50GB<sup>3</sup> |
-|사이트 사서함<sup>4</sup> |50GB  |50 GB  |50GB  |
+|사이트 사서함<sup>4</sup> |50 GB  |50GB  |50 GB  |
 |공용 폴더 사서함  |50GB<sup>5</sup> |100GB<sup>5</sup> |100GB<sup>5</sup> |
-|그룹 사서함  |50GB  |50GB  |50GB  |
+|그룹 사서함  |50GB  |50 GB  |50GB  |
    
 > [!NOTE]
 > <sup>1</sup> 각 사용자는 처음에 보관 사서함에 100GB의 저장소를 받습니다. 자동 확장 보관이 켜져 있는 경우 100GB의 저장소 용량에 도달하면 이 추가 저장소가 자동으로 추가됩니다. 보관 스토리지 용량이 1.5TB에 도달할 때까지 추가 저장 공간이 증분 방식으로 추가됩니다. 자세한 내용은 [자동 확장 보관 개요](/microsoft-365/compliance/autoexpanding-archiving)를 참조하세요. 가용성에 대한 자세한 내용은 Office 365 로드맵을 참조하세요. <br/> 
@@ -834,7 +834,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 | 기능 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
 |**[비즈니스용 Skype Online 클라이언트](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** ||||
-|비즈니스용 Skype 전체  |아니요  |예  |예  |
+|비즈니스용 Skype 전체  |아니오  |예  |예  |
 |비즈니스용 Skype 기본  |예<sup>1</sup> |아니요  |아니요  |
 |Lync 2013 Basic  |예<sup>1</sup> |아니요  |아니요  |
 |비즈니스용 Skype Windows 스토어 앱  |예  |예  |예  |
@@ -885,7 +885,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |클라이언트 쪽 기록 및 재생  |예  |예  |예  |
 |서버 쪽 기록 및 재생  |아니요  |아니요  |아니요  |
 |모임 대기실  |예  |예  |예  |
-|Skype 모임 브로드캐스트  |아니요  |예  |예  |
+|Skype 모임 브로드캐스트  |아니오  |예  |예  |
 |사용자와의 Skype 게스트 액세스 비즈니스용 Skype Web App  |예  |예  |예  |
 |비즈니스용 Skype 모임 예약 Outlook  |예  |예  |예  |
 |다른 비즈니스용 Skype 대신 Outlook 모임 예약(위임)  |예  |예  |예  |

@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 독일은 유럽에서 이미 사용 가능한 Office 365 서비스와는 다른 옵션입니다. 독일, 유럽 연합(EU) 및 EFTA(유럽 자유 무역 연합)에서 독일 데이터 센터의 데이터 상주와 독일 법률에 따라 제어되는 고유한 데이터 수탁자 모델을 통해 엄격한 데이터 액세스 및 제어 조치를 통해 업계 최고의 디지털 작업을 위한 생산성 서비스를 제공하여 가장 규제가 많은 고객의 요구를 충족하는 데 도움이 됩니다.
-ms.openlocfilehash: a028550d0ffcef647535934962d50e0fcd931485
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 29f48ae4586027850474414523adb9f558572c4e
+ms.sourcegitcommit: 404a22ed6c18a1d548b1f1aaaada4cbc5118392e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671377"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60462169"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -87,7 +87,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |Microsoft 팀|아니요|아니요|아니요|아니요|아니요<br/> |아니요|아니요|아니요|
 |Office Delve<sup></sup>|예|아니요|예|예|예|예|예|아니요|
 |Office 365 그룹|예|아니요|예|예|예|예|예|예|
-|Office 365 비디오|아니요|아니요|아니요|예|예|예|예|아니요|
+|Office 365 [비디오(사용 중지)](/stream/migrate-from-office-365)|아니요|아니요|아니요|예|예|예|예|아니요|
 |**[사용자 계정 관리](user-account-management.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |클라우드 ID, 페더타 ID 또는 다단계 인증|예|예|예|예|예|예|예|예|
 |Office 365 데스크톱 설정|예|아니요|예|예|예|예|예|예|
@@ -201,23 +201,23 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Office 응용 프로그램**<sup>1, &nbsp; 2</sup>|||||||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|예|아니요|예|아니요<sup>7</sup>|아니요|예|예|아니요|
-|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|예|아니요|예|아니요<sup>7</sup>|아니요|예|예|아니요|
-|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|예|아니요|예|아니요<sup>7</sup>|아니요|예|예|아니요|
-|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote)|예|아니요|예|아니요<sup>7</sup>|아니요|예|예|아니요|
-|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|예|아니요|예|아니요<sup>7</sup>|아니요|예|예|아니요|
-|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher)|예|아니요|예|아니요<sup>7</sup>|아니요|예|예|아니요|
-|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-publisher)|예<sup>10</sup>|아니요|예<sup>10</sup>|아니요<sup>7</sup>|아니요|예|예|아니요|
+|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|예|아니요|예|아니요<sup>7</sup>|아니오|예|예|아니요|
+|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|예|아니요|예|아니요<sup>7</sup>|아니오|예|예|아니요|
+|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote)|예|아니요|예|아니요<sup>7</sup>|아니오|예|예|아니요|
+|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|예|아니요|예|아니요<sup>7</sup>|아니오|예|예|아니요|
+|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher)|예|아니요|예|아니요<sup>7</sup>|아니오|예|예|아니요|
+|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-publisher)|예<sup>10</sup>|아니요|예<sup>10</sup>|아니요<sup>7</sup>|아니오|예|예|아니요|
 |[비즈니스용 Skype](../office-applications-service-description/office-applications.md#skype-for-business)|예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|예|예|예<sup>6</sup>|
-|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|아니요|아니요|아니요|아니요<sup>7</sup>|아니요|예|예|아니요|
+|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|아니요|아니요|아니요|아니요<sup>7</sup>|아니오|예|예|아니요|
 |[Windows 10 앱](../office-applications-service-description/office-applications.md#windows-10-apps)|예|예|예|예|예|예|예|아니요|
-|[Office 365용 Office for Mac](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|예|아니요|예|아니요<sup>7</sup>|아니요|예|예|아니요|
+|[Office 365용 Office for Mac](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|예|아니요|예|아니요<sup>7</sup>|아니오|예|예|아니요|
 |[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|예|아니요|예|아니요<sup>7</sup>|아니요|예|예|아니요|
-|[Android용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android)|예|아니요|예|아니요<sup>7</sup>|아니요|예|예|아니요|
-|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|예|아니요|예|아니요<sup>7</sup>|아니요|예|예|아니요|
+|[Android용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android)|예|아니요|예|아니요<sup>7</sup>|아니오|예|예|아니요|
+|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|예|아니요|예|아니요<sup>7</sup>|아니오|예|예|아니요|
 |[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|예|아니요|예|아니요<sup>7</sup>|아니요|예|예|아니요|
 |Outlook Android<sup>11용 앱</sup>|아니요|아니요|아니요|아니요<sup>7</sup>|아니요|아니요|아니요|아니요|
 |**Enterprise 값**|**Office 365 Germany Business**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|PC 또는 Mac에서 사용자당 5건의 동시 설치 지원|예<sup>8</sup>|아니요|예|아니요<sup>7</sup>|아니요|예|예|아니요|
+|PC 또는 Mac에서 사용자당 5건의 동시 설치 지원|예<sup>8</sup>|아니오|예|아니요<sup>7</sup>|아니요|예|예|아니요|
 |사용자 계정 자동 구축|예|예|예|예|예|예|예|예|
 |다국어 사용자 인터페이스|아니요|아니요|예|아니요|아니요|예|예|아니요|
 |클라이언트 푸시 배포|예|예|예|아니요|아니요|예|예|아니요|
@@ -274,11 +274,11 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |[비즈니스용 Skype](../office-applications-service-description/office-applications.md#skype-for-business)|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|예|예|아니요|
 |[Windows 10 앱](../office-applications-service-description/office-applications.md#windows-10-apps)|예|예|예|
-|[Office 365용 Office for Mac](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|아니요|예|예|
-|[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|아니요|예|예|
-|[Android용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android)|아니요|예|예|
-|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니요|예|예|
-|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니요|예|예|
+|[Office 365용 Office for Mac](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|아니오|예|예|
+|[iPad/iPhone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|아니오|예|예|
+|[Android용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android)|아니오|예|예|
+|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니오|예|예|
+|[Windows Phone용 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|아니오|예|예|
 |Outlook Android<sup>11용 앱</sup>|아니요|아니요|아니요|
 |**Enterprise 값**|**Office Professional Plus 2013**|**Office Professional Plus 2016**|**Office 365 ProPlus**|
 |PC 또는 Mac에서 사용자당 5건의 동시 설치 지원|아니요|예|예<sup>8</sup>|
@@ -297,11 +297,11 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |Azure Information Protection을 사용한 정보 권한<sup>관리 4</sup>|아니요|아니요|아니요|
 |RMS<sup>5를</sup> Windows Server AD 권한 관리|아니요|아니요|아니요|
 |Office 추가 기능, ActiveX 및 BHO 지원|예|예|예|
-|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스|아니요|예|예|
+|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스|아니오|예|예|
 |Office Lens|아니요|아니요|아니요|
 |Office 원격 분석|예|예|예|
 |클라이언트 응용 프로그램에 대한 오프라인 지원|예|예|예|
-|최적화된 클라이언트 병렬 설치|아니요|예|예|
+|최적화된 클라이언트 병렬 설치|아니오|예|예|
 |Excel용 파워 맵|아니요<sup>6</sup>|예|예|
 |Power Pivot for Excel|예|예|예|
 |Excel용 파워 쿼리|예|예|예|
@@ -309,7 +309,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |로밍 설정|예|예|예|
 |공유 컴퓨터 활성화|아니요|아니요|예|
 |클라우드 기반 파일 저장 차단 지원|예|예|예|
-|버전 업그레이드|아니요|예|예|
+|버전 업그레이드|아니오|예|예|
 |Volume activation (KMS/MAK)|예|예|<sup>10 없음</sup>|
 
 > [!NOTE]
@@ -363,7 +363,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |Azure Information Protection<sup>3을</sup> 사용하는 IRM|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요|아니요|아니요<sup>4</sup>|
 |RMS<sup>3을</sup> Windows Server AD IRM|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|아니요<sup>5</sup>|
 |Office 365 암호화|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요<sup>4</sup>|예|예|아니요<sup>4</sup>|
-|S/MIME|예|예|예|예|예|예|예|예||
+|S/MIME|예|예|예|예|예|예|예|예|
 |원본 위치 유지 및 소송 보존|아니요|--|아니요|예|아니요|예|예|아니요|
 |원본 위치 eDiscovery|예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|예|예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|예|
 |메일 흐름 규칙|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|
@@ -432,7 +432,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |데이터 센터에서 사서함 복제|예|예|예|예|예|예|예|예|
 |삭제된 사서함 복구|예|예|예|예|예|예|예|예|
 |삭제된 항목 복구|예|예|예|예|예|예|예|예|
-|단일 항목 복구|예|예|예|예|예|예|예|아니요||
+|단일 항목 복구|예|예|예|예|예|예|예|아니요|
 |**[상호 운용성, 연결 및 호환성](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |비즈니스용 Skype OWA<sup>3</sup> 및 Outlook|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |SharePoint 상호 연산|예|예|예|예|예|예|예|예|
@@ -446,7 +446,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |모바일 장치에 대한 ActiveSync 정책|예|예|예|예|예|예|예|예|
 |사용 현황 보고|예|예|예|예|예|예|예|예|
 |**[서비스 확장 - 사용자 지정, 추가 기능 및 리소스](../exchange-online-service-description/exchange-online-service-description.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|Outlook 추가 기능 및 MAPI Outlook 추가 기능|예<sup>16</sup>|예<sup>16</sup>|예<sup>16</sup>|예<sup>16</sup>|예<sup>16</sup>|예<sup>16</sup>|예<sup>16</sup>|아니요|
+|Outlook 추가 기능 및 MAPI Outlook 추가 기능|예<sup>16</sup>|예<sup>16</sup>|예<sup>16</sup>|예<sup>16</sup>|예<sup>16</sup>|예<sup>16</sup>|예<sup>16</sup>|아니오|
 
 > [!NOTE]
 > <sup>1</sup> Exchange 2010에서는 최소한의 하이브리드 배포만 지원됩니다. (전체 하이브리드 배포는 2010 Exchange 지원되지 않습니다.) 최소 하이브리드 배포에 대한 자세한 내용은 [Use express migration to migrate Exchange mailboxes to Office 365.](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef)<br/>
@@ -478,7 +478,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |[메일 흐름 규칙](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#mail-flow-rules)|예 <sup>3, 4, 14</sup>|예 <sup>3, 4, 14</sup>|예|
 |[감사 로깅](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#audit-logging)|예<sup>5</sup>|예|예|
 |[감사 로그 검색](/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>16</sup>|아니요|예|예|
-|[DLP(데이터 손실 방지)](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|아니요|예|예<sup>6</sup>|
+|[DLP(데이터 손실 방지)](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|아니오|예|예<sup>6</sup>|
 |[Office 365 메시지 암호화](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|예<sup>12</sup>|예|예<sup>12</sup>|
 |[스팸 방지 보호 기능](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection)(기본 제공)|예|예|예|
 |[스팸 방지 정책 사용자 지정](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection)|예<sup>7</sup>|예|예|
@@ -643,7 +643,7 @@ Office 365 독일은 클라우드 보안 및 규정 준수 표준을 Office 365.
 |다단계로 진행|예|예|예|예|예|예|예|예|
 |웹용 Office(만들기/편집)|예|예|예|예|예|예|예|예<sup>16</sup>|
 |웹용 Office(보기)|예|예|예|예|예|예|예|예|
-|Office ProPlus(Osub)|아니요|예|아니요|아니요|아니요|예|예|아니요|
+|Office ProPlus(Osub)|아니오|예|아니요|아니요|아니요|예|예|아니요|
 |Office Web Apps Server integration|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |PowerPoint Automation Services|아니요|아니요|아니요|아니요|아니요|아니요|아니요|아니요|
 |Preservation hold library|아니요|아니요|아니요|예|아니요|예|예|아니요|
