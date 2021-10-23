@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: 웹용 Office(Office Web Apps)는 웹 브라우저에서 Word, Excel, OneNote PowerPoint 열립니다. 웹용 Office 사용하면 거의 모든 장치에서 인터넷에 연결하여 어디서나 Office 파일을 보다 쉽게 작업하고 공유할 수 있습니다. Microsoft 365 Word, Excel, OneNote 또는 PowerPoint 사용하여 이동 중 파일을 보고 만들고 편집할 수 있습니다.
-ms.openlocfilehash: e40f65fb3271720bd2cd6ea5d275a3f1e32cb639
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: c1bbf8be1964ebf1adadb9edeac8089854a70424
+ms.sourcegitcommit: d56d154863abf0059e7d19ff88499fda68b216e8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670020"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60536379"
 ---
 # <a name="office-for-the-web-service-description"></a>웹용 Office 서비스 설명
 
@@ -259,7 +259,7 @@ ms.locfileid: "59670020"
 |[사용자 지정 애니메이션 만들기](powerpoint-online.md#create-custom-animation) <br/> |아니요<sup>1</sup> <br/> |예  <br/> |
 |[디자인 도구, 고급](powerpoint-online.md#design-tools-advanced) <br/> |아니요  <br/> |예  <br/> |
 |[웹 또는 블로그 페이지에 프레젠테이션 포함](powerpoint-online.md#embed-presentation-on-web-or-blog-page) <br/> |예  <br/> |아니요  <br/> |
-|[글꼴 서식](powerpoint-online.md#font-formatting) <br/> |예  <br/> |예  <br/> |
+|[글꼴 다운로드 및 서식 지정](powerpoint-online.md#font-downloading-and-formatting) <br/> |예  <br/> |예  <br/> |
 |[고화질 읽기용 보기](powerpoint-online.md#full-fidelity-reading-view) <br/> |예  <br/> |예  <br/> |
 |[전체 잉크 지원](powerpoint-online.md#full-ink-support) <br/> |아니요  <br/> |예<sup>2</sup> <br/> |
 |[애니메이션 및 전환의 전체 선택](powerpoint-online.md#full-selection-of-animations-and-transitions) <br/> |아니요<sup>1</sup> <br/> |예  <br/> |

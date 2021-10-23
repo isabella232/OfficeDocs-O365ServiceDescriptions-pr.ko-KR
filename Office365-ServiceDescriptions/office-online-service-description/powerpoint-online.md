@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: 웹용 PowerPoint(이전의 PowerPoint Web App)는 Microsoft PowerPoint 환경을 웹 브라우저로 확장하여 프레젠테이션이 저장된 웹 사이트에서 프레젠테이션을 직접 사용할 수 있습니다. Microsoft 365 있는 웹용 Office 이동 중 파일을 보고 만들고 편집할 수 있습니다.
-ms.openlocfilehash: 33805c6937c073be6c7d08f9dca2e56c915a8085
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 0cd97ad67cb89f6a838243aff9c5ceb3548c2043
+ms.sourcegitcommit: d56d154863abf0059e7d19ff88499fda68b216e8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59669973"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60536349"
 ---
 # <a name="powerpoint-for-the-web"></a>웹용 PowerPoint
 
@@ -83,9 +83,16 @@ Dropbox는 클라우드 저장소, 파일 동기화, 개인 클라우드 및 클
 
 이 웹용 PowerPoint Microsoft PowerPoint 데스크톱 앱이 없는 경우에도 누구나 정보를 볼 수 있도록 프레젠테이션을 웹 사이트나 블로그에 PowerPoint 있습니다. 포함된 뷰어에는 애니메이션, 전환 및 오디오/비디오가 고화질 읽기용 보기와 동일하게 표시됩니다. 자세한 내용은 [웹 또는 블로그 페이지에 프레젠테이션 포함](https://go.microsoft.com/fwlink/?LinkId=272766)을 참조하세요.
   
-## <a name="font-formatting"></a>글꼴 서식
+## <a name="font-downloading-and-formatting"></a>글꼴 다운로드 및 서식 지정
+
+글꼴 서비스는 CDN [](/microsoft-365/enterprise/content-delivery-networks) 기반 솔루션으로, Office 글꼴을 로컬 컴퓨터로 다운로드하여 문서 및 프레젠테이션을 완전한 고화력으로 렌더링할 수 있도록 합니다.
+
+이 PowerPoint 받는 사람과 프레젠테이션을 공유할 웹용 PowerPoint 여기에서 클라우드 글꼴 목록에 자세히 설명된 글꼴만 [사용합니다.](https://support.microsoft.com/office/cloud-fonts-in-office-f7b009fe-037f-45ed-a556-b5fe6ede6adb) 이유 이러한 글꼴은 클라우드에서 사용할 수 있으며 필요한 경우 다운로드하여 서버에 설치됩니다. 이 목록에 없는 로컬로 설치된 글꼴과 포함된 글꼴을 비롯한 다른 글꼴은 서버에 설치되지 않습니다. 대체 글꼴로 대체되어 콘텐츠 재배치 및 서식 문제가 발생하게 됩니다.  
 
 웹용 PowerPoint, 굵게, Italics, 밑라인, 글꼴, 크기 및 색을 텍스트에 적용할 수 있습니다. 또한 서식 복사를 사용하여 전체 도형의 서식을 복사를 사용할 수 있습니다.
+
+> [!NOTE]
+> 현재 웹 메뉴에 글꼴을 추가하는 방법은 PowerPoint 없습니다.
   
 ## <a name="full-fidelity-reading-view"></a>고화질 읽기용 보기
 

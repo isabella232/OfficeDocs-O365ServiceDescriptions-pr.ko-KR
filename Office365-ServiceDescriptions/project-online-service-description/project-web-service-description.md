@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: ''
 description: Project 클라우드 기반 작업 및 프로젝트 관리를 위한 Microsoft의 최신 제품입니다. Project 웹용 응용 프로그램은 대부분의 요구와 역할을 충족할 수 있는 간단하고 강력한 작업 관리 기능을 제공합니다.
-ms.openlocfilehash: c74defd5b6397de9b47d6b1afdc9b5a3cfa851ac
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 76a63565c9f4ebe253a7deb7db3a1af53cfbb4d4
+ms.sourcegitcommit: d56d154863abf0059e7d19ff88499fda68b216e8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59682172"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60536408"
 ---
 # <a name="microsoft-project-for-the-web-service-description"></a>웹 서비스용 Microsoft Project 설명
 
@@ -45,6 +45,7 @@ Project 웹용 웹 사이트는 Project 플랜 1, Project 플랜 3 및 Project �
 | Project 홈 | 예 | 예 | 예 | 예 |
 | 작업일정 | 보기만 | 예 | 예 | 예 |
 | 시간 표시 막대 보기(Gantt 차트) | 보기만 | 예 | 예 | 예 |
+| 위험 경로 | 아니요 | 아니요 | 예 | 예 |
 | 요약 작업 | 보기만 | 예 | 예 | 예 |
 | 작업 사용자 정의 필드 만들기 및 사용 | 보기만 | 예 | 예 | 예 |
 | **공동 작업** | | | | |
@@ -89,7 +90,7 @@ Project 웹용 웹 사이트는 Project 플랜 1, Project 플랜 3 및 Project �
 
 <sup>6</sup> 보기 권한만 Power App 내에서만 부여됩니다.
 
-## <a name="messaging"></a>메시징
+## <a name="messaging"></a>메시지
 
 새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용에 대한 정보를 확인하기 위해 메시지 센터를 방문합니다. 자세한 내용은 [메시지 센터](/microsoft-365/admin/manage/message-center)를 참조하세요.
 
@@ -105,7 +106,7 @@ Microsoft 상업용 볼륨 라이선싱 프로그램을 통해 구매한 제품 
 
 Microsoft는 데이터의 보안과 서비스의 [접근성](https://www.microsoft.com/trust-center/compliance/accessibility)에 최선을 다하고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조하세요.
 
-## <a name="learn-more"></a>자세한 정보
+## <a name="learn-more"></a>자세히 알아보기
 
 ### <a name="architecture"></a>아키텍처
 

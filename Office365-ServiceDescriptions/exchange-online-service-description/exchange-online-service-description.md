@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 구독이 포함된 기능 비교를 Exchange Online? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: c0682932646cfd43781e460ceba02fdfb72c0102
-ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
+ms.openlocfilehash: c33b78ad00a3f1bbe82ea67f363ad6ee1d663e87
+ms.sourcegitcommit: d56d154863abf0059e7d19ff88499fda68b216e8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/30/2021
-ms.locfileid: "60015702"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60536402"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
 구독이 포함된 기능 비교를 Exchange Online? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-  
+
 > [!NOTE]
 > 작업에 대한 도움이 필요하거나 문제를 해결하는 경우 다음 리소스가 도움이 될 수 있습니다. <br/>
 [전자](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed) 메일을 만들고 보내는 데 도움이 되는 전자 메일입니다. <br/> 
@@ -32,45 +32,45 @@ ms.locfileid: "60015702"
 [Microsoft 지원 및 복구 도우미](https://diagnostics.office.com/)<br/> 
 [전자 메일 배달되지 않은 보고서 Exchange Online](/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
 [Exchange Online 도움말](/exchange/exchange-online)
-  
+
 Microsoft Exchange Online은 Microsoft Exchange Server의 기능을 클라우드 기반 서비스로 전달하는 호스트 메시징 솔루션입니다. 이 솔루션은 PC, 웹, 모바일 장치로부터 전자 메일, 일정, 연락처 및 작업에 액세스할 수 있도록 하며, Active Directory와 완전히 통합되어 관리자가 그룹 정책과 다른 관리 도구를 통해 환경 전반에서 Exchange Online 기능을 관리할 수 있도록 합니다.
-  
+
 Exchange Online을 구독한 조직은 사용자에게 제공하는 메시징 서비스에 대한 제어 권한은 유지하면서도 온-프레미스 서버 소프트웨어에 대한 작업 부담을 덜 수 있습니다. 이 문서에서 설명한 Exchange Online 호스트 계획을 사용하여, 다중 고객을 동시에 지원하는 서버에서 전자 메일이 호스트됩니다. 이러한 서버는 Microsoft 데이터 센터에 있으며 회사 네트워크 내부 또는 인터넷을 통해 광범위한 디바이스의 사용자가 액세스할 수 있습니다.
-  
+
 계획에서 기능을 비교하는 데 필요한 강력한 도구는 [엔터프라이즈를 지원하기 위한 강력한 도구를 참조합니다.](https://products.office.com/business/compare-more-office-365-for-business-plans) Office 365 Germany의 요금제를 비교하려면 [Office 365 Germany 구독 요금제](https://go.microsoft.com/fwlink/?linkid=839016)를 참조하세요.
-  
+
 > [!TIP]
 > Microsoft 서비스 설명에서 페이지를 내보내고 저장하고 인쇄할 수 있습니다. 콘텐츠 검색 결과를 [내보내는 방법에 대해 자세히 알아보겠습니다.](/office365/securitycompliance/export-search-results) 
-  
+
 ## <a name="whats-new-in-exchange-admin-center"></a>Exchange 관리 센터의 새로운 기능
 
 Exchange 관리 센터의 새로운 기능에 대한 자세한 내용은 Exchange 관리 센터의 새로운 [기능을 참조하세요.](/exchange/whats-new)
-  
+
 ## <a name="plans-for-exchange-online"></a>Exchange Online
 
 Microsoft 365 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 사용할 수 있습니다. 사용자가 구독을 사용하도록 설정하는 구독에 대한 자세한 Exchange Online 전체 구독 비교 표를 [참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
-  
+
 Exchange Online 서비스에 액세스하는 각 사용자는 구독 계획을 선택해야 하며, 각 사용자 구독에는 자체 사서함이 있습니다. 이러한 사서함의 폴더와 메시지는 Microsoft 데이터 센터에서 Exchange Server를 실행하는 컴퓨터에 있습니다.
-  
+
 회의실 및 공유 사서함에 대해서는 사용자의 구독이 필요하지 않습니다. 이러한 특수 사서함 유형은 로그인 자격 증명이 없는 대신, 위임을 통해 적절한 권한을 가진 정식 사용자가 이를 관리 및 액세스합니다.
 
 **Microsoft 365 F1 사용자 사서함 사용 권한** <br/>
-Microsoft 365 F1 사서함에 대한 권한을 포함하지 Exchange 않습니다. 전체 Teams 사용하려면 M365 F1 라이선스에 K1 서비스 Exchange Online 사용할 수 있습니다. Exchange Online K1 서비스 계획에서 사용자를 위해 사서함을 프로비전하기는 하지만 M365 F1 사용자는 사서함을 사용할 수 없습니다. 이러한 단계를 통해 웹용 Outlook 사용하지 [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) 않도록 설정하고 사용자에게 다른 방법을 통해 Exchange 사서함에 액세스하지 않도록 요청하는 것이 좋습니다.
-  
+Microsoft 365 F1 사서함에 대한 권한을 포함하지 Exchange 않습니다. 전체 Teams 사용하려면 Microsoft 365 F1 K1 서비스 계획을 사용하도록 Exchange Online 수 있습니다. Exchange Online K1 서비스 계획에서 사용자를 위해 사서함을 프로비전하기는 하지만 Microsoft 365 F1 사서함을 사용할 자격이 없습니다. 이러한 단계를 통해 웹용 Outlook 사용하지 [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) 않도록 설정하고 사용자에게 다른 방법을 통해 Exchange 사서함에 액세스하지 않도록 요청하는 것이 좋습니다.
+
 ## <a name="system-requirements-for-exchange-online"></a>Exchange Online에 대한 시스템 요구 사항
 
-시스템 요구 사항, 비즈니스, 교육 및 정부 조직에서 사용할 수 있는 월별 구독 기반 서비스는 Microsoft 365 및 Office [리소스를 참조하세요.](https://products.office.com/office-system-requirements/#Office365forBEG)
-  
+시스템 요구 사항에 대한 비즈니스, 교육 및 정부 조직에서 사용할 수 있는 월별 구독 기반 서비스는 Microsoft 365 및 Office [리소스를 참조하세요.](https://products.office.com/office-system-requirements/#Office365forBEG)
+
 ## <a name="storage-and-recipient-limits-for-exchange-online"></a>Storage 제한 및 받는 사람 Exchange Online
 
 Exchange Online 구독 계획에서 사용할 수 있는 저장소 및 받는 사람 제한에 대한 자세한 내용은 Exchange Online [참조하세요.](exchange-online-limits.md)
-  
+
 ## <a name="feature-availability"></a>기능 가용성
 
 조직에 현재 Office 365 Small Business, Office 365 Small Business Premium 또는 Office 365 Midsize Business 구독이 있는 경우 Microsoft 365 관리 센터 메시지 센터를 방문하거나 공급자에게 문의하여 새 Microsoft 365 앱 계획이 미치는 영향에 대한 자세한 내용을 확인하십시오. 새로운 계획 패밀리에 대한 Microsoft 365 앱 자세한 내용은 중소기업을 위한 새 [요금제 를 참조합니다.](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)
 
 서비스 가용성에 대한 자세한 Microsoft 365 Business Premium 서비스 [Microsoft 365 Business Premium 참조하세요.](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md)<br/><br/>
-  
+
 | 기능 | Exchange Server 2013 | Exchange Server 2016 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[계획 및 배포](planning-and-deployment.md)**|||||||||
@@ -338,3 +338,9 @@ Exchange Online 구독 계획에서 사용할 수 있는 저장소 및 받는 �
 <sup>24 Microsoft 365</sup> 기능이 있는 그룹을 사용할 수 있습니다.<br/>
 <sup>25</sup> 2013 및 엔터프라이즈용 Microsoft 365 앱 2016의 경우 Exchange Server 구독이 Exchange Server 합니다.<br/>
 <sup>EWS</sup> 응용 프로그램 가장에 적용되는 26 EWS 응용 프로그램 지원
+
+## <a name="additional-services"></a>추가 서비스
+
+### <a name="scheduler-for-microsoft-365"></a>Microsoft 365용 스케줄러
+
+Microsoft 365 스케줄러는 사용자가 디지털 Exchange Online 도우미에 일정 요구를 위임할 수 있도록 하는 추가 기능입니다. 도우미는 조직 내부 및 외부의 사용자와의 약속 및 모임을 예약하고 다시 예약할 수 있습니다. 도우미 사서함은 테넌트에 의해 설정 및 제어됩니다. 스케줄러를 사용하도록 설정하려면 관리자는 PowerShell cmdlet을 통해 도우미의 사서함을 설정하고 모임 이끌이에 대한 라이선스를 구입해야 합니다. 스케줄러 및 작동 방식에 대한 자세한 내용은 [Welcome to Scheduler for Microsoft 365.](/microsoft-365/scheduler/scheduler-overview#how-does-scheduler-for-microsoft-365-work) 스케줄러 가격 책정 및 라이선싱에 대한 자세한 내용은 Microsoft 365 [라이선스를 참조합니다.](https://www.microsoft.com/microsoft-365/meeting-scheduler-pricing)

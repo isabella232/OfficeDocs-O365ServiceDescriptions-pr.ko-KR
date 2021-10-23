@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 Microsoft 365 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: 23347668f4a065a55e0a556fe7b18aab75d69000
-ms.sourcegitcommit: dd0ac3657e87c9149ea92318dc8ed0a1e94905e0
+ms.openlocfilehash: f26b55cc456cae509b015dc95bbbb077f30696d9
+ms.sourcegitcommit: d56d154863abf0059e7d19ff88499fda68b216e8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "60478056"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60536415"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 &amp; 지침
 
@@ -66,6 +66,8 @@ SecOps 분석가 및 보안 전문가는 기계 학습 알고리즘을 기반으
 
 - Azure Active Directory 계획 1: Microsoft 365 E3/A3/G3/F1/F3, Enterprise Mobility & E3 및 Microsoft 365 Business Premium
 - Azure Active Directory 계획 2: Microsoft 365 E5/A5/G5, Enterprise Mobility & Security E5, Microsoft 365 E5/F5 Security and Microsoft 365 F5 Security & Compliance
+
+사용 가능한 여러 계획에 포함된 기능에 대한 자세한 내용은 ID 보호가 [Azure Active Directory 기능을 | Microsoft Docs.](/azure/active-directory/identity-protection/overview-identity-protection#license-requirements)
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
@@ -505,7 +507,7 @@ Microsoft Defender에서 Office 365 범위 지정을 금고 첨부 파일 배포
 
 - 라이선스가 있는 사용자에 대해 금고 첨부 파일을 구성하는 금고 [Microsoft Defender의](/microsoft-365/security/office-365-security/atp-safe-attachments)첨부 파일을 Office 365.
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft 클라우드 앱 보안
+## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
 Microsoft Cloud App Security(MCAS)는 조직이 클라우드 앱 및 서비스를 볼 수 있도록 해주며 사이버 위협을 식별하고 퇴치하기 위한 정교한 분석을 제공하는 CASB(Cloud Access Security Broker) 솔루션으로, 모든 클라우드 앱을 통해 데이터가 이동하는 방법을 제어할 수 있도록 &mdash; 합니다.
 
