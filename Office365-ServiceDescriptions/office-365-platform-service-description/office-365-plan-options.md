@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
-ms.openlocfilehash: bd2b27b046a14dd9d4ba4272d699cc5b5d8d4b73
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: b0fa4bf9db7a8555cb8cdcc048595d35e3e9b055
+ms.sourcegitcommit: 879fce98f2d91420a673f0cbbd0a392536a4637a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670636"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60649185"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 및 Office 365 요금제 옵션
 
@@ -35,9 +35,9 @@ Microsoft 365 Office 365 요구 사항을 가장 잘 충족하기 위해 다양�
 |:-----|:-----|
 |**비즈니스(최대 300명)** <br/>     |[Microsoft 365 Business Basic(이전](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) Office 365 Business Essentials) <br/> [Microsoft 365 Business Standard(이전](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) Office 365 Business Premium) <br/> [Microsoft 365 Business Premium(이전](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-premium?activetab=pivot%3aoverviewtab) Microsoft 365 Business) <br/> [비즈니스용 Microsoft 365 앱(이전](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) Office 365 Business) <br/> |
 |**Enterprise(사용자 수 제한이 없는 경우)** <br/> |[Office 365 E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 F3](https://products.office.com/business/office-365-f1) <br/> [Microsoft 365 F1](https://www.microsoft.com/en-us/microsoft-365/enterprise/f1?activetab=pivot%3aoverviewtab) <br/> [Microsoft 365 F3(F3 Office 365 포함)](https://www.microsoft.com/en-us/microsoft-365/enterprise/f3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E3(Office 365 E3)](https://www.microsoft.com/en-us/microsoft-365/enterprise/E3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E5(Office 365 E5)](https://www.microsoft.com/en-us/microsoft-365/enterprise/E5?activetab=pivot:overviewtab) <br/> [엔터프라이즈용 Microsoft 365 앱(이전](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-apps-for-enterprise?rtc=1&activetab=pivot%3aoverviewtab) Office 365 ProPlus) <br/> |
-|**교육(사용자 수 제한이 없습니다.** <br/> |[Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 E5](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Microsoft 365 A1(사용자 라이선스당 무료 Office 365 A1 페어링된 장치 라이선스당 일회성)](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A3(Office 365 A3)](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A5(Office 365 A5 포함)](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> |
+|**교육(사용자 수 제한이 없습니다.** <br/> |[Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 E5](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Microsoft 365 A1(레거시)(사용자 라이선스당 무료 Office 365 A1 페어링된 장치 라이선스당 일회성)](https://www.microsoft.com/education/buy-license/microsoft365) <br/> [Microsoft 365 A1(일회성, 사용자 라이선스당 무료 라이선스와 Office 365 A1)](https://www.microsoft.com/education/buy-license/microsoft365) <br/> [Microsoft 365 A3(Office 365 A3)](https://www.microsoft.com/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A5(Office 365 A5 포함)](https://www.microsoft.com/education/buy-license/microsoft365/default.aspx) <br/> |
 |**미국 정부(무제한 사용자 수)** <br/> |[사용 가능한 모든 계획 보기](https://products.office.com/government/compare-office-365-government-plans) <br/> |
-|**중국의 21Vianet에서 운영하는 Office 365** <br/> |[사용 가능한 모든 계획 보기](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
+|**중국의 21Vianet에서 운영하는 Office 365** <br/> |[사용 가능한 모든 계획 보기](https://products.office.com/business/compare-office-365-for-business-plans) <br/> |
 |**Office 365 Germany** <br/> |[독일 Office 365에 대해 알아보기](/microsoft-365/admin/admin-overview/learn-about-office-365-germany) <br/> |
    
 ### <a name="service-availability-within-each-microsoft-365-and-office-365-plan"></a>각 서비스 및 Microsoft 365 계획 내의 Office 365 가용성

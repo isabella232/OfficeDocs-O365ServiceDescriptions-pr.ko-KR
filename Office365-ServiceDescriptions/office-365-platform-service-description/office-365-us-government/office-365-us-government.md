@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 미국 공공 부문의 고유하고 진화하는 요구 사항에 대응하여 Office 365 미국 정부 플랜(또는 Office 365 Government)를 Office 365 Government. 이 문서에서는 미국 환경의 특정 기능에 Office 365 Government 제공합니다.
-ms.openlocfilehash: b1155d4eb4f0e0ff52e5cb9ebccba1fef9ebab78
-ms.sourcegitcommit: 74ced160b4f2371b8f6b12b3e9babd2626f33e63
+ms.openlocfilehash: b04cc3761208e12604bf4589bfb96d1f047b5b0b
+ms.sourcegitcommit: 879fce98f2d91420a673f0cbbd0a392536a4637a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60417114"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60649195"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -230,8 +230,8 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**[서비스 업데이트](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |모든 고객에게 제공되는 정규 업데이트|예|예|예|예|
 |알림을 보낸 대상: 메시지 센터 작업이 다음과 같은 경우 필수|예|예|예|예|
-|일부 서비스에 대한 Roadmap.office.com 업데이트|<sup>10 없음</sup>|<sup>10 없음</sup>|<sup>10 없음</sup>|<sup>10 없음</sup>|
-|대상 지정 릴리스를 켜는 옵션|예<sup>10</sup>|예<sup>10</sup>|예<sup>10</sup>|예<sup>10</sup>|
+|일부 서비스에 대한 Roadmap.office.com 업데이트|아니요<sup>8</sup>|아니요<sup>8</sup>|아니요<sup>8</sup>|아니요<sup>8</sup>|
+|대상 지정 릴리스를 켜는 옵션|예<sup>8, 22</sup>|예<sup>8, 22</sup>|예<sup>8, 22</sup>|예<sup>8, 22</sup>|
 |**[도움말 및 학습](../../office-365-platform-service-description/help-and-training.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |온라인 도움말|예|예|예|예|
 |커뮤니티|예|예|예|예|
@@ -275,7 +275,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 <br/><sup>5</sup> Reducing seats that were purchased with a term discount may be subject to an early termination fee. 이러한 위약금이 월별 유료 구독에는 적용되지 않습니다.
 <br/><sup>6</sup> 다음 계획은 Microsoft 365 관리 센터, Office 365 Government G1, F3의 라이선스 Office 365 Government G3 Office 365 Government 지원하지 않습니다.
 <br/><sup>7</sup> High에서는 GCC 없지만 곧 제공될 예정입니다.
-<br/><sup>8</sup> Office 365 Government G1, G3 및 F3의 경우 대상이 지정된 릴리스 및 비즈니스용 Office 365 로드맵이 적용됩니다. 그러나 규정 준수 요구 사항으로 인해 특정 서비스 업데이트에 대한 몇 가지 차이점이나 지연이 있을 [수 있습니다.](https://www.microsoft.com/trust-center)
+<br/><sup>8</sup> Office 365 Government G1, G3 및 F3의 경우 비즈니스 Office 365 로드맵이 적용됩니다. 그러나 규정 준수 요구 사항으로 인해 특정 서비스 업데이트에 대한 몇 가지 차이점이나 지연이 있을 [수 있습니다.](https://www.microsoft.com/trust-center)
 <br/><sup>9</sup> Office 365 Government 제품에서는 아직 사용할 수 없지만 곧 제공될 예정입니다.
 <br/><sup>10</sup> 포함되지 않지만, 이 추가 기능의 별도 추가 기능으로 구입할 GCC.
 <br/><sup>11</sup> Office 365 Government 지원되지 않습니다.
@@ -289,6 +289,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 <br/><sup>19</sup> Microsoft Graph API 또는 Microsoft Teams.
 <br/><sup>20</sup> 자세한 내용은 고객 키를 사용하여 [서비스 암호화를 참조하세요.](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697)
 <br/><sup>21</sup> Microsoft 365 감사는 조직의 여러 서비스에서 다양한 유형의 감사 활동을 조직에 Microsoft 365. 보안 및 [준수 &](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 로그 검색을 사용하여 조직의 사용자 및 관리자 활동을 볼 수 있습니다. 또한 관리 활동 API를 [Office 365](/office/office-365-management-api/office-365-management-activity-api-reference) 감사 로그에서 이벤트를 검색할 수 있습니다. 사용자 또는 관리자가 감사 활동을 수행하면 감사 레코드가 생성되어 고객 조직에 대한 감사 로그에 저장됩니다. 감사 레코드가 보존되는 기간(감사 로그에서 검색 가능)은 고객의 Office 365 또는 Microsoft 365 Enterprise 구독 및 특정 사용자에게 할당된 라이선스 유형에 따라 다릅니다.
+<br/><sup>22</sup> 대상 지정 릴리스는 Office 365 Government 아직 사용할 수 없지만 곧 제공될 예정입니다.
 
 ## <a name="office-application-availability-and-enterprise-value"></a>Office 및 엔터프라이즈 가치 제공
 
@@ -377,11 +378,11 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |버전 기록|예|아니요|아니요|아니요|
 |[**Microsoft Forms는**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) 현재 사용할 수 없는 다음 기능을  제외하고 정부 클라우드에서 완전히 사용할 수 있습니다.||**GCC**|**GCC High**|**DOD**|
 |전자 메일 알림||아니요<sup>1</sup>|아니요<sup>1</sup>|아니요|
-|그림 삽입||아니요<sup>1</sup>|아니요<sup>1</sup>|아니요|
+|그림 삽입||예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|
 |비디오 삽입||아니요<sup>1</sup>|아니요<sup>1</sup>|아니요|
 |수학||아니요<sup>1</sup>|아니요<sup>1</sup>|아니요|
 |Office 통합||아니요<sup>1</sup>|아니요<sup>1</sup>|아니요|
-|가장 최근 그룹 양식||아니요<sup>4</sup>|예|예|
+|가장 최근 그룹 양식||예|예|예|
 |외부 공유<sup>3</sup>||예|아니요|아니요|
 |양식 Pro||아니요|아니요|아니요|
 |[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) 현재 사용할 수 없는 다음 기능을 제외하고는 정부  클라우드에서 완전히 사용할 수 있습니다.||**GCC**|**GCC High**|**DOD**|
@@ -443,5 +444,5 @@ Microsoft Teams/high/DoD 내에서 GCC/GCC 기능 사용 가능 여부는 Micros
 > <sup>1</sup> 예정된 가용성.
 <br/><sup>2</sup> 로컬 서비스에서 Surface Hub(로그인 안 함).
 <br/><sup>3</sup> 외부 공유는 GCC 있습니다. 조직에서 Microsoft [Forms를 끄거나](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) 설정하는 방법에 대해 자세히 알아보습니다. High 및 DOD 환경에서는 GCC 공유를 사용할 수 없습니다. 조직 내의 사용자는 양식을 작성하고 응답을 전송하고, [](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)양식을 서식 파일로 복제 및 [공유하고,](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)양식에서 공동 [](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)작성 또는 공동 작업하고, 양식 결과에 액세스합니다.
-<br/><sup>4</sup> 최신 그룹 양식 기능은 GCC 사용하지 않도록 설정됩니다. 그러나 사용자는 그룹 양식 탭에서 특정 그룹을 선택하여 그룹 양식에 계속 액세스할 수 있습니다.
-<br/><sup>5</sup> Word, Excel, PowerPoint Windows 클라이언트만 웹, MacOS, iOS 또는 Android가 아닌 클라이언트입니다.
+<br/><sup>4</sup> Bing/GCCH/DOD 환경에 대해 GCC 이미지 검색 기능을 사용하여 이미지를 삽입할 수 없습니다.
+<br/><sup>5</sup> Word Excel PowerPoint Windows 웹, MacOS, iOS 또는 Android가 아닌 클라이언트만 사용할 수 있습니다.

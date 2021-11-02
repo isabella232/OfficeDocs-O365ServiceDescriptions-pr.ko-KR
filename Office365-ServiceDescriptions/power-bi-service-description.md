@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI 클라우드 기반 비즈니스 분석 도구 모음으로, 누구나 더 빠른 속도, 효율성 및 이해를 통해 데이터에 연결하고, 시각화하고, 분석할 수 있습니다. 사용자를 사용하기 쉬운 대시보드를 통해 다양한 범위의 라이브 데이터와 연결하고, 대화형 보고서를 제공하며 데이터에 생동감을 주는 뛰어난 시각화를 전달합니다.
-ms.openlocfilehash: bf1a543008dcfb92496f25ab42c11abcd4d706ea
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 5ad2861794adcc13f89272d6d75ec2f7c06eb07d
+ms.sourcegitcommit: 879fce98f2d91420a673f0cbbd0a392536a4637a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672718"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60649165"
 ---
 # <a name="power-bi-service-description"></a>Power BI 서비스 설명
 
@@ -57,7 +57,7 @@ Power BI는 현재 Office 365 Enterprise E5 버전의 일부로 사용할 수 �
 | **거버넌스 및 관리** | | | |
 | 데이터 보안 및 암호화 | 예 | 예 | 예 |
 | 콘텐츠 만들기, 사용 및 게시에 대한 메트릭 | 예 | 예 | 예 |
-| 응용 프로그램 수명 주기 관리를 위한 배포 파이프라인 | 아니요 | 아니요 | 예 |
+| 응용 프로그램 수명 주기 관리를 위한 배포 파이프라인 | 아니요 | 예 | 예 |
 | Multi-Geo 배포 관리 | 아니요 | 아니요 | 예 |
 | BYOK(Bring Your Own Key) | 아니요 | 아니요 | 예 |
 | 추가 기능 가용성 자동 조정(미리 보기) | 아니요 | 아니요 | 예 |
@@ -65,7 +65,7 @@ Power BI는 현재 Office 365 Enterprise E5 버전의 일부로 사용할 수 �
 
 *응용 프로그램 또는 컨텍스트를 추가 라이선싱해야 할 수 있습니다. 자세한 내용은 를 [사용하여 포함된 분석을 Power BI.](/power-bi/developer/embedded/embedding)
 
-## <a name="learn-more"></a>자세한 정보
+## <a name="learn-more"></a>자세히 알아보기
 
 사용에 대한 기술 Power BI 다음 리소스를 참조하십시오.
 

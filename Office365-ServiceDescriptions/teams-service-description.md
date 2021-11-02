@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: Microsoft Teams 계획 및 Microsoft 365 서비스 및 기능 가용성에 대해 Office 365 대해 자세히 알아보습니다.
-ms.openlocfilehash: 285a64217505b58be4a476bc837365b697ad27fc
-ms.sourcegitcommit: 404a22ed6c18a1d548b1f1aaaada4cbc5118392e
+ms.openlocfilehash: aba1831fe0a6f9aea5511f62ed924df6e8f3c5b6
+ms.sourcegitcommit: 879fce98f2d91420a673f0cbbd0a392536a4637a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60462159"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60649217"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -29,7 +29,7 @@ Microsoft Teams 팀워크의 허브는 Microsoft 365. Teams 서비스에서는 �
 
 | 기능 | 소규모 기업 | Enterprise 계획 | GCC | GCC - 높음 | DOD | 교육 |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
-| 앱, 봇, & 커넥터 | 예 | 예 | 예<sup>1</sup> | 예<sup>1</sup> | 예<sup>1</sup> | 예 |
+| 앱, 봇, & 커넥터 | 예 | 예 | 예 | 예<sup>1</sup> | 예<sup>1</sup> | 예 |
 | 오디오 회의 | 예 | 예 | 예 | 예<sup>2</sup> | 예<sup>2</sup> | 예 |
 | 채널 - 표준 | 예 | 예 | 예 | 예 | 예 | 예 |
 | 채널 - 비공개 | 예 | 예<sup>3</sup> | 예 | 예 | 예 | 예 |
@@ -62,7 +62,7 @@ Microsoft는 데이터의 보안과 서비스의 [접근성](https://www.microso
 
 **클라우드 음성 기능:** 오디오 회의의 경우 조직에서 전화 접속 모임을 설정할 각 사용자에게 오디오 회의 라이선스를 구입하고 할당해야 합니다. 통화 Teams 필요한 기능의 경우 각 사용자에게는 전화 시스템과 국내 또는 국내 및 국제 통화 플랜이 필요합니다. 자세한 내용은 추가 [Microsoft Teams 라이선스를 참조합니다.](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)
 
-**라이브 이벤트:** 이 제품은 Office 365 사용 중지된 브로드캐스트를 Skype 모임 대체합니다. 라이브 이벤트 기능은 Stream 서비스에서 자세히 설명한 라이선스 계획에 사용할 수 있습니다. 여기에서 Microsoft Stream 라이선스 [세부 정보를 검토하세요.](/stream/license-overview) 라이브 이벤트 서비스는 Stream, Yammer 또는 365를 통해 액세스할 수 Microsoft Teams. 라이브 이벤트 기능에 대한 자세한 내용은 Microsoft 365, Yammer 및 Microsoft Stream에서 라이브 [Microsoft Teams 참조하세요.](/stream/live-event-m365)
+**라이브 이벤트:** 이 제품은 Office 365 사용 중지된 브로드캐스트를 Skype 모임 대체합니다. 라이브 이벤트 기능은 Stream 서비스에서 자세히 설명한 라이선스 계획에 사용할 수 있습니다. 여기에서 [Microsoft Stream 라이선스 세부 정보를 검토합니다.](/stream/license-overview) 라이브 이벤트 서비스는 Stream, Yammer 또는 365를 통해 액세스할 수 Microsoft Teams. 라이브 이벤트 기능에 대한 자세한 내용은 Microsoft 365, Yammer 및 Microsoft Stream에서 라이브 [Microsoft Teams 참조하세요.](/stream/live-event-m365)
 
 지원되는 모든 구독 계획은 Microsoft Teams, 데스크톱 클라이언트 및 모바일 앱에 액세스할 수 있습니다.
 

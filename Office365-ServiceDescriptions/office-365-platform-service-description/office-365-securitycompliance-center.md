@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 보안 및 준수 센터는 조직 전체에서 규정 &amp; Office 365 수 있도록 디자인되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: e703a630cd2300bff85d465be89ce865c572d6a4
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: ef62fa8f4e81a3b7a353c13ba69313a13463ff63
+ms.sourcegitcommit: 879fce98f2d91420a673f0cbbd0a392536a4637a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671292"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60649175"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -33,7 +33,7 @@ ms.locfileid: "59671292"
 |[고급 위협 관리(예:](/microsoft-365/security/office-365-security/office-365-ti)피싱 캠페인에 대한 위협 탐색기<sup>6)</sup> | 아니요 | 아니요 |아니요 | 아니요 | 아니요 | 예 | 예 | 아니요 |
 |[고객 Lockbox](/microsoft-365/compliance/customer-lockbox-requests) | 아니요 | 아니요 | 아니요 | 아니요 | 아니요 | 예 | 예  | 아니요  |
 |[모바일 장치 관리](/microsoft-365/admin/basic-mobility-security/set-up) | 예 | 예 | 예 | 예 | 예 | 예 | 예 | 예 |
-|[Exchange Online, SharePoint Online](/microsoft-365/compliance/data-loss-prevention-policies)및 비즈니스용 OneDrive<sup>7,9에</sup> 대한 데이터 손실 방지 | 아니요 | 예 | 예 | 아니요 | 예 | 예 | 아니요 | 아니요 |
+|[Exchange Online, SharePoint Online](/microsoft-365/compliance/data-loss-prevention-policies)및 비즈니스용 OneDrive<sup>7,9에</sup> 대한 데이터 손실 방지 | 아니요 | 아니요 | 예 | 아니요 | 예 | 예 | 아니요 | 아니요 |
 |[통신 데이터 손실 방지를 Microsoft Teams](/microsoft-365/compliance/dlp-microsoft-teams) | 아니요 | 아니요 | 아니요 | 아니요 | 아니요 | 예 | 아니요 |  |
 |[수동 민감도 레이블](/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | 아니요 | 아니요 | 예 | 예 | 예 | 예 | 예 | 아니요 |
 |자동 민감도 레이블 | 아니요 | 아니요 |아니요 | 아니요 | 아니요 | 예 | 예 | 아니요 |
