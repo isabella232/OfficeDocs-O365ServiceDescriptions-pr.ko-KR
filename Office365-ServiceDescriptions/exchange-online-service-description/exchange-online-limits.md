@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 주소록 제한, 사서함 저장 용량 제한, 보고 및 메시지 추적 제한을 비롯하여 다양한 서비스 영역에 대한 Exchange Online 제한을 확인할 수 있습니다.
-ms.openlocfilehash: 822341c87a9a753f6c81a227d7ae339924cbe152
-ms.sourcegitcommit: 2464903b4632fd8ad2554f37c2646f124b3dd8c4
+ms.openlocfilehash: d4d7a226cabb67838159b9b70741003e9c410a19
+ms.sourcegitcommit: 879fce98f2d91420a673f0cbbd0a392536a4637a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/06/2021
-ms.locfileid: "60149410"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60649227"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 제한
 
@@ -110,7 +110,7 @@ Microsoft Exchange Online 제한은 다음 범주 중 하나에 속합니다.
 | 기능 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|---------------------------|
 | 사용자 사서함 | 50GB | 50 GB | 50GB | 50 GB | 100GB | 100GB | 2GB |
-| 보관 사서함<sup>7,8</sup> | 50GB | 50GB | 50 GB | 50GB | 1.5TB<sup>1</sup> | 1.5TB<sup>1</sup> | 사용할 수 없음<sup>4</sup> |
+| 보관 사서함<sup>7,8</sup> | 50GB | 50GB | 1.5TB<sup>1</sup> | 50GB | 1.5TB<sup>1</sup> | 1.5TB<sup>1</sup> | 사용할 수 없음<sup>4</sup> |
 | 공유 사서함<sup>10</sup> | 50GB<sup>2</sup> | 50GB<sup>2</sup> | 50GB<sup>2</sup> | 50GB<sup>2</sup> | 50/100 GB<sup>2,9</sup> | 50/100 GB<sup>2,9</sup> | 50GB<sup>2</sup> |
 | 리소스 사서함 | 50GB<sup>3</sup> | 50GB<sup>3</sup> | 50GB<sup>3</sup> | 50GB<sup>3</sup> | 50GB<sup>3,9</sup> | 50GB<sup>3,9</sup> | 50GB<sup>3</sup> |
 | 공용 폴더 사서함<sup>5</sup> | 100GB<sup>6</sup> | 100GB<sup>6</sup> | 100GB<sup>6</sup> | 100GB<sup>6</sup> | 100GB<sup>6</sup> | 100GB<sup>6</sup> | 100GB<sup>6</sup> |
@@ -149,7 +149,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
 | 경고 | 49GB | 49GB | 49GB | 49GB | 98GB | 98GB | 1.96GB |
 | 보내기 금지 | 49.5GB | 49.5GB | 49.5GB | 49.5GB | 99GB | 99GB | 1.98GB |
-| 보내기/받기 금지 | 50 GB | 50GB | 50 GB | 50GB | 100GB | 100GB | 2GB |
+| 보내기/받기 금지 | 50 GB | 50 GB | 50GB | 50GB | 100GB | 100GB | 2GB |
 
 ### <a name="capacity-alerts-across-standalone-plans"></a>독립 실행형 계획별 용량 경고
 
