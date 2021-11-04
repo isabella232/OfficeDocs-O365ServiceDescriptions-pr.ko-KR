@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 Microsoft 365 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: ba31ce892c6e304229aa453afaad272e0475375f
-ms.sourcegitcommit: 879fce98f2d91420a673f0cbbd0a392536a4637a
+ms.openlocfilehash: fa044dc785b6dcd151f8eafed7e7da12e6ab9050
+ms.sourcegitcommit: 0a1e0ac3a63d0fbd7a6f394352ee9f5b0544f29b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60649237"
+ms.lasthandoff: 11/04/2021
+ms.locfileid: "60785243"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 &amp; 지침
 
@@ -27,6 +27,8 @@ ms.locfileid: "60649237"
 > 일부 테넌트 서비스는 현재 특정 사용자로 혜택을 제한할 수 없습니다. 사용이 허가된 사용자에 대한 서비스 혜택을 제한하기 위해 노력해야 합니다. 이렇게 하면 대상 지정 기능을 사용할 수 있는 경우 조직에 대한 잠재적인 서비스 중단을 방지할 수 있습니다.
 
 사용자 라이선스를 사용자에게 라이선스를 설정하여 규정 준수 기능을 Microsoft 365 옵션을 확인하려면 Microsoft 365 [비교 표를 다운로드하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
+
+Microsoft 라이선싱 프로그램을 통해 획득한 Microsoft 제품 및 Professional 서비스 사용에 대한 사용 약관을 검토하기 위해 제품 약관을 [참조합니다.](https://www.microsoft.com/Licensing/product-licensing/products)
 
 ## <a name="advanced-audit"></a>고급 감사
 
@@ -183,7 +185,7 @@ Microsoft Exchange Online 라이선스가 포함된 모든 고객은 준수 관�
 
 Microsoft 클라우드에 대한 규정 준수 프로그램은 라이선스가 Microsoft 365 Office 365 있습니다.
 
-현재 FSI 준수 프로그램에 등록된 고객은 Microsoft 클라우드에 대한 새 준수 프로그램의 구독을 구입해야 합니다. 자세한 내용은 을 [참조하세요.](https://aka.ms/cpmc)
+현재 FSI 준수 프로그램에 등록된 고객은 Microsoft 클라우드에 대한 새 준수 프로그램의 구독을 구입해야 합니다. 자세한 내용은 [Microsoft 클라우드용 준수 프로그램을 참조하세요.](https://aka.ms/cpmc)
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
@@ -198,7 +200,7 @@ Enterprise, 규정 준수 책임자, 내부 감사자, 개인 정보 보호 책�
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-기본적으로 Microsoft 클라우드에 대한 준수 프로그램은 서비스를 통해 혜택을 받을 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 자세한 내용은 을 [참조하세요.](https://aka.ms/cpmc)
+기본적으로 Microsoft 클라우드에 대한 준수 프로그램은 서비스를 통해 혜택을 받을 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 자세한 내용은 [Microsoft 클라우드용 준수 프로그램을 참조하세요.](https://aka.ms/cpmc)
 
 ## <a name="data-connectors"></a>데이터 커넥터
 
