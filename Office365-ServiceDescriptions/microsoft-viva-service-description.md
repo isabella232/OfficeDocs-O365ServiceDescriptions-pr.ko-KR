@@ -12,47 +12,57 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: ''
 description: Microsoft Viva 통합된 환경을 통해 Teams Microsoft 365, 웰브링, Learning 및 지식의 네 가지 주요 영역에서 직원 환경을 통합하여 최고의 직원 환경을 구축할 수 있습니다.
-ms.openlocfilehash: 5342d966a841b37e96c17d830a722455b372aa50
-ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
+ms.openlocfilehash: 142c5b7a85627e933fcadea74c5738272a22068f
+ms.sourcegitcommit: 5a5fccf8b7cbe901bbbfed7cbc6e4f5e1c7fab73
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59987242"
+ms.lasthandoff: 11/05/2021
+ms.locfileid: "60793252"
 ---
 # <a name="microsoft-viva-service-description"></a>Microsoft Viva 서비스 설명
 
-Microsoft Viva 통합된 환경을 통해 Teams Microsoft 365, 웰브링, Learning 및 지식의 네 가지 주요 영역에서 직원 환경을 통합하여 최고의 직원 환경을 구축할 수 있습니다. Viva용 초기 모듈 집합은 Viva 파트너의 강력하고 성장하는 에코시스템과의 통합, 고객이 기존 직원 환경 시스템 및 도구를 Viva와 통합하여 직원들이 보다 쉽게 접근하고 검색할 수 있도록 하는 플랫폼 확장을 기본 제공합니다.
+Microsoft Viva 및 Teams Microsoft 365 통합된 환경의 참여, 웰 웰 링, Learning 및 지식의 네 가지 주요 영역에서 직원 환경을 통합하여 최고의 역량을 발휘할 수 있도록 합니다. Viva의 초기 모듈 집합은 기본 제공 기능, Viva 파트너의 강력하고 성장하는 에코시스템과의 통합, 고객이 기존 직원 환경 시스템 및 도구를 Viva와 통합하여 직원들이 보다 쉽게 액세스할 수 있도록 하는 플랫폼 확장을 제공합니다.
 
 - **Viva Connections**   직원이 정책 및 혜택과 같은 내부 통신 및 회사 리소스에 액세스하고 직원 리소스 그룹과 같은 커뮤니티에 참여할 수 있는 디지털 작업 공간에 대한 개인 설정 게이트웨이를 Microsoft Teams. 앱용 연결 Teams 2021년 후반에 출시되는 모바일 앱에서 일반적으로 사용할 수 있습니다.
 
-- **Viva 항목**   사용자가 회사 전체의 정보 및 전문가에 연결하는 데 도움이 되는 지식 검색 환경을 제공합니다. AI를 사용하여 고객의 Microsoft 365 이유와 ServiceNow 및 Salesforce와 같은 다양한 타사 서비스의 지식을 통합할 수 있습니다. Viva 항목은 대화 및 문서 내에 항목 카드를 자동으로 표시하고 Microsoft 365 Teams. 카드를 클릭하면 관련 문서, 대화, 비디오 및 사람이 있는 항목 페이지가 열립니다. Viva 항목은 이제 상업용 요금제의 추가 기능으로 Microsoft 365 있습니다.
+- **Viva 항목**   사용자가 회사 전체의 정보 및 전문가에 연결하는 데 도움이 되는 지식 검색 환경을 제공합니다. 고객의 Microsoft 365 데이터를 이유화하는 데 AI를 사용하고 ServiceNow 및 Salesforce와 같은 다양한 타사 서비스의 지식을 통합하는 기능을 사용하여 Viva 항목은 Microsoft 365 및 문서에 항목 카드를 자동으로 Teams. 카드를 클릭하면 관련 문서, 대화, 비디오 및 사람이 있는 항목 페이지가 열립니다. Viva 항목은 이제 상업용 요금제의 추가 기능으로 Microsoft 365 있습니다.
+
+- **Viva Insights** 패턴이 웰브와 생산성에 어떤 영향을 주는지 데이터 기반 가시성을 제공합니다. 개인, 관리자 및 리더 인사이트는 현재 개인 정보의 Viva Insights 앱에서 사용할 수 Microsoft Teams. Viva Insights 사용자 지정 심층 분석용 고급 도구 및 템플릿도 있습니다. 고급 분석 도구는 회사의 비즈니스 리더에게 사용자 지정 분석을 분석하고 보고하는 다양한 방법을 제공합니다.
+
+    > [!NOTE]
+    > Microsoft MyAnalytics Workplace Analytics는 이 새로운 기능 집합의 일부로, 시간이 Microsoft Viva Insights 브랜드를 반영하기 위해 업데이트되고 있습니다.
 
 ## <a name="feature-availability"></a>기능 가용성
 
-다음 표에는 계획에서 사용할 Microsoft Viva 주요 주요 기능이 나열되어 있습니다. 특정 경고가 적용됩니다. 자세한 내용은 각주를 참조하십시오. 이 표는 통지 없이 변경될 수 있습니다. 최신 및 전체 기능 목록은 Employee Experience [Platform Overview를 참조하세요.](https://www.microsoft.com/microsoft-viva/overview)<br><br>
+다음 표에는 계획에서 사용할 Microsoft Viva 주요 주요 기능이 나열되어 있습니다. 특정 경고가 적용됩니다. 자세한 내용은 각주를 참조하십시오. 이 표는 통지 없이 변경될 수 있습니다. 최신 및 전체 기능 목록은 Employee Experience [Platform Overview | Microsoft Viva](https://www.microsoft.com/microsoft-viva/overview).<br><br>
 
-| 기능  | Microsoft 365 F1  | Microsoft 365 F3 <br/>Office 365 F3 | Office 365 E1/A1  | Microsoft 365 E3/A3 <br/>Office 365 E3/A3  | Microsoft 365 E5/A5 <br/>Office 365 E5/A5   | Microsoft 365 Business Basic  | Microsoft 365 Business Standard  | Microsoft 365 Business Premium  | Viva 항목<sup>4</sup> <br/>추가 기능 |
-|---------|----------|----------------------|-------------|-----------------------------|------------------------------|----------------------|-------------------------|------------------------|-----------------------|
-| Viva Connections  | 예  | 예  | 예  | 예  | 예  | 예  | 예  | 예  | 아니요  |
-| Viva Connections Desktop  | 예  | 예  | 예  | 예  | 예  | 예  | 예  | 예  | 아니요  |
-| Viva Connections 대시보드  | 예  | 예  | 예  | 예  | 예  | 예  | 예  | 예  | 아니요  |
-| Viva Connections Mobile<sup>2</sup>  | 예  | 예  | 예  | 예  | 예  | 예  | 예  | 예  | 아니요  |
-| Viva 항목<sup>1</sup> - 항목 센터, 항목 페이지 및 항목 카드  | 아니요  | 아니요  | 아니요  | 아니요  | 아니요  | 아니요  | 아니요  | 아니요  | 예  |
-| Graph 커넥터<sup>2</sup> - 사용당 인덱싱된<sup>3개</sup> 원격 항목 500개(풀 풀) 용량  | 아니요  | 아니요  | 아니요  | 아니요  | 예<sup>2</sup>  | 아니요  | 아니요  | 아니요  | 예  |
+| 기능  | M365 F1/F3 <br/>O365 F3 | O365 A1 | O365 E1  | M365 E3/A3 <br/>O365 E3/A3  | M365 E5/A5 <br/>O365 E5/A5   | M365 Business Basic, Standard 및 Premium  |
+|---------|----------|----------------------|-------------|-----------------------------|------------------------------|----------------------|
+| Viva Connections  | 예  | 예  | 예  | 예  | 예  | 예  |
+| Viva Connections Desktop  | 예  | 예  | 예  | 예  | 예  | 예  |
+| Viva Connections 대시보드  | 예  | 예  | 예  | 예  | 예  | 예  |
+| Viva Connections Mobile<sup>2</sup>  | 예  | 예  | 예  | 예  | 예  | 예  |
+| Viva 항목<sup>1, 4</sup> – 항목 센터, 항목 페이지 및 항목 카드  | 아니요  | 아니요  | 아니요  | 아니요  | 아니요  | 아니요  |
+| Viva 항목 – Graph 콘텐츠 커넥터<sup>2, 4</sup> - 사용당 인덱싱된<sup>3개</sup> 원격 항목 500개 용량(풀 풀)  | 아니요  | 아니요  | 아니요  | 아니요  | 예<sup>2</sup>  | 아니요  |
+| Viva Insights<sup>5</sup> – 지원되는 계획이 있는 무료 개인 정보(MyAnalytics)입니다.   | 아니요  | 아니요  | 예  | 예 | 예 | 예 |
+| Viva Insights<sup>6</sup> – 지원되는 계획이 있는 추가 요금에 대한 관리자, 리더 및 분석가(Teams 및 Workplace Analytics)를 위한 역할 기반 인사이트   | 예  | 아니요  | 예 | 예 | 예 | 예 |
 
 <sup>1</sup> 2021년 9월 1일 Viva 항목 가격을 $5에서 $4/u/m으로 인하합니다. <br/>
-<sup>2</sup> Graph/Microsoft 365 커넥터 용량만 Office 365 E5. Microsoft 365/Office 365 A5. <br/>
+<sup>2</sup> Graph M365/O365 E5에서만 제공된 커넥터 용량입니다. M365/O365 A5에 포함되지 않습니다. <br/>
 테넌트 수준에서 풀로 풀된 사용자당 인덱싱된 항목 <sup>3개</sup> <br/>
-<sup>4</sup> Viva Topics는 이제 Commercial and Education 계획에 대한 Microsoft 365 추가 기능으로 사용할 수 있습니다. 사용자는 Microsoft 365 F1/F3/E3/E3/A5/Business Basic/Business Standard/Business Standard/Business Premium, Office 365 F3/E1/E3/E3/E5/A5 또는 독립 실행형 SharePoint 요금제(현재는 범위에 있지 않은 US Gov GCC, GCC-High 및 DoD 사용이 허가되어야 합니다.
+<sup>4</sup> Viva Topics는 이제 Commercial and Education 계획에 대한 Microsoft 365 추가 기능으로 사용할 수 있습니다. 사용자는 M365 F1/F1/F3/E3/E5/A5/Business Basic/Business Standard/Business Premium, Office 365 F3/E1/E3/E3/E5/A5 또는 독립 실행형 SharePoint 요금제(현재는 범위에 없는 US Gov GCC, GCC-High 및 DoD)를 사용이 허가되어야 합니다. <br/>
+<sup>5</sup> 개인 Insights 대한 Viva는 일반적으로 Commercial, Education 및 Microsoft 365 요금제에서 무료로 사용할 GCC 있습니다. 사용자는 M365 E3/A3/E5/A5/Business Basic/Business Standard/Business Premium, Office 365 E1/E3/E5/A5/G3/G5 사용이 허가되어야 합니다. 또는 GCC(미국 Gov GCC-High 또는 DoD 및 Office 365 Germany 또는 21Vianet에서 운영하는 것은 현재 범위에 없습니다. <br/>
+<sup>6</sup> 관리자Insights 리더 및 분석가용 Viva Teams(Teams 및 Workplace Analytics)는 회사용 Exchange Online 플랜 1 또는 Exchange Online Plan 2가 포함된 Microsoft 365 또는 Office 365 제품에 대한 추가 기능으로 사용할 수 있습니다. CSP(클라우드 솔루션 공급자 구독자), 웹 직접 구독자 또는 Microsoft와 [EA(기업계약)가](/viva/insights/Setup/Environment-Requirements#enterprise-agreements) 있는 사용자 이 추가 기능은 현재 교직원의 분석에만 지원되는 것이 아니라 학생용이 아니라는 것입니다. <br/>
 
-## <a name="learn-more"></a>자세한 정보
+## <a name="learn-more"></a>자세히 알아보기
 
 계획 Microsoft 365 Office 365 자세한 내용은 전체 구독 비교 [표를 참조하세요.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
 
 자세한 내용은 Microsoft Viva 리소스를 참조하십시오.
 
-- [Microsoft Viva 항목 개요 | Microsoft Docs](/microsoft-365/knowledge/topic-experiences-overview)
+- [Microsoft Viva Topics 개요](/microsoft-365/knowledge/topic-experiences-overview)
 - [Microsoft Teams 데스크톱용 Viva Connections 추가](/sharepoint/viva-connections)
+- [Microsoft Viva Insights](https://www.microsoft.com/microsoft-viva/insights)
 - [Microsoft Viva - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-viva/ct-p/MicrosoftViva)
 
 ### <a name="licensing-terms"></a>사용 조건
