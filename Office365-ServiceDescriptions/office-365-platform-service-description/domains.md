@@ -13,13 +13,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
-description: 도메인을 추가할 때 단계별 마법사를 사용하면 사용자를 추가하고 전자 메일 주소 및 기타 서비스를 비즈니스 이름으로 변환할 수 있습니다. 마법사를 완료하면 비즈니스 전자 메일이 현재 전자 메일 공급자로 전송되는 대신 Microsoft로 전송됩니다. 자세한 내용은 Microsoft에 사용자 및 도메인 추가를 참조합니다. 21Vianet에서 운영하는 Office 365를 사용하는 경우 도메인 확인을 참조하세요.
-ms.openlocfilehash: 730165d82298a43af1cd9903e6bb5726e98f8ec5
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+description: 도메인을 추가할 때 단계별 마법사를 사용하면 사용자를 추가하고 전자 메일 주소 및 기타 서비스를 비즈니스 이름으로 변환할 수 있습니다. 마법사를 완료하면 비즈니스 전자 메일이 현재 전자 메일 공급자로 전송되는 대신 Microsoft로 전송됩니다.
+ms.openlocfilehash: 4f34a220e475a14dda3dba73aea3a6f843aed1c7
+ms.sourcegitcommit: 9a20cfc11c8202f2d95c7545d0a599934bcc3a1e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670323"
+ms.lasthandoff: 11/06/2021
+ms.locfileid: "60805076"
 ---
 # <a name="domains"></a>도메인
 
@@ -27,7 +27,7 @@ ms.locfileid: "59670323"
   
 ## <a name="custom-domains"></a>사용자 지정 도메인
 
-구독에 최대 900개 도메인을 추가할 수 있습니다(하위 도메인 포함). 다른 Microsoft 클라우드 서비스에서 이미 Microsoft 365 도메인을 추가할 수 없습니다. 즉, 여러 구독에 동일한 도메인을 추가할 수 없습니다. 자세한 내용은 [도메인 FAQ 를 참조하세요.](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)
+구독에 최대 5,000개 도메인을 추가할 수 있습니다(하위 도메인 포함). 다른 Microsoft 클라우드 서비스에서 이미 Microsoft 365 도메인을 추가할 수 없습니다. 또한 이 제한은 동일한 도메인을 여러 구독에 추가할 수 없다는 의미입니다. 자세한 내용은 [도메인 FAQ 를 참조하세요.](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)
   
 ### <a name="second-and-third-level-domains"></a>2차 및 3차 수준 도메인
 
