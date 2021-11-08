@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 Microsoft 365 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: fa044dc785b6dcd151f8eafed7e7da12e6ab9050
-ms.sourcegitcommit: 0a1e0ac3a63d0fbd7a6f394352ee9f5b0544f29b
+ms.openlocfilehash: 2898f5b3cd1fe3a828f41497b416a99f8bfcda36
+ms.sourcegitcommit: 447f703707860aaee78535c8d55d0e524bc2b7f1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "60785243"
+ms.lasthandoff: 11/08/2021
+ms.locfileid: "60824385"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 &amp; 지침
 
@@ -453,8 +453,6 @@ Power BI 레이블을 적용하고 보고, Power BI에서 Excel, PowerPoint 또�
 
 > [!NOTE]
 > Power BI/Microsoft 365 E5/A5/G5에 포함되어 있습니다. 다른 모든 계획에서는 Power BI 사용이 허가되어야 합니다.
-
-정보 보호에는 정보 보호 기능(교육 가능한 분류자)에 기반한 Machine Learning 권리가 포함되어 있지 않습니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
