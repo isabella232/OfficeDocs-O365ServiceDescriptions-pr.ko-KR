@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: 웹용 Word(이전의 Word Web App)는 Microsoft Word 브라우저로 확장하여 문서가 저장된 웹 사이트에서 직접 문서로 작업할 수 있습니다.
-ms.openlocfilehash: 4a499343c40c97f4d16575a0670dacbc4b9e5c48
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 1e1bc88173d5d08b9de57f5b4fff4c68d4b42709
+ms.sourcegitcommit: 3c16d42d1452bdf367cd49545e56a893ca8f031a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672728"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60884854"
 ---
 # <a name="word-for-the-web"></a>웹용 Word
 
@@ -35,7 +35,7 @@ ms.locfileid: "59672728"
   
 ## <a name="office-add-ins"></a>Office 추가 기능
 
-Word용 추가 기능은 Office 스토어에서 다운로드할 수 있습니다. Office 추가 기능의 경우 Word 데스크톱 앱에서만 작동하며 이 앱에서는 사용할 수 웹용 Word. 자세한 내용은 [Word용 추가 기능 가져오기](https://go.microsoft.com/fwlink/?LinkId=391443)를 참조하세요.
+Word용 추가 기능은 Office 스토어에서 다운로드할 수 있습니다. 자세한 내용은 [Word용 추가 기능 가져오기](https://go.microsoft.com/fwlink/?LinkId=391443)를 참조하세요.
   
 ## <a name="autosave"></a>자동 저장
 
@@ -75,15 +75,15 @@ Word용 추가 기능은 Office 스토어에서 다운로드할 수 있습니다
   
 ## <a name="cover-pages"></a>표지
 
-Microsoft Word는 미리 설계된 편리한 표지의 갤러리를 제공합니다. 간편하게 표지를 선택하고 샘플 텍스트를 직접 바꿀 수 있습니다.
+Microsoft Word는 미리 설계된 편리한 표지의 갤러리를 제공합니다. 표지 페이지를 선택하고 샘플 텍스트를 자신만의 텍스트로 바꿀 수 있습니다.
   
 ## <a name="creation-of-advanced-document-elements"></a>고급 문서 요소 만들기
 
-이 경우 사용할 수 웹용 Word. 상용구, 표지, 참고 문헌, 목차, 인덱스, 수식, 워터마크 같은 고급 문서 요소는 Word 데스크톱 앱에서만 사용할 수 있습니다. 
+이 경우 사용할 수 웹용 Word. 상용구, 표지, 참고 문헌, 목차, 인덱스, 수식, 워터마크 같은 고급 문서 요소는 Word 데스크톱 앱에서만 사용할 수 있습니다.
   
 ## <a name="document-parts-and-themes"></a>문서 요소 및 테마
 
-이 경우 사용할 수 웹용 Word. 콘텐츠 제어, 미리 서식이 지정된 색 구성표 모음, 글꼴 구성표 및 그래픽 효과 같은 문서 요소와 테마는 Word 데스크톱 앱에서만 사용할 수 있습니다. 
+이 경우 사용할 수 웹용 Word. 콘텐츠 제어, 미리 서식이 지정된 색 구성표 모음, 글꼴 구성표 및 그래픽 효과 같은 문서 요소와 테마는 Word 데스크톱 앱에서만 사용할 수 있습니다.
   
 ## <a name="document-translation"></a>문서 번역
 
