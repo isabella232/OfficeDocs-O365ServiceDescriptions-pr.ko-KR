@@ -9,12 +9,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 정부 및 Microsoft 365 옵션에 대해 간략하게 소개합니다.
-ms.openlocfilehash: 1091f3b565f1e0d1dfbd2482940f93506f94fccd
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 073487b8f091fb16b34d43e84825d6f620d402bc
+ms.sourcegitcommit: c5bf3cead909ebae766ad3f99662347e63db1539
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670193"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60887146"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 정부 - 구입 방법
 
@@ -89,7 +89,7 @@ Microsoft GCC 및 GCC 높은 서비스를 모두 Microsoft 정부 클라우드�
 정부에서 사용할 수 있는 서비스에 대한 자세한 내용은 Microsoft 365 리소스를 참조합니다.
 
 - [Office 365 Government 서비스 설명](office-365-us-government.md)
-- [Enterprise Mobility + Security 미국 정부 서비스 설명](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [미국 정부 기관용 Enterprise Mobility + Security 서비스 설명](/enterprise-mobility-security/solutions/ems-govt-service-description)
 - [엔드포인트용 Microsoft Defender(미국 정부 고객용)](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Teams - GCC 배포](/MicrosoftTeams/plan-for-government-gcc)
 - [Teams - GCC 높은 배포](/MicrosoftTeams/plan-for-government-gcc-high)
@@ -136,7 +136,7 @@ Microsoft GCC 및 GCC 높은 서비스를 모두 Microsoft 정부 클라우드�
 - 12:34 MicroTechnologies, Inc.
 - Accenture Federal Services, LLC
 - Agile IT, Inc
-- American Technology Services, Inc.
+- American Technology Services LLC
 - Applied Information Sciences, Inc.
 - Arctic Information Technology, Inc.
 - BAH
@@ -186,7 +186,7 @@ Microsoft GCC 및 GCC 높은 서비스를 모두 Microsoft 정부 클라우드�
 
 ## <a name="what-trials-are-available"></a>어떤 평가판을 사용할 수 있나요?
 
-- [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) 고객은 EMS 페이지의 오른쪽 위에 있는 지금 시도 단추를 선택하여 Office 상거래 포털에서 게이트된 등록 프로세스를 거치면 AAD(Azure Active Directory) 포털로 라우팅할 수 있습니다.
+- [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) 고객은 EMS 페이지의 오른쪽 위에 있는 지금 시도 단추를 선택하여 Office 상거래 포털에서 게이트된 등록 프로세스를 거치면 Azure Active Directory(AAD) 포털로 라우팅할 수 있습니다.
 - [Office 365.](https://aka.ms/gcctrial) 1개월 무료 평가판은 GCC 있습니다.  
 - Microsoft는 상업적 고객에게 Office 365 GCC 평가판을 제공하지 않습니다. High 또는 DoD에는 GCC 평가판이 없습니다.
 
@@ -195,7 +195,7 @@ Microsoft GCC 및 GCC 높은 서비스를 모두 Microsoft 정부 클라우드�
 정부에 대한 자세한 내용은 다음 리소스를 Microsoft 365 참조합니다.
 
 - [Office 365 Government 서비스 설명](office-365-us-government.md)
-- [Enterprise Mobility + Security 미국 정부 서비스 설명](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [미국 정부 기관용 Enterprise Mobility + Security 서비스 설명](/enterprise-mobility-security/solutions/ems-govt-service-description)
 - [엔드포인트용 Microsoft Defender(미국 정부 고객용)](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Teams - GCC 배포](/MicrosoftTeams/plan-for-government-gcc)
 - [Teams - GCC 높은 배포](/MicrosoftTeams/plan-for-government-gcc-high)

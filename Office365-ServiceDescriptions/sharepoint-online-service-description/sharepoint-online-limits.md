@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 및 독립 실행형 계획에 대한 SharePoint 제한에 대해 알아보세요.
-ms.openlocfilehash: 87ef3a5a9ddf795ae8143021e054f7dd5c9d1d48
-ms.sourcegitcommit: 2464903b4632fd8ad2554f37c2646f124b3dd8c4
+ms.openlocfilehash: caa79626decad01f532a0dd72af0f62435b13619
+ms.sourcegitcommit: c5bf3cead909ebae766ad3f99662347e63db1539
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/06/2021
-ms.locfileid: "60149380"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60887136"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -45,6 +45,8 @@ Microsoft 365 SharePoint의 서비스 제한에 대해 알아보세요.
 - **250 GB - 파일 업로드 제한입니다.** Microsoft Teams 파일 탭, SharePoint 문서 라이브러리, OneDrive 폴더 및 Yammer 대화에 업로드된 각 개별 파일에 적용됩니다.
 
 - **250MB - 목록 항목에 첨부된 파일입니다.** 동일한 목록 플랫폼을 기반으로 하는 Microsoft 목록 및 SharePoint 목록에 적용됩니다.
+
+- 파일 이름을 포함하여 디코딩된 전체 파일 경로는 400자 이상을 포함할 수 없습니다OneDrive OneDrive 또는 학교의 경우 SharePoint Microsoft 365. 이 제한은 디코딩 후 폴더 경로와 파일 이름의 조합에 적용됩니다. 자세한 내용은 파일 이름 및 경로 [길이로 이동하세요.](https://support.microsoft.com/office/restrictions-and-limitations-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa#filenamepathlengths)
 
 새 OneDrive 동기화 앱(OneDrive.exe)을 사용할 때의 제약사항 및 제한에 대한 자세한 내용은 [잘못된 파일 이름 및 파일 형식](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)을 참조하세요.
 
@@ -89,6 +91,10 @@ SharePoint 또는 명시적 중지 작업이 없는 경우 2013 워크플로를 
 
 > [!NOTE]
 > 조직은 2,000개의 허브 사이트로 제한됩니다. 일부 기능에는 허브 사이트가 필요하지 않을 수 있으며 허브를 만들기 전에 몇 가지 계획을 세우는 것이 중요합니다. 자세한 내용은 [SharePoint 허브 사이트 계획을 참조하세요.](/sharepoint/planning-hub-sites)
+
+### <a name="lists-and-libraries"></a>목록 및 라이브러리
+
+사이트 모음당 결합된 목록 및 라이브러리 2,000개(주 사이트 및 모든 하위 사이트 포함) 동일한 웹 아래에 너무 많은 목록 또는 라이브러리를 만드는 대신 목록과 라이브러리를 사이트 모음으로 구성하는 것이 좋습니다.
 
 ### <a name="sync"></a>동기화
 
