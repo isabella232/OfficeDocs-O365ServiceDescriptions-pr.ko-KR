@@ -21,12 +21,12 @@
 ### [서비스 상태 및 연속성](office-365-platform-service-description/service-health-and-continuity.md)
 ### [보고서](office-365-platform-service-description/reports.md)
 ### [모바일 장치](office-365-platform-service-description/mobile-devices-sd.md)
+#### [BlackBerry](office-365-platform-service-description/blackberry.md)
 ### [지원](office-365-platform-service-description/support.md)
 ### [서비스 업데이트](office-365-platform-service-description/service-updates.md)
 ### [도움말 및 학습](office-365-platform-service-description/help-and-training.md)
 ### [네트워킹](office-365-platform-service-description/networking.md)
 ### [개인 정보, 보안 및 투명성](office-365-platform-service-description/privacy-security-and-transparency.md)
-### [BlackBerry](office-365-platform-service-description/blackberry.md)
 ### [파트너](office-365-platform-service-description/partners.md)
 ### [서비스 수준 계약](office-365-platform-service-description/service-level-agreement.md)
 ### [제품 사용권](office-365-platform-service-description/product-use-rights.md)
@@ -103,8 +103,6 @@
 ## [Yammer 서비스 설명](yammer-service-description/yammer-service-description.md)
 ### [Yammer에서의 제한](yammer-service-description/yammer-limits.md)
 ## Microsoft 365 서비스 설명
-### [Microsoft 365 Business Premium 서비스 설명](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
-
 ### [중소기업을 위한 Microsoft 365 라이선싱](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
 ### [보안 및 규정 준수를 위한 Microsoft 365 지침](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 #### [Microsoft 365 규정 준수 - DoD 배포 계획](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-dod.md)

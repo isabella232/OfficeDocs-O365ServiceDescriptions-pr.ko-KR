@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 및 독립 실행형 계획에 대한 SharePoint 제한에 대해 알아보세요.
-ms.openlocfilehash: caa79626decad01f532a0dd72af0f62435b13619
-ms.sourcegitcommit: c5bf3cead909ebae766ad3f99662347e63db1539
+ms.openlocfilehash: 34d9dfa84991fb5842a3778f52c26c9c3f2a7ecf
+ms.sourcegitcommit: d8df217b7511b1d7ceb8a66a27a552f4503c4c40
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60887136"
+ms.lasthandoff: 11/15/2021
+ms.locfileid: "60963516"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -94,7 +94,7 @@ SharePoint 또는 명시적 중지 작업이 없는 경우 2013 워크플로를 
 
 ### <a name="lists-and-libraries"></a>목록 및 라이브러리
 
-사이트 모음당 결합된 목록 및 라이브러리 2,000개(주 사이트 및 모든 하위 사이트 포함) 동일한 웹 아래에 너무 많은 목록 또는 라이브러리를 만드는 대신 목록과 라이브러리를 사이트 모음으로 구성하는 것이 좋습니다.
+사이트 모음당 결합된 목록 및 라이브러리 2,000개(주 사이트 및 모든 하위 사이트 포함)
 
 ### <a name="sync"></a>동기화
 

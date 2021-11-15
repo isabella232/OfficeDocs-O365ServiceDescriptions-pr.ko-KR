@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 미국 공공 부문의 고유하고 진화하는 요구 사항에 대응하여 Office 365 미국 정부 플랜(또는 Office 365 Government)를 Office 365 Government. 이 문서에서는 미국 환경의 특정 기능에 Office 365 Government 제공합니다.
-ms.openlocfilehash: b04cc3761208e12604bf4589bfb96d1f047b5b0b
-ms.sourcegitcommit: 879fce98f2d91420a673f0cbbd0a392536a4637a
+ms.openlocfilehash: a41a7fa24c26af098f33d86ea6b2390bb854e795
+ms.sourcegitcommit: d8df217b7511b1d7ceb8a66a27a552f4503c4c40
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60649195"
+ms.lasthandoff: 11/15/2021
+ms.locfileid: "60963511"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -84,7 +84,7 @@ Office 365 타사 응용 프로그램을 SharePoint Online 사이트, Teams, Off
 
 Microsoft Office 365 Government 고객 콘텐츠에 대한 액세스는 선고된 직원으로 제한됩니다. 직원 심사 세부 정보는 각 환경(높음 및 DoD)에 대한 서비스 설명 페이지(GCC GCC 및 DoD)를 참조하세요.
 
-## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack 온보더링 지원 센터
+## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack 센터 온보더링 지원
 
 FastTrack Center Benefit for Office 365<sup>1을</sup>사용하면 FastTrack Specialists와 원격으로 작업하여 Office 365 환경을 사용할 수 있도록 준비하고 조직 내에서 롤아웃 및 사용을 계획할 수 있습니다. FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합니다. 
 
@@ -137,14 +137,14 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |---|---|---|---|---|
 |Exchange Online|예|예|예|예|
 |Exchange Online Protection|예|예|예|예|
-|엔터프라이즈용 Microsoft 365 앱|아니요|예|예|아니요|
+|엔터프라이즈용 Microsoft 365 앱|아니오|예|예|아니요|
 |웹용 Office|예|예|예|예|
 |비즈니스용 OneDrive|예|예|예|예|
 |Skype for Business (Instant Messaging &amp; Presence)|예|예|예|예|
 |Power BI Pro|아니요<sup>1</sup>|아니요<sup>1</sup>|예|아니요<sup>1</sup>|
 |Project Online|아니요<sup>1</sup>|아니요<sup>1</sup>|아니요<sup>1</sup>|아니요<sup>1</sup>|
 |SharePoint Online|예|예|예|예|
-|음성 - 전화 시스템, 오디오 회의|아니요<sup>1</sup>|아니요<sup>1</sup>|예<sup>3</sup>|아니요|
+|음성 - 전화 시스템, 오디오 회의|아니요<sup>1</sup>|아니요<sup>1</sup>|예<sup>3</sup>|아니오|
 |웹용 Visio|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요<sup>4</sup>|아니요<sup>4</sup>|
 |Yammer Enterprise<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|
 
@@ -275,7 +275,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 <br/><sup>5</sup> Reducing seats that were purchased with a term discount may be subject to an early termination fee. 이러한 위약금이 월별 유료 구독에는 적용되지 않습니다.
 <br/><sup>6</sup> 다음 계획은 Microsoft 365 관리 센터, Office 365 Government G1, F3의 라이선스 Office 365 Government G3 Office 365 Government 지원하지 않습니다.
 <br/><sup>7</sup> High에서는 GCC 없지만 곧 제공될 예정입니다.
-<br/><sup>8</sup> Office 365 Government G1, G3 및 F3의 경우 비즈니스 Office 365 로드맵이 적용됩니다. 그러나 규정 준수 요구 사항으로 인해 특정 서비스 업데이트에 대한 몇 가지 차이점이나 지연이 있을 [수 있습니다.](https://www.microsoft.com/trust-center)
+<br/><sup>8</sup> Office 365 Government G1, G3 및 F3의 경우 비즈니스용 Office 365 로드맵이 적용되지만 규정 준수 요구 사항으로 인해 특정 서비스 업데이트에 대한 몇 가지 차이점이나 지연이 있을 [수 있습니다.](https://www.microsoft.com/trust-center)
 <br/><sup>9</sup> Office 365 Government 제품에서는 아직 사용할 수 없지만 곧 제공될 예정입니다.
 <br/><sup>10</sup> 포함되지 않지만, 이 추가 기능의 별도 추가 기능으로 구입할 GCC.
 <br/><sup>11</sup> Office 365 Government 지원되지 않습니다.
@@ -298,8 +298,8 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |응용 프로그램/기능|Office 365 Government G1|Office 365 Government G3|Office 365 Government G5|Office 365 Government F3|
 |---|---|---|---|---|
 |**Office 응용 프로그램**|||||
-|[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word)<sup>7</sup>|아니요|예|예|아니요|
-|[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel)<sup>7</sup>|아니요|예|예|아니요|
+|[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word)<sup>7</sup>|아니오|예|예|아니요|
+|[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel)<sup>7</sup>|아니오|예|예|아니요|
 |[Microsoft PowerPoint](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)<sup>7</sup>|아니요|예|예|아니요|
 |[Microsoft OneNote](../../office-applications-service-description/office-applications.md#microsoft-onenote)<sup>7</sup>|아니요|예|예|아니요|
 |[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook)<sup>7</sup>|아니요|예|예|아니요|
@@ -308,30 +308,30 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |[Microsoft Publisher](../../office-applications-service-description/office-applications.md#microsoft-publisher)|아니요|예|예|아니요|
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access)|아니요|예|예|아니요|
 |[비즈니스용 Skype](../../office-applications-service-description/office-applications.md#skype-for-business)|예<sup>3</sup>|예|예|예<sup>3</sup>|
-|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57)|아니요|예|예|아니요|
+|[Office 365용 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57)|아니오|예|예|아니요|
 |[iPad/iPhone용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|예|예|예|예|
 |[Android용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-android)|예|예|예|예|
 |[Windows Phone용 Office Mobile](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|예|예<sup>4</sup>|예<sup>4</sup>|예|
 |Office Mobile for Windows 10 tablets|예|예|예|예|
 |Outlook 및 Android<sup>5, 4용 앱</sup>|예|예|예|예|
 |**Enterprise 값**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
-|PC 또는 Mac에서 사용자당 5건의 동시 설치 지원|아니요|예|예|아니요|
+|PC 또는 Mac에서 사용자당 5건의 동시 설치 지원|아니오|예|예|아니요|
 |사용자 계정 자동 구축|예|예|예|예|
-|다국어 사용자 인터페이스|아니요|예|예|아니요|
+|다국어 사용자 인터페이스|아니오|예|예|아니요|
 |클라이언트 푸시 배포|아니요|예<sup>4</sup>|예<sup>4</sup>|아니요|
 |온-프레미스 Exchange에 대한 클라이언트 지원|아니요|예|예|아니요|
 |온-프레미스 Sharepoint에 대한 클라이언트 지원|아니요|예|예|아니요|
 |소프트웨어 업데이트 제어|아니요|예|예|아니요|
-|데이터베이스 비교|아니요|예|예|아니요|
+|데이터베이스 비교|아니오|예|예|아니요|
 |데스크톱 가상화|아니요|예|예|아니요|
-|Excel 스프레드시트 비교|아니요|예|예|아니요|
-|Excel 스프레드시트 조회|아니요|예|예|아니요|
-|Exchange Online 및 SharePoint Online 보관 및 규정 준수|아니요|예|예|아니요|
-|그룹 정책 지원|아니요|예|예|아니요|
+|Excel 스프레드시트 비교|아니오|예|예|아니요|
+|Excel 스프레드시트 조회|아니오|예|예|아니요|
+|Exchange Online 및 SharePoint Online 보관 및 규정 준수|아니오|예|예|아니요|
+|그룹 정책 지원|아니오|예|예|아니요|
 |Azure Information Protection을 사용한 정보 권한 관리|아니요<sup>1</sup>|예<sup>6</sup>|예<sup>6</sup>|아니요<sup>1</sup>|
 |Windows Server AD RMS를 사용한 정보 권한 관리|예<sup>2</sup>|예<sup>2</sup>|예<sup>2</sup>|예<sup>2</sup>|
-|Office 추가 기능, ActiveX 및 BHO 지원|아니요|예|예|아니요|
-|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스|아니요|예|예|아니요|
+|Office 추가 기능, ActiveX 및 BHO 지원|아니오|예|예|아니요|
+|SharePoint Server, SharePoint Online, 비즈니스용 OneDrive 및 Office 365에서 전자 필기장에 대한 OneNote 클라이언트 액세스|아니오|예|예|아니요|
 |Office Lens|아니요|아니요|아니요|아니요|
 |Office 원격 분석|아니요|예<sup>4</sup>|예<sup>4</sup>|아니요|
 |클라이언트 응용 프로그램에 대한 오프라인 지원|아니요|예|예|아니요|
@@ -340,7 +340,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |Power Pivot for Excel|아니요|예<sup>4</sup>|예<sup>4</sup>|아니요|
 |Excel용 파워 쿼리|아니요|예<sup>4</sup>|예<sup>4</sup>|아니요|
 |Power View for Excel|아니요|예<sup>4</sup>|예<sup>4</sup>|아니요|
-|로밍 설정|아니요|예|예|아니요|
+|로밍 설정|아니오|예|예|아니요|
 |공유 컴퓨터 활성화|아니요|예|예|아니요|
 |클라우드 기반 파일 저장 차단 지원|아니요|예|예|아니요|
 |버전 업그레이드|아니요|예<sup>4</sup>|예<sup>4</sup>|아니요|
@@ -362,87 +362,79 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |---|---|---|---|---|
 |[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel) 현재 사용할 수 없는 다음 기능을 제외하고는 정부  클라우드에서 완전히 사용할 수 있습니다.|||||
 |3D 포함 애니메이션 및 3D 모델|예|아니요|아니요|아니요|
+|차트: sunburst 트리맵, 워터Fall, histogram, 지도, 타임라인, 펀들||아니요|아니요|아니요|
+|공동 작성자와 상황적 채팅: 문서 내에서 공동 작성자와 채팅||아니요|아니요|아니요|
 |데이터 형식||아니요|아니요|아니요|
 |플래시 채우기||아니요|아니요|아니요|
 |아이디어(Insight Services)|예|아니요|아니요|아니요|
-|사용자 지정 시각적 개체와의 Power BI(사용자 지정 시각적 개체에서 바로 PBI 차트 Excel)||아니요|아니요|아니요|
-|지능형 디지털 Ink|예|아니요|아니요|아니요|
-|Office 365 그룹||아니요|아니요|아니요|
-|피벗타이트에 연결된 피벗Arts 데이터||아니요|아니요|아니요|
-|PowerPivot||아니요|아니요|아니요|
-|Power BI에 게시||아니요|아니요|아니요|
-|실시간 공동 작업(현재 상태, 정기 공동 작성, 문서 내 채팅)|일부|아니요|아니요|아니요|
-|Shared with Me||아니요|아니요|아니요|
+|데이터 형식과의 Power BI(Power BI, Power BI 데이터<sup>집합) 3</sup>||아니요|아니요|아니요|
+|지능형 디지털 Ink||아니요|아니요|아니요|
+|Power View(O365 및 2021에서 모든 고객에 대해 기능이 제거됨에 따라 2016/2019에 적용됨)||아니요|아니요|아니요|
 |스마트 조회|예|아니요|아니요|아니요|
-|차트: sunburst 트리맵, 워터Fall, histogram, 지도, 타임라인, 펀들||아니요|아니요|아니요|
-|버전 기록|예|아니요|아니요|아니요|
 |[**Microsoft Forms는**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) 현재 사용할 수 없는 다음 기능을  제외하고 정부 클라우드에서 완전히 사용할 수 있습니다.||**GCC**|**GCC High**|**DOD**|
+|고객 음성(Forms Pro)||예|아니요|아니요|
 |전자 메일 알림||아니요<sup>1</sup>|아니요<sup>1</sup>|아니요|
-|그림 삽입||예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|
+|외부 공유<sup>4</sup>||예|아니요|아니요|
+|그림 삽입||예<sup>5</sup>|예<sup>5</sup>|예<sup>5</sup>|
 |비디오 삽입||아니요<sup>1</sup>|아니요<sup>1</sup>|아니요|
 |수학||아니요<sup>1</sup>|아니요<sup>1</sup>|아니요|
-|Office 통합||아니요<sup>1</sup>|아니요<sup>1</sup>|아니요|
 |가장 최근 그룹 양식||예|예|예|
-|외부 공유<sup>3</sup>||예|아니요|아니요|
-|양식 Pro||아니요|아니요|아니요|
+|Office 통합||아니요<sup>1</sup>|아니요<sup>1</sup>|아니요|
 |[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) 현재 사용할 수 없는 다음 기능을 제외하고는 정부  클라우드에서 완전히 사용할 수 있습니다.||**GCC**|**GCC High**|**DOD**|
 |리서치 도구|예|아니요|아니요|아니요|
 |지능형 디지털 Ink|예|아니요|아니요|아니요|
 |전자 메일로 OneNote(me@onenote.com)|예|아니요|아니요|아니요|
 |Web Clipper||아니요|아니요|아니요|
-|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) 아래 표에 표시된 일부 정부 클라우드에서는 사용할 수 없는 다음 기능을 제외하고는 정부 클라우드에서 완전히 사용할 수 있습니다.||**GCC**|**GCC High**|**DOD**|
+|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) 정부 클라우드에서는 사용할 수 없는 다음 기능을 제외하고 정부 클라우드에서 완전히 사용할 수 있습니다.||**GCC**|**GCC High**|**DOD**|
 |Office 소리(일부)|예|아니요|아니요|아니요|
 |DDE(동적 데이터 Exchange)를 기본적으로 사용하지 않도록 설정||아니요|아니요|아니요|
 |받아쓰기|예|예|예|아니요<sup>1</sup>|
-|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) 아래 표에 표시된 일부 정부 클라우드에서는 사용할 수 없는 다음 기능을 제외하고는 정부 클라우드에서 완전히 사용할 수 있습니다.||**GCC**|**GCC High**|**DOD**|
-|스마트 조회|예|아니요|아니요|아니요|
-|Office 소리(일부)||아니요|아니요|아니요|
+|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) 모든 정부 클라우드에서 사용할 수 없는 다음 기능을 제외하고는 정부 클라우드에서 완전히 사용할 수 있습니다.||**GCC**|**GCC High**|**DOD**|
 |3D 모델 및 3D 포함 애니메이션||아니요|아니요|아니요|
 |차트: maps||아니요|아니요|아니요|
-|지능형 디지털 Ink|예|아니요|아니요|아니요|
-|라이브 캡션 및 PowerPoint|예|예|예|아니요|
-|라이브 프레젠테이션||아니요|아니요|아니요|
-|몰입형 리더|예|아니요|아니요|아니요|
-|발표자 코치|예|아니요|아니요|아니요|
-|Shared with Me||아니요|아니요|아니요|
-|비즈니스용 Skype 통합||아니요|아니요|아니요|
-|버전 기록|예|아니요|아니요|아니요|
-|Office 365 그룹||아니요|아니요|아니요|
-|실시간 공동 작업(현재 상태, 정기 공동 작성, 문서 내 채팅)|일부|아니요|아니요|아니요|
-|받아쓰기|예|예|예|아니요<sup>1</sup>|
-|슬라이드 다시 사용||아니요|아니요|아니요|
-|**Microsoft Whiteboard** 클라우드의 현재는 데스크톱이 아닌 허브 클라이언트에서만 사용할 수 있습니다.||**GCC**<sup>2</sup>|**GCC High**<sup>2</sup>|**DOD**<sup>2</sup>|
-|스티커 메모, 텍스트 및 이미지 삽입||예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|
-|셰이프에 대한 Ink 및 테이블에 대한K|예|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|
-|Ink beautification|예|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|
-|이미지를 ink로 변환|예|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|
-|접근성 검사|예|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|
-|동적 템플릿(KANBAN, SWOT 등)|예|아니요|아니요|아니요|
-|실시간 공동 작업|예|아니요|아니요|아니요|
-|실시간 현재 상태|예|아니요|아니요|아니요|
-|콘텐츠에 대한 반응|예|아니요|아니요|아니요|
-|사용자와 공유하는 화이트보드의 보드 갤러리||아니요|아니요|아니요|
-|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) 모든 정부 클라우드에서 사용할 수 없는 다음 기능을 제외하고는 정부 클라우드에서 완전히 사용할 수 있습니다.||**GCC**|**GCC High**|**DOD**|
-|스마트 조회|예|아니요|아니요|아니요|
-|리서치 도구|예|아니요|아니요|아니요|
-|Office 소리||아니요|아니요|아니요|
-|3D 모델||아니요|아니요|아니요|
-|3D 포함 애니메이션||아니요|아니요|아니요|
-|누르기||아니요|아니요|아니요|
-|도우미 다시 시작|예|아니요|아니요|아니요|
-|지도 차트||아니요|아니요|아니요|
-|지능형 디지털 Ink|예|아니요|아니요|아니요|
-|Shared with Me||아니요|아니요|아니요|
-|번역||예<sup>5</sup>|예<sup>5</sup>|예<sup>5</sup>|
-|비즈니스용 Skype 통합||아니요|아니요|아니요|
-|버전 기록|예|아니요|아니요|아니요|
-|Office 365 그룹||아니요|아니요|아니요|
 |공동 작성자와 상황적 채팅: 문서 내에서 공동 작성자와 채팅||아니요|아니요|아니요|
 |받아쓰기|예|예|예|아니요<sup>1</sup>|
+|지능형 디지털 Ink|예|아니요|아니요|아니요|
+|몰입형 리더|예|아니요|아니요|아니요|
+|라이브 캡션 및 PowerPoint|예|예|예|아니요|
+|라이브 프레젠테이션||아니요|아니요|아니요|
+|Office 소리(일부)||아니요|아니요|아니요|
+|발표자 코치|예|아니요|아니요|아니요|
+|비즈니스용 Skype 통합||아니요|아니요|아니요|
+|스마트 조회|예|아니요|아니요|아니요|
+|슬라이드 다시 사용||아니요|아니요|아니요|
+|버전 기록|예|아니요|아니요|아니요|
+|**Microsoft Whiteboard** 클라우드의 현재는 데스크톱이 아닌 허브 클라이언트에서만 사용할 수 있습니다.||**GCC**<sup>2</sup>|**GCC High**<sup>2</sup>|**DOD**<sup>2</sup>|
+|접근성 검사|예|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|
+|사용자와 공유하는 화이트보드의 보드 갤러리||아니요|아니요|아니요|
+|이미지를 ink로 변환|예|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|
+|동적 템플릿(KANBAN, SWOT 등)|예|아니요|아니요|아니요|
+|Ink beautification|예|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|
+|셰이프에 대한 Ink 및 테이블에 대한K|예|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|
+|스티커 메모, 텍스트 및 이미지 삽입||예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|예<sup>2</sup> <br/>|
+|실시간 현재 상태|예|아니요|아니요|아니요|
+|콘텐츠에 대한 반응|예|아니요|아니요|아니요|
+|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) 모든 정부 클라우드에서 사용할 수 없는 다음 기능을 제외하고는 정부 클라우드에서 완전히 사용할 수 있습니다.||**GCC**|**GCC High**|**DOD**|
+|3D 모델||아니요|아니요|아니요|
+|3D 포함 애니메이션||아니요|아니요|아니요|
+|공동 작성자와 상황적 채팅: 문서 내에서 공동 작성자와 채팅||아니요|아니요|아니요|
+|받아쓰기|예|예|예|아니요<sup>1</sup>|
+|지능형 디지털 Ink|예|아니요|아니요|아니요|
+|지도 차트||아니요|아니요|아니요|
+|Office 소리||아니요|아니요|아니요|
+|리서치 도구|예|아니요|아니요|아니요|
+|도우미 다시 시작|예|아니요|아니요|아니요|
+|비즈니스용 Skype 통합||아니요|아니요|아니요|
+|스마트 조회|예|아니요|아니요|아니요|
+|누르기||아니요|아니요|아니요|
+|번역||예<sup>6</sup>|예<sup>6</sup>|예<sup>6</sup>|
+|버전 기록|예|아니요|아니요|아니요|
 
-Microsoft Teams/high/DoD 내에서 GCC/GCC 기능 사용 가능 여부는 Microsoft Teams [서비스 설명을 참조하세요.](../../teams-service-description.md)
 > <sup>1</sup> 예정된 가용성.
 <br/><sup>2</sup> 로컬 서비스에서 Surface Hub(로그인 안 함).
-<br/><sup>3</sup> 외부 공유는 GCC 있습니다. 조직에서 Microsoft [Forms를 끄거나](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) 설정하는 방법에 대해 자세히 알아보습니다. High 및 DOD 환경에서는 GCC 공유를 사용할 수 없습니다. 조직 내의 사용자는 양식을 작성하고 응답을 전송하고, [](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)양식을 서식 파일로 복제 및 [공유하고,](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)양식에서 공동 [](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)작성 또는 공동 작업하고, 양식 결과에 액세스합니다.
-<br/><sup>4</sup> Bing/GCCH/DOD 환경에 대해 GCC 이미지 검색 기능을 사용하여 이미지를 삽입할 수 없습니다.
-<br/><sup>5</sup> Word Excel PowerPoint Windows 웹, MacOS, iOS 또는 Android가 아닌 클라이언트만 사용할 수 있습니다.
+<br/><sup>3</sup> Excel/Power BI 클라우드 연결 기능은 클라우드 환경에서만 지원되는 Power BI.
+<br/><sup>4</sup> GCC 환경에서는 외부 공유를 사용할 수 있으며 GCC High 및 DOD 환경에서는 사용하지 않도록 설정됩니다. 조직 내의 사용자는 양식을 작성하고 응답을 제출하고, 양식을 복제 [](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)및 공유하고, [](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)양식에서 공동 작성 또는 공동 작업하고, 양식 결과에 액세스할 수 있습니다. [](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f) 조직에서 Microsoft [Forms를 끄거나](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) 설정하는 방법에 대해 자세히 알아보습니다.
+<br/><sup>5</sup> Bing/GCCH/DOD 환경에서 이미지 검색 기능을 GCC 사용할 수 없습니다.
+<br/><sup>6</sup> Word Excel PowerPoint Windows 웹, MacOS, iOS 또는 Android가 아닌 클라이언트만 사용할 수 있습니다.
+
+Microsoft Teams/high/DoD 내에서 GCC/GCC 기능 사용 가능 여부는 Microsoft Teams [서비스 설명을 참조하세요.](../../teams-service-description.md)

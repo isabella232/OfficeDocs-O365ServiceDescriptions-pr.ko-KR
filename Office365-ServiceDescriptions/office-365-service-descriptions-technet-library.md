@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 Office 365 및 서비스는 강력한 보안, 안정성 및 사용자 생산성에 대한 조직의 요구를 충족하도록 설계된 클라우드 기반 서비스입니다.
-ms.openlocfilehash: 95594a456d6c0c5ef10c7133ffb4b2298866ec76
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: f7da183c2b55b8f697bd54d528ecc8a0fdead9f8
+ms.sourcegitcommit: d8df217b7511b1d7ceb8a66a27a552f4503c4c40
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59669994"
+ms.lasthandoff: 11/15/2021
+ms.locfileid: "60963528"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 및 Office 365 서비스 설명 
 
@@ -72,9 +72,9 @@ Microsoft는 FastTrack 요금제의 Office 365 서비스에 대한 Office 365 �
 
 - [Yammer 서비스 설명](yammer-service-description/yammer-service-description.md)
 
-- [Microsoft 365 Business 음성 서비스 설명](microsoft-365-business-voice-service-description.md)
+- [Microsoft 365 Business Voice 설명](microsoft-365-business-voice-service-description.md)
 
-- [Microsoft 365 Business Premium 서비스 설명](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [모든 Microsoft 365 제품 비교](/microsoft-365/business/compare-all-microsoft-365-business-products)
 
 - [중소기업을 위한 Microsoft 365 라이선싱](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
 
