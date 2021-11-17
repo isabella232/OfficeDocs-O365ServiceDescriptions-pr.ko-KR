@@ -10,16 +10,16 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 보안 및 준수 센터는 조직 전체에서 규정 &amp; Office 365 수 있도록 디자인되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: ef62fa8f4e81a3b7a353c13ba69313a13463ff63
-ms.sourcegitcommit: 879fce98f2d91420a673f0cbbd0a392536a4637a
+ms.openlocfilehash: bf79bfef4a948e9427e0b7071fca9d6c5410c2ae
+ms.sourcegitcommit: b24fb74e5bfb22de5d591cc3a2f48d46b736a560
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60649175"
+ms.lasthandoff: 11/16/2021
+ms.locfileid: "61042144"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-접근성과 사용 편의성을 염두에 두어 설계된 Microsoft 365 보안 [센터,](https://sip.compliance.microsoft.com/homepage) [](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx) Microsoft 365 규정 준수 센터 및 Exchange 관리 센터에는 여러 보안 센터의 통합 [보안,](https://sip.security.microsoft.com/homepage)규정 준수 및 메일 흐름 관리를 위한 새로운 기능과 향상된 환경이 Microsoft 365 서비스. 이러한 새 센터는 보안 및 준수 센터(Office 365)를 &amp; 점진적으로 protection.office.com. 이제 보안 센터 또는 규정 [](https://sip.security.microsoft.com/homepage) 준수 센터에서 자동 리디렉션을 끄면 조직의 관리자가 Office 365 보안 및 준수 센터의 기능에서 새 센터의 해당 기능으로 즉시 [](https://sip.compliance.microsoft.com/homepage) &amp; 리디렉션됩니다.
+접근성 및 사용 편의성을 염두에 두어 설계된 Microsoft 365 보안 [센터,](https://sip.compliance.microsoft.com/homepage)Microsoft 365 규정 준수 센터 및 Exchange 관리 [센터에는](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx) 통합 [보안,](https://sip.security.microsoft.com/homepage)규정 준수 및 메일 흐름 관리를 위한 기존 기능과 새로운 향상된 환경이 포함되어 있습니다. Microsoft 365 서비스. 이러한 새 센터는 보안 및 준수 센터(Office 365)를 &amp; 점진적으로 protection.office.com. 이제 보안 센터 또는 규정 [](https://sip.security.microsoft.com/homepage) 준수 센터에서 자동 리디렉션을 끄면 조직의 관리자가 Office 365 보안 및 준수 센터의 기능에서 새 센터의 해당 기능으로 즉시 [](https://sip.compliance.microsoft.com/homepage) &amp; 리디렉션됩니다.
 
 사용자 라이선스를 사용자에게 라이선스를 설정하여 규정 준수 기능을 Microsoft 365 옵션을 확인하려면 Microsoft 365 [비교 표를 다운로드하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
@@ -71,15 +71,15 @@ ms.locfileid: "60649175"
 |[고급 위협 관리](/office365/securitycompliance/office-365-ti)( 예: 피싱 캠페인에 대한 위협 탐색기)   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요  |
 |[고객 Lockbox](/office365/securitycompliance/customer-lockbox-requests)  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
 |[모바일 장치 관리](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |예   |예   |예   |예   |예   |예   |예   |예   |예   |
-|[Exchange Online, SharePoint Online](/office365/securitycompliance/data-loss-prevention-policies)및 비즈니스용 OneDrive<sup>9에</sup> 대한 데이터 손실 방지  |아니요   |예   |아니요   |아니요   |예 <sup>7<sup>  |아니요  |예<sup>10</sup> |아니요   |예   |
+|[Exchange Online, SharePoint Online](/office365/securitycompliance/data-loss-prevention-policies)및 비즈니스용 OneDrive<sup>9에</sup> 대한 데이터 손실 방지  |아니오   |예   |아니요   |아니요   |예 <sup>7<sup>  |아니요  |예<sup>10</sup> |아니요   |예   |
 |[통신 데이터 손실 방지를 Microsoft Teams](/microsoft-365/compliance/dlp-microsoft-teams)  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
 |[정보 장벽](/office365/securitycompliance/information-barriers)  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
 |[정보 거버넌스](/office365/securitycompliance/retention-policies)<sup>1</sup>  |예<sup>2</sup>  |예   |예   |예   |예   |예<sup>10</sup>  |예<sup>10</sup>  |예   |예   |
 |[고급 정보 거버넌스](/office365/securitycompliance/labels)<sup>3</sup>  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
 |[콘텐츠 검색](/office365/securitycompliance/search-for-content)  |예   |예   |예   |예   |예  | 예<sup>10</sup>  |예<sup>10</sup>  |예   |예   |
 |[eDiscovery 사례](/office365/securitycompliance/ediscovery-cases)  |예   |예   |예   |예   |예   |예<sup>10</sup>  |예<sup>10</sup>  |아니요   |아니요   |
-|[eDiscovery 내보내기](/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |아니요   |예   |아니요   |아니요   |예   |아니요  |예<sup>10</sup> |아니요<sup>4</sup>  |아니요<sup>4</sup>  |
-|[eDiscovery 보류(쿼리 기반 eDiscovery 보류 포함)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1)  |아니요   |예   |아니요   |아니요   |예   |아니요  |예<sup>10</sup> |아니요<sup>4</sup>  |아니요<sup>4</sup>  |
+|[eDiscovery 내보내기](/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |아니오   |예   |아니요   |아니요   |예   |아니요  |예<sup>10</sup> |아니요<sup>4</sup>  |아니요<sup>4</sup>  |
+|[eDiscovery 보류(쿼리 기반 eDiscovery 보류 포함)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1)  |아니오   |예   |아니요   |아니요   |예   |아니요  |예<sup>10</sup> |아니요<sup>4</sup>  |아니요<sup>4</sup>  |
 |[Advanced eDiscovery](/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
 |[보관](/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup>  |아니요   |예   |아니요   |예   |예   |예<sup>10</sup> |예<sup>10</sup>  |아니요   |아니요   |
 |[기본 감사](/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup>|예|예|예|예|예|예<sup>10</sup>|예<sup>10</sup>|아니요|아니요|
@@ -89,7 +89,7 @@ ms.locfileid: "60649175"
 |[Office 365 고급 메시지 암호화](/microsoft-365/compliance/ome-advanced-message-encryption)  |아니요   |아니요   |아니요   |아니요   |예   |아니요   |아니요|아니요|아니요|
 |[권한 있는 액세스 관리](/microsoft-365/compliance/privileged-access-management-overview)  |아니요   |아니요   |아니요   |아니요   |예   |아니요   |아니요|아니요|아니요|
 
-<sup>1</sup> 정보 거버넌스를 통해 사용자는 문서에 레이블을 만들고 게시하고 수동으로 적용할 수 있습니다. 드라이브 배송을 사용하여 데이터 가져오기 또는 네트워크를 통해 데이터 가져오기 이러한 기능은 E3 및 E5에서 사용할 수 있으며 E1의 가용성은 제한적입니다. E1, E3 및 E5에서 사용할 수 있는 기능의 전체 목록은 준수 라이선싱 비교에 Microsoft 365 참조하세요. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+<sup>1</sup> 정보 거버넌스를 통해 사용자는 문서에 레이블을 만들고 게시하고 수동으로 적용할 수 있습니다. 드라이브 배송을 사용하여 데이터 가져오기 또는 네트워크를 통해 데이터 가져오기 이러한 기능은 E3 및 E5에서 사용할 수 있으며 E1의 가용성은 제한적입니다. E1, E3 및 E5에서 사용할 수 있는 기능의 전체 목록은 준수 라이선싱 [비교에 Microsoft 365 참조하세요.](https://aka.ms/M365EnterprisePlans)
 
 <sup>2</sup> 추가 기능을 Exchange Online Archiving 필요합니다.
 
