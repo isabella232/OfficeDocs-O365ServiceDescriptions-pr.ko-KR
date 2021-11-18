@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: ''
 description: Project 클라우드 기반 작업 및 프로젝트 관리를 위한 Microsoft의 최신 제품입니다. Project 웹용 응용 프로그램은 대부분의 요구와 역할을 충족할 수 있는 간단하고 강력한 작업 관리 기능을 제공합니다.
-ms.openlocfilehash: 76a63565c9f4ebe253a7deb7db3a1af53cfbb4d4
-ms.sourcegitcommit: d56d154863abf0059e7d19ff88499fda68b216e8
+ms.openlocfilehash: 817656fb2e9a24fa8392959f6f22dfdbd9e67eec
+ms.sourcegitcommit: ad4c082362428dbd29a0347058abed9e51685916
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60536408"
+ms.lasthandoff: 11/18/2021
+ms.locfileid: "61070142"
 ---
 # <a name="microsoft-project-for-the-web-service-description"></a>웹 서비스용 Microsoft Project 설명
 
@@ -35,60 +35,53 @@ Project 웹용 웹 사이트는 Project 플랜 1, Project 플랜 3 및 Project �
 
 다음 표에는 계획에 Microsoft Project 웹 기능에 대한 주요 목록이 나열되어 있습니다. 특정 경고가 적용됩니다. 자세한 내용은 각주를 참조하십시오. 이 표는 통지 없이 변경될 수 있습니다. <br/><br/>
 
-| 기능 | Office 365 라이선스 | 플랜 1 | 계획 3 | 계획 5 |
-|---------|---------------------|--------|--------|--------|
-| **Project, 작업 및 시간 관리** | | | | |
-| 보드 보기 | 보기만 | 예 | 예 | 예 |
-| 의존 관계 | 보기만 | 예 | 예 | 예 |
-| 그리드 보기 | 보기만 | 예 | 예 | 예 |
-| 중요 시점 | 보기만 | 예 | 예 | 예 |
-| Project 홈 | 예 | 예 | 예 | 예 |
-| 작업일정 | 보기만 | 예 | 예 | 예 |
-| 시간 표시 막대 보기(Gantt 차트) | 보기만 | 예 | 예 | 예 |
-| 위험 경로 | 아니요 | 아니요 | 예 | 예 |
-| 요약 작업 | 보기만 | 예 | 예 | 예 |
-| 작업 사용자 정의 필드 만들기 및 사용 | 보기만 | 예 | 예 | 예 |
-| **공동 작업** | | | | |
-| Microsoft Teams 통합 | 예 | 예 | 예 | 예 |
-| **리소스 및 프로그램 관리** | | | | |
-| Project 팀 설정 | 아니요 | 예 | 예 | 예 |
-| 리소스 요청 만들기<sup>1</sup> | 보기 전용 | 보기 전용 | 예 | 예 |
-| 예약 제안<sup>수락 1</sup> | 보기 전용 | 보기 전용 | 예 | 예 |
-| 리소스 요청을 이행하기 위해 예약 만들기 및 업데이트<sup>1</sup> | 보기 전용 | 보기 전용 | 보기 전용 | 예 |
-| 자원에 대한 기술/습득력 관리 | 보기 전용 | 보기 전용 | 보기 전용 | 예 |
-| 로드맵 | 보기 전용 | 보기 전용 | 예 | 예 |
-| **보고**<sup>2</sup> | | | | |
-| 웹 데이터에 Project 보고서 읽기 | 예 | 예 | 예 | 예 |
-| 웹 데이터에 Project 사용하여 보고서 만들기 | 아니요 | 예 | 예 | 예 |
-| **사용성** | | | | |
-| 공동우성 | 보기 전용 | 예 | 예 | 예 |
-| 그래픽 표시기 | 보기 전용 | 예 | 예 | 예 |
-| **사용자 지정 및 통합** | | | | |
-| 첫 실행 응용 프로그램 Project 사용 | 보기 전용 | 예 | 예 | 예 |
-| 보기 및 양식<sup>사용자 지정 3</sup> | 보기 전용 | 예 | 예 | 예 |
-| 사용자 지정 열 사용 | 보기 전용 | 예 | 예 | 예 |
-| 사용자 지정 표<sup>4 사용</sup> | 보기 전용 | 예 | 예 | 예 |
-| **Power Automate 워크플로 및 비즈니스 프로세스 흐름**<sup>5</sup> | | | | |
-| 사용자 지정 테이블 Power Automate 열을 포함하여 Project 클라우드 흐름을 정의하고 사용합니다. | 아니요 | 예 | 예 | 예 |
-| 사용자 Power Automate 열을 포함하여 Project 데이터를 활용하는 비즈니스 프로세스 흐름을 정의합니다. | 아니요 | 아니요 | 예 | 예 |
-| 데이터 Power Automate 활용하는 비즈니스 프로세스 Project 사용 | 아니요 | 예 | 예 | 예 |
-| **보안 및 사용자 관리** | | | | |
-| Office 최신 그룹 | 예 | 예 | 예 | 예 |
-| 타사 앱 | 아니요 | 예 | 예 | 예 |
-| 커넥트 *Project* 앱으로 웹용 웹 서비스 <sup>3</sup> | 보기만<sup>6</sup> | 예 | 예 | 예 |
+| 기능 | 설명 | Office 365 라이선스 | 플랜 1 | 계획 3 | 계획 5 |
+|---------|---------|---------------------|--------|--------|--------|
+| **Project, 작업 및 시간 관리** |보드 보기 | 보기만 | 예 | 예 | 예 |
+| | 의존 관계 | 보기만 | 예 | 예 | 예 |
+| | 그리드 보기 | 보기만 | 예 | 예 | 예 |
+| | 중요 시점 | 보기만 | 예 | 예 | 예 |
+| | Project 홈 | 예 | 예 | 예 | 예 |
+| | 작업일정 | 보기만 | 예 | 예 | 예 |
+| | 시간 표시 막대 보기(Gantt 차트) | 보기만 | 예 | 예 | 예 |
+| | 위험 경로 | 아니요 | 아니요 | 예 | 예 |
+| | 요약 작업 | 보기만 | 예 | 예 | 예 |
+| | 작업 사용자 정의 필드 만들기 및 사용 | 보기만 | 예 | 예 | 예 |
+| **공동 작업** | Microsoft Teams 통합 | 예 | 예 | 예 | 예 |
+| | 작업 대화 | 예<sup>1</sup> | 예<sup>1</sup> | 예<sup>1</sup> | 예<sup>1</sup> |
+| **리소스 및 프로그램 관리** | Project 팀 설정 | 아니오 | 예 | 예 | 예 |
+| | 리소스 요청 만들기<sup>2</sup> | 보기 전용 | 보기 전용 | 예 | 예 |
+| | 예약 제안<sup>2 수락</sup> | 보기 전용 | 보기 전용 | 예 | 예 |
+| | 리소스 요청을 이행하기 위해 예약 만들기 및<sup>업데이트 2</sup> | 보기 전용 | 보기 전용 | 보기 전용 | 예 |
+| | 자원에 대한 기술/습득력 관리 | 보기 전용 | 보기 전용 | 보기 전용 | 예 |
+| | 로드맵 | 보기 전용 | 보기 전용 | 예 | 예 |
+| **보고**<sup>3</sup> | 웹 데이터에 Project 보고서 읽기 | 예 | 예 | 예 | 예 |
+| | 웹 데이터에 Project 사용하여 보고서 만들기 | 아니오 | 예 | 예 | 예 |
+| **사용성** | 공동우성 | 보기 전용 | 예 | 예 | 예 |
+| | 그래픽 표시기 | 보기 전용 | 예 | 예 | 예 |
+| **사용자 지정 및 통합** | 첫 실행 응용 프로그램 Project 사용 | 보기 전용 | 예 | 예 | 예 |
+| | 보기 및 양식<sup>사용자 지정 4</sup> | 보기 전용 | 예 | 예 | 예 |
+| | 사용자 지정 열 사용 | 보기 전용 | 예 | 예 | 예 |
+| | 사용자 지정 표<sup>5 사용</sup> | 보기 전용 | 예 | 예 | 예 |
+| **Power Automate 워크플로 및 비즈니스 프로세스 흐름**<sup>6</sup> | 사용자 지정 테이블 Power Automate 열을 비롯한 Project 데이터를 활용하는 클라우드 흐름 정의 및 사용 | 아니오 | 예 | 예 | 예 |
+| | 사용자 Power Automate 열을 포함하여 Project 데이터를 활용하는 비즈니스 프로세스 흐름을 정의합니다. | 아니요 | 아니요 | 예 | 예 |
+| | 데이터 Power Automate 활용하는 Project 프로세스 흐름 사용 | 아니오 | 예 | 예 | 예 |
+| **보안 및 사용자 관리** | Office 최신 그룹 | 예 | 예 | 예 | 예 |
+| | 타사 앱 | 아니요 | 예 | 예 | 예 |
+| | 커넥트 *Project* <sup>4를</sup> 사용하여 웹용 웹을 사용할 수 있습니다. | 보기 전용<sup>7</sup> | 예 | 예 | 예 |
 
-<sup>1</sup>   계획 Microsoft Project 3/5 라이선스가 있는 고객은 유니버설 리소스 일정을 사용하여 프로젝트 컨텍스트 내에서 Project 테이블을 예약할 수만 있습니다. <br/>
-<sup>2</sup>   웹용 Project 보고하려면 Power BI 라이선스가 Power BI 합니다. <br/>
-<sup>3</sup>   웹 또는 Power Apps 데이터에 액세스하는 첫 실행 Project 응용 프로그램을 Project 응용 프로그램을 Project Online 별도의 Power Apps 구독해야 합니다. <br/>
-<sup>4</sup>   사용자 지정 테이블을 5개로 제한합니다. <br/>
-<sup>5</sup>   Power Automate 내에서 Project 응용 프로그램의 컨텍스트로 Project 제한됩니다. 즉, 트리거와 작업 모두에 대해 다음과 같은 작업에 포함된 흐름 권리 Project.
-
+<sup>1</sup> 라이선스가 Microsoft Teams 필요합니다. <br/>
+<sup>2</sup>   계획 Microsoft Project 3/5 라이선스가 있는 고객은 유니버설 리소스 일정을 사용하여 프로젝트 컨텍스트 내에서 Project 테이블을 예약할 수만 있습니다. <br/>
+<sup>3</sup>   웹용 Project 보고하려면 Power BI 라이선스가 Power BI 합니다. <br/>
+<sup>4</sup>   웹 또는 Power Apps 데이터에 액세스하는 첫 실행 Project 응용 프로그램을 Project 응용 프로그램을 Project Online 별도의 Power Apps 구독해야 합니다. <br/>
+<sup>5</sup>   사용자 지정 테이블을 5개로 제한합니다. <br/>
+<sup>6</sup>   Power Automate 내에서 Project 응용 프로그램의 컨텍스트로 Project 제한됩니다. 즉, 트리거와 작업 모두에 대해 다음과 같은 작업에 포함된 흐름 권리 Project.
    - 커넥트 응용 프로그램의 사용 권한 내에서 모든 데이터 원본에 Project 합니다.
        - 표준 커넥터를 통해 사용할 수 있는 데이터 원본입니다.
        - Project Microsoft Dataverse 커넥터를 통해 데이터를 전송합니다.
-   - 기본 제공 트리거/작업을 통해 Project 응용 프로그램 내에서 직접 트리거합니다. 
+   - 기본 제공 트리거/작업을 통해 Project 응용 프로그램 내에서 직접 트리거합니다.
 
-<sup>6</sup> 보기 권한만 Power App 내에서만 부여됩니다.
+<sup>7</sup> 보기 권한만 Power App 내에서만 부여됩니다.
 
 ## <a name="messaging"></a>메시지
 
@@ -124,7 +117,7 @@ Project 로드맵을 사용하려면 Power Automate 구독의 일부로 프로�
 
 Project 위해 Microsoft Dataverse를 사용하여 해당 데이터를 저장해야 합니다. Microsoft Dataverse 데이터베이스는 사용자 구독의 일부로 Project 프로비전됩니다. Microsoft Dataverse 기능에 대한 권한은 웹용 데이터를 지원하기 위해 데이터를 저장하고 액세스하는 Project 제한됩니다. Project 필요한 Microsoft Dataverse 기능은 Project 앱 **** 섹션에서 Project 서비스 요금제로    ****   Microsoft 365 관리 센터.
 
-Project 라이선스가 5개 이상인 Project 고객의 경우 웹용 Project 플랫폼 프로덕션 및 샌드박스 환경에 배포할 수 있습니다. [여기](/project-for-the-web/deploying-project)에서 자세히 알아보세요.
+Project 라이선스가 5개 이상인 Project 고객의 경우 웹용 Project 플랫폼 프로덕션 및 샌드박스 환경에 배포할 수 있습니다. 자세한 내용은 [여기](/project-for-the-web/deploying-project)에 있습니다.
 
 | 용량 포함/누적 | Project P1 | Project P3 | Project P5 |
 |---------------------------|------------|------------|------------|

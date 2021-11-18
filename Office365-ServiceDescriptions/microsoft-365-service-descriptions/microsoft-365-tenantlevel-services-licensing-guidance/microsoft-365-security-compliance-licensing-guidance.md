@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 Microsoft 365 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: 2898f5b3cd1fe3a828f41497b416a99f8bfcda36
-ms.sourcegitcommit: 447f703707860aaee78535c8d55d0e524bc2b7f1
+ms.openlocfilehash: 1ec9a2c8b0b0acce87494e2b528da3e58e20876f
+ms.sourcegitcommit: ad4c082362428dbd29a0347058abed9e51685916
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/08/2021
-ms.locfileid: "60824385"
+ms.lasthandoff: 11/18/2021
+ms.locfileid: "61070132"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 &amp; 지침
 
@@ -58,7 +58,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 �
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory ID 보호
 
-Azure Active Directory ID 보호는 조직의 ID에 영향을 주는 잠재적인 취약점을 감지하고, 조직의 ID와 관련된 의심스러운 작업에 대한 자동화된 응답을 구성하고, 의심스러운 인시던트에 대해 조사하고 적절한 조치를 취하여 문제를 해결할 수 있도록 하는 Azure Active Directory Premium P2 계획의 기능입니다.
+Azure Active Directory ID 보호는 조직의 ID에 영향을 주는 잠재적인 취약점을 감지하고, 조직의 ID와 관련된 의심스러운 작업에 대해 자동화된 응답을 구성하고, 의심스러운 사고를 조사할 수 있는 Azure Active Directory Premium P2 계획의 기능입니다. 적절한 조치를 취하여 해결합니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
@@ -66,8 +66,8 @@ SecOps 분석가 및 보안 전문가는 기계 학습 알고리즘을 기반으
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-- Azure Active Directory 계획 1: Microsoft 365 E3/A3/G3/F1/F3, Enterprise Mobility & E3 및 Microsoft 365 Business Premium
-- Azure Active Directory 계획 2: Microsoft 365 E5/A5/G5, Enterprise Mobility & Security E5, Microsoft 365 E5/F5 Security and Microsoft 365 F5 Security & Compliance
+- Azure Active Directory 계획 1: Microsoft 365 E3/A3/G3/F1/F3, Enterprise Mobility & Security E3 및 Microsoft 365 Business Premium
+- Azure Active Directory 계획 2: Microsoft 365 E5/A5/G5, Enterprise Mobility & Security E5, Microsoft 365 E5/F5 Security 및 Microsoft 365 F5 Security & Compliance
 
 사용 가능한 여러 계획에 포함된 기능에 대한 자세한 내용은 ID 보호의 Azure Active Directory [참조하세요.](/azure/active-directory/identity-protection/overview-identity-protection#license-requirements)
 
@@ -85,11 +85,11 @@ Azure Active Directory ID 거버넌스를 사용하면 보안 및 직원 생산�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-Azure Active Directory ID 거버넌스를 통해 한 액세스 패키지에서 앱, 그룹 및 그룹에 대한 액세스를 Microsoft Teams 생산성이 향상됩니다. 관리자가 개소하지 않고도 사용자를 승인자로 구성할 수도 있습니다. 액세스 검토를 위해 사용자는 스마트 권장 사항이 있는 그룹의 구성원 자격을 검토하여 정기적으로 작업을 수행 할 수 있습니다.
+Azure Active Directory ID 거버넌스를 통해 한 액세스 패키지에서 앱, 그룹 및 그룹에 대한 액세스를 Microsoft Teams 수 있도록 하여 사용자의 생산성을 향상시킵니다. 관리자가 개소하지 않고도 사용자를 승인자로 구성할 수도 있습니다. 액세스 검토를 위해 사용자는 스마트 권장 사항이 있는 그룹의 구성원 자격을 검토하여 정기적으로 작업을 수행 할 수 있습니다.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5/F5 보안 및 F5 보안 & 규정 준수 및 Azure Active Directory Premium 계획 2는 사용자가 Azure Active Directory ID 거버넌스를 사용할 수 있는 권한을 제공합니다.
+Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5/F5 보안 및 F5 보안 & 규정 준수 및 Azure Active Directory Premium 계획 2는 사용자가 혜택을 받을 수 있는 권한을 제공합니다. Azure Active Directory ID 거버넌스를 관리합니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
@@ -113,7 +113,7 @@ Azure AD ID 거버넌스 기능은 테넌트 수준에서 사용하도록 설정
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 준수, Microsoft 365 F5 보안 & 규정 준수 및 Microsoft 365 E5/A5/G5 내부자 위험 관리는 사용자가 통신 규정 준수를 혜택을 받을 수 있는 권한을 제공합니다.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 준수, Microsoft 365 F5 보안 & 규정 준수 및 Microsoft 365 E5/A5/G5 내부자 위험 관리는 사용자가 통신을 통해 혜택을 받을 수 있는 권한을 제공합니다. compliance.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
@@ -217,7 +217,7 @@ Microsoft는 Microsoft에서 구성할 수 있는 타사 데이터 커넥터를 
 - Microsoft 365 E5/A5/G5
 - Microsoft 365 E5/A5/G5 정보 보호 &amp; 거버넌스
 - Microsoft 365 E5/A5/G5/F5 규정 준수
-- Microsoft 365 F5 보안 & 규정 준수
+- Microsoft 365 F5 보안 및 & 준수
 - Microsoft 365 E5/A5/G5 내부자 위험 관리
 - Microsoft 365 E5/A5/G5 eDiscovery 및 감사
 - Office 365 E5/A5/G5
@@ -242,7 +242,7 @@ eDiscovery는 기업 내 IT 및 법률 부서를 위해 조사 및 eDiscovery �
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Microsoft 365 E5/A5/G5/E3/A3/G3, Office 365 E5/A5/G5/E3/A3/G3 및 F5 준수 및 F5 보안 & 규정 준수는 사용자가 Core eDiscovery의 혜택을 받을 수 있는 권한을 제공합니다.
+Exchange Online 계획 2, Exchange Online Archiving, SharePoint Online 계획 2, Microsoft 365 E5/A5/G5/E3/A3/G3, Office 365 E5/A5/G5/E3/A3/G3 및 F5 규정 준수 및 F5 준수 및 F5 보안 & 규정 준수는 사용자가 혜택을 받을 수 있는 권한을 제공합니다. Core eDiscovery.
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 F5 보안 & 규정 준수, Microsoft 365 E5/A5/G5 eDiscovery 및 감사, Office 365 E5/A5/G5는 사용자가 Advanced eDiscovery.
 
@@ -264,7 +264,7 @@ eDiscovery 관리자는 add [custodians to an Advanced eDiscovery에](/microsoft
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 준수, Microsoft 365 F5 보안 & 규정 준수, Microsoft 365 E5/A5/G5 정보 보호 및 거버넌스 및 Office 365 E5/A5/G5는 사용자가 고객 키를 혜택을 받을 수 있는 권한을 제공합니다. 고객 키를 완전하게 이용하려면 Azure Key Vault 구독도 있어야 합니다.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 준수, Microsoft 365 F5 보안 & 규정 준수, Microsoft 365 E5/A5/G5 정보 보호 및 거버넌스, Office 365 E5/A5/G5는 사용자가 혜택을 받을 수 있는 권한을 제공합니다. 고객 키. 고객 키를 완전하게 이용하려면 Azure Key Vault 구독도 있어야 합니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
@@ -288,7 +288,7 @@ Microsoft 365 암호화 지원을 제공하는 미사용 데이터 저장 서비
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 준수, Microsoft 365 F5 보안 & 규정 준수, Microsoft 365 E5/A5/G5 정보 보호 거버넌스 및 Office 365 E5 허가된 사용자는 Microsoft 365 데이터 분류 분석을 통해 혜택을 받을 수 &amp; 있습니다.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 준수, Microsoft 365 F5 보안 & 규정 준수, Microsoft 365 E5/A5/G5 정보 보호 거버넌스 및 Office 365 E5 혜택을 받을 수 있는 사용자 &amp; Microsoft 365 분류 분석을 제공합니다.
 
 Microsoft 365 E3/A3/G3 및 Office 365 E3/A3/G3을 사용하면 사용자가 콘텐츠 탐색기 데이터 집계만 사용할 수 있습니다.
 
@@ -337,7 +337,7 @@ Office 365, SharePoint Online 및 비즈니스용 OneDrive에 대한 D Exchange 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Microsoft 365 E3/A3/Business Premium, Office 365 E3/A3 및 Office 365 데이터 손실 방지 및 F5 준수 및 F5 보안 & 규정 준수는 Office 365, SharePoint Online 및 Office 365 D Exchange Online LP의 혜택을 받을 수 있는 권한을 비즈니스용 OneDrive.
+Microsoft 365 E3/A3/Business Premium, Office 365 E3/A3 및 Office 365 데이터 손실 방지 및 F5 준수 및 F5 보안 & 규정 준수는 사용자에게 Office 365 DLP의 혜택을 받을 수 있는 권한을 Exchange Online. SharePoint Online 및 비즈니스용 OneDrive.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
@@ -506,7 +506,7 @@ Microsoft 365 F3/F1/Business Premium, Office 365 E5/A5/G5/E3/A3/G3/F3/E1/A1/G1 �
 
 Microsoft 365 E5/A5/G5/E3/A3/Business Premium, Office 365 E5/A5/G5/E3/A3, Exchange 계획 2 및 Exchange Online Archiving 조직 전체 또는 위치 전체 사서함 보존 정책의 혜택을 받을 수 있는 권한을 사용자에게 제공합니다.
 
-Microsoft 365 E5/A5/G5/E3/A3, Office 365 E5/A5/G5/E3/A3 및 SharePoint 요금제 2는 사용자가 기본 SharePoint 또는 OneDrive 보존 정책을 통해 혜택을 받을 수 있는 권한을 제공하고SharePoint 또는 OneDrive.
+Microsoft 365 E5/A5/G5/E3/A3, Office 365 E5/A5/G5/E3/A3 및 SharePoint 계획 2는 사용자가 기본 SharePoint 또는 OneDrive 보존 정책을 통해 혜택을 받을 수 있는 권한을 제공하고, 또는 파일에 기록되지 않은 보존 레이블을 수동으로 적용할 수 있는 권한을 제공합니다. SharePoint OneDrive.
 
 조직은 보존 정책을 사용하여 정책에 따라 Teams 보존하거나 삭제할 수 있습니다. 여기에는 채팅 및 대화에서 Teams 관리가 포함됩니다.
 
@@ -520,7 +520,7 @@ Microsoft 365 E5/A5/G5/E3/A3, Office 365 E5/A5/G5/E3/A3 및 SharePoint 요금제
 - Microsoft 365 F1/F3, Business Basic, Business Standard 및 Business Premium
 - Office 365 E1/G1 및 F3
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 F5 보안 & 규정 준수, Microsoft 365 정보 보호 및 거버넌스 E5/A5/G5 및 Office 365 E5/A5는 보존 레이블 또는 정책을 자동으로 적용하고 기본 보존을 적용하여 사용자에게 혜택을 받을 수 있는 권한을 제공합니다. 레이블 또는 정책, 사용자 지정 이벤트를 기반으로 보존 레이블의 보존 기간을 시작하고, 레이블 보존 기간이 끝나면 수동 처리 검토를 트리거하고, 네이티브 데이터 커넥터를 통해 타사 데이터를 가져오고, 파일 레코드를 선언하고, 레이블이 지정된 콘텐츠를 검색하고, 레이블 지정 활동을 모니터링합니다.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 F5 보안 & 준수, Microsoft 365 정보 보호 및 거버넌스 E5/A5/G5 및 Office 365 E5 /A5는 보존 레이블 또는 정책을 자동으로 적용하고, 기본 보존 레이블 또는 정책을 적용하고, 사용자 지정 이벤트에 따라 보존 레이블의 보존 기간을 시작하고, 레이블의 보존 기간이 끝나면 수동 처리 검토를 트리거하고, 네이티브 데이터 커넥터를 통해 타사 데이터를 가져오고, 파일 레코드를 선언할 수 있는 권한을 사용자에게 제공합니다.  레이블이 있는 콘텐츠 검색 및 레이블 지정 활동 모니터링
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 F5 보안 & 규정 준수, Microsoft 365 E5/A5/G5 정보 보호 및 거버넌스에서는 학습 가능한 분류자를 기반으로 보존 레이블을 자동으로 적용하는 이점을 사용자에게 제공할 수 있는 권한을 제공합니다.
 
@@ -564,7 +564,7 @@ SecOp 분석가 및 보안 전문가는 ID에 대한 Microsoft Defender의 기�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 보안, Microsoft F5 보안 & 규정 준수 및 사용자 ID에 대한 Microsoft Defender는 ID에 대한 Microsoft Defender의 혜택을 받을 수 있는 권한을 제공합니다.
+Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 보안, Microsoft F5 보안 & 규정 준수 및 사용자를 위한 Microsoft Defender for Users는 ID에 대한 Microsoft Defender의 혜택을 받을 수 있는 권한을 제공합니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
@@ -584,7 +584,7 @@ Microsoft Defender for Office 365 피싱 및 제로 데이 맬웨어와 같은 �
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까? 
 
-Microsoft Defender for Office 365 요금제 1 및 2, Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 보안, Microsoft 365 F5 보안 & 규정 준수 및 Microsoft 365 Business Premium Microsoft Defender의 혜택을 받을 수 있는 권한을 Office 365.
+Microsoft Defender for Office 365 요금제 1 및 2, Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/F5 보안, Microsoft 365 F5 보안 & 규정 준수 및 Microsoft 365 Business Premium Microsoft Defender를 통해 혜택을 받을 수 있는 권한을 사용자에게 Office 365.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
@@ -598,7 +598,7 @@ Microsoft Defender에서 Office 365 범위 지정을 금고 첨부 파일 배포
 
 - 라이선스가 있는 사용자에 대해 금고 첨부 파일을 구성하는 금고 [Microsoft Defender의](/microsoft-365/security/office-365-security/atp-safe-attachments)첨부 파일을 Office 365.
 
-## <a name="microsoft-defender-for-cloud-apps"></a>클라우드 앱용 Microsoft Defender
+## <a name="microsoft-defender-for-cloud-apps"></a>Microsoft Defender for Cloud Apps
 
 클라우드 앱용 Microsoft Defender는 고객에게 핵심 기능을 구현하고 여러 유형의 배포를 지원하는 방법에 대한 유연성을 제공하는 CASB(클라우드 액세스 보안 브로커) 솔루션입니다. 클라우드 앱용 Microsoft Defender는 사용자 기반 구독 서비스입니다. 각 라이선스는 사용자별, 월별 라이선스로, 아래 나열된 독립 실행형 제품 또는 여러 라이선스 계획의 일부로 라이선스가 부여될 수 있습니다.
 
@@ -609,14 +609,14 @@ Microsoft Defender에서 Office 365 범위 지정을 금고 첨부 파일 배포
 - Enterprise Mobility + Security E5
 - Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 보안
 - Microsoft 365 E5/A5/G5/F5 규정 준수
-- Microsoft 365 F5 보안 &amp; 준수
-- Microsoft 365 정보 보호 및 거버넌스
+- Microsoft 365 F5 보안 &amp; 규정 준수
+- Microsoft 365 보호 및 거버넌스
 
 Azure AD P1/P2는 사용자가 클라우드 앱용 Defender의 일부로 포함된 검색 기능을 사용할 수 있는 권한을 제공합니다.
 
 Cloud Apps용 Defender의 조건부 액세스 앱 제어 기능을 활용하려면 사용자에게 Enterprise Mobility + Security F1/F1/F3/E3/A3/G3, Enterprise Mobility + Security E5에 포함된 Azure Active Directory P1에 대한 라이선스도 있어야 합니다. Microsoft 365 E3/A3/G3, Microsoft 365 E5/A5/G5 및 Microsoft 365 E5/A5/G5/F5 보안 및 Microsoft 365 F5 보안 규정 &amp; 준수.
 
-자동 클라이언트 쪽 레이블 지정을 사용하려면 사용자에게 Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 준수, Microsoft 365 F5 보안에 &amp; 포함된 Azure Information Protection P2에 대한 라이선스가 있어야 합니다. 규정 준수 및 Microsoft 365 보호 및 거버넌스를 준수합니다.
+자동 클라이언트 쪽 레이블 지정을 사용하려면 사용자에게 Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 준수, Microsoft 365 F5 보안에 포함된 Azure Information Protection P2에 대한 라이선스가 있어야 합니다. &amp;규정 준수 및 Microsoft 365 보호 및 거버넌스를 준수합니다.
 
 > [!NOTE]
 > 자동 서버 쪽 레이블 지정을 사용하려면 Office 365 - Premium(또는 )에 대한 정보 보호가 `MIP_S_CLP2`    `efb0351d-3b08-4503-993d-383af8de41e3` 필요합니다. 참조는 라이선스에 대한 제품 이름 및 서비스 [계획 식별자를 참조하세요.](/azure/active-directory/enterprise-users/licensing-service-plan-reference)
@@ -694,7 +694,7 @@ Microsoft Defender for Endpoint P2는 독립 실행형 라이선스로 사용할
 - Windows 10 Enterprise E5/A5
 - Microsoft 365 E5/A5/G5(Windows 10 또는 E5 Windows 11 Enterprise 포함)
 - Microsoft 365 E5/A5/G5/F5 보안
-- Microsoft 365 F5 보안 &amp; 준수
+- Microsoft 365 F5 보안 &amp; 규정 준수
 
 **Endpoint Server용 Microsoft Defender**
 
@@ -863,7 +863,7 @@ Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5/F5 규정 준수 및 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 F5 보안 & 규정 준수, Microsoft 365 정보 보호 및 거버넌스 E5/A5/G5 및 Office 365 E5/A5/G5는 사용자가 레코드 또는 규정 레코드로 항목을 선언하는 등 레코드 관리의 혜택을 받을 수 있는 권한을 제공합니다. 보존 또는 레코드 레이블을 자동으로 적용하고 처리 검토 프로세스를 실행합니다(학습 가능한 분류자에 따라 보존 레이블을 자동으로 적용하는 경우 제외).
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 F5 보안 & 준수, Microsoft 365 정보 보호 및 거버넌스 E5/A5/G5 및 Office 365 E5 /A5/G5는 레코드 또는 규정 레코드로 항목을 선언하고, 보존 또는 레코드 레이블을 자동으로 적용하고, 처리 검토 프로세스를 실행하는(학습 가능한 분류자를 기반으로 보존 레이블 자동 적용 제외)를 포함하여 사용자가 레코드 관리를 통해 혜택을 받을 수 있는 권한을 제공합니다.
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 준수 및 F5 보안 & 규정 준수 및 Microsoft 365 정보 보호 및 거버넌스를 통해 학습 가능한 분류자를 기반으로 보존 또는 기록 레이블을 자동으로 적용하여 혜택을 받을 수 있는 권한을 사용자에게 제공합니다.
 
