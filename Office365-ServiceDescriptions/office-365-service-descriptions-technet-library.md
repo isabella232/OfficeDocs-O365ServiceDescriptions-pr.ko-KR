@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 Office 365 및 서비스는 강력한 보안, 안정성 및 사용자 생산성에 대한 조직의 요구를 충족하도록 설계된 클라우드 기반 서비스입니다.
-ms.openlocfilehash: f7da183c2b55b8f697bd54d528ecc8a0fdead9f8
-ms.sourcegitcommit: d8df217b7511b1d7ceb8a66a27a552f4503c4c40
+ms.openlocfilehash: 3e25e85519f8085a4a8b6a7bee2084483f499444
+ms.sourcegitcommit: 0207fe070b579469ee181919f659512b7e3ee2bc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2021
-ms.locfileid: "60963528"
+ms.lasthandoff: 11/23/2021
+ms.locfileid: "61142415"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 및 Office 365 서비스 설명 
 
@@ -76,7 +76,7 @@ Microsoft는 FastTrack 요금제의 Office 365 서비스에 대한 Office 365 �
 
 - [모든 Microsoft 365 제품 비교](/microsoft-365/business/compare-all-microsoft-365-business-products)
 
-- [중소기업을 위한 Microsoft 365 라이선싱](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
+- [중소 기업을 위한 Microsoft 365](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products)
 
 - [보안 및 규정 준수를 위한 Microsoft 365 라이선싱 지침](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 

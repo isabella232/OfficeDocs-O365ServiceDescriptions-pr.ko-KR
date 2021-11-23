@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: Microsoft Teams 계획 및 Microsoft 365 서비스 및 기능 가용성에 대해 Office 365 대해 자세히 알아보습니다.
-ms.openlocfilehash: aba1831fe0a6f9aea5511f62ed924df6e8f3c5b6
-ms.sourcegitcommit: 879fce98f2d91420a673f0cbbd0a392536a4637a
+ms.openlocfilehash: 97d4c499cdb114fd41df6b550627ea3083ad4e7d
+ms.sourcegitcommit: 0207fe070b579469ee181919f659512b7e3ee2bc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60649217"
+ms.lasthandoff: 11/23/2021
+ms.locfileid: "61142405"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -46,9 +46,13 @@ Microsoft Teams 팀워크의 허브는 Microsoft 365. Teams 서비스에서는 �
 <sup>3</sup> Microsoft Planner는 현재 비공개 채널에서 액세스할 수 없습니다. <br/>
 <sup>4</sup> Microsoft Teams GCC-High 및 DOD는 개별 팀의 구성원 2500명을 지원합니다.
 
+## <a name="additional-services"></a>추가 서비스
+
+커리어 코치 링크 교육용 Microsoft Teams 제공하는 앱으로, 고등 교육 학생이 경력 여정을 탐색할 수 있도록 개인 설정 지침을 제공합니다. 커리어 코치 교육 기관은 학생이 경력 경로를 검색하고 실제 기술을 성장하고 네트워크를 구축할 수 있는 통합 경력 솔루션을 교육 기관에 제공합니다. 자세한 내용은 커리어 코치 Microsoft Education에 대한 커리어 코치 구성 및 Microsoft Teams [커리어 코치](/microsoftteams/career-coach) [참조합니다.](https://www.microsoft.com/education/products/career-coach)
+
 ## <a name="learn-more"></a>자세히 알아보기
 
-비즈니스용 Skype 온라인 서비스가 사용 중지했습니다. 2021년 7월 31일 Teams Microsoft 지원 업그레이드가 시작됩니다. 2021년 7월 31일 이후에 보조 업그레이드를 예약한 조직은 업그레이드가 완료될 때까지 비즈니스용 Skype Online을 사용할 수 있습니다. 자세한 내용은 [비즈니스용 Skype Online 서비스가 사용 중지 를 참조하세요.](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/the-skype-for-business-online-service-has-retired/ba-p/2596601)
+비즈니스용 Skype 온라인 서비스가 사용 중지된 경우 2021년 7월 31일 Teams Microsoft 지원 업그레이드가 시작됩니다. 2021년 7월 31일 이후에 보조 업그레이드를 예약한 조직은 업그레이드가 완료될 때까지 비즈니스용 Skype Online을 사용할 수 있습니다. 자세한 내용은 [비즈니스용 Skype Online 서비스가 사용 중지 를 참조하세요.](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/the-skype-for-business-online-service-has-retired/ba-p/2596601)
 
 Microsoft Teams Azure 및 Microsoft의 기타 서비스 혁신을 활용하여 클라우드를 위해 구축된 완전히 새로운 서비스입니다.
 
@@ -56,7 +60,7 @@ Microsoft Teams 그룹, Microsoft Microsoft 365, microsoft Graph 나머지 그�
 
 Microsoft는 데이터의 보안과 서비스의 [접근성](https://www.microsoft.com/trust-center/compliance/accessibility)에 최선을 다하고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조하세요.
 
-사용자가 구독을 사용하도록 설정하는 구독에 대한 자세한 계획 Microsoft Teams 전체 구독 비교 표를 [참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145) 정부 요금제의 Office 365 추가 요금제에 대한 자세한 내용은 Office 365 Government [참조합니다.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans) Office 365 G1에서 G5까지는 G1에서 G5까지의 모든 기능에 Teams 있습니다.
+사용자가 구독을 사용하도록 설정하는 구독에 대한 자세한 계획 Microsoft Teams 전체 구독 비교 표를 [참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145) 정부 요금제의 Office 365 추가 요금제에 대한 자세한 내용은 Office 365 Government [참조합니다.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans) Office 365 G1에서 G5까지는 모든 기능에 대한 Teams 포함됩니다.
 
 제품 기능 구현 지침에 대한 자세한 내용은 Microsoft Teams [참조하십시오.](/MicrosoftTeams) 이 서비스 설명에서는 다양한 클라우드 설치에서 제공되는 서비스 간의 주요 차이점을 자세히 설명합니다. Microsoft Teams 핵심 기능은 구독마다 다르지 않습니다. 규정 준수 기능의 가용성은 구독 수준에 따라 달라집니다. 자세한 내용은 에서 보안 및 규정 [준수를 Microsoft Teams.](/microsoftteams/security-compliance-overview) 각 구독에서 사용할 수 있는 기능에 대한 자세한 목록은 Microsoft 365 및 Office 365 플랫폼 서비스 설명을 [참조하세요.](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)
 
