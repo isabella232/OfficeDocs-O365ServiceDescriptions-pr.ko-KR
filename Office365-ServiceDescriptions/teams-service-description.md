@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: Microsoft Teams 계획 및 Microsoft 365 서비스 및 기능 가용성에 대해 Office 365 대해 자세히 알아보습니다.
-ms.openlocfilehash: 97d4c499cdb114fd41df6b550627ea3083ad4e7d
-ms.sourcegitcommit: 0207fe070b579469ee181919f659512b7e3ee2bc
+ms.openlocfilehash: 2e144129a33f9e1cab04b09f86200924b8af7fe5
+ms.sourcegitcommit: 6075a8fc1619a1ab6ebd1ff80f6ddfab4a45fe3c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61142405"
+ms.lasthandoff: 11/24/2021
+ms.locfileid: "61153247"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -47,6 +47,8 @@ Microsoft Teams 팀워크의 허브는 Microsoft 365. Teams 서비스에서는 �
 <sup>4</sup> Microsoft Teams GCC-High 및 DOD는 개별 팀의 구성원 2500명을 지원합니다.
 
 ## <a name="additional-services"></a>추가 서비스
+
+### <a name="career-coach"></a>커리어 코치
 
 커리어 코치 링크 교육용 Microsoft Teams 제공하는 앱으로, 고등 교육 학생이 경력 여정을 탐색할 수 있도록 개인 설정 지침을 제공합니다. 커리어 코치 교육 기관은 학생이 경력 경로를 검색하고 실제 기술을 성장하고 네트워크를 구축할 수 있는 통합 경력 솔루션을 교육 기관에 제공합니다. 자세한 내용은 커리어 코치 Microsoft Education에 대한 커리어 코치 구성 및 Microsoft Teams [커리어 코치](/microsoftteams/career-coach) [참조합니다.](https://www.microsoft.com/education/products/career-coach)
 

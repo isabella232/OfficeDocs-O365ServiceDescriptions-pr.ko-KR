@@ -14,18 +14,18 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 Office 365 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 사용할 수 있습니다. 계획 간 차이점(Exchange Online 계획 포함)을 찾고 있는 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다.
-ms.openlocfilehash: 33470e2deb2c0e5972e7d422bf445856519aaef2
-ms.sourcegitcommit: 35fc15ee2aa0a893567420254e13db9eb97b2e01
+ms.openlocfilehash: c9f93fb004be100b5f06e1fbdfef27def0363810
+ms.sourcegitcommit: 6075a8fc1619a1ab6ebd1ff80f6ddfab4a45fe3c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/11/2021
-ms.locfileid: "60268222"
+ms.lasthandoff: 11/24/2021
+ms.locfileid: "61153237"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 및 Office 365 플랫폼 서비스 설명
 
 Microsoft 365 Office 365 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 사용할 수 있습니다. 계획 간 차이점(Exchange Online 계획 포함)을 찾고 있는 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다.
   
-Microsoft 365 및 Office 365 클라우드 생산성을 기업에 제공하면 시간과 비용을 절약하고 가치 있는 리소스를 확보할 수 있습니다. Microsoft 365 및 Office 365 계획은 익숙한 Microsoft Office 데스크톱 제품군과 클라우드 기반 버전의 Microsoft 차세대 통신 및 공동 작업 서비스(Microsoft Exchange Online, Microsoft Office SharePoint Online, 웹용 Office 및 Microsoft 비즈니스용 Skype Online)를 결합하여 인터넷을 통해 거의 모든 곳에서 사용자의 생산성을 향상할 수 있도록 합니다.
+Microsoft 365 및 Office 365 클라우드 생산성을 기업에 제공하면 시간과 비용을 절약하고 가치 있는 리소스를 확보할 수 있습니다. Microsoft 365 및 Office 365 계획은 익숙한 Microsoft Office 데스크톱 제품군과 클라우드 기반 버전의 Microsoft의 차세대 통신 및 공동 작업 서비스를 Microsoft Exchange Online. Microsoft Office SharePoint Online, 웹용 Office 및 Microsoft 비즈니스용 Skype Online을 통해 사용자가 인터넷을 통해 거의 모든 곳에서 생산성을 향상할 수 있도록 합니다.
   
 사용자가 Microsoft 365 및 Office 365 플랫폼을 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 전체 구독 비교 표를 [참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145) 기능의 자세한 목록은 Microsoft 365 및 서비스 설명 [Office 365 참조하세요.](/office365/servicedescriptions/office-365-service-descriptions-technet-library)
   
@@ -34,8 +34,6 @@ Microsoft 365 및 Office 365 클라우드 생산성을 기업에 제공하면 �
 - Office 365 US Government 요금제에 대한 내용은 [Office 365 Government](office-365-us-government/office-365-us-government.md) 페이지부터 확인하세요. 
     
 - 21Vianet에서 운영하는 Office 365에 대한 내용은 [21Vianet에서 운영하는 Office 365](office-365-operated-by-21vianet.md) 페이지부터 확인하세요. 
-    
-- Office 365 Germary에 대한 내용은 [Office 365 Germany](office-365-germany.md) 페이지부터 확인하세요. 
     
 ## <a name="office-365-plans"></a>Office 365 요금제
 
@@ -209,14 +207,14 @@ Multi-Geo를 사용하면 단일 조직이 여러 Office 365 데이터 센터 �
 |**[제품 사용권](product-use-rights.md)** <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> | 
 
 > <sup>1</sup> Microsoft 365 및 Office 365 제조업체에서 지원하지 않는 운영 체제를 지원하지 않습니다. 
-<br/><sup>2</sup> Azure Information Protection은 포함되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며 지원되는 IRM(정보 권한 관리) 기능을 사용하도록 설정할 수 있습니다. 일부 Azure Information Protection 기능을 사용하려면 엔터프라이즈용 Microsoft 365 앱 구독이 필요합니다. Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise E1, Office 365 Education 또는 F3에 Office 365 Enterprise 포함되어 있지 않습니다. 또한 Office 함께 제공된 클라이언트 비즈니스용 Microsoft 365 앱 전체 Azure Information Protection(계획 1) 기능도 지원됩니다.
+<br/><sup>2</sup> Azure Information Protection은 포함되어 있지 않지만 별도의 추가 기능으로 구입할 수 있으며 지원되는 IRM(정보 권한 관리) 기능을 사용하도록 설정할 수 있습니다. 일부 Azure Information Protection 기능을 사용하려면 엔터프라이즈용 Microsoft 365 앱 구독해야 합니다. 이 기능은 Microsoft 365 Business Basic Microsoft 365 Business Standard. Office 365 Enterprise E1, Office 365 Education 또는 F3 Office 365 Enterprise 수 있습니다. 또한 Office 함께 제공된 클라이언트 비즈니스용 Microsoft 365 앱 전체 Azure Information Protection(계획 1) 기능도 지원됩니다.
 <br/><sup>3</sup> 로컬 Active Directory와 디렉터리 동기화를 사용하는 경우 Microsoft 365 포털이 아닌 로컬 Active Directory를 사용하여 계정을 삭제하거나 암호를 변경해야 Azure Active Directory 모듈을 Windows PowerShell. 
 <br/><sup>4</sup> 사용자에 대한 셀프 서비스 암호 관리 정책을 설정하는 방법에 대한 자세한 내용은 보안 정보를 사용하여 직장 또는 학교 암호 다시 설정을 [참조하세요.](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password) 
 <br/><sup>6</sup> 기간 할인을 통해 구매한 시트 수를 줄이면 조기 종료 수수료가 부과될 수 있습니다. This is not applicable for subscriptions paid on a monthly basis. 
 <br/><sup>7</sup> Microsoft [보안](https://securescore.office.com) 점수 보안 페이지에서 사용할 수 있습니다. 관리자 권한이 있어야 합니다. 자세한 내용은 Microsoft 보안 점수를 [참조하세요.](/microsoft-365/security/mtp/microsoft-secure-score) 
 <br/><sup>8</sup> Microsoft Sway는 현재 특정 지리의 고객이 사용할 수 없습니다. 일부 레거시 Office 365 2015년 8월 현재 출시되지 않은 일부 레거시 요금제도 Microsoft Sway에 액세스할 수 없습니다. 
 <br/><sup>9</sup> 환경이 희미해진 경우. 조직에서 Internet Explorer 8 또는 Internet Explorer 9 웹앱 및 서비스에 액세스하는 데 종속된 경우 Internet Explorer 11로 업그레이드하고 Enterprise 11에 대한 Enterprise 모드를 평가하는 것이 Internet Explorer 있습니다. 이 업데이트를 통해 레거시 Web Apps에 대한 이전 버전과의 호환성을 개선할 수 있습니다. 
-<br/><sup>10</sup> Microsoft Teams, Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise(E1, E3, E5, F3) 및 Office 365 Education 있습니다. 
+<br/><sup>10</sup> Microsoft Teams, Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise(E1, E3, E5, F3) 및 Office 365 Education 계획입니다. 
 <br/><sup>11</sup> Office 365 Enterprise F3에서 Microsoft Stream은 보기 전용(게시 또는 공유 없음)으로 제한됩니다.
 <br/><sup>12</sup> Office 365 Enterprise F3에서는 Flow 사용만 제한하고 실행은 매월 사용자당 750명으로 제한됩니다. 
 <br/><sup>13</sup> Office 365 Education Education을 포함하여 Office 365 E5 있습니다. E5에서는 사용할 Office 365 Enterprise 없습니다. 
