@@ -13,7 +13,7 @@
 #### [미국 정부용 SharePoint](office-365-platform-service-description\office-365-us-government\sharepoint.md)
 #### [미국 정부 기관용 Exchange Online](office-365-platform-service-description\office-365-us-government\exchange-online-for-us-government-environments.md)
 ### [21Vianet에서 운영하는 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md)
-### [Office 365 Germany](office-365-platform-service-description/office-365-germany.md)
+### [Office 365 Germany](https://aka.ms/germanymigrateassist)
 ### [Office 365 Education](office-365-platform-service-description/office-365-education.md)
 ### [Microsoft 365 Education](office-365-platform-service-description/microsoft-365-education.md)
 ### [사용자 계정 관리](office-365-platform-service-description/user-account-management.md)
