@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 구독이 포함된 기능 비교를 Exchange Online? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: fb6d71796c8cb54193fb7227c943e28212d444fd
-ms.sourcegitcommit: d8df217b7511b1d7ceb8a66a27a552f4503c4c40
+ms.openlocfilehash: b5e4b83822646cd5e24886805d1bf175ab662e09
+ms.sourcegitcommit: 9a4daf55770c42ccb89f0301f0dae1d5cbd1a382
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2021
-ms.locfileid: "60963507"
+ms.lasthandoff: 11/29/2021
+ms.locfileid: "61216860"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -37,10 +37,10 @@ Microsoft Exchange Online은 Microsoft Exchange Server의 기능을 클라우드
 
 Exchange Online을 구독한 조직은 사용자에게 제공하는 메시징 서비스에 대한 제어 권한은 유지하면서도 온-프레미스 서버 소프트웨어에 대한 작업 부담을 덜 수 있습니다. 이 문서에서 설명한 Exchange Online 호스트 계획을 사용하여, 다중 고객을 동시에 지원하는 서버에서 전자 메일이 호스트됩니다. 이러한 서버는 Microsoft 데이터 센터에 있으며 회사 네트워크 내부 또는 인터넷을 통해 광범위한 디바이스의 사용자가 액세스할 수 있습니다.
 
-계획에서 기능을 비교하는 데 필요한 강력한 도구는 [엔터프라이즈를 지원하기 위한 강력한 도구를 참조합니다.](https://products.office.com/business/compare-more-office-365-for-business-plans) Office 365 Germany의 요금제를 비교하려면 [Office 365 Germany 구독 요금제](https://go.microsoft.com/fwlink/?linkid=839016)를 참조하세요.
+계획에서 기능을 비교하는 데 필요한 강력한 도구는 [엔터프라이즈를 지원하기 위한 강력한 도구를 참조합니다.](https://products.office.com/business/compare-more-office-365-for-business-plans)
 
 > [!TIP]
-> Microsoft 서비스 설명에서 페이지를 내보내고 저장하고 인쇄할 수 있습니다. 콘텐츠 검색 결과를 [내보내는 방법에 대해 자세히 알아보겠습니다.](/office365/securitycompliance/export-search-results) 
+> Microsoft 서비스 설명에서 페이지를 내보내고 저장하고 인쇄할 수 있습니다. 콘텐츠 검색 결과를 [내보내는 방법에 대해 자세히 알아보겠습니다.](/office365/securitycompliance/export-search-results)
 
 ## <a name="whats-new-in-exchange-admin-center"></a>Exchange 관리 센터의 새로운 기능
 
@@ -88,7 +88,7 @@ Exchange Online 구독 계획에서 사용할 수 있는 저장소 및 받는 �
 |MRM(메시징 레코드 관리) |예|예|예|예|예|예|예|예|
 |수동 보존 정책, 레이블 및 태그 |아니요|아니요|아니요|아니요|예|예|예|예|
 |보관된 데이터 암호화(BitLocker)|예<sup>15</sup>|예<sup>15</sup>|예|예|예|예|예|예|
-|Azure Information Protection을 사용한 IRM|아니오|예|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|예|예|아니요<sup>2</sup>|
+|Azure Information Protection을 사용한 IRM|아니요|예|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|예|예|아니요<sup>2</sup>|
 |Windows Server AD RMS를 사용한 IRM|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|예<sup>3</sup>|
 |Office 365 메시지 암호화|예<sup>13</sup>|예<sup>13</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|예|예|아니요<sup>2</sup>|
 |고객 키<sup>22</sup>|아니요|아니요|아니요|아니요|아니요|아니요|예|아니요|
@@ -137,7 +137,7 @@ Exchange Online 구독 계획에서 사용할 수 있는 저장소 및 받는 �
 |Microsoft 365 관리 센터 보고서|아니요|아니요|예|예|예|예|예|예|
 |Excel 통합 문서|아니요|아니요|예|예|예|예|예|예|
 |웹 서비스 보고서|아니요|아니요|예|예|예|예|예|예|
-|Message trace|아니오|예|예|예|예|예|예|예|
+|Message trace|아니요|예|예|예|예|예|예|예|
 |감사 보고서|예|예|예|예|예|예|예|예 <sup>3</sup>|
 |통합 메시징 보고서|예|예|아니요|아니요|아니요|예|예|아니요|
 |**[공유 및 공동 작업](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
@@ -220,18 +220,18 @@ Exchange Online 구독 계획에서 사용할 수 있는 저장소 및 받는 �
 |역할 할당 정책|예|예|예|예|아니요|
 |**[메시지 정책 및 규정 준수](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online &nbsp; 계획 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
 |Exchange Online 기반 사서함 보관|예|아니요|예|예|아니요|
-|온-프레미스 사서함의 클라우드 기반 보관|예 <sup>5</sup>|예 <sup>5</sup>|아니오|예|아니요|
+|온-프레미스 사서함의 클라우드 기반 보관|예 <sup>5</sup>|예 <sup>5</sup>|아니요|예|아니요|
 |MRM(메시징 레코드 관리) |예|예|예|예|예|
 |수동 보존 정책, 레이블 및 태그|아니요|아니요|예|예|예|
 |보관된 데이터 암호화(BitLocker)|예<sup>16</sup>|예<sup>16</sup>|예|예|예|
-|Azure Information Protection을 사용한 IRM|아니오|예|아니요<sup>11</sup>|아니요<sup>11</sup>|아니요<sup>11</sup>|
+|Azure Information Protection을 사용한 IRM|아니요|예|아니요<sup>11</sup>|아니요<sup>11</sup>|아니요<sup>11</sup>|
 |Windows Server AD RMS를 사용한 IRM|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|예<sup>12</sup>|
 |Office 365 메시지 암호화|예<sup>13</sup>|예<sup>13</sup>|아니요<sup>11</sup>|아니요<sup>11</sup>|아니요<sup>11</sup>|
 |S/MIME|예<sup>15</sup>|예<sup>15</sup>|예|예|예|
 |원본 위치 유지 및 소송 보존|예|예|<sup>아니요 17</sup>|예|아니요|
 |원본 위치 eDiscovery|예<sup>22</sup>|예<sup>22</sup>|예<sup>22</sup>|예<sup>22</sup>|예<sup>22</sup>|
 |전송 규칙|예 <sup>1</sup>|예 <sup>1</sup>|예 <sup>1</sup>|예 <sup>1</sup>|예 <sup>1</sup>|
-|데이터 손실 방지|예 <sup>10, 14</sup>|예 <sup>10, 14</sup>|아니오|예|아니요|
+|데이터 손실 방지|예 <sup>10, 14</sup>|예 <sup>10, 14</sup>|아니요|예|아니요|
 |저널링|예|예|예|예|예|
 |**[스팸 방지 및 맬웨어 방지 보호](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online &nbsp; 계획 1**|**Exchange Online 계획 &nbsp; 2**|**Exchange Online Kiosk**|
 |기본 제공 스팸 방지 보호 기능|예 <sup>2</sup>|예 <sup>2</sup>|예|예|예|
@@ -258,7 +258,7 @@ Exchange Online 구독 계획에서 사용할 수 있는 저장소 및 받는 �
 |주소록 정책|예|예|예|예|예|
 |계층적 주소부|예|예|예|예|아니요|
 |주소 목록 및 전체 주소 목록|예|예|예<sup>20</sup>|예<sup>20</sup>|예<sup>20</sup>|
-|Office 365 그룹|아니요|아니요|예<sup>24</sup>|예<sup>24</sup>|아니오|
+|Office 365 그룹|아니요|아니요|예<sup>24</sup>|예<sup>24</sup>|아니요|
 |메일 그룹|예|예|예|예|예|
 |외부 연락처(전체)|예|예|예|예|예|
 |유니버설 연락처 카드|예|예|예|예|예|

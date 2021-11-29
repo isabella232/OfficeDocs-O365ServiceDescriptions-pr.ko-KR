@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 Office 365 요구 사항을 가장 잘 충족하기 위해 다양한 계획으로 사용할 수 있습니다. 계획 간 차이점(Exchange Online 계획 포함)을 찾고 있는 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다.
-ms.openlocfilehash: c9f93fb004be100b5f06e1fbdfef27def0363810
-ms.sourcegitcommit: 6075a8fc1619a1ab6ebd1ff80f6ddfab4a45fe3c
+ms.openlocfilehash: eacff992dcd69b9a7dad0bae0c2de0e8578f4350
+ms.sourcegitcommit: 9a4daf55770c42ccb89f0301f0dae1d5cbd1a382
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/24/2021
-ms.locfileid: "61153237"
+ms.lasthandoff: 11/29/2021
+ms.locfileid: "61216870"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 및 Office 365 플랫폼 서비스 설명
 
@@ -83,8 +83,8 @@ Multi-Geo를 사용하면 단일 조직이 여러 Office 365 데이터 센터 �
     
 - 비영리: [비영리 Microsoft 365 Office 365 비교](https://go.microsoft.com/fwlink/?LinkID=733237)
 
-- Office 365 Germany: [Office 365 Germany 계획](https://go.microsoft.com/fwlink/?linkid=839016)
-    
+- Office 365 독일은 사용 중지되었습니다. 자세한 내용은 도이클란드 [Microsoft 클라우드 전환을 참조하세요.](https://www.microsoft.com/cloud-platform/germany-cloud-regions)
+
 비즈니스용 Microsoft 365 계획 중 일부에는 구독에 대해 구입할 수 있는 추가 기능도 있습니다. 추가 기능은 구독에 대한 추가 기능을 제공합니다. 자세한 내용은 추가 기능 구입 또는 [관리를 참조하세요.](/microsoft-365/commerce/buy-or-edit-an-add-on)
 <br><br>
   
@@ -198,7 +198,7 @@ Multi-Geo를 사용하면 단일 조직이 여러 Office 365 데이터 센터 �
 |FISMA ATO(Authority to Operate)  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |Microsoft 데이터 처리 계약  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |PCI 적용 PAN 데이터  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |
-|**[BlackBerry](blackberry.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**비즈니스용 Microsoft 365 앱** <br/> |**Microsoft 365 Business Standard** <br/> **Office 365 Germany Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[BlackBerry](blackberry.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**비즈니스용 Microsoft 365 앱** <br/> |**Microsoft 365 Business Standard** <br/> **Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |BIS(BlackBerry Internet Service) 사용  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |**[파트너](partners.md)** <br/> ||||||||
 |지정된 계획을 사용하는 고객에 대한 평가판 초대 및 구매 주문 만들기  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |

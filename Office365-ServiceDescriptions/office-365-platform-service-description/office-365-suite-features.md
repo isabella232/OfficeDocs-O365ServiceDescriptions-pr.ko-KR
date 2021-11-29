@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 이 항목에 나열된 기능은 여러 장치 및 여러 서비스에서 안전하게 공동 작업하고 통신하는 데 도움이 되는 웹 기반 Office 365 모음입니다. 이러한 기능은 사용자 간에 정보를 검색하고 공유하기 위한 소셜 도구를 사용해서 디지털 콘텐츠 만들기, 저장 및 관리를 통합함으로써 조직 내에서 새로운 연결을 만드는 데 도움이 됩니다.
-ms.openlocfilehash: 149049a9b6937e1d8516674ba4772ba731bccd40
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 366be398ad1b8ac16701e5233eb5caf9e900f5e3
+ms.sourcegitcommit: 9a4daf55770c42ccb89f0301f0dae1d5cbd1a382
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671173"
+ms.lasthandoff: 11/29/2021
+ms.locfileid: "61216850"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 제품군 기능
 
@@ -60,7 +60,7 @@ Microsoft Lists 정보를 추적하고 Microsoft 365 구성하는 데 도움이 
 
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
-Microsoft Planner는 사용자에게 팀 작업을 구성하는 시각적인 방법을 제공하는 도구입니다. 팀은 새 계획을 만들고, 작업을 구성 및 할당하고, 파일을 공유하고, 진행 중인 작업에 대해 대화를 나누고, 기한을 설정하고, 상태를 업데이트할 수 있습니다. 또한 Microsoft Planner는 문서를 특정 작업과 연결하고, 팀이 문서를 함께 편집하고, 작업 관련 대화를 하는 기능도 제공합니다. 자세한 내용은 [Microsoft Planner 소개](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809)를 참조하세요. Planner는 [Office 365 Germany](office-365-germany.md)에서 아직 사용할 수 없습니다.
+Microsoft Planner는 사용자에게 팀 작업을 구성하는 시각적인 방법을 제공하는 도구입니다. 팀은 새 계획을 만들고, 작업을 구성 및 할당하고, 파일을 공유하고, 진행 중인 작업에 대해 대화를 나누고, 기한을 설정하고, 상태를 업데이트할 수 있습니다. 또한 Microsoft Planner는 문서를 특정 작업과 연결하고, 팀이 문서를 함께 편집하고, 작업 관련 대화를 하는 기능도 제공합니다. 자세한 내용은 [Microsoft Planner 소개](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809)를 참조하세요.
   
 ## <a name="microsoft-power-apps"></a>Microsoft Power Apps
 
@@ -72,7 +72,7 @@ Microsoft Stream은 조직의 사용자들이 비디오를 안전하게 업로�
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
-Microsoft Sway는 사용자와 동료가 대화형 웹 기반 캔버스를 사용하여 아이디어를 표현하는 데 도움이 되는 비즈니스용 전문 디지털 스토리텔링 앱입니다. Microsoft Sway의 기본 제공 디자인 엔진을 사용하면 광범위한 서식이나 추가 교육 없이도 전문적인 보고서, 프레젠테이션 등 다양한 기능을 만들 수 있습니다. 또한 결과를 수정하여 원하는 고유한 모양과 느낌을 얻을 수 있습니다. Microsoft Sway는 모든 화면의 모든 브라우저에서 생성이 보기 처럼 보이게 만들며 링크를 보내 동료 및 고객과 공유할 수 있습니다. Microsoft Sway를 사용하면 앱을 종료하지 않고도 모든 종류의 콘텐츠를 찾아서 끌어서 캔버스에 바로 끌어 놓을 수 있습니다. 자세한 내용은 [Sway](https://sway.com)를 참조하세요. Microsoft Sway는 독일 에서 아직 [Office 365 없습니다.](office-365-germany.md)
+Microsoft Sway는 사용자와 동료가 대화형 웹 기반 캔버스를 사용하여 아이디어를 표현하는 데 도움이 되는 비즈니스용 전문 디지털 스토리텔링 앱입니다. Microsoft Sway의 기본 제공 디자인 엔진을 사용하면 광범위한 서식이나 추가 교육 없이도 전문적인 보고서, 프레젠테이션 등 다양한 기능을 만들 수 있습니다. 또한 결과를 수정하여 원하는 고유한 모양과 느낌을 얻을 수 있습니다. Microsoft Sway는 모든 화면의 모든 브라우저에서 생성이 보기 처럼 보이게 만들며 링크를 보내 동료 및 고객과 공유할 수 있습니다. Microsoft Sway를 사용하면 앱을 종료하지 않고도 모든 종류의 콘텐츠를 찾아서 끌어서 캔버스에 바로 끌어 놓을 수 있습니다. 자세한 내용은 [Sway](https://sway.com)를 참조하세요.
   
 ## <a name="microsoft-365-apps-for-enterprise"></a>엔터프라이즈용 Microsoft 365 앱
 
@@ -108,7 +108,7 @@ Microsoft To Do 응용 프로그램은 고객이 모든 장치에서 업무와 �
 
 자세한 내용은 다음을 [To Do](https://to-do.microsoft.com/)
 
-## <a name="windows-update-for-business-deployment-service"></a>Windows 비즈니스용 업데이트 배포 서비스 
+## <a name="windows-update-for-business-deployment-service"></a>비즈니스용 Windows 업데이트 배포 서비스 
 
 비즈니스용 Windows 업데이트 배포 서비스는 업데이트에서 제공하는 콘텐츠의 승인, 계획 및 보호를 Windows 제공합니다. 개별 업데이트에 대한 풍부한 제어를 Windows 기존 비즈니스용 업데이트 정책과 함께 작동하도록 디자인되었습니다. 배포 서비스에서 제공하는 기능은 다음과 같습니다.
 

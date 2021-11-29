@@ -8,19 +8,16 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: Microsoft Sway가 사용자와 직장의 공동 작업자가 대화형 웹 기반 캔버스를 사용하여 아이디어를 표현하는 방법을 알아보세요.
-ms.openlocfilehash: 28969b36aaad9e3dc67497a13661ba78367c23bb
-ms.sourcegitcommit: 6ff9fc56c48694dbd4fcb88325cf93472d242124
+ms.openlocfilehash: 18591bca14963d914901da9500c370bd435e9992
+ms.sourcegitcommit: 9a4daf55770c42ccb89f0301f0dae1d5cbd1a382
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2021
-ms.locfileid: "61126961"
+ms.lasthandoff: 11/29/2021
+ms.locfileid: "61216890"
 ---
 # <a name="microsoft-sway-service-description"></a>Microsoft Sway 서비스 설명
 
 Sway는 사용자와 Microsoft 365 대화형 웹 기반 캔버스를 사용하여 아이디어를 표현하는 데 도움이 되는 앱입니다. Sway의 디자인 엔진을 사용하면 이미지, 텍스트, 문서, 비디오, 지도 등에서 전문적인 대화형 디자인을 빠르고 쉽게 만들 수 있습니다. 또한 결과를 수정하여 원하는 고유한 모양과 느낌을 얻을 수 있습니다. Sway를 사용하면 모든 브라우저, 모든 화면에서 멋진 모양을 만들 수 있으며 링크를 보내 고객 및 동료와 공유할 수 있습니다. 자세한 내용은 [Welcome to Sway을 참조합니다.](https://sway.com)
-
-> [!NOTE]
-> Microsoft Sway는 독일 에서 아직 [Office 365 없습니다.](/office365/servicedescriptions/office-365-platform-service-description/office-365-germany)
 
 ## <a name="available-plans"></a>사용 가능한 플랜
 
