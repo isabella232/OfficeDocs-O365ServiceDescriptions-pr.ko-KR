@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: ''
 description: Microsoft Viva 통합된 환경을 통해 Teams Microsoft 365, 웰브링, Learning 및 지식의 네 가지 주요 영역에서 직원 환경을 통합하여 최고의 직원 환경을 구축할 수 있습니다.
-ms.openlocfilehash: 142c5b7a85627e933fcadea74c5738272a22068f
-ms.sourcegitcommit: 5a5fccf8b7cbe901bbbfed7cbc6e4f5e1c7fab73
+ms.openlocfilehash: d7e65ecdab1a71655afe4c8bb5dd844743cb2289
+ms.sourcegitcommit: 34dd2d202299d88b278490ef4fbea16aa1652fb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60793252"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61234869"
 ---
 # <a name="microsoft-viva-service-description"></a>Microsoft Viva 서비스 설명
 
@@ -51,10 +51,10 @@ Microsoft Viva 및 Teams Microsoft 365 통합된 환경의 참여, 웰 웰 링, 
 <sup>2</sup> Graph M365/O365 E5에서만 제공된 커넥터 용량입니다. M365/O365 A5에 포함되지 않습니다. <br/>
 테넌트 수준에서 풀로 풀된 사용자당 인덱싱된 항목 <sup>3개</sup> <br/>
 <sup>4</sup> Viva Topics는 이제 Commercial and Education 계획에 대한 Microsoft 365 추가 기능으로 사용할 수 있습니다. 사용자는 M365 F1/F1/F3/E3/E5/A5/Business Basic/Business Standard/Business Premium, Office 365 F3/E1/E3/E3/E5/A5 또는 독립 실행형 SharePoint 요금제(현재는 범위에 없는 US Gov GCC, GCC-High 및 DoD)를 사용이 허가되어야 합니다. <br/>
-<sup>5</sup> 개인 Insights 대한 Viva는 일반적으로 Commercial, Education 및 Microsoft 365 요금제에서 무료로 사용할 GCC 있습니다. 사용자는 M365 E3/A3/E5/A5/Business Basic/Business Standard/Business Premium, Office 365 E1/E3/E5/A5/G3/G5 사용이 허가되어야 합니다. 또는 GCC(미국 Gov GCC-High 또는 DoD 및 Office 365 Germany 또는 21Vianet에서 운영하는 것은 현재 범위에 없습니다. <br/>
-<sup>6</sup> 관리자Insights 리더 및 분석가용 Viva Teams(Teams 및 Workplace Analytics)는 회사용 Exchange Online 플랜 1 또는 Exchange Online Plan 2가 포함된 Microsoft 365 또는 Office 365 제품에 대한 추가 기능으로 사용할 수 있습니다. CSP(클라우드 솔루션 공급자 구독자), 웹 직접 구독자 또는 Microsoft와 [EA(기업계약)가](/viva/insights/Setup/Environment-Requirements#enterprise-agreements) 있는 사용자 이 추가 기능은 현재 교직원의 분석에만 지원되는 것이 아니라 학생용이 아니라는 것입니다. <br/>
+<sup>5</sup> 개인 Insights 대한 Viva는 일반적으로 Commercial, Education 및 Microsoft 365 요금제에서 무료로 사용할 GCC 있습니다. 사용자는 M365 E3/A3/E5/A5/Business Basic/Business Standard/Business Premium, Office 365 E1/E3/E5/A5/G3/G5 또는 GCC(현재는 21Vianet에서 운영하는 미국 Gov GCC-High 또는 DoD 또는 Office 365)가 사용이 허가되지 않습니다. <br/>
+<sup>6</sup> 관리자Insights 리더 및 분석가용 Viva Teams(Teams 및 Workplace Analytics)는 Microsoft 365 플랜 1 또는 Office 365 Exchange Online이 포함된 Office 365 제품에 대한 추가 기능으로 추가 기능으로 사용할 수 Exchange Online  CSP(클라우드 솔루션 공급자),웹 직접 구독자 또는 Microsoft와 EA(기업계약)가 있는 회사에 대해 계획 [2를](/viva/insights/Setup/Environment-Requirements#enterprise-agreements) 계획합니다. 이 추가 기능은 현재 교직원의 분석에만 지원되는 것이 아니라 학생용이 아니라는 것입니다. <br/>
 
-## <a name="learn-more"></a>자세히 알아보기
+## <a name="learn-more"></a>자세한 정보
 
 계획 Microsoft 365 Office 365 자세한 내용은 전체 구독 비교 [표를 참조하세요.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
 

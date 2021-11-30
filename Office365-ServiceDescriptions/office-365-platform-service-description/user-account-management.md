@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft는 사용자를 만들고, 관리하고, 인증하는 다음과 같은 방법을 지원하고 있습니다.
-ms.openlocfilehash: 213c6ceb50d0af3c5a78a6306b0ff4c2a86f4585
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 85fcb6ab2b31445b5de079298661a7b11f8cc9b1
+ms.sourcegitcommit: 34dd2d202299d88b278490ef4fbea16aa1652fb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672833"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61234859"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -34,7 +34,7 @@ Microsoft는 사용자를 만들고, 관리하고, 인증하는 다음과 같은
 
 도움말을 [얻습니다.](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)설치 또는 Office  |  [](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)  |  [취소에서 Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
-그 외의 문제는 Microsoft 지원 [센터를 방문합니다.](https://support.microsoft.com/contactus/) 중국의 21Vianet에서 운영하는 Office 365에 대한 지원을 받으려면 [21Vianet 지원팀](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)에 문의하세요. Office 365 Germany에 대해서는 [Office 365 Germany 지원팀](https://support.office.com/article/83ef2266-2543-48d7-a41a-1b56b403a8e9)에 문의하세요. 
+그 외의 문제는 Microsoft 지원 [센터를 방문합니다.](https://support.microsoft.com/contactus/) 중국의 21Vianet에서 운영하는 Office 365에 대한 지원을 받으려면 [21Vianet 지원팀](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)에 문의하세요.
   
 ## <a name="sign-in-options"></a>로그인 옵션
 
@@ -50,7 +50,7 @@ ID 유형은 사용자 환경 및 사용자 계정 관리 옵션을 비롯해 �
 
 새 사용자를 만들면 사용자의 로그인 이름과 전자 메일 주소가 기본 도메인에 Microsoft 365 관리 센터. 자세한 내용은 사용자 및 [도메인 추가를 참조합니다.](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611) 
   
-기본적으로 구독은 계정으로 만든 < > **.onmicrosoft.com** 도메인을 사용하게 됩니다. 중국의 21Vianet에서 Office 365 사용하는 경우 기본 도메인은 < > **.onmsChina.cn.** Germany에서 Office 365 기본 도메인은 *companyname* > **.<.onmicrosoft.de.** 사용자 지정 도메인을 보존하는 대신 Microsoft에 하나  이상의 사용자 지정 도메인을 onmicrosoft.com 수 있으며 사용자에게 유효성이 검사된 도메인으로 로그인할 수 있도록 할당할 수 있습니다. 각 사용자의 할당된 도메인은 보내고 받은 전자 메일 메시지에 표시되는 전자 메일 주소입니다. 
+기본적으로 구독은 계정으로 만든 < > **.onmicrosoft.com** 도메인을 사용하게 됩니다. 중국의 21Vianet에서 Office 365 사용하는 경우 기본 도메인은 < > **.onmsChina.cn.** 사용자 지정 도메인을 보존하는 대신 Microsoft에 하나  이상의 사용자 지정 도메인을 onmicrosoft.com 수 있으며 사용자에게 유효성이 검사된 도메인으로 로그인할 수 있도록 할당할 수 있습니다. 각 사용자의 할당된 도메인은 보내고 받은 전자 메일 메시지에 표시되는 전자 메일 주소입니다.
   
 등록된 인터넷 도메인을 각각 다른 네임스페이스로 나타내는 최대 900개까지 호스팅할 수 있습니다. 
   

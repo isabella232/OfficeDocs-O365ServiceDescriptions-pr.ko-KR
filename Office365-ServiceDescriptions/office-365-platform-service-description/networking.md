@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft는 다음과 같은 네트워킹 기능을 지원합니다.
-ms.openlocfilehash: 63222b4554ed6abc9c20392061359bf849ca6518
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: dfb53ec42745b57dfa88a86833d20b232d01e85a
+ms.sourcegitcommit: 34dd2d202299d88b278490ef4fbea16aa1652fb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59673082"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61234889"
 ---
 # <a name="networking"></a>네트워킹
 
@@ -27,7 +27,7 @@ Microsoft는 다음과 같은 네트워킹 기능을 지원합니다.
 
 Microsoft는 IPv4 및 IPv6 주소를 사용합니다. Office 365에서 IPv6 주소는 연결 시 선택 사항이며 반드시 사용해야 하는 것은 아닙니다. 일부 Microsoft 365 IPv6을 사용하여 완전히 사용하도록 설정되지는 않습니다. Ipv6 지원에 대한 자세한 내용은 에서 [IPv6](/office365/enterprise/ipv6-support)지원을 Microsoft 서비스.
   
-Microsoft는 Microsoft 도움말에서 허용된 IP 주소 목록을 유지 관리합니다. 자세한 내용은 URL 및 [IP 주소 범위를 참조하세요.](/office365/enterprise/urls-and-ip-address-ranges) 21Vianet에서 운영하는 Office 365의 경우 [21Vianet에서 운영하는 Office 365용 URL 및 IP 주소](/office365/enterprise/managing-office-365-endpoints)를 참조하세요. Office 365 Germany의 경우 [Office 365 Germany 끝점](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8)을 참조하세요.
+Microsoft는 Microsoft 도움말에서 허용된 IP 주소 목록을 유지 관리합니다. 자세한 내용은 URL 및 [IP 주소 범위를 참조하세요.](/office365/enterprise/urls-and-ip-address-ranges) 21Vianet에서 운영하는 Office 365의 경우 [21Vianet에서 운영하는 Office 365용 URL 및 IP 주소](/office365/enterprise/managing-office-365-endpoints)를 참조하세요.
   
 > [!IMPORTANT]
 > 특정 IP 주소 서브넷으로 라우팅하는 대신 위 문서에 나열된 루트 도메인 이름(예: \*.Outlook.com, \*.MicrosoftOnline.com and \*.SharePoint.com)으로 라우팅하는 것이 좋습니다. IP 주소 서브넷에 의존하면 변경 사항이 발생하는 경우 사용자의 서비스가 중단될 위험이 있습니다. 

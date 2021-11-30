@@ -12,17 +12,17 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft는 고객과의 파트너 관계를 소중히 여기며 고객 데이터의 보안 및 개인 정보를 보호하는 데 중점을 두고 있습니다. 자세한 내용은 Microsoft 보안 센터를 참조하세요.
-ms.openlocfilehash: b25a747d5ebb4c8941d2c3e1f592f57d964f7e98
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 3c0d7a1ee00bcae4c57a7cbdc924d5bba1906248
+ms.sourcegitcommit: 34dd2d202299d88b278490ef4fbea16aa1652fb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672986"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61234879"
 ---
 # <a name="privacy-security-and-transparency"></a>개인 정보, 보안 및 투명성
 
 > [!NOTE]
-> 이 문서의 정보는 전 세계 버전의 Office 365에 적용됩니다. Office 365 미국, 정부, Office 365 Germany 및 21Vianet에서 운영하는 Office 365를 비롯한 Office 365의 국가별 클라우드 인스턴스를 사용하는 경우 [Microsoft 국가별 클라우드](https://go.microsoft.com/fwlink/?linkid=841582)를 참조하세요. 
+> 이 문서의 정보는 전 세계 버전의 Office 365에 적용됩니다. 미국 정부 및 Office 365 21Vianet에서 운영하는 Office 365 국가 Office 365 클라우드 인스턴스를 사용하는 경우 [Microsoft National Clouds를](https://go.microsoft.com/fwlink/?linkid=841582)참조합니다. 
   
 Microsoft는 고객과의 파트너 관계를 소중히 여기며 고객 데이터의 보안 및 개인 정보를 보호하는 데 중점을 두고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409)를 참조하세요.
   
@@ -54,7 +54,7 @@ Customer Lockbox는 Office 365 Enterprise 5 계획에 포함되어 있거나 다
   
 ## <a name="microsoft-defender-for-office-365"></a>Office 365용 Microsoft Defender
 
-Defender for Office 365 맬웨어 및 바이러스로부터 조직을 보호하는 데 도움이 됩니다. Defender for Office 365 링크, 금고 첨부 [](/office365/securitycompliance/atp-anti-phishing) [파일금고](/office365/securitycompliance/atp-safe-attachments)피싱 방지 및 스푸핑 [인텔리전스](/office365/securitycompliance/learn-about-spoof-intelligence) 기능이 포함되어 있습니다. [](/office365/securitycompliance/atp-safe-links) 금고 링크는 메시지의 악의적인 하이퍼링크로부터 사용자를 보호하여 링크를 선택할 때마다 보호 기능을 제공합니다. 금고 첨부 파일은 알 수 없는 맬웨어 및 바이러스로부터 보호하며, 알려진 바이러스/맬웨어 서명이 없는 모든 메시지와 첨부 파일을 특수한 환경으로 라우팅합니다. 이 환경은 이러한 Office 365 검색할 수 있습니다. Defender for Office 365 자세한 내용은 Microsoft [Defender for Office 365 설명을 참조하세요.](../office-365-advanced-threat-protection-service-description.md)
+Defender for Office 365 맬웨어 및 바이러스로부터 조직을 보호하는 데 도움이 됩니다. Defender for Office 365 링크, 금고 첨부 [](/office365/securitycompliance/atp-anti-phishing) [파일금고](/office365/securitycompliance/atp-safe-attachments)피싱 방지 및 스푸핑 [인텔리전스](/office365/securitycompliance/learn-about-spoof-intelligence) 기능이 포함되어 있습니다. [](/office365/securitycompliance/atp-safe-links) 금고 링크는 메시지의 악의적인 하이퍼링크로부터 사용자를 보호하여 링크를 선택할 때마다 보호 기능을 제공합니다. 금고 첨부 파일은 알 수 없는 맬웨어 및 바이러스로부터 보호하며, 알려진 바이러스/맬웨어 서명이 없는 모든 메시지와 첨부 파일을 특수한 환경으로 라우팅하여 Office 365 악의적인 의도를 감지할 수 있습니다. Defender for Office 365 자세한 내용은 Microsoft [Defender for Office 365 설명을 참조하세요.](../office-365-advanced-threat-protection-service-description.md)
   
 ## <a name="feature-availability"></a>기능 가용성
 

@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
-ms.openlocfilehash: b0fa4bf9db7a8555cb8cdcc048595d35e3e9b055
-ms.sourcegitcommit: 879fce98f2d91420a673f0cbbd0a392536a4637a
+ms.openlocfilehash: cb8c80e286f21370882dfa6c6b78bec9869720c8
+ms.sourcegitcommit: 34dd2d202299d88b278490ef4fbea16aa1652fb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60649185"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61234849"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 및 Office 365 요금제 옵션
 
@@ -38,7 +38,6 @@ Microsoft 365 Office 365 요구 사항을 가장 잘 충족하기 위해 다양�
 |**교육(사용자 수 제한이 없습니다.** <br/> |[Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 E5](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Microsoft 365 A1(레거시)(사용자 라이선스당 무료 Office 365 A1 페어링된 장치 라이선스당 일회성)](https://www.microsoft.com/education/buy-license/microsoft365) <br/> [Microsoft 365 A1(일회성, 사용자 라이선스당 무료 라이선스와 Office 365 A1)](https://www.microsoft.com/education/buy-license/microsoft365) <br/> [Microsoft 365 A3(Office 365 A3)](https://www.microsoft.com/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A5(Office 365 A5 포함)](https://www.microsoft.com/education/buy-license/microsoft365/default.aspx) <br/> |
 |**미국 정부(무제한 사용자 수)** <br/> |[사용 가능한 모든 계획 보기](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**중국의 21Vianet에서 운영하는 Office 365** <br/> |[사용 가능한 모든 계획 보기](https://products.office.com/business/compare-office-365-for-business-plans) <br/> |
-|**Office 365 Germany** <br/> |[독일 Office 365에 대해 알아보기](/microsoft-365/admin/admin-overview/learn-about-office-365-germany) <br/> |
    
 ### <a name="service-availability-within-each-microsoft-365-and-office-365-plan"></a>각 서비스 및 Microsoft 365 계획 내의 Office 365 가용성
 
@@ -62,7 +61,7 @@ Microsoft 365 Office 365 요구 사항을 가장 잘 충족하기 위해 다양�
 |Azure Information Protection<sup>2</sup> <br/> |아니요  <br/> |아니요<sup>1</sup> <br/> |아니요<sup>1</sup> <br/> |예  <br/> |아니요<sup>1</sup> <br/> |예  <br/> |예  <br/> |아니요<sup>1</sup> <br/> |아니요  <br/> |
 |Microsoft Kaizala <br/> |아니요 <br/> |예  <br/> |예 <br/> |예 <br/> |예  <br/> |예  <br/> |예 <br/> |예  <br/> |아니요  <br/> |
    
-<sup>1</sup> Azure Information Protection은 포함되어 있지 않지만 별도의 추가 기능으로 구매할 수 있으며 지원되는 IRM(정보 권한 관리) 기능을 사용하도록 설정할 수 있습니다. 일부 Azure Information Protection 기능을 사용하려면 엔터프라이즈용 Microsoft 365 앱, Microsoft 365 Business Basic, Microsoft 365 Business Standard Microsoft 365 F1. Microsoft 365 F3, Office 365 E1, Office 365 A1 또는 F3 Office 365.<br/>
+<sup>1</sup> Azure Information Protection은 포함되어 있지 않지만 별도의 추가 기능으로 구매할 수 있으며 지원되는 IRM(정보 권한 관리) 기능을 사용하도록 설정할 수 있습니다. 일부 Azure Information Protection 기능을 사용하려면 엔터프라이즈용 Microsoft 365 앱 구독해야 합니다. 이 기능은 Microsoft 365 Business Basic Microsoft 365 Business Standard. Microsoft 365 F1 F3, Microsoft 365 F3, Office 365 E1, Office 365 A1 또는 Office 365 있습니다.<br/>
 <sup>2</sup> Microsoft 365 및 Office 365 Azure Information Protection 기능에 대한 자세한 내용은 [Azure Information Protection을 참조하세요.](https://azure.microsoft.com/services/information-protection/)<br/>
 <sup>3</sup> Office 365 E5 Microsoft 365 E5 오디오 전화 시스템 회의가 포함되어 있습니다. 통화 요금제를 구현하려면 추가 요금제(국내 또는 국제)를 구매해야 합니다.<br/>
 <sup>4 2GB</sup> 저장소를 포함합니다. <br/>
@@ -76,7 +75,7 @@ Microsoft 365 Office 365 요구 사항을 가장 잘 충족하기 위해 다양�
 <sup>12</sup> 음성 비즈니스용 Skype 제한 없이 온라인 계획 2를 포함합니다.  <br/>
 <sup>13</sup> 온라인 비즈니스용 Skype 1이 포함됩니다.<br>
 <sup>14</sup> Microsoft Teams 메시징, 모임 및 통화의 기본 클라이언트가 Microsoft 365. 2018년 10월 1일 현재 사용자 수가 500명 이하인 신규 고객은 Microsoft Teams 온라인에 액세스할 수 비즈니스용 Skype 없습니다. 비즈니스용 Skype Online을 이미 사용하고 있는 테넌트는 새 사용자 프로비저닝을 포함하여 새 사용자로의 전환을 완료할 때까지 계속할 수 Microsoft Teams.<br>
-<sup>15</sup> 자동 분류 및 보존Microsoft 365 E5 Compliance 고객 키, 고급 메시지 암호화, 내부자 위험 관리, 통신 준수, 정보 장벽, 고객 Lockbox, 권한 있는 액세스 관리, 고급 감사, 레코드 관리 및 Advanced eDiscovery 기능을 제공합니다. 및 Microsoft 365 E5 Security Microsoft Defender for Office 365 Plan 2, Microsoft Defender for Endpoint, Azure Active Directory Plan 2, Microsoft Defender for Identity, Microsoft Cloud App Security 및 금고 문서.<br>
+<sup>15</sup> 자동 분류 Microsoft 365 E5 Compliance, 고객 키, 고급 메시지 암호화, 내부자 위험 관리, 통신 준수, 정보 장벽, 고객 Lockbox, 권한 있는 액세스 관리, 고급 감사, 레코드 관리 및 Advanced eDiscovery 기능을 제공합니다. Microsoft 365 E5 Security Microsoft Defender for Office 365 Plan 2, Microsoft Defender for Endpoint, Azure Active Directory Plan 2, Microsoft Defender for Identity, Microsoft Cloud App Security, and 금고 문서<br>
 <sup>16</sup> Microsoft 365 F1 사서함에 대한 권한을 포함하지 Exchange 않습니다. 전체 Teams 사용하려면 M365 F1 라이선스에 K1 서비스 Exchange Online 사용할 수 있습니다. Exchange Online K1 서비스 계획에서 사용자를 위해 사서함을 프로비전하기는 하지만 M365 F1 사용자는 사서함을 사용할 수 없습니다. 고객은 이러한 단계를 통해 웹용 Outlook 사용하지 [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) 않도록 설정하고 다른 방법을 통해 Exchange 사서함에 액세스하지 않도록 요청하는 것이 좋습니다.<br>
 <sup>17</sup> 포함된 SharePoint Online Kiosk. 관리자가 될 수 없습니다. 사이트 사서함이 없습니다. 개인 사이트가 없습니다.<br>
 <sup>18</sup> Microsoft 365 F1 사용하여 파일을 읽을 수 있지만 웹용 Office/편집/저장 권한은 없습니다. 

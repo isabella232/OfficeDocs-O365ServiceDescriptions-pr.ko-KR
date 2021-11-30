@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 보안 및 준수 센터는 조직 전체에서 규정 &amp; Office 365 수 있도록 디자인되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다.
-ms.openlocfilehash: bf79bfef4a948e9427e0b7071fca9d6c5410c2ae
-ms.sourcegitcommit: b24fb74e5bfb22de5d591cc3a2f48d46b736a560
+ms.openlocfilehash: 4bc51a522e561084152fa98554567c8195900a21
+ms.sourcegitcommit: 34dd2d202299d88b278490ef4fbea16aa1652fb2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/16/2021
-ms.locfileid: "61036066"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61234839"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -71,15 +71,15 @@ ms.locfileid: "61036066"
 |[고급 위협 관리](/office365/securitycompliance/office-365-ti)( 예: 피싱 캠페인에 대한 위협 탐색기)   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요  |
 |[고객 Lockbox](/office365/securitycompliance/customer-lockbox-requests)  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
 |[모바일 장치 관리](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |예   |예   |예   |예   |예   |예   |예   |예   |예   |
-|[Exchange Online, SharePoint Online](/office365/securitycompliance/data-loss-prevention-policies)및 비즈니스용 OneDrive<sup>9에</sup> 대한 데이터 손실 방지  |아니오   |예   |아니요   |아니요   |예 <sup>7<sup>  |아니요  |예<sup>10</sup> |아니요   |예   |
+|[Exchange Online, SharePoint Online](/office365/securitycompliance/data-loss-prevention-policies)및 비즈니스용 OneDrive<sup>9에</sup> 대한 데이터 손실 방지  |아니요   |예   |아니요   |아니요   |예 <sup>7<sup>  |아니요  |예<sup>10</sup> |아니요   |예   |
 |[통신 데이터 손실 방지를 Microsoft Teams](/microsoft-365/compliance/dlp-microsoft-teams)  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
 |[정보 장벽](/office365/securitycompliance/information-barriers)  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
 |[정보 거버넌스](/office365/securitycompliance/retention-policies)<sup>1</sup>  |예<sup>2</sup>  |예   |예   |예   |예   |예<sup>10</sup>  |예<sup>10</sup>  |예   |예   |
 |[고급 정보 거버넌스](/office365/securitycompliance/labels)<sup>3</sup>  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
 |[콘텐츠 검색](/office365/securitycompliance/search-for-content)  |예   |예   |예   |예   |예  | 예<sup>10</sup>  |예<sup>10</sup>  |예   |예   |
 |[eDiscovery 사례](/office365/securitycompliance/ediscovery-cases)  |예   |예   |예   |예   |예   |예<sup>10</sup>  |예<sup>10</sup>  |아니요   |아니요   |
-|[eDiscovery 내보내기](/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |아니오   |예   |아니요   |아니요   |예   |아니요  |예<sup>10</sup> |아니요<sup>4</sup>  |아니요<sup>4</sup>  |
-|[eDiscovery 보류(쿼리 기반 eDiscovery 보류 포함)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1)  |아니오   |예   |아니요   |아니요   |예   |아니요  |예<sup>10</sup> |아니요<sup>4</sup>  |아니요<sup>4</sup>  |
+|[eDiscovery 내보내기](/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |아니요   |예   |아니요   |아니요   |예   |아니요  |예<sup>10</sup> |아니요<sup>4</sup>  |아니요<sup>4</sup>  |
+|[eDiscovery 보류(쿼리 기반 eDiscovery 보류 포함)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1)  |아니요   |예   |아니요   |아니요   |예   |아니요  |예<sup>10</sup> |아니요<sup>4</sup>  |아니요<sup>4</sup>  |
 |[Advanced eDiscovery](/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |아니요   |
 |[보관](/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup>  |아니요   |예   |아니요   |예   |예   |예<sup>10</sup> |예<sup>10</sup>  |아니요   |아니요   |
 |[기본 감사](/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup>|예|예|예|예|예|예<sup>10</sup>|예<sup>10</sup>|아니요|아니요|
@@ -115,6 +115,6 @@ ms.locfileid: "61036066"
 
 규정 준수 센터는 [21Vianet에서](/office365/servicedescriptions/office-365-platform-service-description/office-365-operated-by-21vianet)운영하는 Office 365 E3 계획에서 사용할 수 있습니다.
   
-## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>독일에서 &amp; 보안 Office 365 가용성
+## <a name="security-amp-compliance-center-office-365-germany"></a>보안 &amp; 및 준수 센터: Office 365 독일
 
-Security & Compliance Center는 독일에서 Office 365 있습니다. 독일에 Office 365 대한 자세한 내용은 Office 365 [독일을 참조하세요.](office-365-germany.md)
+Office 365 독일은 사용 중지되었습니다. 자세한 내용은 도이클란드 [Microsoft 클라우드 전환으로 이동하세요.](https://aka.ms/germanymigrateassist)
