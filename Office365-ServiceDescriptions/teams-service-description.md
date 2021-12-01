@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: Microsoft Teams 계획 및 Microsoft 365 서비스 및 기능 가용성에 대해 Office 365 대해 자세히 알아보습니다.
-ms.openlocfilehash: 2e144129a33f9e1cab04b09f86200924b8af7fe5
-ms.sourcegitcommit: 6075a8fc1619a1ab6ebd1ff80f6ddfab4a45fe3c
+ms.openlocfilehash: 8c78b7178adf42be4c3b645bed2cc779a65c8ab2
+ms.sourcegitcommit: 39dd311ed12fc93062a953681c41c5896e0bd059
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/24/2021
-ms.locfileid: "61153247"
+ms.lasthandoff: 12/01/2021
+ms.locfileid: "61254513"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 서비스 설명
 
@@ -48,46 +48,35 @@ Microsoft Teams 팀워크의 허브는 Microsoft 365. Teams 서비스에서는 �
 
 ## <a name="additional-services"></a>추가 서비스
 
-### <a name="career-coach"></a>커리어 코치
+### <a name="career-coach-for-microsoft-teams"></a>커리어 코치 대한 Microsoft Teams
 
 커리어 코치 링크 교육용 Microsoft Teams 제공하는 앱으로, 고등 교육 학생이 경력 여정을 탐색할 수 있도록 개인 설정 지침을 제공합니다. 커리어 코치 교육 기관은 학생이 경력 경로를 검색하고 실제 기술을 성장하고 네트워크를 구축할 수 있는 통합 경력 솔루션을 교육 기관에 제공합니다. 자세한 내용은 커리어 코치 Microsoft Education에 대한 커리어 코치 구성 및 Microsoft Teams [커리어 코치](/microsoftteams/career-coach) [참조합니다.](https://www.microsoft.com/education/products/career-coach)
 
-## <a name="learn-more"></a>자세히 알아보기
-
-비즈니스용 Skype 온라인 서비스가 사용 중지된 경우 2021년 7월 31일 Teams Microsoft 지원 업그레이드가 시작됩니다. 2021년 7월 31일 이후에 보조 업그레이드를 예약한 조직은 업그레이드가 완료될 때까지 비즈니스용 Skype Online을 사용할 수 있습니다. 자세한 내용은 [비즈니스용 Skype Online 서비스가 사용 중지 를 참조하세요.](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/the-skype-for-business-online-service-has-retired/ba-p/2596601)
-
-Microsoft Teams Azure 및 Microsoft의 기타 서비스 혁신을 활용하여 클라우드를 위해 구축된 완전히 새로운 서비스입니다.
-
-Microsoft Teams 그룹, Microsoft Microsoft 365, microsoft Graph 나머지 그룹과 동일한 엔터프라이즈 수준의 보안, 규정 준수 및 관리 Office 365. Teams Azure AD(Azure AD)에 저장된 Azure Active Directory 활용합니다. 이러한 서비스는 Microsoft 데이터 센터에서 제공될 수 있으며 회사 네트워크 내부 또는 인터넷을 통해 광범위한 디바이스의 사용자가 액세스할 수 있습니다. 자세한 내용은 IT 아키텍처 및 Microsoft Teams 포스터를 [참조하세요.](/microsoftteams/teams-architecture-solutions-posters)
-
-Microsoft는 데이터의 보안과 서비스의 [접근성](https://www.microsoft.com/trust-center/compliance/accessibility)에 최선을 다하고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조하세요.
-
-사용자가 구독을 사용하도록 설정하는 구독에 대한 자세한 계획 Microsoft Teams 전체 구독 비교 표를 [참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145) 정부 요금제의 Office 365 추가 요금제에 대한 자세한 내용은 Office 365 Government [참조합니다.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans) Office 365 G1에서 G5까지는 모든 기능에 대한 Teams 포함됩니다.
-
-제품 기능 구현 지침에 대한 자세한 내용은 Microsoft Teams [참조하십시오.](/MicrosoftTeams) 이 서비스 설명에서는 다양한 클라우드 설치에서 제공되는 서비스 간의 주요 차이점을 자세히 설명합니다. Microsoft Teams 핵심 기능은 구독마다 다르지 않습니다. 규정 준수 기능의 가용성은 구독 수준에 따라 달라집니다. 자세한 내용은 에서 보안 및 규정 [준수를 Microsoft Teams.](/microsoftteams/security-compliance-overview) 각 구독에서 사용할 수 있는 기능에 대한 자세한 목록은 Microsoft 365 및 Office 365 플랫폼 서비스 설명을 [참조하세요.](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)
-
-**클라우드 음성 기능:** 오디오 회의의 경우 조직에서 전화 접속 모임을 설정할 각 사용자에게 오디오 회의 라이선스를 구입하고 할당해야 합니다. 통화 Teams 필요한 기능의 경우 각 사용자에게는 전화 시스템과 국내 또는 국내 및 국제 통화 플랜이 필요합니다. 자세한 내용은 추가 [Microsoft Teams 라이선스를 참조합니다.](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)
+## <a name="learn-more"></a>자세한 정보
 
 **라이브 이벤트:** 이 제품은 Office 365 사용 중지된 브로드캐스트를 Skype 모임 대체합니다. 라이브 이벤트 기능은 Stream 서비스에서 자세히 설명한 라이선스 계획에 사용할 수 있습니다. 여기에서 [Microsoft Stream 라이선스 세부 정보를 검토합니다.](/stream/license-overview) 라이브 이벤트 서비스는 Stream, Yammer 또는 365를 통해 액세스할 수 Microsoft Teams. 라이브 이벤트 기능에 대한 자세한 내용은 Microsoft 365, Yammer 및 Microsoft Stream에서 라이브 [Microsoft Teams 참조하세요.](/stream/live-event-m365)
 
-지원되는 모든 구독 계획은 Microsoft Teams, 데스크톱 클라이언트 및 모바일 앱에 액세스할 수 있습니다.
+**Microsoft Teams Essentials: Microsoft Teams Essentials는** 중소기업을 위한 모임Teams 채팅 및 공동 작업을 위한 올인원 솔루션을 제공하는 독립 실행형 Teams 구독입니다. Teams 및 여기에서 시작하는 방법에 대해 자세히 [알아보십시오.](/microsoftteams/teams-overview)
 
-Microsoft Teams 독립 실행형 서비스로 사용할 수 없습니다.
+**Microsoft Teams 구독: 지원되는** 모든 구독 계획은 Microsoft Teams, 데스크톱 클라이언트 및 모바일 앱에 액세스할 수 있습니다. Microsoft Teams 독립 실행형 서비스로 사용할 수 없습니다.
 
-사용에 대한 Microsoft Teams 자세한 내용은 다음 리소스를 참조하십시오.
+- 사용자가 구독을 사용하도록 설정하는 구독에 대한 자세한 계획 Microsoft Teams 전체 구독 비교 표를 [참조하세요.](https://go.microsoft.com/fwlink/?linkid=2139145) 정부 요금제의 Office 365 추가 요금제에 대한 자세한 내용은 Office 365 Government [참조합니다.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans) Office 365 G1에서 G5까지는 모든 기능에 대한 Teams 포함됩니다.
+- **클라우드 음성 기능:** 오디오 회의의 경우 조직에서 전화 접속 모임을 설정할 각 사용자에게 오디오 회의 라이선스를 구입하고 할당해야 합니다. 통화 Teams 필요한 기능의 경우 각 사용자에게는 전화 시스템과 국내 또는 국내 및 국제 통화 플랜이 필요합니다. 자세한 내용은 추가 [Microsoft Teams 라이선스를 참조합니다.](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)
+- 제품 기능 구현 지침에 대한 자세한 내용은 Microsoft Teams [참조하십시오.](/MicrosoftTeams) 이 서비스 설명에서는 다양한 클라우드 설치에서 제공되는 서비스 간의 주요 차이점을 자세히 설명합니다.
+- Microsoft Teams 핵심 기능은 구독마다 다르지 않습니다. 규정 준수 기능의 가용성은 구독 수준에 따라 달라집니다. 자세한 내용은 에서 보안 및 규정 [준수를 Microsoft Teams.](/microsoftteams/security-compliance-overview) 각 구독에서 사용할 수 있는 기능에 대한 자세한 목록은 Microsoft 365 및 Office 365 플랫폼 서비스 설명을 [참조하세요.](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)
 
-- Microsoft Teams 설명서를 방문하여 Microsoft Teams 배포 [계획 시작](https://aka.ms/SuccessWithTeams)
-- 운영 체제 플랫폼의 Teams 기능에 대한 자세한 내용은 플랫폼 Teams [기능 문서를 참조하세요.](https://aka.ms/teamsfeaturesbyplatform)
+**Microsoft Teams 정보:** Microsoft Teams 자세한 내용은 다음 리소스를 참조하십시오.
+
+- Microsoft Teams Azure 및 Microsoft의 기타 서비스 혁신을 활용하여 클라우드를 위해 구축된 완전히 새로운 서비스입니다.
+- Microsoft Teams 그룹, Microsoft Microsoft 365, microsoft Graph 나머지 그룹과 동일한 엔터프라이즈 수준의 보안, 규정 준수 및 관리 Office 365. Teams Azure AD(Azure AD)에 저장된 Azure Active Directory 활용합니다. 이러한 서비스는 Microsoft 데이터 센터에서 제공될 수 있으며 회사 네트워크 내부 또는 인터넷을 통해 광범위한 디바이스의 사용자가 액세스할 수 있습니다. 자세한 내용은 IT 아키텍처 및 Microsoft Teams 포스터를 [참조하세요.](/microsoftteams/teams-architecture-solutions-posters)
+- Microsoft Teams 설명서를 방문하여 Microsoft Teams [배포 계획을 세우기 시작하세요.](https://aka.ms/SuccessWithTeams)
+- 운영 체제 플랫폼을 Teams 기능에 대한 자세한 내용은 플랫폼 Teams [기능 문서를 참조하세요.](https://aka.ms/teamsfeaturesbyplatform)
 - 커뮤니티에 참여하고 Teams 블로그를 방문하여 최신 [Microsoft Teams하세요.](https://aka.ms/TeamsBlog)
 
-### <a name="licensing-terms"></a>사용 조건
+**비즈니스용 Skype Online이** 사용 중지: 2021년 7월 31일 Teams Microsoft 지원 업그레이드가 시작됩니다. 2021년 7월 31일 이후에 보조 업그레이드를 예약한 조직은 업그레이드가 완료될 때까지 비즈니스용 Skype Online을 사용할 수 있습니다. 자세한 내용은 [비즈니스용 Skype Online 서비스가 사용 중지 를 참조하세요.](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/the-skype-for-business-online-service-has-retired/ba-p/2596601)
 
-Microsoft 상업용 볼륨 라이선싱 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 [제품 조건 사이트](https://www.microsoft.com/licensing/terms/)를 참조하세요.
+**접근성:** Microsoft는 사용자의 데이터 보안 및 서비스의 접근성을 위해 계속 최선을 [다하고](https://www.microsoft.com/trust-center/compliance/accessibility) 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조하세요.
 
-### <a name="messaging"></a>메시지
+**사용 조건:** Microsoft 상업용 볼륨 라이선스 프로그램을 통해 구매한 제품 및 서비스에 대한 사용 조건은 제품 사용 조건 [사이트를 참조하세요.](https://www.microsoft.com/licensing/terms/)
 
-새로운 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용을 추적하려면 메시지 센터를 방문하세요. 자세한 내용은 [메시지 센터](/microsoft-365/admin/manage/message-center)를 참조하세요.
-
-### <a name="accessibility"></a>접근성
-
-Microsoft는 데이터의 보안과 서비스의 [접근성](https://www.microsoft.com/trust-center/compliance/accessibility)에 최선을 다하고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조하세요.
+**메시징:** 새 기능 및 변경된 기능, 계획된 유지 관리 또는 기타 중요한 공지 사항을 포함하여 예정된 변경 내용을 추적하기 위해 메시지 센터를 방문합니다. 자세한 내용은 [메시지 센터](/microsoft-365/admin/manage/message-center)를 참조하세요.
