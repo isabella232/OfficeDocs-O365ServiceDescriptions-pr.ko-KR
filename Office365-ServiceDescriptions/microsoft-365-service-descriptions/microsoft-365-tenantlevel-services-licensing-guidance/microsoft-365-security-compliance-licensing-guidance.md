@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 Microsoft 365 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: 1ec9a2c8b0b0acce87494e2b528da3e58e20876f
-ms.sourcegitcommit: ad4c082362428dbd29a0347058abed9e51685916
+ms.openlocfilehash: 2001bfa58628d98ac15d8ed0331c63ce4e637dea
+ms.sourcegitcommit: 63bcf11731c9eb94a77188db85d38da87422fea2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/18/2021
-ms.locfileid: "61070132"
+ms.lasthandoff: 12/07/2021
+ms.locfileid: "61327894"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 &amp; 지침
 
@@ -421,7 +421,7 @@ Microsoft 365 E3/A3/G3, Office 365 E3/A3/G3 및 Azure Information Protection 요
 
 수동 **민감도 레이블 지정의** 경우 다음 라이선스가 사용자 권한을 제공합니다.
 
-- Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium
+- Microsoft 365 E5/A5/G5/E3/A3/F1/F3/Business Premium(Office 365용 정보 보호 - E5 라이선스만 할당된 경우 표준을 사용하도록 설정해야 합니다.
 - Enterprise Mobility + Security E3/E5
 - Office 365 E5/A5/E3/A3/F3
 - AIP 계획 1
@@ -704,11 +704,11 @@ Endpoint Server용 Microsoft Defender는 최소 50개 이상의 끝점 P2용 Mic
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
-**끝점 계획 1용 Microsoft Defender**
+**엔드포인트용 Microsoft Defender 플랜 1**
 
 Microsoft Defender for Endpoint P1은 차세대 맬웨어 방지, 공격 표면 감소 규칙, 장치 제어, 끝점 방화벽, 네트워크 보호 등의 핵심 끝점 보호 기능을 제공합니다. 자세한 내용은 Endpoint 요금제 1 및 계획 [2용 Microsoft Defender를 참조합니다.](/microsoft-365/security/defender-endpoint/defender-endpoint-plan-1-2)
 
-**끝점 계획 2용 Microsoft Defender**
+**엔드포인트용 Microsoft Defender 플랜 2**
 
 Microsoft Defender for Endpoint P2는 끝점 감지 및 대응, 자동화된 조사 및 수정, 위협 및 취약성 관리 위협 인텔리전스, 샌드박스 및 Microsoft 위협 전문가와 같은 추가 기능이 있는 끝점 P1용 Microsoft Defender의 모든 기능을 비롯한 포괄적인 끝점 보호 기능을 제공합니다. 자세한 내용은 [끝점용 Microsoft Defender 설명서를 참조하세요.](/microsoft-365/security/defender-endpoint)
 
