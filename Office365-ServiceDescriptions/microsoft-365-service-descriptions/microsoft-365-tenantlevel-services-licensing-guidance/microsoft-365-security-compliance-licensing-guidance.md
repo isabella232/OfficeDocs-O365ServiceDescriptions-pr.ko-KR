@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 Microsoft 365 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: 2001bfa58628d98ac15d8ed0331c63ce4e637dea
-ms.sourcegitcommit: 63bcf11731c9eb94a77188db85d38da87422fea2
+ms.openlocfilehash: 6450196f39b168298d88787df0079b99e3e727c5
+ms.sourcegitcommit: 4c7fa0c73f52bc88e121710b118accff6a2673a2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/07/2021
-ms.locfileid: "61327894"
+ms.lasthandoff: 12/13/2021
+ms.locfileid: "61426069"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 &amp; 지침
 
@@ -430,7 +430,7 @@ Microsoft 365 E3/A3/G3, Office 365 E3/A3/G3 및 Azure Information Protection 요
 클라이언트 및 **서비스** 쪽 자동 민감도 레이블 지정 모두에 대해 다음 라이선스는 사용자 권한을 제공합니다.
 
 - Microsoft 365 E5/A5/G5
-- F5 규정 준수
+- F5 및 E5 규정 준수
 - F5 보안 & 규정 준수
 - Microsoft 365 E5/A5/G5 정보 보호 및 거버넌스
 - Office 365 E5
