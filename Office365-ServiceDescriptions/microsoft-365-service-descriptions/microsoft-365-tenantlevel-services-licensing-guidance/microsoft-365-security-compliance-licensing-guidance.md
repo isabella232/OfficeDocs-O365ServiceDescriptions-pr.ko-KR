@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 Microsoft 365 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: 6450196f39b168298d88787df0079b99e3e727c5
-ms.sourcegitcommit: 4c7fa0c73f52bc88e121710b118accff6a2673a2
+ms.openlocfilehash: dd505ef644558b8ad1064320b82ea35600464a5a
+ms.sourcegitcommit: c55d64d09e48f4d74a4e0f92ecf32cacf70798dc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/13/2021
-ms.locfileid: "61426069"
+ms.lasthandoff: 12/15/2021
+ms.locfileid: "61529961"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 &amp; 지침
 
@@ -585,6 +585,16 @@ Microsoft Defender for Office 365 피싱 및 제로 데이 맬웨어와 같은 �
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까? 
 
 Microsoft Defender for Office 365 요금제 1 및 2, Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/F5 보안, Microsoft 365 F5 보안 & 규정 준수 및 Microsoft 365 Business Premium Microsoft Defender를 통해 혜택을 받을 수 있는 권한을 사용자에게 Office 365.
+
+이 빠른 참조는 각 Microsoft Defender 구독에 제공된 기능을 Office 365 도움이 됩니다. 이 빠른 참조가 EOP 기능에 대한 지식과 결합될 경우, 비즈니스 의사 결정자가 자신의 요구에 가장 적합한 Office 365용 Microsoft Defender를 결정하는 데 도움이 될 수 있습니다.
+
+#### <a name="microsoft-defender-for-office-365-plan-1-vs-plan-2-cheat-sheet"></a>Microsoft Defender for Office 365 요금제 1과 계획 2 치트시트 비교
+
+| Office 365용 Defender 플랜 1 | Office 365용 Defender 플랜 2 |
+|---------|---------|
+| 구성, 보호 및 검색 기능: <ul><li> 안전한 첨부 파일 </li><li> 안전한 링크 </li><li> SharePoint, OneDrive 및 Microsoft Teams를 위한 안전한 첨부 파일 </li><li> Office 365용 Defender의 피싱 방지 보호 기능 </li><li> 실시간 탐지 </li></ul> | Office 365용 Defender 플랜 1 기능 </br> --- 추가 --- </br> 자동화, 조사, 수정 및 교육 기능: <ul><li> 위협 추적기 </li><li> 위협 탐색기 </li><li> 자동화된 조사 및 응답 </li><li> 공격 시뮬레이션 교육 </li></ul> |
+
+자세한 내용은 microsoft Defender for Office 365 보안 및 Office 365 및 Exchange Online Protection [- Office 365 | Microsoft Docs.](/microsoft-365/security/office-365-security/overview)
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
