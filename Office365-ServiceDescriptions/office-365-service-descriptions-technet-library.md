@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 Office 365 및 서비스는 강력한 보안, 안정성 및 사용자 생산성에 대한 조직의 요구를 충족하도록 설계된 클라우드 기반 서비스입니다.
-ms.openlocfilehash: 3e25e85519f8085a4a8b6a7bee2084483f499444
-ms.sourcegitcommit: 0207fe070b579469ee181919f659512b7e3ee2bc
+ms.openlocfilehash: 09f59d44bd19abf2df0305d517c2d3c9f579949d
+ms.sourcegitcommit: ffbdf0f567d309d8432ccf98c8d4471ddf2bf534
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61142415"
+ms.lasthandoff: 12/30/2021
+ms.locfileid: "61643494"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 및 Office 365 서비스 설명 
 
@@ -38,48 +38,71 @@ Microsoft는 FastTrack 요금제의 Office 365 서비스에 대한 Office 365 �
   
 시작하려면 다음 서비스 설명을 참조하십시오.
   
-- [Microsoft 365 및 Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Microsoft 365 및 Office 365 플랫폼 서비스 설명](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)<sup>1</sup>
 
-- [Office 응용 프로그램 서비스 설명](office-applications-service-description/office-applications-service-description.md)
+- [Azure Active Directory 서비스 설명](/office365/servicedescriptions/azure-active-directory)
 
-- [웹용 Office 서비스 설명](office-online-service-description/office-online-service-description.md)
+- [Exchange Online 서비스 설명](/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)
 
-- [Exchange Online 서비스 설명](exchange-online-service-description/exchange-online-service-description.md)
+- [Exchange Online Protection 서비스 설명](/office365/servicedescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description)
 
-- [Exchange Online Protection 서비스 설명](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
+- [Exchange Online Archiving 서비스 설명](/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)
 
-- [Exchange Online Archiving 서비스 설명](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
+- [Microsoft 365 Business Premium](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEBAF)
 
-- [Office 365용 Microsoft Defender 서비스 설명](office-365-advanced-threat-protection-service-description.md)
+- [보안 및 규정 준수를 위한 Microsoft 365 지침](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
 
-- [Microsoft Teams 서비스 설명](teams-service-description.md)
+- [중소 기업을 위한 Microsoft 365](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEBAF)
 
-- [OneDrive 서비스 설명](onedrive-for-business-service-description.md)
+- [Microsoft Bookings 서비스 설명](/office365/servicedescriptions/microsoft-bookings-service-description)
 
-- [SharePoint 서비스 설명](sharepoint-online-service-description/sharepoint-online-service-description.md)
+- [Office 365용 Microsoft Defender 서비스 설명](/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
 
-- [비즈니스용 Skype Online 서비스 설명](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
+- [Microsoft Forms 서비스 설명](/office365/servicedescriptions/microsoft-forms-service-description)
 
-- [Workplace Analytics 서비스 설명](workplace-analytics-service-description.md)
+- [Microsoft Planner 서비스 설명](/office365/servicedescriptions/project-online-service-description/microsoft-planner-service-description)
 
-- [MyAnalytics 서비스 설명](mya-service-description.md)
+- [Microsoft Project 서비스 설명](/office365/servicedescriptions/project-online-service-description/project-online-service-description)
 
-- [Power BI 서비스 설명](power-bi-service-description.md)
+- [웹 서비스용 Microsoft Project 설명](/office365/servicedescriptions/project-online-service-description/project-web-service-description)
 
-- [Microsoft Project 서비스 설명](project-online-service-description/project-online-service-description.md)
+- [Microsoft Project Online 데스크톱 클라이언트 서비스 설명](/office365/servicedescriptions/project-online-service-description/project-online-desktop-client-service-description)
 
-- [웹용 Visio 서비스 설명](visio-online-service-description/visio-online-service-description.md)
+- [Microsoft Project Online 서비스 설명](/office365/servicedescriptions/project-online-service-description/microsoft-project-online-service-description)
 
-- [Yammer 서비스 설명](yammer-service-description/yammer-service-description.md)
+- [Microsoft Sway 서비스 설명](/office365/servicedescriptions/microsoft-sway-service-description)
 
-- [Microsoft 365 Business Voice 설명](microsoft-365-business-voice-service-description.md)
+- [Microsoft Teams 서비스 설명](/office365/servicedescriptions/teams-service-description)
 
-- [모든 Microsoft 365 제품 비교](/microsoft-365/business/compare-all-microsoft-365-business-products)
+- [Microsoft Viva 서비스 설명](/office365/servicedescriptions/microsoft-viva-service-description)
 
-- [중소 기업을 위한 Microsoft 365](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products)
+- [MyAnalytics 서비스 설명](/office365/servicedescriptions/mya-service-description)
 
-- [보안 및 규정 준수를 위한 Microsoft 365 라이선싱 지침](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
+- [Office 응용 프로그램 서비스 설명](/office365/servicedescriptions/office-applications-service-description/office-applications-service-description)
 
+- [웹용 Office 서비스 설명](/office365/servicedescriptions/office-online-service-description/office-online-service-description)
+
+- [Office 365 미국 정부 서비스 설명](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)
+
+- [OneDrive 서비스 설명](/office365/servicedescriptions/onedrive-for-business-service-description)
+
+- [Power BI 서비스 설명](/office365/servicedescriptions/power-bi-service-description)
+
+- [SharePoint 서비스 설명](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description)
+
+- [SharePoint Syntex 서비스 설명](/office365/servicedescriptions/sharepoint-syntex-service-description/sharepoint-syntex-service-description)
+
+- [비즈니스용 Skype Online 서비스 설명](/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description)
+
+- [웹용 Visio 서비스 설명](/office365/servicedescriptions/visio-online-service-description/visio-online-service-description)
+
+- [유니버셜 인쇄 서비스 설명](/office365/servicedescriptions/universal-print-service-description/universal-print-service-description)
+
+- [Windows 365 서비스 설명](/office365/servicedescriptions/windows-365-service-description/windows-365-service-description)
+
+- [Workplace Analytics 서비스 설명](/office365/servicedescriptions/workplace-analytics-service-description)
+
+- [Yammer 서비스 설명](/office365/servicedescriptions/yammer-service-description/yammer-service-description)
 
 > [!NOTE]
 > <sup>1</sup> Office Delve, Microsoft MyAnalytics, Microsoft Sway 및 Microsoft Teams와 같은 [제품군 기능](./office-365-platform-service-description/office-365-suite-features.md)의 가용성이 포함되어 있습니다.
