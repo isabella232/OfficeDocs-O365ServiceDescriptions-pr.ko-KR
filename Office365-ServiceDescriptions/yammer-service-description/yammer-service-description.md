@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 각 계획에서 사용할 수 있는 기능을 Yammer 참조합니다.
-ms.openlocfilehash: be90cc37e288d3aa4d0de8400546d153b97845f9
-ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
+ms.openlocfilehash: e4dcad0fec103fded44b2820d82428c005c8201b
+ms.sourcegitcommit: 2f858bc2b5e3339baa5b29b07b4a57849f20e15d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59986144"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61860652"
 ---
 # <a name="yammer-service-description"></a>Yammer 서비스 설명
 
@@ -55,7 +55,7 @@ ms.locfileid: "59986144"
 통신에 사용되는 채널은 영향에 따라 달라 하게 됩니다.
 
 
-| 변경 유형 | Office 365 메시지 [센터](/microsoft-365/admin/manage/message-center) | Microsoft 365 로드맵 | Yammer 기술 Community 블로그(예: 월별 왕복) | 외부 커뮤니티, Twitter |
+| 변경 유형 | Office 365 메시지 [센터](/microsoft-365/admin/manage/message-center) | Microsoft 365 로드맵 | Yammer 기술 Community 블로그(예: 월별 라운드업) | 외부 커뮤니티, Twitter |
 |---------|---------|---------|---------|---------|
 |**작업이 필요한 변경 사항(변경 계획)** - 서비스를 계속 실행하기 위한 관리자 조치가 필요한 변경 내용, 조직의 규정 준수에 영향을 줄 수 있는 업데이트 | 예 | 예 | 예 | 예 |
 | **인식이 필요한 변경 사항(정보를** 계속 주시) - 관리자 작업이 필요하지 않은 변경 내용, 시각적 디자인 변경 | 예 | 예 | 예 | 예 |
@@ -66,7 +66,7 @@ ms.locfileid: "59986144"
 
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer 서비스 통신 정책
 
-Yammer 변경 관리 Microsoft 365 [](https://aka.ms/ManageChange)준수하지만 대상 지정 릴리스를 사용하여 일부 Microsoft 365 배포합니다. Yammer A/B 기능 테스트 또는 플라이트가 수행됩니다. 이를 통해 Microsoft는 많은 환경 및 장치에서 안정성, 성능 및 환경 개선을 위한 기능을 테스트할 수 있습니다. 같은 네트워크 내의 사용자라도 테스트로 인해 환경이 달라질 수 있습니다. 고객은 A/B 테스트를 거부할 수 없습니다.
+Yammer 변경 관리 Microsoft 365 [](https://aka.ms/ManageChange)준수하지만 대상 지정 릴리스를 사용하여 일부 Microsoft 365 배포하지 않습니다. Yammer A/B 기능 테스트 또는 플라이트가 수행됩니다. 이를 통해 Microsoft는 많은 환경 및 장치에서 안정성, 성능 및 환경 개선을 위한 기능을 테스트할 수 있습니다. 같은 네트워크 내의 사용자라도 테스트로 인해 환경이 달라질 수 있습니다. 고객은 A/B 테스트를 거부할 수 없습니다.
 
 ## <a name="licensing-terms"></a>사용 조건
 
@@ -76,7 +76,7 @@ Microsoft 상업용 볼륨 라이선싱 프로그램을 통해 구매한 제품 
 
 Microsoft는 데이터의 보안과 서비스의 [접근성](https://www.microsoft.com/trust-center/compliance/accessibility)에 최선을 다하고 있습니다. 자세한 내용은 [Microsoft 보안 센터](https://www.microsoft.com/trust-center) 및 [Office 접근성 센터](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)를 참조하세요.
 
-## <a name="learn-more"></a>자세한 정보
+## <a name="learn-more"></a>자세히 알아보기
 
 자세한 내용은 Yammer 리소스를 참조하십시오.
 
@@ -98,7 +98,7 @@ Microsoft는 데이터의 보안과 서비스의 [접근성](https://www.microso
 - [클래식 Yammer](https://support.microsoft.com/office/welcome-to-classic-yammer-02ac514e-cf1d-4060-9cde-6038ca812ede)
 - [앱용](https://support.microsoft.com/office/use-the-yammer-communities-app-for-microsoft-teams-930c86f1-e1e2-4e45-a66a-ce8faca71a21) 커뮤니티 Microsoft Teams
 - 새로운 Yammer [데스크톱 앱](https://support.microsoft.com/office/install-the-new-yammer-desktop-app-66ccb412-ca1d-4e43-872c-9705abf11b1b)
-- [SharePoint 강조 표시 및 대화 웹 파트](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)
+- [SharePoint 및 대화 웹 파트](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)
 - [Yammer Embed(신규 및 클래식 Yammer)](https://developer.yammer.com/docs/new-embed-feed)
 - [전자 메일의 대화형 Outlook](https://support.microsoft.com/office/work-with-yammer-from-outlook-fd695485-225b-410f-b24a-17f971b46b25)
 - [Yammer, iPhone 및 Android에서 iPad 앱을 설치합니다.](https://support.microsoft.com/office/set-up-new-yammer-on-your-mobile-phone-e52e65ad-14fa-4db9-b8f7-80fe3f6e25a7)

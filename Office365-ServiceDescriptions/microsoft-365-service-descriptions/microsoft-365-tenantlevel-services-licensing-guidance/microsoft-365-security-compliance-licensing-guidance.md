@@ -12,20 +12,19 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 Microsoft 365 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: 2d013a643d77fb1a3cee4416817a42922c214d94
-ms.sourcegitcommit: ffbdf0f567d309d8432ccf98c8d4471ddf2bf534
+ms.openlocfilehash: 6def34aa04c254aec1939dd5eb8bc0b60d72b7ca
+ms.sourcegitcommit: 2f858bc2b5e3339baa5b29b07b4a57849f20e15d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/30/2021
-ms.locfileid: "61643484"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61860698"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 &amp; 지침
 
-이 문서의 목적을 위해 테넌트 수준 서비스는 테넌트의 모든 사용자에 대해 부분적으로 또는 전체적으로 활성화되는 온라인 서비스입니다(독립 실행형 라이선스 및/또는 Microsoft 365 또는 Office 365 계획의 일부로). 온라인 서비스를 사용하려면 적절한 구독 라이선스가 필요합니다.
+이 문서의 목적을 위해 테넌트 수준 서비스는 테넌트의 모든 사용자에 대해 부분적으로 또는 전체적으로 활성화되는 온라인 서비스입니다(독립 실행형 라이선스 및/또는 Microsoft 365 또는 Office 365 계획의 일부로). 온라인 서비스를 사용하려면 적절한 구독 라이선스가 필요합니다. 사용자 라이선스를 사용자에게 라이선스를 설정하여 규정 준수 기능을 Microsoft 365 옵션을 확인하려면 Microsoft 365 [비교 표를 다운로드하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
-Microsoft 라이선싱 프로그램을 통해 획득한 Microsoft 제품 및 Professional 서비스 사용에 대한 사용 약관을 검토하기 위해 제품 약관을 [참조합니다.](https://www.microsoft.com/Licensing/product-licensing/products)
+일부 테넌트 서비스는 현재 특정 사용자로 혜택을 제한할 수 없습니다. 사용이 허가된 사용자에 대한 서비스 혜택을 제한하기 위해 노력해야 합니다. Microsoft 라이선싱 프로그램을 통해 획득한 Microsoft 제품 및 Professional 서비스 사용에 대한 사용 약관을 검토하기 위해 제품 약관을 [참조합니다.](https://www.microsoft.com/Licensing/product-licensing/products)
 
-보안 및 규정 준수 기능을 사용할 수 있도록 사용자에게 라이선스를 Microsoft 365 옵션을 확인하려면 Microsoft 365 [비교 표를 다운로드하세요.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 ## <a name="advanced-audit"></a>고급 감사
 

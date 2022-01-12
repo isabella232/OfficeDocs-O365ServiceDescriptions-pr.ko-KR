@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 구독이 포함된 기능 비교를 Exchange Online? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: 3b683c01f5348a4a50b15fe11df3828bbfaa3f0b
-ms.sourcegitcommit: 486c7c8d1a6f8992ef174dfd0ef6137a93046b83
+ms.openlocfilehash: 0a327b40a15f548065d6888b052c9a9e6fc93e5c
+ms.sourcegitcommit: a222d8bf05266d1121faca9def6096f173652294
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/21/2021
-ms.locfileid: "61574995"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61992992"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -59,7 +59,7 @@ Microsoft 365 요구 사항을 가장 잘 충족하기 위해 다양한 계획�
 
 | 기능 | 설명 | Microsoft 365 Business Basic, Standard 및 Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3/E5 | Office 365 Enterprise F3 | Exchange Online 계획 1/2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**[클라이언트 및 모바일 장치](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)**|웹용 Outlook<sup>1</sup>, Outlook iOS 및 Android<sup>1,</sup>Exchange ActiveSync SMTP|예|예|예|예|예|예|
+|**[클라이언트 및 모바일 장치](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)**<img width=30/>|웹용 Outlook<sup>1</sup>, Outlook iOS 및 Android<sup>1,</sup>Exchange ActiveSync SMTP<img width=140/>|예<img width=60/>|예<img width=60/>|예<img width=60/>|예<img width=60/>|예|예|
 ||POP 및 IMAP|예|예|예|예<sup>2</sup>|예|예<sup>3</sup>|
 ||EWS 응용 프로그램 지원, Outlook Windows<sup>1,</sup>mac<sup>1용</sup> Outlook 지원|예|예|예|아니요|예|아니요|
 ||기본 모바일 및 보안 for Microsoft 365|예|예|예|예|||
