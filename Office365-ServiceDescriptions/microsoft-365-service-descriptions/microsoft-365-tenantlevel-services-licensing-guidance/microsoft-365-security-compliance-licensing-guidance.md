@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 Microsoft 365 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: 6def34aa04c254aec1939dd5eb8bc0b60d72b7ca
-ms.sourcegitcommit: 2f858bc2b5e3339baa5b29b07b4a57849f20e15d
+ms.openlocfilehash: fe924b12ee013ce42d2772a20bfcb7411bb0d548
+ms.sourcegitcommit: 7b178adab989723e535f18fb8509e2c9eb9ea607
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61860698"
+ms.lasthandoff: 01/13/2022
+ms.locfileid: "62028067"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 &amp; 지침
 
@@ -810,7 +810,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 �
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-개인 정보 관리는 Office 365 A1/E1/A3/E3/A5/E5 및 Microsoft 365 A3/E3/A5/E5 구독이 있는 조직에 추가하여 사용할 수 있습니다.
+개인 정보 관리는 Office 365 A1/E1/G1/A3/E3/G3/E5/G5 및 Microsoft 365 A3/E3/G3/A5/E5/G5 구독이 있는 조직에 추가하여 사용할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
@@ -818,7 +818,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 �
 
 ### <a name="how-can-customers-access-the-service"></a>고객이 서비스에 액세스하는 방법
 
-개인 정보 관리는 [](https://compliance.microsoft.com/homepage) 기본 제공 Microsoft 365 규정 준수 센터 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 서비스로 혜택을 받을 수 있도록 보호하려는 모든 사용자에 대해 라이선스를 취득하는 것이 좋습니다.
+개인 정보 보호 관리 위험 및 개인 정보 보호 관리 주체 권한 요청은 서로 독립적으로 구매할 수 있으며 기본 제공 Microsoft 365 규정 준수 센터 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. [](https://compliance.microsoft.com/homepage) 서비스로 혜택을 받을 수 있도록 보호하려는 모든 사용자에 대해 라이선스를 취득하는 것이 좋습니다.
 
 고객은 조직의 필요에 따라 다음 라이선스를 구입할 수 있습니다.
 
@@ -837,11 +837,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 �
 - Microsoft Teams 통합을 통해 다른 이해 관계자와 안전하게 공동 작업을 할 수 있습니다(사용하려면 적절한 라이선스가 Microsoft Teams).</br>
     고객은 1,10 또는 100 블록으로 주체 권한 요청을 구입할 수 있습니다.
 
-개인 정보 보호 관리 위험 및 개인 정보 관리 주체 권한 요청은 서로 독립적으로 구매할 수 있으며 에서 사용할 [수 Microsoft 365 관리 센터.](https://admin.microsoft.com/)
-
 개인 [정보](https://www.microsoft.com/licensing/terms/productoffering/Microsoft365/EAEAS) 보호 관리 – 위험 및 개인 정보 보호 관리 – 주체 권한 요청을 획득하는 데 필요한 라이선스 선행 조건에 대한 제품 약관을 참조합니다.
-
-개인 정보 관리 무료 평가판에 대한 자세한 내용은 여기를 [클릭하세요.](https://aka.ms/privacymgmt/TrialDocs)
 
 ## <a name="privileged-access-management-in-office-365"></a>Office 365의 권한 있는 액세스 관리
 
