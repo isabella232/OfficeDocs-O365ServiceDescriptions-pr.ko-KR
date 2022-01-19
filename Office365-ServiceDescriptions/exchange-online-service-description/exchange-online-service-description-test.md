@@ -2,18 +2,19 @@
 title: Exchange Online 서비스 설명
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 ROBOTS: NOINDEX, NOFOLLOW
 description: 서비스 및 Microsoft Exchange Online 계획의 가용성을 Microsoft 365 Office 365 대해 자세히 알아보습니다.
-ms.openlocfilehash: abd6ab1b49b5f61a5b4994ea55314a551db2f3ba
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: e5ee41e61b5bbbcd2c1e28217437cceada038e3c
+ms.sourcegitcommit: bee0e9c3474f9d0694a8648abff6ac1831fc9bd0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672098"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "62083372"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -37,19 +38,19 @@ Exchange Online 서비스에 액세스하는 각 사용자는 구독 계획을 �
   
 | 기능 | 소규모 기업 요금제 | Enterprise 계획 | 교육 계획 | GCC | GCC-High | DOD | 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|[계획 및 배포](planning-and-deployment.md)|예*|예|예|예|예|예|
-|[사용 권한](permissions.md)|예|예|예|예|예|예|
-|[메시지 정책 및 규정 준수](message-policy-and-compliance.md)|예*|예*|예|예|예|예|
-|[스팸 방지 및 맬웨어 방지 보호](anti-spam-and-anti-malware-protection.md)|예*|예*|예|예|예|예|
-|[메일 흐름](mail-flow.md)|예*|예|예|예|예|예|
-|[받는 사람](recipients.md)|예*|예*|예|예|예*|예*|
+|[계획 및 배포](/exchange/plan-and-deploy/plan-and-deploy)|예*|예|예|예|예|예|
+|[사용 권한](/exchange/permissions-exo/permissions-exo)|예|예|예|예|예|예|
+|[메시지 정책 및 규정 준수](/exchange/policy-and-compliance/policy-and-compliance)|예*|예*|예|예|예|예|
+|[스팸 방지 및 맬웨어 방지 보호](/exchange/antispam-and-antimalware/antispam-and-antimalware)|예*|예*|예|예|예|예|
+|[메일 흐름](/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules)|예*|예|예|예|예|예|
+|[받는 사람](/exchange/recipients-in-exchange-online/recipients-in-exchange-online)|예*|예*|예|예|예*|예*|
 |[보고 기능 및 문제 해결 도구](reporting-features-and-troubleshooting-tools.md)|예*|예*|예|예|예*|예*|
-|[공유 및 공동 작업](sharing-and-collaboration.md)|예|예|예|예|예|예|
-|[클라이언트 및 모바일 장치](clients-and-mobile-devices.md)|예*|예|예|예*|예*|예*|
-|[음성 메시지 서비스](voice-message-services.md)|예*|예*|예|아니요*|아니요*|아니요*|
-|[고가용성 및 비즈니스 연속성](high-availability-and-business-continuity.md)|예*|예|예|예|예|예|
-|[상호 운용성, 연결 및 호환성](interoperability-connectivity-and-compatibility.md)|예|예|예|예|예|예|
-|[Exchange Online 설치 및 관리](exchange-online-setup-and-administration.md)|예*|예|예|예|예|예*|
+|[공유 및 공동 작업](/exchange/sharing/sharing)|예|예|예|예|예|예|
+|[클라이언트 및 모바일 장치](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)|예*|예|예|예*|예*|예*|
+|[음성 메시지 서비스](/exchange/plan-and-deploy/integration-with-sharepoint-and-skype/integration-with-sharepoint-and-skype)|예*|예*|예|아니요*|아니요*|아니요*|
+|[고가용성 및 비즈니스 연속성](/exchange/high-availability/high-availability)|예*|예|예|예|예|예|
+|[상호 운용성, 연결 및 호환성](/exchange/security-and-compliance/interoperability-connectivity-and-compatiblity)|예|예|예|예|예|예|
+|[Exchange Online 설치 및 관리](/exchange/architecture/client-access/exchange-admin-center)|예*|예|예|예|예|예*|
 |서비스 확장 - 사용자 지정, 추가 기능 및 리소스|예|예|예|예|예|예|
 
 ## <a name="learn-more"></a>자세한 정보

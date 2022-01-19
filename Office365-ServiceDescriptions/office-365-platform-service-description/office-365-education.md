@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 교육용 Office 365 차이점을 찾고 있는 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다. Office 365 익숙한 Microsoft Office 제품군과 클라우드 기반 버전의 Microsoft의 차세대 통신 및 공동 작업 서비스를 &mdash; Microsoft Exchange Online. Microsoft Office SharePoint Online, 웹용 Office 및 Microsoft 비즈니스용 Skype Online을 통해 사용자가 인터넷을 통해 거의 모든 곳에서 생산성을 향상할 &mdash; 수 있도록 합니다.
-ms.openlocfilehash: 18937c747649283165acbf54461fcd2ef25029e6
-ms.sourcegitcommit: 9a4daf55770c42ccb89f0301f0dae1d5cbd1a382
+ms.openlocfilehash: 2fe2d3295ee0b3bc742f6fc9fbb185082933c72e
+ms.sourcegitcommit: bee0e9c3474f9d0694a8648abff6ac1831fc9bd0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/29/2021
-ms.locfileid: "61216880"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "62083339"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -310,16 +310,16 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
   
 | 기능 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|**[계획 및 배포](../exchange-online-service-description/planning-and-deployment.md)** ||||
+|**[계획 및 배포](/exchange/plan-and-deploy/plan-and-deploy)** ||||
 |하이브리드 배포 지원  |예  |예  |예  |
 |IMAP 마이그레이션 지원  |예  |예  |예  |
 |지원되는 단독형 마이그레이션  |예  |예  |예  |
 |미리 구성된 마이그레이션 지원  |예  |예  |예  |
-|**[사용 권한](../exchange-online-service-description/permissions.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|**[사용 권한](/exchange/permissions-exo/permissions-exo)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |역할 기반 사용 권한  |예  |예  |예  |
 |역할 그룹  |예  |예  |예  |
 |역할 할당 정책  |예  |예  |예  |
-|**[메시지 정책 및 규정 준수](../exchange-online-service-description/message-policy-and-compliance.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|**[메시지 정책 및 규정 준수](/exchange/policy-and-compliance/policy-and-compliance)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |Exchange Online 기반 사서함 보관  |예  |예  |예  |
 |온-프레미스 사서함의 클라우드 기반 보관  |예  |예  |예  |
 |MRM(메시징 레코드 관리) 보존 태그 및 보존 정책  |예  |예  |예  |
@@ -334,7 +334,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |전송 규칙  |예<sup>2</sup> |예<sup>2</sup> |예<sup>2</sup> |
 |데이터 손실 방지  |예  |예  |예  |
 |저널링  |예  |예  |예  |
-|**[스팸 방지 및 맬웨어 방지 보호](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|**[스팸 방지 및 맬웨어 방지 보호](/exchange/antispam-and-antimalware/antispam-and-antimalware)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |기본 제공 스팸 방지 보호 기능  |예  |예  |예  |
 |Customize anti-spam policies  |예  |예  |예  |
 |기본 제공 맬웨어 방지 보호 기능  |예<sup>3</sup> |예<sup>3</sup> |예<sup>3</sup> |
@@ -342,13 +342,13 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |격리 - 관리자 관리  |예  |예  |예  |
 |격리 - 최종 사용자 자기 관리  |예  |예  |예  |
 |Office 365용 Microsoft Defender  |아니요  |아니요  |예  |
-|**[메일 흐름](../exchange-online-service-description/mail-flow.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|**[메일 흐름](/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |아웃바운드 메일의 사용자 지정 라우팅  |예  |예  |예  |
 |Secure messaging with a trusted partner  |예  |예  |예  |
 |Conditional mail routing  |예  |예  |예  |
 |인바운드 안전한 목록에 파트너 추가  |예  |예  |예  |
 |하이브리드 전자 메일 라우팅  |예  |예  |예  |
-|**[받는 사람](../exchange-online-service-description/recipients.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|**[받는 사람](/exchange/recipients-in-exchange-online/recipients-in-exchange-online)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |용량 경고  |예  |예  |예  |
 |Clutter  |예  |예  |예  |
 |메일 설명  |예  |예  |예  |
@@ -376,11 +376,11 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |Message trace  |예  |예  |예  |
 |감사 보고서  |예  |예  |예  |
 |통합 메시징 보고서  |아니요  |예  |예  |
-|**[공유 및 공동 작업](../exchange-online-service-description/sharing-and-collaboration.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|**[공유 및 공동 작업](/exchange/sharing/sharing)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |페더링 공유(일정 게시 포함)  |예  |예  |예  |
 |사이트 사서함  |예<sup>4</sup> |예<sup>4</sup> |예<sup>4</sup> |
 |공용 폴더  |예  |예  |예  |
-|**[클라이언트 및 모바일 장치](../exchange-online-service-description/clients-and-mobile-devices.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|**[클라이언트 및 모바일 장치](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |Outlook <sup>9용</sup> Windows |예  |예  |예  |
 |웹용 Outlook<sup>9</sup> |예  |예  |예  |
 |Outlook Mac<sup>9용</sup> |예  |예  |예  |
@@ -390,22 +390,22 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |POP 및 IMAP  |예  |예  |예  |
 |SMTP  |예  |예  |예  |
 |EWS 응용 프로그램 지원  |예  |예  |예  |
-|**[음성 메시지 서비스](../exchange-online-service-description/voice-message-services.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|**[음성 메시지 서비스](/exchange/plan-and-deploy/integration-with-sharepoint-and-skype/integration-with-sharepoint-and-skype)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |음성 사서함  |아니요  |예  |예  |
 |음성 메일과 타사 팩스 간의 통합  |아니요  |예  |예  |
 |타사 음성 사서함 상호 운용성  |예  |예  |예  |
 |비즈니스용 Skype 통합  |예  |예  |예  |
-|**[고가용성 및 비즈니스 연속성](../exchange-online-service-description/high-availability-and-business-continuity.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|**[고가용성 및 비즈니스 연속성](/exchange/high-availability/high-availability)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |데이터 센터에서 사서함 복제  |예  |예  |예  |
 |삭제된 사서함 복구  |예  |예  |예  |
 |삭제된 항목 복구  |예  |예  |예  |
 |단일 항목 복구  |예  |예  |예  |
-|**[상호 운용성, 연결 및 호환성](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|**[상호 운용성, 연결 및 호환성](/exchange/security-and-compliance/interoperability-connectivity-and-compatiblity)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |비즈니스용 Skype OWA 및 Outlook  |예  |예  |예  |
 |SharePoint 상호 연산  |예  |예  |예  |
 |EWS 연결 지원  |예  |예  |예  |
 |SMTP 릴레이 지원  |예  |예  |예  |
-|**[Exchange Online 설치 및 관리](../exchange-online-service-description/exchange-online-setup-and-administration.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
+|**[Exchange Online 설치 및 관리](/exchange/architecture/client-access/exchange-admin-center)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |Microsoft Office 365 포털 액세스  |예  |예  |예  |
 |Microsoft 365 관리 센터 액세스  |예  |예  |예  |
 |Exchange 관리 센터 액세스  |예  |예  |예  |

@@ -12,16 +12,16 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: 이 문서를 읽고 EOP(Microsoft Exchange Online 보호)의 메시징 정책 및 규정 준수 기능에 대해 자세히 알아보습니다.
-ms.openlocfilehash: 8bd7b752191f6304d95f079984a281b25169352f
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 12e240cc8f982b98f691af4a45316aea3c7e18d8
+ms.sourcegitcommit: bee0e9c3474f9d0694a8648abff6ac1831fc9bd0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672309"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "62083351"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>메시징 정책 및 준수 Exchange Online Protection
 
-Microsoft Exchange Online EOP(보호)는 전자 메일 데이터를 관리하는 데 도움이 되는 메시징 정책 및 규정 준수 기능을 제공합니다.
+Microsoft Exchange Online 보호(EOP)에서는 전자 메일 데이터를 관리하는 데 도움이 되는 메시징 정책 및 규정 준수 기능을 제공합니다.
 
 모든 EOP 기능에 대한 정보를 찾고 있나요? 자세한 [내용은 Exchange Online Protection 설명을 참조하세요.](exchange-online-protection-service-description.md)
 
@@ -62,7 +62,7 @@ DLP에 대한 자세한 내용은 에서 [데이터 손실 방지를 Exchange On
 
 ## <a name="office-365-message-encryption"></a>Office 365 메시지 암호화
 
-Office 365 메시지 암호화 Azure Information Protection의 일부인 이 서비스는 전자 메일 사용자가 누구에게나 암호화된 전자 메일 메시지를 보낼 수 있도록 하는 온라인 서비스입니다. 프레미스 고객은 Azure Information Protection을 Office 365 메시지 암호화 Azure Information Protection을 사용하여 Exchange Online Protection 통해 메일 흐름을 설정할 수 Exchange Online. Office 365 메시지 암호화 서비스 Exchange Online 자세한 내용은 Office 365 메시지 암호화 [서비스](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) 설명에서 Exchange Online 참조하세요.
+Office 365 메시지 암호화 Azure Information Protection의 일부인 이 서비스는 전자 메일 사용자가 누구에게나 암호화된 전자 메일 메시지를 보낼 수 있도록 하는 온라인 서비스입니다. 프레미스 고객은 Azure Information Protection을 Office 365 메시지 암호화 Azure Information Protection을 사용하여 Exchange Online Protection 통해 메일 흐름을 설정할 수 Exchange Online. Office 365 메시지 암호화 서비스 Exchange Online 자세한 내용은 Office 365 메시지 암호화 [서비스](/exchange/policy-and-compliance/policy-and-compliance) 설명에서 Exchange Online 참조하세요.
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>EOP 옵션별 메시징 정책 및 규정 준수 기능
 
