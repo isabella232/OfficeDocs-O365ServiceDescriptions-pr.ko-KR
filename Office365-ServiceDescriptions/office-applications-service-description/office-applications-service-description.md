@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 Word, Office 및 응용 프로그램과 같이 이미 익숙한 최신 버전의 Office 데스크톱 응용 프로그램을 제공하는 구독 Excel PowerPoint.
-ms.openlocfilehash: 6947786fcc848195fbb90afb120966c73cb4dd5f
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 25f1521f59ab4c2c2a4fede7d794b277b168c772
+ms.sourcegitcommit: 46dcb94ca83d84d035e58938d09ab99932e3e251
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672779"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "62076857"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 
@@ -69,7 +69,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |Excel 스프레드시트 비교  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Excel 스프레드시트 조회  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |예<sup>1</sup> <br/> |예  <br/> |예  <br/>|예<sup>1</sup> <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|그룹 정책 지원  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|그룹 정책 지원  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |예<sup>15</sup> <br/> |아니요  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Office 클라우드 정책 지원  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|예  <br/> |예<sup>15</sup> <br/> |예<sup>16</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>16</sup> <br/> |예  <br/> |예  <br/> |예<sup>16</sup> <br/> |
 |Azure Information Protection을 사용한 정보 권한 관리  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|아니요<sup>2</sup> <br/> |아니요<sup>2</sup> <br/> |아니요<sup>2</sup> <br/> |아니요<sup>2</sup> <br/> |예 <br/> |아니요<sup>2</sup> <br/> |예  <br/> |예  <br/> |아니요<sup>2</sup> <br/> |
 |Windows Server AD RMS를 사용한 Information Rights Management  <br/> |예<sup>3</sup> <br/> |예  <br/> |예 <br/>| 예<sup>3</sup> <br/>|예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |
@@ -129,4 +129,4 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 
 ## <a name="office-application-and-feature-availability-in-government-plans"></a>Office 응용 프로그램 및 기능 가용성 계획
 
-다음 Office 응용 프로그램을 정부 클라우드에서 사용할 수 있습니다. 그러나 정부 계획의 응용 프로그램 및 기능 가용성에 표시된 Office 일부 클라우드 기반 기능을 현재 사용할 수 [없는 경우도 있습니다.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#office-application-and-feature-availability-in-government-plans)
+다음 Office 응용 프로그램을 정부 클라우드에서 사용할 수 있습니다. 그러나 일부 클라우드 기반 기능은 정부 계획의 Office 및 기능 가용성에 표시된 일부 클라우드 기반 기능을 현재 [사용할](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#office-application-and-feature-availability-in-government-plans)수 없는 경우도 있습니다.
