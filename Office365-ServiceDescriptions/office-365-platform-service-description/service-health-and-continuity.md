@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 관리자는 서비스 상태를 보고 유지 관리 일정을 확인할 수 있습니다. 서비스 상태 정보는 로그인하여 무료로 사용할 수 있습니다.
-ms.openlocfilehash: e517897cf6bb1453b5e419267814021740a05cf3
-ms.sourcegitcommit: d56d154863abf0059e7d19ff88499fda68b216e8
+ms.openlocfilehash: 194736d066e7302170c82f2384dd51cd24090a69
+ms.sourcegitcommit: 6cb17d1ad98a6f9103001a4958eb091371685c39
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60536369"
+ms.lasthandoff: 01/21/2022
+ms.locfileid: "62159757"
 ---
 # <a name="service-health-and-continuity"></a>서비스 상태 및 연속성
 
@@ -48,7 +48,7 @@ Microsoft 관리자는 서비스 상태를 보고 유지 관리 일정을 확인
 
 | Q1 | Q2 | Q3 | Q4 |
 |:-----|:-----|:-----|:-----|
-| 99.97%  | 99.98% | 99.985% | |
+| 99.97%  | 99.98% | 99.985% | 99.976%|
 
 <br>
 
@@ -92,11 +92,11 @@ Microsoft 관리자는 서비스 상태를 보고 유지 관리 일정을 확인
 
 조직 관리자용 관리 앱은 이동 중 조직의 Microsoft 서비스 상태에 연결할 수 있는 기능을 제공합니다. Microsoft 관리자는 모바일 장치에서 서비스 상태 정보 및 유지 관리 상태 업데이트를 볼 수 있습니다. 자세한 내용은 [관리자 앱 FAQ](/office365/admin/admin-overview/admin-mobile-app)를 참조하세요.
   
-### <a name="microsoft-365-management-pack-for-microsoft-system-center-operations-manager"></a>Microsoft 365 Microsoft System Center Operations Manager용 관리 팩
+### <a name="microsoft-365-management-pack-for-microsoft-system-center-operations-manager"></a>Microsoft 365 Operations Manager용 System Center 관리 팩
 
 Microsoft System Center Operations Manager(SCOM)는 데이터 센터, 클라이언트 장치 및 하이브리드 클라우드 IT 환경을 관리하는 데 도움이 되는 통합 관리 플랫폼입니다. SCOM을 사용하는 Microsoft 관리자는 Microsoft 365 관리 팩을 가져와 작업 관리자 내의 모든 서비스 통신을 볼 수 System Center. 이 도구를 사용하면 구독된 서비스, 활성 및 해결된 서비스 인시던트 및 메시지 센터 통신 상태에 액세스할 수 있습니다. 자세한 내용은 [Microsoft](https://www.microsoft.com/download/details.aspx?id=103379) 다운로드 센터에서 System Center Microsoft Microsoft 365 관리 팩을 다운로드하세요.
   
-### <a name="microsoft-365-service-communications-api-in-graph"></a>Microsoft 365 Graph
+### <a name="microsoft-365-service-communications-api-in-graph"></a>Microsoft 365 서비스 통신 API를 Graph
 
 서비스 Microsoft 365 API를 사용하면 원하는 방식으로 서비스 통신에 액세스할 수 있습니다. 이 API를 사용하여 도구를 만들거나 서비스 통신에 연결할 수 있습니다. 그러면 환경을 모니터링하는 방법을 간소화할 수 있습니다. 서비스 통신 API를 사용하여 환경의 다음 항목을 모니터링할 수 있습니다.
 
