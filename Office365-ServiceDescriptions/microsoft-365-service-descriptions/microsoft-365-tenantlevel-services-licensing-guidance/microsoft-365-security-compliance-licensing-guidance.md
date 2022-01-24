@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 Microsoft 365 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: fe924b12ee013ce42d2772a20bfcb7411bb0d548
-ms.sourcegitcommit: 7b178adab989723e535f18fb8509e2c9eb9ea607
+ms.openlocfilehash: a1c87462f35bcd60babfe0ebda40774b07ff3c3d
+ms.sourcegitcommit: 29aa865ff511244392f4bcbda6efa9302e0bade9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62028067"
+ms.lasthandoff: 01/24/2022
+ms.locfileid: "62181207"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 &amp; 지침
 
@@ -690,11 +690,11 @@ Cloud Apps용 Defender의 조건부 액세스 앱 제어 기능을 활용하려�
 
 **끝점 계획 1(P1)에 대한 Microsoft Defender**
 
-Microsoft Defender for Endpoint P1은 상업 및 교육 고객을 위한 독립 실행형 사용자 구독 라이선스로 사용할 수 있습니다. Endpoint P1용 Defender는 2022년 1분기 Microsoft 365 E3/A3의 일부로도 사용할 수 있습니다.
+Microsoft Defender for Endpoint P1은 상업 및 교육 고객을 위한 독립 실행형 사용자 구독 라이선스로 사용할 수 있습니다. 또한 이 패키지는 Microsoft 365 E3/A3의 일부로 포함되어 있습니다.
 
 **Microsoft Defender for Endpoint Plan 2(P2)**
 
-Microsoft Defender for Endpoint P2는 독립 실행형 라이선스로 사용할 수 있으며 다음 계획의 일부로 사용할 수 있습니다.  
+이전에 Endpoint용 Microsoft Defender로 불리던 Endpoint P2용 Microsoft Defender는 독립 실행형 라이선스로 사용할 수 있으며 다음 계획의 일부로 사용할 수 있습니다.
 
 - Windows 11 Enterprise E5/A5
 - Windows 10 Enterprise E5/A5
@@ -704,7 +704,7 @@ Microsoft Defender for Endpoint P2는 독립 실행형 라이선스로 사용할
 
 **Endpoint Server용 Microsoft Defender**
 
-Endpoint Server용 Microsoft Defender는 최소 50개 이상의 끝점 P2용 Microsoft Defender 라이선스를 결합한 고객을 위한 추가 기능입니다.  
+Endpoint Server용 Microsoft Defender는 최소 50개 이상의 끝점용 Microsoft Defender 라이선스를 결합한 고객을 위한 추가 기능입니다.
 
 끝점용 Microsoft Defender의 사용 약관은 제품 약관 [을 참조합니다.](https://www.microsoft.com/Licensing/product-licensing/products)
 
@@ -810,7 +810,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 �
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
-개인 정보 관리는 Office 365 A1/E1/G1/A3/E3/G3/E5/G5 및 Microsoft 365 A3/E3/G3/A5/E5/G5 구독이 있는 조직에 추가하여 사용할 수 있습니다.
+개인 정보 관리는 Office 365 A1/E1/A3/E3/A5/E5 및 Microsoft 365 A3/E3/A5/E5 구독이 있는 조직에 추가하여 사용할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
