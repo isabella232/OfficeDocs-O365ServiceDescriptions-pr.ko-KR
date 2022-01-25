@@ -9,12 +9,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 정부 및 Microsoft 365 옵션에 대해 간략하게 소개합니다.
-ms.openlocfilehash: 073487b8f091fb16b34d43e84825d6f620d402bc
-ms.sourcegitcommit: c5bf3cead909ebae766ad3f99662347e63db1539
+ms.openlocfilehash: e5ab83c74d26b97af74dda0b4700b30eea69161e
+ms.sourcegitcommit: 00a339cac539389d0c58f32501d5a51ecdca48f8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60887146"
+ms.lasthandoff: 01/24/2022
+ms.locfileid: "62187744"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 정부 - 구입 방법
 
@@ -22,11 +22,11 @@ ms.locfileid: "60887146"
   
 ## <a name="whats-microsoft-365-government"></a>정부의 Microsoft 365 무엇입니까?
 
-Microsoft 365 정부는 제어되고 미분류된 정보를 보유하기 위해 후원하는 미국 정부 기관 및 계약자에 맞게 조정된 생산성, 보안 및 이동성 클라우드 소프트웨어 기능 집합입니다. 가장 엄격한 규정 준수 요구 사항을 충족하는 고유한 환경을 통해 Microsoft 365 Government는 Microsoft 상용 클라우드 엔터프라이즈 제공의 기능과 최대한 일치하는 미국 정부 고객을 위한 클라우드 제품입니다.
+Microsoft 365 Government는 제어되고 미분류된 정보를 보유하기 위해 후원하는 미국 정부 기관 및 계약자에 맞게 조정된 생산성, 보안 및 이동성 클라우드 소프트웨어 기능 집합입니다. 가장 엄격한 규정 준수 요구 사항을 충족하는 고유한 환경을 통해 Microsoft 365 Government는 Microsoft 상용 클라우드 엔터프라이즈 제공의 기능과 최대한 일치하는 미국 정부 고객을 위한 클라우드 제품입니다.
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Government의 가치는 Microsoft 365 무엇입니까?
 
-Microsoft 365 정부는 정부 기관이 규제 데이터 준수 요구 사항을 효과적으로 관리하도록 하여 언제 어디서나 모바일 생산성을 지원하고 규정 준수와의 안전한 공동 작업을 가능하게 하여 생산성을 높이는 데 도움을 줍니다. 다음 표에서는 주요 정부 역할의 예를 제공합니다.<br><br>
+Microsoft 365 정부는 정부 기관이 규제 데이터 준수 요구 사항을 효과적으로 관리하도록 하여 언제 어디서나 모바일 생산성을 지원하고 규정 준수에 대한 안전한 공동 작업을 가능하게 함으로써 생산성을 높이는 데 도움을 줍니다. 다음 표에서는 주요 정부 역할의 예를 제공합니다.<br><br>
  
 | 정부 리더는 다음을 할 수 있습니다. | 정부 직원은 다음을 할 수 있습니다. | 현장 직원은 다음을 할 수 있습니다. |
 |:-----|:-----|:-----|
@@ -48,15 +48,15 @@ Microsoft 365 정부는 다음 네 가지 주요 영역에서 미국 정부 기�
 
 | 제품 | 약정 |
 |:----------|:----------------------------------|
-|Microsoft 365 정부 GCC  <br/> |FedRamp High, DFARS, CJIS, IRS 1075, DISA SRG L2 <br/> |
+|Microsoft 365 Government GCC  <br/> |FedRamp High, DFARS, CJIS, IRS 1075, DISA SRG L2 <br/> |
 |Microsoft 365 Government GCC High  <br/> |FedRamp High, ITAR, DFARS, DISA SRG L4 컨트롤 <br/> |
-|Microsoft 365 정부 DoD  <br/> |DISA SRG L5  <br/> |
+|Microsoft 365 Government DoD  <br/> |DISA SRG L5  <br/> |
 
 Microsoft 보안 및 규정 준수 인증에 대한 자세한 내용은 [Microsoft 보안 센터를 방문하세요. ](https://www.microsoft.com/trustcenter/default.aspx)  
 
 ## <a name="microsoft-365-government-eligibility-and-validation"></a>Microsoft 365 정부 자격 및 유효성 검사
 
-Microsoft 365 정부는 적격 정부 고객 및 정부가 아닌 조직이 제어된 정보를 보류하거나 처리하기 위해 후원할 수 있습니다. 이러한 두 범주의 고객에 대한 자격 기준은 Microsoft 정부 클라우드에서 일관됩니다.
+Microsoft 365 정부는 제어된 정보를 보류하거나 처리하기 위해 후원되는 적격 정부 고객 및 비정부 조직에서 사용할 수 있습니다. 이러한 두 범주의 고객에 대한 자격 기준은 Microsoft 정부 클라우드에서 일관됩니다.
 
 Microsoft GCC 및 GCC 높은 서비스를 모두 Microsoft 정부 클라우드에 적합한 고객이 사용할 수 있으며 DoD 환경은 미 국방부에서 단독으로 사용할 수 있습니다. 서비스 가용성과 가격이 다르며, GCC FedRAMP High 또는 DoD CUI(제어 미분류 정보)를 보유하지 않는 모든 고객에게는 영웅 서비스로 남아 있습니다.
 
@@ -136,14 +136,12 @@ Microsoft GCC 및 GCC 높은 서비스를 모두 Microsoft 정부 클라우드�
 - 12:34 MicroTechnologies, Inc.
 - Accenture Federal Services, LLC
 - Agile IT, Inc
-- American Technology Services LLC
 - Applied Information Sciences, Inc.
 - Arctic Information Technology, Inc.
 - BAH
 - C3 통합 솔루션
 - CACI
 - 카라소프트
-- Catapult Systems, Inc.
 - CGI Federal Inc.
 - UDT(정복 사이버)
 - CyberSheath
@@ -155,7 +153,6 @@ Microsoft GCC 및 GCC 높은 서비스를 모두 Microsoft 정부 클라우드�
 - GDIT
 - 골든 5 LLC
 - Hypori, Inc.
-- Imager Software, Inc. d.b.a ISC
 - 잭파인
 - Jasper
 - Johnson Technology Systems, Inc.
@@ -166,7 +163,6 @@ Microsoft GCC 및 GCC 높은 서비스를 모두 Microsoft 정부 클라우드�
 - Nimbus Logic LLC
 - Northrop
 - Novetta
-- Permuta Technologies, Inc.
 - Perspecta
 - Planet Technologies, Inc.
 - Quiet Professionals, LLC
@@ -176,11 +172,19 @@ Microsoft GCC 및 GCC 높은 서비스를 모두 Microsoft 정부 클라우드�
 - Smartronix
 - 회신 7 시스템
 - TechTrend, Inc.
-- Valcom 솔트레이크시티, LC dba VCLM
-- VC3, INC
 - Vexcel
 
-**참고:** 위의 목록에 있는 모든 Microsoft LSP(라이선스 솔루션 공급자)는 CPS(고객 가격표)를 만들기 위해 GCC 및 GCC High -기업계약(High-to 기업계약)를 거래할 수 있습니다. EA 자격이 없는 조직은 나열된 AOS-G 파트너 GCC CSP 파트너 프로그램을 통해 라이선스를 구입할 수 있습니다.
+**AOS-G 파트너 GCC(500명 미만)**
+
+- American Technology Services LLC
+- Catapult Systems, Inc.
+- Imager Software, Inc. d.b.a ISC
+- Permuta Technologies, Inc.
+- Valcom 솔트레이크시티, LC dba VCLM
+- VC3, INC
+
+> [!NOTE]
+   > 위의 목록에 있는 모든 Microsoft LSP(라이선스 솔루션 공급자)는 CPS(고객 가격표)를 만들기 위해 GCC 및 GCC High -기업계약(High-to 기업계약)를 거래할 수 있습니다. EA 자격이 없는 조직은 나열된 AOS-G 파트너 GCC CSP 파트너 프로그램을 통해 라이선스를 구입할 수 있습니다.
 
 **CSP 파트너와 협력하는 경우 해당 파트너에게 연락하거나 [CSP를 찾습니다.](https://www.microsoft.com/solution-providers/home)**
 
