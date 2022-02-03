@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 미국 공공 부문의 고유하고 진화하는 요구 사항에 대응하여 Office 365 미국 정부 플랜(또는 Office 365 Government)를 Office 365 Government. 이 문서에서는 미국 환경의 특정 기능에 Office 365 Government 제공합니다.
-ms.openlocfilehash: 44fe65c52b1e3d838d58ac05c56141cb7f8518a9
-ms.sourcegitcommit: 5a6bd0a4c9e2c058e15f3895d0271611b89dad40
+ms.openlocfilehash: 0af25d355b0ffb7a63379fa9abca7deb53a8050b
+ms.sourcegitcommit: 676e301238f7e8b910cc61ec96ba3327b9b4fb73
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/31/2022
-ms.locfileid: "62283883"
+ms.lasthandoff: 02/03/2022
+ms.locfileid: "62332353"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -127,7 +127,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 
 ## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-보안 및 준수 센터 &amp; 에 대한 정보와 추가 정보 및 가용성에 대한 링크는 보안 및 준수 [센터를 &amp; 참조하세요](../../office-365-platform-service-description/office-365-securitycompliance-center.md).
+보안 및 준수 센터 &amp; 에 대한 정보와 추가 정보 및 가용성에 대한 링크는 보안 준수를 [Microsoft 365 지침을 참조 &amp; 하세요](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance).
 
 ## <a name="service-availability-for-each-plan"></a>각 계획의 서비스 가용성
 

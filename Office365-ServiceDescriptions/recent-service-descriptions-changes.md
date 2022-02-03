@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: 다음 표에서는 최근에 서비스 설명 콘텐츠에 적용된 변경 내용을 나열합니다.
-ms.openlocfilehash: 36a5e1b894510690fd403482e7dee84f51519361
-ms.sourcegitcommit: bee0e9c3474f9d0694a8648abff6ac1831fc9bd0
+ms.openlocfilehash: 76835db6336e2b8994cf4ed7ef0043bc1f245520
+ms.sourcegitcommit: 676e301238f7e8b910cc61ec96ba3327b9b4fb73
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "62083399"
+ms.lasthandoff: 02/03/2022
+ms.locfileid: "62332413"
 ---
 # <a name="recent-service-descriptions-changes"></a>최근 서비스 설명 변경 사항
 
@@ -30,7 +30,7 @@ ms.locfileid: "62083399"
 ||[Office 365 Education](office-365-platform-service-description/office-365-education.md) <br/> |Education Security and Compliance Center 및 2013 섹션에서 소송 Exchange Online 업데이트되었습니다.  <br/> |
 |Exchange Online  <br/> |[Exchange Online 서비스 설명](exchange-online-service-description/exchange-online-service-description.md) <br/> |2016년 8월에 비즈니스용 Microsoft 365 앱.  <br/> |
 |Office 응용 프로그램  <br/> |[Office 응용 프로그램 서비스 설명](office-applications-service-description/office-applications-service-description.md) <br/> |모바일 플랫폼에서 가용성이 업데이트되었습니다.  <br/> |
-|작업 공간 분석  <br/> |[Workplace Analytics 서비스 설명](workplace-analytics-service-description.md) <br/> |라이선스 사용자 수 제한이 업데이트되었습니다. 시작 링크가 추가되었습니다.  <br/> |
+|Workplace Analytics  <br/> |[Workplace Analytics 서비스 설명](workplace-analytics-service-description.md) <br/> |라이선스 사용자 수 제한이 업데이트되었습니다. 시작 링크가 추가되었습니다.  <br/> |
 |Project Online  <br/> |[Project Online 서비스 설명](project-online-service-description/project-online-service-description.md) <br/> |라이선스가 명확해진 경우  <br/> |
 |Visio Online  <br/> |[Visio Online 서비스 설명](visio-online-service-description/visio-online-service-description.md) <br/> |현재 온라인에서 사용할 수 있는 추가 기능을 표시하기 위해 Visio 표가 업데이트되었습니다.  <br/> |
    
@@ -47,8 +47,8 @@ ms.locfileid: "62083399"
 |:-----|:-----|:-----|
 |Office 365 플랫폼  <br/> |[Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |플랫폼 서비스 설명에 다중 위치 정보가 추가되었습니다.  <br/> |
 ||[Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Business Microsoft 365 추가되었습니다.  <br/> |
-||[보안 &amp; 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |보관 제한 항목의 변경된 보관 제한 항목의 Microsoft 365 Business Basic"Microsoft 365 Business Standard.  <br/> |
-||[보안 &amp; 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |"고급 보안 관리"가 "보안 관리"로 Office 365 Cloud App Security.  <br/> |
+||[Microsoft 365 규정 준수를 위한 지침 &amp;](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance) <br/> |보관 제한 항목의 변경된 보관 제한 항목의 Microsoft 365 Business Basic"Microsoft 365 Business Standard.  <br/> |
+||[Microsoft 365 규정 준수를 위한 지침 &amp;](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance) <br/> |"고급 보안 관리"가 "보안 관리"로 Office 365 Cloud App Security.  <br/> |
 |웹용 Office  <br/> |[웹용 Excel](office-online-service-description/excel-online.md) <br/> |항목의 첫 번째 메모가 "30MB를 초과하는 통합 문서는 MB 내에서 볼 수 웹용 Excel 없습니다."로 Microsoft Office SharePoint Online. 이전에는 메모에 10MB가 기록된 바 있습니다.  <br/> |
 |비즈니스용 OneDrive  <br/> |[비즈니스용 OneDrive 서비스 설명](onedrive-for-business-service-description.md) <br/> |서비스 설명에 비즈니스용 OneDrive 업데이트되었습니다.  <br/> |
    
@@ -56,8 +56,8 @@ ms.locfileid: "62083399"
 
 |서비스 설명 |항목 |변경 사항 |
 |:-----|:-----|:-----|
-|Exchange Online  <br/> |[Exchange Online 서비스 설명](exchange-online-service-description/exchange-online-service-description.md) <br/> |데이터 센터 및 OME(데이터 센터)에서 미사용 데이터 암호화에 Office 365 메시지 암호화 업데이트합니다.  <br/> |
-||[메시지 정책 및 규정 준수](/exchange/policy-and-compliance/policy-and-compliance) <br/> |데이터 센터 및 OME(데이터 센터)에서 미사용 데이터 암호화에 Office 365 메시지 암호화 업데이트합니다.  <br/> |
+|Exchange Online  <br/> |[Exchange Online 서비스 설명](exchange-online-service-description/exchange-online-service-description.md) <br/> |데이터 센터 및 OME(데이터 센터)에서 미사용 데이터 암호화를 Office 365 메시지 암호화 업데이트합니다.  <br/> |
+||[메시지 정책 및 규정 준수](/exchange/policy-and-compliance/policy-and-compliance) <br/> |데이터 센터 및 OME(데이터 센터)에서 미사용 데이터 암호화를 Office 365 메시지 암호화 업데이트합니다.  <br/> |
 |웹용 Office  <br/> |[웹용 Excel](office-online-service-description/excel-online.md) <br/> |창 고정 지원으로 웹용 Excel.  <br/> |
 |SharePoint Online  <br/> |[SharePoint Online 서비스 설명](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |여러 업데이트 및 재구성.  <br/> |
 ||[SharePoint Online 제한 사항](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |여러 업데이트.  <br/> |
@@ -70,8 +70,8 @@ ms.locfileid: "62083399"
 |서비스 설명 |항목 |변경 사항 |
 |:-----|:-----|:-----|
 |Office 365 플랫폼  <br/> |[Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |업데이트된 직원Hub 가용성을 Microsoft 365 Business Standard.  <br/> |
-||[Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |[준수[ServiceDesc]](/compliance/regulatory/offering-home) 페이지 산업 인증이 업데이트되었습니다.  <br/> |
-||[보안 &amp; 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |1 계획에 대한 수동 Office 365 Enterprise 업데이트되었습니다.  <br/> |
+||[Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |준수 [[ServiceDesc]](/compliance/regulatory/offering-home) 페이지 산업 인증이 업데이트되었습니다.  <br/> |
+||[Microsoft 365 규정 준수를 위한 지침 &amp;](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance) <br/> |1 계획에 대한 수동 Office 365 Enterprise 업데이트되었습니다.  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |여러 업데이트 및 재구성.  <br/> |
 ||[21Vianet에서 운영하는 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |음성 메일 및 음성 메일 통합 가용성이 수정됩니다.  <br/> |
 |Exchange Online  <br/> |[Exchange Online 서비스 설명](exchange-online-service-description/exchange-online-service-description.md) <br/> |Exchange Online 그룹의 가용성이 Exchange Online.  <br/> |
@@ -100,7 +100,7 @@ ms.locfileid: "62083399"
 |서비스 설명 |항목 |변경 사항 |
 |:-----|:-----|:-----|
 |Office 365 플랫폼  <br/> |[Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |F1 Office 365 Enterprise F1 Microsoft Stream 사용자가 비디오를 볼 수는 있지만 게시하거나 공유할 수는 없다는 설명이 추가되어 있습니다.  <br/> |
-||[보안 &amp; 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |고급 데이터 거버넌스에 처리 검토가 추가되었습니다.  <br/> |
+||[Microsoft 365 규정 준수를 위한 지침 &amp;](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance) <br/> |고급 데이터 거버넌스에 처리 검토가 추가되었습니다.  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |추가 Yammer 및 Office 365 Pro 더하기 가용성이 설명되어 있습니다.  <br/> |
 ||[21Vianet에서 운영하는 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |데이터 손실 방지 가용성이 추가되었습니다.  <br/> |
 ||[21Vianet에서 운영하는 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |AD RMS를 통해 IRM의 가용성이 수정됩니다.  <br/> |
@@ -116,8 +116,8 @@ ms.locfileid: "62083399"
 
 |서비스 설명 |항목 |변경 사항 |
 |:-----|:-----|:-----|
-|Office 365 플랫폼  <br/> |[보안 &amp; 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |고급 거버넌스 세부 정보가 추가되었습니다.  <br/> |
-||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |테이블 에서 수행한 데이터 FastTrack 추가되었습니다.  <br/> |
+|Office 365 플랫폼  <br/> |[Microsoft 365 규정 준수를 위한 지침 &amp;](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance) <br/> |고급 거버넌스 세부 정보가 추가되었습니다.  <br/> |
+||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |테이블에서 수행한 데이터 FastTrack 추가되었습니다.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |페더링 공유를 사용하려면 가용성 주소 공간을 사용하여 다른 테넌트와의 공유를 지원해야 합니다.  <br/> |
 |Exchange Online  <br/> |[Exchange Online 제한](exchange-online-service-description/exchange-online-limits.md) <br/> |OME(Office 365 메시지 암호화) 레거시 버전 및 OME(Office 365 메시지 암호화)에 대한 제한이 추가되었습니다.  <br/> |
 |비즈니스용 Skype  <br/> |[비즈니스용 Skype Online 서비스 설명](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |오디오 회의는 추가 기능으로 Microsoft 365 Business Standard, Office 365 Enterprise E1 및 Office 365 Enterprise 구독 계획에 추가할 수 있습니다.  <br/> |
@@ -144,8 +144,8 @@ ms.locfileid: "62083399"
 |:-----|:-----|:-----|
 |Office 365 플랫폼  <br/> |[Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |AIP(Azure Information Protection) 가용성에 대한 참고 사항 설명  <br/> |
 ||[Office 365 계획 옵션](office-365-platform-service-description/office-365-plan-options.md) <br/> |AIP(Azure Information Protection) 가용성에 대한 참고 사항 설명  <br/> |
-||[보안 &amp; 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |독립 실행형 계획에 대한 기능 비교 표가 추가되었습니다.  <br/> |
-||[보안 &amp; 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Advanced Threat Protection 기능 세부 정보가 추가되었습니다.  <br/> |
+||[Microsoft 365 규정 준수를 위한 지침 &amp;](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance) <br/> |독립 실행형 계획에 대한 기능 비교 표가 추가되었습니다.  <br/> |
+||[Microsoft 365 규정 준수를 위한 지침 &amp;](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance) <br/> |Advanced Threat Protection 기능 세부 정보가 추가되었습니다.  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |AIP(Azure Information Protection) 가용성에 대한 참고 사항 설명  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |AIP(Azure Information Protection) 가용성에 대한 참고 사항 설명  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |감사 로그 검색, 고급 데이터 거버넌스 및 위협 인텔리전스 Office 365 가용성이 추가되었습니다.  <br/> |
@@ -162,8 +162,8 @@ ms.locfileid: "62083399"
 |Office 365 플랫폼  <br/> |[Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Microsoft Forms 가용성이 추가되었습니다.  <br/> |
 ||[Office 365 플랫폼 서비스 설명](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |가용성에 대한 각 Advanced eDiscovery 추가되었습니다.  <br/> |
 ||[Office 365 계획 옵션](office-365-platform-service-description/office-365-plan-options.md) <br/> |각 Exchange Online 옵션 비즈니스용 Skype 페이지에 Exchange Online 및 계획 옵션에 포함된 계획 옵션이 추가되었습니다.  <br/> |
-||[보안 &amp; 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |각주 아니요에 다음이 추가되었습니다. 1: "사서함에 적용되는 보존 정책에는 E3 또는 E5가 필요합니다."  <br/> |
-||[보안 &amp; 및 준수 센터](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |가용성에 대한 각 Advanced eDiscovery 추가되었습니다.  <br/> |
+||[Microsoft 365 규정 준수를 위한 지침 &amp;](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance) <br/> |각주 아니요에 다음이 추가되었습니다. 1: "사서함에 적용되는 보존 정책에는 E3 또는 E5가 필요합니다."  <br/> |
+||[Microsoft 365 규정 준수를 위한 지침 &amp;](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance) <br/> |가용성에 대한 각 Advanced eDiscovery 추가되었습니다.  <br/> |
 ||[21Vianet에서 운영하는 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Microsoft Forms 설명이 추가되었습니다.  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |미국 Office 365 정보가 추가되었습니다.  <br/> |
 ||[21Vianet에서 운영하는 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |RMS를 사용하여 IRM(정보 권한 Windows Server AD 업데이트되었습니다.  <br/> |
@@ -172,6 +172,6 @@ ms.locfileid: "62083399"
 |웹용 Office  <br/> |[웹용 Office 서비스 설명](office-online-service-description/office-online-service-description.md) <br/> |추가된 Visio.  <br/> |
 |Exchange Online  <br/> |[Exchange Online 서비스 설명](exchange-online-service-description/exchange-online-service-description.md) <br/> |"보존 태그 및 보존 정책"이 "MRM(메시징 레코드 관리) 보존 태그 및 보존 정책"으로 변경  <br/> |
 ||[음성 메시지 서비스](/exchange/plan-and-deploy/integration-with-sharepoint-and-skype/integration-with-sharepoint-and-skype) <br/> |SBC를 통해 통합 메시징에 대한 Exchange Online 종료 알림을 포함하기 위해 업데이트되었습니다.  <br/> |
-| 작업 공간 분석  <br/> |[Workplace Analytics 서비스 설명](workplace-analytics-service-description.md) <br/> |새 서비스 설명이 추가되었습니다.  <br/> |
+| Workplace Analytics  <br/> |[Workplace Analytics 서비스 설명](workplace-analytics-service-description.md) <br/> |새 서비스 설명이 추가되었습니다.  <br/> |
 |여러 개  <br/> |여러 개  <br/> |Azure RMS의 이름을 AIP(Azure Information Protection)로 변경했습니다.  <br/> |
 |여러 개  <br/> |여러 개  <br/> |독일 웹용 Office 및 Office 운영하는 Office 365 비교 Office 365 비교 정보가 제거되었습니다. 서비스 설명 페이지에서 동일한 콘텐츠에 웹용 Office 추가되었습니다.  <br/> |
