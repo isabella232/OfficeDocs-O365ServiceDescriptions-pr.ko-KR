@@ -10,13 +10,8 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 미국 공공 부문의 고유하고 진화하는 요구 사항에 대응하여 Office 365 미국 정부 플랜(또는 Office 365 Government)를 Office 365 Government. 이 문서에서는 미국 환경의 특정 기능에 Office 365 Government 제공합니다.
-ms.openlocfilehash: 0af25d355b0ffb7a63379fa9abca7deb53a8050b
-ms.sourcegitcommit: 676e301238f7e8b910cc61ec96ba3327b9b4fb73
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 02/03/2022
-ms.locfileid: "62332353"
 ---
+
 # <a name="office-365-government"></a>Office 365 Government
 
 > [!IMPORTANT]
@@ -271,7 +266,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 <br/><sup>21</sup> Microsoft 365 감사는 조직의 여러 서비스에서 다양한 유형의 감사 활동을 조직에 Microsoft 365. Security [& 준수](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 센터 감사 로그 검색을 사용하여 조직의 사용자 및 관리자 활동을 볼 수 있습니다. 관리 활동 API를 사용하여 [](/office/office-365-management-api/office-365-management-activity-api-reference) Office 365 감사 로그에서 이벤트를 검색할 수도 있습니다. 사용자 또는 관리자가 감사 활동을 수행하면 감사 레코드가 생성되어 고객 조직에 대한 감사 로그에 저장됩니다. 감사 레코드가 보존되는 기간(감사 로그에서 검색 가능)은 고객의 Office 365 또는 Microsoft 365 Enterprise 구독 및 특정 사용자에게 할당된 라이선스 유형에 따라 다릅니다.
 <br/><sup>22</sup> 대상 지정 릴리스는 Office 365 Government 아직 사용할 수 없지만 곧 제공될 예정입니다.
 <br/><sup>23</sup> Stream(클래식)이 결국 Stream(클래식)으로 SharePoint.
-<br/><sup>24</sup> Stream(Sharepoint)을 사용하여 Sharepoint, OneDrive 및 Teams.  이는 모든 정부 서비스에서 이미 지원됩니다.  M365 로드맵에는 Office, 닫힌 캡션, 기록 등의 추가 향상된 스트림 시작 페이지가 있습니다.
+<br/><sup>24</sup> Stream(SharePoint)을 사용하여 비디오를 SharePoint, OneDrive Teams.  이는 모든 정부 서비스에서 이미 지원됩니다.  M365 로드맵에는 Office, 닫힌 캡션, 기록 등의 추가 향상된 스트림 시작 페이지가 있습니다.
 
 ## <a name="office-application-availability-and-enterprise-value"></a>Office 및 엔터프라이즈 가치 제공
 
