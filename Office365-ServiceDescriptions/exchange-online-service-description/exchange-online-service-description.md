@@ -6,21 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
-- exchange-online-service-description
+  - exchange-online-service-description
 ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom:
-- Adm_ServiceDesc_top
-- Adm_ServiceDesc
+  - Adm_ServiceDesc_top
+  - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 구독이 포함된 기능 비교를 Exchange Online? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: 221989f56a2779dc5f8da3beefff85af8d1ce5cd
-ms.sourcegitcommit: 4e715887072acabf402e811298171d619a7c83fe
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62271090"
 ---
+
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
 Microsoft Exchange Online PC, 웹 및 모바일 장치에서 전자 메일, 일정, 연락처 및 작업을 전달하는 호스팅 메시징 솔루션입니다. 또한 관리자와 Azure Active Directory 통합되어 관리자가 그룹 정책 및 기타 관리 도구를 사용하여 해당 환경에서 Exchange Online 기능을 관리할 수 있습니다.
@@ -63,9 +58,9 @@ Microsoft 365 요구 사항을 가장 잘 충족하기 위해 다양한 계획�
 ||POP 및 IMAP|예|예|예|예<sup>2</sup>|예|예<sup>3</sup>|
 ||EWS 응용 프로그램 지원, Outlook <sup>Windows 1, mac1</sup>용 Outlook <sup>지원</sup>|예|예|예|아니요|예|아니요|
 ||기본 모바일 및 보안 for Microsoft 365|예|예|예|예|||
-|**[메시지 정책 및 규정 준수](/exchange/policy-and-compliance/policy-and-compliance)**|[보관 Exchange Online 기반 사서함](/exchange/policy-and-compliance/in-place-archiving/in-place-archiving)|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|아니오|예|예|
-||온-프레미스 사서함의 클라우드 기반 보관|아니오|예|예|아니요|예<sup>5</sup>|예|
-||[수동 보존 정책, 레이블 및 태그](/exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)|아니오|예|예|예|예|예|
+|**[메시지 정책 및 규정 준수](/exchange/policy-and-compliance/policy-and-compliance)**|[보관 Exchange Online 기반 사서함](/exchange/policy-and-compliance/in-place-archiving/in-place-archiving)|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|아니요|예|예|
+||온-프레미스 사서함의 클라우드 기반 보관|아니요|예|예|아니요|예<sup>5</sup>|예|
+||[수동 보존 정책, 레이블 및 태그](/exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)|아니요|예|예|예|예|예|
 ||[Azure Information <sup>Protection6</sup>, Office 365 메시지 암호화](/exchange/policy-and-compliance/in-place-archiving/in-place-archiving)<sup>7</sup> 및 Customer <sup>Key8</sup>을 사용하는 IRM|아니요|아니요|예|아니요|아니요|아니요|
 ||In-Place, 소송 자료 보호 및 데이터 손실 방지|아니요|아니요|예|아니요|예<sup>5</sup>|예|
 ||보관된 데이터 암호화(BitLocker), MRM(메시징 레코드 관리), S/MIME, 저널링, In-Place eDiscovery9,<sup></sup> 전송 규칙<sup>10, RMS11</sup>을 Windows Server AD IRM<sup></sup>|예|예|예|예|예|예|
@@ -75,7 +70,7 @@ Microsoft 365 요구 사항을 가장 잘 충족하기 위해 다양한 계획�
 ||Microsoft 365 그룹|예|예|예|예|예<sup>12</sup>|아니요|
 
 <sup>1</sup> 일부 타사 웹 파트 및 추가 기능을 사용할 수 없습니다. <br/>
-<sup>2</sup> Windows Server AD RMS는 지원되는 IRM 기능을 사용하려면 별도로 구입 및 관리해야 하는 사내 서버입니다. <br/>
+<sup>2</sup> POP는 지원되지만 IMAP는 지원되지 않습니다. <br/>
 <sup>3</sup> IMAP는 지원되지 않습니다. <br/>
 <sup>4</sup> 비활성 사서함 또는 보관 기능이 필요한 각 사서함에 대해 EOA 구독을 별도로 구매할 수 있습니다. <br/>
 <sup>5</sup> 계획 2만 해당합니다. <br/>
