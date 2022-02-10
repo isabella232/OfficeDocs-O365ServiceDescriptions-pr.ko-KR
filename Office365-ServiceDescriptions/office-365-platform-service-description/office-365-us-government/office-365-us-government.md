@@ -10,8 +10,13 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 미국 공공 부문의 고유하고 진화하는 요구 사항에 대응하여 Office 365 미국 정부 플랜(또는 Office 365 Government)를 Office 365 Government. 이 문서에서는 미국 환경의 특정 기능에 Office 365 Government 제공합니다.
+ms.openlocfilehash: 1e31ae611b94530e8fd90e972c17ff3444dd85a1
+ms.sourcegitcommit: 1de205ecf7df78abe558d71f1c225087501382b4
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 02/10/2022
+ms.locfileid: "62523143"
 ---
-
 # <a name="office-365-government"></a>Office 365 Government
 
 > [!IMPORTANT]
@@ -155,39 +160,39 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |기능|Office 365 Government G1|Office 365 Government G3|Office 365 Government G5|Office 365 Government F3|
 |---|---|---|---|---|
 |**Office 365 administration**|||||
-|관리 Microsoft 365 관리 센터 사용하여 Office 365|예<sup>16</sup>|예<sup>16</sup>|예|예<sup>16</sup>|
+|관리 Microsoft 365 관리 센터 사용하여 Office 365|예<sup>14</sup>|예<sup>14</sup>|예|예<sup>14</sup>|
 |Office 365에서 핵심 서비스 설정 관리|예|예|예|예|
 |Windows PowerShell을 사용하여 Office 365 관리|예|예|예|예|
-|Azure Information Protection을 사용하여 콘텐츠 보호|아니<sup>요1</sup>|예<sup>15</sup>|예<sup>15</sup>|예<sup>15</sup>|
+|Azure Information Protection을 사용하여 콘텐츠 보호|아니<sup>요1</sup>|예<sup>13</sup>|예<sup>13</sup>|예<sup>13</sup>|
 |**[Office 365 제품군 기능](../../office-365-platform-service-description/office-365-suite-features.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
-|Microsoft Bookings|아니요|예<sup>21</sup>|예<sup>21</sup>|아니요|
+|Microsoft Bookings|아니요|예<sup>19</sup>|예<sup>19</sup>|아니요|
 |Microsoft 브리핑 전자 메일|아니요|아니요|아니요|아니요|
 |Microsoft Power Automate|예|예|예|예|
 |Microsoft Forms|예|예|예<br/>|예</sup>|
 |Microsoft Graph API|예|예|예|예|
-|Microsoft MyAnalytics|아니요|아니요|예<sup>17</sup>|아니요|
+|Microsoft MyAnalytics|아니요|아니요|예<sup>15</sup>|아니요|
 |Microsoft Planner|예|예|예|예|
 |Microsoft PowerApps|예|예|예|예|
 |Microsoft StaffHub|아니요|아니요|아니요|아니요<br/>|
-|Microsoft Stream(클래식)|예<sup>17, 23</sup>|예<sup>17, 23</sup>|예<sup>17, 23</sup>|예<sup>17, 23,</sup>|
-|Microsoft Stream(SharePoint)|예<sup>24</sup>|예<sup>24</sup>|예<sup>24</sup>|예<sup>24</sup>|
+|Microsoft Stream(클래식)|예<sup>17, 22</sup>|예<sup>17, 22</sup>|예<sup>17, 22</sup>|예<sup>17, 22, 18</sup>|
+|Microsoft Stream(SharePoint)|예<sup>23</sup>|예<sup>23</sup>|예<sup>23</sup>|예<sup>23</sup>|
 |Microsoft Sway|아니요|아니요|아니요|아니요|
 |Microsoft 팀|예|예|예|예|
-|Office Delve|예<sup>17</sup>|예<sup>17</sup>|예|예<sup>17</sup>|
+|Office Delve|예<sup>15</sup>|예<sup>15</sup>|예|예<sup>15</sup>|
 |Office 365 그룹|예|예|예|예|
 |**[사용자 계정 관리](../../office-365-platform-service-description/user-account-management.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |클라우드 ID, 페더레이션 ID 또는 다단계 인증|예|예|예|예|
 |Office 365 데스크톱 설정|예|예|예|예|
 |Office 365로 사용자 관리|예|예|예|예|
-|파일로 대량 .csv 업로드|예<sup>9</sup>|예<sup>9</sup>|예|예<sup>9</sup>|
+|파일로 대량 .csv 업로드|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|예<sup>7</sup>|
 |디렉터리 동기화 도구|예|예|예|예|
 |Exchange 단순(단독형) 마이그레이션|예|예|예|예|
 |계정 삭제 및 사용자 암호 Microsoft 365 또는 Windows PowerShell <sup>3</sup>|예|예|예|예|
 |사용자가 자신의 암호를 변경할 수 있음<sup>4</sup>|예|예|예|예|
-|라이선스 관리|예 <sup>7, 8</sup>|예 <sup>7, 8</sup>|예<sup>7, 8</sup>|예<sup>7,8</sup>|
+|라이선스 관리|예<sup>5, 6</sup>|예<sup>5, 6</sup>|예<sup>5, 6</sup>|예<sup>5, 6</sup>|
 |Office 365에서 보안 그룹 관리|예|예|예|예|
 |사용할 수 있는 여러 관리자 역할|예|예|예|예|
-|관리자가 사용자를 대신하여 Office 365를 관리하도록 허용|예<sup>11</sup>|예<sup>11</sup>|예<sup>11</sup>|예<sup>11</sup>|
+|관리자가 사용자를 대신하여 Office 365를 관리하도록 허용|예<sup>9</sup>|예<sup>9</sup>|예<sup>9</sup>|예<sup>9</sup>|
 |Azure Active Directory 서비스|예|예|예|예|
 |**[도메인](../../office-365-platform-service-description/domains.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |사용자 지정 2차 수준 도메인 추가(예: fourthcoffee.com)|예|예|예|예|
@@ -216,15 +221,15 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |IPv4 및 IPv6 프로토콜|예|예|예|예|
 |**트러스트**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |**[개인 정보, 보안 및 투명성](../../office-365-platform-service-description/privacy-security-and-transparency.md)**|||||
-|클라우드 앱 보안|<sup>No12, 19</sup>|<sup>No12, 19</sup>|예<sup>19</sup>|<sup>No12, 19</sup>|
-|Office 365용 Microsoft Defender|<sup>No12 </sup>|<sup>No12 </sup>|아니요|<sup>No12</sup>|
-|고객 Lockbox|<sup>No12</sup>|<sup>No12</sup>|예|<sup>No12</sup>|
+|클라우드 앱 보안|<sup>No10, 17</sup>|<sup>No10, 17</sup>|예<sup>17</sup>|<sup>No10, 17</sup>|
+|Office 365용 Microsoft Defender|<sup>No10, 16 </sup>|<sup>No10, 16 </sup>|예<sup>16</sup>|<sup>No10, 16</sup>|
+|고객 Lockbox|<sup>No10</sup>|<sup>No10</sup>|예|<sup>No10</sup>|
 |Customer <sup>Key20</sup> |아니요|아니요|예|아니요|
-|Advanced eDiscovery|<sup>No12</sup>|<sup>No12</sup>|예|<sup>No12</sup>|
+|Advanced eDiscovery|<sup>No10</sup>|<sup>No10</sup>|예|<sup>No10</sup>|
 |기본 <sup>Audit21</sup>|예|예|예|예|
 |고급 감사<sup>21</sup>|아니요|아니요|예|아니요|
-|Microsoft Secure <sup>Score14</sup>|예<sup>9, 15</sup>|예<sup>9, 15</sup>|예<sup>9, 15</sup>|예<sup>9, 15</sup>|
-|위협 인텔리전스|<sup>No12</sup>|<sup>No12</sup>|예|<sup>No12</sup>|
+|Microsoft Secure <sup>Score14</sup>|예<sup>7, 13</sup>|예<sup>7, 13</sup>|예<sup>7, 13</sup>|예<sup>7, 13</sup>|
+|위협 인텔리전스|<sup>No10</sup>|<sup>No10</sup>|예|<sup>No10</sup>|
 |**[규정 준수](/microsoft-365/compliance/offering-home)**|||||
 |SAS 70 / SSAE16 평가|예|예|예|예|
 |ISO 27001 인증|예|예|예|예|
@@ -238,8 +243,8 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |**[BlackBerry](../../office-365-platform-service-description/blackberry.md)**|**Office 365 Government G1**|**Office 365 Government G3**|**Office 365 Government G5**|**Office 365 Government F3**|
 |BIS(BlackBerry Internet Service) 사용|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|아니요<sup>2</sup>|
 |**[파트너](../../office-365-platform-service-description/partners.md)**|||||
-|지정된 계획을 사용하는 고객에 대한 평가판 초대 및 구매 주문 만들기|<sup>No11</sup>|<sup>No11</sup>|<sup>No11</sup>|<sup>No11</sup>|
-|위임된 관리 제공|<sup>No11</sup>|<sup>No11</sup>|<sup>No11</sup>|<sup>No11</sup>|
+|지정된 계획을 사용하는 고객에 대한 평가판 초대 및 구매 주문 만들기|아니<sup>요9</sup>|아니<sup>요9</sup>|아니<sup>요9</sup>|아니<sup>요9</sup>|
+|위임된 관리 제공|아니<sup>요9</sup>|아니<sup>요9</sup>|아니<sup>요9</sup>|아니<sup>요9</sup>|
 |**[서비스 수준 계약](../../office-365-platform-service-description/service-level-agreement.md)**|예|예|예|예|
 |**[제품 사용권](../../office-365-platform-service-description/product-use-rights.md)**|예|예|예|예|
 
@@ -259,14 +264,13 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 <br/><sup>14</sup> 관리 센터는 DoD 또는 고급 환경에서 사용 현황 GCC 않습니다.
 <br/><sup>15</sup> High 또는 DoD 환경에서는 GCC 지원되지 않습니다.
 <br/><sup>16</sup> 사용자 및 도메인 가장 및 스푸핑 인텔리전스에 대한 피싱 방지는 High 및 DoD에서 GCC 없습니다.
-<br/><sup>17</sup> High 또는 DoD 환경에서는 GCC 지원되지 않습니다.
+<br/><sup>17</sup> GCC 환경에서는 아직 사용할 수 없지만 곧 제공될 예정입니다.
 <br/><sup>18</sup> Microsoft Stream에만 사용: 게시 또는 공유가 없습니다.
 <br/><sup>19</sup> Microsoft Graph API 또는 Microsoft Teams.
 <br/><sup>20</sup> 자세한 내용은 고객 키를 사용하여 [서비스 암호화를 참조하세요](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697).
 <br/><sup>21</sup> Microsoft 365 감사는 조직의 여러 서비스에서 다양한 유형의 감사 활동을 조직에 Microsoft 365. Security [& 준수](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 센터 감사 로그 검색을 사용하여 조직의 사용자 및 관리자 활동을 볼 수 있습니다. 관리 활동 API를 사용하여 [](/office/office-365-management-api/office-365-management-activity-api-reference) Office 365 감사 로그에서 이벤트를 검색할 수도 있습니다. 사용자 또는 관리자가 감사 활동을 수행하면 감사 레코드가 생성되어 고객 조직에 대한 감사 로그에 저장됩니다. 감사 레코드가 보존되는 기간(감사 로그에서 검색 가능)은 고객의 Office 365 또는 Microsoft 365 Enterprise 구독 및 특정 사용자에게 할당된 라이선스 유형에 따라 다릅니다.
-<br/><sup>22</sup> 대상 지정 릴리스는 Office 365 Government 아직 사용할 수 없지만 곧 제공될 예정입니다.
-<br/><sup>23</sup> Stream(클래식)이 결국 Stream(클래식)으로 SharePoint.
-<br/><sup>24</sup> Stream(SharePoint)을 사용하여 비디오를 SharePoint, OneDrive Teams.  이는 모든 정부 서비스에서 이미 지원됩니다.  M365 로드맵에는 Office, 닫힌 캡션, 기록 등의 추가 향상된 스트림 시작 페이지가 있습니다.
+<br/><sup>22</sup> Stream(클래식)이 결국 Stream(클래식)으로 SharePoint.
+<br/><sup>23</sup> Stream(SharePoint)은 비디오를 SharePoint, OneDrive Teams.  이는 모든 정부 서비스에서 이미 지원됩니다.  M365 로드맵에는 Office, 닫힌 캡션, 기록 등의 추가 향상된 스트림 시작 페이지가 있습니다.
 
 ## <a name="office-application-availability-and-enterprise-value"></a>Office 및 엔터프라이즈 가치 제공
 

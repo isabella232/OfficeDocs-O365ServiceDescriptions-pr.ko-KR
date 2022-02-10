@@ -6,16 +6,21 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
-  - exchange-online-service-description
+- exchange-online-service-description
 ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom:
-  - Adm_ServiceDesc_top
-  - Adm_ServiceDesc
+- Adm_ServiceDesc_top
+- Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 구독이 포함된 기능 비교를 Exchange Online? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
+ms.openlocfilehash: ec9f521195c915a4641df08e4cda8a0f65769517
+ms.sourcegitcommit: 1de205ecf7df78abe558d71f1c225087501382b4
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 02/10/2022
+ms.locfileid: "62523173"
 ---
-
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
 Microsoft Exchange Online PC, 웹 및 모바일 장치에서 전자 메일, 일정, 연락처 및 작업을 전달하는 호스팅 메시징 솔루션입니다. 또한 관리자와 Azure Active Directory 통합되어 관리자가 그룹 정책 및 기타 관리 도구를 사용하여 해당 환경에서 Exchange Online 기능을 관리할 수 있습니다.
@@ -52,7 +57,7 @@ Microsoft 365 요구 사항을 가장 잘 충족하기 위해 다양한 계획�
 
 이러한 기능은 일부 계획에서 사용할 수 있습니다. 주의 사항은 자세한 내용은 각주를 참조하세요(이 표는 예고 없이 변경될 수 있습니다).
 
-| 기능 | 설명 | Microsoft 365 Business Basic, Standard 및 Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3/E5 | Office 365 Enterprise F3 | Exchange Online 계획 1/2 | Exchange Online Kiosk |
+| 기능 | 설명 | Microsoft 365 Business Basic, Standard 및 Premium | Office 365 E1 | Microsoft 365 E3/E5 & Office 365 E3/E5 | Microsoft 365 F3 & Office 365 F3 | Exchange Online 계획 1/2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[클라이언트 및 모바일 장치](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)**<img width=30/>|웹용 Outlook <sup>1</sup>, iOS <sup>및 Outlook,</sup> Exchange ActiveSync 및 SMTP용<img width=140/>|예<img width=60/>|예<img width=60/>|예<img width=60/>|예<img width=60/>|예|예|
 ||POP 및 IMAP|예|예|예|예<sup>2</sup>|예|예<sup>3</sup>|
@@ -88,7 +93,7 @@ Microsoft 365 요구 사항을 가장 잘 충족하기 위해 다양한 계획�
 
 Microsoft 365 스케줄러는 사용자가 디지털 Exchange Online 도우미에 일정 요구를 위임할 수 있도록 하는 추가 기능입니다. 도우미는 조직 내부 및 외부의 사용자와의 약속 및 모임을 예약하고 다시 예약할 수 있습니다. 도우미 사서함은 테넌트에 의해 설정 및 제어됩니다. 스케줄러를 사용하도록 설정하려면 관리자는 PowerShell cmdlet을 통해 도우미의 사서함을 설정하고 모임 이끌이에 대한 라이선스를 구입해야 합니다. 스케줄러와 작동 방식에 대한 자세한 내용은 [Welcome to Scheduler for Microsoft 365](/microsoft-365/scheduler/scheduler-overview#how-does-scheduler-for-microsoft-365-work). 스케줄러 가격 책정 및 라이선싱에 대한 자세한 내용은 Microsoft 365 [참조합니다](https://www.microsoft.com/microsoft-365/meeting-scheduler-pricing).
 
-## <a name="learn-more"></a>자세히 알아보기
+## <a name="learn-more"></a>자세한 정보
 
 자세한 내용은 Exchange Online 리소스를 참조하십시오.
 

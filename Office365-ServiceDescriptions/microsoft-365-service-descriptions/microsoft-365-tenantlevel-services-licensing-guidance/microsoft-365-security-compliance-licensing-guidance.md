@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 Microsoft 365 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: 332d47838d70acd75604d03f86ac985c66d393d6
-ms.sourcegitcommit: 4e715887072acabf402e811298171d619a7c83fe
+ms.openlocfilehash: 2eadbb9481dc803863c5053a26cd42c7afab6976
+ms.sourcegitcommit: 1de205ecf7df78abe558d71f1c225087501382b4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62271120"
+ms.lasthandoff: 02/10/2022
+ms.locfileid: "62523163"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 지침 &amp;
 
@@ -759,11 +759,11 @@ Microsoft Graph DLP Teams 및 Teams 내보내기용 API는 테넌트 수준 값�
 
 ## <a name="office-365-cloud-app-security"></a>Office 365 Cloud App Security
 
-Office 365 Cloud App Security(OCAS)는 Microsoft Cloud App Security 클라우드 앱 및 IaaS 서비스에 대한 추가 보안 없이 Office 365 기능으로 제한됩니다.
+Office 365 Cloud App Security(OCAS)는 클라우드 앱용 Microsoft Defender의 하위 집합으로, 타사 클라우드 앱 및 IaaS 서비스에 대한 추가 Office 365 없는 기능으로 제한됩니다.
 
 OCAS는 조직이 생산성 클라우드 앱 및 서비스를 볼 수 있도록 하여 사이버 위협을 식별하고 퇴치하기 위한 정교한 분석을 제공하며,&mdash; 데이터가 이동하는 방법을 제어할 수 Office 365.
 
-기능을 비교하기 위해 각 기능과 Microsoft Cloud App Security [차이점을 Office 365 Cloud App Security](/cloud-app-security/editions-cloud-app-security-o365).
+기능을 비교하기 위해 [클라우드 앱용 Microsoft Defender](/cloud-app-security/editions-cloud-app-security-o365)와 클라우드 앱 간의 차이점을 Office 365 Cloud App Security.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
 
@@ -772,13 +772,12 @@ OCAS는 섀도 IT를 검색하고, 여러 Office 365 보호를 제공하며, 데
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
 Office 365 E5/A3/A5/G5는 사용자가 OCAS를 혜택을 받을 수 있는 권한을 제공합니다.
-자세한 내용은 라이선스 데이터[시트의 Microsoft Cloud App Security 참조하세요](https://www.aka.ms/mcaslicensing).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
 기본적으로 OCAS 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다.
 
-서비스 구성에 대한 자세한 내용은 기본 설치를 [Cloud App Security.](/cloud-app-security/general-setup)
+서비스 구성에 대한 자세한 내용은 [Cloud Apps용 Defender에 대한 기본 설정을 참조하세요](/cloud-app-security/general-setup).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 사용이 허가된 테넌트의 사용자에게만 서비스를 적용할 수 있는 방법
 

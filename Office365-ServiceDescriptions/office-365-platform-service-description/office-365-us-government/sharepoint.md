@@ -10,12 +10,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 미국 정부 클라우드 고객의 SharePoint 기능 가용성에 대해 자세히 알아보습니다.
-ms.openlocfilehash: e36cd90748732166c9b3ddfe7ba3362a268c5e1d
-ms.sourcegitcommit: 676e301238f7e8b910cc61ec96ba3327b9b4fb73
+ms.openlocfilehash: 762c6a097a8a150d80ce224b27da75146c8862f9
+ms.sourcegitcommit: 1de205ecf7df78abe558d71f1c225087501382b4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/03/2022
-ms.locfileid: "62332373"
+ms.lasthandoff: 02/10/2022
+ms.locfileid: "62523153"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint 환경용 데이터
 
@@ -81,9 +81,7 @@ SharePoint Syntex 대한 자세한 내용은 SharePoint Syntex [기능 서비스
 
 ## <a name="search-features"></a>검색 기능
 
-다음은 상업적 고객을 위한 검색 기능과 정부 클라우드 고객을 위한 검색 기능의 차이점입니다.
-
-- Microsoft Search 사용할 수 GCC.
+GCC High 및 DoD 환경 내에서 특정 Microsoft Search 기능의 가용성에 GCC 자세한 내용은 다음 표를 [참조하세요](/MicrosoftSearch/microsoft-search-us-government-environments#microsoft-search-features).
 
 ## <a name="sharing-and-sync"></a>공유 및 동기화
 
