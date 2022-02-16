@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 Microsoft 365 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: 2eadbb9481dc803863c5053a26cd42c7afab6976
-ms.sourcegitcommit: 1de205ecf7df78abe558d71f1c225087501382b4
+ms.openlocfilehash: 47801b97f41317c24f6be121ca5144dea142bf1c
+ms.sourcegitcommit: dc988a858c4df5da81edfef407a01f917a37c52c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "62523163"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "62824380"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 지침 &amp;
 
@@ -564,11 +564,13 @@ Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
-기본적으로 Id에 대한 Microsoft Defender 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. Azure ATP 구성에 대한 자세한 내용은 [Create your Microsoft Defender for Identity instance를 참조하세요](/defender-for-identity/install-step1).
+기본적으로 Id에 대한 Microsoft Defender 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다.  ID에 대해 Microsoft Defender를 구성하는 데 대한 자세한 내용은 [Id용 Microsoft Defender 인스턴스 만들기를 참조하세요](/defender-for-identity/install-step1).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 사용이 허가된 테넌트의 사용자에게만 서비스를 적용할 수 있는 방법
 
-Microsoft Defender for Identity Services는 현재 특정 사용자로 기능을 제한할 수 없습니다. 혜택을 제공하려는 모든 사용자에게 라이선스를 부여해야 합니다.
+Microsoft Defender for Identity Services는 현재 특정 사용자로 기능을 제한할 수 없습니다. 혜택을 제공하려는 모든 사용자에게 라이선스를 부여해야 합니다. 한 사용자가 Active Directory에 여러 계정을 사용할 수 있는 경우(예: 서로 다른 도메인/포리스트에 대한 다른 관리 계정) 이 사용자에 대해 하나의 라이선스만 있는 것이 요구됩니다.
+
+마찬가지로 서비스 계정이나 자동화를 용이하게 하는 계정의 라이선스를 부여할 필요는 없습니다. 휴먼 사용자만 사용이 허가됩니다.
 
 ## <a name="microsoft-defender-for-office-365"></a>Office 365용 Microsoft Defender
 
