@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 미국 공공 부문의 고유하고 진화하는 요구 사항에 대응하여 Office 365 미국 정부 플랜(또는 Office 365 Government)를 Office 365 Government. 이 문서에서는 미국 환경의 특정 기능에 Office 365 Government 제공합니다.
-ms.openlocfilehash: 1e31ae611b94530e8fd90e972c17ff3444dd85a1
-ms.sourcegitcommit: 1de205ecf7df78abe558d71f1c225087501382b4
+ms.openlocfilehash: 54cf0844c183a890d1d16862560e5bfdb33cd706
+ms.sourcegitcommit: ae6f4e3358208d38b682034ca880fc3727c79a7e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "62523143"
+ms.lasthandoff: 02/18/2022
+ms.locfileid: "62894435"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -174,7 +174,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |Microsoft Planner|예|예|예|예|
 |Microsoft PowerApps|예|예|예|예|
 |Microsoft StaffHub|아니요|아니요|아니요|아니요<br/>|
-|Microsoft Stream(클래식)|예<sup>17, 22</sup>|예<sup>17, 22</sup>|예<sup>17, 22</sup>|예<sup>17, 22, 18</sup>|
+|Microsoft Stream(클래식)|예<sup>17, 22</sup>|예<sup>17, 22</sup>|예<sup>17, 22</sup>|예<sup>17, 18, 22</sup>|
 |Microsoft Stream(SharePoint)|예<sup>23</sup>|예<sup>23</sup>|예<sup>23</sup>|예<sup>23</sup>|
 |Microsoft Sway|아니요|아니요|아니요|아니요|
 |Microsoft 팀|예|예|예|예|
@@ -228,7 +228,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |Advanced eDiscovery|<sup>No10</sup>|<sup>No10</sup>|예|<sup>No10</sup>|
 |기본 <sup>Audit21</sup>|예|예|예|예|
 |고급 감사<sup>21</sup>|아니요|아니요|예|아니요|
-|Microsoft Secure <sup>Score14</sup>|예<sup>7, 13</sup>|예<sup>7, 13</sup>|예<sup>7, 13</sup>|예<sup>7, 13</sup>|
+|Microsoft Secure <sup>Score12</sup>|예<sup>7, 13</sup>|예<sup>7, 13</sup>|예<sup>7, 13</sup>|예<sup>7, 13</sup>|
 |위협 인텔리전스|<sup>No10</sup>|<sup>No10</sup>|예|<sup>No10</sup>|
 |**[규정 준수](/microsoft-365/compliance/offering-home)**|||||
 |SAS 70 / SSAE16 평가|예|예|예|예|
