@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 사용이 Microsoft 365 액세스로 인한 잠재적인 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: 47801b97f41317c24f6be121ca5144dea142bf1c
-ms.sourcegitcommit: dc988a858c4df5da81edfef407a01f917a37c52c
+ms.openlocfilehash: f0cd1a14cc033af5186fbfb96c4f6042da21c584
+ms.sourcegitcommit: ed725df6c4434cc1fb09f892b92727858d383665
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "62824380"
+ms.lasthandoff: 02/18/2022
+ms.locfileid: "62900047"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 규정 준수를 위한 지침 &amp;
 
@@ -500,9 +500,9 @@ Microsoft 365 F3/Business Premium, Office 365 E5/A5/G5/E3/A3/G3/E1/A1/G1/F3 및 
 
 Microsoft 365 F3/F1/Business Premium, Office 365 E5/A5/G5/E3/A3/G3/F3/E1/A1/G1 및 독립 실행형 SharePoint 요금제는 사용자가 레코드가 아닌 보존 레이블을 SharePoint 또는 파일의 파일에 수동으로 적용할 수 있는 권한을 OneDrive.
 
-Microsoft 365 E5/A5/G5/E3/A3/Business Premium, Office 365 E5/A5/G5/E3/A3, Exchange 계획 2 및 Exchange Online Archiving 조직 전체 또는 위치 전체 사서함 보존 정책의 혜택을 받을 수 있는 권한을 사용자에게 제공합니다.
+Microsoft 365 E5/A5/G5/E3/G3/Business Premium, Office 365 E5/A5/G5/E3/A3/G3, Exchange 계획 2 및 Exchange Online Archiving 조직 전체 또는 위치 전체 사서함 보존 정책의 혜택을 받을 수 있는 권한을 사용자에게 제공합니다.
 
-Microsoft 365 E5/A5/G5/E3/A3, Office 365 E5/A5/G5/E3/A3 및 SharePoint 계획 2는 사용자가 기본 SharePoint 또는 OneDrive 보존 정책을 통해 혜택을 받을 수 있는 권한을 제공하고, 또는 파일에 기록되지 않은 보존 레이블을 수동으로 적용할 수 있는 권한을 제공합니다. SharePoint OneDrive.
+Microsoft 365 E5/A5/G5/E3/A3/G3, Office 365 E5/A5/G5/E3/A3/G3 및 SharePoint 계획 2는 사용자가 기본 SharePoint 또는 OneDrive 보존 정책을 통해 혜택을 받을 수 있는 권한을 제공하고, 또는 파일에 기록되지 않은 보존 레이블을 수동으로 적용할 수 있는 권한을 제공합니다. SharePoint OneDrive.
 
 조직은 보존 정책을 사용하여 정책에 따라 Teams 보존하거나 삭제할 수 있습니다. 여기에는 채팅 및 대화에서 Teams 관리가 포함됩니다.
 
@@ -550,7 +550,7 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 F5 보안 & 규
 
 Microsoft 365 규정 준수 센터 정책을 만들 때 사용자 및 그룹 선택 페이지에서 사용자 또는 그룹 선택  을 선택하여 사용이 허가된 사용자  만 선택하거나 모든 사용자에게 라이선스가 부여된 경우 모든 사용자 및 메일 사용 가능 그룹 확인란을 선택할 수 있습니다. 자세한 내용은 내부자 위험 관리 [시작을 참조하세요](/microsoft-365/compliance/insider-risk-management-configure).
 
-## <a name="microsoft-defender-for-identity"></a>Microsoft Defender for Identity
+## <a name="microsoft-defender-for-identity"></a>ID용 Microsoft Defender
 
 Id용 Microsoft Defender(이전의 Azure Advanced Threat Protection)는 여러 유형의 고급 대상 사이버 공격 및 내부자 위협으로부터 엔터프라이즈 하이브리드 환경을 보호하는 데 도움이 되는 클라우드 서비스입니다.
 
