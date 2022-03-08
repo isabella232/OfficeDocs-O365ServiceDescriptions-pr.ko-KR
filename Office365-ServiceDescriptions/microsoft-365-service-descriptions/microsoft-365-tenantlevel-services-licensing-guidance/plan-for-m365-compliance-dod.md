@@ -8,17 +8,17 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
-description: 이 지침은 미국 연방 정부 기관 또는 정부 규정 및 요구 사항을 준수하는 데이터를 처리하는 기타 엔터티에서 Office 365 배포를 주도하는 IT 프로를 위한 것입니다. 이러한 요구 사항을 충족하는 데 Microsoft 365 Government – DoD를 사용하는 것이 적절합니다.
-ms.openlocfilehash: f400e2a7d6a6ee127247490f3c0f566fd0d7d74f
-ms.sourcegitcommit: dc988a858c4df5da81edfef407a01f917a37c52c
+description: 이 지침은 미국 연방 정부 Office 365 기관 또는 정부 규정 및 요구 사항을 준수하는 데이터를 처리하는 기타 엔터티에서 Microsoft 365 배포를 주도하는 IT 프로를 위한 것입니다. DoD를 사용하는 것이 이러한 요구 사항을 충족하는 데 적절합니다.
+ms.openlocfilehash: 17a1a0a95dfafa3d35bb7e8da249609d59ce5244
+ms.sourcegitcommit: 36cce83d0f146c904ca02a251ba02a5ab913e3ef
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "62824381"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63382889"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 규정 준수 - DoD 배포 계획
 
-이 지침은 미국 연방 정부 기관 또는 정부 규정 및 요구 사항을 준수하는 데이터를 처리하는 기타 엔터티에서 Office 365 배포를 주도하는 IT 프로를 위한 것입니다. 이러한 요구 사항을 충족하는 데 Microsoft 365 Government – DoD를 사용하는 것이 적절합니다.
+이 지침은 미국 연방 정부 Office 365 기관 또는 정부 규정 및 요구 사항을 준수하는 데이터를 처리하는 기타 엔터티에서 Microsoft 365 배포를 주도하는 IT 프로를 위한 것입니다. DoD를 사용하는 것이 이러한 요구 사항을 충족하는 데 적절합니다.
 
 > [!NOTE]
 > 조직이 이미 Microsoft 365 Government – DoD 자격 요구 사항을 충족하고 프로그램에 적용되고 프로그램에 수락된 경우 1단계와 2단계를 건너뛰고 3단계로 바로 이동하면 됩니다.
@@ -27,7 +27,7 @@ ms.locfileid: "62824381"
 
 Microsoft 365 - DoD 환경은 클라우드 서비스에 대한 미국 정부 요구 사항을 준수합니다.
 
-조직은 조직의 기능과 기능을 Office 365 Government - DoD에 고유한 다음과 같은 Microsoft 365 이점을 제공합니다.
+조직에서는 조직의 기능과 기능을 Office 365 Government - DoD에 고유한 다음과 Microsoft 365 이점을 제공합니다.
 
 - 조직의 고객 콘텐츠는 Microsoft의 상용 서비스에서 고객 콘텐츠와 Office 365 있습니다.
 - 조직의 고객 콘텐츠는 미국에 보관됩니다.
@@ -36,10 +36,10 @@ Microsoft 365 - DoD 환경은 클라우드 서비스에 대한 미국 정부 요
 
 미국 정부 고객을 위한 Microsoft 365 - DoD 제공에 대한 자세한 내용은 자격 요구 사항을 포함하여 Office 365 Government 계획에서 찾을 [](https://products.office.com/government/compare-office-365-government-plans)수 있습니다.
 
-이 [Office 365 미국](../../office-365-platform-service-description/office-365-us-government/office-365-us-government.md) 정부 서비스 설명에서는 미국 내 규정 준수 요구 사항을 충족하는 데 중심을 두는 플랫폼의 이점에 대해 설명하고 있습니다.
+이 [Office 365 미국](../../office-365-platform-service-description/office-365-us-government/office-365-us-government.md) 정부 서비스 설명에서는 미국 내 규정 준수 요구 사항을 충족하는 데 중심을 두는 플랫폼의 이점에 대해 설명합니다.
 
 > [!TIP]
-> 서비스 설명의 정보 표를 Excel 통합 문서로 전송하고 조직의 **Y/N** 과 관련이 있으며 조직의 요구 사항을 충족하는 두 개의 열을 추가할 수 **있습니다**. 그런 다음 이 목록을 동료와 검토하여 이 서비스가 조직의 요구 사항을 충족하는지 확인할 수 있습니다.
+> 서비스 설명의 정보 표를 Excel 통합 문서로 전송하고 조직의 **Y/N** 과 관련된 두 개의 열을 추가하고 조직의 **Y/N** 요구 사항을 충족할 수 있습니다. 그런 다음 이 목록을 동료와 검토하여 이 서비스가 조직의 요구 사항을 충족하는지 확인할 수 있습니다.
 
 **결정 지점**:<br/>
 - *조직에 Microsoft 365 - DoD가 조직에 적합한지 여부를 결정하십시오.*
@@ -58,12 +58,12 @@ Microsoft 365 - DoD 환경은 클라우드 서비스에 대한 미국 정부 요
 
 **의사** 결정 지점: *기본 Microsoft 365 Government - DoD* 보안 설정을 수정할지 여부를 결정하여 변경 내용이 미치는 영향을 먼저 파악합니다.
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>4단계. Government – <sup>DoD1</sup>에서 현재 사용할 수 없거나 사용하지 않도록 설정되어 있는 Microsoft 365 이해
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>4단계. Government – <sup>DoD1</sup>에서 현재 사용할 수 없거나 사용하지 않도록 설정되어 있는 Microsoft 365 기능 이해
 
-정부 클라우드 고객의 요구 사항을 충족하기 위해 정부- DoD 및 엔터프라이즈 Microsoft 365 몇 가지 차이점이 있습니다. 다음 표를 참조하여 사용 가능한 기능을 참조합니다. 이 [로드](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent)맵에 게시된 최신 준수 제품 업데이트는 Microsoft 365 참조하세요.<br><br>
+정부 클라우드 고객의 요구 사항을 충족하기 위해 정부- DoD 및 엔터프라이즈 계획 Microsoft 365 몇 가지 차이점이 있습니다. 다음 표를 참조하여 사용 가능한 기능을 참조합니다. 이 [로드](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent)맵에 게시된 최신 규정 준수 제품 업데이트는 Microsoft 365 참조하세요.<br><br>
 
-| 영역  | 기능  | DoD 상태  |
-|-------|----------|-------------|
+| 영역  | 기능 | DoD 상태 |
+|-------|---------|-------------|
 | **정보 보호**  | | |
 | 중요한 정보 유형  | 정확한 데이터 일치  | 사용 가능  |
 | | 명명된 엔터티 중요한 정보 유형 및 정책 제작 템플릿 | 개발 중  |
@@ -71,12 +71,12 @@ Microsoft 365 - DoD 환경은 클라우드 서비스에 대한 미국 정부 요
 | | 온라인 문서 라이브러리에 업로드된 레이블이 없는 파일에 "기본 레이블"SharePoint 적용 | 개발 중 |
 | | 기본 레이블 정책을 적용하여 문서를 편집할 수 있도록 합니다. | 개발 중 |
 | | Exchange Online, SharePoint Online 및 비즈니스용 OneDrive  | 사용 가능 |
-| | 플랫폼(웹, Windows 및 Mac)에서 Office 앱(Word, Excel, PowerPoint, Outlook)에 대한 자동 분류 및 레이블 지정  | 사용 가능  |
+| | 플랫폼(Web, Windows 및 Mac)에서 Office 앱(Word, Excel, PowerPoint, Outlook)에 대한 자동 분류 및 레이블 지정  | 사용 가능  |
 | | Office 클라이언트에 대한 자동 분류 및 레이블 지정 - 모바일  | 백로그 엔지니어링  |
 | | Teams, Microsoft 365 그룹 및 SharePoint 분류 및 레이블 지정  | 사용 가능  |
 | | 암호화 문서에 Microsoft Information Protection 공동 작성| 사용 가능  |
-| | SharePoint Online 및 2016에서 자동 레이블 지정에 대한 향상된 시뮬레이션 및 위치 비즈니스용 OneDrive | 배포 중  |
-| | Perview를 사용하여 기본 제공 민감도 레이블을 Azure의 자산으로 Microsoft Azure 확장 | 개발 중  |
+| | 온라인 및 SharePoint 자동 레이블 지정에 대한 향상된 시뮬레이션 및 위치 비즈니스용 OneDrive | 배포 중  |
+| | Purview를 사용하여 기본 제공 민감도 레이블을 Azure의 자산으로 Microsoft Azure 확장 | 개발 중  |
 | | 온라인 사이트에 대해 "민감도 레이블"을 통해 세부적인 SharePoint 액세스 정책 | 백로그 엔지니어링  |
 | | 필수 레이블  | 사용 가능  |
 | | 수동 레이블  | 사용 가능  |
@@ -90,7 +90,7 @@ Microsoft 365 - DoD 환경은 클라우드 서비스에 대한 미국 정부 요
 | 암호화  | 기본 Office 365 메시지 암호화(E3) | 사용 가능 |
 | | 고급 Office 365 메시지 암호화(E5) | TBD |
 | | Office 365에 대한 고객 키 | 사용 가능 |
-| | 고객 키: 사용자에 대한 미사용 데이터 Microsoft 365 | 사용 가능 |
+| | 고객 키: 사용자에 대한 저장 데이터 Microsoft 365 | 사용 가능 |
 | | 고객 키: SharePoint 온라인 및 비즈니스용 OneDrive | 사용 가능 |
 | | 고객 관리 키 프로비전 수명 주기를 위해 BYOK(Bring Your Own Key)를 가져오기 | 사용 가능 |
 | | 이중 키 암호화  | 사용 가능 |
@@ -99,7 +99,7 @@ Microsoft 365 - DoD 환경은 클라우드 서비스에 대한 미국 정부 요
 | | 파일 및 전자 메일에 대한 데이터 손실 방지 | 사용 가능 |
 | | 데이터 손실 방지: 활동 탐색기에 표시됩니다. | 사용 가능 |
 | | 데이터 손실 방지: 끝점 | 사용 가능 |
-| | 데이터 손실 방지: Microsoft Defender for Apps(이전 Microsoft Cloud App Security) 통합 | 사용 가능 |
+| | 데이터 손실 방지: 클라우드 앱용 Microsoft Defender(이전 Microsoft Cloud App Security) 통합 | 사용 가능 |
 | | On-prem에 대한 데이터 손실 방지 | 개발 중 |
 | | 데이터 손실 방지: 개요 페이지 | 사용 가능 |
 | | 데이터 손실 방지: Teams 및 채널 대화 | 사용 가능 |
@@ -145,14 +145,14 @@ Microsoft 365 - DoD 환경은 클라우드 서비스에 대한 미국 정부 요
 | | 통신 규정 준수: 시간의에 따라 반복되는 행동 위반 감지 | 사용 가능 |
 | | 커뮤니케이션 규정 준수: 차별 분류자 | 배포 중 |
 | | 통신 규정 준수: 에스컬레이터에서 Advanced eDiscovery | 사용 가능 |
-| | 커뮤니케이션 규정 준수: Exchange Teams 지원 | 사용 가능 |
+| | 통신 규정 준수: Exchange Teams 지원 | 사용 가능 |
 | | 통신 준수: 정책 상태 검사 및 정책 일시 중지 능력  | 개발 중  |
 | | 통신 규정 준수: Power Automate 통합 | 개발 중 |
-| | 통신 준수: Teams 채널에서 Teams 메시지 제거 | 사용 가능 |
+| | 통신 준수: Teams 또는 채널에서 Teams 메시지 제거 | 사용 가능 |
 | | 통신 준수: 위치 보고서당 중요한 정보 유형  | 개발 중 |
 | | 커뮤니케이션 규정 준수: 보다 세부적인 사용 권한 지원 | 사용 가능 |
 | | 커뮤니케이션 규정 준수: 위협, 대상 괴롭음 및 비언어 분류자에 대한 7개 언어 지원  | 사용 가능 |
-| | 커뮤니케이션 규정 준수: Teams, Exchange 및 메시지 제거 기능을 Teams 지원 | 사용 가능 |
+| | 통신 규정 준수: 메시지 Teams, Exchange 및 제거 기능을 Teams 지원 | 사용 가능 |
 | | 통신 규정 준수: Teams 컨텍스트 관리 | 사용 가능 |
 | | 커뮤니케이션 규정 준수: 조사 중에 콘텐츠 번역 | 사용 가능 |
 | 정보 장벽 | 정보 장벽 | 사용 가능 |
@@ -171,11 +171,11 @@ Microsoft 365 - DoD 환경은 클라우드 서비스에 대한 미국 정부 요
 | | 내부자 위험 관리: 보안 정책 위반 표시기 | 개발 중 |
 | | 내부자 위험 관리: 끝점 경고에 대한 Microsoft Defender 표시기  | 개발 중 |
 | | 내부자 위험 관리: Office(Teams, SharePoint, 전자 메일 메시징) 표시기  | 사용 가능 |
-| | 내부자 위험 관리: Windows 10 끝점 활동에 대한 표시기 | 공개 미리 보기  |
+| | 내부자 위험 관리: 끝점 Windows 10 표시기 | 공개 미리 보기  |
 | | 내부자 위험 관리: 도메인 설정에 대한 지능적인 지원 | 사용 가능  |
 | | 내부자 위험 관리: Microsoft Teams 통합  | 공개 미리 보기 |
 | | 내부자 위험 관리: 기본 트리거(새 신호, 표시기 선택, 사용자 지정 및 활동 탐색기) | 사용 가능 |
-| | 내부자 위험 관리: Office, Teams, SharePoint 메시지에 대한 표시기입니다.  | 사용 가능  |
+| | 내부자 위험 관리: Office, Teams, SharePoint 메시징에 대한 표시기입니다.  | 사용 가능  |
 | | 내부자 위험 관리: 정책 사용자 지정, 정책 상태 검사 및 향상된 정책 만들기 마법사 | 사용 가능 |
 | | 내부자 위험 관리: 불만이 있는 사용자의 데이터 누출에 대한 정책 템플릿 | 공개 미리 보기  |
 | | 내부자 위험 관리: 우선 순위 사용자에 의해 데이터 누출을 위한 정책 템플릿 | 공개 미리 보기 |
@@ -189,7 +189,7 @@ Microsoft 365 - DoD 환경은 클라우드 서비스에 대한 미국 정부 요
 | | 내부자 위험 관리: 계정 삭제를 Azure Active Directory 기본 트리거 지원 | 사용 가능 |
 | | 내부자 위험 관리: 사용자 활동 보고서 | 공개 미리 보기  |
 | | 내부자 위험 관리: "감시자" 감사 내보내기 | 사용 가능 |
-| **응답 & 검색**  | | |
+| **검색 & 응답**  | | |
 | eDiscovery | 핵심 eDiscovery: 감사  | 사용 가능  |
 | | 핵심 eDiscovery: 사례 관리 | 사용 가능 |
 | | 핵심 eDiscovery: 비즈니스용 OneDrive | 사용 가능 |
@@ -219,7 +219,7 @@ Microsoft 365 - DoD 환경은 클라우드 서비스에 대한 미국 정부 요
 | | Advanced eDiscovery: 보류 최적화  | 개발 중  |
 | | Advanced eDiscovery: Teams 원본으로 식별 | 백로그 엔지니어링 |
 | | Advanced eDiscovery: Teams 채널 메시지에 대한 법적 보유 | 사용 가능 |
-| | Advanced eDiscovery: Microsoft 규정 준수 센터는 지원이 확장되어 SharePoint, 비즈니스용 OneDrive, 핵심 및 서비스에서 항목을 검색하고 내보낼 Advanced eDiscovery | 개발 중 |
+| | Advanced eDiscovery: Microsoft 규정 준수 센터에서 지원이 확장되어 SharePoint, 비즈니스용 OneDrive, Core 및 2013의 재활용 Advanced eDiscovery | 개발 중 |
 | | Advanced eDiscovery: 중복에 가까운 식별  | 사용 가능  |
 | | Advanced eDiscovery: Core 및 Advanced eDiscovery | 개발 중 |
 | | Advanced eDiscovery: 새로운 예측 코딩 모듈 및 처리 | 백로그 엔지니어링 |
@@ -227,7 +227,7 @@ Microsoft 365 - DoD 환경은 클라우드 서비스에 대한 미국 정부 요
 | | Advanced eDiscovery: 비영구 Office 365 | 사용 가능 |
 | | Advanced eDiscovery: 예측 코딩  | 사용 가능 |
 | | Advanced eDiscovery: 로드 파일로 내보내기 처리 | 사용 가능 |
-| | Advanced eDiscovery: 재배포 | 사용 가능 |
+| | Advanced eDiscovery: Redactions | 사용 가능 |
 | | Advanced eDiscovery: 검토 집합 | 사용 가능 |
 | | Advanced eDiscovery: 데이터(쿼리 데이터, 스마트 태그, 대시보드) 및 주석 작성(재조정)  | 사용 가능  |
 | | Advanced eDiscovery: 검색 용어 보고서 | 사용 가능 |
@@ -239,7 +239,7 @@ Microsoft 365 - DoD 환경은 클라우드 서비스에 대한 미국 정부 요
 | | Advanced eDiscovery: 테넌트 보고서 | 사용 가능  |
 | | Advanced eDiscovery: 테마  | 사용 가능  |
 | | Advanced eDiscovery: 뷰어  | 사용 가능  |
-| | Advanced eDiscovery: Yammer Advanced eDiscovery 준수 센터의 서비스  | 사용 가능  |
+| | Advanced eDiscovery: Yammer Advanced eDiscovery 준수 센터에서 다운로드  | 사용 가능  |
 | 감사  | 기본 감사  | 사용 가능  |
 | | 고급 감사: 중요한 이벤트에 대한 액세스(예: MailItemsAccessed) | 사용 가능  |
 | | 고급 감사: 보존 대시보드 감사 | 사용 가능  |
@@ -247,7 +247,7 @@ Microsoft 365 - DoD 환경은 클라우드 서비스에 대한 미국 정부 요
 | | 고급 감사: 관리 활동 API에 대한 대역폭 증가  | 사용 가능  |
 | | 고급 감사: 개인 채널 Teams 법적 보유 | 사용 가능 |
 | | 고급 감사: 로그 보존(1년)  | 사용 가능  |
-| | 고급 감사: 감사 로그에 대한 장기 보존(10년)  | 배포 중  |
+| | 고급 감사: 감사 로그에 대한 장기 보존(10년)  | 사용 가능 |
 | | 고급 감사: 메일 전달 및 메일 보내기 이벤트  | 사용 가능  |
 | | 고급 감사: Microsoft 365 및 준수 센터 | 사용 가능  |
 | | 고급 감사: 온라인 및 Exchange Online SharePoint 검색 | 사용 가능 |
@@ -257,7 +257,7 @@ Microsoft 365 - DoD 환경은 클라우드 서비스에 대한 미국 정부 요
 | | 준수 관리자: 지속적인 준수 평가  | 개발 중 |
 | | 준수 관리자: 비영리 자산에 대한 첫 Microsoft 365 평가  | 사용 가능  |
 | | 더블 Byte 문자 지원  | 사용 가능  |
-| | Microsoft Cloud App Security  | 사용 가능  |
+| | 클라우드 앱용 Microsoft Defender(이전 Microsoft Cloud App Security) | 사용 가능  |
 | **에코시스템** | | |
 | 에코시스템  | 자체 데이터 커넥터: HR  | 사용 가능  |
 | | 자체 데이터 커넥터: HR 1.2  | 사용 가능   |

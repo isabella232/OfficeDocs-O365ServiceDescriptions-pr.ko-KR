@@ -8,26 +8,26 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
-description: 이 지침은 미국 연방, 주Office 365 주, 지방, 부족 또는 영토적 정부 기관 또는 정부 규정 및 요구 사항을 준수하는 데이터를 처리하는 기타 기관에서 Microsoft 365 정부 - GCC 배포를 주도하는 IT 프로를 위한 것입니다.
-ms.openlocfilehash: fc9f9495aea2980a9bf56d6b04960b206d5ec0f6
-ms.sourcegitcommit: 9029d246efac7013470a91e9ea7079b615e2e7a9
+description: 이 지침은 미국 연방, 주Office 365 지방, 부족 또는 영토적 정부 기관 또는 정부 규정 및 요구 사항을 준수하는 데이터를 처리하는 기타 엔터티에서 Microsoft 365 정부 - GCC 배포를 주도하는 IT 프로를 위한 것입니다.
+ms.openlocfilehash: aa5fe4e1b7ac0dc57c898a6a473a7154502d8c2e
+ms.sourcegitcommit: 36cce83d0f146c904ca02a251ba02a5ab913e3ef
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62540531"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63382869"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Microsoft 365 준수 계획 - GCC
 
-이 지침은 미국 연방, 주Office 365 주, 지방, 부족 또는 영토적 정부 기관 또는 정부 규정 및 요구 사항을 준수하는 데이터를 처리하는 기타 기관에서 Microsoft 365 정부 - GCC 배포를 주도하는 IT 프로를 위한 것입니다.
+이 지침은 미국 연방, 주Office 365 지방, 부족 또는 영토적 정부 기관 또는 정부 규정 및 요구 사항을 준수하는 데이터를 처리하는 기타 엔터티에서 Microsoft 365 정부 - GCC 배포를 주도하는 IT 프로를 위한 것입니다.
 
 > [!NOTE]
 > 조직이 이미 Microsoft 365 - GCC 자격 요구 사항을 충족하고 프로그램에 적용된 경우 1단계와 2단계를 건너뛰고 3단계로 바로 이동하면 됩니다.
 
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>1단계. 조직에서 정부에 필요한 Microsoft 365 - GCC 요구 사항 충족 여부 확인
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>1단계. 조직에서 정부에 필요한 Microsoft 365 - GCC 요구 사항을 충족하는지 확인
 
 Microsoft 365 - GCC 환경은 FedRAMP Moderate을 비롯한 클라우드 서비스에 대한 미국 정부 요구 사항 및 범죄 사법 및 연방 세금 정보 시스템(CJI 및 FTI 데이터 형식)에 대한 요구 사항을 준수합니다.
 
-조직은 조직의 기능과 기능을 Office 365 Government에서만 사용할 수 있는 다음과 같은 기능을 Microsoft 365- GCC.
+조직에서는 조직의 기능과 기능을 Office 365 Government에서만 사용할 수 있는 다음과 같은 Microsoft 365 이점을 GCC.
 
 - 조직의 고객 콘텐츠는 Microsoft의 상용 서비스에서 고객 콘텐츠와 Office 365 있습니다.
 
@@ -39,10 +39,10 @@ Microsoft 365 - GCC 환경은 FedRAMP Moderate을 비롯한 클라우드 서비�
 
 미국 정부 고객을 위한 Microsoft 365 - GCC 대한 자세한 내용은 자격 요구 사항을 포함하여 Office 365 Government 계획에서 찾을 수 있습니다.[](https://products.office.com/government/compare-office-365-government-plans)
 
-이 [Office 365 미국](../../office-365-platform-service-description/office-365-us-government/office-365-us-government.md) 정부 서비스 설명에서는 미국 내 규정 준수 요구 사항을 충족하는 데 중심을 두는 플랫폼의 이점에 대해 설명하고 있습니다.
+이 [Office 365 미국](../../office-365-platform-service-description/office-365-us-government/office-365-us-government.md) 정부 서비스 설명에서는 미국 내 규정 준수 요구 사항을 충족하는 데 중심을 두는 플랫폼의 이점에 대해 설명합니다.
 
 > [!TIP]
-> 서비스 설명의 정보 표를 Excel 통합 문서로 전송하고 조직의 **Y/N** 과 관련이 있으며 조직의 요구 사항을 충족하는 두 개의 열을 추가할 수 **있습니다**. 그런 다음 이 목록을 동료와 검토하여 이 서비스가 조직의 요구 사항을 충족하는지 확인할 수 있습니다.
+> 서비스 설명의 정보 표를 Excel 통합 문서로 전송하고 조직의 **Y/N** 과 관련된 두 개의 열을 추가하고 조직의 **Y/N** 요구 사항을 충족할 수 있습니다. 그런 다음 이 목록을 동료와 검토하여 이 서비스가 조직의 요구 사항을 충족하는지 확인할 수 있습니다.
 
 > [!NOTE]
 > Microsoft 365 - GCC 미국에서만 사용할 수 있습니다. 미국 정부 이 아닌 고객은 다양한 요금제에서 Office 365 Government [있습니다](https://products.office.com/government/compare-office-365-government-plans).
@@ -55,15 +55,15 @@ Microsoft 365 - GCC 환경은 FedRAMP Moderate을 비롯한 클라우드 서비�
 
 이 서비스가 조직에 적합한 것으로 결정한 경우 이 서비스에 대한 적용 [프로세스를 시작하십시오](https://products.office.com/government/eligibility-validation).
 
-## <a name="step-3-understand-microsoft-365-government---gcc-default-security-settings"></a>3단계. 정부 Microsoft 365 - GCC 보안 설정 이해
+## <a name="step-3-understand-microsoft-365-government---gcc-default-security-settings"></a>3단계. 정부 Microsoft 365 - GCC 설정 이해
 
 관리자 및 보안 설정을 수정하기 전에 신중하게 검토하고 기본 보안 설정을 변경하기 전에 규정 준수에 미치는 영향을 고려하는 것이 좋습니다.
 
-**의사** 결정 지점: 기본 Microsoft 365 Government - GCC 보안 설정을 수정할지 여부를 결정하여 변경 내용이 미칠 수 있는 영향을 먼저 파악 *합니다.*
+**의사** 결정 지점: *기본 Microsoft 365 Government -* GCC 보안 설정을 수정할지 여부를 결정하여 변경 내용이 미치는 영향을 먼저 파악합니다.
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>4단계. Microsoft 365 Government에서 현재 사용할 수 없거나 사용하지 않도록 설정되어 있는 기능을 GCC <sup>1</sup>
 
-정부 클라우드 고객의 요구 사항을 수용하기 위해 정부- Microsoft 365 및 엔터프라이즈 계획 간에 GCC 있습니다. 다음 표를 참조하여 사용 가능한 기능을 참조합니다. 이 [로드](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent)맵에 게시된 최신 준수 제품 업데이트는 Microsoft 365 참조하세요.<br><br>
+정부 클라우드 고객의 요구 사항을 수용하기 위해 정부- Microsoft 365 및 엔터프라이즈 계획 간에 GCC 있습니다. 다음 표를 참조하여 사용 가능한 기능을 참조합니다. 이 [로드](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent)맵에 게시된 최신 규정 준수 제품 업데이트는 Microsoft 365 참조하세요.<br><br>
 
 | 영역 | 기능 | GCC 상태 |
 | ---- | ------- | ---------- |
@@ -76,10 +76,10 @@ Microsoft 365 - GCC 환경은 FedRAMP Moderate을 비롯한 클라우드 서비�
 | | Exchange Online, SharePoint Online 및 OneDrive | 사용 가능 |
 | | 플랫폼(웹, Windows 및 Mac)에서 Office 앱(Word, Excel, PowerPoint, Outlook)에 대한 자동 분류 및 레이블 지정 | 사용 가능 |
 | | Office 클라이언트에 대한 자동 분류 및 레이블 지정(모바일) | 백로그 엔지니어링 |
-| | Teams, Microsoft 365, SharePoint 사이트에 대한 자동 분류 및 레이블 지정 | 사용 가능 |
+| | Teams, Microsoft 365 그룹, SharePoint 분류 및 레이블 지정 | 사용 가능 |
 | | 암호화 문서에 Microsoft Information Protection 공동 작성 | 사용 가능 |
-| | 미리 보기를 사용하여 기본 제공 민감도 레이블을 Azure의 자산으로 Microsoft Azure 확장 | 개발 중 |
-| | SharePoint Online 및 2016에서 자동 레이블 지정에 대한 향상된 시뮬레이션 및 위치 비즈니스용 OneDrive | 배포 중 |
+| | Purview를 사용하여 기본 제공 민감도 레이블을 Azure의 자산으로 Microsoft Azure 확장 | 개발 중 |
+| | 온라인 및 SharePoint 자동 레이블 지정에 대한 향상된 시뮬레이션 및 위치 비즈니스용 OneDrive | 배포 중 |
 | | 온라인 사이트에 대해 "민감도 레이블"을 통해 세부적인 SharePoint 액세스 정책 | 백로그 엔지니어링 |
 | | 필수 레이블 | 사용 가능 |
 | | 수동 레이블 | 사용 가능 |
@@ -93,7 +93,7 @@ Microsoft 365 - GCC 환경은 FedRAMP Moderate을 비롯한 클라우드 서비�
 | 암호화 | 기본 Office 365 메시지 암호화(E3) | 사용 가능 |
 | | 고급 Office 365 메시지 암호화(E5) | 사용 가능 |
 | | Office 365에 대한 고객 키 | 사용 가능 |
-| | 고객 키: 사용자에 대한 미사용 데이터 Microsoft 365 | 사용 가능 |
+| | 고객 키: 사용자에 대한 저장 데이터 Microsoft 365 | 사용 가능 |
 | | 고객 키: SharePoint 온라인 및 비즈니스용 OneDrive | 사용 가능 |
 | | 고객 관리 키 프로비전 수명 주기를 위해 BYOK(Bring Your Own Key)를 가져오기 | 사용 가능 |
 | | 이중 키 암호화 | 사용 가능 |
@@ -102,7 +102,7 @@ Microsoft 365 - GCC 환경은 FedRAMP Moderate을 비롯한 클라우드 서비�
 | | 파일 및 전자 메일에 대한 데이터 손실 방지 | 사용 가능 |
 | | 데이터 손실 방지: 활동 탐색기에 표시됩니다. | 사용 가능 |
 | | 데이터 손실 방지: 끝점 | 사용 가능 |
-| | 데이터 손실 방지: Microsoft Defender for Apps(이전 Microsoft Cloud App Security) 통합 | 사용 가능 |
+| | 데이터 손실 방지: 클라우드 앱용 Microsoft Defender(이전 Microsoft Cloud App Security) 통합 | 사용 가능 |
 | | On-prem에 대한 데이터 손실 방지 | 개발 중 |
 | | 데이터 손실 방지: 개요 페이지 | 사용 가능 |
 | | 데이터 손실 방지: Teams 및 채널 대화 | 사용 가능 |
@@ -149,14 +149,14 @@ Microsoft 365 - GCC 환경은 FedRAMP Moderate을 비롯한 클라우드 서비�
 | | 통신 규정 준수: 시간의에 따라 반복되는 행동 위반 감지 | 사용 가능 |
 | | 커뮤니케이션 규정 준수: 차별 분류자 | 배포 중 |
 | | 통신 규정 준수: 에스컬레이터에서 Advanced eDiscovery | 사용 가능 |
-| | 커뮤니케이션 규정 준수: Exchange Teams 지원 | 사용 가능 |
+| | 통신 규정 준수: Exchange Teams 지원 | 사용 가능 |
 | | 통신 준수: 정책 상태 검사 및 정책 일시 중지 능력 | 개발 중 |
 | | 통신 규정 준수: Power Automate 통합 | 공개 미리 보기 |
-| | 통신 준수: Teams 채널에서 Teams 메시지 제거 | 사용 가능 |
+| | 통신 준수: Teams 또는 채널에서 Teams 메시지 제거 | 사용 가능 |
 | | 통신 준수: 위치 보고서당 중요한 정보 유형 | 개발 중 |
 | | 커뮤니케이션 규정 준수: 보다 세부적인 사용 권한 지원 | 사용 가능 |
 | | 커뮤니케이션 규정 준수: 위협, 대상 괴롭음 및 비언어 분류자에 대한 7개 언어 지원 | 사용 가능 |
-| | 커뮤니케이션 규정 준수: Teams, Exchange 및 메시지 제거 기능을 Teams 지원 | 사용 가능 |
+| | 통신 규정 준수: 메시지 Teams, Exchange 및 제거 기능을 Teams 지원 | 사용 가능 |
 | | 커뮤니케이션 규정 준수: 태그 지정 개선 | 사용 가능 |
 | | 통신 규정 준수: Teams 컨텍스트 관리 | 사용 가능 |
 | | 커뮤니케이션 규정 준수: 조사 중에 콘텐츠 번역 | 사용 가능 |
@@ -176,11 +176,11 @@ Microsoft 365 - GCC 환경은 FedRAMP Moderate을 비롯한 클라우드 서비�
 | | 내부자 위험 관리: 보안 정책 위반 표시기 | 개발 중 |
 | | 내부자 위험 관리: 끝점 경고에 대한 Microsoft Defender 표시기 | 개발 중 |
 | | 내부자 위험 관리: Office(Teams, SharePoint, 전자 메일 메시징) 표시기 | 사용 가능 |
-| | 내부자 위험 관리: Windows 10 끝점 활동에 대한 표시기 | 공개 미리 보기 |
+| | 내부자 위험 관리: 끝점 Windows 10 표시기 | 공개 미리 보기 |
 | | 내부자 위험 관리: 도메인 설정에 대한 지능적인 지원 | 사용 가능 |
 | | 내부자 위험 관리: Microsoft Teams 통합 | 공개 미리 보기 |
 | | 내부자 위험 관리: 기본 트리거(새 신호, 표시기 선택, 사용자 지정 및 활동 탐색기) | 사용 가능 |
-| | 내부자 위험 관리: Office, Teams, SharePoint 메시지에 대한 표시기입니다. | 사용 가능 |
+| | 내부자 위험 관리: Office, Teams, SharePoint 메시징에 대한 표시기입니다. | 사용 가능 |
 | | 내부자 위험 관리: 정책 사용자 지정, 정책 상태 검사 및 향상된 정책 만들기 마법사 | 사용 가능 |
 | | 내부자 위험 관리: 불만이 있는 사용자의 데이터 누출에 대한 정책 템플릿 | 공개 미리 보기 |
 | | 내부자 위험 관리: 우선 순위 사용자에 의해 데이터 누출을 위한 정책 템플릿 | 공개 미리 보기 |
@@ -191,11 +191,11 @@ Microsoft 365 - GCC 환경은 FedRAMP Moderate을 비롯한 클라우드 서비�
 | | 내부자 위험 관리: 사용자를 떠날 경우 보안 정책 위반 | 개발 중 |
 | | 내부자 위험 관리: 불만이 있는 사용자의 보안 정책 위반 | 개발 중 |
 | | 내부자 위험 관리: 우선 순위 사용자에 대한 보안 정책 위반 | 개발 중 |
-| | Insider Risk Management: ServiceNow 템플릿을 Power Automate | 공개 미리 보기 |
+| | Insider Risk Management: ServiceNow template for Power Automate | 공개 미리 보기 |
 | | 내부자 위험 관리: 계정 삭제를 Azure Active Directory 기본 트리거 지원 | 사용 가능 |
 | | 내부자 위험 관리: 사용자 활동 보고서 | 공개 미리 보기 |
 | | 내부자 위험 관리: "감시자" 감사 내보내기 | 사용 가능 |
-| **응답 & 검색** | | |
+| **검색 & 응답** | | |
 | eDiscovery | 핵심 eDiscovery: 감사 | 사용 가능 |
 | | 핵심 eDiscovery: 사례 관리 | 사용 가능 |
 | | 핵심 eDiscovery: 핵심 eDiscovery: 비즈니스용 OneDrive | 사용 가능 |
@@ -232,7 +232,7 @@ Microsoft 365 - GCC 환경은 FedRAMP Moderate을 비롯한 클라우드 서비�
 | | Advanced eDiscovery: 비영구 Office 365 | 사용 가능 |
 | | Advanced eDiscovery: 예측 코딩 | 사용 가능 |
 | | Advanced eDiscovery: 로드 파일로 내보내기 처리 | 사용 가능 |
-| | Advanced eDiscovery: 재배포 | 사용 가능 |
+| | Advanced eDiscovery: Redactions | 사용 가능 |
 | | Advanced eDiscovery: 검토 집합 | 사용 가능 |
 | | Advanced eDiscovery: 데이터(쿼리 데이터, 스마트 태그, 대시보드) 및 주석 작성(재조정) | 사용 가능 |
 | | Advanced eDiscovery: 검색 용어 보고서 | 사용 가능 |
@@ -244,7 +244,7 @@ Microsoft 365 - GCC 환경은 FedRAMP Moderate을 비롯한 클라우드 서비�
 | | Advanced eDiscovery: 테넌트 보고서 | 사용 가능 |
 | | Advanced eDiscovery: 테마 | 사용 가능 |
 | | Advanced eDiscovery: 뷰어 | 사용 가능 |
-| | Advanced eDiscovery: Yammer Advanced eDiscovery 준수 센터의 서비스 | 사용 가능 |
+| | Advanced eDiscovery: Yammer Advanced eDiscovery 준수 센터에서 다운로드 | 사용 가능 |
 | 감사 | 기본 감사 | 사용 가능 |
 | | 고급 감사: 중요한 이벤트에 대한 액세스(예: *MailItemsAccessed*) | 사용 가능 |
 | | 고급 감사: 보존 대시보드 감사 | 사용 가능 |
@@ -262,7 +262,7 @@ Microsoft 365 - GCC 환경은 FedRAMP Moderate을 비롯한 클라우드 서비�
 | | 준수 관리자: 지속적인 준수 평가 | 개발 중 |
 | | 준수 관리자: 비영리 자산에 대한 첫 Microsoft 365 평가 | 사용 가능 |
 | | 더블 Byte 문자 지원 | 사용 가능 |
-| | Microsoft Cloud App Security | 사용 가능 |
+| | 클라우드 앱용 Microsoft Defender(이전 Microsoft Cloud App Security) | 사용 가능 |
 | **에코시스템** | | |
 | 에코시스템 | 자체 데이터 커넥터: HR | 사용 가능 |
 | | 자체 데이터 커넥터: HR 1.2 | 사용 가능 |

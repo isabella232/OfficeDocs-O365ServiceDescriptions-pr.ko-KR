@@ -9,27 +9,27 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 교육용 Office 365 차이점을 찾고 있는 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다. Office 365 익숙한 Microsoft Office 제품군과 클라우드 기반 버전의 Microsoft의 차세대 통신 및 공동 작업 서비스를 &mdash; Microsoft Exchange Online. Microsoft Office SharePoint Online, 웹용 Office 및 Microsoft 비즈니스용 Skype Online을 통해 사용자가 인터넷을 통해 거의 모든 곳에서 생산성을 향상할 &mdash; 수 있도록 합니다.
-ms.openlocfilehash: 2fe2d3295ee0b3bc742f6fc9fbb185082933c72e
-ms.sourcegitcommit: bee0e9c3474f9d0694a8648abff6ac1831fc9bd0
+description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 교육용 Office 365 차이점을 찾고 있는 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다. Office 365 익숙한 Microsoft Office 제품군과 클라우드 기반 버전의 Microsoft&mdash;의 차세대 통신 및 공동 작업 서비스를 Microsoft Exchange Online. Microsoft Office SharePoint Online, 웹용 Office 및 Microsoft 비즈니스용 Skype Online&mdash;은 사용자가 인터넷을 통해 거의 모든 곳에서 생산성을 향상할 수 있도록 합니다.
+ms.openlocfilehash: adacee829999af095e2fc7788425e3eb155adea4
+ms.sourcegitcommit: 36cce83d0f146c904ca02a251ba02a5ab913e3ef
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "62083339"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63382768"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
-Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 교육용 Office 365 차이점을 찾고 있는 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다. Office 365 익숙한 Microsoft Office 제품군과 클라우드 기반 버전의 Microsoft의 차세대 통신 및 공동 작업 서비스를 &mdash; Microsoft Exchange Online. Microsoft Office SharePoint Online, 웹용 Office 및 Microsoft 비즈니스용 Skype Online을 통해 사용자가 인터넷을 통해 거의 모든 곳에서 생산성을 향상할 &mdash; 수 있도록 합니다.
+Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다. 교육용 Office 365 차이점을 찾고 있는 경우 이 문서에서는 각 계획에 포함된 기능을 보여 주게 됩니다. Office 365 익숙한 Microsoft Office 제품군과 클라우드 기반 버전의 Microsoft&mdash;의 차세대 통신 및 공동 작업 서비스를 Microsoft Exchange Online. Microsoft Office SharePoint Online, 웹용 Office 및 Microsoft 비즈니스용 Skype Online&mdash;은 사용자가 인터넷을 통해 거의 모든 곳에서 생산성을 향상할 수 있도록 합니다.
   
-이 문서에서는 Office 365 Education 요금제(A1, A3 및 A5)에 대한 기능을 나열합니다. 비즈니스 및 엔터프라이즈 계획 간 [](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) 기능을 비교하기 위해 비즈니스용 Office 365 요금제 비교를 참조하거나, 기능의 자세한 목록은 Microsoft 365 및 Office 365 서비스 설명을 [참조하세요.](../office-365-service-descriptions-technet-library.md)
+이 문서에서는 Office 365 Education 요금제(A1, A3 및 A5)에 대한 기능을 나열합니다. 비즈니스 및 엔터프라이즈 계획 간 기능을 비교하기 위해 비즈니스 [](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) 용 Office 365 계획 비교를 참조하거나, 기능의 자세한 목록은 Microsoft 365 및 Office 365 서비스 설명을 참조[하세요](../office-365-service-descriptions-technet-library.md).
   
-지원 문서 및 정보를 검색하기 위해 도움말 [Office &amp; 참조하세요.](https://support.office.com/)
+지원 문서 및 정보를 검색하기 위해 도움말 [Office 참조 &amp; 하세요](https://support.office.com/).
   
 ## <a name="service-availability-for-each-plan"></a>각 계획의 서비스 가용성
 
 각 Office 365 교육 계획에는 Exchange Online Online과 같은 여러 개별 SharePoint 포함되어 있습니다. 다음 표에는 각 Office 365 계획에서 사용 가능한 서비스가 나와 있습니다.<br><br>
   
-| 서비스 | Office 365 A1 | Office 365 A3 | Office 365 A5<sup>3</sup> |
+| 서비스 | Office 365 A1 | Office 365 A3 | Office 365 A5 <sup>3</sup> |
 |:-----|:-----|:-----|:-----|
 |Office 365 플랫폼  |예  |예  |예  |
 |Exchange Online  |예<sup>5</sup> |예<sup>4</sup> |예<sup>4</sup> |
@@ -38,29 +38,29 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |비즈니스용 Skype Online(사용 중지) |예<sup>7</sup> |예<sup>6</sup> |예<sup>6</sup> |
 |웹용 Office  |예  |예  |예  |
 |Office 응용 프로그램  |아니요  |예  |예  |
-|Project  |아니요<sup>1</sup> |아니요<sup>1</sup> |아니요<sup>1</sup> |
+|Project  |아니<sup>요1</sup> |아니<sup>요1</sup> |아니<sup>요1</sup> |
 |Power BI  |아니요  |아니요  |예  |
 |Yammer Academic  |예  |예  |예  |
-|Azure Information Protection<sup>2</sup> |예  |예  |예  |
+|Azure Information <sup>Protection2</sup> |예  |예  |예  |
    
 > [!NOTE]
 > <sup>1</sup> Microsoft Project 포함된 Office 365 별도로 취득할 수 있습니다. Project Online Essentials 무료입니다. 학생 또는 교육 기관인 경우 교육용 가격으로 Project 플랜 3 요금제 5를 구입할 수 있습니다.   <br/> 
-<sup>2</sup> Office 365 요금제에 포함된 Azure Information Protection 기능에 대한 자세한 내용은 [Azure Information Protection을 참조하세요.](https://azure.microsoft.com/services/information-protection/)<br/> 
+<sup>2</sup> Office 365 포함된 Azure Information Protection 기능에 대한 자세한 내용은 [Azure Information Protection을 참조하세요](https://azure.microsoft.com/services/information-protection/).<br/> 
 <sup>3</sup> Office 365 A5, 오디오 전화 시스템 및 통화 플랜 기능이 포함되어 있습니다. 통화 플랜을 구현하려면 추가 요금제 구입(국내 통화 플랜 또는 국제 통화 플랜)이 필요합니다. <br/> <sup>4</sup> 계획 Exchange Online 포함됩니다. <br/> 
 <sup>5</sup> 계획 Exchange Online 추가 기능이 포함됩니다. <br/> 
 <sup>6</sup> 온라인 비즈니스용 Skype 2가 포함됩니다. <br> <sup>7</sup> 온라인 비즈니스용 Skype 추가 기능이 포함됩니다. 
   
 ## <a name="system-requirements"></a>시스템 요구 사항
 
-시스템 요구 사항에 Office 365 시스템 요구 Office 365 [참조하세요.](https://products.office.com/office-system-requirements/)
+시스템 요구 사항에 Office 365 시스템 요구 사항은 Office 365 [참조하세요](https://products.office.com/office-system-requirements/).
   
 ## <a name="service-level-agreement"></a>서비스 수준 계약
 
-서비스 수준 계약에 대한 내용은 [서비스 수준 계약](../office-365-platform-service-description/service-level-agreement.md)을 참조하세요. 사용자에 대한 최근 업타임에 대한 자세한 Office 365 전 세계 업타임 [을 참조하세요.](../office-365-platform-service-description/service-health-and-continuity.md#recent-worldwide-uptimes)
+서비스 수준 계약에 대한 내용은 [서비스 수준 계약](../office-365-platform-service-description/service-level-agreement.md)을 참조하세요. 사용자에 대한 최근 업타임에 대한 자세한 Office 365 전 세계 업타임[을 참조하세요](../office-365-platform-service-description/service-health-and-continuity.md#recent-worldwide-uptimes).
   
 ## <a name="platform-features"></a>플랫폼 기능 
 
-다음 표에는 교육용 계획에서 사용할 수 있는 모든 플랫폼 Office 365 나열되어 있습니다. 요금제의 가격 책정 및 기능에 대한 자세한 내용은 Office 365 Education [참조하세요.](https://aka.ms/EDU-Plan-Comparison)</br>
+다음 표에는 교육용 계획에서 사용할 수 있는 모든 플랫폼 Office 365 나열되어 있습니다. 요금제의 가격 책정 및 기능에 대한 자세한 내용은 Office 365 Education [참조하세요](https://aka.ms/EDU-Plan-Comparison).</br>
 
 | 기능 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -69,20 +69,20 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |Azure Information Protection을 사용하여 콘텐츠 보호  |예  |예  |예  |
 |**[Office 365 제품군 기능](office-365-suite-features.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |Microsoft Bookings  |아니요  |예  |예  |
-|Microsoft 브리핑 전자 메일<sup>10</sup> |예  |예  |예  |
+|Microsoft 브리핑 전자 <sup>메일 10</sup> |예  |예  |예  |
 |Microsoft Power Automate  |예<sup>11</sup> |예<sup>11</sup> |예<sup>11</sup> |
 |Microsoft Forms  |예  |예  |예  |
 |Microsoft Graph API  |예  |예  |예  |
 |Viva Insights – 개인 정보  |아니요  |예  |예  |
 |Microsoft Planner  |예  |예  |예  |
 |Microsoft PowerApps  |예<sup>11</sup> |예<sup>11</sup> |예<sup>11</sup> |
-|Microsoft StaffHub  |예  |예  |예  |
-|Microsoft Stream<sup>8</sup> |예  |예  |예  |
+|Microsoft StaffHub([사용 중지](/microsoftteams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)) |아니요  |아니요  |아니요  |
+|Microsoft <sup>Stream8</sup> |예  |예  |예  |
 |Microsoft Sway  |예<sup>6</sup> |예<sup>6</sup> |예<sup>6</sup> |
 |Microsoft Teams  |예  |예  |예  |
 |Office Delve  |예  |예  |예  |
 |Office 365 그룹  |예  |예  |예  |
-|Office 365[비디오(사용 중지)](/stream/migrate-from-office-365)  |예  |예  |예  |
+|Office 365 비디오([사용 중지](/stream/migrate-from-office-365))  |예  |예  |예  |
 |OneNote 수업용 전자 필기장  |예  |예  |예  |
 |**[사용자 계정 관리](user-account-management.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |클라우드 ID, 페더레이션 ID 또는 다단계 인증  |예  |예  |예  |
@@ -90,9 +90,9 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |.csv 파일을 사용하여 대량 업로드  |예  |예  |예  |
 |디렉터리 동기화 도구  |예  |예  |예  |
 |Exchange 단순(단독형) 마이그레이션  |예  |예  |예  |
-|계정 삭제 및 Office 365 또는 Windows PowerShell<sup>2를</sup> 사용하여 사용자 암호 다시 설정 |예  |예  |예  |
-|사용자가 자신의 암호를 변경할 수<sup>있습니다.3</sup> |예  |예  |예  |
-|라이선스 관리<sup>4</sup> |예  |예  |예  |
+|계정 삭제 및 Office 365 또는 Windows PowerShell 2를 사용하여 사용자 암호 <sup>다시 설정</sup> |예  |예  |예  |
+|사용자는 자신의 암호를 변경할 수 <sup>있습니다3</sup> |예  |예  |예  |
+|라이선스 <sup>관리4</sup> |예  |예  |예  |
 |Office 365에서 보안 그룹 관리  |예  |예  |예  |
 |사용할 수 있는 여러 관리자 역할  |예  |예  |예  |
 |관리자가 사용자를 대신하여 Office 365를 관리하도록 허용  |예  |예  |예  |
@@ -156,7 +156,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |고급 보안 관리  |아니요  |예  |예  |
 |Office 365용 Microsoft Defender  |아니요  |아니요  |예  |
 |Customer Lockbox  |아니요  |아니요  |예  |
-|Advanced eDiscovery<sup>7</sup> |아니요  |아니요  |예  |
+|Advanced eDiscovery <sup>7</sup> |아니요  |아니요  |예  |
 |보안 점수<sup>5</sup> |예  |예  |예  |
 |위협 인텔리전스  |아니요  |아니요  |예  |
 |[규정 준수](/microsoft-365/compliance/offering-home) ||||
@@ -180,41 +180,41 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 > [!NOTE]
 > <sup>1</sup> Office 365 제조업체에서 지원하지 않는 운영 체제를 지원하지 않습니다.<br/> 
 <sup>2</sup> 로컬 Active Directory와 디렉터리 동기화를 사용하는 경우 Office 365 포털이 아닌 로컬 Active Directory를 사용하여 계정을 삭제하거나 암호를 변경하거나 Azure Active Directory 모듈을 사용하여 Windows PowerShell. <br/> 
-<sup>3</sup> 사용자에 대한 셀프 서비스 암호 관리 정책을 설정하는 방법에 대한 자세한 내용은 Azure AD에서 암호 [관리를 참조하세요.](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password) <br/> 
+<sup>3</sup> 사용자에 대한 셀프 서비스 암호 관리 정책을 설정하는 방법에 대한 자세한 내용은 [Azure AD에서 암호 관리를 참조하세요](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password). <br/> 
 <sup>4</sup> 기간 할인을 통해 구매한 시트 수를 줄이면 조기 종료 수수료가 부과될 수 있습니다. This is not applicable for subscriptions paid on a monthly basis. <br/> 
-<sup>5</sup> 에서 사용할 [https://securescore.office.com](https://securescore.office.com/) 수 있습니다(링크에는 관리자 권한이 필요합니다). 자세한 내용은 보안 점수 Office 365 [참조하세요.](/office365/securitycompliance/microsoft-secure-score)<br/> 
+<sup>5</sup> 에서 사용할 수 있습니다 [https://securescore.office.com](https://securescore.office.com/) (링크에는 관리자 권한이 필요합니다). 자세한 내용은 보안 점수 Office 365 [참조하세요](/office365/securitycompliance/microsoft-secure-score).<br/> 
 <sup>6</sup> Microsoft Sway는 현재 특정 지리의 고객이 사용할 수 없습니다. 일부 레거시 Office 365 2015년 8월 현재 출시되지 않은 일부 레거시 요금제도 Microsoft Sway에 액세스할 수 없습니다. <br/> 
 <sup>7</sup> Advanced eDiscovery 미국 및 서유럽(네덜란드) 지역에서 지원됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.) <br>
-<sup>8</sup> 각 계획에 포함된 Microsoft Stream 기능에 대한 자세한 내용은 Stream 라이선스 [개요를 참조하세요.](https://stream.microsoft.com/documentation/stream-license-overview/)<br>
-<sup>9</sup> 자세한 내용은 [MyAnalytics](/workplace-analytics/myanalytics/overview/plans-environments)계획 및 환경을 참조하세요.<br>
-<sup>10</sup> 브리핑 전자 메일은 사용자의 모든 사용자에게 Exchange Online. 자세한 내용은 브리핑 전자 [메일 구성을 참조하세요.](/Briefing/be-admin)<br>
+<sup>8</sup> 각 계획에 포함된 Microsoft Stream 기능에 대한 자세한 내용은 Stream 라이선스 개요 [를 참조하세요](https://stream.microsoft.com/documentation/stream-license-overview/).<br>
+<sup>9</sup> 자세한 내용은 [MyAnalytics 계획 및 환경을 참조하세요](/workplace-analytics/myanalytics/overview/plans-environments).<br>
+<sup>10</sup> 브리핑 전자 메일은 사용자의 모든 사용자에게 Exchange Online. 자세한 내용은 브리핑 전자 [메일 구성을 참조하세요](/Briefing/be-admin).<br>
 <sup>11</sup> 기능 제한을 비롯한 자세한 내용은 에서 라이선스 [FAQ](/power-platform/admin/powerapps-flow-licensing-faq) 및 라이선스 가이드를 참조하세요.</br>
 
 ## <a name="security-amp-compliance-center-features"></a>보안 &amp; 및 준수 센터 기능
 
-보안 [및 &amp; 준수 센터는](/microsoft-365/compliance/go-to-the-securitycompliance-center) 조직 전체에서 규정 Office 365 수 있도록 디자인되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다. 
+보안 [및 &amp; 준수 센터](/microsoft-365/compliance/go-to-the-securitycompliance-center)는 조직 전체에서 규정 Office 365 수 있도록 디자인되었습니다. 기존 SharePoint 및 Exchange 규정 준수 기능에 대한 링크가 Office 365의 규정 준수 기능으로 통합되었습니다. 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
   
 | 기능 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|[보안 및 준수 &amp; 센터에 대한 액세스](/office365/securitycompliance/go-to-the-securitycompliance-center) |예  |예  |예  |
+|[보안 및 준수 센터에 &amp; 대한 액세스](/office365/securitycompliance/go-to-the-securitycompliance-center) |예  |예  |예  |
 |[고급 보안 관리](/cloud-app-security/what-is-cloud-app-security) |아니요  |예  |예  |
-|[메일 필터링](/office365/securitycompliance/protect-against-threats)및 맬웨어 방지와 같은 위협 관리  |예  |예  |예  |
-|[고급 위협 관리](/microsoft-365/security/office-365-security/office-365-ti), 피싱 캠페인에 대한 위협 <sup>탐색기 5</sup> |아니요  |아니요  |예  |
+|[메일 필터링](/office365/securitycompliance/protect-against-threats) 및 맬웨어 방지와 같은 위협 관리  |예  |예  |예  |
+|[피](/microsoft-365/security/office-365-security/office-365-ti)싱 캠페인에 대한 위협 탐색기 같은 고급 위협 <sup>관리 5</sup> |아니요  |아니요  |예  |
 |[고객 Lockbox](/office365/securitycompliance/customer-lockbox-requests) |아니요  |아니요  |예  |
 |[모바일 장치 관리](https://support.office.com/article/bc44-4eb1-af00-9db5430be3cd) |예  |예  |예  |
 |[전자 메일 및 파일에 대한 데이터 손실 방지](/office365/securitycompliance/data-loss-prevention-policies) |예  |예  |예  |
 |[채팅에 대한 Teams 방지](/microsoft-365/compliance/dlp-microsoft-teams) | 아니요 | 아니요 |예 |
-|[데이터 거버넌스](/office365/securitycompliance/retention-policies)<sup>1</sup> |예  |예  |예  |
+|[데이터 거버넌](/office365/securitycompliance/retention-policies)<sup>스1</sup> |예  |예  |예  |
 |[고급 데이터 거버넌스](/office365/securitycompliance/labels)<sup>2</sup> |아니요  |아니요  |예  |
 |[콘텐츠 검색](/office365/securitycompliance/search-for-content)|예  |예  |예  |
 |[핵심 eDiscovery](/office365/securitycompliance/ediscovery-cases) |아니요  |예  |예  |
 |[eDiscovery 내보내기](/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) |아니요  |예  |예  |
 |[eDiscovery 보류(쿼리 기반 eDiscovery 보류 포함)](/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |아니요  |예  |예  |
-|[Advanced eDiscovery](/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>4</sup> |아니요  |아니요  |예  |
-|[보관](/office365/securitycompliance/enable-archive-mailboxes)<sup>3</sup> |아니요  |예  |예  |
+|[Advanced eDiscovery](/office365/securitycompliance/compliance20/overview-ediscovery-20) <sup>4</sup> |아니요  |아니요  |예  |
+|[Archiving3](/office365/securitycompliance/enable-archive-mailboxes)<sup></sup> |아니요  |예  |예  |
 |[수동 보존/삭제 정책](/office365/securitycompliance/retention-policies)  |예  |예  |예  |
 |[통합 감사](/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>6</sup> |예  |예  |예  |
    
@@ -224,7 +224,7 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 <sup>3</sup> 최대 1.5 TB의 보관 저장소 공간. <br/> 
 <sup>4</sup> Advanced eDiscovery 미국 및 서유럽(네덜란드) 지역에서 지원됩니다. (캐나다 및 아시아 태평양의 고객 데이터는 미국으로 내보냅니다. 유럽, 중동 및 아프리카에서 고객 데이터는 서유럽[네덜란드]으로 내보냅니다.) <br/> 
 <sup>5</sup> Microsoft Defender for Office 365 microsoft Defender는 Office 365 A5 및 사용자용 독립 실행형 서비스로 Office 365 A1 Office 365 A3.<br/>
-<sup>6</sup> 또한 관리 활동 [API를](/office/office-365-management-api/office-365-management-activity-api-reference) 사용하여 Office 365 감사 로그에서 이벤트를 검색할 수 있습니다. <br/>
+<sup>6</sup> 또한 관리 활동 [API](/office/office-365-management-api/office-365-management-activity-api-reference)를 Office 365 통합 감사 로그에서 이벤트를 검색할 수 있습니다. <br/>
   
 ## <a name="office-application-features"></a>Office 응용 프로그램 기능  
 
@@ -281,18 +281,18 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
    
 > [!NOTE]
 > <sup>1</sup> Windows Server AD RMS는 지원되는 IRM 기능을 사용하려면 별도로 구입 및 관리해야 하는 사내 서버입니다. <br/> 
-<sup>2 비즈니스용 Skype</sup> Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. 엔터프라이즈용 Microsoft 365 앱 및 Office 365 Enterprise E3에는 고급 전화 통신 지원Skype 보관 및 규정 준수 기능을 비롯한 추가 기능을 포함하는 전체 Skype 응용 프로그램이 포함되어 있습니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대한 자세한 내용은 데스크톱 클라이언트 비교 테이블 [을 참조하세요.](/lyncserver/lync-server-2013-desktop-client-comparison-tables) <br/> 
-<sup>3</sup> 일부 학교는 엔터프라이즈용 Microsoft 365 앱 포함하는 Education Plus를 사용할 수 있으며, 학생, 교직원 및 직원이 최대 5대의 PC 또는 Mac 컴퓨터 및 기타 모바일 장치(Windows 태블릿 및 컴퓨터 포함)에 최신 버전의 Office를 설치할 수 iPad. Enrollment for Education Solutions, Open Value Subscription Education Solutions 또는 학교 계약을 통해 교직원 및 직원에게 기관용 Office 라이선스를 허가한 학교는 Office 365 Education Plus를 이용할 수 있습니다. Access 및 Publisher는 PC에서만 사용할 수 있습니다. Mac용 OneNote는 Mac 앱 스토어에서 별도로 다운로드할 수 있습니다. <br/> 
+<sup>2 비즈니스용 Skype</sup> Basic은 모든 고객이 사용할 수 있습니다. 비즈니스용 Skype 데스크톱 클라이언트는 비즈니스용 Skype 온라인을 포함한 Office 365 계획용으로 현재 상태, 인스턴트 메시징 및 회의 기능을 제공하며 로컬로 설치되는 응용 프로그램입니다. 엔터프라이즈용 Microsoft 365 앱 및 Office 365 Enterprise E3에는 고급 전화 통신 지원Skype 보관 및 규정 준수 기능을 비롯한 추가 기능을 포함하는 전체 Skype 응용 프로그램이 포함되어 있습니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대한 자세한 내용은 데스크톱 클라이언트 비교 [테이블을 참조하세요](/lyncserver/lync-server-2013-desktop-client-comparison-tables). <br/> 
+<sup>3</sup> 일부 학교는 엔터프라이즈용 Microsoft 365 앱 포함하는 Education Plus를 사용할 수 있으며, 학생, 교직원 및 직원이 최대 5대의 PC 또는 Mac 컴퓨터 및 기타 모바일 장치(Windows 태블릿 및 앱 포함)에 최신 버전의 Office 설치하도록 iPad. Enrollment for Education Solutions, Open Value Subscription Education Solutions 또는 학교 계약을 통해 교직원 및 직원에게 기관용 Office 라이선스를 허가한 학교는 Office 365 Education Plus를 이용할 수 있습니다. Access 및 Publisher는 PC에서만 사용할 수 있습니다. Mac용 OneNote는 Mac 앱 스토어에서 별도로 다운로드할 수 있습니다. <br/> 
 <sup>4 웹용 Office</sup> 버전이 포함되어 있습니다. 자세한 내용은 웹용 Office [참조하세요.](office-365-education.md#office-for-the-web-features)
   
 ## <a name="office-for-the-web-features"></a>웹용 Office 기능
 
-다음 표에서는 웹용 Office 교육용 계획에서 사용할 수 있는 다양한 기능을 데스크톱 앱과 Office 365 기능을 비교하는 Microsoft Office 제공합니다. 비교를 사용하여 2016에서 사용할 수 있는 기능을 웹용 Office 기능 이름을 선택하여 해당 기능의 작동 방식에 대한 간략한 설명을 읽어 봐야 합니다. 조직의 일부 사람들은 Excel 데스크톱 앱의 고급 차트 기능이 필요할 수 있으며 다른 조직에서는 Word 문서와 프레젠테이션을 보고 PowerPoint 편집하기만 웹용 Office.
+다음 표에서는 웹용 Office 교육용 계획에서 사용할 수 있는 다양한 기능을 데스크톱 앱에 Office 365 기능을 비교하는 Microsoft Office 제공합니다. 비교를 사용하여 현재 사용 가능한 기능을 웹용 Office 기능 이름을 선택하여 해당 기능의 작동 방식에 대한 간략한 설명을 읽어 봐야 합니다. 조직의 일부 사람들은 Excel 데스크톱 앱의 고급 차트 기능이 필요할 수 있으며 다른 조직에서는 Word 문서 및 프레젠테이션을 보고 PowerPoint 편집만 해야 웹용 Office.
   
 > [!NOTE]
 >
 > - Office 데스크톱 제품군의 고급 기능을 표시하기 위해 제한적인 Office 기능이 선택되었습니다. <br/>
-> - 표에는 전체 목록이 Microsoft Office 않습니다. <br/> 
+> - 이 표는 전체 목록이 Microsoft Office 않습니다. <br/> 
 > - Microsoft 엔터프라이즈용 Microsoft 365 앱 데스크톱 제품군의 월별 구독 Office 제품입니다. <br/>
 > - Microsoft Office Online Server 웹용 Office 데스크톱 제품군 라이선스(예: Office Professional Plus Office, Office Standard 또는 엔터프라이즈용 Microsoft 365 앱 라이선스) 
   
@@ -381,10 +381,10 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
 |사이트 사서함  |예<sup>4</sup> |예<sup>4</sup> |예<sup>4</sup> |
 |공용 폴더  |예  |예  |예  |
 |**[클라이언트 및 모바일 장치](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
-|Outlook <sup>9용</sup> Windows |예  |예  |예  |
-|웹용 Outlook<sup>9</sup> |예  |예  |예  |
-|Outlook Mac<sup>9용</sup> |예  |예  |예  |
-|Outlook 및 Android<sup>9용 앱</sup> |예  |예  |예  |
+|Outlook <sup>9</sup>에 대한 Windows |예  |예  |예  |
+|웹용 Outlook <sup>9</sup> |예  |예  |예  |
+|Outlook For <sup>Mac9</sup> |예  |예  |예  |
+|Outlook 및 <sup>Android9</sup>용 앱 |예  |예  |예  |
 |Exchange ActiveSync  |예  |예  |예  |
 |Office 365의 모바일 장치 관리  |예  |예  |예  |
 |POP 및 IMAP  |예  |예  |예  |
@@ -417,10 +417,10 @@ Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족
    
 > [!NOTE]
 > <sup>1</sup> Windows Server AD RMS는 지원되는 IRM 기능을 사용하려면 별도로 구입 및 관리해야 하는 사내 서버입니다. <br/>
-<sup>2</sup> 전송 규칙은 유연한 기준으로 구성됩니다. 이 조건을 기반으로 조건 및 예외 및 수행할 작업을 정의할 수 있습니다. 사용 가능한 조건 및 작업은 2013과 Exchange Online Microsoft Exchange Server 다릅니다. 사용 가능한 기준 및 작업 목록은 각 제품에 대한 해당 조건 및 작업 항목을 참조하세요. <br/> 
+<sup>2</sup> 전송 규칙은 유연한 기준으로 구성됩니다. 이 조건을 기반으로 조건 및 예외 및 수행할 작업을 정의할 수 있습니다. 사용 가능한 기준 및 작업은 2013과 Exchange Online Microsoft Exchange Server 다릅니다. 사용 가능한 기준 및 작업 목록은 각 제품에 대한 해당 조건 및 작업 항목을 참조하세요. <br/> 
 <sup>3</sup> Exchange Server 2013에서는 Microsoft 맬웨어 방지 엔진만 사용 합니다. Exchange Online에서는 여러 맬웨어 방지 엔진을 사용하여 인바운드, 아웃바운드 및 내부 메시지에서 맬웨어를 검사합니다. <br/> 
 <sup>4</sup> SharePoint Online이 구독 계획에 포함되어야 합니다. <br/> 
-<sup>5</sup> 연결된 계정은 POP 및 IMAP 계정에 대해 지원되지만 Outlook.com(Hotmail)에는 사용하지 않도록 설정됩니다. <br/> 
+<sup>5</sup> 연결된 계정은 POP 및 IMAP 계정에 대해 지원되지만 Outlook.com(Hotmail)에서는 사용하지 않도록 설정됩니다. <br/> 
 <sup>6</sup> cmdlet을 사용하여 주소 목록 및 전체 주소 목록으로 작업할 수 없습니다. <br/> 
 <sup>7</sup> 일부 타사 웹 파트 및 추가 기능을 사용할 수 없는 경우도 있습니다. <br/> 
 <sup>8</sup> eDiscovery의 경우, 클라우드와의 별도 쿼리가 필요합니다. <br/> 
@@ -475,13 +475,13 @@ Microsoft Exchange Online의 제한은 다음 범주 중 하나에 속합니다.
   
 #### <a name="address-book-limits"></a>주소록 제한
 
-- **주소 목록 제한** - Exchange Online 2013 조직에서 만들 수 있는 주소 Exchange Server 수입니다. 이 수에는 Exchange Online의 기본 주소 목록(예: 모든 연락처 및 모든 그룹)이 포함됩니다. 
+- **주소 목록 제한** - 2013 또는 Exchange Online 조직에서 만들 수 있는 Exchange Server 수입니다. 이 수에는 Exchange Online의 기본 주소 목록(예: 모든 연락처 및 모든 그룹)이 포함됩니다. 
     
-- **오프라인 주소** 기록 제한 - 2013년 또는 2013년 조직에서 만들 수 있는 OAB(오프라인 주소 Exchange Online Exchange Server 수). 
+- **오프라인 주소** 기록 제한 - 2013년 또는 2013년 조직에서 만들 수 있는 OAB(오프라인 주소 Exchange Online 수)Exchange Server 수입니다. 
     
-- **주소부** 정책 제한 - Exchange Online 2013 조직에서 만들 수 있는 ABP(주소 Exchange Server 수) 
+- **주소장 정책 제한** - 2013년 또는 2013년 조직에서 만들 수 있는 ABP(주소 Exchange Online Exchange Server 수입니다. 
     
-- **전체 주소** 목록 - 2013 또는 2013 조직에서 만들 GAL(전체 주소 Exchange Online)Exchange Server 수입니다. 
+- **전체 주소** 목록 - 2013 또는 2013년 조직에서 만들 GAL(전체 주소 Exchange Online Exchange Server 수) 
     
 | 기능 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -504,7 +504,7 @@ Microsoft Exchange Online의 제한은 다음 범주 중 하나에 속합니다.
 |공유 사서함  |50GB<sup>2</sup> |50GB<sup>2</sup> |50GB<sup>2</sup> |
 |리소스 사서함  |50GB<sup>3</sup> |50GB<sup>3</sup> |50GB<sup>3</sup> |
 |사이트 사서함<sup>4</sup> |50GB  |50 GB  |50GB  |
-|공용 폴더 사서함  |50GB<sup>5</sup> |100GB<sup>5</sup> |100GB<sup>5</sup> |
+|공용 폴더 사서함  |<sup>50GB5</sup> |100GB5<sup></sup> |100GB5<sup></sup> |
 |그룹 사서함  |50GB  |50 GB  |50GB  |
    
 > [!NOTE]
@@ -524,7 +524,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
     
 - **보내기** 금지 - 사서함 크기 제한에 도달하면 사용자가 보내기 금지 알림 전자 메일을 받게 됩니다. 전자 메일을 삭제하여 사서함 크기가 제한 용량 미만으로 줄어들 때까지 새로운 메시지를 보낼 수 없습니다. 
     
-- **보내기/받기** 금지 - Exchange Online 크기 제한에 도달하면 받는 메일을 거부하고 보낸 사람에 대해 NDR(배달 못함 보고서)을 전송합니다. 보낸 사람에게는 나중에 다시 해당 전자 메일을 보내도록 시도할 수 있는 옵션이 제공됩니다. 사용자는 사서함 크기가 제한 용량 미만으로 줄어들 때까지 전자 메일을 삭제해야만 다시 메시지를 받을 수 있습니다. 
+- **보내기/** 받기 금지 - Exchange Online 크기 제한에 도달하면 받는 메일을 거부하고 보낸 사람에 대해 NDR(배달 못함 보고서)을 전송합니다. 보낸 사람에게는 나중에 다시 해당 전자 메일을 보내도록 시도할 수 있는 옵션이 제공됩니다. 사용자는 사서함 크기가 제한 용량 미만으로 줄어들 때까지 전자 메일을 삭제해야만 다시 메시지를 받을 수 있습니다. 
     
 | 기능 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -538,7 +538,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
   
 - **사서함 폴더당** 최대 메시지 수 - 사서함 폴더의 최대 메시지 수를 지정합니다. 이 제한에 도달하면 새 메시지를 폴더에 전달하거나 저장할 수 없습니다. 
     
-- **사서함 폴더당** 메시지 수에 대한 경고 - 사서함 폴더가 사서함 소유자에게 경고 메시지를 보내기 전에 Exchange Online 수 있는 메시지 수를 지정합니다. 이 할당량에 도달하면 경고 메시지가 하루에 한 번 전송됩니다. 
+- **사서함 폴더** 당 메시지 수에 대한 경고 - 사서함 폴더가 사서함 소유자에게 경고 메시지를 보내기 전에 Exchange Online 수 있는 메시지 수를 지정합니다. 이 할당량에 도달하면 경고 메시지가 하루에 한 번 전송됩니다. 
     
 - **복구 가능한** 항목 폴더의 폴더당 최대 메시지 수 - 복구 가능한 항목 폴더의 각 폴더에 포함될 수 있는 최대 메시지 수를 지정합니다. 폴더에서 이 제한을 초과하면 새 메시지를 저장할 수 없습니다. 예를 들어 복구 가능한 항목 폴더의 삭제 폴더가 메시지 개수 제한을 넘고 사서함 소유자가 자신의 사서함의 항목을 영구 삭제하려고 하는 경우 삭제에 실패합니다. 
     
@@ -546,13 +546,13 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
     
 - **사서함 폴더당** 최대 하위 폴더 수 - 사서함 폴더에 만들 수 있는 최대 하위 폴더 수를 지정합니다. 이 제한에 도달하면 사서함 사용자가 하위 폴더를 새로 만들 수 없습니다. 
     
-- **사서함** 폴더당 하위 폴더 수에 대한 경고 - 사서함 소유자에게 경고 메시지를 보내기 전에 사서함 폴더에 만들 수 있는 Exchange Online 수를 지정합니다. 이 할당량에 도달하면 경고 메시지가 하루에 한 번 전송됩니다. 
+- **사서함** 폴더당 하위 폴더 수에 대한 경고 - 사서함 폴더당 하위 폴더 수를 지정합니다. Exchange Online 사서함 소유자에게 경고 메시지를 보내기 전에 사서함 폴더에 만들 수 있는 하위 폴더 수를 지정합니다. 이 할당량에 도달하면 경고 메시지가 하루에 한 번 전송됩니다. 
     
 - **최대 폴더 계층 구조 수준** - 사서함의 폴더 계층 구조에 있는 최대 수준 수를 지정합니다. 이 제한에 도달하면 사서함 사용자가 사서함 폴더 계층 구조에 폴더 단계를 더 추가하여 만들 수 없습니다. 
     
-- **폴더** 계층 구조 수준에 대한 경고 - 사서함 소유자에게 경고 메시지를 보내기 전에 만들 수 있는 사서함 폴더의 폴더 Exchange Online 수를 지정합니다. 이 할당량에 도달하면 경고 메시지가 하루에 한 번 전송됩니다. 
+- **폴더 계층** 구조 수준에 대한 경고 - 사서함 소유자에게 경고 메시지를 보내기 전에 만들 수 있는 사서함 폴더의 폴더 Exchange Online 수를 지정합니다. 이 할당량에 도달하면 경고 메시지가 하루에 한 번 전송됩니다. 
     
-- **최대 공용** 폴더 수 - 전체 공용 폴더 계층 구조의 최대 공용 폴더 수를 지정합니다. 이 제한에 도달하면 기존 공용 폴더를 삭제해야 새 공용 폴더를 만들 수 있습니다. 
+- **최대 공용 폴더 수** - 전체 공용 폴더 계층 구조의 최대 공용 폴더 수를 지정합니다. 이 제한에 도달하면 기존 공용 폴더를 삭제해야 새 공용 폴더를 만들 수 있습니다. 
     
 - **공용 폴더당** 최대 하위 폴더 수 - 공용 폴더에 만들 수 있는 최대 하위 폴더 수를 지정합니다. 이 제한에 도달하면 공용 폴더에서 새 하위 폴더를 만들 수 없습니다. 
     
@@ -606,7 +606,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |메시지 크기 제한 - Outlook for Mac  |150MB<sup>1, 2</sup> |150MB<sup>1, 2</sup> |150MB<sup>1, 2</sup> |
 |메시지 크기 제한 - 마이그레이션  |150MB <sup>4</sup> |150MB <sup>4</sup> |150MB <sup>4</sup> |
 |암호화된 메시지의 크기 제한(새 기능에 Office 365 메시지 암호화를 사용하는 구독자)  |150MB<sup>5</sup> |150MB<sup>5</sup> |150MB<sup>5</sup> |
-|암호화된 메시지의 크기 제한(Office 365 메시지 암호화 레거시 버전을 사용하는 구독자)  |25MB<sup>5</sup> |25MB<sup>5</sup> |25MB<sup>5</sup> |
+|암호화된 메시지의 크기 제한(Office 365 메시지 암호화 레거시 버전을 사용하는 구독자)  |<sup>25MB5</sup> |<sup>25MB5</sup> |<sup>25MB5</sup> |
 |제목 길이 제한  |255자  |255자  |255자  |
 |파일 첨부 제한  |250개 첨부 파일  |250개 첨부 파일  |250개 첨부 파일  |
 |첨부 파일 크기 제한 - Outlook  |150MB  |150MB  |150MB  |
@@ -641,7 +641,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 > [!NOTE]
 > 조직의 주소록에 저장된 메일 그룹은 받는 사람 한 명으로 계산합니다. 사서함의 연락처 폴더에 저장된 메일 그룹은 해당 그룹의 구성원들을 각각 계산합니다. 
   
-- **받는 사람 처리** 속도 제한 - 원치 않는 대량 메시지의 배달을 막기 위해 Exchange Online 및 응용 프로그램에서 대량의 전자 메일을 보내지 못하도록 하는 받는 사람 제한이 있습니다. 이러한 제한은 모든 아웃바운드 메시지 및 내부 메시지에 사용자당 적용됩니다. 
+- **받는 사람 처리 속도 제한** - 원치 않는 대량 메시지의 배달을 막기 위해 Exchange Online 및 응용 프로그램에서 대량의 전자 메일을 보내지 못하도록 하는 받는 사람 제한이 있습니다. 이러한 제한은 모든 아웃바운드 메시지 및 내부 메시지에 사용자당 적용됩니다. 
     
     > [!NOTE]
     > 적법한 상업성 대량 전자 메일(예: 고객 회보)을 보내려는 Exchange Online 고객은 이러한 서비스를 제공하는 타사 제공업체를 이용해야 합니다. 
@@ -651,7 +651,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
     > [!NOTE]
     > 받는 사람 처리 속도 제한 및 받는 사람 제한을 적용하기 위해 조직의 공유 주소록에 저장된 메일 그룹이 하나의 받는 사람으로 계산됩니다. 개인 메일 그룹의 받는 사람은 각각 하나의 받는 사람으로 계산됩니다. 
   
-- **메시지 속도 제한** - 메시지 속도 제한은 사용자가 지정된 Exchange Online 계정에서 보낼 수 있는 메시지 수를 지정합니다. 이 제한은 보낸 사람 한 명이 시스템 리소스를 과도하게 사용하지 못하도록 방지할 수 있습니다. 사용자가 SMTP 클라이언트 전송을 통해 제한을 초과하는 속도로 메시지를 전송하면 메시지가 거부되므로 해당 클라이언트가 다시 시도해야 합니다. 
+- **메시지 속도 제한** - 메시지 속도 제한은 사용자가 지정된 기간 동안 Exchange Online 계정에서 보낼 수 있는 메시지 수를 지정합니다. 이 제한은 보낸 사람 한 명이 시스템 리소스를 과도하게 사용하지 못하도록 방지할 수 있습니다. 사용자가 SMTP 클라이언트 전송을 통해 제한을 초과하는 속도로 메시지를 전송하면 메시지가 거부되므로 해당 클라이언트가 다시 시도해야 합니다. 
     
 | 기능 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -670,7 +670,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
   
 - **지우기 항목 폴더 보존 기간** - 항목이 자동으로 제거되기 전에 지우기 항목 폴더에 남아 있는 최대 기간(일)입니다. 
     
-- **지우기** 항목 폴더에서 제거된 항목에 대한 보존 기간 - 지우기 항목 폴더에서 제거된 항목이 영구적으로 삭제되기 전에 보존되는 최대 기간(일)입니다. 
+- **지우** 기 항목 폴더에서 제거된 항목에 대한 보존 기간 - 지우기 항목 폴더에서 제거된 항목이 영구적으로 삭제되기 전에 보존되는 최대 기간(일)입니다. 
     
 - **정크 메일 폴더 보존 기간** - 항목이 자동으로 제거되기 전에 정크 메일 폴더에 남아 있는 최대 기간(일)입니다. 
     
@@ -689,7 +689,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
   
 - **최대 메일 그룹 구성원 수** - 메일 그룹 확장 후 총 받는 사람 수가 결정됩니다. 
     
-- **큰 메일 그룹으로** 메시지 보내기 제한 - 이 제한으로 지정된 구성원 수를 포함하는 메일 그룹에는 배달 관리 또는 메시지 승인 옵션이 구성되어 있어야 합니다. 배달 관리는 메일 그룹에 메시지를 보낼 수 있는 보낸 사람 목록을 지정하고, 메시지 승인은 메일 그룹에 보낸 모든 메시지를 승인해야 하는 한 명 이상의 중재자를 지정합니다. 
+- **큰 메일 그룹** 으로 메시지 보내기 제한 - 이 제한으로 지정된 구성원 수를 포함하는 메일 그룹에는 배달 관리 또는 메시지 승인 옵션이 구성되어 있어야 합니다. 배달 관리는 메일 그룹에 메시지를 보낼 수 있는 보낸 사람 목록을 지정하고, 메시지 승인은 메일 그룹에 보낸 모든 메시지를 승인해야 하는 한 명 이상의 중재자를 지정합니다. 
     
 - **큰 메일** 그룹의 최대 메시지 크기 - 5,000명 이상의 받는 사람에게 메시지를 보낼 경우 메시지 크기는 이 제한을 초과할 수 없습니다. 메시지 크기가 이 제한을 초과하면 메시지가 배달되지 않고 보낸 사람에게 NDR(배달 못 함 보고서)이 전송됩니다. 메일 그룹 확장 후 총 받는 사람 수가 결정됩니다. 
     
@@ -713,7 +713,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
     
 - **최대 전송 규칙 수** - 조직에 존재할 수 있는 최대 규칙 수입니다. 
     
-- **개별 전송 규칙의** 최대 크기 - 단일 전송 규칙에 사용할 수 있는 최대 문자 수입니다. 문자는 조건, 예외 및 작업에 사용됩니다. 
+- **개별 전송 규칙** 의 최대 크기 - 단일 전송 규칙에 사용할 수 있는 최대 문자 수입니다. 문자는 조건, 예외 및 작업에 사용됩니다. 
     
 - **모든 전송** 규칙에 사용되는 모든 정규식에 대한 문자 제한 - 조직의 모든 전송 규칙 조건 및 예외에서 모든 정규식에 사용되는 총 문자 수입니다. 길고 복잡한 정규식을 사용하는 규칙이 몇 가지 있거나 단순한 정규식을 사용하는 규칙이 많이 있을 수 있습니다. 
     
@@ -723,7 +723,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
     
 - **전달 받는 사람** 제한 - 리디렉션 작업을 사용하여 받은 편지함 또는 전송 규칙에 대해 구성할 수 있는 최대 받는 사람 수입니다. 이 받는 사람 수보다 많은 사람에게 메시지를 리디렉션하도록 구성하는 규칙은 적용되지 않으며, 규칙 조건을 충족하는 메시지는 규칙에 나와 있는 받는 사람에게 리디렉션되지 않습니다. 
     
-- **메시지가 리디렉션되는** 횟수 - 받은 편지함 규칙에 따라 메시지가 자동으로 리디렉션, 전달 또는 다시 전송되는 횟수입니다. 예를 들어, 사용자 A에게는 보낸 사람에 따라 사용자 B에게 메시지를 리디렉션하는 받은 편지함 규칙이 있고, 사용자 B에게는 제목 행의 키워드에 따라 사용자 C에게 메시지를 전달하는 받은 편지함 규칙이 있습니다. 리디렉션은 1회만 허용되므로 메시지가 이러한 조건을 모두 충족시키는 경우 사용자 B에게만 전송되며 사용자 C에게는 전송되지 않습니다. 이 경우 메시지가 사용자 C에게 배달되지 않음을 알리는 NDR(배달 못 함 보고서)이 사용자 B에게 전송되지 않은 채로 메시지가 삭제됩니다. 이 경우 메시지가 사용자 C로 배달되지 않았다는 메시지를 사용자 B에게 보내지 않고 메시지를 삭제합니다. 
+- **메시지가 리디렉션** 되는 횟수 - 받은 편지함 규칙에 따라 메시지가 자동으로 리디렉션, 전달 또는 다시 전송되는 횟수입니다. 예를 들어, 사용자 A에게는 보낸 사람에 따라 사용자 B에게 메시지를 리디렉션하는 받은 편지함 규칙이 있고, 사용자 B에게는 제목 행의 키워드에 따라 사용자 C에게 메시지를 전달하는 받은 편지함 규칙이 있습니다. 리디렉션은 1회만 허용되므로 메시지가 이러한 조건을 모두 충족시키는 경우 사용자 B에게만 전송되며 사용자 C에게는 전송되지 않습니다. 이 경우 메시지가 사용자 C에게 배달되지 않음을 알리는 NDR(배달 못 함 보고서)이 사용자 B에게 전송되지 않은 채로 메시지가 삭제됩니다. 이 경우 메시지가 사용자 C로 배달되지 않았다는 메시지를 사용자 B에게 보내지 않고 메시지를 삭제합니다. 
     
 | 기능 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -744,7 +744,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
     
 - **최대** 중재자 수 - 중재된 단일 메일 그룹에 할당하거나 단일 전송 규칙을 사용하여 메시지에 추가할 수 있는 최대 중재자 수입니다. 메일 그룹은 중재자로 지정할 수 없습니다. 
     
-- **중재 대기하는** 메시지의 만료 - 기본적으로 중재를 기다리는 메시지는 2일 후에 만료됩니다. 그러나 만료된 중재 메시지의 처리가 7일마다 실행됩니다. 이는 2~9일 사이에 언제든지 중재된 메시지가 만료될 수 있음을 의미합니다. 
+- **중재 대기** 하는 메시지의 만료 - 기본적으로 중재를 기다리는 메시지는 2일 후에 만료됩니다. 그러나 만료된 중재 메시지의 처리가 7일마다 실행됩니다. 이는 2~9일 사이에 언제든지 중재된 메시지가 만료될 수 있음을 의미합니다. 
     
 - **만료된 중재** 알림 메시지의 최대 속도 - 이 제한은 1시간 동안 만료된 중재된 메시지의 최대 알림 메시지 수를 설정합니다. 데이터 센터의 각 사서함 데이터베이스에 이 제한이 적용됩니다. 
     
@@ -761,9 +761,9 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 
 모바일 장치와 Exchange 간에 사서함 데이터를 동기화하는 클라이언트 프로토콜인 Microsoft Exchange ActiveSync에 다음 제한이 적용됩니다. 
   
-- **Exchange ActiveSync 제한** - 사서함당 최대 Exchange ActiveSync 장치 수입니다. 
+- **Exchange ActiveSync** 제한 - 사서함당 최대 Exchange ActiveSync 장치 수입니다. 
     
-- **Exchange ActiveSync** 장치 삭제 제한 - Exchange ActiveSync 관리자가 한 달에 삭제할 Exchange 수 있는 최대 장치 수입니다. 
+- **Exchange ActiveSync** 장치 삭제 제한 - Exchange ActiveSync 관리자가 한 달에 삭제할 수 있는 Exchange 장치 최대 수입니다. 
     
 - **Exchange ActiveSync 첨부** 파일 제한 - Exchange ActiveSync 장치에서 보내거나 수신할 수 있는 메시지 첨부 파일의 최대 크기입니다. 
     
@@ -775,19 +775,19 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
    
 ## <a name="onedrive-for-business-features"></a>비즈니스용 OneDrive 기능
 
-비즈니스용 OneDrive(이전의 SkyDrive Pro)는 클라우드의 개인 온라인 저장소 공간입니다. 간편한 보안으로 여러 디바이스에 작업 파일을 저장하는 데 사용됩니다. 필요한 경우 동료와 파일을 공유하고 문서를 실시간으로 Office 편집할 수 웹용 Office. 동기화 앱을 사용하여 파일을 로컬 비즈니스용 OneDrive 동기화합니다.
+비즈니스용 OneDrive(이전의 SkyDrive Pro)는 클라우드의 개인 온라인 저장소 공간입니다. 간편한 보안으로 여러 디바이스에 작업 파일을 저장하는 데 사용됩니다. 필요한 경우 동료와 파일을 공유하고 문서를 Office 실시간으로 편집할 수 웹용 Office. 동기화 앱을 사용하여 파일을 로컬 비즈니스용 OneDrive 동기화합니다.
   
-비즈니스용 OneDrive 온라인에 포함되어 SharePoint 독립 실행형 계획으로 구매할 수도 있습니다. 독립 비즈니스용 OneDrive 옵션에는 웹용 Office. 자세한 내용은 What [is 비즈니스용 OneDrive?](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076)을 참조하세요.
+비즈니스용 OneDrive 온라인에 포함되어 SharePoint 독립 실행형 계획으로 구매할 수도 있습니다. 독립 비즈니스용 OneDrive 옵션에는 웹용 Office. 자세한 내용은 What [is 비즈니스용 OneDrive?을 참조하세요](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076).
   
 ### <a name="system-requirements"></a>시스템 요구 사항
 
-동기화 비즈니스용 OneDrive 클라이언트와 시스템 요구 사항이 OneDrive 있습니다. 자세한 내용은 동기화 [클라이언트를 설치하는 비즈니스용 OneDrive 참조합니다.](https://support2.microsoft.com/kb/2903984)
+비즈니스용 OneDrive 동기화 클라이언트의 시스템 요구 사항은 OneDrive 다릅니다. 자세한 내용은 동기화 클라이언트[를 설치하는 비즈니스용 OneDrive 참조합니다](https://support2.microsoft.com/kb/2903984).
   
 ### <a name="onedrive-for-business-limits"></a>비즈니스용 OneDrive 제한
 
 비즈니스용 OneDrive 계획 1은 사용자당 1 TB의 저장소 공간을 제공합니다. 
   
-다음 적격 요금제는 5명 이상의 OneDrive 사용자당 무제한 저장소를 제공합니다. Microsoft는 사용자당 초기 5 TB의 저장소 공간을 제공합니다. 추가 OneDrive 저장소를 원하는 고객은 Microsoft 지원에 문의하여 필요한 경우 요청할 수 있습니다. 사용자가 5명 미만인 구독에는 사용자당 1 TB의 저장소가 수신됩니다.
+다음 적격 요금제는 최소 OneDrive 구독에 대해 사용자당 무제한 저장소를 제공합니다. Microsoft는 사용자당 초기 5 TB의 저장소 공간을 제공합니다. 추가 OneDrive 저장소를 원하는 고객은 Microsoft 지원에 문의하여 필요한 경우 요청할 수 있습니다. 사용자가 5명 미만인 구독에는 사용자당 1 TB의 저장소가 수신됩니다.
   
 - Office 365 A1
     
@@ -795,37 +795,37 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
     
 - Office 365 A5
     
-특정 사용자에 대해 더 많은 저장소를 할당할 OneDrive 없습니다. 그러나 사용자에게 표시하는 저장소의 양을 낮출 수 있습니다. F3 Office 365 Enterprise 저장소가 더 필요한 경우 E1로 업그레이드해야 Office 365 Enterprise 있습니다.
+특정 사용자에 대해 더 많은 저장소를 할당할 OneDrive 없습니다. 그러나 사용자에게 표시하는 저장소의 양을 낮출 수 있습니다. F3 Office 365 Enterprise 더 많은 저장소가 필요한 경우 E1로 업그레이드해야 Office 365 Enterprise 있습니다.
   
-목록에 추가할 수 없는 파일 형식에 대한 비즈니스용 OneDrive 또는 라이브러리에 추가할 수 없는 파일 [형식을 참조하세요.](https://support.office.com/article/30be234d-e551-4c2a-8de8-f8546ffbf5b3)
+목록에 추가할 수 없는 파일 형식에 대한 자세한 비즈니스용 OneDrive 또는 라이브러리에 추가할 수 없는 파일 형식[을 참조하세요](https://support.office.com/article/30be234d-e551-4c2a-8de8-f8546ffbf5b3).
   
-비즈니스용 OneDrive는 SharePoint Online에 포함되어 있습니다. 사이트 모음 할당량, 파일 업로드 제한 및 저장소 제한과 같은 SharePoint [Online의](../sharepoint-online-service-description/sharepoint-online-limits.md)추가 제한에 대한 자세한 내용은 SharePoint Online 소프트웨어 경계 및 제한을 참조하세요.
+비즈니스용 OneDrive는 SharePoint Online에 포함되어 있습니다. 사이트 모음 할당량, 파일 업로드 제한 및 저장소 제한과 같은 SharePoint Online의 추가 제한에 대한 자세한 내용은 SharePoint [Online 소프트웨어](../sharepoint-online-service-description/sharepoint-online-limits.md) 경계 및 제한을 참조하세요.
   
 ### <a name="subscription-plans"></a>구독 계획
 
-비즈니스용 OneDrive 계획 2는 Office 365 A1, A3 및 A5에 사용할 수 있습니다. 계획에서 사용할 수 있는 기능을 표시하는 경우 서비스 비즈니스용 OneDrive [참조하세요.](../onedrive-for-business-service-description.md)
+비즈니스용 OneDrive 플랜 2는 Office 365 A1, A3 및 A5에서 사용할 수 있습니다. 계획에서 사용할 수 있는 기능을 표시하는 경우 서비스 비즈니스용 OneDrive [참조하세요](../onedrive-for-business-service-description.md).
   
 ## <a name="sharepoint-online-features"></a>SharePoint Online 기능
 
-온라인 SharePoint 대한 자세한 내용은 SharePoint [Online 서비스 설명을 참조하세요.](../sharepoint-online-service-description/sharepoint-online-service-description.md)
+온라인 SharePoint 대한 자세한 내용은 SharePoint [온라인 서비스 설명을 참조하세요](../sharepoint-online-service-description/sharepoint-online-service-description.md).
 
 ### <a name="sharepoint-online-limits"></a>SharePoint Online 제한 사항
 
-다음 표에는 각 교육 SharePoint 대한 Office 365 제한이 설명되어 있습니다.<br><br>
+다음 표에는 각 교육 SharePoint 대한 제한이 Office 365 있습니다.<br><br>
   
 | 기능 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Storage<sup>1, 2</sup> |조직당 1 TB 및 구입한 라이선스당 10GB<sup>3개</sup> |조직당 1 TB 및 구입한 라이선스당 10GB<sup>3개</sup> |조직당 1 TB 및 구입한 라이선스당 10GB<sup>3개</sup> |
+|Storage <sup>1, 2</sup> |조직당 1 TB 및 구입한 라이선스당 <sup>10GB3</sup> |조직당 1 TB 및 구입한 라이선스당 <sup>10GB3</sup> |조직당 1 TB 및 구입한 라이선스당 <sup>10GB3</sup> |
 |스토어의 용어  |200,000  |200,000  |200,000  |
-|Storage 모음에 대한 정보  |사이트 모음 또는 그룹<sup>4당</sup> 최대 25 TB |사이트 모음 또는 그룹<sup>4당</sup> 최대 25 TB |사이트 모음 또는 그룹<sup>4당</sup> 최대 25 TB |
-|테넌트당 사이트 모음 수  |조직당 500,000개<sup></sup> |조직당 500,000개<sup></sup> |조직당 500,000개<sup></sup> |
+|Storage 모음에 대한 정보  |사이트 모음 또는 그룹 <sup>4</sup>당 최대 25 TB |사이트 모음 또는 그룹 <sup>4</sup>당 최대 25 TB |사이트 모음 또는 그룹 <sup>4</sup>당 최대 25 TB |
+|테넌트당 사이트 모음 수  |조직당 500,000<sup>개</sup> |조직당 500,000<sup>개</sup> |조직당 500,000<sup>개</sup> |
 |파일 업로드 제한  |15GB  |15GB  |15GB  |
-|사용자 수  |1- 500,000<sup>6</sup> |1- 500,000<sup>6</sup> |1- 500,000<sup>6</sup> |
+|사용자 수  |1- 500,0006<sup></sup> |1- 500,0006<sup></sup> |1- 500,0006<sup></sup> |
    
 > [!NOTE]
 > <sup>1</sup> Online 저장소에 무제한으로 추가 SharePoint 수 있습니다. [구독에 대한 저장소 공간 추가](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C)를 참조하세요. <br/> <sup>2</sup> 휴지통을 모니터링하며 정기적으로 비우는 것이 좋습니다. 휴지통에서 사용하는 저장소 공간은 조직이 사용하는 총 파일 저장소 한도의 일부입니다.<br/> 
 <sup>3</sup> 구독이 있는 경우 SharePoint 온라인 독립 실행형 계획이 있는 경우 저장소 금액이 추가됩니다.<br/> 
-<sup>4</sup> SharePoint Online 관리자가 사이트 모음 및 사이트에 대한 저장소 사용 제한을 설정할 수 있습니다.<br/> 
+<sup>4</sup> SharePoint Online 관리자는 사이트 모음 및 사이트에 대한 저장소 사용 제한을 설정할 수 있습니다.<br/> 
 <sup>5</sup> 사용이 허가된 비즈니스용 OneDrive 사이트 모음을 포함하지 않습니다.<br/> 
 <sup>6</sup> 사용자가 500,000명 이상인 경우 Microsoft 담당자에게 문의하시기 바랍니다. 
   
@@ -834,7 +834,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 다음 표에는 각 비즈니스용 Skype 사용할 수 있는 온라인 기능이 Office 365 나열되어 있습니다.
   
 > [!NOTE]
-> 이 표는 교육 옵션 전반에 걸쳐 클라이언트 및 Office 365 나타냅니다. 다양한 데스크톱 클라이언트, 웹 클라이언트 및 모바일 클라이언트 비즈니스용 Skype 개별 기능을 비교하려는 경우 비즈니스용 Skype [Online](/lyncserver/lync-server-2013-desktop-client-comparison-tables) 클라이언트 비교 표 및 모바일 클라이언트 비교 표를 [참조하세요.](/lyncserver/lync-server-2013-mobile-client-comparison-tables) 
+> 이 표는 교육 옵션 전반에 걸쳐 클라이언트 및 Office 365 나타냅니다. 다양한 데스크톱 클라이언트, 웹 클라이언트 비즈니스용 Skype 클라이언트 간 개별 기능을 비교하려는 경우 비즈니스용 Skype Online 클라이언트 비교 표 및 모바일 [클라이언트 비교 표](/lyncserver/lync-server-2013-desktop-client-comparison-tables)를 [참조하세요](/lyncserver/lync-server-2013-mobile-client-comparison-tables). 
   
 | 기능 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -880,7 +880,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |참가자가 선택한 보기  |예  |예  |예  |
 |OneNote 공유  |예  |예  |예  |
 |Ad hoc 및 schedule web conferencing  |예  |예  |예  |
-|비즈니스용 Skype 회의를 통한 모임 전화 접속(첫 번째 파티)  |아니요  |아니요  |예  |
+|비즈니스용 Skype 회의를 통한 모임 전화 접속(자사)  |아니요  |아니요  |예  |
 |비즈니스용 Skype ACP(오디오 회의 공급자)를 통한 모임 전화 접속  |예  |예  |예  |
 |PowerPoint 공유  |예  |예  |예  |
 |파일 전송  |예  |예  |예  |
@@ -934,8 +934,8 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |팀 통화  |아니요  |아니요  |예  |
 |화상 통화 모니터  |예  |예  |예  |
 |Voicemail  |아니요  |아니요  |예  |
-|[통화 플랜(추가](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) 기능을 구매해야 하는 국내 통화 플랜)  |아니요<sup>2</sup> |아니요<sup>2</sup> |예  |
-|[통화 플랜(국제](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) 통화 플랜, 추가 기능 구매 필요)  |아니요<sup>2</sup> |아니요<sup>2</sup> |예  |
+|[통화 플랜](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (추가 기능을 구매해야 하는 국내 통화 플랜)  |아니요<sup>2</sup> |아니요<sup>2</sup> |예  |
+|[통화 플랜](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (국제 통화 플랜, 추가 기능 구매 필요)  |아니요<sup>2</sup> |아니요<sup>2</sup> |예  |
 |[통신 크레딧](/microsoftteams/what-are-communications-credits?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json) |아니요  |아니요  |예  |
 |비즈니스용 Skype 음성  |예  |예  |예  |
 |**[보안 및 보관](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
@@ -948,7 +948,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |사용자 수준 보관 구성  |예  |예  |예  |
 |로그인 추적 파일  |예  |예  |예  |
 |**[Exchange 및 SharePoint 상호 운용성](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
-|현재 상태와 상호 Exchange Server  |예  |예  |예  |
+|현재 상태 상호 Exchange Server  |예  |예  |예  |
 |현재 상태와 상호 Exchange Online  |예  |예  |예  |
 |Exchange Server와의 통합 메시징 상호 운용성  |아니요  |아니요  |아니요  |
 |Exchange Online과의 통합 메시징 상호 운용성  |아니요  |아니요  |아니요  |
@@ -962,11 +962,11 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
 |Microsoft 365 관리 센터  |예  |예  |예  |
 |비즈니스용 Skype 관리 센터  |예  |예  |예  |
 |Windows PowerShell  |예  |예  |예  |
-|비즈니스용 Skype Online 보고 Microsoft 365 관리 센터  |예  |예  |예  |
+|비즈니스용 Skype 온라인 보고 Microsoft 365 관리 센터  |예  |예  |예  |
    
 > [!NOTE]
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Lync Basic 데스크톱 클라이언트는 로컬로 설치된 응용 프로그램으로, 온라인을 사용하는 계획에 대해 현재 상태, 인스턴트 메시징 및 회의 기능을 비즈니스용 Skype 있습니다. 엔터프라이즈용 Microsoft 365 앱 및 Office 365 A3 포함된 전체 비즈니스용 Skype(Lync) 응용 프로그램에는 고급 전화 통신 지원, 보관 및 규정 준수 기능과 같은 추가 기능이 포함됩니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대한 자세한 내용은 [데스크톱 클라이언트 Comarison 테이블을 참조하세요.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
-<sup>2</sup> 음성 메일을 Exchange Online(계획 2) 사용자에 대해 사용자 지정 계획을 할당해야 합니다. Exchange Online(계획 1) 계획은 음성 메일에 사용할 수 없습니다. 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Lync Basic 데스크톱 클라이언트는 로컬로 설치된 응용 프로그램으로, 온라인을 사용하는 계획에 대한 현재 상태, 인스턴트 메시징 및 회의 비즈니스용 Skype 있습니다. 엔터프라이즈용 Microsoft 365 앱 및 Office 365 A3 고급 전화 통신 지원, 보관 및 규정 준수 기능과 같은 추가 기능을 포함하는 전체 비즈니스용 Skype(Lync) 응용 프로그램이 포함됩니다. A Skype for Business Online license must be assigned for each user. Lync Basic 기능에 대한 자세한 내용은 [데스크톱 클라이언트 Comarison 테이블을 참조하세요.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
+<sup>2</sup> 음성 메일을 사용하려는 Exchange Online(계획 2) 요금제에 할당해야 합니다. Exchange Online(계획 1) 계획은 음성 메일에 사용할 수 없습니다. 
   
 ### <a name="skype-for-business-online-limits"></a>비즈니스용 Skype Online 제한
 
@@ -996,13 +996,13 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
    
 #### <a name="meeting-limits"></a>모임 제한
 
-- **파일 업로드 제한** - 유인 파일 및 프레젠테이션을 포함하여 비즈니스용 Skype 모임에 업로드할 수 있는 파일의 최대 PowerPoint. 
+- **파일 업로드 제한** - 유인 파일 및 프레젠테이션을 포함하여 비즈니스용 Skype 모임에 업로드할 수 있는 PowerPoint 크기입니다. 
     
 - **비즈니스용 Skype** 모임의 참가자 - 단일 모임에 참가할 수 있는 최대 참가자 수(발표자 포함)비즈니스용 Skype. 
     
 - **비즈니스용 Skype** 모임의 발표자 - 단일 모임의 최대 발표자 비즈니스용 Skype. 
     
-- **비즈니스용 Skype 웹앱** 모임 참가자 - 모임에 참가할 비즈니스용 Skype 웹앱 모임 참가자의 최대 수입니다. 
+- **비즈니스용 Skype 웹** 앱 모임 참가자 - 모임에 참가할 비즈니스용 Skype 웹앱 모임 참가자의 최대 수입니다. 
     
 - **비즈니스용 Skype 웹앱 익명** 참가자 - 익명으로 모임에 참가할 비즈니스용 Skype 웹앱 모임 참가자의 최대 수입니다. 
     
@@ -1023,7 +1023,7 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
   
 #### <a name="meeting-retention-limits"></a>모임 보존 제한
 
-- **모임 콘텐츠** 보존 기간 - 마지막 사람이 모임을 떠나 업로드된 모임 콘텐츠가 영구적으로 삭제되기 비즈니스용 Skype 보존되는 시간입니다. 
+- **모임 콘텐츠 보존 기간** - 마지막 사람이 모임을 떠나 업로드된 모임 콘텐츠가 영구적으로 삭제되기 전에 비즈니스용 Skype 시간입니다. 
     
 - **모임 만료 기간** - 모임이 종료된 후 사용자가 모임에 액세스할 수 있는 시간입니다. 
     
@@ -1041,4 +1041,4 @@ Exchange Online에서는 사용자 사서함이 제한 용량에 가까워지거
    
 #### <a name="minute-limits"></a>분 한도
 
-온라인 국내 및 국제 통화 비즈니스용 Skype 분의 제한에 대한 자세한 내용은 비즈니스용 Skype [온라인 PSTN 서비스 사용 약관을 참조하세요.](/microsoftteams/complimentary-dial-out-period#skype-for-business-pstn-services)
+온라인 국내 및 국제 통화 비즈니스용 Skype 분의 제한에 대한 자세한 내용은 비즈니스용 Skype [온라인 PSTN 서비스 사용 약관을 참조하세요](/microsoftteams/complimentary-dial-out-period#skype-for-business-pstn-services).
