@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Microsoft 365 및 독립 실행형 계획에 대한 SharePoint 제한에 대해 알아보세요.
-ms.openlocfilehash: 6bb37e4291f3826e09ccde354013cdc3117102ac
-ms.sourcegitcommit: 36cce83d0f146c904ca02a251ba02a5ab913e3ef
+ms.openlocfilehash: 5da27b4b889be7890946787d56618fcc007fd10b
+ms.sourcegitcommit: 172963e811598f2b94d3b65150cec1d0487af197
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63382739"
+ms.lasthandoff: 03/10/2022
+ms.locfileid: "63419456"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 제한
 
@@ -23,7 +23,7 @@ Microsoft 365 SharePoint의 서비스 제한에 대해 알아보세요.
   
 ## <a name="limits-by-plan"></a>플랜별 제한 사항 
 
-| 기능 | Microsoft 365 Business Basic, Business Standard 또는 Business Premium | Microsoft 365 E3 또는 E5, Office 365 E1, E3 또는 E5 또는 SharePoint 플랜 1 또는 2 | Microsoft 365 F1 또는 F3, Office 365 F3 |
+| 기능 | Microsoft 365 Business Basic, Business Standard 또는 Business Premium | Microsoft 365 A3, E3, G3 & A5, E5, G5</br>Office 365 A3, E3, G3 & A5, E5, G5</br>Office 365 A1, E1, G1</br>SharePoint 계획 1 또는 2 | Microsoft 365 F1 또는 F3, Office 365 F3 |
 |:-----|:-----|:-----|:-----|
 |조직당 총 저장소 <sup>1, 2, 5</sup> <br/> |1TB + 구매한 라이선스당 10GB<sup>3</sup>  <br/> |1TB + 구매한 라이선스당 10GB<sup>3</sup> <br/> |1TB<sup>3</sup> <br/> |
 |사이트당 최대 저장소(사이트 모음)<sup>4</sup><br/> |25TB <br/> |25TB <br/> |25TB <br/> |
@@ -104,7 +104,7 @@ SharePoint 또는 명시적 중지 작업이 없는 경우 2013 워크플로를 
 
 ### <a name="hold-limits"></a>보류 제한
 
-보류에는 eDiscovery 사례 보류 및 Microsoft 365 및 SharePoint 보존 정책이 OneDrive. DLP, 정보 장벽 및 민감도 레이블에 대한 정책도 포함된 준수 정책에 대한 테넌트당 최대 10,000개에 해당합니다.
+보류에는 eDiscovery 사례 보류 및 Microsoft 365 및 SharePoint 보존 정책이 OneDrive. 이는 DLP, 정보 장벽 및 민감도 레이블에 대한 정책도 포함하는 규정 준수 정책의 경우 테넌트당 최대 10,000개에 포함됩니다.
 
 지원되는 최대 보류 수:
 
