@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 라이선스가 없는 액세스로 Microsoft 365 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: c67af5da2179efc3265b11be0e4b535346ae699e
-ms.sourcegitcommit: 172963e811598f2b94d3b65150cec1d0487af197
+ms.openlocfilehash: e8e54e422c5a954600247bf294084fe6fc19c04e
+ms.sourcegitcommit: 7c9a6a223caf448c660ac820d014026a4f55bcd2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2022
-ms.locfileid: "63419446"
+ms.lasthandoff: 03/11/2022
+ms.locfileid: "63435404"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 준수를 위한 지침 &amp;
 
@@ -484,7 +484,7 @@ Microsoft 365 E3/A3/G3, Office 365 E3/A3/G3 및 Azure Information Protection 요
 
 - Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium(Office 365용 정보 보호 - E5 라이선스만 할당된 경우 표준을 사용하도록 설정해야 합니다.
 - Enterprise Mobility + Security E3/E5
-- Office 365 E5/A5/E3/A3/F3
+- Office 365 E5/A5/E3/A3
 - AIP 계획 1
 - AIP 계획 2
 
