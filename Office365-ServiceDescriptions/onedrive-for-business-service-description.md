@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 어떤 계획에서 어떤 OneDrive 기능을 사용할 수 있는지 확인합니다.
-ms.openlocfilehash: 4d35862b6cb6d27f866537e535b4001159d3e853
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 1b0755376827dca701d647de026d1b4b37d21d1c
+ms.sourcegitcommit: 7c9a6a223caf448c660ac820d014026a4f55bcd2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59669970"
+ms.lasthandoff: 03/11/2022
+ms.locfileid: "63435394"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 서비스 설명
 
@@ -33,7 +33,7 @@ OneDrive는 Microsoft 365 및 Office 365 플랜의 SharePoint 플랜에 포함�
 
 ## <a name="feature-availability"></a>기능 가용성
 
-다음 표에는 여러 플랜에서 사용할 수 있는 주요 OneDrive 기능이 나와 있습니다. 특정 경고가 적용됩니다. 자세한 내용은 각주를 참조하세요. 이 표는 통지 없이 변경될 수 있습니다. 최신 전체 기능 목록은 [OneDrive 서비스 설명](/office365/servicedescriptions/onedrive-for-business-service-description)을 참조하세요.
+다음 표에는 여러 플랜에서 사용할 수 있는 주요 OneDrive 기능이 나와 있습니다. 특정 경고가 적용됩니다. 자세한 내용은 각주를 참조하세요. 이 표는 통지 없이 변경될 수 있습니다. OneDrive 플랜 전체에서 사용할 수 있는 기능의 전체 목록을 보려면 [Microsoft OneDrive](https://www.microsoft.com/microsoft-365/onedrive/onedrive-for-business)로 이동하세요. 이러한 기능 중 일부에 대한 더 자세한 설명은 다음에 나옵니다.
 
 | 기능 | 독립 실행형 플랜 | 소규모 기업 | 엔터프라이즈 | 교육 기관 | 정부 기관 | 비영리 조직  |
 |---------|-------------------|----------------|------------|-----------|------------|-------------|
@@ -44,7 +44,7 @@ OneDrive는 Microsoft 365 및 Office 365 플랜의 SharePoint 플랜에 포함�
 | 모바일 기능 | 예 | 예 | 예 | 예 | 예 | 예 |
 | IT 관리자, 보안 및 규정 준수 기능 | 예 | 예 | 예 | 예 | 예 | 예 |
 
-<sup>1</sup> 사용자당 OneDrive 저장소에 대한 자세한 내용은 OneDrive [최신 작업 비교](https://go.microsoft.com/fwlink/?linkid=2139145)에서 확인하세요.
+<sup>1</sup> 사용자당 OneDrive 저장소에 대한 자세한 내용은 [최신 작업 계획 비교](https://go.microsoft.com/fwlink/?linkid=2139145) 또는 중소기업용 [M365 사용자 구독 제품군](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWR6bM)에서 OneDrive를 확인할 수 있습니다.
 
 ## <a name="learn-more"></a>자세한 정보
 
@@ -53,6 +53,12 @@ OneDrive는 Microsoft 365 및 Office 365 플랜의 SharePoint 플랜에 포함�
 - [OneDrive](/onedrive/onedrive)
 - [Microsoft OneDrive 블로그](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/bg-p/OneDriveBlog)
 - 대부분의 구독 플랜에서 각 사용자의 OneDrive에 제공되는 기본 저장소 공간은 1TB입니다. 계획 및 사용이 허가된 사용자 수에 따라 이 스토리지를 최대 5TB까지 늘릴 수 있습니다. 자세한 내용은 [OneDrive 클라우드 저장소 가격 및 요금제 비교](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2)에서 **핵심 기능** 을 참조하세요.
+
+### <a name="supported-uses"></a>지원되는 사용
+
+비즈니스용 OneDrive를 사용하여 모든 사용자는 클라우드의 개인 온라인 저장소 공간에서 작업 파일을 쉽게 저장, 액세스 및 공유할 수 있습니다. 비즈니스용 OneDrive 저장소는 사용자별로 프로비전되며, 개별 사용자의 요구를 해결하도록 고안되었습니다.
+
+각 개인의 작업 파일 이외의 데이터(시스템 백업 및 부서/조직 수준 데이터 포함)를 저장하는 것은 지원되지 않으며, 사용자 기준 라이선스를 봇, 부서 또는 기타 인간이 아닌 엔터티에 할당하는 것도 지원되지 않습니다. SharePoint는 팀이나 조직 내의 파일, 커뮤니케이션 및 인트라넷 사이트 저장 및 관리를 포함하여 좀 더 높은 수준의 콘텐츠 관리 및 공동 작업을 위한 최상의 솔루션입니다.
 
 ### <a name="licensing-terms"></a>사용 조건
 
