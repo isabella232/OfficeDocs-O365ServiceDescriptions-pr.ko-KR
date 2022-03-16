@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 라이선스가 없는 액세스로 Microsoft 365 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: e8e54e422c5a954600247bf294084fe6fc19c04e
-ms.sourcegitcommit: 7c9a6a223caf448c660ac820d014026a4f55bcd2
+ms.openlocfilehash: d3abf40b8cba64cf25148820918d9be03339631a
+ms.sourcegitcommit: baf5696d90d2e9493efc40c48186f7ad8f667995
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2022
-ms.locfileid: "63435404"
+ms.lasthandoff: 03/16/2022
+ms.locfileid: "63509314"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 준수를 위한 지침 &amp;
 
@@ -88,7 +88,7 @@ SecOps 분석가 및 보안 전문가는 기계 학습 알고리즘을 기반으
 - Azure Active Directory 계획 1: Microsoft 365 E3/A3/G3/F1/F3, Enterprise Mobility & Security E3 및 Microsoft 365 Business Premium
 - Azure Active Directory 계획 2: Microsoft 365 E5/A5/G5, Enterprise Mobility & Security E5, Microsoft 365 E5/F5 Security and Microsoft 365 F5 Security & Compliance
 
-사용 가능한 여러 계획에 포함된 기능에 대한 자세한 내용은 ID 보호의 Azure Active Directory [참조하세요.](/azure/active-directory/identity-protection/overview-identity-protection#license-requirements)
+사용 가능한 여러 계획에 포함된 기능에 대한 자세한 내용은 ID 보호의 Azure Active Directory [참조하세요.](https://www.microsoft.com/en-us/security/business/identity-access-management/azure-ad-pricing)
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
@@ -365,6 +365,26 @@ Microsoft 365 E3/A3/G3 및 Office 365 E3/A3/G3을 사용하면 사용자가 콘�
 
 이 기능은 규정 준수 포털 내에서 솔루션을 적극적으로 사용하는 Microsoft 365 합니다.
 
+## <a name="information-protection-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>정보 보호: Exchange Online, SharePoint Online 및 비즈니스용 OneDrive
+
+Office 365, Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 대한 DLP(데이터 손실 방지)를 사용하여 조직은 전자 메일 및 파일(Microsoft Teams 파일에 저장된 파일 포함)에서 중요한 정보를 식별, 모니터링 및 자동으로 보호할 수 있습니다. 리포지토리)
+
+### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
+
+사용자는 조직의 DLP 정책에 구성된 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive 파일에서 중요한 정보를 검사할 때 DLP를 사용할 수 있습니다.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
+
+Microsoft 365 E3/A3/Business Premium, Office 365 E3/A3 및 Office 365 데이터 손실 방지 및 F5 준수 및 F5 보안 & 규정 준수는 사용자에게 Office 365 DLP의 혜택을 받을 수 있는 권한을 Exchange Online. SharePoint 온라인 및 비즈니스용 OneDrive.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
+
+기본적으로 Exchange Online, SharePoint 사이트 및 OneDrive 계정은 테넌트 내의 모든 사용자에 대해 이러한 DLP 기능에 대한  위치(작업)를 사용하도록 설정됩니다. DLP 정책 사용에 대한 자세한 내용은 데이터 손실 방지 [개요를 참조하세요](/microsoft-365/compliance/data-loss-prevention-policies).
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 사용이 허가된 테넌트의 사용자에게만 서비스를 적용할 수 있는 방법
+
+관리자는 데이터 손실 방지의 위치(작업)를 사용자 지정하고, 사용자를 포함하며, &amp;  >  보안 및 준수 센터에서 사용자를 제외할 **수 있습니다**.
+
 ## <a name="information-protection-data-loss-prevention-for-teams"></a>정보 보호: 데이터 손실 Teams
 
 조직에서는 통신 DLP를 사용하여 Teams 정보, 개인 식별 정보, 상태 관련 정보 또는 기타 기밀 정보와 같은 중요한 정보를 포함하는 채팅 및 채널 메시지를 차단할 수 있습니다.
@@ -383,26 +403,6 @@ Microsoft 365 E3/A3/G3 및 Office 365 E3/A3/G3을 사용하면 사용자가 콘�
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 
 기본적으로 Teams 및 채널 메시지는 테넌트 내의 모든 사용자에 대해  이러한 DLP 기능에 대해 사용하도록 설정된 위치(작업량)입니다. DLP 정책 사용에 대한 자세한 내용은 데이터 손실 방지 [개요를 참조하세요](/office365/securitycompliance/data-loss-prevention-policies).
-
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 사용이 허가된 테넌트의 사용자에게만 서비스를 적용할 수 있는 방법
-
-관리자는 데이터 손실 방지 **Locations** 에서 보안 및 준수 센터에서 위치(작업),  > &amp; 포함된 사용자 및 제외된 사용자를 사용자 지정할 수 있습니다.
-
-## <a name="information-protection-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>정보 보호: Exchange Online, SharePoint Online 및 비즈니스용 OneDrive
-
-Office 365, Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에 대한 DLP(데이터 손실 방지)를 사용하여 조직은 전자 메일 및 파일(Microsoft Teams 파일에 저장된 파일 포함)에서 중요한 정보를 식별, 모니터링 및 자동으로 보호할 수 있습니다. 리포지토리)
-
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
-
-사용자는 조직의 DLP 정책에 구성된 Exchange Online, SharePoint Online 및 비즈니스용 OneDrive 파일에서 중요한 정보를 검사할 때 DLP를 사용할 수 있습니다.
-
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
-
-Microsoft 365 E3/A3/Business Premium, Office 365 E3/A3 및 Office 365 데이터 손실 방지 및 F5 준수 및 F5 보안 & 규정 준수는 사용자에게 Office 365 DLP의 혜택을 받을 수 있는 권한을 Exchange Online. SharePoint 온라인 및 비즈니스용 OneDrive.
-
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
-
-기본적으로 Exchange Online, SharePoint 사이트 및 OneDrive 계정은 테넌트 내의 모든 사용자에 대해 이러한 DLP 기능에 대한  위치(작업)를 사용하도록 설정됩니다. DLP 정책 사용에 대한 자세한 내용은 데이터 손실 방지 [개요를 참조하세요](/microsoft-365/compliance/data-loss-prevention-policies).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 사용이 허가된 테넌트의 사용자에게만 서비스를 적용할 수 있는 방법
 
@@ -550,28 +550,6 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 F5 보안 & 규
 Microsoft 365 규정 준수 센터 정책을 만들 때 사용자 및 그룹 선택 페이지에서 사용자 또는 그룹  선택을 선택하여 사용이 허가된  사용자만 선택하거나 모든 사용자에게 라이선스가 부여된 경우 모든 사용자 및 메일 사용 가능 그룹 확인란을 선택할 수 있습니다. 자세한 내용은 내부자 위험 관리 [시작을 참조하세요](/microsoft-365/compliance/insider-risk-management-configure).
 
 ## <a name="microsoft-defender-for-business"></a>비즈니스용 Microsoft Defender
-
-비즈니스용 Microsoft Defender는 중소기업(최대 300명 직원)을 위해 설계된 새로운 끝점 보안 솔루션입니다. 이 끝점 보안 솔루션을 통해 중소기업(SMB) 조직 장치는 랜섬웨어, 맬웨어, 피싱 및 기타 위협으로부터 더 잘 보호됩니다.
-
-자세한 내용은 [비즈니스용 Microsoft Defender를 참조하세요](/microsoft-365/security/defender-business).
-
-### <a name="which-licenses-provide-the-rights-for-users-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까? 
-
-비즈니스용 Microsoft Defender는 비즈니스용 Microsoft Microsoft 365 Business Premium 포함됩니다. 현재 Microsoft 365 Business Premium 서비스가 2월 말부터 테넌트에 백업되어 있으며, 이 서비스는 다음 몇 주 동안 완료됩니다.  
-
-독립 실행형 버전의 비즈니스용 Defender는 미리 보기에 있으며 올해 말에 일반적으로 제공될 것입니다. 자세한 내용은  [비즈니스용 Microsoft Defender를 다운로드하는 방법을 참조합니다](/microsoft-365/security/defender-business/get-defender-business).
-
-### <a name="how-do-users-benefit-from-the-service"></a>사용자가 서비스를 통해 어떤 혜택을 받을 수 있나요?
-
-비즈니스용 [Microsoft Defender](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/new-security-solutions-to-help-secure-small-and-medium/ba-p/3207043)를 Microsoft 365 Business Premium 추가하면 플랫폼 간 엔드포인트 보호 및 정교한 랜섬웨어 방어와 끝점 감지 및 대응, 자동화된 조사 및 수정과 같은 기술을 추가하여 Premium 기존 생산성 및 보안 제공을 강화할 수 있습니다.
-
-### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식 
-
-기본적으로 비즈니스용 Microsoft Defender 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 사용자 Microsoft 365 Business Premium 포털을 통해 비즈니스용 Defender에 [액세스할 Microsoft 365 Defender 있습니다](https://sip.security.microsoft.com/homepage). 
-
-자세한 내용은 [비즈니스용 Microsoft Defender FAQ](/microsoft-365/security/defender-business/get-defender-business) 를 검토하고 추가 리소스에 대한 링크를 참조하세요.
-
-## <a name="microsoft-defender-for-identity"></a>ID용 Microsoft Defender
 
 비즈니스용 Microsoft Defender는 중소기업(최대 300명 직원)을 위해 설계된 새로운 끝점 보안 솔루션입니다. 이 끝점 보안 솔루션을 통해 중소기업(SMB) 조직 장치는 랜섬웨어, 맬웨어, 피싱 및 기타 위협으로부터 더 잘 보호됩니다.
 
