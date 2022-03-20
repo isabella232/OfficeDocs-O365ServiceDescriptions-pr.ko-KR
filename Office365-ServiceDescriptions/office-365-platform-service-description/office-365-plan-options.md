@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365는 조직의 요구 사항을 가장 효율적으로 충족할 수 있도록 다양한 계획으로 제공됩니다.
-ms.openlocfilehash: f982be4a0d3b964315bf7659c80f27c2a49342b3
-ms.sourcegitcommit: 36cce83d0f146c904ca02a251ba02a5ab913e3ef
+ms.openlocfilehash: 1c1f98d1bb959cc56bf8a95d24ffacc1f6bbabb1
+ms.sourcegitcommit: 2c8d31610cf94a32ec286a4d4ffc2b8005b94462
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63382809"
+ms.lasthandoff: 03/19/2022
+ms.locfileid: "63658899"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 및 Office 365 요금제 옵션
 
@@ -76,7 +76,7 @@ Microsoft 365 Office 365 요구 사항을 가장 잘 충족하기 위해 다양�
 <sup>13</sup> 온라인 비즈니스용 Skype 1이 포함됩니다.<br>
 <sup>14</sup> Microsoft Teams 메시징, 모임 및 통화의 기본 클라이언트가 Microsoft 365. 2018년 10월 1일 현재 사용자 수가 500명 이하인 신규 고객은 Microsoft Teams 온라인에 액세스할 수 비즈니스용 Skype 없습니다. 이미 비즈니스용 Skype Online을 사용하고 있는 테넌트는 새 사용자 프로비저닝을 포함하여 해당 사용자로의 전환을 완료할 때까지 계속할 수 Microsoft Teams.<br>
 <sup>15</sup> 자동 분류 및 Microsoft 365 E5 Compliance, 고객 키, 고급 메시지 암호화, 내부자 위험 관리, 통신 규정 준수, 정보 장벽, 고객 Lockbox, 권한 있는 액세스 관리, 고급 감사, 레코드 관리 및 Advanced eDiscovery 기능을 제공합니다. Microsoft 365 E5 Security Microsoft Defender for Office 365 Plan 2, Microsoft Defender for Endpoint, Azure Active Directory Plan 2, Identity용 Microsoft Defender, 클라우드 앱용 Microsoft Defender 및 금고 문서가 포함됩니다.<br>
-<sup>16</sup> Microsoft 365 F1 사서함에 대한 권한을 포함하지 Exchange 않습니다. 전체 Teams 사용하려면 M365 F1 라이선스에 K1 서비스 Exchange Online 사용할 수 있습니다. Exchange Online K1 서비스 계획에서 사용자를 위해 사서함을 프로비전하기는 하지만 M365 F1 사용자는 사서함을 사용할 자격이 없습니다. 고객은 이러한 단계를 통해 웹용 Outlook 사용하지 않도록 설정하고 사용자에게 다른 [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) 방법을 통해 Exchange 사서함에 액세스하지 않도록 요청하는 것이 좋습니다.<br>
+<sup>16</sup> Microsoft 365 F1 사서함에 대한 권한을 포함하지 Exchange 않습니다. 전체 Teams 사용하려면 Microsoft 365 F1 K1 서비스 계획을 사용하도록 설정한 Exchange Online 수 있습니다. Exchange Online K1 서비스 계획에서 사용자를 위해 사서함을 프로비전하기는 하지만 Microsoft 365 F1 사서함을 사용할 자격이 없습니다. 고객은 이러한 단계를 통해 웹용 Outlook 사용하지 않도록 설정하고 사용자에게 다른 [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) 방법을 통해 Exchange 사서함에 액세스하지 않도록 요청하는 것이 좋습니다.<br>
 <sup>17</sup> Microsoft 365 F1 사용자가 웹용 Office 파일을 읽을 수 있지만 만들기/편집/저장 권한은 없습니다. 
   
 #### <a name="basic-client-limitations"></a>기본 클라이언트 제한 사항

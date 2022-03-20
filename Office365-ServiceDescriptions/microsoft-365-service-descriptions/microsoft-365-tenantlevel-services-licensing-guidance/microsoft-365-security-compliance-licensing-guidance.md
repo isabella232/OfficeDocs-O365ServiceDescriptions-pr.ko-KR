@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 라이선스가 없는 액세스로 Microsoft 365 서비스 중단을 방지하는 데 도움이 되는 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: d3abf40b8cba64cf25148820918d9be03339631a
-ms.sourcegitcommit: baf5696d90d2e9493efc40c48186f7ad8f667995
+ms.openlocfilehash: 360f2dfb0c17a769af03f275f7634c7f0d9d507f
+ms.sourcegitcommit: 3b0b5b5430e2d321c1b2c81ff23fdc91cf406afc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/16/2022
-ms.locfileid: "63509314"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63558883"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 준수를 위한 지침 &amp;
 
@@ -766,9 +766,9 @@ Microsoft Defender에서 Office 365 범위 지정을 금고 링크 및 첨부 �
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스를 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇입니까?
 
 - Microsoft 365 E5/A5
-- Microsoft 365 E5/A5 규정 준수
-- E5/A5 보안 Microsoft 365
+- Microsoft 365 E5/A5/F5 규정 준수
 - Microsoft 365 E5/A5 Information Protection 및 거버넌스
+- Microsoft 365 F5 보안 및 & 준수
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스가 프로비전/배포되는 방식
 

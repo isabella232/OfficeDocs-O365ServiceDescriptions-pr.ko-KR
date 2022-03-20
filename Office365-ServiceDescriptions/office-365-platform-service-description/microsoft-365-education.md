@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: 계획과 계획 간의 Microsoft 365 Office 365 Education 대해 자세히 알아보습니다.
-ms.openlocfilehash: 11b071668d476a954d4b968889a5eff1a4b70922
-ms.sourcegitcommit: 36cce83d0f146c904ca02a251ba02a5ab913e3ef
+ms.openlocfilehash: 2b9e3137d93939f5c5f079a1a178a5a3633fb086
+ms.sourcegitcommit: 2c8d31610cf94a32ec286a4d4ffc2b8005b94462
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63382859"
+ms.lasthandoff: 03/19/2022
+ms.locfileid: "63658929"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -122,5 +122,5 @@ Microsoft 365 이동성 및 보안에 대한 Office 365, Windows 10 및 Enterpri
 > <sup>12</sup> 이전의 Microsoft Defender Advanced Threat Protection. <br/>
 > <sup>13 Education A3</sup> Windows A5에 포함된 유니버설 인쇄입니다. <br/>
 > <sup>14</sup> 0(영) 인쇄 작업이 포함됩니다. <br/>
-> <sup>15</sup> Viva Learning O365 및 M365 A1, A3 및 A5 for Faculty에 대한 유료 추가 기능으로 사용할 수 있습니다. <br/>
+> <sup>15</sup> Viva Learning 추가 기능으로 사용할 수 있습니다. Office 365, Microsoft 365 A1, A3 및 교직원용 A5를 유료 추가 기능으로 사용할 수 있습니다. <br/>
 > <sup>16</sup> 학생 또는 학생 사용 혜택에는 사용할 수 없습니다. <br/>
