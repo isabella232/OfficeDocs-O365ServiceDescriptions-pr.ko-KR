@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: Microsoft Forms를 사용하여 사용자 지정 지식 검사, 설문 조사, 등록 등 쉽고 빠르게 만들 수 있는 방법에 대해 자세히 알아보습니다.
-ms.openlocfilehash: c00b82308e811b40b4328fe5ffdcfab642bac1a0
-ms.sourcegitcommit: 2c8d31610cf94a32ec286a4d4ffc2b8005b94462
+ms.openlocfilehash: 654d8c29bfd430538f928a1e386f99a557ab14b8
+ms.sourcegitcommit: 167c817e959598988dd67aefd521c2018c5b2260
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2022
-ms.locfileid: "63658909"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63761260"
 ---
 # <a name="microsoft-forms-service-description"></a>Microsoft Forms 서비스 설명
 
@@ -23,7 +23,7 @@ Microsoft Forms는 많은 기관, 기업 및 정부 기관에서 데이터 수�
 
 ## <a name="available-plans"></a>사용 가능한 플랜
 
-[Microsoft Forms](https://forms.microsoft.com/)는 business basic, standard 및 premium과 같은 Microsoft 365 사용할 수 있습니다. Microsoft 365 A3/A5 및 E3/E5; Office 365 A1/A3/A5 및 E1/E3/E5 및 Microsoft 365/Office 365 F3. 자세한 내용은 [M365](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEBAF) 비즈니스 요금제 비교, [M365](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FM365EnterprisePlans&data=04%7C01%7Cv-annhem%40microsoft.com%7C79c2f1a8e8ac4f886ba108d94e0fcc77%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637626652025884338%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=de4WVBq68C4IWCQXw9j64EnYwcX6W9ubh7NgTojH%2Fwk%3D&reserved=0) Enterprise 요금제 비교 및 [M365 Education](https://aka.ms/M365EduPlans) 계획 비교 시트를 참조하십시오.
+[Microsoft Forms](https://forms.microsoft.com/)는 business basic, standard 및 premium과 같은 Microsoft 365 사용할 수 있습니다. Microsoft 365 A3/A5 및 E3/E5; Office 365 A1/A3/A5 및 E1/E3/E5 및 Microsoft 365/Office 365 F3. 자세한 내용은 비즈니스 계획 비교를 [](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEBAF)Microsoft 365 계획 비교를 Microsoft 365 Enterprise 계획 비교 [Microsoft 365 Education 참조하십시오](https://aka.ms/M365EduPlans). [](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FM365EnterprisePlans&data=04%7C01%7Cv-annhem%40microsoft.com%7C79c2f1a8e8ac4f886ba108d94e0fcc77%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637626652025884338%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=de4WVBq68C4IWCQXw9j64EnYwcX6W9ubh7NgTojH%2Fwk%3D&reserved=0)
 
 Microsoft Forms는 Microsoft 계정이 있는 [](https://www.microsoft.com/education/products/office/default.aspx) Office 365 Education, 비즈니스용 Microsoft 365 앱 사용자(Hotmail, Live 또는 Outlook.com)에서도 일반적으로 사용할 수 있습니다.자세한 내용은 [Microsoft Forms에 대한 질문과 대답으로 이동하세요](https://support.microsoft.com/office/frequently-asked-questions-about-microsoft-forms-495c4242-6102-40a0-add8-df05ed6af61c). 사용자가 Microsoft Forms를 사용할 수 있도록 하는 구독에 대한 자세한 계획 정보는 [Microsoft 솔루션 비교 표를 참조하세요](https://go.microsoft.com/fwlink/?linkid=2139145).
 
@@ -75,7 +75,7 @@ Microsoft Forms는 Microsoft 계정이 있는 [](https://www.microsoft.com/educa
 <sup>1</sup> 브랜드에 대한 사용자 지정이 제한됩니다. 사용자는 이미지를 변경할 수만 있습니다.<br> <sup>2</sup> High 및 DoD 환경에서는 GCC 공유를 사용할 수 없습니다.<br/>
 <sup>3</sup> High 및 DoD 환경에서는 GCC 사용할 수 없습니다.
 
-## <a name="learn-more"></a>자세히 알아보기
+## <a name="learn-more"></a>자세한 정보
 
 Microsoft Forms에 대한 자세한 내용은 다음 리소스를 참조하십시오.
 

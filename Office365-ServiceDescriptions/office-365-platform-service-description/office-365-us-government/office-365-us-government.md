@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Microsoft는 미국 공공 부문의 고유하고 진화하는 요구 사항에 대응하여 Office 365 미국 정부 플랜(또는 Office 365 Government)를 Office 365 Government. 이 문서에서는 미국 환경과 관련한 기능에 Office 365 Government 제공합니다.
-ms.openlocfilehash: 45111d6befb891daeffd5256b2a35d5b77269404
-ms.sourcegitcommit: 36cce83d0f146c904ca02a251ba02a5ab913e3ef
+ms.openlocfilehash: 6aedf2377b574b9dc27a2439930934c106c0535d
+ms.sourcegitcommit: 167c817e959598988dd67aefd521c2018c5b2260
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63382762"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63761280"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -270,7 +270,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 <br/><sup>20</sup> 자세한 내용은 고객 키를 사용하여 [서비스 암호화를 참조하세요](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697).
 <br/><sup>21</sup> Microsoft 365 감사는 조직의 여러 서비스에서 다양한 유형의 감사 활동을 조직에 Microsoft 365. Security [& 준수](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 센터 감사 로그 검색을 사용하여 조직의 사용자 및 관리자 활동을 볼 수 있습니다. 또한 관리 활동 API를 [Office 365](/office/office-365-management-api/office-365-management-activity-api-reference) 통합 감사 로그에서 이벤트를 검색할 수 있습니다. 사용자 또는 관리자가 감사 활동을 수행하면 감사 레코드가 생성되어 고객 조직에 대한 감사 로그에 저장됩니다. 감사 레코드가 보존되는 기간(감사 로그에서 검색 가능)은 고객의 Office 365 또는 Microsoft 365 Enterprise 구독 및 특정 사용자에게 할당된 라이선스 유형에 따라 다릅니다.
 <br/><sup>22</sup> Stream(클래식)이 결국 Stream(클래식)으로 SharePoint.
-<br/><sup>23</sup> Stream(SharePoint)은 비디오를 SharePoint, OneDrive Teams.  이는 모든 정부 서비스에서 이미 지원됩니다.  M365 로드맵에는 Office, 닫힌 캡션, 기록 등의 추가 향상된 스트림 시작 페이지가 있습니다.
+<br/><sup>23</sup> Stream(SharePoint)은 비디오를 SharePoint, OneDrive Teams.  이는 모든 정부 서비스에서 이미 지원됩니다.  이 로드맵에는 Office, 닫힌 캡션, 전사 등의 스트림 시작 페이지와 같은 추가 Microsoft 365 있습니다.
 
 ## <a name="office-application-availability-and-enterprise-value"></a>Office 가용성 및 엔터프라이즈 가치 제공
 
@@ -350,7 +350,7 @@ Office 365 Government 계획에 대한 시스템 요구 사항을 보려면 [off
 |아이디어(Insight Services)|예|아니요|아니요|아니요|
 |데이터 형식과의 Power BI(Power BI 데이터 Power BI)<sup>3 개선</sup>||아니요|아니요|아니요|
 |지능형 디지털 Ink||아니요|아니요|아니요|
-|Power View(O365 및 2021에서 모든 고객에 대해 기능이 제거됨에 따라 2016/2019에 적용됨)||아니요|아니요|아니요|
+|Power View(2016/201 Office 365 9 및 2021년 및 2021년의 모든 고객에 대해 기능이 제거됨)||아니요|아니요|아니요|
 |스마트 조회|예|아니요|아니요|아니요|
 |[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c)는 현재 사용할 수 없는 다음 기능을 제외하고 정부 클라우드에서 완전히 사용할 수  있습니다.||**GCC**|**GCC High**|**DOD**|
 |고객 음성(Forms Pro)||예|아니요|아니요|
