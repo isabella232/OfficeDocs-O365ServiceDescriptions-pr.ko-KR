@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 구독이 포함된 기능 비교를 Exchange Online? 그렇다면 Exchange Online 서비스 설명 문서가 필요할 것입니다. 저장소 및 받는 사람 요구 사항 뿐 아니라 시스템 요구 사항에 대해서도 알 수 있습니다.
-ms.openlocfilehash: ad488c76494b9e8eb5fd6b77c2c984534c22afdc
-ms.sourcegitcommit: 167c817e959598988dd67aefd521c2018c5b2260
+ms.openlocfilehash: 153361e0c30c26c1778e968736119a37742cde5b
+ms.sourcegitcommit: a006a39de571e191c89bae4c051f33633cd9d920
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/23/2022
-ms.locfileid: "63761270"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64464936"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 서비스 설명
 
@@ -57,35 +57,34 @@ Microsoft 365 요구 사항을 가장 잘 충족하기 위해 다양한 계획�
 
 이러한 기능은 일부 계획에서 사용할 수 있습니다. 주의 사항은 자세한 내용은 각주를 참조하세요(이 표는 예고 없이 변경될 수 있습니다).
 
-| 기능 | 설명 | Microsoft 365 Business Basic, Standard 및 Premium | Office 365 E1 | Microsoft 365 E3/E5 & Office 365 E3/E5 | Microsoft 365 F3 & Office 365 F3 | Exchange Online 계획 1/2 | Exchange Online Kiosk |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**[클라이언트 및 모바일 장치](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)**<img width=30/>|웹용 Outlook <sup>1</sup>, Outlook 및 SMTP, iOS 및 <sup>Android1</sup>용 Exchange ActiveSync 수 있습니다.<img width=140/>|예<img width=60/>|예<img width=60/>|예<img width=60/>|예<img width=60/>|예|예|
-||POP 및 IMAP|예|예|예|예<sup>2</sup>|예|예<sup>3</sup>|
-||EWS 응용 프로그램 지원, Outlook Windows <sup>1, mac1</sup>용 Outlook <sup>지원</sup>|예|예|예|아니요|예|아니요|
-||기본 모바일 및 보안 for Microsoft 365|예|예|예|예|||
-|**[메시지 정책 및 규정 준수](/exchange/policy-and-compliance/policy-and-compliance)**|[보관 Exchange Online 기반 사서함](/exchange/policy-and-compliance/in-place-archiving/in-place-archiving)|예<sup>4</sup>|예<sup>4</sup>|예<sup>4</sup>|아니요|예|예|
-||온-프레미스 사서함의 클라우드 기반 보관|아니요|예|예|아니요|예<sup>5</sup>|예|
-||[수동 보존 정책, 레이블 및 태그](/exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)|아니요|예|예|예|예|예|
-||[Azure Information <sup>Protection6</sup>](/exchange/policy-and-compliance/in-place-archiving/in-place-archiving), Office 365 메시지 암호화<sup>7</sup> 및 Customer <sup>Key8</sup>을 사용하는 IRM|아니요|아니요|예|아니요|아니요|아니요|
-||In-Place, 소송 자료 보호 및 데이터 손실 방지|아니요|아니요|예|아니요|예<sup>5</sup>|예|
-||보관된 데이터 암호화(BitLocker), MRM(메시징 레코드 관리), S/MIME, 저널링, In-Place eDiscovery9, 전송<sup></sup> 규칙<sup>10, RMS11</sup>을 Windows Server AD IRM<sup></sup>|예|예|예|예|예|예|
-|**[사용 권한](/exchange/permissions-exo/permissions-exo)**|역할 기반 사용 권한, 역할 그룹 및 역할 할당 정책|예|예|예|아니요|예|아니요|
-|**[받는 사람](/exchange/recipients-in-exchange-online/recipients-in-exchange-online)**|액세스 및 계층적 주소부 위임|예|예|예|아니요|예|아니요|
-||비활성 사서함|아니요|아니요|예|아니요|예<sup>5</sup>|아니요|
-||Microsoft 365 그룹|예|예|예|예|예<sup>12</sup>|아니요|
+| 기능 | 설명 | Microsoft 365 Business Basic, Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Microsoft 365 E3/E5 & Office 365 E3/E5 | Microsoft 365 F3 & Office 365 F3 | Exchange Online 계획 2 | Exchange Online 요금제 1 | Exchange Online Kiosk |
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+|**[클라이언트 및 모바일 장치](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)**|웹용 Outlook <sup>1</sup>, Outlook 및 SMTP, iOS 및 <sup>Android1</sup>용 Exchange ActiveSync 수 있습니다.|예|예|예|예|예|예|예|예|
+||POP 및 IMAP|예|예|예|예|예<sup>2</sup>|예|예|예<sup>2</sup>|
+||EWS 응용 프로그램 지원, Outlook Windows <sup>1, mac1</sup>용 Outlook <sup>지원</sup>|예|예|예|예|아니요|예|예|아니요|
+||기본 모바일 및 보안 for Microsoft 365|예|예|예|예|예||||
+|**[메시지 정책 및 규정 준수](/exchange/policy-and-compliance/policy-and-compliance)**|[Exchange Online용 Exchange Online Archiving](/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)|아니요|아니요|아니요|예|아니요|예|아니요|아니요|
+||[Exchange Server용 Exchange Online Archiving](/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)|아니요|아니요|아니요|예|아니요|예|아니요|아니요|
+||[수동 보존 정책, 레이블 및 태그](/exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)|아니요|예|예|예|예|예|예|예|
+||[Azure Information Protection을 사용한 IRM](/exchange/policy-and-compliance/in-place-archiving/in-place-archiving)|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|
+||기본 메시지 암호화|예|예|예|예|예|예|예|예|
+||고급 메시지 암호화|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|
+||고객 키|아니요|아니요|아니요|예|아니요|아니요|아니요|아니요|
+||In-Place 보류, 소송 보류|아니요|예|아니요|예|아니요|예|아니요|예|
+||데이터 손실 방지|아니요|예|아니요|예|아니요|아니요|아니요|아니요|
+||보관된 데이터 암호화(BitLocker), MRM(메시징 레코드 관리), S/MIME, 저널링, eDiscovery 콘텐츠 검색<sup>3</sup>, 전송 규칙<sup>4</sup>|예|예|예|예|예|예|예|예|
+||<sup>RMS5</sup>를 사용한 IRM Windows Server AD 지원|예|예|예|예|예|예|예|예|
+|**[사용 권한](/exchange/permissions-exo/permissions-exo)**|역할 기반 사용 권한, 역할 그룹 및 역할 할당 정책|예|예|예|예|아니요|예|예|아니요|
+|**[받는 사람](/exchange/recipients-in-exchange-online/recipients-in-exchange-online)**|액세스 및 계층적 주소부 위임|예|예|예|예|아니요|예|예|아니요|
+||비활성 사서함|아니요|아니요|아니요|예|아니요|예|아니요|아니요|
+||Microsoft 365 그룹|예|예|예|예|예|예<sup>6</sup>|예<sup>6</sup>|아니요|
 
-<sup>1</sup> 일부 타사 웹 파트 및 추가 기능을 사용할 수 없습니다. <br/>
-<sup>2</sup> POP는 지원되지만 IMAP는 지원되지 않습니다. <br/>
-<sup>3</sup> IMAP는 지원되지 않습니다. <br/>
-<sup>4</sup> 비활성 사서함 또는 보관 기능이 필요한 각 사서함에 대해 EOA 구독을 별도로 구매할 수 있습니다. <br/>
-<sup>5</sup> 계획 2만 해당합니다. <br/>
-<sup>6</sup> IRM 기능을 사용하도록 설정하기 위해 별도로 구입한 AIP 일부 AIP 기능을 사용하려면 엔터프라이즈용 Microsoft 365 앱(E1/F3 또는 비즈니스 계획에 포함되지 않음)도 포함되어야 합니다. <br/>
-<sup>7</sup> Office 365 메시지 암호화 AIP에 따라 다를 수 있습니다. <br/>
-<sup>8</sup> E5의 고객 키만 해당합니다. <br/>
-<sup>9</sup> eDiscovery의 경우, 클라우드와의 별도 쿼리가 필요합니다.<br/>
-<sup>10</sup> 전송 규칙은 유연한 기준으로 구성됩니다. 이를 통해 조건 및 예외 및 조건에 따라 수행할 작업을 정의할 수 있습니다. 사용 가능한 기준 및 작업 목록은 각 제품에 대한 해당 조건 및 작업 항목을 참조하세요. <br/>
-<sup>11</sup> Windows Server AD RMS는 지원되는 IRM 기능을 사용하려면 별도로 구입 및 관리해야 하는 사내 서버입니다. <br/>
-<sup>12 Microsoft 365</sup> 기능이 있는 그룹을 사용할 수 있습니다. <br/>
+<sup>1</sup> 일부 타사 웹 파트 및 추가 기능을 사용할 수 없습니다.<br/>
+<sup>2</sup> POP는 지원되지만 IMAP는 지원되지 않습니다.<br/>
+<sup>3</sup> eDiscovery의 경우, 클라우드와의 별도 쿼리가 필요합니다.<br/>
+<sup>4</sup> 전송 규칙은 유연한 기준으로 구성됩니다. 이 조건을 기반으로 조건 및 예외 및 수행할 작업을 정의할 수 있습니다. 사용 가능한 기준 및 작업 목록은 각 제품에 대한 해당 조건 및 작업 항목을 참조하세요. <br/>
+<sup>5</sup> Windows Server AD RMS는 지원되는 IRM 기능을 사용하려면 별도로 구입 및 관리해야 하는 사내 서버입니다.<br/>
+<sup>6 Microsoft 365</sup> 기능이 있는 그룹을 사용할 수 있습니다.<br/>
 
 ## <a name="additional-services"></a>추가 서비스
 

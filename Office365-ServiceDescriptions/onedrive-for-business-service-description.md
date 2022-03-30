@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 어떤 계획에서 어떤 OneDrive 기능을 사용할 수 있는지 확인합니다.
-ms.openlocfilehash: 1b0755376827dca701d647de026d1b4b37d21d1c
-ms.sourcegitcommit: 7c9a6a223caf448c660ac820d014026a4f55bcd2
+ms.openlocfilehash: 0cc204e310ca83adc869c0b35b684d45a3f86368
+ms.sourcegitcommit: aa6f9785881e60517888ff74e982e38261e6ebde
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2022
-ms.locfileid: "63435394"
+ms.lasthandoff: 03/24/2022
+ms.locfileid: "63937307"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 서비스 설명
 
@@ -44,7 +44,7 @@ OneDrive는 Microsoft 365 및 Office 365 플랜의 SharePoint 플랜에 포함�
 | 모바일 기능 | 예 | 예 | 예 | 예 | 예 | 예 |
 | IT 관리자, 보안 및 규정 준수 기능 | 예 | 예 | 예 | 예 | 예 | 예 |
 
-<sup>1</sup> 사용자당 OneDrive 저장소에 대한 자세한 내용은 [최신 작업 계획 비교](https://go.microsoft.com/fwlink/?linkid=2139145) 또는 중소기업용 [M365 사용자 구독 제품군](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWR6bM)에서 OneDrive를 확인할 수 있습니다.
+<sup>1</sup> 사용자당 OneDrive 저장소에 대한 자세한 내용은 [최신 작업 계획 비교](https://go.microsoft.com/fwlink/?linkid=2139145) 또는 중소기업용 [Microsoft 365 사용자 구독 제품군](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWR6bM)에서 OneDrive를 확인할 수 있습니다.
 
 ## <a name="learn-more"></a>자세한 정보
 
