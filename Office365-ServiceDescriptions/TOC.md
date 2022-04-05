@@ -71,6 +71,7 @@
 ### [웹 서비스용 Microsoft Project 설명](project-online-service-description/project-web-service-description.md)
 ### [Microsoft Project Online 데스크톱 클라이언트 서비스 설명](project-online-service-description/project-online-desktop-client-service-description.md)
 ### [Microsoft Project Online 서비스 설명](project-online-service-description/microsoft-project-online-service-description.md)
+### [Microsoft Project Online 기능 세부 정보](project-online-service-description/microsoft-project-features-descriptions.md)
 ### [핵심 기능](project-online-service-description/core-functionality.md)
 ### [프로젝트 계획](project-online-service-description/project-planning.md)
 ### [작업 관리](project-online-service-description/task-management.md)
