@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가되지 않은 액세스로 인한 잠재적인 서비스 중단을 방지하기 위해 Microsoft 365 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: 8672693b0d8e7696e8b2f702ff22fdd4359499ec
-ms.sourcegitcommit: 52f0d53a031aa6f8827f30fe9d4784d15cc8ac19
+ms.openlocfilehash: 1865c3d8258722a0660f2c66d120ed6040dca68d
+ms.sourcegitcommit: 6fd682b51e184d16ccca82c0cc72ccdf4134a789
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 04/06/2022
-ms.locfileid: "64662806"
+ms.locfileid: "64690746"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>보안 &amp; 규정 준수에 대한 Microsoft 365 지침
 
@@ -359,7 +359,7 @@ Microsoft 365 E3/A3/G3 및 Office 365 E3/A3/G3을 사용하면 사용자가 콘�
 
 - **콘텐츠 탐색기**: [콘텐츠 탐색기를 사용하여 시작](/microsoft-365/compliance/data-classification-content-explorer).
 - **활동 탐색기**: [활동 탐색기를 사용하여 시작](/microsoft-365/compliance/data-classification-activity-explorer).
-- **데이터 분류 릴리스 정보**: [데이터 분류 릴리스 정보](/microsoft-365/compliance/data-classification-pub-preview-relnotes)입니다.
+- **데이터 분류 릴리스 정보**: [데이터 분류 릴리스 정보](/microsoft-365/compliance/data-classification-overview#public-preview-release-notes)입니다.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 라이선스가 부여된 테넌트 사용자에게만 서비스를 적용하려면 어떻게 해야 할까요?
 
