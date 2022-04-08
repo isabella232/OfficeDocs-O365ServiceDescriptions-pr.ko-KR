@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가되지 않은 액세스로 인한 잠재적인 서비스 중단을 방지하기 위해 Microsoft 365 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: 1865c3d8258722a0660f2c66d120ed6040dca68d
-ms.sourcegitcommit: 6fd682b51e184d16ccca82c0cc72ccdf4134a789
+ms.openlocfilehash: a10cb7a2bbe34f9ec82f1ce17e0c925f3d38c4d2
+ms.sourcegitcommit: 7caadc973ca06d19fa8c196a74061eea09568958
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2022
-ms.locfileid: "64690746"
+ms.lasthandoff: 04/08/2022
+ms.locfileid: "64710043"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>보안 &amp; 규정 준수에 대한 Microsoft 365 지침
 
@@ -460,7 +460,9 @@ OME(Office 365 메시지 암호화)는 Azure RMS(권한 관리)를 기반으로 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스의 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇인가요?
 
-Microsoft 365 E3/A3/G3, Office 365 E3/A3/G3 및 Azure Information Protection 플랜 1은 사용자가 Office 365 메시지 암호화의 혜택을 누릴 수 있는 권한을 제공합니다.
+- Microsoft 365 F3/E3/A3/G3/E5/A5/G5 및 Microsoft Business Premium
+- Office 365 A1/E3/A3/G3/E5/A5/G5
+- 또한 Azure Information Protection 플랜 1은 Exchange Online Kiosk, Exchange Online 플랜 1, Exchange Online 계획에 추가된 경우 Office 365 메시지 암호화의 혜택을 누릴 수 있는 권한을 조직에 제공합니다. 플랜 2, Office 365 F3, Microsoft 365 Business Basic, Microsoft 365 Business Standard 또는 Office 365 Enterprise E1
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 프로비전/배포되는가?
 
