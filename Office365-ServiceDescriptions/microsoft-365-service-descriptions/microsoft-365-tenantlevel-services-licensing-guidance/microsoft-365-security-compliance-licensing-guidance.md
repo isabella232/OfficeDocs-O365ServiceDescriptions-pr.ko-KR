@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가되지 않은 액세스로 인한 잠재적인 서비스 중단을 방지하기 위해 Microsoft 365 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: a10cb7a2bbe34f9ec82f1ce17e0c925f3d38c4d2
-ms.sourcegitcommit: 7caadc973ca06d19fa8c196a74061eea09568958
+ms.openlocfilehash: cce6e34112bbb1a6b422f53891a8ccd24562c3e1
+ms.sourcegitcommit: cee14aa16defb331bd4c610e6c3549269a5e4841
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64710043"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64828740"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>보안 &amp; 규정 준수에 대한 Microsoft 365 지침
 
@@ -673,9 +673,9 @@ Azure AD P1/P2는 사용자가 클라우드용 Defender Apps의 일부로 포함
 
 **엔드포인트용 Microsoft Defender Server**
 
-엔드포인트용 Microsoft Defender Server는 엔드포인트용 Microsoft Defender 최소 50개의 라이선스를 결합한 고객을 위한 추가 기능입니다.
+서버 보안을 위해 Hero 제품은 클라우드용 Defender. 서버 및 클라우드 보호에 가장 적합한 기능을 갖추고 있으며, 2022년 4월 현재 Microsoft Defender for Servers 계획 2(계획 2는 원래 서버용 Microsoft Defender)와 함께 서버용 Microsoft Defender 계획 1을 도입했습니다. 자세한 내용은 [서버용 Microsoft Defender를 참조하세요. 이점 및 기능 | Microsoft Docs](/azure/defender-for-cloud/defender-for-servers-introduction).
 
-엔드포인트용 Microsoft Defender 대한 사용 약관은 [제품 약관](https://www.microsoft.com/Licensing/product-licensing/products)을 참조하세요.
+엔드포인트용 Microsoft Defender 서버 사용 약관의 경우 [제품 약관](https://www.microsoft.com/licensing/terms/en-US/productoffering/MicrosoftDefenderforEndpointServer/EAEAS)의 정보를 검토하세요.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자는 이 서비스를 통해 어떻게 혜택을 받을 수 있나요?
 
@@ -689,7 +689,7 @@ Azure AD P1/P2는 사용자가 클라우드용 Defender Apps의 일부로 포함
 
 **엔드포인트용 Microsoft Defender Server**
 
-서버용 Microsoft Defender는 엔드포인트용 Microsoft Defender P2와 같은 기능으로 Windows 및 Linux 서버를 보호합니다.  
+서버용 Microsoft Defender는 엔드포인트용 Microsoft Defender P2와 같은 기능으로 Windows 및 Linux 서버를 보호합니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 프로비전/배포되는가?
 
