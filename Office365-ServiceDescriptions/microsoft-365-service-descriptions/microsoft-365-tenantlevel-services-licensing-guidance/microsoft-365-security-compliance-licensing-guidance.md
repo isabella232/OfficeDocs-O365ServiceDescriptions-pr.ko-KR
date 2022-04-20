@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가되지 않은 액세스로 인한 잠재적인 서비스 중단을 방지하기 위해 Microsoft 365 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: cce6e34112bbb1a6b422f53891a8ccd24562c3e1
-ms.sourcegitcommit: cee14aa16defb331bd4c610e6c3549269a5e4841
+ms.openlocfilehash: dc81652ff5454afe08e2914713e6c78e182cfb7f
+ms.sourcegitcommit: 0d84043f435e5368e23e1a738fbc019b9979839b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64828740"
+ms.lasthandoff: 04/19/2022
+ms.locfileid: "64931195"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>보안 &amp; 규정 준수에 대한 Microsoft 365 지침
 
@@ -25,25 +25,25 @@ ms.locfileid: "64828740"
 
 일부 테넌트 서비스는 현재 특정 사용자에 대한 혜택을 제한할 수 없습니다. 서비스 혜택을 사용이 허가된 사용자로 제한하기 위해 노력해야 합니다. Microsoft 라이선싱 프로그램을 통해 획득한 Microsoft 제품 및 Professional 서비스의 사용에 관한 사용 약관을 검토하려면  [TheProduct 약관](https://www.microsoft.com/Licensing/product-licensing/products)을 참조하세요.
 
-## <a name="advanced-audit"></a>고급 감사
+## <a name="microsoft-purview-audit-premium"></a>Microsoft Purview 감사(Premium)
 
-Microsoft 365 고급 감사는 사용자 및 관리자 활동에 대한 감사 로그의 1년 보존을 제공하고 다른 Microsoft 365 서비스에 대한 감사 로그 보존을 관리하는 사용자 지정 감사 로그 보존 정책을 만드는 기능을 제공합니다. 또한 Office 365 관리 활동 API에 대한 조사 및 높은 대역폭 액세스를 위한 중요한 이벤트에 대한 액세스를 제공합니다. 자세한 내용은 [Microsoft 365 고급 감사를](/microsoft-365/compliance/advanced-audit) 참조하세요.
+감사(Premium)(이전의 Microsoft 365 고급 감사)는 사용자 및 관리자 활동에 대한 감사 로그의 1년 보존을 제공하고 다른 Microsoft 365 서비스에 대한 감사 로그 보존을 관리하는 사용자 지정 감사 로그 보존 정책을 만드는 기능을 제공합니다. 또한 Office 365 관리 활동 API에 대한 조사 및 높은 대역폭 액세스를 위한 중요한 이벤트에 대한 액세스를 제공합니다. 자세한 내용은 [감사(Premium)](/microsoft-365/compliance/advanced-audit)를 참조하세요.
 
 추가 기능 SKU를 사용하여 보존 기간 10년을 사용하도록 설정할 수도 있습니다.
 
 ### <a name="which-users-benefit-from-the-service"></a>서비스의 혜택을 받는 사용자는 무엇인가요?
 
-Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 준수, Microsoft 365 F5 보안 & 규정 준수 및 Microsoft 365 E5/A5/G5 eDiscovery 및 감사의 사용이 허가된 사용자는 고급 감사를 활용할 수 있습니다.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 준수, Microsoft 365 F5 보안 & 규정 준수 및 Microsoft 365 E5/A5/G5 eDiscovery 및 감사의 사용이 허가된 사용자는 감사의 혜택을 누릴 수 있습니다( Premium).
 
-고급 감사 및 10년 감사 로그 보존 추가 기능이 있는 라이선스 사용자는 10년 감사 로그 보존의 이점을 누릴 수 있습니다.
+감사(Premium) 및 10년 감사 로그 보존 추가 기능이 있는 라이선스 사용자는 10년 감사 로그 보존의 혜택을 누릴 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자는 이 서비스를 통해 어떻게 혜택을 받을 수 있나요?
 
-Microsoft 365 서비스의 사용자 활동과 관련된 감사 레코드는 최대 1년 동안 보존할 수 있으므로 고급 감사의 이점을 누릴 수 있습니다. 또한 사용자의 사서함에 있는 항목에 액세스하거나 읽는 경우와 같이 고가의 감사 이벤트가 기록됩니다. 자세한 내용은 [Microsoft 365 고급 감사를](/microsoft-365/compliance/advanced-audit) 참조하세요.
+Microsoft 365 서비스의 사용자 활동과 관련된 감사 레코드는 최대 1년 동안 보존할 수 있으므로 사용자는 감사(Premium)의 이점을 누릴 수 있습니다. 또한 사용자의 사서함에 있는 항목에 액세스하거나 읽는 경우와 같이 고가의 감사 이벤트가 기록됩니다. 자세한 내용은 [감사(Premium)](/microsoft-365/compliance/advanced-audit)를 참조하세요.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 프로비전/배포되는가?
 
-기본적으로 고급 감사는 서비스의 혜택을 받는 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정되며, Azure Active Directory, Exchange 및 SharePoint 활동(적절한 라이선스를 가진 사용자가 수행)에 대한 감사 로그의 1년 보존을 자동으로 제공합니다. 또한 조직에서는 감사 로그 보존 정책을 사용하여 다른 Microsoft 365 서비스의 활동에 의해 생성된 감사 레코드의 보존 기간을 관리할 수 있습니다. 10년 감사 로그 보존 기능도 동일한 보존 정책을 사용하여 사용하도록 설정됩니다. 자세한 내용은 [감사 로그 보존 정책 관리](/microsoft-365/compliance/audit-log-retention-policies)를 참조하십시오.
+기본적으로 감사(Premium)는 서비스의 혜택을 받는 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정되며, Azure Active Directory, Exchange 및 SharePoint 활동(적절한 라이선스를 가진 사용자가 수행)에 대한 감사 로그의 1년 보존을 자동으로 제공합니다. 또한 조직에서는 감사 로그 보존 정책을 사용하여 다른 Microsoft 365 서비스의 활동에 의해 생성된 감사 레코드의 보존 기간을 관리할 수 있습니다. 10년 감사 로그 보존 기능도 동일한 보존 정책을 사용하여 사용하도록 설정됩니다. 자세한 내용은 [감사 로그 보존 정책 관리](/microsoft-365/compliance/audit-log-retention-policies)를 참조하십시오.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 라이선스가 부여된 테넌트 사용자에게만 서비스를 적용하려면 어떻게 해야 할까요?
 
@@ -98,9 +98,9 @@ SecOps 분석가 및 보안 전문가는 기계 학습 알고리즘을 기반으
 
 관리자는 암호 재설정 수준을 정의하는 위험 정책을 할당하고 라이선스가 있는 사용자에 대해서만 액세스를 허용하여 Azure AD ID 보호의 범위를 지정할 수 있습니다. Azure AD ID 보호 배포의 범위를 지정하는 방법에 대한 지침은 [위험 정책을 구성하고 사용하도록 설정하는 방법을](/azure/active-directory/identity-protection/howto-sign-in-risk-policy) 참조하세요.
 
-## <a name="communication-compliance"></a>커뮤니케이션 규정 준수
+## <a name="microsoft-purview-communication-compliance"></a>Microsoft Purview 커뮤니케이션 규정 준수
 
-Microsoft 365 커뮤니케이션 규정 준수는 조직에서 부적절한 메시지를 감지, 캡처 및 수정하는 데 도움을 줌으로써 통신 위험을 최소화하는 데 도움이 됩니다. 조직에서 내부 및 외부 전자 메일, Microsoft Teams 또는 타사 통신을 캡처하는 특정 정책을 정의할 수 있습니다. 검토자는 적절한 수정 작업을 수행하여 조직의 메시지 표준을 준수하는지 확인할 수 있습니다.
+커뮤니케이션 규정 준수(이전의 Microsoft 365 커뮤니케이션 규정 준수)는 조직에서 부적절한 메시지를 감지, 캡처 및 수정하는 데 도움을 줌으로써 통신 위험을 최소화하는 데 도움이 됩니다. 조직에서 내부 및 외부 전자 메일, Microsoft Teams 또는 타사 통신을 캡처하는 특정 정책을 정의할 수 있습니다. 검토자는 적절한 수정 작업을 수행하여 조직의 메시지 표준을 준수하는지 확인할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자는 이 서비스를 통해 어떻게 혜택을 받을 수 있나요?
 
@@ -112,15 +112,15 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 준수, M
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 프로비전/배포되는가?
 
-관리자 및 규정 준수 전문가는 Microsoft 365 규정 준수 센터 커뮤니케이션 규정 준수 정책을 만듭니다. 이러한 정책은 조직에서 검토할 수 있는 통신 및 사용자를 정의하고, 통신이 충족해야 하는 사용자 지정 조건을 정의하고, 검토를 수행할 사용자를 지정합니다.
+관리자 및 규정 준수 전문가는 Microsoft Purview 규정 준수 포털에서 커뮤니케이션 규정 준수 정책을 만듭니다. 이러한 정책은 조직에서 검토할 수 있는 통신 및 사용자를 정의하고, 통신이 충족해야 하는 사용자 지정 조건을 정의하고, 검토를 수행할 사용자를 지정합니다.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 라이선스가 부여된 테넌트 사용자에게만 서비스를 적용하려면 어떻게 해야 할까요?
 
-관리자는 커뮤니케이션 규정 준수 정책에 포함할 특정 사용자 또는 그룹을 선택합니다. 그룹을 선택할 때 통신 준수 정책에서 제외할 그룹의 특정 사용자를 선택할 수도 있습니다. 통신 규정 준수 정책에 대한 자세한 내용은 [Microsoft 365 통신 규정 준수 시작](/microsoft-365/compliance/communication-compliance-configure) 참조하세요.
+관리자는 커뮤니케이션 규정 준수 정책에 포함할 특정 사용자 또는 그룹을 선택합니다. 그룹을 선택할 때 통신 준수 정책에서 제외할 그룹의 특정 사용자를 선택할 수도 있습니다. 커뮤니케이션 규정 준수 정책에 대한 자세한 내용은 [Microsoft Purview Communication Compliance에 대한 시작](/microsoft-365/compliance/communication-compliance-configure) 참조하세요.
 
-## <a name="compliance-manager"></a>규정 관리자
+## <a name="microsoft-purview-compliance-manager"></a>Microsoft Purview 준수 관리자
 
-[Microsoft 준수 관리자는](https://compliance.microsoft.com/compliancemanager) [Microsoft 365 규정 준수 센터](/microsoft-365/compliance/microsoft-365-compliance-center) 기능으로, 조직의 규정 준수 요구 사항을 보다 쉽고 편리하게 관리할 수 있습니다. 준수 관리자는 데이터 보호 위험 상세 조사부터 제어 구현의 복잡성 관리, 규정 및 인증의 최신 정보 유지, 보고 및 감사까지, 여러분의 규정 준수를 향한 여정을 도와드릴 수 있습니다.
+[준수 관리자는](https://compliance.microsoft.com/compliancemanager) Microsoft Purview 규정 준수 포털의 기능으로, 조직의 규정 준수 요구 사항을 보다 쉽고 편리하게 관리할 수 있습니다. 준수 관리자는 데이터 보호 위험 상세 조사부터 제어 구현의 복잡성 관리, 규정 및 인증의 최신 정보 유지, 보고 및 감사까지, 여러분의 규정 준수를 향한 여정을 도와드릴 수 있습니다.
 
 준수 관리자는 다음을 제공하여 규정 준수를 간소화하고 위험을 줄이는 데 도움이 됩니다.
 
@@ -197,13 +197,13 @@ Microsoft 클라우드용 규정 준수 프로그램은 Microsoft 365 및 Office
 
 기본적으로 Microsoft Cloud에 대한 규정 준수 프로그램은 서비스의 혜택을 받는 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 자세한 내용은 [Microsoft Cloud 규정 준수 프로그램을](https://aka.ms/cpmc) 참조하세요.
 
-## <a name="data-connectors"></a>데이터 커넥터
+## <a name="microsoft-purview-data-connectors"></a>Microsoft Purview 데이터 커넥터
 
-Microsoft는 Microsoft 365 규정 준수 센터 구성할 수 있는 타사 데이터 커넥터를 제공합니다. Microsoft에서 제공하는 데이터 커넥터 목록은 [타사 데이터 커넥터](/microsoft-365/compliance/archiving-third-party-data#third-party-data-connectors) 테이블을 참조하세요. 또한 이 표에는 Microsoft 365 데이터를 가져오고 보관한 후 타사 데이터에 적용할 수 있는 규정 준수 솔루션과 각 커넥터에 대한 단계별 지침에 대한 링크가 요약되어 있습니다.
+Microsoft는 Microsoft Purview 규정 준수 포털에서 구성할 수 있는 타사 데이터 커넥터를 제공합니다. Microsoft에서 제공하는 데이터 커넥터 목록은 [타사 데이터 커넥터](/microsoft-365/compliance/archiving-third-party-data#third-party-data-connectors) 테이블을 참조하세요. 또한 이 표에는 Microsoft 365 데이터를 가져오고 보관한 후 타사 데이터에 적용할 수 있는 규정 준수 솔루션과 각 커넥터에 대한 단계별 지침에 대한 링크가 요약되어 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자는 이 서비스를 통해 어떻게 혜택을 받을 수 있나요?
 
-데이터 커넥터를 사용하여 Microsoft 365 타사 데이터를 가져오고 보관할 때의 주요 이점은 가져온 후 데이터에 다양한 Microsoft 365 규정 준수 솔루션을 적용할 수 있다는 것입니다. 이렇게 하면 조직의 비 Microsoft 데이터가 조직에 영향을 주는 규정 및 표준을 준수하는지 확인할 수 있습니다.
+데이터 커넥터(이전의 Microsoft 365 Data Connectors)를 사용하여 Microsoft 365 타사 데이터를 가져오고 보관할 때의 주요 이점은 가져온 후 데이터에 다양한 Microsoft Purview 솔루션을 적용할 수 있다는 것입니다. 이렇게 하면 조직의 비 Microsoft 데이터가 조직에 영향을 주는 규정 및 표준을 준수하는지 확인할 수 있습니다.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스의 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇인가요?
 
@@ -217,39 +217,43 @@ Microsoft는 Microsoft 365 규정 준수 센터 구성할 수 있는 타사 데�
 - Microsoft 365 E5/A5/G5 eDiscovery 및 감사
 - Office 365 E5/A5/G5
 
-Microsoft 파트너가 제공하는 Microsoft 365 Security &amp; Compliance Center의 데이터 커넥터의 경우 해당 커넥터를 배포하려면 조직에서 파트너와 비즈니스 관계가 필요합니다.
+Microsoft 파트너가 제공하는 Microsoft Purview 규정 준수 포털의 데이터 커넥터의 경우 해당 커넥터를 배포하려면 조직에서 파트너와 비즈니스 관계가 필요합니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 프로비전/배포되는가?
 
-커넥터는 보안 &amp; 규정 준수 센터 및 커넥터 카탈로그를 사용하여 구성됩니다.
+커넥터는 Microsoft Purview 규정 준수 포털 및 커넥터 카탈로그를 사용하여 구성됩니다.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 라이선스가 부여된 테넌트 사용자에게만 서비스를 적용하려면 어떻게 해야 할까요?
 
 데이터 커넥터 서비스는 테넌트 수준 값입니다. 이 서비스를 활용하려는 모든 사용자는 라이선스가 있어야 합니다.
 
-## <a name="ediscovery"></a>eDiscovery
+## <a name="microsoft-purview-ediscovery"></a>Microsoft Purview eDiscovery
 
-eDiscovery는 Microsoft 365 시스템에서 내보내기 전에 조사 또는 소송과 관련된 콘텐츠를 식별, 수집, 보존, 축소 및 검토할 수 있도록 IT 및 기업 내 법률 부서에 대한 조사 및 eDiscovery 솔루션을 제공합니다.
+[Microsoft 365 전자 검색(eDiscovery) 솔루션은 Microsoft 365](/microsoft-365/compliance/ediscovery) 시스템에서 내보내기 전에 조사 또는 소송과 관련된 콘텐츠를 식별, 수집, 보존, 축소 및 검토할 수 있도록 기업 내 IT 및 법률 부서에 대한 조사 및 eDiscovery 솔루션을 제공합니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자는 이 서비스를 통해 어떻게 혜택을 받을 수 있나요?
 
-사용자는 사용자가 데이터 보유자(문서 또는 전자 파일의 관리 제어를 가진 사람)로 선택된 경우 Advanced eDiscovery 혜택을 누릴 수 있습니다.
+[eDiscovery(Standard)(](/microsoft-365/compliance/get-started-core-ediscovery) 이전의 Core eDiscovery)는 eDiscovery 사례를 만들고 특정 사례에 eDiscovery 관리자를 할당할 수 있도록 하여 콘텐츠 검색의 기본 검색 및 내보내기 기능을 기반으로 합니다. eDiscovery 관리자는 구성원인 경우에만 액세스할 수 있습니다. 또한 Core eDiscovery를 사용하면 검색 및 내보내기를 사례와 연결하고 사례와 관련된 콘텐츠 위치에 eDiscovery 보류를 배치할 수 있습니다.
+
+[eDiscovery(Premium)](/microsoft-365/compliance/overview-ediscovery-20)(이전의 Advanced eDiscovery)는 조직의 내부 및 외부 조사에 응답하는 콘텐츠를 보존, 수집, 분석, 검토 및 내보내는 엔드 투 엔드 워크플로를 제공합니다. 또한 법률팀에서 전체 법적 보류 알림 워크플로를 관리하여 사례와 관련된 보유자와 통신할 수 있게 합니다.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스의 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇인가요?
 
-Exchange Online 플랜 2, Exchange Online Archiving, SharePoint Online Plan 2, Microsoft 365 E5/A5/G5/E3/A3/G3, Office 365 E5/A5/G5/E3/A3/G3 및 F5 규정 준수 및 F5 보안 & 규정 준수는 사용자가 혜택을 받을 수 있는 권한을 제공합니다. 핵심 eDiscovery.
+eDiscovery(표준): 플랜 2, Exchange Online Archiving, SharePoint Online 플랜 2, Microsoft 365 E5/A5/G5/E3/A3/G3, Office 365 E5/A5/G5/E3/G3 및 F5 규정 준수 및 F5 보안 & 규정 준수를 Exchange Online.
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 준수 및 F5 보안 & 규정 준수, Microsoft 365 E5/A5/G5 eDiscovery 및 감사 및 Office 365 E5/A5/G5는 사용자가 Advanced eDiscovery 혜택을 누릴 수 있는 권한을 제공합니다.
+eDiscovery(Premium): Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 준수 및 F5 보안 & 규정 준수, Microsoft 365 E5/A5/G5 eDiscovery 및 감사, Office 365 E5/A5/G5.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 프로비전/배포되는가?
 
-기본적으로 Advanced eDiscovery 기능은 관리자가 보안 &amp; 규정 준수 센터에서 eDiscovery 권한을 할당할 때 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다.
+기본적으로 eDiscovery 기능은 관리자가 Microsoft Purview 규정 준수 포털에서 eDiscovery 권한을 할당할 때 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 라이선스가 부여된 테넌트 사용자에게만 서비스를 적용하려면 어떻게 해야 할까요?
 
-eDiscovery 관리자는 Advanced eDiscovery 사례에 보유자 추가에 설명된 대로 Advanced eDiscovery 기본 제공 보유자 관리 도구를 사용하여 특정 사용자를 사례의 데이터 [보유자](/microsoft-365/compliance/add-custodians-to-case)로 선택할 수 있습니다.
+eDiscovery 관리자는 Advanced eDiscovery[(Premium)](/microsoft-365/compliance/add-custodians-to-case) 사례에 대한 보유자 추가에 설명된 대로 Advanced eDiscovery 기본 제공 보유자 관리 도구를 사용하여 특정 사용자를 사례의 데이터 보유자로 선택할 수 있습니다.
 
-## <a name="information-barriers"></a>정보 장벽
+eDiscovery 및 비보관 데이터 원본에 대한 자세한 내용은 [eDiscovery(Premium) 사례에 비보장 데이터 원본 추가를 참조](/microsoft-365/compliance/non-custodial-data-sources)하세요.
+
+## <a name="microsoft-purview-information-barriers"></a>Microsoft Purview 정보 장벽
 
 정보 장벽은 개인 또는 그룹이 서로 통신하지 못하도록 관리자가 구성할 수 있는 정책입니다. 예를 들어 한 부서가 다른 부서와 공유해서는 안 되는 정보를 처리하거나 그룹이 외부 연락처와 통신하지 못하도록 해야 하는 경우에 유용합니다. 또한 정보 장벽 정책은 조회 및 검색을 방지합니다. 즉, 통신하지 않아야 하는 사람과 통신하려고 하면 사용자 선택기에서 해당 사용자를 찾을 수 없습니다.
 
@@ -263,19 +267,19 @@ eDiscovery 관리자는 Advanced eDiscovery 사례에 보유자 추가에 설명
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스의 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇인가요?
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 준수 및 F5 보안 & 규정 준수, Microsoft 365 E5/A5/G5 참가자 위험 관리 및 Office 365 E5/A5/G5는 사용자가 정보 장벽의 혜택을 누릴 수 있는 권한을 제공합니다.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 규정 준수 및 F5 보안 & 규정 준수, Microsoft 365 E5/A5/G5 참가자 위험 관리 및 Office 365 E5/A5/G5는 사용자가 정보 장벽의 혜택을 누릴 수 있는 권한을 제공합니다.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 프로비전/배포되는가?
 
-관리자는 보안 &amp; 규정 준수 센터에서 PowerShell cmdlet을 사용하여 정보 장벽 정책을 만들고 관리합니다. 정보 장벽 정책을 만들려면 관리자에게 Microsoft 365 Enterprise 전역 관리자, Office 365 전역 관리자 또는 규정 준수 관리자 역할이 할당되어야 합니다. 기본적으로 이러한 정책은 테넌트에 있는 모든 사용자에게 적용됩니다. 정보 장벽에 대한 자세한 내용은 [Microsoft Teams 정보 장벽을](/MicrosoftTeams/information-barriers-in-teams) 참조하세요.
+관리자는 Microsoft Purview 규정 준수 포털에서 PowerShell cmdlet을 사용하여 정보 장벽 정책을 만들고 관리합니다. 정보 장벽 정책을 만들려면 관리자에게 Microsoft 365 Enterprise 전역 관리자, Office 365 전역 관리자 또는 규정 준수 관리자 역할이 할당되어야 합니다. 기본적으로 이러한 정책은 테넌트에 있는 모든 사용자에게 적용됩니다. 정보 장벽에 대한 자세한 내용은 [Microsoft Teams 정보 장벽을](/MicrosoftTeams/information-barriers-in-teams) 참조하세요.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 라이선스가 부여된 테넌트 사용자에게만 서비스를 적용하려면 어떻게 해야 할까요?
 
-관리자는 보안 &amp; 규정 준수 센터에서 위치(워크로드), 포함된 사용자 및 제외된 사용자를 사용자 지정할 수 있습니다. 예를 들어 모든 사용자에게 Office 365 E3 대한 라이선스가 부여되고 Office 365 Advanced Compliance/E5에 대한 라이선스가 없는 경우 조직에 대한 정보 장벽 정책을 만들 필요가 없습니다. 자세한 내용은 [Microsoft Teams의 정보 장벽](/MicrosoftTeams/information-barriers-in-teams)을 참조하세요.
+관리자는 Microsoft Purview 규정 준수 포털에서 위치(워크로드), 포함된 사용자 및 제외된 사용자를 사용자 지정할 수 있습니다. 자세한 내용은 [Microsoft Teams의 정보 장벽](/MicrosoftTeams/information-barriers-in-teams)을 참조하세요.
 
-## <a name="information-governance"></a>정보 거버넌스
+## <a name="microsoft-purview-data-lifecycle-management"></a>Microsoft Purview 데이터 수명 주기 관리
 
-정보 거버넌스는 조직에서 데이터를 검색, 분류, 레이블 지정 및 관리하여 위험을 관리하는 데 도움이 됩니다. 정보 거버넌스를 통해 조직은 비즈니스 및 규제 요구 사항을 충족할 뿐만 아니라 Microsoft 365 및 타사 데이터에 보존 및 삭제 기능을 제공하여 공격 노출 영역을 줄일 수 있습니다.
+데이터 수명 주기 관리(이전의 Microsoft 정보 거버넌스)는 조직에서 데이터를 검색, 분류, 레이블 지정 및 관리하여 위험을 관리하는 데 도움이 됩니다. 데이터 수명 주기 관리를 통해 조직은 비즈니스 및 규제 요구 사항을 충족할 뿐만 아니라 Microsoft 365 및 타사 데이터에 보존 및 삭제 기능을 제공하여 공격 노출 영역을 줄일 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자는 이 서비스를 통해 어떻게 혜택을 받을 수 있나요?
 
@@ -309,15 +313,15 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 준수 및 F5 보안 & 
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 프로비전/배포되는가?
 
-기본적으로 정보 거버넌스 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 사용이 허가된 사용자에 대한 자동 레이블 지정 및 정책을 적용하도록 정보 거버넌스를 구성하는 방법에 대한 자세한 내용은 [Microsoft 365 Microsoft 정보 거버넌스를](/microsoft-365/compliance/manage-information-governance) 참조하세요.
+기본적으로 데이터 수명 주기 관리 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 사용이 허가된 사용자에 대한 자동 레이블 지정 및 정책을 적용하도록 데이터 수명 주기 관리를 구성하는 방법에 대한 자세한 내용은 [Microsoft Purview 데이터 수명 주기 관리를](/microsoft-365/compliance/manage-information-governance) 참조하세요.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 라이선스가 부여된 테넌트 사용자에게만 서비스를 적용하려면 어떻게 해야 할까요?
 
-정보 거버넌스 기능은 특정 위치(팀 사이트, 그룹 사이트 등)에서 라이선스가 있는 사용자에게 적용할 수 있습니다. 사용이 허가된 사용자에 대한 자동 레이블 지정 및 정책을 적용하도록 정보 거버넌스를 구성하는 방법에 대한 자세한 내용은 [Microsoft 365 Microsoft 정보 거버넌스를](/microsoft-365/compliance/manage-information-governance) 참조하세요.
+데이터 수명 주기 관리 기능은 특정 위치(팀 사이트, 그룹 사이트 등)에서 라이선스가 있는 사용자에게 적용할 수 있습니다. 사용이 허가된 사용자에 대한 자동 레이블 지정 및 정책을 적용하도록 데이터 수명 주기 관리를 구성하는 방법에 대한 자세한 내용은 [Microsoft Purview 데이터 수명 주기 관리를](/microsoft-365/compliance/manage-information-governance) 참조하세요.
 
-## <a name="information-protection-customer-key-for-microsoft-365"></a>Information Protection: Microsoft 365 고객 키
+## <a name="microsoft-purview-information-protection-customer-key"></a>Microsoft Purview Information Protection: 고객 키
 
-고객 키를 사용하면 조직의 암호화 키를 제어하고 Microsoft 데이터 센터에서 미사용 데이터를 암호화하는 데 사용할 Microsoft 365 구성합니다. 즉, 고객 키를 사용하면 사용자 고유의 키를 사용하여 사용자에게 속한 암호화 계층을 추가할 수 있습니다. 고객 키는 Microsoft 365 Data-At-Rest 암호화 서비스를 통해 여러 [Microsoft 365 워크로드](/microsoft-365/compliance/customer-key-overview#about-data-encryption-policies)에 대한 미사용 데이터 암호화 지원을 제공합니다. 또한 고객 키는 SharePoint Online 및 비즈니스용 OneDrive 데이터에 대한 암호화뿐만 아니라 Exchange Online 사서함 수준 암호화를 제공합니다.
+고객 키(이전의 Microsoft 365 고객 키)를 사용하여 조직의 암호화 키를 제어하고 Microsoft 데이터 센터에서 미사용 데이터를 암호화하는 데 사용하도록 Microsoft 365 구성합니다. 즉, 고객 키를 사용하면 사용자 고유의 키를 사용하여 사용자에게 속한 암호화 계층을 추가할 수 있습니다. 고객 키는 Microsoft 365 Data-At-Rest 암호화 서비스를 통해 여러 [Microsoft 365 워크로드](/microsoft-365/compliance/customer-key-overview#about-data-encryption-policies)에 대한 미사용 데이터 암호화 지원을 제공합니다. 또한 고객 키는 SharePoint Online 및 비즈니스용 OneDrive 데이터에 대한 암호화뿐만 아니라 Exchange Online 사서함 수준 암호화를 제공합니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자는 이 서비스를 통해 어떻게 혜택을 받을 수 있나요?
 
@@ -335,9 +339,9 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 준수, Microsoft 365 F5 보�
 
 다중 워크로드 암호화 지원을 제공하는 미사용 데이터 Microsoft 365 서비스는 테넌트 수준 서비스입니다. 일부 허가되지 않은 사용자는 기술적으로 서비스에 액세스할 수 있지만 서비스의 혜택을 받으려는 모든 사용자에게는 라이선스가 필요합니다. Exchange Online 사서함 수준 암호화의 경우 사용자 사서함에 데이터 암호화 정책을 할당할 수 있는 라이선스가 있어야 합니다.
 
-## <a name="information-protection-data-classification-analytics-overview-content-amp-activity-explorer"></a>Information Protection: 데이터 분류 분석: 개요 콘텐츠 &amp; 활동 탐색기
+## <a name="microsoft-purview-information-protection-data-classification-analytics-overview-content-amp-activity-explorer"></a>Microsoft Purview Information Protection: 데이터 분류 분석: 개요 콘텐츠 &amp; 활동 탐색기
 
-데이터 분류 분석 기능은 Microsoft 365 규정 준수 센터 환경 내에서 사용할 수 있습니다. 개요는 디지털 콘텐츠의 위치와 가장 일반적인 중요한 정보 유형 및 레이블을 보여 줍니다. 콘텐츠 탐색기는 중요한 데이터의 양과 형식에 대한 가시성을 제공하며 사용자가 레이블 또는 민감도 유형별로 필터링하여 중요한 데이터가 저장되는 위치를 자세히 볼 수 있도록 합니다. 활동 탐색기는 콘텐츠가 위험에 노출될 수 있는 레이블 다운그레이드 또는 외부 공유와 같은 중요한 데이터 및 레이블과 관련된 활동을 표시합니다.
+데이터 분류 분석 기능은 Microsoft Purview 규정 준수 포털 내에서 사용할 수 있습니다. 개요는 디지털 콘텐츠의 위치와 가장 일반적인 중요한 정보 유형 및 레이블을 보여 줍니다. 콘텐츠 탐색기는 중요한 데이터의 양과 형식에 대한 가시성을 제공하며 사용자가 레이블 또는 민감도 유형별로 필터링하여 중요한 데이터가 저장되는 위치를 자세히 볼 수 있도록 합니다. 활동 탐색기는 콘텐츠가 위험에 노출될 수 있는 레이블 다운그레이드 또는 외부 공유와 같은 중요한 데이터 및 레이블과 관련된 활동을 표시합니다.
 
 활동 탐색기는 관리자가 최종 사용자가 사용하는 중요한 정보와 관련된 활동에 대한 가시성을 얻을 수 있는 단일 창 창을 제공합니다. 이러한 데이터에는 레이블 활동, DLP(데이터 손실 방지) 로그, 자동 레이블 지정, 엔드포인트 DLP 등이 포함됩니다.
 
@@ -363,11 +367,11 @@ Microsoft 365 E3/A3/G3 및 Office 365 E3/A3/G3을 사용하면 사용자가 콘�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 라이선스가 부여된 테넌트 사용자에게만 서비스를 적용하려면 어떻게 해야 할까요?
 
-이 기능은 Microsoft 365 준수 포털 내에서 솔루션을 적극적으로 사용하는 사용자에 대해 범위가 지정되어야 합니다.
+이 기능은 Microsoft Purview 규정 준수 포털 내에서 솔루션을 적극적으로 사용하는 사용자에 대해 범위가 지정되어야 합니다.
 
-## <a name="information-protection-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Information Protection: Exchange Online, SharePoint Online 및 비즈니스용 OneDrive 대한 데이터 손실 방지
+## <a name="microsoft-purview-information-protection-data-loss-prevention-dlp-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Microsoft Purview Information Protection: Exchange Online, SharePoint Online 및 비즈니스용 OneDrive 대한 DLP(데이터 손실 방지)
 
-Exchange Online, SharePoint Online 및 비즈니스용 OneDrive 대한 Office 365 DLP(데이터 손실 방지)를 사용하면 조직에서 전자 메일 및 파일(Microsoft Teams 파일에 저장된 파일 포함)에서 중요한 정보를 식별, 모니터링 및 자동으로 보호할 수 있습니다. 리포지토리).
+Exchange Online, SharePoint Online 및 비즈니스용 OneDrive 대한 데이터 손실 방지(이전의 Microsoft Office 365 데이터 손실 방지)를 통해 조직은 전자 메일 및 파일(저장된 파일 포함)에서 중요한 정보를 식별, 모니터링 및 자동으로 보호할 수 있습니다. Microsoft Teams 파일 리포지토리).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자는 이 서비스를 통해 어떻게 혜택을 받을 수 있나요?
 
@@ -375,7 +379,7 @@ Exchange Online, SharePoint Online 및 비즈니스용 OneDrive 대한 Office 36
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>사용자가 서비스의 혜택을 받을 수 있는 권한을 제공하는 라이선스는 무엇인가요?
 
-Microsoft 365 E3/A3/Business Premium, Office 365 E3/A3 및 Office 365 데이터 손실 방지 및 F5 규정 준수 및 F5 보안 & 규정 준수는 사용자가 Exchange Online Office 365 DLP의 혜택을 누릴 수 있는 권한을 제공합니다. SharePoint Online 및 비즈니스용 OneDrive.
+Microsoft 365 E3/A3/Business Premium, Office 365 E3/A3 및 Microsoft Purview 데이터 손실 방지 및 F5 규정 준수 및 F5 보안 & 규정 준수는 사용자가 Exchange Online, SharePoint Online 및 Microsoft Purview DLP의 혜택을 누릴 수 있는 권한을 제공합니다. 비즈니스용 OneDrive.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 프로비전/배포되는가?
 
@@ -383,9 +387,9 @@ Microsoft 365 E3/A3/Business Premium, Office 365 E3/A3 및 Office 365 데이터 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 라이선스가 부여된 테넌트 사용자에게만 서비스를 적용하려면 어떻게 해야 할까요?
 
-관리자는 데이터 **손실 방지** > 에 따라 위치(워크로드)를 사용자 지정하고, 사용자를 포함하고, 보안 &amp; 규정 준수 센터에서 사용자를 제외할 수 **있습니다**.
+관리자는 Microsoft Purview 규정 준수 포털에서 위치(워크로드)를 사용자 지정하고, 사용자를 포함하고, 사용자를 제외할 수 있습니다.
 
-## <a name="information-protection-data-loss-prevention-for-teams"></a>Information Protection: Teams 대한 데이터 손실 방지
+## <a name="microsoft-purview-information-protection-data-loss-prevention-dlp-for-teams"></a>Microsoft Purview Information Protection: Teams 대한 DLP(데이터 손실 방지)
 
 Teams 통신 DLP를 사용하면 조직은 재무 정보, 개인 식별 정보, 건강 관련 정보 또는 기타 기밀 정보와 같은 중요한 정보가 포함된 채팅 및 채널 메시지를 차단할 수 있습니다.
 
@@ -406,11 +410,11 @@ Teams 통신 DLP를 사용하면 조직은 재무 정보, 개인 식별 정보, 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 라이선스가 부여된 테넌트 사용자에게만 서비스를 적용하려면 어떻게 해야 할까요?
 
-관리자는 **데이터 손실 방지** > 에 따라 보안 &amp; 규정 준수 센터에서 위치(워크로드), 포함된 사용자 및 제외된 사용자를 사용자 지정할 수 **있습니다**.
+관리자는 Microsoft Purview 규정 준수 포털에서 위치(워크로드), 포함된 사용자 및 제외된 사용자를 사용자 지정할 수 있습니다.
 
-## <a name="information-protection-double-key-encryption-for-microsoft-365"></a>Information Protection: Microsoft 365 대한 이중 키 암호화
+## <a name="microsoft-purview-information-protection-double-key-encryption"></a>Microsoft Purview Information Protection: 이중 키 암호화
 
-Microsoft 365 대한 이중 키 암호화를 사용하면 매우 중요한 데이터를 보호하여 특수 요구 사항을 충족하고 암호화 키를 완전히 제어할 수 있습니다. 이중 키 암호화는 두 개의 키를 사용하여 데이터를 보호하며, 한 키는 컨트롤에 있고 두 번째 키는 Microsoft Azure 안전하게 저장됩니다. 데이터를 보려면 두 키 모두에 대한 액세스 권한이 있어야 합니다. Microsoft는 하나의 키에만 액세스할 수 있으므로 사용자의 키와 데이터를 Microsoft에서 사용할 수 없으므로 데이터의 개인 정보 및 보안을 완전히 제어할 수 있습니다.
+이중 키 암호화(이전의 Microsoft 365 이중 키 암호화)를 사용하면 매우 중요한 데이터를 보호하여 특수 요구 사항을 충족하고 암호화 키를 완전히 제어할 수 있습니다. 이중 키 암호화는 두 개의 키를 사용하여 데이터를 보호하며, 한 키는 컨트롤에 있고 두 번째 키는 Microsoft Azure 안전하게 저장됩니다. 데이터를 보려면 두 키 모두에 대한 액세스 권한이 있어야 합니다. Microsoft는 하나의 키에만 액세스할 수 있으므로 사용자의 키와 데이터를 Microsoft에서 사용할 수 없으므로 데이터의 개인 정보 및 보안을 완전히 제어할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자는 이 서비스를 통해 어떻게 혜택을 받을 수 있나요?
 
@@ -472,7 +476,7 @@ OME(Office 365 메시지 암호화)는 Azure RMS(권한 관리)를 기반으로 
 
 관리자는 Office 365 메시지 암호화에 대한 메일 흐름 규칙을 사용이 허가된 사용자에게만 적용해야 합니다. 메일 흐름 규칙 정의에 대한 자세한 내용은 [메일 메시지를 암호화하는 메일 흐름 규칙 정의를 참조하세요](/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
 
-## <a name="information-protection-sensitivity-labeling"></a>Information Protection: 민감도 레이블 지정
+## <a name="microsoft-purview-information-protection-sensitivity-labeling"></a>Microsoft Purview Information Protection: 민감도 레이블 지정
 
 Information Protection 조직은 중요한 문서 및 전자 메일을 검색, 분류, 레이블 지정 및 보호할 수 있습니다. 관리자는 레이블을 자동으로 적용하는 규칙 및 조건을 정의하거나, 사용자가 수동으로 레이블을 적용하거나, 두 가지 조합을 사용할 수 있습니다. 여기서 사용자에게 레이블 적용에 대한 권장 사항이 제공됩니다.
 
@@ -529,11 +533,11 @@ AIP 스캐너 기능의 경우 Microsoft는 라이선스가 없는 사용자에�
 
 자세한 내용은 [민감도 레이블 만들기 및 게시](/microsoft-365/compliance/create-sensitivity-labels#publish-sensitivity-labels-by-creating-a-label-policy) 및 [Azure Information Protection 통합 레이블 지정 스캐너 이해를](/azure/information-protection/deploy-aip-scanner) 참조하세요.
 
-## <a name="insider-risk-management"></a>내부자 위험 관리
+## <a name="microsoft-purview-insider-risk-management"></a>Microsoft Purview 참가자 위험 관리
 
-내부자 위험 관리는 조직의 위험한 활동을 감지, 조사 및 조치를 취하도록 하여 내부 위험을 최소화하는 데 도움이 되는 Microsoft 365 솔루션입니다.
+내부자 위험 관리(이전의 Microsoft 365 참가자 위험 관리)는 조직의 위험한 활동을 감지, 조사 및 조치를 취하도록 하여 내부 위험을 최소화하는 데 도움이 되는 솔루션입니다.
 
-사용자 지정 정책을 사용하면 필요한 경우 Microsoft Advanced eDiscovery 사례를 에스컬레이션하는 등 조직의 악의적이고 실수로 위험한 활동을 검색하고 조치를 취할 수 있습니다. 조직의 위험 분석가는 적절한 조치를 신속하게 수행하여 사용자가 조직의 규정 준수 표준을 준수하도록 할 수 있습니다.
+사용자 지정 정책을 사용하면 필요한 경우 Microsoft Preview eDiscovery(Premium)(이전의 Microsoft Advanced eDiscovery)로 사례를 에스컬레이션하는 등 조직의 악의적이고 실수로 위험한 활동을 검색하고 조치를 취할 수 있습니다. 조직의 위험 분석가는 적절한 조치를 신속하게 수행하여 사용자가 조직의 규정 준수 표준을 준수하도록 할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자는 이 서비스를 통해 어떻게 혜택을 받을 수 있나요?
 
@@ -545,11 +549,11 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 준수 및 F5 보안 & 
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 프로비전/배포되는가?
 
-참가자 위험 관리 정책은 Microsoft 365 규정 준수 센터 만들어지고 사용자에게 할당되어야 합니다.
+참가자 위험 관리 정책은 Microsoft Purview 규정 준수 포털에서 만들고 사용자에게 할당해야 합니다.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 라이선스가 부여된 테넌트 사용자에게만 서비스를 적용하려면 어떻게 해야 할까요?
 
-Microsoft 365 규정 준수 센터 정책을 만들 때 **사용자 및 그룹 선택** 페이지에서 **사용자 또는 그룹 선택을** 선택하여 사용이 허가된 사용자만 선택하거나, 모든 사용자에게 라이선스가 부여된 경우 **모든 사용자 및 메일 사용 가능 그룹** 확인란을 선택할 수 있습니다. 자세한 내용은 [내부자 위험 관리를 사용하는 시작](/microsoft-365/compliance/insider-risk-management-configure) 참조하세요.
+자세한 내용은 [내부자 위험 관리 시작](/microsoft-365/compliance/insider-risk-management-configure) 참조하세요.
 
 ## <a name="microsoft-defender-for-business"></a>비즈니스용 Microsoft Defender
 
@@ -699,7 +703,7 @@ Azure AD P1/P2는 사용자가 클라우드용 Defender Apps의 일부로 포함
 
 엔드포인트용 Microsoft Defender 관리자는 RBAC(역할 기반 액세스 제어)를 사용하여 보안 운영 팀 내에서 역할 및 그룹을 만들어 Microsoft Defender 보안 센터 대한 적절한 액세스 권한을 부여할 수 있습니다. 자세한 내용은  [역할 기반 액세스 제어를 사용하여 포털 액세스를](/microsoft-365/security/defender-endpoint/rbac) 참조하세요.
 
-## <a name="microsoft-defender-for-identity"></a>ID용 Microsoft Defender
+## <a name="microsoft-defender-for-identity"></a>Microsoft Defender for Identity
 
 Microsoft Defender for Identity(이전의 Azure Advanced Threat Protection)는 여러 유형의 고급 대상 사이버 공격 및 내부자 위협으로부터 엔터프라이즈 하이브리드 환경을 보호하는 데 도움이 되는 클라우드 서비스입니다.
 
@@ -796,7 +800,7 @@ Priva는 Office 365 A1/E1/A3/E3/A5/E5 및 Microsoft 365 A3/E3/A5/E5 구독이 �
 
 ### <a name="how-can-customers-access-the-service"></a>고객은 어떻게 서비스에 액세스할 수 있나요?
 
-Priva 솔루션은 [Microsoft 365 규정 준수 센터](https://compliance.microsoft.com/homepage) 기본 제공되며 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 서비스를 활용하고 보호하려는 모든 사용자에 대해 라이선스를 획득하는 것이 좋습니다.
+Priva 솔루션은 Microsoft Purview 규정 준수 포털에 기본 제공되며 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 서비스를 활용하고 보호하려는 모든 사용자에 대해 라이선스를 획득하는 것이 좋습니다.
 
 고객은 조직의 필요에 따라 다음 라이선스를 구매할 수 있습니다.
 
@@ -846,9 +850,9 @@ Office 365 E5/A3/A5/G5는 사용자가 OCAS의 혜택을 누릴 수 있는 권�
 
 관리자는 OCAS 배포의 범위를 지정하여 특정 앱에 액세스하는 방법을 적용하고 Office 365 Cloud App Security 모니터링되는 사용자 그룹을 제한할 수 있습니다. 자세한 내용은 [범위 지정 배포를](/cloud-app-security/scoped-deployment) 참조하세요.
 
-## <a name="office-365-customer-lockbox"></a>Office 365 고객 Lockbox
+## <a name="microsoft-purview-customer-lockbox"></a>Microsoft Purview 고객 Lockbox
 
-고객 Lockbox는 고객에게 서비스 작업에 대한 명시적 액세스 권한을 부여할 수 있는 기능을 제공하여 추가적인 제어 계층을 제공합니다. 명시적 데이터 액세스 권한 부여를 위한 절차가 마련되어 있음을 입증함으로써 고객 Lockbox는 조직이 HIPAA 및 FedRAMP와 같은 특정 규정 준수 의무를 충족하는 데 도움이 될 수도 있습니다.
+고객 Lockbox(이전의 Office 365 Customer Lockbox)는 고객에게 서비스 작업에 대한 명시적 액세스 권한을 부여할 수 있는 기능을 제공하여 추가적인 제어 계층을 제공합니다. 명시적 데이터 액세스 권한 부여를 위한 절차가 마련되어 있음을 입증함으로써 고객 Lockbox는 조직이 HIPAA 및 FedRAMP와 같은 특정 규정 준수 의무를 충족하는 데 도움이 될 수도 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자는 이 서비스를 통해 어떻게 혜택을 받을 수 있나요?
 
@@ -860,7 +864,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 �
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 프로비전/배포되는가?
 
-관리자는 Microsoft 365 관리 센터 고객 Lockbox를 켤 수 있습니다. 자세한 내용은 [Office 365 고객 Lockbox를](/microsoft-365/compliance/customer-lockbox-requests) 참조하세요. 고객 Lockbox가 켜져 있으면 Microsoft는 콘텐츠에 액세스하기 전에 조직의 승인을 받아야 합니다.
+관리자는 Microsoft 365 관리 센터 고객 Lockbox를 켤 수 있습니다. 자세한 내용은 [고객 Lockbox](/microsoft-365/compliance/customer-lockbox-requests)를 참조하세요. 고객 Lockbox가 켜져 있으면 Microsoft는 콘텐츠에 액세스하기 전에 조직의 승인을 받아야 합니다.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 라이선스가 부여된 테넌트 사용자에게만 서비스를 적용하려면 어떻게 해야 할까요?
 
@@ -886,7 +890,7 @@ Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5/F5 규정 준수 및 
 
 고객은 승인자 그룹 및 액세스 정책을 통해 사용자 단위로 PAM을 관리할 수 있으며, 이 정책은 사용이 허가된 사용자에게 적용할 수 있습니다. 자세한 내용은 [Office 365 권한 있는 액세스 관리를](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751) 참조하세요.
 
-## <a name="records-management"></a>레코드 관리
+## <a name="microsoft-purview-records-management"></a>Microsoft Purview 레코드 관리
 
 레코드 관리를 사용하면 조직에서 Microsoft 365 및 타사 데이터에서 검색, 분류, 레이블 지정, 보존 및 방어 가능한 삭제 기능을 통해 비즈니스 및 규제 기록 보관 의무를 충족할 수 있습니다.
 
@@ -902,8 +906,8 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 준수 및 F5 보안 & 
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 프로비전/배포되는가?
 
-기본적으로 레코드 관리 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 사용이 허가된 사용자를 위해 적용할 레코드 관리를 구성하는 방법에 대한 자세한 내용은 [Microsoft 365 레코드 관리에 대한 자세한 내용을 참조하세요](/microsoft-365/compliance/records-management).
+기본적으로 레코드 관리 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 라이선스가 부여된 사용자를 위해 적용할 레코드 관리를 구성하는 방법에 대한 자세한 내용은 [Microsoft Purview 레코드 관리에 대해 자세히 알아보세요](/microsoft-365/compliance/records-management).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 라이선스가 부여된 테넌트 사용자에게만 서비스를 적용하려면 어떻게 해야 할까요?
 
-레코드 관리 기능은 특정 위치(팀 사이트, 그룹 사이트 등)에서 라이선스가 있는 사용자에게 적용할 수 있습니다. 사용이 허가된 사용자를 위해 적용할 레코드 관리를 구성하는 방법에 대한 자세한 내용은 [Microsoft 365 레코드 관리에 대한 자세한 내용을 참조하세요](/microsoft-365/compliance/records-management).
+레코드 관리 기능은 특정 위치(팀 사이트, 그룹 사이트 등)에서 라이선스가 있는 사용자에게 적용할 수 있습니다. 라이선스가 부여된 사용자를 위해 적용할 레코드 관리를 구성하는 방법에 대한 자세한 내용은 [Microsoft Purview 레코드 관리에 대해 자세히 알아보세요](/microsoft-365/compliance/records-management).
