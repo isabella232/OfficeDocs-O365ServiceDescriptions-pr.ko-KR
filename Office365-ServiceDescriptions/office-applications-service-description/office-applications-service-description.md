@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 Word, Excel 및 PowerPoint 같이 이미 익숙한 Office 데스크톱 응용 프로그램의 최신 버전을 제공하는 구독 서비스입니다.
-ms.openlocfilehash: de570779241f67ccfeefc597d992d0303a78c72e
-ms.sourcegitcommit: 4b02d2d928d24a68ff7b0e1c4c5a1bde056ef69c
+ms.openlocfilehash: 21fa77d747f5034677362fc34ea02f313fac2d8b
+ms.sourcegitcommit: f726c50abbc680dee8beaf602260916a28f0263e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64819793"
+ms.lasthandoff: 04/27/2022
+ms.locfileid: "65076933"
 ---
 # <a name="office-applications-service-description"></a>Office 응용 프로그램 서비스 설명
 
@@ -46,7 +46,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |[Microsoft OneNote](office-applications.md#microsoft-onenote) <br/> |예  <br/> |예  <br/> |예 <sup>+<sup> <br/>|예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |[Microsoft Outlook](office-applications.md#microsoft-outlook) <br/> |예  <br/> |예  <br/> |예 <br/>|예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |[Microsoft Publisher](office-applications.md#microsoft-publisher) <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|[Microsoft Access](office-applications.md#microsoft-access) <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |예<sup>11</sup> <br/> |아니요  <br/> |예<sup>11</sup> <br/> |예<sup>11</sup>  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|[Microsoft Access](office-applications.md#microsoft-access) <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |예<sup>11</sup> <br/> |아니요  <br/> |예<sup>11</sup> <br/> |예<sup>11</sup>  <br/> |아니오  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |[비즈니스용 Skype](office-applications.md#skype-for-business) <br/> |예  <br/> |예  <br/> |예  <br/>|예<sup>5</sup>  <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>5</sup> <br/> |예<sup>5</sup>  <br/> |예<sup>5</sup> <br/> |예  <br/> |예  <br/> |예<sup>5, 10</sup> <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |예  <br/> |예<sup>12</sup> <br/> |아니요  <br/>|아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |[Windows 10 앱](office-applications.md#windows-10-apps) <br/> |예  <br/> |예  <br/> |아니요  <br/>|예  <br/> |예  <br/> |예  <br/> |예  <br/> |예 <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
@@ -55,9 +55,9 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |[Android용 Office Mobile](office-applications.md#office-mobile-for-android) <br/> |아니요  <br/> |아니요 <br/> |아니요  <br/>|예  <br/> |예  <br/> |예<sup>13</sup>  <br/> |예  <br/> |예  <br/> |예<sup>13</sup>  <br/> |예  <br/> |예  <br/> |예<sup>13</sup>  <br/> |
 |[Windows Phone용 Office Mobile](office-applications.md#office-mobile-for-windows-phone) <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |예 <br/>|예  <br/> |예  <br/> |예<sup>13</sup>  <br/> |예  <br/> |예<sup>13</sup>  <br/> |예  <br/> |예  <br/> |예<sup>13</sup>  <br/> |
 |Android용 Outlook  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|Microsoft 팀  <br/> |아니요  <br/> |아니요  <br/> |예 <br/>|예  <br/> |아니요  <br/> |예 <br/> |예  <br/> |예  <br/> |예 <br/> |예  <br/> |예  <br/> |예 <br/> |
+|Microsoft 팀  <br/> |아니요  <br/> |아니요  <br/> |예 <br/>|예  <br/> |예 <br/> |예  <br/> |예  <br/> |예 <br/> |예  <br/> |예  <br/> |예 <br/> |
 |**Enterprise 값** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Microsoft Office 365 ProPlus** <br/> |**비즈니스용 Microsoft 365 앱** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
-|PC 또는 Mac에서 사용자당 5건의 동시 설치 지원  <br/> |아니요  <br/> |아니요  <br/>| 아니요  <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |아니요  <br/> |예  <br/> |예<sup>7</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> | 
+|PC 또는 Mac에서 사용자당 5건의 동시 설치 지원  <br/> |아니요  <br/> |아니요  <br/>| 아니요  <br/> |예<sup>7</sup> <br/> |예<sup>7</sup> <br/> |아니오  <br/> |예  <br/> |예<sup>7</sup> <br/> |아니오  <br/> |예  <br/> |예  <br/> |아니요  <br/> | 
 |사용자 계정 자동 구축  <br/> |해당 없음  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |
 |다국어 사용자 인터페이스  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |예  <br/> |예 <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |클라이언트 푸시 배포  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
@@ -69,7 +69,7 @@ Office 응용 프로그램은 32비트 및 64비트 버전으로 제공됩니다
 |Excel 스프레드시트 비교  <br/> |예  <br/> |예  <br/> |예  <br/> |예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Excel 스프레드시트 조회  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/> |아니요 <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Exchange Online 및 SharePoint Online 보관 및 규정 준수  <br/> |예<sup>1</sup> <br/> |예  <br/> |예  <br/>|예<sup>1</sup> <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
-|그룹 정책 지원  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |예<sup>15</sup> <br/> |아니요  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |아니요  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
+|그룹 정책 지원  <br/> |예  <br/> |예  <br/> |예  <br/>|예  <br/> |예<sup>15</sup> <br/> |아니요  <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |아니오  <br/> |예  <br/> |예  <br/> |아니요  <br/> |
 |Office 클라우드 정책 지원  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|예  <br/> |예<sup>15</sup> <br/> |예<sup>16</sup> <br/> |예<sup>15</sup> <br/> |예<sup>15</sup> <br/> |예<sup>16</sup> <br/> |예  <br/> |예  <br/> |예<sup>16</sup> <br/> |
 |Azure Information Protection 사용하여 정보 권한 관리  <br/> |아니요  <br/> |아니요  <br/> |아니요  <br/>|<sup>No2</sup> <br/> |<sup>No2</sup> <br/> |<sup>No2</sup> <br/> |<sup>No2</sup> <br/> |예 <br/> |<sup>No2</sup> <br/> |예  <br/> |예  <br/> |<sup>No2</sup> <br/> |
 |Windows Server AD RMS를 사용한 Information Rights Management  <br/> |예<sup>3</sup> <br/> |예  <br/> |예 <br/>| 예<sup>3</sup> <br/>|예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |예<sup>3</sup> <br/> |
