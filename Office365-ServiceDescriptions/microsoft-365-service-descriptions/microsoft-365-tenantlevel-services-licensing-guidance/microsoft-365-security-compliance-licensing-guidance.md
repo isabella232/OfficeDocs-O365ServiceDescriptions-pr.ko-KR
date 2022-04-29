@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가되지 않은 액세스로 인한 잠재적인 서비스 중단을 방지하기 위해 Microsoft 365 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: dc81652ff5454afe08e2914713e6c78e182cfb7f
-ms.sourcegitcommit: 0d84043f435e5368e23e1a738fbc019b9979839b
+ms.openlocfilehash: e7bc9f7525a004b6bfbc5d72fe855d4aec81df9b
+ms.sourcegitcommit: 7c0a991e031b84f83bce1b30edeabacf3902349e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "64931195"
+ms.lasthandoff: 04/29/2022
+ms.locfileid: "65126315"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>보안 &amp; 규정 준수에 대한 Microsoft 365 지침
 
@@ -25,7 +25,7 @@ ms.locfileid: "64931195"
 
 일부 테넌트 서비스는 현재 특정 사용자에 대한 혜택을 제한할 수 없습니다. 서비스 혜택을 사용이 허가된 사용자로 제한하기 위해 노력해야 합니다. Microsoft 라이선싱 프로그램을 통해 획득한 Microsoft 제품 및 Professional 서비스의 사용에 관한 사용 약관을 검토하려면  [TheProduct 약관](https://www.microsoft.com/Licensing/product-licensing/products)을 참조하세요.
 
-## <a name="microsoft-purview-audit-premium"></a>Microsoft Purview 감사(Premium)
+## <a name="microsoft-purview-audit-premium"></a>Microsoft Purview 감사(프리미엄)
 
 감사(Premium)(이전의 Microsoft 365 고급 감사)는 사용자 및 관리자 활동에 대한 감사 로그의 1년 보존을 제공하고 다른 Microsoft 365 서비스에 대한 감사 로그 보존을 관리하는 사용자 지정 감사 로그 보존 정책을 만드는 기능을 제공합니다. 또한 Office 365 관리 활동 API에 대한 조사 및 높은 대역폭 액세스를 위한 중요한 이벤트에 대한 액세스를 제공합니다. 자세한 내용은 [감사(Premium)](/microsoft-365/compliance/advanced-audit)를 참조하세요.
 
@@ -96,9 +96,9 @@ SecOps 분석가 및 보안 전문가는 기계 학습 알고리즘을 기반으
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 라이선스가 부여된 테넌트 사용자에게만 서비스를 적용하려면 어떻게 해야 할까요?
 
-관리자는 암호 재설정 수준을 정의하는 위험 정책을 할당하고 라이선스가 있는 사용자에 대해서만 액세스를 허용하여 Azure AD ID 보호의 범위를 지정할 수 있습니다. Azure AD ID 보호 배포의 범위를 지정하는 방법에 대한 지침은 [위험 정책을 구성하고 사용하도록 설정하는 방법을](/azure/active-directory/identity-protection/howto-sign-in-risk-policy) 참조하세요.
+관리자는 암호 재설정 수준을 정의하는 위험 정책을 할당하고 사용이 허가된 사용자에 대해서만 액세스를 허용하여 Azure AD ID 보호 범위를 지정할 수 있습니다. Azure AD ID 보호 배포의 범위를 지정하는 방법에 대한 지침은 [위험 정책을 구성하고 사용하도록 설정하는 방법을](/azure/active-directory/identity-protection/howto-sign-in-risk-policy) 참조하세요.
 
-## <a name="microsoft-purview-communication-compliance"></a>Microsoft Purview 커뮤니케이션 규정 준수
+## <a name="microsoft-purview-communication-compliance"></a>Microsoft Purview 통신 규정 준수
 
 커뮤니케이션 규정 준수(이전의 Microsoft 365 커뮤니케이션 규정 준수)는 조직에서 부적절한 메시지를 감지, 캡처 및 수정하는 데 도움을 줌으로써 통신 위험을 최소화하는 데 도움이 됩니다. 조직에서 내부 및 외부 전자 메일, Microsoft Teams 또는 타사 통신을 캡처하는 특정 정책을 정의할 수 있습니다. 검토자는 적절한 수정 작업을 수행하여 조직의 메시지 표준을 준수하는지 확인할 수 있습니다.
 
@@ -233,7 +233,7 @@ Microsoft 파트너가 제공하는 Microsoft Purview 규정 준수 포털의 �
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자는 이 서비스를 통해 어떻게 혜택을 받을 수 있나요?
 
-[eDiscovery(Standard)(](/microsoft-365/compliance/get-started-core-ediscovery) 이전의 Core eDiscovery)는 eDiscovery 사례를 만들고 특정 사례에 eDiscovery 관리자를 할당할 수 있도록 하여 콘텐츠 검색의 기본 검색 및 내보내기 기능을 기반으로 합니다. eDiscovery 관리자는 구성원인 경우에만 액세스할 수 있습니다. 또한 Core eDiscovery를 사용하면 검색 및 내보내기를 사례와 연결하고 사례와 관련된 콘텐츠 위치에 eDiscovery 보류를 배치할 수 있습니다.
+[eDiscovery(Standard)(](/microsoft-365/compliance/get-started-core-ediscovery) 이전의 Core eDiscovery)는 eDiscovery 사례를 만들고 특정 사례에 eDiscovery 관리자를 할당할 수 있도록 하여 콘텐츠 검색의 기본 검색 및 내보내기 기능을 기반으로 합니다. eDiscovery 관리자는 구성원인 경우에만 액세스할 수 있습니다. eDiscovery(표준)를 사용하면 검색 및 내보내기를 사례와 연결하고 사례와 관련된 콘텐츠 위치에 eDiscovery 보류를 배치할 수 있습니다.
 
 [eDiscovery(Premium)](/microsoft-365/compliance/overview-ediscovery-20)(이전의 Advanced eDiscovery)는 조직의 내부 및 외부 조사에 응답하는 콘텐츠를 보존, 수집, 분석, 검토 및 내보내는 엔드 투 엔드 워크플로를 제공합니다. 또한 법률팀에서 전체 법적 보류 알림 워크플로를 관리하여 사례와 관련된 보유자와 통신할 수 있게 합니다.
 
@@ -249,7 +249,7 @@ eDiscovery(Premium): Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 준수 �
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>서비스에 대한 라이선스가 부여된 테넌트 사용자에게만 서비스를 적용하려면 어떻게 해야 할까요?
 
-eDiscovery 관리자는 Advanced eDiscovery[(Premium)](/microsoft-365/compliance/add-custodians-to-case) 사례에 대한 보유자 추가에 설명된 대로 Advanced eDiscovery 기본 제공 보유자 관리 도구를 사용하여 특정 사용자를 사례의 데이터 보유자로 선택할 수 있습니다.
+eDiscovery 관리자는 [eDiscovery(Premium)](/microsoft-365/compliance/add-custodians-to-case) 사례에 보유자 추가에 설명된 대로 eDiscovery(Premium)의 기본 제공 보유자 관리 도구를 사용하여 특정 사용자를 데이터 보유자로 선택할 수 있습니다.
 
 eDiscovery 및 비보관 데이터 원본에 대한 자세한 내용은 [eDiscovery(Premium) 사례에 비보장 데이터 원본 추가를 참조](/microsoft-365/compliance/non-custodial-data-sources)하세요.
 
@@ -537,7 +537,7 @@ AIP 스캐너 기능의 경우 Microsoft는 라이선스가 없는 사용자에�
 
 내부자 위험 관리(이전의 Microsoft 365 참가자 위험 관리)는 조직의 위험한 활동을 감지, 조사 및 조치를 취하도록 하여 내부 위험을 최소화하는 데 도움이 되는 솔루션입니다.
 
-사용자 지정 정책을 사용하면 필요한 경우 Microsoft Preview eDiscovery(Premium)(이전의 Microsoft Advanced eDiscovery)로 사례를 에스컬레이션하는 등 조직의 악의적이고 실수로 위험한 활동을 검색하고 조치를 취할 수 있습니다. 조직의 위험 분석가는 적절한 조치를 신속하게 수행하여 사용자가 조직의 규정 준수 표준을 준수하도록 할 수 있습니다.
+사용자 지정 정책을 사용하면 필요한 경우 Microsoft Purview eDiscovery(Premium)(이전의 Microsoft Advanced eDiscovery)로 사례를 에스컬레이션하는 등 조직의 악의적이고 실수로 위험한 활동을 검색하고 조치를 취할 수 있습니다. 조직의 위험 분석가는 적절한 조치를 신속하게 수행하여 사용자가 조직의 규정 준수 표준을 준수하도록 할 수 있습니다.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자는 이 서비스를 통해 어떻게 혜택을 받을 수 있나요?
 
@@ -591,7 +591,7 @@ Microsoft Defender for Cloud Apps 독립 실행형 라이선스로 사용할 수
 - Microsoft 365 F5 보안 &amp; 준수
 - Microsoft 365 Information Protection 및 거버넌스
 
-Azure AD P1/P2는 사용자가 클라우드용 Defender Apps의 일부로 포함된 검색 기능을 활용할 수 있는 권한을 제공합니다.
+Azure AD P1/P2는 사용자가 클라우드용 Defender 앱의 일부로 포함된 검색 기능을 활용할 수 있는 권한을 제공합니다.
 
 클라우드용 Defender 앱의 조건부 액세스 앱 제어 기능을 활용하려면 Enterprise Mobility + Security F1/F3/E3/A3/G3에 포함된 Azure Active Directory P1에 대한 라이선스가 사용자에게 부여되어야 합니다. E5, Microsoft 365 E3/A3/G3, Microsoft 365 E5/A5/G5 및 Microsoft 365 E5/A5/G5/F5 보안 및 Microsoft 365 F5 보안 &amp; 준수를 Enterprise Mobility + Security.
 
@@ -644,7 +644,7 @@ Azure AD P1/P2는 사용자가 클라우드용 Defender Apps의 일부로 포함
 
 ### <a name="is-it-a-requirement-for-the-apps-in-the-tenant-to-be-registered-with-azure-active-director-to-be-viewable-by-app-governance"></a>앱 거버넌스에서 볼 수 있도록 테넌트 내의 앱을 Azure Active Director에 등록해야 하는 요구 사항인가요?
 
-예. 앱은 Azure AD에 등록되어야 하며 OAuth 2.0을 사용하도록 설정해야 합니다. 다른 ID 관리 시스템은 현재 지원되지 않습니다. 앱 거버넌스 추가 기능에서는 Microsoft Graph API 사용하는 Microsoft 365 OAuth 앱의 동작 및 상태를 모니터링합니다. 모든 Microsoft 365 E5/A5 라이선스에는 Azure AD가 있습니다.
+예. 앱은 Azure AD 등록해야 하며 OAuth 2.0을 사용하도록 설정해야 합니다. 다른 ID 관리 시스템은 현재 지원되지 않습니다. 앱 거버넌스 추가 기능에서는 Microsoft Graph API 사용하는 Microsoft 365 OAuth 앱의 동작 및 상태를 모니터링합니다. 모든 Microsoft 365 E5/A5 라이선스에는 Azure AD 있습니다.
 
 ## <a name="microsoft-defender-for-endpoint"></a>엔드포인트용 Microsoft Defender
 
