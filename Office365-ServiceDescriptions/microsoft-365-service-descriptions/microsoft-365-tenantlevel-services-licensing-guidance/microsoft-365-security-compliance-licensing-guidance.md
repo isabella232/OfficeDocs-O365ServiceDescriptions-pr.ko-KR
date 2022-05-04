@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 문서에서는 허가되지 않은 액세스로 인한 잠재적인 서비스 중단을 방지하기 위해 Microsoft 365 규정 준수에 대한 지침을 제공합니다.
-ms.openlocfilehash: e7bc9f7525a004b6bfbc5d72fe855d4aec81df9b
-ms.sourcegitcommit: 7c0a991e031b84f83bce1b30edeabacf3902349e
+ms.openlocfilehash: ce6e4ee2176d31034111f53b3d4046d8995cc0c1
+ms.sourcegitcommit: c2d2064d8fbebbe9843a4e824860e214b0b54c58
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "65126315"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "65187479"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>보안 &amp; 규정 준수에 대한 Microsoft 365 지침
 
@@ -557,7 +557,7 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 준수 및 F5 보안 & 
 
 ## <a name="microsoft-defender-for-business"></a>비즈니스용 Microsoft Defender
 
-비즈니스용 Microsoft Defender 중소기업(최대 300명의 직원)을 위해 설계된 새로운 엔드포인트 보안 솔루션입니다. 이 엔드포인트 보안 솔루션을 사용하면 SMB(중소기업) 조직 디바이스가 랜섬웨어, 맬웨어, 피싱 및 기타 위협으로부터 더 잘 보호됩니다.
+비즈니스용 Microsoft Defender 중소기업(최대 300명의 직원)을 위해 설계된 새로운 엔드포인트 보안 솔루션입니다. 비즈니스용 Defender는 독립 실행형 솔루션으로 사용할 수 있으며 Microsoft 365 Business Premium 일부로도 포함됩니다. 이 엔드포인트 보안 솔루션을 사용하면 SMB(중소기업) 조직 디바이스가 랜섬웨어, 맬웨어, 피싱 및 기타 위협으로부터 더 잘 보호됩니다.
 
 자세한 내용은 [비즈니스용 Microsoft Defender](/microsoft-365/security/defender-business) 참조하세요.
 
@@ -565,15 +565,19 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 규정 준수 및 F5 보안 & 
 
 비즈니스용 Microsoft Defender Microsoft 365 Business Premium 라이선스의 일부로 포함됩니다.  
 
-독립 실행형 버전의 비즈니스용 Defender는 미리 보기로 제공되며 올해 하반기에 일반 공급될 예정입니다. 자세한 내용은  [비즈니스용 Microsoft Defender 다운로드하는 방법을](/microsoft-365/security/defender-business/get-defender-business) 참조하세요.
+독립 실행형 버전의 비즈니스용 Defender는 최대 300명의 직원이 있는 중소기업(SMB)을 위한 옵션으로도 사용할 수 있습니다. 자세한 내용은  [비즈니스용 Microsoft Defender 다운로드하는 방법을](/microsoft-365/security/defender-business/get-defender-business) 참조하세요.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>사용자는 이 서비스를 통해 어떻게 혜택을 받을 수 있나요?
 
 [Microsoft 365 Business Premium 비즈니스용 Microsoft Defender](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/new-security-solutions-to-help-secure-small-and-medium/ba-p/3207043) 추가하면 플랫폼 간 엔드포인트 보호 및 정교한 랜섬웨어 방어와 같은 기술을 추가하여 비즈니스 Premium 기존 생산성 및 보안 제공이 강화됩니다. 엔드포인트 감지 및 응답 및 자동화된 조사 및 수정.
 
+독립 실행형 버전의 비즈니스용 Defender는 최대 300명의 직원이 있는 중소기업이 저렴한 가격으로 엔터프라이즈급 엔드포인트 보안 기술을 얻을 수 있는 옵션을 제공합니다. 
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>서비스는 어떻게 프로비전/배포되는가? 
 
-기본적으로 비즈니스용 Microsoft Defender 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. Microsoft 365 Business Premium 있는 경우 [Microsoft 365 Defender 포털](https://sip.security.microsoft.com/homepage)을 통해 비즈니스용 Defender에 액세스할 수 있습니다. 
+Microsoft 365 Business Premium 있는 경우 [Microsoft 365 Defender 포털](https://sip.security.microsoft.com/homepage)을 통해 비즈니스용 Defender에 액세스할 수 있습니다. 
+
+기본적으로 비즈니스용 Microsoft Defender 기능은 테넌트 내의 모든 사용자에 대해 테넌트 수준에서 사용하도록 설정됩니다. 비즈니스용 Defender를 설정하고 구성하는 방법에 대한 자세한 내용은 [비즈니스용 Microsoft Defender 설명서 | Microsoft Docs](/microsoft-365/security/defender-business).
 
 자세한 내용 및 추가 리소스에 대한 링크는 [비즈니스용 Microsoft Defender FAQ](/microsoft-365/security/defender-business/get-defender-business)를 검토하세요.
 
