@@ -9,12 +9,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 이 지침은 미국 연방 정부 기관 또는 정부 규정 및 요구 사항의 적용을 받는 데이터를 처리하는 기타 기관에서 Office 365 배포하는 IT 전문가를 위한 것입니다. 여기서 Microsoft 365 Government의 사용 – DoD는 이러한 요구 사항을 충족하는 데 적합합니다.
-ms.openlocfilehash: dfb160ff6b6cc2f10f0c414e3f5b8733ca2aff7b
-ms.sourcegitcommit: c2d2064d8fbebbe9843a4e824860e214b0b54c58
+ms.openlocfilehash: a9ea26dc85be2809407d04ccf17665314c6ab8ab
+ms.sourcegitcommit: e4bf187c926340f4afb68bfe51d38b303664ae00
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "65187459"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65218134"
 ---
 # <a name="plan-for-microsoft-purview-compliance-and-risk-management-solutions---dod-deployments"></a>Microsoft Purview 규정 준수 및 위험 관리 솔루션 계획 - DoD 구축
 
@@ -70,9 +70,11 @@ Microsoft 365 Government - DoD 환경은 클라우드 서비스에 대한 미국
 | 민감도 레이블 지정  | 통합 레이블 지정 클라이언트 및 스캐너 | 사용 가능  |
 | | SharePoint Online 문서 라이브러리에 업로드된 레이블이 지정되지 않은 파일에 "기본 레이블"을 적용합니다. | 개발 중 |
 | | 문서를 편집할 수 있도록 기본 레이블 정책 적용 | 개발 중 |
-| | Exchange Online, SharePoint Online 및 비즈니스용 OneDrive 대한 자동 분류 및 레이블 지정  | 사용 가능 |
-| | 플랫폼(웹, Android, iOS, Windows 및 Mac)에서 Office 앱(Word, Excel, PowerPoint, Outlook)에 대한 자동 분류 및 레이블 지정 | 사용 가능  |
-| | Office 클라이언트에 대한 자동 분류 및 레이블 지정(모바일) | 엔지니어링 백로그에서  |
+| | Exchange Online, SharePoint Online 및 OneDrive 대한 자동 분류 및 레이블 지정  | 사용 가능 |
+| | 플랫폼(웹, Android, iOS, Windows 및 Mac)에서 Office 앱(Word, Excel, PowerPoint, Outlook)에 대한 자동 분류 및 레이블 지정  | 사용 가능  |
+| | Office 클라이언트에 대한 자동 분류 및 레이블 지정(모바일)  | 엔지니어링 백로그에서  |
+| | Teams, Microsoft 365 그룹 SharePoint 사이트에 대한 자동 분류 및 레이블 지정 | 사용 가능  |
+| | 자동 레이블 지정 정책은 수동 레이블 덮어쓰기 및 모든 조직에서 받은 메일 암호화를 지원합니다. | 사용 가능  |
 | | Teams, Microsoft 365 그룹 및 SharePoint 사이트에 대한 자동 분류 및 레이블 지정  | 사용 가능  |
 | | 자동 레이블 지정 정책은 수동 레이블 덮어쓰기 및 모든 조직에서 받은 메일 암호화를 지원합니다. | 사용 가능  |
 | | Microsoft Information Protection 암호화 문서에 대한 공동 작성| 사용 가능  |
@@ -83,21 +85,21 @@ Microsoft 365 Government - DoD 환경은 클라우드 서비스에 대한 미국
 | | 수동 레이블  | 사용 가능  |
 | | Exchange Online 자동 레이블 지정에 대한 새로운 조건| 개발 중 |
 | | 민감도 레이블로 암호화된 PDF 파일을 검색하고 eDiscovered할 수 있습니다. | 엔지니어링 백로그에서 |
-| 분석  | 데이터 분류 분석: 개요 및 콘텐츠 탐색기 | 사용 가능 |
-| | Office 앱의 감사 및 분석 | 사용 가능 |
-| | 활동 탐색기에는 Power BI 민감도 레이블 데이터가 포함됩니다. | 사용 가능 |
-| | 활동 탐색기 기본 제공 필터 | 사용 가능 |
-| | 활동 탐색기 사용자 환경 개선 사항 | 개발 중 |
-| | 민감도 레이블 데이터를 Power BI 활동 탐색기 | 사용 가능 |
-| | 활동 탐색기 보안 판독기 역할이 업데이트됨 | 사용 가능 |
-| | 콘텐츠 탐색기에는 Teams 데이터가 포함됩니다. | 개발 중 |
-| | Office 앱/클라이언트 쪽에서 자동 레이블 지정이 있는 기계 학습 분류자  | 사용 가능 |
-| 암호화  | Microsoft Purview 메시지 암호화(E3) | 사용 가능 |
-| | Microsoft Purview 고객 키 | 사용 가능 |
-| | 고객 키: Microsoft 365 대한 미사용 데이터 암호화 | 사용 가능 |
-| | 고객 키: SharePoint Online 및 비즈니스용 OneDrive | 사용 가능 |
-| | 고객 관리형 키 프로비전 수명 주기를 위한 BYOK(Bring Your Own Key) | 사용 가능 |
-| | Microsoft Purview 이중 키 암호화 | 사용 가능 |
+| 분석 | 데이터 분류 분석: 개요 및 콘텐츠 탐색기 | 사용 가능 |
+|  | Office 앱의 감사 및 분석 | 사용 가능 |
+|  | 활동 탐색기에는 Power BI 민감도 레이블 데이터가 포함됩니다. | 사용 가능 |
+|  | 활동 탐색기 기본 제공 필터 | 사용 가능 |
+|  | 활동 탐색기 사용자 환경 개선 사항 | 개발 중 |
+|  | 민감도 레이블 데이터를 Power BI 활동 탐색기 | 사용 가능 |
+|  | 활동 탐색기 보안 판독기 역할이 업데이트됨 | 사용 가능 |
+|  | 콘텐츠 탐색기에는 Teams 데이터가 포함됩니다. | 개발 중 |
+|  | Office 앱/클라이언트 쪽에서 자동 레이블 지정이 있는 기계 학습 분류자 | 사용 가능 |
+| 암호화 | Microsoft Purview 메시지 암호화(E3) | 사용 가능 |
+|  | Microsoft Purview 고객 키 | 사용 가능 |
+|  | 고객 키: Microsoft 365 대한 미사용 데이터 암호화 | 사용 가능 |
+|  | 고객 키: SharePoint Online 및 비즈니스용 OneDrive | 사용 가능 |
+|  | 고객 관리형 키 프로비전 수명 주기를 위한 BYOK(Bring Your Own Key) | 사용 가능 |
+|  | Microsoft Purview 이중 키 암호화 | 사용 가능 |
 | | Microsoft 관리형 키를 사용하여 서비스 암호화 Exchange Online | 사용 가능 |
 | 데이터 손실 방지 | 경고 대시보드 및 경고 환경 | 사용 가능 |
 |  | 활동 탐색기에 표시된 데이터 | 사용 가능 |
@@ -268,19 +270,19 @@ Microsoft 365 Government - DoD 환경은 클라우드 서비스에 대한 미국
 | | 메일 전달 및 메일 보내기 이벤트 | 사용 가능 |
 | | Microsoft 365 보안 및 규정 준수 센터 | 사용 가능 |
 | | Exchange Online 및 SharePoint Online에서 용어 이벤트 검색 | 사용 가능 |
-| **규정 준수 상태** |  |  |
+| **규정 준수 상태** | | |
 | 준수 관리 | Microsoft Purview 규정 준수 포털 | 사용 가능 |
 | | Microsoft Purview 준수 관리자 | 사용 가능 |
-| | 준수 관리자: 경고 및 알림 | 개발 중 |
-| | 준수 관리자: 지속적인 규정 준수 평가 | 배포 중 |
-| | 규정 준수 관리자: Microsoft 365 아닌 자산에 대한 기본 평가 | 사용 가능 |
-| | 준수 관리자: 대량 평가 만들기에 권장되는 엔진 | 개발 중 |
+| | 경고 및 알림 | 개발 중 |
+| | 지속적인 규정 준수 평가 | 배포 중 |
+| | Microsoft 365 아닌 자산에 대한 기본 평가 | 사용 가능 |
+| | 대량 평가 만들기에 권장되는 엔진 | 개발 중 |
 | | 더블 바이트 문자 지원 | 사용 가능 |
 | | Microsoft Defender for Cloud Apps | 사용 가능 |
-| **생태계** |  |  |
-| 데이터 커넥터 | 자사 데이터 커넥터: HR  | 사용 가능 |
-| | 자사 데이터 커넥터: HR 1.2 | 사용 가능 |
-| | 자사 데이터 커넥터: 물리적 불량 | 사용 가능 |
+| **생태계** | | |
+| 데이터 커넥터  | 자사 데이터 커넥터: HR  | 사용 가능  |
+| | 자사 데이터 커넥터: HR 1.2  | 사용 가능   |
+| | 자사 데이터 커넥터: 물리적 불량  | 사용 가능   |
 | | eDiscovery용 Graph API(Premium) | 개발 중 |
 | | 레코드 관리를 위한 Graph API | 개발 중 |
 | | Teams 내보내기 데이터를 위한 API Graph | 개발 중 |
